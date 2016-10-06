@@ -1,3 +1,7 @@
+import csv
+import nltk
+import collections
+import pandas as pd
 import glob
 import random
 import re
@@ -8,7 +12,7 @@ class DocReader():
     def __init__(self):
         pass
 
-    def create_bag_of_words(self,filePaths):
+def create_bag_of_words(self,filePaths):
         '''
         Input:
           filePaths: Array. A list of absolute filepaths
@@ -16,17 +20,14 @@ class DocReader():
           bagOfWords: Array. All tokens in files
         '''
         bagOfWords = []
-        regex = re.compile("X-Spam.*\n")
         for filePath in filePaths:
-            with open(filePath, encoding ="latin-1") as f:
+            with io.open(filePath, encoding ="utf-8") as f:
                 raw = f.read()
-                raw = re.sub(regex,'',raw)
                 tokens = raw.split()
                 for token in tokens:
                     bagOfWords.append(token)
         return bagOfWords
-
-    def get_feature_matrix(self,filePaths, featureDict):
+def get_feature_matrix(self,filePaths, featureDict):
         '''
         create feature/x matrix from multiple text files
         rows = files, cols = features
@@ -34,19 +35,17 @@ class DocReader():
         featureMatrix = np.zeros(shape=(len(filePaths),
                                           len(featureDict)),
                                    dtype=float)
-        regex = re.compile("X-Spam.*\n")
         for i,filePath in enumerate(filePaths):
             with open(filePath, encoding ="latin-1") as f:
                 _raw = f.read()
-                raw = re.sub(regex,'',_raw)
-                tokens = raw.split()
+                tokens = _raw.split()
                 fileUniDist = Counter(tokens)
                 for key,value in fileUniDist.items():
                     if key in featureDict:
                         featureMatrix[i,featureDict[key]] = value
         return featureMatrix
 
-    def regularize_vectors(self,featureMatrix):
+def regularize_vectors(self,featureMatrix):
         '''
         Input:
           featureMatrix: matrix, where docs are rows and features are columns
@@ -59,11 +58,13 @@ class DocReader():
             featureMatrix[doc,:] = np.multiply(featureMatrix[doc,:],(1/totalWords))
         return featureMatrix
 
-    def input_data(self,hamDir,spamDir,percentTest,cutoff):
+def input_data(self,publicDir,internalDir,restrictedDir,highlyRestrictedDir,percentTest,cutoff):
         ''' 
         Input:
-          hamDir: String. dir of ham text files
-          spamDir: String. dir of spam text file
+          publicDir: String. dir of ham public files
+          internalDir: String. dir of spam internal file
+          restrictedDir: String. dir of restricted text file
+          highlyRestrictedDir: String. dir of highly restricted text file
           percentTest: Float. percentage of all data to be assigned to testset
         Returns:
           trainPaths: Array. Absolute paths to training emails
@@ -72,10 +73,14 @@ class DocReader():
           testY: Array. Testing labels, 0 or 1 int.
         '''
         pathLabelPairs={}
-        for hamPath in glob.glob(hamDir+'*'):
-            pathLabelPairs.update({hamPath:(0,1)})
-        for spamPath in glob.glob(spamDir+'*'):
-            pathLabelPairs.update({spamPath:(1,0)})
+        for publicPath in glob.glob(publicDir+'*'):
+            pathLabelPairs.update({publicPath:(1,0,0,0)})
+        for internalPath in glob.glob(internalDir+'*'):
+            pathLabelPairs.update({internalPath:(0,1,0,0)})
+        for restrictedPath in glob.glob(restrictedDir+'*'):
+            pathLabelPairs.update({restrictedPath:(0,0,1,0)})
+        for highlyRestrictedPath in glob.glob(highlyRestrictedDir+'*'):
+            pathLabelPairs.update({internalPath:(0,0,0,1)})
 
         # get test set as random subsample of all data
         numTest = int(percentTest * len(pathLabelPairs))
@@ -123,31 +128,27 @@ class DocReader():
         trainY = np.asarray(trainY)
         testY = np.asarray(testY)
 
+        
         return trainX, trainY, testX, testY
 
 
-def parse_user_args():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-ham','--hamDir')
-    parser.add_argument('-spam','--spamDir')
-    args = parser.parse_args()
-    return args
 
 
+
+    
 if __name__ == '__main__':
     import sys, argparse
     # get user input
-    args = parse_user_args()
-    hamDir = args.hamDir
-    spamDir= args.spamDir
-
+   
     reader = DocReader()
     
-    trainX,trainY,testX,testY = reader.input_data(hamDir=hamDir,
-                                                  spamDir=spamDir,
+    trainX,trainY,testX,testY = reader.input_data('data/public',
+                                                  'data/internal',
+                                                  'data/restricted',
+                                                  'data/highlyRestricted',
                                                   percentTest=.1,
                                                   cutoff=15)
-
+    
     print(trainX.shape)
     print(trainY.shape)    
     print(testX.shape)
@@ -160,3 +161,4 @@ if __name__ == '__main__':
 
     print(trainX[:10,:])
     print(trainY[:10,:])
+    
