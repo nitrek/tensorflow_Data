@@ -224,7 +224,7 @@ print("final accuracy on test set: %s" %str(sess.run(accuracy_OP,
                                                      feed_dict={X: testX, 
                                                                 yGold: testY})))
 
-Now that we have a trained logistic regression model for email classification, let’s save it (i.e. save the weights and biases) so that we can use it again.
+Now that we have a trained logistic regression model for email classification, letâ€™s save it (i.e. save the weights and biases) so that we can use it again.
 
 ##############################
 ### SAVE TRAINED VARIABLES ###
