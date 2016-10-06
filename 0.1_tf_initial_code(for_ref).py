@@ -1,3 +1,5 @@
+#code ref : http://jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html
+
 from __future__ import division
 import tensorflow as tf
 import numpy as np
