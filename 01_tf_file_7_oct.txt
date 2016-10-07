@@ -1,0 +1,51 @@
+import tensorflow as tf
+
+f=open('data/cloumnSize.txt');   #get the length of cloumn from cloumnSize.txt
+cloumnSize =f.read()
+f.close() 
+
+x = tf.placeholder(tf.float32, [None,cloumnSize])
+y = tf.placeholder(tf.float32, [None,4])
+
+W = tf.Variable(tf.zeros([cloumnSize,4]))
+b = tf.variable(tf.zeros([4]))
+
+#implementing the model 
+
+y_predicted = tf.nn.softmax(tf.matmul(x, W) + b)
+
+#training
+
+cross_entropy = tf.reduce_mean(-tf.reduce_sum(y*tf.log(y_predicted), reduction_indices=[1]))
+
+#optimization algo = gradientDescentOptimizer  leARNING RATE =0.5
+train_step = tf.train.GradientDescentOptimizer(0.5).minimize(cross_entropy)
+
+
+
+init = tf.initialize_all_variables()
+
+#launching the model in the session
+sess = tf.Session()
+sess.run(init)
+
+
+#train the data
+
+for i in range(1000):
+  batch_xs, batch_ys = mnist.train.next_batch(100)
+  sess.run(train_step, feed_dict={x: batch_xs, y: batch_ys})
+
+#evaluating the model and seeing the accuracy
+correct_prediction = tf.equal(tf.argmax(y_predicted,1), tf.argmax(y,1))
+
+accuracy = tf.reduce_mean(tf.cast(correction_prediction, tf.float32))
+
+print(sess.run(accuracy, feed_duct={x: }))
+
+
+
+
+
+
+
