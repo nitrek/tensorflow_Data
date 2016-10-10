@@ -54,7 +54,7 @@ def print_out_word_matrix():
         writer.writerow(first_row)
         count = 0
         for f in f_names:
-            row = [f.split("/")[0]]
+            row = [f.split("/")[-1]]
             for word in words:
                 row.append(freqs[count][word])
             writer.writerow(row)

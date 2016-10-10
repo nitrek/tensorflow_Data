@@ -1,5 +1,8 @@
 category,public,internal,restricted,highly_restricted
 f1.txt,1,0,0,0
+somefile.txt,0,1,0,0
 f2.txt,0,1,0,0
+random.txt,0,0,1,0
 f3.txt,0,0,1,0
 f4.txt,0,0,0,1
+another_random.txt,0,0,0,1
