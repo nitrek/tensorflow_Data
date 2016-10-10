@@ -66,7 +66,7 @@ def print_out_file_matrix():
         first_row = ["category"] + categories
         writer.writerow(first_row)
         for file in f_names:
-            row = [file.split("/")[0]]
+            row = [file.split("/")[-1]]
             if f_types[file] == "p":
                 row += [1,0,0,0]
             elif f_types[file] == "i":

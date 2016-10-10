@@ -1,5 +1,5 @@
 category,public,internal,restricted,highly_restricted
-public,1,0,0,0
-internal,0,1,0,0
-restricted,0,0,1,0
-highly_restricted,0,0,0,1
+f1.txt,1,0,0,0
+f2.txt,0,1,0,0
+f3.txt,0,0,1,0
+f4.txt,0,0,0,1
