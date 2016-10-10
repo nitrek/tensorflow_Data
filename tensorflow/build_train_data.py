@@ -7,7 +7,7 @@ f_names = []
 f_types = {}
 categories = ["public", "internal", "restricted", "highly_restricted"]
 for category in categories:
-    directory = "test/" + category
+    directory = "train/" + category
     filenames = os.listdir(directory)
     for file in filenames:
         f_name = os.path.join(directory, file)
@@ -47,8 +47,8 @@ def build_set():
         freqs.append(Counter(l))
         words.update(l)
 
-def print_out_trainX():
-    with open("testX.csv", "w") as output:
+def print_out_word_matrix():
+    with open("trainX.csv", "w") as output:
         writer = csv.writer(output, lineterminator='\n')
         # first_row = ['file'] + list(words)
         # writer.writerow(first_row)
@@ -62,8 +62,8 @@ def print_out_trainX():
             writer.writerow(row)
             count+=1
 
-def print_out_trainY():
-    with open("testY.csv", "w") as output:
+def print_out_file_matrix():
+    with open("trainY.csv", "w") as output:
         writer = csv.writer(output, lineterminator='\n')
         # first_row = ["category"] + categories
         # writer.writerow(first_row)
@@ -81,5 +81,5 @@ def print_out_trainY():
             writer.writerow(row)
 
 build_set()
-print_out_trainX()
-print_out_trainY()
+print_out_word_matrix()
+print_out_file_matrix()
