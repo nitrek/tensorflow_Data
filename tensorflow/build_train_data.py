@@ -7,6 +7,11 @@ f_names = []
 f_types = {}
 no_of_words = []
 
+# new_str = re.sub('[^a-zA-Z\n\.]', ' ', string)  #removed special sym and numbers
+# new_str = re.sub('[\n]', ' ', new_str)    #removed new line
+# new_str = re.sub('[ ]+', ' ', new_str) 
+
+
 categories = ["public", "internal", "restricted", "highly_restricted"]
 for category in categories:
     directory = "train/" + category
@@ -33,7 +38,10 @@ for category in categories:
 # f_names= ['data2','data3','data4', 'data3']
 freqs = []
 def get_list(data):
-    return re.compile('\w+').findall(data)
+    # print len(re.compile('\w+').findall(data))
+    return re.findall(r"(?i)\b[a-z]+\b", data)
+    # new_str = re.sub('[^a-z]', ' ', string)  #removed special sym and numbers
+    # new_str = re.sub('[ ]+', ' ', new_str)
 
 def get_data(fname):
     f = open(fname)
@@ -46,6 +54,7 @@ words = set()
 def build_set():
     for f in f_names:
         l = get_list(get_data(f))
+        # print "from new->"+ str(len(l))
         no_of_words.append(len(l))
         freqs.append(Counter(l))
         words.update(l)

@@ -33,7 +33,8 @@ for category in categories:
 # f_names= ['data2','data3','data4', 'data3']
 freqs = []
 def get_list(data):
-    return re.compile('\w+').findall(data)
+    return re.findall(r"(?i)\b[a-z]+\b", data)
+    # return re.compile('\w+').findall(data)
 
 def get_data(fname):
     f = open(fname)
@@ -62,6 +63,7 @@ def print_out_trainX():
             # row = [f.split("/")[-1]]
             for word in words:
                 row.append(freqs[count][word]/float(no_of_words[count]))
+                # row.append('%e' % (freqs[count][word]/float(no_of_words[count])))
             writer.writerow(row)
             count+=1
 
@@ -81,6 +83,13 @@ def print_out_trainY():
                 row += [0.0,0.0,1.0,0.0]
             else:
                 row += [0.0,0.0,0.0,1.0]
+            #     row += ['%e' % 1.0,'%e' % 0.0,'%e' % 0.0,'%e' % 0.0]
+            # elif f_types[file] == "i":
+            #     row += ['%e' % 0.0,'%e' % 1.0,'%e' % 0.0,'%e' % 0.0]
+            # elif f_types[file] == "r":
+            #     row += ['%e' % 0.0,'%e' % 0.0,'%e' % 1.0,'%e' % 0.0]
+            # else:
+            #     row += ['%e' % 0.0,'%e' % 0.0,'%e' % 0.0,'%e' % 1.0]
             writer.writerow(row)
 
 build_set()
