@@ -1,5 +1,10 @@
+from __future__ import division
 import tensorflow as tf
 import numpy as np
+import tarfile
+import os
+import matplotlib.pyplot as plt
+import time
 
 def csv_to_numpy_array(filePath, delimiter):
     return np.genfromtxt(filePath, delimiter=delimiter, dtype=None)
@@ -53,3 +58,87 @@ activation_OP = tf.nn.sigmoid(add_bias_OP, name="activation")
 cost_OP = tf.nn.l2_loss(activation_OP-yGold, name="squared_error_cost")
 
 training_OP = tf.train.GradientDescentOptimizer(learningRate).minimize(cost_OP)
+
+
+epoch_values=[]
+accuracy_values=[]
+cost_values=[]
+# Turn on interactive plotting
+plt.ion()
+# Create the main, super plot
+fig = plt.figure()
+# Create two subplots on their own axes and give titles
+ax1 = plt.subplot("211")
+ax1.set_title("TRAINING ACCURACY", fontsize=18)
+ax2 = plt.subplot("212")
+ax2.set_title("TRAINING COST", fontsize=18)
+plt.tight_layout()
+
+
+sess = tf.Session()
+
+sess.run(init_OP)
+
+## Ops for vizualization
+# argmax(activation_OP, 1) gives the label our model thought was most likely
+# argmax(yGold, 1) is the correct label
+correct_predictions_OP = tf.equal(tf.argmax(activation_OP,1),tf.argmax(yGold,1))
+
+accuracy_OP = tf.reduce_mean(tf.cast(correct_predictions_OP, "float"))
+
+# Summary op for regression output
+activation_summary_OP = tf.histogram_summary("output", activation_OP)
+
+# Summary op for accuracy
+accuracy_summary_OP = tf.scalar_summary("accuracy", accuracy_OP)
+
+# Summary op for cost
+cost_summary_OP = tf.scalar_summary("cost", cost_OP)
+
+# Summary ops to check how variables (W, b) are updating after each iteration
+weightSummary = tf.histogram_summary("weights", weights.eval(session=sess))
+biasSummary = tf.histogram_summary("biases", bias.eval(session=sess))
+
+# Merge all summaries
+all_summary_OPS = tf.merge_all_summaries()
+
+# Summary writer
+writer = tf.train.SummaryWriter("summary_logs", sess.graph_def)
+
+cost = 0
+diff = 1
+
+# Training epochs
+for i in range(numEpochs):
+    if i > 1 and diff < .0001:
+        print("change in cost %g; convergence."%diff)
+        break
+    else:
+        step = sess.run(training_OP, feed_dict={X: trainX, yGold: trainY})
+        if i % 10 == 0:
+            epoch_values.append(i)
+            summary_results, train_accuracy, newCost = sess.run(
+                [all_summary_OPS, accuracy_OP, cost_OP], 
+                feed_dict={X: trainX, yGold: trainY}
+            )
+            accuracy_values.append(train_accuracy)
+            cost_values.append(newCost)
+            writer.add_summary(summary_results, i)
+            diff = abs(newCost - cost)
+            cost = newCost
+            print("step %d, training accuracy %g"%(i, train_accuracy))
+            print("step %d, cost %g"%(i, newCost))
+            print("step %d, change in cost %g"%(i, diff))
+
+            accuracyLine, = ax1.plot(epoch_values, accuracy_values)
+            costLine, = ax2.plot(epoch_values, cost_values)
+            fig.canvas.draw()
+            time.sleep(1)
+
+
+print("final accuracy on test set: %s" %str(sess.run(accuracy_OP, 
+                                                     feed_dict={X: testX, 
+                                                                yGold: testY})))
+
+saver = tf.train.Saver()
+sess.close()
