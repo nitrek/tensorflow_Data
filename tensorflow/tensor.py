@@ -14,8 +14,8 @@ def import_data():
     trainX = csv_to_numpy_array("trainX.csv", delimiter=",")
     trainY = csv_to_numpy_array("trainY.csv", delimiter=",")
     print("loading test data")
-    testX = csv_to_numpy_array("testX.csv", delimiter="\t")
-    testY = csv_to_numpy_array("testY.csv", delimiter="\t")
+    testX = csv_to_numpy_array("testX.csv", delimiter=",")
+    testY = csv_to_numpy_array("testY.csv", delimiter=",")
     return trainX,trainY,testX,testY
 
 trainX,trainY,testX,testY = import_data()
@@ -25,7 +25,7 @@ numFeatures = trainX.shape[1]
 
 numLabels = trainY.shape[1]
 
-numEpochs = 1000
+numEpochs = 2000
 
 learningRate = tf.train.exponential_decay(learning_rate=0.0008,
                                           global_step= 1,
@@ -136,9 +136,7 @@ for i in range(numEpochs):
             time.sleep(1)
 
 
-print("final accuracy on test set: %s" %str(sess.run(accuracy_OP, 
-                                                     feed_dict={X: testX, 
-                                                                yGold: testY})))
+# print("final accuracy on test set: %s" %str(sess.run(accuracy_OP, feed_dict={X: testX, yGold: testY})))
 
 saver = tf.train.Saver()
 sess.close()
