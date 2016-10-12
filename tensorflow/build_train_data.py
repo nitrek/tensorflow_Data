@@ -5,6 +5,8 @@ import os
 
 f_names = []
 f_types = {}
+no_of_words = []
+
 categories = ["public", "internal", "restricted", "highly_restricted"]
 for category in categories:
     directory = "train/" + category
@@ -44,6 +46,7 @@ words = set()
 def build_set():
     for f in f_names:
         l = get_list(get_data(f))
+        no_of_words.append(len(l))
         freqs.append(Counter(l))
         words.update(l)
 
@@ -58,7 +61,7 @@ def print_out_word_matrix():
             row = []
             # row = [f.split("/")[-1]]
             for word in words:
-                row.append(freqs[count][word])
+                row.append(freqs[count][word]/float(no_of_words[count]))
             writer.writerow(row)
             count+=1
 
@@ -71,13 +74,13 @@ def print_out_file_matrix():
             row = []
             # row = [file.split("/")[-1]]
             if f_types[file] == "p":
-                row += [1,0,0,0]
+                row += [1.0,0.0,0.0,0.0]
             elif f_types[file] == "i":
-                row += [0,1,0,0]
+                row += [0.0,1.0,0.0,0.0]
             elif f_types[file] == "r":
-                row += [0,0,1,0]
+                row += [0.0,0.0,1.0,0.0]
             else:
-                row += [0,0,0,1]
+                row += [0.0,0.0,0.0,1.0]
             writer.writerow(row)
 
 build_set()
