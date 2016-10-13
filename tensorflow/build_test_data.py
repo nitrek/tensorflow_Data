@@ -53,7 +53,7 @@ def build_set():
 
 def print_out_trainX():
     with open("testX.csv", "w") as output:
-        writer = csv.writer(output, lineterminator='\n')
+        writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
         # first_row = ['file'] + list(words)
         # writer.writerow(first_row)
         count = 0
@@ -69,7 +69,7 @@ def print_out_trainX():
 
 def print_out_trainY():
     with open("testY.csv", "w") as output:
-        writer = csv.writer(output, lineterminator='\n')
+        writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
         # first_row = ["category"] + categories
         # writer.writerow(first_row)
         for file in f_names:

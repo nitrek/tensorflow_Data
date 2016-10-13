@@ -61,7 +61,7 @@ def build_set():
 
 def print_out_word_matrix():
     with open("trainX.csv", "w") as output:
-        writer = csv.writer(output, lineterminator='\n')
+        writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
         # first_row = ['file'] + list(words)
         # writer.writerow(first_row)
         count = 0
@@ -71,12 +71,13 @@ def print_out_word_matrix():
             # row = [f.split("/")[-1]]
             for word in words:
                 row.append(freqs[count][word]/float(no_of_words[count]))
+            print len(row)
             writer.writerow(row)
             count+=1
 
 def print_out_file_matrix():
     with open("trainY.csv", "w") as output:
-        writer = csv.writer(output, lineterminator='\n')
+        writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
         # first_row = ["category"] + categories
         # writer.writerow(first_row)
         for file in f_names:

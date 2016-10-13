@@ -11,11 +11,11 @@ def csv_to_numpy_array(filePath, delimiter):
 
 def import_data():
     print("loading training data")
-    trainX = csv_to_numpy_array("trainX.csv", delimiter=",")
-    trainY = csv_to_numpy_array("trainY.csv", delimiter=",")
+    trainX = csv_to_numpy_array("trainX.csv", delimiter="\t")
+    trainY = csv_to_numpy_array("trainY.csv", delimiter="\t")
     print("loading test data")
-    testX = csv_to_numpy_array("testX.csv", delimiter=",")
-    testY = csv_to_numpy_array("testY.csv", delimiter=",")
+    testX = csv_to_numpy_array("testX.csv", delimiter="\t")
+    testY = csv_to_numpy_array("testY.csv", delimiter="\t")
     return trainX,trainY,testX,testY
 
 trainX,trainY,testX,testY = import_data()
@@ -25,7 +25,7 @@ numFeatures = trainX.shape[1]
 
 numLabels = trainY.shape[1]
 
-numEpochs = 2000
+numEpochs = 5000
 
 learningRate = tf.train.exponential_decay(learning_rate=0.0008,
                                           global_step= 1,
