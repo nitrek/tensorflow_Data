@@ -25,7 +25,7 @@ numFeatures = trainX.shape[1]
 
 numLabels = trainY.shape[1]
 
-numEpochs = 2000
+numEpochs = 1000
 
 # learningRate = tf.train.exponential_decay(learning_rate=0.0008,
 #                                           global_step= 1,
@@ -84,7 +84,7 @@ plt.tight_layout()
 sess = tf.Session()
 
 sess.run(init_OP)
-
+print testX.shape, testY.shape
 ## Ops for vizualization
 # argmax(activation_OP, 1) gives the label our model thought was most likely
 # argmax(yGold, 1) is the correct label

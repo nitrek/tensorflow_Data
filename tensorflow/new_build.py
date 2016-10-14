@@ -3,6 +3,7 @@ import random
 import re
 from collections import Counter
 import numpy as np
+import csv
 
 class DocReader():
     def __init__(self):
@@ -158,7 +159,7 @@ if __name__ == '__main__':
                                                   internalDir=internalDir,
                                                   restrictedDir=restrictedDir,
                                                   highlyRestrictedDir=highlyRestrictedDir,
-                                                  percentTest=.1,
+                                                  percentTest=.3,
                                                   cutoff=15)
 
     print(trainX.shape)
@@ -166,10 +167,28 @@ if __name__ == '__main__':
     print(testX.shape)
     print(testY.shape)    
 
-    np.savetxt("trainX.csv", trainX, delimiter="\t")
-    np.savetxt("trainY.csv", trainY, delimiter="\t")
-    np.savetxt("testX.csv", testX, delimiter="\t")
-    np.savetxt("testY.csv", testY, delimiter="\t")
+    # np.savetxt("trainX.csv", trainX, delimiter="\t", newline="\n")
+    # np.savetxt("trainY.csv", trainY, delimiter="\t", newline="\n")
+    # np.savetxt("testX.csv", testX, delimiter="\t", newline="\n")
+    # np.savetxt("testY.csv", testY, delimiter="\t", newline="\n")
+
+    with open("trainX.csv", "w") as output:
+        writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
+        for el in trainX:
+            writer.writerow(el)
+    with open("trainY.csv", "w") as output:
+        writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
+        for el in trainY:
+            writer.writerow(el)
+    with open("testX.csv", "w") as output:
+        writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
+        for el in testX:
+            writer.writerow(el)
+    with open("testY.csv", "w") as output:
+        writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
+        for el in testY:
+            writer.writerow(el)
+        
 
     print(trainX[:10,:])
     print(trainY[:10,:])
