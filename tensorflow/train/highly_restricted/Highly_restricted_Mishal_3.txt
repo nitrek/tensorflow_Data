@@ -1,0 +1,411 @@
+1 Part I – BackgroundTraditionally, trading is done by manual operation, which requires a trader to open or close position by hand, or at least calling a broker to do so. Benjamin Graham once mentioned that many great investors with outstanding investment records always repeat that investor’s largest enemy is himself. Warren Buffett also said that a successful investor is one that has the right temperament and the right psychology. As we all know, manual trading is not only vulnerable to traders’ psychological and emotional fluctuation, but also very inefficient in terms of trading speed and convenience.Due to the advance of computing technology, now almost all financial assets can be electronically traded. Automated trading system takes advantage of computers to develop and test strategies and to trade financial assets automatically. It can help novice traders to avoid emotional trading and also help experienced traders to make trading more efficient and systematic. It has been widely used in financial industry and become indispensable for many investors. On the other hand, automatic trading makes market more liquid and reduces trading cost accordingly.In recent years, online trading platform also becomes a hot spot of financial engineering innovation. Many financial Technology companies, such as Quantopian, Quantconnect, Motif Investing, have raised considerable funds from Wall Street. Hedge funds like WorldQuant also provide online simulation and trading environment for individual traders. Some of these platforms are beautifully designed and very user friendly. But when you backtest your strategies, they are actually running on the servers, hence totally transparent to the company. To avoid the risk of exposing the strategies, it is safer to do research in local machine and trade through reliable brokers or DMA. In addition, in the online platforms, data are transferred in Internet with HTTP protocol, which may be OK for low frequency trading but not efficient or feasible for high frequency trading.Sentosa is named after the most popular island resort in Singapore. The languages I used to write Sentosa includes C++, Python, R, Go and Javascript. The project is hosted at www.Quant365.com, where you can download source code and follow all the updates.There are three subprojects in Sentosa:Sentosa Trading SystemSentosa trading system is a multithread, message driven, highly scalable, high frequency automatic trading system. The latency can be as low as 100 milliseconds, dependent on the distance between you and trading venue servers. Currently, the trading venue is IB, so an IB account is required. With modular design, it can be extended easily to support other trading venues. The algorithm module can be written with any language supporting either nanomsg or websocket protocol. I have implemented language binding for Python, R for an illustration purpose. It is very easy to add other language support like Java, MATLAB, Haskell, Go, C# etc. The market data module subscribes to trade and quote(TAQ) data, so in some literature or book, Sentosa trading system should be categorized as technical automatic trading system, as a contrast with fundamental automatic trading system, where the system mainly uses fundamentals as trading signal. I don’t think this categorization makes much sense because signal is just a result of algorithm module and anything can be a signal: technical indicator, fundamental ratio, macroeconomic index, social media news, Google trends etc.Sentosa Research PlatformSentosa research platform is essentially an interactive computing environment based on Jupyter. I will demonstrate how to use R and Python to do volatility research in the platform later.Sentosa Web ApplicationIn addition, I also developed a web platform for Sentosa with Django and Tornado, by which you can monitor Sentosa and send orders using web interface.I used Sentosa to do research and trading for myself. Although it can be used for real trading, here I disclaim all the responsibilities of any loss of any trade through Sentosa. But if it had helped you make money, I don’t mind to be treated a cup of coffee. Sentosa is an ongoing project and more features will be added in the future. I will also discuss the future direction of each subproject.2 Part II – Sentosa Trading System2.1 Design OverviewWhen designing Sentosa trading system, my emphasis is on its configurability, modularity and scalability. In folder ~/.sentosa, there is a YAML-format configuration file named sentosa.yml, which you can use to customize the system. The only requirement is you need to set your own IB account in the global section for paper or real trading.Sentosa trading system is mainly composed of five modules: market data module, OMS module, algorithm module, record module and simulation module. These modules are purposely decoupled and communications are all through messaging system. The trading system also has four running modes: record, trade, simulation and merlion, which represent different combination of the five modules.Figure 1 is the program workflow graph of Sentosa trading system. Workflow of Sentosa Trading System2.1.1 Running ModeSentosa can be running at four modes which is define as follows:Record ModeDo not trade, just to record all the market information into a simulation file for future usage.Trade ModeLaunch all Sentosa modules and trade.Simulation Mode or Backtesting ModeReplay historical scenario. This is to backtest your algorithm in a simulation environment.Merlion Modemerlion mode is the same as trade mode except that it does not generate simulation file. You cannot replay you current trading session as you have no simulation file generated.The running mode can be configured in global section in sentosa.yml.2.1.2 Multithreads and Messaging SystemSentosa is a multithread application implemented with C++14 threads. All the threads are created in heap and the pointers are stored in a vector. Initially I developed Sentosa in Windows platform and used ZMQ as internal messaging protocol. But when I was trying to port it to Linux, ZMQ did not work well with threads in Linux. ZMQ created more than ten threads automatically and it messed up with IB’s threads somehow. I filed ZMQ bug report and so far it has yet been solved.Nanomsg is created as a better alternative to ZMQ by the same author. It is simpler to use and has no such issue in multithread environment. I replaced all ZMQ code with nanomsg and chose nanomsg as my internal messaging protocol.2.1.3 ModulesWith nanomsg as the internal messaging protocol, I decouple the system into five basic modules: market data module, order management system module, algorithm module, record module and simulation module. These modules coexist in one process but in different threads. They communicate with messaging system and can be turned off and on according to the four running modes described above. Modular design makes the system scalable and easier for future development.The first three modules represent the three most basic components of an automatic trading system. In the following sections, I will describe these three modules one by one.2.2 Market Data Module2.2.1 Introduction of Market DataMarket data module is one of the most important components of a trading system. Generally, market data include tick level information about prices and size of bid, ask, completed trades. Different data vendors sometimes provide extra information like tag, exchange name. There are two levels of market data according to the information it provides.Level 1 market dataLevel 1 market data provide the most basic information, which includes bid/ask price and size, and the last traded price and size. From the order book point of view, these information are from the top of the book, so level 1 market data also known as top-of-book data.Level 2 market dataLevel 2 market data, also called order book or market depth, provide extra information of partial or whole order book. The order book has two long queues of bid and ask orders respectively. The queues cancel each other at the top and grow when new limit order comes in. The length of the queue is called the depth of order book. The order book changes very fast for liquid stocks so the information can be overwhelmingly huge.Most individual traders use Level 1 market data. Level 2 market data are crucial for day traders, especially low latency high frequency traders. There are many academic researches on level 2 market data in recent years.IB has its own way to deliver market data. Loosely speaking, IB provides both level 1 and level 2 market data. reqMktData is to request level 1 market data. reqMktDepth is to request level 2 market data. In addition to the raw data, IB also provides real time bar data via function reqRealTimeBars. The real time bar data, like the historical bar data, also provide open, high, close, low(OHCL) prices, volume weighted average price(VWAP) and trade count information.Please be noted that IB doesn’t provide true tick level data. The market data are actually consolidated every 300 milliseconds or so and sent back to client upon request. As we are not doing ultra-low latency trading and not considering the tick level dynamics, a combination of level 1 data and 5 seconds real time bar data should be enough.2.2.2 ThreadsIn Sentosa trading system, market data module involves the following threads:2.2.2.1 Thread_MKDataTickThread_MKDataTick connects to IB to request two kinds of data:IB’s tick level real time market data (by reqMktData)IB’s 5 seconds real time TRADE bar data (by reqRealTimeBars)Upon data sent back from IB, data are sent to thread Thread_UpdateSboard to update scoreboard, a global data structure implemented as a singleton in scoreboard.h/cpp.2.2.2.2 Thread_MKDepthGet level 2 market data by calling IB API ReqMkDepth(). TWS currently limits users to a maximum of 3 distinct market depth requests. This same restriction applies to API clients, however API clients may make multiple market depth requests for the same security. Due to this limitation, many algorithms involving order book dynamics cannot be used.2.2.2.3 Thread_UpdateSboardThis thread is to update scoreboard upon the market data message.When Sentosa trading system is running at simulation mode, the market data can be from a simulation file, aka replay file.2.3 Algorithm ModuleSentosa trading system provides a framework for traders to write their strategies. This framework is called algorithm module. This module communicates with OMS module through messaging system. Not many traders are programming experts, but in order to implement their strategies, they know how to use programming languages to write trading algorithms. The most frequently used languages by traders include R, Matlab, Python and VBA(Excel). Sentosa trading system is a message driven system and designed with multiple languages support in mind. As long as one language supports nanomsg or websocket, it can be used to write trading algorithm.Currently Senotsa supports algorithm module written in three languages, including C++, Python and R. These three languages represent three ways how algorithm module works in Sentosa.2.3.1 C++Traders using C++ mostly have strong programming skills and higher requirement with trading system’s performance and speed. In Sentosa trading system, algorithm module is built into a static library and then used to generate the final executable binary.All algorithms in Sentosa trading system inherit from an abstract base class AlgoEngine. Factory pattern is used to create algorithm objects:unique_ptr<AlgoEngine> algoFac(const string& _algo){
+  if(boost::iequals(_algo, "ta_indicator_raffles")){
+    return make_unique<SingleTAIndicatorStrat1>();
+  }
+  if (boost::iequals(_algo, "pair_trading_clementi")){
+    return make_unique<PairTradingStrat1>();
+  }
+  return nullptr;
+}In Sentosa configuration file sentosa.yml, there is a strategy section to specify you strategy name and trading universe. Take the following as an example:strategies:
+  ta_indicator_raffles: [SINA, ATHM, SOHU, YY, WB, RENN, CYOU, QUNR, SPY, FXI]It means there is a strategy called ta_indicator_raffles and the trading universe includes 10 stocks/ETFs(SINA, ATHM…FXI).I name the strategy ta_indicator_raffles for an illustration purpose so that you can see this is a strategy using Technical Analysis. In real trading, traders normally give their strategies totally irrelevant names.Technical analysis(TA) indicators are extremely popular with individual traders. They normally use it in low frequency trading. There are many rules of thumb for TA indicators, which are only applicable in low frequency trading environment. For high frequency trading, you may need to do some adjustment. Take RSI(Relative Strength Index), an extremely popular indicator developed by J. Welles Wilder Jr., as an example:RSI is defined as RSI=100−100/(1+RS)
+
+ where  RS=AverageGain/AverageLoss
+
+According to Wilder, RSI is considered overbought when above 70 and oversold when below 30. If using 15 seconds bar data, for stocks trading not so frequently, RSI can become very high or low because there are many periods without price change. There are two solutions. The first one is to use more time periods so that Average Gain or Average Loss is not equal to 0. Another solution is to set RSI equal to 50 if the price changes are too few. In other words, the momentum is not obvious when there is no price change information, so we just give it a value of 50. The following is a C++ implementation of the second idea - if number of price changes is less than 10, just set RSI to 50.double getRSI(double* p, uint32_t sz){
+  vector<double> vd(p, p + sz);
+  auto i = std::unique(vd.begin(), vd.end());
+  uint32_t m = distance(vd.begin(), i);
+  if (m <= 10){
+    return 50.;
+  }
+  int ob, n, endIndex;
+  double result{ .0 };
+  endIndex = sz - 1;
+  TA_RSI(0, endIndex, p, sz - 1, &ob, &n, &result);
+  return result;
+}Some TA indicators working well in low frequency trading do not work at all in high frequency trading. One reason is the market data, like TAQ, is not enough in high frequency, especially for assets with low liquidity. Another reason is that market noise is significant, sometimes dominant, in high frequency trading. Too much unpredicted factors will make the real price trend unclear. In this case, more research and backtesting are needed to find out what the real value of the trading asset is and after how long the noise will disappear.There is a TA library called ta-lib written in C++ and also available in other languages like Python, Go. Sentosa includes a development version of ta-lib version 0.6.0dev. You can also download ta-lib version 0.4 from http://ta-lib.org, which is more stable but with less TA indicators.2.3.2 PythonTraders using Python do not have very high requirement on the execution speed and system performance. I developed a Python package called Pysentosa which uses nanomsg protocol to connect to market data module and websocket protocol to connect to OMS. A demo code is like the following:from pysentosa import Merlion
+from ticktype import *
+
+m = Merlion()
+target = 'SPY'
+m.track_symbol([target, 'BITA'])
+bounds = {target: [220, 250]}
+while True:
+  symbol, ticktype, value = m.get_mkdata()
+  if symbol == target:
+    if ticktype == ASK_PRICE and value < bounds[symbol][0]:
+        oid = m.buy(symbol, 50)
+        while True:
+            ord_st = m.get_order_status(oid)
+            print ORDSTATUS[ord_st]
+            if ord_st == FILLED:
+                bounds[symbol][0] -= 20
+                break
+            sleep(2)
+    elif ticktype == BID_PRICE and value > bounds[symbol][1]:
+        oid = m.sell(symbol, 100)
+        bounds[symbol][1] += 20This code demonstrates a simple algorithm:Set a price range with lower bound equal to 220 and upper bound equal to 250. If SPY’s ask price is lower than 220, try to buy 50 shares. If the BUY order get filled, decrease the lower bound by 20, and wait to buy 50 shares until the ask price hit below 200. But if the bid price is greater than the upper bound value, send a SELL order of 100 shares SPY. If get filled, increase the upper bound by 20 and wait to sell until the bid price hit beyond the new upper bound value 270. This algorithm can be used to split big order for institutional traders.Not only is Pysentosa a message interface of Sentosa, it includes a Sentosa trading system runtime. I use boost.python to wrap Sentosa trading system into a dynamic library and it will be run as a daemon when you create a Merlion object. In another words, Pysentosa is a complete full featured trading system.2.3.3 RIn contrast with Pysentosa, I also developed rsentosa with R language, which is to demonstrate another way to use Sentosa. rsentosa is for traders using R language, who normally have strong statistics background. rsentosa use nanomsg protocol to communicate with both OMS and market data module. The demo code is as follows:library(rsentosa)
+
+init_sentosa()
+subscribe_mkd()
+connect_oms()
+
+track_symbol(c('SPY','BITA'))
+lower_bound = 220
+while (1){
+  v = get_mkdata()
+  symbol = v[[1]]
+  tktype = v[[2]]
+  value  = v[[3]]
+  cat(symbol,tktype,value,"\n")
+  if (symbol == 'SPY'){
+    if (tktype==BID_PRICE && as.double(value)<lower_bound){
+      oid = buy(symbol, 50)
+      while (1){
+        ord_st = get_order_status(oid)
+        cat('order status:',get_orderst_str(ord_st),"\n")
+        if (ord_st==FILLED || ord_st==CANCELLED){
+          break;
+        }
+        Sys.sleep(2)
+      }
+      if (ord_st==FILLED){lower_bound = lower_bound - 20;}
+    }
+  }
+}The algorithm is almost the same as the python version except it does not sell SPY no matter what bid price is.2.4 Order Management SystemOMS(order management systems) is a software system to facilitate and manage the order execution, typically through the FIX protocol. In Sentosa, OMS module gets orders from Algorithm Module and send them to IB. IB gets order from Sentosa OMS and executes it using its smart routing technology. IB API supports two basic type of orders: Limit Order and Market Order.Limit OrderLimit order has a price limit which guarantees the execution price cannot be worse than it. For every stock, exchange maintains a limit order book including all the bid/ask prices, volumes and timestamp information. Please be noted the trade price can be favorable than limit order price. For example, if you send a limit order of selling Google stock for 1 dollar per share, system will fill it with the bid price at the top of the book, which will be higher than 1 dollar.Market OrderA Market order itself has no price information. When a market order is sent out to an exchange, the order matching engine will find the currently available best price to execute it. Market order will normally be filled immediately by matching another limit order at the top of order book. You cannot match two market orders because there is no price information in market orders.2.4.1 OMS Design and Messaging ProtocolOMS accepts two type of protocols: nanomsg and websocket.Thread Thread_API_NN will monitor and handle any incoming nanomsg message at port specified as NN_MON_PORT in sentosa.yml.Thread Thread_API_WS will monitor and handle any incoming websocket message at port specified as WS_MON_PORTin sentosa.yml.OMS handles two different protocols but with the same logic. I use C++ function overloading to handle the difference. The interface definition is at api_core.cpp and implementation is at api_nn.cpp for nanomsg and api_ws.cpp for websocket respectively.Sentosa is a multithread application where there are four threads in OMS module:Thread_OMS_ibThread_OMS_algoThread_API_NNThread_API_WSIn Sentosa, for performance consideration, system will preallocate a static array of orders with length of 283 for each instrument. In another words, one instrument can send at most 283 orders with different order id(order replacement is not counted in as the order id is the same). This number should be enough for individual traders. Sentosa OMS uses nanomsg as the communication protocol and receives nanomsg text as the instruction.Sentosa OMS opened a NN_PAIR socket at the following endpoint:string endpoint = "tcp://localhost:" + CR(ALGO_TO_OMS_PORT);You can customize the port by changing ALGO_TO_OMS_PORT at sentosa.yml.The protocol specification is also customizable through sentosa.yml. Take the default ‘sentosa.yml’ configuration as an example:protocol:
+  ...
+  closeall : "e"
+  closeone : "f"
+  cancelall: "g"
+  lmtorder : "l"
+  mktorder : "m"
+  orderid  : "i"where:closeallTo close all your current position with market order when a nanomsg text starting with “e” is received.closeoneTo close one instrument’s position as soon as possible. The nanomsg format is f|SYMBOL. For instance, “f|IBM” means to close your current IBM holding position with a market order.cancelallTo cancel all your current outstanding orders of one instrument. The nanomsg format is g|SYMOBL.lmtorderTo send a limit order.The format is l|SYMBOL|Quantity|Price|AllowedMove|OID, where:Quantity is a signed integer. Positive sign means BUY and negative means SELL.Price is the limit price.AllowedMove is the price range in which the order is still considered valid. In Sentosa OMS, if the market price moves too far from the limit price, the order will be cancelled by OMS. The logic can be expressed with the following pseudo-code:if abs(MarketPrice - TargetLimitPrice) > AllowedMove:
+  Cancel_Order(oid)
+else:
+  Track_Limit_Order(oid)OID is the order idmktorderTo send a market order. The format is m|SYMBOL|Quantity|OID.orderidTo check the status of an order by order id. The message format is i|OID. For instance, “i|1634223” means a request to OMS to return the status of the order with id equal to 1634223. OMS will send one of the following order’s status to client with the format of “i|OID|ORDERSTATUS”. In case the order doesn’t exist at all, OMS will send back -1. If OMS send “i|1634223|4” back, it means the order with id equal to 1634223 has a status of SUBMITTED.Order status are defined like the following:enum ORDERSTATUS{
+  NEWBORN = 0,
+  PENDING_SUBMIT,
+  PENDING_CANCEL,
+  PRESUBMITTED,
+  SUBMITTED,
+  API_PENDING,
+  INACTIVE,
+  FILLED,
+  API_CANCELLED,
+  CANCELLED
+};You can refer to IB document for the details of order status:https://www.interactivebrokers.com/en/software/api/apiguide/c/orderstatus.htm2.5 Future DirectionSentosa trading system can be extended in several ways:From multithread to multiprocessFrom single machine to clusterFrom IB to other trading venues, or direct market access(DMA) if possibleMore languages supportMore modules support - risk management module, portfolio management module3 Part III – Sentosa Research Platform3.1 IntroductionSearch Research Platform is a web-based interactive computing platform based on Jupyter with Python and R support. You can set it up in your local machine and do research with your data. The following is a screenshot: Sentosa Research PlatformIn the following sections, I will discuss financial data selection, collection and management. Then I will showcase two research tasks using R and Python respectively. The first is GARCH-family volatility comparative study with low frequency data and the second is true volatility calculation with high frequency data.3.2 Data Selection, Collection and ManagementIn the first place, successful trading starts with good quality data. With good quality data, particularly quantitative data, trader can do meaningful research. For equity trading, some commonly used data types include trade data, quote data, fundamental data, macroeconomic data, risk factor data, news data, social media data, and option data. Daily OHLC trade data and some macroeconomic data are normally available for free. Others are mostly not free, some of which are expensive because of the information edge traders can get from them.For the paid data services, you need to choose to pay for processed data or raw data, or both. Processed data(eg. PE/PB ratio) are more convenient and ready to be used directly. As for raw data(eg. tick and quote data), you need to write program to clean them, calculate indicator or risk factors with your own algorithm. Some may need heavily intense computation. But good thing for raw data is its flexibility and potential to provide a trader with more information edge.Data can be stored in file system in plain text format. Many time series data are just some csv files, which can be very conveniently used by many languages. For big data series, database like MSSQL, MySQL and MongoDB can be used. Data are stored in tables or documents and indexes are created for faster query speed. For higher performance time series data processing, you can choose commercial database like KDB+, One Tick or eXtremeDB.There are many commercial data vendors out there like Thomson Reuters, Bloomberg, but most of them are prohibitive for individuals. In this project, using MySQL as data storage and IB as data source, I developed a historical data collection tool called histData which I will describe as below.3.2.1 Historical Data Collection Tool - histDataIn this project, I use four tables to store four time series data:Table NameTime Series Storedbar1ddaily trade bar databar15s15 seconds trade bar databar15sbid15 seconds quote bar data(bid)bar15sask15 seconds quote bar data(ask)The table structure is the same for each table. For example, the following is the structure of table bar1d:FieldTypeKeyCommentsvarchar(8)MULticker symbolofloatopen pricehfloathighest price of the daylfloatlowest price of the daycfloatclose pricevint(11)trading volumewfloatWAP(weighted average price)bcmediumint(9)Bar Count(number of trades)dtdateMULdateThe following are three rows in table bar15s:sohlcvwbcdtBITA30.2730.2730.1630.252530.2182013-12-06 09:30:00BITA30.2530.2630.2130.21930.2492013-12-06 09:30:15BITA30.2330.2330.1730.2123230.2412013-12-06 09:30:30The first row means during 2013-Dec-06 09:30:00 to 2013-Dec-06 09:30:15, there are 8 trades occurred for BITA with WAP equal to 30.21, trading volume equal to 25K, open price equal to 30.27, highest price equal to 30.27, lowest price equal to 30.16 and close price equal to 30.25.The major challenge to collect data is to conform to the rule of historical data limitation: https://www.interactivebrokers.com/en/software/api/apiguide/tables/historical_data_limitations.htmFor stocks, historical data requests that use a bar size of “30 secs” or less can only go back six months. IB also has limitation in request rate, which requires no more than 60 historical data requests in any 10-minute period. Considering this limitation, I think IB should have used traffic control algorithm like token bucket in the server side. In client side, to avoid causing pacing violations, our data collector sleeps for 1 minute after sending 6 requests. This is customizable in configuration file sentosa.yml. The following is what I used in my configuration file:histDataReqNum    : 6
+histDataSleepT    : 60000 #milliseconds
+histDataBackMN    : 6 # how many months from now?If histDataSleepT is equal to 30000, histDataReqNum should be equal to 3, which means sleep 30 seconds per 3 requests. histDataBackMN means how many months from now backward you want to collect data. In the above example, if today is 2015-Dec-31, it means we want to collect data in period of 2015-Jul-01 to 2015-Dec-31.As follows, I will showcase how to use Sentosa Research Platform to do quantitative research on volatility. Case 1 is about parametric models of volatility using low frequency data. Case 2 is about nonparametric models using high frequency data with market microstructure noise.3.3 Case 1: Volatility Forecasting Comparative Study (R)Volatility is so important that it is widely used in trading, pricing and risk management. Christian Brownlees, Rob Engle and Bryan Kelly published a paper called A Practical Guide to Volatility Forecasting Through Calm and Storm which concludes that model rankings are insensitive to forecast horizon.To verify the conclusion of this paper, I plan to use Quandl library to get S&P 500 index data from 1950-Jan-03 to 2011-Mar-18 and use R program to compare 5 GARCH models: GARCH, NGARCH, TGARCH, APARCH, eGARCH.In the 5 models, GARCH model fails to explain the asymmetry of the distribution of errors and the leverage effect. eGARCH and TGARCH are able to handle leverage effect where return has negative skewness. NGARCH and APARCH are able to handle leverage effect for both negative and positive skewness.The code is written in R language as follows:rm(list=ls())
+options(digits = 3)
+library(rugarch)
+library(timeSeries)
+library(forecast)
+library(Quandl)
+
+# quasi-likelihood (QL) loss function
+quasi_likelihood=function(squaredR,VarForecast){
+  tmp=squaredR/VarForecast;
+  return(tmp-log(tmp)-1);
+}
+
+Calculate_Quasi_Likelihood = function(specs, model_names, horizons){
+  rownum = length(specs)
+  colnum = length(horizons)
+  result = matrix(1:(rownum*colnum), nrow = rownum, ncol=colnum,
+                  dimnames = list(model_names, horizons))
+
+  j = 1
+  for(horizon in horizons){
+    i = 1
+    for(spec_ in specs){
+      out_sample_len = 50
+      fit1 = ugarchfit(rtn, spec = spec_,
+                       out.sample=out_sample_len,
+                       solver='hybrid')
+      fcast1 = ugarchforecast(fit1,n.ahead=horizon)
+      squaredR = rtnsquare[length(rtnsquare)-out_sample_len+horizon];
+      VarForecast = sigma(fcast1)[horizon]^2;
+      loss = quasi_likelihood(squaredR, VarForecast);
+      cat(model_names[i],"=",loss,"; ",sep='');
+      result[i, j] = loss
+      i = i +1
+    }
+    j = j + 1
+  }
+  return(result);
+}
+
+# 1. Get Data
+sp500=Quandl("YAHOO/INDEX_GSPC", type='xts',
+             start_date="1950-01-03", end_date="2011-03-18")
+rtn=na.omit(returns(sp500)[,6])
+rtnsquare=rtn^2
+arimafit = auto.arima(as.numeric(rtn))
+armaorder_ = c(arimafit$arma[1:2])
+
+# 2. Models Specs
+distribution_model = "norm"
+spec1=ugarchspec(mean.model = list(armaOrder = armaorder_),
+                 variance.model = list(model='fGARCH',
+                 submodel='GARCH'),
+                 distribution.model = distribution_model);
+spec2=ugarchspec(mean.model = list(armaOrder = armaorder_),
+                 variance.model = list(model='fGARCH',
+                 submodel='NGARCH'),
+                 distribution.model = distribution_model);
+spec3=ugarchspec(mean.model = list(armaOrder = armaorder_),
+                 variance.model = list(model='fGARCH',
+                 submodel='TGARCH'),
+                 distribution.model = distribution_model);
+spec4=ugarchspec(mean.model = list(armaOrder = armaorder_),
+                 variance.model = list(model='eGARCH',
+                 submodel=NULL),
+                 distribution.model = distribution_model);
+spec5=ugarchspec(mean.model = list(armaOrder = armaorder_),
+                 variance.model = list(model='fGARCH',
+                 submodel='APARCH'),
+                 distribution.model = distribution_model);
+specs=c(spec1,spec2,spec3,spec4,spec5)
+model_names=c("GARCH","NGARCH","TARCH","eGARCH","APARCH")
+
+# 3. Verification
+horizons = c(1,10,20,30,40,50)
+result = Calculate_Quasi_Likelihood(specs, model_names, horizons)
+
+n = length(horizons)
+m = length(model_names)
+par(mfrow=c((n+1)/2,2), bg="white")
+colors=c('red','green','purple','blue','black','darkred')
+for (i in seq(n)){
+  main_title = paste("Forecast Horizon:", horizons[i],
+                     '(dist:', distribution_model, ')', sep = '')
+  plot(result[,i], type='b', xaxt = 'n', pch = 19, col=colors[i],
+       main=main_title, xlab="", ylab="Quasi-Loss")
+  grid (NULL,NULL, lty = 6, col = "cornsilk2")
+  axis(1, at = seq(m), labels = model_names)
+}The code above defines a quasi-likelihood (QL) loss function proposed by the original paper, by which we can compare model’s predictability. Then it gets data from Quandl, defines model specifications, fits models and predicts with each model, and finally draws a graph with quasi-likelihood (QL) loss value. The out sample length is 50 days. The forecast horizons I have chosen are 1, 10, 20, 30, 40, 50 days. I will compare the five models’ predictability in these forecast horizons.Assuming that the return distribution is normal, run the code above and I find when forecast horizon is equal to or less than 30:NGARCH > GARCH > APARCH > TARCH == eGARCHWhen forecast horizon is greater than 30, no ranking pattern is observed.The result is at Figure 3. GARCH Family Models with Normal DistributionAs we know, stock price return distribution is more aligned with student t distribution than normal. Now assuming the return distribution is student t distribution, in the code, we need to change the model specification from norm to std:distribution_model = "std"Run the code above and I find when forecast horizon is equal to or less than 30:GARCH > NGARCH > APARCH > TARCH == eGARCHWhen forecast horizon is greater than 30, no ranking pattern is observed.The result can be seen from figure 4: GARCH Family Models with Student DistributionThe result verifies the model ranking doesn’t change as the forecast horizon changes as long as the horizon is not too large. It can be explained by the characteristics of each model. For example, both TARCH and eGARCH consider positive skew leverage effect, so they have almost the same loss function value. NGARCH and APARCH can explain both positive and negative skewness, which is why it has a higher loss function value than TARCH and eGARCH.The result also verifies another empirical knowledge that, compared with other GARCH-family models, GARCH model is good enough. When we use student distribution as the model distribution, GARCH model ranks number 1. When using normal distribution, GARCH ranks number 2. This is another example that the simplest model is the most powerful model.3.4 Case 2: Volatility with High Frequency Data (Python)3.4.1 Theory and Concept Assume stock price follows geometric Brownian motion:           St=S0⋅exp(σWt+(μ−σ22)⋅t)
+
+Then stock return        Ri=log(Si)−log(Si−1)
+
+ is a normal distribution. In one unit of time          0=t0<t1<t2...<ti=1
+
+, the sum of squared return    Ri
+
+ (aka. quadratic variation of    Ri
+
+) is:                                            ∑i=1∞Ri2=∑i=1∞[log(Sti/Sti−1)]2=∑i=1∞[σ⋅(Wti−Wti−1)+(μ−σ22)⋅(ti−ti−1)]2=σ2
+
+So the definition of volatility in mathematical form is:                                    σ=∑i=1∞[log(Sti/Sti−1)]2
+
+ This volatility  σ
+
+ is called true volatility.    σ2
+
+ is called true variance.                        σ2=∑i=1∞[log(Sti/Sti−1)]2=∫1∞Ru2du
+
+ 3.4.2 Market Microstructure EffectsHigh-frequency data have some unique characteristics that do not appear in lower frequencies. There are several well known phenomenon like asynchronous trading, bid-ask bounce and minimum tick rules, which are called Market Microstructure Effects in finance literatures.Figure  is generated from BITA` compounded return time series with different sampling intervals: 1 minute, 1 hour and 1 day. In the distribution subplots, the red dashed line is the corresponding normal distribution. When interval length is 1 day, the distribution is a right skewed, leptokurtic bell curve. However, as the sampling frequency increases, the skewness decreases and kurtosis increases. When interval length is 1 minute, skewness becomes negative and kurtosis reaches as high as 45.5. Market Microstructure Effects on Log ReturnThis means the data statistic property has been changed when the sampling frequency increases. In high frequency data, the observed price is not the stock’s intrinsic price any more, but a trade price heavily distorted by market microstructure effects. Suppose the logarithm of a stock intrinsic/true price is a stochastic process    Pt
+
+ and observed trade price is    Qt
+
+.I use    Pt
+
+ to represent a stochastic process which is unknown and equal to the logarithm of a stock intrinsic or true price, and    Qt
+
+ is another stochastic process which equals to the logarithm of a stock’s trade price.The Model is:        Qt=Pt+ϵt
+
+ or             Qt=log(St)+ϵtPt=log(St)
+
+Where    ϵt
+
+ is an i.i.d. noise process with           E[ϵt]=0Var[ϵt]=E[ϵt2]=c
+
+Noise variance  c
+
+ is a constant in this model. It is not necessarily normal, but should be symmetric and weak stationary. Also,    ϵt
+
+ is independent with    Pt
+
+ and    Qt
+
+.3.4.3 Realized Volatility and Volatility ProxiesAlthough we have a math formula for true volatility, we can never get its precise value. First, it is a continuous calculus form equation, but in the real world, the price is always discrete. Second, market microstructure effects, as described in previous section, also distort the price, making trade price not exactly the same as stock’s intrinsic price as defined in our model. In order to make the return data close to normal distribution, which is a basic assumption in many financial models, one has to sample the trade price at sufficiently wide interval to avoid market microstructure effects, and in turn this will make the price more discrete.So we have to introduce another concept called realized volatility. It is essentially a discrete version of true volatility defined at equation  (???)
+
+. If we split the time unit  T
+
+ equally into  N
+
+ smaller time intervals  t
+
+ with equal length, we have the sampling frequency  N
+
+: N=T/t
+
+and realized volatility is defined as:                                    σT=∑i=1N[Qti−Qti−1]2
+
+and the realized variance is accordingly defined as:                  σT2=∑i=1N[Qti−Qti−1]2
+
+ Please be noted here  Q
+
+ is observed price, not true price  S
+
+.Realized volatility(aka integrated volatility) is a bias estimator of true volatility due to market microstructure effects. I will prove this theoretically and empirically later. Correspondingly, the square of realized volatility is called realized variance, or integrated variance, or sometimes realized quadratic variation.Please be noted, in some literatures, realized volatility and realized variance sometimes are used interchangeably. In addition, there are two other volatilities often seen in literatures. (1.) Implied volatility is just a numeric calculated from the option price according to Black-Scholes formula, assuming all the assumptions of Black-Scholes model are correct. (2.) Historical volatility normally means the past daily volatility calculated with historical data according to parametric conditional volatility models like GARCH, EWMA, or stochastic volatility models.Because true volatility is not known, one can use volatility proxies when specifying and evaluating volatility models. We can consider proxy as a mapping of original variable in another space through a proxy function. In statistics, proxy is used for a variable not of prime interest itself, but is closely connected to an object of interest. One uses proxy to replace latent variables of interest, so the absolute correlation of proxy variable and original variable should be close to 1. Please be noted that one can use estimator, either biased or unbiased, as a proxy, but it is probably wrong to use a proxy as an estimator.3.4.4 Market Microstructure Effects and Volatility ProxiesRealized variance is often used as a volatility proxy when high frequency data are available. But surprisingly, due to market microstructure effects, we may get worse result when we have higher frequency data.For the noise process, we have      E[ϵt]E[ϵs]=0
+
+ because    ϵs
+
+ and    ϵt
+
+ are independent. And then                   E[(ϵt−ϵs)2]=E[ϵt2]+E[ϵs2]−2E[ϵt]E[ϵs]=2c
+
+For realized variance, we have:                                                           σ^2=∑i=1N[Qti−Qti−1]2=∑i=1N[Pti−Pti−1+(ϵti−ϵti−1)]2=∑i=1N[Rti+(ϵti−ϵti−1)]2
+
+The expectation is:                                                         E[σ^2]=E[∑i=1N[Rti−1+(ϵti−ϵti−1)]2]=E[∑i=1N[Rti−12+2Rti−1(ϵti−ϵti−1)+(ϵti−ϵti−1)2]]=E[σ2]+2Nc
+
+ The variance is:            Var[σ^2]=4NE[ϵ4]+Op(1)
+
+ This proves realized variance is a biased estimator of true volatility. The higher the sampling frequency is, the bigger N is, and the bigger the bias is. When N goes to infinity, the bias and realized variance go to infinity too. Zhang proposed that, when  N
+
+ is large enough,  σ
+
+ will become negligible, we can get the value of c, the variance of noise process with this formula:       c=E[σ^2]2N
+
+ Once we get the value of  c
+
+, we can use the same equation to get    E[σ2]
+
+.But how to decide if N is large enough? I am proposing another method. Resample the raw data with two steps    N1
+
+ and    N2
+
+, and get two expectation of realized variance          E^1[σ^2]
+
+ and          E^2[σ^2]
+
+. We have:              E^1[σ^2]=E[σ2]+2N1c
+
+              E^2[σ^2]=E[σ2]+2N2c
+
+So we get  c
+
+ by:                       c=E^1[σ^2]−E^2[σ^2]2(N1−N2)
+
+ 3.4.5 Other Volatility ProxiesPrice range is a good volatility proxy which is free from the market microstructure effects. One definition is as simple as      PR=Qh−Ql
+
+, where    Qh
+
+ is the highest trade price in one time unit,    Ql
+
+ is the lowest price accordingly.The expectation of price range is:                    E[PR]=E[Qh−Ql]=E[Ph−Pl+(ϵh−ϵl)]=E[Ph−Pl]
+
+We can see it is related to spread of true price in one time unit, but has nothing to do with    ϵt
+
+.Another method to construct price range using high frequency data is to sum all subinterval price spreads in one time unit. To avoid confusion, if necessary, I will use price range(H-L) for the first definition and price range(sum of H-L) for the second one. By default, price range means the first definition.In addition, people sometimes also use absolute return as volatility proxy. It is very similar to price range, but because the log return only consider the last close price and current close prices, it will miss information between the two time points, so it has a downward bias.3.4.6 Realized Variance and Other Volatility ProxiesRealized variance is a biased estimator, also a proxy, of real variance. First, let’s compare it with another well known volatility proxy price range. The raw data is 15 seconds OHLC bar data of BITA from IB. I choose 5 minutes as the time unit, so according to equation  (???)
+
+, with sampling interval number  N
+
+ equal to 20, we can get the value of realized variance. It is noteworthy that, for price range, I use the highest price in 5 minutes minus the lowest price, not sum of high minus low in 20 15-seconds-OHLC bars.I randomly choose one day and compare these two variance proxies. The result is figure . Realized Variance VS. Price Range(H-L) in one day The upper graph is the absolute value comparison. Because the value of realized variance is so small that it becomes a straight line closely above x axis. After multiplying a scale-up factor 180.6 to every number in realized variance series, I get the lower graph. It looks much better than the upper one. It is easy to see the two time series have the same trend. There is only very minor difference between them.Figure  verifies that price range is a good proxy for stock variance and volatility. The proxy function in this case is just a multiplication to a constant 180.6.Now, let’s add two more proxies absolute return and price range(sum of H-L). As described in previous section, absolute return is calculated as log return of the time unit. price range(sum of H-L) is calculated by adding all high low difference in 15-seconds-OHLC bars in one time unit. In my program and graphs, I use rvar for realized variance, prange for price range (H-L), srange for price range(sum of H-L) and absr for absolute return.Then I choose 13 time units from 2 minutes to 1 day:time_units = ('2min','5min','10min','15min',\
+                    '30min','40min','50min','1H','2H','3H','4H','5H','1D')Still using 15-seconds-OHLC bar data of BITA, I calculate volatility proxy for every time unit above. After getting the results, I check the statistics characteristics to verify the model  (???)
+
+.From  and , we can get the variation coefficient  k
+
+:                                            k=Var[σ^2]E[σ^2]=4NE[ϵ4]+Op(1)E[σ2]+2Nc
+
+Suppose N is large enough, if the time unit increases by m times ( m>1
+
+), according to volatility time square root rule, we have:                                      k=2mNE[ϵ4]m2E[σ2]+2mNc=2NE[ϵ4]m(mE[σ2]+2Nc)
+
+ This means, if the sampling interval is fixed and N is large enough, variation coefficient  k
+
+ of realized variance will decrease exponentially    O(m3/2)
+
+ as length of time unit increases.To verify this conclusion, I check the relation of variation coefficient and time units and get figure  ???
+
+: Market Microstructure Effects on Volatility Proxies We can see market microstructure effects has a big impact on realized variance. When length of time unit decreases, the variation coefficient increases dramatically. Robin and Marcel proved that smaller variance corresponds to better volatility proxy. We can see the realized variance becomes stable and close to the other proxies when the time unit increases to 1.5 Hours.For the other three proxies, there is no obvious change of variation coefficient, which means they do not suffer from market microstructure effects. Also it is well known that measurements that are log-normally distributed exhibit stationary variation coefficient, which is    exp(σ2−1)
+
+, figure  ???
+
+ also implies true variance is log-normally distributed.A good proxy should have a close correlation with the original and other good proxies too. Figure  displays the correlation coefficient changes with the time units. We can see the correlation of realized variance and price range increases dramatically as length of time unit increases. This means realized variance becomes a better proxy when the unit time is large enough, say 1.5 hours. Bias and Consistency of Volatility Proxies3.4.7 Daily Realized Variance and Noise ProcessIn previous section, we fix the length of time interval  t
+
+, increase the time unit  T
+
+ and find that market microstructure effects has an exponential impact on realized variance. In this section, I am going to fix the time unit  T
+
+ as 1 day and change the length of time interval  t
+
+. I will show how market microstructure noise process affects daily realized volatility when changing sampling time interval and investigate two ways to get the variance of noise process.Still using BITA 15 seconds OHLC bar data and equation  (???)
+
+ but choosing three different time intervals 15 seconds, 10 minutes and 2 hours, I get three daily realized variance time series and display them in figure . Daily Realized Variance at Different Sampling IntervalsIn figure , rvar_1 means sampling interval is 15 seconds, rvar_40 means 10 minutes, and rvar_480 means 2 hours. We can see the trend is almost the same, but red dots(rvar_480) are distributed closer to x axis, blue dots(rvar_1) are the farthest, and green dots(rvar_40) are in between. This means when sampling interval increases, or when sampling frequency  N
+
+ decrease, expectation of daily realized variance decreases accordingly. This is an expected result according to equation .Now let’s try more different sampling intervals. I choose 7 intervals as follows:INTERVALS=[1, 4, 8, 20, 40, 80, 160] # number of 15-seconds-OHLC barCorrespondingly, the time intervals are 15 seconds, 1 minutes, 2 minutes, 5 minutes, 10 minutes, 20 minutes and 40 minutes.I get figure : Expectation of Daily Realized Variance at Different Sampling IntervalsThe x axis represents the sampling intervals and y axis represents expectation of daily realized variance, which is asymptotically equal to sample mean. We can see as sampling interval increases, which corresponds to a smaller N, the expectation of daily realized variance decreases. This is in line with equation .When the interval is 15 seconds, N is equal to 1560 because the trading hour is 6 hours and a half. This is the highest frequency data I can get. Assume N is large enough (1.) to ignore    E[σ2]
+
+ in  and (2.) to get population expectation    E[σ2]
+
+, using the method proposed by Zhang , we can get that the noise process variance  c
+
+ equals to 7.5347758757e-07.Alternatively, I tried to use equation  too. Assuming the first two intervals    N1
+
+(1560) and    N2
+
+(390) are large enough for population expectation    E[σ2]
+
+, using equation , I get the noise process variance  c
+
+ equal to 1.30248047255e-07.The reason why the two results are different is 15 seconds time interval is too long.In another words, the data frequency  N
+
+ is not high enough to ignore    E[σ2]
+
+. According to the formula:        c=E[σ^2]−E[σ2]2N
+
+when true variance is not negligible, if one uses , one will overestimate the denominator and then overestimate the noise process variance  c
+
+.Fortunately, equation  doesn’t require N is large enough to ignore    E[σ2]
+
+. Assuming equation  is correct applied here,  c
+
+ equals to 1.30248047255e-07 when  N=1560
+
+, in turn we can get expectation of true variance:          E[σ2]=E[σ^2]−2Nc=0.0023508500732184−2∗1560∗1.30248047255e−07=0.00194447616578
+
+Both equations  and  require higher frequency data. But the latter only affected by accuracy of expectation calculation. With the same frequency data, equation  is better because it doesn’t require  N
+
+ is large enough to ignore    E[σ2]
+
+.3.4.8 Three Schemes for Realized Variance CalculationIn previous section, although we always use equation  (???)
+
+ to calculate daily realized variance, we have actually used two schemes.Scheme 1 calculates squared return for every adjacent pair of prices sequentially in one unit of time  T
+
+, and then sum all squared returns. Figure  illustrates how the calculation goes on. I call it classical scheme as it is exactly from equation  (???)
+
+. In previous section, I verified classical scheme is most seriously affected by market microstructure effects because high frequency data are contaminated by the noise process. When sampling frequency is high, it demonstrates a strong upward bias, making the result totally useless. In realized variance time series calculated from this scheme, you can see many spikes, which corresponds to high variation coefficient. Classical Scheme to Calculate Realized VarianceScheme 2 splits one time unit into multiple grids. Grid is a new sample interval in between  t
+
+ and  T
+
+. Scheme 2 uses only one point of data in one grid, ignoring all other data, so I call it sparse sampling scheme. In my program to generate figure  and figure , I use the first price to represent price of the new sampling time interval, and calculate rvar_40 and rvar_80. Figure  illustrates how the calculation goes on. Sparse Sampling Scheme to Calculate Realized VarianceAccording to theoretical and empirical analysis in previous section, we see that sparse sampling scheme has a better performance than classical scheme. This is very surprising as it uses much less data. In figure , if one cell represents a 15-seconds-OHLC bar, we have 1560 cells for one day. If the new sampling time interval is 1 minute, according to sparse sampling, we need to throw away 1170 = 1560/4*3 price data. But when we use the remaining 390 price data to calculate, we get a even better result. This sounds counterintuitive but can be perfectly explained by model  (???)
+
+. Please be noted there are two intervals in sparse sampling, the original interval is 15 seconds, and the new interval after sparse sampling becomes 1 minutes. To avoid confusion, I will use word grid for the latter in the future, which is how Zhang names it in the original paper.Can we take advantage of all data and throw away only the noise part in trade price?Here scheme 3 comes into play. It is a natural expansion of scheme 2. It uses all data but also robust to market microstructure effects. As displayed in figure , we apply the same calculation of return, like sparse sampling, for not only the first cell in that grid, but all the other data. In figure , there are four cells in one grid. So we will get four results, the final result will be the average of them. This method is proposed by Lan Zhang(2003). I call it averaging scheme because it is improved by averaging based on sparse sampling scheme. Averaging Scheme to Calculate Realized VarianceIn theory, averaging scheme should be better than the other two. I am going to verify this as below.Averaging Scheme vs Classical SchemeStill using BITA 15-seconds-OHLC data, I get a comparison of classical scheme and averaging scheme in figure : Classical Scheme VS Averaging SchemeThe purple dots are realized variance result from classical scheme and the green ones from averaging scheme with grid length equal to 1 hour(240*15 seconds). We can see the green dots are distributed at the bottom, closer to x axis, which corresponds to the overestimation issue of classical scheme. This proved averaging scheme is better than classical scheme.Averaging Scheme vs Sparse Sampling SchemeNow let’s compare sparse sampling scheme and averaging scheme. I choose 8 grid lengths as follows.'15sec','1min','2min','5min','10min','20min','30min','40min'Using two schemes to calculate daily realized variance, and then the expectation      E[σ^2]
+
+ under each grid.The output is:IntervalAveraging SchemeSparse Sampling Scheme15sec0.002350850.002350851min0.002023110.002046072min0.001902160.001936455min0.001800530.0018431010min0.001764590.0018062920min0.001728690.0017857730min0.001718430.00182501Display it as figure  below: Sparse Sampling Scheme VS Averaging SchemeWe can see averaging scheme has a lower      E[σ^2]
+
+ than sparse sampling scheme. This means the former suffers less from market microstructure noise, so it is better. Please be noted if grid length becomes the same as sampling time interval, sparse sampling scheme and averaging scheme are degraded to classical scheme. This is why when grid length equals to 15 seconds, the purple dot and green dot becomes the same.Averaging Scheme vs ItselfWe have seen averaging scheme is the best of the three schemes. We also see the grid length affects the results of averaging scheme. Let me increase grid from 15 seconds to 40 minutes and draw the realized variance time series at figure . Averaging Scheme and Different Grid LengthWe can see the best result is the one with grid length equal to 40 minutes. We can display      E[σ^2]
+
+ with grid length in figure . Expectation of Realized Variance with Averaging Scheme and Different Grid Length We can see the expectation curve is a smooth convex hull. It decreases exponentially as grid Length increases. But after 20 minutes,      E[σ^2]
+
+ doesn’t decrease any more. This is because if grid length is too long, we cannot use all the data any more, averaging scheme becomes more like sparse sampling scheme. For instance, when grid length is the same as time unit  T
+
+, which is 1 day in our case, averaging scheme is degraded to sparse sampling scheme.To verify this, I choose 13 grid lengths ‘30seconds’, ‘1min’, ‘2min’, ‘5min’, ‘10min’, ‘20min’, ‘40min’, ‘1H’, ‘1.25H’, ‘1.5H’, ‘1.75H’, ‘2H’, ‘2.25H’, and draw      E[σ^2]
+
+ in figure . Averaging Scheme and Different Grid LengthGreen curve is sparse sampling scheme and blue curve is averaging scheme. x axis is grid length and y axis is      E[σ^2]
+
+.We can see, for averaging scheme, after 40mins,      E[σ^2]
+
+ keep increasing in very slow speed. Also, because averaging scheme is actually an average of many equally reasonable results, it is smoother than sparse sampling scheme. After 40mins, sparse sampling scheme curve jumps up and down around averaging scheme curve. This means there is an optimal value for grid length between sampling time interval  t
+
+ and time unit  T
+
+. In this case, it is around 40 minutes. When grid length equals to  t
+
+, averaging scheme becomes classical scheme; when it equals to  T
+
+, averaging scheme becomes sparse sampling scheme.3.4.9 True Variance and VolatilityIn previous sections, I got the variance  c
+
+ of noise process    ϵt
+
+. I also found that averaging scheme is the best way to calculate realized variance with grid length equal to 40 minutes in this case. I have reached my goal. I am ready to calculate true variance and true volatility now!See figure  for true volatility series I created using the information above. True VolatilityI can also get the statistics of true variance time series. Take Logarithm of true variance and we can get the distribution at figure . Logarithmic True Variance DistributionThe dashed blue line is the normal distribution curve fitted with the same mean and standard deviation as above. We can see the distribution is close to normal. We know variance has properties like clustering and mean reversion, and now we know logarithm of variance is Gaussian distribution, or variance is lognormal distribution. This also supports the conclusion I get from figure  that stationary variation coefficient of volatility proxies implies they are log-normally distributed.True volatility is the square root of true variance. I checked the distribution and it is also lognormal.Previously we use price range as a proxy of true variance. Now we can check the distribution of price range and see if it has the same distribution as true variance. Figure  is the daily price range series and distribution I get from our BITA dataset. Logarithmic Price Range DistributionThe red dashed line is normal distribution curve fitted with corresponding mean and standard deviation. The distribution is very similar with figure . This is in line with our knowledge that price range is a good proxy for true variance.3.4.10 Data Selection and Conclusion GeneralityTo take a new nonparametric approach to calculate volatility, I need high frequency data. The data I use in this case study is BITA 15 seconds OHLC bar data from 2013-12-06 9:30AM to 2015-12-31 16:00PM. I got the data with the histData tool which I have described in section Historical Data Collection Tool - histData. There are 806,880 bars in the dataset, stored as a CSV format file named BITA_2013-12-06_2015-12-31.csv. You can download it from http://www.quant365.com/post/99/.I also want to emphasize that the BITA data are picked from the database randomly. It has no special importance itself. The conclusion drawn from previous sections should also apply to other stocks.It is noteworthy that, for two adjacent OHLC bars, close price of the first bar is not necessarily equal to open price of the second bar. When we calculate return, we have to use two bars to calculate close-to-close return. But when we calculate price range, we can use high price minus low price in the same bar.3.5 Future DirectionConsider relation between noise process and trading frequency in the noise process modelMore programming languages supportCluster for faster computing (Spark - Lightning-fast cluster computing) for Monte Carlo simulation and big matrix calculationIntegration with Sentosa trading system and web platform4 Part IV – Sentosa Web PlatformInitially, Sentosa web platform is a Django blog website called qblog that I developed to write trading diary, which features markdown and mathematical formula support. Later I added a sentosaapp module to monitor and debug Sentosa trading system. Finally I extended it to be able to interact with Sentosa trading system completely. It uses javascript websocket to communicate with Sentosa trading system and displays internal status at webpage using jQuery. It can also be used to send orders to Sentosa trading system.Although this is a very important part of Sentosa, it is not directly related to any Finance knowledge so I just introduce it very briefly in one page. For more details, please check Sentosa website.The following is the screenshot of Sentosa web platform: Sentosa Web Platform in Backtesting Mode with Real Historical DataAs for future development, this web platform can be extended to do online trading.
