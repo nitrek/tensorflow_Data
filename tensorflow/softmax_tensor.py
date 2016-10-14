@@ -25,13 +25,13 @@ numFeatures = trainX.shape[1]
 
 numLabels = trainY.shape[1]
 
-numEpochs = 5000
+numEpochs = 2000
 
 # learningRate = tf.train.exponential_decay(learning_rate=0.0008,
-                                          # global_step= 1,
-                                          # decay_steps=trainX.shape[0],
-                                          # decay_rate= 0.95,
-                                          # staircase=True)
+#                                           global_step= 1,
+#                                           decay_steps=trainX.shape[0],
+#                                           decay_rate= 0.95,
+#                                           staircase=True)
 
 
 X = tf.placeholder(tf.float32, [None, numFeatures])
@@ -61,7 +61,7 @@ activation_OP = tf.nn.softmax(tf.matmul(X, weights) + bias)
 
 cost_OP = tf.reduce_mean(-tf.reduce_sum(yGold * tf.log(activation_OP), reduction_indices = [1]))
 
-training_OP = tf.train.GradientDescentOptimizer(0.5).minimize(cost_OP)
+training_OP = tf.train.GradientDescentOptimizer(0.2).minimize(cost_OP)
 
 # training_OP = tf.train.GradientDescentOptimizer(0.5).minimize(cost_OP)
 
@@ -145,4 +145,5 @@ for i in range(numEpochs):
 # print("final accuracy on test set: %s" %str(sess.run(accuracy_OP, feed_dict={X: testX, yGold: testY})))
 
 saver = tf.train.Saver()
+saver.save(sess, "trained_variables.ckpt")
 sess.close()
