@@ -16,13 +16,14 @@ class DocReader():
           bagOfWords: Array. All tokens in files
         '''
         bagOfWords = []
-        regex = re.compile("\w+")
+        # regex = re.compile("\w+")
         for filePath in filePaths:
             print filePath
             with open(filePath) as f:
                 raw = f.read()
-                raw = re.sub(regex,'',raw)
-                tokens = raw.split()
+                # raw = re.sub(regex,'',raw)
+                tokens = re.findall("\w+", raw)
+                # tokens = raw.split()
                 for token in tokens:
                     bagOfWords.append(token)
         return bagOfWords
@@ -35,12 +36,13 @@ class DocReader():
         featureMatrix = np.zeros(shape=(len(filePaths),
                                           len(featureDict)),
                                    dtype=float)
-        regex = re.compile("\w+")
+        # regex = re.compile("\w+")
         for i,filePath in enumerate(filePaths):
             with open(filePath) as f:
-                _raw = f.read()
-                raw = re.sub(regex,'',_raw)
-                tokens = raw.split()
+                raw = f.read()
+                # raw = re.sub(regex,'',_raw)
+                # tokens = raw.split()
+                tokens = re.findall("\w+", raw)
                 fileUniDist = Counter(tokens)
                 for key,value in fileUniDist.items():
                     if key in featureDict:
