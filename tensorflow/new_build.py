@@ -4,6 +4,7 @@ import re
 from collections import Counter
 import numpy as np
 import csv
+from nltk.corpus import stopwords
 
 class DocReader():
     def __init__(self):
@@ -17,16 +18,19 @@ class DocReader():
           bagOfWords: Array. All tokens in files
         '''
         bagOfWords = []
+        stop = stopwords.words("english")
         # regex = re.compile("\w+")
         for filePath in filePaths:
             print filePath
             with open(filePath) as f:
-                raw = f.read()
+                raw = f.read().lower()
                 # raw = re.sub(regex,'',raw)
-                tokens = re.findall("\w+", raw)
-                # tokens = raw.split()
+                #tokens = re.findall("\w+", raw)
+                tokens = re.findall("[a-z]{2,}", raw)
+                #tokens = raw.split()
                 for token in tokens:
-                    bagOfWords.append(token)
+                    if not token in stop:
+                        bagOfWords.append(token)
         return bagOfWords
 
     def get_feature_matrix(self,filePaths, featureDict):
@@ -37,15 +41,23 @@ class DocReader():
         featureMatrix = np.zeros(shape=(len(filePaths),
                                           len(featureDict)),
                                    dtype=float)
+
         # regex = re.compile("\w+")
+        stop = stopwords.words("english")
         for i,filePath in enumerate(filePaths):
             with open(filePath) as f:
-                raw = f.read()
+                raw = f.read().lower()
                 # raw = re.sub(regex,'',_raw)
                 # tokens = raw.split()
-                tokens = re.findall("\w+", raw)
-                fileUniDist = Counter(tokens)
+                # tokens = re.findall("\w+", raw)
+                tokens = re.findall("[a-z]{2,}", raw)
+                new_tokens = []
+                for token in tokens:
+                    if not token in stop:
+                        new_tokens.append(token)
+                fileUniDist = Counter(new_tokens)
                 for key,value in fileUniDist.items():
+                    # print key, value, filePath
                     if key in featureDict:
                         featureMatrix[i,featureDict[key]] = value
         return featureMatrix
@@ -108,20 +120,23 @@ class DocReader():
             testY.append(item[1])
 
         # create feature dictionary of n-grams
-        bagOfWords = self.create_bag_of_words(trainPaths)
+        bagOfWordsTrain = self.create_bag_of_words(trainPaths)
 
-        # throw out low freq words
-        freqDist = Counter(bagOfWords)
-        newBagOfWords=[]
-        for word,freq in freqDist.items():
-            if freq > cutoff:
-                newBagOfWords.append(word)
-        features = set(newBagOfWords)
-        featureDict = {feature:i for i,feature in enumerate(features)}
-
+        # # throw out low freq words
+        # freqDist = Counter(bagOfWords)
+        # newBagOfWords=[]
+        # for word,freq in freqDist.items():
+        #     if freq > cutoff:
+        #         newBagOfWords.append(word)
+        featuresTrain = set(bagOfWordsTrain)
+        featureDictTrain = {feature:i for i,feature in enumerate(featuresTrain)}
+        bagOfWordsTest = self.create_bag_of_words(testPaths)
+        featuresTest = set(bagOfWordsTest)
+        featureDictTest = {feature:i for i,feature in enumerate(featuresTest)}
+        
         # make feature matrices
-        trainX = self.get_feature_matrix(trainPaths,featureDict)
-        testX = self.get_feature_matrix(testPaths,featureDict)
+        trainX = self.get_feature_matrix(trainPaths,featureDictTrain)
+        testX = self.get_feature_matrix(testPaths,featureDictTest)
 
         # regularize length
         trainX = self.regularize_vectors(trainX)
@@ -159,8 +174,8 @@ if __name__ == '__main__':
                                                   internalDir=internalDir,
                                                   restrictedDir=restrictedDir,
                                                   highlyRestrictedDir=highlyRestrictedDir,
-                                                  percentTest=.3,
-                                                  cutoff=15)
+                                                  percentTest=.5,
+                                                  cutoff=0)
 
     print(trainX.shape)
     print(trainY.shape)    
@@ -188,7 +203,24 @@ if __name__ == '__main__':
         writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
         for el in testY:
             writer.writerow(el)
-        
+    x = testX.shape[1]
+    y = testX.shape[0]
+    new_m = testX.transpose()
+    count = 0
+    for row in new_m:
+        if sum(row) == 0.0:
+            count+=1
+            # print sum(row)
+    print count
+    # print x
+    # a = np.arange(x*y).reshape(x,y)
+    # s = a.sum(axis = 1)
+    # print len(s)
+    # s.sort()
+    # for el in s:
+    #     print el
+    # # print count
 
-    print(trainX[:10,:])
-    print(trainY[:10,:])
+
+    # print(trainX[:10,:])
+    # print(trainY[:10,:])
