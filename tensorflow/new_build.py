@@ -31,6 +31,7 @@ class DocReader():
                 for token in tokens:
                     if not token in stop:
                         bagOfWords.append(token)
+        print len(set(bagOfWords))
         return bagOfWords
 
     def get_feature_matrix(self,filePaths, featureDict):
@@ -120,7 +121,7 @@ class DocReader():
             testY.append(item[1])
 
         # create feature dictionary of n-grams
-        bagOfWordsTrain = self.create_bag_of_words(trainPaths)
+        bagOfWords = self.create_bag_of_words(trainPaths)
 
         # # throw out low freq words
         # freqDist = Counter(bagOfWords)
@@ -128,15 +129,15 @@ class DocReader():
         # for word,freq in freqDist.items():
         #     if freq > cutoff:
         #         newBagOfWords.append(word)
-        featuresTrain = set(bagOfWordsTrain)
-        featureDictTrain = {feature:i for i,feature in enumerate(featuresTrain)}
-        bagOfWordsTest = self.create_bag_of_words(testPaths)
-        featuresTest = set(bagOfWordsTest)
-        featureDictTest = {feature:i for i,feature in enumerate(featuresTest)}
+        features = set(bagOfWords)
+        featureDict = {feature:i for i,feature in enumerate(features)}
+        #bagOfWords = self.create_bag_of_words(testPaths)
+        #features = set(bagOfWordsTest)
+        #featureDict = {feature:i for i,feature in enumerate(features)}
         
         # make feature matrices
-        trainX = self.get_feature_matrix(trainPaths,featureDictTrain)
-        testX = self.get_feature_matrix(testPaths,featureDictTest)
+        trainX = self.get_feature_matrix(trainPaths,featureDict)
+        testX = self.get_feature_matrix(testPaths,featureDict)
 
         # regularize length
         trainX = self.regularize_vectors(trainX)
@@ -178,9 +179,9 @@ if __name__ == '__main__':
                                                   cutoff=0)
 
     print(trainX.shape)
-    print(trainY.shape)    
+    # print(trainY.shape)    
     print(testX.shape)
-    print(testY.shape)    
+    # print(testY.shape)    
 
     # np.savetxt("trainX.csv", trainX, delimiter="\t", newline="\n")
     # np.savetxt("trainY.csv", trainY, delimiter="\t", newline="\n")
@@ -206,6 +207,15 @@ if __name__ == '__main__':
     x = testX.shape[1]
     y = testX.shape[0]
     new_m = testX.transpose()
+    count = 0
+    for row in new_m:
+        if sum(row) == 0.0:
+            count+=1
+            # print sum(row)
+    print count
+    x = trainX.shape[1]
+    y = trainX.shape[0]
+    new_m = trainX.transpose()
     count = 0
     for row in new_m:
         if sum(row) == 0.0:

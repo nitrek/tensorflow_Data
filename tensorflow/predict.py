@@ -39,9 +39,9 @@ trainX,trainY,testX,testY = import_data()
 
 # Get our dimensions for our different variables and placeholders:
 # numFeatures = the number of words extracted from each email
-numFeatures = testX.shape[1]
+numFeatures = trainX.shape[1]
 # numLabels = number of classes we are predicting (here just 2: ham or spam)
-numLabels = testY.shape[1]
+numLabels = trainY.shape[1]
 
 #create a tensorflow session
 sess = tf.Session()

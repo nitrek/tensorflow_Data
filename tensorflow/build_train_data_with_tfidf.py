@@ -12,7 +12,7 @@ def column(matrix, i):
     return [row[i] for row in matrix]
 
 def import_data(in_name):
-    print("loading training data")
+    # print("loading training data")
     trainX = csv_to_numpy_array(in_name+".csv", delimiter="\t")
     # trainY = csv_to_numpy_array("trainY.csv", delimiter=",")
     # print("loading test data")
@@ -27,13 +27,17 @@ def import_data(in_name):
         # print row
         num_rows = len(row)
         num_non_zeros =  np.count_nonzero(row)
-        new_row = [el * math.log(num_rows/float(num_non_zeros),10) for el in row]
+        if num_non_zeros == 0:
+            new_row = [0.0 for el in row]
+        else:
+            new_row = [el * math.log(num_rows/float(num_non_zeros),10) for el in row]
         new_matrix.append(new_row)
     
 
 def print_out(out_name):
     matrix = np.array(new_matrix).transpose()
     # matrix = matrix.transpose()
+    print matrix.shape
     with open(out_name+".csv", "w") as output:
         writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
         for row in matrix:
@@ -44,6 +48,8 @@ def print_out(out_name):
 
 import_data("trainX")
 print_out("trainX1")
+
+new_matrix = []
 
 import_data("testX")
 print_out("testX1")
