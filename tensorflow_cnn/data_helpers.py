@@ -1,8 +1,44 @@
 import numpy as np
 import re
 import itertools
+import re
+import os
 from collections import Counter
 
+i_file_path = "/data/public.txt"
+p_file_path = "/data/public.txt"
+r_file_path = "/data/public.txt"
+h_file_path = "/data/public.txt"
+categories = ["public", "internal", "restricted", "highly_restricted"]
+
+
+
+def initial_data_processing():
+	"""
+	this take multiple docs from different dir and puts doc as a line  
+	"""
+
+	
+	for category in categories:
+		directory = category
+		filenames = os.listdir(directory)
+		for file in filenames:
+			f_name = os.path.join(directory,file)
+		
+			f = open(f_name)
+			data = f.read().lower()
+			data = re.findall( r"(?i)\b[a-z]+\b" ,data)
+			data = " ".join(data)
+			f.close()
+		
+			f = open(category+".txt", 'a') 
+			f.write(data+"\n")
+			f.close
+				
+		
+		
+	
+	
 
 def clean_str(string):
     """
@@ -31,13 +67,13 @@ def load_data_and_labels():
     Returns split sentences and labels.
     """
     # Load data from files
-    p_examples = list(open("/data/public.txt", "r").readlines())
+    p_examples = list(open(i_file_path, "r").readlines())
     p_examples = [s.strip() for s in p_examples]
-    i_examples = list(open("/data/internal.txt", "r").readlines())
+    i_examples = list(open(p_file_path, "r").readlines())
     i_examples = [s.strip() for s in i_examples]
-	r_examples = list(open("/data/restricted.txt", "r").readlines())
+	r_examples = list(open(r_file_path, "r").readlines())
     r_examples = [s.strip() for s in r_examples]
-	h_examples = list(open("/data/highly.txt", "r").readlines())
+	h_examples = list(open(h_file_path, "r").readlines())
     h_examples = [s.strip() for s in h_examples]
 	
 	
