@@ -1,0 +1,27 @@
+Specifying a user's login IDVersion 9.0.0 Version 9.0.1  
+
+
+Specify an LDAP attribute that is appropriate for logging in to IBM® Sametime®. If you do not perform these steps, the default LDAP attribute, DN, is used.
+
+
+
+About this task
+Determine the value of the LDAP attribute of the person entry that defines the internal ID of a Sametime user that is appropriate for logging in to Sametime. The Sametime user ID attribute must be identical on all the Community servers in the community. This task must be completed separately for each server within a Sametime Community Server cluster.
+To avoid running the name change tool in the future, you can select an LDAP attribute that is not likely to change when users change their name or relocate. Here are examples of stable attributes in some well-known LDAP servers: •IBM Directory Server: ibm-entryUUID
+•Domino® LDAP: dominounid
+•Novell Directory Server (NDS): guid 
+•SunOne: nsuniqueid 
+•Active Directory: objectGUID 
+
+
+Procedure
+1.Log in to the Integrated Solutions Console.
+2.Click Sametime System Console > Sametime Servers > Sametime Community Servers.
+3.In the Sametime Community Servers list, click the deployment name of the server with the connectivity information that you want to change.
+4.Click the Community Services tab.
+5.In the "LDAP Attributes" section, enter the name of the field within the LDAP person entries that contains the ID used for logging in the Attribute used for determining the internal user ID field.
+6.Click OK.
+7.Restart the Sametime Community Server for settings to take effect.
+
+Defining the ID attribute for Active Directory
+ If your Sametime servers connect to an Active Directory (LDAP) server and you prefer to use the DN attribute rather than the objectGUID attribute for the Sametime internal user ID, you must assign the DistinguishedName attribute to be the internal ID for Sametime users. Doing so guarantees that Active Directory returns the DN attribute in the same case-sensitive and space-sensitive format. Forcing Sametime to use a consistent attribute for the internal user ID prevents awareness problems caused by ambiguous internal user IDs.
