@@ -80,9 +80,7 @@ ax2 = plt.subplot("212")
 ax2.set_title("TRAINING COST", fontsize=18)
 plt.tight_layout()
 
-
 sess = tf.Session()
-
 sess.run(init_OP)
 print testX.shape, testY.shape
 ## Ops for vizualization

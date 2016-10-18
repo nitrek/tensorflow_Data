@@ -18,10 +18,10 @@ def import_data():
     #     pass
 
     print("loading training data")
-    trainX = csv_to_numpy_array("trainX.csv", delimiter="\t")
+    trainX = csv_to_numpy_array("trainX1.csv", delimiter="\t")
     trainY = csv_to_numpy_array("trainY.csv", delimiter="\t")
     print("loading test data")
-    testX = csv_to_numpy_array("testX.csv", delimiter="\t")
+    testX = csv_to_numpy_array("testX1.csv", delimiter="\t")
     testY = csv_to_numpy_array("testY.csv", delimiter="\t")
     return trainX,trainY,testX,testY
 
