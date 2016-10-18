@@ -1,5 +1,3 @@
-#https://github.com/dennybritz/cnn-text-classification-tf
-
 import numpy as np
 import re
 import itertools
@@ -7,10 +5,10 @@ import re
 import os
 from collections import Counter
 
-i_file_path = "/data/public.txt"
-p_file_path = "/data/public.txt"
-r_file_path = "/data/public.txt"
-h_file_path = "/data/public.txt"
+i_file_path = "public.txt"
+p_file_path = "internal.txt"
+r_file_path = "restricted.txt"
+h_file_path = "highly_restricted.txt"
 categories = ["public", "internal", "restricted", "highly_restricted"]
 
 
