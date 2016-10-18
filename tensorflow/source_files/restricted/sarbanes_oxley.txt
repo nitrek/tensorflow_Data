@@ -1,0 +1,18 @@
+Sarbanes-Oxley Act of 2002
+
+Recent corporate accounting scandals lead the US Congress to pass the Sarbanes-Oxley Act in 2002 to strengthen the auditing requirements for financial statements and to impose requirements on management to assess and report on the effectiveness of internal controls over financial statements. 
+
+SOX 404 applies to: 
+•Controls over the period-end financial reporting process, in particular “The design of controls over relevant assertions related to all significant accounts and disclosures in the financial statements" 
+•Controls designed to prevent or detect fraud, including who performs the controls and the related segregation of duties 
+•Controls over safeguarding of assets 
+
+All of this requires the business to document and present to the auditors extensive information about how significant transactions are initiated, authorized, recorded, processed, and reported. In addition, the business needs to systematically test these controls and evaluate the results. 
+
+What does this have to do with technology or information security? The obvious answer - we need to ensure that there is adequate security in place to protect the accuracy and reliability (Integrity) of the financial statements. Systems that process financial statements must be periodically tested to confirm that the code is calculating the results properly. When that code is moved into production there must be a robust change control process that confirms the original code was not manipulated. Once the application is in production there needs to be strong authentication controls, restrictions on user entitlements, maker/checker routines, audit logging, etc. to limit the possibility that the data is changed in an unauthorized manner. 
+
+Sources 
+
+The audit community has their own set of standards for auditing financial statements. Similar initiatives exist in the area of technology controls. Issued by the IT Governance Institute, COBIT is a generally applicable and accepted standard for good Information Technology (IT) security and control practices that provides a reference framework for management, users, and IS audit, control and security practitioners. While the PCAOB has not officially endorsed COBIT, it is the generally accepted source in SOX 404 audits for assessing whether a business has effective IT controls. 
+
+The Act created the Public Company Accounting Oversight Board (PCAOB), a private-sector, non-profit corporation, to oversee the implementation of SOX 404 (in particular the release of Auditing Standard #2) and "the auditors of public companies in order to protect the interests of investors and further the public interest in the preparation of informative, fair, and independent audit reports."

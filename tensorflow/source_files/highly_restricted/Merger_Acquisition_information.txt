@@ -1,0 +1,29 @@
+An acquisition or merger is not a frequent event for my organization. However, it seems like in the past year or so we have worked on a number of these activities. So, it seems like it may be time to create a formalized checklist for the IT department items that need to be addressed during an acquisition.
+
+To get the ball rolling, I am listing some items that I consider to be important to the infrastructure/security folks like me. I know this list is not exhaustive or complete. It is a work in progress and will need to be refined for each event since they are all different. Some of these may be done in the due-diligence but the rubber hits the road during the implementation.
+
+So, without further ado:
+Absorbing a new acquisition – to do list (general & incomplete)
+Private WAN connectivity – 30-90 days or more lead time depending on location
+flexible IP addressing scheme to absorb devices on new network(s)
+Internet firewall changes – ports, source addresses, NAT, etc.
+DNS ownership and management changing registrars
+changing DNS nameservers – use a dig tool to get information concerning current configuration – MenAndMice
+
+Network hygiene – how clean are the devices and what personnel habits need to be changed?
+Device inventory – what effort will it take to do this?
+Software licensing inventory
+What about handling loss of staff & knowledge? ? Documentation of processes, procedures, configurations?
+
+Phone list sharing
+E-mail addressbook sharing
+E-mail system integration anti-spam/anti-virus
+calendar sharing
+
+ERP process integration
+Resource access permissions
+Financial reporting integration – accounts payable, receivable, tax, etc.
+Staff reporting structure
+Other HR activities – benefits, payroll, etc.
+
+I welcome your insight and experience on the many other activities you feel is important to address during a merger/acquisition.
