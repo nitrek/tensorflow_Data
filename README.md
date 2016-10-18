@@ -24,6 +24,7 @@ We are using Softmax to classify and tfidf to build the data
 ---
 >**Todo**
 > 1.  fix the training and prediction data (dont randomize)
+> 2.  k fold cross validation
 
 
 
