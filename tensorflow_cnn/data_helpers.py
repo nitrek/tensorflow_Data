@@ -20,7 +20,7 @@ def initial_data_processing():
 
 	
 	for category in categories:
-		directory = category
+		directory = "../tensorflow/source_files/"+category
 		filenames = os.listdir(directory)
 		for file in filenames:
 			f_name = os.path.join(directory,file)
@@ -71,21 +71,21 @@ def load_data_and_labels():
     p_examples = [s.strip() for s in p_examples]
     i_examples = list(open(p_file_path, "r").readlines())
     i_examples = [s.strip() for s in i_examples]
-	r_examples = list(open(r_file_path, "r").readlines())
+    r_examples = list(open(r_file_path, "r").readlines())
     r_examples = [s.strip() for s in r_examples]
-	h_examples = list(open(h_file_path, "r").readlines())
+    h_examples = list(open(h_file_path, "r").readlines())
     h_examples = [s.strip() for s in h_examples]
-	
-	
-	
+
+
+
     # Split by words and clean the data
     x_text = p_examples + i_examples + r_examples + h_examples 
     x_text = [clean_str(sent) for sent in x_text]
-	
+
     # Generate labels
     p_labels = [[0, 0, 0, 1] for _ in p_examples]
     i_labels = [[0, 0, 1, 0] for _ in i_examples]
-	r_labels = [[0, 1, 0, 0] for _ in r_examples]
+    r_labels = [[0, 1, 0, 0] for _ in r_examples]
     h_labels = [[1, 0, 0, 0] for _ in h_examples]
 	
     y = np.concatenate([p_labels, i_labels, r_labels , h_labels], 0)
