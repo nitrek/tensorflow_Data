@@ -1,3 +1,5 @@
+#https://github.com/dennybritz/cnn-text-classification-tf
+
 import numpy as np
 import re
 import itertools
