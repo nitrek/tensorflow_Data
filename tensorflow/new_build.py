@@ -135,6 +135,9 @@ class DocReader():
         features = set(bagOfWords)
         print len(features)
         featureDict = {feature:i for i,feature in enumerate(features)}
+        with open("bagOfWords.csv", "w") as output:
+            for el in features:
+                output.write(el+'\n')
         #bagOfWords = self.create_bag_of_words(testPaths)
         #features = set(bagOfWordsTest)
         #featureDict = {feature:i for i,feature in enumerate(features)}
