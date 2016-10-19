@@ -9,7 +9,6 @@ import data_helpers
 from text_cnn import TextCNN
 from tensorflow.contrib import learn
 
-
 # Model Hyperparameters
 tf.flags.DEFINE_integer("embedding_dim", 5200, "Dimensionality of character embedding (default: 5200)")
 tf.flags.DEFINE_string("filter_sizes", "3,4,5", "Comma-separated filter sizes (default: '3,4,5')")
@@ -26,6 +25,7 @@ tf.flags.DEFINE_integer("checkpoint_every", 100, "Save model after this many ste
 tf.flags.DEFINE_boolean("allow_soft_placement", True, "Allow device soft device placement")
 tf.flags.DEFINE_boolean("log_device_placement", False, "Log placement of ops on devices")
 
+# Printing the values of flags
 FLAGS = tf.flags.FLAGS
 FLAGS._parse_flags()
 print("\nParameters:")
@@ -37,6 +37,8 @@ print("")
 # Data Preparatopn
 # ==================================================
 
+
+# Creating the data files and doing initial processing 
 data_helpers.initial_data_processing()
 
 
@@ -92,14 +94,14 @@ with tf.Graph().as_default():
         train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
 
         # Keep track of gradient values and sparsity (optional)
-        grad_summaries = []
-        for g, v in grads_and_vars:
-            if g is not None:
-                grad_hist_summary = tf.histogram_summary("{}/grad/hist".format(v.name), g)
-                sparsity_summary = tf.scalar_summary("{}/grad/sparsity".format(v.name), tf.nn.zero_fraction(g))
-                grad_summaries.append(grad_hist_summary)
-                grad_summaries.append(sparsity_summary)
-        grad_summaries_merged = tf.merge_summary(grad_summaries)
+        # grad_summaries = []
+        # for g, v in grads_and_vars:
+            # if g is not None:
+                # grad_hist_summary = tf.histogram_summary("{}/grad/hist".format(v.name), g)
+                # sparsity_summary = tf.scalar_summary("{}/grad/sparsity".format(v.name), tf.nn.zero_fraction(g))
+                # grad_summaries.append(grad_hist_summary)
+                # grad_summaries.append(sparsity_summary)
+        # grad_summaries_merged = tf.merge_summary(grad_summaries)
 
         # Output directory for models and summaries
         timestamp = str(int(time.time()))
@@ -181,4 +183,5 @@ with tf.Graph().as_default():
             if current_step % FLAGS.checkpoint_every == 0:
                 path = saver.save(sess, checkpoint_prefix, global_step=current_step)
                 print("Saved model checkpoint to {}\n".format(path))
+
 
