@@ -9,13 +9,9 @@ import data_helpers
 from text_cnn import TextCNN
 from tensorflow.contrib import learn
 
-# Parameters
-# ==================================================
-
-data_helpers.initial_data_processing()
 
 # Model Hyperparameters
-tf.flags.DEFINE_integer("embedding_dim", 52000, "Dimensionality of character embedding (default: 52000)")
+tf.flags.DEFINE_integer("embedding_dim", 5200, "Dimensionality of character embedding (default: 5200)")
 tf.flags.DEFINE_string("filter_sizes", "3,4,5", "Comma-separated filter sizes (default: '3,4,5')")
 tf.flags.DEFINE_integer("num_filters", 128, "Number of filters per filter size (default: 128)")
 tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
@@ -41,6 +37,9 @@ print("")
 # Data Preparatopn
 # ==================================================
 
+data_helpers.initial_data_processing()
+
+
 # Load data
 print("Loading data...")
 x_text, y = data_helpers.load_data_and_labels()
@@ -62,6 +61,10 @@ x_train, x_dev = x_shuffled[:-1000], x_shuffled[-1000:]
 y_train, y_dev = y_shuffled[:-1000], y_shuffled[-1000:]
 print("Vocabulary Size: {:d}".format(len(vocab_processor.vocabulary_)))
 print("Train/Dev split: {:d}/{:d}".format(len(y_train), len(y_dev)))
+
+print(x_train.shape[1])
+print(y_train.shape[1])
+
 
 
 # Training
