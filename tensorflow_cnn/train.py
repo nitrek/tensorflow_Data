@@ -57,15 +57,15 @@ shuffle_indices = np.random.permutation(np.arange(len(y)))
 x_shuffled = x[shuffle_indices]
 y_shuffled = y[shuffle_indices]
 
+
 # Split train/test set
 # TODO: This is very crude, should use cross-validation
-x_train, x_dev = x_shuffled[:-1000], x_shuffled[-1000:]
-y_train, y_dev = y_shuffled[:-1000], y_shuffled[-1000:]
+x_train, x_dev = x_shuffled[:-10], x_shuffled[-10:]
+y_train, y_dev = y_shuffled[:-10], y_shuffled[-10:]
 print("Vocabulary Size: {:d}".format(len(vocab_processor.vocabulary_)))
 print("Train/Dev split: {:d}/{:d}".format(len(y_train), len(y_dev)))
 
-print(x_train.shape[1])
-print(y_train.shape[1])
+
 
 
 
@@ -94,14 +94,14 @@ with tf.Graph().as_default():
         train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
 
         # Keep track of gradient values and sparsity (optional)
-        # grad_summaries = []
-        # for g, v in grads_and_vars:
-            # if g is not None:
-                # grad_hist_summary = tf.histogram_summary("{}/grad/hist".format(v.name), g)
-                # sparsity_summary = tf.scalar_summary("{}/grad/sparsity".format(v.name), tf.nn.zero_fraction(g))
-                # grad_summaries.append(grad_hist_summary)
-                # grad_summaries.append(sparsity_summary)
-        # grad_summaries_merged = tf.merge_summary(grad_summaries)
+        grad_summaries = []
+        for g, v in grads_and_vars:
+            if g is not None:
+                grad_hist_summary = tf.histogram_summary("{}/grad/hist".format(v.name), g)
+                sparsity_summary = tf.scalar_summary("{}/grad/sparsity".format(v.name), tf.nn.zero_fraction(g))
+                grad_summaries.append(grad_hist_summary)
+                grad_summaries.append(sparsity_summary)
+        grad_summaries_merged = tf.merge_summary(grad_summaries)
 
         # Output directory for models and summaries
         timestamp = str(int(time.time()))
@@ -169,6 +169,7 @@ with tf.Graph().as_default():
                 writer.add_summary(summaries, step)
 
         # Generate batches
+
         batches = data_helpers.batch_iter(
             list(zip(x_train, y_train)), FLAGS.batch_size, FLAGS.num_epochs)
         # Training loop. For each batch...

@@ -1,0 +1,303 @@
+The following questions were discussed in the telephone conference call with
+Enron on September 26th.  We have inserted Enron's answers in Blue and have
+highlighted follow-ups and offline discussions in Red.
+
+
+Questions for Enron to answer regarding True Quote's interface:
+
+High Priority Questions (need to be addressed):
+(From Exhibit A) Will the product ID that Enron is transmitting specifically
+identify a product offering including commodity, deal type, region /
+location, and tradable term (fully qualified begin and end dates)?
+
+Product ID is a fully transactable item - Product, Location, Dates
+Product ID is a fully qualified instrument - excluding price, volume and
+counterparty
+Product ID can be for next day and balance of month.  However, on next to
+last day of month, the Product ID will offer either next day or BOM, not
+both (there is no reason for redundancy)
+Product ID that is for anything, except for the rolling Tokenized
+products/dates (example: For a spot month, the Product ID will expire on the
+first day of that spot month)
+Currency and Unit of measure is implied as part of Product ID, but it is not
+an attribute
+
+
+(From Exhibit B) Can we confirm a transaction attempt against Enron for an
+Enron product id is a "Fill or Kill" transaction, meaning, a transaction
+attempt submitted to Enron would not stay in their system if it was not
+immediately filled.  If the deal is not confirmed by Enron, the order will
+be immediately removed from Enron's system and could not be filled later if
+market conditions made the order viable.
+
+A transaction attempt by TrueQuote will be "Fill or Kill" (It will not in
+stay in EOL's system)
+
+If the deal is not confirmed by Enron due to non-availability of volume,
+these volumes need to be expired in the True Quote system
+
+If a transaction attempt fails for ANY reason, Enron will immediately
+rebroadcast that Product to the True Quote system
+
+Does True Quote need to design functionality for partial fill of a deal
+transaction for an outside entity?
+
+Enron will do partial fills.  The True Quote system needs to design
+functionality to accept partial fills from an outside entity.
+
+What is the time threshold for waiting on an Enron response to a transaction
+attempt?
+
+Enron will accept whatever True Quote determines is an acceptable threshold
+for waiting.
+
+What is the estimated delivery date for Enron's DTDs?
+
+The EnronOnline Exchanges External Interface Document was received on
+Monday, October 2, 2000.
+
+Exhibit A (Enron Price Interface-what Enron sends to TQ):
+
+Concerning the Enron price interface, Enron has stated that EOL currently
+handles prices/volume updates at the rate of 100 updates per second, growing
+potentially to 500 per second (across all EOL product offerings).  Given
+this level of update activity, how will the transmission of these updates be
+accomplished?  Below are some questions which should clarify these concerns:
+
+What is the expected rate of updates for the sub-set of EOL products that
+will be transmitted to the True Quote platform?  Is it expected that these
+products will also endure update activity at the rate of 100-500 updates per
+second?
+
+Although it was not communicated how often an XML document will be sent, it
+was clarified that the XML documents will be sent at certain time
+intervals.Each update will contain all information since last time polled
+(includes all changes (only changes) since last transmission)
+Need to clarify if True Quote will be polling EOL for Updates, or if EOL
+will send them automatically at certain time intervals.
+
+Will there be one XML document interface transmission for each Enron product
+update, or will one XML document interface contain updates for multiple
+Enron products?  The implications of this are as follows:  Will True Quote
+need to handle 100-500 XML documents per second, or will True Quote receive
+one XML document at a determined interval that has updates for all Enron
+products?  If the XML document contains updates for all Enron products, how
+often will Enron send us the document?   If it's one XML document per Enron
+product, will True Quote be expected to handle 100-500 XML document
+submissions per second?
+
+The XML document will contain updates for multiple Product IDs.  If only one
+Product ID has changed in EOL since the last transmission, then only one
+Product ID will be sent to True Quote in the updates.
+
+Can we confirm that Enron will only submit one price/volume offering per
+Enron product id; meaning, Enron will never have multiple price and quantity
+offerings for the same Enron product ID on the True Quote platform.
+
+Enron will never send Market Depth for any Product ID.  What you see on EOL
+is exactly what is transmitted to True Quote (one offering per Enron Product
+ID).  However, each Product ID update will contain both the Bid and the
+Offer.
+
+The interface currently does not have a field to define the duration of the
+order.  Given this, can we assume that when the price interface submits a
+product price/volume update to the True Quote platform, the order will be
+loaded with a duration of "Good Until Canceled".  True Quote will mark the
+order as 'GTC' until Enron submits a new XML document for that Enron product
+that changes the status to "Suspended".  In this case True Quote would
+cancel the order on the True Quote system.
+
+All orders will remain on the True Quote system until the EOL traders pull
+the deals.  At this time, EOL would send "Suspended Status" for the Product
+ID.
+
+How are terms related to Enron Product IDs?  Example:  For a given Enron
+commodity, deal type, and location that is traded in October, would a new
+product id be created for that same product offering when the month rolls to
+November?
+ Yes
+
+If product ids do not include a direct relationship to a specific tradable
+term, when a Price Interface XML document is submitted to the True Quote
+platform, how will True Quote know which trade term the product id is
+associated with?
+Product IDs do have a direct relationship to a specific tradable term
+
+We are currently assuming that an Enron product id specifically identifies a
+product offering including commodity, deal type, region/location, and
+tradable term.
+This assumption is correct
+
+Can we confirm that all Enron orders transmitted to the True Quote platform
+will be cancelled at the end of the day and that all products will be
+re-loaded into the True Quote system the following morning?  If not,  will
+the assumed 'Good Until Canceled' duration for each product id remain active
+until the status has been changed to "Suspended"?
+
+All EOL orders should be removed by the traders at the end of the day.  For
+those that are not removed, True Quote should run a nightly batch job that
+removes all EOL orders left in the system.  Each morning, True Quote will
+authenticate with EOL, and at this time, all orders on EOL will be
+transmitted to True Quote.
+
+Exhibit B (Transaction Interface with Enron):
+
+For each field (across all interfaces), we will need clearly defined data
+types (precision, range of length, space/bytes it takes).
+
+This information still needs to be provided.
+
+Can we assume the Bid/Ask flag is an integer? Perhaps a bit?  If it's a
+character, what is the character indicator?  B/A?
+
+This information still needs to be provided.
+
+Can we confirm the data type for volume is integer?
+
+This information still needs to be provided.
+
+Across all interfaces, there is not a defined unit of measure for price and
+volume by Enron product id.   Should part of the XML DTD specify the unit of
+measure for both price and volume, or are we to assume that Enron product
+ids for Power are in US dollars and megawatt/hr, and Enron product ids for
+natural gas are US dollars and MMBTU?
+
+Currency and Unit of measure is implied as part of Product ID, but it is not
+an attribute
+
+Price - how many decimal places? (precision of the number)
+
+This information still needs to be provided.
+
+Volume and Price - Does Enron have an min / max / default increment value
+established for price and volume increment ranges by Enron product id?  (For
+example, within True Quote the default volume increment for natural gas is
+5000, and the price increment is $0.0025.  Both the price and volume
+increments, min/max ranges can vary by region or location).
+
+On EOL, the traders determine the minimal tradable increments and the
+minimal tradable amounts (this minimums could be as low as 1).
+
+To be worked Offline:
+How to handle increments <> 5000 increment on the Enron side (will we only
+display the 5000 increment below the volume submitted by Enron, if trader
+has a minimum greater than entities are willing to participate, how do we
+display this and how does the minimum increment come across in the order)
+
+
+Can we confirm a transaction attempt against Enron for an Enron product id
+is a "Fill or Kill" transaction, meaning, a transaction attempt submitted to
+Enron would not stay in their system if it was not immediately filled.  If
+the deal is not confirmed by Enron, the order will be immediately removed
+from Enron's system and could not be filled later if market conditions made
+the order viable.  If the deal is not confirmed by Enron due to
+non-availability of volume, these volumes need to be expired in the True
+Quote system.
+
+Already answered above.
+
+Will Enron allow partial fill of transactions?   For example, if the Enron
+price interface submits an offer with 20,000 mmbtu available, can True Quote
+submit a transaction bid attempt to take only 10,000 mmbtu of the Enron
+offer?   If not, is it a valid assumption that we can only submit a
+transaction attempt to lift the entire Enron offer of 20,000 mmbtu?
+
+Enron will allow partial fills.
+
+Exhibit C (True Quote Price Interface-what TQ sends to Enron):
+Does Enron expect True Quote to submit a single price point offering for an
+Enron product id that is the aggregate total volume of all orders available
+for that product id on the True Quote platform at the best available price?
+This would allow Enron to submit a transaction attempt against the True
+Quote platform, submitting a volume request that would potentially sweep
+multiple counter parties creating deals with all entities necessary to
+satisfy transaction attempt.
+Alternative 2:  Does Enron expect True Quote to submit only the best
+individual order (the best price and volume for an Enron product id from
+only one counterparty) identified by its True Quote order id (True Quote
+would not transmit the counter party id; however, before sending the XML
+interface to Enron, the counterparty would have to pass the credit rules
+maintained in the counterparty credit matrix on the True Quote platform).
+Alternative 3:  Would Enron expect True Quote to submit multiple price
+offerings per Enron product id (a market depth of various price and volume
+offerings).  In this scenario, the volume associated with each price point
+should be an aggregate of multiple True Quote orders (as shown in the True
+Quote market screen).  The XML interface could potentially transmit
+individual True Quote orders and their associated volumes (not an aggregate
+volume of multiple orders); however, giving Enron the ability to 'pick and
+choose' individual orders could potentially violate True Quote customer
+service agreements that require deals to be executed in the chronological
+sequence that the order request was received by the True Quote platform.
+
+Enron wants to see the granularity of each True Quote Product ID order.
+Enron expects True Quote to submit multiple price offerings per Enron
+Product ID.  (Example:  If  True Quote has an order in the system for
+100,000 MMbtu's at $3.00, which is comprised of 10 individual orders of
+10,000, Enron wants True Quote to send all of the individual orders).
+
+To be worked Offline:
+Fair and equitable treatment with prices sent to Enron (proper processing of
+orders without bias)
+Need to discuss in more detail how to handle EOL price interface
+transactions and Enron Trader transactions
+Need to clarify with Enron whether they want to receive the best price in
+the market for a given Product ID, or if they want to see all of a given
+Product ID's market depth.
+
+Our concern is that if True Quote transmits individual True Quote orders and
+their associated volumes (not an aggregate volume of multiple orders),
+giving Enron the ability to 'pick and choose' individual orders, this could
+potentially violate True Quote customer service agreements that require
+deals to be executed in the chronological sequence that the order request
+was received by the True Quote platform.
+
+
+Exhibit D (Sponsor Transaction Interface):
+Are we correct in assuming that transactions posted by Enron traders against
+True Quote deals will be executed on the True Quote system?  Will the
+duration of the order attempts being sent to True Quote be "Fill or Kill" or
+some other duration?
+
+To be worked Offline:
+The traders will want to transact against True Quote directly without
+adjusting the market position through EOL, but how this is accomplished will
+be to be discussed.
+
+Exhibit E (Counterparty Interface):
+In general, we need more details about what Enron will be sending as part of
+their daily counterparty credit / term interface, as well as the intra-day
+counterparty credit/term interface:
+Currently, exhibit E does not specific any fields or data types within an
+XML DTD.
+What are the "terms" under which participants can trade with Enron?  For
+example, will the level of restriction include volumetric limits, financial
+limits, tradable date range limits (number days or months into the future)
+by Enron product id (assuming a product id specifically defines a commodity,
+deal-type, region/location, and tradable term).  Will Enron send us a 'yes /
+no' flag to turn off/on a counterparty's ability to trade with Enron by the
+Enron product id?
+
+To be worked Offline:
+Credit terms and counterparty interface details were not addressed in the
+teleconference.  The details of granularity will need to addressed to better
+understand the responsibilities that True Quote will have in handling
+Enron's credit structure.
+
+
+Questions for True Quote to Answer:
+
+Exhibit D:  Does the Sponsor Transaction interface (Enron proposing
+transactions on the True Quote platform) still invoke the Enron Transaction
+Interface?  There was some discussion that if internal Enron traders
+proposed transactions against the True Quote platform, the point of
+transaction would be the True Quote platform, and True Quote would not have
+to invoke the transaction on the EOL platform.  True Quote would simply
+confirm whether the Enron transaction attempt succeeded or failed.  If it
+succeeded, True Quote would send a confirmation XML interface to confirm the
+deal had been executed and transmit the True Quote Deal ID to Enron.
+What is the time threshold for waiting on Enron's response to a transaction
+attempt?  For example, after 'n' seconds the True Quote platform should
+alert a system operator that an Enron transaction attempt has failed to
+return either a confirmation or failure.
+
+Please respond to the questions above.

@@ -1,0 +1,20 @@
+True Quote on February 20, 2001 we discussed a testing plan that would target a go live date of March 12, 2001.  Due to consistent delays in delivery of the True Quote test sight and GUI, we have not been able to complete many aspects of the plan.  The limited testing we have done since getting a functional GUI on Wednesday has identified the following issues:
+
+1. Unable to view and verify the test products for EnronOnline  Power.
+2. Unable to verify failed transaction errors on the TrueQuote test site. No error messages are being sent when transactions fail. (only able to verify failures reasons that reach EOL).
+3. Unable to stress test the system.
+4. Prices and volume updates are being processed serially and are updating EXTREMELY slow.
+5. Order History link on TQ test site does not appear to be functioning.  
+
+In order to move this process along we would like to see significant progress by Monday March 12th.  In particular we would like to see the following:
+
+1. At least 80% of the continuous price update standard of 20 - 25 updates per second
+2. At least 80% of the peak price update standard of 100 - 200 updates per second
+3. Ability to view and verify EnronOnline Power products
+4. Ability to verify failed transactions on the True Quote
+
+If we are able to see the progress on Monday we will need to begin stress testing immediately.  Throughout next week we will monitor progress on the stress testing and determine the next course of action.  The delays thus far have caused us to reschedule our testing teams calendar impacting other EnronOnline testing and roll-out.  Further delays will continue to impact our development and testing schedule.
+
+As I mentioned I think it would be beneficial to have one of our testers working at your sight to make sure that we all are seeing the same issues and progress as True Quote.  We are agreeable to have one of our employees to your location to accomplish this.
+
+I would also like to finalize discussions around the Access Agreement.  I will have Mark Greenberg send our comments.  Lets plan on talking on Monday to discuss the next step on this.

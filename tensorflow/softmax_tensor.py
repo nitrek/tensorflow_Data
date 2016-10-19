@@ -25,7 +25,7 @@ numFeatures = trainX.shape[1]
 
 numLabels = trainY.shape[1]
 
-numEpochs = 1000
+numEpochs = 25000
 
 # learningRate = tf.train.exponential_decay(learning_rate=0.0008,
 #                                           global_step= 1,
@@ -61,7 +61,7 @@ activation_OP = tf.nn.softmax(tf.matmul(X, weights) + bias)
 
 cost_OP = tf.reduce_mean(-tf.reduce_sum(yGold * tf.log(activation_OP), reduction_indices = [1]))
 
-training_OP = tf.train.GradientDescentOptimizer(0.2).minimize(cost_OP)
+training_OP = tf.train.GradientDescentOptimizer(0.05).minimize(cost_OP)
 
 # training_OP = tf.train.GradientDescentOptimizer(0.5).minimize(cost_OP)
 

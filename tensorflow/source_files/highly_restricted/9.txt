@@ -1,0 +1,70 @@
+Product ID
+* Product ID is a fully transactable item  and fully qualified instrument -
+Includes: Product, Location, Dates; Excludes: Price, Volume and Couterparty
+* Tokenized Dates:  Product ID for next day and balance of month are
+tokenized dates which means that the product ID will remain the same for
+designated date range (next day, next 2 days, BOM, etc).  The dates will
+role, but the product ID will remain the same
+* Product IDs for anything but the rolling Tokenized products/dates (i.e. -
+spot month), expire after date has been reached.
+* There will be no redundancy of product IDs that encompass the same date
+ranges (i.e.:  there are usually two separate product IDs for next day and
+balance of month, but when the next to the last day of the month is reached,
+both will reference the same day.  At this point, Enron will only have one
+product ID associated with the given date range)
+* Enron has set up product IDs to adequately reflect Weekend trading on
+Friday (deals entered for Saturday will encompass Sat - Mon (and include
+extra days when Holidays are involved))
+* Once a strip term has been reached, trades within the month then change to
+the tokenized product IDs.
+* Enron will Fill or Kill all transaction attempts - they will execute or
+cancel the trade immediately
+* Enron will Partial fills transaction attempts
+* When True Quote sends a request for a transaction, the threshold for
+waiting on a response from Enron will be defined by True Quote.
+* Trade failure will re-broadcast product (failure for any reason)
+* If for any reason there is a concern about a product, True Quote can
+request (HTTP) validation of the product in question
+* Frequency of updates:  Enron will send True Quote a document that contains
+all information since last time polled (includes all changes (only changes)
+since last transmission)
+* Every product sent will have only one bid and offer price associated with
+it at time of transmission.  What you see on EOL is what is sent to True
+Quote.
+* There will be no market depth transmitted to True Quote from Enron
+* Duration of orders
+* Orders will be displayed on True Quote until suspended by traders
+* All orders will remain on system until traders pull deals
+* True Quote session is finite (7 -7).  At the end of every day all deals
+will be removed from True Quote (either by Enron traders removing them, or
+TRUE QUOTE will run a batch job to clear Enron deals).  In the morning, TRUE
+QUOTE will authenticate and all products will be loaded from Enron to TRUE
+QUOTE.
+* The Currency and Unit of measure are implied as part of Product ID, it's
+not an attribute.
+* Granularity of orders transmitted from True Quote to Enron will show each
+order associated with each price and volume of a Product ID (i.e. 100,000
+mmbtu @ $5 is made up of 10 separate orders of 10,000, Enron would like to
+see all 10 orders of 10,000 - including counterparty information)
+* Transaction attempts made from True Quote to EOL - Point of execution will
+be on EOL
+* Transaction attempts made by Enron Traders against True Quote price
+postings will be executed on True Quote
+
+Offline:
+* Will we know if a transaction has failed due to volume not available,
+credit failure, or Enron has not heard of the transaction
+* How to handle increments <> 5000 increment on the Enron side (will we only
+display the 5000 increment below the volume submitted by Enron; if trader
+has a minimum tradable volume greater than entities are willing to
+participate (i.e. Enron minimum tradable amount is 10,000 or 15,000) how do
+we display this and how does the minimum increment come across in the order)
+* If we transmit to Enron the granularity of all orders (including
+counterparty information), how will True Quote / Enron ensure the fair and
+equitable treatment with prices sent to Enron (proper processing of orders
+without bias)
+* Business question: how much do we want to send Enron (they are ok with
+sending each order for all price points in an instrument), do we show top 1
+or top 5?
+* Need to discuss in more detail how to handle EOL price interface
+transactions and Enron Trader transactions

@@ -1,0 +1,58 @@
+I really appreciate your efforts in adding another hour to our meeting this
+afternoon and in making Jay available for the discussion.  The following is
+a list of technical questions that we would like to discuss in this
+afternoon's meeting:
+
+1) This one is probably going to be discussed in the first two hours - We
+will need to have the data to populate our tables with in order to map PID,
+CPID, RID, PSETID, CATGID, CTYID, CMDTYID.  The non-technical people know
+all of the information about the products, deal types, etc.  However, do
+they know that for example, PID "123" maps back to Product "ABC"?  I would
+think the technical people are the ones that know how this codes map back to
+specific product information on your system.
+
+2) Could you provide us a little background on why Credit term changed from
+"Required" to "Implied" during the last version of the DTD that we received
+from you?
+
+3) We sent this question a few days ago, but have not received a response:
+There are several different parameter names specified for the XML that is
+passed between systems.
+The following is a list of those specified in the External Interface
+Document:
+
+Post Prices:  prices (Page 12, Notes, Decision 1, Parameters)
+Request Prices:  prices (Page 14, Notes, Decision 1, Parameters)
+Attempt Transaction: txn (Page 16, Notes, Decision 1, Parameters)
+Post Product Set Data: xml (Page 26, Notes, Decision 1, Parameters)
+Post Credit Matrix: xml (Page 28, Notes, Decision 1, Parameters)
+
+Should all of the parameter names be "xml" or should the parameter names for
+Post Product Set Data and Post Credit Matrix be changed to reflect the
+naming convention of the other use cases?
+
+Using "xml" as the parameter name for all use cases will reduce the
+redundancy of the code we'll need to write to route the data to our internal
+interfaces.
+
+4) We still have some concerns over having to maintain Enron's calendar on
+our system since term is sent as part of the key.  We would like to discuss
+alternatives for dealing with date interpretation.
+
+5) We had asked a question earlier regarding business responses being sent
+back within the same HTTP session.   We are going to assume that
+confirmation comes back in the HTTP response since there has been no
+interface defined for business responses.  We would like to confirm this
+assumption in this meeting.
+
+6) Is there going to be some capability of cancelling a transaction attempt
+if for some reason we do not receive a response back from Enron on a
+transaction attempt and a subsequent transaction search?
+
+7) Would Enron consider posting all of their requests to a .asp file as
+opposed to a file with no extension (ext_nrt.asp instead of ext_nrt)?  It is
+a generally accepted practice to include file extensions when transporting
+files.
+
+Thanks again for everything David.  We will look forward to talking to you
+later today!

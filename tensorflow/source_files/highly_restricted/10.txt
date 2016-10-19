@@ -1,0 +1,14 @@
+Here is our status as of yesterday and answers to Richard's comments:
+
+Primary issue:  4 to 5 second latency between Enron Stack/EnronOnline TEST changes to TrueQuote browser update. Updates from the Enron Stack to the True Quote interface bridge are instantaneous. 
+
+Other issues:
+1.  Products hit/lifted on Truequote do not show price/volume updates from EnronOnline after transaction is complete on EnronOnline.
+2.  Multiple product activation results in a "stepped" display of products on Truequote browser as opposed to all at once on EnronOnline.
+3.  EnronOnline sends a bundle of information (e.g. products activated, prices changed, etc.) to the Truequote server.  Truequote server takes longer to process the incoming data than the EnronOnline server will stay connected.  Truequote has possibly resolved this issue by sending an immediate response for all incoming data in order to prevent the EnronOnline server from cutting the connection.
+
+Oracle error:	Kevin Meredith  forwarded the email containing the text for the Oracle error to Kenneth Lim at 7:21AM.  Kenneth responded with an answer as to why we were receiving the error for transaction attempts by 7:36AM.  I informed Stewart Clark as to the status of the issue surrounding the Oracle error in our first conversation at approximately 9:00AM.  Kenneth's response: Approximately 6:20pm Wed night, there was an update to the TEST database which caused this error, we resolved this error along with our internal EnronOnlineTEST site with the resynching of our servers.
+
+Price Update on any transaction attempt: This has always been the case with EnronOnline to ensure the correct price is showing
+
+Chris please call me on my cell 713 825-6372
