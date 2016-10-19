@@ -63,6 +63,7 @@ class DocReader():
                     # print key, value, filePath
                     if key in featureDict:
                         featureMatrix[i,featureDict[key]] = value
+                        print key,type(featureDict)
         return featureMatrix
 
     def regularize_vectors(self,featureMatrix):
