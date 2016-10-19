@@ -69,13 +69,13 @@ yGold = tf.placeholder(tf.float32, [None, numLabels])
 # weights = tf.Variable(tf.zeros([numFeatures,numLabels]))
 
 # bias = tf.Variable(tf.zeros([1,numLabels]))
-
+tf.set_random_seed(22)
 weights = tf.Variable(tf.random_normal([numFeatures,numLabels],
                                        mean=0,
                                        stddev=(np.sqrt(6/numFeatures+
                                                          numLabels+1)),
                                        name="weights"))
-
+tf.set_random_seed(22)
 bias = tf.Variable(tf.random_normal([1,numLabels],
                                     mean=0,
                                     stddev=(np.sqrt(6/numFeatures+numLabels+1)),
@@ -148,6 +148,6 @@ if __name__ == "__main__":
     # prediction = sess.run(activation)
 
     for i in range(len(testX)):
-        print("regression predicts email %s to be %s and is actually %s" %(str(i + 1), labelToString(prediction[i]), labelToString(testY[i])))
+        print("regression predicts %s to be %s and is actually %s" %(str(i + 1), labelToString(prediction[i]), labelToString(testY[i])))
     print("overall accuracy of dataset: %s percent" %str(evaluation))
 

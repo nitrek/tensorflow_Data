@@ -37,7 +37,7 @@ numEpochs = 1000
 X = tf.placeholder(tf.float32, [None, numFeatures])
 
 yGold = tf.placeholder(tf.float32, [None, numLabels])
-
+tf.set_random_seed(100)
 weights = tf.Variable(tf.random_normal([numFeatures,numLabels],
                                        mean=0,
                                        stddev=(np.sqrt(6/numFeatures+
@@ -137,9 +137,11 @@ for i in range(numEpochs):
             accuracyLine, = ax1.plot(epoch_values, accuracy_values)
             costLine, = ax2.plot(epoch_values, cost_values)
             fig.canvas.draw()
-            time.sleep(1)
+            # plt.plot(accuracyLine, costLine)
+            # time.sleep(1)
 
-
+# fig.show()
+fig.savefig("plots.png")
 # print("final accuracy on test set: %s" %str(sess.run(accuracy_OP, feed_dict={X: testX, yGold: testY})))
 
 saver = tf.train.Saver()

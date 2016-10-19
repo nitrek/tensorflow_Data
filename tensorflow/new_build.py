@@ -100,6 +100,7 @@ class DocReader():
 
         # get test set as random subsample of all data
         numTest = int(percentTest * len(pathLabelPairs))
+        random.seed(100)
         testing = set(random.sample(pathLabelPairs.items(),numTest))
 
         # delete testing data from superset of all data
@@ -130,6 +131,7 @@ class DocReader():
         #     if freq > cutoff:
         #         newBagOfWords.append(word)
         features = set(bagOfWords)
+        print len(features)
         featureDict = {feature:i for i,feature in enumerate(features)}
         #bagOfWords = self.create_bag_of_words(testPaths)
         #features = set(bagOfWordsTest)
