@@ -1,11 +1,10 @@
 import numpy as np
-import tensorflow as tf
-import tarfile
 import os
 import re
 from collections import Counter
 import csv
 from nltk.corpus import stopwords
+
 def get_feature_matrix(filePaths, featureDict):
 	featureMatrix = np.zeros(shape=(len(filePaths),len(featureDict)),dtype=float)
 	# regex = re.compile("\w+")
@@ -36,6 +35,7 @@ def regularize_vectors(featureMatrix):
         featureMatrix[doc,:] = np.multiply(featureMatrix[doc,:],(1/totalWords))
     return featureMatrix
 
+
 if __name__ == "__main__":
 
 	test_dir = "source_files_to_test"
@@ -57,13 +57,18 @@ if __name__ == "__main__":
 
 	featureDict = {feature:i for i,feature in enumerate(words)}
 
-	f = open("testinput.txt")
-	testinput = []
-	for line in f:
-		line = line.strip()
-		testinput.append(line)
-	f.close()
+	# f = open("testinput.txt")
+	# testinput = []
+	# for line in f:
+	# 	line = line.strip()
+	# 	testinput.append(line)
+	# f.close()
 
 	testX = get_feature_matrix(filePaths,featureDict)
 	testX = regularize_vectors(testX)
-	print testX
+	
+
+	with open("to_predict.csv", "w") as output:
+		writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
+		for el in testX:
+			writer.writerow(el)

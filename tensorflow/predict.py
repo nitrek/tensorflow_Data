@@ -7,16 +7,6 @@ def csv_to_numpy_array(filePath, delimiter):
     return np.genfromtxt(filePath, delimiter=delimiter, dtype=None)
 
 def import_data():
-    # if "data" not in os.listdir(os.getcwd()):
-    #     # Untar directory of data if we haven't already
-    #     tarObject = tarfile.open("data.tar.gz")
-    #     tarObject.extractall()
-    #     tarObject.close()
-    #     print("Extracted tar to current directory")
-    # else:
-    #     # we've already extracted the files
-    #     pass
-
     print("loading training data")
     trainX = csv_to_numpy_array("trainX1.csv", delimiter="\t")
     trainY = csv_to_numpy_array("trainY.csv", delimiter="\t")
@@ -26,16 +16,8 @@ def import_data():
     return trainX,trainY,testX,testY
 
 
-###################
-### IMPORT DATA ###
-###################
-
 trainX,trainY,testX,testY = import_data()
 
-
-#########################
-### GLOBAL PARAMETERS ###
-#########################
 
 # Get our dimensions for our different variables and placeholders:
 # numFeatures = the number of words extracted from each email
