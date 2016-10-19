@@ -21,7 +21,8 @@ class DocReader():
         stop = stopwords.words("english")
         # regex = re.compile("\w+")
         for filePath in filePaths:
-            print filePath
+            # print filePath
+            print '.',
             with open(filePath) as f:
                 raw = f.read().lower()
                 # raw = re.sub(regex,'',raw)
@@ -31,6 +32,7 @@ class DocReader():
                 for token in tokens:
                     if not token in stop:
                         bagOfWords.append(token)
+        print '100%'
         print len(set(bagOfWords))
         return bagOfWords
 
@@ -177,7 +179,7 @@ if __name__ == '__main__':
                                                   internalDir=internalDir,
                                                   restrictedDir=restrictedDir,
                                                   highlyRestrictedDir=highlyRestrictedDir,
-                                                  percentTest=.5,
+                                                  percentTest=.3,
                                                   cutoff=0)
 
     print(trainX.shape)
