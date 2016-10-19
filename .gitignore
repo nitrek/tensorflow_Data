@@ -1,0 +1,13 @@
+tensorflow/summary_logs/
+tensorflow/.ipynb_checkpoints/
+.ipynb_checkpoints/
+tensorflow/*.ipynb
+tensorflow_cnn/*.ipynb
+tensorflow/*.csv
+tensorflow_cnn/*.csv
+tensorflow/*.txt
+tensorflow_cnn/*.txt
+tensorflow_cnn/runs/
+tensorflow/*.ckpt
+tensorflow/*.meta
+tensorflow/*csv#
