@@ -16,5 +16,5 @@ A Tensorflow model to classify documents using Multinomial Logistic Regression (
 - [ ] Fix matplotlib window bug
 - [ ] Write a python script to automate the entire process
 - [ ] k fold
-- [ ] sparce matrix
+- [ ] sparse matrix
 - [ ] overfitting prevention
