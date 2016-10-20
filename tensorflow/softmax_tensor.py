@@ -3,7 +3,7 @@ import tensorflow as tf
 import numpy as np
 import tarfile
 import os
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import time
 
 def csv_to_numpy_array(filePath, delimiter):
@@ -78,15 +78,15 @@ epoch_values=[]
 accuracy_values=[]
 cost_values=[]
 # Turn on interactive plotting
-plt.ion()
+#plt.ion()
 # Create the main, super plot
-fig = plt.figure()
+#fig = plt.figure()
 # Create two subplots on their own axes and give titles
-ax1 = plt.subplot("211")
-ax1.set_title("TRAINING ACCURACY", fontsize=18)
-ax2 = plt.subplot("212")
-ax2.set_title("TRAINING COST", fontsize=18)
-plt.tight_layout()
+#ax1 = plt.subplot("211")
+#ax1.set_title("TRAINING ACCURACY", fontsize=18)
+#ax2 = plt.subplot("212")
+#ax2.set_title("TRAINING COST", fontsize=18)
+#plt.tight_layout()
 
 sess = tf.Session()
 sess.run(init_OP)
@@ -142,14 +142,14 @@ for i in range(numEpochs):
             print("step %d, cost %g"%(i, newCost))
             print("step %d, change in cost %g"%(i, diff))
 
-            accuracyLine, = ax1.plot(epoch_values, accuracy_values)
-            costLine, = ax2.plot(epoch_values, cost_values)
-            fig.canvas.draw()
+            #accuracyLine, = ax1.plot(epoch_values, accuracy_values)
+            #costLine, = ax2.plot(epoch_values, cost_values)
+            #fig.canvas.draw()
             # plt.plot(accuracyLine, costLine)
             # time.sleep(1)
 
 # fig.show()
-fig.savefig("plots.png")
+#fig.savefig("plots.png")
 # print("final accuracy on test set: %s" %str(sess.run(accuracy_OP, feed_dict={X: testX, yGold: testY})))
 
 saver = tf.train.Saver()
