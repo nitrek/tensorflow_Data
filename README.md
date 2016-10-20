@@ -9,9 +9,12 @@ A Tensorflow model to classify documents using Multinomial Logistic Regression (
 - [x] Build train and test csv files
 - [x] Apply TFIDF
 - [x] Apply Softmax Regression
+- [x] Build a bigger list of commonly used words
 
 #### To-do:
-- [ ] Build a bigger list of commonly used words
 - [ ] Add more files for training as well as prediction
 - [ ] Fix matplotlib window bug
 - [ ] Write a python script to automate the entire process
+- [ ] k fold
+- [ ] sparce matrix
+- [ ] overfitting prevention
