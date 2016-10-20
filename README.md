@@ -22,3 +22,9 @@ A Tensorflow model to classify documents using Multinomial Logistic Regression (
 - [ ] check softmax_cross_entropy_with_logits
 - [ ] Write a python script to automate the entire process
 - [ ] Fix matplotlib window bug
+
+#### Ref
+1.  intuitive explanation of overfitting [1]
+
+
+[1]https://www.quora.com/What-is-an-intuitive-explanation-of-overfitting
