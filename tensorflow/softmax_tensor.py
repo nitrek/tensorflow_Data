@@ -153,5 +153,7 @@ for i in range(numEpochs):
 # print("final accuracy on test set: %s" %str(sess.run(accuracy_OP, feed_dict={X: testX, yGold: testY})))
 
 saver = tf.train.Saver()
+
 saver.save(sess, "trained_variables.ckpt")
+
 sess.close()
