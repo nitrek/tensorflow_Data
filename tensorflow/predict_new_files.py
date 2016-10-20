@@ -8,7 +8,7 @@ def csv_to_numpy_array(filePath, delimiter):
 def import_data():
 
     print("loading training data")
-    trainX = csv_to_numpy_array("trainX.csv", delimiter="\t")
+    trainX = csv_to_numpy_array("trainX1.csv", delimiter="\t")
     trainY = csv_to_numpy_array("trainY.csv", delimiter="\t")
     # print("loading test data")
     testX = csv_to_numpy_array("to_predict.csv", delimiter="\t")

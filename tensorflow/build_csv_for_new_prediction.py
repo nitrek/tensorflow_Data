@@ -5,10 +5,17 @@ from collections import Counter
 import csv
 from nltk.corpus import stopwords
 
+stop = []
+
+f = open("stopwords.txt")
+for line in f:
+    stop.append(line.strip())
+f.close()
+
 def get_feature_matrix(filePaths, featureDict):
 	featureMatrix = np.zeros(shape=(len(filePaths),len(featureDict)),dtype=float)
 	# regex = re.compile("\w+")
-	stop = stopwords.words("english")
+	# stop = stopwords.words("english")
 	for i,filePath in enumerate(filePaths):
 		with open(filePath) as f:
 			raw = f.read().lower()
@@ -72,3 +79,5 @@ if __name__ == "__main__":
 		writer = csv.writer(output, lineterminator='\n', delimiter = "\t")
 		for el in testX:
 			writer.writerow(el)
+
+	print "\nSaved the new feature matrix in to_predict.csv\n"

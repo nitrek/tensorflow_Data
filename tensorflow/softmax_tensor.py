@@ -25,7 +25,7 @@ numFeatures = trainX.shape[1]
 
 numLabels = trainY.shape[1]
 
-numEpochs = 2000
+numEpochs = 25000
 
 # learningRate = tf.train.exponential_decay(learning_rate=0.0008,
 #                                           global_step= 1,

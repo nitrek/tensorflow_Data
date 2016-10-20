@@ -4,21 +4,22 @@ import re
 from collections import Counter
 import numpy as np
 import csv
-from nltk.corpus import stopwords
+# from nltk.corpus import stopwords
+
+stop = []
+
+f = open("stopwords.txt")
+for line in f:
+    stop.append(line.strip())
+f.close()
 
 class DocReader():
     def __init__(self):
         pass
 
     def create_bag_of_words(self,filePaths):
-        '''
-        Input:
-          filePaths: Array. A list of absolute filepaths
-        Returns:
-          bagOfWords: Array. All tokens in files
-        '''
         bagOfWords = []
-        stop = stopwords.words("english")
+        # stop = stopwords.words("english")
         # regex = re.compile("\w+")
         for filePath in filePaths:
             # print filePath
@@ -46,7 +47,7 @@ class DocReader():
                                    dtype=float)
 
         # regex = re.compile("\w+")
-        stop = stopwords.words("english")
+        # stop = stopwords.words("english")
         for i,filePath in enumerate(filePaths):
             with open(filePath) as f:
                 raw = f.read().lower()
@@ -63,7 +64,7 @@ class DocReader():
                     # print key, value, filePath
                     if key in featureDict:
                         featureMatrix[i,featureDict[key]] = value
-                        print key,type(featureDict)
+                        # print key,type(featureDict)
         return featureMatrix
 
     def regularize_vectors(self,featureMatrix):
@@ -80,17 +81,7 @@ class DocReader():
         return featureMatrix
 
     def input_data(self,publicDir,internalDir,restrictedDir, highlyRestrictedDir, percentTest,cutoff):
-        ''' 
-        Input:
-          hamDir: String. dir of ham text files
-          spamDir: String. dir of spam text file
-          percentTest: Float. percentage of all data to be assigned to testset
-        Returns:
-          trainPaths: Array. Absolute paths to training emails
-          trainY: Array. Training labels, 0 or 1 int.
-          testPaths: Array. Absolute paths to testing emails
-          testY: Array. Testing labels, 0 or 1 int.
-        '''
+
         pathLabelPairs={}
         for publicPath in glob.glob(publicDir+'*'):
             pathLabelPairs.update({publicPath:(1,0,0,0)})
@@ -167,11 +158,7 @@ def parse_user_args():
 
 
 if __name__ == '__main__':
-    #import sys, argparse
-    # get user input
-    #args = parse_user_args()
-    #hamDir = args.hamDir
-    #spamDir= args.spamDir
+
     publicDir="source_files/public/"
     internalDir="source_files/internal/"
     restrictedDir="source_files/restricted/"
