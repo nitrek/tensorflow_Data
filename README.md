@@ -24,7 +24,4 @@ A Tensorflow model to classify documents using Multinomial Logistic Regression (
 - [ ] Fix matplotlib window bug
 
 #### Ref
-1.  intuitive explanation of overfitting [1]
-
-
-[1]https://www.quora.com/What-is-an-intuitive-explanation-of-overfitting
+1.  [intuitive explanation of overfitting](https://www.quora.com/What-is-an-intuitive-explanation-of-overfitting)
