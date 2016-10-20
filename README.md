@@ -14,7 +14,7 @@ A Tensorflow model to classify documents using Multinomial Logistic Regression (
 #### To-do:
 - [ ] Add more files for training as well as prediction
 - [ ] k fold
-- [ ] overfitting prevention (dropout)
+- [ ] overfitting prevention (dropout(https://www.tensorflow.org/versions/r0.9/tutorials/mnist/pros/index.html))
 - [ ] sparse matrix
 - [ ] find optimal epoch
 - [ ] find optimal learning rate
