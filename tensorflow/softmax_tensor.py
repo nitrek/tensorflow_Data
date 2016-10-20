@@ -37,7 +37,9 @@ numEpochs = 25000
 X = tf.placeholder(tf.float32, [None, numFeatures])
 
 yGold = tf.placeholder(tf.float32, [None, numLabels])
+
 tf.set_random_seed(100)
+
 weights = tf.Variable(tf.random_normal([numFeatures,numLabels],
                                        mean=0,
                                        stddev=(np.sqrt(6/numFeatures+
@@ -54,6 +56,12 @@ init_OP = tf.initialize_all_variables()
 # apply_weights_OP = tf.matmul(X, weights, name="apply_weights")
 # add_bias_OP = tf.add(apply_weights_OP, bias, name="add_bias")
 # activation_OP = tf.nn.sigmoid(add_bias_OP, name="activation")
+
+#keep_prob = tf.placeholder(tf.float32)
+
+#h_fc1 = tf.nn.relu(tf.matmul(X, W_fc1) + b_fc1)
+
+#h_fc1_drop = tf.nn.dropout(h_fc1, keep_prob)
 
 activation_OP = tf.nn.softmax(tf.matmul(X, weights) + bias)
 

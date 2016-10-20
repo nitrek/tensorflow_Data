@@ -13,8 +13,12 @@ A Tensorflow model to classify documents using Multinomial Logistic Regression (
 
 #### To-do:
 - [ ] Add more files for training as well as prediction
-- [ ] Fix matplotlib window bug
-- [ ] Write a python script to automate the entire process
 - [ ] k fold
-- [ ] sparce matrix
-- [ ] overfitting prevention
+- [ ] overfitting prevention (dropout)
+- [ ] sparse matrix
+- [ ] find optimal epoch
+- [ ] find optimal learning rate
+- [ ] check for new error functions
+- [ ] check softmax_cross_entropy_with_logits
+- [ ] Write a python script to automate the entire process
+- [ ] Fix matplotlib window bug

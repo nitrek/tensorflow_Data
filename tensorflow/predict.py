@@ -128,11 +128,8 @@ if __name__ == "__main__":
     evaluation = sess.run(accuracy_OP, feed_dict={X: testX, yGold: testY})
     prediction = sess.run(activation_OP, feed_dict={X: testX, yGold: testY})
     # prediction = sess.run(activation)
-
+    # for i in sess.run(weights):
+    #     print i
     for i in range(len(testX)):
         print("regression predicts %s to be %s and is actually %s" %(str(i + 1), labelToString(prediction[i]), labelToString(testY[i])))
     print("overall accuracy of dataset: %s percent" %str(evaluation))
-
-
-
-
