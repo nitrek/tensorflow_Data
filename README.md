@@ -10,11 +10,11 @@ A Tensorflow model to classify documents using Multinomial Logistic Regression (
 - [x] Apply TFIDF
 - [x] Apply Softmax Regression
 - [x] Build a bigger list of commonly used words
+- [x] k fold
 
 #### To-do:
-- [ ] Add more files for training as well as prediction
-- [ ] k fold
 - [ ] overfitting prevention (dropout(https://www.tensorflow.org/versions/r0.9/tutorials/mnist/pros/index.html))
+- [ ] Add more files for training as well as prediction
 - [ ] sparse matrix
 - [ ] find optimal epoch
 - [ ] find optimal learning rate
