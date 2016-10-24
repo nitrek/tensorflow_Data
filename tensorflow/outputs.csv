@@ -1,4 +1,4 @@
-files	trainAcc	predictAcc
-49	22	28
-96(with tfidf)	57.35	39.28
-increasing stop words	72.05	46.42
+files,trainAcc,predictAcc
+49,22,28
+96(with tfidf),57.35,39.28
+increasing stop words,72.05,46.42
