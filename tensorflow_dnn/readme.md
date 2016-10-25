@@ -1,5 +1,7 @@
-making neural network using dnn and experimenting , results till now are as follows :-
+making neural network using dnn and experimenting 
+-------------------------------------------------------------------------------------
 (i put this in master in seperate folder as this is a stable build and giving prediction acc: 57.14 when i tested)
+
 
 tested results
 ----------------
