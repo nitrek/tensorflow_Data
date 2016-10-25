@@ -69,11 +69,6 @@ for i in range(numEpochs):
     step, c = sess.run([training_OP,cost_OP], feed_dict={X: trainX, Y: trainY})
     print   '.',
 
-correct = tf.equal(tf.argmax(prediction,1), tf.argmax(Y, 1))
-accuracy = tf.reduce_mean(tf.cast(correct, 'float'))
-
-print 'Accuracy:',accuracy.eval({X:testX, Y:testY}) 
-
 saver = tf.train.Saver()
 saver.save(sess, "traineSd_variables_cross_entropy.ckpt")
 sess.close()
