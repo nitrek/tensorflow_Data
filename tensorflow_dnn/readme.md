@@ -8,12 +8,7 @@ tested results
 - increasing epochs does overfitting and reduces accuracy
 - increasing internal connections between layers till a certain point increases the accuracy
 
-
-to test
---------
-- effect of incresing number of hidden layers on accuracy
-
-
 to do
 ---------
 - use seeds
+- find out the effect of incresing number of hidden layers on accuracy
