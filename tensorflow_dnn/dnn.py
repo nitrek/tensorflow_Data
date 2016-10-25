@@ -28,6 +28,7 @@ x = tf.placeholder('float')
 y = tf.placeholder('float')
 
 def model(data):
+    tf.set_random_seed(1)
     hidden_1_layer = {'weights':tf.Variable(tf.random_normal([numFeatures,numNodesH1])),
     'bias':tf.Variable(tf.random_normal([numNodesH1]))}
 

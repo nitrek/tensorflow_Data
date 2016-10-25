@@ -10,5 +10,4 @@ tested results
 
 to do
 ---------
-- use seeds
 - find out the effect of incresing number of hidden layers on accuracy
