@@ -5,8 +5,10 @@ tensorflow/*.ipynb
 tensorflow/*.meta
 tensorflow/*.txt
 tensorflow/*csv#
+tensorflow/logs/
 tensorflow/.ipynb_checkpoints/
 tensorflow/summary_logs/
+tensorflow_cnn/logs/
 tensorflow_cnn/*.csv
 tensorflow_cnn/*.ipynb
 tensorflow_cnn/*.pyc
@@ -19,3 +21,4 @@ tensorflow_dnn/*.txt
 tensorflow_dnn/*.ckpt
 tensorflow_dnn/*.meta
 tensorflow_dnn/checkpoint
+tensorflow_dnn/logs/

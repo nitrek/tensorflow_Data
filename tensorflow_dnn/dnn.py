@@ -27,7 +27,7 @@ numNodesH2 = 600
 
 numNodesH3 = 80
 
-epochs = 49
+epochs = 16
 
 x = tf.placeholder('float')
 y = tf.placeholder('float')
