@@ -38,7 +38,7 @@ X = tf.placeholder(tf.float32, [None, numFeatures])
 
 yGold = tf.placeholder(tf.float32, [None, numLabels])
 
-tf.set_random_seed(100)
+tf.set_random_seed(1000)
 
 weights = tf.Variable(tf.random_normal([numFeatures,numLabels],
                                        mean=0,
