@@ -25,7 +25,7 @@ numFeatures = trainX.shape[1]
 
 numLabels = trainY.shape[1]
 
-numEpochs = 25000
+numEpochs = 1000
 
 # learningRate = tf.train.exponential_decay(learning_rate=0.0008,
 #                                           global_step= 1,
@@ -156,6 +156,7 @@ for i in range(numEpochs):
 ##fig.savefig("plots.png")
 # print("final accuracy on test set: %s" %str(sess.run(accuracy_OP, feed_dict={X: testX, yGold: testY})))
 
+summary_writer = tf.train.SummaryWriter('logs', sess.graph)
 saver = tf.train.Saver()
 saver.save(sess, "trained_variables.ckpt")
 sess.close()
