@@ -27,7 +27,7 @@ numNodesH2 = 600
 
 numNodesH3 = 80
 
-epochs = 10
+epochs = 49
 
 x = tf.placeholder('float')
 y = tf.placeholder('float')
@@ -65,19 +65,33 @@ def model(data):
 
     with tf.Session() as sess:
         sess.run(tf.initialize_all_variables())
-
+        maxaccTrain = 0
+        maxaccTest = 0
+        stepsTrain = 0
+        stepsTest = 0
         for epoch in range (epochs):
             #print sess.run(hidden_1_layer['weights'])
             #print sess.run(hidden_2_layer['weights'])
-            print sess.run(hidden_3_layer['weights'])
+            #print sess.run(hidden_3_layer['weights'])
             
             print 'step: ',epoch
             c = sess.run([optimizer], feed_dict={x:trainX, y:trainY})
             correct = tf.equal(tf.argmax(prediction, 1), tf.argmax(y,1))
             accuracy = tf.reduce_mean(tf.cast(correct, 'float' ))
-            #print('test accuracy:', accuracy.eval(session=sess, feed_dict= {x:testX, y:testY}))
-            #print('train accuracy:', accuracy.eval(session=sess, feed_dict= {x:trainX, y:trainY}))
+            accTrain = accuracy.eval(session=sess, feed_dict= {x:trainX, y:trainY})
+            accTest = accuracy.eval(session=sess, feed_dict= {x:testX, y:testY})
+            if maxaccTest < accTest:
+                maxaccTest = accTest
+                stepsTest = epoch
+            if maxaccTrain < accTrain:
+                maxaccTrain = accTrain
+                stepsTrain = epoch
+            print('train accuracy:', accTrain)
+            print('test accuracy:', accTest)
 
+        print('max train accuracy:', maxaccTrain,stepsTrain)
+        print('max test accuracy:', maxaccTest,stepsTest)
+        summary_writer = tf.train.SummaryWriter('logs', sess.graph)
         saver = tf.train.Saver()
         saver.save(sess, "trained_model.ckpt")
 
