@@ -13,3 +13,5 @@ tensorflow/*.ckpt
 tensorflow/*.meta
 tensorflow/*csv#
 tensorflow/*.ipynb
+*.local
+.DS_Store

@@ -53,12 +53,12 @@ if __name__ == "__main__":
                                     mean=0,
                                     stddev=(np.sqrt(6/numFeatures+numLabels+1)),
                                     name="bias"))
-	init_OP = tf.initialize_all_variables()
+	init_OP = tf.global_variables_initializer()
 
 	activation_OP = tf.nn.softmax(tf.matmul(X, weights) + bias)
 	sess.run(init_OP)
 	saver = tf.train.Saver()
-	saver.restore(sess, "trained_variables.ckpt")
+	saver.restore(sess, "tmp/model.ckpt")
 
 	prediction = sess.run(activation_OP, feed_dict={X: testX})
 	# print prediction

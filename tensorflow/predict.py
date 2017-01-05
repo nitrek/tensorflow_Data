@@ -71,7 +71,7 @@ bias = tf.Variable(tf.random_normal([1,numLabels],
 # add_bias_OP = tf.add(apply_weights_OP, bias, name="add_bias")
 # activation_OP = tf.nn.sigmoid(add_bias_OP, name="activation")
 
-init_OP = tf.initialize_all_variables()
+init_OP = tf.global_variables_initializer()
 
 activation_OP = tf.nn.softmax(tf.matmul(X, weights) + bias)
 
@@ -90,7 +90,8 @@ sess.run(init_OP)       #initialize variables BEFORE loading
 print testX.shape
 #load variables from file
 saver = tf.train.Saver()
-saver.restore(sess, "trained_variables.ckpt")
+# saver.restore(sess, "trained_variables.ckpt")
+saver.restore(sess, "tmp/model.ckpt")
 
 #####################
 ### RUN THE GRAPH ###
