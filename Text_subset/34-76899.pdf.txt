@@ -1,0 +1,373 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 76899 / January 14, 2016
+ADMINISTRATIVE PROCEEDING
+File No. 3-17053
+In the Matter of
+Goldman, Sachs & Co.,
+Respondent.
+
+ORDER INSTITUTING
+ADMINISTRATIVE AND CEASE-ANDDESIST PROCEEDINGS, PURSUANT TO
+SECTIONS 15(b) AND 21C OF THE
+SECURITIES EXCHANGE ACT OF 1934,
+MAKING FINDINGS, AND IMPOSING
+REMEDIAL SANCTIONS AND A CEASEAND-DESIST ORDER
+
+I.
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that public administrative and cease-and-desist proceedings be, and hereby are,
+instituted pursuant to Sections 15(b) and 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”) against Goldman, Sachs & Co.(“Goldman” or “Respondent”).
+II.
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+Administrative and Cease-and-Desist Proceedings, Pursuant to Sections 15(b) and 21C of the
+Exchange Act, Making Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order
+(“Order”), as set forth below.
+III.
+On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+The findings herein are made pursuant to Goldman’s Offer of Settlement and are not binding on
+any other person or entity in this or any other proceeding.
+1
+
+Summary
+1.
+These proceedings arise out of practices engaged in by Goldman’s Securities
+Lending Demand Team (the “Demand Team”), between November 2008 and mid-2013, in
+providing and documenting “locates” to enable its customers to execute short sales.
+2.
+Regulation SHO Rule 203(b)(1) (“Reg SHO”) prohibits broker-dealers from
+accepting short sale orders in equity securities or effecting short sales in equity securities for its own
+account unless the broker or dealer has borrowed the security, entered into a bona fide arrangement
+to borrow the security, or has “reasonable grounds” to believe the security can be borrowed so that it
+can be delivered on the delivery date. This is generally referred to as the “locate” requirement. Reg
+SHO also requires the broker-dealer to document its compliance with the “locate” requirement. To
+document compliance with the obligations under Reg SHO, broker-dealers typically create and
+maintain a “locate log” that documents the basis for each locate provided.
+3.
+Between November 2008 and mid-2013, to comply with Reg SHO, Goldman
+employed a system where the vast majority of customer short sale locate requests were handled by
+an automated model that would either grant, in whole or in part (or “fill”), deny, or route (or
+“pend”) the requests for further review to the Demand Team, a group of ten to twelve individuals
+who worked on Goldman’s securities lending desk. The automated model would review and fill
+locate requests based on certain available inventory reported to Goldman by certain lending banks
+and brokerages that fed into Goldman’s automated model at the start of each day after being
+reduced by Goldman based on their experience with various lenders (the “start-of-day inventory”).
+As the automated model processed locate requests, it reduced that start-of-day inventory on a 1:1
+basis for all shares that were used to grant locate requests (regardless of whether the client actually
+used the locate). When the start-of-day inventory was depleted in that manner, the automated
+model would pend subsequent locate requests to the Demand Team for further review and
+processing.
+4.
+Over the course of the relevant period, the number of locate requests that pended to
+the Demand Team grew significantly, reaching more than 20,000 locate requests per day at its
+peak. The volume of locate requests became far more than the Demand Team could manually
+handle on a request-by-request basis. Thus, instead of manually identifying an alternative source
+of securities to satisfy these pended requests, the Demand Team processed approximately 98
+percent of the pended requests by relying on a function of Goldman’s order management system
+referred to as “fill from autolocate,” which was activated by the “F3” key. This function enabled
+the Demand Team to cause Goldman’s automated model to fill locate requests based on the
+amount of inventory that existed at the start of the day (i.e., the start-of-day inventory level before
+any locates were granted), even though Goldman’s automated model had already treated the startof-day inventory as depleted.
+5.
+In processing locate requests using the “F3” function, the Demand Team typically
+did not check alternative sources of securities or perform a meaningful further review. Instead,
+they relied on their general belief that Goldman’s automated model was conservative and that the
+provision of additional locates would not result in failures to deliver the securities if and when due
+for settlement. The Demand Team did not document the basis for this general belief.
+
+2
+
+6.
+Additionally, Goldman’s documentation of its compliance with Reg SHO in its
+locate log was inaccurate in that Goldman failed to sufficiently differentiate between locates that
+were filled by its automated model and locates that were filled by the Demand Team using the
+“F3” function. In both cases, the locate log simply contained the term “autolocate” to refer to the
+start-of-day inventory utilized by Goldman’s automated model as the source of securities
+supporting the locate.
+Respondent
+7.
+Goldman, headquartered in New York, New York, is dually-registered with the
+Commission as a broker-dealer and investment adviser. Goldman is a wholly-owned subsidiary of
+The Goldman Sachs Group, Inc., whose securities are registered with the Commission pursuant to
+Section 12(b) of the Exchange Act. The activity that is the subject of this Order pertains to the
+securities lending desk within the broker-dealer side of Goldman’s business.
+Background
+Goldman’s System for Complying with Reg SHO
+8.
+Between November 2008 and mid-2013, to comply with its Reg SHO locate
+requirements, Goldman employed a system where the vast majority of customer short sale locate
+requests were handled by an automated model. The automated model was designed to grant, in
+whole or in part, or deny locate requests that met certain criteria, and route to the Demand Team
+the remaining requests for further review and processing. The Demand Team also received and
+processed a small number of locate requests that were submitted directly to the Demand Team by
+clients via telephone or instant messaging that generally bypassed the automated model.
+9.
+Goldman used certain control lists and an automated model to process the vast
+majority of locate requests it received each day. Locate requests for securities on control lists,
+including an “easy-to-borrow” list, and more than a dozen lists of securities in which Goldman
+believed there could be a meaningful risk of delivery failure, were automatically filled or denied.
+10.
+Locate requests for securities not on a control list were processed through
+Goldman’s automated model. The automated model would determine whether to fill a locate
+request in whole or in part or pend it to the Demand Team for further review and processing. This
+determination was made based on the amount of inventory the automated model recognized as
+available for borrowing. The inventory available for filling locate requests through the automated
+model was based on the amount of inventory reported to Goldman by certain lender banks and
+brokerages. This inventory was reported to Goldman, and other major brokerages that fill locate
+requests, once each day several hours before the markets opened. Upon receiving the report of
+available inventory, Goldman would generally apply a “haircut” to (or reduce) each lender’s
+reported inventory. Goldman would then aggregate the remaining inventory and use it—the startof-day inventory—as the exclusive source for its automated model to fill locate requests.
+11.
+As Goldman’s automated model filled locate requests from the start-of-day
+inventory, it would simultaneously reduce that start-of-day inventory based upon the number of
+shares for which locates had been granted. Goldman referred to this reduction as the “utilization
+rate.” Between November 2008 and mid-2013, Goldman applied a 100-percent utilization rate to
+3
+
+the start-of-day inventory used by the automated model, even though Goldman’s clients’ actual
+utilization rate was substantially lower and understood by Goldman to be a small fraction of that.
+This meant that for each locate request granted, Goldman decreased the start-of-day inventory by
+the corresponding number of shares granted.
+12.
+Between November 2008 and mid-2013, using its control lists and the automated
+model, Goldman filled, in whole or in part, or denied the vast majority of the locate requests it
+received, which increased over time and peaked at approximately 250,000 locate requests per day.
+The Demand Team Routinely Sourced Locates to Inventory Treated as Depleted
+13.
+When Goldman’s automated model treated the start-of-day inventory for a
+particular security as depleted (based on the provision of locates equal to that start-of-day
+inventory amount), it was programmed to pend further locate requests in that security to the
+Demand Team for further review and processing.2 Over the course of the relevant period, the
+number of locate requests pended by the automated model to the Demand Team grew significantly,
+reaching more than 20,000 locate requests per day at its peak.3
+14.
+After Goldman’s automated model treated the start-of-the-day inventory as depleted
+(based on the 1:1 utilization rate), the Demand Team’s review should have consisted of conducting
+a further review of the requests and attempting to identify additional sources of inventory for the
+pended locate requests, such as loan returns, firm long positions, and customer margin, or
+contacting lenders to identify additional supply of the securities Goldman’s customers sought to
+locate. The Demand Team, however, did not conduct such further review on approximately 98
+percent of locate requests pended to it by Goldman’s automated model. Instead, before the
+markets opened, the Demand Team routinely processed thousands of pended locate requests by
+using the “fill from autolocate” function of Goldman’s order management system, which was
+accessed via the “F3” key.
+15.
+The “fill from autolocate” function enabled Demand Team members to select as
+many of the locate requests routed to it from Goldman’s automated model as desired (for certain
+customers, 3,000 to 4,000 locate requests were sometimes selected at one time) and hit the “F3”
+key to process the selected requests with one keystroke. For example between 6:45 a.m. and 7:45
+a.m. each day, on average, the Demand Team filled locate requests for several thousand unique
+CUSIPs. Additionally, in one instance, a Demand Team member granted over 5,486 locates in a
+35-minute period.
+16.
+After a Demand Team member selected “F3,” the locate request would be filled by
+reference to the initial amount included in the start-of-day inventory for the security in question.
+Thus, each locate request filled using this function would cause the automated model to fill the
+selected locate requests based on inventory amounts that existed at the start of the day even though
+the automated model had treated that start-of-day inventory as depleted. The Demand Team used
+2
+
+Locate requests could pend for reasons other than the automated model treating start-of-day inventory as
+depleted, but such pends constituted a small minority of the daily pended locate requests.
+3
+
+This significant increase in the number of pended locate requests was due, in part, to the increased use by
+Goldman’s clients of bulk locate request lists that could contain many thousands of locate requests daily.
+
+4
+
+the “F3” function as a means to compensate for the large volume of locate requests pended to them
+by Goldman’s automated model.
+17.
+Before using the “F3” function, the Demand Team did not typically conduct
+additional review or identify other sources of inventory for the securities sought to be located, such
+as loan returns, firm long positions, or customer margin. Instead, they relied on their general belief
+that Goldman’s automated model was conservative and that the provision of additional locates
+would not result in failures to deliver the securities if and when due for settlement. The Demand
+Team did not document the basis for this general belief. Although no rationale was documented in
+Goldman’s locate log or in any contemporaneous documentation, the Demand Team’s belief that
+the model was conservative was based on their familiarity with their client’s low utilization rates
+and that Goldman’s rate of failures remained low and did not substantially change between
+November 2008 and mid-2013.4
+18.
+On numerous occasions, the start-of-day inventory supporting locate requests filled
+using the “F3” function had already been treated as depleted prior to the Demand Team filling the
+locate requests. In some cases, the Demand Team continued to provide locates for millions of
+shares after the start-of-day inventory for such securities had been treated as depleted. Further, in
+many instances, the Demand Team used the “F3” function to fill locate requests for securities that
+were included on a threshold securities5 list, which signifies that such securities in which a
+substantial amount of fails to deliver have occurred and, as such, are considered generally hard to
+borrow. Specifically, using the F3 function, the Demand Team filled approximately 488 locate
+requests in threshold securities each day.
+19.
+As a result, between November 2008 and mid-2013, certain short sales were
+executed by Goldman in reliance on locates provided by Goldman, without reasonable grounds to
+believe that the securities to be sold short could be borrowed to meet its delivery obligations.
+Goldman’s Locate Logs Were Inaccurate as to the Source Supporting Certain Locates
+20.
+Goldman’s locate logs were inaccurate with respect to the source supporting the
+locate requests it filled using the “F3” function. All locate requests were assigned a unique
+identifying number and were automatically logged in Goldman’s locate log. The locate log
+included the details of the locate request, such as the identity of the customer making the locate
+request, the security, the amount requested to be located, and the date and time of the request. The
+locate log also included the details of the request’s processing, such as who filled each locate
+4
+
+During that time period and subsequently, Goldman was generally able to meet its settlement obligations.
+Securities in which Goldman experienced fails to deliver were added to control lists, and locate requests in those
+securities were denied by the automated model.
+5
+
+Threshold securities, as defined in Rule 203(c)(6) of Regulation SHO, are equity securities of an issuer
+that is registered pursuant to Section 12 of the Exchange Act or for which the issuer is required to file reports
+pursuant to Section 15(d) of the Exchange Act that have an aggregate fail to deliver position for (i) five consecutive
+settlement days at a registered clearing agency (e.g., National Securities Clearing Corporation); (a) totaling 10,000
+shares or more; and (b) equal to at least 0.5% of the issuer’s total shares outstanding and (ii) that is included on a list
+disseminated to its members by a self-regulatory organization. See http://www.sec.gov/investor/pubs/regsho.htm
+(last accessed November 23, 2015); see also Exchange Act Rel. No. 50103 (Jul. 28, 2004), 69 FR 48008, 48014 n.
+62 (Aug. 6, 2004) (“Of course, securities that are ‘threshold securities’ pursuant to Rule 203(c) should generally not
+be included on ‘Easy to Borrow’ lists.”)
+
+5
+
+request, the amount of the security located, the source, date, and time the request was filled or
+denied.
+21.
+From November 2008 to mid-2013 Goldman’s locate logs were inaccurate in that
+they failed to sufficiently differentiate between locates that were filled by its automated model
+versus locates that were filled as a result of the Demand Team’s use of the “F3” function. In both
+cases, the locate log simply contained the term “autolocate” to refer to the aggregate inventory
+utilized by Goldman’s automated model as the source of securities supporting the locate. The
+source of the security, however, was different for these different types of locates. When
+Goldman’s automated model filled a locate request, the source of securities supporting the request
+was the start-of-day inventory. Conversely, when it was filled by the Demand Team using the
+“F3” function, the start-of-day inventory was treated as depleted and no alternative source of the
+security was identified.
+Goldman Identified the Need to Change Its Automated Model in 2011
+22.
+Although the Demand Team’s use of the “F3” function continued through at least
+mid-2013, Goldman first identified the need to change its automated model in early 2011.
+Specifically, in early 2011, Goldman learned that the logic of its legacy automated model was
+causing substantially more locate requests to pend for Demand Team review than the Demand
+Team could handle on a request-by-request basis. Starting in early 2011, Goldman began planning
+to enhance the automated model. Over the next two and a half years, Goldman developed, tested,
+and implemented a new automated model. During this time, however, Goldman did not modify
+the Demand Team’s use of the “F3” function in granting locate requests.
+Goldman’s Response to OCIE
+23.
+In responding to an examination of its securities lending practices in 2013 by the
+Commission’s Office of Compliance Inspections and Examinations (“OCIE”), Goldman provided
+responses to requests for information and findings made by OCIE examiners that were incomplete
+and unclear. In responding to a deficiency letter from OCIE, Goldman’s response letter created the
+incorrect impression that the Demand Team conducted an individualized review for all locate
+requests pended to it from Goldman’s automated model. Further, in the same letter, Goldman
+described the automated portion of its current system for filling locate requests in a manner that
+did not make clear the fact that it was Goldman’s legacy automated model that was causing the
+high volume of locate requests to pend to the Demand Team.
+24.
+OCIE’s examination was adversely affected and unnecessarily prolonged as a result
+of Goldman’s responses to OCIE’s requests. In determining the appropriate resolution to this
+matter, the Commission considered, in addition to the underlying conduct, these deficiencies in
+Goldman’s responses to OCIE staff.
+Goldman’s Remedial Efforts
+25.
+In determining to accept the Offer, the Commission considered remedial acts
+undertaken by Goldman. By at least mid-2013, Goldman had phased out the use of its legacy
+automated model and implemented a new automated model with logic that substantially reduced
+the number of locate requests pended for Demand Team review. Additionally, Goldman
+implemented revised written policies and procedures governing the processing of locate requests
+6
+
+pended to the Demand Team. Shortly after the conclusion of the OCIE examination Goldman also
+discontinued the use of the autolocate functionality. Demand Team members are now required to
+locate a specific source of inventory for each locate request and to identify that source in the locate
+log.
+Violations
+26.
+As a result of the conduct described above, Goldman willfully6 violated Rule
+203(b)(1) of Regulation SHO promulgated under the Exchange Act, which provides, in relevant
+part, that before executing short sales, brokers or dealers must have “reasonable grounds to believe
+that the security can be borrowed so that it can be delivered on the date delivery is due.”
+27.
+As a result of the conduct described above, Goldman willfully violated Section
+17(a) of the Exchange Act and Rule 203(b)(1)(iii) of Regulation SHO promulgated thereunder.
+Section 17(a) of the Exchange Act requires brokers and dealers, among others, to make, keep, and
+furnish to the Commission such records as the Commission prescribes by rule. Rule 203(b)(1)(iii)
+of Regulation SHO requires that brokers or dealers document compliance with Rule 203(b)(1) of
+Regulation SHO. The document fulfilling this documentation requirement is commonly referred
+to as a “locate log.” Inherent in the recordkeeping requirements of Section 17(a) of the Exchange
+Act and Rule 203(b)(1)(iii) of Regulation SHO is a requirement that the records be complete and
+accurate.
+IV.
+In view of the foregoing, the Commission deems it appropriate, and in the public interest to
+impose the sanctions agreed to in Respondent’s Offer.
+Accordingly, pursuant to Sections 15(b) and 21C of the Exchange Act, it is hereby
+ORDERED that:
+A.
+Respondent cease and desist from committing or causing any violations and any
+future violations of Rule 203(b)(1) of Regulation SHO promulgated under the Exchange Act, and
+any violations and any future violations of Section 17(a) of the Exchange Act and Rule
+203(b)(1)(iii) thereunder relating to short sale locate records.
+B.
+
+Respondent is censured.
+
+C.
+Respondent shall, within 10 days of the entry of this Order, pay a civil money
+penalty in the amount of $15,000,000 to the Securities and Exchange Commission for transfer to
+the general fund of the United States Treasury in accordance with Exchange Act Section 21F(g)(3).
+If timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. § 3717.
+Payment must be made in one of the following ways:
+
+6
+
+A willful violation of the securities laws means merely “‘that the person charged with the duty knows
+what he is doing.’” Wonsover v. SEC, 205 F.3d 408, 414 (D.C. Cir. 2000) (quoting Hughes v. SEC, 174 F.2d 969,
+977 (D.C. Cir. 1949)). There is no requirement that the actor “‘also be aware that he is violating one of the Rules or
+Acts.’” Id. (quoting Gearhart & Otis, Inc. v. SEC, 348 F.2d 798, 803 (D.C. Cir. 1965)).
+
+7
+
+(1)
+
+Respondent may transmit payment electronically to the Commission, which
+will provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2)
+
+Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3)
+
+Respondent may pay by certified check, bank cashier’s check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+Payments by check or money order must be accompanied by a cover letter identifying
+Goldman as a Respondent in these proceedings, and the file number of these proceedings; a copy
+of the cover letter and check or money order must be sent to Charles Riely, Assistant Regional
+Director, Division of Enforcement, Securities and Exchange Commission, 200 Vesey Street, Suite
+400, New York, New York 10281.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+8
+
+

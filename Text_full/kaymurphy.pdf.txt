@@ -1,0 +1,914 @@
+UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+_____________________________________________
+No. 02-20588
+_____________________________________________
+UNITED STATES OF AMERICA,
+Plaintiff-Appellant,
+v.
+DAVID KAY;
+DOUGLAS MURPHY,
+Defendants-Appellees.
+_____________________________________________
+On Appeal from the United States District Court
+for the Southern District of Texas
+_____________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION
+AS AMICUS CURIAE IN SUPPORT OF APPELLANT AND
+URGING REVERSAL OF THE DISTRICT COURT’S DECISION
+_____________________________________________
+GIOVANNI PREZIOSO
+General Counsel
+MEYER EISENBERG
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+RADA LYNN POTTS
+Senior Litigation Counsel
+450 Fifth Street, N.W.
+Washington, D.C. 20549-0606
+(202) 942-0961 (Potts)
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+AND SUMMARY OF ITS POSITION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+STATEMENT OF THE ISSUE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+I.
+
+THE LANGUAGE OF THE BUSINESS PURPOSE ELEMENT PLAINLY
+COVERS BRIBES TO SECURE LOWER DUTIES AND TAXES . . . . . . . . . . . . . . . . . . 6
+
+II.
+
+THE LEGISLATIVE HISTORY OF THE FCPA CONFIRMS
+THAT THE BUSINESS PURPOSE ELEMENT COVERS BRIBES
+TO SECURE LOWER DUTIES AND TAXES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+CERTIFICATE OF SERVICE
+CERTIFICATE OF COMPLIANCE
+
+i
+
+TABLE OF AUTHORITIES
+Cases
+
+Page
+
+Asgrow Seed Co. v. Winterboer,
+513 U.S. 179 (1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Bailey v. United States,
+516 U.S. 137 (1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Bell v. New Jersey,
+461 U.S. 773 (1983) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Bufferd v. Commissioner of Internal Revenue,
+506 U.S. 523 (1993) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Clayco Petroleum Corp. v. Occidental Petroleum Corp.,
+712 F.2d 404 (9th Cir. 1983) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Mount Sinai Hospital v. Weinberger,
+517 F.2d 329 (5th Cir. 1975) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Reiter v. Sonotone Corp.,
+442 U.S. 330 (1979) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Seatrain Shipbuilding Corp. v. Shell Oil Co.,
+444 U.S. 572 (1980) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+SEC v. United Brands Co.,
+[1975-76 Transfer Binder] Fed. Sec. L. Rep. (CCH) ¶ 95,420
+(D.D.C. Jan. 27, 1976) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+United States v. Craft,
+122 S.Ct. 1414 (2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+United States v. Cyprian,
+197 F.3d 736 (5th Cir. 1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 15
+Cases (continued)
+
+Page
+ii
+
+United States v. Grimes,
+244 F.3d 375 (5th Cir. 2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+United States v. Kay,
+200 F. Supp. 2d 681 (S.D. Tex. 2002) . . . . . . . . . . . . . . . . . . . . 3, 4, 9, passim
+United States v. Lowe,
+118 F.3d 399 (5th Cir. 1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Statutes
+Foreign Corrupt Practices Act
+Section 103, 15 U.S.C. 78dd-1 (see Section 30A, Exchange Act)
+Section 104(a), 15 U.S.C. 78dd-2(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 3
+Section 104A(a), 15 U.S.C. 78dd-3(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Securities Exchange Act
+Section 12, 15 U.S.C. 78l . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Section 15(d), 15 U.S.C. 78o(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Section 30A, 15 U.S.C. 78dd-1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Section 30A(a), 15 U.S.C. 78dd-1(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 3
+Section 30A(a)(1), 15 U.S.C. 78dd-1(a)(1) . . . . . . . . . . . . . . . . . 2, 3, 7 passim
+Section 30A(b), 15 U.S.C. 78dd-1(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Section 30A(f)(3)(A), 15 U.S.C. 78dd-1(f)(3)(A) . . . . . . . . . . . . . . . . . . . . . 15
+Other Authorities
+
+Page
+
+iii
+
+123 Cong. Rec. H12824 (daily ed. Dec. 7, 1977) . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Arthur Aronoff, Antibribery Provisions of the Foreign Corrupt Practices Act,
+863 PLI/Corp. 47 (1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Cambridge International Dictionary of English (1995) . . . . . . . . . . . . . . . . . . . . . . . 8
+Dennis Carlton & Jeffrey Perloff, Modern Industrial Organization (1990) . . . . . . 11
+Federal Rule of Appellate Procedure 29(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+H.R. 3, 100th Cong. (1987) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+H.R. 3815, 95th Cong. (1977) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+H.R. Conf. Rep. No. 100-576 (1988) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+H.R. Conf. Rep. No. 95-831 (1977) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+H.R. Rep. No. 100-40, pt. 2 (1987) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 21, 22
+H.R. Rep. No. 95-640 (1977) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 16, 17
+Laura Longobardi, Reviewing the Situation: What is to be Done with the Foreign
+Corrupt Practices Act? 20 Vand. J. Transnat’l L. 431 (1987) . . . . . . . . . . . 16
+Dennis Mueller, Public choice II (1989) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Walter Nicholson,
+Microeconomic Theory: Basic Principles and Extensions (4th ed. 1989) . . . 11
+Organization for Economic Cooperation and Development, Convention
+on Combating Bribery of Foreign Public Officials in International
+Business Transactions, reprinted in 37 I.L.M. 1 (1998) . . . . . . . . . . . . . . . . 23
+Pub. L. No. 95-213 (1977) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Other Authorities (continued)
+
+Page
+iv
+
+Report of the Securities and Exchange Commission
+on Questionable and Illegal Corporate Payments and Practices,
+reprinted in Sec. Reg. & L. Rep. (BNA) (Special Supp. May 19, 1976) . . . . 16
+S. 305, 95th Cong. (1977) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+S. Rep. No. 105-277 (1998) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+S. Rep. No. 95-114 (1977) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+The American Heritage Dictionary of the English Language (4th ed. 2000) . . . . . . 8
+Webster’s Third New International Dictionary (1993) . . . . . . . . . . . . . . . . . . . . . . 8
+
+v
+
+UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+_____________________________________________
+No. 02-20588
+_____________________________________________
+UNITED STATES OF AMERICA,
+Plaintiff-Appellant,
+v.
+DAVID KAY;
+Douglas Murphy,
+Defendants-Appellees.
+_____________________________________________
+On Appeal from the United States District Court
+for the Southern District of Texas
+_____________________________________________
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+AND SUMMARY OF ITS POSITION
+The Securities and Exchange Commission is the federal agency principally
+responsible for the civil enforcement of the federal securities laws. One of the
+provisions of those laws, Section 30A of the Securities Exchange Act, 15 U.S.C.
+78dd-1, is one of the two anti-bribery provisions of the Foreign Corrupt Practices
+Act (“FCPA”) involved in this criminal proceeding. The Commission is
+concerned that the district court’s decision, dismissing the indictment for failure to
+state an offense, rests on an improperly narrow interpretation of the FCPA’s anti1
+
+bribery provisions – one that will hamper the Commission’s and the Justice
+Department’s efforts to enforce the anti-bribery provisions. Therefore, under
+Federal Rule of Appellate Procedure 29(a), the Commission submits this brief as
+amicus curiae to urge this Court to reject that interpretation.
+The FCPA prohibits publicly held companies and others from making
+payments to foreign officials “for purposes of” inducing them to misuse their
+office 1 “in order to assist such [company] in obtaining or retaining business for or
+with, or directing business to, any person . . . .” Section 30A(a)(1) of the
+Exchange Act, 15 U.S.C. 78dd-1(a)(1). 2 In this case, the district court (Hittner, J.)
+1
+
+More precisely, the “quid pro quo” element of the FCPA’s anti-bribery
+prohibitions encompasses payments “for purposes of”: (a) “influencing any act
+or decision of such foreign official in his official capacity,” (b) inducing such
+official “to do or omit to do any act in violation of [the official’s] lawful duty,”
+(c) “securing any improper advantage” or (d) inducing such official “to use his
+influence with a foreign government . . . to affect or influence any act or
+decision of such government.” See, e.g., Section 30A(a)(1) of the Exchange Act,
+15 U.S.C. 78dd-1(a)(1). Throughout this brief, however, the quo conferred in
+response to an improper payment is referred to as official action or inaction or
+misuse of office.
+
+2
+
+The FCPA includes three distinct but mostly parallel anti-bribery prohibitions:
+15 U.S.C. 78dd-1(a), 15 U.S.C. 78dd-2(a), and 15 U.S.C. 78dd-3(a). In general,
+each provision, using (as relevant) identical language, prohibits improper
+payments (to foreign officials, political parties, party officials, or political
+candidates), but subjects different classes of payors to liability. Section 30A(a)
+of the Exchange Act, 15 U.S.C. 78dd-1(a), proscribes bribes by “issuers”
+(companies that register securities with the Commission in accordance with
+Section 12 of the Exchange Act, 15 U.S.C. 78l, or are required to file reports
+(continued...)
+2
+
+ruled that the prohibition’s “ ‘obtain or retain business’ language” was not broad
+enough to encompass payments that the defendants, Douglas Murphy and David
+Kay, former officers of American Rice, Inc. (“ARI”), allegedly authorized to be
+made to Haitian government officials to reduce customs duties and sales taxes
+owed by ARI to the Haitian government. 3
+The district court arrived at this decision after characterizing the “ ‘obtain or
+retain business’ ” language as ambiguous -- without examining that language.
+Instead, the court focused on legislative history. In the court’s view, that history
+demonstrated that “Congress has considered and rejected statutory language that
+would . . . cover the conduct in question here.” 200 F. Supp. 2d 681, 686 (S.D.
+2
+
+(...continued)
+under Exchange Act Section 15(d), 15 U.S.C. 78o(d)) and their officers,
+directors, employees, agents, and stockholders. The section is subject to civil
+enforcement by the Commission (criminal prosecutions under the section are
+brought by the Justice Department) in the same manner as other provisions of
+the Exchange Act. The other anti-bribery prohibitions, however, are enforced
+exclusively by the Justice Department, which may bring either civil or criminal
+proceedings to redress violative conduct. While this brief focuses on Section
+30A(a) (and, specifically, on Section 30A(a)(1)), any interpretation of Section
+30A(a)’s language should, as a general matter, be equally applicable to the
+parallel provisions, including, of course, 15 U.S.C. 78dd-2(a), the other
+prohibition alleged to have been violated in this case.
+
+3
+
+Recently, the Commission filed a civil law enforcement action against Kay,
+Murphy and another person, alleging violations of, inter alia, Exchange Act 30A
+(SEC v. Murphy, Civ. No. H-02-2908 (Hughes) (S.D. Tex.)). The action
+concerns the same course of conduct as does this criminal proceeding. The
+action has been stayed pending this Court’s decision in this appeal.
+3
+
+Tex. 2002) (R.E. 29-30). From that, the court concluded that the allegations in the
+indictment did not fall within the scope of the FCPA. The court erred and in doing
+so unduly limited the scope of the Act.
+First, the court ignored fundamental canons of statutory construction
+requiring it to begin its inquiry with the text of the FCPA and to give effect to
+every word Congress used. Therefore, before the court turned to legislative
+history, it should at least have attempted to construe relevant statutory text. The
+court failed to do so.
+Indeed, the court neglected even to mention, much less interpret, the
+majority of the statutory text actually at issue in this case. That language -- “in
+order to assist such issuer in obtaining or retaining business . . . with . . . any
+person” (the so-called “business purpose” element of the FCPA’s anti-bribery
+prohibitions) – by its terms covers all cases in which a payor’s objective is to
+assist an issuer in obtaining or retaining business. Therefore, prohibited bribes are
+not limited -- as defendants argued below and as the court apparently agreed – to
+those seeking official action that, in itself, directly results in an issuer’s obtaining
+or retaining business (such as a governmental approval of a private contract or an
+award of a government contract), but also include bribes seeking official action
+
+4
+
+(such as tax reduction) which, in turn, will assist an issuer in obtaining or
+retaining business.
+Ignoring the statutory text in favor of legislative history, the court referred
+to the business purpose element simply as the “ ‘obtain or retain business’
+language ” (e.g., R.E. 22). Had it considered the words preceding that language,
+“in order to assist such issuer in . . . . ” (and particularly the word “assist”), the
+court would have concluded that bribes seeking official action favorable to an
+issuer’s carrying on its business enterprise (such as payments to circumvent
+quotas, bypass licensing systems, obtain concessions, or reduce taxes) run afoul of
+the plain language of the anti-bribery prohibitions. A person paying such a bribe
+seeks to “assist” the issuer (by, for example, increasing the amount of a product
+available for sale or reducing an issuer’s expenses of sale) in “obtaining or
+retaining business” (including, for example, in increasing or maintaining the
+quantity or dollar volume of its sales or other economic dealings). Indeed, in this
+case, the business purpose is clear: Kay and Murphy sought reductions in duties
+and taxes to reduce ARI’s cost of doing of business and thereby assist ARI in
+getting and keeping business.
+Second, the court’s rationale for its holding -- one that focused on what
+Congress did not do (e.g., it did not amend the statute to include language that
+5
+
+would have further emphasized the breadth of the business purpose element) –
+rests on a flawed understanding of the uses of legislative history as an interpretive
+tool and fails to appreciate the significance of what Congress did do. Thus, even
+had it been appropriate for the court to look beyond the language of the business
+purpose element in determining its breadth, legislative history confirms, rather
+than undermines, Congress’ intent that the element is to be read, in a manner
+consistent with common understanding and basic economic principles, to
+encompass the bribes alleged in this case.
+STATEMENT OF THE ISSUE
+Whether payments to foreign officials to reduce customs duties and sales
+taxes a company owes to a foreign government “assist” the company in “obtaining
+or retaining business” within the meaning of the FCPA’s anti-bribery prohibitions.
+ARGUMENT
+I.
+
+THE LANGUAGE OF THE BUSINESS PURPOSE ELEMENT
+PLAINLY COVERS BRIBES TO SECURE LOWER DUTIES
+AND TAXES.
+In interpreting a statute, a court must begin and end with the text if its
+
+meaning is plain and does not lead to an absurd result. United States v. Grimes,
+244 F.3d 375, 380 (5th Cir. 2001) (citations omitted). Furthermore, unless
+otherwise defined, words in statutes are interpreted as having their ordinary
+6
+
+meaning. Asgrow Seed Co. v. Winterboer, 513 U.S. 179, 187 (1995). Finally, in
+construing statutes, courts are obliged to “give effect, if possible, to every word
+Congress used.” Reiter v. Sonotone Corp., 442 U.S. 330, 339 (1979); see also
+United States v. Cyprian, 197 F.3d 736, 739 (5th Cir. 1999) (quoting Bailey v.
+United States, 516 U.S. 137, 145 (1995)) (courts “ ‘assume that Congress intended
+each of its terms to have meaning’ ” ). Here, the district court failed even to
+attempt a common sense interpretation of relevant statutory text. Indeed, the court
+neglected even to mention important portions of that text.
+The anti-bribery provisions prohibit public companies and others from
+making payments to foreign officials for purposes of inducing official action or
+inaction “in order to assist such [company] in obtaining or retaining business . . .
+with . . . any person . . . .” 4 It is this quoted language, in its entirety (the “business
+
+4
+
+For example, Section 30A(a)(1) of the Exchange Act, 15 U.S.C. 78dd-1(a)(1),
+reads, in pertinent part:
+It shall be unlawful for any issuer . . . [or for certain persons associated
+with such issuer] to make use of . . . any means or instrumentality of
+interstate commerce corruptly in furtherance of an offer, payment,
+promise to pay, or authorization of the payment of any money . . . to-(1) any foreign official for purposes of-(A)(i) influencing any act or decision of such foreign official in
+his official capacity, (ii) inducing such foreign official to do or
+omit to do any act in violation of the lawful duty of such official,
+or (iii) securing any improper advantage; or
+(continued...)
+7
+
+purpose element” of the anti-bribery provision), that is at issue in this case. This
+language should have been – but was not – taken into account by the district court.
+When this language is interpreted according to its ordinary meaning, it covers all
+cases in which
+a payor’s objective is to help 5 an issuer get 6 or keep 7 business with any person.
+The term “business” ordinarily is defined to mean commercial, industrial or
+
+4
+
+(...continued)
+(B) inducing such foreign official to use his influence with a foreign
+government or instrumentality thereof to affect or influence any act or
+decision of such government or instrumentality,
+in order to assist such issuer in obtaining or retaining business for or
+with, or directing business to, any person . . . .
+
+5
+
+“Assist” means to “give help or support to” (The American Heritage Dictionary of
+the English Language 109 (4th ed. 2000)). It means “to contribute to the
+fulfillment of a need, the furtherance of an effort, or the achievement of a
+purpose or end” (id. at 816 (synonyms at “help”)). “Assist” usually implies
+“making a secondary contribution or acting as a subordinate” (id.).
+
+6
+
+“Obtain” is ordinarily defined to mean“to gain or attain possession or disposal
+of” (Webster’s Third New International Dictionary 1559 (1993)).
+
+7
+
+The word “retain” is ordinarily defined to mean “to hold or continue to hold
+in possession or use: continue to have, use, recognize or accept: maintain in
+one’s keeping” (Webster’s Third New International Dictionary 1938 (1993)).
+8
+
+professional transactions, dealings, or intercourse 8 (which would include, of
+course, maintaining or increasing sales volume (quantity or dollar amount)).
+In an argument apparently endorsed by the district court, however, the
+defendants advanced a different interpretation of the business purpose element.
+According to the defendants, the FCPA proscribes bribes only if they are made to
+secure new business or renew existing business (R. 95-96). By that narrow
+interpretation, defendants appeared to argue that the FCPA covers only bribes
+seeking official action that, in itself, directly results in an issuer’s obtaining or
+retaining business (such as a governmental approval of a private contract or an
+award of a governmental contract).
+Congress’ use of the phrase “in order to assist such issuer in . . .” (and,
+particularly, the word “assist”), however, precludes such an interpretation. As
+indicated, supra n.5, the common sense of “assist” is “secondary contribution” and
+actions can assist a particular goal simply by making the eventual realization of
+that goal easier. Thus, when a payor seeks official action which, in turn, will
+
+8
+
+“Business” means “[c]ommercial, industrial, or professional dealings” (The
+American Heritage Dictionary of the English Language 252 (4th ed. 2000)); “the
+activity of buying and selling goods and services . . .” (Cambridge International
+Dictionary of English 178 (1995)); “transactions, dealings, or intercourse of any
+nature . . . but now esp. economic (as buying and selling)” (Webster’s Third New
+International Dictionary 302 (1993)).
+9
+
+assist an issuer in getting or keeping business, its payments fall within the antibribery prohibitions.
+In its opinion, the district court erred in failing even to mention, much less
+take into account, the words “in order to assist such issuer in . . .”, referring
+instead to the business purpose element simply as the “ ‘obtain or retain business’
+language” (e.g., R.E. 26). Had the court not isolated the “obtain or retain
+business” phrase, it would have had to conclude, consistent with common
+understanding, that bribes seeking official action favorable to an issuer’s carrying
+on its business enterprise (such as payments to circumvent quotas, bypass
+licensing systems, obtain concessions, or reduce taxes) satisfy the business
+purpose element because such action makes it easier for the issuer to do more
+business. Thus, a person paying such a bribe seeks to “assist” the issuer (by, for
+example, increasing the amount of a product available for sale or reducing an
+issuer’s expenses of sale) in “obtaining or retaining business” (including, for
+example, in increasing or maintaining the quantity or dollar volume of its sales or
+other economic dealings).
+In this case, the business purpose is clear. According to allegations in the
+superseding indictment, in exchange for numerous bribes in a nearly two-year
+period, Haitian officials accepted bills of lading and other documents which
+10
+
+intentionally understated the amount of rice ARI imported into Haiti, thus
+significantly reducing ARI’s sales taxes and customs duties. These reductions in
+taxes and duties in turn allowed ARI to reduce its cost of doing business and
+thereby enabled it to do more business. In sum, by seeking official action
+favorable to the carrying on of ARI’s business enterprise, defendants sought to
+assist ARI in obtaining or retaining business. 9
+Basic economics and common sense demonstrate that bribes that result in
+reduced taxes or induce other actions favorable to an issuer’s carrying on its
+business enterprise will satisfy the business purpose element. From an economic
+standpoint, bribery can reduce a firm’s cost of doing business (for example,
+reduced taxes) or can provide other benefits (for example, obtaining a government
+concession). To the extent that the amount of the bribe is less than the benefit it
+provides, a firm paying a bribe has an advantage over firms that do not pay the
+bribe. See generally, e.g., Dennis C. Mueller, Public choice II, 230 (1989). This
+
+9
+
+Indeed, according to anticipated testimony, defendants believed that ARI
+could not do business profitably in Haiti if it had to pay the full duties and
+taxes (R. 205, 207-08). Thus, as the Justice Department contended below (an
+assertion the court recited in its opinion (R.E. 20)): “Defendants’ payments to
+reduce customs duties and sales taxes were essential to ARI to be able to
+conduct business in Haiti.” Without the “assistance” of the reductions, then,
+ARI would not have “obtained or retained” any business in Haiti.
+11
+
+translates into either a cost advantage or increased business opportunities and both
+assist a firm in obtaining or retaining economic dealings.
+Thus, for example, a bribe that improves business opportunities by reducing
+the barriers to enter a market allows a firm to enter a market it might not have
+otherwise. See generally, e.g., Dennis W. Carlton & Jeffrey M. Perloff, Modern
+Industrial Organization, 107-109 (1990). For firms contemplating leaving a
+market (for example, because of low margins), bribes that provide cost advantages
+(for example, lower taxes or duties) allow them to remain in markets they
+otherwise might leave (and thus retain business). For other firms, their sales will
+increase to the extent that they pass on any of the cost advantage to consumers in
+the form of lower prices. See generally, e.g., Walter Nicholson, Microeconomic
+Theory: Basic Principles and Extensions, 413 (4th ed. 1989). In sum, under basic
+economic principles, bribes seeking official action favorable to a business
+enterprise assist the firm in obtaining or retaining business. 10
+
+10
+
+This common sense interpretation of the business purpose element – that
+would hold that the element is satisfied by bribes seeking official action
+favorable to an issuer’s business enterprise -- does not disregard the statutory
+language by covering any official action that merely relates to a company’s
+business. For example, there may be cases in which a defendant will be able to
+present unrefuted evidence that its objective in seeking a tax reduction (or
+some other favorable official action) had nothing to do with obtaining or
+retaining business in the short or long run (such as when a payor’s goal is to
+(continued...)
+12
+
+Further demonstrating that the business purpose element should be read to
+cover the bribes alleged in this case is the element’s statutory context. See United
+States v. Lowe, 118 F.3d 399, 402-03 (5th Cir. 1997) (in determining whether the
+meaning of statutory language is plain, inquiry is not limited to discerning the
+meaning of individual terms; instead meaning is drawn from context and a term is
+not considered ambiguous -- even though it may be susceptible to different
+interpretations -- when the context eliminates all but one of the meanings). As the
+Justice Department correctly urges (Br. 9), the defendants’ interpretation of the
+business purpose element renders another aspect of the anti-bribery prohibitions
+superfluous. As a consequence, that interpretation should be rejected.
+As is apparent from the anti-bribery prohibition of Section 30A(a)(1), for
+example, it actually has two “purpose” elements. The first -- the quid pro quo
+element -- requires that the payment be made “for purposes of” influencing “any
+act or decision of [a] foreign official in his official capacity,” inducing a foreign
+
+10
+
+(...continued)
+issue dividends as it winds down its business operations). In such cases, a trier
+of fact might not find violations since the trier would have to find that the
+bribe was paid to help the issuer get or keep business. But the Commission or
+the criminal prosecutor should not have to negate the possibility of such a rare
+situation in pleadings (the civil complaint or the indictment) or at trial.
+Established principles concerning the sufficiency of pleadings and the
+availability of evidentiary inferences and presumptions should satisfy the
+pleading or evidentiary burden.
+13
+
+official “to do or omit to do any act in violation of the lawful duty of such
+official,” securing “any improper advantage,” or “inducing such foreign official to
+use his influence with a foreign government . . . to affect or influence any act or
+decision of such government . . . .” The second “purpose” element -- the business
+purpose element -- requires that the ultimate objective of the payment must be to
+assist the issuer in obtaining or retaining business.
+The defendants’ (and, presumably, the court’s) reading of the business
+purpose element renders the first purpose element superfluous because it limits the
+FCPA’s anti-bribery coverage to payments for official actions (or inaction) that
+directly or proximately result in the award or renewal of contracts or other pieces
+of business. Had Congress intended this type of direct link, it could have simply
+omitted the quid pro quo element and prohibited payments to foreign officials “for
+purposes of obtaining or retaining business . . . .” Congress, however, described
+the conduct to be performed by the official in response to the bribe (the quid pro
+quo element) separately from the payor’s ultimate objective of obtaining or
+retaining business (the business purpose element). In addition, Congress linked
+the quid pro quo element to “obtaining or retaining business” through use of the
+words “in order to assist.” The context thus makes clear that the statutory
+
+14
+
+language prohibits bribes seeking official action that indirectly enables an issuer to
+obtain or retain business.
+The Commission also agrees with the Justice Department when it argues
+(Br. 10-11) that the presence of another provision of the FCPA provides further
+support for a reading of the business purpose element that covers the bribes
+alleged in this case. That provision, set out at, e.g., 15 U.S.C. 78dd-1(b), excepts
+from the coverage of the anti-bribery prohibitions “any facilitating or expediting
+payment to a foreign official . . . the purpose of which is to expedite or to secure
+the performance of a routine governmental action by a foreign official . . . .” 11
+Congress further defined “routine governmental action” to mean:
+only an action which is ordinarily and commonly performed by a
+foreign official in–
+
+11
+
+Facilitating payments are given to secure or accelerate performance of a nondiscretionary act an official is already obligated to perform without the
+payment. See H.R. Rep. No. 100-40, pt. 2, at 76 (1987) (describing “grease”
+payments as “small payments . . . demanded by relatively low-level foreign
+government employees before they will even properly perform the duties for
+which they are responsible, such as processing applications”). Congress always
+intended that such payments -- for example, those that were made with the
+goal of expediting shipments through customs -- would be excepted from the
+FCPA’s anti-bribery prohibitions. See, e.g., H.R. Rep. No. 95-640, at 8 (1977).
+As we explain below at pp. 21-22, however, Congress failed to implement its
+intent in 1977, when it enacted the FCPA. Not until 1988, when it enacted this
+“routine governmental action” exception to the anti-bribery prohibitions, did
+Congress implement its intent.
+15
+
+(i) obtaining permits, licenses, or other official documents to
+qualify a person to do business in a foreign country;
+(ii) processing governmental papers, such as visas and work
+orders;
+(iii) providing police protection, mail pick-up and delivery, or
+scheduling inspections associated with contract performance or
+inspections related to transit of goods across country;
+(iv) providing phone service, power and water supply, loading
+and unloading cargo, or protecting perishable products or
+commodities from deterioration; or
+(v) actions of a similar nature.
+e.g., 15 U.S.C. 78dd-1(f)(3)(A).
+The facilitating payments identified in the statute are thus payments for
+official actions, many of which (e.g., providing police protection, phone service)
+could not, and all of which likely would not, directly result in the acquisition or
+renewal of a specific piece of business. Therefore, because the exception would
+be unnecessary under defendants’ reading of the business purpose element, basic
+canons of statutory construction rule out that reading (see, e.g., United States v.
+Cyprian, 197 F.3d at 739 (courts assume statutory terms have meaning)).
+II.
+
+THE LEGISLATIVE HISTORY OF THE FCPA CONFIRMS
+THAT THE BUSINESS PURPOSE ELEMENT COVERS BRIBES
+TO SECURE LOWER DUTIES AND TAXES.
+In the Commission’s view, this Court need not look beyond the language of
+
+the business purpose element in determining that the element encompasses the
+payments alleged in this case. If, however, any uncertainty remains after
+16
+
+examining the statutory text, it is dispelled by the legislative history of the FCPA
+and the policies the Act advances. The Act’s history and goals confirm that
+Congress intended the element to be read, in a manner consistent with common
+understanding and basic economic principles, to encompass bribes made to secure
+official action favorable to an issuer’s carrying on its business enterprise.
+A. Enactment of the FCPA. The FCPA has been labeled a creature of “postWatergate morality.” Laura Longobardi, Reviewing the Situation: What is to be
+Done with the Foreign Corrupt Practices Act? 20 Vand. J. Transnat’l L. 431, 433
+(1987). Following up on the findings of the Watergate special prosecutor
+concerning illegal campaign contributions, the Commission undertook to
+investigate questionable and illegal payments by corporations. See Report of the
+Securities and Exchange Commission on Questionable and Illegal Corporate
+Payments and Practices, reprinted in Sec. Reg. & L. Rep. (BNA) (Special Supp.
+May 19, 1976). The investigation and a voluntary disclosure program revealed a
+widespread incidence of questionable corporate payments to foreign officials
+running the “gamut from bribery of high foreign officials in order to secure some
+type of favorable action by a foreign government to so-called facilitating payments
+
+17
+
+that allegedly were made to ensure that government functionaries discharged
+certain ministerial or clerical duties.” H.R. Rep. No. 95-640, at 4 (1977). 12
+Congress was gravely concerned about bribes to foreign officials, viewing
+the payments as immoral, unethical, unwise from a business standpoint, inimical to
+the principles of free and fair competition, and a threat to the conduct of the
+nation’s foreign policy. S. Rep. No. 95-114, at 3-4 (1977); H.R. Rep. No. 95-640,
+at 4-5. Based on these findings, Congress enacted the FCPA to bring “corrupt
+practices to a halt and to restore public confidence in the integrity of the American
+business system.” S. Rep. No. 95-114, at 4. In sum, as the Ninth Circuit has
+recognized, the FCPA represents “a legislative judgment that our foreign relations
+will be bettered by a strict anti-bribery statute.” Clayco Petroleum Corp. v.
+Occidental Petroleum Corp., 712 F.2d 404, 408 (9th Cir. 1983).
+As it emerged from the Conference Committee, the substitute bill that
+ultimately became the FCPA included anti-bribery prohibitions substantially
+
+12
+
+One particularly high-profile instance of bribery involved payments by United
+Brands to government officials in Honduras to reduce taxes on banana
+exports. The notoriety of the United Brands scandal was heightened by the
+suicide of the company’s CEO Eli Black (who had authorized the bribery) on
+the eve of its public disclosure. In 1976, the Commission brought an
+injunctive action against United Brands alleging, among other things, violations
+of the antifraud and reporting requirements of the Exchange Act. SEC v.
+United Brands Co., [1975-76 Transfer Binder] Fed. Sec. L. Rep. (CCH) ¶ 95,420
+(D.D.C. Jan. 27, 1976) (consent judgment).
+18
+
+similar to the current versions – that is, they proscribed payments to foreign
+officials (and others) to induce official action or inaction (the quid pro quo
+element), in order to assist issuers in obtaining or retaining business (the business
+purpose element). See H.R. Conf. Rep. No. 95-831, at 12 (1977) (stating that “the
+conferees clarified the scope of the [anti-bribery] prohibition by requiring that the
+purpose of the payment must be to influence any act or decision of a foreign
+official (including a decision not to act) . . . so as to assist an issuer in obtaining,
+retaining or directing business to any person”). The bill incorporated some but not
+all aspects of both House (H.R. 3815) and Senate (S. 305) precursors.
+The House bill (H.R. 3815, 95th Cong., § 2(a) (1977)) had included, as
+relevant, quid pro quo language that required that the payment be made “for
+purposes of . . . influencing any act or decision of such foreign official in his
+official capacity” but had not included the business purpose element. That
+element was included in the Senate’s version. Its version proscribed payments
+made “for the purpose of inducing [the foreign official] . . . to use his influence
+with a foreign government or instrumentality, or . . . to fail to perform his official
+functions, to assist such issuer in obtaining or retaining business for or with, or
+directing business to, any person or influencing legislation or regulations of that
+
+19
+
+government or instrumentality.” S. 305, 95th Cong., § 103 (1977) (emphasis
+added).
+In enacting the anti-bribery prohibitions, Congress passed “[t]he House
+version which provided that the corrupt purpose must be to influence any official
+act or decision . . . with the modification [from the Senate version] that the bribe
+must also be to retain or obtain business.” 123 Cong. Rec. H12824 (daily ed. Dec.
+7, 1977) (remarks of Rep. Staggers). The conclusion that the district court drew
+from this legislative history -- that the Conference Committee’s drafting choices
+weigh against a broad reading of the anti-bribery prohibitions (R.E. 24) – is in
+error.
+First, as a matter of fact, the district court inaccurately recited those choices.
+The substitute bill did not, as the district court stated, reject the House proposal to
+prohibit payments to influence “any act or decision of such foreign official in his
+official capacity.” Instead, the substitute bill included this very broad language in
+its entirety in the quid pro quo element and limited it only by the business purpose
+element. Second, although the substitute bill did not include the Senate’s proposal
+to prohibit payments for the purpose of inducing official action “to assist such
+issuer in . . . influencing legislation or regulations of that government,” this does
+not mean that Congress intended the “obtaining or retaining business” language to
+20
+
+have a narrow, extraordinary meaning. At most, rejection of the “influencing
+legislation or regulations” language signalled Congress’ intent that only businesslinked bribes would be prohibited by the FCPA: that rejection in no way defined
+how close that link needs to be – the issue here.
+B. 1988 Amendments. The district court also erred in concluding (see R.E.
+25-29) that Congress’ 1988 rejection of a proposal to amend the business purpose
+element cuts against giving the element its ordinary meaning. Rather than
+focusing on Congress’ inaction, the court should have considered Congress’
+contemporaneous action in crafting the “routine governmental action” exception,
+which confirmed the broad reach of the business purpose element. Indeed, in light
+of this action, commentary in a House Committee Report emphasizing the breadth
+of the business purpose element provides significant support for an interpretation
+of the FCPA that reaches the payments alleged in this case.
+In proposing to amend the FCPA in 1988, the Conference Committee
+determined not to include an amendment, proposed by the House, that would
+expressly have stated that proscribed payments were those made for purposes of
+influencing official action in order “to assist such issuer in obtaining or retaining
+business . . ., including the procurement of legislative, judicial, regulatory, or other
+action in seeking more favorable treatment by a foreign government.” H.R. 3,
+21
+
+100th Cong., §701(a). Because the Conference Committee rejected this proposal,
+the court declined to give any deference to the conferees’ contemporaneous
+statement that
+the reference to corrupt payments for “retaining
+business” in present law is not limited to the renewal of
+contracts or other business, but also includes a
+prohibition against corrupt payments related to the
+execution or performance of contracts or the carrying out
+of existing business, such as a payment to a foreign
+official for the purpose of obtaining more favorable tax
+treatment . . . .
+H.R. Conf. Rep. No. 100-576, at 918 (1988). The court reasoned that Congress’
+rejection of the House proposal did not involve an “enactment[] of a subsequent
+Congress that would serve as guidance for the FCPA’s original ‘obtain or retain
+business’ language.” R.E. 27. Accordingly, the court held to be inapposite
+precedent holding that subsequent enactments of Congress are entitled to great
+weight in construing prior acts. Id. 13
+
+13
+
+Indeed, it appears that the court did more than just decline to give deference to
+the conferees’ statement -- it also attributed interpretive significance to what it
+viewed as a failed legislative proposal (see R.E. 29 (the court “finds that the
+1988 Congress considered and rejected expansion” of the business purpose
+element)). The court erred. Even if Congress had not acted in a way that
+necessarily reflected its understanding of the breadth of the business purpose
+element, its non-action could not support the court’s decision. As the
+Supreme Court has stated, “failed legislative proposals are ‘a particularly
+dangerous ground on which to rest an interpretation of a prior statute’ . . . [in]
+(continued...)
+22
+
+But Congress did act in 1988 and did so in a way that was necessarily based,
+at least in part, on its understanding of the breadth of the anti-bribery prohibitions
+in general and the business purpose element in particular. It enacted the “routine
+governmental action” exception, discussed above at pp. 14-15, against a backdrop
+of criticism that it had failed, in 1977, to effectuate its intent to exclude facilitating
+or “grease” payments from FCPA coverage. See n.11 supra; see also H.R. Rep.
+No. 100-40, pt. 2, at 76 (1987) (describing Congress’ intent in 1977 to exclude
+petty corruption from FCPA coverage); id. at 77 (“there has been some criticism
+that the current statutory language does not clearly reflect Congressional intent
+and the boundaries of prohibited conduct”). 14 The history of this amendment thus
+13
+
+(...continued)
+that ‘ “‘[c]ongressional inaction lacks persuasive significance because several
+equally tenable inferences may be drawn from such inaction, including the
+inference that the existing legislation already incorporated the offered
+change.’” ” United States v. Craft, 122 S.Ct. 1414, 1425 (2002) (quotation
+omitted).
+
+14
+
+In 1977, Congress sought to except grease payments primarily by defining the
+term “foreign official” to exclude persons with “essentially ministerial or
+clerical” duties. See Pub. L. No. 95-213, § 103(a); see also H.R. Rep. No. 100-40,
+pt. 2, at 76 (1987). In practice, however, this approach proved problematic
+because issuers had difficulty determining, among other things, whether a
+foreign official’s duties were “essentially” ministerial or clerical and, perhaps
+more fundamentally, because the approach delimited excluded payments by
+reference to the recipient rather than the purpose. H.R. Rep. No. 100-40, pt. 2,
+at 77; see Arthur Aronoff, Antibribery Provisions of the Foreign Corrupt Practices Act,
+863 PLI/Corp. 47, 53 (1994). As a consequence, in 1988, in an effort to
+(continued...)
+23
+
+shows that Congress recognized that the anti-bribery prohibitions had been read to
+cover the listed grease payments and, therefore, that it was necessary to include a
+specific exception for these sorts of payments.
+Under these circumstances, the conferees’ articulation of the meaning of the
+anti-bribery prohibitions’ business purpose element is entitled to deference. As
+the Supreme Court has recognized, “the views of a Congress engaged in the
+amendment of existing law as to the intent behind that law are ‘entitled to
+significant weight.’ ” Bufferd v. Commissioner of Internal Revenue, 506 U.S. 523,
+530 n.10 (1993) (quoting Seatrain Shipbuilding Corp. v. Shell Oil Co., 444 U.S.
+572, 596 (1980)). See Bell v. New Jersey, 461 U.S. 773, 785 n.12 (1983) (quoting
+Mount Sinai Hospital v. Weinberger, 517 F.2d 329, 343 (5th Cir. 1975)) (Congress
+is “ ‘at its most authoritative, [when it is] adding complex and sophisticated
+amendments to an already complex and sophisticated act. Congress is not merely
+
+14
+
+(...continued)
+effectuate its intent that “petty corruption” be excepted from the anti-bribery
+prohibitions, Congress amended the law to describe “the type of conduct that
+is outside the scope of the FCPA.” H.R. Rep. No. 100-40, pt. 2, at 77; see id. at
+53 (describing proposed amendments that ultimately ripened into legislation as
+an attempt to make “clear that certain kinds of payments are not intended to
+be within the scope of the general prohibitions under the FCPA” including
+those for “certain kinds of routine actions, such as processing work orders and
+loading and unloading cargoes”).
+24
+
+expressing an opinion . . . but is acting on what it understands its own prior acts to
+mean.’ ”).
+C. 1998 Amendments. Finally, the court erred in concluding that Congress’
+actions in 1998 also support a narrow reading of the business purpose element.
+The 1998 amendments to the FCPA responded to the call of the Organization for
+Economic Cooperation and Development’s Convention on Combating Bribery of
+Foreign Public Officials in International Business Transactions (the “OECD
+Convention”) for all parties to make it a criminal offense “for any person
+intentionally to offer, promise or give any undue pecuniary or other advantage,
+whether directly or through intermediaries, to a foreign public official, for that
+official or for a third party, in order that the official act or refrain from acting in
+relation to the performance of official duties, in order to obtain or retain business
+or other improper advantage in the conduct of international business.” OECD
+Convention, art. 1(1), reprinted in 37 I.L.M. 1, 4 (1998). In implementing this
+article of the convention, Congress chose to insert the “improper advantage”
+language into the quid pro quo element of the anti-bribery prohibitions rather than
+to make it part of the business purpose element (see nn.1, 4 supra).
+As the legislative history makes clear, however, the drafters of this
+amendment believed that it implemented the OECD Convention and, indeed, that
+25
+
+it “expand[ed] the FCPA’s scope to include payments made to secure ‘any
+improper advantage,’ the language used in the OECD Convention.” S. Rep. No.
+105-277, at 2 (1998). In any event, at least insofar as the business purpose
+element is concerned, the court erred in according interpretive significance to
+Congress’ failure to amend the element in response to the OECD Convention (see
+R.E. 29). This is so because at least one inference to be drawn from that inaction - that the element already incorporated bribes made to secure “any improper
+advantage in the conduct of international business” -- is equally as reasonable as
+any other inference (see n.13 supra).
+
+26
+
+CONCLUSION
+For the foregoing reasons, the Commission urges the Court to reverse the
+district court’s decision. The Court should reject the district court’s unduly
+narrow construction of the FCPA – supported by neither the language of the
+statute nor its legislative history -- and hold that the bribes alleged in this case fall
+within the scope of the FCPA’s business purpose element.
+Respectfully submitted,
+
+GIOVANNI PREZIOSO
+General Counsel
+MEYER EISENBERG
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+___________________
+RADA LYNN POTTS
+Senior Litigation Counsel
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C. 20549-0606
+(202) 942-0961 (Potts)
+
+September 2002
+
+27
+
+CERTIFICATE OF SERVICE
+I, Rada Potts, hereby certify that on September 10, 2002, I caused to be
+dispatched via overnight courier to the Clerk of the United States Court of
+Appeals for the Fifth Circuit the original and seven copies of the Brief of the
+Securities and Exchange Commission as Amicus Curiae in Support of Appellant
+and Urging Reversal of the District Court’s Decision, together with one computer
+readable disk copy of the brief and my notice of appearance. I also certify that on
+September 10, 2002, I caused to be served two copies of the Brief of the Securities
+and Exchange Commission as Amicus Curiae in Support of Appellant and Urging
+Reversal of the District Court’s Decision, together with one computer readable
+disk copy of the brief and my notice of appearance upon counsel for each of the
+following parties as follows:
+via overnight courier:
+Robert C. Bennett, Jr.
+Bennett & Secrest
+808 Travis St., Suite 2400
+Houston, TX 77002
+(counsel for Appellee David Kay)
+
+Robert Jon Sussman &
+Charley A. Davidson
+Hinton, Sussman, Bailey & Davidson
+5300 Memorial Dr., Suite 1000
+Houston, TX 77007
+(counsel for Appellee Douglas Murphy)
+
+via messenger:
+Reid H. Weingarten
+Brian Matthew Heberlig
+Steptoe & Johnson
+1330 Connecticut Ave., NW
+Washington DC 20036
+(counsel for Appellee David Kay)
+
+Philip Eric Urofsky
+U.S. Dept. of Justice
+Fraud Section, Criminal Division
+th
+10 & Constitution Ave., N.W.
+Bond Building, Suite 4403
+Washington DC 20530
+(counsel for Appellant United States)
+
+____________________________
+RADA LYNN POTTS
+Securities & Exchange Commission
+450 Fifth St., N.W.
+Washington DC 20549-0606
+(202) 942-0961
+
+CERTIFICATE OF COMPLIANCE
+Pursuant to 5th Cir. R. 32.2 and .3, the undersigned certifies this brief
+complies with the type-volume limitations of Fed. R. App. P. 32(a)(7).
+
+1. EXCLUSIVE OF THE EXEMPTED PORTIONS IN 5th Cir. R. 32.2, THE
+BRIEF CONTAINS:
+A. 6,206 words.
+2. THE BRIEF HAS BEEN PREPARED:
+A. in proportionally spaced typeface using:
+WordPerfect 9:
+in Garamond Typeface, 14 Point Font Size.
+3. THE UNDERSIGNED UNDERSTANDS A MATERIAL
+MISREPRESENTATION IN COMPLETING THIS CERTIFICATE, OR
+CIRCUMVENTION OF THE TYPE-VOLUME LIMITS IN FRAP 32(a)(7),
+MAY RESULT IN THE COURT'S STRIKING THE BRIEF AND IMPOSING
+SANCTIONS AGAINST THE PERSON SIGNING THE BRIEF.
+
+______________________
+RADA LYNN POTTS
+Senior Litigation Counsel
+
+

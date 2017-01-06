@@ -1,0 +1,1036 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 78141 / June 23, 2016
+ADMINISTRATIVE PROCEEDING
+File No. 3-17312
+
+In the Matter of
+ORDER INSTITUTING
+ADMINISTRATIVE AND CEASE-ANDDESIST PROCEEDINGS, PURSUANT TO
+SECTIONS 15(b) AND 21C OF THE
+SECURITIES EXCHANGE ACT OF 1934,
+MAKING FINDINGS, AND IMPOSING
+REMEDIAL SANCTIONS AND A CEASEAND-DESIST ORDER
+
+MERRILL LYNCH,
+PIERCE, FENNER &
+SMITH INCORPORATED
+AND MERRILL LYNCH
+PROFESSIONAL
+CLEARING CORP.
+Respondents.
+
+I.
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that public administrative and cease-and-desist proceedings be, and hereby are,
+instituted pursuant to Sections 15(b) and 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”) against Merrill Lynch, Pierce, Fenner & Smith Incorporated (“MLPF&S”) and Merrill
+Lynch Professional Clearing Corp. (“MLPro”) (collectively, “ML” or “Respondents”).
+II.
+In anticipation of the institution of these proceedings, Respondents have submitted an Offer
+of Settlement that the Commission has determined to accept. Respondents admit the facts set forth
+in Sections III.A, III.B., III.D., and III.E. below, acknowledge that their conduct violated the federal
+securities laws, admit the Commission’s jurisdiction over them and the subject matter of these
+proceedings, and consent to the entry of this Order Instituting Administrative and Cease-and-Desist
+Proceedings, Pursuant to Sections 15(b) and 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing Remedial Sanctions and a Cease-And-Desist Order (“Order”), as set forth
+below.
+
+III.
+On the basis of this Order and Respondents’ Offer of Settlement, the Commission finds1
+that:
+Summary
+Broker-dealers are required to be diligent stewards of the cash and securities entrusted to
+them by their customers. This basic principle is embodied in Exchange Act Rule 15c3-3, known as
+the Customer Protection Rule (“Rule”). The Rule requires broker-dealers to safeguard both the
+cash and securities of their customers so that customer assets can be quickly returned if the firm
+fails. In broad strokes, a broker-dealer cannot use customer assets to finance the business activities
+of the firm, and it cannot place customer assets in locations or accounts that make them vulnerable
+to claims made against the broker-dealer by third parties.
+This matter arises from significant violations of the Customer Protection Rule that began
+during the Financial Crisis and, in certain respects, continued until this year. The violations were
+twofold. First, ML used cash belonging to its customers to fund its own business activities through
+a series of increasingly complex trades. Second, at the same time and continuing for years due to
+poor oversight and weak controls, MLPF&S allowed certain of its clearing banks to hold general
+liens over tens of billions of dollars of securities owned by its customers.
+The first set of violations concerns trades devised by ML that were known internally as the
+Leveraged Conversion Trades (“Trades”). From 2009 to 2012, ML used the Trades to reduce the
+amount of cash it was required to deposit in a customer reserve account that it maintained pursuant
+to Rule 15c3-3(e). Margin loans extended to finance customer positions can properly reduce the
+amount a broker-dealer is required to deposit; however, ML made billions of dollars in margin
+loans to finance riskless trades that lacked defined terms and economic substance which ML
+structured and then executed with newly-created counterparty entities. Through these trades, ML
+improperly reduced by billions of dollars the amount it was required to deposit in its customer
+reserve account. These Trades evolved over time and, in their final iteration, became instantaneous
+roundtrips structured to provide financing for ML’s activities rather than in response to customer
+trading objectives.
+ML used these Trades to remove up to $5 billion of customer cash week over week from its
+customer reserve account. ML then used these funds to finance its business activities. Had ML
+failed when the Trades were in use, its customers would have been exposed to a shortfall of
+customer cash in the customer reserve account.
+The second set of violations involved the custody of customer securities from 2009 until
+this year. Rule 15c3-3(c) requires broker-dealers like MLPF&S to hold customer securities that
+are not collateralizing margin loans in a segregated account free of liens. The purpose of this
+requirement is to protect customer securities from claims by a failed broker-dealer’s creditors.
+1
+
+The findings herein are made pursuant to Respondents’ Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+
+2
+
+From June 2009 to April 2015, MLPF&S held up to $58 billion of customer securities in a clearing
+account that was subject to a general lien by one of its clearing banks. In addition to this account,
+until as recently as this year MLPF&S held approximately $1.38 billion in customer securities in 6
+other clearing accounts in Europe and Asia as of the end of 2015 that also were subject to liens and
+approximately $4.8 billion in 48 other accounts in Europe, Asia, and Australia as of the end of
+2015 that lacked documentation establishing that they were not subject to liens. Had MLPF&S
+failed during this period, these liens, and the resultant uncertainty, would have hindered or
+prevented MLPF&S’s customers from retrieving their securities and could have significantly
+further damaged public confidence in the U.S. brokerage and securities industries during or after
+the Financial Crisis.
+The significant penalties and other relief imposed in this Order in connection with ML’s
+violations of the Customer Protection Rule reflect the seriousness with which the Commission
+views failures to comply with this Rule.
+A.
+
+Respondents
+
+1.
+Merrill Lynch, Pierce, Fenner & Smith Incorporated, headquartered in New York,
+New York, is dually-registered with the Commission as a broker-dealer and investment adviser. It
+is a wholly-owned subsidiary of Bank of America Corporation.
+2.
+Merrill Lynch Professional Clearing Corp., headquartered in New York, New York,
+is registered with the Commission as a broker-dealer. It is a direct, wholly-owned subsidiary of
+MLPF&S.
+B.
+
+Other Entities and Individuals
+
+3.
+Bank of America Corporation (“BAC”) is a bank holding company incorporated in
+Delaware and a financial services holding company under the Gramm-Leach-Bliley Act. BAC’s
+common stock is registered with the Commission under Section 12(b) of the Exchange Act and
+trades on the New York Stock Exchange under the symbol “BAC.” BAC’s principal offices are
+located in Charlotte, North Carolina.
+4.
+William Tirrell (“Tirrell”), age 61, is a resident of Lawrenceville, NJ and an
+associated person of broker-dealer and investment adviser MLPF&S. From 2004 until April 2016,
+he was the Financial and Operations Principal (“FinOp”) and Head of the Regulatory Reporting
+Department for MLPF&S and in that role oversaw regulatory reporting for MLPF&S and MLPro.
+Concurrent with that role, Tirrell was the Acting CFO of MLPF&S from August 2014 to April
+2016. He holds a Series 27 License.
+5.
+SEFT Trader was a Managing Director at MLPF&S who worked on its Structured
+Equity Financing & Trading (“SEFT”) desk from 2005 to 2012.
+
+3
+
+Background
+C.
+
+The Customer Protection Rule
+
+6.
+Rule 15c3-3 of the Exchange Act is designed to protect broker-dealer customers in
+the event a broker-dealer becomes insolvent. The intent and objective of the Rule is:
+the elimination of the use by broker-dealers of customer funds and securities to
+finance firm overhead and such firm activities as trading and underwriting through
+the separation of customer related activities from other broker-dealer operations.
+Rule 15c3-3 Adopting Release, Exch. Rel. No. 9775, 1972 WL 125434, at *1 (Sept. 14, 1972); see
+also id. (one objective of the Rule was to “inhibit the unwarranted expansion of a broker-dealer’s
+business through the use of customers’ funds by prohibiting the use of those funds except for
+designated purposes”); Exch. Act Rel. No. 21651, 50 FR 2690-01 at 2690 (Jan. 18, 1985) (Rule
+“forbid[s] brokers and dealers from using customer assets to finance any part of their businesses
+unrelated to servicing securities customers; e.g., a firm is virtually precluded from using customer
+funds to buy securities for its own account”).
+7.
+Rule 15c3-3 requires a broker-dealer that maintains custody of customer securities
+and cash (a “carrying broker-dealer”) to take two primary steps to safeguard these assets. The
+steps are designed to protect customers by segregating their cash and securities from the brokerdealer’s business activities. If the broker-dealer fails financially, the securities and cash should be
+readily available to be returned to the customers. In addition, if the failed broker-dealer is
+liquidated in a formal proceeding under the Securities Investor Protection Act, the securities and
+cash should be isolated and readily identifiable as customer property and, consequently, available
+to be distributed to customers ahead of other creditors. See 15 U.S.C. 78aaa et seq.
+Customer Protection Rule Requirements for Customer Cash
+8.
+The Rule requires a carrying broker-dealer to maintain a reserve of funds and/or
+certain qualified securities in an account at a bank (“Reserve Account”) that is at least equal in
+value to the net cash owed to customers. 17 CFR 240.15c3-3(e).
+9.
+The amount of net cash owed to customers is computed pursuant to a formula set
+forth in Exhibit A to Rule 15c3-3 (“Reserve Formula”), which most carrying broker-dealers
+calculate on a weekly basis. 17 CFR 240.15c3-3a. Under the Reserve Formula, the carrying
+broker-dealer adds up customer credit items that it owes its customers (e.g., cash in customer
+securities accounts) and then subtracts from that amount customer debit items that its customers
+owe it (e.g., margin loans). See id. If credit items exceed debit items, that net amount must be
+deposited, or already be on deposit, in the Reserve Account in the form of cash and/or qualified
+securities.2 17 CFR 240.15c3-3(e). A broker-dealer generally cannot make a withdrawal from the
+2
+
+Customer cash is a balance sheet item of the carrying broker-dealer (i.e., the amount of cash received from
+a customer increases the amount of the carrying broker-dealer’s assets and creates a corresponding liability to the
+customer). The Reserve Formula is designed to isolate these broker-dealer assets so that an amount equal to the net
+liabilities to customers is held as a reserve in the form of cash or U.S. government securities. The reserve
+
+4
+
+Reserve Account until the next computation and even then only if the computation shows that the
+reserve requirement has decreased. Id. The broker-dealer must make a deposit into the Reserve
+Account if the computation shows an increase in the reserve requirement.
+10.
+While the formula itself is somewhat complex, it embodies a simple concept for the
+responsible stewardship of customer cash: if a broker-dealer owes more to its customers than its
+customers owe to it, the broker-dealer must set aside at least an amount equal to that difference so
+that it is readily available to repay customers.
+11.
+FINRA’s Interpretations of Financial and Operational Rules handbook includes an
+update, first issued in 1989, which states that the Commission staff has advised that any “device,
+window dressing or restructuring of transactions made solely to reduce an excess of credits over
+debits in the Rule 15c3-3 formula computation and not otherwise a normal business transaction”
+may be considered a circumvention of the Rule. FINRA Interpretations of Financial and
+Operational Rules, Rule 15c3-3(e)(2)/02 (“Interp. 15c3-3(e)(2)/02”) formerly N.Y.S.E.
+Interpretation Handbook, Vol. II, Interpretation Memo No. 89-10, Aug. 23, 1989 (Commission
+Staff to NYSE) (No. 89-11, 1989 WL 1169979, Oct. 9, 1989).
+12.
+To facilitate the Commission’s oversight of broker-dealers, Rule 15c3-3(i) imposes
+a self-reporting requirement. If a broker-dealer fails to maintain the minimum required amount in
+its customer reserve account, it must immediately notify the Commission and FINRA of this
+failure.
+Customer Protection Rule Requirements for Customer Securities
+13.
+Rule 15c3-3 also protects customer securities from the risks broker-dealers take in
+running their business and from the dangers that would arise if a broker-dealer fails. Specifically,
+the Customer Protection Rule requires a carrying broker-dealer to promptly obtain and thereafter
+maintain physical possession or control over customers’ fully paid and excess margin securities.
+17 CFR 240.15c3-3(b). Physical possession or control generally means that the broker-dealer must
+hold these securities in one of several locations specified in the Rule and that they be held free of
+liens or any other interest that could be exercised by a third-party to secure an obligation of the
+broker-dealer.3 17 CFR 240.15c3-3(c). Permissible locations include a bank, as defined in Section
+3(a)(6) of the Exchange Act, and a clearing agency. Id.
+
+requirement is designed to prevent the carrying broker-dealer from using customer funds for business activities. The
+goal is to put the carrying broker-dealer in a position to be able to meet its cash obligations to customers by
+requiring the firm to make deposits of cash and/or U.S. government securities into the Reserve Account in the
+amount of the net cash owed to customers.
+3
+
+Customer securities held by the carrying broker-dealer are not assets of the firm. Rather, the carrying
+broker-dealer holds them in a custodial capacity and the possession and control requirement is designed to ensure
+that the carrying broker-dealer treats them in a manner that allows for their prompt return.
+
+5
+
+D.
+
+ML Improperly Reduced Its Reserve Account
+
+14.
+From 2009 to 2012, ML executed a series of trades that reduced the balance of its
+Reserve Account by billions of dollars and then used those freed-up funds to finance firm
+inventory and thereby finance its business activities.
+15.
+To efficiently manage the firm’s capital, ML requires its trading desks to finance
+the securities they hold. ML makes capital available to its trading desks so that the desks can
+purchase securities, but it charges an interest rate on this capital, known as the firm’s treasury rate,
+that typically is higher than the interest that external third parties charge. To avoid being assessed
+the more expensive internal financing rate, a trading desk can finance its positions externally
+through a repurchase agreement, stock loan, or other means. Taking a repurchase agreement as an
+example, a ML trading desk can pledge its securities to another firm as collateral for a loan that is
+roughly equivalent to the market value of the securities. As part of this repurchase agreement, the
+ML trading desk pays interest on this loan. The ML trading desk can then use the funds obtained
+through the repurchase agreement to pay for the firm securities it posted as collateral or use the
+funds to engage in more trading activity. As described below, the Trades used interest-free funds
+obtained through reductions to the Reserve Account balance, rather than repurchase agreements, to
+finance its business activities.
+16.
+In 2008, ML sought to reduce the amount of cash it was required to deposit in the
+Reserve Account that it maintained for the benefit of MLPF&S’s and MLPro’s customers.
+MLPF&S’s SEFT desk developed a trade designed to introduce customer debits into the Reserve
+Formula through soliciting customers to enter into conversion trades that would include margin
+loans that would decrease dollar-for-dollar the amount ML was required to maintain in the Reserve
+Account. To ensure that it would operate as desired and did not run afoul of the Rule, the SEFT
+desk developed the trade in consultation with MLPF&S’s Regulatory Reporting Department,
+which is responsible for performing the Reserve Formula calculation each week and maintaining
+the minimum required amount in its Reserve Account.
+17.
+SEFT Trader conceived of the trade and was responsible for structuring it. During
+2008 to 2012, William Tirrell was the Head of MLPF&S’s Regulatory Reporting Department and
+its FinOp. While developing the trade, the SEFT desk consulted with Tirrell about the Trades’
+potential impact on the Reserve Formula.
+18.
+In August 2008, the SEFT desk obtained internal approval for Trades, known as the
+Leveraged Conversion Trades. In their initial form, the Leveraged Conversion Trades were
+conversion trades that used listed options financed by customers through margin loans extended by
+MLPF&S or MLPro. This margin loan introduced a customer debit into the Reserve Formula that
+reduced the minimum amount ML was required to maintain on deposit in ML’s Reserve Account.
+19.
+In this listed conversion trade, a customer would buy a put and sell a call on a stock
+with the same strike price and expiration date. The customer would also purchase on margin the
+stock to cover the call. Because the options fully hedged the customer’s stock purchase, it was
+insulated from market risk provided that the customer could fully cover the short position created
+6
+
+by his call option. In addition to this stock borrow risk, the trade presented other risks because it
+was exposed to the market, such as pin risk, dividend risk, and early exercise risk.4
+20.
+The original version of the trade, as presented by the SEFT desk to internal
+reviewers in a one page handout, expressly proposed that the trade be used to provide “synthetic
+financing” to ML through which the firm’s inventory would be used in the Trades and financed
+through the reductions to the amount deposited into the Reserve Account caused by the extension
+of the margin loan to a customer. A Leveraged Conversion Trade using listed options cannot
+finance firm inventory in situations where other market participants on the exchange are able to
+step in to take the other side of the customer’s put and call options. If the customer long position in
+that scenario is sourced from ML’s inventory, ML would lose that inventory when the counterparty
+to the conversion trade exercised his in-the-money put or call. To avoid that, under the trade
+proposed by the SEFT desk, ML would ensure that it always was the counterparty to the
+customer’s conversion trade and thereby was guaranteed to retain the inventory it used in a
+Leveraged Conversion Trade.
+21.
+Through this proposed Trade, the SEFT desk was proposing to finance a customer –
+through the extension of a margin loan – so that the customer could then use the loan it received to
+provide that same financing back to ML – through the customer’s purchase of ML inventory used
+to cover the short. While this reciprocal financing cancels itself out, the margin loan extended to
+the customer would reduce the Reserve Account and those funds could be used – on an interestfree basis – to finance the firm inventory used in the Trade.
+22.
+Internal reviewers rejected this proposal but agreed to a modified one in which firm
+inventory may be financed incidentally through a customer-driven trade, but cannot be the driver
+for the conversion trade or the terms or securities used in a trade. As reflected in a revised handout
+(i) the Trades would be exposed to the market, (ii) ML could take the other side of the Trades, but
+floor traders could also step in and take all or part of the Trades, and (iii) the customer’s long
+position used to cover the short would be sourced as all customer shorts typically were sourced,
+through either a borrow from an external lender, firm inventory, or some combination of the two.
+The following is the handout revised to reflect limitations imposed by internal reviewers:
+
+4
+
+Pin risk arises when the market price of the underlying stock at the time of the put and call’s expiration is
+close to the strike price. If this occurs, there is a risk that options may not be exercised and the customer is left with
+a large, undesired, and unhedged stock position. Dividend risk occurs when a dividend on the underlying stock is
+unexpectedly cancelled or lowered. Because the pricing of a conversion trade takes into account the anticipated
+dividend amount, any dividends paid that are less than this anticipated amount will result in a loss to the customer.
+Early exercise risk materializes when the owner of the call or put option exercises the option prior to its expiration
+date.
+
+7
+
+23.
+After executing Leveraged Conversion Trades according to the limitations imposed
+by internal reviewers, the SEFT desk in early 2009 renewed their request to use the Trades to
+finance firm inventory. The SEFT desk also requested to scale the Trades up so that they could
+reduce the minimum amount required to be maintained in the Reserve Account by a greater
+amount.
+24.
+ML, which by that time had recently been acquired by BAC, sought to discuss the
+Leveraged Conversion Trades with securities regulators for two reasons. First, because this
+sizeable decrease in the Reserve Account balance would be observable in monthly reports
+submitted to the Financial Industry Regulatory Authority (“FINRA”), ML requested to meet with
+staff from FINRA and the Commission’s Division of Trading and Markets (“T&M”) to discuss the
+Trades. Second, it was perceived within ML that using customer money to finance firm inventory
+moved the Trades into an area of regulatory uncertainty. As stated above, one of the primary
+objectives of the Reserve Account requirement in Rule 15c3-3 is to prevent broker-dealers from
+using customer assets to finance firm activities.
+ML Presented an Early Iteration of the Leveraged Conversion Trades to Its Regulators
+25.
+Tirrell and SEFT Trader presented the Trades at a meeting with FINRA and T&M
+in August 2009. Despite being an impetus for the meeting, ML did not inform FINRA and T&M,
+either at the August 2009 meeting or subsequently, that the primary purpose of the Leveraged
+8
+
+Conversion Trades was to finance firm inventory. Tirrell, using the revised handout shown above,
+presented the Trades to regulators. In addition to explaining the bullets on the slide concerning
+market exposure and the use of only actively traded large cap stocks, Tirrell told regulators that
+ML’s customers took on real risk, which in Tirrell’s view made the Trades like any other
+conversion trade. Based on the revised handout and the discussions at the meeting concerning the
+presence of real risk, the fact that these were standard conversion trades – which were to be
+customer and not firm driven – and the perceived economic substance of all of the trade
+components, the regulators did not object to the version of the Leveraged Conversion Trades that
+was presented. While they did not object to the Trade as presented, the regulators limited them by
+advising ML that the Trades collectively could not exceed a notional value of $3 billion for any
+given calculation period.
+26.
+Over the next year, the Leveraged Conversion Trades would lose each of the key
+attributes that had been presented to regulators.
+27.
+Shortly after ML met with regulators, it began using the Leveraged Conversion
+Trades to finance firm inventory. ML chose stocks that it had in inventory and that it otherwise
+would be seeking to finance through a more costly repurchase agreement or other means. ML then
+advised floor traders that it intended to take the other side of the trade and that they need not locate
+counterparties on the exchange. The margin loan extended to customers in each trade created a
+debit that reduced the required amount to be deposited into the Reserve Account by hundreds of
+millions and, collectively, billions of dollars. The cash freed from ML’s Reserve Account through
+this debit was used to finance the security sold to the Leveraged Conversion Trade customers as
+part of the Trades.
+28.
+ML considered the difference between the cost of financing the position through
+traditional means and through a Leveraged Conversion Trade as profit. The SEFT desk was
+credited with approximately half of the profit generated by the Leveraged Conversion Trades, and
+the trading desk that supplied the inventory was credited with the residual.
+ML Did Not Keep Regulators Apprised in Regular Reports
+29.
+At the August 2009 meeting with FINRA and T&M, and in a subsequent email
+confirming the takeaways from that meeting, ML agreed to provide details on executed Leveraged
+Conversion Trades in its Financial and Operational Combined Uniform Single (“FOCUS”) Reports
+that MLPF&S and MLPro each submit monthly to FINRA, which in turn provides them to the
+Commission.
+30.
+MLPF&S did not, however, provide details relating to its Leveraged Conversion
+Trade activity in any monthly FOCUS Reports filed in 2009, 2010, or 2011. And, aside from one
+FOCUS Report filed in September 2009, MLPro similarly failed to provide this information from
+2009 to 2012.
+Leveraged Conversion Trade Counterparties
+31.
+Once ML began using the Leveraged Conversion Trades to finance firm inventory,
+ML’s financing needs wholly dictated the terms of the Trades. As a result, the customer debits
+9
+
+created by the Trades became purely firm driven. A significant portion of the Leveraged
+Conversion Trades were done with limited liability companies (“LLCs”) that were set up at ML’s
+behest, were told they would receive fixed profits, and had no meaningful input into the Trades.
+32.
+In mid-2010, SEFT Trader solicited three former options traders who, at the time,
+were not ML customers, to participate in the Trades. SEFT Trader advised them to create LLCs to
+execute Leveraged Conversion Trades, from which they would earn a fixed rate of return of up to
+15% on the total amount they deposited to capitalize the LLC. Specifically, SEFT Trader advised
+each of them to open portfolio margin accounts at MLPF&S in the name of the newly-created LLC
+and to deposit at least $5 million in cash or securities into the account. The LLCs were offered
+significant leverage; for every dollar in cash or securities an LLC deposited into a portfolio margin
+account, ML allowed the LLC to purchase on margin up to $100 of securities. Although a fixed
+1% margin rate was ostensibly applied to the margin loans extended, the Leveraged Conversion
+Trades would generate fixed profits sufficient to pay all interest owed in addition to the predetermined return.
+33.
+SEFT Trader advised the prospective counterparties that ML would take the other
+side of these Trades, i.e., that the put and the call for the conversion trade would be between the
+LLC and ML, and that ML would sell the LLC the underlying stock needed, and that as a result the
+trades were virtually riskless.
+34.
+In a typical conversion trade, a customer attempts to profit from pricing
+inefficiencies in the options market, and as part of the trade, purchases stock on margin. However,
+the Leveraged Conversion Trades designed by ML did not generate potential profits from a
+traditional leverage conversion strategy, but instead provided a fixed rate of return on cash or
+securities held in the LLC’s account. If one leaves aside the gains ML made from reducing the
+balance in its Reserve Account, the trades themselves, which were not with the market but with
+ML, were zero sum: customers made money on the trades in the exact amount by which ML lost
+money.
+35.
+The prospective counterparties did not question why ML would effectively pay
+them to engage in trades in which ML would lose money every time. Presented with an offer of a
+virtually riskless return on their capital, they agreed to create LLCs. They each then opened
+portfolio margin accounts at ML in the name of their respective LLCs and transferred stocks they
+were holding at other broker-dealers into the accounts.
+36.
+For each Leveraged Conversion Trade executed by an LLC, ML devised the terms
+of the trade, and the LLC offered no meaningful input. ML chose when to do the trades, the
+underlying stock to be used and its purchase price as well as the price, strike price, and expiration
+date of the options. ML did not negotiate these terms with the LLC, but requested that the LLC
+give ML an order for this pre-packaged trade. After receiving an order, ML would execute the
+trade.
+37.
+SEFT Trader made a similar solicitation to an options trading firm, which also
+engaged in a significant number of Leveraged Conversion Trades with ML as its counterparty from
+10
+
+2010 through 2012. Like the LLCs, this entity did not question the rationale for the Trades and had
+little input into the terms and structure of the Trades.
+38.
+The purported customer debits generated by the Leveraged Conversion Trades were
+tracked in internal reports under the heading, “non-client debit.” Also, internally ML referred to
+the net amount a counterparty received for completing a Leveraged Conversion Trade not as its
+profit, but as a fee that ML paid the counterparty.
+The Trades Morphed
+39.
+Any unexpected loss in a Leveraged Conversion Trade would result in the
+counterparty receiving an amount that fell short of the fixed rate of return it was advised it would
+receive. Any unexpected gain would result in a windfall to the counterparty that ML would be
+required to pay. In 2009, an unexpected dividend resulted in a windfall to an LLC. The LLC’s
+principal offered to return the windfall to ML. SEFT Trader declined to accept it, but resolved to
+avoid dividend and all other risks going forward.
+40.
+Following this unexpected loss, SEFT Trader sought to modify the Leveraged
+Conversion Trades so that the SEFT desk had total control over each leg of each trade. By
+exclusively using firm inventory, ML eliminated the risk relating to the acquisition of the
+underlying stock.
+41.
+To achieve this, the SEFT desk sought to use unlisted, over-the-counter (“OTC”)
+options. OTC options, which are bilateral contracts directly between the LLC and ML, eliminate
+exposure to the listed option market and the risks that come with it. Because the prices used for
+OTC options are not reported and are not exposed to the market, ML could depart from the
+prevailing market price of the securities and reverse engineer prices that yielded the precise “fee”
+owed to the customer participating in the Trades. ML also drafted the OTC contracts to remove
+dividend risk. Because this iteration of the Leveraged Conversion Trades was effectively riskless,
+ML removed the Leveraged Conversion Trades from its risk monitoring systems.
+42.
+In addition, by moving to OTC options, which can be written on any security, ML
+diverged from its presentation to regulators that ML would use only actively traded stocks. As
+discussed below, using OTC options allowed ML to use customer money to finance certain of its
+less liquid positions, the financing costs for which were higher than those associated with large cap
+stocks.
+43.
+In December 2009, Tirrell emailed FINRA staff to advise them that the SEFT desk
+“would like to [] use unlisted options as it provides greater flexibility.” “I don’t see this as a
+material change to the current arraingement [sic],” Tirrell stated in the email, “but wanted to ensure
+you are in agreement.” In January 2010, FINRA staff communicated to Tirrell that the regulators’
+non-objection did not extend to unlisted options and requested that ML describe, in writing, the
+difference in transaction structure, the regulatory impacts, and the rationale for why this version of
+the Leveraged Conversion Trades should be allowed to have a similar impact on the Reserve
+Formula.
+11
+
+44.
+Tirrell did not provide the requested information. The SEFT desk obtained internal
+approval from Tirrell and others for Leveraged Conversion Trades using OTC options. However,
+it is not apparent that, at the time, anyone within ML other than Tirrell knew about FINRA staff’s
+questions posed in the January 2010 email.
+45.
+Later in January 2010, the regulators granted ML’s request to expand the size of the
+Leveraged Conversion Trades, as they understood them based on the August 2009 meeting, from
+$3 billion to $5 billion.
+46.
+In September 2010, the SEFT desk began executing Leveraged Conversion Trades
+using OTC options. The SEFT desk used the counterparties described above to execute these
+trades.
+47.
+
+The following is an example of an OTC Leveraged Conversion Trade:
+
+a.
+
+In February 2011, ML identified a block of 310,000 shares of Google common
+stock in firm inventory that at the time were worth approximately $189 million.
+ML determined that cost savings could be achieved through a Leveraged
+Conversion Trade because the fee paid to an LLC to obtain customer money from
+the Reserve Account was much less than the interest that would be charged in a
+repurchase agreement or other means of financing.
+
+b.
+
+The SEFT desk informed the LLC’s principal that it intended to do a Leveraged
+Conversion Trade using 310,000 Google shares in the LLC’s name. ML set all of
+the terms of the trade, and the LLC offered no input.
+
+c.
+
+On February 7, 2011, the SEFT desk executed a Leverage Conversion Trade in
+which (i) the LLC purchased 310,000 shares of Google, (ii) simultaneously sold
+them back at $612 with a delayed settlement date of April 6, 2011, and (iii) and
+purchased from ML an OTC put on the Google shares and sold to ML an OTC call
+for these shares that both had the same strike price, $612, and expired that day.5
+The effect of this delayed settlement was to keep the margin loan for this one day
+trade – and the resulting customer debit in the Reserve Formula – open for months.
+Because the LLC sold the shares back to ML at the same moment it purchased
+them, the put and the call between the LLC and ML were not necessary to hedge
+market risk once the trade was put on and, in fact, there is no evidence that ML or
+the LLC accomplished the instantaneous sale and repurchase through the exercise
+of the in-the-money put or call. Moreover, as described below, ML and the LLC
+did not execute an OTC contract for these one-day options until over a year after
+they expired.
+
+5
+
+Due to systems limitations, ML was unable to execute a Leveraged Conversion Trade using OTC options
+that expired past the trade date. To account for this limitation, SEFT Trader considered a trade structure that simply
+involved a sale and simultaneous repurchase of stock with a delayed settlement of the repurchase, but he recognized
+that an instantaneous roundtrip would be inappropriate from a regulatory perspective. The SEFT desk, with the
+involvement and approval of Tirrell and others at ML, settled on a trade structure that involved these same
+components but also included a put and a call that expired on the trade date.
+
+12
+
+d.
+
+To finance the LLC’s purchase of the Google shares, ML extended a portfolio
+margin loan to the LLC in the amount of approximately $189 million. Other than
+the securities transferred into the LLC’s portfolio margin account against which ML
+extended margin, the LLC did not contribute any funds toward this trade. The rate
+on the margin loan was 1%. This margin loan introduced a customer debit in the
+Reserve Formula and reduced the amount of customer money to be deposited into
+that account by the same amount. ML would then use the money it otherwise
+would have been required to deposit into the Reserve Account to finance the
+Google shares. The trading desk that controlled these Google shares could then use
+these funds in its trading activities.
+
+e.
+
+Although the price of Google shares on the trade date ranged from $613 to $625,
+the SEFT desk reverse engineered the $610.98 purchase price and the $612 strike
+price to yield a total profit to the LLC that was equal to the sum of the LLC’s costs
+to do the trade and the fixed rate of return the LLC’s principal was told he would
+receive. The SEFT desk calculated the cost of the purchase of the stock and the
+OTC put, the profit from the sale of the OTC call, the total interest that would be
+charged on the margin loan, and the cost of regulatory fees and then chose a strike
+price that ensured the total profits were sufficient to cover the sum of these costs
+and the rate of return the LLC expected on the value of the stock it deposited into
+its portfolio margin account.
+
+f.
+
+The April 6 settlement date was a placeholder, and the SEFT desk had no
+expectation that the trade would be settled then. If ML could benefit from
+financing its Google shares through this trade past April 6, it would delay the
+settlement to an even later date by requesting that the LLC agree to a new
+settlement date that ML unilaterally determined. With this trade, after receiving
+approval from the LLC, ML extended the settlement date to May 4, 2011. This
+further extended the time that the margin loan would be open and the
+accompanying customer debit would stay in the Reserve Formula.
+
+g.
+
+Extending the settlement date altered the economics of the trade. ML would
+continue to charge a margin interest rate of 1% until the trade was settled, and the
+interest charged from the original settlement date of April 6 to the new settlement
+date of May 4 would have eliminated the customer profit on the trade. To avoid
+this, ML changed the economics of the trade. Although the trade had been fully
+completed months before, ML went into the closed trade and increased the strike
+price of the expired put and the expired call from $612 to $612.499. While this
+could have no effect on the trade because it happened months before, ML used it as
+a justification to increase the buyback price of the Google shares to $612.499 and
+thereby increase the customer’s profits. ML arrived at this new strike price for
+these expired options by reverse engineering the amount of profits needed for this
+Leveraged Conversion Trade taking into account all of the items previously
+mentioned as well as the additional margin interest charged as a result of the new
+delayed settlement date. ML informed the LLC of this modification and requested
+an order from it, which the LLC provided.
+13
+
+h.
+
+From March to October 2011, ML modified the February 7, 2011 Google trade ten
+times. Through these modifications, ML extended the settlement date to December
+7, 2011 and increased the buyback price from $612.499 to $616.3934. During this
+period, however, the actual share price of Google common stock was declining and
+fell to as low as $474.40.
+
+i.
+
+In late October, ML sought to unwind the trade before the December 7 extended
+settlement date that it had set just a few weeks before. On October 31, 2011, ML
+revised the trade by shortening the settlement date to the next day and decreasing
+the buyback price from $616.3934 to $615.745.
+
+j.
+
+On November 1, 2011, the Google shares settled in ML’s account. ML applied the
+cash it paid for the shares to the LLC’s margin loan, which closed it out. The total
+gross profits from this trade to the customer were approximately $1.8 million and
+the net amount ML paid to the LLC, after taking into account its margin interest
+and other costs, was $71,585. This fee offered the fixed return on the value of the
+stock the LLC held with ML and was much less than the interest payments ML
+would have been required to make if it had financed these shares through other
+means.
+
+48.
+ML’s systems recognized this version of the Leveraged Conversion Trades as a
+nullity and automatically cancelled them. To avoid these cancellations, ML personnel manually
+overrode these systems.
+49.
+Like the early version of the Trade that used actively traded large cap stocks, the
+OTC version of the Trade was used to finance large cap equity securities. However, unlike the
+listed version, the OTC version also was used to finance less liquid positions, such as convertible
+bonds and stock warrants that were more difficult and more expensive to finance than large cap
+equities. This shift to illiquid securities departed from the trade structure presented to regulators.
+50.
+In the OTC iteration of the Trades, which lasted from approximately September
+2010 to April 2012, ML reduced the minimum amount required in its Reserve Account by up to $5
+billion per week through Leveraged Conversion Trades. During this period, ML’s Reserve
+Account balance ranged from approximately $7.6 to $12.8 billion; therefore, although no
+customers were harmed, ML put them at risk by reducing the customer money it was required to
+deposit into its Reserve Account by approximately 28% to 40%.
+ML Halted All Leveraged Conversion Trades
+51.
+In early 2012, a new co-head of the business unit that included the SEFT desk
+learned of the Leveraged Conversion Trades and became concerned about whether they complied
+with the Customer Protection Rule. After he discussed the OTC version of the Trades with the
+SEFT desk and others within ML, the firm retained external counsel to conduct a review of the
+Leveraged Conversion Trades.
+52.
+ML thereafter changed two practices associated with the Trades. First, ML had the
+LLCs sign OTC contracts for all of their OTC Leveraged Conversion Trades that attempted to
+14
+
+retroactively create the OTC options that had expired many months ago and that were used in
+Trades that had already been fully executed. Second, after years of failing to report Leveraged
+Conversion Trades in FOCUS Reports, both MLPF&S and MLPro began submitting the required
+information in their respective FOCUS Reports for the months January 2012 through April 2012.
+53.
+In April 2012, ML prohibited the SEFT desk from executing any new Leveraged
+Conversion Trades. ML did not provide any information relating to the circumstances of its
+discontinuation of the Leveraged Conversion Trades in 2012 to the regulators.
+The Effect of the Leveraged Conversion Trades
+54.
+ML conceived of and executed the Leveraged Conversion Trades during an
+extremely precarious period of time in the financial markets. Several months after ML began the
+trades, Lehman Brothers collapsed, and ML was sold to BAC. Based on the market’s assessment
+of ML’s risk of default, as reflected in the spread of credit default swaps referencing ML or,
+following the date of the merger announcement, BAC, the risk of a ML or BAC default remained
+heightened throughout the life of the Trades.
+
+55.
+Had ML or its parent failed, the funds ML set aside in its Reserve Account would
+have been distributed to customers in a liquidation administered by the Securities Investor
+Protection Corporation (“SIPC”). By improperly reducing its Reserve Account by up to $5 billion
+to finance its business activities, ML failed to maintain the required minimum amount in its
+Reserve Account. During this period, the SIPC Fund, which SIPC maintains to cover shortfalls,
+15
+
+was less than $2 billion, and prior to the adoption of the Dodd-Frank Act, SIPC, through the
+Commission, was authorized to obtain a loan from Treasury of only an additional $1 billion.
+56.
+Taking the Leveraged Conversion Trade using Google shares summarized above,
+ML reduced the minimum amount it was required to maintain in its Reserve Account by
+approximately $189 million in a trade that involved 310,000 shares of Google common stock.
+Given that these LLCs had under $15 million in cash and/or securities in their respective accounts,
+they could not have repaid the portfolio margin loans extended to them. If ML failed financially,
+the Reserve Account it maintained to make customers whole would be underfunded. The
+underlying long (in this example, the 310,000 shares of Google common stock) may be used to
+reduce that shortfall, but these efforts would not fully protect customers. Even assuming that these
+shares could be liquidated and applied toward the customer debits introduced by the margin loan to
+the counterparty, ML’s customers would be exposed to significant market risk if ML failed.
+Indeed, these Google shares dropped in value during this trade and at one point were worth
+approximately $33 million less than the margin loan. In addition, market conditions during the
+failure of a large broker-dealer typically are poor. Selling these shares in the midst of those
+conditions likely would have exposed customers to potential losses much greater than $33 million.
+57.
+The Leveraged Conversion Trades involving convertible bonds further increased
+the market risk to which ML’s other customers were exposed. During this period, the convertible
+bond market was especially illiquid. Liquidating these securities would have taken a period of
+time during which customers would not have been able to access their accounts. Also, a
+liquidation of a large amount of convertible bonds into an already illiquid market would likely be
+achieved only by selling them at a significant discount.
+58.
+By using customer cash to finance firm inventory, ML made approximately $50
+million in profits through the Leveraged Conversion Trades, which represents the amount the firm
+saved by using customer money to finance its inventory rather than doing so through other means
+such as repurchase agreements.
+E.
+
+MLPF&S Improperly Allowed Liens on Customer Securities
+
+59.
+From June 2009 to April 2015, MLPF&S allowed tens of billions of dollars’ worth
+of its customers’ fully paid and excess margin securities to be held in a clearing account subject to
+a general lien by its domestic clearing bank (the “Clearing Bank”). These customer securities were
+held in an account at the Clearing Bank for securities that can be transferred through the Federal
+Reserve Fedwire Funds Transfer System and consisted of Treasuries and mortgage backed
+securities (collectively, “Fedwire securities”). The total market value of the Fedwire securities in
+this account during this period ranged from approximately $30 to $60 billion; approximately 98%
+of the securities in the account were customer securities, and the remainder was firm securities.
+Pursuant to the Clearing Bank’s lien, if MLPF&S went bankrupt or defaulted on any debt it owed
+to the Clearing Bank, the Clearing Bank had the legal right to assert a security interest in those
+customers’ securities.
+
+16
+
+MLPF&S – Clearing Bank September 2008 Clearing Agreement
+60.
+In September 2008, MLPF&S and the Clearing Bank executed a securities clearing
+agreement which provided the Clearing Bank with a general lien on what would become
+MLPF&S’s Fedwire clearing account (“Fedwire Clearing Account”). The lien was established
+pursuant to the following provision (with MLPF&S being the “Customer” of the Clearing Bank
+“Bank”):
+Section 3.04 Collateral Security. As security for the repayment of Loans and for
+the payment of interest thereon and all other Customer obligations to Bank,
+Customer hereby grants Bank a security interest in any and all Securities which
+may now or hereafter be held in the Account…” (emphasis added)
+61.
+Under these terms, the Clearing Bank’s lien provided the Clearing Bank with a
+broad security interest against the repayment of any obligations of MLPF&S to the Clearing Bank,
+whether or not arising from the Fedwire clearing relationship. Furthermore, the lien applied to any
+security – whether owned by MLPF&S or not – that was held in the relevant clearing account.
+Other provisions of the agreement allowed MLPF&S to transfer securities from the Fedwire
+Clearing Account to a separate segregated account, free of this lien, if MLPF&S met certain
+conditions.
+62.
+One of the services provided by the Clearing Bank is to extend its clearing clients
+intraday loans to facilitate the daily purchase of securities into the account. If MLPF&S or one of
+its customers seeks to purchase a security, and if there is not sufficient cash in the clearing account
+to cover that purchase, the Clearing Bank will extend a loan to enable that transaction. Particularly
+if the securities purchases on a given day exceed securities sales, the balance of these loans from
+the Clearing Bank can rise into the billions or even tens of billions of dollars. The loan is typically
+paid back by the clearing customer at the end of the trading day.
+63.
+Given the credit risk inherent in making loans to a clearing client, the Clearing
+Bank required a lien on any “street-facing account,” – i.e., any account for which securities can be
+freely delivered out to or in from third-parties without the Clearing Bank’s review – for which it
+extends intraday credit. However, under the September 2008 securities clearing agreement,
+MLPF&S could have instructed the Clearing Bank to transfer customer fully-paid and excess
+margin securities from the Fedwire Clearing Account to a lien-free account if MLPF&S met
+certain conditions.
+MLPF&S Moved Fedwire Clearing Account to the Clearing Bank
+64.
+In late 2008, around the time of the acquisition of MLPF&S by BAC, MLPF&S
+decided to migrate its Fedwire Clearing Account from a different clearing bank, where it had not
+been subject to a lien, to the Clearing Bank.
+65.
+Pursuant to the clearing agreement reached months earlier, the Clearing Bank
+would have a lien on all securities held in a street-facing, non-segregated account such as the
+Fedwire Clearing Account. MLPF&S, however, did not then have the capability to segregate
+Fedwire securities from the Fedwire Clearing Account by transferring them into a separate, lien17
+
+free account after they had cleared. Operations personnel recognized that using an account with a
+lien to hold customers’ fully paid and excess margin securities without the ability to transfer them
+to a no-lien account, or to otherwise resolve the lien, was a violation of Rule 15c3-3’s possession
+and control requirement.
+66.
+To address this problem, operations personnel drafted a proposal to create
+information technology systems within MLPF&S that would allow it to transfer customer fully
+paid and excess margin securities to a segregated no-lien account at the close of every trading day.
+As of the end of May 2009, it was estimated that this project could only be completed by October
+2009.
+67.
+Due to insufficient processes concerning the identification, escalation and
+resolution of potential violations of Rule 15c3-3, MLPF&S failed to identify that proceeding with
+the migration to the Fedwire Clearing Account despite the existence of a lien without first
+implementing systems to segregate customer securities would violate Rule 15c3-3. Although the
+Rule 15c3-3 concern was raised internally, managers in MLPF&S’s operations group did not
+correctly understand how the Clearing Bank lien would work. One manager, for instance, wrongly
+believed that the Clearing Bank lien would only apply up to the amount of net intraday debt
+MLPF&S had to the Clearing Bank. Based on this misunderstanding, which the manager
+discussed with many others in his department and other departments, that manager and others
+erroneously concluded that the Clearing Bank’s lien would not extend to customer Fedwire
+securities, particularly if MLPF&S prefunded the account and paid back all loans at the end of each
+trading day.
+68.
+On June 22, 2009, MLPF&S migrated its Fedwire securities to the Fedwire
+Clearing Account at the Clearing Bank without having implemented a process to segregate
+customer fully-paid and excess margin securities after clearing. Shortly after this migration,
+MLPF&S terminated the project to create systems capable of handling the segregation of customer
+fully paid and excess margin securities. At the time these actions were taken, MLPF&S had failed
+to identify the fact that the Fedwire Clearing Account did not comply with the possession or
+control requirements of Rule 15c3-3 because of the Clearing Bank’s lien.
+69.
+MLPF&S held customer securities in the Fedwire Clearing Account subject to the
+Clearing Bank’s lien from June 2009 until SEC Enforcement staff informed MLPF&S of the issue
+in March 2015. MLPF&S resolved the issue in the following weeks. No customers suffered any
+losses or other harm as a result of the lien.
+Additional Segregation Violations
+70.
+After remedying the Clearing Bank’s lien, MLPF&S conducted a comprehensive
+review of all its third-party custodial accounts containing customer fully-paid securities and excess
+margin securities. Based on that review, MLPF&S identified certain additional instances of noncompliance with the “no-lien” requirements of Rule 15c3-3(c) involving foreign custodians, which
+it reported to the Commission staff. These additional instances of failures to properly maintain
+possession and control of customer securities involved 6 accounts in Europe and Asia. The
+aggregate value of securities subject to a lien in these accounts was approximately $1.38 billion as
+18
+
+of the end of 2015. In addition, MLPF&S identified 48 other accounts in Europe, Asia, and
+Australia for which it could not locate contemporaneous documentation affirmatively establishing
+that the accounts satisfied the “no-lien” requirements of Rule 15c3-3(c). The aggregate value of
+securities in these accounts without such documentation was approximately $4.8 billion as of the
+end of 2015. In each instance, MLPF&S promptly resolved any question of compliance.
+F.
+
+MLPF&S’s Improper Confidentiality Provisions
+
+71.
+On August 12, 2011, the Commission adopted Rule 21F-17, which provides in
+relevant part, that “[n]o person may take any action to impede an individual from communicating
+directly with the Commission staff about a possible securities law violation, including enforcing, or
+threatening to enforce, a confidentiality agreement . . . with respect to such communications.”
+72.
+After the Commission adopted this Rule, MLPF&S used language in certain of its
+policies, procedures, and agreements with employees that unduly limited the disclosure of
+confidential information. For example, MLPF&S used language in a severance agreement for
+certain departing employees based on a standard template that prohibited them from disclosing any
+aspect of the confidential information or trade secrets of MLPF&S or any of its subsidiaries or
+affiliates to any person or entity outside these entities except pursuant to formal legal process or
+unless the former employee first obtained the written approval of an authorized MLPF&S
+representative. While the agreement expressly permitted an individual to disclose confidential
+information pursuant to an order or other requirement of a court, administrative agency, or other
+authority, it did not permit an individual to voluntarily disclose confidential information to such
+bodies.
+73.
+Further, in 2014, MLPF&S added a clause to its form severance agreement advising
+the departing employee that the severance agreement did not prohibit initiating communications
+directly with the Commission or other authorities, but limiting the types of information that could
+be conveyed to information relating to the severance agreement itself or “its underlying facts and
+circumstances.”
+74.
+Though we are unaware of any instances in which (i) an MLPF&S employee was in
+fact prevented from communicating directly with the Commission about potential securities law
+violations, or (ii) MLPF&S took action to enforce the form confidentiality agreement to prevent
+such communications with the Commission, the language found in certain of the MLPF&S
+policies, procedures, and agreements operated to impede such communications by prohibiting
+employees from voluntarily providing information to the Commission without prior approval from
+MLPF&S.
+G.
+
+Cooperation and Remedial Actions
+Customer Protection Rule
+
+75.
+In determining to accept ML’s Offer, the Commission considered remedial acts
+promptly undertaken by ML and substantial cooperation afforded the Commission staff during the
+course of its investigation. Prior to the entry of this Order, ML retained an independent consultant
+19
+
+(the “IC”) to (i) evaluate ML’s review of each third-party custodial account containing fully paid
+and excess margin customer securities to ensure that it is not subject to a lien, (ii) review controls
+relating to Rule 15c3-3, and (iii) review regulatory reporting to the Commission and FINRA
+regarding Rule 15c3-3. The IC has provided ML and the Commission staff with its preliminary
+findings and recommendations, and ML has implemented or is in the process of implementing
+such recommendations. In accordance with the terms of the IC’s engagement, the IC will submit,
+once per year for two years following the issuance of his final report, a report to the Commission
+staff concerning the status of ML’s implementation of the recommendations set forth in the final
+report and whether changes in the law or ML’s business operations requires the updating or
+amendment of those recommendations. The terms of the IC’s engagement require ML to
+cooperate fully with the IC and give him reasonable access to files, books and records, and
+personnel as reasonably requested and required.
+Rule 21F-17
+76.
+In determining to accept ML’s Offer, the Commission considered the substantial
+remedial acts promptly undertaken by ML to address the Rule 21F-17 violation arising from ML’s
+policies, procedures and agreements, and the substantial cooperation afforded the Commission
+staff during the course of its investigation. MLPF&S has agreed to modify the confidentiality
+provision contained in its policies, procedures, and agreements. For example, the language in its
+form severance agreements has been revised so that information beyond the underlying facts and
+circumstances of those agreements can be conveyed to the Commission and other regulatory
+authorities. This updated language, which MLPF&S as well as its parent, BAC and other BAC
+subsidiaries (“BAC Entities”) have used since January 2016, states that, with the exception of
+information that is protected from disclosure by any applicable law or privilege, nothing in the
+agreement prohibits or limits the employee or his counsel from initiating communications directly
+with, responding to any inquiry from, volunteering information to, or providing testimony before,
+among others, the Commission in connection with any reporting of, investigation into, or
+proceeding regarding suspected violations of law. The language also makes clear that the
+employee is not required to advise or seek permission from any of the BAC Entities before
+engaging in any such activity.
+77.
+In addition, as of January 2016, the BAC Entities now provide all employees with
+mandatory yearly trainings that includes a summary of and link to a document entitled, “Notice
+Concerning Your Rights to Report Possible Violations of Law” (“21F-17 Notice”). The 21F-17
+Notice sets forth an employee’s rights to (i) report potential violations of law to the Commission or
+other government or self-regulatory authorities without permission from or notice to his or her
+employer, (ii) report possible violations anonymously and to provide disclosures that are protected
+or required under whistleblower laws, and (iii) cooperate voluntarily with or respond to any inquiry
+from the Commission or other federal or state agencies or self-regulatory organizations. The 21F17 Notice also summarizes several of the rights the employee possesses under the Commission’s
+Whistleblower Program and states that employees have the right to not be retaliated against for
+reporting possible securities law violations.
+
+20
+
+78.
+The BAC Entities have updated their Code of Conduct as well as other relevant
+agreements, policies, and procedures to ensure that employees understand that there is no
+restriction on their rights under Rule 21F-17.
+IV.
+Violations
+79.
+As a result of the conduct described above, MLPF&S and MLPro willfully6
+violated Section 15(c)(3) of the Exchange Act and Rule 15c3-3 thereunder which, inter alia,
+require carrying broker-dealers to maintain a reserve of funds or qualified securities in an account
+at a bank that is at least equal in value to the net cash owed to customers, and MLPF&S further
+violated Section 15(c)(3) of the Exchange Act and Rule 15c3-3 thereunder, which also requires
+that carrying broker-dealers maintain physical possession or control over customers’ fully paid and
+excess margin securities.
+80.
+As a result of the conduct described above, MLPF&S and MLPro willfully violated
+Section 17(a)(1) of the Exchange Act and Rule 17a-3(a)(10) thereunder which, inter alia, require a
+broker or dealer to maintain and keep accurate records, including records relating to all puts or
+calls in which the broker or dealer has any interest.
+81.
+As a result of the conduct described above, MLPF&S and MLPro willfully violated
+Section 17(a)(1) of the Exchange Act and Rule 17a-5(a) thereunder, which, inter alia, require
+certain brokers or dealers to file monthly FOCUS Reports.
+82.
+As a result of the conduct described above, MLPF&S willfully violated Section
+17(a)(1) of the Exchange Act and Rules 17a-5(d)(3) (as it existed prior to amendments to Rule
+17a-5 in 2014), 17a-5(d)(2)(ii), 17a-5(d)(3), and 17a-11(e) thereunder which, inter alia, require
+certain brokers or dealers to file compliance and other reports and supporting schedules with the
+Commission and to notify the Commission of material weaknesses relating to compliance with the
+Customer Protection Rule.
+83.
+As a result of the conduct described above, MLPF&S willfully violated Exchange
+Act Rule 21F-17, which prohibits any action impeding an individual from communicating directly
+with Commission staff about a possible securities law violation.
+V.
+In view of the foregoing, the Commission deems it appropriate, in the public interest, and
+for the protection of investors to impose the sanctions agreed to in Respondents’ Offer.
+
+6
+
+A willful violation of the securities laws means merely “‘that the person charged with the duty knows what
+he is doing.’” Wonsover v. SEC, 205 F.3d 408, 414 (D.C. Cir. 2000) (quoting Hughes v. SEC, 174 F.2d 969, 977
+(D.C. Cir. 1949)). There is no requirement that the actor “‘also be aware that he is violating one of the Rules or
+Acts.’” Id. (quoting Gearhart & Otis, Inc. v. SEC, 348 F.2d 798, 803 (D.C. Cir. 1965)).
+
+21
+
+Accordingly, pursuant to Sections 15(b) and 21C of the Exchange Act, it is hereby
+ORDERED that:
+A.
+MLPF&S cease and desist from committing or causing any violations and any future
+violations of Sections 15(c)(3) and 17(a)(1) of the Exchange Act and Rules 15c3-3, 17a-3(a)(10),
+17a-5(a), 17a-5(d)(2)(ii), 17a-5(d)(3), 17a-11(e), and 21F-17 thereunder; and MLPro cease and
+desist from committing or causing any violations and any future violations of Sections 15(c)(3) and
+17(a)(1) of the Exchange Act and Rules 15c3-3, 17a-3(a)(10) and 17a-5(a) thereunder.
+B.
+
+MLPF&S and MLPro are censured.
+
+C.
+MLPF&S and MLPro shall, within 14 days of the entry of this Order, pay, jointly
+and severally, disgorgement of $50,000,000 and prejudgment interest of $7,000,000 to the
+Securities and Exchange Commission for transfer to the general fund of the United States
+Treasury, subject to Exchange Act Section 21F(g)(3). If timely payment is not made, additional
+interest shall accrue pursuant to SEC Rule of Practice 600.
+D.
+MLPF&S shall, within 14 days of the entry of this Order, pay a civil money penalty
+in the amount of $358,000,000 to the Securities and Exchange Commission for transfer to the
+general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely
+payment is not made, additional interest shall accrue pursuant to 31 U.S.C. § 3717.
+Payment must be made in one of the following ways:
+(1)
+
+Respondent may transmit payment electronically to the Commission, which
+will provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2)
+
+Respondent may make direct payment from a bank account via Pay.gov
+through the Commission website at
+http://www.sec.gov/about/offices/ofm.htm; or
+
+(3)
+
+Respondent may pay by certified check, bank cashier’s check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+Payments by check or money order must be accompanied by a cover letter identifying
+MLPF&S and MLPro as Respondents in these proceedings, and the file number of these
+proceedings; a copy of the cover letter and check or money order must be sent to Michael Osnato,
+22
+
+Unit Chief, Complex Financial Instruments Unit, Division of Enforcement, Securities and
+Exchange Commission, Brookfield Place, 200 Vesey Street, Suite 400, New York, NY 10281.
+E.
+Amounts ordered to be paid as civil money penalties pursuant to this Order shall be
+treated as penalties paid to the government for all purposes, including all tax purposes. To
+preserve the deterrent effect of the civil penalty, MLPF&S agrees that in any Related Investor
+Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any
+award of compensatory damages by the amount of any part of its payment of a civil penalty in this
+action (“Penalty Offset”). If the court in any Related Investor Action grants such a Penalty Offset,
+MLPF&S agrees that it shall, within 30 days after entry of a final order granting the Penalty Offset,
+notify the Commission’s counsel in this action and pay the amount of the Penalty Offset to the
+Securities and Exchange Commission. Such a payment shall not be deemed an additional civil
+penalty and shall not be deemed to change the amount of the civil penalty imposed in this
+proceeding. For purposes of this paragraph, a “Related Investor Action” means a private damages
+action brought against MLPF&S by or on behalf of one or more investors based on substantially
+the same facts as alleged in the Order instituted by the Commission in this proceeding.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+23
+
+

@@ -1,0 +1,1446 @@
+INITIAL DECISION RELEASE NO. 598
+ADMINISTRATIVE PROCEEDING
+FILE NO. 3-15619
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+________________________________________
+In the Matter of
+JOSEPH P. DOXEY and
+WILLIAM J. DANIELS
+_________________________________________
+
+APPEARANCES:
+
+:
+:
+:
+:
+
+INITIAL DECISION
+May 15, 2014
+
+Nina B. Finston and Ryan Farney, for the Division of Enforcement,
+Securities and Exchange Commission
+Joseph P. Doxey, pro se
+William J. Daniels, pro se
+
+BEFORE:
+
+Cameron Elliot, Administrative Law Judge
+SUMMARY
+
+This Initial Decision grants the Motion for Summary Disposition (Motion) filed by the
+Division of Enforcement (Division); finds that Respondent Joseph P. Doxey (Doxey) willfully
+violated Section 10(b) of the Securities Exchange Act of 1934 (Exchange Act), Exchange Act
+Rule 10b-5, and Sections 5(a) and (c) and 17(a)(1), (2), and (3) of the Securities Act of 1933
+(Securities Act); and finds that Respondent William J. Daniels (Daniels) violated Sections 5(a)
+and (c) of the Securities Act. It orders Doxey to cease and desist from violating Exchange Act
+Section 10(b), Exchange Act Rule 10b-5, and Securities Act Sections 5(a) and (c) and 17(a)(1),
+(2), and (3); and Daniels to cease and desist from violating Securities Act Sections 5(a) and (c).
+It orders disgorgement of $57,654 against Doxey and $16,246.46 against Daniels. It bars Doxey
+from serving as an officer or director of any issuer having a class of securities registered with the
+Securities and Exchange Commission (Commission) pursuant to Exchange Act Section 12 or
+that is required to file reports pursuant to Exchange Act Section 15(d), and orders penny-stock
+bars against both Respondents.
+
+I. INTRODUCTION
+A. Procedural Background
+The Commission instituted this proceeding with an Order Instituting Administrative and
+Cease-and-Desist Proceedings (OIP) against Doxey and Daniels, pursuant to Section 8A of the
+Securities Act and Sections 15(b)(6)(A) and 21C of the Exchange Act, on November 22, 2013.
+Doxey and Daniels were served with the OIP on November 26, 2013. Joseph P. Doxey, Admin.
+Proc. Rulings Release No. 1104, 2013 SEC LEXIS 3950 (Dec. 16, 2013). I held a telephonic
+prehearing conference on January 9, 2014, which was attended by the Division and Doxey.
+During the prehearing conference, I set a briefing schedule for motions for summary disposition,
+while noting the possibility that a hearing might be needed at a later date. Tr. 10-14, 21; see
+Joseph P. Doxey, Admin. Proc. Rulings Release No. 1157, 2014 SEC LEXIS 93 (Jan. 10, 2014).
+Daniels later was ordered to follow the same briefing schedule as the Division and Doxey for any
+motions for summary disposition. Joseph P. Doxey, Admin. Proc. Rulings Release No. 1203,
+2014 SEC LEXIS 290 (Jan. 27, 2014). 1
+Doxey and Daniels filed Answers to the OIP on January 24, 2014, and December 12,
+2013, respectively. On February 5, 2014, the Division filed a Motion for Summary Disposition
+(Motion), and a Declaration of Ryan Farney in Support of the Motion, attaching thirty-four
+exhibits (Division Exhibits), including the transcripts of the Division’s investigative testimony of
+Doxey, Daniels, and other witnesses. On February 27, 2014, Doxey filed a submission in
+opposition to the Motion, comprising a “Summary” that presents Doxey’s view of the relevant
+events (Summary) and many emails, portions of emails, and documents. The Division filed a
+Reply in Further Support of the Motion (Reply) on March 7, 2014. Daniels did not file a brief in
+opposition to the Motion. Because Daniels filed an Answer and responded to my Order to Show
+Cause, I decline to find Daniels in default. See 17 C.F.R. §§ 201.155(a)(1), .221(f); Joseph P.
+Doxey, Admin. Proc. Rulings Release No. 1158, 2014 SEC LEXIS 90 (Jan. 10, 2014).
+B. Summary Disposition Standard
+A motion for summary disposition may be granted if there is no genuine issue with
+regard to any material fact and the party making the motion is entitled to summary disposition as
+a matter of law. See 17 C.F.R. § 201.250(b). The facts of the pleadings of the party against
+whom the motion is made shall be taken as true, except as modified by stipulations or admissions
+made by that party, by uncontested affidavits, or by facts officially noticed pursuant to 17 C.F.R.
+§ 201.323. See id. Having reviewed the pleadings and other filings submitted by the parties, I
+conclude that there is no genuine issue with regard to any material fact, and the Division is
+entitled to summary disposition against both Respondents as a matter of law.
+1
+
+I ordered that motions for summary disposition be filed by February 7, 2014, oppositions by
+February 21, 2014, and any replies by March 3, 2014. Joseph P. Doxey, Admin. Proc. Rulings
+Release No. 1157, 2014 SEC LEXIS 93 (Jan. 10, 2014). I later extended the deadline for
+oppositions to February 26, 2014, and for replies to March 7, 2014. Joseph P. Doxey, Admin.
+Proc. Rulings Release No. 1251, 2014 SEC LEXIS 591 (Feb. 19, 2014).
+
+2
+
+The findings and conclusions in this Initial Decision are based on the record and on facts
+officially noticed pursuant to Rule 323 of the Commission’s Rules of Practice (Rules). See 17
+C.F.R. § 201.323. The parties’ motion papers and all documents and exhibits of record have
+been fully reviewed and carefully considered. Preponderance of the evidence has been applied
+as the standard of proof. See Steadman v. SEC, 450 U.S. 91, 101-04 (1981). All arguments and
+proposed findings and conclusions that are inconsistent with this Initial Decision have been
+considered and rejected.
+II. FINDINGS OF FACT
+A. Doxey and Pure H20 Bio-Technologies
+Doxey is in his late fifties and lives in Boca Raton, Florida. Doxey Answer at 3. In
+1989, Doxey founded Pure H20 Bio-Technologies, Inc. (PureH20 or the company), and since its
+founding, Doxey has controlled PureH20 as president, chief executive officer, and chairman.
+Doxey Answer at 3; Div. Exs. 2 at 1; 3; 7 at 19, 119; 25 at 88. 2 PureH20 is in the business of
+developing water purification technology, and between 2007 and 2009 it was specifically
+focused on developing and bringing to market its water disinfection system designed for use by
+hospitals and medical facilities (the System). Div. Exs. 6 at 45; 7 at 47; 8 at 19. 3
+Doxey took responsibility for raising money for the company. Div. Ex. 7 at 38. Over its
+history, PureH20 has had a number of employees and consultants working for it, including Cecil
+(“Ira”) Felkner (Felkner), a microbiologist who worked for the company on a consultant basis
+and worked on the development of the System between 2004 and 2009, and Dennis Boudreaux
+(Boudreaux), who was involved in PureH20 as an engineer, director, and officer from sometime
+in the 1990s to 2011, and worked on the development of the System between 2007 and 2009.
+Doxey Answer at 10; Summary at 5; Div. Exs. 2 at 1; 3; 8 at 12-13, 15-18, 21; 9 at 13, 77. 4
+Felkner and Doxey had a falling-out, while Boudreaux remains close friends with Doxey. Div.
+Exs. 8 at 119; 25 at 46-47.
+
+2
+
+Division Exhibit 2 are personnel biographies Doxey produced to the Division; Division Exhibit
+3 is PureH20’s June 14, 2013, reinstatement filing with the Florida Secretary of State; Division
+Exhibit 7 is the transcript of Doxey’s August 8, 2012, investigative testimony; Division Exhibit
+25 is the transcript of Daniels’ December 13, 2011, investigative testimony. See Farney Decl. at
+1-2, 4.
+3
+
+Division Exhibit 6 is the transcript of Ellen Van Buren’s August 10, 2011, investigative
+testimony; Division Exhibit 8 is the transcript of Dennis Boudreaux’s January 13, 2012,
+investigative testimony. See Farney Decl. at 2.
+4
+
+Division Exhibit 9 is the transcript of Felkner’s March 24, 2010, investigative testimony. See
+Farney Decl. at 2.
+
+3
+
+B. Daniels
+Daniels, who like Doxey lives in Florida, first met Doxey around the summer of 2008,
+Div. Ex. 25 at 21, 35-36. Daniels was introduced to Doxey by a “Troy” or “Ken” Lowman
+(Lowman), who Daniels knew when he was a registered representative, and who Doxey had met
+in New York. Div. Exs. 7 at 137-38, 141-42, 159; 25 at 36-37. Daniels is associated with
+Observation Capital, LLC (Observation Capital), a business located in Texas that he established
+to protect himself from personal liability relating to his business activities. Div. Exs. 25 at 18; 26
+at SEC002741. Daniels controls Observation Capital and is the only person behind it. Div. Ex.
+25 at 18-20. While Daniels was formerly a registered representative associated with broker
+dealers, he has not been licensed to sell securities since 2000. Id. at 24; Div. Ex. 31 at 1-2. 5
+As discussed in greater detail below, Daniels invested in PureH20 in 2008 and 2009.
+Div. Ex. 27. 6 After Lowman’s introduction, Daniels was interested in PureH20 because he
+believed its shares were trading at a price under the value of its technology. Div. Ex. 25 at 39.
+Over the course of Daniels’ investment relationship with PureH20, Daniels and Doxey only met
+in person once, but they talked over the phone regularly. Div. Ex. 7 at 143; 25 at 42-43.
+C. Clancy Environmental
+PureH20 engaged Clancy Environmental Consultants, Inc. (Clancy), located in Vermont,
+to test the System’s success in filtering out water contaminants. Div. Exs. 7 at 12, 69; 8 at 38; 9
+at 16, 50. Among other contaminants, Clancy was testing for the System’s ability to eliminate
+cryptosporidium, a type of water-borne parasite. Div. Ex. 7 at 15-16. By April 2008, Clancy
+had tested the System, and determined that while it reduced cryptosporidium, it did not reduce it
+to the three-log level. Doxey Answer at 10; Summary at 3; Div. Exs. 7 at 12, 67-68, 71-72; 8 at
+20, 29; 9 at 32, 34, 127-28; Doxey Ex. F13. 7 A three-log reduction is very close to a 100 percent
+5
+
+Division Exhibit 31 is a copy of a Web CRD printout of Daniels’ employment history from the
+website of the Financial Industry Regulatory Authority, Inc. See Farney Decl. at 4.
+6
+
+Division Exhibit 27 is a compilation of Daniels’ and Observation Capital, LLC’s payments to
+Pure H20.
+
+7
+
+Doxey attached emails, portions of emails, and documents – unaccompanied by an affidavit or
+declaration – to his Summary. There are many indications that Doxey altered the evidence
+attached to his Summary. Many of the documents have Doxey’s commentary on the document
+interposed within the language of the original document. See, e.g., Doxey Ex. F-2 (below header
+reading “EXHIBIT F-12 FELKNER WE ARE SO CLOSE GOING TO NSF April 3, 2007 still
+at 2.0 log reduction?” are emails dated February 21, 2014, from “Joseph P. Doxey” to “Joseph P.
+Doxey” with subject “Felkner Doxey Mark Dennis Assurances NSF soon 040307,” and April 3,
+2007, from “Ira Felkner” to “jdox” with subject “Re: Report”). Others have nonsensical
+recipients and to/from dates, and possible altering of the typeface used in the originals. See, e.g.,
+Doxey Exs. F-5 (June 4, 2007, email from “Ira Felkner” to “jdox” where portions of sentences
+purportedly written by Felkner are underlined and bolded, and those portions appear connected
+to Doxey’s commentary on email included in the text of a June 18, 2012, string, forwarded by
+
+4
+
+reduction in the parasite. Div. Ex. 9 at 18-19; see Bausch & Lomb Inc. v. Alcon Labs., Inc., 64
+F. Supp. 2d 233, 235 n.1 (W.D.N.Y. 1999).
+D. NSF International
+i.
+
+NSF promulgated standards for water purifiers under P-231
+
+NSF International (NSF) is a private company located in Michigan that performs testing
+and certification work for product manufacturers. Div. Ex. 6 at 6, 18-20. NSF develops its own
+standards of testing and certification of products. Id. at 18-19. NSF has gone by “NSF” at least
+since the end of 2007, but previously conducted business under the name “National Sanitation
+Foundation.” Id. at 80.
+To be marketed in the United States, a water purification system is not required to be
+certified through NSF. Div. Exs. 8 at 40-41; 9 at 29. However, NSF certification is important
+for developing a market for a water purification system, as NSF certification functions as a
+quality indicator for buyers. Doxey Answer at 16; Summary at 1; Div. Exs. 6 at 27; 7 at 34; 8 at
+41-42; 9 at 29. Although Doxey may have understood otherwise, NSF is not part of or an agent
+of the U.S. Environmental Protection Agency (EPA). Div. Exs. 6 at 19-20; 7 at 66, 207-08.
+One of the testing criteria NSF promulgated is P-231, a protocol NSF developed for
+microbiological water purification systems. Div. Ex. 6 at 24-25, 27. While P-231 was
+developed based on an EPA standard for water purifiers, NSF is not and has never served as a
+contract laboratory for the EPA relating to P-231. Div. Ex. 6 at 24-25, 80-81. But see Div. Ex. 9
+at 29. To obtain P-231 certification, a product must go through microbiological performance
+testing for bacteria and viruses, testing for the safety of the materials used in the equipment, and
+an audit, performed annually, of the production facility. 8 Div. Exs. 6 at 28-29, 31; 7 at 34; 9 at
+28, 91. To conduct certification under P-231, NSF requires certain information including details
+on the technology used, the materials used in the product’s construction, the operation of the
+“Joseph P. Doxey” to “Joseph P. Doxey”); F-8 (Doxey comments that it is “[v]ery disturbing”
+that he never received this email that he, however, submitted in this proceeding; this April 1,
+2008, email is forwarded by “Joseph P. Doxey” to “Joseph P. Doxey” on June 19, 2012, and
+again forwarded by “Joseph P. Doxey” to “Joseph P. Doxey” on June 30, 2012; the subject of the
+email changes with each forward). Nonetheless, because Doxey is pro se, his filing relates to his
+defense of a motion for summary disposition, and the Division never moved to strike any of
+Doxey’s exhibits, I have read Doxey’s relevant exhibits liberally and given them as much weight
+as reasonably possible. See 17 C.F.R. § 201.250(a); see also Banks v. Pennsylvania, 09-cv-1437,
+2010 WL 569545, at *2 (W.D. Pa. Jan. 4, 2010) (discussing “general rule” of liberal reading of
+pro se party’s filings); U.S. Sec. & Futures Corp. v. Irvine, 00-cv-2322, 2003 WL 1907877, at *3
+(S.D.N.Y. Apr. 16, 2003) (pro se litigant’s papers should be read liberally).
+8
+
+Under the audit requirement, NSF had to be allowed to inspect the manufacturing facility prior
+to the product’s obtaining initial certification, and thereafter, to maintain certification, NSF had
+to be allowed to inspect the facility on an annual basis. Div. Exs. 6 at 28-29, 31, 35-36; 7 at 34.
+
+5
+
+product, the parameters under which the product operates (such as the flow rate and filtration
+capacity), and formulation information for all of the water contact materials used in the product.
+Div. Ex. 6 at 29. Further, the product to be tested must physically be sent to NSF in Michigan
+for testing. Id. at 30. P-231 was promulgated before 2008. Id. at 26.
+P-231 included a three-log criterion for reduction of cryptosporidium. Div. Exs. 9 at 2728, 32, 155-56; 10 at 1.9 Doxey was informed of this criterion no later than February 3, 2009,
+but never actually read P-231, relying instead on Felkner and others to know P-231’s
+requirements. Div. Exs. 7 at 67; 10. The testing conducted by Clancy showed that the System
+never met P-231’s cryptosporidium criterion. Div. Exs. 7 at 67-68; 8 at 20, 43; 9 at 32; see supra
+§ II(C). Doxey knew that Clancy’s testing showed reduction that did not meet the three-log
+criterion. Div. Ex. 7 at 67-68, 71-72.
+ii.
+
+PureH20 had limited communications with NSF in 2007-09
+
+PureH20 had limited communications with NSF between 2007 and 2009 relating to
+PureH20’s interest in obtaining NSF certification for the System under P-231. See, e.g., Div.
+Exs. 6 at 54, 71, 77-78; 9 at 158-59; Doxey Exs. NSF15, NSF17. Specifically, Doxey and
+Felkner had communications with NSF employees Ellen Van Buren (Van Buren), who had sales
+responsibilities relating to P-231 in 2007 to mid-2009, and Maren Roush (Roush), who was a
+project manager for P-231, but Roush’s communications with PureH20 were limited. Div. Ex. 6
+at 28, 37-38, 46-47, 52.
+Van Buren corresponded mostly with Felkner and also on a limited basis with Doxey. Id.
+at 52, 54-55. One such communication involved Felkner’s asking Van Buren whether NSF
+could accept cryptosporidium testing data from Clancy to be used in NSF’s certification process.
+Div. Exs. 6 at 53-54, 59; 9 at 112-13. Van Buren looked into Felkner’s question, and told
+Felkner NSF might be able to use the Clancy data in their own testing. Div. Exs. 6 at 53-54; 7 at
+53. Also, per Doxey’s request, Felkner asked Van Buren in or around May 2008 whether
+PureH20 was allowed to use NSF’s name on something; Van Buren answered that PureH20
+could not. Div. Exs. 6 at 56-57; 7 at 201-02; 9 at 135; Doxey Ex. F-7.
+iii.
+
+NSF never performed any certification work for PureH20
+
+Despite such conversations, NSF never began any certification testing on the System.
+Div. Exs. 6 at 51; 8 at 54, 66, 74-75, 78; 12 at 1. 10 The Clancy cryptosporidium data, which Van
+Buren had discussed with Felkner, was never sent to NSF, nor was the System itself. Div. Exs. 6
+at 54, 59; 8 at 49-50; 10 at 1; Doxey Ex. NSF24-25. PureH20 never gave NSF more than a very
+general description of the System and a link to the company’s website, which showed
+9
+
+Division Exhibit 10 begins with a February 3, 2009, email from NSF employee Ellen Van
+Buren to Doxey, with NSF employee Maren Roush and Felkner copied. See Farney Decl. at 2.
+10
+
+Division Exhibit 12 is a May 12, 2011, letter from NSF’s counsel to the Division. See Farney
+Decl. at 2.
+
+6
+
+nonspecific information about the product that was not the type NSF needed to commence
+certification work. Div. Ex. 6 at 45-48; Doxey Ex. NSF17C.
+A February 3, 2009, email from Van Buren to Doxey (Div. Ex. 10 at 1) shows that
+certification work was never commenced:
+I understand that you would like to get started with some initial testing as soon as
+possible within a budget of $25,000. NSF can certainly begin testing for you,
+however it is critical to first develop a test plan specific to your technology, so
+that successful test data can be used towards your end goal of product
+certification. This email in no way implies that all testing required for P231
+certification of your device would be included for a $25,000 fee.
+Also supporting the finding that certification work never began are Doxey’s own admissions,
+which include a February 2014 statement that “the current [PureH20] product is not ready for
+NSF certification” and testimony Doxey gave to the Division in August 2012. Summary at 2;
+Div. Ex. 7 at 68-70.
+PureH20 did submit an application for certification work to NSF. Div. Exs. 6 at 49, 68;
+12 at 1. There is a factual dispute between the Division and Doxey regarding whether PureH20
+ever actually entered into a contract with NSF for certification work. Doxey Answer at 13-14;
+Motion at 7; Summary at 2 11; Reply at 6; see also Div. Exs. 8 at 42, 57; 9 at 140; 12 at 1.
+However, whether a contract for certification testing existed is immaterial to the outcome of the
+Initial Decision, because it is clear that NSF never performed any certification work for
+PureH20. 12 See 17 C.F.R. § 201.250(b) (motion for summary disposition may be granted where
+no genuine issue with regard to any material fact) (emphasis added).
+iv.
+
+PureH20 could not afford to certify the System through NSF
+
+PureH20 was struggling financially in 2008 and 2009. E.g., Doxey Answer 12-13; Div.
+Exs. 6 at 54-55; 8 at 94; 9 at 159. By mid-2008, it was unable to meet debts owed to Clancy.
+Div. Exs. 7 at 45; 8 at 94; 11. 13 PureH20 never could afford to go through testing with NSF,
+which would cost at least $25,000, and PureH20 never began certification testing because it
+never had the money to pay for it. Div. Exs. 6 at 31-32, 51; 7 at 57; 8 at 45, 94; Ex. 10. A
+company could not obtain certification through NSF until it had paid NSF in full for services
+11
+
+Doxey attached to the Summary a “Contract for Certification Services by NSF International,”
+signed by Doxey and a Michael P. Walsh of NSF and dated April 7, 2008. Doxey Ex. NSF1921; see also Doxey Ex. NSF24-25. The Division has concerns about the authenticity of the
+purportedly fully executed contract. Reply at 2, 7.
+12
+
+The Division argues in its Reply that, even if a signed and executed contract existed, it would
+not change the fact that NSF never performed any work for PureH20. Reply at 7. I agree.
+13
+
+Division Exhibit 11 is an email chain between Clancy’s Thomas Hargy and Doxey, with the
+earliest email dated July 23, 2008, and the latest dated January 21, 2009. See Farney Decl. at 2.
+
+7
+
+performed. Div. Ex. 6 at 83. In 2008 and 2009, Doxey was aware of and appreciated the
+company’s precarious financial condition. E.g., Doxey Answer at 9; Div. Exs. 7 at 45-46, 10406, 170, 204-06; 11; 16 at 1. 14 The company eventually was dissolved by the State of Florida for
+nonpayment of fees, but was later reinstated. Doxey Answer at 15; Div. Ex. 3. 15
+E. Press Releases
+i.
+
+The Six Press Releases
+
+In 2008 and 2009, Doxey authorized the distribution of the following six press releases
+(collectively, Six Press Releases). Div. Ex. 7 at 175.
+April 1, 2008, Press Release (Div. Ex. 17): This press release (April 2008 Press Release)
+comprised in relevant part the following language:
+Certification of this system through EPA’s contractor, National Sanitation
+Foundation (NSF) is expected to be completed within a few short months and has
+a high likelihood for success.
+October 22, 2008, Press Release (Div. Ex. 18): This press release (October 2008 Press
+Release) comprised in relevant part the following language:
+[The company] is proud to announce the successful completion of precertification testing of an innovative drinking water treatment system. For several
+months, Clancy Environmental Consultants, Inc. has been testing the efficacy of a
+water purification system, using tetrasilvertetraoxide (TTO) for killing pathogenic
+organisms not killed by the traditional water treatment by halogenated compounds
+such as chlorine, bromine, and fluorine. The primary goal was to achieve
+disinfection of Cryptosporidium parvum, a protozoan that has caused worldwide
+concern, including severe diarrhea in most individuals and even deaths for
+immunocompromised individuals, and which is especially difficult to eradicate. In
+addition, tests included disinfection of Escherichia coli, an important enteric
+pathogenic organism. Both of these pathogens enter the water distribution system
+due to contamination from animal and human feces.
+Certification of this system through EPA’s contractor, National Sanitation
+Foundation (NSF) is expected to be completed within a few short months and has
+a high likelihood for success.
+
+14
+
+Division Exhibit 16 is a January 13, 2009, email from Doxey to Felkner. See Farney Decl. at
+
+3.
+15
+
+Doxey also testified that PureH20’s Georgia facility had to be closed in 2008 because the
+company could not afford to keep it open. Div. Ex. 7 at 22.
+
+8
+
+January 29, 2009, Press Release (Div. Ex. 19) 16: This press release (January 2009 Press
+Release) comprised in relevant part the following language:
+[The company] is proud to announce it has retained the law firm of Chastain &
+Etcheson, LLC, located In Lewistown, Illinois, to assist in the final certification
+process of its Integrated Hospital Potable Water Disinfection System.
+Mr. Gene Chastain, of Chastain & Etcheson, stated, “We are very excited about
+working with Pure H20 and in assisting them to bring their product to the
+marketplace. There ‘is a growing demand for clean water and it is our opinion that
+the company’s product addresses that demand.”
+Chastain & Etcheson, LLC is a law firm based out of Lewistown, Illinois.
+Chastain & Etcheson, LLC has a history of helping corporations with mergers and
+acquisitions, buyouts, obtaining financing, and all other-corporate issues.
+Pure H20 recently completed all pre-certification testing of its innovative drinking
+water treatment system with outstanding results. Pure H20 is ready to complete
+final certification through the EPA’s contractor, National Sanitation Foundation
+(NSF). Certification of this system is expected to be completed within this 1st
+quarter and has a high likelihood for success.
+Upon certification, Chastain & Etcheson will assist Pure H20 with its intended
+$5,000,000 mezzanine financing program. These funds will place the Company
+in a position to employ skilled workers in all areas of expertise.
+March 3, 2009, Press Release (Div. Ex. 20) 17: This press release (March 2009 Press
+Release) comprised in relevant part the following quotation attributed to Doxey:
+We are anxiously awaiting final certification of its delivery system through EPA’s
+contractor, National Sanitation Foundation (NSF).
+April 1, 2009, Press Release (Div. Ex. 21): This press release (April 2009 Press Release)
+comprised in relevant part the following language:
+Pure H20 recently completed all pre-certification testing of its innovative drinking
+water treatment system with outstanding results. Pure H20 is ready to complete
+final certification through the EPA’s contractor, National Sanitation Foundation
+
+16
+
+Doxey said that Chastain & Etcheson wrote this press release, and Doxey okayed it. Div. Ex.
+7 at 184.
+17
+
+Doxey said that Felkner drafted this press release, and Doxey authorized its publication. Div.
+Ex. 7 at 188. But see Div. Ex. 9 at 133-34.
+
+9
+
+(NSF). Certification of this system is expected to be completed within this 1st
+quarter and has a high likelihood for success.
+May 4, 2009, Press Release (Div. Ex. 22): This press release (May 2009 Press Release)
+comprised in relevant part the following language:
+Certification of this system through EPA’s contractor, National Sanitation
+Foundation (NSF) is underway.
+Each of these press releases was posted to PureH20’s website, and at least some were
+distributed through newswires. Div. Exs. 7 at 124, 178-79; 17-22. Each comprised the
+following language (the Disclaimer) at its end:
+The foregoing press release contains forward-looking statements that can be
+identified by such terminology as “expects,” “potential,” “suggests,” “may,”
+“intends,” or similar expressions. Such forward-looking statements involve
+known and unknown risks, uncertainties, and other factors that may cause the
+actual results to be materially different from any future results, performance or
+achievements expressed or implied by such statements. In particular,
+management’s expectations regarding future research, development, and/or
+commercial results could be affected by, among other things, uncertainties
+relating to the availability of future financing; unexpected regulatory delays or
+government regulation generally; the Company’s ability to obtain or maintain
+patent and other proprietary intellectual property protection; and completion in
+general. Forward-looking statements speak only as to the date they were made.
+Div. Exs. 17-22.
+ii.
+
+Doxey controlled the distribution of the Six Press Releases
+
+There is some dispute between the Division and Doxey regarding whether Doxey
+controlled the distribution of the Six Press Releases. The Division alleges that:
+[a]s president, chairman and chief executive of Pure H20, Doxey participated in
+drafting the six press releases at issue, controlled the decision of when to issue the
+press releases and had ultimate authority over their content, and arranged for their
+dissemination via the company’s website and a news wire service.
+Mot. at 20; see also OIP at 3 (alleging that Doxey had final authority and control over the press
+releases). Doxey maintains that he was not the initial drafter of the Six Press Releases, and “[a]ll
+information regarding our testing, technology, science, engineering or finance would be initially
+drafted by the person who had particular knowledge in the different aforementioned areas of the
+company,” while third-party “PR firms” and “news distribution centers” would have some input
+in drafting. Doxey Answer at 15. Doxey challenges the OIP’s allegation that he “controlled the
+substance of and substantially participated in drafting” the Six Press Releases. Id. at 16.
+
+10
+
+There is some general evidence that Doxey participated in drafting press releases, and
+Doxey himself admitted during investigative testimony that he chose at least some of the
+language used in the Six Press Releases. See Div. Exs. 7 at 165 (Doxey said it was his “dumb
+mistake” to have included certain language in the April 2009 Press Release), 182 (discussing the
+October 2008 Press Release, Doxey said, “I guess we grabbed the same paragraph again in a
+hurry . . . , it’s my error that this went out the way it did.”); 9 at 60 (Felkner stated that Doxey
+was the drafter of a company press release dated November 7, 2005). Yet, it is immaterial
+whether Doxey actually wrote all or any of the text of each of the Six Press Releases. See 17
+C.F.R. § 201.250(b) (motion for summary disposition may be granted where no genuine issue
+with regard to any material fact) (emphasis added). What is significant is that Doxey controlled
+the Six Press Releases’ distribution – a fact he admits and which is corroborated with other
+evidence. See Doxey Answer at 16 (admission of “ha[ving] final authority over the distribution
+of each press release”); Div. Ex. 7 at 32 (press releases were never issued without Doxey’s
+consent), 124-25 (Doxey explained he was aware of every company press release that went out,
+and authorized the publication of each company press release on the company website), 130
+(Doxey stated, “I put a press release out when I thought it was material [to] what the company
+was doing.”), 175 (Doxey stated that he “authorized all [press] releases”); see also Div. Exs. 8 at
+23 (Boudreaux stated that “the final draft of the press release was through Joe [Doxey]” and that
+Doxey had the “final say” on press releases), 35 (Boudreaux stated, “[Felkner] would put
+together some press releases, but the press releases went through Joe Doxey before it went out”);
+9 at 87 (Felkner stated that the press releases are “done by Mr. Doxey”). Doxey was familiar
+with the contents of all press releases the company issued. See Div. Exs. 7 at 124, 175-77, 186,
+188; 8 at 23, 35.
+iii.
+
+PureH20 was not allowed to mention NSF’s name in press releases
+
+NSF does not allow customers to reference NSF’s name until the customer has received
+final certification on its product. Div. Ex. 6 at 22-23, 51, 55. Doxey knew that PureH20 was not
+allowed to use NSF’s name prior to certification. Div. Ex. 7 at 201-02. NSF noticed at some
+point in time that PureH20 was using NSF’s name in press releases, and contacted PureH20,
+asking PureH20 to remove NSF’s name from the press releases and stop using NSF’s name in
+marketing materials. Div. Ex. 6 at 55-56.
+iv.
+
+The Six Press Releases contained false and misleading statements
+
+Each of the Six Press Releases was false and misleading, in that each falsely made NSF
+appear to be a contractor to a federal regulatory agency with respect to P-231, when NSF was in
+fact not a contractor of the EPA with respect to P-231. 18 See supra § II(D)(i). Each was further
+misleading, by suggesting that PureH20 had the funds to complete the NSF certification process
+on a short timeline. See supra § II(D)(iv); see also Div. Ex. 8 at 74-75. While the January 2009
+18
+
+They were also inaccurate in calling NSF “National Sanitation Foundation,” a name that NSF
+had stopped using. See supra § II(D)(i).
+
+11
+
+Press Release references Chastain & Etcheson at length, Chastain & Etcheson never obtained
+financing for the company. Summary at 7; Div. Ex. 7 at 183, 189.
+The April and October 2008 Press Releases were false and misleading, because they
+suggested that NSF certification could have been completed “in a few short months,” when NSF
+certification under P-231 was unlikely to take fewer than three months and the System at the
+time was not able to reduce cryptosporidium to the level required for NSF certification. Div.
+Exs. 6 at 34-35; 7 at 51-52; 9 at 126; see supra § II(C). For the same reasons, the January and
+March 2009 Press Releases, stating that “[c]ertification of this system is expected to be
+completed within this 1st quarter,” were false and misleading. 19 Div. Exs. 6 at 34-35; 7 at 51-52;
+9 at 126; see supra § II(C). The March 2009 Press Release was distributed after Doxey received
+an email from Van Buren (Div. Ex. 10) stating:
+Typical product certification time is 3-4 months from receipt of all required
+formulation information and test units. This timeline is highly dependent on the
+lab schedule and test queue, and a firm timeline for testing and certification can
+be determined at the time of sample submission.
+The October 2008, January 2009, and April 2009 Press Releases were false and
+misleading, because they suggested that pre-certification testing, done by Clancy, was
+“successful” or produced “outstanding results” when in fact the testing revealed the System did
+not reduce cryptosporidium to the level required for NSF certification. See supra § II(C). For
+the same reason, the January 2009 Press Release’s statement that the company was ready to
+complete final certification through NSF was false and misleading. See supra § II(C).
+The March 2009 Press Release was misleading because “anxiously awaiting final
+certification” implies that certification work was already underway, when it was not; and the
+May 2009 Press Release was false and misleading because it stated that certification work was
+underway, when it was not. See supra § II(D)(iii).
+v.
+
+Doxey knew that the Six Press Releases contained false or misleading information
+
+Doxey admitted that aspects of the Six Press Releases did not reflect PureH20’s and the
+System’s status at the time. In investigative testimony given to the Division, Doxey said that the
+Six Press Releases were “forward looking statements,” and the events were “going to happen in
+three to four months” if “money comes in.” Div. Ex. 7 at 162. Doxey also pointed to the
+inclusion of the Disclaimer in each of the Six Press Releases. Id. at 171. He believed that the
+shareholders “all know we don’t have the money,” and on the topic of “obtaining NFS
+certification,” stated that “everybody knew the same story, we were trying to get there.” Id. at
+162, 170. While the Six Press Releases never explained that NSF certification was contingent on
+obtaining money, Doxey believes that the contingency can be “read between the lines” in the
+press releases. Id. at 163-64.
+19
+
+The April 2009 Press Release was actually released after the completion of the first fiscal
+quarter of 2009, even though it referred to “this 1st quarter.” Div. Ex. 7 at 165.
+
+12
+
+Doxey said that the January 2009 Press Release expresses “that the company is trying to
+get to NSF to get the final certification done, with financing coming through the law firm of
+Chastain and Etcheson where they promised 500 thousand through a judgment that the company
+had from a bankruptcy court in Kentucky.” Id. at 183. At least one investor did not share
+Doxey’s peculiar interpretation of the January 2009 Press Release. Div. Ex. 25 at 75-76.
+Regarding the April 2009 Press Release, Doxey acknowledged that he did not address the fact
+that PureH20 had to conduct further cryptosporidium testing prior to going to NSF for
+certification testing. Div. Ex. 7 at 194.
+Regarding the October 2008 Press Release’s statement that certification was expected to
+be completed in a few short months, Doxey said that it was “just an error” to have included in
+this press release language from the prior April 2008 Press Release. Id. at 181. Speaking
+generally about the Six Press Releases, Doxey said, “I could be in error with some of these . . . ,
+I didn’t put my underlying attention to it.” Id. at 226; see also id. at 198 (“I was a nervous wreck
+trying to make all ends meet and I probably didn’t give enough thought to the [April 2009 Press
+Release], and that’s my error”); id. at 198-99 (“I have to say now reviewing all these press
+releases I did not give my undivided attention to thoroughly write these things the proper way
+but there was no intent for me to misrepresent anything.”).
+Doxey acknowledged that each of the Six Press Releases were “material.” Div. Ex. 7 at
+126, 160. He said, “[T]hose press releases . . . they’re all material to what was going on.” Id. at
+160.
+vi.
+
+Some of the Six Press Releases increased PureH20’s stock price and/or trading
+volume
+
+Division Exhibit 24, a summary chart showing price and volume movement of PureH20
+stock on the days of and immediately preceding PureH20 press releases, shows that the October
+2008, March 2009, and April 2009 Press Releases were associated with increases in PureH20’s
+stock price by 25, 43, and 57 percent respectively. Div. Ex. 24; Farney Decl. at 3. All of the Six
+Press Releases, with the exception of the March 2009 Release, were associated with significantly
+increased trading volume in PureH20’s stock. Div. Ex. 24. Among the Six Press Releases, the
+October 2008 and April 2009 press releases were associated with both increased stock price and
+trading volume. Id.
+F. Sales of PureH20 Securities
+i.
+
+Doxey made false or misleading statements to Daniels before Daniels invested
+
+Doxey visited Daniels in Land O’Lakes, Florida, where Daniels lived, around the
+summer of 2008, to discuss PureH20. Div. Exs. 7 at 134, 143; 25 at 21, 35-36, 48. This was the
+only time the two men met in person. Div. Exs. 7 at 143; 25 at 42-43. During this meeting,
+Doxey told Daniels that: pre-NSF testing on the System was complete; the product was fully
+developed; NSF certification was underway; and NSF would ultimately certify the product, but
+
+13
+
+Doxey first needed a little more money to get the System through certification. Div. Ex. 25 at
+40-42, 45, 47, 52-54. Doxey also told Daniels that PureH20 already had an inventory of
+manufactured Systems, which was not true, and that just $25,000 was necessary to finish NSF
+certification. Div. Exs. 7 at 88-89; 9 at 99, 116; 25 at 44, 74. Before making the decision to
+invest, Daniels also reviewed information on PureH20 online and reviewed the company’s press
+releases. Div. Ex. 25 at 39-40. Daniels usually read PureH20’s press releases. Id. at 70.
+Daniels believes that Doxey misrepresented NSF’s certification status to him. Daniels Answer;
+Div. Ex. 25 at 138.
+ii.
+
+Daniels represented that he was an accredited investor
+
+Daniels represented himself and his company Observation Capital as accredited
+investors, as defined by Rule 501 of Securities Act Regulation D, to Doxey. Div. Exs. 25 at 14244; 26. 20 Daniels incorrectly believed that both he and Observation Capital were accredited
+investors because he previously held securities licenses. Daniels Answer; Div. Ex. 25 at 29-31,
+130. Doxey believed Daniels and Observation Capital qualified as accredited investors because
+Daniels had indicated in subscription agreements with PureH20 that Observation Capital was an
+accredited investor. Doxey Answer at 7; Div. Ex. 7 at 147, 151-52. Doxey understood that, to
+be accredited, an investor must have $200,000 in income or $1 million in net worth, but did
+nothing to determine whether Daniels actually met either criterion. Div. Ex. 7 at 145-47, 152-53.
+iii.
+
+Daniels purchased and resold PureH20 shares
+
+Between August 2008 and July 2009, Daniels made payments totaling $57,654 to
+PureH20. 21 Div. Exs. 27; 28 at 2. In return for these payments, Daniels was issued over 360
+million shares of PureH20 stock. Div. Ex. 28 at 1. Attorney opinion letters (Letters), apparently
+written by PureH20’s now deceased attorney Bruce Keihner (Keihner), were created to support
+these issuances of unrestricted shares to Daniels. 22 Div. Exs. 7 at 28, 152; 8 at 31; see e.g., Div.
+Ex. 26 at SEC 002741-42. The Letters (included at Div. Ex. 26) each state that:
+
+20
+
+Division Exhibit 26 comprises over one hundred pages relating to PureH20’s offerings from
+October 14, 2008, to May 21, 2009, including executed subscription agreements between
+PureH20 and Observation Capital. See Farney Decl. at 4.
+
+21
+
+Division Exhibit 28 is a summary chart showing all of Observation Capital’s stock
+subscriptions for PureH20 shares. See Farney Decl. at 4. In the Motion, the Division requests
+disgorgement of $57,654 against Doxey. Mot. at 29. This is $1 more that the Observation
+Capital’s total payments to PureH20 listed on the second page of Division Exhibit 27. However,
+Division Exhibit 27’s twentieth page (marked with Bates number SEC-002877), demonstrates
+that there is an error in Division Exhibit 28’s second page, and the $474 (March 16, 2009) figure
+in Division Exhibit 28 should be $475. Likewise, Observation Capital’s total payments to
+PureH20 are $57,654.
+22
+
+Daniels believes he was never shown the attorney opinion letters. Div. Ex. 25 at 57, 133.
+
+14
+
+•
+
+Keihner had reviewed the “Securities Act, Rule 504 of SEC Regulation D, 5.H, 5.T
+and 7 of the Texas Securities Act and the Texas Administrative Code, Rule 109.3(4)
+as a basis for [his] opinions”;
+
+•
+
+Keihner had reviewed a subscription agreement in which Observation Capital
+represented that it is an accredited investor under Regulation D and resident in or
+qualified to do business in Texas, and that the transactions occurred within the State
+of Texas;
+
+•
+
+PureH20 is not subject to the reporting requirements of the Exchange Act’s Sections
+13 or 15(d) and was not subject to these sections at the time of sale;
+
+•
+
+PureH20 is eligible to use Regulation D’s Rule 504. The offer and sales of the shares
+sold to Observation Capital were made solely to an accredited investor, resident in or
+qualified to do business in Texas in transactions that occurred within Texas;
+
+•
+
+PureH20’s sales of shares were exempt from the registration requirements under Rule
+504 of Regulation D, and that, as permitted by Rule 504(b)(1)(iii), the provisions of
+Rule 502(d) as to limitation on resale do not apply and certificates for the shares may
+be issued without a legend restricting resale. The lack of resale restrictions is based
+upon the fact that the offering was exempt from state registration requirement under a
+state law exemption for registration, so long as sales are made only to accredited
+investors, as defined in Rule 501(a).
+
+•
+
+“[Y]ou are authorized to rely upon the opinion. You may issue certificates for the
+Shares of the Issuer’s Common Stock as set forth above, without restrictive legend.”
+
+Doxey sent letters to the transfer agent instructing issuance of shares to Daniels without
+restrictive legends. E.g., Div. Ex. 26 at SEC000676, SEC000779; see also Div. Ex. 7 at 157.
+Each time Daniels received shares in PureH20 stock, he quickly resold the shares to the
+public. Div. Ex. 25 at 134. He thought he was free to resell them at any time. Id. at 134-36.
+Daniels generated $73,900.46 by these resales. Div. Ex. 32. 23
+iv.
+
+PureH20’s reporting history
+
+On April 16, 2009, PureH20 filed a Form D, Notice of Exempt Offering of Securities.
+Div. Ex. 29.24 This Form D notes a total offering amount of $1 million, with $129,000 already
+23
+
+Division Exhibit 32 is a summary chart showing Observation Capital’s sales of PureH20’s
+securities from October 2008 through May 2009. See Farney Decl. at 5.
+24
+
+Division Exhibit 29 is the printout from the Commission’s EDGAR database listing PureH20’s
+EDGAR filings. See Farney Decl. at 4.
+
+15
+
+sold; claims exemptions under Regulation D’s Rule 504(b)(1)(i), (ii), and (iii); and states that the
+first date of sale was February 19, 2009. Official Notice. 25
+III. DISCUSSION AND CONCLUSIONS OF LAW
+The Division contends that Doxey willfully violated Exchange Act Section 10(b) and
+Rules 10b-5(a), (b), and (c), and Securities Act Sections 5(a) and (c) and 17(a)(l), (2), and (3).
+Mot. at 2. It contends that Daniels willfully violated Securities Act Sections 5(a) and (c). Id.
+In his Answer and Summary, Doxey provides his own view of the relevant facts relating
+to PureH20 between 2007 and 2009, apparently contending that his actions at that time did not
+constitute fraud under Exchange Act Section 10(b), Rule 10b-5 thereunder, or Securities Act
+Section 17(a). Doxey states that he relied upon Securities Act Regulation D as an exemption
+from filing a Securities Act Section 5 registration statement for sales of PureH20’s shares to
+Daniels. Summary at 8. He admits that Daniels was not an accredited investor. Summary at 7.
+In his Answer, Daniels does not dispute that the shares he sold into the market were
+unregistered, and states that he believed at the time that he was an accredited investor and that he
+did not intentionally do anything wrong. Daniels Answer at 4.
+A. Violations of Antifraud Provisions
+Doxey willfully violated Exchange Act Section 10(b), Exchange Act Rule 10b-5, and
+Securities Act Section 17(a) (collectively, Antifraud Provisions) by making material
+misstatements and omitting material information in the Six Press Releases.
+To prove a violation of Exchange Act Section 10(b) and Rule 10b-5, the Division must
+prove that Doxey made: (1) a misrepresentation or omission; (2) of material fact; (3) with
+scienter; (4) in connection with the purchase or sale of securities; and (5) by means of interstate
+commerce. SEC v. Smart, 678 F.3d 850, 856-57 (10th Cir. 2012); see also SEC v. Steadman,
+967 F.2d 636, 641-43 (D.C. Cir. 1992). “Section 17(a)(1)-(3) requires substantially similar proof
+with respect to the offer or sale of securities.” Smart, 678 F.3d at 857; but see Weiss v. SEC,
+468 F.3d 849, 855 (D.C. Cir. 2006) (negligence sufficient to establish violation of Section
+17(a)(2) or (3)). 26 A violation is willful if the act that constituted the violation was intentional.
+See Wonsover v. SEC, 205 F.3d 408, 413 (D.C. Cir. 2000); Steadman, 603 F.2d at 1135
+25
+
+I take official notice of PureH20’s Regulation D filing made with the Commission available on
+the public EDGAR database. See 17 C.F.R. § 201.323.
+26
+
+Exchange Act Section 10(b) prohibits the use of any manipulative or deceptive device or
+contrivance in connection with the purchase or sale of any security. 15 U.S.C. § 78j. Exchange
+Act Rule 10b-5 makes it unlawful for any person to employ any device, scheme, or artifice to
+defraud, to make any misstatements or omissions of material fact, or to engage in any act,
+practice, or course of business which operates as a fraud or deceit. 17 C.F.R. § 240.10b-5.
+Section 17(a)(1) of the Securities Act makes it unlawful to employ devices, schemes, or artifices
+to defraud. 15 U.S.C. § 77q(a)(1). Section 17(a)(2) of the Securities Act prohibits material
+
+16
+
+i.
+
+Misrepresentations and Omissions
+
+Doxey through the distribution of the Six Press Releases made numerous
+misrepresentations and omissions in connection with the sale of securities in interstate
+commerce. As discussed in § II(E)(iii) of this Initial Decision, above, the Six Press Releases
+contained numerous false and misleading statements, including that certification of the System
+through NSF was underway, when it was not, because PureH20 did not have the funds for
+certification at the time. Each of the Six Press Releases misrepresented PureH20’s preparations
+of the System for distribution in the market, and many omitted that NSF certification was
+contingent on raising funds, which were seriously lacking. Div. Exs. 7 at 163-64; 16. Doxey’s
+conduct resulted in misrepresentations within the meaning of Securities Act Section 17(a)(2),
+Exchange Act Section 10(b), and Rule 10b-5 thereunder, and constituted a scheme, artifice,
+practice, and course of conduct within the meaning of Securities Act Sections 17(a)(1) and
+17(a)(3). See Smart, 678 F.3d at 857.
+These misrepresentations and omissions were made in press releases for PureH20’s stock,
+and therefore were in connection with the sale of securities. See SEC v. StratoComm Corp., --F. Supp. 2d ---, 1:11-cv-1188, 2014 WL 689116, at *11-12 (N.D.N.Y. Feb. 19, 2014). They
+were also made by means of interstate commerce, as the Six Press Releases were posted to
+PureH20’s website and at least some distributed through newswires, and they had the ability to
+affect the price of shares of stock sold in interstate commerce. Div. Exs. 7 at 124, 178-79; 17-22;
+see United States v. MacEwan, 445 F.3d 237, 244 (3d Cir. 2006) (“[B]ecause of the very
+interstate nature of the Internet, once a user submits a connection request to a website server or
+an image is transmitted from the website server back to user, the data has traveled in interstate
+commerce.”); United States v. Polishan, 3:96-CR-274, 2001 WL 848583 (M.D. Pa. July 27,
+2001), at *10 (transmission by wire is in interstate commerce), aff’d, 336 F.3d 234 (3d Cir.
+2003); United Egg Producers v. Bauer Int’l Corp., 311 F. Supp. 1375, 1383 (S.D.N.Y. 1970)
+(false press releases regarding egg importation “tended to affect the price of eggs in interstate
+commerce”).
+Despite Doxey’s suggestions to the contrary, the Disclaimer neither negates the
+misleading nature of the Six Press Releases nor shields him from liability. Div. Ex. 7 at 162,
+171. Certain safe harbors limit liability for forward-looking statements, but only when they are
+contained in documents filed with the Commission. See 17 C.F.R. §§ 230.175, 240.3b-6;
+Securities Offering Reform, Securities Act Release No. 8591 (Aug. 3, 2005), 70 Fed. Reg.
+44722, 44736 & n.129; Final Report of Advisory Committee on Smaller Public Companies 104
+(Apr. 23, 2006), available at http://www.sec.gov/info/smallbus/acspc/acspc-finalreport.pdf (last
+visited Apr. 23, 2014). Also, there is a safe harbor for forward-looking statements under the
+misstatements or omissions of material facts, and Section 17(a)(3) of the Securities Act prohibits
+transactions, practices, or courses of business that operate as a fraud or deceit on the purchaser.
+15 U.S.C. § 77q(a)(2)-(3). Sections 17(a)(1)-(3) require a nexus with the offer or sale of
+securities. 15 U.S.C. § 77q(a)(1)-(3). All of these violations require that interstate commerce be
+used in committing them. 15 U.S.C. §§ 77q(a)(1)-(3), 78j; 17 C.F.R. § 240.10b-5.
+
+17
+
+Private Securities Litigation Reform Act of 1995, but it is only available in connection with
+private legal actions. See 15 U.S.C. §§ 77z-2, 78u-5; In Re SeeBeyond Techs. Corp. Sec. Litig.,
+266 F. Supp. 2d 1150, 1165 n.7 (C.D. Cal. 2003); Harold F. Harris, Exchange Act Release No.
+53122A (Jan. 13, 2006), 87 SEC Docket 362, 370-71 & n.25. These safe harbors are not
+available to PureH20 because the Six Press Releases were not documents filed with the
+Commission under the meaning of the relevant provisions of the Securities and Exchange Acts,
+and this proceeding is not private litigation.
+ii.
+
+Materiality
+
+The standard of materiality is whether a reasonable investor would have considered the
+information important in deciding whether to invest, and if disclosure of misstated or omitted
+facts would have significantly altered the total mix of information available to the investor. See
+Basic Inc. v. Levinson, 485 U.S. 224, 231-32, 240 (1988); SEC v. Steadman, 967 F.2d at 643.
+Materiality does not require proof that accurate disclosure would have caused the reasonable
+investor to change his/her decision, but only that the omitted fact would have assumed actual
+significance in the deliberations of the reasonable investor. TSC Indus. v. Northway, Inc., 426
+U.S. 438, 449 (1976).
+Whether and when PureH20 would have been able to obtain NSF certification was
+material, as obtaining certification would allow PureH20’s first product – the System – to be
+marketed. Doxey Answer at 16; Summary at 1; Div. Exs. 6 at 27; 7 at 34; 8 at 41-42; 9 at 29.
+Knowing that PureH20 could not afford NSF certification would be important to investors, in
+part because it suggests that PureH20 would not be making money from product sales anytime
+soon. The October 2008, March 2009, and April 2009 Press Releases caused significant
+increases to PureH20’s stock price, and five of the Six Press Releases significantly increased
+trading volume in PureH20’s stock. Div. Ex. 24; see No. 84 Employer-Teamster Joint Council
+Pension Trust Fund v. Am. W. Holding Corp., 320 F.3d 920, 950 (9th Cir. 2003) (fact that stock
+price did not significantly change undermined allegation that misrepresentations were material);
+SEC v. Lund, 570 F. Supp. 1397, 1401 (C.D. Cal. 1983) (rapid increase in trading volume and
+price and purchase of shares following disclosure were indicia of materiality). Doxey himself
+described the information he was putting out in the Six Press Releases as “material.” Div. Ex. 7
+at 126, 160.
+Doxey was in control of the material misrepresentations and omissions in the Six Press
+Releases, as he controlled the distribution of press releases. See supra § II(E)(ii). He therefore
+made the statements for purposes of the Antifraud Provisions. Janus Capital Grp., Inc. v. First
+Derivative Traders, 131 S. Ct. 2296, 2302 (2011); SEC. v. Wolfson, 539 F.3d 1249, 1261 (10th
+Cir. 2008).
+iii.
+
+Scienter
+
+A finding of scienter, defined as a “mental state embracing intent to deceive, manipulate,
+or defraud,” is a key element in violations of Exchange Section 10(b) and its Rule 10b-5 and of
+Securities Act Section 17(a)(1); by contrast, Sections 17(a)(2) or (3) require a showing of just
+
+18
+
+negligent conduct. Ernst & Ernst v. Hochfelder, 425 U.S. 185, 193 n.12 (1976); see Aaron v.
+SEC, 446 U.S. 680, 701-02 (1980). The element of scienter can be satisfied by a showing of
+recklessness. Hollinger v. Titan Capital Corp., 914 F.2d 1564, 1569 (9th Cir. 1990).
+Doxey denies that he knew or was reckless in not knowing that his authorizing the Six
+Press Releases’ distribution constituted fraud. Doxey Answer at 17. However, his investigative
+testimony shows that Doxey acted with a high degree of scienter by knowingly distributing the
+Six Press Releases containing material misrepresentations and omissions about the company that
+he controlled. See Rule 250(a) (a party’s pleadings may be modified by admissions). Doxey
+conceded that for an investor to understand from the Six Press Releases that NSF certification
+was contingent on obtaining money, they would have had to “read between the lines,” Div. Ex. 7
+at 163-64; he acknowledged that the April 2009 Press Release did not address the fact that
+PureH20 had to conduct further cryptosporidium testing prior to going to NSF for certification
+testing, id. at 194; and he generally admitted that aspects of the Six Press Releases did not reflect
+PureH20’s and the System’s status at the time, see id. at 162, 170-71. See generally Div. Ex. 7
+(showing that Doxey intended to include in the Six Press Releases most of the false and
+misleading information at issue). I find that Doxey acted with an intent to defraud and with the
+intent to publish the Six Press Releases, that is, willfully.
+B. Violations of Registration Requirements
+Securities Act Sections 5(a) and (c) (Registration Requirements) prohibit any person
+from directly or indirectly selling or offering to sell securities in unregistered transactions unless
+an exemption from registration applies. 15 U.S.C. §§ 77e(a), (c); see also Jacob Wonsover, 54
+S.E.C. 1, 8 (Mar. 1, 1999). A prima facie case for a violation of Section 5 is established by
+showing that: (1) the respondent directly or indirectly sold or offered to sell securities; (2)
+through the use of interstate facilities or mail; (3) when no registration statement was in effect.
+See SEC v. Calvo, 378 F.3d 1211, 1214 (11th Cir. 2004) (citing SEC v. Cont’l Tobacco Co., 463
+F.2d 137, 155 (5th Cir. 1972)). With respect to the first element, it must be shown that the
+respondent was a “necessary participant” or “substantial factor” in the sale. Calvo, 378 F.3d at
+1215; SEC v. Elliott, No. 09-cv-7594, 2011 WL 3586454, at *7 (S.D.N.Y. Aug. 11, 2011).
+Section 5 is a strict liability statute, so a showing of scienter is not required. Calvo, 378 F.3d at
+1215. Once the Division has made out a prima facie case, the burden shifts to the respondent to
+prove entitlement to an exemption. SEC v. Ralston Purina Co., 346 U.S. 119, 126 (1953); SEC
+v. Murphy, 626 F.2d 633, 641 (9th Cir. 1980).
+The Division has shown that Doxey and Daniels directly sold or offered to sell PureH20
+securities in interstate commerce, and did so willfully. See supra §§ II(F)(iii), III(A)(i). It has
+further shown that no registration statement justifying Doxey’s offering and sale of shares to
+Daniels or justifying Daniels’ offering and sale of shares to the public market was in effect. See
+Div. Ex. 29. Although PureH20 was the issuer of the securities sold to Daniels, Doxey was a
+“substantial factor” in the offering and sale of the securities by, at minimum, sending letters
+instructing issuance of shares without restrictive legends, and he is thus personally liable for
+violations of the Registration Requirements. See Geiger v. SEC, 363 F.3d 481, 487 (D.C. Cir.
+2004) (need not be involved in final step of distribution to be involved in sale in violation of
+
+19
+
+Registration Requirements). Because Daniels alone controlled Observation Capital, and
+Observation Capital was the direct reseller of the securities into the market, Daniels was a
+“necessary participant” in the resale of securities in contravention of the Registration
+Requirements, and he is thus personally liable. See SEC v. Persaud, 6:12-cv-932, 2013 WL
+6478800, *4 (M.D. Fla. Dec. 10, 2013); Div. Ex. 25 at 18.
+Doxey has not met his burden of proving that PureH20 was entitled to any exemption
+from registration – including to exemptions for offerings or sales to accredited investors, or in
+compliance with state security laws, as claimed in the Letters and in PureH20’s April 26, 2009,
+Regulation D filing – and is thus liable for violating the Registration Requirements. In response
+to the Division’s allegations of violations of the Registration Requirements, Doxey merely states,
+“The Company was extended certain exemptions under Rule 504, 506 and 144 respectively. The
+Company always filed a Form D with the [Commission] with other filings if appropriate.”
+Summary at 8. PureH20’s April 16, 2009, Form D (the Form D) did not claim an exemption
+from registration under Rule 506. Official Notice. A Form D does not provide the option to
+claim an exemption under Rule 144, as Rule 144 does not apply to issuers and thus PureH20
+could not have relied on it. 17 C.F.R. § 230.144. Even if Rule 144 had been available to
+PureH20, the company never filed a Form 144, on which a Rule 144 exemption is claimed. See
+Div. Ex. 29.
+While the Form D claims exemptions under subsections (b)(1)(i), (ii), and (iii) of Rule
+504 – for offerings in compliance with certain types of state law exemptions or involving general
+solicitation or advertising if compliant with state securities laws – there is no evidence that those
+exemptions were applicable. See generally Doxey Answer; Summary. Specifically, there is no
+evidence that Daniels was an accredited investor, and Doxey admits as much, foreclosing the
+ability to claim the Rule 504(b)(1)(iii) exemption. Summary at 7. Also, the Letters only discuss
+Rule 504(b)(1)(iii), and do not opine that Rule 504(b)(1)(i) or (ii) applied, nor is there any other
+evidence that Rule 504(b)(1)(i) or (ii) applied.
+Moreover, Rule 504 requires that there be compliance with Rule 502, requiring the
+“exercise of reasonable care” in ensuring the purchaser of the securities is not an underwriter,
+unless one of the three exemptions under Rule 504(b)(1) is met. 17 C.F.R. §§ 230.502(d),
+.504(b)(1). The record supports that Doxey neither inquired of Daniels the basis for Observation
+Capital’s claiming accredited investor status, nor inquired whether Observation Capital would be
+acting as an underwriter of PureH20 securities – i.e., having the intent to resell. Div. Exs. 7 at
+145-46; 25 at 130; see Ackerberg v. Johnson, 892 F.2d 1328, 1335 (8th Cir. 1989); 17 C.F.R. §§
+230.144, .501(a), .502(d).
+Daniels has not made any argument that Observation Capital’s resales of PureH20 shares
+were exempt from the Registration Requirements. See generally Daniels Answer. Indeed, he
+apparently concedes that he was not an accredited investor, although he believed that he was at
+the time. Id. Therefore, Daniels has not met his burden of showing any entitlement to an
+exemption.
+
+20
+
+For liability, it is of no consequence that Daniels did not intend to violate the Securities
+Act. See Calvo, 378 F.3d at 1219 (strict liability for offering or sale of unregistered securities
+regardless of the seller’s degree of fault and intent); Robert L. Burns, Investment Advisers Act of
+1940 Release No. 3260 (Aug. 5, 2011), 101 SEC Docket 44807, 44826 n.60 (Commission has
+“repeatedly held that ignorance of the securities laws is not a defense to liability thereunder”);
+see also Daniels Answer; Div. Ex. 25 at 22-23. Doxey’s argument that he relied on an attorney’s
+advice in offering and selling shares pursuant to Regulation D and without restrictive legends,
+not in compliance with Regulation D, similarly has no effect on his liability. Doxey Answer at
+7; Summary at 8; see Rodney R. Schoemann, Securities Act Release No. 9076 (Oct. 23, 2009),
+97 SEC Docket 21726, 21745 (attorney’s opinion of “no consequence” to determination of
+liability under Section 5, as Section 5 is strict liability provision), aff’d, 398 F. App’x 603 (D.C.
+Cir. 2010) (per curiam). But see D.F. Bernheimer & Co., Inc., 41 SEC 358, 364 n.7 (1963)
+(reliance on counsel may be mitigating factor in determining sanction).
+IV. SANCTIONS
+The Division requests cease-and-desist orders against both Doxey and Daniels;
+disgorgement of $57,654, plus prejudgment interest, from Doxey; disgorgement of $73,900.46,
+plus prejudgment interest, from Daniels; civil penalties against both Doxey and Daniels 27; an
+officer and director bar against Doxey; and penny stock bars against both Doxey and Daniels.
+Mot. at 27-32.
+A. Limitations Period
+Neither Respondent raises a defense under the applicable statute of limitations, providing
+that the Commission has five years from the date a claim first accrued to bring an enforcement
+proceeding. 28 28 U.S.C § 2462. The statute of limitations does not apply to this entire
+proceeding, but only to particular sanctions, specifically, civil penalties and any associational
+bar. 29 Id.; see Johnson v. SEC, 87 F.3d 484, 492 (D.C. Cir. 1996); Gregory O. Trautman,
+Exchange Act Release No. 61167 (Dec. 15, 2009), 97 SEC Docket 23492, 23525-26; John A.
+Carley, Securities Act Release No. 8888 (Jan. 31, 2008), 92 SEC Docket 1693, 1727-29. I may,
+27
+
+The Division does not specify what tier penalty – within the three-tier penalty system – it
+seeks against each Respondent. Mot. at 29-30.
+28
+
+It is possible that the parties entered into tolling agreements; if so, this was not brought to my
+attention.
+29
+
+Federal courts have disagreed on whether officer and director bars constitute “penalties”
+within the meaning of this statute of limitations, and there is limited Commission precedent
+addressing this subject. Compare SEC v. Bartek, 484 F. App’x 949, 957 (5th Cir. 2012) (officer
+and director bar subject to § 2462), cert. pet. dismissed, 133 S. Ct. 1658 (2013), with SEC v.
+Quinlan, 373 F. App’x 581, 588 (6th Cir. 2010) (officer and director bar not subject to § 2462);
+see Gregory Bartko, Exchange Act Release No. 71666, 2014 SEC LEXIS 841, at *34 n.54 (Mar.
+7, 2014) (mentioning Quinlan). It is immaterial whether an officer and director bar is subject to
+§ 2462, because I find one warranted based just upon Doxey’s post-November 22, 2008 conduct.
+
+21
+
+however, consider acts outside the limitations period as evidence of a respondent’s motive,
+intent, or knowledge in committing violations within the limitations period. John A. Carley, 92
+SEC Docket at 1728.
+Because this proceeding commenced on November 22, 2013, the Commission is unable
+to impose civil penalties or a bar for material misrepresentations or omissions that occurred
+before November 22, 2008, or for sales of unregistered shares in PureH20 stock that occurred
+before November 22, 2008. E.g., Edgar B. Alacan, 57 S.E.C. 715, 742-43 (2004); but see Joseph
+Contorinis, Exchange Act Release No. 72031, 2014 WL 1665995, at *3 (Apr. 25, 2014) (holding
+that 28 U.S.C. § 2462 does not apply to follow-on proceedings).
+Each material
+misrepresentation of PureH20 operations to the investing public was a separate and distinct
+violation, and any resulting cause of action could not have accrued until each misrepresentation
+was made. See Gabelli v. SEC, 133 S. Ct. 1216, 1220-21 (2013) (time of accrual when the cause
+of action becomes enforceable); David Henry Disraeli, Securities Act Release No. 8880 (Dec.
+21, 2007), 92 SEC Docket 852, 875 (multiple material misrepresentations and omissions
+constituted “repeated violations”), aff’d, 334 F. App’x 334 (D.C. Cir. 2009). Similarly, each of
+Doxey’s sales to Daniels and each of Daniels’ sales of PureH20 stock was a separate and distinct
+violation, and any resulting cause of action could not have accrued until the sale occurred. See
+Ronald S. Bloomfield, Securities Act Release No. 9553, 2014 WL 768828, at *24 n.129 (Feb.
+27, 2014).
+Accordingly, the Commission can only impose civil penalties or an associational bar or
+censure against Doxey for the material misrepresentations or omissions in the January 2009,
+March 2009, April 2009, and May 2009 Press Releases. And the Commission can only impose
+civil penalties or an associational bar or censure against Doxey for the sales to Daniels, through
+Observation Capital, between January 6, 2009, and May 21, 2009; and against Daniels for the
+sales by Daniels, through Observation Capital, between November 24, 2008, and May 21, 2009.
+See Div. Exs. 28 at 1 30; 33 at SEC-E-000099, SEC 001951. Although technically Respondents
+waived statute of limitations defenses by not raising them as affirmative defenses in their
+Answers, both Respondents are pro se, and I have accordingly afforded them the benefit of the
+doubt. See 17 C.F.R. § 201.220(c).
+B. The Public Interest
+The appropriateness of any remedial sanction in this proceeding is guided by the public
+interest factors set forth in Steadman v. SEC, 603 F.2d 1126, 1140 (5th Cir. 1979), aff’d on other
+grounds, 450 U.S. 91 (1981), namely: the egregiousness of the respondent’s actions; the isolated
+or recurrent nature of the infraction; the degree of scienter involved; the sincerity of the
+respondent’s assurances against future violations; the respondent’s recognition of the wrongful
+30
+
+I construe the dates of subscription, as provided in this exhibit, as the dates of sale. See Keith
+v. Lighthouse Sec., Ltd., 5:92-cv-0185, 1997 WL 380430, at *7 (D. Conn. June 17, 1997)
+(subscription dates treated as dates of securities sales); Winthrop Fin. Co., SEC No-Action
+Letter, Fed. Sec. L. Rep. (CCH) ¶ 77,235 (June 25, 1982) (describing date of sale as either date
+of acceptance of subscription agreement or date of closing).
+
+22
+
+nature of his or her conduct; and the likelihood that the respondent’s occupation will present
+opportunities for future violations. Gary M. Kornman, Exchange Act Release No. 59403 (Feb.
+13, 2009), 95 SEC Docket 14246, 14255, pet. denied, 592 F.3d 173 (D.C. Cir. 2010). The
+Commission also considers the extent to which the sanction will have a deterrent effect. See
+Schield Mgmt. Co., Exchange Act Release No. 53201 (Jan. 31, 2006), 87 SEC Docket 848, 862
+& n.46 (citations omitted). The Commission’s inquiry into the appropriate sanction to protect
+the public interest is a flexible one and no one factor is dispositive. See Gary M. Kornman, 95
+SEC Docket at 14255. 31
+i.
+
+Doxey
+
+The public interest factors weigh in favor of a robust sanction against Doxey. He
+violated both the Antifraud Provisions and Registration Requirements numerous times in 2008
+and 2009. See Div. Ex. 28; supra § III. Doxey or the company that he controlled made profits of
+over $57,000 because of this wrongful conduct. See Div. Ex. 28 at 2. By knowingly authorizing
+the distribution of falsehoods and twisting the facts of PureH20’s true state, Doxey “violated
+bedrock antifraud principles that apply throughout the securities industry, including the
+philosophy of full disclosure of accurate and non-misleading information to investors.” Ross
+Mandell, Exchange Act Release No. 71668, 2014 SEC LEXIS 849, at *15 (Mar. 7, 2014)
+(internal quotation marks omitted). Although his ill-gotten gains are relatively small, Doxey’s
+conduct was recurrent and otherwise egregious.
+Doxey’s level of scienter was high. As discussed above at § III(A)(iii), Doxey released
+false and misleading information, with an intent to defraud, through the distribution of the Six
+Press Releases. He filed a Form D which claimed exemptions that he knew were unsupported by
+the Letters, and which he knew did not apply to sales to Daniels. 32 See, e.g., Div. Ex. 7 at 143 &
+154 (Doxey expected Observation Capital to act in an underwriting role by raising capital for
+PureH20).
+Doxey has shown no recognition of the wrongfulness of his conduct. Although during
+investigative testimony he acknowledged that he was careless in preparing press releases, he
+insists that he has done nothing wrong and that Felkner and Daniels, among others, should be
+blamed. Doxey Answer at 7, 14; Summary at 3, 6-8; Div. Ex. 7 at 198. He diverts blame
+through confusing accounts of “frauds” of which he was allegedly a victim and the “stress” he
+experienced managing PureH20. Doxey Answer at 7, 9, 12; Summary at 3, 6-8; Div. Ex. 7 at
+198. Despite the proven falsity of the January 29, 2009, Press Release, in his Answer he
+31
+
+Other appropriate factors to determining a sanction include: the age of the violation, Marshall
+E. Melton, 56 S.E.C. 695, 698 (2003); the degree of harm to investors and the marketplace
+resulting from the violation, id; and the combination of sanctions against the respondent, KPMG
+Peat Marwick LLP, 54 S.E.C. 1135, 1185 (2001), recon. denied, 55 S.E.C. 1, pet. denied, 289
+F.3d 109 (D.C. Cir. 2002).
+32
+
+Keihner passed away before 2012, and never gave investigative testimony in the Division’s
+investigation that led to this proceeding. Div. Exs. 7 at 28, 156; 8 at 31.
+
+23
+
+describes it as accurate, stating, “[It] tells the investors who are watching closely our progress,
+and know exactly where we are at and where we are intending to go.” Doxey Answer at 9. He
+contends the failure to disclose PureH20’s lack of resources was not a material omission, relying
+on the January 29, 2009, Press Release’s representation of intended funding through Chastain &
+Etchesen – a representation which was itself little more than wishful thinking. Summary at 7;
+Div. Ex. 7 at 183.
+Doxey also has not provided any assurances that he will not commit wrongful conduct in
+the future. Indeed, he has indicated an intention to remain in the same business, highlighting his
+commitment to start-up companies and entrepreneurship, and stating that PureH20 “intends to go
+back to manufacturing and selling our Iodine disinfection systems out of another facility.”
+Doxey Answer at 3-5; Summary at 5. Likewise, he will have the opportunity to commit similar
+wrongful acts in the future.
+ii.
+
+Daniels
+
+The public interest factors support a less severe sanction against Daniels. Daniels’
+conduct was recurrent, in that he sold unregistered shares of PureH20 stock to the investing
+public numerous times. Div. Exs. 28 at 1; 32-33. Also, Daniels was formerly a registered
+representative, and has expressed interest in working again in the securities industry, particularly
+in connection with investments in small companies. Daniels Answer; Div. Ex. 31; Farney Decl.
+at 5. On the other hand, he made a profit of only about $16,000 by selling shares, where the
+illegality was merely that they were unregistered; overall, I do not consider this egregious. 33 See
+Div. Exs. 28, 32. There is no evidence Daniels acted with scienter, a fact highly relevant in
+determining the remedy. See Steadman, 603 F.2d at 1140. He now sincerely regrets selling
+unregistered shares. Daniels Answer. His regret is some indication that he is unlikely to repeat
+such conduct in the future, and demonstrates a recognition of his wrongful conduct.
+C. Cease-and-Desist
+Securities Act Section 8A and Exchange Act Section 21C provide that the Commission
+may order a person found to be violating or to have violated a provision of the Securities or
+33
+
+Daniels’ actions are considerably less appalling than those of other sellers of unregistered
+securities whose conduct has been previously deemed egregious. See Charles F. Kirby,
+Securities Act Release No. 8174 (Jan. 9, 2003), 79 SEC Docket 1081, 1105 (actions facilitating
+distribution of unregistered securities worth over a million dollars into market were egregious),
+pet. denied sub nom. Geiger v. SEC, 363 F.3d 481 (D.C. Cir. 2004); Douglas W. Osborne, Initial
+Decision Release No. 114 (Aug. 18, 1997), 65 SEC Docket 603, 611 (offering and sale of
+unregistered securities over two years was egregious and respondent “willfully participated in a
+systemic, organized fraud”); Benjamin G. Sprecher, Initial Decision Release No. 86 (Mar. 11,
+1996), 61 SEC Docket 1476, 1483-84 (conduct was egregious where unregistered sales were
+conspiratorial and criminal).
+
+24
+
+Exchange Act to cease and desist from such violations. 15 U.S.C. §§ 77h-1, 78u-3(a). While
+some likelihood of future violation must be present, the required showing is “significantly less
+than that required for an injunction.” KPMG Peat Marwick LLP, 54 S.E.C. 1135, 1191 (2001),
+recon. denied, 55 S.E.C. 1, pet. denied, 289 F.3d 109 (D.C. Cir. 2002). Absent evidence to the
+contrary, a single past violation ordinarily suffices to establish a risk of future violations. Id. In
+evaluating the propriety of a cease-and-desist order, the Commission considers the Steadman
+factors, as well as the recency of the violation, the resulting harm to investors in the marketplace,
+and the effect of other sanctions. Id. at 1192.
+As previously noted, the Steadman factors support a robust sanction against Doxey and a
+lesser sanction against Daniels. However, as to a cease-and-desist order, I place particular
+weight on Doxey’s and Daniels’ intended future presence in, or interaction with, the securities
+industry, and the fact that both Respondents will have some opportunity to repeat their
+violations. I conclude that it is necessary and appropriate to order Doxey to cease and desist
+from violations of Securities Act Sections 5(a), (c), and 17(a) and Exchange Act Section 10(b)
+and its Rule 10b-5, and to order Daniels to cease and desist from violations of Securities Act
+Section 5(a) and (c).
+D. Disgorgement
+Securities Act Section 8A(e) authorizes disgorgement of ill-gotten gains, including
+reasonable interest, in cease-and-desist proceedings. 15 U.S.C. § 77h-1(e). Disgorgement is an
+equitable remedy, imposed to force a defendant to give up the amount by which he was unjustly
+enriched. SEC v. Contorinis, 743 F.3d 296, 301 (2d Cir. 2014) (internal quotation omitted).
+Disgorgement does not serve a punitive function, but is designed to force wrongdoers to return
+the fruits of illegal conduct. Id.; see also Dolphin and Bradbury, Inc., Securities Act Release No.
+8721, 88 SEC Docket 1298, 1321 n.80 (July 13, 2006), pet. denied, 512 F.3d 634 (D.C. Cir.
+2008). The public interest factors all weigh in favor of ordering Doxey to disgorge his profits.
+Although the public interest factors are not so one-sided as to Daniels, they do weigh in favor of
+disgorgement.
+The Division seeks from Doxey disgorgement of $57,654, representing the amount
+Daniels paid Doxey for PureH20 shares; and from Daniels $73,900.46, representing Daniels’
+proceeds from his sale of the acquired shares. Mot. at 29; see Div. Exs. 27-28, 32. It does not
+specify a specific amount of prejudgment interest sought against each Respondent. The
+Commission is only entitled to “a reasonable approximation of profits causally connected to the
+violation.” SEC v. First City Fin. Corp., 890 F.2d 1215, 1231 (D.C. Cir. 1989) (emphasis
+added); see also United States v. Contorinis, 692 F.3d 136, 146 (2d Cir. 2012) (“Criminal
+forfeiture focuses on the disgorgement by a defendant of his ‘ill-gotten gains.’ Thus, the
+calculation of a forfeiture amount . . . is usually based on the defendant’s actual gain.”) (internal
+citations omitted); SEC v. Video Without Boundaries, Inc., No. 08-cv-61517, 2010 WL
+5790684, at *5 (S.D. Fla. Dec. 8, 2010) (court declined to follow proposition that court should
+not deduct business expenses and losses in determining disgorgement amount; “disgorgement is
+a tool used to rid a defendant of total gains” (emphasis in original)). Since Daniels paid $57,654
+to Doxey, by selling shares for $73,900.46, Daniels realized a “profit” of only $16,246.46.
+
+25
+
+Accordingly, I will order disgorgement of $57,654 against Doxey and of $16,246.46 against
+Daniels, plus prejudgment interest on those amounts calculated from August 1, 2009, and from
+June 1, 2009, respectively, to the last day of the month preceding the month in which
+disgorgement is made, consistent with 17 C.F.R. § 201.600. See Div. Exs. 28 at 2 (Observation
+Capital’s payments to PureH20 ended in July 2009); 32 (Observation Capital’s sales of PureH20
+shares concluded in May 2009); see also SEC v. Universal Express, Inc., 646 F. Supp. 2d 552,
+566 (S.D.N.Y. 2009), aff’d, 438 F. App’x 23 (2d Cir. 2011).
+E. Civil Penalties
+A three-tier system establishes the maximum civil money penalty that may be imposed
+for each violation found if in the public interest. Where a respondent’s misconduct involved
+fraud, deceit, or deliberate or reckless disregard of a regulatory requirement and resulted in
+“substantial losses or created a significant risk of substantial losses to other persons” or
+“substantial pecuniary gain” to the respondent, the Commission may impose third-tier penalties.
+Second-tier penalties may be imposed if the misconduct involved fraud, deceit, or deliberate or
+reckless disregard of a regulatory requirement. First-tier penalties may be imposed simply for
+each violation. See 15 U.S.C. §§ 77h-1(g), 78u-2(b).
+Under these definitions, neither Doxey nor Daniels should be sanctioned with third-tier
+penalties. The Division has provided no evidence that either Respondent’s conduct caused
+“substantial” losses or created the risk of such losses, nor is each Respondent’s profit from his
+misconduct “substantial.” It could, however, be appropriate that each Respondent be sanctioned
+with second-tier penalties, if doing so would be in the public interest, in that each Respondent
+acted with at least reckless disregard of the requirements of the securities statutes.
+i.
+
+Doxey
+
+The Division seeks civil penalties against Doxey under both the Securities Act and the
+Exchange Act. Mot. at 30. In determining whether civil penalties under the Exchange Act are in
+the public interest, the following are considerations: whether the violation involved fraud, deceit,
+manipulation, or deliberate or reckless disregard of a regulatory requirement; the resulting harm
+to other persons; any unjust enrichment and prior restitution; the respondent’s prior regulatory
+record; the need to deter the respondent and other persons; and such other matters as justice may
+require. 15 U.S.C. § 78u-2(c). Some of these factors may not be relevant in a given proceeding,
+and each factor need not be given equal weight. Robert G. Weeks, Initial Decision Release No.
+199 (Feb. 4, 2002), 76 SEC Docket 2609, 2671. These factors are not discussed in the Securities
+Act’s civil penalties provision. See 15 U.S.C. § 77h-1(g). Under both Acts, evidence of “ability
+to pay” may be considered in assessing the public interest. 15 U.S.C. §§ 77h-1(g)(3), 78u-2(d).
+I am not convinced that a civil penalty is needed to deter Doxey, in light of the specific
+facts of this case and giving particular weight to the Exchange Act’s final two enumerated
+public-interest factors – deterrence and “other matters as justice may require” – as well as to the
+ability to pay factor. The Steadman factors do weigh in favor of imposition of civil penalties
+against Doxey, and a civil penalty of any amount will have a deterrent effect on Doxey and on
+
+26
+
+other persons. However, Doxey lacks a prior regulatory record, is in a dismal financial situation,
+and is in poor physical and mental health. The Division has provided no evidence that Doxey
+has a tarnished regulatory history prior to this proceeding, while Doxey has provided evidence –
+corroborated by evidence from elsewhere in the record – that he would not be able to pay even a
+minimal civil penalty. Doxey Answer at 9-10; Summary at 7-8; see also Div. Exs. 7 at 104-06; 8
+at 123-24. This is relevant to the ability to pay factors under the Securities and Exchange Acts,
+even though Doxey did not file a Disclosure of Assets and Financial Information (a.k.a. Form DA), because Doxey is pro se and the Division has sought to resolve this proceeding by summary
+disposition. See 17 C.F.R. § 201.630(b). PureH20 appears to be Doxey’s only source of
+income, and Doxey has had physical and mental health problems, many serious, in the recent
+past. Doxey Answer at 10; Summary at 7-8; Tr. 5 34; Div. Exs. 7 at 20, 106; 8 at 119-21. There
+is even some evidence that Doxey may have included materially false or misleading information
+in PureH20 press releases at least in part because of irrational responses to mental or emotional
+stress. See Div. Exs. 6 at 72; 7 at 150, 182, 198, 226.
+In these circumstances, the public interest does not support civil penalties as to Doxey.
+See Peak Wealth Opportunities, LLC, Exchange Act Release No. 69036 (Mar. 5, 2013), 105
+SEC Docket 64829, 64840 (respondent’s health weighed against civil penalty where health
+appeared to contribute to violative conduct). Disgorgement, discussed above, and bars,
+discussed below, are sufficient to deter such securities violations.
+ii.
+
+Daniels
+
+The Division seeks penalties against Daniels only under the Securities Act. 35 Mot. at 30.
+Daniels’ actions did not involve fraud, deceit, or recklessness, his unjust enrichment was
+relatively small, and he apparently has a clean regulatory record. Although there was harm to
+other persons and there is a need to deter Daniels and others, in the totality of the circumstances
+a civil penalty would be overkill. This is particularly the case because disgorgement and a ceaseand-desist order will have a deterrent effect on Daniels and others. I have also considered the
+fact that Daniels was misled by the press releases Doxey published about PureH20 and by what
+Doxey told him about PureH20. See Daniels Answer; Div. Ex. 25 at 40, 47, 52-53, 73-74, 13637. That is, there is a possibility that if Daniels had known the truth, instead of the illusions
+Doxey presented, Daniels never would have purchased PureH20 stock, or violated Section 5. No
+34
+
+During the prehearing conference, I asked Doxey whether he was feeling alright, and he
+answered, “I had a triple bypass, five stents. I’m a diabetic. I take 10 meds and two needles a
+day, and I’m right now losing my voice.” Tr. 5.
+35
+
+While the OIP contemplates the Division’s seeking penalties against Daniels under Exchange
+Act Section 21B(a), the Motion only seeks penalties under Securities Act Section 8A(g), which
+the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank)
+introduced after Daniels’ misconduct ended. OIP at 5; Mot. at 30. I note, however, that the
+Commission has the authority to impose civil penalties on Daniels pursuant to Exchange Act
+Section 21B(a)(1), which was in existence prior to Dodd-Frank, unlike Securities Act Section
+8A(g) and Exchange Act Section 21B(a)(2). Accordingly, there is no retroactivity issue.
+
+27
+
+civil penalty against Daniels is warranted. I note that I am unaware of authority preventing me
+from applying the “other matters as justice may require” factor where civil penalties are sought
+only under the Securities Act. See Johnny Clifton, Securities Act Release No. 9417, 2013 SEC
+LEXIS 2022, at *62 (July 12, 2013) (Commission opinion not differentiating civil penalties
+analysis under Securities and Exchange Acts), recon. denied Securities Act Release No. 9486,
+2013 SEC LEXIS 3712 (Nov. 25, 2013).
+F. Bars
+i.
+
+Officer and Director Bar
+
+Exchange Act Section 21C(f) authorizes a bar, against a respondent shown to have
+violated Exchange Act Section 10(b), from acting as an officer or director of any issuer with a
+class of securities registered pursuant to Exchange Act Section 12 (registered issuer) or that is
+required to file reports pursuant to Exchange Act Section 15(d) (filer). The bar may be
+permanent or temporary, and may be conditional or unconditional. 15 U.S.C. § 78u-3(f). Such a
+bar can be imposed only “if the conduct of that person demonstrates unfitness to serve as an
+officer or director of any such issuer.” Id.
+The Division’s approach of seeking such a sanction in an administrative proceeding
+before an administrative law judge is somewhat novel. In 1990, federal courts’ authority to
+impose officer and director bars was codified in the Securities Enforcement Remedies and Penny
+Stock Reform Act (Remedies Act). Remedies Act, Pub. L. No. 101-429, §§ 101, 201 (1990)
+(codified at 15 U.S.C. §§ 77t(e), 78u(d)(2)); see SEC v. First Pacific Bancorp, 142 F.3d 1186,
+1193-94 & n.8 (9th Cir. 1998). Then in 2002, the Sarbanes-Oxley Act (Sarbanes-Oxley)
+extended authority over imposition of officer and director bars to administrative proceedings. 36
+Sarbanes-Oxley, Pub. L. No. 107-204, § 1105 (2002) (codified at 15 U.S.C. §§ 77h-1(f), 78u3(f)). Despite the nearly twelve years’ passage of time since this expansion of authority, I have
+identified no proceeding to date where an administrative law judge actually ruled on a request for
+an officer and director bar. 37
+36
+
+Sarbanes-Oxley also generally lowered the burden in seeking an officer and director bar from
+showing “substantial unfitness” to merely showing “unfitness.” Sarbanes-Oxley § 305, 15
+U.S.C. §§ 77t(e), 78u(d)(2); see SEC v. Bankosky, 716 F.3d 45, 48 (2d Cir. 2013); SEC v.
+Gupta, 11-cv-7566, 2013 WL 3784138, at *3 (S.D.N.Y. July 17, 2013).
+37
+
+There are, however, a number of examples of administrative proceedings resolved through
+settlement where respondents have accepted officer and director bars under Exchange Act
+Section 21C(f). See, e.g., John A. Stadler, Securities Act Release No. 9556, 2014 SEC LEXIS
+919 (Mar. 11, 2014); Jeffrey Q. Johnson, CPA, Exchange Act Release No. 64278 (Apr. 8, 2011),
+100 SEC Docket 39984; Robert John Hipple, Exchange Act Release No. 61688 (Mar. 11, 2010),
+97 SEC Docket 26243; Peter Y. Atkinson, Esq., Exchange Act Release No. 60806 (Oct. 9,
+2009), 96 SEC Docket 21348. An administrative proceeding brought against Rajat Gupta asked
+for officer and director bars under both the Securities and Exchange Acts, but the Division
+ultimately pursued its claims in federal court. See Rajat K. Gupta, Securities Act Release No.
+9249 (Aug. 4, 2011), 101 SEC Docket 44355; Rajat K. Gupta, Securities Act Release No. 9192
+
+28
+
+While there is precedent supporting that the public interest factors set forth in Steadman
+are applicable to determining whether an officer and director bar is appropriate, many courts
+consider the six “Patel factors” in assessing whether a party is unfit to act as an officer or director
+of a registered issuer or filer. Compare SEC v. Alliance Transcription Servs., Inc., 08-cv-1464,
+2010 WL 483792, at *2 (D. Ariz. Feb. 8, 2010); SEC v. Abellan, 674 F. Supp. 2d 1213, 1223
+(W.D. Wash. 2009); with SEC v. Bakosky, 716 F.3d 45, 47-49 (2d Cir. 2013); SEC v. Metcalf,
+11-cv-493, 2012 WL 5519358, at *4 (S.D.N.Y. Nov. 13, 2012); SEC v. Levine, 517 F. Supp. 2d
+121, 144-45 (D.D.C. 2007), aff’d, 279 F. App’x 6 (D.C. Cir. 2008). These factors, which
+significantly overlap with the factors articulated in Steadman and which similarly constitute a
+non-exclusive list of factors that may be considered, are: (1) the egregiousness of the underlying
+securities law violation; (2) the defendant’s recidivism; (3) the defendant’s role or position in the
+fraud; (4) the defendant’s degree of scienter; (5) the defendant’s economic stake in the violation;
+and (6) the likelihood that misconduct will recur. Bankosky, 716 F.3d at 48; SEC v. Patel, 61
+F.3d 137, 141 (2d Cir. 1995)
+In assessing whether an officer and director bar against Doxey is appropriate, I consider
+only the January 2009, March 2009, April 2009, and May 2009 Press Releases, and the sales of
+PureH20 stock to Observation Capital between January 6, 2009, and May 21, 2009. See supra §
+IV(A). In an abundance of caution, I rely on both the Steadman and Patel factors in assessing the
+propriety of sanctioning Doxey with such a bar. As discussed above, the Steadman factors
+support imposing sanctions against Doxey. Those Patel factors that are distinct from the
+Steadman factors – the third and fifth factors – also support sanctioning Doxey. Doxey held a
+central role in violating the Antifraud Provisions, and thus the third Patel factor weighs in favor
+of an officer and director bar. Because Doxey’s material misrepresentations and omissions
+positively affected PureH20’s stock price and trading volume, Doxey had an economic stake in
+his violations of the Antifraud Provisions, making the fifth Patel factor also weigh in favor of an
+officer and director bar. For these reasons, it is appropriate and in the public interest to impose a
+permanent officer and director bar on Doxey.
+
+(Mar. 1, 2011), 100 SEC Docket 38305. There are also pending administrative proceedings
+seeking officer and director bars under the Exchange Act. See China Ruitai Int’l Holdings Co.,
+Exchange Act Release No. 70579, 2013 SEC LEXIS 3048, at *16-17 (Sept. 30, 2013); John
+Thomas Capital Mgmt. Grp. LLC, d/b/a Patriot28 LLC, Securities Act Release No. 9396 (Mar.
+22, 2013), 105 SEC Docket 65812, 65827.
+
+29
+
+ii.
+
+Penny Stock Bars
+
+Exchange Act Section 15(b) authorizes the imposition of a penny stock bar against a
+respondent who, while participating in an offering of penny stock, willfully violated any
+provision of the Securities Act or its rules. See 15 U.S.C. §§ 78o(b)(4)(D), (b)(6)(A). PureH20
+is a penny stock, and was a penny stock in 2008 and 2009. See 17 C.F.R. § 240.3a51-1; Doxey
+Answer at 3. 38 Both Respondents willfully violated provisions of the Securities Act in
+connection with an offering of PureH20 stock. See supra § III(B). The public interest factors set
+forth in Steadman are applicable to determining whether a penny stock bar is appropriate. See
+Metcalf, 2012 WL 5519358, at *4; Vladlen “Larry” Vindman, Securities Act Release No. 8679
+(Apr. 14, 2006), 87 SEC Docket 2626, 2646.
+In assessing whether a penny stock bar against Doxey is appropriate, I consider only the
+January 2009, March 2009, April 2009, and May 2009 Press Releases, and the sales of PureH20
+stock to Observation Capital between January 6, 2009, and May 21, 2009. See supra § IV(A).
+For the same reasons that an officer and director bar is imposed against Doxey, it is in the public
+interest to impose a permanent penny stock bar against Doxey.
+In assessing whether a penny stock bar against Daniels is appropriate, I consider only
+Daniels’ sales of PureH20 shares of stock between November 24, 2008, and May 21, 2009. See
+supra § IV(A). As discussed above, only some public interest factors weigh in favor of imposing
+a penny stock bar against Daniels, and the factors suggest that Daniels should be sanctioned less
+harshly than Doxey. However, because Daniels is interested in continuing his involvement in the
+securities industry and in small companies, and because his conduct in connection with PureH20
+exhibits a surprisingly poor understanding of the Securities Act and its rules and regulations for
+someone who was formerly a registered representative, a bar is plainly called for. I conclude it is
+in the public interest to impose a five-year penny stock bar against Daniels.
+V. ORDER
+IT IS ORDERED, pursuant to Rule 250 of the Commission’s Rules of Practice, that the
+Division of Enforcement’s Motion for Summary Disposition is GRANTED.
+It is FURTHER ORDERED, pursuant to Section 8A of the Securities Act of 1933 and
+Section 21C of the Securities Exchange Act of 1934, that Respondent Joseph P. Doxey shall
+CEASE AND DESIST from committing or causing any violations or future violations of
+38
+
+Also, the Commission’s website (http://www.sec.gov/answers/penny.htm, last visited Apr. 23,
+2014) explains:
+The term “penny stock” generally refers to a security issued by a very small company
+that trades at less than $5 per share. Penny stocks generally are quoted over-the-counter,
+. . . ; penny stocks may, however, also trade on securities exchanges, including foreign
+securities exchanges. In addition, the definition of penny stock can include the securities
+of certain private companies with no active trading market.
+
+30
+
+Sections 5(a) and (c) and 17(a)(1), (2), and (3) of the Securities Act of 1933, Section 10(b) of the
+Securities Exchange Act of 1934, and Rule 10b-5 of the Securities Exchange Act of 1934.
+It is FURTHER ORDERED, pursuant to Section 8A of the Securities Act of 1933, that
+Respondent William J. Daniels shall CEASE AND DESIST from committing or causing any
+violations or future violations of Sections 5(a) and (c) of the Securities Act of 1933.
+It is FURTHER ORDERED, pursuant to Sections 15(b) and 21C of the Securities
+Exchange Act of 1934, that Respondent Joseph P. Doxey is permanently BARRED from acting
+as an officer or director of any issuer that has a class of securities registered with the
+Commission pursuant to Section 12 of the Securities Exchange Act of 1934 or that is required to
+file reports pursuant to Section 15(d) of the Securities Exchange Act of 1934, and is permanently
+BARRED from participating in an offering of penny stock, including acting as a promoter,
+finder, consultant, agent, or other person who engages in activities with a broker, dealer, or issuer
+for purposes of the issuance or trading in any penny stock, or inducing or attempting to induce
+the purchase or sale of any penny stock.
+It is FURTHER ORDERED, pursuant to Section 15(b) of the Securities Exchange Act of
+1934, that Respondent William J. Daniels is BARRED from participating in an offering of penny
+stock for five years, including acting as a promoter, finder, consultant, agent, or other person
+who engages in activities with a broker, dealer, or issuer for purposes of the issuance or trading
+in any penny stock, or inducing or attempting to induce the purchase or sale of any penny stock.
+It is FURTHER ORDERED, pursuant to Section 8A of the Securities Act of 1933, that
+Respondent Joseph P. Doxey shall disgorge $57,654 plus prejudgment interest on that amount,
+calculated from August 1, 2009, to the last day of the month preceding the month in which
+disgorgement is made, consistent with 17 C.F.R. § 201.600, and Respondent William J. Daniels
+shall disgorge $16,246.46 plus prejudgment interest on that amount, calculated from June 1,
+2009, to the last day of the month preceding the month in which disgorgement is made,
+consistent with 17 C.F.R. § 201.600.
+This Initial Decision shall become effective in accordance with and subject to the
+provisions of Rule 360 of the Commission’s Rules of Practice, 17 C.F.R. § 201.360. Pursuant to
+that Rule, a party may file a petition for review of this Initial Decision within twenty-one days
+after service of the Initial Decision. A party may also file a motion to correct a manifest error of
+fact within ten days of the Initial Decision, pursuant to Rule 111 of the Commission’s Rules of
+Practice, 17 C.F.R. § 201.111. If a motion to correct a manifest error of fact is filed by a party,
+then that party shall have twenty-one days to file a petition for review from the date of the
+undersigned’s order resolving such motion to correct manifest error of fact. The Initial Decision
+will not become final until the Commission enters an order of finality. The Commission will
+enter an order of finality unless a party files a petition for review or motion to correct manifest
+error of fact or the Commission determines on its own initiative to review the Initial Decision as
+to a party. If any of these events occur, the Initial Decision shall not become final as to that
+party.
+
+31
+
+Disgorgement payments shall be made on the first day following the day this Initial
+Decision becomes final. See 17 C.F.R. § 201.601. Payment shall be made by certified check,
+United States postal money order, bank cashier’s check, wire transfer, or bank money order,
+payable to the Securities and Exchange Commission. See 17 C.F.R. § 201.601. The payment,
+and a cover letter identifying Respondent and Administrative Proceeding No. 3-15619, shall be
+delivered to: Enterprises Services Center, Accounts Receivable Branch, HQ Bldg., Room 181,
+AMZ-341, 6500 South MacArthur Blvd., Oklahoma City, OK 73169. A copy of the cover letter
+and instrument of payment shall be sent to the Commission’s Division of Enforcement, directed to
+the attention of counsel of record.
+
+_______________________________
+Cameron Elliot
+Administrative Law Judge
+
+32
+
+

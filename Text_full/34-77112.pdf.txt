@@ -1,0 +1,2316 @@
+SECURITIES AND EXCHANGE COMMISSION
+(Release No. 34-77112; File No. SR-OCC-2015-02)
+February 11, 2016
+Self-Regulatory Organizations; The Options Clearing Corporation; Order Setting Aside Action
+by Delegated Authority, Approving Proposed Rule Change Concerning The Options Clearing
+Corporation’s Capital Plan and Denying Motions
+I.
+
+Introduction
+The Options Clearing Corporation (“OCC”) is a clearing agency registered with the
+
+Securities and Exchange Commission (“Commission”) and is the only clearing agency for
+standardized U.S. options listed on U.S. national securities exchanges. Today, listed options are
+traded on twelve national securities exchanges: five national securities exchanges that are equal
+owners of OCC (“Stockholder Exchanges”)1 and seven national securities exchanges that have
+no ownership stake in OCC (“Non-Stockholder Exchanges”).2 OCC also serves other markets,
+including those trading commodity futures, commodity options, and security futures,3 the
+securities lending market and the OTC options market. In each of these markets, OCC provides
+clearing members4 with central counterparty (“CCP”) clearing services and performs critical
+
+1
+
+The Stockholder Exchanges are: Chicago Board Options Exchange, Incorporated;
+International Securities Exchange, LLC; NASDAQ OMX PHLX, LLC; NYSE MKT
+LLC; and NYSE Arca, Inc. See Exchange Act Release No. 74136 (January 26, 2015), 80
+FR 5171 (January 30, 2015) (SR-OCC-2015-02) (“Notice”).
+
+2
+
+Under OCC’s By-Laws, exchanges other than Stockholder Exchanges may participate in
+OCC’s services subject to meeting certain qualifications. See OCC By-Laws, Article
+VIIB (Non-Equity Exchanges).
+
+3
+
+OCC also is registered with the Commodity Futures Trading Commission as a derivatives
+clearing organization regulated to provide clearing services for four futures exchanges.
+
+4
+
+OCC has over 100 members which include large domestic and international
+broker-dealers and futures commission merchants. See OCC’s 2014 Annual Report
+(available at: http://www.optionsclearing.com/components/docs/about/annual1
+
+functions in the clearance and settlement process.5 OCC’s services increase the efficiency and
+speed of options trading and settlement as well as reduce members’ operational expenses and
+counterparty credit risk.
+OCC’s role as the CCP for all listed options contracts in the U.S. makes it an integral part
+of the national system for clearance and settlement, and its failure or service disruption could
+have cumulative negative effects on the U.S. options and futures markets, financial institutions,
+and the broader financial system. As such, OCC was designated by the Financial Stability
+Oversight Council as a systemically important financial market utility (“SIFMU”) in 2012.6
+In the context of a number of developments in the financial markets, OCC’s Board of
+Directors (“Board”) decided that OCC was significantly undercapitalized, and, in response,
+proposed and implemented an expedited plan to substantially increase OCC’s capitalization (the
+“Capital Plan”), and, given OCC’s critical clearing functions and its systemic importance, the
+
+reports/occ_2014_annual_report.pdf), and OCC’s website, “What is OCC?” (available at:
+https://www.optionsclearing.com/about/corporate-information/what-is-occ.jsp).
+5
+
+For instance, OCC provides CCP services for OTC options, and for two securities
+lending market structures, OCC’s OTC Stock Loan Program and AQS, an automated
+marketplace for securities lending and borrowing operated by Automated Equity Finance
+Markets, Inc. OCC currently participates in cross-margin programs with the CME and
+ICE and offers an internal cross-margin program for products regulated by the SEC and
+CFTC. See OCC’s website, OCC Fact Sheet (available at:
+http://www.optionsclearing.com/components/docs/about/occ-factsheet.pdf), “What is
+OCC?,” (available at: http://www.optionsclearing.com/about/corporate-information/whatis-occ.jsp.) and OCC’s website, “Cross Margin Programs” (available at:
+http://www.optionsclearing.com/clearing/clearing-services/cross-margin.jsp.).
+
+6
+
+See Financial Stability Oversight Council (“FSOC”) 2012 Annual Report, Appendix A,
+(available at http://www.treasury.gov/initiatives/fsoc/Documents/2012%20Appendix%20
+A%20Designation%20of%20Systemically%20Important%20Market%20Utilities.pdf).
+
+2
+
+Commission agrees that having OCC increase its capitalization is appropriate and in the public
+interest.7
+Procedural Background
+OCC filed the Capital Plan as an advance notice, SR-OCC-2014-813, under Section
+806(e)(1) of the Payment, Clearing, and Settlement Supervision Act of 2010 (“Payment,
+Clearing and Settlement Supervision Act”)8 on December 29, 2014. OCC filed the proposed rule
+change implementing the Capital Plan, SR-OCC-2015-02, with the Commission pursuant to
+Section 19(b)(1) of the Securities Exchange Act of 1934 (“Exchange Act” or “Act”)9 and Rule
+19b-4 thereunder10 on January 14, 2015. The proposed rule change was published for comment
+in the Federal Register on January 30, 2015.11 The Commission received seventeen comment
+letters on OCC’s proposal from twelve commenters, including OCC.12 The Commission issued
+
+7
+
+According to OCC, as of December 31, 2013, at the time it developed the Capital Plan,
+OCC had total shareholders’ equity of about $25 million, which represents approximately
+6 weeks of operating expenses. Based on internal operational risk scenarios and loss
+modeling, OCC quantified its operational risk at $226 million and pension risk at $21
+million. According to OCC, as of August 31, 2015, in the absence of the $150 million
+capital contribution made pursuant to the Capital Plan, OCC’s adjusted shareholder
+equity would be about $149 million and OCC’s total capital resources would be less than
+$150 million. See Notice at 5172-73; OCC’s Written Statement in Support of Affirming
+March 6, 2015 Order Approving Capital Plan (October 7, 2015) (“OCC Support
+Statement”).
+
+8
+
+12 U.S.C. 5465(e)(1). On February 26, 2015, the Commission issued a notice of no
+objection to the advance notice filing. See Exchange Act Release No. 74387 (February
+26, 2015), 80 FR 12215 (March 6, 2015) (SR-OCC-2014-813).
+
+9
+
+15 U.S.C. 78s(b)(1).
+
+10
+
+17 CFR 240.19b-4.
+
+11
+
+See Notice.
+
+12
+
+See Letter from Eric Swanson, General Counsel & Secretary, BATS Global Markets, Inc.
+(“BATS”) (February 19, 2015) (“BATS Letter I”); Letter from Tony McCormick, Chief
+3
+
+an order on March 6, 2015, through delegated authority, approving the proposal (“Delegated
+Order”).13
+The Delegated Order describes the elements of the proposed Capital Plan, OCC’s
+financial condition, and the basis for OCC’s projected capital requirement. The Delegated Order
+Executive Officer, BOX Options Exchange, (“BOX”) (February 19, 2015) (“BOX Letter
+I”); Letter from Howard L. Kramer on behalf of Belvedere Trading, CTC Trading Group,
+IMC Financial Markets, Integral Derivatives, Susquehanna Investment Group, and
+Wolverine Trading (February 20, 2015) (“MM Letter”); Letter from Ellen Greene,
+Managing Director, Financial Services Operations, SIFMA (February 20, 2015)
+(“SIFMA Letter”); Letter from James E. Brown, General Counsel, OCC (February 23,
+2015) (responding to BATS Letter and BOX Letter) (“OCC Letter I”); Letter from James
+E. Brown, General Counsel, OCC (February 23, 2015) (responding to MM Letter) (“OCC
+Letter II”); Letter from Barbara J. Comly, Executive Vice President, General Counsel &
+Corporate Secretary, Miami International Securities Exchange, LLC, (“MIAX”)
+(February 24, 2015) (“MIAX Letter I”); Letter from James E. Brown, General Counsel,
+OCC (February 24, 2015) (responding to SIFMA Letter) (“OCC Letter III”); Letter from
+John A. McCarthy, General Counsel, KCG Holdings, Inc., (“KCG”) (February 26, 2015)
+(“KCG Letter I”); Letter from Eric Swanson, General Counsel and Secretary, BATS
+(February 27, 2015) (“BATS Letter II”); Letter from John A. McCarthy, General
+Counsel, KCG (February 27, 2015) (“KCG Letter II”); Letter from Richard J. McDonald,
+Chief Regulatory Counsel, Susquehanna International Group, LLP, (“SIG”) (February
+27, 2015) (“SIG Letter I”); Letter from Barbara J. Comly, Executive Vice President,
+General Counsel & Corporate Secretary, MIAX (March 1, 2015) (“MIAX Letter II”);
+Letter from James E. Brown, General Counsel, OCC (March 2, 2015) (“OCC Letter IV”);
+Letter from Eric Swanson, General Counsel and Secretary, BATS (March 3, 2015)
+(“BATS Letter III”); and Letter from Tony McCormick, Chief Executive Officer, BOX
+(March 3, 2015) (“BOX Letter II”); Letter from Brian Sopinsky, General Counsel, SIG
+(March 4, 2015) (“SIG Letter II”). Since the proposal was filed as both an advance
+notice and proposed rule change, the Commission considered all comments received on
+the proposal, regardless of whether the comments were submitted to the proposed rule
+change or advance notice file. See comments on the advance notice (File No. SR-OCC2014-813), http://www.sec.gov/comments/sr-occ-2014-813/occ2014813.shtml and
+comments on the proposed rule change (File No. SR-OCC-2015-02),
+http://www.sec.gov/comments/sr-occ-2015-02/occ201502.shtml. In its evaluation of the
+proposed rule change, the Commission assessed whether the proposal was consistent with
+the requirements of the Exchange Act and the applicable rules and regulations
+thereunder.
+13
+
+Exchange Act Release No. 74452 (March 6, 2015), 80 FR 13058 (March 12,
+2015) (SR-OCC-2015-02).
+
+4
+
+also discusses and responds to the comments received on the proposed Capital Plan. The
+Delegated Order makes findings that the Capital Plan is consistent with Exchange Act Sections
+17A(b)(3)(A), 17A(b)(3)(F), 17A(b)(3)(D) and 17A(b)(3)(I).14
+In response to the Delegated Order, BATS, BOX, KCG, MIAX, and SIG (collectively
+“Petitioners”) filed notices of intention to petition for review of the Delegated Order, the first of
+which was filed on March 12, 2015.15 The Commission received five petitions for review of the
+Delegated Order (collectively “Petitions for Review” or “Petitions”) from the Petitioners
+between March 16 and March 20, 2015.16 The filing of the first notice of intention to petition for
+review on March 12, 2015 automatically stayed the Delegated Order pursuant to Rule 431(e) of
+the Commission’s Rules of Practice.17 OCC filed a motion to lift the automatic stay on April 2,
+2015.18 The Petitioners filed responses opposing lifting the stay, and OCC filed a reply brief
+supporting its motion to lift the stay.19
+14
+
+See 15 U.S.C. 78q-1(b)(3)(A); 15 U.S.C. 78q-1(b)(3)(F); 15 U.S.C. 78q-1(b)(3)(D); 15
+U.S.C. 78q-1(b)(3)(I).
+
+15
+
+See Letter from Barbara J. Comly, Executive Vice President, General Counsel &
+Corporate Secretary, MIAX (March 12, 2015); Letter from Lisa J. Fall, President, BOX
+(March 13, 2015); Letter from Eric Swanson, General Counsel and Secretary, BATS
+(March 13, 2015); Letter from Brian Sopinsky, General Counsel, SIG (March 13, 2015);
+Letter from John A. McCarthy, General Counsel, KCG (March 13, 2015).
+
+16
+
+See BATS Petition for Review (March 16, 2015) (“BATS Petition”); BOX Petition for
+Review (March 20, 2015) (“BOX Petition”); KCG Petition for Review (March 20, 2015)
+(“KCG Petition”); MIAX Petition for Review (March 20, 2015) (“MIAX Petition”);
+SIG Petition for Review (March 20, 2015) (“SIG Petition”).
+
+17
+
+17 CFR 201.431(e).
+
+18
+
+OCC Motion to Lift Stay (April 2, 2015) (“OCC Stay Motion”).
+
+19
+
+BATS, BOX, MIAX Response to OCC’s Motion to Lift the Stay (April 8, 2015) (“BATS
+Response”); KCG Response to OCC’s Motion to Lift the Stay (April 9, 2015) (“KCG
+Response”); SIG Opposition to OCC’s Motion to Lift the Stay (April 9, 2015) (“SIG
+5
+
+The Commission issued two orders on September 10, 2015. The first order granted the
+Petitions for Review and scheduled the filing of statements either in support of or against the
+Delegated Order (“Review Order”).20 The second order lifted the automatic stay (“Stay
+Order”).21 Shortly thereafter, on September 15, 2015, Petitioners filed a motion to reinstitute the
+automatic stay.22 OCC filed an opposition to the Reinstitution Motion on September 22, 2015,23
+and Petitioners filed a memorandum in further support of the Reinstitution Motion on September
+25, 2015.24 On December 22, 2015, in response to OCC’s announcement of the declaration of
+refunds, dividends, and fee reduction pursuant to the Capital Plan, a commenter filed a letter
+further advocating for reinstitution of the automatic stay.25 On February 5, 2016, Petitioners
+
+Response”); OCC’s Reply Brief in Support of its Motion to Lift the Stay (April 13, 2015)
+(“OCC Stay Brief”).
+20
+
+Exchange Act Release No. 75885 (September 10, 2015), 80 FR 55700
+(September 16, 2015).
+
+21
+
+Exchange Act Release No. 75886 (September 10, 2015), 80 FR 55668
+(September 16, 2015).
+
+22
+
+BATS, BOX, KCG, MIAX, SIG Motion to Reinstitute Automatic Stay (September 15,
+2015) (“Reinstitution Motion”).
+
+23
+
+OCC Brief in Opposition to Motion to Reinstitute Automatic Stay (September 22, 2015)
+(“OCC Reinstitution Response”).
+
+24
+
+Memorandum in Further Support of Motion to Reinstitute Automatic Stay (on behalf of
+BATS, BOX, MIAX, and SIG) (September 25, 2015) (“Memo in Further Support of
+Reinstitution”).
+
+25
+
+Letter from Joseph C. Lombard, Murphy & McGonigle, on behalf of SIG (and together
+with the Petitioners) (December 22, 2015) (“SIG Letter III”). On February 2, 2016, SIG
+requested a telephone call to inquire about the status of the Reinstitution Motion. See Email from Stephen J. Crimmins, on behalf of SIG, to Brent J. Fields on February 2, 2016
+(“SIG E-mail”).
+
+6
+
+filed a motion to expedite the Commission’s ruling on the pending Reinstitution Motion.26 The
+Reinstitution Motion, Expedition Motion, various other motions, and the comments thereto are
+discussed in Section IV below.
+Summary of Findings
+The Commission’s Rules of Practice set forth procedures for reviewing actions made
+pursuant to delegated authority. Pursuant to Rule 431(a) of the Rules of Practice, the
+Commission may affirm, reverse, modify, set aside or remand for further proceedings, in whole
+or in part, the action made pursuant to delegated authority.27 Here, the Commission is setting
+aside the Delegated Order and conducting a de novo review of, and giving careful consideration
+to, the entire record, which includes: OCC’s proposal, all comments received in response to the
+Notice, the Petitions for Review, comments received in response to the Review Order, all
+motions filed, and OCC’s responses thereto.
+In conducting its de novo review, the Commission looks to Section 19(b)(2)(C) of the
+Exchange Act,28 which directs the Commission to approve a proposed rule change of a selfregulatory organization if the Commission finds that the proposed rule change is consistent with
+the requirements of the Exchange Act and the rules and regulations thereunder applicable to such
+self-regulatory organization. After carefully considering the entire record, for the reasons
+discussed throughout this order, the Commission finds that OCC’s proposed rule change is
+consistent with the Exchange Act requirements, including Exchange Act Sections 17A(b)(3)(A),
+26
+
+See BATS, BOX, KCG, MIAX, SIG Motion to Expedite the Commission’s Ruling on the
+Pending Motion to Reinstitute the Automatic Stay (February 5, 2016) (“Expedition
+Motion”).
+
+27
+
+17 CFR 201.431(a).
+
+28
+
+15 U.S.C. 78s(b)(2)(C).
+
+7
+
+17A(b)(3)(D), 17A(b)(3)(F), and 17A(b)(3)(I)29, and the rules and regulations thereunder, that
+are applicable to OCC.30 Accordingly, the Commission is approving the proposed rule change
+implementing the Capital Plan. In approving this proposed rule change, the Commission also
+has considered the impact of the Capital Plan on efficiency, competition, and capital formation
+under Section 3(f) of the Exchange Act.31
+II.
+
+Description of the Proposal32
+OCC proposes to amend its rules to implement the Capital Plan.33 According to OCC,
+
+the Capital Plan is designed to support OCC’s functions and continuity of its operations as a
+SIFMU. As proposed by OCC, the Capital Plan is designed to address business, operational, and
+pension risks. It is not designed to address counterparty risk, on-balance sheet credit risk, or
+market risk, all of which are addressed through margin, clearing fund deposits, and other means.
+OCC represents that it reviewed a range of risk scenarios and modeled potential losses
+arising from business, operational, and pension risks, and based on those results, it was
+29
+
+15 U.S.C. 78q-1(b)(3)(A); 15 U.S.C. 78q-1(b)(3)(F); 15 U.S.C. 78q-1(b)(3)(D); 15
+U.S.C. 78q-1(b)(3)(I).
+
+30
+
+As the Commission notes in the Notice, OCC states this proposal’s purpose is (in part) to
+facilitate compliance with proposed Commission rules on standards for covered clearing
+agencies (Exchange Act Release No. 71699 (March 12, 2014), 79 FR 29508 (May 22,
+2014) (S7-03-14)) and address Principle 15 of the Principles for Financial Market
+Infrastructures (“PFMIs”) (international standards for financial market intermediaries).
+Because the proposed Commission rules are pending, the Commission has evaluated this
+proposed rule change under the Exchange Act and the rules currently in force thereunder.
+
+31
+
+See 15 U.S.C. 78c(f).
+
+32
+
+See Notice at 5171-78, unless otherwise noted.
+
+33
+
+To implement the Capital Plan, OCC’s proposed rule change included: (i) establishing
+policies on fees, refunds, and dividends (described further below); (ii) amending its ByLaws; (iii) amending its Restated Certificate of Incorporation; and (iv) amending its
+Stockholders Agreement.
+
+8
+
+appropriate to significantly increase its capital. After evaluating alternate sources of capital
+funding, including increasing fees or suspending refunds to clearing members, the Board
+approved the proposed Capital Plan.34
+Under the Capital Plan, OCC annually will determine a target capital requirement
+(“Target Capital Requirement”). To meet the initial Target Capital Requirement, the
+Stockholder Exchanges provided capital to OCC (“Capital Contribution”) and entered into an
+agreement (“Replenishment Capital Agreement”) to provide additional replenishment capital
+(“Replenishment Capital”) under certain circumstances. In return, the Stockholder Exchanges
+are eligible to receive dividends from OCC (“Dividend Policy”). Additionally, OCC will set its
+fees annually to cover its estimated operating expenses plus a “Business Risk Buffer” (“Fee
+Policy”). Finally, clearing members will be eligible to receive refunds annually, under certain
+circumstances (“Refund Policy”).
+A.
+
+Target Capital Requirement
+
+The Target Capital Requirement consists of: (i) a “Baseline Capital Requirement” plus
+(ii) a “Target Capital Buffer.” The Baseline Capital Requirement is equal to the greatest of: (i)
+six months budgeted operating expenses for the following year; (ii) the maximum cost of the
+recovery scenario from OCC’s recovery and wind-down plan; or (iii) the cost to OCC of winding
+down operations as set forth in its recovery and wind-down plan. The Target Capital Buffer is
+linked to plausible loss scenarios from business, operational, and pension risks and is designed to
+provide a significant capital cushion to offset potential business losses.35
+34
+
+See OCC Support Statement.
+
+35
+
+OCC has determined that its current appropriate “Target Capital Requirement” is $247
+million, reflecting a “Baseline Capital Requirement” of $117 million, which is equal to
+six-month projected operating expenses, plus a “Target Capital Buffer” of $130 million.
+9
+
+B.
+
+Capital Contribution and Replenishment Capital Agreement
+
+Under the Capital Plan, OCC requires the Stockholder Exchanges to provide a Capital
+Contribution pursuant to their Class B Common Stock on a pro rata basis. At the time of the
+January 14, 2015 filing, OCC proposed the Capital Contribution to be $150 million, and the
+Stockholder Exchanges have since contributed that amount to OCC pursuant to the Capital
+Plan.36
+The Capital Contribution is supported by a Replenishment Capital Agreement, under
+which the Stockholder Exchanges have committed to provide Replenishment Capital if OCC’s
+total shareholders’ equity falls below a certain threshold. Specifically, if OCC’s shareholders’
+equity falls below a “Hard Trigger” as described below, the Stockholder Exchanges are obligated
+to provide a committed amount of Replenishment Capital on a pro rata basis. The provision of
+Replenishment Capital is capped at the excess of: (i) the lesser of either the Baseline Capital
+Requirement at the time of relevant funding or $200 million,37 minus (ii) outstanding
+Replenishment Capital (collectively, the “Cap”).38 In exchange for any Replenishment Capital
+made under the Replenishment Capital Agreement, the OCC will issue the Stockholder
+Exchanges a new class of OCC common stock (“Class C Common Stock”). The Capital Plan
+36
+
+See OCC Support Statement.
+
+37
+
+According to OCC, the $200 million takes into account projected growth in the Baseline
+Capital Requirement for the foreseeable future and OCC estimated that the Baseline
+Capital Requirement would not exceed $200 million before 2022.
+
+38
+
+For example, if the Baseline Capital Requirement is greater than $200 million, then the
+Replenishment Capital that could be accessed by OCC would be capped at $200 million
+minus any outstanding Replenishment Capital. Therefore, if there is no outstanding
+Replenishment Capital, OCC could access up to $200 million. If on the other hand, the
+Baseline Capital Requirement is $100 million, then OCC could access Replenishment
+Capital up to $100 million minus any Replenishment Capital outstanding.
+
+10
+
+also has a “Soft Trigger,” which would alert OCC that it should re-evaluate the sufficiency of its
+capitalization.
+As mentioned above, OCC has identified two triggers concerning the shareholders’
+equity that would require action by OCC: (i) a “Soft Trigger,” a warning sign that OCC’s
+capitalization has fallen to a level that requires action to prevent it from falling to unacceptable
+levels, and (ii) a “Hard Trigger,” a sign that corrective action must be taken in the form of a
+mandatory Replenishment Capital call.
+The Hard Trigger is reached when OCC’s shareholders’ equity falls below 125% of the
+Baseline Capital Requirement.39 Upon such occurrence, the Board will determine whether to
+attempt a recovery or a wind-down of OCC’s operations,40 or a sale or similar transaction,
+subject in each case to any necessary stockholder consent.41 OCC believes that the Hard Trigger
+would occur only as the result of a significant, unexpected event.
+The Soft Trigger is reached when OCC’s shareholders’ equity falls below the sum of: (i)
+the Baseline Capital Requirement and (ii) 75% of the Target Capital Buffer.42 Upon such
+39
+
+For 2015, the Hard Trigger would be reached if OCC’s shareholders’ equity fell below
+$146.25 million.
+
+40
+
+If the Board decides to wind-down OCC’s operations, then OCC will access
+Replenishment Capital in the amount the Board determines is sufficient to fund the winddown, subject to the Cap. If the Board decides to attempt a recovery of OCC’s capital
+and business, then OCC will access Replenishment Capital in the amount sufficient to
+return shareholders’ equity to $20 million above the Hard Trigger, subject to the Cap.
+
+41
+
+Article IV of OCC’s Certificate of Amendment of Certificate of Incorporation requires
+the approval of a majority of the issued and outstanding shares of each series of Class B
+Common Stock, voting separately as a series, to authorize or consent to the sale, lease, or
+exchange of all or substantially all of the property and assets of the Corporation, or to
+authorize or consent to the dissolution of the corporation.
+
+42
+
+For 2015, the Soft Trigger would be reached if OCC’s shareholders’ equity fell below
+$227.5 million.
+11
+
+occurrence, OCC’s senior management and the Board will evaluate options to restore the
+shareholders’ equity to the Target Capital Requirement, including, but not limited to, through
+increasing fees and/or decreasing expenses.
+In addition, the Board will review the Replenishment Capital Agreement on an annual
+basis. While the Replenishment Capital amount will increase as the Baseline Capital
+Requirement increases, if the Baseline Capital Requirement approaches or exceeds $200 million,
+the Board will review and revise the Capital Plan, as needed, to address potential future needs for
+Replenishment Capital higher than the $200 million cap. OCC also represents that its
+management will monitor OCC’s shareholders’ equity to identify additional triggers or reduced
+capital levels that may require action.
+C.
+
+Fee Policy, Refund Policy, and Dividend Policy
+
+Under the Capital Plan, OCC will also implement a Fee Policy, Refund Policy, and
+Dividend Policy designed to maintain OCC’s shareholders’ equity above the Baseline Capital
+Requirement. Changes to the Fee Policy, Refund Policy, and Dividend Policy will require the
+affirmative vote of two-thirds of the directors then in office and unanimous approval by the
+holders of OCC’s outstanding Class B Common Stock.43 Any such changes also will be subject
+to the filing requirements of Section 19(b) of the Exchange Act and the rules and regulations
+thereunder.
+1.
+
+Fee Policy
+
+Under the Fee Policy, OCC will set fees at a level that will cover OCC’s estimated
+operating expenses plus a “Business Risk Buffer.” According to OCC, the purpose of the
+43
+
+The Stockholder Exchanges are the sole holders of the Class B common stock and have
+each made Capital Contributions to OCC in respect of their equal ownership of Class B
+common stock, which entitles them to receive dividends, if declared.
+
+12
+
+Business Risk Buffer is to ensure that OCC accumulates sufficient funds to cover unexpected
+fluctuations in operating expenses, business capital needs, and regulatory capital requirements.
+Specifically, in setting fees each year, OCC will calculate an annual revenue target based on a
+forward twelve months expense forecast divided by the difference between one and the Business
+Risk Buffer of 25% (i.e., OCC will divide the expense forecast by 0.75). OCC believes that
+establishing the Business Risk Buffer at 25% will allow OCC to manage unexpected fluctuations
+in expenses or revenue.44
+OCC notes that the 25% Business Risk Buffer will be lower than OCC’s historical 10year average buffer of 31%. OCC represents that the lower buffer will permit it to charge lower
+fees to market participants, and thus become less reliant on refunds to clearing members to return
+any excess fees paid.45 In addition, by capitalizing OCC through shareholders’ equity (i.e., the
+Capital Contribution), OCC represents that it is positioned to charge lower fees that are more
+closely tied to its projected operating expenses, rather than annually generating a larger surplus
+
+44
+
+For example, fees could generate less revenue than expected if trading volume decreases.
+According to OCC, because OCC’s clearing fee schedules typically reflect different rates
+for different categories of transactions, fee projections will include projections of relative
+volume in each category. Therefore, the clearing fee schedule will be set to achieve the
+annual revenue target through a blended or average rate per contract, multiplied by total
+projected contract volume.
+
+45
+
+OCC stated that the Capital Plan would allow OCC to refund approximately $40 million
+from 2014 fees to clearing members and to reduce fees in an amount to be determined by
+the Board. See Notice at 5174. OCC issued a press release announcing the declaration of
+a refund, dividend, and fee reduction, pursuant to the Capital Plan on December 17, 2015.
+See OCC Press Release, “OCC Declares Clearing Member Refund and Dividend for
+2015 and Reduction of Fees under Approved Capital Plan.” (available at:
+http://www.optionsclearing.com/about/newsroom/releases/2015/12_17.jsp (“OCC Press
+Release”).
+
+13
+
+to address business, operational, and pension risks.46 OCC states that the Business Risk Buffer
+will remain at 25% as long as OCC’s shareholders’ equity remains above the Target Capital
+Requirement. OCC represents that it will review its fee schedule on a quarterly basis to manage
+revenues as close to the 25% Business Risk Buffer as possible, and, if the fee schedule needs to
+be changed to achieve the 25% Business Risk Buffer, OCC would file a proposed rule change
+with the Commission.
+2.
+
+Refund Policy
+
+Under the Refund Policy, except at a time when Replenishment Capital is outstanding,
+OCC will declare a refund to clearing members in December of each year using the formula set
+out in the Refund Policy. Specifically, the refund will equal 50% of the excess of: (i) pre-tax
+income for the year in which the refund is declared over (ii) the sum of the following: (x) the
+amount of pre-tax income after the refund necessary to produce after-tax income for such year
+sufficient to maintain shareholders’ equity at the Target Capital Requirement for the following
+year, and (y) the amount of pre-tax income after the refund necessary to fund any additional
+reserves or additional surplus not already included in the Target Capital Requirement.
+The Refund Policy states that OCC will declare refunds, if any, in December of each
+year, and such refunds would be paid in the following year after OCC issues its audited financial
+statements, provided that: (i) the payment does not result in a total shareholders’ equity falling
+
+46
+
+OCC has announced it intended to lower fees by about 19% pursuant to the Capital Plan.
+See OCC Press Release.
+
+14
+
+below the Target Capital Requirement and (ii) the payment is otherwise permitted by Delaware
+law, federal laws, and regulations.47
+OCC will not make refund payments while Replenishment Capital is outstanding and will
+resume refunds after the Replenishment Capital is repaid in full and the Target Capital
+Requirement is restored. However, OCC will not resume paying refunds and will recalculate
+how refunds are made if, for more than 24 months: (i) Replenishment Capital remains
+outstanding or (ii) the Target Capital Requirement is not restored.
+3.
+
+Dividend Policy
+
+Under the Dividend Policy, OCC will pay dividends to Stockholder Exchanges as
+consideration for their Capital Contribution and commitment to provide Replenishment Capital
+under the Replenishment Capital Agreement. OCC will declare dividends, if any, in December
+of each year, and such dividends would be paid in the following year after OCC issues its audited
+financial statements, provided that: (i) the payment does not result in total shareholders’ equity
+falling below the Target Capital Requirement and (ii) the payment is otherwise permitted by
+Delaware law, federal laws, and regulations.
+Pursuant to the Dividend Policy, except at a time when Replenishment Capital is
+outstanding, OCC will declare a dividend on its Class B Common Stock in December of each
+year in aggregate equal to the excess of: (i) after-tax income for the year, after application of the
+Refund Policy48 over (ii) the sum of: (A) the amount required to be retained in order to maintain
+total shareholders’ equity at the Target Capital Requirement for the following year, plus (B) the
+47
+
+OCC announced for 2016, that it will pay a previously declared 2014 refund of $33.3
+million, a 2015 refund of $39 million, and special refund of $72 million. See OCC Press
+Release.
+
+48
+
+If the Refund Policy has been eliminated, the refunds shall be deemed to be $0.
+
+15
+
+amount of any additional reserves or additional surplus not already included in the Target Capital
+Requirement.49
+Similar to the Refund Policy, if Replenishment Capital is outstanding, OCC will not pay
+dividends. OCC will resume dividends after the Replenishment Capital is repaid in full and the
+Target Capital Requirement is restored through the accumulation of retained earnings. However,
+OCC will not resume paying dividends and will recalculate how dividends are made if, for more
+than 24 months: (i) Replenishment Capital remains outstanding or (ii) the Target Capital
+Requirement is not restored. Moreover, the formulas for determining the refunds and dividends
+treat refunds as tax-deductible, and dividends are not tax-deductible. In the event that refunds
+are not tax-deductible, OCC represents that it will amend the Refund Policy and Dividend Policy
+to restore the relative economic benefits between the recipients of the refunds and the
+Stockholder Exchanges to what the Capital Plan currently provides.
+III.
+
+Summary of the Comments and Discussion
+A.
+
+Statutory Standards
+
+Exchange Act Section 19(b)(2)(C) directs the Commission to approve a proposed rule
+change of a self-regulatory organization if it finds the change is consistent with the requirements
+of the Exchange Act and the rules and regulations thereunder applicable to such organization.50
+In particular, the Commission addresses the following provisions of the Exchange Act in its
+review of this proposed rule change:
+
+49
+
+OCC issued a press release announcing the declaration of an approximate $17 million
+dividend for 2015 pursuant to the Capital Plan. See OCC Press Release.
+
+50
+
+15 U.S.C. 78s(b)(2)(C).
+
+16
+
+
+
+Section 17A(b)(3)(F) of the Exchange Act requires, in part, that the rules of a registered
+clearing agency be designed to protect investors and the public interest.51
+
+
+
+Section 17A(b)(3)(I) of the Exchange Act requires, in part, that the rules of a registered
+clearing agency do not impose any burden on competition not necessary or appropriate in
+furtherance of the purposes of the Exchange Act.52
+
+
+
+Section 17A(b)(3)(D) of the Exchange Act requires, in part, that the rules of a registered
+clearing agency provide for the equitable allocation of reasonable dues, fees, and other
+charges among its participants.53
+
+
+
+Section 17A(b)(3)(A) of the Exchange Act requires, in part, that a registered clearing
+agency be so organized and have the capacity to be able to facilitate the prompt and
+accurate clearance and settlement of securities transactions and to safeguard securities
+and funds in its custody or control or for which it is responsible.54
+
+
+
+Section 3(f) of the Exchange Act requires, in part, that whenever pursuant to the
+Exchange Act the Commission is engaged in the review of a rule of a self-regulatory
+organization, and is required to consider or determine whether an action is necessary or
+appropriate in the public interest, the Commission must also consider, in addition to the
+protection of investors, whether the action will promote efficiency, competition, and
+capital formation.55
+
+51
+
+15 U.S.C. 78q-1(b)(3)(F).
+
+52
+
+15 U.S.C. 78q-1(b)(3)(I).
+
+53
+
+15 U.S.C. 78q-1(b)(3)(D).
+
+54
+
+15 U.S.C. 78q-1(b)(3)(I).
+
+55
+
+15 U.S.C. 78c(f).
+17
+
+B.
+
+Comments Received and Commission Response
+
+The discussion below summarizes the comments received regarding OCC’s proposed
+Capital Plan and provides OCC’s responses and the Commission’s evaluation of the proposal in
+accordance with the applicable Exchange Act requirements.
+1.
+
+Investor Protection and Public Interest in Exchange Act Section
+17A(b)(3)(F) and Burden on Competition in Exchange Act Section
+17A(b)(3)(I)
+
+Commenters argue that the Capital Plan is inconsistent with Exchange Act Sections
+17A(b)(3)(F) and 17A(b)(3)(I),56 which require that the rules of a registered clearing agency, i.e.,
+OCC, are designed to protect investors and the public interest and do not impose any burden on
+competition not necessary or appropriate in furtherance of the purposes of the Act. Broadly,
+commenters argue that the Capital Plan is contrary to the protection of investors and the public
+interest, and imposes unnecessary and inappropriate burdens on competition, because: (i) the
+Dividend Policy would unfairly subsidize Stockholder Exchanges at the expense of the NonStockholder Exchanges, (ii) the Capital Plan would raise transaction costs by increasing fees and
+reducing refunds to pay dividends to the Stockholder Exchanges, and (iii) the Dividend Policy
+would pay Stockholder Exchanges an excessive rate of return. Commenters also assert that the
+Capital Plan imposes an inappropriate burden on competition, inconsistent with Exchange Act
+Section 17A(b)(3)(I),57 because OCC’s Target Capital Requirement is inflated, or in the
+alternative, OCC is already sufficiently capitalized, thus rendering the Capital Plan unnecessary.
+Finally, commenters argue that the Capital Plan imposes an inappropriate burden on competition
+because OCC did not consider less costly alternative capital raising initiatives.
+56
+
+15 U.S.C. 78q-1(b)(3)(F) and (I).
+
+57
+
+15 U.S.C. 78q-1(b)(3)(I).
+
+18
+
+The Commission discusses each of these comments and OCC’s responses below. After
+considering the entire record, and for reasons discussed below, the Commission finds that the
+Capital Plan is consistent with Exchange Act Sections 17A(b)(3)(F) and 17A(b)(3)(I).58
+(i)
+
+Commenters Argue that the Dividend Policy Fails to Protect Investors
+and the Public Interest and Imposes a Burden on Competition not
+Necessary or Appropriate in Furtherance of the Act.
+
+Commenters argue that the Dividend Policy is inconsistent with Sections 17A(b)(3)(F)
+and 17A(b)(3)(I) of the Exchange Act,59 because it enables the Stockholder Exchanges to
+monetize OCC’s clearing monopoly and changes OCC from a low-cost public utility to a forprofit enterprise by paying dividends to the Stockholder Exchanges.60 Commenters also assert
+that because only Stockholder Exchanges are eligible to receive dividend payments, and any
+such dividend payments are tantamount to a subsidy from OCC, the Dividend Policy harms the
+competitive balance between Stockholder Exchanges and Non-Stockholder Exchanges.61 In the
+commenters’ view, Stockholder Exchanges will be able to use the dividend “subsidy” to lower
+their options exchange operating costs and thus compete more effectively to provide trading and
+
+58
+
+15 U.S.C. 78q-1(b)(3)(F) and (I).
+
+59
+
+Id.
+
+60
+
+SIG Statement in Opposition to the Order Approving OCC’s Capital Plan (October 7,
+2015) (“SIG Opposition Statement”). This commenter also argues that the Dividend
+Policy fosters rewards, i.e., larger dividends paid to Stockholder Exchanges, thereby
+incenting the Board to approve inflated operating costs and larger budgets, which
+increases transaction costs. The Commission discusses this aspect of the comment
+regarding cost increases below in Section B(1)(ii).
+
+61
+
+See, e.g., BATS Letter I and Letter II; BOX Letter I; MIAX Letter II; BATS, BOX, and
+MIAX Statement in Opposition to the Action Made by Delegated Authority (October 7,
+2015) (“BATS Opposition Statement”); KCG Statement in Opposition to the Order
+(October 7, 2015) (“KCG Opposition Statement”).
+
+19
+
+execution services than the Non-Stockholder Exchanges, which would not receive any such
+subsidy.62
+OCC responds that the Dividend Policy is an integral part of the Capital Plan and is
+necessary to protect OCC against business, operational, and pension risks. OCC refutes the
+statement that the Capital Plan would turn OCC into a for-profit enterprise for the sole benefit of
+the Stockholder Exchanges.63 OCC states the purpose of the Capital Plan is to ensure sufficient
+capital to cover business, operational, and pension risks, and further argues that the plan as a
+whole works to limit returns to the Stockholder Exchanges to an appropriate level and lower
+clearing fees for all market participants.64 OCC also counters that the Capital Plan does not
+unfairly advantage Stockholder Exchanges as the obligations of the Stockholder and NonStockholder Exchanges are not identical. OCC maintains that commenters do not appropriately
+consider that the Stockholder Exchanges incur financial obligations under the Capital Plan by
+providing Capital Contributions and committing to provide Replenishment Capital, and therefore
+face the substantial risk of losing both contributions.65 OCC further states that the competitive
+balance between and among the options exchanges, including between the Stockholder
+Exchanges and the Non-Stockholder Exchanges, is far more complex than portrayed by the
+commenters, and that any dividend payments received by Stockholder Exchanges under the
+Dividend Policy would not have a meaningful impact on competition.66 Moreover, OCC argues
+62
+
+Id.
+
+63
+
+OCC Support Statement; OCC Letter II; OCC Stay Brief.
+
+64
+
+OCC Letter I; OCC Support Statement.
+
+65
+
+See OCC Support Statement.
+
+66
+
+Id.
+
+20
+
+the commenters artificially inflate the so-called “subsidy” effect by making erroneous
+assumptions that any dividend received would be devoted exclusively to subsidizing a segment
+of the products listed by the Stockholder Exchanges (and offsetting the cost of those listings).67
+OCC also states that the commenters’ analysis does not appropriately address the other ways the
+Stockholder Exchanges and Non-Stockholder Exchanges compete.68
+(ii)
+
+Commenters Argue that the Capital Plan Raises Transaction Costs and
+Imposes a Burden on Competition Not Necessary or Appropriate in
+Furtherance of the Act
+
+Commenters also argue that the Capital Plan is inconsistent with Sections 17A(b)(3)(F)
+and 17A(b)(3)(I) of the Exchange Act69, because it raises transaction costs.70 Commenters allege
+that the Dividend Policy creates incentives for OCC to increase its operating expenses, and in
+turn, charge higher clearing fees because higher clearing fees will lead to higher dividend
+payments.71 Commenters state that these higher fees harm the Non-Stockholder Exchanges and
+are particularly detrimental to the public interest and investor protection because clearing
+members and customers collectively pay 95% of OCC operating expenses through clearing
+
+67
+
+See id.
+
+68
+
+Id. OCC notes that both Stockholder and Non-Stockholder Exchanges have pricing
+power from many sources, and all of these sources have more impact than the dividend
+on these exchanges’ ability to compete. See id. at 19-20 (arguing that pricing power
+derives from many factors, and stating that “the revenue per contract variation among
+exchanges and among products, which [commenters] themselves note, suggests that the
+Stockholder Exchanges are not competing on the basis of price alone”).
+
+69
+
+15 U.S.C. 78q-1(b)(3)(F) and (I).
+
+70
+
+See MM Letter; KCG Petition; SIG Petition; SIG Opposition Statement.
+
+71
+
+Id.
+
+21
+
+fees.72 Commenters argue that the Refund Policy does not protect investors or promote the
+public interest, because it reduces the percentage of excess net income refunded to clearing
+members from 100% to 50%. Commenters state that this reduction in refunds will lead to
+increased transaction costs through wider quoted spreads.73 Finally, commenters argue that the
+increased transaction costs impose a burden on competition not necessary or appropriate.
+OCC refutes commenters’ assertion that the Dividend Policy creates incentives for OCC
+to increase its operating expenses or its fees as a means to pay higher dividends to Stockholder
+Exchanges.74 OCC explains that the operation of the Capital Plan, in its totality, places limits on
+these purported incentives. OCC notes that commenters ignore the fact that higher operating
+expenses lead to a higher Target Capital Requirement, which would require additional capital
+contributions to be withheld from funds that would otherwise be used to pay dividends and
+refunds and therefore, would have the effect of reducing the rate of return to the Stockholder
+Exchanges.75 OCC further explains that the Capital Plan incorporates a lower Business Risk
+Buffer, i.e., 25%, than the historical average buffer of 31%. Because this buffer is used to set the
+clearing fee schedules, it will provide members with a lower fee structure.76 In addition, because
+the Capital Plan uses shareholders’ equity as capital to offset potential business, operational, and
+pension risks, OCC states that it would become less dependent on clearing fees to manage these
+
+72
+
+See, e.g., KCG Opposition Statement; SIG Opposition Statement.
+
+73
+
+See SIG Petition; SIG Opposition Statement.
+
+74
+
+OCC Letter II; OCC Stay Brief.
+
+75
+
+Id.
+
+76
+
+OCC Support Statement.
+
+22
+
+risks.77 OCC also states that commenters’ concerns regarding future fee increases are
+speculative.78
+(iii)
+
+Commenters Argue that the Dividend Rate Under the Capital Plan is
+Excessive and Inconsistent with the Protection of Investors and the
+Public Interest and Imposes a Burden on Competition not Necessary or
+Appropriate in Furtherance of the Act
+
+Commenters assert that the rate of return the Stockholder Exchanges will receive for
+providing the Capital Contribution and committing to provide Replenishment Capital under the
+Dividend Policy is excessive, and is therefore inconsistent with Sections 17A(b)(3)(F) and
+17A(b)(3)(I) of the Exchange Act.79 Specifically, the commenters argue that OCC is a
+monopoly, and as such, its risk of capital impairment is low, such that the imputed rate of return
+to the Stockholder Exchanges is excessive.80
+OCC responds that its status as the sole registered clearing agency in the options market
+does not mean that the Capital Contribution by the Stockholder Exchanges is a risk-free
+investment.81 As noted above, the Capital Plan is designed to support OCC’s operations in the
+event of substantial losses from potential business, operational, and pension risks – these risks
+
+77
+
+Id.
+
+78
+
+Id.
+
+79
+
+15 U.S.C. 78q-1(b)(3)(F) and (I). Commenters separately describe the dividend rate as
+unconscionable, exorbitant, and above market rate. Commenters estimate that the
+dividend payments will result in a rate of return for the Stockholder Exchanges’
+investment of additional capital of upwards of 20% to 30% but state that the true amount
+is not known to them. See BATS Letter I; BATS Letter II; MIAX Letter I; KCG
+Opposition Statement; SIG Opposition Statement.
+
+80
+
+See BATS Letter II; Peak6 Capital Management Statement in Opposition to the Order
+(October 7, 2015) (“Peak6 Opposition Statement”); SIG Opposition Statement.
+
+81
+
+See OCC Support Statement.
+
+23
+
+are not mitigated by OCC’s status as the sole clearing agency in the listed options space.82 OCC
+also responds that the potential rate of return is not excessive and notes that the Capital Plan,
+including the Dividend Policy, was developed after an extensive and detailed deliberative
+process.83 OCC adds that the Board relied on advice received from external advisers to help
+ascertain whether the potential rate of return to Stockholder Exchanges was reasonable in light of
+the nature of the capital commitments and the additional risks inherent in their contributions.84
+OCC further argues that the elements of the Capital Plan (the Fee Policy, Refund Policy, and
+Dividend Policy) are designed to provide appropriate limits on any dividend paid pursuant to the
+Dividend Policy.85
+(iv)
+
+Commenters Argue that OCC was Sufficiently Capitalized Without the
+Capital Plan
+
+Commenters argue that the Capital Plan is inconsistent with 17A(b)(3)(I) of the Exchange
+Act86 because OCC’s Target Capital Requirement is inflated, and as a result, the Capital Plan
+imposes an unnecessary and inappropriate burden on competition.87 Commenters argue in the
+alternative that, even if the Target Capital Requirement is not inflated, there is no need for the
+
+82
+
+See Notice. See also OCC Support Statement.
+
+83
+
+See OCC Support Statement.
+
+84
+
+OCC engaged an outside consulting firm to develop capital needs and targets and a
+financial advisor to provide analysis on dividend returns. Outside counsel also provided
+advice on governance matters. See OCC Letter I; OCC Letter IV; OCC Support
+Statement.
+
+85
+
+See OCC Letter I.
+
+86
+
+15 U.S.C. 78q-1(b)(3)(I).
+
+87
+
+See SIG Opposition; Reinstitution Motion.
+
+24
+
+Capital Plan88 because OCC is sufficiently capitalized through the accumulation of fees since the
+publication of the Notice.89 In the commenters’ view, the accumulation of retained earnings has
+placed OCC within reach of its proposed capital levels and may even leave OCC with a surplus,
+which renders the Capital Plan wholly unnecessary.90
+OCC counters that the Target Capital Requirement is the product of extensive analysis
+and takes into account a broad set of factors to cover plausible loss scenarios from business,
+operational, and pension risks.91 OCC notes that commenters, in deeming OCC adequately
+capitalized, do not provide a methodology for ascertaining a Target Capital Requirement, nor do
+they provide with sufficient granularity or specificity the risks that would be covered (and those
+that would be excluded) with their proposed lower Target Capital Requirement.92 OCC notes its
+financial resources, such as margin and the clearing fund deposits, and not its capital, protect it
+against counterparty risk and on-balance sheet credit and market risk. In addition, OCC states
+that the commenters incorrectly included in their estimate of its current capital reserve capital
+refunds owed by OCC to clearing members and excess over expenses that would be subject to
+taxes if they were retained by OCC.93
+OCC also disagrees that it has accumulated sufficient funds from clearing fees since the
+
+88
+
+See KCG Opposition Statement; PEAK6 Opposition Statement; SIG Opposition
+Statement.
+
+89
+
+See KCG Opposition; SIG Opposition.
+
+90
+
+See SIG Letter III.
+
+91
+
+See Notice; OCC Support Statement.
+
+92
+
+See OCC Support Statement.
+
+93
+
+Id.
+
+25
+
+Capital Plan was proposed to render the Capital Plan unnecessary. OCC takes issue with
+commenters’ calculations because, despite claiming the Capital Plan as being unnecessary,
+commenters included the contributions already made pursuant to the Plan in their calculations.94
+In absence of the Capital Plan, OCC notes that its capital resources would be less than $150
+million, which is less than both: (i) half of the $364 million in capital resources available to it
+under the Capital Plan; and (ii) the $247 million Target Capital Requirement.95
+(v)
+
+Commenters Argue that OCC Failed to Properly Consider Alternative
+Sources of Raising Capital
+
+Finally, commenters argue that the Capital Plan is inconsistent with Section 17A(b)(3)(I)
+of the Exchange Act96 because OCC’s Board failed to consider alternative and less costly ways
+to raise capital, including having OCC raise capital by accumulating retained earnings through
+some combination of fees and reduced rebates,97 raise capital from existing Stockholder
+Exchanges at a lower rate of return,98 raise capital from Non-Stockholder Exchanges, clearing
+
+94
+
+See OCC Support Statement.
+
+95
+
+See OCC Support Statement.
+
+96
+
+15 U.S.C. 78q-1(b)(3)(I).
+See, e.g., MM Letter; SIFMA Letter; SIG Opposition Statement. In support of the
+alternative of raising capital through accumulative retained earnings, commenters
+proposed an alternative of an escrow, or Payer Asset Approach, where OCC could
+accumulate retained earnings and place them in escrow. See MM Letter; SIG Petition.
+These commenters argue that by placing the fee revenue (which would be retained
+earnings if held by OCC) in escrow to cover business, operational, and pension risks,
+those monies would not be considered an asset of the Stockholder Exchanges and subject
+to tax and OCC could return excess from the escrow to investors through refunds or
+lower fees.
+
+97
+
+98
+
+See MM Letter. Another commenter states that the Chicago Board Options Exchange
+offered to provide OCC with a capital infusion at a lower annual rate over a certain
+period of time that is more favorable than the Capital Plan, which contemplates paying
+the Stockholder Exchanges dividends in perpetuity. See SIG Opposition Statement.
+
+26
+
+members or third party investors at a lower rate of return,99 and raise capital through other
+instruments, such as perpetual preferred stock.100 Commenters suggested that the failure of the
+Board to pursue these alternative sources of capital renders the Capital Plan inconsistent with
+Section 17A(b)(3)(I) of the Exchange Act101 because it imposes unnecessary and inappropriate
+burdens on competition.102
+OCC counters that the Board evaluated all viable and potential alternatives.103
+Specifically, OCC notes that the Board considered potential alternatives and, after a thorough
+deliberation, voted in favor of the Capital Plan because it allowed OCC to increase its capital
+almost instantaneously (i.e., the Capital Contribution was paid immediately) and provided the
+benefit of Replenishment Capital.104 In addition to immediately increasing OCC’s Capital,
+
+99
+
+See, e.g., BATS Letter I; BATS Letter II.
+
+100
+
+See BOX Letter I.
+
+101
+
+15 U.S.C. 78q-1(b)(3)(I).
+
+102
+
+See, e.g., SIG Petition; BATS Letter I.
+
+103
+
+See OCC Letter II (noting that it was not clear how an escrow fund that is not an asset of
+OCC would satisfy the Commission’s proposed rule requirement concerning liquid net
+assets funded by equity); OCC Support Statement (noting that accumulating fees would
+require “$593 million in pre-tax clearing fees” from members). In addition, OCC states
+that its Board considered CBOE’s proposal, but did not find it viable in meeting its
+capital needs because CBOE’s proposed contribution would have been in the form of a
+loan, and thus would be debt, and was not fully developed. See October 15, 2015
+Declaration of Craig S. Donohue (“Donohue Declaration”). OCC also states that it
+considered issuing capital stock to clearing members and Non-Stockholder Exchanges
+and issuing perpetual preferred shares to outside institutional investors. See OCC Letter
+I; OCC Letter II.
+
+104
+
+See OCC Letter II (noting the importance of OCC’s continuity and need for capital to
+withstand an event arising from business, operational and pension risks and the Board’s
+concern with timeliness; based on these considerations, the Board considered alternate
+plans as taking too long to accumulate sufficient capital); also see OCC Support
+27
+
+OCC’s Board determined that the Capital Plan was superior to other alternatives when it took
+into account factors such as liquidity, the timeliness and certainty of obtaining capital, and
+applicable taxes.105
+(vi)
+
+Commission Findings
+a. Capital Plan is Consistent with Exchange Act Section 17A(b)(3)(F)
+
+The Commission has considered the comments described above and finds that the Capital
+Plan is consistent with Exchange Act Section 17A(b)(3)(F).
+After reviewing the Dividend Policy in conjunction with the other elements of the Capital
+Plan, the Commission does not believe that the Dividend Policy, or the Capital Plan as a whole,
+changes OCC’s essential role as a market utility. Instead, the Capital Plan is designed to enhance
+OCC’s capitalization rather than to enable the Stockholder Exchanges to monetize OCC’s
+clearing monopoly. This enhanced capitalization is designed to allow OCC to continue its
+essential role by raising sufficient capital to cover business, operational, and pension risks. The
+Board determined that the historical practice of solely using fees, with annual refunds, to cover
+operating expenses and manage risks did not allow OCC to reach adequate capitalization.106
+Under the Refund Policy, OCC will continue its practice of refunding a significant percentage of
+excess clearing fees to clearing members, thus preserving that aspect of OCC’s industry “utility”
+Statement (noting that raising capital through fee increases does not provide the
+immediate access to additional capital that the Replenishment Capital commitment
+provides under the Capital Plan).
+105
+
+Id.
+
+106
+
+Historically, the Stockholder Exchanges have contributed only minimal capital to OCC.
+The Board determined that to obtain substantial Capital Contributions and Replenishment
+Capital from the Stockholder Exchanges is the best alternative, which cannot be
+accomplished without modification of the past practice of not providing dividends to
+Stockholder Exchanges owners of OCC. See Notice at 5173-75.
+
+28
+
+function. And the components of the Capital Plan—the Fee Policy, Refund Policy, and Dividend
+Policy— are designed to set the dividends to be paid to the Stockholder Exchanges at a level that
+the Board, with the assistance of independent outside financial experts, has determined to be
+reasonable for the cost and risks associated with the Stockholder Exchanges’ contributed and
+committed capital. As pointed out by OCC, the plan as a whole works to avoid unnecessarily
+and unreasonably high operating expenses, maintain the Target Capital Requirement at an
+appropriate level and set a reasonable dividend, each as determined by the Board. An increase in
+operating expenses would lead to an increase in the Target Capital Requirement, and therefore,
+could have the effect of reducing the rate of return in dividends.107
+The Commission does not believe that the Capital Plan operates to increase fees, inflate
+operating expenses or drive up transaction costs in a manner inconsistent with the protection of
+investors or the public interest. The Commission notes that commenters’ arguments ignore that
+the Capital Plan incorporates a lower Business Risk Buffer, which allows generally lower fees.108
+The Capital Plan provides OCC with sufficient shareholders’ equity to substantially cover the
+
+107
+
+See OCC Letter II. The rate of return would be dependent on many factors, including
+clearing fees, which would be subject to the rule filing requirements of Section 19(b)(1)
+of the Exchange Act. The Commission also notes that OCC’s status as the only
+registered clearing agency for listed options is not relevant in assessing the appropriate
+dividend rate under the Capital Plan, which is designed to address business, operational,
+and pension risks.
+
+108
+
+In fact, OCC stated that it expected that the Capital Contributions from the Stockholder
+Exchanges will enable it to provide a significant refund of 2014 fees. OCC further
+expected that its current clearing fees will be reduced significantly based on the Business
+Risk Buffer of 25% beginning in 2015 with refunds restored, and that these lower fees
+will continue for the foreseeable future. See Notice at 5175. As described above, OCC
+declared a refund of 2014 fees and a 19% fee reduction. In addition, OCC also
+announced a special refund that represents the excess of 2015 pre-tax income over OCC’s
+target revenue based on achievement of the 25% Business Risk Buffer. See OCC Press
+Release.
+
+29
+
+potential costs related to OCC’s business, operational, and pension risks, thus reducing the need
+for OCC’s Board to budget for those risks when estimating the projected forward 12-month
+operating expenses (a key component of the formula for setting fees under the Fee Policy).
+Therefore, the Commission believes that clearing members and customers will benefit from the
+proposed Capital Plan because it will allow OCC to continue to provide clearing services at
+expected lower fees. In addition, there will be tax implications associated with retained earnings
+and dividend payments, which in turn affects refunds and the dividend rate under the Capital
+Plan. OCC therefore would be motivated to take applicable taxes into consideration in setting
+new fee schedules or declaring dividends or refunds. At the very least, the Commission does not
+believe that it is inevitable that the Capital Plan will lead to higher fees as the commenters assert.
+For the reasons provided above, the Commission does not believe that the potential
+dividend rate, the Dividend Policy, or the Capital Plan, is inconsistent with investor protection or
+the public interest. On the contrary, the Capital Plan will support the critical functions and
+continued operations of OCC, particularly during times when its capital position is impaired, and
+is, therefore, consistent with the protection of investors and the public interest under Exchange
+Act Section 17A(b)(3)(F).109
+b. Capital Plan is Consistent with Exchange Act Section 17A(b)(3)(I)
+After considering the comments described above, the Commission finds that the Capital
+Plan does not impose any burden on competition not necessary or appropriate in furtherance of
+the purposes of the Act, and is therefore consistent with Exchange Act Section 17A(b)(3)(I).110
+
+109
+
+15 U.S.C. 78q-1(b)(3)(F).
+
+110
+
+Id.
+
+30
+
+The Commission notes that Exchange Act Section 17A(b)(3)(I)111 does not require the
+Commission to make a finding that OCC chose the option that imposes the least possible burden
+on competition. Rather, the Exchange Act requires that the Commission find that the Capital
+Plan does not impose any burden on competition not necessary or appropriate in furtherance of
+the purposes of the Exchange Act, which involves balancing the competitive effects of the
+proposed rule change against all other relevant considerations under the Exchange Act. 112
+The Commission has considered all the comments, OCC’s responses and alternate plans
+for raising capital described by commenters. As an initial matter, the Commission does not
+believe that the Dividend Policy, or the Capital Plan as a whole, creates a subsidy that unfairly
+advantages Stockholder Exchanges. The Commission notes that any potential dividends
+declared under the Dividend Policy are intended to be consideration for the Stockholder
+Exchanges’ contribution or commitment to capital and compensation for their opportunity cost
+and risk of loss associated with such contribution and commitment.113 Further, the Commission
+
+111
+
+15 U.S.C. 78q-1(b)(3)(I).
+
+112
+
+Bradford Nat’l Clearing Corp. v. SEC, 590 F.2d 1085, 1105 (D.C. Cir. 1978) (noting that
+to the extent that the legislative history provides any guidance to the Commission in
+taking competitive concerns into consideration in its deliberations on the national
+clearing system, it merely requires the SEC to "balance" those concerns against all others
+that are relevant under the statute).
+
+113
+
+Each Stockholder Exchange has contributed $30 million to OCC, which is capital that
+cannot be used for other purposes. Thus, each Stockholder Exchange has forgone the
+opportunity to deploy or invest that capital. Additionally, if OCC’s capital were to fall
+below the “Hard Trigger,” meaning that the initial Capital Contribution was lost, the
+Stockholder Exchanges would be required to provide Replenishment Capital, which, as
+discussed above, would likely be part of a recovery plan or otherwise in furtherance of
+winding down OCC’s business. In such situations, the Stockholder Exchanges would be
+committing additional capital without any expectation that such capital will ever be
+repaid. See OCC Support Statement. Non-Stockholder Exchanges are in a different
+position than the Stockholder Exchanges in that they are not obligated to provide a
+Capital Contribution or commit to provide Replenishment Capital, and therefore do not
+31
+
+notes that the operation of the Capital Plan does not require dividends to be paid in any year, and
+under certain circumstances such as when Replenishment Capital is outstanding, OCC would not
+pay dividends.
+
+The Commission believes that various components of the Capital Plan operate
+
+to set reasonable dividends for the cost and risks associated with the Stockholder Exchanges’
+contributed and committed capital. Thus, the Commission does not believe that the Capital Plan
+imposes any costs that could be viewed as imposing a burden on competition not necessary or
+appropriate under the Exchange Act.
+Similarly, the Commission does not believe that the Target Capital Requirement imposes
+a burden on competition not necessary or appropriate in furtherance of the purposes of the
+Exchange Act. The Commission notes that the Target Capital Requirement is designed to
+provide adequate capitalization, thereby substantially enhancing OCC’s ability as a SIFMU to
+sustain non-default losses arising from business, operational, and pension risks. After reviewing
+the process used by OCC to establish the Target Capital Requirement, the Commission believes
+that the Target Capital Requirement is appropriately designed to capture identified and
+foreseeable business risks. OCC represents that it used various measures and took a methodical
+and reasoned approach to establish the Target Capital Requirement and the Commission does not
+believe that the Target Capital Requirement is or will be set at an unreasonable level.
+Moreover, commenters have not explained how alternatives to the Dividend Policy or the
+Target Capital Requirement would be effective in promoting the significant interest under the
+Exchange Act in having a well-capitalized OCC to allow prompt clearance and settlement. A
+well-capitalized OCC provides support for the continued orderly operations of OCC and benefits
+
+bear the costs and risks of the financial obligations attendant with the Capital
+Contribution and Replenishment Capital.
+
+32
+
+clearing members, market participants and the options markets broadly. The Commission
+therefore finds that even if the dividends paid under the Dividend Policy or future costs incurred
+under the Target Capital Requirement or Capital Plan as a whole, as they are currently designed
+impose a burden on competition, that burden is necessary or appropriate in furtherance of the
+purposes of the Act.
+The Commission further notes that whether OCC would accumulate sufficient capital to
+reach the Target Capital Requirement through the accrual of fees was unknown at the time OCC
+proposed the Capital Plan. OCC’s Board considered this alternative and determined that
+accumulation of clearing fees would take several years to achieve the Target Capital
+Requirement.114 The Capital Plan immediately addressed the risk of a significant event
+impairing OCC’s capital, even though such an event has not in fact occurred.115
+Finally, the existence of alternative ways for OCC to raise capital does not render the
+Capital Plan inconsistent with the Exchange Act. The Commission notes that the Board
+considered various alternative ways to raise capital and that the Board determined that the
+Capital Plan was in the best interests of OCC because it was designed to provide immediate
+
+114
+
+See OCC Support Statement (noting that, under the current fee schedule, it would take
+until mid-2017 to organically accumulate $364 million in capital. As a result, OCC
+concluded that organic accumulation of capital through fee increases was not a durable
+solution to its substantial capital needs).
+
+115
+
+Petitioners’ comments, when contending OCC was close to achieving its Target Capital
+Requirement of $247 million, did not acknowledge or accept that the total resource
+requirement under the Capital Plan was $364 million, including the Replenishment
+Capital commitment of $117 million. See SIG Support Statement and KCG Support
+Statement. OCC also stated that, as of August 31, 2015, without the $150 million Capital
+Contribution under the Capital Plan, OCC's adjusted shareholders' equity would be
+approximately $149 million or less than half of the $364 million in total capital resources
+available under the Capital Plan, and significantly less than the $247 million Target
+Capital Requirement. See OCC Support Statement.
+
+33
+
+access to capital through the Capital Contribution and was supported by the agreement to provide
+Replenishment Capital.116 In addition, in evaluating the relative competitive effects of the
+Capital Plan and alternative sources of capital, the Commission reiterates that it does not believe
+that the Capital Plan will necessarily lead to increased fees or transaction costs. Accordingly, the
+Commission finds the burdens imposed by the Capital Plan, if any, are necessary or appropriate
+in furtherance of the purposes of the Exchange Act.
+For reasons stated above, the Commission finds that the Capital Plan is consistent with
+Exchange Act Section 17A(b)(3)(I).117
+2.
+
+Capital Plan Provides for an Equitable Allocation of Reasonable Dues,
+Fees, and Other Charges Among the Participants
+
+Commenters assert that the Capital Plan is inconsistent with Exchange Act Section
+17A(b)(3)(D)118 because it would result in unreasonable fees and cause an inequitable allocation
+of future clearing fees.119 Commenters argue that the Capital Plan does not provide for the
+equitable allocation of reasonable dues, fees, and other charges among its participants because
+the fees unfairly discriminate against Non-Stockholder Exchanges, are potentially excessive, or
+present conflicts.120 Commenters argue that the Capital Plan unfairly discriminates against the
+Non-Stockholder Exchanges because whereas all exchanges contribute equally to fees, only the
+
+116
+
+The Commission also notes that the Board determined that the Capital Plan contains
+certain aspects and features that the alternatives would not be able to achieve (such as
+characterization of the net liquid assets raised by OCC as equity instead of debt).
+
+117
+
+15 U.S.C. 78q-1(b)(3)(I).
+
+118
+
+15 U.S.C. 78q-1(b)(3)(D).
+
+119
+
+See SIG Petition; MM Letter; KCG Opposition Statement; BATS Opposition Statement.
+
+120
+
+See SIG Petition; MM Letter; BATS Petition; KCG Opposition Statement.
+
+34
+
+Stockholder Exchanges are eligible to receive dividend payments.121
+Commenters question whether the Board can fairly guide OCC on budget efficiencies in
+setting the fees.122 Commenters also argue that the rule filing process for fee changes, which
+requires submission to the Commission, public comment, and Commission review fails to
+adequately protect investors against dues, fees, or other charges that are not reasonable because,
+at the time of filing, there is no way to calculate whether a fee change will later result in excess
+dividends.123
+As more fully discussed above, OCC counters that there is no unfair discrimination or
+inequitable allocation of fees because the parties’ obligations are different, as only the
+Stockholder Exchanges face substantial risk of loss from their capital contributions, and commit
+to Replenishment Capital.124 OCC also argues that in addition to the fee change rule filing
+process, the Commission could summarily act to suspend any such fee if necessary or
+appropriate in furtherance of the purposes of the Exchange Act.125
+
+121
+
+See BATS Petition.
+
+122
+
+See SIG Opposition Statement (questioning whether the Board would be able to ensure
+that budgets are not inflated and that no more revenues than needed are collected,
+because Stockholder Exchanges would be conflicted and would unduly influence Board
+votes to approve larger budgets that would enrich themselves via dividend payments).
+See also MM Letter at 13 (arguing “If the SEC allows the five owners to monetize OCC
+in this fashion, the conflicts of interest will diminish the prospect that OCC will perform
+efficiently to keep transaction fees low and operating expenses under control. . . . Given
+the potential of the dividend to increase with the size of OCC’s budget, we are concerned
+where transaction fees may go in the future.”)
+
+123
+
+See BATS Petition; BATS Opposition Statement; KCG Opposition Statement.
+
+124
+
+See OCC Support Statement.
+
+125
+
+See OCC Stay Brief.
+
+35
+
+The Commission finds that the Capital Plan is consistent with Exchange Act Section
+17A(b)(3)(D).126 Exchange Act Section 17A(b)(3)(D) provides that the rules of a clearing
+agency must provide for equitable allocation of fees among its participants and for reasonable
+fees and charges. With respect to equitable allocation, the Capital Plan as a whole, and the Fee
+Policy in particular, do not change the way that the fees are allocated among clearing members,
+and fees for similarly-situated market participants are equitable. While Stockholder Exchanges
+may receive dividends, nothing in the Exchange Act precludes OCC from paying dividends to
+the Stockholder Exchanges, who have made substantial contributions to improve OCC’s capital
+base. Although end of year refunds to clearing members will be reduced by 50% to allocate
+money to pay for dividends, those dividends are compensation for the financial risks and
+obligations incurred by the Stockholder Exchanges under the Capital Plan and all clearing
+members share in refunds.
+With respect to the reasonableness of fees, the Commission does not believe that the
+Capital Plan as a whole and the Fee Policy in particular, results in unreasonable dues, fees, and
+other charges. After setting its annual Target Capital Requirement, the Fee Policy requires OCC
+to set fees at levels to ensure that it can cover operational expenses, business and regulatory
+capital needs, and maintain shareholder equity. Reductions to, and the quarterly review of, the
+Business Risk Buffer will enable OCC to charge lower fees and make reductions as appropriate
+to manage revenue as close to its target as possible. These changes are designed to give market
+participants the benefit of lower upfront transaction costs, especially those customer end users
+who do not receive passed through refunds from the clearing member.127
+126
+
+15 U.S.C. 78q-1(b)(3)(D).
+
+127
+
+See Notice at 5175.
+36
+
+In addition, any future fee change or increase will be subject to the rule filing
+requirements under Section 19(b) of the Exchange Act and Rule 19b-4 thereunder. The
+Commission believes that these filing requirements provide appropriate protection against future
+fee increases despite commenters’ assertions to the contrary. The Exchange Act rule filing
+requirements for fee changes provide an opportunity for public comment128 and an opportunity
+for the Commission to review the change, summarily suspend it and institute proceedings to
+ultimately approve or disapprove the change,129 as applicable, to ensure an SRO’s rules meet
+regulatory requirements. The Commission believes that various components of the Capital Plan,
+including the Dividend Policy, Refund Policy and Fee Policy, operate to maintain fees and
+dividend payments, if any, at appropriate levels based on the Target Capital Requirement
+established for the year, Business Risk Buffer, and other considerations, such as applicable taxes
+and OCC’s industry utility role to provide refunds. The Commission’s review of any future
+filings by OCC on its new fee schedule will determine whether the future fee changes are
+consistent with the applicable Exchange Act requirements, taking into account all relevant facts
+in addition to the Fee Policy under the Capital Plan.
+The Commission therefore, disagrees with commenters’ assertions that the fee filings will
+not adequately protect investors against dues, fees, or other charges that are not reasonable.
+For the reasons discussed above, the Commission finds that the Capital Plan is consistent
+with the Exchange Act Section 17A(b)(3)(D)130 because it provides for the equitable allocation
+of reasonable dues, fees, and other charges among its participants.
+128
+
+15 U.S.C. 78s(b)(1).
+
+129
+
+15 U.S.C. 78s(b)(3).
+
+130
+
+15 U.S.C. 78q-1(b)(3)(D).
+37
+
+3.
+
+Facilitating Prompt and Accurate Settlement and Safeguarding of
+Securities and Funds under Exchange Act Section 17A(b)(3)(A)
+
+Section 17A(b)(3)(A) of the Exchange Act131 requires that a registered clearing agency be
+so organized and have the capacity to be able to facilitate the prompt and accurate settlement of
+securities transactions and to safeguard securities and funds in its custody or control or for which
+it is responsible. Commenters132 acknowledged OCC’s fundamental need to raise additional
+capital to support OCC’s operations.133
+OCC asserts that the Capital Plan is structured to provide OCC with sufficient capital (at
+a lower fee structure for market participants) to fund unpredictable business, operational, and
+pension events that might impair capital.134 OCC noted that in the absence of the Capital Plan,
+clearing members’ funds would be put at risk should OCC be unable to withstand an adverse
+capital event.135 Additionally, OCC asserts that the Capital Plan is structured to replenish capital
+during an adverse capital event, thereby ensuring OCC’s business continuity. 136
+Taking these comments into account, the Commission finds that the Capital Plan is
+consistent with Exchange Act Section 17(A)(b)(3)(A). The Capital Plan supports OCC’s
+business continuity (thereby facilitating the integrity of the clearing agency and its functions) by
+raising additional capital and obtaining a commitment from the Stockholder Exchanges to
+131
+
+15 U.S.C. 78q-1(b)(3)(A).
+
+132
+
+No commenters to the Notice raised specific concerns that the Capital Plan was
+inconsistent with Exchange Act Section 17A(b)(3)(A).
+
+133
+
+See BATS Letter I at 2; BOX Letter I at 1; KCG Letter I at 2; SIG Letter I at 2.
+
+134
+
+See OCC Letter I; OCC Stay Brief.
+
+135
+
+See OCC Support Statement.
+
+136
+
+See OCC Stay Brief; Notice at 5176.
+
+38
+
+provide potential Replenishment Capital should it become necessary. In this manner, the Capital
+Plan ensures that OCC, especially during a significant event that impairs its capital, would have
+the capacity to facilitate and promote the prompt and accurate settlement of securities
+transactions and to safeguard securities and funds in its custody or control or for which it is
+responsible. Accordingly, the Commission finds that the Capital Plan is consistent with
+Exchange Act Section 17A(b)(3)(A).
+4.
+
+Commission’s Consideration of SRO Rules’ Promotion of Efficiency,
+Competition and Capital Formation under Exchange Act Section 3(f)
+
+Section 3(f) of the Exchange Act137 directs that the Commission, when it is reviewing a
+rule of a self-regulatory organization, must consider whether such rule promotes efficiency,
+competition, and capital formation. Commenters argue that the Commission should not approve
+the Capital Plan because the Capital Plan introduces inefficiencies through costs, including tax
+liabilities, and imposes burdens on competition.138 One commenter argues that the Capital Plan
+is inefficient from a tax perspective because the dividend payments to Stockholder Exchanges
+subject a significant portion of OCC’s profits to taxes, which is an inefficient use of industry
+funds.139 In response, OCC noted that the Board considered the alternative of raising capital
+through accumulating pre-tax clearing fee revenues to a certain amount in after-tax net equity,
+but concluded that the Capital Plan was superior because it would increase certainty of OCC’s
+compliance with PFMI and Commission’s proposed Rule 17Ad-22(e)(15) in a timely way.140
+
+137
+
+15 U.S.C. 78q-1(b)(3)(f).
+
+138
+
+BATS Opposition Statement; BOX Petition for Review; KCG Petition for Review.
+
+139
+
+See SIG Opposition Statement.
+
+140
+
+See OCC Support Statement.
+
+39
+
+The Commission has considered whether the Capital Plan promotes efficiency,
+competition, and capital formation, and discusses efficiency and capital formation below. The
+Commission has discussed the impact of the Capital Plan on competition in Section III.B.1
+above.
+With respect to the promotion of efficiency, the Commission first notes that under the
+Capital Plan, OCC has both immediate and ongoing access to cash to meet its Target Capital
+Requirement. From a timing standpoint, the Capital Plan is more immediate and expedient than
+several of the alternatives, such as raising capital from Non-Stockholder Exchanges, clearing
+members or third-parties, each of which would have necessitated governance changes over a
+period of time. Similarly, raising capital through the accumulation of fees was forecasted by
+OCC to take several years and would be subject to clearing volume volatility risks.
+Second, the Capital Plan efficiently allocates costs for operational risk management
+among market participants. Having the Stockholder Exchanges bear the business, operational,
+and pension risks up front by making Capital Contributions and committing to Replenishment
+Capital in exchange for future dividend payments incents them, as owners of OCC, to prudently
+manage and minimize these risks, to avoid the loss of their capital contributions.
+Third, on an ongoing basis, OCC intends to use clearing fees to maintain the Target
+Capital Requirement. This aspect of the Capital Plan apportions the costs of the Capital Plan to
+the clearing firms in relation to their clearing activity. Thus, the Capital Plan seeks to align the
+costs and benefits to clearing firms in accordance with their level of clearing activity. The
+Commission has considered that, under the Capital Plan, OCC expects to continue to pay refunds
+to clearing members from a portion of OCC’s net income. This feature would preserve some of
+the key attributes of OCC’s business model as a market utility.
+
+40
+
+The Commission recognizes that, as commenters note, OCC will fund the cost of raising
+of capital by paying dividends, when eligible, to the Stockholder Exchanges. However, the
+Commission observes that other methods of raising capital similarly would incur costs to OCC
+and its participants. For example, raising capital through retained earnings involves costs related
+to applicable taxes as well as additional time to accumulate sufficient capital, during which time
+OCC will be exposed to business, operational and pension risks without sufficient capital to
+protect itself.141 Similarly, raising capital through other instruments such as issuance of
+perpetual preferred shares or common stock to Non-Stockholder Exchanges, clearing members
+or third-party investors, involves costs related to the transaction itself (e.g. underwriting),
+dividend payments, and applicable taxes. And, unlike the Replenishment Capital provided
+under the Capital Plan, such instruments would not provide readily available capital during a
+critical event, wind-down or recovery period.
+The Commission also has considered whether the Capital Plan promotes efficiency from
+the tax perspective. The Commission notes that similar tax consequences would exist if OCC
+had chosen to raise equity by issuing common stock or preferred stock to Non-Stockholder
+Exchanges, clearing members or third-party investors, because in each of these cases, OCC
+anticipates paying dividends to these parties in exchange for their investments, which will be
+subject to withholding tax prior to making dividend payments. Moreover, tax consequences are
+only one aspect of a consideration of efficiency in these circumstances.
+141
+
+OCC represents that, in considering alternatives, OCC’s Board determined that the
+Capital Plan was financially superior to accumulating capital through fees, which would
+have required nearly $593 million in pre-tax clearing fees in order to grow $364 million
+in after-tax net equity. In addition, OCC estimated at the time such amount would take
+until mid-2017 to achieve. See OCC Support Statement.
+
+41
+
+The Commission also has considered whether the Capital Plan will promote capital
+formation. As discussed throughout this order, the Capital Plan is designed to enable OCC to
+withstand business, operational, and pension risks that may significantly affect OCC’s ability to
+provide prompt clearance and settlement services. It also provides an incentive for OCC to
+prudently manage its risks by allocating these risks between Stockholder Exchanges and clearing
+participants. As OCC is the only clearing agency for listed standardized options in the U.S., it
+plays a crucial role in financial stability. A well-functioning equity options market provides an
+infrastructure necessary for trading both equity options and other equity investment products,
+which are used by companies and businesses to raise capital. The Commission believes that an
+adequately capitalized OCC should promote market confidence in OCC’s ability to continuously
+serve the options market, which in turn facilitates prompt clearance and settlement of options
+transactions and promotes capital formation.
+5.
+
+Other Issues Raised by Commenters
+
+Commenters also raise certain procedural concerns with respect to the Capital Plan.
+Specifically, commenters argue that the process OCC underwent to approve the Capital Plan
+failed to comply with its own rules.142 Commenters also argue that the Capital Plan should not
+have been approved under delegated authority and the Delegated Order failed to fulfill the
+Commission’s obligation to engage in “reasoned decision-making” under the Administrative
+Procedure Act (“APA”).143 The Commission considers and discusses each of these comments
+below.
+142
+
+See, e.g., BATS Letter II; MIAX Letter II; BOX Petition; BATS Petition; MIAX Petition.
+
+143
+
+See e.g., SIG Opposition Statement (stating that the case NetCoalition v. SEC, 615 F.3d
+525 (D.C. Cir. 2010) and the APA, 5 U.S.C. 551 et seq., obligate the Commission to
+engage in “reasoned decision-making”).
+42
+
+(i)
+
+Compliance with Self-Regulatory Organization’s Own Rules as
+Required under Exchange Act Section 19(g)(1)
+
+Section 19(g)(1) of the Exchange Act144 requires, in part, that every self-regulatory
+organization shall comply with its own rules. Form 19b-4 requires each SRO to complete all
+actions required to be taken under its constitution, articles of incorporation, by-laws, rules or
+corresponding instruments prior to filing a proposed rule change. Several commenters argue that
+OCC failed to comply with its By-Laws and such failure might have adversely affected the
+quality of the Board’s deliberations and the validity of its ultimate approval of the Capital Plan.
+Commenters argue that OCC failed to abide by Article XI of its By-Laws,145 when it
+approved the Capital Plan with three instead of five public directors on the Board.146
+Commenters also assert that OCC violated its Code of Conduct (including its Conflict of Interest
+Policy).147 Commenters argue that directors representing the Stockholder Exchanges should
+have been recused from the Board’s vote and their failure to do so invalidates the vote and the
+
+144
+
+15 U.S.C. 78s(g)(1).
+
+145
+
+Article XI, Section I of OCC’s By-Laws provides that OCC’s By-Laws may be amended
+at any time by the Board upon the affirmative vote of two-thirds of the directors then in
+office (but not less than a majority of the number of directors).
+
+146
+
+See BATS Letter II; MIAX Letter II; BOX Petition; BATS Petition; MIAX Petition; see
+also SIG Opposition Statement (arguing that Stockholder Exchanges exercised control
+over the approval process and improperly exercised their veto power, or threatened to
+exercise their veto power, in a manner that prevented OCC from considering any plans
+that involved equity participation, even if such proposals may have been less costly).
+
+147
+
+See BATS Petition; BOX Petition. See also OCC Code of Conduct for OCC Directors,
+which provides that a director shall disclose any actual, potential or apparent conflict of
+interest in a matter to be acted on by the Board to the Executive Chairman and OCC’s
+General Counsel prior to the discussion or presentation of the matter, where possible in
+advance of the meeting, and shall be recused if requested by the Chair of the meeting.
+
+43
+
+Board’s approval of the Capital Plan.148 Commenters also argue that OCC violated its
+Interpretation and Policy .01 (to Article VIIB of its By-Laws), which requires OCC to notify
+Non-Stockholder Exchanges regarding matters of competitive significance as determined by the
+Executive Chairman to afford them an opportunity to make presentations to the Board, because
+OCC failed to notify Non-Stockholder Exchanges of the Capital Plan, which in commenters’
+view, carries significant competitive effect on Non-Stockholder Exchanges.149
+OCC responds that the Board was not prevented from approving the Capital Plan because
+of Board vacancies.150 OCC stated that the Capital Plan’s approval was in accordance with its
+By-Laws. OCC further maintains that the Board’s vote approving the Capital Plan was
+consistent with Delaware law and that neither its own By-Laws nor Delaware law requires a
+director to recuse himself or herself when directors on both sides of a question have potential
+conflicts but have fully disclosed those conflicts to the Board.151 With respect to the comment of
+failure to notify Non-Stockholder Exchanges of the Capital Plan, OCC responds that it did not
+violate its own By-Laws because there were no material competitive consequences resulting
+from the Capital Plan that would have triggered prior notice to or an opportunity for the Non-
+
+148
+
+See BATS Letter II; MIAX Letter II; SIG Letter I; SIG Letter II; BATS Opposition
+Statement (stating that the five directors representing the Shareholder Exchanges did not
+recuse themselves despite their conflict of interest due to their financial motivations for
+approving the Capital Plan).
+
+149
+
+BATS Opposition Statement; MIAX Petition; SIG Petition; BATS Letter III; BOX Letter
+II.
+
+150
+
+OCC Motion to Lift Stay; OCC Support Statement.
+
+151
+
+OCC Motion to Lift Stay; OCC Support Statement.
+
+44
+
+Stockholder Exchanges to make presentations. In OCC’s view, the Capital Plan does not alter
+the manner in which Non-Stockholder Exchanges receive clearing services.152
+The Commission notes that the standard for approving a proposed rule change of a selfregulatory organization is that the proposed rule change is consistent with the requirements of the
+Exchange Act, and rules and regulations thereunder.153 While the Commission will not approve
+a proposed rule change of a self-regulatory organization before the self-regulatory organization
+has completed all action required to be taken under its constitution, articles of incorporation, bylaws, rules or corresponding instruments,154 OCC represented that it did so here, working
+through its internal governance process and obtaining its Board’s approval of the Capital Plan in
+accordance with its By-Laws prior to filing the proposed rule change. OCC also represents that
+the Capital Plan received approval from twelve directors, thus satisfying the requirement of twothirds approval by directors then in office in accordance with its By-Laws.155 Nor do
+commenters challenge OCC’s representations that it engaged in that process. Rather, they raise
+separate questions as to whether the Board nonetheless failed to comply with its responsibilities
+
+152
+
+OCC Motion to Lift Stay; OCC Stay Brief.
+
+153
+
+See Exchange Act Section 19(b)(2)(C), 15 U.S.C. 78s(b)(2)(C).
+
+154
+
+See General Instruction to Form 19b-4, Item E.
+
+155
+
+According to OCC, eighteen directors were in office at the time the Capital Plan was
+approved by the Board and sixteen directors were present at the meeting when the vote
+approving the Capital Plan took place, which constituted a quorum. See OCC’s By-Laws
+Article III, Section 13. Further, OCC’s Code of Conduct does not on its face require
+interested Board members to recuse themselves, but rather to immediately bring to the
+attention of the Executive Chairman and the General Counsel any matters that may
+involve conflicts of interest or be reasonably perceived by others to raise questions about
+potential conflicts. See Code of Conduct for OCC Directors. The record further indicates
+that material facts regarding the directors’ interests were disclosed and known to the
+Board prior to the vote on the Capital Plan. See OCC Support Statement.
+
+45
+
+under relevant corporate governance principles. Such questions are not appropriately addressed
+by the Commission in the context of reviewing this rule filing.
+(ii)
+
+Delegated Authority and Commission’s Reasoned Analysis
+
+The Commission has delegated to the Director of the Division of Trading and Markets
+the authority to “publish notices of proposed rule changes filed by self-regulatory organizations
+and to approve such proposed rule changes.”156 Although commenters raise no legal authority to
+challenge the use of delegated authority, they state that the Capital Plan raises significant issues
+of policy that are more appropriate for Commission review.157 Because the Commission is
+setting aside the Delegated Order, and issuing this Order, this issue is moot.
+Commenters also argue that the Delegated Order failed to fulfill its obligation to engage
+in “reasoned decision-making,” or failed to examine the relevant data and articulate a satisfactory
+explanation for its action, including a rational connection between the facts found and the choice
+made.158 The Commission does not address these comments because it is itself engaging in a de
+novo review, which includes the appropriate inquiry and analysis as directed by the Exchange
+Act.
+IV.
+
+Other Motions and Filings
+
+156
+
+See 17 CFR 200.30-3(a)(12).
+
+157
+
+See BATS Letter II; BATS Petition; BOX Petition; KCG Letter I; KCG Petition; MIAX
+Petition; SIG Letter I; SIG Petition.
+
+158
+
+See SIG Opposition Statement (citing NetCoalition, 615 F.3d 525 to argue that the
+process by which an administrative agency reaches a result must be logical and rational
+and the Court’s task is to ensure that the agency has examined the relevant data and
+articulated a satisfactory explanation for its action including a “rational connection
+between the facts found and the choice made” when evaluating whether the agency action
+is arbitrary or capricious under Section 706(2)(A) of the APA, 5 U.S.C. 706(2)(A)).
+
+46
+
+As discussed above, shortly after the issuance of the Review Order and Stay Order,
+Petitioners filed the Reinstitution Motion on September 15, 2015, requesting that the
+Commission reinstitute the automatic stay.159 OCC filed the OCC Reinstitution Response on
+September 22, 2015 and commenters filed the Memo in Further Support on September 25,
+2015.160
+On October 7, 2015, BATS, BOX, KCG, MIAX and SIG filed a motion (“Evidentiary
+Motion”) pursuant to Rule 452 of the Rules of Practice.161 Rule 452 provides that a motion for
+leave to adduce additional evidence must show with particularity that such additional evidence is
+material and that there were reasonable grounds for failure to adduce such evidence previously.
+Rule 452162 further states that if the Commission determines to accept additional evidence, it
+may, among other things, remand or refer the proceeding to a hearing officer for the taking of
+additional evidence as appropriate. The Evidentiary Motion requests that the Commission refer
+
+159
+
+See Reinstitution Motion; see also Expedition Motion (arguing, inter alia, that the
+dividend payments, refund and fee reduction would be impracticable to claw back, such
+dividend payments and refund are likely imminent, and the Commission should expedite
+its ruling on the Reinstitution Motion).
+
+160
+
+See OCC Reinstitution Response; Memo in Further Support of Reinstitution; see also
+SIG Letter III (arguing, inter alia, that OCC’s December 2015 declaration of a refund and
+dividend further supports the argument that the Commission should reinstitute the
+automatic stay).
+
+161
+
+Motion for an Order Referring this Matter to a Hearing Officer and Directing Discovery
+in Advance of Hearing and Supporting Brief (October 7, 2015) (“Evidentiary Motion”)
+(citing 17 CFR 201.452, which provides, inter alia, that the Commission may allow the
+submission of additional evidence and may remand or refer the proceeding to a hearing
+officer to take additional evidence as appropriate).
+
+162
+
+17 CFR 201.452.
+
+47
+
+its review of the Capital Plan to a hearing officer to conduct an evidentiary hearing and to allow
+for discovery in advance of any such hearing.163
+Additionally, one commenter filed a motion on October 7, 2015, requesting that the
+Commission order an oral argument pursuant to Rule 451164 of the Rules of Practice.165 The
+commenter argues that oral argument should be granted because such argument would
+significantly aid the Commission’s decisional process in reviewing the Delegated Order given
+that the Capital Plan involves intense factual and legal disputes and the voluminous briefing and
+submissions this commenter and other petitioners have submitted to address these complex
+factual and legal disputes.166
+OCC filed a brief in opposition to the Evidentiary Motion on October 15, 2015, arguing
+that the commenters failed to demonstrate that the legal requirements for granting the motion are
+163
+
+BATS, BOX, KCG, MIAX, and SIG filed this motion. See Evidentiary Motion. See also
+Memorandum in Support of Motion for an Order (1) Referring This Matter to a Hearing
+Officer for the Taking of Additional Evidence, and (2) Directing Discovery in Advance
+of the Hearing (October 7, 2015) (“Evidentiary Memo in Support”); SIG Letter III
+(arguing, inter alia, that OCC’s December 2015 declaration of a refund and dividend
+further supports the argument that the Commission should grant the Evidentiary Motion).
+
+164
+
+17 CFR 201.451.
+
+165
+
+See Motion for Oral Argument in Connection with the Commission’s Review of the
+Staff’s Order Approving OCC’s Capital Plan (October 10, 2015) (“Oral Argument
+Motion”) (citing 17 CFR 201.451, which provides, in part, that the Commission may
+order an oral argument if it determines that the presentation of facts and legal arguments
+in the briefs and record and the decisional process would be significantly aided by oral
+argument). See also Motion for Oral Argument in Connection with the Commission’s
+Review of the Staff’s Order Approving OCC’s Capital Plan (October 10, 2015) (“Oral
+Argument Memo in Support”).
+
+166
+
+See Evidentiary Motion (also arguing that, if the evidentiary hearing takes place and
+discovery is conducted in advance of the hearing, oral argument addressing the discovery,
+evidence adduced at the evidentiary hearing, evidentiary findings and their significance
+would be invaluable to the Commission’s review). See also Evidentiary Memo in
+Support.
+
+48
+
+satisfied and prompt affirmance of the Capital Plan is necessary for OCC to be prudently
+capitalized at a level appropriate for a SIFMU.167 OCC also filed a Brief in Opposition to
+Motion for Oral Argument on October 15, 2015, arguing the motion for an oral argument should
+be denied as it is unnecessary because all interested parties have had multiple opportunities to
+submit evidence and arguments to the Commission, and that oral argument would only serve to
+unduly delay resolution of the Commission’s review of the Delegated Order.168
+The Commission received a reply memorandum in further support of the commenter’s
+motion for oral argument on October 20, 2015.169 On the same day, commenters also filed a
+reply in further support of its Evidentiary Motion.170
+The Commission has considered these motions, including OCC’s oppositions and the
+movants’ reply memoranda. For the reasons discussed below, these motions are denied.
+A.
+
+Reinstitution Motion
+
+167
+
+See OCC’s Brief in Opposition to Motion for Referral to Hearing Officer and Discovery
+(“OCC Evidentiary Hearing Opposition”). Specifically, OCC argues that Petitioners
+failed to show, with particularity, that the additional evidence sought to introduce is
+material and that they had reasonable grounds for failure to adduce the evidence
+previously, and merely raised a number of so-called “open issues” and “unanswered
+questions” while they have had opportunities to develop the record in the prior
+proceeding. See OCC Evidentiary Hearing Opposition.
+
+168
+
+OCC Brief in Opposition to Motion for Oral Argument (October 15, 2015) (“OCC Oral
+Argument Motion”).
+
+169
+
+SIG filed this motion. Reply Memorandum in Further Support of Motion for Oral
+Argument in Connection with the Commission Review of the Staff’s Order Approving
+OCC’s Capital Plan (October 20, 2015) (“Oral Argument Memo in Further Support”).
+
+170
+
+Reply Memorandum in Further Support of Petitioners’ Motion for an Order (1) Referring
+this Matter to a Hearing Officer for the Taking of Additional Evidence, And (2) Directing
+Discovery in Advance of the Hearing (October 20, 2015) (“Evidentiary Memo in Further
+Support”); see also SIG Letter III.
+
+49
+
+Commenters filed the Reinstitution Motion, requesting that the Commission reinstitute
+the automatic stay on the ground that there is no compelling reason to implement the Capital
+Plan because OCC’s current capital level is approaching the Target Capital Requirement and will
+soon exceed that amount and it would be extremely impracticable to reverse the implementation
+of the Capital Plan if the Delegated Order were subsequently reversed.171 These commenters
+reiterated their arguments following OCC’s announcement of its declaration of refunds,
+dividends, and fee reduction pursuant to the Capital Plan and requested the Commission to
+expedite its ruling on the Reinstitution Motion.172
+OCC responds that the Reinstitution Motion restated issues that had already been argued
+at length, considered and denied by the Commission and the Petitioners have not shown any
+manifest error, change in law or other recognized basis for the Commission to reconsider the
+Stay Order.173 OCC further argues that the Petitioners failed to provide any other valid basis for
+the Commission to overturn the Stay Order, which was based on a finding that there is a
+compelling public interest in strengthening OCC’s capitalization and for the stay to be lifted. 174
+Because the Commission by this Order is engaging in a substantive review and approving
+the Capital Plan directly, the Reinstitution Motion and Expedition Motion are hereby moot.
+B.
+
+Evidentiary Motion
+
+Rule 452 governs the allowance of the submission of additional evidence.175
+Specifically, Rule 452 of the Commission’s Rules of Practice describes discretionary standards
+171
+
+See Reinstitution Motion.
+
+172
+
+See Expedition Motion; see also SIG Letter III.
+
+173
+
+See OCC Reinstitution Response.
+
+174
+
+See id.
+
+50
+
+by which the Commission may allow additional evidence, noting that motions for allowing the
+submission of additional evidence must: (i) show with particularity that the requested evidence is
+material, and (ii) that reasonable grounds existed for the failure to adduce this evidence
+previously.176
+In the Evidentiary Motion, the commenters request that the Commission: (i) refer this
+matter to a hearing officer, and (ii) direct discovery in advance of the hearing.177 They argue that
+the current record before the Commission is insufficient for the Commission to find that the
+Capital Plan is consistent with the requirements of the Exchange Act under Exchange Act
+Section 19(b)(2)(C)(i).178
+Commenters rely on NetCoalition v. SEC 179 to suggest that the Commission needs to
+supplement the factual record.180 Commenters also rely on Chamber of Commerce of U.S. v.
+
+175
+
+See 17 CFR 201.451.
+
+176
+
+17 CFR 201.451. Commenters also cited the Commission’s Rules of Practice, Rule
+100(c) as authority for the Commission to authorize pre-hearing discovery. See 17 CFR
+201.100(c).
+
+177
+
+See Evidentiary Motion; see also Memorandum in Support and Evidentiary Memo in
+Further Support.
+
+178
+
+See Evidentiary Memo in Support (citing 17 CFR 201.100(c) as providing that the
+Commission “may by order direct, in a particular proceeding, that an alternative
+procedure shall apply or that compliance with an otherwise applicable rule is necessary”);
+(noting that factual record is not developed adequately regarding: (i) Exchange Act
+Section 17A(b)(3)(D); (ii) Exchange Act Section 17A(b)(3)(F); and (iii) Exchange Act
+Section 17A(b)(3)(I)). See also 15 USC 78s(b)(2)(C)(i).
+
+179
+
+NetCoalition v. SEC, 615 F.3d 525.
+
+180
+
+See Evidentiary Memo in Support (arguing that the Commission should refer the
+Delegated Order to an administrative law judge so that the law judge can consider a fully
+developed record).
+
+51
+
+SEC181 and the case’s emphasis on consideration of alternatives.182 Specifically, commenters
+note that the Delegated Order fails to mention multiple alternative capital raising plans that
+commenters proposed, including the CBOE proposal.183
+Additionally, commenters question whether OCC’s Board approval process operated in a
+manner consistent with the public interest and seeks additional evidence about that approval
+process.184
+Commenters also argue that OCC will effectively achieve its Target Capital Requirement
+within six months without implementing the Capital Plan.185 Due to an alleged lack of data and
+supposed “opacity in the record concerning OCC’s current and projected capital levels,”
+commenters assert that discovery and an evidentiary hearing are necessary and that the
+replenishment capital calculation needs to be supported factually.186
+OCC responds to these comments by noting that the commenters fail to meet the Rule
+452 standards; specifically: (i) that the motion fails to identify any material evidence with
+181
+
+412 F.3d 133 (D.C. Cir. 2005).
+
+182
+
+Evidentiary Memo in Support.
+
+183
+
+See Evidentiary Memo in Support; Evidentiary Memo in Further Support (arguing that,
+under Chamber of Commerce, the Commission must explore alternatives; specifically,
+that the Commission must consider “facially reasonable alternatives” raised by a party, or
+provide reasons for not doing so).
+
+184
+
+See Evidentiary Memo in Support (citing Exchange Act Release No. 50699 (November
+18, 2004), 69 FR 71126, 71140 (December 8, 2004)(“The Commission believes that
+independent directors must be provided with the opportunity to discuss any important
+matters regarding the exchange or association in a frank and open manner, free from the
+presence of management. Therefore, the Commission proposed that the independent
+directors of the exchange’s or association’s board meet regularly in executive session”).
+
+185
+
+See Evidentiary Memo in Support.
+
+186
+
+See Evidentiary Memo in Further Support.
+
+52
+
+particularity, and (ii) that the motion fails to provide a reasonable basis to explain the
+commenters’ failure to obtain the requested information earlier.187
+OCC states that, instead of identifying material evidence with particularity, commenters
+provided a sweeping list of discovery requests without an attempt to articulate why this
+information is material.188 Specifically, OCC notes that the motion raises three types of
+inquiries, each of which fails to meet the Rule 452 materiality standard: (i) inquiries into
+alternatives; (ii) inquiries into the Board’s process for approval of the Capital Plan; and (iii)
+inquiries into OCC’s Target Capital Requirements.189 OCC further notes that Rule 452 requires
+a motion for leave to adduce additional evidence to “show with particularity that such additional
+evidence is material and that there were reasonable grounds for failure to adduce such evidence
+previously.”190
+The Commission has determined that the information the Evidentiary Motion seeks to
+discover is not material to its review of the Capital Plan for purposes of determining whether the
+Capital Plan is consistent with the Exchange Act. The Evidentiary Motion requests information
+regarding: (i) whether OCC considered less expensive alternatives to the Capital Plan; (ii)
+whether OCC’s Board approval process was designed to serve the Stockholder Exchanges rather
+than the public interest; and (iii) whether OCC will achieve its Target Capital Requirement
+within six months without the Capital Plan’s implementation. As discussed above, the existence
+
+187
+
+See OCC’s Brief in Opposition to Motion for Referral to Hearing Officer and Discovery
+(October 15, 2015) (“OCC Evidentiary Hearing Opposition”).
+
+188
+
+See id.
+
+189
+
+See id.
+
+190
+
+See id (citing 17 CFR 201.452).
+
+53
+
+of alternatives to the Capital Plan does not render the Capital Plan inconsistent with the
+Exchange Act, and the record fully establishes that OCC considered other alternatives to the
+Capital Plan. Additionally, the record indicates that OCC engaged in the required process to
+approve the Capital Plan, and questions regarding whether that process complied with relevant
+corporate governance principles are not appropriately addressed by the Commission in the
+context of reviewing this rule filing. Finally, the Commission notes that whether OCC would
+accumulate sufficient capital to reach the Target Capital Requirement was unknown at the time
+OCC proposed the Capital Plan and commenters’ after-the-fact assertions about OCC capital
+levels include capital contributions made pursuant to the Capital Plan. The record also shows
+that the Capital Plan provides for the immediate infusion of capital and a commitment to provide
+Replenishment Capital, which OCC states could not be achieved in the same manner by other
+means.191
+The Commission has evaluated the record and, for reasons discussed above, finds that the
+Capital Plan is consistent with the Exchange Act requirements, and rules and regulations
+thereunder, applicable to OCC, and the Commission finds that the introduction of additional
+information is not necessary. Consequently, under Rule 452, the Commission denies the
+Evidentiary Motion.
+C.
+
+Oral Argument Motion
+
+Rule 451192 of the Commission’s Rules of Practice provides that the Commission may
+order oral argument if the Commission determines that the presentation of the facts and the legal
+191
+
+See OCC Letter II and OCC Support Statement.
+
+192
+
+17 CFR 201.451 (stating that the Commission “on its own motion or the motion of a
+party or any other aggrieved person entitled to Commission review, may order oral
+argument with respect to any matter. . . [t]he Commission will consider appeals, motions
+54
+
+arguments in the briefs and record and decisional process would be significantly aided by oral
+argument.
+A commenter states that an oral argument is proper under Rule 451.193 Specifically, the
+commenter contends that an oral argument would allow the Commission to resolve the factual
+disputes regarding: (i) OCC’s proposed capital target assumptions; (ii) OCC’s actual financial
+condition; (iii) OCC’s Board approval process; and (iv) the availability of alternative plans. 194
+The commenter argues that, even if the Commission denies the other discovery motion,195 an oral
+argument would still allow the Commission to address multiple factual issues that remain in
+dispute in the current record.196
+The commenter further argues that OCC has failed to show the negative impact of an oral
+
+and other matters properly before it on the basis of the papers filed by the parties without
+oral arguments unless the Commission determines that the presentation of the facts and
+the legal arguments in the briefs and record and decisional process would be significantly
+aided by oral argument”).
+193
+
+See Motion for Oral Argument in Connection with the Commission’s Review of the
+Staff’s Order Approving OCC’s Capital Plan (October 7, 2015) (“Oral Argument
+Motion”); Memorandum in Support of Motion for Oral Argument in Connection with the
+Commission’s Review of the Staff’s Order Approving OCC’s Capital Plan (October 7,
+2015) (“Oral Argument Memo in Support”); see also Reply Memorandum in Further
+Support of Motion for Oral Argument in Connection with the Commission’s Review of
+the Staff’s Order Approving OCC’s Capital Plan (October 21, 2015) (“Oral Argument
+Reply Memo”).
+
+194
+
+See Oral Argument Memo in Support.
+
+195
+
+See Motion for an Order (1) Referring This Matter to a Hearing Officer for the Taking of
+Additional Evidence, and (2) Directing Discovery in Advance of the Hearing (October 7,
+2015); see also Memorandum in Support of Motion for an Order (1) Referring This
+Matter to a Hearing Officer for the Taking of Additional Evidence, and (2) Directing
+Discovery in Advance of the Hearing (October 7, 2015).
+
+196
+
+See Oral Argument Memo in Support.
+
+55
+
+argument.197 Specifically, the commenter states that OCC does not identify any harm that could
+result from any delay associated with the scheduling of an oral argument.198 The commenter also
+notes that oral argument would allow the Commission to satisfy concerns under the APA.199
+Finally, the commenter states that OCC’s recent submissions reflect the need to supplement an
+evolving record.200
+OCC responds that the commenter’s motion does not satisfy the requirements of Rule
+451, stating that the Commission has routinely denied oral argument when the issues raised can
+be determined by the record and papers filed by the parties.201 OCC also notes that the motion
+does not demonstrate any facts or legal standards that the Commission cannot consider
+adequately on the written submissions.202 Further, OCC argues that the Commission should
+deny the motion for oral argument because: (i) commenters already had multiple opportunities to
+
+197
+
+See Oral Argument Memo in Further Support.
+
+198
+
+See Oral Argument Memo in Further Support.
+
+199
+
+See Oral Argument Reply Memo (noting that oral argument would allow a fuller
+explanation of the Capital Plan’s issues necessary to satisfy the APA’s requirement for
+“reasoned decision-making”).
+
+200
+
+See Oral Argument Reply Memo (suggesting that OCC’s recent submission of an
+affidavit by its Executive Chairman reflects information that was not previously
+discussed, and therefore, unaddressed by commenters).
+
+201
+
+See OCC Oral Argument Opposition Brief (October 15, 2015) (“OCC Oral Argument
+Opposition”) (citing In the Matter of D.E. Wine Inv., Inc., et al., File No. 3-8535,
+Exchange Act Release No. 43929 (Feb. 6, 2001); and In the Matter of the Application of
+Cleantech Innovations, Inc., File No. 3-14640, Exchange Act Release No. 69968, at 17
+n.67 (July 11, 2013)).
+
+202
+
+See OCC Oral Argument Opposition.
+
+56
+
+submit arguments and information; and (ii) oral argument would unduly delay resolution of the
+Commission’s review.203
+Pursuant to the Rules of Practice, the Commission considers matters properly before it on
+the basis of the papers filed by the parties without oral argument unless it determines that the
+presentation of facts and legal arguments in the briefs and record and the decisional process
+would be significantly aided by oral argument.204 The Commission notes the record is extensive,
+and contains significant amounts of data and information related to the Capital Plan. As a result,
+the Commission does not believe that either the presentation of facts and legal arguments in the
+briefs and record or the decisional process would be significantly aided by oral argument.
+Accordingly, the Commission denies the Oral Argument Motion.
+
+203
+
+See OCC Oral Argument Opposition.
+
+204
+
+See 17 CFR 201.451.
+
+57
+
+V.
+
+Conclusion
+It is therefore ordered that the earlier action taken by delegated authority, Securities
+
+Exchange Act Release No. 74452 (March 6, 2015), 80 FR 13058 (March 12, 2015) is set aside
+and pursuant to section 19(b)(2) of the Exchange Act SR-OCC-2015-02 is approved. All
+pending motions in this matter are hereby denied.
+For the reasons stated above, it is hereby:
+ORDERED that the earlier action taken by delegated authority, Securities Exchange Act
+Release No. 74452 (March 6, 2015), 80 FR 13058 (March 12, 2015) is hereby set aside; and
+It is further ORDERED that SR-OCC-2015-02 is hereby approved pursuant to section
+19(b)(2) of the Exchange Act; and
+It is further ORDERED that the Motion to Reinstitute Automatic Stay is DENIED AS
+MOOT; and
+It is further ORDERED that the Motion to Expedite the Commission’s Ruling on the
+Pending Motion to Reinstitute the Automatic Stay is DENIED AS MOOT; and
+It is further ORDERED that the Motion for an Order (1) Referring this Matter to a
+Hearing Officer for the Taking of Additional Evidence, And (2) Directing Discovery in Advance
+of the Hearing is DENIED; and
+It is further ORDERED that the Motion for Oral Argument in Connection with the
+Commission’s Review of the Staff’s Order Approving OCC’s Capital Plan and Supporting Brief
+is DENIED.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+58
+
+

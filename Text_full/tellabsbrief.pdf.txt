@@ -1,0 +1,1492 @@
+No. 06-484
+
+In the Supreme Court of the United States
+
+TELLABS, INC., ET AL., PETITIONERS
+v.
+MAKOR ISSUES & RIGHTS, LTD., ET AL.
+ON WRIT OF CERTIORARI
+
+TO THE UNITED STATES COURT OF APPEALS
+
+FOR THE SEVENTH CIRCUIT
+
+
+BRIEF FOR THE UNITED STATES
+
+AS AMICUS CURIAE SUPPORTING PETITIONERS
+
+
+BRIAN G. CARTWRIGHT
+General Counsel
+ANDREW N. VOLLMER
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+LUIS DE LA TORRE
+Senior Litigation Counsel
+MICHAEL L. POST
+Senior Counsel
+Securities and Exchange
+Commission
+Washington, D.C. 20549
+
+PAUL D. CLEMENT
+Solicitor General
+Counsel of Record
+PETER D. KEISLER
+Assistant Attorney General
+THOMAS G. HUNGAR
+Deputy Solicitor General
+KANNON K. SHANMUGAM
+Assistant to the Solicitor
+General
+MICHAEL JAY SINGER
+JOHN S. KOPPEL
+Attorneys
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+
+QUESTION PRESENTED
+
+Whether, and to what extent, a court must consider
+or weigh competing inferences in determining whether
+a securities fraud complaint has “state[d] with particu
+larity facts giving rise to a strong inference that the de
+fendant acted with the required state of mind,” as re
+quired by the Private Securities Litigation Reform Act
+of 1995.
+
+(I)
+
+
+TABLE OF CONTENTS
+
+Page
+Interest of the United States . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Summary of argument . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Argument:
+In order for a private securities fraud complaint to sat
+isfy the “strong inference” requirement of the Reform
+Act, there must be a high likelihood that the conclusion
+that the defendant possessed scienter follows from the
+facts alleged with particularity . . . . . . . . . . . . . . . . . . . . . . 10 
+
+A.	 Before the enactment of the Reform Act, lower
+courts applied different pleading standards to
+the mental-state element of securities fraud . . . . . 11
+B.	 The Reform Act applied a heightened pleading
+standard to the mental-state element of securi
+ties fraud, and the court of appeals erroneously
+diluted that standard . . . . . . . . . . . . . . . . . . . . . . . . . 15
+C.	 In applying the Reform Act’s heightened
+pleading standard for the mental-state element
+of securities fraud, a court must consider any
+competing inference or non-culpable explana
+tions for the defendant’s conduct . . . . . . . . . . . . . . . 24
+D. The Reform Act’s heightened pleading stan
+dard for the mental-state element of securities
+fraud is consistent with the Seventh Amend
+ment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 
+
+
+(III)
+
+
+IV
+TABLE OF AUTHORITIES
+
+Cases:
+
+Page
+
+Abrams v. Baker Hughes Inc., 292 F.3d 424 (5th Cir.
+2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 
+
+Allen v. WestPoint-Pepperell, Inc., 945 F.2d 40
+
+(2d Cir. 1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 
+
+Baltimore & Carolina Line, Inc. v. Redman, 295 U.S.
+654 (1935) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 
+
+Beck v. Manufacturers Hanover Trust Co., 820 F.2d
+46 (2d Cir. 1987), cert. denied, 484 U.S. 1005 
+
+(1988) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 14, 19 
+
+Blue Chip Stamps v. Manor Drug Stores, 421 U.S.
+723 (1975) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13 
+
+Bryant v. Avado Brands, Inc., 187 F.3d 1271 (11th
+Cir. 1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 
+
+Burlington Coat Factory Sec. Litig., In re, 114 F.3d
+1410 (3d Cir. 1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13 
+
+Cabletron Sys., Inc., In re, 311 F.3d 11 (1st Cir. 2002) . . . 20
+
+Caterpillar Inc. v. Williams, 482 U.S. 386 (1987) . . . . . . . 25 
+
+Conley v. Gibson, 355 U.S. 41 (1957) . . . . . . . . . . . . . . . 11, 12 
+
+Connecticut Nat’l Bank v. Fluor Corp., 808 F.2d 957
+
+(2d Cir. 2005) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+
+Credit Suisse First Boston Corp., In re, 431 F.3d 36
+
+(1st Cir.), cert. denied, 498 U.S. 941 (1990) . . . . 20, 21, 25 
+
+Denny v. Barber, 576 F.2d 465 (2d Cir. 1978) . . . . . . . . . . 13 
+
+DiLeo v. Ernst & Young, 901 F.2d 624 (7th Cir.),
+cert. denied, 498 U.S. 941 (1990) . . . . . . . . . . . . . . . . 13, 15 
+
+Dura Pharmaceuticals v. Broudo, 544 U.S. 336 
+
+(2005) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 12 
+
+Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976) . . . . 10, 11 
+
+
+V
+
+Cases—Continued:
+
+Page
+
+Fidelity & Deposit Co. v. United States, 187 U.S. 315
+
+(1902) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 28, 29 
+
+Florida State Bd. of Admin. v. Green Tree Fin. Corp.,
+
+270 F.3d 645 (8th Cir. 2001) . . . . . . . . . . . . . . . . . 12, 13, 15 
+
+Geffon v. Micrion Corp., 249 F.3d 29 (1st Cir. 2001) . . . . 29 
+
+GlenFed, Inc. Sec. Litig., In re, 42 F.3d 1541 (9th Cir.
+
+1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 
+
+Gompper v. VISX, Inc., 298 F.3d 893 (9th Cir. 
+
+2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 26 
+
+Greebel v. FTP Software, Inc., 194 F.3d 185 (1st Cir.
+
+1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19 
+
+Greenstone v. Cambex Corp., 975 F.2d 22 (1st Cir.
+
+1992) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 14 
+
+Gutierrez v. Peters, 111 F.3d 1364 (7th Cir. 1997) . . . . . . 25 
+
+Helwig v. Vencor, Inc., 251 F.3d 540 (6th Cir. 2001),
+
+cert. dismissed, 536 U.S. 935 (2002) . . . . . . . . . . . . . . . . 21 
+
+Howard v. Everex Sys., Inc., 228 F.3d 1057 (9th Cir.
+
+2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29 
+
+Kramer v. Time Warner Inc., 937 F.2d 767 (2d Cir.
+
+1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+
+Leatherman v. Tarrant County Narcotics Intelli
+
+gence & Coordination Unit, 507 U.S. 163 (1993) . . . . . 21 
+
+Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Dabit,
+
+126 S. Ct. 1503 (2006) . . . . . . . . . . . . . . . . . . . 15, 16, 17, 22 
+
+Nathenson v. Zonagen Inc., 267 F.3d 400 (5th Cir.
+
+2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 14, 18 
+
+Neely v. Martin K. Eby Constr. Co., 386 U.S. 317
+
+(1967) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 
+
+
+VI
+
+Cases—Continued:
+
+Page
+
+Novak v. Kasaks, 216 F.3d 300 (2d Cir.), cert. denied,
+
+531 U.S. 1012 (2000) . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 14 
+
+Ottmann v. Hanger Orthopedic Group, Inc., 353 F.3d
+
+338 (4th Cir. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 19 
+
+Pease v. Rathbun-Jones Eng’g Co., 243 U.S. 273
+
+(1917) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 
+
+Peterson, Ex parte, 253 U.S. 300 (1920) . . . . . . . . . . . . 27, 28 
+
+Pirraglia v. Novell , Inc., 339 F.3d 1182 (10th Cir.
+
+2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 26 
+
+Romani v. Shearson Lehman Hutton, 929 F.2d 875
+
+(1st Cir. 1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13 
+
+Ross v. A.H. Robins Co., 607 F.2d 545 (2d Cir. 1979),
+
+cert. denied, 446 U.S. 946 (1980) . . . . . . . . . . . . . . . . . . . 13 
+
+Silicon Graphics Inc. Sec. Litig., 183 F.3d 970 (9th
+
+Cir. 1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 
+
+Time Warner Inc. Sec. Litig., In re, 9 F.3d 259 (2d
+
+Cir. 1003), cert. denied, 511 U.S. 1017 (1994) . . . . . . . . 13 
+
+Tuchman v. DSC Comm’cns Corp., 14 F.3d 1061 (5th
+
+Cir. 1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 
+
+United States v. Oakland Cannabis Buyers’ Coop.,
+
+532 U.S. 483 (2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 
+
+Wexner v. First Manhattan Co., 902 F.2d 169 (2d Cir.
+
+1990) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+
+Wharf (Holdings) Ltd. v. United Int’l Holdings, Inc.,
+
+532 U.S. 588 (2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 
+
+Constitution, statutes, regulation and rules:
+U.S. Const. Amend. VII . . . . . . . . . . . . . . . . . 9, 26, 27, 28, 29 
+
+Private Securities Litigation Reform Act of 1995,
+
+Pub. L. No. 104-67, 109 Stat. 737 . . . . . . . . . . . . . . . . . . 11 
+
+
+VII
+
+Statutes, regulation and rules—Continued:
+
+Page
+
+§ 101(b), 109 Stat. 743 . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a
+
+et seq.:
+
+§ 10(b), 15 U.S.C. 78j(b) . . . . . . . . . . . . . . . . 3, 5, 10, 22 
+
+§ 20(a), 15 U.S.C. 78t(a) . . . . . . . . . . . . . . . . . . . . . . 3, 5 
+
+§ 20A, 15 U.S.C. 78u-1 . . . . . . . . . . . . . . . . . . . . . . . . . 5 
+
+§ 21D(b), 15 U.S.C. 78u-4(b) . . . . . . . . . . . . . . . . . . . 17 
+
+§ 21D(b)(1), 15 U.S.C. 78u-4(b)(1) . . . . . . . . . . . . 16, 17 
+
+§ 21D(b)(2), 15 U.S.C. 78u-4(b)(2) . . . . . . . . . . passim
+
+§ 21D(b)(3)(B), 15 U.S.C. 78u-4(b)(3)(B) . . . . . . . . . 17 
+
+Y2K Act, Pub. L. No. 106-37, § 8(d), 113 Stat. 198
+
+(15 U.S.C. 6607(d)) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19 
+
+17 C.F.R. 240.10b-5 . . . . . . . . . . . . . . . . . . . . . . . . . 3, 5, 10, 22 
+
+Fed. R. Civ. P.:
+
+Rule 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 
+
+Rule 8(a)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 
+
+Rule 9(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 12, 17, 22 
+
+Rule 50(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 
+
+Miscellaneous:
+Black’s Law Dictionary:
+
+6th ed. (1990) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 
+
+8th ed. (2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19 
+
+H.R. Conf. Rep. No. 369, 104th Cong., 1st Sess. 
+
+(1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 17, 18, 19 
+
+
+VIII
+
+Miscellaneous—Continued:
+
+Page
+
+James Hawthorne, Inductive Logic (last modified
+
+Oct. 10, 2005), in Stanford Encyclopedia of Philos
+
+ophy (Edward N. Zalta ed., 2007) <http://
+
+plato.stanford.edu/entries/logic-inductive> . . . . . . . . . 20 
+
+S. Rep. No. 98, 104th Cong., 1st Sess. 
+
+(1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 18, 22 
+
+The American Heritage Dictionary of the English
+
+Language (4th ed. 2000) . . . . . . . . . . . . . . . . . . . . . . . . . . 20 
+
+16 The Oxford English Dictionary (2d ed. 1989) . . . . . . . 20 
+
+Charles Alan Wright & Arthur R. Miller, Federal
+
+Practice and Procedure:
+
+Vol. 5A (3d ed. 2004) . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+
+Vol. 9 (2d ed. 1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 
+
+Run TOA Insert macro to place cursor for manual TOA insert
+& remove this text
+
+In the Supreme Court of the United States
+
+No. 06-484
+
+TELLABS, INC., ET AL., PETITIONERS
+
+v.
+
+MAKOR ISSUES & RIGHTS, LTD., ET AL.
+ON WRIT OF CERTIORARI
+
+TO THE UNITED STATES COURT OF APPEALS
+
+FOR THE SEVENTH CIRCUIT
+
+
+BRIEF FOR THE UNITED STATES
+
+AS AMICUS CURIAE SUPPORTING PETITIONERS
+
+
+INTEREST OF THE UNITED STATES
+
+
+The United States, through the Department of Jus
+tice (DOJ) and the Securities and Exchange Commission
+(SEC), administers and enforces the federal securities
+laws. The issue in this case concerns the interpretation
+of the heightened pleading requirement for state of
+mind in private securities fraud actions. Meritorious
+private actions are an essential supplement to criminal
+prosecutions and civil enforcement actions brought, re
+spectively, by DOJ and the SEC. At the same time,
+Congress has recognized a potential for such actions to
+be abused in ways that impose substantial costs on com
+panies that have fully complied with the applicable laws.
+The United States has a strong interest in seeing that
+the principles applied in private actions promote the
+(1)
+
+2
+
+purposes of the securities laws, and has previously par
+ticipated as an amicus curiae in cases involving those
+principles.
+STATEMENT
+
+1. Petitioner Tellabs, Inc., manufactures equipment
+used in fiber-optic networks; respondents are persons
+who purchased Tellabs stock between December 11,
+2000, and June 19, 2001. Petitioner Richard C.
+Notebaert served as chief executive officer and presi
+dent of Tellabs during the relevant period. Respondents
+allege that, during that period, Notebaert and other
+Tellabs executives “falsely reassured public investors, in
+a series of statements * * * , that Tellabs was continu
+ing to enjoy strong demand for its products and earning
+record revenues.” “In truth,” respondents further al
+lege, “Tellabs’ performance was being adversely af
+fected by the same difficult telecommunications business
+environment that its competitors had been facing.” J.A.
+94, 95, 98; Pet. App. 1a, 30a.
+As is relevant here, respondents more specifically
+allege that Notebaert made four categories of false or
+misleading statements during the relevant period. J.A.
+113-144. First, Notebaert allegedly made statements
+indicating that demand for the TITAN 5500, Tellabs’
+flagship networking device, was continuing to grow,
+when demand for that product was in fact flagging. Pet.
+App. 10a-12a, 48a-50a. Second, Notebaert allegedly
+made statements indicating that the TITAN 6500,
+Tellabs’ next-generation networking device, was avail
+able for delivery, and that demand for that product was
+strong and growing, when the product was not in fact
+ready for delivery and demand was weak. Id. at 12a
+13a, 51a-53a. Third, Notebaert allegedly falsely repre
+
+3
+
+sented Tellabs’ financial results for the fourth quarter
+of 2000 (and, in connection with those results, sanctioned
+the practice of “channel stuffing,” under which Tellabs
+flooded its customers with unwanted products). Id. at
+13a-14a, 55a-57a. Fourth, Notebaert allegedly made a
+series of overstated revenue projections, when demand
+for the TITAN 5500 was drying up and production of the
+TITAN 6500 was behind schedule. Id. at 14a-16a, 45a.
+Starting in March 2001, Tellabs made progressively
+more cautious statements about its projected sales. On
+June 19, 2001, the last day of the relevant period,
+Tellabs disclosed that demand for the TITAN 5500 had
+significantly dropped, and considerably lowered its reve
+nue projections for the second quarter of 2001. The fol
+lowing day, the price of Tellabs stock, which had
+reached a high of $67.125 during the period, dropped to
+a low of $15.87. Pet. App. 3a-5a, 39a.
+2. Respondents filed a class action against petition
+ers and other Tellabs executives in the United States
+District Court for the Northern District of Illinois. In
+their complaint, as amended, respondents alleged, inter
+alia, that defendants had engaged in securities fraud in
+violation of Section 10(b) of the Securities Exchange Act
+of 1934 (1934 Act), 15 U.S.C. 78j(b), and Rule 10b-5
+thereunder, 17 C.F.R. 240.10b-5, and that the individual
+defendants were derivatively liable as “controlling per
+sons” under Section 20(a) of the 1934 Act, 15 U.S.C.
+78t(a). J.A. 167-171.
+Under Section 21D(b)(2) of the 1934 Act, which was
+added by the Private Securities Litigation Reform Act
+of 1995 (Reform Act or PSLRA), Pub. L. No. 104-67,
+§ 101(b), 109 Stat. 737, a private securities fraud com
+plaint must “state with particularity facts giving rise to
+a strong inference that the defendant acted with the
+
+4
+
+required state of mind.” 15 U.S.C. 78u-4(b)(2). Defen
+dants moved to dismiss the complaint on the ground,
+inter alia, that respondents had failed to meet that
+heightened pleading standard.
+The district court dismissed the complaint without
+prejudice. Pet. App. 80a-117a. As is relevant here, the
+court noted that, while respondents had contended that
+“the Individual Defendants knew facts or recklessly dis
+regarded information at their disposal that contradicted
+their public statements,” they had failed to “individual
+ize their allegations as to each of these Defendants, as
+they must.” Id. at 113a. The court further noted that
+“[c]onclusory allegations of reckless disregard are insuf
+ficient to raise a strong inference of scienter” for pur
+poses of the Reform Act. Ibid.
+3. Respondents filed a second amended complaint in
+which they included additional allegations concerning
+defendants’ mental state. J.A. 152-160. Defendants
+moved to dismiss the complaint on the ground, inter
+alia, that respondents had still failed to meet the Re
+form Act’s heightened pleading standard.
+The district court again dismissed the complaint, this
+time with prejudice. Pet. App. 28a-79a. The court held
+that, as to the four categories of statements discussed
+above, respondents had sufficiently alleged that the
+statements were misleading. Id. at 45a-46a, 48a-59a. As
+to those categories of statements, however, the court
+held that respondents had insufficiently alleged the req
+uisite state of mind. Id. at 46a-48a, 59a-74a. At the out
+set, the court noted that “[respondents] again lump
+many of their scienter allegations together with broad
+statements regarding ‘Defendants’ or the ‘Individual
+Defendants.’ ” Id. at 60a. The court reasoned that
+
+5
+
+“these allegations alone are insufficient to establish
+scienter under the PSLRA.” Id. at 61a.
+With regard to petitioner Notebaert more specifi
+cally, the district court first observed that “[respon
+dents] do not allege that CEO Notebaert sold stock dur
+ing the Class Period.” Pet. App. 62a. The court then
+reasoned that, while respondents had alleged that
+Notebaert attended various meetings with Tellabs em
+ployees and participated in regular phone calls concern
+ing the status of Tellabs’ products, “[t]hese allegations
+support that Notebaert was active in Tellabs’ business
+as one would expect, but they do not establish scienter.”
+Id. at 73a. The court explained that “[respondents] do
+not disclose any details regarding what Notebaert alleg
+edly learned during these calls or meetings that support
+an inference of scienter.” Ibid. The court determined
+that respondents’ allegations concerning “channel stuff
+ing” were also insufficient, because “there is nothing
+inherently wrong with several of [respondents’] channel
+stuffing allegations.” Id. at 74a. Overall, the court
+noted, “[respondents] rely on group pleading allegations
+about Notebaert’s position in the company and general
+conclusions concerning his knowledge of the allegedly
+fraudulent activities without providing particulars to
+reinforce their general conclusions.” Ibid.; see id. at
+48a. “Such allegations,” the court concluded, “fail to
+meet the mandates of the PSLRA.” Id. at 74a.
+4. The court of appeals reversed as to the claims
+against petitioners, and remanded for further proceed
+ings. Pet. App. 1a-27a.1 The court of appeals first held
+1
+
+The court of appeals also reversed as to claims against other
+Tellabs executives under Section 20(a) of the 1934 Act, 15 U.S.C. 78t(a),
+and Section 20A, 15 U.S.C. 78u-1. Those claims are derivative of the
+Section 10(b) and Rule 10b-5 claims against petitioners.
+
+6
+
+that, with regard to all four of the categories of state
+ments discussed above, respondents had sufficiently
+alleged that the statements were misleading. Id. at 8a
+16a. Unlike the district court, however, the court of ap
+peals held that respondents had sufficiently alleged that
+Notebaert (and thus, by imputation, Tellabs itself) had
+acted with the requisite state of mind. Id. at 16a-26a.
+a. As a preliminary matter, the court of appeals rec
+ognized that the Reform Act “unequivocally raise[d] the
+bar for pleading scienter” by requiring plaintiffs to
+“plead[] sufficient facts to create ‘a strong inference’ of
+scienter.” Pet. App. 18a. But the court contended that
+“Congress did not, unfortunately, throw much light on
+what facts will suffice to create such an inference.” Ibid.
+In the court of appeals’ view, “the best approach is for
+courts to examine all of the allegations in the complaint
+and then to decide whether collectively they establish
+such an inference.” Id. at 20a.
+The court of appeals then observed that “[a]nother
+concern, independent from the question of what type of
+information will support a finding of scienter, is the de
+gree of imagination courts can use in divining whether
+a complaint creates a ‘strong inference.’ ” Pet. App. 20a.
+The court of appeals considered, but rejected, a stan
+dard under which a court would consider whether the
+inference of scienter was the “strongest” inference that
+could be drawn from the alleged facts, on the ground
+that such a standard “could potentially infringe upon
+plaintiffs’ Seventh Amendment rights.” Ibid. “Instead
+of accepting only the most plausible of competing infer
+ences as sufficient at the pleading stage,” the court held,
+“we will allow the complaint to survive if it alleges facts
+from which, if true, a reasonable person could infer that
+the defendant acted with the required intent.” Ibid. By
+
+7
+
+contrast, “[i]f a reasonable person could not draw such
+an inference from the alleged facts, the defendants are
+entitled to dismissal,” because “the complaint would fail
+as a matter of law to meet the requirements of [the Re
+form Act].” Id. at 21a.
+Applying that standard, and holding that “plaintiffs
+must create [the required] inference with respect to
+each individual defendant in multiple defendant cases,”
+Pet. App. 22a, the court of appeals determined that the
+complaint had sufficiently alleged that Notebaert pos
+sessed the requisite state of mind with regard to each of
+the four categories of alleged misstatements. Id. at 21a
+26a. As to the statements concerning the TITAN 5500,
+the court concluded, based on “the significance of the
+TITAN 5500 and the number of reports suggesting that
+it was in trouble,” that “[respondents] have provided
+enough for a reasonable person to infer that Notebaert
+knew that his statements were false.” Id. at 23a. As to
+the statements concerning the TITAN 6500, the court
+reasoned that, “[i]f it is true that the TITAN 6500 was
+not in fact available during the class period, it is hard to
+accept that Notebaert’s statements were simply honest
+mistakes.” Id. at 24a-25a. As to Tellabs’ financial re
+sults, the court determined that respondents had
+“allege[d] sufficient facts to suggest that Notebaert was
+aware of the channel stuffing” and “therefore knew that
+Tellabs had exaggerated its fourth quarter 2000 reve
+nues.” Id. at 25a. Finally, as to the revenue projections,
+the court reasoned that those projections “rest[ed] on
+the company’s statements that its products were doing
+better than they actually were,” and that “the scienter
+for those alleged misrepresentations serves as sufficient
+circumstantial evidence of scienter here.” Ibid.
+
+8
+SUMMARY OF ARGUMENT
+
+Congress enacted the Private Securities Litigation
+Reform Act of 1995 in order to curtail abusive practices
+that undermine the beneficial purposes of private securi
+ties litigation. As part of that effort, Congress amended
+the Securities Exchange Act of 1934 to require that a
+securities fraud complaint “state with particularity facts
+giving rise to a strong inference that the defendant
+acted with the requisite state of mind.” 15 U.S.C. 78u
+4(b)(2). The court of appeals erroneously diluted that
+requirement by holding that a securities fraud plaintiff
+need only “allege[] facts from which, if true, a reason
+able person could infer that the defendant acted with the
+required intent.” Pet. App. 20a.
+Before the enactment of the Reform Act, numerous
+lower courts, applying Rule 9(b) of the Federal Rules of
+Civil Procedure, held that it was insufficient for a securi
+ties fraud plaintiff merely to allege state of mind gener
+ally, and some courts held that a securities fraud plain
+tiff was required to allege facts that gave rise to at least
+a reasonable inference of the requisite mental state.
+The Second Circuit, however, went further and held that
+a securities fraud plaintiff was required to allege facts
+that gave rise to a strong inference of scienter. In en
+acting the Reform Act, Congress intended to impose a
+uniform and heightened pleading standard that built
+upon the Second Circuit’s “strong inference” terminol
+ogy.
+In evaluating whether a plaintiff has alleged facts
+that “giv[e] rise” to a “strong inference” of scienter, a
+court should determine whether, taking the alleged facts
+as true, there is a high likelihood that the conclusion
+that the defendant possessed scienter follows from those
+facts. While it is impossible to specify with mathemati
+
+9
+
+cal precision the degree of likelihood required for a
+“strong inference,” both the plain language of the Re
+form Act and the backdrop against which it was enacted
+show that a “strong” inference requires something con
+siderably more than merely a “reasonable” inference.
+The standard applied by the court of appeals in this case
+does not appear to differ materially from the “reason
+able” inference standard that it (and other courts of ap
+peals) had applied before the enactment of the Reform
+Act. Congress plainly rejected that approach in favor of
+a more demanding standard.
+In determining whether an inference of scienter is
+“strong” for purposes of the Reform Act, a court will
+necessarily have to consider whether the facts alleged in
+the complaint leave open a range of non-culpable expla
+nations for the defendant’s conduct. Where the same
+facts simultaneously support both the conclusion that
+the defendant acted with scienter and the alternative
+conclusion that the defendant acted without scienter, the
+court should consider the relative strength of both infer
+ences, because, where there is a substantial possibility
+that the defendant acted without scienter, the inference
+of scienter will not be “strong.”
+Finally, the Reform Act’s heightened pleading re
+quirement is consistent with the Seventh Amendment of
+the Constitution. Respondents did not claim that the
+dismissal of their complaint under the Reform Act would
+violate the Seventh Amendment. Even if they had, that
+claim would lack merit, because the Reform Act does not
+improperly assign to a court the jury’s role of resolving
+genuine issues of fact. Because the court of appeals mis
+interpreted the Reform Act’s heightened pleading stan
+dard, its decision should be vacated, and the case re
+manded for application of the correct standard.
+
+10
+ARGUMENT
+IN ORDER FOR A PRIVATE SECURITIES FRAUD COM
+PLAINT TO SATISFY THE “STRONG INFERENCE” RE
+QUIREMENT OF THE REFORM ACT, THERE MUST BE A
+HIGH LIKELIHOOD THAT THE CONCLUSION THAT THE
+DEFENDANT POSSESSED SCIENTER FOLLOWS FROM
+THE FACTS ALLEGED WITH PARTICULARITY
+
+Section 10(b) of the Securities Exchange Act of 1934
+(1934 Act) makes it unlawful to “use or employ, in con
+nection with the purchase or sale of any security * * * ,
+any manipulative or deceptive device or contrivance in
+contravention of such rules and regulations as the [SEC]
+may prescribe as necessary or appropriate in the public
+interest or for the protection of investors.” 15 U.S.C.
+78j(b). The SEC’s Rule 10b-5 implements Section 10(b)
+by declaring it unlawful, “in connection with the pur
+chase or sale of any security,” to (a) “employ any device,
+scheme, or artifice to defraud”; (b) “make any untrue
+statement of a material fact or to omit to state a mate
+rial fact necessary in order to make the statements
+made * * * not misleading”; or (c) “engage in any act,
+practice, or course of business which operates or would
+operate as a fraud or deceit upon any person.” 17
+C.F.R. 240.10b-5. Section 10(b) has been construed to
+afford a right of action to purchasers or sellers of securi
+ties who have been injured by its violation. See, e.g.,
+Dura Pharmaceuticals, Inc. v. Broudo, 544 U.S. 336,
+341 (2005).
+This Court has held that, in order to establish liabil
+ity under Section 10(b) and Rule 10b-5, a private plain
+tiff must prove “a mental state embracing intent to de
+ceive, manipulate, or defraud.” Ernst & Ernst v. Hoch
+
+11
+
+felder, 425 U.S. 185, 194 n.12 (1976).2 Under the Private
+Securities Litigation Reform Act of 1995 (Reform Act or
+PSLRA), Pub. L. No. 104-67, 109 Stat. 737, a private
+securities fraud complaint must “state with particularity
+facts giving rise to a strong inference that the defendant
+acted with the requisite state of mind.” 15 U.S.C. 78u
+4(b)(2). The question presented in this case is whether
+the court of appeals correctly interpreted that height
+ened pleading standard in concluding that respondents’
+allegations were sufficient.
+A.	 Before The Enactment Of The Reform Act, Lower
+Courts Applied Different Pleading Standards To The
+Mental-State Element Of Securities Fraud
+
+1. In an ordinary civil action, the sufficiency of a
+complaint is governed by Rule 8 of the Federal Rules of
+Civil Procedure, which requires a “short and plain state
+ment of the claim showing that the pleader is entitled to
+relief.” Fed. R. Civ. P. 8(a)(2). In order to satisfy that
+requirement, a complaint must “set forth a claim upon
+which relief could be granted,” Conley v. Gibson, 355
+U.S. 41, 45 (1957), and give the defendant “fair notice of
+what the plaintiff’s claim is and the grounds upon which
+2
+
+Although this Court has reserved the question, see Hochfelder, 425
+U.S. at 194 n.12, lower courts have consistently held that a plaintiff may
+meet the state-of-mind requirement by showing that the defendant
+acted either intentionally or recklessly (although they have articulated
+the degree of recklessness required in somewhat different ways). See
+Ottmann v. Hanger Orthopedic Group, Inc., 353 F.3d 338, 343 (4th Cir.
+2003) (citing cases); compare, e.g., Nathenson v. Zonagen Inc., 267 F.3d
+400, 408 (5th Cir. 2001) (requiring “severe recklessness,” defined as
+“resembl[ing] a slightly lesser species of intentional misconduct”), with
+In re Silicon Graphics Inc. Sec. Litig., 183 F.3d 970, 977 (9th Cir. 1999)
+(requiring “deliberate recklessness,” defined as “a form of intentional
+conduct”).
+
+12
+
+it rests,” id. at 47. That requirement, however, is “not
+meant to impose a great burden upon a plaintiff.” Dura
+Pharmaceuticals, 544 U.S. at 347.
+2. Before the enactment of the Reform Act, courts
+consistently held that the sufficiency of a complaint for
+securities fraud was governed by the more demanding
+standard of Rule 9(b), which applies to “all averments of
+fraud or mistake.” Rule 9(b) provides that “the circum
+stances constituting fraud * * * shall be stated with
+particularity,” but also provides that “[m]alice, intent,
+knowledge, and other condition of mind of a person may
+be averred generally.” Relying on the latter language,
+the Ninth Circuit held that a securities fraud plaintiff
+could allege the requisite state of mind “simply by say
+ing that scienter existed,” without “alleg[ing] with par
+ticularity facts giving rise to an inference of scienter.”
+In re GlenFed, Inc. Sec. Litig., 42 F.3d 1541, 1546-1547
+(1994) (en banc). The Ninth Circuit explained that
+“add[ing] new requirements to Rule 9(b)” is “a job for
+Congress, or for the various legislative, judicial, and
+advisory bodies involved in the process of amending the
+Federal Rules.” Id. at 1546.
+Other courts of appeals, however, “uniformly held
+inadequate a complaint’s general averment of the defen
+dant’s [state of mind]” in securities fraud cases, Green
+stone v. Cambex Corp., 975 F.2d 22, 25 (1st Cir. 1992)
+(Breyer, C.J.), and instead “requir[ed] pleading of facts
+that would indicate scienter,” Florida State Bd. of
+Admin. v. Green Tree Fin. Corp., 270 F.3d 645, 655 (8th
+Cir. 2001). Those courts expressed concern that, unless
+securities fraud plaintiffs were required to do more than
+make conclusory allegations of scienter, they could
+readily allege what Judge Friendly famously called
+“fraud by hindsight”: i.e., by making “a general aver
+
+13
+
+ment that defendants ‘knew’ earlier what later turned
+out badly.” Greenstone, 975 F.2d at 25 (quoting Denny
+v. Barber, 576 F.2d 465, 470 (2d Cir. 1978)); DiLeo v.
+Ernst & Young, 901 F.2d 624, 627-629 (7th Cir.), cert.
+denied, 498 U.S. 941 (1990). Plaintiffs would thereby
+enable themselves to pursue discovery on unfounded
+claims in the hopes of “extracting undeserved settle
+ments.” In re Time Warner Inc. Sec. Litig., 9 F.3d 259,
+263 (2d Cir. 1993), cert. denied, 511 U.S. 1017 (1994);
+see, e.g., In re Burlington Coat Factory Sec. Litig., 114
+F.3d 1410, 1418 (3d Cir. 1997) (Alito, J.); Romani v.
+Shearson Lehman Hutton, 929 F.2d 875, 878 (1st Cir.
+1991); Ross v. A.H. Robins Co., 607 F.2d 545, 557 (2d
+Cir. 1979), cert. denied, 446 U.S. 946 (1980); see gener
+ally Blue Chip Stamps v. Manor Drug Stores, 421 U.S.
+723, 739 (1975) (noting that “[t]here has been wide
+spread recognition that litigation under Rule 10b-5 pres
+ents a danger of vexatiousness different in degree and
+in kind from that which accompanies litigation in gen
+eral”).
+While those courts of appeals uniformly required
+more than the Ninth Circuit, they articulated their
+pleading standards differently. The Second Circuit re
+quired securities fraud plaintiffs to “specifically plead
+those [facts] which they assert give rise to a strong in
+ference that the defendants had” the requisite state of
+mind. Ross, 607 F.2d at 558. In subsequent cases, the
+Second Circuit held that plaintiffs could meet the
+“strong inference” requirement in one of two ways.
+First, plaintiffs could “allege facts showing a motive for
+committing fraud and a clear opportunity for doing so.”
+Beck v. Manufacturers Hanover Trust Co., 820 F.2d 46,
+50 (2d Cir. 1987), cert. denied, 484 U.S. 1005 (1988); see
+Novak v. Kasaks, 216 F.3d 300, 311 (2d Cir.) (noting that
+
+14
+
+this standard was met when defendants “benefitted in a
+concrete and personal way from the purported fraud”),
+cert. denied, 531 U.S. 1012 (2000). Second, “[w]here
+motive is not apparent,” plaintiffs could “identify[] cir
+cumstances indicating conscious behavior by the defen
+dant, although the strength of the circumstantial allega
+tions must be correspondingly greater.” Beck, 820 F.2d
+at 50 (citations omitted); see Novak, 216 F.3d at 311
+(noting that this standard was met when defendants
+“engaged in deliberately illegal behavior,” “knew facts
+or had access to information suggesting that their public
+statements were not accurate,” or “failed to check infor
+mation they had a duty to monitor”). Applying that
+standard, the Second Circuit required the dismissal of
+numerous securities fraud complaints. See, e.g., Kramer
+v. Time Warner Inc., 937 F.2d 767, 775-776 (1991);
+Wexner v. First Manhattan Co., 902 F.2d 169, 172-173
+(1990); Connecticut Nat’l Bank v. Fluor Corp., 808 F.2d
+957, 961-962 (1987). Accordingly, at the time the Re
+form Act was enacted, the Second Circuit’s standard was
+regarded as the “most stringent” in the country. See
+Nathenson v. Zonagen Inc., 267 F.3d 400, 407 (5th Cir.
+2001).
+Other courts of appeals “took an intermediate posi
+tion” between the Second and Ninth Circuits and held
+that, while securities fraud plaintiffs must plead specific
+facts suggestive of a defendant’s mental state, those
+facts need not give rise to a “strong” inference of the
+requisite state of mind. 5A Charles Alan Wright & Ar
+thur R. Miller, Federal Practice and Procedure § 1301.1,
+at 300-302 (3d ed. 2004) (Wright & Miller). Thus, the
+First Circuit required plaintiffs to “set[] forth specific
+facts that make it reasonable to believe that defendant
+knew that a statement was materially false or mislead
+
+15
+
+ing,” Greenstone, 975 F.2d at 25; the Fifth Circuit re
+quired plaintiffs to “set forth specific facts that support
+an inference of fraud,” Tuchman v. DSC Comm’cns
+Corp., 14 F.3d 1061, 1068 (1994); and the Seventh Circuit
+required plaintiffs to “afford a basis for believing that
+plaintiffs could prove scienter,” DiLeo, 901 F.2d at 629.
+Although those courts used slightly differing formula
+tions, all of them required plaintiffs to plead facts that
+supported at least a reasonable inference that the defen
+dant possessed the requisite state of mind.
+B.	 The Reform Act Applied A Heightened Pleading Stan
+dard To The Mental-State Element Of Securities Fraud,
+And The Court Of Appeals Erroneously Diluted That
+Standard
+
+In the Reform Act, Congress devised a heightened
+pleading standard for scienter that was considerably
+more stringent than the standard that the court below
+(and other courts of appeals) had applied before the Re
+form Act’s enactment. The court of appeals therefore
+erred in this case by effectively adhering to its lower,
+pre-Reform Act standard. Instead, the court of appeals
+should have determined whether there was a high likeli
+hood that the conclusion that petitioners possessed
+scienter followed from the particular facts alleged in re
+spondents’ complaint.
+1. Congress’s enactment of the Reform Act was
+prompted by concerns that the beneficial purposes of
+private securities litigation were being “undermined by
+* * * abusive and meritless suits,” which “had become
+rampant in recent years.” H.R. Conf. Rep. No. 369,
+104th Cong., 1st Sess. 31 (1995); Merrill Lynch, Pierce,
+Fenner & Smith, Inc. v. Dabit, 126 S. Ct. 1503, 1510
+
+16
+
+1511 (2006).3 In particular, the Reform Act was
+prompted by “the routine filing of lawsuits against issu
+ers of securities * * * whenever there is a significant
+change in the issuer’s stock price, without regard to any
+underlying culpability of the issuer, and with only a faint
+hope that the discovery process might lead eventually to
+some plausible cause of action.” H.R. Conf. Rep. No.
+369, supra, at 31. The legislative history noted that “[a]
+complaint alleging violations of the Federal securities
+laws is easy to craft and can be filed with little or no due
+diligence,” S. Rep. No. 98, 104th Cong., 1st Sess. 8
+(1995), while “[t]he dynamics of private securities litiga
+tion create powerful incentives to settle, causing securi
+ties class actions to have a much higher settlement rate
+than other types of class actions,” id. at 6. Accordingly,
+the Reform Act made a number of substantive and pro
+cedural changes to the securities laws. See Dabit, 126
+S. Ct. at 1511 (citing 15 U.S.C. 78u-4).
+Of particular relevance here, the Reform Act “im
+poses heightened pleading requirements in [private]
+actions brought pursuant to § 10b and Rule 10b-5.”
+Dabit, 126 S. Ct. at 1511; see Wharf (Holdings) Ltd. v.
+United Int’l Holdings, Inc., 532 U.S. 588, 597 (2001). In
+new Section 21D(b)(1) of the 1934 Act, the Reform Act
+provides that, in any private securities action in which
+the plaintiff alleges that the defendant made a false or
+misleading statement, the complaint must “specify each
+statement alleged to have been misleading [and] the
+3
+
+See, e.g., H.R. Conf. Rep. No. 369, supra, at 42 (noting that abusive
+securities litigation “severely affects the willingness of corporate man
+agers to disclose information to the marketplace”); S. Rep. No. 98,
+104th Cong., 1st Sess. 9 (1995) (noting that such litigation “add[s] signif
+icantly to the cost of raising capital and represent[s] a ‘litigation tax’ on
+business”).
+
+17
+
+reason or reasons why the statement is misleading.” 15
+U.S.C. 78u-4(b)(1). Moreover, if the allegation that the
+statement is false or misleading is made on information
+and belief, the complaint must “state with particularity
+all facts on which that belief is formed.” Ibid. In new
+Section 21D(b)(2) of the 1934 Act—the provision at issue
+in this case—the Reform Act further states that, in any
+private securities action in which the plaintiff must show
+that the defendant acted with a particular mental state
+in order to recover money damages, the complaint must,
+“with respect to each act or omission alleged to violate
+this chapter, state with particularity facts giving rise to
+a strong inference that the defendant acted with the
+requisite state of mind.” 15 U.S.C. 78u-4(b)(2).4
+The legislative history of the Reform Act confirms
+what is apparent from the terms of Section 21D(b): viz.,
+that Congress, in enacting that provision, intended to
+adopt “uniform and more stringent pleading require
+ments” for private securities fraud actions, H.R. Conf.
+Rep. No. 369, supra, at 41, and thereby “deter or at
+least quickly dispose of those suits whose nuisance value
+outweighs their merits,” Dabit, 126 S. Ct. at 1511. The
+legislative history expressed concern that the applica
+tion of Rule 9(b) to securities fraud actions “ha[d] not
+prevented abuse of the securities laws by private liti
+gants,” and noted that “the courts of appeals ha[d] inter
+preted Rule 9(b)’s requirement in conflicting ways, cre
+ating distinctly different standards among the circuits.”
+H.R. Conf. Rep. No. 369, supra, at 41. And it expressed
+concern that those differences had “creat[ed] substantial
+uncertainties and opportunities for abuses,” in light of
+4
+
+The Reform Act also provides for a stay of all discovery during the
+pendency of a motion to dismiss, subject to limited exceptions. See 15
+U.S.C. 78u-4(b)(3)(B).
+
+18
+
+the potential for forum shopping in securities fraud ac
+tions. S. Rep. No. 98, supra, at 4.
+It is clear, therefore, that, in adopting Section
+21D(b)(2), Congress was reacting to the various court of
+appeals decisions articulating differing standards for
+pleading scienter in securities fraud cases (and to the
+continuing abuses under those standards). By using the
+“strong inference” standard, Congress rejected both the
+standard of the Ninth Circuit, which allowed securities
+fraud plaintiffs simply to state that scienter existed, and
+the “intermediate” standard of other circuits, which re
+quired plaintiffs to plead facts that supported at least a
+reasonable inference of scienter. Instead, Congress
+built upon the Second Circuit’s “strong inference” termi
+nology and added various other pleading requirements,
+resulting in a statute that was “intend[ed] to strengthen
+existing pleading requirements.” H.R. Conf. Rep. No.
+369, supra, at 41 (emphasis added). Section 21D(b)(2)
+was “not intend[ed] to codify the Second Circuit’s case
+law interpreting [its] pleading standard.” Ibid. At a
+minimum, however, Section 21D(b)(2) was intended to
+require dismissal in any case that would have been sub
+ject to dismissal under the Second Circuit’s preexisting
+“strong inference” standard. See Nathenson, 267 F.3d
+at 412.5
+5
+
+The Statement of Managers accompanying the Conference Com
+mittee Report on the PSLRA (and endorsed by the members of the
+Committee) described the “strong inference” test in these terms:
+Regarded as the most stringent pleading standard, the Second
+Circuit requirement is that the plaintiff state facts with partic
+ularity, and that these facts, in turn, must give rise to a “strong
+inference” of the defendant’s fraudulent intent. Because the
+Conference Committee intends to strengthen existing pleading
+requirements, it does not intend to codify the Second Circuit’s
+case law interpreting this pleading standard.
+
+19
+
+2. As noted above, Section 21D(b)(2) requires that
+a securities fraud plaintiff “state with particularity facts
+giving rise to a strong inference that the defendant
+acted with the requisite state of mind.” 15 U.S.C. 78u
+4(b)(2).6 An “inference” is “[a] conclusion reached by
+considering other facts and deducing a logical conse
+quence from them.” Black’s Law Dictionary 793 (8th
+ed. 2004). In articulating the pleading requirement in
+terms of “inferences,” Congress “acknowledg[ed] the
+role of indirect and circumstantial evidence” in proving
+a defendant’s state of mind. Greebel v. FTP Software,
+Inc., 194 F.3d 185, 195 (1st Cir. 1999).
+In Section 21D(b)(2), however, Congress did not
+merely require a plaintiff to allege particular facts from
+which an inference of scienter could be drawn, but inH.R. Conf. Rep. No. 369, supra, at 41. The courts of appeals are in
+disagreement as to whether the Reform Act codified the Second Cir
+cuit’s explanation of the alternative methods by which a securities fraud
+plaintiff could plead scienter (i.e., either by “alleg[ing] facts showing a
+motive for committing fraud and a clear opportunity for doing so” or by
+“identifying circumstances indicating conscious behavior by the defen
+dant,” Beck, 820 F.2d at 50), and specifically, whether a plaintiff can
+plead scienter solely by alleging facts showing a motive and opportunity
+to defraud. See Ottmann, 353 F.3d at 344-346 (citing cases). This case
+presents no question concerning the proper role of motive-and-opportu
+nity allegations under the PSLRA, because respondents have not al
+leged that petitioner Notebaert had a motive and opportunity to de
+fraud, at least as that concept was defined by the Second Circuit (e.g.,
+by alleging that Notebaert engaged in unusual trading in Tellabs stock
+during the relevant period).
+6
+The “strong inference” requirement is also included in the Y2K Act,
+Pub. L. No. 106-37, § 8(d), 113 Stat. 198, which provides that, in any
+qualifying “Y2K action,” “there shall be filed with the complaint, with
+respect to each element of [the] claim, a statement of the facts giving
+rise to a strong inference that the defendant acted with the required
+state of mind.” 15 U.S.C. 6607(d).
+
+20
+
+stead required a plaintiff to allege particular facts that
+“giv[e] rise” to a “strong” inference of scienter. The
+strength of an inference, in turn, is measured by the
+degree of confidence that the conclusion at issue (here,
+that the defendant acted with scienter) follows from the
+underlying facts—or, in other words, by the extent to
+which the underlying facts tend to establish the conclu
+sion at issue. See, e.g., James Hawthorne, Inductive
+Logic (last modified Oct. 10, 2005), in Stanford Encyclo
+pedia of Philosophy (Edward N. Zalta ed., 2007)
+<http://plato.stanford.edu/entries/logic-inductive>.
+A “strong” inference therefore exists when there is
+a high degree of confidence—i.e., a high likelihood—that
+the conclusion at issue follows from the underlying facts.
+The ordinary meaning of the word “strong” amply con
+firms that interpretation. See Black’s Law Dictionary
+1423 (6th ed. 1990) (defining “strong” as “[c]ogent, pow
+erful, forcible, forceful”); The American Heritage Dic
+tionary of the English Language 1717 (4th ed. 2000)
+(defining “strong,” with regard to an argument, as
+“[p]ersuasive, effective, and cogent”); 16 The Oxford
+English Dictionary 949 (2d ed. 1989) (defining “strong,”
+with regard to an argument, evidence, or proof, as
+“[p]owerful to demonstrate or convince; hard to confute
+or overthrow”). Accordingly, in evaluating whether a
+plaintiff has alleged particular facts that “giv[e] rise” to
+a “strong” inference of scienter, a court should deter
+mine whether, taking the alleged facts as true, there is
+a high likelihood that the conclusion that the defendant
+possessed scienter follows from those facts. See, e.g., In
+re Credit Suisse First Boston Corp., 431 F.3d 36, 48-49
+(1st Cir. 2005) (concluding that “a plaintiff’s allegations
+must show a high likelihood of scienter in order to sat
+isfy the PSLRA standard”). It is clear that a “strong”
+
+21
+
+inference requires something considerably more than
+merely a “reasonable,” “possible,” “plausible,” or “mar
+ginal” inference, even if it does not require that the in
+ference be an “ironclad” or “irrefutable” one. See Credit
+Suisse, 431 F.3d at 49, 51; In re Cabletron Sys., Inc., 311
+F.3d 11, 38, 40 (1st Cir. 2002); Helwig v. Vencor, Inc.,
+251 F.3d 540, 551, 553 (6th Cir. 2001) (en banc), cert.
+dismissed, 536 U.S. 935 (2002). While it is impossible to
+specify with mathematical precision the degree of likeli
+hood required under Section 21D(b)(2), “facts giving rise
+to a strong inference” of scienter cannot be ambiguous
+facts; the inference cannot be merely borderline or a
+close call.
+The PSLRA’s stringent pleading standard reflects
+the critical importance of the pleading stage in private
+securities litigation. Securities fraud plaintiffs enjoyed,
+and under the PSLRA continue to enjoy, considerable
+latitude in pleading their complaints. They choose and
+craft the allegations in the complaint, see, e.g., Allen v.
+WestPoint-Pepperell, Inc., 945 F.2d 40, 44 (2d Cir. 1991)
+(noting that, in ruling on a motion to dismiss, a court
+must confine its consideration “to facts stated on the
+face of the complaint, in documents appended to the
+complaint or incorporated in the complaint by reference,
+and to matters of which judicial notice may be taken”),
+and all of the allegations in the complaint must be ac
+cepted as true when tested by a motion to dismiss, see,
+e.g., Leatherman v. Tarrant County Narcotics Intelli
+gence & Coordination Unit, 507 U.S. 163, 164 (1993).
+Congress determined, however, that the preexisting
+pleading standards were leading to serious abuse in the
+private securities litigation context, in which “nuisance
+filings,” followed by “vexatious discovery requests” and
+resulting “extortionate settlements,” had become “ram
+
+22
+
+pant in recent years.” Dabit, 126 S. Ct. at 1510-1511.
+Congress concluded that the costs and dynamics of pri
+vate securities litigation too often caused innocent par
+ties to settle cases for large sums without regard to the
+merit of the claims—without any “evidence of fraud,”
+S. Rep. No. 98, supra, at 4, for which scienter is essen
+tial under Section 10(b) and Rule 10b-5. If a securities
+case is not dismissed at the pleading stage, the practical
+reality is that the defendant will usually be forced to
+settle and the case will never reach an adjudication on
+the merits. Many years of effort by courts to screen
+cases under Rule 9(b) had not prevented the abuses.
+In sum, Congress “structur[ed] the [Reform Act] to
+permit the dismissal of frivolous cases at the earliest
+feasible stage of the litigation, thereby reducing the cost
+to the company, and by derivation, to its shareholders,
+in defending a baseless action.” Bryant v. Avado
+Brands, Inc., 187 F.3d 1271, 1278 (11th Cir. 1999). En
+forcing the “strong inference” requirement by requiring
+particularized allegations that give rise to a high likeli
+hood of scienter is thus a crucial element of the reforms
+enacted by Congress.
+3. In this case, the court of appeals correctly recog
+nized that the Reform Act “unequivocally raise[d] the
+bar for pleading scienter” by requiring plaintiffs to
+“plead[] sufficient facts to create a ‘strong inference’ of
+scienter.” Pet. App. 18a. The court of appeals erred,
+however, by failing to give force to Congress’ clear in
+tent, as reflected by the text, and instead holding that a
+securities fraud complaint would satisfy the Reform
+Act’s “strong inference” standard “if it alleges facts
+from which, if true, a reasonable person could infer that
+the defendant acted with the required intent.” Id. at
+20a; see id. at 20a-21a (noting that a complaint should be
+
+23
+
+dismissed “[i]f a reasonable person could not draw such
+an inference from the alleged facts”). Although the
+court of appeals recognized Congress’s unequivocal in
+tent to raise the bar, the court of appeals’ standard ap
+pears to be equivalent to the standard that it (and some
+other courts of appeals) had applied before the enact
+ment of the Reform Act, under which a complaint was
+sufficient if the plaintiff pleaded facts that supported at
+least a reasonable inference of state of mind.7 As ex
+plained above, however, Congress’s insistence on a
+“strong” inference of scienter plainly requires some
+thing considerably more than a “reasonable” inference
+(or a permissible inference by a reasonable person). The
+court of appeals erred in asking whether respondents
+had alleged facts from which an inference of scienter
+could reasonably have been drawn. Instead, the court
+should have determined whether, as to each false or mis
+leading statement at issue, there was a high likelihood
+that the conclusion that petitioner Notebaert possessed
+scienter followed from the alleged facts.
+
+7
+
+By looking to the inference that a reasonable person “could” draw,
+the court of appeals seemingly allows as sufficient a permissible infer
+ence for a reasonable person, which appears to be no different from (or,
+if anything, less demanding than) a reasonable inference. The key is
+the relative strength of the inference required, not the nature of the
+person drawing the inference. Presumably, Congress and all of the
+courts of appeals pre- and post-Reform Act have had in mind the infer
+ence that a reasonable, as opposed to unreasonable, person would draw.
+The Reform Act clearly requires more than a permissible inference; it
+requires a strong one.
+
+24
+
+C.	 In Applying The Reform Act’s Heightened Pleading
+Standard For The Mental-State Element Of Securities
+Fraud, A Court Must Consider Any Competing Inference
+Or Non-Culpable Explanations For The Defendant’s
+Conduct
+
+In determining whether there is a high likelihood
+that the conclusion that the defendant possessed the
+requisite state of mind follows from the facts alleged in
+the complaint, a court must consider other possible ex
+planations for the defendant’s conduct—or any compet
+ing inference that can be drawn from the same facts.
+The probabilistic inquiry required by the “strong infer
+ence” test demands as much.
+1. By its terms, Section 21D(b)(2) requires a court
+to determine whether the plaintiff has alleged particu
+larized facts giving rise to a strong inference that the
+defendant acted with the requisite state of mind. To
+make that determination, a court will necessarily have
+to consider whether the facts leave open non-culpable
+explanations for the defendant’s conduct, even where
+those facts do not affirmatively buttress the conclusion
+that the defendant acted without scienter. Where, for
+example, a plaintiff alleges, with regard to scienter, only
+that a corporate executive sold a higher (but not dramat
+ically higher) number of shares than usual during the
+relevant period, a court should consider the high proba
+bility that there are innocent explanations for the execu
+tive’s increased trading activity—a consideration that
+forecloses the conclusion that the facts give rise to a
+strong inference that the executive acted with scienter.8
+8
+
+By contrast, a sharp and atypical spike in trading activity could,
+depending on the circumstances, provide a strong basis for inferring
+scienter, because innocent explanations would be less probable.
+
+25
+
+Many of the leading cases apply precisely that mode of
+analysis. See, e.g., Credit Suisse, 431 F.3d at 51 (noting
+that a court is not required to “turn a blind eye to the
+universe of possible conclusions stemming from a given
+fact or set of facts” where a complaint “leaves * * * a
+myriad of other possibilities wide open”); Pirraglia v.
+Novell, Inc., 339 F.3d 1182, 1187 (10th Cir. 2003) (con
+tending that “[w]hether an inference is a strong one can
+not be decided in a vacuum”).
+2. In some cases, a court may determine that some
+facts in the complaint support the conclusion that the
+defendant acted with scienter, whereas other facts actu
+ally support the conclusion that the defendant acted
+without scienter. As the court of appeals in this case
+seemingly recognized (Pet. App. 20a), however, Section
+21D(b)(2) requires a court to consider whether all of the
+facts alleged in the complaint, taken together, give rise
+to a strong inference of the requisite state of mind. See
+Gompper v. VISX, Inc., 298 F.3d 893, 897 (9th Cir.
+2002); Abrams v. Baker Hughes Inc., 292 F.3d 424, 431
+(5th Cir. 2002). Such an approach is consistent with the
+broader principle that the plaintiff is the master of his
+complaint, see, e.g., Caterpillar Inc. v. Williams, 482
+U.S. 386, 392 (1987)—and that a plaintiff may plead him
+self out of court by including allegations that undermine
+his claim. See, e.g., Gutierrez v. Peters, 111 F.3d 1364,
+1374 (7th Cir. 1997). When the facts alleged in the com
+plaint give rise to a substantial possibility that the de
+fendant acted without scienter, the necessary “strong
+inference” of scienter will be lacking, because there will
+be an insufficient likelihood that the conclusion that the
+defendant acted with scienter follows from the facts al
+leged in the complaint as a whole.
+
+26
+
+3. In other cases, a court may determine that the
+same facts simultaneously provide affirmative support
+both for the conclusion that the defendant acted with
+scienter and for the alternative conclusion that the de
+fendant acted without scienter. The existence of a plau
+sible competing inference, however, “quite clearly im
+pedes the plaintiffs’ progress toward building the requi
+site strong inference of scienter.” Gompper, 298 F.3d at
+897. And where the facts as alleged give rise to a sub
+stantial possibility that the defendant acted without
+scienter, the inference of scienter cannot be said to be
+“strong” in the relevant sense (i.e., “powerful,” “force
+ful,” or “hard to confute”). In such a case, the presence
+of a substantial contrary inference would foreclose the
+conclusion that scienter was highly likely on the basis of
+the facts alleged. Plainly, therefore, if the alleged facts
+give rise to “two seemingly equally strong [competing]
+inferences,” Pet. App. 20a (quoting Pirraglia, 339 F.3d
+at 1188), a court must conclude that the inference of
+scienter is not itself “strong.” See, e.g., Gompper, 298
+F.3d at 897.
+D.	 The Reform Act’s Heightened Pleading Standard For
+The Mental-State Element Of Securities Fraud Is Con
+sistent With The Seventh Amendment
+
+Finally, requiring a plaintiff to allege facts that
+“giv[e] rise” to a “strong” inference of scienter does not
+raise any valid concerns under the Seventh Amendment
+of the Constitution.
+1. In diluting Section 21D(b)(2)’s “strong inference”
+requirement, the court of appeals expressed concern
+that a more stringent standard would potentially violate
+the Seventh Amendment. See Pet. App. 20a. But the
+text of Section 21D(b)(2) quite clearly commands a
+
+27
+
+heightened pleading standard, and the canon of constitu
+tional avoidance “has no application in the absence of
+statutory ambiguity.” United States v. Oakland Canna
+bis Buyers’ Coop., 532 U.S. 483, 494 (2001).
+2. Respondents did not claim that dismissal of their
+complaint under Section 21D(b)(2) would violate the
+Seventh Amendment. Even if they had, that claim
+would lack merit.
+This Court has explained that the purpose of the Sev
+enth Amendment was “to preserve the substance of the
+common-law right of trial by jury, as distinguished from
+mere matters of form or procedure” and “particularly to
+retain the common-law distinction between the province
+of the court and that of the jury, whereby * * * issues
+of law are to be resolved by the court and issues of fact
+are to be determined by the jury.” Baltimore &
+Carolina Line, Inc. v. Redman, 295 U.S. 654, 657 (1935).
+This Court has never held that a pleading requirement
+violates the Seventh Amendment. To the contrary, the
+Court has upheld against Seventh Amendment challenge
+a requirement that the defendant in a contract action
+file an affidavit “stating * * * , in precise and distinct
+terms, the grounds of his defense, which must be such as
+would, if true, be sufficient to defeat the plaintiff’s claim
+in whole or in part.” Fidelity & Deposit Co. v. United
+States, 187 U.S. 315, 318 (1902); see Ex parte Peterson,
+253 U.S. 300, 310 (1920) (Brandeis, J.) (concluding that
+“[i]t does not infringe the constitutional right to a trial
+by jury, to require, with a view to formulating the issues,
+an oath by each party to the facts relied upon”). The
+Court rejected the argument that “the rule deprived the
+[defendant] of the right to trial by jury.” Fidelity &
+Deposit Co., 187 U.S. at 320. Instead, the Court rea
+soned that the rule merely “prescribe[d] the means of
+
+28
+
+making an issue” and that, when “[t]he issue [was] made
+as prescribed, the right of trial by jury accrues.” Ibid.
+Moreover, in approving the appointment of an auditor to
+streamline the issues for trial, the Court rejected a Sev
+enth Amendment challenge by characterizing the audi
+tor’s role as being “the same as that of pleading.” Peter
+son, 253 U.S. at 310. The Court explained that “[n]o one
+is entitled in a civil case to trial by jury unless and ex
+cept so far as there are issues of fact to be determined.”
+Ibid.
+Like the requirement at issue in Fidelity & Deposit
+Co., the heightened pleading requirement in Section
+21D(b)(2) merely imposes a threshold legal hurdle that
+a plaintiff must surmount in order to state a claim (and
+thereby obtain discovery); it does not trench upon the
+jury’s prerogative to resolve disputed issues of fact. Cf.
+Neely v. Martin K. Eby Constr. Co., 386 U.S. 317, 321
+(1967) (stating that it is “settled” that Rule 50(b), which
+governs judgment as a matter of law after trial, does not
+violate the Seventh Amendment); Pease v. RathbunJones Eng’g Co., 243 U.S. 273, 278 (1917) (concluding
+that “[t]he constitutional right of trial by jury presents
+no obstacle” to granting summary judgment).
+It is true that, in an ordinary case, when a plaintiff
+presents sufficient evidence at trial that would support
+at least a reasonable inference in the plaintiff’s favor as
+to each element of the claim, the plaintiff would be enti
+tled to reach the jury on that claim, and the defendant
+would not be entitled to judgment on that claim as a
+matter of law. See 9A Wright & Miller § 2528, at 288
+289 & nn.2-3 (2d ed. 1995) (citing cases). 9 The practical
+9
+
+There appears to be a circuit conflict on the question whether the
+Reform Act alters not just the pleading standard but the substantive
+
+29
+
+effect of Section 21D(b)(2) is to prevent a plaintiff who
+alleges facts that give rise only to a reasonable inference
+of scienter from proceeding to discovery, even if the
+plaintiff would ultimately be able to prove those facts at
+trial. But all heightened pleading standards have the
+effect of preventing a plaintiff from getting discovery on
+a claim that might have gone to the jury, had discovery
+occurred and yielded substantial evidence. Heightened
+pleading requirements have nevertheless not been
+thought to raise serious Seventh Amendment problems.
+The Reform Act’s heightened pleading requirement for
+scienter likewise raises no such problems, because the
+jury retains the power to resolve any disputed factual
+issue once the plaintiff has satisfied the congressionally
+“prescribe[d] * * * means of making an issue.” Fidel
+ity & Deposit Co., 187 U.S. at 320.
+
+proof standard for scienter as well. Compare Geffon v. Micrion Corp.,
+249 F.3d 29, 36 (1st Cir. 2001) (stating that “we agree with the district
+court that the judicial reasoning applicable to imposing heightened
+pleading requirements is at least as forceful, if not more so, with regard
+to proof requirements that a trial judge must consider in deciding
+whether to allow a motion for summary judgment”) (internal quotation
+marks and brackets omitted), with Howard v. Everex Sys., Inc., 228
+F.3d 1057, 1064 (9th Cir. 2000) (stating that, under the Reform Act, “the
+standard of summary judgment or [judgment as a matter of law] re
+mains unaltered”). To the extent that the Reform Act altered the proof
+standard, it would eliminate any Seventh Amendment concerns, no
+matter what the standard at the pleading stage. For the reasons out
+lined in the text, however, Section 21D(b)(2)’s heightened pleading
+requirement does not implicate any such concerns, and the Court there
+fore need not address the question at this time.
+
+30
+CONCLUSION
+
+The judgment of the court of appeals should be va
+cated, and the case remanded for further proceedings.
+Respectfully submitted.
+BRIAN G. CARTWRIGHT
+General Counsel
+ANDREW N. VOLLMER
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+LUIS DE LA TORRE
+Senior Litigation Counsel
+MICHAEL L. POST
+Senior Counsel
+
+Securities and Exchange 
+
+Commission
+
+
+FEBRUARY 2007
+
+PAUL D. CLEMENT
+Solicitor General
+PETER D. KEISLER
+Assistant Attorney General
+THOMAS G. HUNGAR
+Deputy Solicitor General
+KANNON K. SHANMUGAM
+Assistant to the Solicitor
+General
+MICHAEL JAY SINGER
+JOHN S. KOPPEL
+Attorneys
+
+

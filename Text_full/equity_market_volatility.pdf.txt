@@ -1,0 +1,4779 @@
+Research Note:
+Equity Market Volatility on August 24, 2015
+Staff of the Office of Analytics and Research
+Division of Trading and Markets1
+
+December 2015
+On Monday, August 24, 2015, the U.S. equity markets and equity-related futures markets
+experienced unusual price volatility, particularly during the period surrounding the 9:30 a.m.
+E.T.2 start of regular trading hours for the equity markets.
+•
+
+Prior to 9:30, the most actively traded equity product – the SPDR S&P 500 ETF Trust
+(“SPY”) – declined to more than 5% below its closing price on the previous trading day
+(Friday, August 21, 2015). The most actively traded equity-related futures contract – the
+E-Mini S&P 500 (“E-Mini”) – declined to its limit down price of 5% below the previous
+trading day’s closing price and was paused for trading from 9:25 to 9:30.
+
+•
+
+At 9:30, SPY opened for regular trading hours at 5.2% below its previous day’s close and
+then further declined to a daily low of 7.8% by 9:35. By 9:40, SPY recovered past its
+opening price and eventually closed down 4.2%. SPY’s decline from previous day close
+to August 24 open was the second largest in the last decade, while SPY’s decline from
+previous day close to August 24 daily low was the 10th largest in the last decade.
+
+•
+
+From 9:30 to 9:45, more than 20% of S&P 500 companies and more than 40% of
+NASDAQ-100 companies reached daily lows that were 10% or more below their previous
+day’s closing price.
+
+This Research Note assesses the operation of U.S. equity markets under the stressed conditions
+of August 24. In recent years, the SEC and self-regulatory organizations (“SROs”) have
+implemented several regulatory initiatives to address transitory price volatility. Among other
+things, August 24 provides a useful opportunity to evaluate the practical operation of these
+initiatives.
+This Research Note provides empirical data and other information to help assess trading on
+August 24, including several issues that have been debated among market participants and in
+1
+
+This Research Note was prepared by the Staff of the U.S. Securities and Exchange Commission.
+The Commission has expressed no view regarding the analysis, findings, or conclusions
+contained herein.
+2
+
+Unless otherwise specified, times throughout this Research Note will be for a.m. E.T.
+
+the media. These issues include the opening process at primary listing exchanges, the
+triggering of trading pauses under the National Market System Plan to Address Extraordinary
+Market Volatility (commonly known as the Limit Up-Limit Down, or “LULD”, Plan), and the
+effects of market volatility on trading in exchange-traded products (“ETPs”).3
+Section I describes the data used in the paper and provides summary statistics about the data.
+Section II provides an overview of trading on August 24 by examining two broad indices – the
+S&P 500 and NASDAQ-100 – and their related products.
+Section III compares trading in a large dataset of corporate stocks and ETPs on August 24 with
+trading during previous control periods.
+Section IV addresses the opening process at the primary listing exchanges.
+Section V examines the operation of the LULD Plan and associated SRO rules and practices.
+Finally, Section VI focuses on the widely varying nature of trading in ETPs on August 24, with a
+minority experiencing extreme volatility and a large number of LULD halts.
+The following are some key data points in the paper:
+Price Declines (Section III.A):
+•
+
+Corporate stocks (“Corporates”) with the largest capitalization were particularly
+affected on August 24.4 Of the 41 Corporates in the Very Large capitalization bin (which
+alone represent nearly a third of Corporates market capitalization), more than half (21)
+declined by 10% or more on August 24. These included 5 of the largest 10. In
+comparison, only 30% of the more than 4,000 Corporates in the Large, Mid, and Small
+capitalization bins declined by 10% or more.
+
+•
+
+The largest capitalization ETPs experienced declines that were similar to those of smaller
+ETPs. Of the 50 largest capitalization ETPs, 20 (40.0%) declined by 10% or more, while
+36.5% of more than 1,300 other ETPs also declined by 10% of more.
+
+3
+
+Unless otherwise specified, leveraged ETPs are excluded from the term “ETPs” in this paper.
+As noted in Section I below, leveraged ETPs are designed to trade differently in many respects
+than other ETPs. They therefore are excluded from most of the analyses in this paper to obtain
+more comparable statistics. The number of LULD halts and other summary statistics for
+leveraged ETPs are provided in Section VI below.
+4
+
+Market capitalization bins for Corporates and ETPs are defined in Section I below.
+2
+
+•
+
+Regulation SHO short sale restrictions (“SSRs”) were triggered on August 24 in more
+than 2,000 securities, which is the second largest number since SSRs were implemented
+in 2011. SSRs were triggered in 108 constituents representing more than 37% of the
+market capitalization of the S&P 500, and in 42 constituents representing more than
+50% of the market capitalization of the NASDAQ-100. When SSRs are triggered, short
+sale orders in that security generally are subject to a price test that requires the orders
+to be executed at prices greater than the national best bid for the security.
+
+Trading Metrics (Sections III.B and III.C):
+•
+
+Trading metrics for control periods indicate that the opening 15 minutes of regular
+trading hours typically are the least liquid portion of the trading day, with wider spreads,
+less quoted depth, and higher volatility. These patterns were observed on August 24,
+but with much larger trading volume than normal.
+
+•
+
+Trading volume in the minutes following the open was much higher than in control
+periods, particularly for Very Large Corporates (more than 400% higher) and for nearly
+all market capitalization bins of ETPs (ranging from more than 400% higher for Large
+ETPs to more than 800% higher for Small ETPs). The fact that prices also declined most
+substantially in the Very Large Corporates and in ETPs indicates that much of this
+volume surge after the opening was initiated by sell orders that were relatively
+insensitive to the previous day’s prices.
+
+•
+
+Quoted depth (inside through 19 cents away), which typically is at its daily lows in the
+opening minutes of a trading day, was much lower in the opening minutes on August 24
+than in control periods, particularly for Very Large Corporates (more than 70%
+reduction) and for ETPs (more than 90% reduction). Consequently, the surge in selling
+in the minutes following the open on August 24 interacted with much lower than
+normal levels of displayed liquidity.
+
+Opening Process and Market-Wide Circuit Breakers (Sections II and IV):
+•
+
+NASDAQ and NYSE Arca open their listed equities electronically at 9:30. The NYSE
+incorporates a manual element in its opening process, particularly on volatile days. On
+August 24, many NYSE-listed stocks opened for trading later than 9:30 on the NYSE
+(though NYSE-listed stocks were traded at other exchanges and off-exchange venues
+before and after 9:30). By 9:35, for example, the NYSE had opened 38% of its listed S&P
+500 companies representing 53% of such companies’ market capitalization. By 9:45,
+these figures increased to 86% of NYSE-listed S&P 500 companies representing 91% of
+such companies’ market capitalization.
+
+•
+
+The S&P 500 Index (“SPX”), as calculated and disseminated by S&P Dow Jones Indices
+LLP (“S&P DJI”), declined on August 24 by only 5.2% from its previous day’s close. Until
+approximately 9:42, SPX remained substantially higher than the prices of the SPY (7.8%
+3
+
+decline), E-Mini (7% decline), and the net asset value (“NAV”) of SPY (8% decline, as
+calculated with reference to consolidated real-time trade prices). S&P DJI generally uses
+last sale prices from only the primary listing market to calculate its equity indexes. Until
+NYSE-listed constituents of the S&P 500 index were opened on the NYSE, the SPX
+disseminated by S&P DJI reflected NYSE closing prices from August 21. The use of these
+previous day closing prices to calculate SPX in the opening minutes of August 24 likely
+caused its decline to be less than S&P 500 related products that reflected real-time
+trade prices.
+•
+
+The SPX is referenced in SRO rules to determine whether market-wide circuit breakers
+are triggered. Because the SPX did not decline by 7% (the first level trigger) on August
+24, the market-wide circuit breakers, which would have implemented a 15-minute
+trading pause in all equities and related products, were not triggered on August 24.
+
+•
+
+Six of the 41 Very Large Corporates reached daily lows of more than 20% below their
+previous closing price soon after the opening cross on their primary listing exchange.
+Much of the decline occurred in a very short period of continuous trading after the
+opening cross. The rapid price decline was accompanied by a volume surge after the
+opening cross that substantially exceeded the volume executed prior to and in the
+opening cross itself. An LULD pause was triggered in one of the six Corporates.
+
+LULD Halts (Section V):
+•
+
+Although most of the 1,278 LULD trading halts on August 24 occurred in ETPs, 80% of
+ETPs did not experience a single LULD halt. Overall, there were 1,058 LULD halts in 327
+ETPs (many halts were repeats in the same ETP), and 220 LULD halts in 144 non-ETPs.
+
+•
+
+Corporates were much less likely to experience an LULD halt. Only 8 constituents of the
+S&P 500 and 2 constituents of the NASDAQ-100 experienced LULD halts.
+
+•
+
+A great majority (84%) of ETPs have small market capitalizations and, accordingly, most
+LULD pauses occurred in smaller ETPs. The rate of ETPs with LULD halts, however, was
+the same for both the largest and smaller ETPs. LULD trading pauses occurred in 20% of
+the 50 largest capitalization ETPs, and in 20% of the remaining 1,491 ETPs.
+
+•
+
+More than 60% of LULD halts followed a price rise, and most of these (88%) occurred
+after 9:45 when the LULD percentage price bands are no longer doubled (as they are
+during the first 15 minutes of regular trading hours).
+
+•
+
+NYSE Arca, which is the primary listing exchange for more than 85% of ETPs, applied
+price collars to reopening auctions after LULD halts on August 24. The reopening
+auctions on NYSE Arca generated prices that were substantially less dispersed than
+reopening auctions on other primary listing exchanges. The reopening auctions on NYSE
+Arca also left many unexecuted order imbalances. For reopening auctions with sell
+4
+
+imbalances, 94% of the total imbalances resulted from market orders. For reopening
+auctions with buy imbalances, 91% of the total imbalances resulted from orders with
+limit prices.
+•
+
+Following LULD halts on August 24, 4,078 trades totaling $34.6 million in volume were
+executed at prices outside of the LULD bands that were disseminated after the halts.
+Reports of the trades generally were disseminated by the securities information
+processors (“SIPs”) for the consolidated data feeds in a very short period (a few
+milliseconds) around the time that the SIP disseminated a trade resumption message
+and a message with new LULD price bands based on the reopening price of the primary
+listing exchange.
+
+ETPs (Section VI):
+•
+
+ETPs as a class experienced more substantial increases in volume and more severe
+volatility than Corporates on August 24, but individual ETPs varied widely in terms of
+their volatility. A majority of all ETPs (63.3%) declined by less than 10% -- a level that is
+consistent with broad market declines on August 24. A minority of ETPs (19.2%),
+however, declined by 20% or more (compared to only 4.7% of Corporates).
+
+•
+
+Extreme volatility seemed to occur idiosyncratically among otherwise seemingly similar
+ETPs. SPY, for example, traded at a premium to its NAV until 9:37, while the next largest
+ETP – the iShares Core S&P 500 (“IVV”) – traded at a substantial discount to the SPY, EMini, and SPY NAV until 9:43.
+
+•
+
+The second most actively traded ETP on August 24 – the PowerShares QQQ Trust, Series
+1 (“QQQ”) – is designed to track the NASDAQ-100 index, which does not include any
+NYSE-listed constituents. All NASDAQ-100 constituents opened for regular trading
+hours on NASDAQ at 9:30. Similar to IVV, however, QQQ traded at a substantial
+discount to its NAV until 9:37.
+
+•
+
+ETPs focused on U.S. equities (“US Equity ETPs”) were much more affected on August 24
+than other types of ETPs, but most (58%) did not experience a single LULD halt. For the
+499 US Equity ETPs, 41.9% experienced an LULD halt and their mean percentage range
+for the day (reflecting the difference between their highs and lows) was 19.2%.
+
+•
+
+Even within the category of US Equity ETPs, however, there was a wide variation in
+trading on August 24. Of the 114 US Equity ETPs with Large or Mid market
+capitalizations,5 the most volatile 24 ETPs experienced an average of 8.2 LULD halts per
+ETP and had a mean percentage price range of 42.8%, while the least volatile 31 ETPs
+did not experience a single LULD halt and had a mean percentage price range of 7.2%.
+
+5
+
+Market capitalization bins are defined in Section I below. As noted in Section VI below, Large
+and Mid US Equity ETPs represent 77% of the total market capitalization of US Equity ETPs.
+5
+
+•
+
+Section VI below explores trading metrics that are associated with these widely varying
+levels of volatility among seemingly similar ETPs. A pre-August 24 metric with a
+particularly strong association with volatility is secondary market turnover rate – the
+ratio of average daily volume in the secondary market for an ETP to its shares
+outstanding. Large and Mid market capitalization US Equity ETPs with comparatively
+low secondary market turnover rates in a control period were much more likely to
+experience severe volatility and multiple LULD halts on August 24 than ETPs with
+comparatively high secondary market turnover rates.
+
+The foregoing data points are based on publicly available information. They, along with all of
+the empirical analyses and information provided in this Research Note, are not intended to
+reach or suggest any legal conclusions or factual findings regarding the causes of the volatility
+on August 24 or potential steps to address volatility. Rather, publication of this paper should be
+regarded as a preliminary step to help inform a public assessment of the operation of U.S.
+equity markets under stressed conditions. In this regard, SEC staff continue to examine a broad
+spectrum of issues related to trading on August 24. These include, among other things:
+●
+
+factors that may have been associated with volatility in ETPs and other securities,
+including the nature of selling pressure, sources of liquidity provision, and, for ETPs,
+create and redeem activity;
+
+●
+
+the effect of Regulation SHO SSRs;
+
+●
+
+the opening process on primary listing exchanges, including the nature of trading prior
+to and immediately after the opening auction on the primary listing exchange;
+
+●
+
+the reopening process following LULD halts, including the nature of participants in the
+reopening auctions on primary listing exchanges and the rules and practices employed
+by exchanges in connection with reopenings;
+
+●
+
+the operation of the LULD Plan, particularly as it applies in the period following the
+opening of regular trading hours and to reopenings following LULD halts; and
+
+●
+
+the operation of market-wide circuit breakers, particularly as they apply in the period
+following the opening of regular trading hours.
+
+6
+
+I.
+
+Data and Summary Statistics
+
+Except as otherwise noted, the data used for the analyses in this paper was accessed through
+the SEC’s Market Information and Data Analytics System (“MIDAS”) and is sourced from the
+consolidated data feeds disseminated by the SIPs and the direct data feeds disseminated by the
+exchanges.
+Our dataset comprises all tickers with trades reported by the SIPs for the consolidated market
+data plans on August 24, 2015. For most analyses, we exclude tickers that both are not
+included in the database of the Center for Research in Securities Prices (“CRSP”) and are not
+included in the database of ETPs accessed through the Bloomberg Professional Service.
+We further categorize included tickers based on whether they are reported in CRSP as
+corporate stocks (CRSP share codes 11 and 12) (“Corporates”), reported in CRSP as ETPs (CRSP
+share codes 73 and 74) or in Bloomberg Professional Service as ETPs. For most analyses, we
+exclude ETPs that are leveraged (“Leveraged ETPs”). In many respects, the Leveraged ETPs are
+designed to trade differently than other ETPs. They are excluded to obtain more comparable
+statistics.
+All included tickers other than Corporates and ETPs are categorized as “Other Tickers.” These
+include a variety of types of products, such as American Depositary Receipts and Real Estate
+Investment Trusts.
+Corporates and ETPs are further categorized into four bins based on their market capitalization
+on August 24: Very Large >=$100 billion, Large >=$10 billion, Mid >=$1 billion, and Small <$1
+billion.
+While a variety of analyses are provided in the Sections that follow, Table I-1 below provides a
+few summary statistics for the various ticker categories and market capitalization bins on
+August 24:
+
+7
+
+Table I-1: Summary Statistics
+
+Ticker Category Market Cap Bin
+Corporate
+Very Large
+Large
+Mid
+Small
+
+Count Total (Billion)
+41
+$7,299
+383
+$10,542
+1,324
+$4,389
+2,569
+$690
+
+Market Cap
+Dollar Volume
+Percent of Ticker
+Percent of Ticker
+Category
+Mean (Million) Total (Million)
+Category
+Mean (Thousand)
+31.8
+$178,029
+$98,909
+28.7
+$2,412,421
+46.0
+$27,526
+$159,838
+46.4
+$417,332
+19.2
+$3,315
+$78,269
+22.7
+$59,116
+3.0
+$268
+$7,807
+2.3
+$3,039
+
+ETP
+
+Very Large
+Large
+Mid
+Small
+
+1
+49
+196
+1,295
+
+$161
+$972
+$597
+$199
+
+8.3
+50.4
+30.9
+10.3
+
+$160,962
+$19,843
+$3,044
+$154
+
+$97,346
+$79,258
+$51,057
+$11,922
+
+40.6
+33.1
+21.3
+5.0
+
+$97,346,220
+$1,617,512
+$260,496
+$9,206
+
+Other
+Leveraged ETPs
+Excluded
+
+N/A
+N/A
+N/A
+
+1,334
+213
+1,413
+
+$2,500
+$32
+N/A
+
+N/A
+N/A
+N/A
+
+$1,874
+$151
+N/A
+
+$33,737
+$15,750
+$2,263
+
+N/A
+N/A
+N/A
+
+$25,290
+$73,943
+$1,602
+
+Table I-1: Summary statistics for ticker categories and market capitalization bins. Market
+Cap and Dollar Volume are calculated for August 24.
+
+Market capitalization and trading volume for both Corporates and ETPs are highly tiered. The
+424 largest Corporates (Very Large and Large) represent 77.8% of Corporates market
+capitalization and 75.1% of Corporates dollar volume on August 24. Similarly, the 246 largest
+ETPs (Very Large, Large, and Mid) represent 89.6% of ETP market capitalization and 95.0% of
+ETP dollar volume on August 24.
+Two additional characteristics of ETPs warrant noting.
+First, the Very Large ETP bin includes only one ticker, which is SPY. In many respects, SPY is
+quite different from all other ETPs. First, its market capitalization on August 24 was more than
+twice as large as the next largest ETP – IVV (and IVV was only 14% larger than the third largest
+ETP). Second, its $97.3 billion dollar volume on August 24 dwarfed all other tickers, whether
+ETP or Corporate. It was more than six times larger than the next highest volume ETP (QQQ),
+and more than five times larger than the next highest volume Corporate (AAPL).
+Second, a great majority of ETPs fall within the Small market capitalization bin. The 1,295 Small
+ETPs represent 84.0% of ETP tickers, but only 10.3% of ETP market capitalization and 5.0% of
+ETP dollar volume on August 24.
+
+8
+
+II.
+
+S&P 500 and NASDAQ-100 Indices and Market-Wide Circuit Breakers
+
+To give an overview of trading on August 24, this section examines two broad market indices –
+the S&P 500 index and the NASDAQ-100 index – along with selected related equities and
+futures.
+The constituents of the S&P 500 index represented 76% of Corporates market capitalization on
+August 24. A majority of its constituents (77%) have their primary listing on NYSE, with the
+remaining 23% listed on NASDAQ. The largest ETPs related to the S&P 500 are SPY and IVV, and
+the most active related futures contract is the E-Mini.
+The constituents of the NASDAQ-100 index represented 27% of Corporates market
+capitalization on August 24. All of its constituents have their primary listing on NASDAQ. The
+NASDAQ-100 thereby provides a useful point of comparison for assessing the extent to which
+some features of trading on August 24 are or are not associated with characteristics of the NYSE
+versus NASDAQ as a primary listing exchange. The largest ETP related to the NASDAQ-100 is
+QQQ, and the most active related futures contract is the E-Mini NASDAQ-100 futures contract
+(“N100 Future”).
+A.
+
+Pre 9:30 Trading
+
+Even prior to the opening of regular trading hours on the equity markets at 9:30, the most
+active ETPs and futures products reflected substantial declines in the broad market indices. For
+the period from 9:00 to 10:00, Figure II-1 below provides relative returns from August 21
+closing prices for SPY and E-Mini (top panel) and for QQQ and N100 Future (bottom panel).6
+
+6
+
+The charts in Figure II-1 reflect prices at the end of 10-second increments to provide more
+precise comparisons of prices across the different products. Prices that occurred within the
+increments will not be reflected in the charts. Consequently, the charts may not reflect daily
+lows for a product if the low price occurred within a 10-second increment.
+9
+
+Figure II-1: Select ETPs and Futures – Relative Returns from 9:00 to 10:00
+
+Figure II-1: Return relative to August 21 close for the E-mini and SPY (top panel) and the
+N100 Future and QQQ (bottom panel) from 9:00 to 10:00.
+
+10
+
+By 9:00, SPY and E-Mini had declined nearly 4% from their previous day close, and QQQ and
+N100 Future had declined by 5%. Indeed, N100 Future had reached its pre-9:30 limit down
+level of 5% (reflected in the horizontal line on its chart).
+From 9:00 a.m. to 9:30 a.m., prices continued to decline. By 9:30, SPY was down more than 5%.
+At approximately 9:15, E-Mini reached its pre-9:30 limit down level of 5% (reflected in the
+horizontal line on its chart). QQQ declined further to more than 8% by 9:30.
+At 9:25, both E-Mini and N100 Future paused for trading until the 9:30 opening of regular
+trading hours in the equity markets. Both products trade on the Chicago Mercantile Exchange
+(“CME”), and its rules prescribed a pause at 9:25 because the prices of the products had
+reached their pre-9:30 limit down levels for a sustained period of time. E-Mini and N100 Future
+reopened for trading at 9:30 with wider limit down levels of 7%.
+B.
+
+Start of Regular Trading Hours
+
+At the 9:30 start of regular trading hours for the equity markets, the primary listing exchanges
+conduct opening auctions in their listed tickers (and sometimes others). The primary listing
+exchange is NYSE Arca for SPY and NASDAQ for QQQ, both of which conduct a fully automated
+opening auction in their listed products.
+Figure II-1 above indicates that SPY opened consistent with its pre-9:30 decline of more than
+5%. The SPY then further declined to more than 7% by 9:35, before recovering above its
+opening price by 9:40. Consistent with SPY, E-Mini opened at a more than 5% decline and then
+further declined to its wider limit down level of 7%, before recovering largely in line with SPY.
+QQQ and N100 Future traded quite differently – both from each other and when compared to
+the S&P 500 products. QQQ opened consistent with its pre-9:30 price level, but rapidly
+declined to its daily low of approximately 17% at 9:31. QQQ then recovered in choppy trading,
+exceeding its open price at approximately 9:36. N100 Future, as with E-Mini, reopened on CME
+at 9:30 with a lower limit down level of 7%. It immediately hit the 7% limit down level and
+remained there until approximately 9:38. when it began to recover. By 9:45, it was trading
+largely in line with QQQ.
+C.
+
+Tracking of Indices and Related Products
+
+To help further assess the extent to which the broad-market indices and related products
+tracked each other during regular trading hours, Figure II-2 below charts prices throughout the
+trading day of SPX (as calculated and disseminated by S&P DJI), SPY, IVV, E-Mini, and SPY NAV
+(as we computed based on consolidated last sale prices). Figure II-3 below provides the same
+
+11
+
+chart in relative returns7 for the NASDAQ-100 index (“NDX”), QQQ, N100 Future, and QQQ NAV
+(as we computed based on consolidated last sale prices).
+Figure II-2: Ten Second Prices for SPX, SPY, IVV, E-Mini, and SPY NAV
+
+Figure II-2: End-of-period (last trade) prices on August 24 for SPX, SPY, E-Mini, IVV, and
+computed SPY NAV.
+
+7
+
+Figure II-3 provides returns from August 21 close, rather than prices, to adjust for the different
+pricing convention of QQQ relative to NDX.
+12
+
+Figure II-3: Ten Second Relative Returns for NDX, QQQ, N100 Future, and QQQ NAV
+
+Figure II-3: Return relative to August 21 close for NDX, QQQ, N100 Future, and computed
+NAV for QQQ.
+
+Both Figure II-2 and Figure II-3 indicate that prices of the broad-market indices and their related
+products tracked each other closely throughout nearly all of the trading day, with the notable
+exception of the first 15 minutes of trading.
+To better illustrate how prices diverged during the opening minutes of trading, Figures II-4 and
+II-5 below provide the same charts as above, except limited to the period from 9:30 to 10:00
+and with prices in 100 millisecond intervals.
+
+13
+
+Figure II-4: 100 Millisecond Prices for SPX, SPY, IVV, E-Mini, and SPY NAV
+9:30 to 10:00
+
+Figure II-4: End-of-period (last trade) prices for 9:30 to 10:00 on August 24 for SPX, SPY,
+IVV, E-Mini, and computed SPY NAV.
+
+14
+
+Figure II-5: 100 Millisecond Relative Returns for NDX, QQQ, N100 Future, and QQQ NAV
+9:30 to 10:00
+
+Figure II-5: Return relative to August 21 close for NDX, QQQ, N100 Future, and computed
+QQQ NAV.
+
+For the SPX and related products, Figure II-4 indicates that SPY, E-Mini, and SPY NAV varied
+somewhat during the initial minutes of regular trading hours, but began tracking relatively
+closely at 9:38. Both SPY and E-Mini traded at a premium to SPY NAV during this period. In
+contrast, SPX and IVV varied more substantially and for longer periods from SPY, E-Mini, and
+SPY NAV.
+SPX opened higher than all other related prices and remained higher until it largely began to
+track SPY, E-Mini, and SPY NAV at 9:43. This variation between SPX and related products likely
+is attributable to the S&P DJI methodology for calculating SPX. S&P DJI generally relies on
+trades executed by only the primary listing market to calculate SPX. As discussed further in
+Section IV below, many NYSE-listed stocks did not open immediately at 9:30 on the NYSE
+(though they were immediately open for trading at other exchanges and off-exchange venues).
+On the morning of August 24, the SPX calculation would have continued to reflect August 21
+closing prices for NYSE-listed stocks that were not yet opened on NYSE. Based on this
+methodology, SPX reached its daily low of a little more than 5% at 9:35 and then recovered. At
+around 9:42, SPX began to track closely with SPY, E-Mini, and SPY NAV.
+15
+
+In contrast to SPX, IVV declined much farther than SPY, E-Mini, and SPY NAV immediately after
+9:30. IVV reached a daily low of a more than 20% below its previous day’s close, thereby
+trading at a large discount to SPY, E-Mini, and SPY NAV. At approximately 9:43, IVV fully
+recovered and began to closely track the other S&P 500 prices throughout the day. The issue of
+severe ETP volatility relative to broad-market indices is addressed in Section VI below.
+Turning to NDX and related products, Figure II-5 above indicates that NDX and QQQ NAV
+tracked each other closely soon after the open. They opened at an approximately 8% decline,
+declined further to nearly 10% at 9:32, and then recovered above their opening prices by 9:35.
+In contrast, N100 Future almost immediately hit its limit down level of 7% after 9:30 and
+remained there until 9:38 before beginning to recover. By 9:42, N100 Future began to track the
+other NASDAQ-100 prices closely throughout the trading day.
+Finally, QQQ declined much more substantially immediately after the open than did NDX and
+QQQ NAV. It reached a daily low of more than 17% down at 9:31, thereby trading at a large
+discount to NDX and QQQ NAV. After trading choppily for several minutes, QQQ began to
+closely track NDX and QQQ NAV at 9:37. The issue of severe ETP volatility relative to broadmarket indices is addressed in Section VI below.
+D.
+
+Market-Wide Circuit Breakers
+
+The fact that SPX did not decline as far as its related products on August 24 had a significant
+effect on market-wide circuit breakers established by SRO rules, which are outlined in Table II-1
+below.8
+Table II-1: Market-Wide Circuit Breakers
+Circuit Breaker Level
+One
+Two
+Three
+
+SPX Decline
+7%
+13%
+20%
+
+Through 3:25 p.m.
+15-minute halt
+15-minute halt
+Close for day
+
+After 3:25 p.m.
+No halt
+No halt
+Close for day
+
+The first level of market-wide circuit breakers is triggered when SPX, as calculated and
+disseminated by S&P DJI, declines by 7% during regular trading hours from its previous day’s
+close. At this point, trading is paused for 15 minutes in all equities and equities related futures
+and options. Unlike the prices for SPX-related products, however, SPX itself did not decline by
+7% or more in the opening minutes of regular trading hours. Consequently, market-wide circuit
+breakers were not triggered on August 24.
+8
+
+The market-wide circuit breakers are described in SEC Press Release No. 2012-107, “SEC
+Approves Proposals to Address Extraordinary Volatility in Individual Stocks and Broader Stock
+Market” (June 1, 2012) (available at
+http://www.sec.gov/News/PressRelease/Detail/PressRelease/1365171482422).
+16
+
+III.
+
+Trading in Corporates and ETPs
+
+To broaden the analysis of trading on August 24, this Section III provides data on a variety of
+trading and market quality metrics for the more than 4,000 Corporates and more than 1,500
+ETPs that traded that day. We first provide data on percentage declines and Regulation SHO
+short sale restrictions (which generally are triggered by a 10% decline from previous day’s
+close). Next are charts comparing total share volume9 and national best bid and offer (“NBBO”)
+sizes on August 24 with a control day -- the preceding Monday, August 17. Finally, we provide
+charts comparing dollar volume, quoted spreads, and quoted depth on August 24 with a longer
+control period – the three-week period from August 3 to August 21, 2015.
+A.
+
+Percentage Declines
+
+Figure III-1 below provides histograms that set forth percentage declines (August 21 close to
+August 24 low) for Corporates, and Figure III-2 below provides histograms that set forth
+percentage declines for ETPs. Both Corporates and ETPs are binned by market capitalization.
+Following the histograms, Tables III-1 and III-2 below set forth counts of the data underlying the
+histograms. The data sources for the histograms and tables are the consolidated data feeds
+disseminated by the SIPs.
+The histograms and tables indicate that Very Large Corporates experienced a larger percentage
+of severe declines on August 24 than other sizes of Corporates, with a proportionally higher
+number of tickers experiencing declines of 10% or more. For example, 51.2% of the 41 Very
+Large Corporates reached lows of 10% or more, while only 29.6% of the more than 4,000
+Corporates in the Large, Mid, and Small bins reached lows of 10% or more.
+As a class, ETPs experienced larger percentage declines than Corporates, with a proportionally
+higher number of tickers experiencing declines of 10% or more (36.6% of all ETPs compared to
+29.8% of all Corporates). As just noted, however, Very Large Corporates experienced a rate of
+10% or more declines (51%) that was greater than ETPs as a class (36.6%).
+Moreover, individual ETPs varied widely in terms of their volatility. While 19.2% of all ETPs
+declined by 20% or more, 63.4% of all ETPs experienced declines of less than 10% -- a level that
+is consistent with broad market declines on August 24. The wide variation in volatility among
+ETPs is addressed further in Section VI below.
+
+9
+
+The volume figures in this Section III do not include volume in opening, reopening, and closing
+crosses. Openings and reopenings are addressed in Section IV and V, respectively.
+17
+
+Figure III-1: Percentage Declines (Corporates)
+
+Figure III-1: Histograms of downward price moves10 for Corporates split by market
+capitalization buckets on August 24. 5% increment bins are chosen.11
+
+10
+
+We calculate price moves from last traded price on August 21, 2015 to lowest traded price on
+August 24, 2015.
+11
+
+Intervals are closed only at the smaller number. For example, a 10% move would fall into the
+10-15% bucket, not in the 5-10% bucket.
+18
+
+Figure III-2: Percentage Declines (ETPs)
+
+Figure III-2: Histograms of downward price moves for ETPs split by market capitalization
+buckets on August 24. 5% increment bins are chosen.
+
+19
+
+Table III-1: Percentage Declines (Corporates)
+Market Capitalization
+Very Large
+Very Large
+Very Large
+Very Large
+Very Large
+Very Large
+Total
+Large
+Large
+Large
+Large
+Large
+Large
+Total
+Mid
+Mid
+Mid
+Mid
+Mid
+Mid
+Total
+Small
+Small
+Small
+Small
+Small
+Small
+Total
+Total (ALL)
+
+Price Move
+Greater than 25%
+Between 20 and 25%
+Between 15 and 20%
+Between 10 and 15%
+Between 5 and 10%
+Less than 5%
+Greater than 25%
+Between 20 and 25%
+Between 15 and 20%
+Between 10 and 15%
+Between 5 and 10%
+Less than 5%
+Greater than 25%
+Between 20 and 25%
+Between 15 and 20%
+Between 10 and 15%
+Between 5 and 10%
+Less than 5%
+Greater than 25%
+Between 20 and 25%
+Between 15 and 20%
+Between 10 and 15%
+Between 5 and 10%
+Less than 5%
+
+Counts
+1
+5
+8
+7
+19
+1
+41
+3
+10
+29
+79
+238
+24
+383
+16
+22
+59
+243
+829
+154
+1,32312
+73
+70
+175
+466
+1061
+652
+2,49713
+4,244
+
+Table III-1: Counts of downward price moves for Corporates split by market capitalization
+buckets on August 24. 5% increment bins are chosen.
+
+12
+
+One Mid Corporate did not trade on both days.
+
+13
+
+72 Small Corporates did not trade on both days.
+20
+
+Table III-2: Percentage Declines (ETPs)
+Market Capitalization
+Very Large
+Total
+Large
+Large
+Large
+Large
+Large
+Large
+Total
+Mid
+Mid
+Mid
+Mid
+Mid
+Mid
+Total
+Small
+Small
+Small
+Small
+Small
+Small
+Total
+Total (ALL)
+
+Price Move
+Between 5 and 10%
+Greater than 25%
+Between 20 and 25%
+Between 15 and 20%
+Between 10 and 15%
+Between 5 and 10%
+Less than 5%
+Greater than 25%
+Between 20 and 25%
+Between 15 and 20%
+Between 10 and 15%
+Between 5 and 10%
+Less than 5%
+Greater than 25%
+Between 20 and 25%
+Between 15 and 20%
+Between 10 and 15%
+Between 5 and 10%
+Less than 5%
+
+Counts
+1
+1
+6
+6
+4
+4
+18
+11
+49
+44
+8
+15
+16
+59
+54
+196
+160
+46
+52
+154
+336
+412
+1,16014
+1,406
+
+Table III-2: Counts of downward price moves for ETPs split by market capitalization
+buckets on August 24. 5% increment bins are chosen. SPY is the only Very Large ETF in this
+analysis.
+
+14
+
+135 Small ETPs did not trade on both days.
+21
+
+B.
+
+Regulation SHO Short Sale Restrictions
+
+Under Rule 201 of Regulation SHO, short-sale restrictions (“SSRs”) generally are triggered when
+a ticker’s price declines 10% below the previous day’s close. At that point, short sale orders
+(other than those that are exempt) generally cannot be executed at prices that are equal to or
+lower than the national best bid. When triggered, the SSRs continue for the rest of that trading
+day (“new triggers”) and carryover to all of the next trading day (“carryovers”). In addition, for
+a security primarily listed on the NYSE, NYSE rules provide that new triggers cannot occur on a
+trading day until the NYSE has opened trading in that security.
+1.
+
+Total Number of SSRs
+
+SSRs were implemented in February 2011. Since then, the largest number of new triggers was
+2,318 on August 8, 2011.15 On August 24, new SSR triggers totaled 2,069. The great majority,
+however, occurred by 9:45.
+Table III-3 below sets forth the number of new triggers and carryovers from 9:30 to 10:00 on
+August 24.
+
+15
+
+Data used in this Section III.B for calculating the number of Regulation SHO SSRs was
+obtained from NASDAQ and NYSE for securities primarily listed on NASDAQ, NYSE, NYSE Arca,
+and NYSE MKT.
+22
+
+Table III-3: SSR Triggers on August 24
+
+Time
+9:31:00
+9:32:00
+9:33:00
+9:34:00
+9:35:00
+9:36:00
+9:37:00
+9:38:00
+9:39:00
+9:40:00
+9:41:00
+9:42:00
+9:43:00
+9:44:00
+9:45:00
+9:46:00
+9:47:00
+9:48:00
+9:49:00
+9:50:00
+9:51:00
+9:52:00
+9:53:00
+9:54:00
+9:55:00
+9:56:00
+9:57:00
+9:58:00
+9:59:00
+10:00:00
+
+Corporates
+ETPs
+Other
+8/24 New
+8/21
+8/24 New
+8/21
+8/24 New
+8/21
+Triggers
+Carryovers Triggers
+Carryovers Triggers
+Carryovers
+276
+166
+347
+23
+57
+67
+369
+166
+402
+23
+73
+67
+443
+166
+423
+23
+93
+67
+510
+166
+447
+23
+119
+67
+587
+166
+465
+23
+138
+67
+642
+166
+482
+23
+155
+67
+674
+166
+493
+23
+171
+67
+699
+166
+504
+23
+187
+67
+731
+166
+509
+23
+198
+67
+747
+166
+513
+23
+206
+67
+775
+166
+516
+23
+225
+67
+790
+166
+522
+23
+247
+67
+806
+166
+527
+23
+266
+67
+823
+166
+528
+23
+275
+67
+829
+166
+530
+23
+288
+67
+838
+166
+534
+23
+299
+67
+849
+166
+535
+23
+310
+67
+857
+166
+536
+23
+319
+67
+863
+166
+537
+23
+324
+67
+870
+166
+537
+23
+334
+67
+876
+166
+539
+23
+339
+67
+879
+166
+539
+23
+344
+67
+888
+166
+540
+23
+349
+67
+900
+166
+541
+23
+352
+67
+906
+166
+541
+23
+360
+67
+915
+166
+542
+23
+363
+67
+919
+166
+542
+23
+366
+67
+924
+166
+542
+23
+367
+67
+929
+166
+542
+23
+368
+67
+934
+166
+545
+23
+369
+67
+
+Total
+
+936
+1,100
+1,215
+1,332
+1,446
+1,535
+1,594
+1,646
+1,694
+1,722
+1,772
+1,815
+1,855
+1,882
+1,903
+1,927
+1,950
+1,968
+1,980
+1,997
+2,010
+2,018
+2,033
+2,049
+2,063
+2,076
+2,083
+2,089
+2,095
+2,104
+
+Table III-3: Cumulative number of SSR triggers on August 24 2015 from 9:30 to 10:00 split
+by security type and carryovers from the previous day (excluding securities primarily listed
+on BATS).
+
+23
+
+2.
+
+SSRs in S&P 500 and NASDAQ-100 Constituents
+
+Under Regulation SHO, SSRs are designed, among other things, to prevent short selling from
+driving down further the price of a security that has already experienced a significant intra-day
+price decline, and to facilitate the ability of long sellers to sell first upon such a decline.16 In this
+respect, some have suggested that SSRs could affect the ability of traders to engage in arbitrage
+between an ETP and its underlying constituents.17 This effect could occur if an ETP’s price
+declined faster than the price of a basket of its underlying constituents. In this situation,
+arbitrage typically would be conducted by buying the relatively underpriced ETP and selling the
+relatively overpriced basket of underlying constituents. For traders that were short the
+underling constituents, their ability to conduct this type of arbitrage could be affected by SSRs.
+If so, SSRs potentially could help reduce selling pressure in the underlying Corporates of an
+index that had experienced a large intraday decline, but also could reduce buying in an ETP
+based on the index.
+To help assess the extent of a potential effect on arbitrage in products related to the S&P 500
+and NASDAQ-100 indices, Figures III-3 through III-6 below set forth the number and market
+capitalization of constituents of the two indices that were subject to SSRs on August 24. SSRs
+were triggered in 108 constituents representing more than 37% of the market capitalization of
+the S&P 500, and in 42 constituents representing more than 50% of the market capitalization of
+the NASDAQ-100.
+
+16
+
+Securities Exchange Act Release No. 61595, “Amendments to Regulation SHO,” 75 FR 11232,
+11234 (March 10, 2010).
+17
+
+See, e.g., Nick Baker, “Speed Traders Offer ETF Fix to Prevent Repeat of August Rout”
+(September 25, 2015) (available at http://www.bloomberg.com/news/articles/2015-0925/speed-traders-propose-etf-fix-to-prevent-repeat-of-aug-24-rout).
+24
+
+Figure III-3: S&P 500 Constituents with SSRs (Counts)
+
+Figure III-3: Number of S&P 500 constituents with SSRs on August 24 between 9:30 and
+10:00. All tickers but one were new triggers.
+
+25
+
+Figure III-4: S&P 500 Constituents with SSRs (Market Cap)
+
+Figure III-4: Cumulative market capitalization proportion of S&P 500 constituents with SSRs
+on August 24 between 9:30 and 10:00.
+
+26
+
+Figure III-5: NASDAQ-100 Constituents with SSRs (Counts)
+
+Figure III-5: Number of NASDAQ-100 constituents with SSRs on August 24 between 9:30
+and 10:00. All tickers except two were new triggers.
+
+27
+
+Figure III-6: NASDAQ-100 Constituents with SSRs (Market Cap)
+
+Figure III-6: Cumulative market capitalization proportion of NASDAQ-100 constituents with
+SSRs on August 24 between 9:30 and 10:00.
+
+28
+
+C.
+
+Share Volume and NBBO Sizes
+
+Figures III-7 through III-18 below provide average (mean) share volume18 and average (mean)
+NBBO size comparisons of trading on August 24 with a control day of the preceding Monday,
+August 17, 2015. Corporates and ETPs are treated separately, and each is binned by market
+capitalization. For each metric, a chart with full day data is provided, followed by the same
+chart focused on the first thirty minutes of trading. The data sources for the charts are the
+consolidated data feeds disseminated by the SIPs.
+On August 24, average share volume was substantially larger in the opening minutes than the
+control day for all sizes of Corporates and ETPs, and remained higher through the trading day.
+Volume in the opening minutes was particularly higher than the control day for Very Large
+Corporates and for Large, Mid, and Small ETPs.
+For both Corporates and ETPs on the control day, average NBBO bid and ask sizes generally are
+smallest in the opening minutes and improve through the trading day. On August 24, this
+intraday pattern continued, though with generally smaller sizes.
+
+18
+
+The volume figures in this Section III do not include volume in opening, reopening, and
+closing crosses. Openings and reopenings are addressed in Section IV and V, respectively.
+29
+
+Figure III-7: Average Traded Share Volume (Corporates)
+
+Figure III-7: Average traded share volume for Corporates by market capitalization for each
+minute on August 24 compared to August 17.
+
+30
+
+Figure III-8: Average Traded Share Volume (Corporates) – 9:30 to 10:00
+
+Figure III-8: Average traded share volume for Corporates by market capitalization for each
+minute from 9:30 to 10:00 on August 24 compared to August 17. 19
+
+19
+
+The volume in the interval from 9:30 to 9:31 (the first minute of trading in normal trading
+hours) is shown at 9:31 in this chart.
+31
+
+Figure III-9: Average Traded Share Volume (ETPs)
+
+Figure III-9: Average traded share volume for ETPs by market capitalization for each minute
+on August 24 compared to August 17.
+
+32
+
+Figure III-10: Average Traded Share Volume (ETPs) – 9:30 to 10:00
+
+Figure III-10: Average traded share volume for ETPs by market capitalization for each
+minute between 9:30 and 10:00 on August 24 compared to August 17.
+
+33
+
+Figure III-11: Average National Best Bid Size (Corporates)
+
+Figure III-11: Average national best bid size for Corporates by market capitalization for
+each minute on August 24 compared to August 17.
+
+34
+
+Figure III-12: Average National Best Bid Size (Corporates) – 9:30 to 10:00
+
+Figure III-12: Average national best bid size for Corporates by market capitalization for
+each minute between 9:30 and 10:00 on August 24 compared to August 17.
+
+35
+
+Figure III-13: Average National Best Ask Size (Corporates)
+
+Figure III-13: Average national best ask size for Corporates by market capitalization for
+each minute on August 24 compared to August 17.
+
+36
+
+Figure III-14: Average National Best Ask Size (Corporates) – 9:30 to 10:00
+
+Figure III-14: Average national best ask size for Corporates by market capitalization for
+each minute between 9:30 and 10:00 on August 24 compared to August 17.
+
+37
+
+Figure III-15: Average National Best Bid Size (ETPs)
+
+Figure III-15: Average national best bid size for ETPs by market capitalization for each
+minute on August 24 compared to August 17.
+
+38
+
+Figure III-16: Average National Best Bid Size (ETPs) – 9:30 to 10:00
+
+Figure III-16: Average national best bid size for ETPs by market capitalization for each
+minute between 9:30 and 10:00 on August 24 compared to August 17.
+
+39
+
+Figure III-17: Average National Best Ask Size (ETPs)
+
+Figure III-17: Average national best ask size for ETPs by market capitalization for each
+minute on August 24 compared to August 17.
+
+40
+
+Figure III-18: Average National Best Ask Size (ETPs) – 9:30 to 10:00
+
+Figure III-18: Average national best ask size for ETPs by market capitalization for each
+minute between 9:30 and 10:00 on August 24 compared to August 17.
+
+41
+
+D.
+
+Dollar Volume, Quoted Spreads, Quoted Depth, and Range Ratio
+
+Figures III-19 through III-32 below provide mean dollar volume,20 median quoted spread,
+median quoted depth, and mean range ratio comparisons of trading on August 24 with a threeweek control period of August 3 to August 21, 2015. Corporates and ETPs are treated
+separately, and each is binned by market capitalization. For each metric except quoted spread,
+a chart with full day data is provided, followed by the same chart focused on the first sixty
+minutes of regular hours trading.
+As with the average share volume charts provided in Section III.C above, mean dollar volume on
+August 24 was substantially larger in the opening minutes than the control period for all sizes of
+Corporates and ETPs, and remained higher through the trading day. The ratio of August 24 to
+control period dollar volume in the opening minutes was particularly high for Very Large
+Corporates and for Large, Mid, and Small ETPs.
+For both Corporates and ETPs, median quoted spreads were much wider in the opening
+minutes than other times of day during the control period. On August 24, quoted spreads were
+even wider than during the control period for all sizes of both Corporates and ETPs. Quoted
+spreads for Large, Mid, and Small ETPs were particularly affected, with August 24 spreads
+reaching levels that were at least 7 times wider than during the control period.
+For both Corporates and ETPs, median quoted depth (inside through 19 cents away) during the
+control period is smallest in the opening minutes, improves through the trading day, and
+reaches its highest levels at the close. On August 24, quoted depth was substantially smaller in
+the opening minutes than during the control period for all sizes of Corporates. Quoted depth
+for all sizes of ETPs declined by more than 90%.
+After the opening minutes, median quoted depth for Corporates improved throughout the day
+and generally reached levels consistent with the control period. In contrast, quoted depth for
+ETPs improved somewhat through the trading day, but did not reach levels consistent with the
+control period.
+Mean range ratios for the control period (price range during each minute as a percentage of
+price range for the day) indicate that volatility for both Corporates and ETPs was much higher in
+the opening 15 minutes than other times of the trading day. On August 24, this pattern
+continued. The opening 15 minutes were by far the most volatile period of the day.
+In sum, trading metrics for the control period indicate that the opening 15 minutes typically are
+the least liquid portion of the trading day, with wider spreads, less quoted depth, and higher
+volatility. These intraday patterns were observed on August 24, but with much larger trading
+volume.
+20
+
+The volume figures in this Section III do not include volume in opening, reopening, and
+closing crosses. Openings and reopenings are addressed in Section IV and V, respectively.
+42
+
+Figure III-19: Mean Dollar Volume ($ Thousands) for Corporates
+
+Figure III-19: Mean dollar volume (in $ Thousands) for Corporates on August 24 (red line),
+the average of August 3 to August 21 (‘base period’ - blue line), the base period average plus
+3 standard deviations (blue dashed line) and the ratio of the August 24 dollar volume to the
+average base period dollar volume (green line).
+
+43
+
+Figure III-20: Mean Dollar Volume ($ Thousands) for Corporates – 9:30 to 10:30
+
+Figure III-20: Mean dollar volume (in $ Thousands) for Corporates on August 24 (red line),
+the average of August 3 to August 21 (‘base period’ - blue line), the base period average plus
+3 standard deviations (blue dashed line) and the ratio of the August 24 dollar volume to the
+average base period dollar volume (green line).
+
+44
+
+Figure III-21: Mean Dollar Volume ($ Thousands) for ETPs
+
+Figure III-21: Mean dollar volume (in $ Thousands) for ETPs on August 24 (red line), the
+average of August 3 to August 21 (‘base period’ - blue line), the base period average plus 3
+standard deviations (blue dashed line) and the ratio of the August 24 dollar volume to the
+average base period dollar volume (green line). SPY is the only ETP with market
+capitalization greater than $100 Billion.
+
+45
+
+Figure III-22: Mean Dollar Volume ($ Thousands) for ETPs – 9:30 to 10:30
+
+Figure III-22: Mean dollar volume (in $ Thousands) for ETPs on August 24 (red line), the
+average of August 3 to August 21 (‘base period’ - blue line), the base period average plus 3
+standard deviations (blue dashed line) and the ratio of the August 24 dollar volume to the
+average base period dollar volume (green line). SPY is the only ETP with market
+capitalization greater than $100 Billion.
+
+46
+
+Figure III-23: Median Relative Quoted Spread (%) for Corporates
+
+Figure III-23: Median relative quoted spreads (in percent) for Corporates on August 24 (red
+line), the average of August 3 to August 21 (‘base period’ - blue line), the base period
+average plus 3 standard deviations (blue dashed line) and the ratio of the August 24 spread
+to the average base period spread (green line).
+
+47
+
+Figure III-24: Median Relative Quoted Spread (%) for ETPs
+
+Figure III-24: Median relative quoted spreads (in percent) for ETPs on August 24 (red line),
+the average of August 3 to August 21 (‘base period’ - blue line), the base period average plus
+3 standard deviations (blue dashed line) and the ratio of the August 24 spread to the
+average base period spread (green line). SPY is the only ETP with market capitalization
+greater than $100 Billion.
+
+48
+
+Figure III-25: Median Depth (Shares) for Corporates
+
+Figure III-25: Median cumulative quoted depth (in shares) for Corporates at the inside
+(red), 1 cent away (blue), 2 cents away (orange), 4 cents away (green), 9 cents away
+(yellow) and 19 cents away (slate). The y-axis scale is determined by the average of the base
+period (August 3 – August 21).
+
+49
+
+Figure III-26: Median Depth (Shares) for Corporates – 9:30 to 10:30
+
+Figure III-26: Median cumulative quoted depth (in shares) for Corporates at the inside
+(red), 1 cent away (blue), 2 cents away (orange), 4 cents away (green), 9 cents away
+(yellow) and 19 cents away (slate). The y-axis scale is determined by the depth on Aug 24.
+
+50
+
+Figure 27: Median Depth (Shares) for ETPs
+
+Figure III-27: Median cumulative quoted depth (in shares) for ETPs at the inside (red), 1
+cent away (blue), 2 cents away (orange), 4 cents away (green), 9 cents away (yellow) and
+19 cents away (slate). The y-axis scale is determined by the average of the base period
+(August 3 – August 21). SPY is the only ETP with market capitalization greater than $100
+Billion.
+
+51
+
+Figure III-28: Median Depth (Shares) for ETPs – 9:30 to 10:30
+
+Figure III-28: Median cumulative quoted depth (in shares) for ETPs at the inside (red), 1
+cent away (blue), 2 cents away (orange), 4 cents away (green), 9 cents away (yellow) and
+19 cents away (slate). The y-axis scale is determined by the depth on August 24. SPY is the
+only ETP with market capitalization greater than $100 Billion.
+
+52
+
+Figure III-29: Mean Range Ratio (%) for Corporates
+
+Figure III-29: Mean range ratio (in percent) for Corporates on August 24 (red line), the
+average of August 3 to August 21 (‘base period’ - blue line), the base period average plus 3
+standard deviations (blue dashed line) and the ratio of the August 24 range ratio to the
+average base period range ratio (green line). Mean range ratio is calculated by dividing
+one-minute ranges (high minus low) by daily range (high minus low).
+
+53
+
+Figure III-30: Mean Range Ratio (%) for Corporates – 9:30 to 10:30
+
+Figure III-30: Mean range ratio (in percent) for Corporates on August 24 (red line), the
+average of August 3 to August 21 (‘base period’ - blue line), the base period average plus 3
+standard deviations (blue dashed line) and the ratio of the August 24 range ratio to the
+average base period range ratio (green line). Mean range ratio is calculated by dividing
+one-minute ranges (high minus low) by daily range (high minus low).
+
+54
+
+Figure III-31: Mean Range Ratio (%) for ETPs
+
+Figure III-31: Mean range ratio (in percent) for ETPs on August 24 (red line), the average of
+August 3 to August 21 (‘base period’ - blue line), the base period average plus 3 standard
+deviations (blue dashed line) and the ratio of the August 24 range ratio to the average base
+period range ratio (green line). SPY is the only ETP with market capitalization greater than
+$100 Billion. Mean range ratio is calculated by dividing one-minute ranges (high minus
+low) by daily range (high minus low).
+55
+
+Figure III-32: Mean Range Ratio (%) for ETPs – 9:30 to 10:30
+
+Figure III-32: Mean range ratio (in percent) for ETPs on August 24 (red line), the average of
+August 3 to August 21 (‘base period’ - blue line), the base period average plus 3 standard
+deviations (blue dashed line) and the ratio of the August 24 range ratio to the average base
+period range ratio (green line). SPY is the only ETP with market capitalization greater than
+$100 Billion. Mean range ratio is calculated by dividing one-minute ranges (high minus
+low) by daily range (high minus low).
+
+56
+
+IV.
+
+Openings on Primary Listing Exchanges
+
+The opening process on the primary listing exchanges is important in a variety of respects. A
+large volume of orders typically participate and are executed in the opening cross on the
+primary listing exchange. As discussed in Section II above, S&P DJI generally uses prices from
+only the primary listing exchange for calculating index values, including the S&P 500 index that
+provides the reference for triggering market-wide circuit breakers. Finally, as discussed in
+Section V below, the price of the opening cross on the primary listing exchange (if it occurs
+before 9:35) is used as a reference price for calculation of the first LULD price bands of a trading
+day.
+The primary listing exchanges have different processes for opening securities for trading in
+regular trading hours. The basic cross functions have similarities, but significant differences can
+exist among the primary listing exchanges with respect to timing, dissemination of information,
+and price controls.
+A.
+
+BATS, NASDAQ, and NYSE Arca Opening Process
+
+The opening processes for BATS,21 NASDAQ22 and NYSE Arca23 are fully automated. They occur
+at 9:30 and, with some distinctions, are priced to maximize the volume that can be executed in
+the cross. Prior to the cross, they all periodically disseminate messages with imbalances and
+indicative prices through their direct data feeds. These messages provide direct data feed
+recipients with information on the likely price and size of a cross, given the current state of buy
+and sell interest.
+As set forth in Table IV-1 below, the exchanges differ in the securities subject to the opening
+cross and the price controls for the cross.
+
+21
+
+BATS Rule 11.23 governs its opening process.
+
+22
+
+NASDAQ Rule 4752 governs its opening process.
+
+23
+
+NYSE Arca Equities Rule 7.35 governs its opening process.
+57
+
+Table IV-1: BATS, NASDAQ, and NYSE Arca Openings
+BATS
+Symbols Subject to
+Opening Cross
+
+BATS listed only
+
+Price Controls
+
+3% from a collared
+midpoint of the NBBO
+for midpoints over
+$50; 5% for $25.01 –
+$50; 10% for <$25
+
+B.
+
+NASDAQ
+All exchange listed
+securities traded on
+NASDAQ
+10% of the NASDAQ
+BBO midpoint is
+added to the best
+offer and subtracted
+from the best bid
+
+NYSE Arca
+NYSE Arca listed and
+all exchange listed
+ETFs and ETNs
+1% from last trade
+prices for prices over
+$50; 2% for $25.01 –
+$50; 5% for < $2524
+
+NYSE Opening Process25
+
+Although other markets trade NYSE-listed symbols prior to the completion of NYSE’s opening
+process, NYSE does not begin trading until the Designated Market Maker (DMM) opens a
+symbol for trading. The DMM may open a stock manually or electronically, on a trade or a
+quote, at 9:30 or thereafter, and the opening should be, according to NYSE Rule 123D, “fair and
+orderly, reflecting a professional assessment of market conditions at the time, and appropriate
+consideration of the balance of supply and demand as reflected by orders represented in the
+market.”
+Before the open on August 24, NYSE published information about order imbalances and
+indicative prices through its direct data feeds until the earlier of 9:35 or the opening.26 If there
+is a significant price change in a symbol from the prior close, the DMM is required to obtain the
+approval of a floor official and manually disseminate a price range indication through the SIP.
+In the event of an extreme market volatility condition that is likely to have a floor-wide impact
+on the ability of DMMs to arrange for a fair and orderly opening, NYSE can invoke Rule 48 and
+suspend the DMMs’ obligation to seek certain approvals from floor officials and to publish
+
+24
+
+On September 8, 2015, NYSE Arca revised the collar percentages applicable to the
+Market Order Auction to 10%, 5% and 3%.
+https://www.nyse.com/publicdocs/nyse/markets/nysearca/NYSE_Arca_Trader_Update_Auction_Collars_Sept_2015.pdf.
+
+25
+
+NYSE Rules 15 and 123D govern its opening process. NYSE MKT follows the same
+process as NYSE for its opening.
+
+26
+
+On October 26, 2015, NYSE extended the period for publishing imbalance information
+until the symbol is opened. NYSE Trader Update, “NYSE and NYSE MKT: Changes to
+Imbalance Publication” (October 22, 2015) (available at https://www.nyse.com/traderupdate/history).
+58
+
+certain indication messages in the SIP data feeds. Rule 48 does not affect the information
+about order imbalances and indicative prices that NYSE provides through its direct data feeds.
+C.
+
+Timing of NYSE Openings
+
+On August 24, NYSE invoked Rule 48 to reflect volatile conditions in the pre-opening. NYSE
+opened trading in many of its symbols later than 9:35 (though NYSE-listed symbols traded on
+other exchanges and off-exchange venues at 9:30). Tables IV-2 below sets forth the timing, by
+market capitalization and number of securities, for NYSE openings in NYSE-listed constituents of
+the S&P 500 index.
+Table IV-2: NYSE-Listed S&P 500 Openings
+Time
+9:30-9:34
+9:35-9:39
+9:40-9:44
+9:45-9:49
+9:50-9:54
+9:55-9:59
+
+Total S&P 500
+Percent Of Number Of Average Market Cap
+Market Cap ($ Thousands) NYSE Open Securities Per Security ($ Thousands)
+7,001,441,765
+53%
+148
+47,307,039
+3,528,332,217
+27%
+109
+32,370,020
+1,395,070,112
+11%
+74
+18,852,299
+666,186,762
+5%
+19
+35,062,461
+485,477,256
+4%
+20
+24,273,863
+198,079,424
+1%
+15
+13,205,295
+
+Table IV-2: The timing, by market cap and number of securities, of NYSE opening crosses on
+August 24 in S&P 500 constituents. Percent of NYSE open is percentage of total market
+capitalization for NYSE-listed constituents of the S&P 500 index.
+
+For NYSE-listed constituents of the S&P 500, NYSE had opened 38% of its listed S&P 500
+companies representing 53% of such companies’ market capitalization by 9:35. By 9:45, these
+figures increased to 86% of NYSE-listed S&P 500 companies representing 91% of such
+companies’ market capitalization.
+D.
+
+Opening Volume and Prices
+
+Table IV-3 below provides data on opening cross volume on the primary listing exchange for
+August 24 in relation to opening cross volume on the primary listing exchange for August 17,
+along with data on opening cross prices on the primary listing exchange on August 24 in relation
+to closing cross prices on the primary listing exchange on August 21.
+
+59
+
+Table IV-3: Opening Volume Increases and Percent Price Changes
+
+Corporates
+Very Large
+Large
+Mid
+Small
+
+Opening Volume 8/21 Close To 8/24 Total
+Increase
+Open Price Change
+Securities
+6.9
+-6.79%
+41
+3.9
+-6.06%
+383
+4.8
+-5.41%
+1,315
+25.5
+-4.64%
+2,326
+
+ETPs
+Very Large
+Large
+Mid
+Small
+
+Opening Volume 8/21 Close To 8/24 Total
+Increase
+Open Price Change
+Securities
+7.4
+-5.23%
+1
+7.6
+-4.14%
+49
+7.0
+-3.11%
+196
+34.4
+-2.73%
+970
+
+Table IV-3: Opening cross volume increases on the primary listing exchange on August 24
+relative to August 17 and percentage price changes from August 21 close to August 24 open.
+The percentage volume change is based on the mean percentage change of the group.
+Securities that did not have any volume in the primary listing exchange's opening cross on
+August 17 or August 24 were not included in the analysis.
+
+Table IV-3 indicates that opening cross volumes were substantially higher on August 24 than on
+August 17 for all categories of Corporates and ETPs. The volume increases for ETPs were
+greater for all market capitalization bins than the volume increases for Corporates. In contrast,
+the percentage price declines for ETPs from August 21 close to August 24 open were smaller for
+all market capitalization bins than the percentage price declines for Corporates.
+Table IV-4 below provides another view into August 24 opening prices in relation to closing
+prices on August 21. Data is set forth by number of securities and is categorized by primary
+listing exchange and by percentage price changes from August 21 close to August 24 open.
+
+60
+
+Table IV-4: Opening Price Changes by Exchange
+
+Corporates
+Close To Open Change
+NYSE
+MKT NASDAQ NYSE
+>0%
+30
+116
+23
+<=0%,>-1%
+39
+188
+43
+<=-1%,>-2%
+24
+188
+52
+<=-2%,>-5%
+67
+1,066 613
+<=-5%,>-7%
+38
+510 488
+<=-7%,>-10%
+25
+259 258
+<=-10%,>-15%
+17
+115
+87
+<=-15%,>-20%
+7
+24
+17
+<=-20%
+6
+10
+4
+Total
+253
+2,476 1,585
+ETPs
+Close To Open Change
+NYSE
+Arca
+NASDAQ BATS
+>0%
+225
+21
+14
+<=0%,>-1%
+269
+17
+6
+<=-1%,>-2%
+221
+7
+2
+<=-2%,>-5%
+367
+50
+9
+<=-5%,>-7%
+142
+34
+<=-7%,>-10%
+62
+23
+1
+<=-10%,>-15%
+21
+11
+1
+<=-15%,>-20%
+4
+2
+<=-20%
+5
+2
+Total
+1,316
+167
+33
+Table IV-4: August 24 opening prices in relation to closing prices on August 21. The data is
+for the number of securities and is categorized by primary listing exchange and by
+percentage changes from the August 21st close to the August 24th open. Three Corporates
+and 23 ETPs without an opening trade message are not included.
+
+Table IV-4 indicates that Corporate opening prices generally reflected greater declines than did
+ETP opening prices. 43% of Corporates open with price declines of 5% or more, and 20% of
+ETPs open with price declines of 5% or more.
+
+61
+
+E.
+
+Percentage Changes for S&P 500 Stocks
+
+Table IV-5 below provides pricing information for S&P 500 constituents with primary listings on
+NASDAQ and NYSE, broken out by the time period in which the opening occurred. For openings
+on both exchanges and at different times, nearly all categories opened with substantial average
+declines, but recovered somewhat by the end of the trading day.
+Table IV-5: S&P 500 Constituent Open And Close Change By Exchange and Time
+Before 9:31
+Very Large
+Large
+Mid
+
+Exchange Count 8/21 Close To 8/24 Close 8/21 Close To 8/24 Open
+NASDAQ
+11
+-4.0%
+-7.3%
+NYSE
+10
+-3.9%
+-5.5%
+NASDAQ
+68
+-3.6%
+-6.0%
+NYSE
+14
+-4.3%
+-6.6%
+NASDAQ
+38
+-3.7%
+-5.3%
+NYSE
+4
+-4.0%
+-4.6%
+
+9:31 - 9:34
+Very Large
+Large
+Mid
+
+NYSE
+NYSE
+NYSE
+
+9
+88
+23
+
+-4.0%
+-4.0%
+-3.4%
+
+-8.8%
+-5.9%
+-4.3%
+
+9:35 - 9:39
+Very Large
+Large
+Mid
+
+NYSE
+NYSE
+NYSE
+
+8
+66
+35
+
+-3.8%
+-4.3%
+-4.2%
+
+-6.6%
+-6.0%
+-6.0%
+
+9:40 - 9:45
+Large
+Mid
+
+NYSE
+NYSE
+
+54
+20
+
+-3.9%
+-4.6%
+
+-5.3%
+-4.2%
+
+9:45 and after
+Very Large
+NYSE
+Large
+NYSE
+Mid
+NYSE
+
+2
+35
+17
+
+-2.9%
+-4.1%
+-4.1%
+
+-4.5%
+-5.1%
+-4.4%
+
+Table IV-5: Pricing information for S&P 500 constituents that are primarily listed on
+NASDAQ and NYSE, broken out by the time period in which the opening occurred.
+
+62
+
+F.
+
+Pricing after Openings
+
+Table IV-6 below sets forth absolute volume-weighted average price (“VWAP”) changes
+following the opening cross in Corporates with primary listings on NYSE and NASDAQ, when the
+opening cross on the primary listing exchange occurred prior to 9:35. Table IV-7 below sets
+forth absolute VWAP changes following the opening cross in Corporates with primary listings on
+NYSE, when the opening cross on the primary listing exchange occurred after 9:35. The time
+periods for the two tables are chosen to reflect that, as discussed in Section II above, broad
+market prices had turned upward by approximately 9:35.
+Table IV-6: VWAP from Open by Exchange – Pre-9:35 Open
+
+NYSE
+Very Large
+Large
+Mid
+Small
+Total
+
+1 Minute VWAP
+Absolute
+Deviation
+From Open
+3.35%
+1.41%
+1.01%
+1.26%
+1.27%
+
+2 Minute VWAP
+Absolute
+Deviation
+From Open
+3.70%
+1.47%
+1.22%
+1.56%
+1.48%
+
+NASDAQ
+Very Large
+Large
+Mid
+Small
+Total
+
+1.28%
+1.15%
+0.96%
+1.48%
+1.30%
+
+1.51%
+1.59%
+1.20%
+1.72%
+1.57%
+
+5 Minute VWAP
+Absolute
+Deviation
+Total
+From Open
+Securities
+3.21%
+19
+1.46%
+110
+1.55%
+198
+1.97%
+182
+1.74%
+509
+
+1.24%
+1.89%
+1.50%
+2.20%
+2.00%
+
+11
+87
+542
+1,449
+2,089
+
+Table IV-6: Absolute volume-weighted average price changes following the opening in
+Corporates with primary listings on NYSE and NASDAQ, when open occurred prior to 9:35.
+Securities that did not have a trade within 5 minutes of the open were not included in the
+analysis. Securities that did not have an opening trade message were not included in the
+analysis.
+
+63
+
+Table IV-7: VWAP from Open by Exchange – Post-9:35 Open
+
+NYSE
+Very Large
+Large
+Mid
+Small
+Total
+
+1 Minute VWAP
+Absolute
+Deviation
+From Open
+1.42%
+0.89%
+0.83%
+1.28%
+0.96%
+
+2 Minute VWAP
+Absolute
+Deviation
+From Open
+1.19%
+0.98%
+0.88%
+1.37%
+1.03%
+
+5 Minute VWAP
+Absolute
+Deviation
+Total
+From Open
+Securities
+0.88%
+11
+1.20%
+182
+1.06%
+566
+1.53%
+279
+1.21%
+1,038
+
+Table IV-7: Absolute volume-weighted average price changes following the opening in
+Corporates with primary listings on NYSE, when open occurred after 9:35. Securities that
+did not have a trade within 5 minutes of the open were not included in the analysis.
+Securities that did not have an opening trade message were not included in the analysis.
+
+For the five minutes (5 Minute VWAP) following opening crosses that occurred prior to 9:35,
+NYSE-listed Corporates in the Very Large and Mid market capitalization bins displayed larger
+deviations from the opening cross prices than did NASDAQ-listed Corporates, while NASDAQlisted Corporates in the Large and Small market capitalization bins displayed larger deviations
+from opening cross prices than NYSE-listed Corporates. For NYSE openings after 9:35, NYSElisted Corporates displayed smaller deviations from opening cross prices than did both NYSElisted and NASDAQ-listed Corporates with opening crosses that occurred prior to 9:35.
+G.
+
+Largest Corporate Decliners
+
+As noted in Section III.A above, Very Large Corporates experienced a larger percentage of
+severe declines (August 21 close to August 24 low) than other sizes of Corporates. Of the 41
+Very Large Corporates, six (15%) declined by 20% or more, and 21 (51%) declined by 10% or
+more. Of the 383 Large Corporates, in contrast, only 13 (3%) declined by 20% or more, and 121
+(32%) declined by 10% or more. Moreover, Section III.B indicates that the great majority of
+declines exceeding 10% or more (and thereby triggering Regulation SHO SSRs) occurred within
+15 minutes from the start of regular trading hours at 9:30.
+To provide a more granular view into the dynamics of trading before, in, and after the opening
+cross on August 24, Table IV-8 below sets forth data for the six Very Large Corporates with
+percentage declines on August 24 that exceeded 20%.
+
+64
+
+Table IV-8: Very Large Corporates with Largest Daily Declines
+
+Symbol
+
+MDT
+JPM
+GE
+HD
+PEP
+CVS
+
+8/21
+8/21
+Close to
+Close to
+8/24
+8/24 Low
+Close
+-25.2%
+-21.3%
+-21.2%
+-20.7%
+-20.5%
+-20.4%
+
+-4.5%
+-5.3%
+-2.9%
+-3.1%
+-4.6%
+-2.0%
+
+8/21
+Decline
+Time from
+Volume:
+Close to
+from
+Volume:
+Opening
+Opening
+9:30 to
+8/24
+Opening
+Opening
+Cross Time Cross to
+Opening
+Opening
+Cross to
+Cross
+Low
+Cross
+Cross
+8/24 Low
+-10.5%
+9:33:11
+0:00:39
+-16.5%
+73,916
+228,737
+-9.2%
+9:31:53
+0:01:05
+-13.3%
+100,444
+756,889
+-8.3%
+9:30:58
+0:00:42
+-14.1%
+282,553 2,395,570
+-6.1%
+9:30:29
+0:01:10
+-15.5%
+27,250
+293,826
+-5.7%
+9:31:09
+0:01:42
+-15.7%
+20,042
+202,755
+-11.5%
+9:31:21
+0:05:40
+-10.0%
+18,652
+333,938
+
+Volume:
+Opening
+Cross to
+Low
+
+LULD
+Halts
+
+366,834
+1,238,465
+3,830,816
+667,251
+601,010
+755,960
+
+0
+0
+0
+0
+0
+2
+
+Table IV-8: Price, time, and volume information for the six Very Large Corporates with
+largest daily declines on August 24. Time from Opening Cross to Low measures the period
+from the time of the opening cross on the primary listing exchange to the time of the
+consolidated daily low price. Volume: 9:30 to Opening Cross is consolidated share volume
+from 9:30 to the opening cross on the primary listing exchange. Volume: Opening Cross is
+share volume on the primary listing exchange. Volume: Opening Cross to Low is
+consolidated share volume from the time of the opening cross on the primary listing
+exchange to the time of the consolidated daily low price.
+
+The six symbols in Table IV-8 display a similar pattern. Each reached a daily low of more than
+20% soon after the opening cross, and the price decline was substantially reversed by the end
+of the day. Their opening cross prices, in contrast, were closer to their end-of-day prices. With
+the exception of CVS (discussed below), much of the day’s decline occurred in a short period
+after the NYSE opening cross.27 MDT declined by 16.5% in 39 seconds; JPM declined by 13.3%
+in 65 seconds; GE declined by 14.1% in 42 seconds; HD declined by 15.5% in 70 seconds; and
+PEP declined by 15.7% in 102 seconds. These rapid price declines were accompanied by volume
+surges after the opening crosses that substantially exceeded the volumes executed prior to and
+in the opening crosses themselves.
+While each of the six symbols in Table IV-8 declined by at least 10% below its opening price in
+less than two minutes after the NYSE opening cross,28 CVS differs from the other five symbols in
+that its price changes triggered LULD halts. The first LULD halt in CVS was triggered 35 seconds
+after the NYSE opening cross. When trading resumed five minutes later, CVS hit its daily low
+within one second following the NYSE reopening cross. The daily low was only one cent below
+
+27
+
+Each of the six Very Large Corporates in Table IV-8 is primarily listed on NYSE. Of the total 41
+Very Large Corporates, 30 are primarily listed on NYSE.
+28
+
+As noted in Section V below, the reference price for determining LULD price bands for the
+first 30 seconds following a primary market opening cross that occurs prior to 9:35 is the
+opening price itself. After 30 seconds, however, the reference price can be updated to reflect
+the arithmetic mean price of eligible trades over the previous 30 seconds.
+65
+
+the low price prior to the LULD halt. The price of CVS then quickly recovered upward and a
+second LULD halt was triggered 31 seconds after the first reopening cross.
+
+66
+
+V.
+
+Operation of LULD Plan and Related SRO Rules and Practices
+
+The SEC first approved the LULD Plan on a pilot basis in 2012,29 and it has continued to operate
+on a pilot basis since then. As the most volatile trading day since the Plan’s approval, August 24
+enables an assessment of the operation of the Plan, and related SRO rules and practices, under
+stressed market conditions. This Section V is intended to provide background information and
+empirical analysis that will help inform such an assessment and includes the following
+subsections:
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+H.
+I.
+J.
+A.
+
+Background on LULD and its application to August 24;
+Categories of LULD halts;
+Durations of LULD halts;
+Intervals between LULD halts;
+LULD limit states;
+LULD bands disseminated before NYSE opening auctions;
+Reopening auctions;
+NYSE Arca reopening price collars;
+NYSE Arca imbalance messages before reopening auctions;
+Trades outside of LULD bands.
+Background on LULD and Its Application to August 24
+
+The impetus for the LULD Plan can be traced to the “Flash Crash” in the U.S. equity market on
+May 6, 2010. After the Flash Crash, trades were broken in 326 securities with irrational price
+moves of 60% or greater. Of those, 237 were in ETPs and 89 were in other securities.
+The LULD Plan was adopted to prevent trades in individual NMS securities from occurring
+outside specified price bands and provide trading pauses to accommodate more fundamental
+price moves (as opposed to erroneous trades or momentary gaps in liquidity). Certain elements
+of the Plan are summarized below to facilitate an understanding of the following analysis.
+The LULD bands are calculated and disseminated by the SIPs in the consolidated market data
+feeds. The bands generally are based on a reference price that equals the arithmetic mean
+price of trades over the preceding five-minute period. Each new reference price remains in
+effect for at least 30 seconds, and a new reference price does not become effective unless it is
+one percent or more from the last reference price.
+The bands are calculated during regular trading hours and are set at 5%, 10% or 20% from the
+reference price, depending on predefined tiers of securities and their previous closing prices.
+Securities with a previous closing price of less than $0.75 have a band of the lesser of $0.15 or
+75%, and leveraged ETPs have the applicable band percentage multiplied by their leverage
+ratio. From 9:30 to 9:45 and from 3:35 to 4:00, the band percentages are doubled.
+29
+
+Securities Exchange Act Release No. 67091, 77 FR 33498 (June 6, 2012).
+67
+
+When the national best bid or offer reaches the band price on the contra side (that is, the
+national best bid reaches the upper band price or the national best offer reaches the lower
+band price), the security enters a Limit State. A Limit State will end if the national best bid
+(offer) moves below (above) the upper (lower) band. If the market does not exit the Limit State
+within 15 seconds, then the primary listing exchange declares a trading pause of at least 5
+minutes that applies to all equity exchanges and off-exchange trading venues.
+The initial reference price of the day and the first reference price following a trading pause are
+the first trade or, if there is no trade, the mid-point of the first bid and offer on the primary
+listing exchange. During the period less than five minutes after the opening, the reference price
+is the arithmetic mean price of trades following the opening. If the primary listing exchange
+does not open within 5 minutes after the start of regular trading hours at 9:30, the first
+reference price is the arithmetic mean price of trades by other markets during the preceding 5
+minutes. The bands are not in effect until the earlier of the opening of the primary listing
+exchange or 9:35. If the primary listing exchange does not open within 10 minutes after a
+trading pause, the first reference price following the pause will be equal to the last reference
+price before the trading pause, and the bands will be tripled for the next 30 seconds.
+Following a trading pause, the primary listing market for the symbol reopens in a similar
+manner to its opening for regular trading hours, but with some important differences. NASDAQ
+does not restrict the reopening auction price, but delays a reopening auction until all market
+orders can be matched. BATS also delays a reopening auction for unmatched market orders,
+and it applies a collar to the price of the auction. NYSE Arca also applies a collar to the price of
+its reopening auctions. NYSE’s reopening process is not subject to certain floor official
+approvals for price moves, but the reopening may be delayed in the event of a significant
+imbalance.
+B.
+
+Categories of LULD Halts
+
+On August 24, 1,278 LULD halts were triggered in 471 securities.30 The halts were concentrated
+in ETPs (83%), and less than 2% of the components of the S&P 500 and NASDAQ 100 indices
+triggered halts. One quarter (25%) of the impacted securities triggered halts in the first minute
+of regular hours trading, and most of the halts (87%) triggered in the first 45 minutes. More
+than half (55%) of the impacted securities triggered more than one halt, and over one quarter
+(26%) of the impacted securities were halted 4 or more times.
+
+30
+
+Unless otherwise stated, the analysis of the LULD halts is based on all securities subject to
+LULD. Tables based on securities described in Section I of this Research Note are explicitly
+identified herein as “Covered Securities.” Data are sourced from the consolidated data feeds
+disseminated by the SIPs, direct data feeds disseminated by the exchanges, and
+www.nasdaqtrader.com.
+68
+
+Just over 60% of all LULD halts were limit up halts, and most (88%) of the limit up halts
+triggered after the LULD bands tightened at 9:45. Of the securities with just one halt, 62% were
+limit up halts. Most (85%) of the multi-halt securities triggered both limit down halts and limit
+up halts, and 81.5% of all the halted symbols triggered at least one limit up halt.
+A great majority (84%) of ETPs have small market capitalizations and, accordingly, most LULD
+pauses occurred in smaller ETPs. The rate of ETPs with LULD halts, however, was the same for
+both the largest and smaller ETPs. LULD trading pauses occurred in 20% of the 50 largest
+capitalization ETPs, and in 20% of the remaining 1491 ETPs.
+The following tables provide more details:
+Table V-1: LULD Halts
+Halt Time
+9:30
+9:31 - 9:34
+9:35- 9:44
+9:45
+9:46 - 9:59
+10:00 - 10:14
+10:15 - 10:29
+10:30 - 10:44
+10:45 - 10:59
+11:00 - 11:59
+12:00 - 12:59
+1:00 - 1:59
+2:00 - 2:59
+3:00 - 4:00
+Total Halts
+Securities
+Halted
+Securities
+Halted Up &
+Down
+
+BATS
+2
+
+1
+
+3
+
+Listing Exchange
+Direction
+NASDAQ NYSE NYSE Arca NYSE MKT Down Up
+14
+1
+100
+111
+6
+14
+12
+69
+91
+4
+16
+13
+199
+142
+86
+14
+18
+39
+17
+54
+46
+17
+289
+4
+72 284
+29
+7
+205
+23 219
+17
+5
+57
+14
+65
+7
+1
+17
+9
+16
+8
+3
+11
+10
+12
+15
+1
+8
+10
+14
+4
+3
+2
+5
+4
+1
+3
+4
+2
+2
+4
+2
+1
+1
+194
+78
+999
+4 505 773
+
+Product
+Total
+ETP Non ETP
+108
+9
+117
+74
+21
+95
+202
+26
+228
+44
+27
+71
+306
+50
+356
+216
+26
+242
+62
+17
+79
+18
+7
+25
+11
+11
+22
+10
+14
+24
+4
+3
+7
+1
+3
+4
+2
+4
+6
+2
+2
+1,058
+220 1,278
+
+2
+
+103
+
+61
+
+302
+
+3
+
+306
+
+384
+
+327
+
+144
+
+471
+
+1
+
+32
+
+7
+
+178
+
+1
+
+-
+
+-
+
+192
+
+27
+
+219
+
+Table V-1: LULD halts by time, listing exchange, direction, product type, and security count.
+
+69
+
+Table V-2: LULD Halts Per Security
+Halts Per
+Security
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+17
+Total
+
+Securities by Listing Exchange
+BATS
+NASDAQ
+NYSE NYSE Arca NYSE MKT
+1
+65
+45
+101
+2
+1
+16
+15
+50
+1
+9
+1
+42
+7
+30
+5
+20
+17
+14
+15
+2
+8
+2
+1
+1
+2
+103
+61
+302
+3
+
+Total
+214
+83
+52
+37
+25
+17
+14
+15
+2
+8
+2
+1
+1
+471
+
+Table V-2: Count of LULD halts per security, separated by listing exchange.
+
+Table V-3: LULD Halts in S&P 500 and NASDAQ-100 Securities
+Halt Time
+9:30:23
+9:30:43
+9:30:54
+9:31:56
+9:35:15
+9:35:40
+9:37:32
+9:38:25
+9:43:47
+9:46:00
+9:46:17
+Total
+
+CELG
+CELG CVS
+1
+
+KHC
+HCA KHC UNH
+
+F
+
+NQ (2)
+XL
+
+ZTS
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+2
+
+1
+
+2
+
+1
+
+1
+
+2
+
+1
+1
+
+S&P (8)
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+11
+
+Table V-3: Time and count of LULD halts in S&P 500 and NASDAQ-100
+securities.
+
+70
+
+Table V-4: LULD Halts in Covered Securities
+Market Cap
+Bin
+Very Large
+Large
+Mid
+Small
+Total
+
+Halts
+
+Corporates
+Securities Halts /
+Halted
+Security
+
+3
+10
+26
+117
+156
+
+2
+7
+20
+65
+94
+
+Total
+Securities
+41
+Very Large
+Large
+383
+Mid
+1,324
+2,569
+Small
+4,317
+Total
+
+Corporates
+Securities
+Halted
+2
+7
+20
+65
+94
+
+Market Cap
+Bin
+
+1.5
+1.4
+1.3
+1.8
+1.7
+
+ETPs
+Securities
+Halted
+
+Halts
+37
+323
+683
+1,043
+
+10
+56
+249
+315
+
+Halts /
+Security
+3.7
+5.8
+2.7
+3.3
+
+Other
+Securities
+Halted
+
+Halts
+
+9
+28
+37
+
+Halts /
+Security
+
+7
+23
+30
+
+1.3
+1.2
+1.2
+
+Percent of Covered Securities with LULD Halts
+ETPs
+Other
+Percent
+Total
+Securities Percent
+Total
+Securities
+Halted
+Securities
+Halted
+Halted
+Securities
+Halted
+5%
+1
+0%
+1
+2%
+49
+10
+20%
+49
+2%
+196
+56
+29%
+331
+7
+3%
+1,295
+249
+19%
+953
+23
+2%
+1,541
+315
+20%
+1,334
+30
+
+Percent
+Halted
+0%
+0%
+2%
+2%
+2%
+
+Table V-4: LULD halts in covered securities, as described in Section I of this Research Note, separated by market
+capitalization bin and product.
+
+71
+
+C.
+
+Duration of LULD Halts
+
+On August 24, almost all (95%) of the LULD halts lasted less than 6 minutes. However, more
+than half (51%) of NYSE’s 78 halts lasted more than 6 minutes, 9% of NYSE’s halts lasted more
+than 10 minutes, and NYSE’s longest halt lasted over 18 minutes. NASDAQ also had some
+longer halts: 9% of its 194 halts lasted more than 6 minutes, over 6% lasted more than 10
+minutes, and NASDAQ’s longest halt lasted 43 minutes. BATS only had three halts, but one
+lasted for 28 minutes. All of NYSE Arca’s halts lasted for 6 minutes or less.
+Potential reasons for longer halts include: NYSE’s reopening auctions are conducted manually
+by the DMM; NASDAQ and BATS electronically delay reopening auctions until market order
+imbalances are resolved; and NASDAQ will also delay reopening auctions if the last available
+imbalance reference price, when compared to any of the three preceding reference prices,
+differ by more than the greater of 5% or 50 cents.
+If a primary listing market extends a halt beyond 10 minutes, the LULD bands are set by the SIP
+at triple-wide based on the prior reference price and the other markets are permitted to
+resume trading. In practice, most markets do not resume trading until the primary market
+reopens and issues a trade resumption message. On August 24, 11 of the 19 securities with
+halts over 10 minutes triggered another LULD halt shortly after reopening.
+Table V-5: LULD Halt Duration
+Duration in
+Minutes
+5
+6
+7
+8
+9
+10 - 14
+15 - 43
+Total
+Average
+Duration
+
+Listing Exchange
+BATS
+NASDAQ
+NYSE
+NYSE Arca NYSE MKT
+2
+177
+38
+992
+3
+3
+18
+7
+1
+6
+1
+1
+7
+1
+2
+3
+1
+11
+4
+3
+194
+78
+999
+4
+12:40
+
+6:05
+
+6:59
+
+5:34
+
+5:54
+
+Total
+1,212
+28
+8
+8
+3
+3
+16
+1,278
+5:45
+
+Table V-5: Duration of LULD halts calculated as time between halt and trade
+resumption on the listing exchange.
+
+72
+
+D.
+
+Intervals between LULD Halts
+
+On August 24, 257 securities triggered more than one halt, and those multi-halt securities
+accounted for 1,064 of the 1,278 halts. The average interval between the resumption of
+trading from one halt to the beginning of the next halt in the same security was just over 4
+minutes (4:14) for the 807 intervals in the 257 securities. Over one quarter (26%) of those
+intervals lasted 15 seconds – the minimum possible interval due to the 15-second Limit State
+provided by the LULD Plan. Close to half (45%) of the halt intervals lasted less than 30 seconds,
+and more than half (58%) lasted less than 1 minute.
+Table V-6: Trading Interval Between Halts in Multi-Halt Securities
+Intervals
+(mm:ss)
+= 0:15
+0:16 - 0:29
+0:30 - 0:59
+1:00 - 1:59
+2:00 - 4:59
+5:00 - 29:59
+>= 30:00
+Total
+Average
+Interval
+
+Listing Exchange
+BATS
+NASDAQ
+NYSE
+NYSE Arca NYSE MKT
+11
+198
+1
+20
+5
+130
+12
+5
+91
+1
+6
+70
+10
+3
+104
+23
+3
+94
+9
+1
+10
+1
+91
+17
+697
+1
+1:27
+
+13:28
+
+5:20
+
+3:01
+
+0:15
+
+Total
+210
+155
+108
+77
+117
+120
+20
+807
+4:14
+
+Table V-6: The interval measures the trading time in between two halts in the
+same security (LULD halt time minus prior trade resumption time).
+
+E.
+
+LULD Limit States
+
+As noted above, a security enters a Limit State if the national best bid equals the upper LULD
+price band or the national best offer equals the lower LULD price band. If the Limit State
+persists for 15 seconds, then the security is halted.
+On August 24, 642 securities entered 5,551 Limit States. Most (73%) of the 642 securities that
+entered at least one limit state eventually halted, but most (77%) of the 5,551 limit states did
+not trigger a halt. Almost 30% of all limit states were concentrated in 6 securities.
+
+73
+
+Table V-7: LULD Limit States
+Count
+Limit States
+Securities w/ Limit States
+Security
+MLPG
+MLPW
+TSQ
+CXRX
+FOXA
+LTRPB
+Total
+
+Bid Up Offer Down
+2,594
+2,957
+445
+501
+
+Total
+5,551
+642
+
+Halts
+1,278
+471
+
+Exits
+4,273
+171
+
+Securities with High Limit State Counts
+Bid Up Offer Down
+Total
+Halts
+Exits
+340
+1
+341
+2
+339
+110
+110
+1
+109
+718
+718
+1
+717
+255
+255
+0
+255
+103
+103
+0
+103
+94
+94
+17
+77
+808
+813
+1,621
+21
+1,600
+
+Table V-7: Count of LULD Limit States by direction, security count and resulting
+halts and exits without halts. This Table also shows the concentration of Limit
+States in six securities.
+
+F.
+
+LULD Bands Disseminated before NYSE Opening Auctions
+
+If the primary listing exchange does not open by 9:35, the SIP sets the LULD bands based on the
+arithmetic mean price of trades by other markets during the preceding 5 minutes. On August
+24, NYSE opened many of its listed securities later than 9:35. Table IV-2 above, for example,
+indicates NYSE opened 62% of its listed S&P 500 companies after 9:35. These securities were
+able to trade on away markets without LULD bands until 9:35.
+Of NYSE-listed securities that had opening crosses on August 24, there were 67 halts in 53
+symbols. More than half of these NYSE-listed securities (31 of 53) opened after 9:35, and,
+consequently, their initial LULD bands were established based on trades from non-primary
+markets. Eight of those securities (BAP, GDP, HCA, HUSI-F, PAG, SCL, TTC, XL) triggered halts
+before NYSE’s opening auction and 3 of those securities (HCA, HUSI-F, XL) halted again within
+45 seconds of NYSE’s auction. An additional 5 securities (CXP, EPE, GDP-D, GNK, MYJ) with nonprimary LULD bands halted within 17 seconds of NYSE’s post-9:35 opening and 1 (GEL) halted
+within 46 seconds.
+G.
+
+Reopening Auctions
+
+Almost one-third (31%) of LULD halts resulted in a reopening without an auction trade. This
+includes 19 halts that reopened for trading after 10 minutes because the primary listing market
+had not yet reopened. Close to two-thirds (64%) of LULD halts reopened with auction trades of
+less than 1000 shares or without a trade.
+74
+
+Table V-8: Shares Traded in Re-Opening Halt Auctions
+Shares Traded
+0
+1 - 99
+100 - 999
+1,000 - 4,999
+5,000 - 9,999
+10,000 - 99,999
+100,000 - 655,000
+Total
+
+Auctions by Listing Exchange
+BATS
+NASDAQ
+NYSE
+NYSE Arca NYSE MKT
+2
+70
+32
+286
+1
+2
+65
+40
+13
+301
+2
+41
+8
+213
+15
+8
+51
+1
+1
+21
+14
+72
+5
+3
+11
+3
+194
+78
+999
+4
+
+Total
+391
+67
+356
+262
+75
+108
+19
+1,278
+
+Table V-8: Shares traded in auctions following LULD halts by listing exchange. The 391
+auctions with 0 shares traded include 19 halts that reopened for trading after 10
+minutes because the listing market had not yet conducted an auction.
+
+H.
+
+NYSE Arca Reopening Price Collars
+
+Under the LULD Plan, pricing bands are not applied to reopening auctions. In approving the
+LULD Plan, the SEC noted that “the Plan is also designed to accommodate more fundamental
+price moves, albeit in a manner that lessens the velocity of such moves. In this regard, the
+Commission notes that the Plan provides that the price bands shall not apply to single-priced
+reopenings, which allows for the stock to enter a trading pause and reopen at a price that is
+potentially significantly above or below its previous price. The Commission finds that this
+mechanism is reasonably designed to allow for more fundamental price moves to occur.”31
+NYSE Arca applied price collars to its reopening auctions after LULD halts on August 24, similar
+to its price collars for opening auctions noted in Section IV above. The collars were tiered based
+on the price of the last trade prior to the auction. The collars were 1% for last trade prices over
+$50, 2% for last trade prices from $25.01 to $50.00, and 5% for last trade prices $25.00 and
+under. BATS also applied price collars to its three reopening auctions, which were the same
+percentages as for openings noted in Section IV above (3% from a collared midpoint of the
+NBBO for midpoints over $50.00; 5% for midpoints from $25.01 to $50.00; and 10% for
+midpoints of $25.00 or under). NASDAQ did not apply price collars to its reopening auctions.
+Price collars on reopening auctions after LULD halts potentially limit the extent to which prices
+can adjust to changing conditions without triggering additional LULD halts. One effect of price
+collars on an auction is that market orders and limit orders with limit prices better than the
+auction price may not be executed in the auction. After the collared auction ends, the
+unexecuted market orders and limit orders can seek immediate execution at the primary listing
+exchange or at other exchanges.
+31
+
+Securities Exchange Act Release No. 67091, 77 FR 33498, 33509 (June 6, 2012).
+75
+
+To help assess the effect of the NYSE Arca price collars on reopenings after LULD halts, Table V9 below compares the best offer (best bid) at the time of a limit down (up) halt with the price
+executed in the auction at the resumption of trading after the halts. Reopening auctions on
+NYSE Arca generated prices that were substantially less dispersed than reopening auctions on
+other exchanges. In total, 13% of NYSE Arca reopening auctions in ETPs generated prices that
+were 5% or more away from the relevant quote prior to the halt. In contrast, 54% of NASDAQ
+reopening auctions in ETPs generated prices that were 5% or more away from the relevant
+quote prior to the halt. For non-ETPs, 42% of all NASDAQ and NYSE reopening auctions
+generated prices that were 5% or more away from the relevant quote prior to the halt.
+Table V-9: Reopening Auction Prices Following LULD Halts
+ETPs
+Non-ETPs
+DOWN Halts
+UP Halts
+DOWN Halts
+UP Halts
+NASDAQ NYSE Arca NASDAQ NYSE Arca NASDAQ
+NYSE
+NASDAQ
+NYSE
+<=-30%
+1
+2
+2
+>-30%,<=-20%
+1
+3
+>-20%,<=-10%
+2
+5
+1
+12
+5
+>-10%,<=-5%
+1
+3
+6
+22
+1
+1
+1
+2
+>-5%,<=-2%
+3
+37
+1
+50
+1
+2
+3
+1
+>-2%,<=-1%
+46
+18
+2
+1
+3
+>-1%,<=1%
+5
+111
+3
+178
+4
+2
+2
+9
+>1%,<=2%
+30
+2
+79
+1
+1
+4
+>2%,<=5%
+3
+27
+6
+40
+2
+1
+4
+6
+>5%,<=10%
+2
+23
+5
+11
+2
+1
+5
+1
+>10%,<=20%
+4
+5
+6
+2
+1
+5
+3
+>20%,<=30%
+2
+1
+1
+>30%
+1
+1
+2
+Total
+18
+286
+32
+422
+22
+10
+24
+29
+Table V-9: Comparison of reopening auction prices in covered securities to the best bid (offer) at the
+time of the limit up (down) halt. The numbers exclude 357 reopening auctions that did not result in a
+trade and 36 reopening auctions for inverse ETPs, securities with prices under $3, and securities listed
+on BATS and NYSE MKT.
+Auction Price
+Move
+
+76
+
+I.
+
+NYSE Arca Imbalance Messages before Reopening Auctions
+
+Through its direct data feeds, NYSE Arca disseminates imbalance messages before auctions that
+provide the indicative match price (the price at which the maximum volume of shares are
+executable), the matched volume at the indicative match price, the total imbalance of any
+remaining orders executable at the indicative match price, and the portion of the total
+imbalance that is comprised of market orders. Updates to NYSE Arca’s imbalance messages are
+event driven, and NYSE Arca is the only exchange that specifically identifies market order
+imbalance volume.
+NYSE Arca disseminated imbalance messages prior to 900 of the 999 reopening auctions. The
+remaining 99 reopening auctions did not result in any trades. In 80 of the 900 reopening
+auctions with imbalance messages, the shares traded in the auctions differed from the matched
+shares in the imbalance messages. The remaining 820 imbalance messages provided a matched
+share volume and indicative price that equaled the volume and price of the resulting auction,
+and as such are a reasonably reliable indicator of the orders that were executable in the
+auction.
+A very large portion of those 820 messages (93% or 762) identified an imbalance volume, and
+more than half (62% or 509) identified a market order imbalance volume. More than a quarter
+(26% or 133 of the 509) of the auctions that were preceded by messages with market order
+imbalances did not result in a trade in the auction. In those instances, there were no contraside orders in the auction that were within NYSE Arca’s price collars, although there may have
+been contra-side orders executable outside of the collars.
+Table V-10 below compares the volume of market order imbalances to the volume executed in
+the resulting auction. Twenty messages identified market order imbalances exceeding 100,000
+shares and the average market order imbalance in those messages was over 175,000 shares.
+The average volume executed in the resulting auctions, however, was just over 15,000 shares.
+The large disparity between the size of the market order imbalance and the volume in the
+auction continued in each of the Table V-10 imbalance bins, except for the bins below 5,000
+shares. As noted above, after the auction, the orders in the imbalance may seek immediate
+execution in continuous trading.
+Table V-10 also shows that market order imbalances represented 94% of total sell imbalances.
+For buy imbalances, market order imbalances represented only 9% of the total imbalances.
+This distinction is also shown in the count of imbalance messages without a market order
+imbalance: 91% of the sell imbalance messages included market order imbalances while 52% of
+the buy imbalances included market orders. In sum, market orders were a significant source of
+the sell pressure in NYSE Arca’s reopening auctions, but a much less significant source of buy
+pressure.
+
+77
+
+Table V-10: NYSE Arca Imbalance Messages Before an LULD Halt Reopening
+Market Order Imbalance
+Bins
+> 100,000
+50,001 - 100,000
+10,001 - 50,000
+Sell
+5,001 - 10,000
+1,001 - 5,000
+1 - 1,000
+Subtotal (avg)
+> 100,000
+50,001 - 100,000
+10,001 - 50,000
+Buy
+5,001 - 10,000
+1,001 - 5,000
+1 - 1,000
+Subtotal (avg)
+Total (avg)
+No Market Imbalance
+
+Market Order Imbalance
+Total Imbalance
+Auction
+Count
+Sum
+Average
+Sum
+Average
+Sum
+Average w/o Trades
+20 3,544,311 177,216 3,664,163 183,208 303,875
+15,194
+31 2,202,558
+71,050 2,384,964
+76,934 123,518
+3,984
+1
+64 1,614,917
+25,233 1,757,436
+27,460 369,785
+5,778
+8
+28 205,693
+7,346
+240,518
+8,590
+39,640
+1,416
+2
+70 182,171
+2,602
+214,497
+3,064 404,194
+5,774
+18
+52
+19,293
+371
+22,346
+430
+18,790
+361
+23
+265 7,768,943
+29,317 8,283,924
+31,260 1,259,802
+4,754
+52
+19 326,634
+17,191 1,956,619 102,980
+31,213
+1,643
+1
+11
+78,585
+7,144
+927,170
+84,288
+17,410
+1,583
+63 141,730
+2,250 2,442,479
+38,770
+61,308
+973
+9
+151
+48,159
+319 1,369,832
+9,072
+37,831
+251
+71
+244 595,108
+2,439 6,696,100
+27,443 147,762
+606
+81
+509 8,364,051
+16,432 14,980,024
+29,430 1,407,564
+2,765
+133
+311
+
+0
+
+0
+
+5,389,075
+
+17,328 1,702,060
+
+5,473
+
+54
+
+Table V-10: A description of the last NYSE Arca imbalance messages before an LULD halt reopening in which the
+matched shares and the indicative price equal the shares and price of the resulting auction.
+
+J.
+
+Trades Outside of LULD Bands
+
+The SIPs reported over 4,000 trades totaling more than 835,000 shares and $34 million that
+occurred at prices outside of the LULD bands following LULD halts. Reports of most of the
+trades were disseminated by the SIPs in a short period (less than 2 seconds) from the time that
+the SIPs disseminated a trade resumption message and a message with new LULD price bands
+based on the reopening price of the primary listing exchange.
+More than 97% of the trades occurred in NYSE-Arca listed ETPs, and over 38% of the trades
+were executed on Direct Edge. Almost one quarter (24%) of the trades were executed by the
+primary listing exchange.
+Some of these trades set the daily low or high for certain securities and were the reference
+price for NYSE Arca’s auction collars.
+
+78
+
+Table V-11: Trades Outside of LULD Bands Following LULD Halts
+Executing
+Market
+BATS
+BYX
+EDGA
+EDGX
+NASDAQ
+NASDAQ BX
+NASDAQ PSX
+NYSE
+NYSE Arca
+NYSE MKT
+Off-Exchange
+Total
+
+Executing
+Market
+BATS
+BYX
+EDGA
+EDGX
+NASDAQ
+NASDAQ BX
+NASDAQ PSX
+NYSE
+NYSE Arca
+NYSE MKT
+Off-Exchange
+Total
+
+Value of Trades Outside the LULD Bands
+Listing Exchange
+Total
+BATS
+NASDAQ
+NYSE
+NYSE Arca NYSE MKT
+$8,830 $11,351 $2,709,728
+$2,729,909
+$13,328
+$430,759
+$32
+$444,119
+$3,194
+$842,733
+$845,927
+$37,109
+$7,073 $15,876,461
+$1,330 $15,921,974
+$4,890 $93,065 $3,275,192
+$3,373,147
+$8,462
+$14,543
+$23,005
+$2,609
+$16,495
+$19,104
+$291,260
+$291,260
+$22,494
+$3,410 $9,575,261
+$9,601,164
+$0
+$12,485 $22,908 $1,353,324
+$1,388,716
+$0 $85,808 $456,659 $34,094,497
+$1,362 $34,638,326
+Count of Trades Outside the LULD Bands
+Listing Exchange
+BATS
+NASDAQ
+NYSE
+NYSE Arca NYSE MKT
+1
+5
+328
+4
+89
+1
+2
+139
+6
+5
+1,551
+1
+2
+30
+702
+1
+6
+2
+7
+29
+4
+1
+933
+
+0
+
+5
+18
+
+14
+93
+
+210
+3,965
+
+2
+
+Total
+334
+94
+141
+1,563
+734
+7
+9
+29
+938
+0
+229
+4,078
+
+Table V-11: Trades reported by the SIPs in covered securities at prices outside of the
+LULD bands and within 2 seconds following the band dissemination. Excluded from
+these numbers are trades reported as crosses, out of sequence trades, and special
+trades.
+
+79
+
+VI.
+
+Trading in ETPs
+
+As addressed in several preceding sections, ETPs as a class were particularly affected on August
+24. Section III indicates that ETPs experienced a larger number of extreme price declines than
+Corporates. For example, 19.2% (288) of ETPs experienced price declines of 20% or greater,
+while only 4.7% (280) of Corporates experienced such declines. Trading volume surged and
+displayed liquidity dropped, particularly at the open, in Large, Mid, and Small ETPs. Moreover,
+Section V indicates that 83% of LULD halts on August 24 were in ETPs, even though they
+represent less than 20% of the securities subject to the LULD Plan that were traded that day.
+It bears emphasis, however, that there was a wide variation among ETPs in their volatility and
+number of LULD halts. The preceding sections also indicate, for example:
+•
+
+Most ETPs (859, 63.3% of total ETPs) experienced price declines of less than 10% -- a
+level that is generally consistent with the broad-market price declines on August 24 and
+therefore suggestive that they traded with little, if any, discount to the indices they
+were designed to track.
+
+•
+
+Most ETPs (1,226, 80% of total ETPs) did not experience even a single LULD halt on
+August 24, but the 315 ETPs that did experience an LULD halt averaged 3.3 halts per
+ETP.
+
+•
+
+SPY, the largest ETP that tracks the S&P 500 index, traded in line with or at a premium to
+SPY NAV, while IVV, the second largest ETP that tracks the S&P 500 index, traded at a
+substantial discount to SPY, SPY NAV, and E-Mini in the opening minutes of August 24.
+
+•
+
+Many NYSE-listed Corporates did not open on NYSE at 9:30 and their delayed opens
+potentially could have affected trading in ETPs designed to track indexes that include
+NYSE Corporates (such as the S&P 500). Nevertheless, all NASDAQ-100 constituents are
+listed on NASDAQ and opened on NASDAQ at 9:30, and still the highly active QQQ
+traded at a substantial discount to QQQ NAV in the opening minutes of August 24.
+
+This Section VI is intended to provide data on ETP trading that helps illuminate two questions –
+why were a minority of ETPs more affected than Corporates on August 24 in terms of their
+volatility and number of LULD halts, and yet why did the majority of ETPs trade in a manner
+consistent with the broad market price declines in Corporates and not experience any LULD
+halts?
+To begin, Table VI-1 below provides summary trading data on Corporates and ETPs for a control
+period from July 27 to August 21, 2015.
+
+80
+
+Table VI-1: Control Period Volume, Range and Turnover
+
+Data from 7/27 - 8/21
+Corporates
+
+Very Large
+Large
+Mid
+Small
+Total
+
+Number
+Of Securities
+41
+383
+1,324
+2,564
+4,312
+
+Mean Daily
+Mean
+Median
+ADV
+Trading
+Percentage Percentage Turnover
+Volume
+Range
+Range
+Rate
+14,725,707
+1.7%
+1.6%
+0.5%
+3,921,719
+2.1%
+1.9%
+0.8%
+1,373,911
+3.1%
+2.7%
+1.1%
+311,841
+5.5%
+4.5%
+0.8%
+
+ETPs
+
+Very Large
+Large
+Mid
+Small
+Total
+
+Number
+Of Securities
+1
+49
+196
+1,260
+1,506
+
+Mean Daily
+Mean
+Median
+ADV
+Trading
+Percentage Percentage Turnover
+Volume
+Range
+Range
+Rate
+124,336,940
+1.1%
+1.1%
+14.6%
+7,541,604
+0.9%
+1.0%
+2.3%
+2,472,408
+1.1%
+1.0%
+3.0%
+91,297
+0.9%
+0.8%
+1.5%
+
+Table VI-1: Summary trading data on Corporates and ETPs for a control period from July 27
+to August 21, 2015. Range is defined as ((daily high - daily low)/daily close). ADV Turnover
+Rate is calculated by taking a security’s average daily volume (“ADV”) from July 27 to
+August 21 and then dividing that number by the security’s shares outstanding from August
+21. The mean of this ratio is then determined for each grouping. Securities that did not
+trade on all days from July 27 to August 21 were excluded from the analysis.
+
+Table VI-1 shows that the great majority of ETPs (84%) fall within the Small market
+capitalization bin. These ETPs generally are much less actively traded than other ETPs, with
+mean daily trading volume of 91,297 shares compared to 2,472,408 shares for next larger bin of
+Mid ETPs.
+During the control period, ETPs were less volatile than Corporates. While Very Large
+Corporates was the least volatile bin of Corporates with a 1.7% mean percentage range, all bins
+of ETPs had a range of 1.1% or less. In addition, the ADV Turnover Rate (the volume of trading
+in the secondary market in relation to the outstanding shares for a security) for all ETPs was
+higher than for any category of Corporate.
+For comparison to the control period, Table VI-2 below provides the same metrics for trading
+on August 24.
+
+81
+
+Table VI-2: August 24th Volume, Range and Turnover
+
+Data from 8/24
+Corporates
+Number
+Of Securities
+Very Large
+41
+Large
+383
+Mid
+1,324
+Small
+2,564
+Total
+4,312
+
+Mean Daily
+Mean
+Median
+8/24
+Trading
+Percentage Percentage Volume Turnover
+Volume
+Range
+Range
+Increase Rate
+38,542,936
+12.3%
+10.5%
+2.7
+1.3%
+7,731,344
+9.1%
+7.6%
+2.2
+1.6%
+2,125,447
+8.5%
+7.3%
+1.7
+1.7%
+376,483
+9.7%
+7.8%
+1.6
+0.9%
+
+ETPs
+Number
+Of Securities
+Very Large
+1
+Large
+49
+Mid
+196
+Small
+1,260
+Total
+1,506
+
+Mean Daily
+Mean
+Median
+8/24
+Trading
+Percentage Percentage Volume Turnover
+Volume
+Range
+Range
+Increase Rate
+509,882,000
+8.0%
+8.0%
+4.1
+60.0%
+26,278,391
+11.7%
+8.1%
+3.8
+8.1%
+7,438,085
+14.1%
+7.2%
+3.9
+9.3%
+294,821
+10.2%
+5.7%
+4.5
+5.1%
+
+Table VI-2: Summary trading data on Corporates and ETPs on August 24. Securities that did
+not trade on all days from July 27 to August 21 were excluded from the analysis. Range is
+defined as ((daily high - daily low)/daily close). Volume Increase is calculated by taking the
+volume per security on August 24 divided by that security's ADV from July 27 - August 21.
+This value is then averaged over the entire bin. 8/24 Turnover Rate is calculated by taking
+a security’s ADV from August 24 and then dividing that number by the security’s shares
+outstanding from August 21. The mean of this ratio is then determined for each grouping.
+
+Table VI-2 indicates how substantially trading on August 24 changed from the control period. In
+particular, the mean percentage ranges across all bins of both Corporates and ETPs increased
+substantially. With the exception of SPY in the Very Large ETP bin, however, each ETP bin for
+mean percentage range changed from being less volatile than the corresponding Corporates bin
+in the control period to being more volatile on August 24. Moreover, when comparing the
+mean to median percentage ranges for August 24 trading, the mean percentage ranges for each
+category of ETP (excluding SPY) were substantially higher than the median percentage range,
+indicating substantial variability within the same ETP market capitalization bin. In contrast, the
+differences between mean and median percentage ranges were less for all Corporates bins
+than any ETP bin (excepting SPY). Finally, the volume increases from the control period to
+August 24 were more substantial for all ETP bins than for any Corporates bin.
+Among ETPs, the level of market capitalization and trading volume does not appear to be
+substantially associated with their degree of volatility on August 24. Large and Mid ETPs, with
+82
+
+higher market capitalizations and trading volumes than Small ETPs, nevertheless experienced a
+wider range of volatility on August 24 than did Small ETPs.
+To further assess the variation of trading among ETPs, Table VI-3 below provides a variety of
+trading metrics that are categorized by geographic focus and asset class. In addition, Table VI-4
+provides some information on trading activity specifically for Leveraged ETPs, which are
+generally excluded from the other analyses in this Research Note. As noted in Section V above,
+Leveraged ETPs have their LULD price band percentages multiplied by their leverage ratio. For
+example, the LULD price band percentage in the period from 9:30 to 9:45 on August 24 for a
+Tier 1 Leveraged ETP with a triple leverage ratio would have been 30%, rather than the 10%
+price band percentage applicable to a Tier 1 non-leveraged ETP.
+
+83
+
+Table VI-3: ETP Characteristics Breakdown
+ETPs
+
+Geographic
+Focus
+Global
+US Only
+
+Number
+Total
+Of Securities Halts
+719 152
+787 887
+
+Unique
+Security
+Experiencing
+A Halt
+75
+236
+
+Percent Of
+Securities
+Mean
+Median
+Experiencing Percentage Percentage Volume
+A Halt
+Range
+Range
+Increase ADV Turnover Rate
+10.4%
+7.0%
+5.0%
+4.0
+1.6%
+30.0%
+14.1%
+8.4%
+4.7
+1.9%
+
+Number
+Total
+Of Securities Halts
+27
+2
+111
+4
+1,015 949
+
+Unique
+Security
+Experiencing
+A Halt
+2
+4
+267
+
+Percent Of
+Securities
+Mean
+Median
+Experiencing Percentage Percentage Volume
+A Halt
+Range
+Range
+Increase ADV Turnover Rate
+7.4%
+4.6%
+1.6%
+1.9
+1.1%
+3.6%
+2.7%
+2.1%
+2.1
+1.5%
+26.3%
+13.6%
+8.5%
+4.5
+1.7%
+
+ETPs
+
+Asset Class
+Focus
+Alternative
+Commodity
+Equity
+Fixed
+Income
+Mixed
+Allocation
+Specialty
+
+276
+
+26
+
+18
+
+6.5%
+
+2.7%
+
+1.1%
+
+4.3
+
+1.2%
+
+31
+46
+
+38
+20
+
+12
+8
+
+38.7%
+17.4%
+
+15.1%
+15.4%
+
+7.7%
+2.8%
+
+3.3
+9.0
+
+0.6%
+8.0%
+
+Number
+Total
+Of Securities Halts
+11
+1
+28
+0
+499 825
+
+Unique
+Security
+Experiencing
+A Halt
+1
+0
+209
+
+US Only ETPs
+
+Asset Class
+Focus
+Alternative
+Commodity
+Equity
+Fixed
+Income
+Mixed
+Allocation
+Specialty
+
+Percent Of
+Securities
+Mean
+Median
+Experiencing Percentage Percentage Volume
+A Halt
+Range
+Range
+Increase ADV Turnover Rate
+9.1%
+6.7%
+4.2%
+1.9
+1.4%
+0.0%
+3.4%
+3.1%
+2.5
+2.6%
+41.9%
+19.2%
+14.3%
+5.0
+1.7%
+
+215
+
+24
+
+16
+
+7.4%
+
+2.7%
+
+0.9%
+
+3.6
+
+1.2%
+
+11
+23
+
+22
+15
+
+5
+5
+
+45.5%
+21.7%
+
+19.6%
+23.7%
+
+24.5%
+11.4%
+
+3.4
+12.2
+
+0.6%
+14.2%
+
+Table VI-3: Trading metrics for ETPs categorized by geographic focus and asset class. The
+geographic focus and asset class focus were obtained from Bloomberg Professional Service.
+Securities that did not trade on all days from July 27 to August 21 were excluded from the
+analysis. Range is defined as ((daily high - daily low)/daily close). Volume Increase is
+calculated by taking the volume per security on August 24th divided by that security's ADV
+from July 27 to August 21. This value is then averaged over the entire bin. ADV Turnover
+Rate is calculated by taking a security’s average daily volume (“ADV”) from July 27 to
+August 21 and then dividing that number by the security’s shares outstanding from August
+21. The mean of this ratio is then determined for each grouping.
+
+84
+
+Table VI-4: Leveraged ETP Characteristics Breakdown
+US Only Leveraged ETPs
+
+Asset Class
+Focus
+Commodity
+Equity
+Fixed
+Income
+Specialty
+
+Number
+Total
+Of Securities Halts
+8
+0
+108
+9
+16
+3
+
+2
+0
+
+Unique
+Security
+Experiencing Mean Percentage
+ADV Turnover
+A Halt
+Range
+Volume Increase Rate
+0
+7%
+1.3
+40%
+7
+20%
+6.2
+12%
+1
+0
+
+9%
+39%
+
+4.1
+10.5
+
+3%
+61%
+
+Global Leveraged ETPs
+
+Asset Class
+Focus
+Commodity
+Equity
+Fixed
+Income
+Specialty
+
+Number
+Total
+Of Securities Halts
+19
+1
+46
+0
+3
+7
+
+0
+0
+
+Unique
+Security
+Experiencing Mean Percentage
+ADV Turnover
+A Halt
+Range
+Volume Increase Rate
+1
+8%
+2.5
+4%
+0
+15%
+7.0
+7%
+0
+0
+
+2%
+4%
+
+3.4
+6.6
+
+5%
+2%
+
+Table VI-4: Trading metrics for Leveraged ETPs categorized by geographic focus and asset
+class. The geographic focus and asset class focus were obtained from Bloomberg
+Professional Service. Securities that did not trade on all days from July 27 to August 21
+were excluded from the analysis. Range is defined as ((daily high - daily low)/daily close).
+Volume Increase is calculated by taking the volume per security on August 24th divided by
+that security's ADV from July 27 to August 21. This value is then averaged over the entire
+bin. ADV Turnover Rate is calculated by taking a security’s average daily volume (“ADV”)
+from July 27 to August 21 and then dividing that number by the security’s shares
+outstanding from August 21. The mean of this ratio is then determined for each grouping.
+
+For ETPs and Leveraged ETPs, volatility levels and number of LULD halts were higher in U.S.
+ETPs relative to Global ETPs.
+To further refine the analysis, Table VI-5 below provides trading metrics for ETPs focused on
+U.S. Equities (“US Equity ETPs”) and for Corporates. The table adds a metric that focuses on
+volume increases during time intervals immediately following the 9:30 start of regular trading
+hours for the U.S. equity markets – the ratio of ADV during these time intervals in the control
+period to volume during the corresponding intervals on August 24.
+
+85
+
+Table VI-5: Comparison of US Equity ETPs and Corporates
+US Equity ETPs
+
+Volume Increase
+
+Unique
+Mean
+Median
+Security
+Percentage Percentage Number of 9:30- 9:31- 9:35- 9:45- 10:00- Total Experiencing
+Bin
+Range
+Range
+Securities 9:31 9:35 9:45 10:00 10:15 Halts A Halt
+Very Large
+8.0%
+8.0%
+1 3.5
+3.6
+3.0
+4.1
+6.1
+0
+0
+Large
+17.4%
+16.2%
+28 6.6
+4.4
+5.5
+4.4
+6.2
+36
+9
+Mid
+23.6%
+19.6%
+86 6.9
+0.8
+0.8
+1.5
+1.5 286
+45
+Small
+18.4%
+12.3%
+384 27.4
+6.3
+7.3
+3.7
+5.0 503
+155
+Total
+499
+825
+209
+Corporates
+
+Percent Of
+Bucket
+ADV
+Experiencing Turnover
+a Halt
+Rate
+0.0%
+14.6%
+32.1%
+2.8%
+52.3%
+2.7%
+40.4%
+1.3%
+
+Volume Increase
+
+Unique
+Mean
+Median
+Security
+Percentage Percentage Number of 9:30- 9:31- 9:35- 9:45- 10:00- Total Experiencing
+Bin
+Range
+Range
+Securities 9:31 9:35 9:45 10:00 10:15 Halts A Halt
+Very Large
+12.3%
+10.5%
+41 9.0
+6.2
+6.2
+5.2
+4.6
+3
+2
+Large
+9.1%
+7.6%
+383 4.0
+3.5
+3.9
+3.3
+3.1
+10
+7
+Mid
+8.5%
+7.3%
+1,324 3.4
+2.3
+2.8
+2.5
+2.4
+26
+20
+Small
+9.7%
+7.8%
+2,564 1.9
+1.9
+1.8
+1.6
+1.5 117
+65
+Total
+4,312
+156
+94
+
+Percent Of
+Bucket
+ADV
+Experiencing Turnover
+a Halt
+Rate
+4.9%
+0.5%
+1.8%
+0.8%
+1.5%
+1.1%
+2.5%
+0.8%
+
+Table VI-5: Trading metrics for US Equity ETPs and Corporates. Range is defined as ((daily
+high - daily low)/daily close). Volume Increase is calculated by summing all volume for the
+respective bin and time interval for August 24 and dividing it by all volume for the
+respective bin and time interval from August 17. Securities that did not trade on August 17
+were excluded from the analysis. ADV Turnover Rate is calculated by taking a security’s
+ADV from July 27th to August 21 and then dividing that number by the security’s shares
+outstanding from August 21. The mean of this ratio is then determined for each grouping.
+
+Table VI-5 indicates that US Equity ETPs were much more likely to experience an LULD halt and
+had much wider percentage ranges than were Corporates. With the exception of SPY (the sole
+Very Large ETP), these ETPs generally experienced greater volume increases (as a ratio of
+August 17 to August 24 volume) during the opening minutes of August 24 than did Corporates,
+indicating that more selling pressure likely was brought to bear on the US Equity ETPs relative
+to Corporates. This was particularly true for Small US Equity ETPs, which experienced a volume
+increase in the first minute of trading on August 24 that was 27.4 times larger than during the
+control period.
+Among the different market capitalization bins of US Equity ETPs, Table VI-5 indicates that Mid
+US Equity ETPs were more likely than Small US Equity ETPs to experience higher volatility and
+an LULD halt. Even Large US Equity ETPs experienced nearly as high a mean percentage range
+of volatility (17.4%) and LULD halts (32.1%) as Small US Equity ETPs (18.4% and 40.4%,
+respectively).
+In addition, 290 of the US Equity ETPs (58.1%) did not experience even a single LULD halt on
+August 24, while the remaining 209 US Equity ETPs experienced 825 LULD halts. To further
+analyze characteristics that might help explain variations within this category of ETP, Table IV-6
+below categorizes US Equity ETPs by the extent of their percentage range on August 24. To
+86
+
+eliminate the effect of normally very inactive Small ETPs and of the single Very Large ETP (SPY),
+Table VI-6 focuses on the 114 US Equity ETPs that fall within the Large and Mid bins of market
+capitalization. These Large and Mid ETPs represent 77% of the market capitalization of US
+Equity ETPs.32
+Table VI-6: Large and Mid US Equity ETPs Grouped By Range
+
+Price Range Number of Mean Number
+Grouping
+Securities Range Of Halts
+>=35%
+24 42.8%
+196
+>=20,<35%
+31 27.3%
+123
+>=10,<20%
+28 15.1%
+3
+<10%
+31 7.2%
+0
+
+Unique
+Security
+Halts
+Experiencing Per
+Volume
+A Halt
+Security Increase
+24
+8.2
+6.6
+28
+4.4
+5.4
+2
+1.5
+3.7
+0
+0.0
+3.8
+
+Depth Of
+Book
+Percent At
+9:30:10
+7.9%
+14.4%
+22.0%
+24.1%
+
+Mean
+Imbalance
+Relative To
+Opening
+Volume
+338.4%
+316.5%
+203.8%
+122.3%
+
+Median
+Imbalance
+Relative To ADV
+Opening
+Turnover
+Volume
+Rate
+88.2%
+0.6%
+42.4%
+1.0%
+31.5%
+3.8%
+20.8%
+5.3%
+
+Table VI-6: Large and Mid US Equity ETPs categorized by the extent of their percentage
+range on August 24. Range is defined as ((daily high - daily low)/daily close). Volume
+Increase is calculated by taking the volume per security on August 24 divided by that
+security's ADV from July 27 to August 21. This value is then averaged over the entire bin.
+Securities that did not trade on all days from July 27 to August 21 were excluded from the
+analysis. Depth of Book Percent At 9:30:10 is calculated by taking the cumulative volume
+19 cents from the national best bid for all securities in the bin. This amount is then divided
+by a similar amount from August 17. The Mean and Median Imbalance Relative to Opening
+Volume columns are calculated by taking the imbalance amount from the last imbalance
+message prior to the security's open and dividing it by the opening volume. The
+mean/median of these ratios are calculated across bins. ADV Turnover Rate is calculated by
+taking a security’s ADV from July 27 to August 21 and then dividing that number by the
+security’s shares outstanding from August 21. The mean of this ratio is then determined for
+each grouping.
+
+Nearly all of the LULD halts for these ETPs occurred in the groups with ranges of 20% or more.
+On August 24, the two most volatile groups had higher volume increase ratios compared to the
+two less volatile groups, as well as lower depth of book percentages (a comparison of depth of
+book at 9:30:10 on August 24 compared to the control period). The two most volatile groups
+also experienced more significant imbalances in their opening auctions.
+Volume increases, depth-of-book percentages, and imbalances are “after-the-fact” metrics
+based on August 24 trading. ADV Turnover Rate, in contrast, is based solely on control period
+trading volume in the secondary market. It measures average daily trading volume during the
+control period in relation to the number of outstanding shares of a security. As noted in Table
+VI-1, for example, SPY, the sole Very Large ETP, has a high ADV Turnover Rate of 14.6%, while
+the mean ADV Turnover Rate for Large ETPs is 2.3%.
+
+32
+
+SPY alone represents 15% of the market capitalization of US Equity ETPs. The 384 Small US
+Equity ETPs represent 8% of market capitulation of US Equity ETPs.
+87
+
+Table VI-6 indicates that ADV Turnover Rate is associated with the likelihood a Large and Mid
+US Equity ETP was going to experience severe volatility and multiple LULD halts on August 24.
+The US Equity ETPs in the two least volatile groups exhibited ADV Turnover Rates (3.8% and
+5.3%) that are at least three times higher than the rates for the most volatile groups (0.6% and
+1.0%). The ADV Turnover Rates for the two most volatile groups also are very low when
+compared to the average turnover rates for all Large and Mid ETPs set forth in Table VI-1 above
+(2.3% for Large and 3.0% for Mid).
+To further assess the association between secondary market turnover rates and volatility, Table
+VI-7 below categorizes Large and Mid US ETPs by their ADV Turnover Rates.
+Table VI-7: Large and Mid US Equity ETPs Grouped By ADV Turnover Rate
+
+Turnover Grouping
+Lowest Turnover
+
+Highest Turnover
+
+ADV
+Number Of Turnover Mean Number
+Securities Rate
+Range Of Halts
+28
+0.39% 27.3%
+122
+29
+0.61% 24.0%
+92
+29
+1.05% 24.4%
+102
+28
+9.12% 12.5%
+6
+
+Unique
+Security
+Halts
+Experiencing Per
+Volume
+A Halt
+Security Increase
+21
+5.8
+6.45
+15
+6.1
+5.30
+16
+6.4
+3.94
+2
+3.0
+3.48
+
+Table VI-7: Large and Mid US Equity ETPs categorized by ADV Turnover Rate. ADV
+
+Turnover Rate is calculated by taking a security’s ADV from July 27th to August 21st and
+then dividing that number by the security’s shares outstanding from August 21st. The mean
+of this ratio is then determined for each grouping. Range is defined as ((daily high daily low)/daily close). Volume Increase is calculated by taking the volume per
+
+security on August 24th divided by that security's ADV from July 27 to August 21.
+This value is then averaged over the entire bin. Securities that did not trade on all
+days from July 27 to August 21 are excluded.
+
+Table VI-7 indicates that the three bins with the lowest secondary market turnover rates during
+the control period (0.39%, 0.61%, and 1.05%, respectively) experienced price ranges on August
+24 that were much higher than the bin with the highest secondary market turnover rate during
+the control period (9.12%). The three low turnover rate bins also include nearly all of the LULD
+halts in Large and Mid US Equity ETPs.
+
+88
+
+

@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /Archives/edgar/data
+Disallow: /Archives/bin
+Disallow: /Archives/etc
+Disallow: /Archives/usr
+Disallow: /cgi-bin
+Disallow: /bin
+Disallow: /Archives/edgar/vprr/XXXX
+Disallow: /Archives/edgar/vprr/vprr_removal
+Disallow: /Archives/edgar/vprr/bin
+Disallow: /nb
+Disallow: /video/live
+Disallow: /Archives/edgar/data/1473971/000109181814000042/ex101002.gif
+sitemap: http://www.sec.gov/sitemap.xml

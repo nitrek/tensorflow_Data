@@ -1,0 +1,951 @@
+04-2403
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+_____________________________________________
+AIG ASIAN INFRASTRUCTURE FUND, L.P.,
+Plaintiff-Appellant,
+v.
+CHASE MANHATTAN ASIA LIMITED,
+J.P. MORGAN PARTNERS (BHCA), AND JOHN D. LEWIS,
+Defendants-Appellees.
+_____________________________________________
+On Appeal From the United States District Court
+for the Southern District of New York
+_____________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE
+_____________________________________________
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+HOPE HALL AUGUSTINI
+Senior Litigation Counsel
+DOMINICK V. FREDA
+Attorney
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C. 20549-0606
+(202) 942-0912
+
+TABLE OF CONTENTS
+
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION . . . . . . 1
+ISSUE PRESENTED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+STATUTORY SCHEME . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+STATEMENT OF THE CASE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+SUMMARY OF ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+A.
+
+Under Supreme Court and Court of Appeals Decisions,
+Language like that in Section 804(b) Is Viewed as
+Expressing Congress’ Intent that the New Limitations
+Period not only Applies to Pre-enactment Events, but
+also Revives Barred Claims . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+B.
+
+The District Court Misconstrued Landgraf and Erred
+in Concluding that To Be Retroactive, the Statute Had
+To Expressly Refer to Retroactivity or Revival . . . . . . . . . . . . . . . . . . . . . 17
+
+C.
+
+Applying Section 804(b) To Revive Barred Claims
+Is Consistent With the Legislative History . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+D.
+
+Section 804(c) of Sarbanes-Oxley Is Irrelevant to
+the Question Whether Section 804(b) Revives
+Barred Claims . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+CERTIFICATE OF COMPLIANCE
+CERTIFICATE OF SERVICE
+
+TABLE OF AUTHORITIES
+CASES
+Alabama Dry Dock & Shipbuilding Corp. v. Sowell,
+933 F.2d 1561 (11th Cir. 1991), overruled on other grounds by
+Bath Iron Works Corp. v. Dir., Office of Workers’ Comp. Programs,
+506 U.S. 153 (1993) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 12
+Bateman Eichler, Hill Richards, Inc. v. Berner,
+472 U.S. 299 (1985) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Blue Chip Stamps v. Manor Drug Stores,
+421 U.S. 723 (1975) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Chase Sec. Corp. v. Donaldson,
+325 U.S. 304 (1945) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Cheneault v. United States Postal Service,
+37 F.3d 535 (9th Cir. 1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 19
+Davis v. Valley Distributing Co.,
+522 F.2d 827 (9th Cir. 1975) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Domond v. INS,
+244 F.3d 81 (2d Cir. 2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+In re Enter. Mortgage Acceptance Co. LLC Sec. Litig.,
+295 F. Supp. 2d 307(S.D.N.Y. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 25
+FDIC v. Belli,
+981 F.2d 838 (5th Cir. 1993) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Glaser v. Enzo Biochem., Inc.,
+303 F. Supp. 2d 724 (E. D. Va. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+-ii-
+
+In re Heritage Bond Litig.,
+289 F. Supp. 2d 1132 (C.D. Cal. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+INS v. St. Cyr,
+533 U.S. 289 (2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 16
+International Union of Electrical, Radio &
+Machine Workers, AFL-CIO v. Robbins & Myers, Inc.,
+429 U.S. 229 (1976) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 9, 10, passim
+J.I. Case Co. v. Borak,
+377 U.S. 426 (1964) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Kansas Public Employees Retirement System
+v. Reimer & Koger Associates, Inc.,
+61 F.3d 608 (8th Cir. 1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson,
+501 U.S. 350 (1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 22
+Landgraf v. USI Film Products,
+511 U.S. 244 (1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 6, 13, passim
+Lindh v. Murphy,
+521 U.S. 320 (1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Lockheed Corp. v. Spink,
+517 U.S. 882 (1996) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Martin v. Hadix,
+527 U.S. 343 (1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Million v. Frank,
+47 F.3d 385 (10th Cir. 1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 19
+Morales v. Trans World Airlines, Inc.,
+504 U.S. 374 (1992) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+-iii-
+
+Osmundsen v. Todd Pacific Shipyard,
+755 F.2d 730 (9th Cir. 1985) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Republic of Austria v. Altmann,
+124 S. Ct. 2240 (2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Resolution Trust Corp. v. Artley,
+28 F.3d 1099 (11th Cir. 1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 19
+Resolution Trust Corp. v. Seale,
+13 F.3d 850 (5th Cir. 1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Rivers v. Roadway Express, Inc.,
+511 U.S. 298 (1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Touche Ross & Co. v. Redington,
+442 U.S. 560 (1979) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+STATUTES AND REGULATIONS
+Sarbanes-Oxley Act, Pub. L. No. 107-204, 116 Stat. 745
+Section 308 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Section 803 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Section 804 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1, 2, 3, passim
+28 U.S.C. 1658 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 4, 16, passim
+Securities Exchange Act of 1934
+Section 10(b), 15 U.S.C. 78j(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 4, 5
+Rule 10b-5, 17 C.F.R. 240.10b-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 5
+
+-iv-
+
+MISCELLANEOUS
+148 Cong. Rec. S1785-1792 (Mar. 12, 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+148 Cong. Rec. S6524-02 (July 10, 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . 24, 25
+148 Cong. Rec. S7418, Legislative History of Title VIII of H.R. 2673:
+The Sarbanes-Oxley Act of 2002 (July 26, 2002) . . . . . . . . . . . . . . . . . . . . . 23, 28
+Federal News Service, “Conference Report on Corporate Responsibility
+Legislation,” (July 24, 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+House Consideration and Passage of H.R. 5118, the Corporate Fraud
+Accountability Act of 2002 (July 16, 2002) H4683-4694 . . . . . . . . . . . . . . . 24, 25
+Senate Panel Votes to Ease Rules on Suits in Stock Fraud,
+New York Times C5 (April 26, 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Statement of Mr. Leahy to the Senate Committee on the Judiciary,
+Executive Business Meeting (Apr. 25, 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+-v-
+
+_____________________________________________
+No. 04-2403
+_____________________________________________
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+_____________________________________________
+AIG ASIAN INFRASTRUCTURE FUND, L.P.,
+Plaintiff-Appellant,
+v.
+CHASE MANHATTAN ASIA LIMITED,
+J.P. MORGAN PARTNERS (BHCA), AND JOHN D. LEWIS,
+Defendants-Appellees.
+_____________________________________________
+On Appeal From the United States District Court
+for the Southern District of New York
+_____________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE
+_____________________________________________
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+Section 804 of the Sarbanes-Oxley Act of 1992, Pub. L. No. 107-204,
+lengthened the statute of limitations for the filing by investors of fraud actions
+under the federal securities laws. The Securities and Exchange Commission, the
+agency principally responsible for the administration and enforcement of the
+federal securities laws, submits this brief as amicus curiae urging this Court to
+
+hold that the amended statute of limitations permits investors to bring claims that
+are timely under the new limitations provision, regardless of whether those
+investors’ claims had become barred prior to the enactment of the amendment
+under the former limitations period.
+Although Section 804 is applicable to private actions only, and not to
+Commission enforcement actions, the Commission has an interest in assuring that
+the ability of investors to bring private actions is not improperly restricted. As the
+Supreme Court has repeatedly recognized, such actions “provide ‘a most effective
+weapon in the enforcement’ of the securities laws and are ‘a necessary supplement
+to Commission action.’” Bateman Eichler, Hill Richards, Inc. v. Berner, 472 U.S.
+299, 310 (1985), quoting J.I. Case Co. v. Borak, 377 U.S. 426 (1964); see Blue
+Chip Stamps v. Manor Drug Stores, 421 U.S. 723, 730 (1975). Furthermore, the
+question whether Section 804 restores barred claims is being actively litigated in
+many pending lawsuits, including ones involving the very same frauds that led
+Congress to lengthen the statute of limitations. Although it is not possible at this
+stage to quantify the precise amount of money at stake for investors in these cases,
+it is evident that investors’ claims are substantial. In light of Congress’s concern
+about the victims of the egregious frauds that led to the enactment of Section 804,
+the Commission has an interest in assuring that investors are not precluded from
+-2-
+
+asserting their claims by an erroneous interpretation of that section. The
+Commission also has a more general interest in ensuring that courts do not adopt
+overly restrictive interpretations of Sarbanes-Oxley’s provisions and thereby
+undermine Congress’ objectives in enacting this legislation.
+ISSUE PRESENTED
+Section 804 of Sarbanes-Oxley amended 28 U.S.C. 1658 to lengthen the
+statute of limitations in private securities fraud actions, including actions brought
+pursuant to Section 10(b) of the Securities Exchange Act of 1934, 15 U.S.C.
+78j(b), and Rule 10b-5 thereunder, 17 C.F.R. 240.10b-5. Section 804(b) states
+that the new limitations period is applicable to “all proceedings * * * commenced
+on or after the date of enactment of this Act.” Sarbanes-Oxley was enacted on
+July 30, 2002, and five months later the plaintiff in this case filed its action in
+December 2002. The issue in this appeal is whether the lengthened statute of
+limitations in Section 804 applies to an action brought after the enactment of
+Sarbanes-Oxley for claims that had already lapsed under the previous limitations
+period.
+STATUTORY SCHEME
+Prior to the enactment of Sarbanes-Oxley, private securities fraud actions
+had to be commenced within one year after discovery of the facts constituting the
+-3-
+
+violation and within three years after the violation occurred. Lampf, Pleva,
+Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350, 364 (1991). Section
+804(a) of Sarbanes-Oxley added a provision to 28 U.S.C. 1658, changing these
+periods to two years and five years respectively. 1/ The remaining two subparts of
+Section 804 (subparts (b) and (c)) provide:
+(b) EFFECTIVE DATE. – The limitations period provided by section
+1658(b) of title 28, United States Code, as added by this section, shall apply
+to all proceedings addressed by this section that are commenced on or after
+the date of enactment of this Act.
+(c) NO CREATION OF ACTIONS. – Nothing in this section shall create a
+new, private right of action.
+
+1/
+
+The new provision in 28 U.S.C. 1658 provides:
+* * * [A] private right of action that involves a claim of fraud, deceit,
+manipulation, or contrivance in contravention of a regulatory
+requirement concerning the securities laws, as defined in section
+3(a)(47) of the Securities Exchange Act of 1934 (15 U.S.C.
+78c(a)(47)), may be brought not later than the earlier of –
+(1) 2 years after the discovery of the facts constituting the
+violation; or
+(2) 5 years after such violation.
+Although this provision does not expressly identify particular antifraud
+provisions in the securities laws, it clearly governs private actions under
+Section 10(b).
+-4-
+
+STATEMENT OF THE CASE
+The plaintiff commenced this action in December 2002, alleging violations
+of Section 10(b) of the Exchange Act, and Rule 10b-5 thereunder, in connection
+with a purchase of securities by the plaintiff in January 1998. The defendants
+moved to dismiss the case, arguing that the plaintiff’s cause of action became
+barred on January 16, 2001 under the then-prevailing three-year statute of
+limitations for claims under Section 10(b). Defendants argued that plaintiff’s
+claim was not revived by the new limitations period in Section 804 of SarbanesOxley because the claim had already been barred before the new limitations period
+was enacted. It is undisputed that if the pre-Sarbanes-Oxley limitation period
+applies, the action is barred, and if Section 804 applies, the action is timely.
+Although Section 804 states that it applies to all proceedings “commenced
+on or after the date of enactment,” the district court dismissed the action as barred
+under the shorter pre-Sarbanes-Oxley limitations period. The court said that in
+Section 804, Congress did not “explicitly state that it will be applied
+retroactively”; relying on Landgraf v. USI Film Products, 511 U.S. 244 (1994), the
+court believed that relevant principles of retroactivity law required such an explicit
+statement. (Op. at 9-10). In addition, because Congress provided in Section
+804(c) that Section 804 did not “create a new, private right of action,” the district
+-5-
+
+court concluded that Section 804 “is susceptible to an interpretation that it
+explicitly precludes retroactive application of the new limitations periods,” since
+such application would, in its view, create a new right of action by reviving barred
+claims. Id.
+The absence of any express retroactivity provision, the court stated, required
+it to determine whether to apply the judicial presumption against retroactivity.
+The court concluded: “Because retroactive application of the new Sarbanes-Oxley
+limitations period would renew securities fraud claims that had expired, and
+therefore would increase defendants’ liability for conduct based on those claims,
+the Court holds that such retroactive application would have an ‘impermissible
+retroactive effect.’” Op. at 11, quoting Landgraf. Finally, the court found that
+nothing in the legislative history rebutted the traditional presumption against
+retroactivity. Plaintiff appeals from the dismissal.
+SUMMARY OF ARGUMENT
+The Commission disagrees with the district court’s decision that Section
+804 does not revive barred claims. The Supreme Court and courts of appeals have
+held that language like that contained in Section 804(b), which provides that the
+new limitations period applies to all cases filed after enactment, revives barred
+claims. The district court misconstrued Landgraf, which does not require
+-6-
+
+Congress to expressly include terms like “retroactive” or “revival” in order to
+express retroactive intent. Because Congress expressly stated in Section 804(b)
+that the new limitations period would apply to “all proceedings * * * commenced
+on or after the date of enactment,” the district court should have applied the new
+limitations period in accordance with the natural meaning of the statutory
+language, without relying on any judicial presumption against retroactivity.
+In view of the case law addressing statutory language like that in Section
+804(b), it is unnecessary to look at the Sarbanes-Oxley legislative history. In any
+event, applying Section 804(b) to revive barred claims is consistent with the
+legislative history. Congress was concerned that the short pre-Sarbanes
+limitations period was preventing numerous existing shareholder victims of recent
+egregious frauds involving large, well-known corporations (like Enron,
+WorldCom and Global Crossing) from filing claims arising from the complicated
+and long-standing frauds then being uncovered. Section 804 was believed
+necessary to give these victims of longstanding frauds, just then being uncovered,
+the ability to bring damage actions that were already barred under existing law.
+The compelling circumstances that led to the enactment of Sarbanes-Oxley, and in
+particular Section 804, make it appropriate to allow revival of barred claims –
+
+-7-
+
+claims that, in many cases, involved fraud that had been concealed beyond the
+then-existing limitations period.
+Finally, the district court misconstrued Section 804(c) to preclude revival of
+barred claims. Section 804(c) was included to clarify that by specifying
+application of the new limitations period to claims based on fraud under the
+securities laws, Congress did not thereby intend to create any fraud causes of
+action not already enumerated under the securities laws or not otherwise already
+implied by the courts.
+ARGUMENT
+A.
+
+Under Supreme Court and Court of Appeals Decisions, Language like that
+in Section 804(b) Is Viewed as Expressing Congress’ Intent that the New
+Limitations Period not only Applies to Pre-enactment Events, but also
+Revives Barred Claims.
+Section 804(b) states that the new limitations period applies to “all
+
+proceedings * * * commenced on or after the date of enactment * * * .” The
+Supreme Court and two courts of appeals have held that when Congress uses
+language like that found in Section 804(b), the new limitations period not only
+applies retroactively to claims arising pre-enactment, but also revives barred
+claims. These decisions involved statutes that did not use terms like “retroactive”
+
+-8-
+
+or “revived” and yet, because of the language like that in Section 804(b), were
+held to apply to revive barred claims.
+In International Union of Electrical, Radio & Machine Workers, AFL-CIO
+v. Robbins & Myers, Inc., 429 U.S. 229 (1976), the Supreme Court concluded that
+where Congress stated that the new limitations period applied to “charges pending
+with the [EEOC] on the date of enactment of this Act and all charges filed
+thereafter,” it intended the enlarged limitations period to apply “to charges,
+whether or not untimely” upon enactment. Id. at 242. The Court treated this
+statutory language as providing for revival of barred claims even though the
+statute did not expressly state that such barred claims would be revived. 2/ The
+question addressed in Robbins & Myers was whether the plaintiff’s complaint,
+filed before enactment and untimely when filed, was nonetheless “pending” at the
+
+2/
+
+The Supreme Court has long held that Congress has the power to extend a
+previously applicable limitations period that has already commenced
+running, and to enact a new limitations rule that revives claims already
+barred. Chase Sec. Corp. v. Donaldson, 325 U.S. 304, 311-12 (1945). As
+the Court observed, statutes of limitations “come into the law not through
+the judicial process but through legislation. They represent a public policy
+about the privilege to litigate. Their shelter has never been regarded as what
+now is called a ‘fundamental’ right * * * of the individual. He may, of
+course, have the protection of the policy while it exists, but the history of
+pleas of limitation shows them to be good only by legislative grace and to
+be subject to a relatively large degree of legislative control.” Id. at 314
+(footnote omitted).
+-9-
+
+time of enactment, and subject to the new expanded limitations period, simply
+because the EEOC had not yet dismissed the action as untimely when the new
+limitations period went into effect. The Court observed that because the statute
+applied to all cases filed after enactment, had the plaintiff never filed a complaint
+before enactment (and thus had been clearly barred under the old limitations
+period), she nonetheless would have been entitled to file an action after enactment
+to avail herself of the new limitations period. Because the statute allowed the
+filing of a never-before-filed action to revive a barred claim, the Court saw scant
+sense in interpreting “pending” to mean only those claims that were timely when
+filed. Rather, the Court interpreted the statute according to its literal meaning,
+without regard to whether barred claims would be revived. Id. at 242-43.
+The Ninth and Eleventh Circuits have also held that statutory language like
+that in Section 804(b) revived barred claims even though the statute of limitations
+being interpreted had no express language about revival. One year before the
+Supreme Court’s decision in Robbins & Myers, the Ninth Circuit addressed the
+very same statute and reached the same conclusion in Davis v. Valley Distributing
+Co., 522 F.2d 827, 831 (9th Cir. 1975) (finding that the statute affirmatively
+indicated Congress’s intent to encompass discriminatory conduct that occurred
+before the Act was passed, and that appellant’s claim filed before enactment, albeit
+-10-
+
+untimely, “fell within the literal words of the statute.”). In Alabama Dry Dock &
+Shipbuilding Corp. v. Sowell, 933 F.2d 1561 (11th Cir. 1991), overruled on other
+grounds by Bath Iron Works Corp. v. Dir., Office of Workers’ Comp. Programs,
+506 U.S. 153 (1993), the Eleventh Circuit held that amendments contained in the
+Longshore and Harbor Workers’ Compensation Act that Congress specified “shall
+apply both with respect to claims filed after [enactment] and to claims pending on
+[enactment],” applied to claims that arose and were already barred before
+enactment. The statute did not refer expressly to revival of barred claims. The
+court acknowledged that its interpretation “revives a potentially large number of
+claims that would otherwise have been time-barred decades ago.” Id. at 1565.
+Nonetheless, the court believed the plain language of the statute compelled this
+result. 3/
+The appellant in Alabama Dry Dock argued that because Congress could not
+have intended to resurrect claims for which the statute of limitations had already
+expired, at most the statute applied retroactively only as to claims that were still
+timely under the old limitations period when the new period was enacted. The
+
+3/
+
+This provision in the Act had been similarly interpreted by the Ninth Circuit
+in Osmundsen v. Todd Pacific Shipyard, 755 F.2d 730, 732-33 (9th Cir.
+1985), relying on Robbins & Myers. The Eleventh Circuit in Alabama Dry
+Dock, although not citing to Robbins & Myers, cited to Osmundsen.
+-11-
+
+court rejected this argument, finding it was at odds with the plain terms of the
+amendment and without any support in the legislative history. The court also
+observed that appellant’s construction would
+force upon Congress’ words a rather strained construction. The
+provision that “the amendments made by this Act shall be effective on
+the date of enactment of this Act and shall apply . . . to claims filed
+after such date” (emphasis added) is obviously not necessary to apply
+the new law to claims arising after the effective date. The only
+sensible reading of the provision, then, is that Congress was
+addressing claims that arose before the effective date of the statute
+but were filed after the effective date. * * * Because [appellant’s]
+interpretation posits that Congress could not have meant to resurrect
+claims for which the statute of limitations had expired before the
+effective date, Congress could not have been addressing any claims
+that arose * * * one year before the effective date of the statute,
+because such claims would have been time-barred before Congress
+ever enacted the amendments. In other words, [Appellant] argues,
+when Congress said that the 1984 amendments “shall apply...with
+respect to claims filed after” the effective date, Congress really meant
+to say that the amendments would apply to claims arising no more
+than one year before [enactment], and filed after [enactment]. To
+accept [appellant’s] argument, we would have to believe that to
+express this rather precise concept, Congress chose the statutory
+command that the amendments “shall apply . . . with respect to claims
+filed after such date.” We do not. Instead we conclude that Congress
+intended the natural implication of the language Congress chose: the
+1984 amendments apply to claims filed after [enactment], whenever
+they arose.
+Id. at 1564 (emphasis in original).
+Opponents of revival make an argument similar to the argument rejected in
+Alabama Dry Dock. They argue that even though Congress applied Section 804 to
+-12-
+
+all proceedings filed after enactment, Congress could not have really meant all
+such proceedings – just those involving claims that were not already barred when
+Section 804 was enacted – thereby implying an exception to the term “all
+proceedings” in Section 804(b). Like the Eleventh Circuit, we disagree. Section
+804 applies to claims retroactively, regardless of whether the claims arose and
+expired before enactment. So long as the action was “commenced on or after the
+date of enactment,” the new limitations period applies.
+The Supreme Court’s interpretation of the statutory language in Robbins &
+Myers has been confirmed in more recent cases outside of the statute of limitations
+context. In Landgraf v. USI Film Products, 511 U.S. 244 (1994), the Supreme
+Court set forth the appropriate analysis for determining when to apply a new
+statute to events that occurred pre-enactment:
+When a case implicates a federal statute enacted after the events in
+suit, the court’s first task is to determine whether Congress has
+expressly prescribed the statute’s proper reach. If Congress has done
+so, of course, there is no need to resort to judicial default rules.
+When, however, the statute contains no such express command, the
+court must determine whether the new statute would have retroactive
+effect, i.e., whether it would impair rights a party possessed when he
+acted, increase a party’s liability for past conduct, or impose new
+duties with respect to transactions already completed. If the statute
+would operate retroactively, our traditional presumption teaches that
+it does not govern absent clear congressional intent favoring such a
+result.
+
+-13-
+
+511 U.S. at 280. Under the first step of Landgraf’s analysis, therefore, the
+question is whether Congress has expressly prescribed the statute’s temporal reach
+– i.e., has Congress expressly indicated in the statute that it is to be applied to preenactment conduct? When the “temporal effect of a statute is manifest on its face,
+‘there is no need to resort to judicial default rules,’ and inquiry is at an end.”
+Lockheed Corp. v. Spink, 517 U.S. 882, 896 (1996) (quoting Landgraf). It is only
+when Congress is silent about the temporal reach that the courts apply the judicial
+presumption against retroactivity. In other words, any judicial presumption
+against retroactive application does not come into play until after a court has
+determined whether Congress has expressly set forth the statute’s application to
+pre-enactment events. That determination is made without reference to any
+presumption. 4/
+
+4/
+
+The district court did not properly apply these principles. Instead of
+framing the question as whether section 804 applies retroactively by virtue
+of Congress having expressly prescribed the statute’s temporal reach, the
+district court framed the question as “whether the Sarbanes-Oxley
+limitations periods should apply retroactively.” (Emphasis added). It thus
+appears that the district court implicitly applied the judicial presumption
+against retroactivity to the entire Landgraf analysis, instead of reserving the
+“judicial default rule” to be considered only after a finding that Congress
+failed to specify the statute’s temporal reach. See discussion, infra at
+argument B.
+-14-
+
+In Landgraf itself, and other Supreme Court cases that followed, the Court
+has determined that Congress expresses its “unambiguous” retroactive intention
+when it provides, in language comparable to that in Section 804(b), that new or
+amended statutes apply to proceedings commenced after enactment. Landgraf,
+511 U.S. at 259-60 (stating that had Congress wished retroactive application “it
+surely would have used language comparable to * * * [the provision] ‘shall apply
+to all proceedings pending on or commenced after the date of enactment.’”); INS
+v. St. Cyr, 533 U.S. 289, 318 and n.43 (2001) (providing examples of Congress’
+“unambiguous” intention to apply specific provisions retroactively, including such
+language as “shall apply to actions occurring on or after the date” of enactment.”);
+Martin v. Hadix, 527 U.S. 343, 354 (1999) (stating that “shall apply to all
+proceedings pending on or commenced after the date of enactment,” referred to in
+Landgraf, “unambiguously addresses the temporal reach of the statute.”); Lindh v.
+Murphy, 521 U.S. 320, 329, n.4 (1997) (stating that language quoted above in
+Landgraf “might possibly have qualified as a clear statement for retroactive
+effect.”); Rivers v. Roadway Express, Inc., 511 U.S. 298, 307-08 (1994)
+(observing that the statute in question omitted a provision in the bill that the
+
+-15-
+
+amendment “shall apply to all proceedings pending on or commenced after” a
+fixed date and describing bill as containing “express retroactivity provisions.”). 5/
+The statutory language in these cases and in Section 804(b) is to be
+contrasted with what Congress did in the very section of Title 28 that was
+amended by Section 804. As the historical and statutory notes to 28 U.S.C. 1658
+set forth, when Congress enacted Section 1658 in 1990 to provide a default statute
+of limitations for actions arising under federal law, Congress provided (emphasis
+added):
+The amendments made by this section [enacting this section] shall apply
+with respect to causes of action accruing on or after the date of the
+enactment of this Act [Dec. 1, 1990].
+If Congress in Section 804 had not intended to make the new limitations period
+retroactive, it could have similarly made the new period apply to causes of action
+
+5/
+
+Many of the statutes in the retroactivity cases, including Robbins & Myers,
+were applicable not only to cases commenced after enactment, but also to
+cases that were pending on enactment, whereas Section 804 does not state
+that it applies to pending cases. Congress’s failure to include “pending” in
+Section 804 does not affect our conclusion on the application to this case of
+Robbins & Myers and other decisions cited above, none of which turned on
+the presence or absence of the word “pending.” Even in this case, the
+district court’s rejection of revival did not depend on the absence of
+“pending,” but rather on the absence of any language about revival or
+retroactivity. Moreover, the Supreme Court in INS v. St. Cyr, 533 U.S. at
+318 and n.43, cited statutes that apply simply to cases commenced after
+enactment as examples of Congress’s unambiguous retroactive intent.
+-16-
+
+accruing post-enactment rather than to proceedings commenced on or after
+enactment.
+The foregoing cases and the statutory history of Section 1658 support our
+view that so long as a proceeding is “commenced on or after” Sarbanes-Oxley was
+enacted, the plaintiff is entitled to the benefit of the expanded limitations period
+even if the conduct complained of predated the enactment of Sarbanes-Oxley and
+even if the claim was already time-barred under the old statute of limitations at the
+time of enactment. This interpretation comports with the natural meaning of the
+words chosen by Congress in Section 804(b), which states, with no exception for
+claims that were barred at the time of enactment, that the new limitations period
+applies to “all proceedings * * * commenced on or after the date of
+enactment * * * .”
+B.
+
+The District Court Misconstrued Landgraf and Erred in Concluding that To
+Be Retroactive, the Statute Had To Expressly Refer to Retroactivity or
+Revival.
+The district court did not address the Robbins & Myers, Davis, or Alabama
+
+Dry Dock decisions. The district court’s erroneous ruling in this case resulted
+from the court’s misreading of Landgraf, which the court viewed as precluding
+revival unless the statute uses words like “retroactive” or “revival.” Op. at 9.
+Landgraf does not require this explicit statement about retroactivity but, rather,
+-17-
+
+requires Congress to set forth the statute’s temporal reach, and “if Congress has
+done so, of course, there is no need to resort to judicial default rules.” 511 U.S. at
+280. Instead of looking to the applicable case law that treats provisions like
+Section 804(b) as explicit retroactive statements that revive barred claims, the
+district court erroneously treated Section 804 as if Congress was silent as to
+retroactivity, and turned to the default analysis in Landgraf to determine whether
+to apply the judicial presumption against retroactivity. The district court in
+essence reversed the Landgraf analysis by using a judicial presumption against
+retroactivity to overrule an express legislative statement to the contrary.
+Because of its mistaken view that Section 804 is silent as to retroactivity,
+the district court relied on courts of appeals’ decisions addressing the retroactive
+effect of statutes in which, unlike Section 804(b), Congress failed to specify the
+temporal reach of a new statute of limitations. All of those appellate cases on
+which the court relied involved statutory provisions in which Congress remained
+silent on temporal reach. See, e.g., Cheneault v. United States Postal Service, 37
+F.3d 535, 537 (9th Cir. 1994); Million v. Frank, 47 F.3d 385, 390 (10th Cir. 1995);
+6/ Resolution Trust Corp. v. Artley, 28 F.3d 1099, 1102 n.6 (11th Cir. 1994);
+6/
+
+Both Cheneault and Million interpreted Section 114 of the Civil Rights Act
+of 1991, the same Act that the Supreme Court in Landgraf held did not
+expressly indicate a temporal reach and provided simply that “the
+-18-
+
+FDIC v. Belli, 981 F.2d 838 (5th Cir. 1993); Resolution Trust Corp. v. Seale, 13
+F.3d 850, 853 (5th Cir. 1994). 7/ The district court’s reliance on Kansas Public
+Employees Retirement System v. Reimer & Koger Associates, Inc., 61 F.3d 608
+(8th Cir. 1995) was particularly inapt. The Eighth Circuit in that case interpreted
+Kansas law and applied the principle set forth by the Kansas Supreme Court that
+no revival is permitted unless the state statute says so expressly. That case has no
+application to federal law.
+The district court also relied on other district court decisions that have
+refused to apply Section 804 to revive barred claims. These decisions likewise
+
+amendments made by this Act shall take effect upon enactment. See
+Landgraf 511 U.S. at 255-57 (holding that “[a] statement that a statute will
+become effective on a certain date does not even arguably suggest that it has
+any application to conduct that occurred at an earlier date.”) Unlike Section
+804 of Sarbanes, in which Congress expressly indicated the temporal reach
+of the amendment, Section 114 of the Civil Rights Act extended the time
+limit for federal employees to file employment discrimination actions after
+being notified of their right to sue by simply substituting 90 days for the
+pre-enactment 30-day period. Consistent with Landgraf, therefore,
+Cheneault and Million properly held that Congress had failed to articulate
+any intent that Section 114 be applied to pre-enactment conduct.
+7/
+
+Artley, Belli, and Seale interpreted 12 U.S.C. § 1821(d)(14), which specifies
+that the statute of limitations on a contractual claim held by the FDIC runs
+from the later of (1) the date on which the FDIC is appointed conservator or
+receiver, or (2) “the date on which the cause of action accrues.” Again,
+these courts were not interpreting any language similar to Section 804(b)
+that expressed legislative intention on how to apply the limitations period to
+actions accruing pre-enactment.
+-19-
+
+incorrectly held that retroactive application requires an explicit statement from
+Congress about retroactivity or revival, and rely on the appellate case law
+described above that is not applicable here. See In re Enter. Mortgage Acceptance
+Co. LLC Sec. Litig., 295 F. Supp. 2d 307, 313 (S.D.N.Y. 2003) (finding “no clear
+language * * * stating that [Section 804] applies retroactively or that it operates to
+revive time-barred claims); Glaser v. Enzo Biochem., Inc., 303 F. Supp. 2d 724,
+734 (E.D. Va. 2003) (“Congress did not unambiguously provide that the two-year
+limitations period would apply retroactively.”); In re Heritage Bond Litig., 289 F.
+Supp. 2d 1132, 1148 (C.D. Cal. 2003) (“The Act does not address whether the
+revised statute of limitations should apply to claims barred by the existing statute
+of limitations at the time of enactment.”).
+C.
+
+Applying Section 804(b) To Revive Barred Claims Is Consistent With the
+Legislative History.
+In view of the case law addressing statutory language like that in Section
+
+804(b), it is unnecessary to look at the legislative history. See Morales v. Trans
+World Airlines, Inc., 504 U.S. 374, 385, n.2 (1992) (“[The] legislative history
+need not confirm the details of changes in the law effected by statutory language
+before we will interpret that language according to its natural meaning.”). In any
+
+-20-
+
+event, applying Section 804 to revive barred claims is consistent with the
+legislative history.
+Congress enacted Sarbanes-Oxley to restore investor confidence in the wake
+of massive and long-standing frauds and to adopt remedies to restore money to
+defrauded investors. See, e.g., Section 308, the Fair Funds For Investors
+provision, and Section 803, which makes debts incurred by securities fraud
+nondischargeable in bankruptcy. Section 804 was similarly remedial, and arose
+out of Congress’s concern that the pre-Sarbanes statute of limitations for private
+securities fraud actions was inappropriately short and left many existing defrauded
+investors without recourse in the complicated and long-standing frauds then being
+uncovered. Senator Leahy introduced Section 804 as part of S. 2010, The
+Corporate and Criminal Fraud Accountability Act, after hearings on the fall of
+Enron, and after testimony that the existing statute of limitations for private
+securities actions forced states like Washington, Georgia and Ohio to forgo claims
+based on securities fraud in 1997 and 1998 in the Enron state pension fund
+litigation. See Remarks by Mr. Leahy upon Introduction of S. 2010 in the Senate
+(Mar. 12, 2002), 148 Cong. Rec. S1785-1792, 2002 WL 32054452, at 7 and 32;
+Statement of Mr. Leahy to the Senate Committee on the Judiciary, Executive
+Business Meeting (Apr. 25, 2002). In Washington alone, state employee pension
+-21-
+
+funds, which lost in excess of $100 million in Enron, were foreclosed from
+seeking relief for at least $50 million in losses resulting from fraud in 1997. Id.
+The statute of limitations extension being considered was designed to legislatively
+overrule the Supreme Court’s decision in Lampf, Pleva, and allow victims of
+securities fraud three years from the date of discovery and no more than five years
+from the events underlying the claim to file an action. 8/ Senator Leahy noted that
+two Commission Chairmen in the years since Lampf, Pleva had supported
+extending the limitations period during their tenure at the Commission, and that
+the newly-discovered extensive frauds showed that such an extension was now
+necessary. Id. 9/
+
+8/
+
+The Commission had filed an amicus brief in the Supreme Court in Lampf
+Pleva, arguing that the appropriate statute of limitations for private fraud
+actions under the securities laws should be within five years of the
+violation. The Supreme Court disagreed.
+
+9/
+
+In response to the Supreme Court’s decision in Lampf, Chairman Breeden
+testified before Congress in favor of extending the limitations period by
+stating that “[e]vents only come to light until years after the original
+distribution of securities,” and that Lampf “could well mean that by the time
+an investor discovers they have a case, they are already barred from the
+courthouse.” Testimony of Chairman Breeden before the Securities
+Subcommittee of the Senate Banking Committee (Oct. 2, 1991). In his 1995
+testimony before Congress on the Private Securities Litigation Reform Act,
+Chairman Levitt stated that “extending the statute of limitations is warranted
+because many securities frauds are inherently complex, and the law should
+not reward the perpetrator of a fraud, who successfully conceals its
+existence for more than three years.” See Chairman Levitt Testimony
+-22-
+
+The legislative history reveals that debate about Section 804 centered
+around whether the limitations period should be expanded – Section 804(a) – and
+there was no explicit debate on Section 804(b), the provision setting forth the
+statute’s temporal reach. 10/ The section-by-section analysis, however, states that
+Section 804 “applies to any and all cases filed after the effective date of the Act,
+regardless when the underlying conduct occurred.” (emphasis added). 11/
+Congress’s use of “any and all” reinforces the natural meaning of Section 804(b)’s
+application to “all proceedings” without reservation. Moreover, the clause
+
+before the Senate Banking Committee, (Apr. 6, 1995), and before the House
+Commerce Committee (Feb. 10, 1995).
+10/
+
+The Senate Judiciary Committee held a markup session in April 2002,
+during which the proposed 3 and 5 was changed to 2 and 5. In addition,
+what is now Section 804(c) was adopted to make it clear that the amended
+statute of limitations was not intended to create a new private right of
+action. Although Ranking Member Hatch expressed concerns about
+extending the limitations period and proposed keeping the discovery period
+at one year, his amendment was defeated 11 to 7. See Senate Panel Votes to
+Ease Rules on Suits in Stock Fraud, New York Times C5 (April 26, 2002).
+The bill was reported unanimously by the Committee. In July, S. 2010 was
+incorporated without amendment into S. 2673, later to be enacted as
+Sarbanes-Oxley. There is nothing in the legislative record that indicates any
+debate on the effective date provision in Section 804(b).
+
+11/
+
+Senator Leahy’s section-by-section analysis was included in the
+Congressional Record as part of the official legislative history. 148 Cong.
+Rec. S7418, Legislative History of Title VIII of H.R. 2673: The SarbanesOxley Act of 2002 (July 26, 2002).
+-23-
+
+“regardless when the underlying conduct occurred” shows that, at the very least,
+Congress intended Section 804 to apply to pre-enactment events. The broad
+language in the section-by-section analysis does not even remotely suggest that
+Congress intended any distinction in Section 804 between claims that had expired
+prior to enactment and claims that had not yet expired upon enactment.
+During the Senate and House floor debates, statements by Senator Leahy
+and others suggest that Section 804 was necessary to give the past victims of
+Enron, and of other longstanding frauds just then being uncovered, the ability to
+bring damage actions that were already barred under existing law. 12/ Parties who
+12/
+
+See, e.g., 148 Cong. Rec. S6524-02 (July 10, 2002), at S6534 (Sen. Leahy)
+(“We already have a very short statute of limitations in here anyway. We
+ought to at least have that so people might be able to recover some of the
+money they have lost, if it is at all possible. * * * There ought to be a way
+for the people who lost their pensions, lost their life savings to get it
+back.”); Id. at S6535 (Sen. Leahy) (“Here are some numbers. Florida lost
+$335 million because of Enron, the University of California, $144 million –
+all the way down to Vermont; we lost millions of dollars. These are people
+who would like, in these kinds of cases, at least to have a statute of
+limitations such that we can go after them.”); Id. at S6540-41 (Sen. Leahy)
+(“Even in my own little State of Vermont, pension funds were damaged
+because of the excesses of Enron. And then we see WorldCom and Tyco
+and Xerox, and we say we had better look back five years” and “let’s do
+everything we can to let the people defrauded by them recover some of their
+ill-gotten gains.”). See also House Consideration and Passage of H.R. 5118,
+The Corporate Fraud Accountability Act of 2002 (July 16, 2002)
+H4683-4694 (Rep. Markey) (the House proposal “does not extend from 3
+years out to 5 years the period upon which people can sue if they have been
+defrauded. We are only finding out right now about fraud from 2 or 3 years
+-24-
+
+have opposed revival are mistaken when they rely on statements by Senator
+Gramm during the Senate floor debate that a lengthened statute of limitations
+would “have no effect on anybody who has committed one of these violations”
+because “everyone understands that our system has no ex post facto laws.” 148
+Cong. Rec. S6537 (July 10, 2002). Apart from the fact the Ex Post Facto clause
+applies only to criminal statutes, see, e.g., Domond v. INS, 244 F.3d 81, 87 (2d
+Cir. 2001), Senator Gramm’s statement opposing retroactive application of Section
+ago. We need to stretch out the statute of limitations so they can sue.”); Id.
+at H4838-4847 (July 17, 2002) (Rep. LaFalce) (“By the time we discovered
+the wrongdoing that took place in the Enron case, in the Global Crossing
+case, in the WorldCom case, et cetera, the private cause of action may have
+seen the statute of limitations expire. So we need more time. That is an
+essential and important provision.”); (Rep. Markey) (“We should extend
+from 3 years to 5 years the time that people have to go in and do something
+about fraud, because we are now talking about fraud committed in 1998 and
+1999, and the statute of limitations has run. We must extend it out to 5
+years. Ordinary investors are only finding out now how valueless their
+investments were.”). But see Federal News Service, “Conference Report on
+Corporate Responsibility Legislation” (July 24, 2002), quoting Senator
+Leahy as saying “[in the Act] [w]e extend the statute of limitations in
+security fraud cases – something that would’ve helped so many people who
+were defrauded by Enron and others.” At least one court believed this
+statement indicated lack of revival intent. In re Enter. Mortgage Acceptance
+Co. LLC Sec. Litig., 295 F. Supp. 2d 307, 313 (S.D.N.Y. 2003). However,
+it is unreasonable to read Senator Leahy’s isolated and ambiguous remark as
+negating his section-by-section analysis and earlier statements on the floor
+indicating an intention to have the statute reach the already-barred
+fraudulent conduct in Enron, WorldCom, and the other large and
+complicated fraud cases which were the immediate impetus for the
+legislation.
+-25-
+
+804 is the only statement in the legislative record that even suggests such
+opposition. It is, moreover, inconsistent with the Section-by-Section explanation
+that Section 804 applies to events no matter when they occurred. It is also
+inconsistent with Section 804(b) itself, which applies to proceedings filed on or
+after enactment, since any claim filed on the date of enactment would necessarily
+relate to pre-enactment conduct or events. Republic of Austria v. Altmann, 124 S.
+Ct. 2240, 2253, n.18 (2004).
+The legislative history also shows that the barred claims that were the
+impetus for the enactment of Section 804 involved fraud that had been concealed
+beyond the then-existing three-year limitations period. This concealment
+mitigates any concern that reviving barred claims would be unfair to defendants,
+since any legitimate reliance interest of a defendant is reduced or eliminated if he
+concealed the circumstances giving rise to the plaintiff’s claim. Because the
+perpetrators of the frauds discussed in the legislative history concealed their
+conduct, it is doubtful that Congress, in enacting Section 804, would have wanted
+to protect defendants from revival of barred claims.
+In sum, the remedial purposes of Sarbanes-Oxley, as well as the specific
+reasons for enacting Section 804, support a broad remedial interpretation of the
+new limitations period to allow revival of barred claims. Given that Section 804
+-26-
+
+arose from Congress’s concern about the investors who lost so much money in the
+Enron and WorldCom frauds, among others, interpreting Section 804 in a manner
+that would allow these very same investors to recover some of their losses is
+consistent with the remedial purpose of Section 804, and Sarbanes-Oxley as a
+whole.
+D.
+
+Section 804(c) of Sarbanes-Oxley Is Irrelevant to the Question Whether
+Section 804(b) Revives Barred Claims.
+The district court concluded that Section 804(c), which states that “nothing
+
+in this section shall create a new, private right of action,” precludes revival of
+claims that had expired prior to enactment because revival would create a new
+right of action where none existed. The district court quoted the language of
+Section 804(c) as though Section 804(b) contained not only the effective date
+provision but also included the Section 804(c) language about no new private right
+of action, and failed to recognize that this latter language was contained in its own
+separate subdivision. Id.
+The district court was mistaken as to the meaning of Section 804(c), which
+was intended to address an entirely different issue. Section 804(a) makes the new
+statute of limitations applicable to claims of “fraud, deceit, manipulation, or
+contrivance in contravention of a regulatory requirement concerning the securities
+
+-27-
+
+laws,” instead of specifying the particular securities provisions to which it applies.
+According to the legislative history, Section 804(c) was necessary to make it clear
+that Section 804(a) “was not meant to create any new private cause of action, but
+only to govern all the already existing private causes of action under the various
+federal securities laws that have been held to support private causes of action.”
+148 Cong. Rec. S7418, Legislative History of Title VIII of H.R. 2673: The
+Sarbanes-Oxley Act of 2002 (July 26, 2002). “Private right of action” was thus
+being used in accordance with its well-understood meaning in the securities laws:
+those private rights of action either that Congress has expressly enacted or that
+courts have implied. See, e.g., Touche Ross & Co. v. Redington, 442 U.S. 560,
+568-69 (1979) (discussing “private rights of action” in terms of whether Congress
+has created “federal rights in favor of private parties.”). There is no support for
+the district court’s determination that Section 804(c) was intended to preclude
+revival of a particular plaintiff’s claim. Moreover, the fact that Section 804(b) and
+(c) were set forth in separate provisions, and not in the same provision as the
+district court mistakenly believed, undermines the court’s conclusion that (c)
+somehow bears on the interpretation of (b).
+
+-28-
+
+CONCLUSION
+For the foregoing reasons, the Court should hold that Section 804 applies to
+all actions filed on or after enactment, regardless of whether the actions were
+barred before enactment.
+Respectfully submitted,
+
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+HOPE HALL AUGUSTINI
+Senior Litigation Counsel
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+DOMINICK V. FREDA
+Attorney
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C. 20549-0606
+(202) 942-0912 (Augustini)
+
+AUGUST 2004
+
+-29-
+
+CERTIFICATE OF COMPLIANCE
+This brief complies with the type-volume limitation of Fed. R. App. P.
+32(a)(7)(B) because this brief contains 6,873 words, excluding the parts exempted
+by Fed. R. App. P. 32(a)(7)(B)(iii).
+This brief complies with the typeface requirements of Fed. R. App. P.
+32(a)(5) and the type style requirements of Fed. R. App. P. 32(a)(6) because this
+brief has been prepared in a proportionally spaced typeface using Word Perfect in
+14-Point Times New Roman.
+______________________________
+Dominick V. Freda
+Securities and Exchange Commission
+
+CERTIFICATE OF SERVICE
+I certify that on August 30, 2004, I caused to be served copies of the
+foregoing Brief of the Securities and Exchange Commission, amicus curiae, on the
+Clerk of the United States Court of Appeals for the Second Circuit and on the
+following counsel for the parties:
+
+S. ROBERT SCHRAGER
+Bondy & Schloss, LLP
+60 East 42nd Street
+New York, New York 10165
+(212) 661-3535
+
+MARK HOLLAND
+Clifford Chance US LLP
+200 Park Avenue
+New York, New York 10166
+(212) 878-8000
+
+Attorney for Plaintiff-Appellant
+
+Attorney for Defendant-Appellee
+______________________________
+Dominick V. Freda
+Securities and Exchange Commission
+
+

@@ -1,0 +1,2123 @@
+SECURITIES AND EXCHANGE COMMISSION
+Release No. 34-75165; File No. S7-11-15
+Request for Comment on Exchange-Traded Products
+AGENCY: Securities and Exchange Commission.
+ACTION: Request for comment.
+SUMMARY: The Securities and Exchange Commission (“Commission”) is seeking public
+comment on topics related to the listing and trading of exchange-traded products on national
+securities exchanges and sales of these products by broker-dealers.
+DATES: Comments should be received by August 17, 2015.
+
+ADDRESSES: Comments may be submitted by any of the following methods:
+Electronic comments:
+•
+
+Use the Commission’s Internet comment form (http://www.sec.gov/rules/other.shtml);
+
+•
+
+Send an e-mail to rule-comments@sec.gov, including File Number S7-11-15 on the subject
+line; or
+
+•
+
+Use the Federal eRulemaking Portal (http://www.regulations.gov), following the instructions
+for submitting comments.
+
+Paper comments:
+•
+
+Send paper comments to Secretary, Securities and Exchange Commission, 100 F Street, NE,
+Washington, DC, 20549-1090.
+
+All submissions should refer to File Number S7-11-15. This file number should be included on
+the subject line if e-mail is used. To help the Commission process and review your comments
+more efficiently, please use only one method of submission. The Commission will post all
+
+comments on the Commission’s website (http://www.sec.gov). Comments are also available for
+website viewing and printing in the Commission’s Public Reference Room, 100 F Street, NE,
+Washington, DC, 20549, on official business days between the hours of 10:00 a.m. and 3:00 p.m.
+All comments received will be posted without change; the Commission does not edit personal
+identifying information from submissions. You should submit only information that you wish to
+make publicly available.
+FOR FURTHER INFORMATION CONTACT: Edward Cho, Special Counsel, at (202)
+551-5508; Christopher Chow, Special Counsel, at (202) 551-5622; or Sarah Schandler, Special
+Counsel, at (202) 551-7145, Division of Trading and Markets, Securities and Exchange
+Commission, 100 F Street, NE, Washington, DC, 20549-7010.
+TABLE OF CONTENTS
+DISCUSSION ......................................................................................................................... 3
+
+I.
+A.
+
+Introduction ...................................................................................................................... 3
+
+B.
+
+The Types of ETPs........................................................................................................... 6
+
+C.
+
+How Existing ETPs Function ........................................................................................ 10
+1.
+
+Purchases, Sales, Creations, and Redemptions........................................................... 10
+
+2.
+
+Arbitrage Between an ETP’s Market Price and its NAV ........................................... 12
+
+D.
+
+II.
+
+The Commission’s Oversight of Exchange-Traded Products ........................................ 15
+1.
+
+Exchange Act Exemptive and No-Action Relief for Existing ETPs .......................... 16
+
+2.
+
+Exchange Listing Standards and the Rule 19b-4 Process........................................... 26
+
+3.
+
+Broker-Dealer Sales Practices .................................................................................... 31
+
+REQUEST FOR COMMENT .............................................................................................. 32
+A.
+
+Arbitrage and Market Pricing ........................................................................................ 34
+
+B.
+
+Exchange Act Exemptions and No-Action Positions .................................................... 40
+
+C.
+
+Exchange Listing Standards ........................................................................................... 43
+
+D.
+
+Broker-Dealer Sales Practices and Investor Understanding and Use of ETPs .............. 45
+
+E.
+
+Other .............................................................................................................................. 49
+
+2
+
+I.
+
+DISCUSSION
+A.
+
+Introduction
+
+Exchange-traded products (“ETPs”) constitute a diverse class of financial products that
+seek to provide investors with exposure to financial instruments, financial benchmarks, or
+investment strategies across a wide range of asset classes. ETP trading occurs on national
+securities exchanges and other secondary markets that are regulated by the Commission under
+the Securities Exchange Act of 1934 (“Exchange Act”), 1 making ETPs widely available to
+market participants, from individual investors to institutional investors, including hedge funds
+and pension funds.
+The Commission approved the listing and trading of shares of the first ETP—the SPDR
+S&P 500 ETF (“SPY”)—in 1992. 2 Since the SPY began trading on January 22, 1993, there has
+been enormous growth in the number, aggregate market capitalization, and variety of ETPs. The
+chart below depicts the growth of ETPs, both in number and market capitalization, since 1993.
+As reflected in Figure 1 (below), from 2006 to 2013, the total number of ETPs listed and
+traded as of year end rose by an average of 160 per year, with a net increase of more than 200 in
+both 2007 and 2011. By comparison, from 1993 to 2005, the total number of ETPs listed and
+traded as of year end rose by an average of just 17 per year, with a net increase of 60 in 2000.
+The total market capitalization of ETPs has also grown substantially, nearly doubling since the
+end of 2009. Much of this growth has been in index-based ETPs.
+
+1
+
+15 U.S.C. 78a et seq. Once listed on a national securities exchange, ETP shares also can be traded on
+Alternative Trading Systems (as defined in Rule 300 of Regulation ATS, 17 CFR 242.300) or in other over-thecounter transactions.
+2
+
+See Securities Exchange Act Release No. 31591 (Dec. 11, 1992), 57 FR 60253 (Dec. 18, 1992) (SR-Amex92-18) (order approving the adoption of listing standards for Portfolio Depositary Receipts and the listing and
+trading of shares of SPY pursuant to those listing standards).
+
+3
+
+Figure 1: Aggregate Market Capitalization and Number of ETPs, 1993–2014 3
+
+2,500
+
+1,800
+1,600
+
+Number of ETPs
+
+1,200
+1,500
+
+1,000
+800
+
+1,000
+
+600
+400
+
+Market Cap in $ Billions
+
+2,000
+
+1,400
+
+500
+
+200
+0
+
+Number of ETPs
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+1999
+
+1998
+
+1997
+
+1996
+
+1995
+
+1994
+
+1993
+
+0
+
+Market Cap as of Last Trading Day
+
+As of December 31, 2014, there were 1,664 U.S.-listed ETPs, and they had an aggregate
+market capitalization of just over $2 trillion. 4 Trading in these ETPs makes up a significant
+portion of secondary-market equities trading. For example, during 2014, trading in U.S.-listed
+
+3
+
+The figures underlying this chart were produced by an analysis by Commission staff of year-end market
+data obtained through subscriptions to Morningstar Direct and Bloomberg Professional services.
+
+4
+
+These figures reflect an analysis by Commission staff of market data obtained through subscriptions to
+Morningstar Direct and Bloomberg Professional services.
+
+4
+
+ETPs made up about 16.7% of U.S. equity trading by share volume and 25.7% of U.S. equity
+trading by dollar volume. 5
+There has also been significant growth in the range of investment strategies that ETPs
+pursue. These strategies have expanded from exchange-traded funds (“ETFs”) that track equity
+indices (such as the original SPY) to include, among other things: (i) ETPs that track other types
+of indices (such as those based on fixed-income securities or on derivatives contracts on
+commodities and currencies); (ii) actively managed ETPs that hold portfolios of equities, fixedincome instruments, foreign securities, commodities, currencies, futures, options, or other overthe-counter or exchange-traded derivatives; 6 (iii) leveraged, inverse, and inverse leveraged
+ETPs; 7 and (iv) ETPs employing market volatility, hedging, or options-based strategies. 8
+5
+
+These figures reflect an analysis by Commission staff of market data obtained through the Commission’s
+Market Information Data and Analytics System (“MIDAS”). The staff’s analysis of MIDAS data also shows that
+approximately 32.4% of the trading activity (by share volume) in ETPs during 2014 took place on trading venues
+other than national securities exchanges, which is roughly comparable to the approximately 35.2% of share volume
+in all equity trading that took place off an exchange in 2014.
+
+6
+
+See, e.g., Securities Exchange Act Release Nos. 50603 (Oct. 28, 2004), 69 FR 64614 (Nov. 5, 2004) (SRNYSE-2004-22) (order approving the adoption of listing standards for Equity Gold Shares and the listing and
+trading of shares of the streetTRACKS Gold Trust, which was subsequently renamed the SPDR Gold Trust); 60064
+(June 8, 2009), 74 FR 28315 (June 15, 2009) (SR-NYSEArca-2009-30) (order granting approval for the listing and
+trading of shares of the iShares Diversified Alternatives Trust); 68390 (Dec. 10, 2012), 77 FR 74540 (Dec. 14, 2012)
+(SR-BATS-2012-042) (order granting approval for the listing and trading of shares of the Sovereign Screened
+Global Bond Fund); 68871 (Feb. 8, 2013), 78 FR 11238 (Feb. 15, 2013) (SR-NYSEArca-2012-138) (order granting
+approval for the listing and trading of shares of the PIMCO Foreign Currency Strategy Exchange-Traded Fund);
+68972 (Feb. 22, 2013), 78 FR 13721 (Feb. 28, 2013) (SR-NASDAQ-2012-147) (order granting approval for the
+listing and trading of shares of the First Trust High Yield Long/Short ETF); 70209 (Aug. 15, 2013), 78 FR 51769
+(Aug. 21, 2013) (SR-NYSEArca-2013-60) (order granting approval to list and trade shares of the Market Vectors
+Low Volatility Commodity ETF and Market Vectors Long/Short Commodity ETF); and 71378 (Jan. 23, 2014), 79
+FR 4786 (Jan. 29, 2014) (SR-NYSEArca-2013-137) (order granting approval to list and trade shares of the Merk
+Gold Trust).
+7
+
+Leveraged ETPs seek to achieve performance results, over a specified period, that are a multiple or an
+inverse multiple of the performance of the index or benchmark they track. Inverse ETPs (also called “short” funds)
+seek to deliver the opposite of the performance of the index or benchmark they track. Like traditional ETPs, some
+leveraged and inverse ETPs track broad indices, some are sector-specific, and others are linked to commodities,
+currencies, or some other benchmark. See U.S. Securities and Exchange Commission, Leveraged and Inverse ETFs:
+Specialized Products with Extra Risks for Buy-and-Hold Investors, available at
+http://www.sec.gov/investor/pubs/leveragedetfs-alert.htm; see also Securities Exchange Act Release No. 52553
+(Oct. 3, 2005), 70 FR 59100 (Oct. 11, 2005) (SR-Amex-2004-62) (order granting approval for the adoption of listing
+standards to accommodate leveraged ETFs and for the listing and trading of shares of the xtraShares Trust).
+
+5
+
+The increasing scope and complexity of ETP investment strategies in recent years have
+led to an increase in the number and complexity of requests by issuers for exemptive relief under
+the Exchange Act (to allow ETPs to be offered for sale on exchanges) and in the number and
+complexity of proposed rule changes filed with the Commission by exchanges seeking to
+establish listing standards for the securities of new ETPs. Accordingly, the Commission believes
+that this is an opportune time to seek public comment on topics associated with its oversight of
+the listing and trading of ETPs on national securities exchanges. 9
+B.
+
+The Types of ETPs
+
+Although ETPs constitute a diverse class of financial products, for purposes of this
+Request for Comment they are classified into three broad categories. 10
+Exchange-Traded Funds (ETFs)
+The first, and largest, category comprises ETFs, which are open-end fund vehicles or unit
+investment trusts that are registered as investment companies under the Investment Company Act
+8
+
+For example, recent ETPs have included an ETF that seeks to track the performance of the CBOE S&P 500
+VIX Tail Hedge Index, see Securities Exchange Act Release No. 67485 (July 23, 2012), 77 FR 44291 (July 27,
+2012) (SR-NYSEArca-2012-50); an ETF that writes covered call options on underlying ETPs that it owns, see
+Securities Exchange Act Release No. 67552 (Aug. 1, 2012), 77 FR 47131 (Aug. 7, 2012) (SR-NYSEArca-2012-55);
+an ETF that holds long and short positions in underlying ETFs and ETNs, see Securities Exchange Act Release
+No. 67559 (Aug. 1, 2012), 77 FR 47482 (Aug. 8, 2012) (SR-NYSEArca-2012-57); an ETF that holds a portfolio
+including equities, equity futures, and volatility-related instruments, see Securities Exchange Act Release No. 68158
+(Nov. 5, 2012), 77 FR 67412 (Nov. 9, 2012) (SR-NYSEArca-2012-101); and an ETF that seeks to track the
+performance of an index of over-the-counter put options on volatile stocks, see Securities Exchange Act Release
+No. 69373 (Apr. 15, 2013), 78 FR 23601 (Apr. 19, 2013) (SR-NYSEArca-2012-108).
+9
+
+The Commission has previously sought comment on topics related to exchange-traded funds, most recently
+in 2008. See Exchange-Traded Funds, Investment Company Act Release No. 28193 (Mar. 11, 2008), 73 FR 14618
+(Mar. 18, 2008) (proposed rule), available at http://www.sec.gov/rules/proposed/2008/33-8901.pdf. The
+Commission has not adopted the rule that was proposed in the 2008 release.
+10
+
+Recently, the Commission approved an exchange proposal to adopt rules that provide for the listing and
+trading of Exchange-Traded Managed Fund Shares (“ETMFs”), which would operate differently from existing
+ETPs. See Securities Exchange Act Release No. 73562 (Nov. 7, 2014), 79 FR 68309 (Nov. 14, 2014) (SRNASDAQ-2014-020) (Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a
+Proposed Rule Change, as Modified by Amendment No. 1 thereto, Relating to the Listing and Trading of ExchangeTraded Managed Fund Shares) (“ETMF Approval Order”). No ETMFs are currently listed or traded on an exchange,
+and this Request for Comment does not therefore address their listing and trading.
+
+6
+
+of 1940 (“1940 Act”). 11 Like an open-end fund, an ETF pools the assets of multiple investors
+and invests those assets according to its investment objective and principal investment strategies,
+and each share of an ETF represents an undivided interest in the underlying assets of the ETF.
+However, unlike open-end funds—shares of which are purchased or redeemed at the fund’s
+current net asset value (“NAV”), 12 which is typically calculated at the end of the trading day—
+ETF shares may be bought or sold by investors throughout the day through a broker-dealer at a
+market-determined price. 13
+Non-1940 Act Pooled Investment Vehicles
+The second category comprises ETPs that, generally, are trust or partnership vehicles that
+are not registered under the 1940 Act because they do not invest primarily in securities.
+Examples of ETPs in this category include those that physically hold a precious metal or that
+hold a portfolio of futures or other derivatives contracts on certain commodities or currencies.
+Offerings of securities issued by ETPs in this second category are registered only under the
+Securities Act of 1933 (“Securities Act”) 14 and are not also registered under the 1940 Act.
+Exchange-Traded Notes (ETNs)
+The third category comprises exchange-traded notes (“ETNs”). ETNs are senior debt
+instruments issued by financial institutions, and they pay a return based on the performance of a
+
+11
+
+15 U.S.C. 80a-1 et seq.
+
+12
+
+The NAV of an investment company is the net value of all the assets and liabilities in the investment
+company’s portfolio divided by the number of the shares issued by the investment company.
+
+13
+
+Closed-end funds are also registered 1940 Act investment companies that issue securities that are traded on
+an exchange, and they may pursue investment strategies similar to those of ETFs. The trading of closed-end funds
+differs from that of ETFs, however, in that closed-end funds do not operate with the creation and redemption
+mechanism that, as described below, helps to keep an ETF’s market price closely tied to the value of the assets it
+holds. See infra at Section I.C.
+14
+
+15 U.S.C. 77a et seq.
+
+7
+
+“reference asset”—an asset, market benchmark, or other investment strategy, such as the return
+on the S&P 500 Index, the performance of commodities or commodity indices, or the
+performance of the common stock of an individual public company. Unlike the other two
+categories of ETPs described above, ETNs are not pooled vehicles, and they do not hold an
+underlying portfolio of securities, futures, over-the-counter derivatives, or other assets. Offerings
+of ETNs are registered under the Securities Act, and the performance of the reference assets
+generally determines the amount owed by the issuer of the ETN to the holder of the ETN at
+maturity.
+Market Statistics
+To provide a general overview of the distribution of market capitalization and trading
+volume across broad categories of ETPs, the table below shows the number of ETP products (by
+underlying or reference asset and by type of ETP), their aggregate market capitalization, and the
+total value traded as of year end 2014.
+
+8
+
+ETPs by Underlying or Reference Asset Type, as of Year End 2014 15
+Underlying or Reference Asset or
+Strategy
+Asset Allocation
+ETF
+ETN
+Alternative Strategies
+ETF
+Non-1940 Act Pooled
+Investment Vehicles
+ETN
+Commodities
+ETF
+1940 Act Pooled Investment
+Vehicles
+ETN
+International Equity
+ETF
+ETN
+Municipal Bond
+ETF
+Sector Equity
+ETF
+ETN
+Taxable Bond
+ETF
+ETN
+U.S. Equity
+ETF
+ETN
+Grand Total
+
+$7,435
+$7,402
+$33
+$42,985
+$31,865
+
+Total Value
+Traded In 2014
+(Millions)
+$14,380
+$14,344
+$36
+$1,952,802
+$1,296,485
+
+$4,727
+
+$142,465
+
+$6,392
+$55,366
+$213
+
+$513,852
+$406,728
+$810
+
+$50,880
+
+$390,213
+
+$4,273
+$380,023
+$376,941
+$3,082
+$14,273
+$14,273
+$304,588
+$293,673
+$10,915
+$290,245
+$290,219
+$26
+$909,677
+$907,557
+$2,119
+$2,004,591
+
+$15,705
+$2,497,521
+$2,495,865
+$1,657
+$20,186
+$20,186
+$2,782,522
+$2,764,385
+$18,137
+$1,000,086
+$1,000,037
+$49
+$8,581,038
+$8,579,330
+$1,707
+$17,255,263
+
+Total Market Cap
+(Millions)
+
+Number
+36
+34
+2
+330
+209
+25
+96
+118
+7
+38
+73
+367
+361
+6
+32
+32
+297
+281
+16
+217
+214
+3
+267
+252
+15
+1,664
+
+15
+
+These figures reflect an analysis by Commission staff of market data obtained through subscriptions to
+Morningstar Direct and Bloomberg Professional services. Figures are as of the last trading day of 2014.
+
+9
+
+C.
+
+How Existing ETPs Function
+1.
+
+Purchases, Sales, Creations, and Redemptions
+
+Most investors in an ETP buy and sell the ETP’s securities in the secondary market, at a
+market-determined price, with other market participants, including other investors, brokerdealers, and market makers, on the other side of the transaction. The ETP securities that are
+listed for trading on an exchange (“ETP Securities”) are either (i) shares issued by the ETP or
+(ii) in the case of ETNs (which are, as noted above, debt instruments issued by a financial
+institution), the debt instruments themselves.
+Although most investors can buy or sell ETP Securities only in the secondary market
+through a broker-dealer, certain large market participants, typically broker-dealers, can become
+authorized participants (“Authorized Participants”) with respect to most ETPs. 16 Each
+Authorized Participant enters into a contractual relationship with the ETP issuer that allows it to
+engage in purchases and redemptions of ETP Securities directly with that issuer.
+For almost all ETPs, 17 the issuance and redemption of ETP Securities operates in
+essentially the same manner. 18 ETPs generally issue ETP Securities only in large aggregations or
+blocks (for example, 50,000 ETP shares) called creation units (“Creation Units”). Most ETPs are
+structured so that an Authorized Participant will purchase a Creation Unit with a portfolio
+deposit (“Portfolio Deposit”), which is a basket of assets (and sometimes cash) that generally
+16
+
+ETNs, as credit instruments issued by a financial institution, do not have Authorized Participants.
+
+17
+
+ETNs may or may not be redeemable, and they employ different calculations and procedures to issue and
+redeem ETN units based on the value or performance of the underlying reference asset or benchmark. The issuance
+and redemption process for ETNs is generally performed by institutional investors, as issuers require issuance or
+redemption to occur in large blocks of ETNs (e.g., 25,000 to 50,000 ETNs). ETNs are issued and redeemed (where
+redeemable) solely for cash.
+
+18
+
+Some ETPs, however, do not permit regular creations after the initial public offering of the ETP, allowing
+only ETP redemptions. See, e.g., Securities Exchange Act Release No. 66930 (May 7, 2012), 77 FR 27817 (May 11,
+2012) (SR-NYSEArca 2012-18) (APMEX Physical–1 oz. Gold Redeemable Trust).
+
+10
+
+reflects the composition of the ETP’s portfolio. 19 The ETP makes public the contents of the
+Portfolio Deposit before the beginning of the trading day. 20 Because the purchase price of a
+Creation Unit and its aggregate NAV must be equal, an amount of cash will be exchanged
+between the Authorized Participant and the ETP at the time of purchase when necessary to
+balance the value of the Portfolio Deposit with that of the Creation Unit. After purchasing a
+Creation Unit, an Authorized Participant may hold the ETP Securities or sell (or lend) some or
+all of them to investors in the secondary market.
+Similarly, for most ETPs, when an Authorized Participant wishes to redeem ETP
+Securities, it presents a Creation Unit to the ETP for redemption and receives in return a
+redemption basket (“Redemption Basket”), the contents of which are made public by the ETP
+before the beginning of the trading day. The Redemption Basket (which is usually, but not
+always, the same as the Portfolio Deposit) typically consists of securities or commodities and a
+small amount of cash. 21 As with purchases from the ETP, redemptions to the ETP are priced at
+NAV, 22 and an amount of cash will be exchanged when necessary to balance the value of the
+Redemption Basket with that of the Creation Unit.
+When creation and redemption transactions occur wholly or partly “in kind”—in other
+words, when securities constituting the ETP’s portfolio are exchanged for ETP Securities and
+vice versa—certain benefits can accrue to the ETP and its investors. In-kind exchanges generally
+19
+
+Some issuers may allow or require Creation Units to be created for cash only.
+
+20
+
+In most cases, ETPs publish the contents of their Portfolio Deposit through the National Securities Clearing
+Corporation (“NSCC”). The NSCC provides its members with several methods to access this information. See
+http://www.dtcc.com/clearing-services/equities-trade-capture/etf.aspx.
+21
+
+Some issuers may allow or require cash-only Redemption Baskets.
+
+22
+
+Certain ETPs that hold physical commodities and are not ETFs redeem Creation Units, at the Authorized
+Participant’s option, either for commodities with a value equal to the NAV of the Creation Unit or for cash at less
+than the NAV of the Creation Unit. See, e.g., Securities Exchange Act Release No. 66930, supra note 18.
+
+11
+
+result in lower trading expenses (because securities received or delivered in kind do not need to
+be purchased or sold in the market by the ETP, thus avoiding brokerage fees) and lower taxable
+gains to shareholders (because appreciated securities are not sold but are delivered in kind to
+redeeming Authorized Participants).
+2.
+
+Arbitrage Between an ETP’s Market Price and its NAV
+
+Because of the creation and redemption mechanisms, most existing ETPs present market
+participants, including Authorized Participants, market makers, and institutional investors, with
+opportunities to engage in arbitrage, which generally helps to prevent the market price of ETP
+Securities from diverging significantly from the value of the ETP’s underlying or reference
+assets. 23 Although most ETPs calculate and disseminate their official NAV only once per day as
+of the close of regular trading hours, market participants can use other methods during the
+trading day to calculate or approximate the value of the assets underlying or referenced by a
+share of an ETP. 24
+For example, exchange listing standards require every currently traded, actively managed
+ETP to make daily disclosure of its entire portfolio. 25 Current exchange listing standards do not
+require similar disclosures for index-based ETPs, but the make-up and value of the underlying
+indices are widely available, and most index-based ETPs, as a matter of practice, make daily
+disclosure of their portfolios. With this information, market participants can access pricing data
+23
+
+Arbitrage for ETNs may operate differently from that for other existing ETPs, because the in-kind creation
+and redemption process for most ETPs differs from the cash-only issuance and redemption process for ETNs. The
+Commission seeks comment on the operation of arbitrage for ETNs. See infra at Section II.A (Question 8).
+
+24
+
+ETNs do not calculate a NAV because they do not hold an underlying portfolio of assets. See supra Section
+I.B. See also infra note 26.
+25
+
+See, e.g., NYSE Arca Equities Rule 8.600(d)(2)(B)(i). An actively managed ETP does not seek to track the
+return of a particular securities index. Instead, an actively managed ETP’s investment adviser selects investments
+designed to meet a particular investment objective or policy.
+
+12
+
+about an ETP’s portfolio assets and perform their own calculations of the per-share value of that
+portfolio.
+In addition, exchange listing standards require existing ETPs to publicly disseminate
+during the trading day an intraday indicative value (“IIV”), which is designed to provide
+investors with information on the value of the investments held by the ETP (or, in the case of an
+ETN, the reference assets). 26 The IIV is typically calculated and disseminated at least every 15
+seconds during the trading day and is typically disseminated over the Consolidated Tape or via
+an exchange data feed. The IIV may or may not be based on the entire portfolio held by an ETP,
+and it may or may not be equal to the per-share value of an ETP’s underlying portfolio or
+reference assets. 27
+A simplified example of “riskless” arbitrage will help to clarify how the arbitrage process
+for existing ETPs is intended to work. If the shares of an ETP that uses an in-kind creation and
+redemption process begin to trade at a discount to the value of the underlying portfolio at any
+point during the trading day, arbitrageurs can capture this difference (minus expenses) by:
+(i) purchasing ETP Securities in the secondary market in an amount equal to a Creation Unit
+26
+
+See, e.g., NYSE Arca Equities Rule 5.2(j)(3), Commentary .01(c). The IIV is also referred to as an
+“Indicative Optimized Portfolio Value,” “Intraday Value,” or “Portfolio Indicative Value.” Most ETN issuers also
+make publicly available on their websites or through third-party vendors a value called the closing indicative value,
+which is determined as of the close of each trading day. The closing indicative value, in contrast to the intraday
+indicative value, represents the value of the ETN at that point in time and is used to calculate the amounts due to
+investors at maturity or on redemption.
+27
+
+For example, the IIV for some ETPs is based on the current value of the securities or cash required to be
+deposited in exchange for a creation unit, which may differ from the composition of portfolio holdings on any given
+day. See, e.g., Securities Exchange Act Release No. 67320 (June 29, 2012), 77 FR 39763 (July 5, 2012) (SRNYSEArca-2012-44) (order granting approval for the listing and trading of shares of the iShares Strategic Beta U.S.
+Large Cap Fund and iShares Strategic Beta U.S. Small Cap Fund). The IIV for certain other ETPs is based on the
+current value of some, but not all, assets held in the investment portfolio. See, e.g., Securities Exchange Act Release
+No. 61881 (Apr. 9, 2010), 75 FR 20028 (Apr. 16, 2010) (SR-NYSEArca-2010-14) (order granting approval to list
+and trade partnership units of the United States Brent Oil Fund, LP, a commodity pool that seeks to track changes in
+Brent crude oil futures traded on the ICE Futures Exchange and that calculates and disseminates an IIV based solely
+on these futures contracts, excluding other crude-oil-related investments held in the portfolio).
+
+13
+
+while simultaneously selling short the securities or commodities in the Redemption Basket;
+(ii) redeeming the Creation Unit with the ETP at the end-of-day NAV (either as an Authorized
+Participant or through a relationship with an Authorized Participant), thereby receiving the
+securities or commodities in the Redemption Basket; and (iii) using the contents of the
+Redemption Basket to close out the arbitrageur’s short position. Purchasing the ETP Securities
+and selling short the securities or commodities in the Redemption Basket also apply market
+pressure that tends, all other things being equal, to bring the ETP Security’s market price closer
+to the value of the underlying portfolio assets.
+Similarly, if the shares of this same ETP begin to trade at a premium to the value of the
+underlying portfolio, arbitrageurs may profit by: (i) selling short the ETP Securities;
+(ii) purchasing the securities or commodities that make up the Portfolio Deposit; (iii) exchanging
+the Portfolio Deposit for a Creation Unit through an Authorized Participant; and then (iv) using
+the ETP Securities in the Creation Unit to close out the short position. Again, the sales of the
+ETP Securities and the purchases of the contents of the Portfolio Deposit apply market pressure
+that tends, all other things being equal, to bring the price of the ETP Securities closer to the value
+of the underlying portfolio assets.
+Market participants can also engage in arbitrage activities that do not necessarily require
+them to engage in creations or redemptions. For example, if a market participant believes that an
+ETP is overvalued relative to its underlying or reference assets, the market participant may sell
+ETP Securities; buy the underlying or reference assets; and, if the trading prices move toward
+parity, close out the positions in both the ETP Securities and the underlying or reference assets.
+The market participant would thereby realize a profit from the relative movement of those
+trading prices without engaging in an ETP creation. Similarly, a market participant could buy
+
+14
+
+ETP Securities and sell the underlying or reference assets in an attempt to profit when an ETP
+Security is trading at a discount to its underlying or reference assets. As discussed above, the
+trading of an ETP Security and its underlying or reference assets applies market pressure that
+may bring the prices of the ETP Security and those assets closer together.
+D.
+
+The Commission’s Oversight of Exchange-Traded Products 28
+
+Before ETP Securities can be listed and traded on a national securities exchange, those
+securities and their issuer must comply with, or obtain exemptions from, several provisions of
+the securities laws. First, as with other securities, the offer and sale of ETP Securities must be
+registered under the Securities Act. 29 In addition, in the case of ETFs, certain relief from the
+requirements of the 1940 Act is necessary, 30 because ETFs differ from other open-end
+
+28
+
+In addition to the exemptive or no-action relief provided with respect to the Exchange Act rules and
+regulations described infra, in 1998 and 1999 the Commission’s staff provided no-action relief under Section 13(d)
+of the Exchange Act, 15 U.S.C. 78m(d), and Section 16(a) of the Exchange Act, 15 U.S.C. 78p(a), to certain funds
+registered under the 1940 Act with respect to the required filing of ownership reports by insiders and five percent
+beneficial owners of the shares of the ETFs. See Letter from James J. Moloney, Division of Corporation Finance,
+and Evan Geldzahler, Division of Investment Management, Securities and Exchange Commission, to Sam Scott
+Miller, Orrick, Herrington & Sutcliffe LLP, 1998 SEC No.-Act. LEXIS 1050 (Dec. 14, 1998) (providing no-action
+relief under Section 13(d) of the Exchange Act); Letter from Anne M. Krauskopf, Division of Corporation Finance,
+and Evan Geldzahler, Division of Investment Management, Securities and Exchange Commission, to Stuart M.
+Strauss, Gordon, Altman, Butowsky, Weitzen, Shalov & Wein, 1999 SEC No-Act. LEXIS 500 (May 6, 1999)
+(“Select Sector SPDR Trust Letter”) (providing no-action relief under Section 16(a) of the Exchange Act). This noaction relief was based, in large part, on the representation that the trading prices of the ETFs did not deviate
+materially from their NAV. See id. Having stated its views on whether insiders and five percent beneficial owners of
+ETPs must file ownership reports under Sections 16(a) and 13(d) of the Exchange Act, the Division staff stated that
+it would not respond to further requests for no-action relief in this area unless the request presented a “novel or
+unusual issue.” See Select Sector SPDR Trust Letter, 1999 SEC No-Act. LEXIS 500, *9.
+29
+
+For ETPs that are not registered under the 1940 Act, offerings of ETP Securities require the filing of a
+registration statement on Form S-1 or Form S-3, depending on the issuer. Depending on the form type used to
+register the offering, the staff of the Division of Corporation Finance may review the disclosures included in the
+registration statement and may issue comments. ETN offerings in many cases are made through takedowns off of
+effective shelf registration statements. For ETFs registered under the 1940 Act, offerings require the filing of a
+registration statement on Form N-1A. The staff of the Division of Investment Management reviews the information
+disclosed in the Form N-1A and may issue comments requesting that the issuer revise or expand its disclosures
+before the registration statement becomes effective.
+30
+
+For an ETF to operate, it must first obtain an order under Section 6(c) of the 1940 Act for an exemption
+from Sections 2(a)(32), 5(a)(1), 22(d), and 22(e) of the 1940 Act and from Rule 22c-1 thereunder, and under
+Sections 6(c) and 17(b) for an exemption from Sections 17(a)(1) and 17(a)(2) of the 1940 Act.
+
+15
+
+investment companies in that they issue and redeem shares only in Creation Units and their
+shares trade in the secondary market at market prices.
+While ETPs are governed by various provisions of the securities laws, including the
+Securities Act and, in certain cases, the 1940 Act, the focus of this Request for Comment is on
+the listing of ETP Securities on an exchange and the trading of ETP Securities on exchanges and
+other venues. Therefore, in issuing this Request for Comment, the Commission seeks public
+comment relating specifically to the oversight of ETPs under the provisions of the Exchange Act
+and the rules thereunder, including both (i) the exemptive and no-action relief granted to ETPs
+under the Exchange Act and (ii) the requirement that a national securities exchange have
+Commission-approved listing standards applicable to the ETP Securities being traded.
+1.
+
+Exchange Act Exemptive and No-Action Relief for Existing ETPs
+
+The trading of ETP Securities on an exchange generally will require that the issuer obtain
+exemptive or no-action relief from various provisions of, or rules promulgated under, the
+Exchange Act. As explained more fully below, the normal operation of an ETP would usually
+violate these provisions absent relief.
+a. Regulation M
+Regulation M proscribes certain activities that may increase a security's offering price
+(and so increase the offering proceeds); stabilize the market price of an offered security in order
+to avoid a price decline during the sales period or in the immediate aftermarket; or induce or
+attempt to induce prospective investors to buy in the aftermarket. 31 Rules 101 and 102 of
+Regulation M generally prohibit distribution participants, issuers, selling security holders, and
+
+31
+
+See Amendments to Regulation M: Anti-Manipulation Rules Concerning Securities Offerings, Securities
+Exchange Act Release No. 50831 (Dec. 9, 2004), 69 FR 75774 (Dec. 17, 2004) (S7-41-04) (proposed rule).
+
+16
+
+their affiliated purchasers from purchasing, bidding for, or attempting to induce others to
+purchase or bid for covered securities during the restricted period of a distribution of securities. 32
+Because most ETPs are in continuous distribution, meaning that they are continually creating and
+distributing new securities, this restricted period usually extends indefinitely. 33 Absent relief, the
+purchase of ETP Securities by an Authorized Participant (who would be considered a
+distribution participant), or by the issuer in the redemption process, would violate Rules 101 and
+102 of Regulation M.
+When it has granted relief with respect to Regulation M, the Commission has relied upon
+representations from ETPs that the continuing existence of effective and efficient arbitrage
+mechanisms help ensure that the secondary market price of ETP Securities does not vary
+substantially from the ETP’s NAV or underlying index value. 34 The relief is based in part on an
+ETP issuer’s representation that the continuing existence of effective and efficient arbitrage
+mechanisms makes it difficult to manipulate distributions of ETP Securities. Relief for classes of
+ETPs relies on similar bases. 35 The consideration of effective and efficient arbitrage mechanisms
+
+32
+
+17 CFR 242.101 and 242.102. See also 17 CFR 242.100 (defining “distribution participants,” “selling
+security holder,” “affiliated purchaser,” and other terms for purposes of Regulation M). In addition to being
+promulgated under the Exchange Act, Rules 101 and 102 of Regulation M are also promulgated under the Securities
+Act and under the 1940 Act. See Anti-Manipulation Rules Concerning Securities Offerings, Securities Exchange
+Act Release No. 38067 at n. 10 (Dec. 20, 1996), 62 FR 520, 521 n. 10 (Jan. 3, 1997) (S7-11-96).
+33
+
+See 17 CFR 242.100 (definition of “Restricted Period”).
+
+34
+
+See, e.g., Letter from W. John McGuire, Morgan, Lewis & Bockius LLP, to Josephine Tao, Division of
+Trading and Markets, Securities and Exchange Commission, re: AdvisorShares Trust Actively-Managed ETF
+WCM/BNY Mellon Focused Growth ADR (June 18, 2010) (representing that a close alignment between market
+price and NAV is expected for the relevant ETP due in part to an effective and efficient arbitrage mechanism),
+available at http://www.sec.gov/divisions/marketreg/mr-noaction/2010/advisorshares061810.pdf. See also Letter
+from Josephine Tao, Division of Trading and Markets, Securities and Exchange Commission, to W. John McGuire,
+Morgan, Lewis & Bockius LLP, re: AdvisorShares Trust Actively-Managed ETF WCM/BNY Mellon Focused
+Growth ADR (June 18, 2010), available at http://www.sec.gov/divisions/marketreg/mrnoaction/2010/advisorshares061810.pdf.
+35
+
+See Letter from James A. Brigagliano, Division of Trading and Markets, Securities and Exchange
+Commission, to Stuart M. Strauss, Clifford Chance US LLP, re: Class Relief for Exchange Traded Index Funds
+
+17
+
+for purposes of Regulation M, and the Commission’s overall consideration of ETPs, can take
+into account not only the end-of-day differences between an ETP Security’s closing market price
+and the ETP’s NAV, but also any intra-day premiums or discounts between the secondary
+market price of an ETP Security and the value of its underlying portfolio or reference assets.
+In granting relief, the Commission also has relied on representations by ETP issuers that
+the characteristics of their proposed ETPs will mitigate against the types of abuses that
+Regulation M is intended to address. 36 In the case of ETFs, for example, this includes
+representations that the shares are issued by an open-end investment company or unit investment
+trust registered with the Commission under the 1940 Act and that the index underlying an indexbased ETP has at least 20 different component securities to promote sufficient diversification. It
+also includes representations that those components have publicly available trade information, to
+facilitate the availability of sufficient information for arbitrage. 37
+b. Exchange Act Section 11(d)(1) and Rule 11d1-2
+Section 11(d)(1) of the Exchange Act generally prohibits a broker-dealer from extending
+or maintaining credit, or arranging for the extension or maintenance of credit, on shares of newissue securities if the broker-dealer participated in the distribution of the new-issue securities
+within the preceding 30 days. 38 The Commission’s view is that, because ETP Securities are
+distributed in a continuous manner, broker-dealers that sell these securities are thereby
+
+(Oct. 24, 2006) (“Equity Index-Based ETF Letter”) (noting that relief is only appropriate when the secondary market
+price of the ETF’s shares does not vary substantially from NAV), available at
+http://www.sec.gov/divisions/marketreg/mr-noaction/etifclassrelief102406-msr.pdf.
+36
+
+See supra note 31 and accompanying text.
+
+37
+
+See, e.g., Equity Index-based ETF Letter, supra note 35. Broadly speaking, ETP sponsors seeking relief
+make the same representations as those made by similar products that have previously been granted relief.
+38
+
+15 U.S.C. 78k(d)(1).
+
+18
+
+participating in the “distribution” of a new issue for purposes of Section 11(d)(1). 39 Further, if an
+ETF held a portfolio composed solely or largely of newly issued securities, there is a risk that
+Authorized Participants—rather than lending on, or arranging for lending on, the newly issued
+securities directly—could use the ETF structure to avoid the new-issue lending restriction.
+The Commission has granted ETP issuers exemptions from, and the staff has issued noaction positions regarding, Section 11(d)(1) in circumstances in which these evasion concerns
+are reduced because: (i) the portfolio is sufficiently diversified that evasion becomes
+impractical; 40 (ii) the portfolio is composed of securities that are not subject to Section 11(d)(1)
+(e.g., government securities); 41 or (iii) the portfolio is not composed of securities at all (e.g., the
+product is an ETP that invests in commodities). 42
+
+39
+
+See, e.g., Letter from Catherine McGuire, Division of Trading and Markets, Securities and Exchange
+Commission, to Securities Industry Association (Nov. 21, 2005), available at
+http://www.sec.gov/divisions/marketreg/mr-noaction/sia112105.htm.
+40
+
+See, e.g., Letter from Catherine McGuire, Division of Trading and Markets, Securities and Exchange
+Commission, to Securities Industry Association (Nov. 21, 2005) (conditionally exempting from Section 11(d)(1) an
+ETF that consists of a basket of twenty or more component securities, with no one component security constituting
+more than 25% of the total value of the ETF), available at http://www.sec.gov/divisions/marketreg/mrnoaction/sia112105.htm; Letter from Joseph Furey, Division of Trading and Markets, Securities and Exchange
+Commission, to W. John McGuire, Morgan, Lewis & Bockius LLP, re: AdvisorShares Madrona & Meidell ETFs
+(June 16, 2011) (“Madrona & Meidell Letter”) (providing conditional staff no-action relief to ETFs whose portfolios
+consist of other diversified ETFs), available at http://www.sec.gov/divisions/marketreg/mrnoaction/2011/advisorsharesmadrona061611.pdf.
+41
+
+See, e.g., Letter from James A. Brigagliano, Division of Market Regulation, Securities and Exchange
+Commission, to Richard F. Kadlick, Esq., Skadden, Arps, Slate, Meagher & Flom LLP, re: MACRO Securities
+Depositor, LLC (Dec. 22, 2006) (“MACRO Securities Depositor Letter”) (providing conditional staff no-action
+relief), available at http://www.sec.gov/divisions/marketreg/mr-noaction/macro122206-11d1.pdf.
+42
+
+See, e.g., Letter from James A. Brigagliano, Division of Market Regulation, Securities and Exchange
+Commission, to Michael Schmidtberger, Sidley Austin Brown & Wood LLP, re: DB Commodity Index Tracking
+Fund (Jan. 19, 2006) (“DB Commodity Index Tracking Fund Letter”) (providing conditional staff no-action relief),
+available at http://www.sec.gov/divisions/marketreg/mr-noaction/commodityidxtf011906.htm.
+
+19
+
+c. Exchange Act Rule 10b-10
+Rule 10b-10 under the Exchange Act 43 requires broker-dealers to provide their customers
+with certain disclosures at or before the completion of a securities transaction, including the
+identity, price, and number of shares or units (or principal amount) of the security purchased or
+sold. As described above, ETP Securities are issued and redeemed only in Creation Units of a
+minimum size, and a Portfolio Deposit or Redemption Basket may comprise dozens or hundreds
+of securities. Because it would be administratively burdensome for broker-dealers to provide
+transaction confirmations for each security in a Portfolio Deposit or Redemption Basket, the
+Commission has issued exemptive relief from Rule 10b-10 to permit broker-dealers to omit this
+information with respect to ETPs, provided that (i) the Creation Unit is sufficiently large (at least
+25,000 shares and $500,000), (ii) it is probable that creation and redemption transactions are
+entered into only by sophisticated investors, and (iii) the broker-dealer provides the omitted
+confirmation information to customers upon request. 44
+d. Exchange Act Rule 10b-17
+Rule 10b-17 under the Exchange Act generally requires issuers to give notice 10 days in
+advance of certain specified actions (e.g., a dividend distribution, stock split, or rights offering)
+relating to their securities, in accordance with the procedures laid out in the rule. 45 Generally this
+rule is relevant to an ETP when it must distribute cash—for example, income from fixed-income
+holdings or cash from a realized investment gain—to its shareholders. Because some ETP
+Securities are continuously being issued or redeemed, issuers have represented that it is
+
+43
+
+17 CFR 240.10b-10.
+
+44
+
+See, e.g., Letter from Catherine McGuire to Securities Industry Association, supra note 40.
+
+45
+
+17 CFR 240.10b-17.
+
+20
+
+impractical to project, and to provide, some of the information required by Rule 10b-17 ten days
+in advance. 46 According to these issuers, particularly difficult are the requirements for the issuer
+to disclose (i) in the case of a distribution in cash, the amount of cash to be paid or distributed
+per share, and (ii) in the case of a distribution in the same security, the amount of the securities
+outstanding immediately before and immediately after the dividend or distribution and the rate of
+the dividend or distribution. 47
+When the Commission has granted exemptions to permit these distributions to occur
+without ETP issuers providing 10-day advance notice of the two items of information noted
+above, this relief has been conditioned on the issuer providing the two items of information to
+the national securities exchange on which the ETP Securities are registered (pursuant to
+Section 12 of the Exchange Act) as soon as practicable before trading begins on the ex-dividend
+date, but in no event later than the time (on the day before the ex-dividend date) the exchange
+last accepts information relating to distributions. 48 The Commission has granted these
+exemptions because, other than receiving a delayed notice of these two items of information,
+market participants will have timely notice of the existence and timing of a pending distribution,
+as required by Rule 10b-17. 49 Further, under the terms of the exemption, the timing of the
+availability of the two items of information should allow market participants time to update their
+46
+
+See e.g., Letter from Jeremy Senderowicz, Dechert LLP, to Josephine Tao, Division of Trading and
+Markets, Securities and Exchange Commission, re: ALPS ETF Trust, ALPS/GS Momentum Builder Growth
+Markets Equities and U.S. Treasuries Index ETF, ALPS/GS Momentum Builder Multi-Asset Index ETF, and
+ALPS/GS Momentum Builder Asia Ex-Japan Equities and U.S. Treasuries Index ETF (Dec. 18, 2012), available
+athttp://www.sec.gov/rules/exorders/2012/34-68459-letter.pdf.
+47
+
+These disclosures are required by 17 CFR 240.10b-17(b)(1)(v)(a) and (b).
+
+48
+
+See, e.g., Order Granting a Limited Exemption from Exchange Act Rule 10b-17, Securities Exchange Act
+Release No. 67215 (June 19, 2012), 77 FR 37941 (June 25, 2012) (TP-11-07) (“10b-17 Actively Managed ETP
+Exemption”).
+49
+
+See id.
+
+21
+
+systems to reflect the accurate price of the ETP Securities before trading begins on the exdividend date. 50
+e. Exchange Act Rule 14e-5
+Rule 14e-5 under the Exchange Act 51 is designed to prevent the manipulation of tender
+offers. In particular, Rule 14e-5 prohibits “covered persons” 52 from purchasing or arranging to
+purchase any securities subject to a tender offer except as part of that tender offer. 53 This
+prohibition is in effect from the announcement of the tender offer until the expiration of the
+tender offer. An Authorized Participant acting as the dealer-manager of a tender offer for a
+component security is a covered person for purposes of Rule 14e-5. 54
+The Commission has granted relief to various entities with respect to the application of
+Rule 14e-5 so that Authorized Participants may redeem Creation Units and purchase ETP
+Securities even though component securities may be subject to a Rule 14e-5 restricted period. 55
+
+50
+
+See id.
+
+51
+
+17 CFR 240.14e-5.
+
+52
+
+For purposes of Exchange Act Rule 14e-5, a “covered person” is defined as: (i) the offeror and its affiliates;
+(ii) the offeror’s dealer-manager and its affiliates; (iii) any advisor to any of the persons specified in (i) or (ii) whose
+compensation is dependent on the completion of the offer; and (iv) any person acting, directly or indirectly, in
+concert with any of the persons specified in (i), (ii), or (iii) in connection with any purchase or arrangement to
+purchase the securities or any related securities. See 17 CFR 240.14e-5(c)(3).
+
+53
+
+Rule 14e-5 is designed to protect investors by preventing an offeror from extending greater or different
+consideration to some security holders outside the offer, while other security holders are limited to the offer’s terms,
+and by ensuring that large security holders do not demand greater consideration. See Securities Exchange Act
+Release No. 8712 (Oct. 8, 1969), 34 FR 15838 (Oct. 15, 1969) (order adopting Rule 10b-13, which was later
+redesignated as Rule 14e-5 in Securities Exchange Act Release No. 42055 (Oct. 22, 1999), 64 FR 61408 (Nov. 10,
+1999)). In addition, Rule 14e-5 prevents purchases outside the offer that, depending on the conditions in the market
+and the nature of the purchases, may be fraudulent or manipulative in nature, such as purchases that are used to
+defeat a tender offer by driving the market price above the offer price or by otherwise reducing the number of shares
+tendered below the stated minimum. See id.
+54
+
+See 17 CFR 240.14e-5(c)(3)(ii).
+
+55
+
+See, e.g., Equity Index-Based ETF Letter, supra note 35, at 6. The entities to which relief has been granted
+include open-end investment companies that issue ETP Securities, the listing exchange and any other national
+
+22
+
+ETP issuers generally seek relief on the basis that: (i) acquiring individual securities held by an
+ETP through redemptions of the ETP’s securities would be impractical and inefficient;
+(ii) facilitating a tender offer in a particular security included in a Portfolio Deposit by means of
+purchasing all of the specific portfolio securities constituting the Portfolio Deposit would be
+inefficient; and (iii) applying the Rule 14e-5 prohibition would impede the valid and useful
+market and arbitrage activity that would assist secondary market trading and improve the pricing
+efficiency of ETP Securities. 56 Moreover, the issuers generally represent that the type of trading
+described above does not result in the abuses that Rule 14e-5 was designed to prevent. 57 As a
+condition of the relief that has been issued, the issuer of ETP Securities generally also represents
+that the purchases or redemptions would not, in fact, be used to facilitate a tender offer.
+f. Exchange Act Rules 15c1-5 and 15c1-6
+Rule 15c1-5 under the Exchange Act 58 requires a broker-dealer to disclose to its
+customers if it has a control relationship with an issuer prior to a customer’s purchase or sale of
+the issuer’s securities. Rule 15c1-6 under the Exchange Act 59 requires a broker-dealer to disclose
+to its customer, at or before the completion of a transaction, that the broker-dealer is participating
+in the primary or secondary distribution of the securities that it is selling or purchasing for the
+customer’s account. Because applying these rules to all the securities in a creation or redemption
+
+securities exchange on or through which the ETP Securities may subsequently trade, and persons or entities
+engaging in transactions in ETP Securities.
+56
+
+See, e.g., Letter from W. John McGuire, Bingham McCutchen LLP, to Michele M. Anderson and David
+Orlic, Division of Corporation Finance, Securities and Exchange Commission, re: SSgA Active ETF Trust (July 3,
+2013), available at http://www.sec.gov/divisions/corpfin/cf-noaction/2013/ssga-active-etf-trust-14e5.pdf.
+57
+
+See supra note 53.
+
+58
+
+17 CFR 240.15c1-5.
+
+59
+
+17 CFR 240.15c1-6.
+
+23
+
+transaction would be administratively burdensome for broker-dealers, and because creations and
+redemptions are consummated at prices that are fixed by the ETP, there appears to be little
+potential for a broker-dealer to manipulate the price of the securities in the creation and
+redemption transactions. 60 Therefore, the staff has stated that it will not recommend enforcement
+action to the Commission with respect to Authorized Participants’ compliance with Rules 15c1-5
+and 15c1-6 in creation and redemption transactions if a broker-dealer executes transactions in
+shares of “Qualifying ETFs” without disclosing any control relationship with an issuer of a
+security in the Portfolio Deposit or Redemption Basket. 61 The staff has similarly stated that it
+will not recommend enforcement action if a broker-dealer executes transactions in shares of
+Qualifying ETFs without disclosing its participation or interest in a primary or secondary
+distribution of a security included within the Portfolio Deposit or Redemption Basket. 62
+
+60
+
+See, e.g., Letter from Catherine McGuire to Securities Industry Association, supra note 40.
+
+61
+
+A “Qualifying ETF” was initially limited to an ETF meeting certain conditions, including that it is issued
+by an open-end investment company or unit investment trust registered with the Commission under the 1940 Act;
+that it is listed and traded on a national securities exchange; that it comprises twenty or more diversified component
+securities, with no one component security constituting more than 25% of the total value of the ETF; and that it is
+managed to track a particular index, all components of which are publicly available. Id. Subsequent staff no-action
+positions have provided no-action relief to more ETPs with respect to treatment as Qualifying ETFs. See, e.g., DB
+Commodity Index Tracking Fund Letter, supra note 42 (certain commodity-based exchange-traded trusts); MACRO
+Securities Depositor Letter, supra note 41 (an ETP holding government securities); Letter from Brian A. Bussey,
+Division of Trading and Markets, Securities and Exchange Commission, to W. Thomas Conner and Eric C. Freed,
+Sutherland Asbill & Brennan LLP, re: Ameristock ETF Trust (June 29, 2007) (certain fixed income ETFs), available
+at http://www.sec.gov/divisions/marketreg/mr-noaction/2007/ameristock062907-msr.pdf; Letter from James A.
+Brigagliano, Division of Trading and Markets, Securities and Exchange Commission, to Kathleen H. Moriarty,
+Carter, Ledyard & Milburn, re: Proshares Trust (Jan. 24, 2007) (certain ETFs tracking a multiple, inverse, or
+multiple inverse of an index), available at http://www.sec.gov/divisions/marketreg/mrnoaction/2007/proshares012407-msr.pdf; Letter from Josephine J. Tao, Division of Trading and Markets, Securities
+and Exchange Commission, to Richard F. Morris, Deputy General Counsel, WisdomTree Asset Management, Inc.
+(May 9, 2008) (certain actively-managed ETFs not tied to an index), available at
+http://www.sec.gov/divisions/marketreg/mr-noaction/2008/wisdomtree050908-msr.pdf; and Madrona & Meidell
+Letter, supra note 40 (certain ETFs whose portfolios consist of other diversified ETFs).
+62
+
+Id.
+
+24
+
+g. Class Relief
+In connection with the application of the Exchange Act provisions described above, the
+Commission has issued a number of “class” exemptions to the trading of ETP Securities. 63 Class
+exemptions for ETPs from the Exchange Act provisions discussed above are generally issued
+only if the Commission and the staff have had experience with individual exemptions and noaction positions and have determined that class relief is appropriate. 64 In the case of exemptions,
+the Commission must also determine that a class exemption meets the statutory standard of being
+necessary or appropriate in the public interest and consistent with the protection of investors. 65
+An ETP relying on a class exemption or no-action position must meet all of the conditions of the
+relevant Commission order or staff letter for the life of the product (or until the relief is no longer
+necessary), just as if the ETP had obtained its own individual relief. Class exemptions or noaction positions have been issued for equity index-based ETFs, 66 commodity-based investment
+vehicles that are not registered under the 1940 Act, 67 fixed-income index-based ETFs, 68
+
+63
+
+See, e.g., Equity-Index Based ETF Letter, supra note 35.
+
+64
+
+See Letter from Catherine McGuire to Securities Industry Association, supra note 40.
+
+65
+
+See 15 U.S.C. 78mm(a)(1).
+
+66
+
+See Equity Index-Based ETF Letter, supra note 35.
+
+67
+
+See Letter from Racquel L. Russell, Division of Trading and Markets, Securities and Exchange
+Commission, to George T. Simon, Foley & Lardner LLP, re: CurrencyShares British Pound Sterling Trust et al.
+(June 21, 2006), available at http://www.sec.gov/divisions/marketreg/mr-noaction/currencyshares062106-10a1.pdf.
+68
+
+See Letter from James A. Brigagliano, Division of Trading and Markets, Securities and Exchange
+Commission, to Benjamin J. Haskin, Willkie Farr & Gallagher LLP, re: Class Relief for Fixed Income ETFs (Apr. 9,
+2007), available at http://www.sec.gov/divisions/marketreg/mr-noaction/2007/fietfclassrelief040907-msr.pdf.
+
+25
+
+“combination” index-based ETFs, 69 ETNs, 70 and actively-managed ETFs. 71 These orders and noaction positions cover a number of the Exchange Act rules and regulations described above. 72
+2.
+
+Exchange Listing Standards and the Rule 19b-4 Process
+
+Before ETP Securities can trade on a national securities exchange, that exchange must
+agree to list the ETP Securities for trading on its market, and it must have Commission-approved
+initial and continued listing standards that permit listing of that type or “class” of ETP Security. 73
+ETP listing standards can be broadly categorized as either generic or non-generic.
+Generic listing standards permit an exchange to list and trade specific ETP Securities of a
+broader class of ETPs without filing a product-specific proposed rule change with the
+Commission. 74 When listing ETP Securities in this way, however, exchanges are required to file
+a notice with the Commission within five business days after trading commences. 75 Examples of
+69
+
+See Letter from Josephine Tao, Division of Trading and Markets, Securities and Exchange Commission, to
+Domenick Pugliese, Paul, Hastings, Janofsky and Walker LLP, re: Combination ETFs (June 27, 2007), available at
+http://www.sec.gov/Archives/edgar/vprr/07/9999999997-07-047147.
+70
+
+See, e.g., Letter from Josephine Tao, Division of Trading and Markets, Securities and Exchange
+Commission, to Arthur S. Long, Davis Polk & Wardwell LLP, re: Deutsche Bank AG ETNs (Oct. 12, 2007) (“ETN
+No-action Letter”), available at http://www.sec.gov/divisions/marketreg/mr-noaction/2007/dbab101207.pdf.
+71
+
+See 10b-17 Actively Managed ETP Exemption, supra note48, and Division of Trading and Markets: Staff
+Legal Bulletin No. 9 “Frequently Asked Questions About Regulation M” (as revised Sep. 10, 2010) (regarding
+Regulation M), available at http://www.sec.gov/interps/legal/mrslb9.htm.
+72
+
+See supra Sections I.D.1.a through I.D.1.f.
+
+73
+
+See 15 U.S.C. 78s(b) and 17 CFR 240.19b-4. The Exchange Act also permits an exchange to trade a
+security that is listed on another exchange. The non-listing exchange that trades the security is said to extend
+“unlisted trading privileges” (or “UTP”) to the security. See Section 12(f) of the Exchange Act, 15 U.S.C. 78l(f);
+Exchange Act Rule 12f-5 (17 CFR 240.12f-5) (providing that an exchange shall not extend UTP to a security unless
+the exchange has in effect a rule or rules providing for transactions in the class or type of security to which the
+exchange extends UTP).
+74
+
+See 17 CFR 240.19b-4(e)(1). In 1998, the Commission issued a final rule setting forth the standards under
+which exchanges can list and trade “new derivatives securities products” (a category that encompasses ETPs) under
+“generic listing standards.” See Amendments to Rule Filing Requirements for Self-Regulatory Organizations
+Regarding New Derivative Securities Products, Securities Exchange Act Release No. 40761 (Dec. 8, 1998), 63 FR
+70952 (Dec. 22, 1998) (S7-13-98).
+75
+
+See 17 CFR 240.19b-4(e)(2)(ii). The required notice is filed on Form 19b-4(e). 17 CFR 249.820.
+
+26
+
+ETP classes for which generic listing standards exist include what are commonly called indexbased ETFs (which the exchanges’ rules call Investment Company Units, Index-Fund Shares,
+Portfolio Depositary Receipts, or security-based Trust Issued Receipts), and certain ETNs (which
+the exchanges’ rules call Index-Linked Securities or Linked Securities). 76
+Generic ETP listing standards approved by the Commission contain quantitative criteria
+with respect to components included in the ETP’s underlying or reference index or benchmark.
+With respect to underlying indices, these quantitative criteria provide minimum thresholds
+regarding trading volume, market capitalization, number of index components, and index
+concentration limits. 77 To mitigate the potential for manipulation and other trading abuses, and to
+help maintain a fair and orderly market for the ETP Securities, these quantitative criteria are
+designed to help ensure a minimum degree of liquidity and diversification for the underlying or
+reference securities, assets, or instruments.
+76
+
+See, e.g., Securities Exchange Act Release Nos. 42787 (May 15, 2000), 65 FR 33598 (May 24, 2000) (SRAmex-2000-14) (approving generic listing standards for ETFs called Portfolio Depositary Receipts and Index Fund
+Shares); 45718 (Apr. 9, 2002), 67 FR 18965 (Apr. 17, 2002) (SR-NYSE-2002-07) (approving generic listing
+standards for Trust Issued Receipts); and 55687 (May 1, 2007), 72 FR 25824 (May 7, 2007) (SR-NYSE-2007-27)
+(approving generic listing standards for Index-Linked Securities). See also, e.g., BATS Rules 14.11(b) (Portfolio
+Depositary Receipts), 14.11(c) (Index Fund Shares), 14.11(d) (ETNs), and 14.11(f) (Trust Issued Receipts),
+available at http://batstrading.com/resources/regulation/rule_book/BATS_Exchange_Rulebook.pdf; NASDAQ
+Rules 5705 (Index Fund Shares and Portfolio Depositary Receipts), 5710 (ETNs), and 5720 (Trust Issued Receipts),
+available at
+http://nasdaq.cchwallstreet.com/NASDAQTools/PlatformViewer.asp?selectednode=chp%5F1%5F1%5F4%5F3&m
+anual=%2Fnasdaq%2Fmain%2Fnasdaq%2Dequityrules%2F; NYSE Arca Equities Rules 5.2(j)(3) (Investment
+Company Units), 5.2(j)(6) (ETNs), 8.100 (Portfolio Depositary Receipts), and 8.200 (Trust Issued Receipts),
+available at http://nysearcarules.nyse.com/PCX/.
+77
+
+For example, with respect to equity-index-based ETFs, the generic listing standards generally contain the
+following requirements with respect to the underlying index: (1) that each component have a minimum market
+value; (2) that each component have a minimum monthly trading volume over the most recent six-month period;
+(3) that the index observe certain concentration limits (e.g., that no component may exceed 30% of the weight of the
+index and that the five most heavily weighted components may not exceed 65% of the weight of the index); (4) that
+there be a minimum number of components in the index; and (5) that each component either be an exchange-listed
+NMS stock or, if a non-U.S. stock, be listed and traded on an exchange that has last-sale reporting. See, e.g., BATS
+Rule 14.11(c); NASDAQ Rule 5705; NYSE Arca Equities Rule 5.2(j)(3), Commentary .01. With respect to ETNs,
+the generic listing standards also include minimum requirements relating to the issuer of the securities (e.g.,
+minimum tangible net worth and minimum amount of assets), which are designed to mitigate issuer credit risk. See,
+e.g., BATS Rule 14.11(d); NASDAQ Rule 5710; NYSE Arca Equities Rule 5.2(j)(6).
+
+27
+
+Non-generic listing standards permit an exchange to list and trade a specific ETP Security
+(within a class of ETPs) only after the exchange has filed and the Commission has approved a
+proposed rule change that is specific to the new ETP Security. 78 Because of their securityspecific nature, non-generic listing standards typically do not contain generalized quantitative
+criteria for the components included in an ETP’s underlying or reference index or benchmark.
+Exchanges seeking to adopt listing standards applicable to a new ETP product class—or
+to list and trade specific ETP Securities pursuant to existing non-generic listing standards for an
+ETP product class—are required to file proposed rule changes under Section 19(b)(1) of the
+Exchange Act 79 and Rule 19b-4 thereunder. 80 Once an exchange files a proposed rule change
+that complies with the Exchange Act, the rules thereunder, and the form governing such filings,
+statutory deadlines apply to Commission consideration of the filing.
+Section 19(b)(2) of the Exchange Act, as amended by the Dodd-Frank Act, 81 effectively
+requires the Commission to publish notice of a proposed rule change within 15 days of filing. 82
+78
+
+The ETP product classes that have non-generic listing standards include the following: Trust Issued
+Receipts based on investments in “investment shares” or “financial instruments,” Commodity-Based Trust Shares,
+Commodity Index Trust Shares, Commodity Futures Trust Shares, Partnership Units, Paired Trust Shares, Trust
+Units, Managed Fund Shares, Managed Trust Securities, and Trust Certificates. See, e.g., BATS Rules 14.11(e)(3)
+(Trust Certificates), 14.11(e)(4) (Commodity-Based Trust Shares), 14.11(e)(6) (Commodity Index Trust Shares),
+14.11(e)(7) (Commodity Futures Trust Shares), 14.11(e)(8) (Partnership Units), 14.11(e)(9) (Trust Units),
+14.11(e)(10) (Managed Trust Securities), and 14.11(i) (Managed Fund Shares); NASDAQ Rules 5711(c) (Trust
+Certificates), 5711(d) (Commodity-Based Trust Shares), 5711(f) (Commodity Index Trust Shares), 5711(g)
+(Commodity Futures Trust Shares), 5711(h) (Partnership Units), 5711(i) (Trust Units), 5711(j) (Managed Trust
+Securities), and 5735 (Managed Fund Shares); NYSE Arca Equities Rules 8.200 (Commentary .02) (Trust Issued
+Receipts based on investment shares or financial instruments), 8.201 (Commodity-Based Trust Shares), 8.203
+(Commodity Index Trust Shares), 8.204 (Commodity Futures Trust Shares), 8.300 (Partnership Units), 8.400 (Paired
+Trust Shares), 8.500 (Trust Units), 8.600 (Managed Fund Shares), 8.700 (Managed Trust Securities).
+79
+
+15 U.S.C. 78s(b).
+
+80
+
+17 CFR 240.19b-4.
+
+81
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. No. 111-203, § 916(a), 124 Stat.
+1376, 1833-34 (2010).
+
+82
+
+15 U.S.C. 78s(b)(2)(E).
+
+28
+
+In general, for proposals that must be approved by the Commission before they may take effect
+(such as a filing concerning a new ETP), the Commission is required to take action within 45
+days (which can be extended by the Commission or the exchange for another 45 days) after the
+date of publication of the proposal in the Federal Register. 83 The Commission may, however,
+institute proceedings to determine whether to disapprove a proposal, in which case the
+Commission is required to take final action to approve or disapprove a proposed rule change no
+later than 240 days after the proposal is published in the Federal Register. 84 If the Commission
+fails to meet any of the deadlines for final action on a proposed rule change, that proposed rule
+change is, pursuant to the Exchange Act, deemed to have been approved by the Commission. 85
+To approve an exchange’s proposed rule change, the Commission must find that the
+proposed rule change is consistent with the applicable requirements of the Exchange Act and the
+rules and regulations thereunder. 86 The requirements imposed by the Exchange Act include those
+set forth in Section 6(b)(5), which provides that the rules of an exchange must be designed to do
+the following: (i) prevent fraudulent and manipulative acts and practices; (ii) promote just and
+equitable principles of trade; (iii) foster cooperation and coordination with persons engaged in
+regulating, clearing, settling, processing information with respect to, and facilitating transactions
+in securities; (iv) remove impediments to and perfect the mechanism of a free and open market
+
+83
+
+Certain proposed rule changes are entitled to become “immediately effective” upon filing, without prior
+Commission approval. See 15 U.S.C. 78s(b)(3)(A) and 17 CFR 240.19b-4(f) (setting forth certain limited conditions
+under which a proposed rule change may take effect immediately upon filing with the Commission).
+84
+
+See 15 U.S.C. 78s(b)(2)(B)(ii).
+
+85
+
+15 U.S.C. 78s(b)(2)(D).
+
+86
+
+15 U.S.C. 78s(b)(2)(C).
+
+29
+
+and a national market system; and (v) in general, to protect investors and the public interest. 87
+With respect to the listing standards for ETP Securities, most exchange filings in connection with
+proposed rule changes include a general description of the following: (i) the ETP and its
+permitted investments or reference assets; (ii) how the ETP will seek to meet its investment
+objective; (iii) whether and to what extent information is available to investors about the pricing
+and valuation of the ETP Securities, the ETP’s underlying assets, and the relevant index or
+reference assets; 88 (iv) how the exchange will monitor trading in the ETP Securities; and (v) the
+information that will be available to investors about the ETP Securities. 89
+
+87
+
+15 U.S.C. 78f(b)(5). In addition, the proposed rule change must not be designed to permit unfair
+discrimination between customers, issuers, brokers, or dealers or to regulate by virtue of any authority conferred by
+the Exchange Act matters not related to the purposes of the Exchange Act or the administration of the exchange. Id.
+
+88
+
+For index-based ETPs, exchange rules generally require that the underlying or reference index or
+benchmark be calculated and disseminated throughout the trading day. The frequency of dissemination depends on
+whether the components are U.S. equities, foreign equities, or fixed-income securities. See, e.g., Commentary
+.01(b)(2) to NYSE Arca Equities Rule 5.2(j)(3) (requiring that the current index value be widely disseminated every
+15 seconds during the exchange’s Core Trading Session for investment company units that track a U.S. equity index
+and every 60 seconds for investment company units that track an international or global equity index); Commentary
+.02(b)(ii) to NYSE Arca Equities Rule 5.2(j)(3) (requiring that the current index value for investment company units
+that track a fixed-income index be disseminated at least once per day). For ETNs, exchange rules generally require
+that the value of the reference assets be calculated and disseminated throughout the trading day. See, e.g., NYSE
+Arca Equities Rule 5.2(j)(6)(B)(II)(1)(b)(ii) (requiring that the value of the commodity reference asset be calculated
+and widely disseminated on at least a 15-second basis during the exchange’s Core Trading Session for commoditylinked securities). As noted above, most ETN issuers also make publicly available a closing indicative value that is
+determined as of the close of each trading day. See supra note 26.
+89
+
+Exchanges are required by their listing standards to distribute information circulars or bulletins to exchange
+members relating to the listing of ETP Securities. See, e.g., NYSE Arca Equities Rules 5.1(a)(2), 5.2(j)(3)
+Commentary .01(g), 8.100(c), and 8.600 Commentary .05. The information to be contained in these circulars is
+generally specified in a Commission order approving the listing and trading of new ETP Securities and typically
+includes: (a) the special characteristics and risks associated with trading ETP Securities; (b) the procedures for
+creations and redemptions of ETP Securities; (c) the exchange requirements relating to the members’ obligations to
+learn the essential facts in connection with every customer prior to trading ETP Securities and other suitability
+requirements, such as information contained in guidance issued by FINRA with respect to the trading and sales of
+leveraged and inverse-leveraged ETPs and other complex securities products; (d) how information regarding the IIV
+is disseminated and the risks involved in trading ETP Securities outside of regular trading hours when an updated
+IIV is not calculated or available; (e) applicable prospectus delivery requirements; and (f) other information (e.g.,
+fees and expenses of the ETP and the time at which the NAV will be calculated and published daily). See, e.g.,
+Securities Exchange Act Release Nos. 65136 (Aug. 15, 2011), 76 FR 52037, 52040 (Aug. 19, 2011) (SRNYSEArca-2011-24); 68390 (Dec. 10, 2012), 77 FR 74540, 74543 (Dec. 14, 2012) (SR-BATS-2012-042); and
+70829 (Nov. 7, 2013), 78 FR 68482, 68485 (Nov. 14, 2013) (SR-NASDAQ-2013-122).
+
+30
+
+3.
+
+Broker-Dealer Sales Practices
+
+Broker-dealers, which are registered with and regulated by the Commission under the
+Exchange Act, are also subject to regulation by the self-regulatory organizations (“SROs”) to
+which they belong—e.g., FINRA and the exchanges. Both federal and SRO regulations impose
+duties on broker-dealers when dealing with their customers and, in particular, when
+recommending the purchase or sale of securities by their customers. 90 These duties include
+making suitable recommendations, engaging in fair and balanced communications with the public,
+disclosing conflicts of interest, and receiving fair compensation both in agency and principal
+transactions. 91
+
+In addition, a broker-dealer that recommends buying, holding, or selling an ETP, or an
+investment strategy involving an ETP, may be subject to additional or heightened scrutiny
+regarding ETPs with respect to brokerage customers, as described in FINRA guidance regarding
+complex products and non-traditional ETPs. 92
+90
+
+See e.g., Exchange Act Section 15(c) and FINRA Rule 2111.
+
+91
+
+See, e.g., A Joint Report of the SEC and CFTC on Harmonization of Regulation, at 8 (Oct. 16, 2009),
+http://www.sec.gov/news/press/2009/cftcjointreport101609.pdf (“Under the federal securities laws and SRO rules,
+broker-dealers are required to deal fairly with their customers. This includes having a reasonable basis for
+recommendations given the customer’s financial situation (suitability), engaging in fair and balanced
+communications with the public, . . . disclosing conflicts of interest, and receiving fair compensation both in agency
+and principal transactions. In addition, the SEC’s suitability approach requires BDs [i.e., broker-dealers] to
+determine whether a particular investment recommendation is suitable for a customer, based on customer-specific
+factors and factors relating to the securities and investment strategy. A BD must investigate and have adequate
+information regarding the security it is recommending and ensure that its recommendations are suitable based on the
+customer’s financial situation and needs. The suitability approach in the securities industry is premised on the notion
+that securities have varying degrees of risk and serve different investment objectives, and that a BD is in the best
+position to determine the suitability of a securities transaction for a customer. Disclosure of risks alone is not
+sufficient to satisfy a broker-dealer’s suitability obligation.”)
+92
+
+See FINRA Notice to Members (“FINRA NTM”) 12-03 (Jan. 2012) (Heightened Supervision of Complex
+Products). See also FINRA NTM 10-51 (Oct. 2010) (Sales Practice Obligations for Commodity Futures-Linked
+Securities); FINRA NTM 09-73 (Dec. 2009) (FINRA Reminds Firms of their Sales Practice Obligations Relating to
+Principal-Protected Notes); FINRA NTM 09-31 (June 2009) (FINRA Reminds Firms of Sales Practice Obligations
+Relating to Leveraged and Inverse Exchange-Traded Funds); FINRA NTM 08-81 (Dec. 2008) (FINRA Reminds
+Firms of their Sales Practice Obligations with Regard to the Sale of Securities in a High Yield Environment); NASD
+Notice to Members (“NASD NTM”) 05-59 (Sept. 2005) (NASD Provides Guidance Concerning the Sale of
+
+31
+
+II.
+
+REQUEST FOR COMMENT
+The Commission is soliciting public comment to help inform its review of the listing and
+
+trading of new, novel, or complex ETPs, including requests by ETPs for exemptive and noaction relief under the Exchange Act and filings by exchanges to adopt listing standards
+applicable to ETPs. The Commission is also soliciting comment regarding the ways in which
+broker-dealers, which are regulated under the Exchange Act, market these products, especially to
+retail investors. Finally, the Commission seeks comment on investor understanding of the nature
+and uses of ETPs, particularly by retail investors.
+The Commission periodically has solicited public comment on issues relating to ETFs
+since their inception over two decades ago. In 2001, the Commission issued a Concept Release
+on Actively Managed Exchange-Traded Funds. 93 That release sought comment on a number of
+issues relating to actively managed ETFs, focusing in particular on the operation of actively
+managed ETFs as open-end investment companies and on the exemptive relief under the 1940
+Act that would be required for such funds. 94 Then, in 2008, the Commission proposed and
+sought comment on a rule that would exempt ETFs from certain provisions of the 1940 Act and
+permit certain ETFs to begin operating without the need to obtain an exemptive order under the
+1940 Act. 95 Once again, the focus of that release was on the operation of ETFs as open-end
+
+Structured Products); and NASD NTM 03-71 (Nov. 2003) (NASD Reminds Members of Obligations When Selling
+Non-Conventional Instruments).
+93
+
+Concept Release: Actively Managed Exchange-Traded Funds, Investment Company Act Release No. IC25258 (Nov. 8, 2001), 66 FR 57614 (Nov. 15, 2001) (S7-20-01), available at http://www.sec.gov/rules/concept/ic25258.htm.
+94
+
+In response, the Commission received 20 comment letters, which are available on the Commission’s
+website at http://www.sec.gov/rules/concept/s72001.shtml.
+
+95
+
+See Exchange-Traded Funds (proposed rule), supra note 9.
+
+32
+
+investment companies under the 1940 Act and on the exemptive relief provided to such funds
+under the 1940 Act. 96
+Here, the Commission seeks comment on the treatment of a broader group of products—
+ETPs, rather than just ETFs—and the Commission seeks public comment specifically with
+respect to its oversight of ETPs under the Exchange Act. As noted above, ETP trading makes up
+a significant percentage of equity trading in the United States. 97 And, while the Commission has
+gained extensive experience and familiarity with the topics discussed in the questions below, the
+Commission believes that it would be beneficial to engage broader public comment on these
+important topics.
+To inform the Commission’s review of new, novel, or complex ETPs under the Exchange
+Act, commenters are invited to provide their views regarding the listing and trading of ETP
+Securities, such as the manner in which ETP Securities are initially listed on a national securities
+exchange, the manner in which ETP Securities trade in the secondary market, and the exemptive
+or no-action relief that has been granted to ETPs under the Exchange Act. Commenters are
+further invited to provide their views regarding how broker-dealers (which are regulated under
+the Exchange Act) recommend and sell ETPs to investors, how broker-dealers fulfill their
+obligations to investors when they recommend and sell ETPs, and investors’ understanding and
+use of ETPs. Commenters should be as specific as possible in their responses, explain the
+reasoning supporting those responses, and provide supporting data wherever possible.
+
+96
+
+In response to these proposals, the Commission received 25 comment letters, which are available on the
+Commission’s website at http://www.sec.gov/comments/s7-07-08/s70708.shtml.
+
+97
+
+See supra note 5 and accompanying text.
+
+33
+
+A.
+
+Arbitrage and Market Pricing
+
+As discussed above, existing ETPs trade at market prices rather than at a price based on
+NAV. When providing exemptive or no-action relief under the Exchange Act, the Commission
+and its staff have analyzed and relied upon the representations from ETP issuers regarding the
+continuing existence of effective and efficient arbitrage to help ensure that the secondary market
+prices of ETP Securities do not vary substantially from the value of their underlying portfolio or
+reference assets.
+In the Commission’s experience, the deviation between the daily closing price of ETP
+Securities and their NAV, averaged across broad categories of ETP investment strategies and
+over time periods of several months, has been relatively small. For example, the average absolute
+value of the daily difference between the NAV and the closing market price during a six-month
+period ending in December 2014 was just 0.21% for ETPs based on U.S. equities indices and
+0.38% for actively managed ETPs based on U.S. equities. 98 The respective figures for indexbased and actively managed ETPs based on U.S. fixed-income securities were 0.26% and
+0.19%. 99
+Other types of ETPs have had a somewhat higher deviation between NAV and their
+closing price. For example, ETPs based on international indices had an average absolute value of
+daily difference of 0.52% between NAV and the closing price, while actively managed ETPs
+based on international fixed-income securities had an average absolute value of daily difference
+
+98
+
+The average of the absolute value of these differences is used because the closing market price of an ETP
+can deviate either above or below its NAV on any given day, and a calculation that allowed positive deviations to
+offset negative deviations would understate the extent of the deviations.
+99
+
+Figures in this paragraph represent an analysis by Commission staff of market data obtained through a
+subscription to Bloomberg Professional services.
+
+34
+
+of 0.44% between NAV and the closing price during the six-month period studied. 100 These
+numbers, however, represent only broad averages with respect to end-of-day differences, and
+intraday premiums or discounts between an ETP’s market price and the value of its portfolio or
+reference assets (or, for certain ETNs, the value of the note according to its terms) can be greater
+under certain circumstances. 101 Moreover, these numbers represent broad averages, and the
+Commission seeks public comment and data in response to the specific questions below.
+The Commission seeks comment with respect to all aspects of the arbitrage mechanism
+for ETPs, including the nature, extent, and potential causes of premiums and discounts across the
+wide range of ETP strategies and holdings. Additionally, in connection with its review of the
+listing and trading of ETPs, the Commission seeks comment on the trading of ETPs investing in
+less-liquid assets, 102 including fixed-income instruments, during periods of market stress.
+1.
+
+Arbitrage mechanisms are designed to keep intraday trading prices of ETP Securities
+equal (or nearly equal) to the contemporaneous value of the underlying portfolio or
+reference assets. Do these mechanisms work better for some types or categories of ETPs?
+To what extent do arbitrage mechanisms help ensure efficient market pricing for ETPs
+throughout periods of market volatility, including times of market stress?
+
+100
+
+The figures in this paragraph reflect an analysis by the staff of the Office of Analytics and Research in the
+Division of Trading and Markets of market data obtained through a subscription to Bloomberg Professional services.
+
+101
+
+As an extreme example, during the so-called “Flash Crash” of May 6, 2010, many ETP Securities
+temporarily traded at significant discounts to their IIV, even though their prices recovered before the end of the day.
+See Findings Regarding the Market Events of May 6, 2010, Report of the Staffs of the CFTC and SEC to the Joint
+Advisory Committee on Emerging Regulatory Issues (Sept. 30, 2010), available at
+http://www.sec.gov/news/studies/2010/marketevents-report.pdf.
+102
+
+As used in this release, “liquidity” generally refers to the ability of a market participant to buy or sell an
+asset immediately without significantly affecting the market price for that asset. Although certain fixed-income
+instruments, such as on-the-run U.S. Treasury securities, trade in markets with substantial liquidity, fixed-income
+instruments generally trade with less liquidity than equity securities.
+
+35
+
+2.
+
+Do commenters believe that there are other mechanisms besides arbitrage mechanisms
+that do, or could, help ensure efficient market pricing of ETPs? Do other factors play a
+role in efficient market pricing of ETPs? If so, what are these mechanisms or factors, and
+how effective are they? Are these mechanisms or factors more effective for certain types
+or categories of ETPs? To what extent are these mechanisms or factors effective during
+periods of market volatility?
+
+3.
+
+What characteristics of an ETP facilitate or hinder the alignment of secondary market
+share prices with the value of the underlying portfolio or reference assets? What
+characteristics of an ETP’s underlying or reference assets facilitate or hinder the
+alignment of secondary market share prices with the value of the underlying portfolio or
+reference assets? Does liquidity in the market for an ETP’s underlying or reference assets
+affect arbitrage, and if so, how and to what extent? Does the availability of current and
+historical pricing information, as well as trading history, for the underlying or reference
+assets affect arbitrage, and if so, how and to what extent? To what extent does the
+availability of correlated hedges for the ETP’s underlying or reference assets affect
+arbitrage and pricing efficiency? To what extent does an ETP’s use of a sampling
+methodology (investing in a subset of the components of an index) to track an index
+affect arbitrage and pricing efficiency? Does the use of over-the-counter instruments by
+an ETP affect the opportunity for market makers or other participants to engage in
+arbitrage, and if so, how and to what extent? Do non-synchronous market hours between
+an ETP and its underlying assets (e.g., international equities) affect the pricing of an ETP
+and the opportunity for arbitrage, and if so, how? Does the use of cash-only creation or
+redemption baskets and variable cash fees affect efficient market pricing, and if so, how?
+
+36
+
+4.
+
+How closely do investors or other market participants expect the intraday trading price of
+ETP Securities to be aligned with the contemporaneous value of their underlying
+portfolio or reference assets? Do these expectations differ depending on the type of ETP,
+the nature of the underlying assets, or market conditions? What methods, if any, do
+investors use to determine whether the intraday trading price of ETP Securities closely
+tracks the value of their underlying portfolio or reference assets?
+
+5.
+
+Do market participants conduct analyses of how well intraday prices of ETP Securities
+track the value of their underlying portfolio or reference assets? If so, how much weight
+do market participants place on such analyses?
+
+6.
+
+Under what circumstances might the prices of ETP Securities not track (on an intraday,
+temporary end-of-day, or permanent basis) the value of their underlying portfolio or
+reference assets? Are there circumstances in which the price of an ETP’s Securities,
+though different from its NAV, might be a more accurate measure of the value of the
+ETP’s underlying assets? What are the implications for investors (both individual and
+institutional) and other market participants if intraday prices for ETP Securities do not
+closely track the value of their underlying portfolio or reference assets, either on an
+intraday, temporary end-of-day or permanent basis?
+
+7.
+
+To what extent do arbitrage mechanisms affect trading in an ETP’s underlying or
+reference assets? Does the answer vary depending on whether the underlying or reference
+assets are equities, fixed-income securities, commodities, derivatives, or another type of
+asset? If so, how?
+
+8.
+
+To what extent do ETNs offer opportunities for arbitrage? How do market participants
+engage in arbitrage for ETNs? How is arbitrage affected by ETN issuers’ ability to
+
+37
+
+suspend and restart issuances of notes at their discretion? How are arbitrage opportunities
+affected when an issuer suspends the issuance of its ETNs? Are certain ETNs easier or
+more difficult to arbitrage due to the nature of the ETN’s reference asset or index, and, if
+so, which ones?
+9.
+
+As noted above, the IIV for an ETP is generally designed to provide investors
+information during the trading day on the value of the ETP’s portfolio (or, in the case of
+an ETN, on the value of a reference asset or index). The IIV may be subject to various
+calculation methodologies. How does the calculation of IIV vary, if at all, among ETPs?
+Does the calculation methodology depend on the class or type of ETP, and if so, how?
+Does the calculation methodology depend on the nature of the underlying portfolio or
+reference assets, and if so, how? Are certain IIV calculation methodologies more or less
+useful for investors, market makers, or other market participants?
+
+10.
+
+To what extent do market participants make use of the IIV for an ETP based on lessliquid securities? If underlying assets trade infrequently or are priced only at the end of
+the trading day for purposes of NAV calculation, does an IIV that is disseminated every
+15 seconds (as is currently the case) contain useful pricing information? Would a
+different dissemination frequency be more appropriate, and if so, what would that be?
+
+11.
+
+Do investors or other market participants use intraday or closing indicative values for
+ETNs? If so, for what purpose? How does the intraday or closing indicative value differ
+from the market value of an ETN or its redemption amount?
+
+12.
+
+How much disclosure about the contents of an ETP’s underlying portfolio is necessary
+for arbitrage to function efficiently to keep the market price of an ETP aligned with the
+contemporaneous value of its underlying or reference portfolio? Please explain.
+
+38
+
+13.
+
+In the absence of daily portfolio disclosure for an ETP, could other mechanisms enable
+market makers or other market participants to make efficient markets in that ETP? If so,
+what are those mechanisms and how would they function? What, if any, information
+disclosure, characteristics of the ETP, or other circumstances would be necessary for
+those mechanisms to function?
+
+14.
+
+Under what circumstances would an ETP suspend creations? Under what circumstances
+could an ETP (other than a 1940-Act registered ETF) suspend redemptions? What effect
+does this or could this have on arbitrage mechanisms or the market value of these
+products? How might suspension of creations or redemptions affect the ETP’s continued
+compliance with the conditions of its exemptive and no-action relief under the Exchange
+Act? How would an ETP issuer be likely to respond to the suspension of creation or
+redemption activity by one or more of its Authorized Participants?
+
+15.
+
+How do arbitrage mechanisms work in the case of ETPs with less-liquid underlying or
+reference assets? Are arbitrage mechanisms for ETPs with less-liquid underlying or
+reference assets effective and efficient in aligning share prices with the value of the
+underlying portfolio or reference assets?
+
+16.
+
+To what extent do arbitrage mechanisms help ensure efficient market pricing throughout
+rising and falling markets, including times of market stress, for ETPs with underlying or
+reference assets that are less-liquid? Do periods of market stress affect arbitrage
+mechanisms for such ETPs, and if so, how? Could there be a point at which the amount
+of ETP Securities outstanding relative to the amount of underlying or reference assets
+outstanding results in an imbalance that inhibits the redemption process during periods of
+market stress?
+
+39
+
+17.
+
+To what extent, if any, does trading activity in ETP Securities affect price discovery,
+price correlation, liquidity, or volatility in the ETP’s underlying or reference assets? What
+role, if any, do ETP Securities that are based on less-liquid underlying securities have in
+providing additional price discovery for the underlying securities?
+
+18.
+
+Should the listing exchange for an ETP have an obligation to monitor the effectiveness of
+that ETP’s arbitrage mechanism? If yes, what should be the nature of that obligation?
+B.
+
+Exchange Act Exemptions and No-Action Positions
+
+The Commission believes it is useful and timely to examine the application of Rules 101
+and 102 of Regulation M in the context of ETPs—particularly those ETPs with an underlying
+trust or other collection of underlying assets—given the increasing complexity of ETP
+investment strategies and the expansion of the types of underlying and reference assets and
+benchmarks. The Commission solicits comment on approaches for preventing manipulation of an
+ETP Securities distribution by persons who may have an incentive to do so in light of the nature,
+variety, and complexity of ETP investment strategies and ETP markets.
+19.
+
+The staff has issued no-action relief from Rules 101 and 102 of Regulation M to ETNs in
+part on the basis of assumptions that the secondary market price for such products should
+not vary substantially from the value of the relevant reference index. 103 Given that the
+secondary market price of an ETN can substantially deviate from its reference assets
+when the issuer of that ETN suspends issuances, how should Rules 101 and 102 of
+Regulation M apply to such products? Should relief from these rules be limited to ETNs
+where there is a clear, independent index, where there is no limitation on issuances or
+redemptions, or where an ETN’s secondary market price does not vary substantially from
+
+103
+
+See, e.g., ETN No-action Letter, supra note 70.
+
+40
+
+the relevant reference index? What effect would such a change have? Are there any other
+relevant factors in this context? Are there any risks in maintaining the current relief for
+ETNs? What are the benefits of the relief? How should the Commission balance the risks
+against any benefits resulting from the ability of Authorized Participants to suspend
+issuances or redemptions? Should relief for ETNs contain different conditions than relief
+for other ETPs?
+20.
+
+Because ETPs are in continuous distribution, they generally need, on an ongoing basis, to
+meet the conditions of the Regulation M relief that has been extended to them and to
+meet the representations made in seeking relief under Regulation M. 104 What would an
+ETP do if it could no longer meet one or more of these conditions or representations and
+could no longer rely on the relief? In such situations, would the ETP halt creations or, for
+ETPs not registered under the 1940 Act, redemptions? What effect would that have on
+the market for that ETP’s securities? What would be the effect if this resulted in a halt or
+suspension of trading activity in the ETP Securities, or in the ETP Securities being
+delisted? How would investors be affected?
+
+21.
+
+What purchasing activities do distribution participants (such as Authorized Participants)
+engage in during the distribution of ETP Securities? Are these activities limited to the
+purchasing of shares to accumulate a redemption unit, or are there other reasons for
+distribution participants to engage in purchases of ETP Securities?
+
+104
+
+supra.
+
+Conditions and representations concerning relief under Regulation M are discussed in section I.D.1.a,
+
+41
+
+The Commission also invites comment on the conditions pertaining to ETPs’ exemptions
+from, and the criteria relied on by the staff in no-action positions regarding, Section 11(d)(1) of
+the Exchange Act and Exchange Act Rules 10b-10, 11d1-2, 14e-5, 15c1-5, and 15c1-6.
+22.
+
+How well do the conditions of the ETPs’ exemptions and the staff no-action relief from
+Section 11(d)(1) and Rule 11d1-2 thereunder, as discussed in section I.D.1.b above,
+achieve Section 11(d)(1)’s purpose of prohibiting broker-dealers from using favorable
+margin arrangements to aid in the distribution of securities in which they have an
+interest? Could different conditions be more effective at achieving this purpose?
+
+23.
+
+How often do ETP investors request detailed confirmation information, as discussed in
+Section I.D.1.c above, in creation and redemption transactions as provided for in the
+Commission’s exemptions from Rule 10b-10 and the related staff no-action positions?
+What is the cost to broker-dealers of providing this information? Has the availability of
+modern information technology reduced these costs? Who bears those costs? Do ETP
+investors use and benefit from this information, and if so, how? What would be the effect
+of eliminating the exemptions and no-action relief from Rule 10b-10, thereby requiring
+broker-dealers to provide detailed confirmations to ETP purchasers in all transactions?
+What would be the effect of eliminating the requirement to send this information to ETP
+investors upon request? Could different conditions achieve the purposes of Rule 10b-10
+at less cost or burden to broker-dealers? If so, what trade-offs would there be, if any?
+
+24.
+
+Has Rule 14e-5, discussed in Section I.D.1.e above, affected the structure of ETPs and, if
+so, in what ways?
+
+25.
+
+Authorized Participants generally have no-action relief from the requirements in Rules
+15c1-5 and 15c1-6, as discussed in Section I.D.1.f above, to disclose the Authorized
+
+42
+
+Participants’ control relationships or interest in the distribution of securities that compose
+Portfolio Deposits and Redemption Baskets. Given the large number of securities
+included in many ETPs, would investors realize any benefit from receiving this
+information in creation and redemption transactions? What would be the cost of
+providing this information in all transactions or, alternatively, upon an ETP investor’s
+request, and who would bear those costs? Has the availability of modern information
+technology made it easier or less costly to provide such information? Could different
+conditions for “Qualifying ETFs” 105 achieve the purposes of those rules at less cost or
+burden to broker-dealers? If so, what trade-offs would there be, if any?
+C.
+26.
+
+Exchange Listing Standards
+
+The exchanges (as SROs) and the Commission both have responsibilities with respect to
+determining whether the proposed listing and trading of ETP Securities is consistent with
+the Exchange Act and the rules and regulations thereunder. 106 Do commenters believe
+that these independent obligations, in practice, complement each other? Do commenters
+believe that these obligations overlap each other? To the extent that these obligations
+overlap, how do commenters believe they should be allocated between the exchanges and
+the Commission?
+
+105
+
+See note 62, supra.
+
+106
+
+Exchanges seeking to adopt listing standards applicable to a new ETP product class—or to list and trade
+specific ETP Securities pursuant to existing non-generic listing standards for an ETP product class—are required to
+file proposed rule changes on Form 19b-4. See 17 CFR 249.819. The instructions to Form 19b-4 state that an
+exchange filing the form must provide “a statement of the purpose of the proposed rule change and its basis under
+the [Exchange] Act and the rules and regulations thereunder applicable to the [exchange]” and this statement
+“should be sufficiently detailed and specific to support a finding that the proposed rule change is consistent with the
+requirements of the [Exchange] Act and the rules and regulations thereunder . . . .” To approve an exchange’s
+proposed rule change, the Commission must find that the proposed rule change is consistent with the applicable
+requirements of the Exchange Act and the rules and regulations thereunder. 15 U.S.C. 78s(b)(2)(C). See also supra
+notes 79-89 and accompanying text.
+
+43
+
+27.
+
+Do the business practices of an exchange with respect to attracting, listing, and trading
+ETP Securities differ from an exchange’s business practices with respect to more
+traditional equity listing services? If so, how do these business practices align with the
+existing regulatory framework for exchanges as SROs?
+
+28.
+
+Are current exchange listing standards (including standards with respect to component
+eligibility, diversification, and pricing) effective, given the increasing complexity of ETP
+investment strategies and the expansion of the types of underlying and reference assets
+and benchmarks? For example, do existing listing standards adequately address the use
+by ETPs of non-exchange-listed derivatives or of leverage?
+
+29.
+
+Given the increasing complexity of ETP investment strategies and the expansion of the
+types of underlying or reference assets and benchmarks, what types of information do
+commenters believe would assist the Commission in evaluating whether a proposed rule
+filing by an exchange to list and trade a specific ETP is consistent with the Exchange
+Act?
+
+30.
+
+Should certain characteristics of an ETP receive particular emphasis in the Commission’s
+evaluation of whether a proposed rule filing related to that ETP is consistent with the
+Exchange Act? If so, which ones? For example, should the Commission’s evaluation
+focus on the nature, characteristics, or liquidity of the specific investments, holdings,
+indices, or reference assets of the ETP and on the public availability of information about
+these underlying or reference assets? Should the Commission’s evaluation focus on the
+effectiveness or efficiency of the creation and redemption process in facilitating arbitrage
+opportunities with respect to an ETP? What other factors, if any, should the Commission
+
+44
+
+consider in its evaluation of whether a proposed rule filing related to an ETP is consistent
+with the Exchange Act?
+31.
+
+Exchange listing standards for ETP Securities often contain both initial listing criteria and
+continuing listing criteria. The initial listing criteria include requirements that must be
+met when ETP Securities are initially listed on an exchange. The continuing listing
+criteria include requirements that must be met on an ongoing basis. Should exchange
+listing standards always contain both initial and continuing listing criteria? Should initial
+and continuing listing standards for ETP Securities be substantially identical?
+
+32.
+
+What, if any, is the appropriate role of an exchange that lists ETP Securities with respect
+to monitoring creation and redemption activity? For example, should the exchange be
+informed of an ETP’s decision to suspend creations or redemptions during the trading
+day? If so, should the exchange be required to alert its members, investors, and other
+market participants?
+
+33.
+
+What, if any, is the appropriate role of an exchange that lists ETP Securities with respect
+to monitoring or overseeing the calculation of IIV or NAV?
+
+34.
+
+Do market participants believe that certain types of ETPs are more susceptible to
+manipulation than others? If so, please explain. To what extent, if at all, does the nature,
+characteristics, liquidity, or volatility of an ETP’s underlying or reference assets affect
+the ETP’s susceptibility to manipulation?
+D.
+
+Broker-Dealer Sales Practices and Investor Understanding and Use of ETPs
+
+The Commission seeks comment on the use of ETPs by investors and the ways in which
+ETPs are recommended or sold to investors, particularly retail investors. In particular, the
+Commission seeks comment on the extent to which individual investors buy or sell ETPs with
+complex investment strategies based on the recommendation of a broker-dealer and the extent to
+45
+
+which individual investors understand the nature and operation of such ETPs. The Commission
+also seeks comment on how broker-dealers meet their obligations to customers when
+recommending ETPs. While the questions below focus on broker-dealer sales practices, the
+Commission recognizes that investment advisers also play a role in the purchase or sale of ETPs
+by investors. Consequently, the Commission invites commenters to address the role of
+investment advisers in their responses, where applicable.
+35.
+
+Do individual investors tend to buy and hold ETP Securities? Does the answer depend on
+the type of ETP (e.g., investment objective, structure, or type of underlying asset)? Do
+investments by individual investors tend to be solicited or unsolicited? Please explain and
+provide data where available. If solicited, are solicitations limited to certain categories of
+investors (e.g., retail investors or high-net-worth individuals) and certain types of ETPs?
+If so, which categories of investors receive solicitations and how are the parameters of
+the category determined—e.g., net worth, income, investment experience, options trading
+eligibility? In addition, which types of ETPs are recommended and what are the
+parameters being used to determine whether those ETPs should be recommended? Are
+individual investors purchasing ETPs on the basis of recommendations by brokers?
+
+36.
+
+How effective are the suitability requirements applicable to brokerage accounts in
+addressing broker-dealer sales practices for ETPs in light of the breadth of available ETP
+options and the growing complexity of ETP investment strategies?
+
+37.
+
+What methods do, or could, broker-dealers employ to meet their sales-practice and
+suitability obligations for ETP Securities?
+
+38.
+
+Do investors have access to sufficient information to understand ETPs, how ETP
+Securities trade, the costs associated with trading ETP Securities, and how their prices
+
+46
+
+and valuations are determined, particularly as ETPs encompass increasingly complex
+benchmarks, asset classes, and investment strategies? What is the source of information
+(e.g., exchanges, broker-dealers, market intermediaries, prospectuses, SEC releases, or
+investor alerts) available to investors? Are there ways to better enable investors to access
+information about the listing and trading of ETP Securities? If yes, what are they?
+39.
+
+What roles, if any, should the exchanges have in communicating information about ETP
+Securities to their members, their members’ customers, and the general public? Should
+the answer depend on whether the exchange is the listing exchange or an exchange that
+trades the ETP pursuant to unlisted trading privileges?
+
+40.
+
+How do broker-dealers communicate information about ETP Securities to their
+customers? Are investors introduced to ETPs through information provided generally by
+broker-dealers (e.g., posted on a broker-dealer’s website for all investors to consider)? Do
+broker-dealers provide information to investors regarding the type of investor for which a
+specific product is suitable and what holding periods are appropriate? Are there any other
+ways that broker-dealers should communicate information relevant to the ETP Securities
+to their customers? Do broker-dealers restrict or otherwise limit access by certain types of
+investors to certain types of ETP Securities? If so, please describe these restrictions.
+
+41.
+
+Do broker-dealer communications concerning ETPs provide enough information for a
+retail investor to evaluate the facts concerning ETPs? Do the communications disclose
+the risks and benefits potentially associated with ETPs? Are those disclosures reasonably
+understandable for retail investors, and are they presented in a balanced manner? What
+types of broker-dealer communications about ETPs are most effective?
+
+47
+
+42.
+
+Are there specific aspects of ETP trading that should be communicated to investors to
+better inform their investment decisions (e.g., the specific risks of investing in certain
+products or that certain products may not be suitable for certain types of investors)? Are
+there types of risks in particular ETPs that should be highlighted? If so, in what way, and
+who should have the responsibility for communicating that information? When should
+that information be communicated (e.g., prior to making recommendations or prior to
+accepting a customer order)?
+
+43.
+
+Should broker-dealers have additional responsibility to make available or provide
+information to investors about the risks of investing in ETPs with complex strategies
+prior to making a recommendation or accepting a customer order for such securities?
+What costs would broker-dealers incur in providing such information? Who would bear
+those costs? What costs do broker-dealers currently incur in providing information to
+customers about ETPs? Who bears those costs?
+
+44.
+
+Do broker-dealer communications to investors about ETPs present any performance data?
+If so, how is that data presented? What types of disclosures accompany the performance
+data?
+
+45.
+
+Are there aspects of ETP arbitrage mechanisms that should be prominently disclosed to
+investors? If so, how and where? Do investors understand the arbitrage mechanisms of
+ETPs, and, if so, do they consider the effectiveness and efficiency of these mechanisms
+when making an investment decision? If so, how?
+
+46.
+
+Do broker-dealers use the term “ETF” to describe all types of ETPs (as opposed to only
+those products registered under the 1940 Act)? If so, is this confusing to investors?
+
+48
+
+47.
+
+What use do investors or other market participants make of publicly available
+information such as the index value, IIV, NAV, or portfolio holdings of an ETP? Does
+the answer depend on the type of market participant? If so, why do certain market
+participants use certain information? If market participants do not use certain
+information, why not? Do the answers depend on the type of underlying asset?
+
+48.
+
+Do investors understand what an ETP’s IIV represents and what it does not? For
+example, do they understand that the IIV is not a “real-time” update of the NAV and that
+it is not the price at which they can purchase ETP Securities? Do investors understand
+how the IIV calculation method can differ from the method used to calculate NAV? Do
+investors understand that IIV may be a lagging indicator of actual portfolio values during
+periods of rapid price movements? Please describe the basis for any views expressed
+regarding the understanding of investors.
+
+49.
+
+Do investors’ expectations of the nature of the liquidity, the bid-ask spreads, and the
+market prices of an ETP holding less-liquid underlying securities differ from their
+expectations of the characteristics of those underlying securities? If so, in what ways do
+investors expect ETPs based on less-liquid securities to trade differently than the
+underlying securities themselves?
+E.
+
+50.
+
+Other
+
+The Commission notes that, over the years, there have been ETPs that have closed after
+being listed and traded for some period of time. What are the consequences to investors
+of the closure and liquidation or termination of an ETP?
+
+51.
+
+How are the types and complexity of the investment strategies and investment objectives
+of ETPs, and the nature of the market for ETPs, likely to develop in the future? How
+might these changes affect the listing and trading of ETP Securities? How might these
+49
+
+changes affect any underlying securities held by an ETP—for example with respect to
+liquidity, volatility, and capital formation?
+52.
+
+As noted above, the total market capitalization of ETPs has grown significantly, nearly
+doubling since the end of 2009. What do commenters believe are the main reasons for
+this growth? Do commenters expect significant growth in the number, variety, and
+market capitalization of ETPs to continue? If such growth continues, how might that
+affect the exchanges’ listing and trading of ETP Securities? How might this growth affect
+investors, broker-dealers, or other market participants?
+
+53.
+
+The Commission provides market structure research, interactive data visualization tools,
+and advanced market metrics on its Market Structure Data and Analysis website,
+http://www.sec.gov/marketstructure/index.html. Users of the website and its data can,
+among other things, compare quoting and trading characteristics of ETPs to those of other
+equity securities. Have commenters drawn any observations or conclusions from this data
+about the listing and trading of ETPs? What effects, if any, does market structure have on
+the quoting and trading of ETPs? What effects, if any, does the quoting and trading of
+ETPs have on the general characteristics of current equity market structure? Do any
+specific aspects of current equity market structure facilitate or hinder the fair and efficient
+quoting and trading of ETPs? What types of additional information or data would
+commenters like to see regarding the quoting and trading characteristics of ETPs?
+
+50
+
+The Commission welcomes all comments and encourages commenters to discuss any
+other questions, issues, concerns, or data regarding the listing and trading of ETP Securities on
+national securities exchanges.
+
+By the Commission.
+Dated: June 12, 2015
+
+Brent J. Fields
+Secretary
+
+51
+
+

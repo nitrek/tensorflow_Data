@@ -1,0 +1,280 @@
+Recommendations of the Investor Advisory Committee
+Regarding the SEC and the Need for the Cost Effective Retrieval of
+Information by Investors
+(Adopted July 25, 2013)
+Preliminary Observations:
+The Securities and Exchange Commission (“SEC”) houses and stewards an enormous
+repository of information that is invaluable to US businesses, investors, the financial sector and
+capital markets. With approximately 10,000 public companies and thousands of regulated
+entities (and 11,000 registered investment advisors, 4061 of which advise “private” funds and
+approximately 8000 mutual funds), massive amounts of data are regularly submitted to the SEC. 1
+Since the vast majority of this information is not currently machine readable, it is difficult to
+retrieve, analyze and compare. These actions must, therefore, be done manually on a filing-byfiling basis.
+Modern technology provides the SEC with the opportunity to unlock far greater value
+from the information that it collects and stores. Through the consistent application of data
+tagging formats like XML and XBRL, information filed with the Commission can become fully
+machine-readable and more easily accessible. Tagged data can, for example, be automatically
+downloaded into a spread sheet, where it can be sorted and analyzed.
+Data tagging will enable investors, regulators, and other capital market participants to
+retrieve information in a cost effective and highly usable fashion. It will facilitate the SEC’s
+ability to monitor securities markets and assess the costs and benefits of regulatory practices.
+Tagging can also facilitate investor participation in the governance process. As the SEC’s Proxy
+Plumbing Release stated: “If issuers provided reportable items in interactive data format,
+shareholders may be able to more easily obtain specific information about issuers, compare
+information across different issuers, and observe how issuer-specific information changes over
+time as the same issuer continues to file in an interactive data format.” 2
+Data tagging is consistent with recent initiatives within Congress and the Executive
+Branch. The Administration has issued an Executive Order 3 and implementing memorandum 4
+1
+
+http://www.sec.gov/news/press/2012/2012-214.htm
+Concept Release on the U.S. Proxy System, Exchange Act Release No. 62495 (July 14, 2010), available at
+http://www.sec.gov/rules/concept/2010/34-62495.pdf
+3
+Executive Order -- Making Open and Machine Readable the New Default for Government Information, May 9,
+2013, available at http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-andmachine-readable-new-default-government- (“To promote continued job growth, Government efficiency, and the
+social good that can be gained from opening Government data to the public, the default state of new and modernized
+Government information resources shall be open and machine readable.”).
+4
+Open Data Policy – Managing Information as an Asset, Memorandum No. M-13-13 for the Heads of Executive
+Departments and Agencies, May 9, 2013, available at
+http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf (“Open Data Policy
+Memorandum”). Under this Policy, agencies are required to take steps toward making their data “fully discoverable
+2
+
+1
+
+designed to promote open data 5 by making machine readable information “the new default for
+government information”. 6 Data tagging is also consistent with a policy of smart disclosure, an
+initiative underway within the Office of Science and Technology Policy and the Office of Smart
+Disclosure in the US Department of the Treasury. 7
+Tagging has also drawn increased attention in Congress. Dodd-Frank for the first time
+required the SEC to tag specific information. 8 Other legislative proposals have sought to expand
+the use of data tagging. 9
+Finally, it is important to note that tagging is a global phenomenon. The British require
+all corporate tax returns to be tagged and filed online. 10 Israeli companies must submit tagged
+filings to the country’s securities commission. 11 Japan in 2008 began requiring listed companies
+to file XBRL-based financial statements with the Financial Services Agency. 12 In June 2013, the
+European Parliament approved a proposal that would assign to the European Securities and
+Markets Authority the task of developing a single electronic format for financial statements filed
+with European exchanges. In developing this format, the Authority was specifically instructed to
+give “due reference to current and future technological options, such as eXtensible Business
+Reporting Language”. 13
+
+and usable by end users” by imposing machine-readable data tagging formats and ensuring that the data is readily
+available online.
+5
+The term “open data” has been defined as “publicly available data structured in a way that enables the data to be
+fully discoverable and usable by end users.” Open Data Policy Memorandum, supra note 3.
+6
+Agencies in the Executive Branch are required to take steps toward making their data “fully discoverable and
+usable by end users” by imposing machine-readable data tagging formats and ensuring that the data is readily
+available online. Although applicable to agencies within the Executive Branch, the Policy “request[s]” that
+independent agencies such as the SEC “adhere to” the Order. Executive Order, supra note 2.
+7
+See Smart Disclosure Data Community, http://www.whitehouse.gov/blog/2013/02/11/consumerdatagov-live
+Smart disclosure is defined as “the act of making potentially useful data more readily available—both to consumers
+directly and to innovators who can use it to build tools that help consumers make smart decisions.”
+8
+See Section 13(q), 15 USC 78m(q)(2)(D)(ii) (requiring reports filed by resource extraction issuers to be tagged).
+9
+There have been legislative proposals designed to increase the use of tagging by the federal government. See
+Digital Accountability and Transparency Act, H.R. 2061, 113th Cong., 1st Sess. (May 21, 2013), available at
+http://www.govtrack.us/congress/bills/113/hr2061/text; see also Financial Industry Transparency Act, H.R. 6038,
+111th Cong., 1st Sess. (July 30, 2010), available at http://www.thomas.gov/home/gpoxmlc111/h6038_ih.xml
+10
+For a webinar covering the use of XBRL by the British tax authorities, see
+http://www.youtube.com/watch?v=Yhvjs22GNU8
+11
+http://www.isa.gov.il/Download/IsaFile_2343.pdf
+12
+Evidence suggests that the use of tagging in Japan has had a positive effect. See Bai, Zhenyang, Sakaue, Manabu
+and Takeda, Fumiko, The Impact of XBRL Adoption on the Information Environment: Evidence from Japan, at 29
+(December 15, 2012) (“Our findings suggest that XBRL disclosures have the potential to reduce information
+asymmetry through improved accessibility and transparency.”), available at
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2199696.
+13
+Available at http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-TA-20130262+0+DOC+XML+V0//EN&language=EN#BKMD-32.
+
+2
+
+IAC Recommendations:
+
+Recommendation 1
+That the Securities and Exchange Commission (“SEC”) adopt a “Culture of Smart
+Disclosure” that promotes the collection, standardization, and retrieval of data filed with the SEC
+using machine-readable data tagging formats. To implement this Culture of Smart Disclosure,
+the Commission should consider:
+•
+
+Issuing a public statement acknowledging the approach;
+
+•
+
+Requiring each operating division within the SEC to integrate data tagging into all future
+rulemaking and rule revision efforts that involve the collection of data by the SEC; and
+
+•
+
+Providing adequate resources to implement this Culture, particularly through an increase
+in the resources of the SEC’s Office of Interactive Data.
+
+Supporting Statement:
+The implementation of a Culture of Smart Disclosure will require a serious commitment
+by the Commission and the staff. The approach contemplates that the Commission will consider
+appropriate methods of ensuring the collection, standardization, and retrieval of data filed with
+the SEC, particularly data tagging, and incorporate these approaches, where appropriate, into all
+rulemaking endeavors that require the filing of data with the Commission. Currently, the SEC
+requires tagging in only a limited number of filings.
+To become an ordinary part of the rulemaking process, the Commission should provide
+for the involvement of the Division of Economic and Risk Analysis (“DERA”) at formative
+stages of the rulemaking process. This would allow DERA to determine the value and feasibility
+of tagging in any rulemaking endeavor and to assess the relevant costs associated with
+implementation. Such involvement would typically need to occur before the publication of any
+proposed rule.
+More than just imbedding tags into forms, a Culture of Smart Disclosure will need to
+promote standardization and facilitate recovery. This may include consideration of: (1) the
+development of uniform tags that allow for data recovery across multiple forms; (2)
+consideration of the use of Inline XBRL (iXBRL), an XBRL module that allows machine
+readable tags to be embedded into human readable HTML filings; (3) the development of the
+tools necessary that facilitate the organization of data submitted to the SEC; (4) the active
+monitoring of any system of tagging in order to ensure both compliance and uniformity in
+application; and (5) the creation of a long-term plan to convert information filed with the SEC
+
+3
+
+into tagged data. 14 The Commission should perhaps explore other alternatives designed to
+facilitate the collection, standardization and retrieval of data.
+To implement a Culture of Smart Disclosure, the Commission will need to assign the
+necessary resources to the task. Some of the additional responsibilities will fall directly on the
+operating divisions. In addition, additional resources will need to be assigned to the Office of
+Interactive Data in DERA. The Office will need the resources that will allow for participation in
+all relevant rulemaking proceedings, for the monitoring of any system of tagging implemented
+by the SEC, and for working with other federal agencies in order to promote data collection,
+standardization and retrieval. 15
+
+Recommendation 2
+That the SEC should take steps designed to reduce the costs of providing tagged data,
+particularly for smaller issuers and investors.
+
+Supporting Statement:
+The SEC currently requires the tagging of financial statements submitted by reporting
+companies. As a result, all public companies have some experience with tagging data.
+Nonetheless, the need to tag additional data may, in some cases, impose additional compliance
+costs, a possibility of particular concern for small issuers or investors.
+These costs need to be considered in any future rulemaking endeavor that involves the
+consideration of tagging. To reduce these costs, however, the Commission should consider the
+development, where practical and technologically feasible, of applications that allow users to
+enter information on forms that can be converted to XML or XBRL by the SEC. Precedent
+exists for this approach. Investors filing reports under Section 16(a) of the Exchange Act do so
+on forms provided online by the SEC and converted to XML when filed. This would insure that
+data collection is done in the most cost effective and efficient manner, especially for smaller
+issuers and investors.
+
+14
+
+Compliance may include, for example, the issuance of formal comments in response to errors in XBRL filings.
+The Office of Interactive Data has issued public statements drawing attention to common errors in the XBRL
+versions of corporate issuers’ financial statements. See Office of Interactive Data, Staff Observations from Review
+of Interactive Data Financial Statements, June 15, 2011, available at http://www.sec.gov/spotlight/xbrl/staff-reviewobservations-061511.shtml (last accessed June 15, 2013). Consideration should be given, however, to the
+incorporation of XBRL corrections into the comment letter process used by the operating divisions
+15
+For example, the Office of Financial Research, US Department of the Treasury, is currently developing “standards
+for financial data to benefit regulators and financial market participants by improving data quality, facilitating data
+aggregation, and reducing costs associated with data collection.” See
+http://www.treasury.gov/initiatives/ofr/data/Pages/default.aspx
+
+4
+
+Recommendation 3
+That the SEC gives priority to the revision of certain existing forms to provide for the
+tagging of data that would provide increased transparency with respect to corporate governance.
+Such revisions should include:
+•
+
+The portions of the proxy statement on Schedule 14A that relate to executive
+compensation (including the compensation discussion and analysis and the compensation
+paid to directors) and matters voted upon by shareholders (including the election of
+directors). Data tagging should be done in a manner designed to facilitate automated
+matching of voting items in a proxy filing to voting results disclosed by mutual funds in
+Form N-PX and by issuers in current reports on Form 8-K;
+
+•
+
+Form N-PX filed by mutual funds. 16 The forms that include the registrant’s proxy voting
+record for the most recent 12 month period; and
+
+•
+
+Voting results filed with the Form 8-K. Item 5.07 of Form 8-K requires issuers to report
+voting results for any matter submitted to shareholders through the solicitation of proxies
+(including the election of directors). 17
+
+Supporting Statement:
+The Recommendation proposes that the SEC give immediate priority to the tagging of
+information important to investors in the exercise of their governance rights. 18 As the
+Commission noted in requiring the disclosure of voting information by funds:
+Proxy voting decisions by funds can play an important role in maximizing the value of
+the funds' investments, thereby having an enormous impact on the financial livelihood of
+millions of Americans. Further, shedding light on mutual fund proxy voting could
+illuminate potential conflicts of interest and discourage voting that is inconsistent with
+fund shareholders' best interests. Finally, requiring greater transparency of proxy voting
+by funds may encourage funds to become more engaged in corporate governance of
+issuers held in their portfolios, which may benefit all investors and not just fund
+shareholders. 19
+
+16
+
+See http://www.sec.gov/about/forms/formn-px.pdf A separate report is typically filed for each fund within a fund
+family. See Gerald Davis & E. Han Kim, Business Ties and Proxy Voting by Mutual Funds, 85 J. of Financial
+Economics 552, 556 (2007) (“The vote of each fund within a fund family is typically reported on separate N-PX
+forms; Fidelity, for instance, filed forms for several dozen funds.”).
+17
+http://www.sec.gov/about/forms/form8-k.pdf The tagging of one item in Form 8-K may be impractical. In those
+circumstances, the Commission should consider revising the Form to require that all data in the Form be tagged.
+18
+The Committee is aware that concerns have arisen over the regulatory regimes applicable to the corporate
+governance process. This resolution is designed to increase transparency within the existing framework but
+otherwise does not speak to the merits of current regulatory regime.
+19
+Disclosure of Proxy Voting Policies and Proxy Voting Records by Registered Management Investment
+Companies, Investment Company Act Release No. 25922 (Sept. 23, 2003).
+
+5
+
+By tagging the voting data and results contained in Form N-PX, investors will be better
+able to compare outcomes on comparable proxy proposals and director elections and assess the
+voting records of mutual funds. As the Proxy Plumbing Release noted, the tagging of voting
+data could “facilitate more informed voting and investment decisions and assist in automating
+regulatory filings and business information processing.” 20
+Likewise the tagging of compensation data will facilitate comparisons among public
+companies. Such data has grown in importance in the era of Say-on-Pay. Amendments adopted
+by the SEC in 2006 also facilitated comparisons of compensation paid to directors. 21 Finally, the
+SEC has experience with respect to the tagging this type of data. 22
+This Recommendation seeks to promote the tagging of information long sought by
+investors. This is particularly consistent with the spirit of the Executive Order promoting open
+and machine readable information. The Order seeks to promote “open government” by “making
+information resources easy to find, accessible, and usable which can fuel entrepreneurship,
+innovation, and scientific discovery that improves Americans' lives and contributes significantly
+to job creation.”
+Significantly, the predecessor to this Committee unanimously recommended that these
+forms be tagged. In addition, the Commission also sought and obtained comments in the Proxy
+Plumbing Release on whether the executive compensation tables should be tagged.
+
+20
+
+Dodd Frank recognized the importance of voting information in this area. See Section 951 of Dodd-Frank (adding
+Section 14A to the Exchange Act and requiring that “[e]very institutional investment manager subject to section
+78m(f) of this title shall report at least annually how it voted on any shareholder vote pursuant to subsections (a) and
+(b), unless such vote is otherwise required to be reported publicly by rule or regulation of the Commission.”).
+21
+The SEC mandated the use of a summary compensation table for directors in 2006. See Executive Compensation
+and Related Person Disclosure, Exchange Act Release No. 54302A (August 29, 2006) (noting that Commission was
+“adopting a director compensation table that is similar to the amended Summary Compensation Table.”).
+22
+http://www.sec.gov/news/press/2008/2008-85.htm (noting that the SEC has “created an online database tagging
+executive compensation data for 500 large companies.”).
+
+6
+
+

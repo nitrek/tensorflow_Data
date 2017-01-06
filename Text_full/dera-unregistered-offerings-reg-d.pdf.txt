@@ -1,0 +1,1678 @@
+ 
+
+ 
+Capital Raising in the U.S.: An Analysis of Unregistered 
+Offerings Using the Regulation D Exemption, 2009‐20121  
+An update of the February 2012 study2 
+JULY 2013 
+ 
+ 
+ 
+VLADIMIR IVANOV AND SCOTT BAUGUESS  
+Division of Economic and Risk Analysis (DERA) 
+U.S. Securities and Exchange Commission 
+ 
+ 
+ 
+
+ABSTRACT 
+In 2012, we issued a report on capital raising in the U.S. through unregistered offerings, using 
+information extracted from Form D filings received by the U.S. Securities and Exchange 
+Commission since the beginning of 2009 through the first quarter of 2011. In this report we 
+update our analysis through the end of 2012 and provide additional analysis on the types of 
+issuers, investors, and financial intermediaries that participate in such offerings. As with our 
+previous report, the results are intended to inform the Commission about the amount and 
+nature of capital raised through unregistered offerings claiming a Regulation D exemption, and 
+to provide some perspective on the state of competition and potential regulatory burden in 
+capital markets. In particular, we compare the amount of capital raised in reliance on 
+Regulation D to capital raised from registered and other unregistered offering methods. This 
+information may be particularly useful in assessing the potential need for current or future 
+rulemaking activity. This analysis is not intended to inform the Commission about compliance 
+with or enforcement of federal securities laws. 
+                                                            
+1
+
+ This study was prepared for Craig Lewis, Director of DERA and Chief Economist, and is a follow‐up to a 2012 study 
+by a similar name. The document was reviewed by Gerald Laporte and Karen Wiedemann, Division of Corporation 
+Finance. Research assistance provided for by Ross Goetz. The U.S. Securities and Exchange Commission, as a 
+matter of policy, disclaims responsibility for any private publication or statement of any of its employees. The 
+views expressed herein are those of the authors and do not necessarily reflect the views of the Commission or of 
+the authors’ colleagues on the staff of the Commission. 
+2
+ See http://www.sec.gov/info/smallbus/acsec/acsec103111_analysis‐reg‐d‐offering.pdf 
+
+1 
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+ 
+
+ 
+
+SUMMARY OF MAIN FINDINGS  
+
+
+Capital raised through Regulation D offerings continues to be large – $863 billion 
+reported in 2011 and $903 billion in 2012.  
+
+
+
+Since 2009, hedge funds reported raising $1.3 trillion through Regulation D offerings. 
+Private equity funds reported $489 billion; non‐financial issuers3 reported $354 billion. 
+Foreign issuers account for 19% of the total amount sold. 
+
+
+
+Since 1993, the number of Regulation D offerings is highly, positively correlated with 
+market performance, suggesting that the health of the private market is closely tied to 
+the health of the public market. 
+
+
+
+Because there is no Form D closing filing requirement, the amount of capital raised 
+through Regulation D offerings may be considerably larger than the amounts disclosed. 
+Only 63% of capital sought since 2009 is reported as sold within 15 days of the first sale.  
+
+
+
+Rule 506 accounts for 99% of amounts sold through Regulation D. More than two‐thirds 
+of non‐fund issuers could have claimed a Rule 504 or 505 exemption based on offering 
+size, indicating that issuers value the Blue Sky law preemption allowed under Rule 506. 
+
+
+
+Consistent with the original intent of Regulation D to target the capital formation needs 
+of small business, there have been more than 40,000 issuances by non‐financial issuers 
+since 2009 with a median offer size of less than $2 million. 
+
+
+
+Form D filings report that more than 234,000 investors participated in Regulation D 
+offerings in 2012, of which 91,000 participated in offerings by non‐financial issuers, 
+more than double the number of investors participating in hedge fund offerings. Non‐
+accredited investors were present in only 10% of Regulation D offerings. 
+
+
+
+Only 13% of Regulation D offerings since 2009 report using a financial intermediary 
+(broker‐dealer or finder). The real estate issuers use intermediaries the most (27% of 
+offerings), while hedge funds use them the least (6% of offerings).  
+
+
+
+When an intermediary is used, commissions or fees are 6% of the offering, on average, 
+for offerings under $1 million. The rate monotonically declines to less than 2% for 
+offerings greater than $50 million.  
+
+                                                            
+3
+
+ All issuers that are not pooled investment funds and that are not in the following Form D listed industries: 
+commercial banking, Insurance, Investing, investment banking, and other banking& financial services. 
+
+3 
+ 
+
+ 
+
+I. The size of the Regulation D market 
+In our 2012 report on capital raising through unregistered offerings, we documented that 
+the total amount sold through the Regulation D market was large during calendar years 2009 
+and 2010, a finding consistent with prior reports on the analysis of Regulation D filings by the 
+Office of Inspector General (OIG).4 Our updated analysis of issuer self‐reported data through 
+electronic Form D filings in Table 1 reveals that the number of unregistered offerings and 
+corresponding amounts raised continue to be large through the end of 2012, although the peak 
+capital raising year remains 2010.5  
+Table 1. Capital raised through Regulation D and Regulation D/A (amended) offerings*  
+Regulation D  Regulation D/A 
+Total  
+Mean  
+Median  
+filings 
+filings 
+amount sold  
+amount sold  
+amount sold*  
+Year 
+(number) 
+(number) 
+($ Billions) 
+($ millions) 
+($ millions) 
+2009 
+13,764 
+7,077 
+595 
+36 
+1.5 
+2010 
+17,581 
+11,864 
+1,025 
+26 
+1.4 
+2011 
+18,174 
+12,536 
+863 
+28 
+1.5 
+2012 
+18,187 
+13,284 
+903 
+27 
+1.5 
+*Mean and median amount sold based on initial (new) Form D filings only. Total amount sold includes additional 
+amounts raised and reported in amended filings, recorded at the time of the amendment.  
+
+These estimates are based on the “total amount sold” at the time of the original filing – 
+required within 15 days of the first sale – as well as any additional capital raised and reported in 
+amended filings. These estimates likely underreport the actual amount sold due to several 
+factors. First, because electronic filings were phased‐in through the end of March 2009, paper 
+filings in 2009 are not captured in the analysis. Underreporting could occur in all years because 
+Regulation D filings can be made prior to the completion of the offering, and amendments to 
+reflect additional amounts sold generally are not required if the offering is completed within a 
+year and the amount sold does not exceed the original offering size by more than 10%. Finally, 
+while Rule 503 requires the filing of a notice on Form D of all offerings under Regulation D, 
+during the sample period filing a Form D is not a condition to claiming a Regulation D safe 
+harbor or exemption, and it is possible that some issuers do not file Form Ds for offerings 
+intended to be eligible for relief under Regulation D.6  
+                                                            
+4
+
+ The 2004 OIG report, Small Business Regulation D Exemption Process, Report No. 371, documents that the 
+Commission recorded unregistered offerings of $1.2 trillion between January 2000 and March 2001.  The 2008 OIG 
+audit of the Commission’s Regulation D Exemption Process, Regulation D Exemption Process, Report No. 459, 
+issued on March 31, 2009 estimated unregistered offerings of $609 billion during 2008 based on a sample of 323 
+electronic form D filings made between September 15, 2008 and December 31, 2008. 
+5
+ We revised upwards the numbers reported in our previous report for 2009 ($587 billion) and 2010 ($906 billion). 
+The revision is due to our more accurate accounting for amounts from amended Form D filings. See Appendix for 
+details on the methodology used to collect and analyze the Form D information in this report. 
+6
+ Separate analysis by DERA staff of Form D filings by funds advised by registered investment advisers and broker‐
+dealer members of FINRA suggests that Form D filings are not made for as much as 10% of unregistered offerings 
+eligible for relief under Regulation D. 
+
+4 
+ 
+
+ 
+
+Although the aggregate amount of capital raised through Regulation D offerings is large, 
+the average offering size is modest, on the order of $30 million in each year. The median 
+offering size is significantly lower, around $1.5 million in each year, indicating a large number of 
+small offerings, consistent with the original regulatory objective to target the capital formation 
+needs of small business.7 The summary statistics in Table 1 also indicate that a large fraction of 
+offerings are amendments to previously filed offerings, mostly attributed to the continuation of 
+private fund offerings discussed in more detail below. Underscoring the importance of the 
+Regulation D market as a source of capital to smaller firms, a significant number of issuers have 
+relied on this market over the last four years. There were 49,740 unique issuers of new 
+Regulation D offerings over the four years under consideration. This number increases to 
+56,968 with the inclusion of ongoing (amended) offerings. 
+While these estimates do not reflect the actual amount sold, we estimate in Figure 1 an 
+upper bound for issuers reporting on Form D based on their reported “total offering amount,” 
+which for non‐fund issuers represent the amount of capital sought at the time of the filing. This 
+is the statistic used in the OIG reports and the only statistic available on non‐electronic Form D 
+filings prior to 2008.8 The statistic is less relevant for fund issuers that seek an indefinite 
+amount of capital.  
+ 
+Figure 1. Total amounts offered and sold by non‐funds 
+400
+350
+300
+250
+200
+150
+100
+50
+0
+2009
+
+2010
+
+Amount sold by non‐funds
+
+2011
+
+2012
+
+Amount offered by non‐funds
+
+ 
+                                                            
+7
+
+ The Commission stated in the Regulation D adopting release that an important purpose of the Form D filing 
+requirement was “to collect empirical data which will provide a basis for further action by the Commission either in 
+terms of amending existing rules and regulations or proposing new ones.  Further, the proposed Form would allow 
+the Commission to elicit information necessary in assessing the effectiveness of Regulation D as a capital raising 
+device for small businesses.” Release No. 33‐6389 (Mar. 8, 1982) [47 FR 11251] (adopting Form D as a replacement 
+for Forms 4(6), 146, 240 and 242). 
+8
+ See  Electronic Filing and Revision of Form D, Release No. 33‐8891 (Feb. 6, 2008) [73 FR 10592]. 
+
+5 
+ 
+
+ 
+
+Figure 1 reports the amount sold for non‐funds, and the additional amount sought but not 
+sold at the time of the original filing. We exclude new original filings that indicate zero amounts 
+sold at the time of the filing and do not subsequently report any amount sold. For the years 
+2009 through 2012, 63% of the total capital sought by non‐funds was reported as sold. 
+However, because offerings may not be fully subscribed, the total offering amount is best 
+viewed as an upper bound of total capital raised among those issuers that report on Form D.  
+
+a. Cyclicality 
+Figure 2 presents a more comprehensive time series of Regulation D offering activity 
+based on the number of offerings by calendar year starting in 1993. These numbers correspond 
+to all new (non‐amended) Form D filings on the EDGAR filing system. While these numbers do 
+not indicate the aggregate amount raised through these offerings, Table 1 suggests that 
+offering sizes over the most recent four years are fairly constant, suggesting that year‐to‐year 
+changes in the number of offerings are likely to also track changes in the amounts sold.  
+ 
+Figure 2. Number of Regulation D offerings, 1993‐2012 
+1,600
+
+25,000
+
+1,400
+20,000
+
+1,200
+1,000
+
+15,000
+
+800
+10,000
+
+600
+400
+
+5,000
+
+200
+0
+
+New Reg D offerings
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+1999
+
+1998
+
+1997
+
+1996
+
+1995
+
+1994
+
+1993
+
+0
+
+S&P500
+
+ 
+The trend shows that 2009 was an abnormally low year, consistent with the onset of the 
+financial crisis. More broadly, there is a strong, positive correlation with the economic condition 
+of the public market. In particular, the level of Regulation D offering activity closely follows the 
+level of the S&P 500 index. There were peaks in the number of Regulation D offerings in 2000 
+and 2007, consistent with heightened stock market valuations. Hence, private offerings in the 
+Regulation D market are pro‐cyclical, suggesting that the health of the private capital market is 
+closely tied to that of the public capital market. This result is inconsistent with the view that 
+private capital markets step in during times of public market stress.   
+6 
+ 
+
+ 
+
+b. Prevalence of Rule 506  
+Most Regulation D offerings are issued under Rule 506, 94% since 2009 (Figure 3), which 
+provides a safe harbor for the private offering exemption under Section 4(a)(2) of the Securities 
+Act, and is one of three exemptive rules for limited and private offerings under Regulation D.  
+Rule 506 offerings account for more than 99% of the reported capital raised through Regulation 
+D offerings since 2009. The current Rule 506 permits sales of an unlimited dollar amount of 
+securities to be made, without registration, to an unlimited number of accredited investors and 
+up to 35 non‐accredited investors, so long as there is no general solicitation, appropriate resale 
+limitations are imposed, any applicable information requirements are satisfied and the other 
+conditions of the rule are met. 9 In addition, securities issued under Rule 506 are considered 
+“covered securities” under Section 18 of the Securities Act, thus exempt from Blue Sky law 
+registration. In contrast, alternative private offering exemptions Rules 504 and 505 offerings 
+are limited to $1 million and $5 million respectively, and are subject to state Blue Sky 
+registration laws.10 While Rule 505 limits the participation of non‐accredited investors to 35 per 
+offering, Rule 504 allows for unlimited number of non‐accredited investors. Lastly, issuers 
+relying on Rule 504 may, under certain circumstances, use general solicitation and also sell 
+unrestricted securities.  
+ 
+Figure 3. Fraction of offerings and amount raised by Regulation D Exemption, 2009‐2012 
+
+99.2%
+94.2%
+
+Rule 506
+Rule 504*
+
+0.0%
+4.0%
+
+Rule 505
+
+0.1%
+1.4%
+
+Missing
+
+0.7%
+0.3%
+
+Amount Raised
+Number of Offerings
+
+ 
+
+Table 2 shows that Rule 506 is the dominant offering method even among those offerings 
+eligible for Rules 504 and 505. Almost 50% of all Rule 506 offerings by non‐funds since 2009 
+were for $1 million or less and therefore may have qualified for the Rule 504 exemption based 
+on offering size, but issuers elected to claim the Rule 506 exemption. An additional 20% of 
+offerings were for between $1 million and $5 million and therefore could have claimed a Rule 
+505 exemption based on offering size. This evidence suggests that the Blue Sky law preemption 
+feature unique to Rule 506 offerings has greater value to issuers than the unique features of 
+Rule 504 or Rule 505 offerings.  With the adoption of rules under Title II of the JOBS Act that 
+                                                            
+9
+
+ See SEC Release No. 33‐9211, page 4 and footnote 8.  
+ See discussion of rules 504, 505, and 506 or Regulation D at http://www.sec.gov/answers/regd.htm 
+
+10
+
+7 
+ 
+
+ 
+
+remove the ban on general solicitation and allow issuers to generally solicit and advertise to 
+everyone in Rule 506 offerings sold only to accredited investors, there will be even greater 
+incentive for issuers to use Rule 506.  
+Table 2. Number of offerings by non‐fund issuers, by size and exemption claimed, 2009‐2012* 
+ 
+
+Offering size 
+< $1  
+$1‐5  
+$5‐50  
+>$50  
+  
+million 
+million 
+million 
+million 
+  Rule 504 
+1,997 
+‐‐ 
+‐‐ 
+‐‐ 
+  Rule 505 
+705 
+229 
+‐‐ 
+‐‐ 
+  Rule 506  
+19,424 
+11,957 
+8,103 
+1,268 
+*Considers only new offerings and excludes offerings with amount sold reported as $0 on Form D. 
+
+c. Size relative to registered offerings 
+In our prior report, we report that the total capital raised annually through Regulation D 
+offerings is large when compared to other common sources of capital, including: 
+
+
+
+
+
+Public debt and equity (registered) offerings11 
+Rule 144A (resale of unregistered securities)12 
+Regulation S (offshore component of 144A offerings) 13 
+Other Section 4(a)(2) private offerings14 
+
+Figure 4 illustrates that the amount of capital raised through Regulation D offerings 
+remains large relative to other private offering exemptions and is comparable, but larger, than 
+the amount of capital raised under Rule 144A15. Registered offerings (debt and equity 
+combined) account for more capital formation that the Regulation D market alone, but not 
+when all private offering methods are combined. In 2012, registered offerings accounted for 
+$1.2 trillion of new capital compared to $1.7 trillion raised through all private offering channels.  
+Moreover, for the reasons described earlier, the amount raised through private offerings is 
+likely understated due to our inability observe all private capital activity.  
+                                                            
+11
+
+ Data for registered debt and equity offerings from Thomson Financial’s SDC Platinum.  
+ Data on non‐ABS Rule 144A offerings collected from Thomson Financial SDC new Issues database and the 
+Mergent database. Data on ABS Rule 144A offerings are collected from the Asset‐Backed Alert and Commercial 
+Mortgage Alert publications. 
+13
+ Data for Regulation S offerings collected from Thomson Financial’s SDC Platinum service. 
+14
+ Data collected from Thomson Financial’s SDC Platinum, which uses information from underwriters, issuer 
+websites, and issuer SEC filings to compile its Private Issues database. These include offerings under Section 4(a)(2) 
+of the Securities Act that do not claim a Regulation D or Reg S exemption and that are without a follow‐on Rule 
+144A sale. These numbers are accurate only to the extent that SDC is able to collect such information, and may 
+understate actual the amount of capital raised under Section 4(a)(2) if issuers and underwriters do not make this 
+data available.  
+15
+ By its terms Rule 144A is available solely for resale transactions.  However, market participants use it to facilitate 
+capital‐raising by issuers by means of a two‐step process, in which the first step is a primary offering on an exempt 
+basis to one or more financial intermediaries, and the second step is a resale to “qualified institutional buyers” in 
+reliance on Rule 144A. 
+12
+
+8 
+ 
+
+ 
+ 
+Figure 4. Aggregate capital raised in 2009‐2012 by offering method ($billions) 
+1,250
+1,000
+750
+500
+250
+0
+Public debt
+
+Public equity
+2009
+
+Reg D
+2010
+
+2011
+
+Rule 144A
+
+Reg S+Sec 4(a)(2)
+
+2012
+ 
+
+ 
+
+Table 2 shows that Regulation D offerings occur with far greater frequency than any other 
+offering method surveyed. No other offering method has been used even a tenth as much 
+during the same period, indicating that the accumulation of capital raised through Regulation D 
+occurs by way of much smaller offering denominations than other methods, and is further 
+evidence of it being a primary tool for smaller entities.  
+ 
+Table 2. Number of offerings by type of offering and year 
+Year 
+2009 
+2010 
+2011 
+2012 
+
+Regulation D   Public equity 
+20,841 
+942 
+29,445 
+1,072 
+30,710 
+863 
+31,471 
+954 
+
+Public debt 
+1,445 
+1,930 
+1,465 
+1,473 
+
+Rule 144A 
+1,240 
+1,607 
+1,148 
+1,302 
+
+Reg S 
+294 
+262 
+97 
+13 
+
+Other 
+4(a)(2) 
+648 
+668 
+863 
+518 
+
+ 
+The importance of the Regulation D market is magnified when considering that 
+approximately two‐thirds of Reg D offerings represent new equity capital (Figure 5), which is a 
+more permanent source of capital than debt, and thus more likely to reflect new investment as 
+opposed to the refinancing of existing investment. Put differently, to the extent that debt 
+offerings are attributed to the “rolling over” of existing debt due to an expiring term or 
+refinancing due to a change in interest rate environment, such transactions do not reflect the 
+financing of new investment.16 In addition, a larger fraction of non‐financial issuers rely on Reg 
+D for raising capital compared to the Rule 144A market, where the vast majority of issuers are 
+financial institutions and over 99% of securities are debt securities. 
+                                                            
+16
+
+ It is possible that equity issuances in Regulation D offerings reflect deleveraging – conversion of debt to equity, 
+which may not reflect new investment. 
+
+9 
+ 
+
+ 
+ 
+17
+Figure 5. Number and percent of Reg D offerings by type of security issued   
+Equity
+Pooled Investment Fund Interests
+
+44,525
+15,897
+
+Option, Warrant or Other Right to
+Acquire Another Security
+
+9,012 13.3%
+
+Debt
+
+8,749 12.9%
+
+65.8%
+
+23.5%
+
+Security to be Acquired Upon Exercise of
+5,672 8.4%
+Option or Warrant
+
+ 
+ 
+Combined, the evidence from Form D filings suggests an active and vibrant market for 
+private offerings compared to registered offerings, and is inconsistent with the view that there 
+are significant frictions in the capital raising process that prevent issuers from funding 
+investment through private offering channels.18 Moreover, the estimated amount of capital 
+raised through Regulation D offerings in each year since 2009 is similar in magnitude to the 
+estimated amount of capital raised in 2000 prior to start of the Sarbanes‐Oxley regulatory 
+environment ($960 billion19). In this respect, and given the pace of Regulation D offerings from 
+2009 until 2012, there is no evidence that the Regulation D offering market has shrunk over this 
+period.  
+
+II. Regulation D market participants 
+a. Issuers of securities under Regulation D 
+The largest issuers in the Regulation D by amount sold market are pooled investment 
+funds, classified in the Form D filings as hedge funds, venture capital funds, private equity 
+funds, and other pooled investment funds. The predominant entities among other pooled 
+investment funds are registered investment companies and commodity pools.20 Since the 
+inception of the electronic Form D filings, beginning in 2009, pooled investment funds have 
+                                                            
+17
+
+ There are 83,855 issues referenced, which is greater than the total 67,688 new issues in Table 1. This is due to 
+multiple securities listed in the same filing. 
+18
+ See e.g., Joseph Mclaughlin, How the SEC Stifles Investment – and Speech, Wall Street Journal, February 3, 2011. 
+19
+ See footnote 4 and discussion in Section I. 
+20
+ Registered investment companies are entities such as mutual funds that issue securities to investors, hold pools 
+of securities and other assets and are registered with the Commission under the Investment Company Act. 
+Commodity pools are investment trusts, syndicates, or similar enterprises that are operated for the purpose of 
+trading commodity futures. 
+
+10 
+ 
+
+ 
+
+accounted $2.8 trillion of new capital raised through Regulation D offerings and reported on 
+Form D (Figure 6a), compared to $623 billion raised by non‐funds. Hedge funds are the largest 
+fund issuer, accounting for $1.26 trillion of new capital, of which $386 billion was raised in 2012 
+(Table 3). Non‐financial issuers, typically private companies, raised $354 billion during the four‐
+year period, of which $91 billion was raised in 2012. Financial services, including banking and 
+insurance, accounted for $180 billion raised during the four‐year period. 
+ 
+Figure 6a. Aggregate capital raised (amount sold) during the period 2009‐2012 by issuer type ($billions) 
+Hedge Funds
+
+$1,257
+
+Other Investment Funds
+
+$986
+
+Private Equity Funds
+
+$489
+
+Non‐financial Issuers
+
+$354
+
+Financial Services
+
+ 
+
+$180
+
+Real Estate
+
+$64
+
+Venture Capital Funds
+
+$56
+$0
+
+$200
+
+$400
+
+$600
+
+$800 $1,000 $1,200 $1,400
+
+ 
+
+Although non‐financial issuers raised substantially less than fund issuers in aggregate, 
+they account for the majority (60%) of all new offerings and Form D filings (Figure 6b). 
+Consistent with this, the median offering size for non‐financial issuers is substantially lower 
+than the median offering size for hedge funds. In 2012, the median amount sold by non‐
+financial issuers was $1.6 million compared to $100 million for hedge funds, and $50 million for 
+private equity funds (Table 3). The differences in mean offering size are even larger. The 
+amounts sold by non‐fund issuers are substantially smaller than what they sought to raise in 
+2012 (about 49%), which suggests that either the amounts reported in Form D filings 
+understate the full amount of capital raised in the market, or the offerings are generally 
+undersubscribed.  
+Almost 99% of the capital raised under Regulation D in 2012 ($898 billion) was by issuers 
+relying on the Rule 506 exemption, of which pooled investment funds and non‐financial issuers 
+account for $725 billion and $173 billion respectively.  This represents a significant increase for 
+non‐financial issuers compared to 2011 when they reported raising only $71 billion under Rule 
+506. In the same year, pooled investment funds raised approximately $778 billion.  
+ 
+ 
+ 
+ 
+11 
+ 
+
+ 
+Figure 6b. Number of initial (new) offerings during the period 2009‐2012 by issuer type 
+Non‐financial Issuers
+
+40,950
+
+Hedge Funds
+
+8,009
+
+Real Estate
+
+5,617
+
+Financial Services
+
+4,791
+
+Other Investment Funds
+
+3,800
+
+Private Equity Funds
+
+3,483
+
+Venture Capital Funds
+
+ 
+
+1,056
+0
+
+10,000
+
+20,000
+
+30,000
+
+40,000
+
+50,000
+
+ 
+
+Table 3. Amounts sought and sold through Regulation D in calendar year 2012 by issuer type*  
+Amount 
+sold  
+Amount 
+Mean 
+Median 
+Number  
+Amount 
+  
+Rule 506 
+sought 
+offer size  offer size 
+of 
+sold 
+offerings  ($Billions)  ($Billions)  ($Billions)  ($Millions)  ($Millions) 
+Hedge Funds 
+1,952 
+386 
+385 
+N/A 
+359 
+100 
+Private Equity Funds 
+1,083 
+159 
+159 
+N/A 
+307 
+50 
+Venture Capital Funds 
+365 
+19 
+19 
+N/A 
+89 
+15 
+Other Investment Funds 
+1,055 
+165 
+163 
+N/A 
+198 
+20 
+Financial Services 
+1,069 
+63 
+63 
+165 
+62 
+4 
+Real Estate 
+1,900 
+20 
+20 
+48 
+15 
+2.3 
+Non‐financial Issuers 
+10,763 
+91 
+91 
+136 
+9 
+1.6 
+* Number of offerings includes only initial (new) Form D filings; amount sold includes capital raised and 
+identified through both new and amended Form D filings; mean and median offer size are based on 
+amount sold reported in initial (new) Form D filings only. 
+ 
+
+Among non‐fund issuers, the largest industry group by dollar amount sold is Banking, 
+followed by Technology, Health Care, Real Estate, and Energy (Figure 7).  However, issuers from 
+the Technology industry group are the most active, making 24% of all reported offerings. A 
+large fraction of offerings (22%) do not specify an industry on Form D. Issuer revenue ranges 
+reported in Figure 8 show that issuers of private offerings tend to be small. Although a 
+significant number of issuers decline to disclose their revenues (55%), for those that do, most 
+have revenues of less than $1 million.  Only 1.4% of all new offerings are by issuers that report 
+more than $100 million in revenues.21 By way of comparison, 50% of SEC reporting companies 
+with publicly traded equity report revenues of greater than $100 million at the end of 2011 
+                                                            
+21
+
+ Form D also contains information on net asset value (NAV) of hedge funds and other investment funds. Since 
+2009, more than three‐quarters of issuers have declined to disclose NAV, but of those that do, a trend similar to 
+revenue is reported – the largest set of issuers is in the smallest NAV categories. 
+
+12 
+ 
+
+ 
+
+fiscal year22, evidence that issuers seeking capital through Regulation D offerings are 
+significantly smaller than the average publicly traded company.  
+Figure 7. Most active non‐fund issuers by amount sold (2009 ‐2012) 
+ 
+24.9%
+
+Banking
+
+9.3%
+18.3%
+22.1%
+
+Other
+14.0%
+
+Technology
+
+24.2%
+
+Real estate
+
+11.2%
+10.9%
+
+Health care
+
+11.2%
+14.2%
+11.1%
+9.7%
+
+Energy
+4.7%
+3.3%
+
+Manufacturing
+
+2.2%
+1.9%
+
+Retailing
+
+1.0%
+0.6%
+
+Agriculture
+Business services
+
+0.8%
+1.8%
+
+Restaurants
+
+0.4%
+1.3%
+0.2%
+0.6%
+
+Travel
+Amount Raised
+
+No. of Offers
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            
+22
+
+ Calculated based on an DERA analysis of 6,760 SEC registrants in who had a class of equity security with a 
+reported market price reported by Standard and Poors’ Compustat database at the end of fiscal year 2011.  
+
+13 
+ 
+
+ 
+Figure 8. Distribution of non‐fund issuers by reported revenue (2009‐2012) 
+Not applicable
+
+3.7%
+
+Decline to Disclose
+
+55.4%
+
+Over $100 mil
+
+1.4%
+
+$25 mil ‐ $100 mil
+
+1.6%
+
+$5 mil ‐ $25 mil
+$1 mil ‐ $5 mil
+
+3.4%
+4.9%
+
+$1 ‐ $1 mil
+
+12.3%
+
+No Revenues
+
+17.3%
+
+  
+
+ 
+
+Issuers that file periodic reports with the Commission under the Securities Exchange Act 
+of 1934 often conduct private offerings. Figure 9 reports the number of offerings conducted by 
+non‐fund issuers (left axis), and the fraction of those offerings conducted by SEC reporting 
+companies23 or by issuers that subsequently initiate reporting with the Commission by filing an 
+S‐1 registration (right axis). Over the four‐year analysis period, 13% of Regulation D non‐fund 
+offerings were by SEC reporting companies. In addition, about 2.5% of non‐fund offerings were 
+by issuers that subsequently registered an offering with the Commission on Form S‐1. For these 
+issuers, a Regulation D offering was a precursor to going public. 
+ 
+Figure 9. Offerings by non‐fund Regulation D issuers, and the fraction that are made by SEC reporting 
+companies or issuers that subsequently register an offering with the Commission 
+18,000
+
+16.0%
+
+16,000
+
+14.0%
+
+14,000
+
+12.0%
+
+12,000
+
+10.0%
+
+10,000
+
+8.0%
+
+8,000
+
+6.0%
+
+6,000
+4,000
+
+4.0%
+
+2,000
+
+2.0%
+
+0
+
+0.0%
+2009
+
+2010
+
+Offerings by non‐fund Reg D filers
+Offerings by future S‐1 filers
+
+2011
+
+2012
+Offerings by 10‐K/20‐F/40‐F filers
+
+  
+
+                                                            
+23
+
+ We identified reporting companies as those that filed on Forms 10‐K, 20‐F, or 40‐F during the analysis period. 
+
+14 
+ 
+
+ 
+
+b. Investors in Regulation D offerings 
+Regulation D allows both accredited and non‐accredited investors to participate in private 
+offerings, with the number of non‐accredited investors limited to maximum of 35 for Rule 505 
+and Rule 506 offerings.24 Based on information collected from Form D filings, most participants 
+are accredited. For example, in 2012, only 10% of new offerings include non‐accredited 
+investors (Table 4). Offerings by financial issuers and REITs are more likely to have non‐
+accredited investors (14% of offerings have at least one such investor), while offerings by VC 
+funds only rarely include non‐accredited investors (0.6% of offerings have at least one such 
+investor). Although Rule 506 allows for the participation of non‐accredited investors, they only 
+participated in 11% of the Rule 506 offerings conducted between 2009 and 2012. Only 8% of 
+the offerings by fund issuers included non‐accredited investors, compared to 12% of the 
+offerings by non‐fund issuers. 
+Aggregated Form D information also reveals more than 234,000 investors participating in 
+Regulation D offerings in 2012, of which more than 90,000 participated in offerings by non‐
+financial issuers, triple the number of investors that participated in offerings by hedge funds. 
+However, because an investor can participate in more than one Regulation D offering, this 
+aggregation likely overstates the actual number of unique investors in the private offering 
+market, and we have no method of estimating the effect. The mean number of investors per 
+offering (13) is significantly larger than the median (4), indicating the presence of a small 
+number of very large offerings. Offerings by pooled investment funds and REITs have the 
+largest average number of investors (both accredited and non‐accredited) per offering, while 
+those by non‐financial issuers have the smallest.  
+ 
+Table 4. Investors participating in Regulation D offerings in 2012 
+
+  
+
+Total number 
+of investors 
+
+Mean  
+investors per 
+offering 
+
+Median 
+investors per 
+offering 
+
+29,646 
+19,374 
+5,275 
+26,893 
+15,591 
+47,135 
+90,758 
+234,672 
+
+15 
+18 
+15 
+26 
+15 
+25 
+8 
+13 
+
+3 
+5 
+3 
+5 
+5 
+7 
+ 4 
+4 
+
+Hedge Funds 
+Private Equity Funds 
+Venture Capital Funds 
+Other Investment Funds 
+Financial Services 
+Real Estate 
+Non‐financial Issuers 
+Total 
+
+Fraction of 
+offerings with 
+at least one 
+non‐accredited 
+investor 
+7% 
+5% 
+0.6% 
+7% 
+14% 
+14% 
+10% 
+10% 
+
+ 
+                                                            
+24
+
+ In offerings under the new Rule 506(c) that permits the use of general solicitation, only accredited investors will 
+be eligible to purchase securities. 
+
+15 
+ 
+
+ 
+
+III. The Role of Financial Intermediaries in the Regulation D market 
+While financial intermediaries commonly underwrite public offerings, there is relatively 
+little information about intermediary participation in private offerings. One possible role for an 
+intermediary in a private offering is to help issuers locate potential investors without violating 
+the ban on general solicitation, a constraint of current Rule 506 offerings. Using a pre‐existing 
+and substantive relationship between the intermediary and potential investors is one method 
+for the issuer to ensure rule compliance and preserve the Rule 506 safe harbor.  
+Information collected from Form D filings reveals that intermediaries are used relatively 
+infrequently in the Regulation D market. Only 13% of all new offerings since 2009 use an 
+intermediary such as a finder or broker‐dealer (Figure 10). Approximately 11% of new offerings 
+report sales commissions greater than zero, while approximately 3% report finder fees greater 
+than zero. Issuers from the real estate industry are the biggest users of intermediaries (27% of 
+all offerings) while hedge funds use intermediaries the least (6% of all offerings). Non‐financial 
+issuers rely on intermediaries in 12% of offerings. When an intermediary is used, most classes 
+of issuers use between two and four intermediaries, although VCs that use intermediaries 
+typically engage about 11 intermediaries per offering. 
+
+7.0%
+
+30%
+
+6.0%
+
+25%
+
+5.0%
+
+20%
+
+4.0%
+15%
+3.0%
+10%
+
+2.0%
+
+5%
+
+1.0%
+0.0%
+
+0%
+    Hedge Fund
+
+    Private
+    Venture
+    Other
+Equity Fund Capital Fund Investment
+Fund
+
+Broker commissions
+
+ 
+
+% of offerings with intermediaries
+
+Commission or fees as a % of amount 
+sold
+
+Figure 10. Use of financial intermediaries by type of Regulation D issuer, 2009‐2012 
+
+Finder fee
+
+Financial
+Services
+
+Real Estate Non‐financial
+
+% 0fferings with Intermediaries
+
+ 
+
+When a broker or finder is used, there is significant variation in commissions or fees 
+across each class of issuer. Information from Form D filings reveals that commissions and finder 
+fees are smallest for pooled investment funds and largest for non‐financial issuers. Non‐
+financial issuers pay on average about 6% commission in Regulation D offerings. For 
+16 
+ 
+
+ 
+
+comparison, a company going public pays an average gross spread of 7% to its IPO 
+underwriters25, while a public company raising equity through a follow‐on (seasoned) equity 
+offering pays a gross spread of about 5.4%.26 Issuers raising capital through registered bond 
+issues pay commissions between 0.9% and 1.5% of the size of the offering.27 In contrast, hedge 
+funds raising capital through Regulation D offerings pay on average 0.4% commission. Brokers 
+and finders are no more costly, on average, than the underwriting fees charged for public 
+offerings, so fees do not provide an obvious reason for their relatively infrequent use in 
+unregistered offerings. 
+Figure 11 reports the use of financial intermediaries and fees for different offering sizes, 
+irrespective of issuer type. The use of a broker or finder increases with offering size; they 
+participate in 13% of offerings for up to $1 million and 18% of offerings for more than $50 
+million. Moreover, commissions and finder fees decrease with offering size. Unlike the gross 
+spreads in registered offerings, the differences in commissions for Regulation D offerings of 
+different sizes are large: the average commission paid by issuers doing offerings of up to $1 
+million (6.5%) is almost three times larger than of the average commission paid by issuers doing 
+offerings of more than $50 million. These results are consistent with larger deals generating 
+scale economies for the involved intermediaries. Even so, the vast majority of the offerings are 
+conducted without the use of a financial intermediary. 
+
+20%
+
+Commission or fees as a % of 
+amount sold
+
+7.0%
+
+18%
+
+6.0%
+
+16%
+
+5.0%
+
+14%
+
+4.0%
+
+12%
+10%
+
+3.0%
+
+8%
+
+2.0%
+
+6%
+4%
+
+1.0%
+
+2%
+
+0.0%
+
+0%
+0‐$1 million
+
+$1 million ‐ $5
+million
+
+Broker commissions
+
+$5 million ‐ $10
+million
+
+Finder fee
+
+$10 million ‐ $50
+million
+
+Greater than $50
+million
+
+% of offerings with intermediaries
+
+Figure 11. Use of financial intermediaries by size of offering 
+
+% 0fferings with Intermediaries
+
+ 
+
+ 
+                                                            
+25
+
+ See Hsuan‐Chi Chen and Jay Ritter, The Seven Percent Solution, Journal of Finance 55, 1105‐1131 (2000).  
+ See Shane Corwin, The Determinants of Underpricing for Seasoned Equity Offers, Journal of Finance 58, 2249‐
+2279 (2000). 
+27
+ See L. Fang, Investment Bank Reputation and the Price and Quality of Underwriting Services, Journal of Finance 
+60, 2729‐2761 (2005). 
+26
+
+17 
+ 
+
+ 
+
+IV. Statistics on capital raised by foreign and domestic issuers 
+Over the period from 2009 to 2012, foreign issuers account for approximately 19% of all 
+capital raised by Regulation D offerings, although this fraction varies over time (Figure 12). 
+Participation was lowest in 2011 and highest in 2009 (the height of the financial crisis). By 
+comparison, foreign issuers account for 49% of capital raised via Rule 144A offerings, 35% of 
+capital raised through public debt offerings, and only 13% of capital raised through public 
+equity offerings.  
+ 
+Figure 12. Percent of capital raised in U.S. by domestic and foreign issuers by offering method  
+
+Rule 144A 
+
+Regulation D
+100%
+
+100%
+
+80%
+
+80%
+
+60%
+
+60%
+
+40%
+
+40%
+
+20%
+
+20%
+
+0%
+
+0%
+2009
+
+2010
+Domestic (B)
+
+2011
+
+2012
+
+2009
+
+Foreign (B)
+
+2010
+Domestic
+
+2011
+
+2012
+
+Foreign
+
+ 
+
+ 
+
+Public Equity
+
+Public Debt
+
+100%
+
+100%
+
+80%
+
+80%
+
+60%
+
+60%
+
+40%
+
+40%
+
+20%
+
+20%
+
+0%
+
+0%
+2009
+
+2010
+Domestic
+
+2011
+
+2012
+
+2009
+
+Foreign
+
+2010
+Domestic
+
+2011
+
+2012
+
+Foreign
+
+ 
+
+    
+
+When aggregated across types of offerings, U.S. issuers raised more than twice as much 
+capital as foreign issuers in each calendar year since 2009 (Figure 13). During that period, the 
+amount of capital raised by foreign issuers decreased 23%, from $875 billion to $674 billion, 
+18 
+ 
+
+ 
+
+while the amount of capital raised by domestic issuers increased 5%, from $1.79 trillion to 
+$1.87 trillion.  
+ 
+ 
+ 
+Figure 13. Aggregate capital raised in the U.S. by domestic and foreign issuers ($billions)  
+2250
+2000
+1750
+1500
+1250
+1000
+750
+500
+250
+0
+2009
+
+2010
+Domestic
+
+2011
+
+2012
+
+Foreign
+
+   
+
+V. Regulation D offerings by public companies 
+Regulation D offerings are available to any potential issuer without regard to its SEC 
+reporting status. Among issuers in Regulation D offerings, reporting companies are unique 
+because they have previously registered securities with the Commission and are able to access 
+both public and private capital markets. There are many reasons why a public firm would select 
+a Regulation D offering (e.g., lower overall issuance cost, confidentiality issues, speed of 
+issuance, shelf registration ineligibility, temporary lack of access to public capital markets). The 
+analysis below provides context on the extent to which this occurs. Table 7 reports the fraction 
+of public companies raise capital via this market, how much they raise, and how large the 
+capital raised through Regulation D offerings is compared to their public offerings.28  
+Nearly 10% of all SEC reporting companies raised capital through Regulation D offerings 
+during the period 2009 to 2011, and about 6% in 2012. Reporting companies account for 2% of 
+the total amount sold through Regulation D offerings, on average, although this varies 
+significantly by year. For comparison, non‐fund issuers that are not SEC reporting companies 
+account on average for 19% of the total amount of capital raised through Regulation D offerings 
+during the period 2009 to 2012. As a group, reporting companies that made Regulation D 
+                                                            
+28
+
+ We used listings in the Standard and Poor’s Compustat and the University of Chicago’s Center for Research in 
+Securities Prices (CRSP) databases to determine public companies, although it is possible that smaller public 
+companies are not reported by these data aggregation service providers. 
+
+19 
+ 
+
+ 
+
+offerings also raised, on average, $19 billion annually via public offerings and $12 billion 
+annually via Rule 144A offerings. The size of the private offerings (Regulation D and Rule 144A) 
+by these firms is larger than their public offerings in three of the four years under 
+consideration, showing a continued preference for private capital markets.  
+Table 7. Capital raised by public companies that issue Regulation D offerings ($billions) 
+Mean size of  
+Mean size of  
+Mean size of  
+Number of firms 
+Regulation D issues 
+public issues  
+144A issues 
+Year 
+(% of total public firms) 
+(% of total) 
+(% of total) 
+(% of total) 
+533 
+$26.8 
+$28.2 
+$19.0 
+2009 
+(9.3%) 
+(4.6%) 
+(2.2%) 
+(6.5%) 
+542 
+$6.6 
+$24.2 
+$23.3 
+2010 
+(9.7%) 
+(0.7%) 
+(2.1%) 
+(5.4%) 
+542 
+$4.9 
+$13.5 
+$6.0 
+2011 
+(9.7%) 
+(1.5%) 
+(3.8%) 
+(7.8%) 
+481 
+$25.5 
+$10.8 
+$0.4 
+2012 
+(6.2%) 
+(2.8%) 
+(0.9%) 
+(0.2%) 
+
+ 
+ 
+
+ 
+
+ 
+
+20 
+ 
+
+ 
+
+Appendix 
+This appendix describes the procedures used to collect the Regulation D sample and the 
+data on the other offerings. One of the original purposes of Form D, first adopted in 1982, was 
+to collect and analyze data on issuers using Regulation D.29 However, until 2008, issuers filed 
+Form D on paper, making the extraction of information for large‐scale statistical analysis 
+problematic.  In February 2008, the SEC adopted amendments to Form D that required issuers 
+to submit their Form D filings electronically, in a structured data format. 30  As a result of these 
+requirements, which were phased in from September 2008 through March 2009, Form D filings 
+are now machine‐readable. Using basic text parsing tools, DERA staff was able to extract the 
+reported elements and place them in a database enabling the large‐scale statistical analysis 
+reported here. 
+
+A. Regulation D sample 
+The methods used for extracting Form D information have been modified since our 
+original report in 2012. As before, we collected all Form D filings (new filings and amendments) 
+on EDGAR starting in January 2009, and extended the sample through December 2012. We 
+extracted all fields from each filing and applied the following treatments to arrive at our final 
+sample. 
+‐ Subsequent amendments to a new filing are treated as incremental fundraising and 
+recorded in the calendar year in which the amendment is filed. If an issuer filed only 
+Form D amendments, and those reference a post‐2008 sale date, the first filed 
+amendment is treated as an original Form D filing. 
+‐ The incremental amount sold between two successive filings of the same issuer is 
+determined by taking the difference between the “total amount sold” reported in 
+each such filing.  
+‐ We estimate the incremental amount of capital raised and reported in amended 
+filings for which there is no original filing in electronic form. This occurs only in 2009. 
+The estimated incremental capital raised in these instances is based on a “haircut” 
+of the total amount sold reported in the latest filed amendment. This percentage is 
+the average incremental amount sold in all amendments for which there is an 
+original filing in electronic form, calculated separately for funds and non‐funds. This 
+resulted in haircut percentages of 11% and 27%, respectively. This treatment is 
+unnecessary for offerings starting in 2010. 
+‐  Foreign issuers are determined based on the information on Issuer State that they 
+provide. 
+                                                            
+29
+
+Release No. 33–6389 (Mar. 8, 1982); 47 Fed. Reg. 11251 (1982) (adopting Form D as a replacement for Forms 
+4(6), 146, 240 and 242).  
+30
+ Release No. 33–8891 (Feb. 27, 2008); Electronic Filing and Revision of Form D, 70 Fed. Reg. 10,592 (2008) (to be 
+codified at 17 C.F.R. pts. 230, 232 & 239).
+
+21 
+ 
+
+ 
+
+‐
+
+When an issuer checks the box to claim more than one offering exemption (Rule 
+504, 505, or 506), for the purpose of this analysis, we assume that any issuer that 
+checks the box for Rule 506 is in fact relying on Rule 506. 
+
+ 
+
+B. Other offerings 
+‐
+
+Data on IPOs, equity offerings by seasoned issuers (EOSIs), convertible debt 
+offerings, public debt offerings, and private offerings are taken from Securities Data 
+Corporation’s New Issues database (Thomson Financial). Data on non‐ABS Rule 144A 
+offerings are taken from Securities Data Corporation’s New Issues database and 
+Mergent database. 
+‐ Data on ABS Rule 144A offerings are taken from the Asset‐Backed Alert and 
+Commercial Mortgage Alert publications. We use non‐U.S. collateral backed deals to 
+proxy for deals done by foreign issuers. 
+‐ Public debt offerings by government, state, municipal, and quasi‐governmental 
+issuers (e.g., Fannie Mae, Freddie Mac) are excluded from the public debt sample. 
+ 
+C. Corrections from the last report 
+a. We obtained additional non‐ABS Rule 144A data from Mergent, which allowed 
+us to better estimate the size of that market. 
+b. In the previous report, we linked new filings and subsequent amendments by the 
+same issuer by first sale date, which resulted in errors for offerings that did not 
+report first sale date or when there were multiple issues on the same date. In 
+this version, we linked new filings and their corresponding amendments by 
+accession number, a unique identifier that allows a more accurate matching of 
+new offerings and amendments, and accounts for the different annual estimates 
+from the previous report. 
+ 
+ 
+
+22 
+ 
+
+

@@ -1,0 +1,2796 @@
+(Corrected to Conform to Federal Register Version)
+
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Part 240
+[Release No. 34-76624; File No. S7-26-15]
+RIN 3235-AL72
+Establishing the Form and Manner with which Security-Based Swap Data Repositories
+Must Make Security-Based Swap Data Available to the Commission
+
+AGENCY: Securities and Exchange Commission.
+ACTION: Proposed rule.
+SUMMARY: The Securities and Exchange Commission (“SEC” or “Commission”) is
+publishing for comment a proposed amendment to specify the form and manner with which
+security-based swap data repositories (“SDRs”) will be required to make security-based swap
+(“SBS”) data available to the Commission under Exchange Act Rule 13n-4(b)(5). The
+Commission is proposing to require SDRs to make these data available according to schemas
+that will be published on the Commission’s website and that will reference the international
+industry standards Financial products Markup Language (“FpML”) and Financial Information
+eXchange Markup Language (“FIXML”).
+DATES: Comments should be received on or before February 22, 2016.
+ADDRESSES: Comments may be submitted by any of the following methods:
+Electronic comments:
+•
+
+Use the Commission’s Internet comment form
+
+(http://www.sec.gov/rules/proposed.shtml); or
+•
+
+Send an e-mail to rule-comments@sec.gov. Please include File Number S7-26-25 on the
+
+subject line; or
+
+•
+
+Use the Federal eRulemaking Portal (http://www.regulations.gov). Follow the
+
+instructions for submitting comments.
+Paper Comments:
+•
+
+Send paper comments to Secretary, Securities and Exchange Commission, 100 F Street,
+
+NE, Washington, DC 20549-1090.
+All submissions should refer to File Number S7-26-15. This file number should be included on
+the subject line if e-mail is used. To help us process and review your comments more efficiently,
+please use only one method. The Commission will post all comments on the Commission’s
+Internet website (http://www.sec.gov/rules/proposed.shtml). Comments are also available for
+website viewing and printing in the Commission’s Public Reference Room, 100 F Street, NE,
+Washington, DC 20549 on official business days between the hours of 10:00 a.m. and 3:00 p.m.
+All comments received will be posted without change; the Commission does not edit personal
+identifying information from submissions. You should submit only information that you wish to
+make available publicly.
+Studies, memoranda, or other substantive items may be added by the Commission or staff
+to the comment file during this rulemaking. A notification of the inclusion in the comment file
+of any such materials will be made available on the SEC’s website. To ensure direct electronic
+receipt of such notifications, sign up through the “Stay Connected” option at www.sec.gov to
+receive notifications by e-mail.
+FOR FURTHER INFORMATION CONTACT: Narahari Phatak, Branch Chief, at (202)551-6693; Walter Hamscher, IT Project Manager, at (202)-551-5397; Yee Cheng Loon,
+Financial Economist, at (202)-551-3077; Hermine Wong, Attorney-Adviser, at (202)-551-4038;
+
+2
+
+Christian Sabella, Associate Director, at (202)-551-5997; Michael Gaw, Assistant Director, at
+(202)-551-5602.
+SUPPLEMENTARY INFORMATION: The Commission is proposing to amend Rule 13n4(a)(5) under the Exchange Act (defining “Direct electronic access” to data stored by an SDR).
+
+I.
+
+Introduction
+On February 11, 2015, the Commission adopted Rules 13n-1 to 13n-11 under the
+
+Exchange Act (collectively, the “SDR Rules”), 1 which govern SDR registration, duties, and core
+principles. 2 On the same day, the Commission adopted Rules 900 to 909 under the Exchange
+Act (collectively, “Regulation SBSR”), 3 which govern the reporting to registered SDRs of SBS
+data and public dissemination by registered SDRs of a subset of that data. 4 In combination, these
+rules represent a significant step forward in providing a regulatory framework to promote
+transparency and efficiency in the OTC derivatives markets and assist relevant authorities in
+performing their market oversight functions.
+Today, the Commission is proposing to amend the SDR Rules to specify the form and
+manner with which SDRs would be required to make SBS data available to the Commission.
+This rulemaking constitutes an important next step in the development of the SBS transaction
+
+1
+
+17 CFR 240.13n-1 to 240.13n-11.
+
+2
+
+See Securities Exchange Act Release No. 74246 (February 11, 2015), 80 FR 14437
+(March 19, 2015) (“SDR Adopting Release”).
+
+3
+
+17 CFR 242.900 to 242.909.
+
+4
+
+See Securities Exchange Act Release No. 74244 (February 11, 2015), 80 FR 14563
+(March 19, 2015) (“Regulation SBSR Adopting Release”).
+
+3
+
+reporting regime mandated by the Dodd-Frank Act. 5 The proposed rule would require that SBS
+data made available by SDRs be formatted and structured consistently to allow the Commission
+to accurately analyze the data made available by a single SDR, and to aggregate and analyze data
+made available by multiple SDRs.
+A.
+
+Background
+
+Rule 13n-4(b)(5) under the Exchange Act 6 requires an SDR to provide direct electronic
+access to the Commission (or any designee of the Commission, including another registered
+entity). Under Rule 13n-4(a)(5), 7 “direct electronic access” means “access, which shall be in a
+form and manner acceptable to the Commission, to data stored by a security-based swap data
+repository in an electronic format and updated at the same time as the security-based swap data
+repository’s data is updated so as to provide the Commission or any of its designees with the
+ability to query or analyze the data in the same manner that the security-based swap data
+repository can query or analyze the data” (emphasis added). As discussed in detail below, the
+
+5
+
+Pub. L. No. 111-203, 124 Stat. 1376 (2010). The Dodd-Frank Act was enacted, among
+other reasons, to promote the financial stability of the United States by improving
+accountability and transparency in the financial system. See Pub. L. No. 111-203,
+Preamble. The 2008 financial crisis highlighted significant issues in the over-the-counter
+(“OTC”) derivatives markets, which experienced dramatic growth in the years leading up
+to the financial crisis and are capable of affecting significant sectors of the U.S.
+economy. Title VII of the Dodd-Frank Act provides for a comprehensive new regulatory
+framework for swaps and security-based swaps, by, among other things: (1) providing
+for the registration and comprehensive regulation of swap dealers, security-based swap
+dealers, major swap participants, and major security-based swap participants; (2)
+imposing clearing and trade execution requirements on swaps and security-based swaps,
+subject to certain exceptions; (3) creating recordkeeping, regulatory reporting, and public
+dissemination requirements for swaps and security-based swaps; and (4) enhancing the
+rulemaking and enforcement authorities of the Commission and the Commodity Futures
+Trading Commission (“CFTC”).
+
+6
+
+17 CFR 240.13n-4(b)(5).
+
+7
+
+17 CFR 240.13n-4(a)(5).
+
+4
+
+Commission is proposing to set out the form and manner for direct electronic access to SDRs
+that is acceptable to the Commission.
+As the Commission noted in the SDR Adopting Release, a significant portion of the
+benefits of an SDR will not be realized if the Commission obtains direct electronic access to the
+data stored at an SDR in a form or manner that cannot be easily utilized by the Commission. 8
+Furthermore, the form and manner with which an SDR provides the data to the Commission
+should not only permit the Commission to accurately analyze the data maintained by a single
+SDR, but also allow the Commission to aggregate and analyze data received from multiple
+SDRs. 9 The form and manner that will be acceptable to the Commission for an SDR to provide
+direct electronic access may vary on a case-by-case basis and may change over time, depending
+on a number of factors. 10 These factors could include the development of new types of securitybased swaps or variations of existing security-based swaps that require additional data to
+accurately describe them. 11 Additionally, the extent to which the Commission encounters
+difficulty in standardizing and aggregating SBS data across multiple SDRs would be a factor in
+considering the nature of the direct access provided by an SDR to the Commission. 12
+In the SDR Adopting Release, the Commission also stated that, until such time as the
+Commission adopts specific formats and taxonomies, SDRs “may provide direct electronic
+access to the Commission to data in the form in which the SDRs maintain such data.” 13 Under
+
+8
+
+See 80 FR at 14474.
+
+9
+
+See id.
+
+10
+
+See id.
+
+11
+
+See id.
+
+12
+
+See id.
+
+13
+
+See id. at 14475.
+
+5
+
+this guidance, an SDR could provide direct electronic access to data in a form and manner that is
+not conducive to the Commission’s ability to analyze the data or surveil the SBS market. For
+example, a particular SDR might provide direct electronic access to data in the same format in
+which the data were received from its participants. If participants report data to the SDR using
+different conventions, inconsistencies in data formats within the SDR might limit or impair the
+Commission’s ability to accurately aggregate positions within the SDR or to compare the
+features of one market participant’s transactions or positions to those of another market
+participant.
+B.
+
+Overview of Proposed Amendment
+
+The Commission proposes to amend Rule 13n-4(a) to specify the form and manner with
+which SDRs must provide direct electronic access to the Commission by requiring SDRs to
+comply with an appropriate schema as will be published on the Commission’s website.
+In the SDR Adopting Release, the Commission stated that it believed it was in the best
+position to aggregate data across multiple SDRs. 14 The Commission also stated that if it were to
+propose a particular format for the direct electronic access, it would propose detailed
+specifications of acceptable formats and taxonomies that would facilitate an accurate
+interpretation, aggregation, and analysis of SBS data by the Commission. 15 Any proposed
+format also would maximize the use of any applicable current industry standards for the
+description of SBS data. 16
+
+14
+
+Id.
+
+15
+
+Id. at 14474-75.
+
+16
+
+Id. at 14475.
+
+6
+
+The Commission is currently aware of only two industry standards for representing SBS
+data: FpML 17 and FIXML. 18 The Commission is proposing to accommodate both industry
+standards by specifying that either of two distinct schemas 19 would satisfy the requirements of
+Rule 13n-4. One schema would rely on the FpML standard and the other schema would rely on
+the FIXML standard. Both schemas would articulate the same common data model, which is the
+logical representation of the data elements required to be reported under Regulation SBSR. The
+Commission preliminary believes that each schema would facilitate the consistent reporting of
+SBS transaction characteristics, such as the counterparties, associated other parties (e.g.,
+brokers), and corresponding terms of payments. In addition, validations associated with the
+schemas would help SDRs ensure that the data they make available to the Commission adhere to
+the common data model.
+As discussed below in more detail, the Commission preliminarily believes that both
+industry standards already cover many of the data elements that must be reported to registered
+SDRs under Regulation SBSR. In the appendix, the Commission has highlighted clear cases
+where the schemas require additional elements that do not yet exist in FpML or FIXML to
+represent all data elements that must be reported under Regulation SBSR and that registered
+SDRs must accept and store.
+This release solicits comment on the Commission’s proposal concerning the form and
+manner with which SDRs provide the Commission with direct electronic access, including
+whether the Commission should accept both the FpML and FIXML standards, whether the
+17
+
+FpML is a registered trademark of the International Swaps and Derivatives Association,
+Inc.
+
+18
+
+FIXML is a registered trademark of Fix Protocol Limited.
+
+19
+
+The term “schema” is generally applied to formal representations of data models.
+
+7
+
+Commission should accept only one or the other, whether the Commission should accept other
+protocols or standards, and whether the Commission’s incorporation of validations into the
+schemas supports completeness of the SBS data.
+II.
+
+Discussion of the Proposed Amendment
+A.
+
+Discussion of Existing Industry Standards
+
+Industry standards have evolved to enable participants in the SBS market to capture and
+communicate certain trade information. As discussed in more detail below, these standards have
+evolved for use in different contexts but inherently share features that are relevant for SBS data
+standardization and aggregation.
+1.
+
+Background of Existing Industry Standards
+
+The Commission is aware of two existing industry standards which are used by market
+participants to capture trade-related information: FpML and FIXML . FpML and FIXML are
+both international open industry standards, meaning that they are technological standards that are
+widely available to the public, royalty-free, and at no cost. In addition, they are both
+independent of the software and hardware used by participants, thus facilitating interoperability.
+Both FpML and FIXML have evolved for use in different contexts and they share features that
+are relevant for rendering SBS data compatible for the purposes of normalization, aggregation,
+and comparison.
+FpML was developed under the auspices of the International Swaps and Derivatives
+Association (ISDA), 20 using the ISDA derivatives documentation as its basis. FpML
+maintenance and continued development is undertaken by the FpML Standards Committee,
+20
+
+ISDA is a global organization of derivatives market participants. ISDA has developed
+standardized Master Agreements underlying derivatives transactions and manages the
+development of FpML. See http://www2.isda.org/ (last visited Dec. 8, 2015).
+
+8
+
+which operates under the auspices of ISDA and is made up of representatives from a range of
+financial market participants, including banks, brokers, central counterparties (CCPs), and other
+financial infrastructure providers. FpML was designed for the OTC derivatives industry to
+capture data elements that provide a complete and accurate representation of the contractual
+provisions of a trade in derivatives or structured products. FpML is used by market participants
+to communicate OTC transaction details to counterparties and post-trade processors, and is
+designed to facilitate validation of message contents. FpML is also designed to be useful within
+firms for the purposes of sharing OTC transaction information across systems. 21 The FpML
+Standards committee maintains FpML and updates it from time to time. 22
+In contrast to FpML’s focus on post-trade communication of standardized derivatives
+contracts, Financial Information eXchange (FIX) is a messaging protocol developed for pre-trade
+communication and trade execution of standardized and bespoke contracts for multiple asset
+classes and markets. The FIX protocol enables electronic communication between brokerdealers and their institutional clients to deliver quotes, submit orders, and execute trades. Since
+its inception in 1992 as a standard used to trade equities, the use of FIX was further developed to
+include fixed income, derivatives, and foreign exchange, and the scope of FIX has been extended
+to include pre-trade, trade, and post-trade business processes 23 using FIXML, an eXtensible
+Markup Language (XML) based implementation of the FIX messaging standard. FIXML
+
+21
+
+See FpML® Information, https://dedicated.fpml.org/about/factsheet.html (last visited
+Dec. 8, 2015).
+
+22
+
+See infra note 82.
+
+23
+
+Oxera Consulting Ltd., What are the benefits of the FIX Protocol? Standardising
+messaging protocols in the capital markets, at 5 (2009), available at
+http://www.oxera.com/Oxera/media/Oxera/Benefits-of-the-FIX-Protocol.pdf?ext=.pdf.
+
+9
+
+embeds FIX messages in an XML document that includes structures that are specific to the FIX
+protocol. The FIX messaging standard is owned, maintained, and developed through the
+collaborative efforts of the FIX Trading Community. 24
+Both FpML and FIXML were derived from the XML standard. Each standard uses an
+XML-based schema to impose structure on the order and content of, and relationships among,
+data elements, including the particular data types that correspond to each data element. FpML
+and FIXML mark up or “structure” data using standard but distinct definitions. These data
+element definitions establish a consistent structure of identity and context so that the reported
+data can be recognized and processed by standard computer code or software (i.e., made machine
+readable). For example, under Regulation SBSR, the title and date of agreements incorporated
+by reference in a SBS contract must be reported to a registered SDR for certain transactions. 25
+To convey this information electronically, the data must be structured with the role of the
+agreement (such as master, collateral, or margin), the title of the agreement, and the date of the
+agreement.
+The Commission notes that the bodies responsible for the maintenance of both FpML and
+FIXML have experience engaging with the regulatory community and have made enhancements
+specifically to support regulatory requirements. FpML currently supports several regulatory
+reporting requirements other than those imposed by the Commission as part of Regulation
+
+24
+
+FIX Trading Community is a non-profit, industry-driven standards body comprised of
+over 270 member firms from the global financial services industry. See Letter from FIX
+Trading Community to Commodity Futures Trading Commission (May 27, 2014),
+available at
+http://comments.cftc.gov/PublicComments/ViewComment.aspx?id=59866&SearchText=
+.
+
+25
+
+17 CFR 242.901(d)(4).
+
+10
+
+SBSR, 26 and has a working group currently considering SBS data reporting requirements. 27 The
+FIX Trading Community has enhanced FIXML to support the trade capture requirements of the
+CFTC. 28 FIXML is used for asset- and mortgage-backed securities trade reporting to FINRA. 29
+The Australian Securities and Investments Commission published FIXML requirements for the
+disclosure and reporting of short sales. 30 The Investment Industry Regulatory Organization of
+Canada adopted FIXML for market surveillance and transactional reporting. 31
+The Commission preliminarily believes that both standards have been implemented by
+market participants and are widespread in use, and that the taxonomies for both standards for
+SBS reporting have developed sufficient coverage such that the Commission does not need to
+develop its own standard for the required data elements. 32 If the Commission were to adopt a
+rule that required SDRs to make SBS data available to the Commission using the FpML or
+FIXML standards, the Commission anticipates that its staff would keep apprised of relevant
+advances and developments with those standards and engage with each standard’s working group
+regarding such developments, as appropriate.
+
+26
+
+See FpML Global Regulatory Reporting Mapping 2014 v9 (Feb 27) (Working Draft),
+available at http://www.fpml.org/asset/40388bcb/6a20cde6.xlsx.
+
+27
+
+See Reporting/Regulatory Reporting Working Group Charter,
+http://www.fpml.org/wgroup/rptwg/rptwgcharter.doc.
+
+28
+
+See Letter from FIX Protocol Limited to SEC (August 5, 2010), available at
+http://www.sec.gov/comments/s7-11-10/s71110-32.pdf.
+
+29
+
+Id.
+
+30
+
+Id.
+
+31
+
+Id.
+
+32
+
+See Appendix.
+
+11
+
+2.
+
+Interoperability and Acceptance of Existing Standards
+
+Interoperability is the ability of two or more systems to exchange data and for the data to
+be automatically interpreted. While FpML and FIXML both rely on XML to exchange data,
+they are not interoperable unless a common data model is built that allows a translation between
+the two standards. As a result, the Commission has developed a common data model that uses as
+a basis the existing overlap of the standards’ current coverages of SBS data. The Commission’s
+common data model is a representation of the SBS data elements required to be made available
+to the Commission. The Commission preliminarily believes that requiring SDRs to use either
+the FpML or FIXML schema will help achieve one of the key objectives of Regulation SBSR,
+which is to have a complete and intelligible record of all SBS transactions for oversight
+purposes. The common data model is represented by two separate schemas, one each for the
+FIXML and FPML standards. Accordingly, under the proposed amendment, SDRs can make
+SBS data available to the Commission using either the FIXML or FpML schema. The
+Commission describes both the common data model and the two schemas in greater detail below.
+The Commission notes that ISDA and the FIX Community formed the FpML
+Collaboration Working Group in 2004 to support certain aspects of interoperability between
+FpML and FIXML. 33 For example, the group addressed the question of how swap execution
+facilities would handle the transformation of a FIX message into an FpML message for use in
+post-trade confirmation, clearing, and trade reporting with a solution that supports detailed
+FpML messages contained within a compact FIX message. The group also facilitated a common
+approach to data items for capture of interest rate and credit default swaps during the pre-trade
+
+33
+
+See 2012 FIX-FpML Collaboration WG Charter,
+http://www.fixtradingcommunity.org/mod/file/download.php?file_guid=46484.
+
+12
+
+and trade lifecycles. To date, the Commission’s understanding is that this group has not
+generated a common data model as proposed in this release.
+3.
+
+Proposed Amendment to Rule 13n–4(a)(5) to Specify the Format for Direct
+Electronic Access
+
+The Commission is proposing to amend Rule 13n–4(a)(5) to specify the form and manner
+with which SDRs must provide direct electronic access to the Commission. In particular, under
+the proposal, SDRs must provide direct electronic access using either the FpML schema or the
+FIXML schema as published on the Commission’s website. The Commission is also proposing
+to require that the SDRs use the most recent schema as published on the website as the
+Commission anticipates that the schemas will be updated periodically to reflect changes in the
+FpML and FIXML standards, or to reflect changes in industry practice or financial products
+covered by Regulation SBSR. As with the Commission’s updates to other taxonomies and
+schemas, 34 Commission staff will post draft schemas on the Commission’s website for the public
+to review and provide comment before posting any final schemas.
+B.
+
+Commission Schemas
+
+As mentioned above, the Commission has developed a common data model, which is the
+logical arrangement of the data elements that comprise a transaction report as described under
+Regulation SBSR and how those data elements relate to each other. The purpose of the common
+data model is to improve the consistency and reliability of the data made available to the
+Commission for analysis and aggregation along various dimensions, such as across SDRs, within
+an SDR, by counterparty, or by product. The Commission’s common data model reflects the
+
+34
+
+See, e.g., Rating History Files Publication Guide, http://xbrl.sec.gov/doc/rocrpublication-guide-draft-2014-12-15.pdf, and Release Notes for SEC Taxonomies 2015Draft, http://xbrl.sec.gov/doc/releasenotes-2015-draft.pdf.
+
+13
+
+reporting requirements under Regulation SBSR. The Commission’s schemas for SBS data are
+formal representations of the Commission’s common data model.
+For example, a schema representing the common data model would require that a
+transaction record made available to the Commission include the terms of any standardized fixed
+or floating rate payments that correspond exactly to Rule 901(c)(1)(iv). However, consistent
+with Regulation SBSR, such a schema would allow flexibility in how information may be
+reported to a registered SDR. For example, consistent with Rule 901(c)(1), a schema that
+represents the common data model would not require data elements to satisfy Rules 901(c)(1)(iv)
+if a product ID reported under Rule 901(c)(1) already includes the information that would be
+captured by data elements associated with Rules 901(c)(1)(iv) data elements.
+To implement the common data model into an electronic format according to which
+SDRs could provide direct electronic access to the Commission, the Commission has developed
+two distinct schemas (computer code representations of the common data model), one based on
+the FpML standard, and the other based on the FIXML standard. Under the proposed
+amendment, an SDR could provide the Commission with direct electronic access by using either
+schema or both schemas. SBS transaction records structured according to one of the schemas
+could be immediately aggregated, compared, and analyzed by the Commission.
+At this time, the Commission is aware of only the FpML and FIXML standards for
+representing SBS data. In its evaluation of the potential applicability of these two standards for
+the purpose of regulatory reporting of SBS transactions, Commission staff undertook a mapping
+exercise, the results of which are reported in the appendix, to determine how much of the
+Commission’s common data model could be represented using the existing reporting elements
+within the two standards. Commission staff found that there exists significant overlap between
+
+14
+
+the FpML and FIXML standards in their descriptions of SBS data, and that almost all concepts
+of the common data model can be represented with existing FpML and FIXML reporting
+elements. 35 In light of this and the SBS industry’s current familiarity with and acceptance of
+these widely-used standards, the Commission believes that using FpML and FIXML schemas is
+an efficient and effective approach for satisfying the necessary form and manner of direct
+electronic access. Moreover, in light of prior engagement with the regulatory community and
+prior efforts to support regulatory requirements by the bodies that maintain both FpML and
+FIXML, 36 the Commission anticipates that the bodies responsible for maintaining each industry
+standard are likely to update these standards to incorporate any remaining data elements needed
+for the purpose of reporting under SBSR. In particular, Commission staff has identified concepts
+within the proposed common data model that do not currently have equivalent data elements in
+FpML or FIXML. As discussed further below, in cases where concepts within the common data
+model do not yet have equivalents in FpML or FIXML, the Commission’s schemas use
+extensions of existing FpML and FIXML reporting elements that accommodate the kind of data
+required by the common data model’s concept.
+Both FpML and FIXML employ data models to logically arrange and organize their
+respective data elements in specific ways. These data models reflect each’s’ decisions regarding
+how to represent their data elements for reporting and communication purposes. The
+Commission’s schemas would not require alteration of the standards’ data models, but rather
+would incorporate each standard’s data models as they are used to represent one of their data
+elements. As a result, the mapping of FpML and FIXML to the common data model does not
+35
+
+See Appendix.
+
+36
+
+See Section II.A.1.
+
+15
+
+necessarily reflect a one-to-one mapping between named data elements. In some instances, a
+single concept in the Commission’s common data model maps to a group of data elements within
+FpML or FIXML. For example, FIXML models the terms of any standardized fixed rate
+payments by arranging multiple FIXML data elements that each represent a different attribute of
+a payment stream, including settlement currency, day count convention, and fixed rate. This
+FIXML data model composed of multiple data elements maps to a single concept in the common
+data model that corresponds to Rule 901(c)(1)(iv). 37
+1.
+
+Common Data Model Treatment of Broad Categories of Transaction
+Information
+
+Below, we describe how Regulation SBSR provides the basis for the requirements of the
+common data model by examining how the schemas representing the common data model would
+treat broad categories of transaction information and how they would define relationships
+between specific data elements within those broad categories by placing restrictions on SBS data.
+The Commission notes that the concepts within the common data model are limited to those
+required to be reported to registered SDRs under Rules 901, 905, and 906 and required to be
+assigned by registered SDRs under Rule 907. The common data model also relies on definitions
+provided by Rule 900.
+a.
+
+Primary Trade Information
+
+Rule 901(c) sets forth the data elements of a security-based swap that must be reported to
+a registered SDR and will then be publicly disseminated by the registered SDR pursuant to Rule
+902(a) (unless an exception applies). These data elements generally encompass the means of
+identifying the contract and the basic economic terms of the contract and include any
+
+37
+
+See Appendix.
+
+16
+
+standardized payment streams associated with a contract, the notional value of the contract, the
+transaction price, and other information necessary for interpreting transaction prices such as a
+variable that would indicate the intent to clear a transaction.
+In order for the Commission to aggregate and analyze SBS data, Regulation SBSR
+requires reporting participants to report certain information about each security-based swap
+transaction. To provide a standardized means for identifying security-based swaps that share
+certain material economic terms, the Commission requires reporting participants to utilize a
+product ID of a security-based swap when one is available. 38 If the security-based swap has no
+product ID, or if the product ID does not include the information enumerated in Rules
+901(c)(1)(i)-(v) of Regulation SBSR, then the information specified in subparagraphs (i)-(v) of
+Rule 901(c)(1) must be reported separately. 39 The FpML and FIXML schemas would allow
+these data elements described in Rules 901(c)(1)(i)-(v) to supplement product IDs, and
+validations in each schema would indicate an error if the product ID is not provided and none of
+these supplementary data elements are included. In addition, as contemplated by Rule
+901(c)(1)(v), the common data model would include a “custom swap flag” that would indicate
+when the information provided pursuant to Rules 901(c)(1)(i)-(iv) does not provide all of the
+material information necessary to calculate the price of a security-based swap.
+38
+
+See Regulation SBSR Adopting Release, 80 FR at 14570.
+
+39
+
+Subparagraph (i) requires information that identifies the security-based swap, including
+the asset class of the security-based swap and the specific underlying reference asset(s),
+reference issuer(s), or reference index. Subparagraph (ii) requires the effective date.
+Subparagraph (iii) requires the scheduled termination date. Subparagraph (iv) requires
+the terms of any standardized fixed or floating rate payments, and the frequency of any
+such payments. Subparagraph (v) requires a bespoke condition flag if the security-based
+swap is customized to the extent that the information provided in subparagraphs (i)-(iv)
+of Rule 901(c)(1) does not provide all of the material information necessary to identify
+the customized security-based swap or does not contain the data elements necessary to
+calculate the price.
+
+17
+
+Rule 901(c) also requires reporting of certain details about an SBS transaction, including
+the execution time, price, and notional amount. The precise formats in which these elements can
+be provided have been determined by each industry standard. For example, the various FIXML
+data elements that express execution time are all expressed in coordinated universal time (UTC).
+Similarly, currencies that denominate price and notional amount are expressed using ISO 4217
+currency codes. 40
+Finally, the common data model would include concepts that correspond to requirements
+in Rules 901(c)(5) and 901(c)(6) for flags that indicate inter-dealer transactions and transactions
+that counterparties intend to clear. In addition to these required flags, Rule 901(c)(7) requires
+that the person with a duty to report include any additional transaction flags as specified in the
+policies and procedures of the registered SDR to which they report.
+b.
+
+Reportable Events and Transaction Identifiers
+
+Rule 901(a) assigns reporting duties for the security-based swaps described in Rule
+908(a), including new security-based swaps and those that result from the allocation,
+termination, novation, or assignment of other security-based swaps. Rule 901(e) requires
+reporting of life cycle events. Rule 901(i) requires reporting, to the extent the information is
+available, of security-based swaps entered into before the date of enactment of the Dodd-Frank
+Act and security-based swaps entered into after the date of enactment but before Rule 901
+becomes fully operative. Finally, Rule 905 sets out procedures for correcting errors to
+previously submitted transaction information. The schemas would include requirements for all
+of these event types. Both FIXML and FpML currently support the reporting of both new
+
+40
+
+See ISO 4217 – Currency Codes,
+http://www.iso.org/iso/home/standards/currency_codes.htm (last visited Dec. 8, 2015).
+
+18
+
+transactions as well as most of the other types of events required to be reported under Regulation
+SBSR, and so the schemas would include explicit mappings between existing FIXML and FpML
+events and those included in the common data model as a result of reporting requirements under
+Regulation SBSR.
+Under Rule 901(g), a registered SDR must assign a transaction ID to each new securitybased swap that is reported to it or establish a methodology for doing so. Further, Rule
+901(d)(10) requires reports of allocations, termination, novation, or assignment of one or more
+existing security-based swaps to include the transaction ID of the security-based swap that is
+allocated, terminated, novated, or assigned, while Rule 901(e)(2) requires reports of life cycle
+events to include the transaction ID of the original transaction. As the Commission discussed in
+the Regulation SBSR Adopting Release, requiring the use of a transaction ID in these instances
+would enable the Commission to update a transaction record to incorporate the life cycle event
+and map a new security-based swap to a corresponding prior transaction, even if the prior
+transaction was reported to a different registered SDR. 41 To ensure consistency in the use of
+transaction IDs and enable the Commission to link together related transactions even if stored at
+different SDRs, the schemas that represent the common data model would stipulate how
+transaction reporting would link new trade activity and life cycle events to existing transactions
+through the use of the transaction ID. Further, the schemas would stipulate how an SDR would
+include the original transaction ID on records that involve allocations, terminations, novations, or
+assignments.
+
+41
+
+See Regulation SBSR Adopting Release, 80 FR at 14589.
+
+19
+
+c.
+
+Market Participant Identifiers
+
+Rules 901(d)(1), 901(d)(2), 901(d)(9), 906(a), and 906(b) require reporting of the identity
+of each counterparty to a security-based swap as well as certain other persons who are affiliated
+with the counterparties or are otherwise involved in the transaction but who are not
+counterparties of that specific transaction. Because the Commission has recognized the Global
+Legal Entity Identifier System (GLEIS) as an Internationally Recognized Standard Setting
+System (IRSS) that assigns unique identification codes (“UICs”) to persons, these types of
+persons are required to obtain an LEI and registered SDRs are required to use these LEIs to
+identify these persons. Because the requirement to obtain an LEI does not apply to all persons
+enumerated in Rules 901(d)(1), 901(d)(2), 901(d)(9), 906(a), and 906(b), the schemas would
+accommodate identifiers that are not LEIs. 42
+Similarly, the schemas would accommodate LEI and non-LEI identifiers for execution
+agent IDs and broker IDs, since such persons might not have an LEI. Further, because no IRSS
+meeting the requirements of 903(a) has assigned or developed a methodology for assigning
+branch IDs, trader IDs, and trading desk IDs, the schemas would accommodate the identifiers or
+methodologies developed by the registered SDRs.
+d.
+
+Cash Flows for Customized Contracts
+
+Rule 901(d)(3) requires reporting of details regarding the payment terms, frequencies,
+and contingencies for non-standard, or bespoke, contracts. The schemas would accommodate
+these as separate data elements by including restrictions so that these data elements would be
+permitted only if the custom swap flag discussed in Section II.B.1.a is set by the registered SDR
+based on the transaction data that it receives from the reporting participant.
+42
+
+See id. at 14632.
+
+20
+
+e.
+
+Agreements
+
+Rule 901(d)(4) requires, for transactions that are not clearing transactions, the title and
+date of any master agreement, collateral agreement, margin agreement, or any other agreement
+incorporated by reference into the SBS contract. For example, to reflect these reporting
+requirements the schemas would include a flag to identify clearing transactions. For purposes of
+validation, if the clearing transaction flag is not set by the registered SDR, the registered SDR
+would be required to provide the agreement information provided by a reporting side under Rule
+901(d)(4), if applicable, as separate data elements as well as provide the settlement details
+provided by reporting participants under Rule 901(d)(8). If instead the clearing transaction flag
+identifies a security-based swap as a clearing transaction, the associated transaction record would
+be valid even in the absence of the title and date of any master agreement, collateral agreement,
+margin agreement, or any other agreement incorporated by reference into the SBS contract
+because the Commission believes it could obtain this information from the registered clearing
+agency as necessary. 43 Additionally, if the clearing transaction flag is not set because of the
+exception in Section 3C(g) of the Exchange Act (15 U.S.C. 78c–3(g)) has been invoked, then an
+indication would be provided by the SDR.
+f.
+
+Clearing
+
+Under Rule 901(c)(6), the person with the duty to report must indicate with a flag
+whether there is an intent to clear a transaction. The schemas would include such a flag. Rule
+901(d)(6) also requires reporting of the name of the clearing agency to which the swap will be
+submitted for clearing. Therefore, if the reporting participant 44 has included an “intent to clear”
+
+43
+
+See Regulation SBSR Adopting Release, 80 FR at 14586.
+
+44
+
+See §242.901(a).
+
+21
+
+flag, then expression of the intent to clear within the common data model would require the
+registered SDR to also include the name of the clearing agency to which the security-based swap
+will be submitted for clearing.
+2.
+
+Required Reporting Elements that Do Not Exist in FpML or FIXML
+
+As mentioned earlier, some concepts within the common data model do not currently
+have existing equivalents within FpML or FIXML. These include:
+•
+
+custom swap flag; 45
+
+•
+
+the currencies of any upfront payment, 46 if applicable;
+
+•
+
+a description of the settlement terms; 47
+
+•
+
+inter-dealer swap flag; 48
+
+•
+
+the title of any margin agreement; 49 and
+
+•
+
+the date of any margin agreement. 50
+In these cases, the schemas would require specific extensions of existing FpML and
+
+FIXML reporting elements. For flags required by Rule 901(c)(7), the Commission’s schemas
+would require registered SDRs to populate the section with the flags identified within their own
+policies and then to select from those. As we discuss in Section III.C.2, both FpML and FIXML
+undergo regular updates. To the extent that the FpML and FIXML standards address the
+common data model as part of their periodic updates, the Commission expects that the standards
+45
+
+See §242.901(c)(1)(v).
+
+46
+
+See §242.901(c)(3).
+
+47
+
+See §242.901(d)(8).
+
+48
+
+See §242.901(c)(5).
+
+49
+
+See §242.901(d)(4).
+
+50
+
+See id.
+
+22
+
+will create defined elements to replace the initial use of extensions. When the Commission
+periodically updates its schemas, each schema will reflect the most recent version of each
+standard.
+3.
+
+Validations
+
+As mentioned above, the schemas would incorporate validations. These validations are
+restrictions placed on the form and manner of the reported SBS data that help ensure that the data
+SDRs make available to the Commission adhere to the appropriate schema. In particular, the
+validations test for completeness of the data and for appropriate format. As a result, the
+validations will enhance the Commission’s ability to normalize and aggregate the data. These
+validations are effective at testing for whether the SBS data conforms to the technical
+specifications of the schema. However, these validations will not test for whether the SBS data
+accurately reflects the transaction that took place. By using the incorporated validations, SDRs
+will help ensure that their stored data adheres to the appropriate schema, thereby providing the
+Commission with direct electronic access pursuant to Rule 13n-4(b)(5).
+4.
+
+Regulatory and Technical Coordination
+
+In developing these proposed rules, we have consulted and coordinated with the CFTC
+and the prudential regulators 51 in accordance with the consultation mandate of the Dodd-Frank
+
+51
+
+The term “prudential regulator” is defined in section 1a(39) of the Commodity Exchange
+Act, 7 U.S.C. 1a(39), and that definition is incorporated by reference in section 3(a)(74)
+of the Exchange Act, 15 U.S.C. 78c(a)(74). Pursuant to the definition, the Board of
+Governors of the Federal Reserve System (“Federal Reserve Board”), the Office of the
+Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Farm Credit
+Administration, or the Federal Housing Finance Agency (collectively, the “prudential
+regulators”) is the “prudential regulator” of a security-based swap dealer or major
+security-based swap participant if the entity is directly supervised by that regulator.
+
+23
+
+Act. 52 We have also incorporated the past experiences of the CFTC regarding their swap data
+collection efforts, and consulted with both the CFTC and U.S. Department of the Treasury’s
+Office of Financial Research regarding draft technical documentation, including the FIXML and
+FpML schemas. More generally, as part of the Commission’s coordination efforts, Commission
+staff continue to participate in bilateral and multilateral discussions, task forces, and working
+groups on data harmonization and the regulation of OTC derivatives.
+C.
+•
+
+Request for Comment
+
+The Commission has developed two interoperable schemas so that SDRs can make SBS
+transaction data available to the Commission using already existing standards in a form
+and manner that can be easily utilized by the Commission for analysis and aggregation.
+Are there other ways to provide for the representation of SBS transactions that could be
+easily utilized by the Commission? If so, what are they? What are their strengths and
+weaknesses?
+
+•
+
+Should the Commission require direct electronic access be provided by SDRs using only
+an FpML schema? Should the Commission require direct electronic access be provided
+by SDRs using only an FIXML schema? Is there another standard that the Commission
+should consider as acceptable? If so, which characteristics about that standard should
+make it acceptable to the Commission and how does that standard affect the
+Commission’s ability to normalize, aggregate, and analyze the SBS data?
+
+52
+
+Section 712(a)(2) of the Dodd-Frank Act provides in part that the Commission shall
+“consult and coordinate to the extent possible with the Commodity Futures Trading
+Commission and the prudential regulators for the purposes of assuring regulatory
+consistency and comparability, to the extent possible.”
+
+24
+
+•
+
+Does the Commission’s approach to providing for direct electronic access using either the
+FpML or FIXML schemas allow for the accurate representation of SBS transactions as
+described in Regulation SBSR? If not, why not?
+
+•
+
+Are the FpML and FIXML standards sufficiently developed to require either one of them
+to be used by SDRs to provide access to the required SBS data? What factors or
+indicators should the Commission use to determine when an SBS-related standard has
+become sufficiently developed to require its use for providing the Commission with
+direct electronic access to SBS data?
+
+•
+
+Should the Commission allow SDRs to develop their own standards or leverage other
+standards to provide access to the Commission? How would the Commission’s ability to
+normalize, aggregate, and analyze the data be affected if SDRs used different standards
+and developed different schemas for representing the SBS data?
+
+•
+
+Instead of leveraging industry standards, such as FIXML and FpML, should the
+Commission create a new standard or contract with a third-party to create a new
+standard? Why or why not?
+
+•
+
+Are there other approaches to developing or using a standard that the Commission should
+consider? Please explain in detail.
+
+•
+
+What would be the costs to an SDR to provide data in either FpML or FIXML standard?
+Are there other ways that SBS data should be provided to the Commission? Are there
+other standards that would cost less but still allow the Commission to similarly
+normalize, aggregate, and analyze the data?
+25
+
+•
+
+Should the Commission institute a test phase for providing this information in either an
+FpML or FIXML standard? If so, how long should this test phase last?
+
+•
+
+Other than using schemas, is there another effective mechanism for SDRs to provide
+direct electronic access to the Commission that still achieves similar or better aggregation
+and consistency results?
+
+•
+
+The Commission intends to incorporate validations into its schemas to help ensure the
+quality and completeness of the SBS data that SDRs make available to the Commission.
+Is there another effective mechanism that would help ensure completeness and still
+achieve similar or better aggregation and consistency results?
+
+•
+
+How should the common data model support reporting requirements that do not yet have
+equivalents in FpML or FIXML, while preserving the ability to normalize, aggregate, and
+analyze the data? As discussed in Section II.B.2, the Commission’s schemas would
+require specific extensions of existing FpML and FIXML reporting elements. Is there a
+better alternative? Specifically, how would the alternative affect SDRs, the Commission,
+and market participants?
+
+III.
+
+Economic Analysis
+On February 11, 2015, the Commission adopted the SDR Rules, 53 which govern SDR
+
+registration, duties, and core principles, 54 and Regulation SBSR, which governs the reporting to
+registered SDRs of SBS data and public dissemination by registered SDRs of a subset of that
+
+53
+
+See supra note 1.
+
+54
+
+See supra note 2.
+
+26
+
+data. 55 In combination, these rules represent a significant step forward in providing a regulatory
+framework to promote transparency and efficiency in the OTC derivatives markets and assist
+relevant authorities in performing their market oversight functions. As noted earlier in Section
+I.A, the Commission is concerned that SDRs might provide direct electronic access to data in a
+form and manner that is not conducive to the Commission’s ability to analyze the data or surveil
+the SBS market. Under the proposed amendment, the Commission would specify the form and
+manner with which SDRs must provide direct electronic access to the Commission by requiring
+SDRs to comply with the appropriate schema as will be published on the Commission’s website.
+The Commission is sensitive to the economic effects of the rules that it proposes,
+including implications for efficiency, competition, and capital formation. The Commission
+preliminarily believes that the proposed rule would provide a number of benefits and result in
+certain costs. Section 23(a)(2) of the Exchange Act 56 requires the Commission, when making
+rules under the Exchange Act, to consider the impact that any new rule would have on
+competition. In addition, Section 23(a)(2) prohibits the Commission from adopting any rule that
+would impose a burden on competition not necessary or appropriate in furtherance of the
+purposes of the Exchange Act. Furthermore, Section 3(f) of the Exchange Act 57 requires the
+Commission, when engaging in rulemaking pursuant to the Exchange Act where it is required to
+consider or determine whether an action is necessary or appropriate in the public interest, to
+consider, in addition to the protection of investors, whether the action will promote efficiency,
+competition, and capital formation.
+
+55
+
+See supra notes 3-4.
+
+56
+
+15 U.S.C. 78w(a)(2).
+
+57
+
+15 U.S.C. 78c(f).
+
+27
+
+In many instances the potential benefits and costs of the proposed amendment are
+difficult to quantify. In particular, the Commission does not have precise estimates of the
+monetary benefits arising from the anticipated improvement in the Commission’s ability to
+accurately analyze data made available by a single SDR, and the anticipated improvement in the
+Commission’s ability to aggregate and analyze data made available by multiple SDRs. Benefits
+may arise from these improvements indirectly to the extent that facilitating the Commission’s
+oversight of SBS market activity reduces the likelihood of abuse in the SBS market and risks to
+financial stability emanating from the SBS market, however the Commission does not have data
+that would enable it to estimate the magnitude of either of these effects.
+Similarly, the Commission also does not have the data to estimate the potential costs that
+might be associated with reduced competition in the SDR industry that could result from the
+proposed approach. As we discuss in more detail below, a potential result of reduced
+competition among SDRs is that SDRs increase prices for their services or decrease the quantity
+or quality of their services. While the Commission acknowledges these potential costs, it does
+not have information about SDR services that would be necessary to estimate changes in prices,
+quality of service, or quantity of service that might result from reduced competition. One reason
+for this lack of information is that, to date, no SDRs have registered with the Commission.
+Where possible, we provide quantitative estimates of the potential costs of the proposed
+amendments. We provide discussions of a qualitative nature when quantification is not possible.
+A.
+
+Economic Baseline
+
+To examine the potential economic effects of the proposed amendments, our analysis
+considers as a baseline the rules adopted by the Commission that affect regulatory reporting and
+public dissemination, particularly those rules adopted as part of Regulation SBSR and the SDR
+Rules. The baseline includes our current understanding of international industry standards and
+28
+
+market practices, including how those standards and practices have been influenced by the
+actions of other regulators. This section begins by summarizing the economic implications of
+regulatory reporting and public dissemination under the Commission’s current regulatory
+framework for the SBS market and describing the data currently made available to the
+Commission on a voluntary basis. Following this discussion, the section describes the number of
+SDRs likely to be affected by the proposed amendments before examining the current state of the
+FIXML and FpML standards.
+1.
+
+The SDR Rules and Regulation SBSR
+
+As mentioned above, the Commission recently adopted the SDR Rules and Regulation
+SBSR. Together, the rules seek to provide improved transparency to regulators and the markets
+through comprehensive regulations for SBS transaction data and SDRs. 58 As the Commission
+envisioned in the SDR Adopting Release, SDRs will become an essential part of the
+infrastructure of the SBS market. 59 Persons that meet the definition of an SDR will be required
+by the SDR Rules to maintain policies and procedures relating to data accuracy and maintenance,
+and will be further required by Regulation SBSR to publicly disseminate transaction-level data,
+thereby promoting post-trade transparency in the SBS market.
+Additionally, as a result of the SDR Rules and Regulation SBSR, increased quality and
+quantity of pricing and volume information and other information available to the Commission
+about the SBS market may enhance the Commission’s ability to respond to market
+developments. To help inform its understanding of the SBS market, the Commission currently
+relies upon data on individual CDS transactions voluntarily provided by the Depository Trust
+
+58
+
+See SDR Adopting Release, 80 FR at 14440.
+
+59
+
+See id. at 14528.
+
+29
+
+and Clearing Corporation (“DTCC”) Trade Information Warehouse (‘‘TIW’’). This information
+is made available to the Commission in accordance with an agreement between the DTCC–TIW
+and the OTC Derivatives Regulators’ Forum (‘‘ODRF’’), of which the Commission is a member.
+The DTCC–TIW data provides sufficient information to identify the types of market
+participants active in the SBS market and the general pattern of dealing within that market.
+However, as the Commission noted in the SDR Adopting Release, the DTCC–TIW data does not
+encompass CDS transactions that both: (i) do not involve any U.S. counterparty, and (ii) are not
+based on a U.S. reference entity. 60 Furthermore, because counterparties to CDS transactions
+voluntarily submit data to DTCC-TIW to support commercial activities, the data are not
+necessarily suited to support the Commission’s needs, the legal requirements underlying the
+rules (e.g., the Dodd-Frank Act) or regulatory needs. For example, the transaction records
+captured by DTCC–TIW allow the Commission to identify trade execution dates but do not
+provide data to determine trade execution times. 61 Both Regulation SBSR and the SDR Rules
+will assist the Commission in fulfilling its regulatory mandates such as detecting market
+manipulation, fraud, and other market abuses by providing it with access to more detailed SBS
+information than that provided under the voluntary reporting regime.
+2.
+
+Swap Data Repositories
+
+In the SDR Adopting Release, the Commission estimated that 10 persons may register
+with the Commission as SDRs. 62 The Commission notes that in the swap market, only four
+60
+
+See SDR Adopting Release, 80 FR at 14445.
+
+61
+
+See Memorandum by the Staffs of the Division of Trading and Markets and the Division
+of Economic and Risk Analysis of the U.S. Securities and Exchange Commission,
+Inventory risk management by dealers in the single-name credit default swap market
+(Oct. 17, 2014), available at http://www.sec.gov/comments/s7-34-10/s73410-184.pdf.
+
+62
+
+See SDR Adopting Release, 80 FR at 14521.
+30
+
+persons have been provisionally registered with the CFTC for regulatory reporting in the swap
+market as SDRs thus far: BSDR LLC, Chicago Mercantile Exchange, Inc., DTCC Data
+Repository, and ICE Trade Vault. 63 BSDR LLC and DTCC Data Repository currently allow
+reporting participants to submit transaction data using FpML. 64 Intercontinental Exchange, the
+parent of ICE Trade Vault, uses FpML, 65 while Chicago Mercantile Exchange, Inc. allows
+reporting participants to submit transaction data using FIXML. 66 Accordingly, the Commission
+continues to preliminarily believe that approximately 10 persons would register with the
+Commission as SDRs.
+3.
+
+FIXML and FpML
+
+As previously discussed in Section II.A, there are two international industry standards for
+representing SBS data: FpML and FIXML. 67 Both are open standards, meaning that they are
+technological standards that are widely available to the public at no cost. In addition, both
+standards are independent of the software and hardware used by market participants, thus
+63
+
+See U.S. Commodity Futures Trading Commission, Swap Data Repository
+Organizations, http://sirt.cftc.gov/sirt/sirt.aspx?Topic=DataRepositories (last visited Dec.
+8, 2015).
+
+64
+
+See Bloomberg Swap Data Repository, BDSR APIs, http://www.bloombergsdr.com/api
+(describing trade submission methods available to participants reporting to BDSR) (last
+visited Dec. 8, 2015). See also DTCC, US DDR SDR, http://www.dtcc.com/data-andrepository-services/global-trade-repository/gtr-us.aspx (describing submission formats
+supported by DTCC Data Repository) (last visited Dec. 8 2015).
+
+65
+
+See ISDA FpML Survey Annex 1 (January 2011),
+http://www.isda.org/media/press/2011/pdf/isda-fpml-user-survey.pdf (listing ICE as an
+FpML user).
+
+66
+
+See CME Group, Submitting Trades to the CME Swap Data Repository,
+http://www.cmegroup.com/trading/global-repository-services/submitting-trades-to-cmerepository-service.html (detailing data submission requirements for the CME Swap Data
+Repository) (last visited Dec. 8, 2015).
+
+67
+
+The Commission is aware that market participants may also use proprietary XML
+representations of transactions data.
+
+31
+
+facilitating interoperability. Representatives from the financial industry, including those in the
+SBS market, and market participants are involved in maintaining, developing, and updating both
+standards to support, among other things, market practices and regulatory reporting
+requirements. FpML maintenance is undertaken by the FpML Standards Committee, which is
+made up of representatives from a range of financial market participants including banks,
+brokers, CCPs, and other financial infrastructure providers. FIX is owned, maintained, and
+developed through the collaborative efforts of the FIX Trading Community, which is a nonprofit, industry-driven standards body comprised of over 270 member firms from the global
+financial services industry. 68
+Based on the fact that there is substantial industry involvement in the development of
+both standards, the Commission preliminarily believes that the majority of transactions
+reportable under Regulation SBSR would include at least one counterparty that is familiar with
+communicating transaction details using FpML or FIXML or currently supports such
+communication. Further, most market participants will have familiarity with using FpML and/or
+FIXML for transaction reporting, including reporting to meet reporting obligations under the
+rules of other jurisdictions. For example, the FpML Regulatory Reporting Working Group has
+developed a draft mapping document that relates data elements required by seven regulators
+other than the Commission, in various jurisdictions, to corresponding FpML fields. 69 The FIX
+Community has similarly provided documentation to show how data represented in FIX
+
+68
+
+Updates to FpML are regularly announced at www.fpml.org, while updates to the FIX
+protocol, including updates to FIXML are regularly announced at
+http://www.fixtradingcommunity.org/pg/structure/tech-specs/fix-protocol (last visited
+Dec. 8, 2015).
+
+69
+
+See supra note 26.
+
+32
+
+corresponds to certain regulatory reporting requirements. 70 These efforts provide evidence that
+the groups responsible for developing FIX and FpML are already responding to regulatory
+reporting requirements by updating their reporting elements, and that market participants that use
+these standards would likely be able to use these standards to discharge reporting obligations.
+As noted in Section II.B.1, the schemas would include data elements that correspond to
+concepts defined in Rule 900 and required to be reported to registered SDRs by Rule 901. It
+would also include certain data elements derived from obligations of registered SDRs under Rule
+907. Based on a mapping exercise conducted by Commission staff, the Commission
+preliminarily believes that both the FpML and FIMXL reporting standards already include
+defined data elements that can be used to cover many of the concepts in the common data model.
+However, the Commission staff has identified several instances of concepts within the proposed
+common data model that do not yet have equivalently defined data elements in FpML or FIXML.
+In those cases, the schemas published on the Commission’s website would provide extensions of
+existing FpML and FIXML reporting elements. To the extent that the FpML and FIXML
+standards address the common data model as part of their periodic updates, the Commission
+expects that the standards will create defined elements to replace the initial use of extensions. If
+the Commission were to adopt a rule that required SDRs to make SBS data available to the
+Commission using the FpML or FIXML standards, the Commission anticipates that its staff
+would keep apprised of relevant advances and developments with those standards and engage
+with each standard’s working group regarding such developments, as appropriate.
+
+70
+
+See, e.g., FIX Protocol, Limited, Global Technical Committee and Futures Industry
+Association, CFTC Part 43 & 45 Gap Analysis III Foreign Exchange, (Jan. 3, 2013),
+available at http://www.fixtradingcommunity.org/mod/file/view.php?file_guid=46985.
+
+33
+
+B.
+
+Benefits
+
+The Commission preliminarily believes that the proposed amendment, by specifying the
+form and manner with which SDRs would be required to make SBS data available to the
+Commission, provide for the accurate analysis of data made available by a single SDR, and the
+aggregation and analysis of data made available by multiple SDRs. In particular, the proposed
+amendment would enable the aggregation of SBS data by the Commission.
+In the SDR Adopting Release, the Commission recognized that the benefits associated
+with SDR duties, data collection and maintenance, and direct electronic access may be reduced
+to the extent that SBS market data are fragmented across multiple SDRs. 71 Fragmentation of
+SBS market data may impose costs on any user of this data associated with consolidating,
+reconciling, and aggregating this data. Without a common data model expressed in specific
+formats, SDRs might, for example, make available to the Commission SBS data that are
+formatted using a variety of standards including FpML, FIXML, or other distinct proprietary
+standards or methods. Such an outcome could significantly increase the complexity of data
+aggregation, or perhaps even render data aggregation impractical because the Commission would
+have to map each standard to the common data model and might need to transform data from
+each SDR to meaningfully aggregate data across SDRs. Adding to the complexity of data
+aggregation, the Commission would have to repeat the mapping exercise and update data
+transformations each time an SDR chooses to update its standard, which could be disruptive to
+the Commission’s monitoring and surveillance efforts.
+By limiting SDRs’ flexibility to a choice between FpML and FIXML, the Commission
+seeks to facilitate data aggregation and analysis by specifying the form and manner with which
+71
+
+See SDR Adopting Release, 80 FR at 14538.
+
+34
+
+SDRs would be required to make SBS data available to the Commission. Adherence by SDRs to
+the schemas when providing direct electronic access should enhance the Commission’s ability to
+analyze the data maintained by a single SDR, and allow the Commission to more effectively
+aggregate and analyze data received from multiple SDRs. Furthermore, the proposed
+amendment also simplifies the aggregation task because the Commission would determine the
+permitted formatting standards and schemas, not the SDRs. As a result, the process of data
+aggregation will not be complicated or disrupted by SDRs’ decisions to update their formatting
+standards for reasons unrelated to regulatory requirements. The proposed amendment affords a
+simpler data aggregation process compared to an alternative in which SDRs exercise full
+discretion over the choice of formatting standard for providing direct electronic access and the
+timing for using the chosen standard.
+As discussed above, the schemas would incorporate validations. 72 These validations are
+restrictions placed on the form and manner of the SBS data made available by SDRs to the
+Commission that help ensure that the data SDRs make available to the Commission adhere to the
+appropriate schema. In particular, the validations test whether the data are complete and
+appropriately formatted and will likely enhance the Commission’s ability to normalize and
+aggregate the data. While validations incorporated into the schemas will be effective for
+checking data completeness and appropriate formatting, schema validations will not test for
+whether the SBS data accurately reflects the transaction that took place.
+The proposed amendment may also indirectly improve the quality of regulatory reporting
+in a number of ways. First, by specifying the form and manner with which SDRs must make
+SBS data available to the Commission, the proposed amendment might provide SDRs an
+72
+
+See Section II.C.3 of this release.
+
+35
+
+incentive to limit the range of ways that their participants can report SBS transaction data to
+them. If the proposed amendment results in clearer policies and procedures of registered SDRs,
+then the result could be more efficient reporting. Second, by leveraging existing industry
+standards, the proposed amendment may indirectly improve SBS data quality by eliminating the
+need for SDRs to reformat data already structured in FpML or FIXML in some different
+Commission specific format, thus reducing the likelihood that SDRs introduce errors in the
+process of reformatting data.
+C.
+
+Costs
+
+The Commission has preliminarily identified three potential sources of costs associated
+with the proposed amendment. The first potential source is SDRs’ implementation of the
+proposed amendment, the second potential source is the extension of existing standards to meet
+the Commission’s reporting requirements and the updating of those standards if necessary, and
+the third potential source arises from limiting the flexibility of SDRs in making SBS data
+available to the Commission.
+1.
+
+Implementation cost to SDRs
+
+As the Commission noted in the SDR Adopting Release, the cost imposed on SDRs to
+provide direct electronic access to the Commission should be minimal as SDRs likely have or
+will establish comparable electronic access mechanisms to enable market participants to provide
+data to SDRs and review transactions to which such participants are parties. 73 Further, as the
+Commission noted in Section III.A, many of the entities likely to register with the Commission
+as SDRs already accept transactions data from reporting persons who submit trade information
+using the FpML and FIXML standards.
+73
+
+See SDR Adopting Release, 80 FR at 14539.
+36
+
+Nevertheless, the Commission acknowledges that, as a result of the proposed amendment,
+SDRs may decide to implement policies, procedures, and information systems to ensure that SBS
+data made available to the Commission is in a form and manner that satisfies the requirements
+laid out in the schemas. The Commission preliminarily believes that the costs of implementing
+such policies, procedures, and information systems are likely to be related to conforming their
+data models to one of the Commission’s schemas and are likely to be smaller for those SDRs that
+already employ FIXML or FpML. The Commission preliminarily believes that these costs,
+which are in addition to the internal costs related to information technology systems, policies,
+and procedures the Commission estimated in the SDR Adopting Release, 74 would be
+approximately $127,000 in one-time costs per SDR, on average, 75 for an expected aggregate onetime cost of approximately $1,270,000. 76 To arrive at these estimates, we assume that each SDR
+74
+
+See id.
+
+75
+
+The Commission preliminarily estimates that an SDR will assign responsibilities for
+modifications of information technology systems to an Attorney, a Compliance Manager,
+a Programmer Analyst and a Senior Business Analyst and responsibilities for policies and
+procedures to an Attorney, a Compliance Manager, a Senior Systems Analyst and an
+Operations Specialist. Data from SIFMA’s Management & Professional Earnings in the
+Securities Industry 2013, modified by Commission staff to account for an 1800-hour
+work-year and multiplied by 5.35 to account for bonuses, firm size, employee benefits,
+and overhead, suggest that the cost of a Compliance Manager is $283 per hour, a
+Programmer Analyst is $220 per hour, a Senior Systems Specialist is $260 per hour, a
+Senior Business Analyst is $251 per hour, and an Operations Specialist is $125 per hour.
+Thus, the total initial estimated dollar cost will be $126,736.50 per SDR. This reflects the
+sum of the costs of modifying information technology systems ($110,810) and the cost of
+modifying policies and procedures ($15,926.50). Costs of modifying information
+technology systems are calculated as follows: (Attorney at $380 per hour for 70 hours) +
+(Compliance Manager at $283 per hour for 80 hours) + (Programmer Analyst at $220 per
+hour for 200 hours) + (Senior Business Analyst at $251 per hour for 70 hours) =
+$110,810. Costs of modifying policies and procedures are calculated as follows:
+(Attorney at $380 per hour for 21.75 hours) + (Compliance Manager at $283 per hour for
+19.25 hours) + (Senior Systems Analyst at $260 per hour for 5.75 hours) + (Operations
+Specialist at $125 per hour for 5.75 hours) = $15,926.50.
+
+76
+
+Aggregate costs are calculated as $126,736.50 x 10 SDRs = $1,267,365.
+37
+
+will first compare the data model it currently employs to the common data model represented by
+the schemas and subsequently make necessary modifications to information technology systems
+and policies and procedures.
+To the extent that SDRs decide to modify their policies, procedures, and information
+technology systems, the Commission preliminarily believes that modifications that would be
+needed to support compliance with the proposed amendment are unlikely to change the marginal
+burden of providing direct electronic access to transaction records to the Commission. This is
+because the only additional costs would be costs incurred by SDRs to use policies, procedures,
+and information systems they would have already established to ensure that each additional
+transaction record that is made available to the Commission is in a form and manner that meets
+the requirements of the schemas.
+The Commission also preliminarily believes that certain of these costs may be mitigated
+to the extent that the proposed amendment promotes enhancements to FpML and FIXML in
+support of regulatory reporting to registered SDRs. If the schemas, by identifying and closing
+gaps between reporting requirements and existing standards, encourage the use of FpML and
+FIXML by reporting persons instead of other formatting standards, then SDRs could incur a
+lower burden of conforming SBS data to one of the Commission’s schemas because SDRs will
+be limited to FpML or FIXML when making the data available to the Commission.
+The Commission recognizes that while SDRs may directly bear the implementation costs
+discussed above, these costs may be shared among market participants other than SDRs in
+several ways and will likely be passed through to SBS market participants, potentially in the
+form of higher costs for participants of registered SDRs, which in turn could result in higher
+transactions costs for counterparties, potentially impairing, albeit indirectly, efficiency in the
+
+38
+
+SBS market and capital formation by SBS market participants. For example, the implementation
+costs incurred by registered SDRs could be passed on to reporting participants in the form of
+higher fees for reporting transactions. Consider the situation in which a registered SDR takes on
+reporting participants as clients before it implements the policies, procedures, and information
+systems needed to ensure that SBS data made available to the Commission is in a form and
+manner that satisfies the requirements laid out in the schemas. This registered SDR could offset
+this implementation cost by levying higher service charges on its participant base.
+The ability of SDRs to pass through costs to their participants depends in part on the
+market power of SDRs. As discussed in the economic baseline, the Commission preliminarily
+believes that a limited number of persons would register with the Commission as SDRs. If there
+is only one registered SDR serving all reporting participants, then this SDR would have a greater
+ability to shift implementation costs that could arise as a consequence of the proposed
+amendment to its users. By contrast, a competitive SDR industry would likely mean that
+registered SDRs had less market power, rendering them less able to pass through such costs to
+reporting participants.
+As an alternative to imposing higher fees on participants, registered SDRs could pass
+through a portion of the implementation costs to their participants by requiring reporting parties
+to report SBS data using FpML or FIXML in the same manner that the Commission is proposing
+to require that SDRs utilize for making data accessible to the Commission under the
+Commission’s schemas. Under Rule 907(a)(2), a registered SDR is required to establish and
+maintain written policies and procedures that specify one or more acceptable data formats (each
+of which must be an open-source structured data format that is widely used by participants),
+connectivity requirements, and other protocols for submitting information. In response to the
+
+39
+
+proposed amendment, registered SDRs might elect to establish policies and procedures that
+would facilitate conforming transaction data submitted by reporting participants to the schemas,
+pursuant to which the registered SDRs would be required to make the data accessible to the
+Commission. In particular, a registered SDR might elect to establish policies and procedures that
+mandate reporting of data elements under Rules 901(c) and 901(d) in the same form and manner
+that the Commission is proposing to require of registered SDRs, or levy fees for reformatting
+SBS transaction data reported in other formats to conform to one of the schemas. In this
+scenario, the registered SDR’s participants could incur costs associated with: (i) modifying their
+reporting systems to transmit data to the registered SDR in a FIXML or FpML format that
+conforms to one of the schemas; or (ii) the registered SDR’s reformatting of data to conform to
+one of the schemas. The registered SDR could subsequently make the data available to the
+Commission with minimal resources in ensuring that the data conforms to one of the schemas.
+Efficiency in the SBS market and capital formation by SBS market participants may be
+impaired, albeit indirectly, by registered SDRs’ decisions to require reporting parties to report
+SBS data using FpML or FIXML under the Commission’s schemas. If the technologies required
+to implement the proposed amendment have scale economies, then an outcome in which
+reporting participants independently modify their reporting systems potentially represents an
+inefficient use of resources for the SBS market as a whole, even if it results in lower costs to
+SDRs, and particularly if reporting participants that do not otherwise have a frequent duty to
+report also modify their reporting systems. While acknowledging the potential for these
+inefficiencies, the Commission preliminarily believes they are unlikely to manifest for a number
+
+40
+
+of reasons. First, because FpML and FIXML are currently international industry standards, 77 it
+is likely that a significant proportion of reporting participants already use either FpML or
+FIXML. Participants with reporting obligations include SBS dealers; the Commission has also
+proposed reporting obligations for clearing agencies. 78 Commission staff has determined that all
+four clearing agencies currently clearing index and single name CDS use either FpML or
+FIXML, 79 and at least fourteen of the fifteen major dealers recognized by ISDA use either FpML
+or FIXML 80. Reporting participants that already use FpML or FIXML could potentially adapt
+policies, procedures, and information systems to report transactions using one of the schemas at a
+
+77
+
+See Sections II.A.1 and III.A of this release.
+
+78
+
+See Regulation SBSR Adopting Release, 80 FR at 14730. See also Securities Exchange
+Act Release No. 74245 (February 11, 2015), 80 FR 14740, 14802 (March 19, 2015)
+(“SBSR Amendments Proposing Release”).
+
+79
+
+ICE Clear Credit, ICE Clear Europe, CME, and LCH.Clearnet currently clear index and
+single name CDS. See SBSR Amendments Proposing Release 80 FR at 14775. Section
+III.A.2 of this release discusses the formatting standards used by ICE and CME.
+LCH.Clearnet allows reporting participants to submit transactions data using FpML. See
+LCH.Clearnet Ltd, ClearLink Messaging Specification 4 (June 2013), available at
+http://www.lchclearnet.com/documents/515114/515787/Clearlink+Technical+Requireme
+nts/004bb402-1b77-4561-88d7-c0e7e90b7363.
+
+80
+
+The fifteen major derivatives dealers identified in the 2013 ISDA Operations
+Benchmarking Survey are Barclays Capital, BNP Paribas, Bank of America-Merrill
+Lynch, Citigroup, Credit Suisse, Deutsche Bank, Goldman Sachs, HSBC, JP Morgan,
+Morgan Stanley, Nomura, Royal Bank of Scotland, Societe Generale, UBS, Wells Fargo.
+See International Swaps and Derivatives Association, Inc., 2013 ISDA Operations
+Benchmarking Survey 29 (Apr. 2013), available at
+https://www2.isda.org/attachment/NTUzOQ==/OBS%202013%20FINAL%200425.pdf.
+We use the FIX Trading Community Membership listing to identify dealers that use
+FIXML. See Premier Global Members, http://www.fixtradingcommunity.org/pg/grouptypes/sellside-broker-dealers-public (last visited Dec. 8, 2015). We rely on a dealer’s
+membership in the FpML Standards Committee as an indication of the dealer’s use of
+FpML. See Standards Committee, http://www.fpml.org/committees/standards/ (last
+visited Dec. 8, 2015). Because both the FIX Membership listing and FpML Standards
+Committee participation are voluntary, our estimates present a lower bound of the
+number of major dealers that use either FpML or FIXML.
+
+41
+
+lower cost than reporting participants that use a standard other than FpML or FIXML. Second,
+the potential inefficiencies may be muted if there are multiple SDRs that accept SBS data in each
+asset class. To the extent that multiple SDRs compete within an asset class, one potential
+competitive outcome is that one or more SDRs may strive to attract business from reporting
+participants by exploiting the scale economies associated with implementation and offering to
+accept data in whatever formats they currently accept from reporting participants and
+reformatting this data to conform to the common data model. In the case of a registered SDR that
+chooses to levy a fee for reformatting SBS data to conform to one of the schemas, competition
+between SDRs may limit the fees an SDR has the ability to charge.
+Taken together, scale economies for implementation and competition among SDRs might
+compel all SDRs to permit reporting participants to submit SBS data to SDRs using a variety of
+formats, thereby eliminating the inefficiencies associated with modification of systems by
+reporting parties.
+Finally, participants that report infrequently or do not use FpML or FIXML could reduce
+their burden by engaging with third-party entities to carry out reporting duties incurred under
+Regulation SBSR as well as satisfy data formatting requirements specified by registered SDRs. 81
+Third-party entities may offer reporting services if they are able to make SBS data available in a
+form and manner consistent with the schemas at a lower cost than SDRs and SDR participants.
+Such a cost advantage might arise if a third-party entity uses FpML or FIXML to process SBS
+data as part of its existing business activities and has acquired technical expertise in using FpML
+81
+
+The Commission acknowledged in Regulation SBSR that reporting requirements could
+present a barrier to entry for smaller firms but noted that firms that are reluctant to
+acquire and build reporting infrastructure could engage with third-party service providers
+to carry out reporting duties under Regulation SBSR. See Regulation SBSR Adopting
+Release, 80 FR at 14702.
+
+42
+
+or FIXML. Further, the availability of third-party entities that can convert SBS data to meet
+formatting requirements specified by registered SDRs may place an upper limit on the fees
+levied by SDRs to reformat data to conform to a Commission schema.
+2.
+
+Costs of extending and updating standards
+
+At present, FpML and FIXML do not have a complete set of defined reporting elements
+that address all Regulation SBSR reporting requirements. Market participants may choose to
+extend these standards to fully reflect Regulation SBSR reporting requirements through the
+industry bodies that maintain FpML and FIXML (working groups). 82 As discussed earlier, both
+standards undergo regular updates.
+While the Commission acknowledges the costs of extending and updating these
+standards, these are indirect costs, in that they are not costs required to be incurred by the
+proposed amendment, but costs that may be incurred voluntarily by industry bodies. Further, the
+Commission preliminarily believes that extension costs would be modest. An analysis
+82
+
+The FIX Protocol is updated by actions of its Global Technical Committee via a formal
+process in which working groups formulate a gap analysis and technical proposal. The
+gap analysis and proposal documents are posted on the FIX web site and accessible to the
+public prior to Global Technical Committee review. Approved proposals are published
+to the technical specification page as an “extension” or “errata/service” release,
+depending on their scope. Extensions to the FIX protocol apply to both FIX’s native
+format and FIXML. See FIX Protocol, Limited, FPL Technical Gap Analysis Approval
+Process (Jan. 20, 2006), available at
+http://www.fixtradingcommunity.org/pg/file/fplpo/read/1437402/gap-analysisspecification-proposal-process.
+FpML is updated by actions of its Standards Committee via a formal process in which
+working groups produce documents that define extensions or other technical matters
+which must proceed through stages as working drafts, last call working drafts, trial
+recommendations and recommendations. Extensions to FpML that reach trial
+recommendation status are assigned an incremented version number, so that the latest
+recommendation may be FpML 5.7 while the trial recommendation is FpML 5.8. All
+public specifications are published on the FpML web site. See FpML Standards
+Committee, Standards Approval Process – Version 2.1 – June 2009, available at
+http://www.fpml.org/asset/49a6b038/7545553a.pdf.
+
+43
+
+undertaken by Commission staff suggests that each standard currently has the defined reporting
+elements required to capture almost all of the data elements contemplated by Regulation SBSR. 83
+The Commission also preliminarily believes that the update costs would be limited because any
+update needed to support possible future changes in Regulation SBSR reporting requirements
+would likely be implemented as part of the routine updates undertaken by the working groups.
+The Commission reviewed the time taken to revise both FpML and FIXML and estimated that a
+revision requires on average 304 days. 84 A working group is estimated to be 29-member strong
+based on the size of the working group charged with revising FpML to define data elements to be
+used for reporting OTC derivative positions between market participants and to regulators. 85 The
+Commission assumes that the one-time extension and a periodic update of each standard will
+require only a fraction of the time required for a revision of a standard, with an extension
+requiring more time than a periodic update. Thus, the one-time cost of extending each standard is
+estimated to be $1,410,560 for a total cost of $2,821,120 for both standards, while the cost of a
+periodic update to one standard is estimated to be $282,112 for a total cost of $564,224 for both
+
+83
+
+See Section II.C and Appendix.
+
+84
+
+Using the release dates for versions 4.1 through 5.7 of FpML, we estimate the average
+time taken to update each version to be 154 days. Using the release dates for versions 4.0
+through 5.0 of FIXML, we estimate the average update time to be 454 days. We take the
+average of these two estimates to arrive at the final estimate of 304 days. The
+Commission preliminarily believes that these estimates are upper bounds on the time
+required to make extensions as a result of the proposed amendment because they
+represent an average of major and minor changes and because these changes likely
+represent a mix of changes in response to market practice and changes in response to
+regulatory requirements.
+
+85
+
+See Section III.A.3 of this release. See also FpML, Regulatory Reporting Working
+Group, http://www.fpml.org/wgroup/rptwg/ (last visited Dec. 8, 2015).
+
+44
+
+standards. 86 The Commission preliminarily believes that, while these costs would be directly
+incurred by working group members, they would likely be passed through to market participants,
+potentially in the form of higher transactions costs.
+3.
+
+Limiting formatting flexibility of SDRs
+
+In the SDR Adopting Release, the Commission required SDRs to provide direct
+electronic access, but did not specify the form and manner of the direct electronic access. As the
+Commission noted in the SDR Adopting Release, until such time as the Commission adopts
+specific formats and taxonomies, “SDRs may provide direct electronic access to the Commission
+to data in the form in which the SDRs maintain such data.” 87 The proposed amendment, by
+specifying the form and manner of direct electronic access, potentially curtails the flexibility in
+formatting choices that SDRs enjoy in the absence of the proposed amendment. The Commission
+is aware that such curtailment potentially represents a cost of the proposed amendment, but does
+not believe it can quantify this cost with any degree of precision as it depends on the different
+means by which each SDR could potentially make data available to the Commission
+electronically in the absence of the proposed amendment.
+Additionally, the proposed amendment could entail costs if FpML and FIXML no longer
+reflect SBS market conventions. As the SBS market evolves, FpML and FIXML may cease to
+86
+
+Because members of a working group are professionals from various organizations, we
+treat each member as an outside professional for this analysis and use a $400 per hour
+cost. We assume an eight hour work day for each member of the working group. For the
+one-time extension of a standard, we assume a workload of 5% of each working group
+member’s work day. Given these assumptions, the cost of extending one standard = 304
+x 29 x 8 x 400 x 0.05 = $1,410,560. The cost of extending both standards is = 1,410,560
+x 2 = $2,821,120. For the periodic update of a standard, we assume a workload of 1% of
+each working group member’s work day due to the incremental and limited nature of a
+periodic update. Thus, the cost of a periodic update to one standard = 304 x 29 x 8 x 400
+x 0.01 = $282,112, and the cost for both standards is = 282,112 x 2 = $564,224.
+
+87
+
+See SDR Adopting Release, 80 FR at 14475.
+
+45
+
+reflect SBS market practices or products. If more efficient standards other than FpML or FIXML
+emerge, the proposed amendment would not permit SDRs to take advantage of those standards in
+providing direct electronic access to the Commission, though the proposed amendment would
+not preclude SDRs from using those standards for other purposes. The magnitude of this
+economic effect is difficult to estimate as we would require information about future SBS market
+practices and products, as well as efficiency improvements in currently existing and new
+formatting standards. Moreover, the Commission preliminarily believes that potential reductions
+in future flexibility will be limited for a number of reasons. First, as previously discussed in
+Section II.A, representatives from the financial industry, including those in the SBS market, are
+involved in maintaining, developing, and updating FpML and FIXML to support, among other
+things, market practices and regulatory reporting requirements. Periodic updating reduces the
+likelihood that FpML and FIXML will fail to reflect changes to SBS market practices or
+products. Further, the Commission preliminarily believes that industry involvement and periodic
+updating make it less likely that a more efficient alternative to FpML or FIXML will emerge.
+Second, by specifying schemas based on both FpML and FIXML, the proposed amendment
+provides redundancy in case one standard falls into disuse and no longer reflects SBS market
+practices or products.
+D.
+
+Competition among SDRs
+
+The Commission is also sensitive to the effects on competition among SDRs that might
+arise as a result of the proposed amendment. The Commission preliminarily believes that the
+impact of the proposed amendment is likely to be limited. The Commission views the effect of
+the proposed amendment as further specifying the form and manner of data already required to
+be made available to the Commission under Rule 13n-4(b)(5). The Commission understands that
+the implementation costs associated with meeting minimum requirements for form and manner
+46
+
+under the proposed amendment could represent a barrier to entry for entrants into the SDR
+industry that, in the absence of the proposed amendment, would choose to make data available to
+the Commission in a lower cost form and manner.
+To the extent that the proposed amendment deters new firms from entering the SDR
+industry, competition between SDRs could be reduced. A less competitive SDR industry could
+see incumbent registered SDRs increasing fees charged to reporting participants, reducing the
+quantity and quality of services provided to reporting participants, or both. Further, a less
+competitive SDR industry could make it easier for incumbent registered SDRs to shift a bigger
+portion of their implementation cost to reporting participants. As noted above, such a shift could
+represent an inefficient allocation of implementation costs if it results in duplicative investment
+in software and systems by a large number of reporting parties to conform data to the schemas. 88
+The Commission preliminarily believes that any deleterious effect on competition that
+results from the proposed amendment might be limited for a number of reasons. First, because
+the Commission is selecting the FpML and FIXML standards which are widely available to the
+public at no cost, new entrants would not incur any cost associated with the creation of new
+standards. Second, should extension and updating costs be necessary, such costs are expected to
+be modest and would likely be shared among various market participants, including SDRs.
+Thus, the actual portion of these costs incurred by a new entrant would be limited.
+E.
+
+Alternative Approaches
+
+The Commission has considered two alternatives to the approach contemplated in the
+proposed amendment. In this section, we discuss each alternative in turn and the reasons why
+each alternative approach was not proposed.
+88
+
+See Section III.C.1 of this release.
+
+47
+
+1.
+
+Developing a new standard
+
+The first alternative would involve development of a new information formatting
+standard specifically designed to support regulatory reporting of SBS data. The Commission
+could implement this alternative in one of two ways. First, the Commission could develop a new
+standard on its own and require SDRs to use this standard. The key advantage of such an
+approach is that it would give the Commission the ability to tailor definitions of data elements to
+precisely match those in Regulation SBSR. However, this approach suffers from a number of
+drawbacks. The Commission would likely expend significant resources to (i) develop an
+information formatting standard for SBS data, (ii) stay informed of the various practices of the
+SDRs, (iii) provide guidance on the standard’s use, and (iv) update the standard on a regular
+basis to incorporate innovations in the SBS market and additional reporting requirements as
+determined by future Commission action. Further, under this approach market participants could
+incur costs associated with supporting an additional information formatting standard that is not
+useful except for purposes of satisfying Title VII requirements.
+In the absence of an existing standard for SBS data, it would be appropriate for the
+Commission to develop a new standard specifically designed to support regulatory reporting of
+SBS data. However, because FpML and FIXML are existing standards that are widely used by
+market participants, the Commission preliminarily believes it would be more efficient to
+leverage these standards that have been designed with input from market participants, that
+communicate information about financial contracts, and that can be updated and maintained with
+the assistance of dedicated industry working groups. Further, the Commission preliminarily
+believes that the proposed approach reduces the likelihood that SDRs introduce errors to SBS
+data in the process of reformatting data structured in FpML or FIXML to conform to a new
+
+48
+
+standard developed specifically for regulatory reporting. Thus, the Commission has not chosen
+to develop its own standard in the proposed amendment.
+2.
+
+Using FpML or FIXML as the sole schema standard
+
+A second alternative would be to use either FpML or FIXML as the sole schema
+standard. The Commission preliminarily believes that using only a single standard would impose
+an additional burden on an SDR that currently uses a standard other than the selected standard.
+Because FpML and FIXML are both widely used and accepted in the financial industry, it is
+possible that some SDRs use FpML while others use FIXML. As noted in the economic
+baseline, among the persons that could potentially register as SDRs for security-based swaps,
+BSDR LLC, DTCC Data Repository, and ICE are FpML users, while Chicago Mercantile
+Exchange, Inc. is a FIXML user. By selecting either FpML or FIXML as the sole standard, the
+Commission would be requiring an SDR that did not use the proposed standard to incur costs to
+change its policies, procedures, and information systems to accommodate the proposed standard.
+In addition, selecting a sole standard could increase the likelihood of introducing errors to SBS
+data caused by an SDR that uses the non-permissible standard when reformatting its data to
+conform to the selected standard. A greater likelihood of errors could potentially reduce the
+quality of SBS data made available to the Commission. Further, allowing both FpML and
+FIXML instead of allowing just one of these standards would afford some measure of
+redundancy in case one standard falls into disuse (due, for example, to the cessation of industry
+support) and no longer reflects current market practices.
+F.
+
+Request for Comment
+
+The Commission seeks commenters’ views and suggestions on all aspects of its economic
+analysis of the proposed amendment. In particular, the Commission asks commenters to
+consider the following questions:
+49
+
+•
+
+What additional information sources can the Commission use to calibrate the cost of
+setting up and implementing policies, procedures, and information systems to format and
+submit SBS transaction data in accordance with the Commission’s schemas?
+
+•
+
+What fraction of reporting participants already use FpML or FIXML to format SBS data?
+
+•
+
+What fraction of reporting participants use proprietary XML representations of SBS?
+
+•
+
+What additional information sources can the Commission use to calibrate (a) the cost of
+extending FpML and FIXML and (b) the cost of periodically updating these standards?
+
+•
+
+Are there costs associated with the proposed amendment that the Commission has not
+identified? If so, please identify them and if possible, offer ways of estimating these
+costs.
+
+IV.
+
+Paperwork Reduction Act
+The Commission is required to take into account those provisions of any proposed
+
+amendments that contain “collection of information requirements” within the meaning of the
+Paperwork Reduction Act of 1995 (“PRA”). 89 In this release, the Commission is proposing to
+specify the form and manner with which SDRs will be required to make SBS data available to
+the Commission under Exchange Act Rule 13n-4(b)(5). Specifically, the Commission is
+proposing to amend Rule 13n-4(a)(5) to require SDRs to provide direct electronic access using
+either the FpML schema or the FIXML schema as published on the Commission’s website. The
+Commission is also requiring that the SDRs use the most recent schema published on the
+website, as the Commission may make periodic updates to reflect changes in the FpML and
+FIXML standards or changes in industry practice.
+
+89
+
+44 U.S.C. 3501 et seq.
+
+50
+
+As is discussed in greater detail below, the Commission preliminarily believes that the
+proposed amendments to Rule 13n-4(a)(5) would result in a collection of information burden.
+To the extent that this collection of information burden has not already been accounted for in the
+adoption of the SDR Adopting Release and Regulation SBSR, 90 such burden is discussed below.
+The purpose of the proposed amendments to Rule 13n-4(a)(5) is to specify the form and manner
+with which SDRs would be required to make SBS data available to the Commission. By doing
+so, the Commission seeks to ensure that the SBS data made available by SDRs are formatted
+and structured consistently so that the Commission can accurately analyze the data maintained
+by a single SDR, and so that the Commission can also aggregate and analyze data maintained by
+multiple SDRs. Collection of the underlying data, however, is already covered by existing
+collections.
+The Commission’s SDR Rules (OMB Control Number 3235-0719) consist of Rules
+13n-1 to 13n-12 under the Exchange Act governing SDRs, and a new form, Form SDR, for
+registration as a security-based swap data repository. Among other things, Rule 13n-4(b) sets
+forth requirements for collecting and maintaining transaction data that each SDR will be required
+to follow. The SDR Adopting Release described the relevant burdens and costs that complying
+with Rule 13n-4(b), as well as the other companion rules, will entail. The Commission estimated
+that the one-time start-up burden relating to establishing the systems necessary to comply to the
+SDR Rules (including Rule 13n-4(b)) would be 42,000 hours and $10 million in information
+technology costs for each SDR, for a total one-time start-up burden of 420,000 hours and $100
+
+90
+
+See SDR Adopting Release, 80 FR 14437; Regulation SBSR Adopting Release, 80 FR
+14673.
+
+51
+
+million. 91 The Commission further estimated that the average ongoing annual burden of these
+systems would be 25,200 hours and $6 million per SDR, for a total annual ongoing annual
+burden of 252,000 hours and $60 million. 92 The Commission preliminarily believes that there
+would be additional burdens on top of those already discussed in connection with the SDR Rules
+as a result of the proposed amendments. The Commission is submitting the collection of
+information to the Office of Management and Budget for review in accordance with 44 U.S.C.
+3507 and 5 CFR 1320.11. The title of the collection of information the Commission is proposing
+to amend is “Form SDR and Security-Based Swap Data Repository Registration, Duties, and
+Core Principles.” An agency may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless it displays a currently valid OMB control number.
+Regulation SBSR (OMB Control No. 3235-0718), among other things, sets forth the
+primary and secondary SBS trade information that must be reported to a registered SDR and,
+with some exceptions, disseminated by a registered SDR to the public. The burdens associated
+with the reporting and dissemination of SBS trade information are discussed in Regulation
+SBSR. These burdens include those related to a registered SDR to time-stamping information
+that it receives, assigning a unique transaction ID to each security-based swap it receives (or
+establishing or endorsing a methodology for transaction IDs to be assigned by third parties),
+disseminating transaction reports related to SBSs, issuing notifications regarding closing hours
+and system availability, establishing protocols for correcting errors in SBS information,
+obtaining UICs as necessary, establishing and maintaining compliance with certain policies and
+procedures, and registering as a securities information processor. In this release, the
+91
+
+See 80 FR at 14523.
+
+92
+
+Id.
+
+52
+
+Commission has not proposed changes to the information that must be reported to a registered
+SDR or the information that must be disseminated by a registered SDR to the public. The
+Commission therefore preliminarily believes that there would be no additional burden beyond
+those already discussed in connection with Regulation SBSR.
+The Commission believes, as is discussed in greater detail above in Section II.A., that the
+participants in the SBS market generally already employ two industry standard formats: FpML
+and FIXML. The Commission expects, but Regulation SBSR does not require, that registered
+SDRs will accept SBS trade information in one or both of these industry standard formats. In
+preparation for compliance with Regulation SBSR and the SDR Adopting Release, the
+Commission expects that registered SDRs will have established systems capable of collecting –
+and indeed likely have already collected SBS trade information – in one of these two industry
+standards formats. However, the Commission does acknowledge that, as a result of the proposed
+amendment, SDRs may incur burdens associated with implementing policies, procedures, and
+information systems to ensure that SBS data made available to the Commission is in the form
+and manner that satisfies the requirements laid out in the schema.
+A.
+
+Summary of Collection of Information
+
+Rule 13n-4(b)(5) requires SDRs to provide direct electronic access to the Commission or
+its designees. Rule 13n-4(a)(5), as proposed to be amended, requires “direct electronic access”
+to be made using “the most recent version of either the FpML schema or the FIXML schema for
+security-based swap data repositories as published on the Commission’s website.” The proposed
+amendments do not alter or amend the information that must be collected and maintained by a
+registered SDR, but do impact the manner in which such information is made available to the
+Commission.
+
+53
+
+B.
+
+Use of Information
+
+Rules 13n-4(b)(5) requires that an SDR provide the Commission, or any designee of the
+Commission, with direct electronic access. The information made available to the Commission,
+or its designee, will help ensure an orderly and transparent SBS market as well as provide the
+Commission with tools to help oversee this market.
+C.
+
+Respondents
+
+The direct electronic access requirements of Rule 13n-4(b)(5) apply to all SDRs, absent
+an exemption. Thus, for these provisions, the Commission continues to estimate that there will
+be 10 respondents.
+D.
+
+Total Initial and Annual Reporting and Recordkeeping Burden
+
+As discussed above, Rule 13n-5(b)(5) requires SDRs to provide direct electronic access
+to the Commission or its designees. Rule 13n-4(a)(5), as proposed to be amended, would require
+“direct electronic access” to be made available to the Commission using “the most recent version
+of either the FpML schema or the FIXML schema for security-based swap data repositories as
+published on the Commission’s website.”
+The Commission preliminarily believes that registered SDRs are likely to already accept
+transaction data from reporting persons who submit trade information using FpML and FIXML
+reporting standards. However, the Commission preliminarily believes that, as a result of the
+proposed amendment, registered SDRs may incur certain burdens associated with implementing
+policies, procedures, and information systems to ensure that SBS data made available to the
+Commission is in a form and manner that satisfies the requirements laid out in the schemas. The
+Commission preliminarily believes that these incremental burdens are likely to be related to
+ensuring that the data elements that constitute the common data model are represented using the
+appropriate FIXML or FpML reporting elements and are likely to be smaller for those SDRs that
+54
+
+already employ FIXML or FpML. The Commission preliminarily estimates that each registered
+SDR will incur an initial, one-time burden of 472.5 hours, 93 for an aggregate one-time burden of
+4,725 hour for all registered SDRs. 94 The Commission expects that each SDR will comply with
+the proposed rule by first comparing the data model it currently employs to the common data
+model represented by the schemas and subsequently making necessary modifications to
+information technology systems and policies and procedures.
+Once the policies, procedures, and information systems required to comply with the
+proposed amendment are in place, the Commission preliminarily does not believe that there will
+be any additional paperwork burden placed upon SDRs to make transaction records accessible in
+a form and manner that satisfies the requirements of the schemas. The Commission
+preliminarily believes that the burdens related to SDRs using their policies, procedures, and
+information systems they would have already established have been accounted for in the
+previously adopted SDR Rules. Furthermore, the Commission preliminarily believes that the
+annual burdens associated with maintaining the SDRs policies and procedures, as well as the
+annual burdens associated with modifications of information technology systems have already
+been accounted for in the previously approved SDR Rules.
+93
+
+The Commission preliminarily estimates that an SDR will assign responsibilities for
+modifications of information technology systems to an Attorney, a Compliance Manager,
+a Programmer Analyst and a Senior Business Analyst and responsibilities for policies and
+procedures to an Attorney, a Compliance Manager, a Senior Systems Analyst and an
+Operations Specialist. The Commission estimates the burden of modifying information
+technology systems to be as follows: 70 hours (Attorney) + 80 hours (Compliance
+Manager + 200 hours (Programmer Analyst) + 70 hours (Senior Business Analyst) = 420
+burden hours. The Commission estimates the burden of modifying policies and
+procedures to be as follows: 21.75 hours (Attorney) + 19.25 (Compliance Manager) +
+5.75 hours (Senior Systems Analyst) + 5.75 hours (Operations Specialist) = 52.5 burden
+hours.
+
+94
+
+The aggregate burden is calculated as follows: (420 hours + 52.5 hours) x 10 registered
+SDRs = 4,725 burden hours
+
+55
+
+E.
+
+Collection of Information is Mandatory
+
+The collection of information relating to direct electronic access is mandatory for all
+SDRs, absent an exemption.
+F.
+
+Confidentiality
+
+Because these proposed amendments do not impact the scope or nature of the information
+required to be made available to the Commission, the Commission does not expect to receive
+confidential information as a result of these proposed amendments. However, to the extent that
+the Commission does receive confidential information pursuant to this collection of information,
+such information will be kept confidential, subject to the provisions of applicable law.
+G.
+
+Recordkeeping Requirements
+
+Rule 13n-7(b) under the Exchange Act requires an SDR to keep and preserve at least one
+copy of all documents, including all documents and policies and procedures required by the
+Exchange Act and the rules or regulations thereunder, correspondence, memoranda, papers,
+books, notices, accounts, and other such records as shall be made or received by it in the course
+of its business as such, for a period of not less than five years, the first two years in a place that is
+immediately available to representatives of the Commission for inspection and examination.
+This requirement encompasses any documents and policies and procedures established as a result
+of the proposed amendments.
+H.
+
+Request for Comments
+
+Pursuant to 44 U.S.C. 3505(c)(2)(B), the Commission solicits comment to:
+•
+
+Evaluate whether the proposed collection of information is necessary for the proper
+performance of our functions, including whether the information will have practical
+utility;
+
+56
+
+•
+
+Evaluate the accuracy of our estimate of the burden of the proposed collection of
+information;
+
+•
+
+Determine whether there are ways to enhance the quality, utility, and clarity of the
+information to be collected; and
+
+•
+
+Evaluate whether there are ways to minimize the burden of collection of information on
+those who are to respond, including through the use of automated collection techniques or
+other forms of information technology.
+
+Persons submitting comments on the collection of information requirements should direct them
+to the Office of Management and Budget, Attention: Desk Officer for the Securities and
+Exchange Commission, Office of Information and Regulatory Affairs, Washington, DC 20503,
+and should also send a copy of their comments to Brent J. Fields, Secretary, Securities and
+Exchange Commission, 100 F Street NE, Washington, DC 20549-1090, with reference to File
+Number S7-26-15. Requests for materials submitted to OMB by the Commission with regard to
+this collection of information should be in writing, with reference to File Number S7-26-15 and
+be submitted to the Securities and Exchange Commission, Office of FOIA/PA Operations, 100 F
+Street NE., Washington, DC 20549-2736. As OMB is required to make a decision concerning
+the collections of information between 30 and 60 days after publication, a comment to OMB is
+best assured of having its full effect if OMB receives it within 30 days of publication.
+V.
+
+Regulatory Flexibility Act Certification
+Section 3(a) of the Regulatory Flexibility Act of 1980 (“RFA”) 95 requires the
+
+Commission to undertake an initial regulatory flexibility analysis of the proposed amendment on
+
+95
+
+5 U.S.C. 603(a).
+
+57
+
+“small entities.” Section 605(b) of the RFA 96 provides that this requirement shall not apply to
+any proposed rule or proposed rule amendment which, if adopted, would not have a significant
+economic impact on a substantial number of small entities. Pursuant to 5 U.S.C. 605(b), the
+Commission hereby certifies that the proposed amendment to Rule 13n-4(a)(5) would not, if
+adopted, have a significant economic impact on a substantial number of small entities. In
+developing this proposed amendment the Commission has considered its potential impact on
+small entities. For purposes of Commission rulemaking in connection with the RFA, a small
+entity includes: (1) when used with reference to an “issuer” or a “person,” other than an
+investment company, an “issuer” or “person” that, on the last day of its most recent fiscal year,
+had total assets of $5 million or less; 97 or (2) a broker-dealer with total capital (net worth plus
+subordinated liabilities) of less than $500,000 on the date in the prior fiscal year as of which its
+audited financial statements were prepared pursuant to Rule 17a-5(d) under the Exchange Act, 98
+or, if not required to file such statements, a broker-dealer with total capital (net worth plus
+subordinated liabilities) of less than $500,000 on the last day of the preceding fiscal year (or in
+the time that it has been in business, if shorter); and is not affiliated with any person (other than a
+natural person) that is not a small business or small organization. 99
+The Commission believes, based on input from SBS market participants and its own
+information, that persons that are likely to register as SDRs would not be small entities. Based
+on input from SBS market participants and its own information, the Commission believes that
+
+96
+
+5 U.S.C. 605(b).
+
+97
+
+17 CFR 240.0-10(a).
+
+98
+
+17 CFR 240.17a-5(d).
+
+99
+
+17 CFR 240.0-10(c).
+
+58
+
+most if not all registered SDRs would be part of large business entities, and that all registered
+SDRs would have assets exceeding $5 million and total capital exceeding $500,000.
+The Commission encourages written comments regarding this certification. The
+Commission solicits comment as to whether the proposed amendment to Rule 13n-4(a)(5) could
+have an effect on small entities that has not been considered. The Commission requests that
+commenters describe the nature of any impact on small entities and provide empirical data to
+support the extent of such impact.
+VI.
+
+Small Business Regulatory Enforcement Fairness Act
+For purposes of the Small Business Regulatory Enforcement Fairness Act of 1996
+
+(“SBREFA) 100 the Commission must advise the OMB whether the proposed regulation
+constitutes a “major” rule. Under SBREFA, a rule is considered “major” where, if adopted, it
+results or is likely to result in: (1) an annual effect on the economy of $100 million or more;
+(2) a major increase in costs or prices for consumers or individual industries; or (3) significant
+adverse effect on competition, investment or innovation.
+The Commission requests comment on the potential impact of the proposed amendment
+on the economy on an annual basis. Commenters are requested to provide empirical data and
+other factual support for their views to the extent possible.
+VII.
+
+Statutory Authority
+Pursuant to the Exchange Act, and particularly Sections 13(n) and 23(a) thereof, 15
+
+U.S.C. 78m(n) and 78w(a), the Commission is proposing to amend rule 13n-4(a)(5), under the
+Exchange Act.
+
+100
+
+Pub. L. No. 104-121, Title II, 110 Stat. 857 (1996) (codified in various sections of
+5 U.S.C. and 15 U.S.C. and as a note to 5 U.S.C. 601).
+
+59
+
+List of Subjects
+17 CFR Part 240
+Reporting and recordkeeping requirements.
+
+Text of Proposed amendment
+For the reasons stated in the preamble, the SEC is proposing to amend Title 17, Chapter
+II of the Code of the Federal Regulations as follows:
+PART 240—GENERAL RULES AND REGULATIONS, SECURITIES EXCHANGE
+ACT OF 1934
+1. The general authority citation for part 240 continues to read as follows:
+Authority: 15 U.S.C. 77c, 77d, 77g, 77j, 77s, 77z–2, 77z–3, 77eee, 77ggg, 77nnn, 77sss,
+77ttt, 78c, 78c–3, 78c–5, 78d, 78e, 78f, 78g, 78i, 78j, 78j–1, 78k, 78k–1, 78l, 78m, 78n, 78n–1,
+78o, 78o–4, 78o–10, 78p, 78q, 78q–1, 78s, 78u–5, 78w, 78x, 78ll, 78mm, 80a–20, 80a–23, 80a–
+29, 80a–37, 80b–3, 80b–4, 80b–11, 7201 et seq.; and 8302; 7 U.S.C. 2(c)(2)(E); 12 U.S.C.
+5221(e)(3); 18 U.S.C. 1350; and Pub. L. 111–203, 939A, 124 Stat. 1376 (2010), unless otherwise
+noted.
+*****
+2. Amend § 240.13n-4(a)(5) by adding a second sentence to read as follows:
+§ 240.13n-4 Duties and core principles of security-based swap data repository.
+(a) * * *
+
+60
+
+(5) * * * Direct electronic access must be made available to the Commission using the
+most recent version of either the FpML schema or the FIXML schema for security-based swap
+data repositories as published on the Commission’s website.
+*****
+
+By the Commission.
+Dated: December 11, 2015.
+
+Brent J. Fields,
+Secretary.
+
+61
+
+APPENDIX: Mapping of common data model concepts to FIXML and FpML data elements
+The common data model is informed by the current versions of the FpML and FIXML
+standards. Commission staff has mapped concepts in the common data model to existing data
+elements in both FpML and FIXML. Table 1 depicts the result of this mapping exercise for
+FpML version 5.9, which is considered current for the purposes of this proposal. Table 2 repeats
+this exercise for FIX version 5.0, Service Pack 2, which shall be considered current for the
+purposes of this proposal.
+Table 1: Mapping of common data model data concepts to FpML data elements. When the FpML column includes a list
+of terms, this means that FpML expresses the concept as a combination of data elements from that list. Blank entries
+mean that the concept does not presently have an exact equivalent in FpML.
+
+§ 901 Ref.
+(c)(1)
+
+Common Data Model Concept
+Product ID
+
+(c)(1)(i)
+
+Asset Class
+
+(c)(1)(i)
+(c)(1)(i)
+(c)(1)(i)
+(c)(1)(ii)
+(c)(1)(iii)
+(c)(1)(iv)
+
+Underlying Reference Asset(s)
+Underlying Reference Issuer(s)
+Underlying Reference Index
+Effective Date
+Scheduled Termination Date
+Terms of any standardized fixed rate
+payments
+
+(c)(1)(iv)
+(c)(1)(iv)
+
+Frequency of any fixed rate payments
+Terms of any standardized floating rate
+payments
+
+(c)(1)(iv)
+(c)(1)(v)
+(c)(2)
+
+Frequency of any floating rate payments
+Custom Swap Flag
+The date and time, to the second, of
+execution, expressed using Coordinated
+Universal Time (UTC);
+The price
+
+(c)(3)
+(c)(3)
+
+The currency in which the price is
+expressed
+62
+
+FpML Data Elements
+productId
+primaryAssetClass
+secondaryAssetClass
+productType
+embeddedOptionType
+primaryAssetClass
+secondaryAssetClass
+underlyingAsset
+referenceEntity
+index
+effectiveDate
+scheduledTerminationDate
+calculationPeriodAmount or
+fixedAmountCalculation
+paymentDates
+calculationPeriodFrequency
+calculationPeriodAmount
+paymentDates
+resetDates
+calculationPeriodFrequency
+nonStandardTerms
+executionDateTime
+
+quote
+value
+currency
+
+§ 901 Ref.
+(c)(3)
+
+Common Data Model Concept
+The amount(s) of any up-front payments
+
+(c)(3)
+(c)(4)
+
+The currenc(ies) of any up-front payments
+The notional amount(s)
+
+(c)(4)
+
+The currenc(ies) in which the notional
+amount(s) is expressed
+Inter-Dealer Swap Flag
+Intention To Clear Flag
+If applicable, any flags pertaining to the
+transaction that are specified in the policies
+and procedures of the registered SDR to
+which the transaction will be reported
+The counterparty ID [on the reporting side]
+
+(c)(5)
+(c)(6)
+(c)(7)
+
+(d)(1)
+(d)(1)
+(d)(1)
+(d)(1)
+(d)(1)
+(d)(1)
+(d)(1)
+
+(d)(2)
+(d)(2)
+(d)(3)
+
+(d)(3)
+
+(d)(3)
+
+The execution agent ID [on the reporting
+side], as applicable
+The counterparty ID [on the non-reporting
+side]
+The execution agent ID of each
+counterparty, as applicable
+[As applicable] the branch ID of the direct
+counterparty on the reporting side
+[As applicable] the broker ID of the direct
+counterparty on the reporting side
+[As applicable] the execution agent ID of
+the direct counterparty on the reporting
+side
+[As applicable] the trader ID of the direct
+counterparty on the reporting side
+[As applicable] the trading desk ID of the
+direct counterparty on the reporting side
+the terms of any fixed or floating rate
+payments, or otherwise customized or nonstandard payment streams
+the frequency of any fixed or floating rate
+payments, or otherwise customized or nonstandard payment streams
+the contingencies of any fixed or floating
+rate payments, or otherwise customized or
+non-standard payment streams
+
+63
+
+FpML Data Elements
+additionalPayment
+paymentType
+currency
+notional
+amount
+currency
+
+intentToClear
+
+onBehalfOf
+partyId
+partyId
+partyRole
+partyId
+partyRole
+partyId
+partyRole
+relatedBusinessUnit
+role
+relatedBusinessUnit
+role
+relatedBusinessUnit
+role
+relatedBusinessUnit
+role
+relatedBusinessUnit
+role
+genericProduct
+
+paymentFrequency
+resetFrequency
+feature
+
+§ 901 Ref.
+(d)(4)
+
+Common Data Model Concept
+title of any master agreement
+
+(d)(4)
+
+the date of any master agreement
+
+(d)(4)
+
+the title of any collateral agreement
+
+(d)(4)
+
+the date of any collateral agreement
+
+(d)(4)
+(d)(4)
+(d)(4)
+
+the title of any margin agreement
+the date of any margin agreement
+the title of any other agreement
+
+(d)(4)
+
+the date of any other agreement
+
+(d)(5)
+
+any additional data elements included in
+the agreement between the counterparties
+that are necessary for a person to determine
+the market value of the transaction;
+the name of the clearing agency to which
+partyId
+the security-based swap will be submitted
+partyRole
+for clearing
+whether they have invoked the exception in endUserException
+Section 3C(g) of the Exchange Act (15
+U.S.C. 78c-3(g));
+
+(d)(6)
+
+(d)(7)
+
+(d)(8)
+(d)(8)
+(d)(8)
+(d)(9)
+
+a description of the settlement terms
+whether the security-based swap is cashsettled or physically settled
+the method for determining the settlement
+value
+The platform ID, if applicable
+
+(d)(10)
+
+the transaction ID of an allocated securitybased swap
+
+(d)(10)
+
+the transaction ID of a terminated securitybased swap
+the transaction ID of a novated securitybased swap
+the transaction ID of an assigned securitybased swap
+
+(d)(10)
+(d)(10)
+
+64
+
+FpML Data Elements
+masterAgreement
+masterAgreementId
+masterAgreement
+masterAgreementDate
+creditSupportAgreement
+identifier
+creditSupportAgreement
+date
+
+contractualTermsSupplement, et al.
+identifier
+contractualTermsSupplement, et al.
+date
+
+cashSettlementTerms
+physicalSettlementTerms
+valuationMethod
+partyId
+partyRole
+originatingEvent
+originatingTradeId
+allocationTradeId
+terminatingEvent
+originatingTradeId
+novation
+originatingTradeId
+novation
+originatingTradeId
+
+§ 901 Ref.
+(e)(1)(i)
+
+(e)(1)(ii)
+(e)(2)
+
+(f)
+
+(g)
+
+Common Data Model Concept
+A life cycle event, and any adjustment due
+to a life cycle event, that results in a
+change to information previously reported
+pursuant to paragraph (c), (d), or (i) of this
+section shall be reported by the reporting
+side [except that the reporting side shall not
+report whether or not a security-based
+swap has been accepted for clearing]
+Acceptance for clearing
+All reports of life cycle events and
+adjustments due to life cycle events shall,
+within the timeframe specified in
+paragraph (j) of this section, be reported to
+the entity to which the original securitybased swap transaction will be reported or
+has been reported and shall include the
+transaction ID of the original transaction.
+Time stamp, to the second, its receipt of
+any information submitted to it pursuant to
+paragraph (c), (d), (e), or (i) of this section.
+A transaction ID to each security-based
+swap, or establish or endorse a
+methodology for transaction IDs to be
+assigned by third parties.
+
+FpML Data Elements
+originatingEvent
+trade
+
+originatingTradeId
+
+timestamps
+nonpubliclyReported
+originatingTradeId
+
+Table 2: Mapping of common data model data concepts to FIXML data elements. When the FIXML column includes a
+list of terms, this means that FIXML expresses the concept as a combination of data elements from that list. Blank entries
+mean that the concept does not presently have an exact equivalent in FIXML.
+
+§ 901 Ref. Common Data Model Concept
+(c)(1)
+Product ID
+
+(c)(1)(i)
+(c)(1)(i)
+(c)(1)(i)
+(c)(1)(i)
+(c)(1)(ii)
+(c)(1)(iii)
+(c)(1)(iv)
+
+Asset Class
+Underlying Reference Asset(s)
+Underlying Reference Issuer(s)
+Underlying Reference Index
+Effective Date
+Scheduled Termination Date
+Terms of any standardized fixed rate
+payments
+65
+
+FIXML Data Elements
+Prod
+SecTyp
+PxDtrmnMeth
+SettlMeth
+SwapClss
+SwapSubClss
+CFI
+Undly
+Issr
+NdxSeries
+EfctvDt
+TrmntDt
+PmtStrm
+CalcDts
+Rt
+
+§ 901 Ref. Common Data Model Concept
+
+(c)(1)(iv)
+(c)(1)(iv)
+(c)(1)(iv)
+(c)(1)(v)
+(c)(2)
+
+(c)(3)
+(c)(3)
+(c)(3)
+(c)(3)
+(c)(4)
+(c)(4)
+(c)(5)
+(c)(6)
+(c)(7)
+
+(d)(1)
+
+(d)(1)
+(d)(1)
+(d)(1)
+
+Frequency of any fixed rate payments
+Terms of any standardized floating rate
+payments
+Frequency of any floating rate payments
+Custom Swap Flag
+The date and time, to the second, of
+execution, expressed using Coordinated
+Universal Time (UTC);
+The price
+The currency in which the price is
+expressed
+The amount(s) of any up-front payments
+The currenc(ies) of any up-front
+payments
+The notional amount(s)
+The currenc(ies) in which the notional
+amount(s) is expressed
+Inter-Dealer Swap Flag
+Intention To Clear Flag
+If applicable, any flags pertaining to the
+transaction that are specified in the
+policies and procedures of the registered
+security-based swap data repository to
+which the transaction will be reported
+The counterparty ID [on the reporting
+side]
+
+The execution agent ID [on the reporting
+side], as applicable
+The counterparty ID [on the nonreporting side]
+The execution agent ID of each
+counterparty, as applicable
+
+66
+
+FIXML Data Elements
+Amt
+Ccy
+PmtDts
+ResetDts
+PmtDts
+TrdRegTS
+TS
+Typ
+Src
+Px
+Ccy
+UpfrontPx
+
+Strm
+Notl
+Ccy
+Pty
+Typ
+ClrIntn
+
+Pty
+ID
+Src
+R
+R
+Sub
+ID
+Typ
+R
+R
+R
+
+§ 901 Ref. Common Data Model Concept
+(d)(1)
+[As applicable] the branch ID of the
+direct counterparty on the reporting side
+(d)(1)
+[As applicable] the broker ID of the direct
+counterparty on the reporting side
+(d)(1)
+[As applicable] the execution agent ID of
+the direct counterparty on the reporting
+side
+(d)(2)
+[As applicable] the trader ID of the direct
+counterparty on the reporting side
+(d)(2)
+[As applicable] the trading desk ID of the
+direct counterparty on the reporting side
+(d)(3)
+the terms of any fixed or floating rate
+payments, or otherwise customized or
+non-standard payment streams
+(d)(3)
+the frequency of any fixed or floating rate
+payments, or otherwise customized or
+non-standard payment streams
+(d)(3)
+the contingencies of any fixed or floating
+rate payments, or otherwise customized
+or non-standard payment streams
+(d)(4)
+title of any master agreement
+(d)(4)
+(d)(4)
+(d)(4)
+(d)(4)
+(d)(4)
+(d)(4)
+
+date of any master agreement
+title of any collateral agreement
+date of any collateral agreement
+title of any margin agreement
+date of any margin agreement
+title of any any other agreement
+
+(d)(4)
+(d)(5)
+
+date of any any other agreement
+any additional data elements included in
+the agreement between the counterparties
+that are necessary for a person to
+determine the market value of the
+transaction
+the name of the clearing agency to which
+the security-based swap will be submitted
+for clearing
+whether they have invoked the exception
+in Section 3C(g) of the Exchange Act (15
+U.S.C. 78c-3(g))
+a description of the settlement terms
+whether the security-based swap is cashsettled or physically settled
+the method for determining the settlement
+
+(d)(6)
+
+(d)(7)
+
+(d)(8)
+(d)(8)
+
+67
+
+FIXML Data Elements
+R
+R
+R
+
+R
+R
+
+PmtDts
+PmtDts
+ContingencyType
+
+FinDetls
+AgmtDesc
+AgmtDt
+CrdSuprtDesc
+CrdSuprtDt
+
+CnfmDesc
+BrkrCnfmDesc
+CnfmDt
+
+R
+ID
+ClrReqmtExcptn
+
+SettlMeth
+SettlNdx
+
+§ 901 Ref. Common Data Model Concept
+value
+(d)(9)
+The platform ID, if applicable
+
+(d)(10)
+
+(d)(10)
+
+(d)(10)
+
+(d)(10)
+(e)(1)(i)
+
+(e)(1)(ii)
+(e)(2)
+
+(f)
+
+(g)
+
+FIXML Data Elements
+SettlNdxLctn
+R
+ID
+Src
+the transaction ID of an allocated
+AllExc
+security-based swap
+TransTyp
+TrdID
+the transaction ID of a terminated
+RegTrdID
+security-based swap
+TrmTyp
+TrdID
+Novation transaction ID
+TrdContntn
+TrdContntn
+OrigTrdID
+Side
+the transaction ID of an assigned security- AsgnTyp
+based swap
+TrdID
+A life cycle event, and any adjustment
+TrdContntn
+due to a life cycle event, that results in a
+TrdContntn
+change to information previously reported
+pursuant to paragraph (c), (d), or (i) of
+this section shall be reported by the
+reporting side [except that the reporting
+side shall not report whether or not a
+security-based swap has been accepted
+for clearing]
+Acceptance for clearing
+RskLmitChkStat
+All reports of life cycle events and
+OrigTrdID
+adjustments due to life cycle events shall,
+within the timeframe specified in
+paragraph (j) of this section, be reported
+to the entity to which the original
+security-based swap transaction will be
+reported or has been reported and shall
+include the transaction ID of the original
+transaction.
+Time stamp, to the second, its receipt of
+TrdRegTS
+any information submitted to it pursuant
+TS
+to paragraph (c), (d), (e), or (i) of this
+Typ
+section.
+Src
+A transaction ID to each security-based
+TrdID
+swap, or establish or endorse a
+methodology for transaction IDs to be
+assigned by third parties.
+
+68
+
+

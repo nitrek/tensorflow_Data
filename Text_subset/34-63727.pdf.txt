@@ -1,0 +1,2121 @@
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Part 240
+Release No. 34-63727; File No. S7-03-11
+RIN 3235-AK91
+TRADE ACKNOWLEDGMENT AND VERIFICATION OF SECURITY-BASED
+SWAP TRANSACTIONS
+AGENCY:
+
+Securities and Exchange Commission.
+
+ACTION:
+
+Proposed rule.
+
+SUMMARY: In accordance with Section 764(a) of Title VII of the Dodd-Frank Wall
+Street Reform and Consumer Protection Act of 2010 (“Dodd-Frank Act”), the Securities
+and Exchange Commission (“Commission”) is proposing rule 15Fi-1 under the Securities
+Exchange Act of 1934 (“Exchange Act”), 15 U.S.C. § 78a et seq., which would require
+security-based swap dealers and major security-based swap participants to provide trade
+acknowledgments and to verify those trade acknowledgments in security-based swap
+transactions.
+DATES: Comments should be received on or before February 22, 2011.
+
+ADDRESSES: Comments may be submitted by any of the following methods:
+Electronic comments:
+•	 Use the Commission’s Internet comment form
+
+(http://www.sec.gov/rules/proposed.shtml); 
+
+•	 Send an e-mail to rule-comments@sec.gov. Please include File Number S7-03-11
+on the subject line; or
+
+•
+
+Use the Federal eRulemaking Portal (http://www.regulations.gov). Follow the
+instructions for submitting comments.
+
+Paper comments:
+•
+
+Send paper comments in triplicate to Elizabeth M. Murphy, Secretary, Securities
+and Exchange Commission, 100 F Street, NE, Washington, DC 20549-1090.
+
+All submissions should refer to File Number S7-03-11. This file number should be
+included on the subject line if e-mail is used. To help us process and review your
+comments more efficiently, please use only one method. The Commission will post all
+comments on the Commission’s Internet website
+(http://www.sec.gov/rules/proposed.shtml). Comments are also available for website
+viewing and printing in the Commission’s Public Reference Room, 100 F Street, NE,
+Washington, DC 20549, on official business days between the hours of 10:00 a.m. and
+3:00 p.m. All comments received will be posted without change; we do not edit personal
+identifying information from submissions. You should submit only information that you
+wish to make available publicly.
+FOR FURTHER INFORMATION CONTACT: Joseph Furey, Assistant Chief
+Counsel; Darren Vieira, Special Counsel; or Ignacio Sandoval, Attorney, at (202) 5515550, Office of Chief Counsel, Division of Trading and Markets, Securities and
+Exchange Commission, 100 F Street, NE, Washington, DC 20549-7010.
+SUPPLEMENTARY INFORMATION: The Commission is proposing rule 15Fi-1
+pursuant to Section 15F of the Exchange Act.1
+
+1
+
+15 U.S.C. 78o-8.
+
+2
+
+
+I.
+
+Background
+Section 764 of the Dodd-Frank Act,2 enacted on July 21, 2010, added Section 15F
+
+to the Exchange Act.3 Among other things, Section 15F requires security-based swap
+(“SBS”) dealers and major SBS participants (collectively, “SBS Entities”) to register with
+the Commission, and directs the Commission to prescribe rules applicable to SBS
+Entities.
+Section 15F(i)(1) of the Exchange Act provides that SBS Entities must “conform
+with such standards as may be prescribed by the Commission, by rule or regulation, that
+relate to timely and accurate confirmation, processing, netting, documentation, and
+valuation of all security-based swaps.” Section 15F(i)(2) of the Exchange Act provides
+that the Commission must adopt rules governing documentation standards for SBS
+Entities. Proposed rule 15Fi-1 would prescribe standards related to timely and accurate
+confirmation and documentation of SBS, as further described below.
+Market participants currently issue a “trade acknowledgment” (sometimes
+referred to by industry participants as a “draft confirmation” or an “alleged trade”) to
+memorialize the economic and related terms of an SBS transaction, regardless of the
+means by which the transaction was executed. If an SBS transaction is not reduced to
+writing, a court may have to supply contract terms upon which there was no previous
+agreement. For this reason, prudent practice requires that, after coming to an agreement
+on the terms of a transaction, the parties document the transaction in a complete and
+definitive written record so there is legal certainty about the terms of their agreement in
+case those terms are later disputed. Therefore, industry best practices incorporate a
+2
+
+Pub. L. 111-203, 124 Stat. 1376 (2010).
+
+3
+
+15 U.S.C. 78o-8.
+
+3
+
+
+process by which the parties verify that the trade acknowledgment accurately reflects the
+terms of their trade.4 This process, through which one party acknowledges an SBS
+transaction and its counterparty verifies it, is the confirmation process, which results in
+the issuance of a confirmation that reflects the terms of the contract between the parties.5
+This confirmation includes any transaction-specific modifications to master agreements
+between the parties that might apply to the transaction, such as the International Swaps
+and Derivatives Association (“ISDA”) Master Agreement and Schedule. A confirmation
+is thus a written or electronic record of an SBS transaction that has been sent by one party
+and verified by the other where that record has been manually, electronically, or by some
+other legally equivalent means, signed by the receiving counterparty.
+In the past few years, market participants and regulators have paid particular
+attention to the timely confirmation of SBS transactions. The Government
+Accountability Office has found that, since 2002, the trading volume of SBS such as
+credit derivatives has expanded rapidly, causing stresses on the operational infrastructure
+of market participants, which in turn caused the participants’ back office systems to fail
+for a period of time to confirm the increased volume of trades.6 The GAO viewed the
+lack of automation and the purported assignment of positions by transferring parties to
+4	
+
+See Part II.D, below, for a discussion of verification.
+
+5	
+
+Confirmations may also be used by SBS Entities to make certain disclosures, or to
+disclaim certain obligations, to a counterparty. Required disclosures by an SBS
+Entity will be addressed separately in proposed “external business conduct” rules
+for SBS Entities.
+
+6	
+
+U.S. Government Accountability Office (“GAO”), Credit Derivatives:
+Confirmation Backlogs Increased Dealers’ Operational Risks, But Were
+Successfully Addressed After Joint Regulatory Action, GAO-07-716 (2007) at
+pages 3-4 (“GAO Confirmation Report”). As of September 2005, the
+accumulated backlog of unconfirmed over-the-counter credit derivatives trades
+was 150,000.
+
+4
+
+
+third parties without notice to their counterparties as the primary factors contributing to
+this backlog.7 The GAO found that if new transactions are left unconfirmed, there is no
+definitive written record of the contract terms. Thus, in the event of a dispute, the terms
+of the agreement must be reconstructed from other evidence, such as email trails or
+recorded trader conversations. The GAO noted that this process is cumbersome and may
+not be wholly accurate. Moreover, if purported transfers of SBS transactions are made
+without giving notice to the remaining parties and obtaining their consent, disputes may
+arise as to which parties are entitled to the benefits and subject to the burdens of the
+transaction. The GAO found that these circumstances created significant legal and
+operational risk for market participants.8 These risks, as well as other operational issues
+associated with the over-the-counter derivatives market, have been the focus of reports
+and recommendations by the President’s Working Group,9 and of ongoing efforts led by
+the Federal Reserve Bank of New York (“FRBNY”) to enhance operational capacity in
+the over-the-counter derivatives market and improve operational performance, by
+increasing automation, promoting timely confirmation of trades, and ending practices
+such as the purported unilateral transferring of SBS transactions.10
+
+7
+
+Several factors reduced the risk of unconfirmed trades due to unilateral
+assignment, including: (1) the tendency for end-users to assign contracts to
+dealers who were generally more credit-worthy than the end-user; (2) dealers
+refusing to release posted collateral until the dealer verified the assignment, and;
+(3) a novation protocol in the ISDA Master Agreement that required
+counterparties to obtain the written consent of their counterparties before
+assigning a trade. Id at pages 17-18.
+
+8
+
+Id. at pages 12-15.
+
+9
+
+See, e.g., Press Release, President’s Working Group on Financial Markets,
+Progress Summary on OTC Derivatives Operational Improvements (November
+2008).
+
+10
+
+See, e.g,. FRBNY, Summary of OTC Derivatives Commitments (March 1, 2010).
+
+5
+
+
+To promote the efficient operation of the SBS market, and to facilitate market
+participants’ management of their SBS-related risk, the Commission is proposing a
+confirmation process in rule 15Fi-1. The proposed rule will govern the delivery of SBS
+trade acknowledgments and the verification of those trade acknowledgments, as
+described more fully below. In developing this proposed rule, the Commission has
+consulted with other financial regulators, including the Commodity Futures Trading
+Commission and the Board of Governors of the Federal Reserve System.
+The Commission understands that proposed rule 15Fi-1, as well as other
+proposals that the Commission may consider in the coming months to implement the
+Dodd-Frank Act, if adopted, could significantly affect — and be significantly affected by
+— the nature and scope of the security-based swaps market in a number of ways. For
+example, the Commission recognizes that if the measures it adopts are too onerous for
+existing participants or new entrants, they could hinder the further development of a
+market for SBS by unduly discouraging participation by SBS Entities. On the other hand,
+if the Commission adopts rules that are too permissive, they may not adequately protect
+investor interests or promote the purposes of the Exchange Act. We also are aware that
+the further development of the SBS market may require the Commission to revise its
+confirmation standards for SBS transactions. We urge commenters, as they review our
+proposal, to consider generally the role that regulation may play in fostering or limiting
+the development of the market for SBS (or the role that market developments may play in
+changing the nature and implications of regulation) and specifically to focus on this issue
+with respect to the proposed trade acknowledgment and verification rule for SBS Entities.
+
+6
+
+
+II.
+
+Discussion of the Proposed Rule
+Proposed Exchange Act rule 15Fi-1 would require SBS Entities to provide to their
+
+counterparties a trade acknowledgment, to provide prompt verification of the terms
+provided in a trade acknowledgment of transactions from other SBS Entities, and to
+establish, maintain, and enforce policies and procedures that are reasonably designed to
+obtain prompt verification of the terms provided in a trade acknowledgment. We are
+proposing to define several key terms in the rule to have the meaning that we believe is
+commonly attributed to those terms by industry participants. Thus, as discussed above,
+we propose to define the term “trade acknowledgment” to mean a written or electronic
+record of an SBS transaction sent by one party to the other.11 As used in the proposed
+rule, the term “verification” would mean the process by which a trade acknowledgment
+has been manually, electronically, or by some other legally equivalent means, signed by
+the receiving counterparty.12 Thus, a “confirmed” SBS transaction would mean a
+transaction in which the parties have produced a trade acknowledgment that is agreed to
+by both parties and that has been verified.13
+Proposed rule 15Fi-1 would require certain SBS Entities that purchase or sell any
+SBS to provide an electronic trade acknowledgment to the applicable counterparty
+containing certain required information – discussed in Part II.C, below – within the
+prescribed timeframe. By requiring counterparties to provide trade acknowledgments of
+and to verify SBS transactions in a timely way, proposed rule 15Fi-1 is intended to
+promote the principles of Exchange Act Section 15F(i)(1).
+11
+
+See proposed Rule 15Fi-1(a)(10).
+
+12
+
+See proposed Rule 15Fi-1(a)(13).
+
+13
+
+See proposed Rule 15Fi-1(a)(4).
+
+7
+
+
+Request for Comment
+The Commission requests comment on all aspects of the proposed definitions of
+trade acknowledgment, verification and confirmation.
+A. 	
+
+Trade Acknowledgment Requirement
+1. Events Triggering the Trade Acknowledgment Obligation
+
+Proposed rule 15Fi-1(b) would require an SBS Entity that purchases or sells any
+security-based swap to provide a trade acknowledgment to its counterparty. The terms
+“purchase” and “sale” are defined in Section 3(a) of the Exchange Act.14 As amended by
+the Dodd-Frank Act, those definitions as applied to SBS transactions include any
+“execution, termination (prior to its scheduled maturity date), assignment, exchange, or
+similar transfer or conveyance of, or extinguishing of rights or obligations under, a
+security-based swap.”15 Because the rule would apply solely to an SBS Entity that
+“purchases” or “sells” an SBS, the proposed rule would be effectively limited to
+“principal transactions” in which the SBS Entity is a counterparty to the transaction and
+is acting for its own account.
+Request for Comment
+The Commission requests comment on all aspects of the proposal as to the events
+that would trigger an obligation to provide a trade acknowledgment.
+1.	 Are there circumstances, other than purchases or sales of SBS, when SBS
+Entities should be required to provide SBS trade acknowledgments to their
+counterparties?
+14	
+
+15 U.S.C. 78c(a)
+
+15	
+
+Dodd-Frank Act Sections 761(a)(3) and (4), amending Exchange Act Sections
+3(a)(13) and (14), respectively; 15 U.S.C. 78c(a)(13) and (14).
+
+8
+
+
+2.	 What are the current market practices with respect to confirming SBS
+transactions?
+3.	 How would current industry practices for confirming transactions be affected
+by the proposed rule?
+4.	 How should policies and procedures to verify trade acknowledgments differ
+from current market practices, if at all?
+5.	 What are the advantages or disadvantages of the proposed rule compared to
+current market practices? What additional costs would these differences
+entail?
+6.	 Do participants currently have operations and/or departments in place to
+comply with the proposed requirements?
+7.	 Do the benefits of promptly providing a trade acknowledgment justify the
+additional costs, and, if not, why not?
+8.	 Many, if not most, types of securities transactions are complete upon
+settlement of the trade (usually shortly following execution), and the
+purchaser and seller have no continuing obligations to one another. In
+contrast, parties to SBS transactions have ongoing obligations to each other
+that could continue for years, depending on the term of the SBS transaction.
+The Commission has proposed to require parties to SBS transactions to report
+to an SBS data repository certain life-cycle events, some of which are
+included in the definition of purchase and sale and some of which, like
+corporate actions (e.g., mergers, dividends, stock splits, or bankruptcy), are
+
+9
+
+
+not. 16 The Commission understands that some parties may agree to
+notification upon life-cycle events, and that certain vendors track some of this
+information with regard to securities underlying certain credit default swaps.
+The Commission also notes that exchanges and other industry utilities
+currently publish similar information (e.g., ex-dividend dates, bankruptcies)
+with respect to the cash and derivatives markets. Should the Commission also
+require delivery of a trade acknowledgment and verification of any types of
+corporate actions? To what extent is it the industry custom currently to
+require notification to be provided about changes or life-cycle events in the
+security, loan, or narrow-based index that underlies an SBS? Should the
+proposed rule require trade acknowledgments for these changes or events?
+9.	 Should the proposed rule require different procedures for terminations than for
+other purchases and sales? What are the current practices with respect to
+sending notices of termination? What information should be provided in an
+acknowledgment of a termination?
+2.	 Who Provides the Trade Acknowledgment
+The Commission proposes using Section 13A(a)(3) of the Exchange Act as a
+model to determine which counterparty is responsible for providing the trade
+acknowledgment in the transaction. Section 13A(a)(1) provides that each SBS that is not
+accepted for clearing by a clearing agency or derivatives clearing organization must be
+
+16
+
+See Regulation SBSR - Reporting and Dissemination of Security-Based Swap
+Information, Exchange Act Release No. 63346 (Nov. 19, 2010), 75 FR 75207
+(Dec. 2, 2010) (“SBSR Proposing Release”).
+
+10 
+
+
+reported to a swap data repository or to the Commission.17 Section 13A(a)(3) specifies
+which party is obligated to make such reports – an SBS dealer, a major SBS participant,
+or a counterparty to the transaction – and it does not require both parties to report the
+same transaction.18 Generally, Section 13A(a)(3) places the reporting burden on the party
+that is expected to transact in SBS more frequently. Similarly, the Commission proposes
+requiring only a single trade acknowledgment in any transaction, and requiring that, in a
+transaction to which an SBS Entity is a party, the party responsible for providing the
+trade acknowledgment would be determined in the same manner as the party responsible
+for reporting the transaction to an SBS data repository or to the Commission. Therefore,
+in a transaction where only one counterparty is an SBS dealer or major SBS participant,
+the SBS dealer or major SBS participant would be responsible for providing the trade
+acknowledgment. In a transaction between an SBS dealer and a major SBS participant,
+the SBS dealer would be responsible for providing the trade acknowledgment. In a
+transaction where both parties are SBS dealers, or both parties are major SBS
+participants, the counterparties would be responsible for selecting which party must
+provide the trade acknowledgment.19
+17	
+
+15 U.S.C. 78m-1(a)(1).
+
+18	
+
+15 U.S.C. 78m-1(a)(3).
+
+19	
+
+The Commission considered requiring all SBS Entities to provide SBS trade
+acknowledgments in each transaction to which they are a party, but preliminarily
+has determined not to propose this approach. Under that approach, in a situation
+where only one party is an SBS Entity, that party would provide the trade
+acknowledgment to its counterparty. In effect, this is similar to how brokerdealers are required to provide confirmations to their customers under Exchange
+Act rule 10b-10. However, the customers are under no obligation pursuant to rule
+10b-10 to confirm their transactions with broker-dealers. In situations where both
+parties were SBS Entities, each party would cross-acknowledge the transaction by
+providing a duplicate trade acknowledgment to the other party. However,
+requiring cross-acknowledgment could be needlessly burdensome and may
+11 
+
+
+Although the responsible counterparty would have the obligation to provide the
+trade acknowledgment, that counterparty could use a third-party to fulfill this obligation.
+The Commission expects that many transactions will be confirmed by “matching
+services” provided through a clearing agency.20 We use matching service in this release
+to refer only to services through which two parties enter a new transaction.
+A clearing agency is providing matching services if it captures trade information
+regarding a securities transaction, performs an independent comparison of that
+information, and issues a confirmation21 of the transaction. The Commission believes
+that the use of clearing agencies’ matching services would promote the principles of
+Exchange Act Section 15F(i), and the Commission wishes to encourage SBS Entities to
+use these matching services. Accordingly, paragraph (b)(2) of the proposed rule would
+provide that an SBS Entity will have satisfied its requirement to provide a trade
+
+interfere with more efficient means of acknowledging transactions. Additionally,
+legal uncertainty could result if for some reason the trade acknowledgments did
+not match and neither party noticed or challenged the discrepancy.
+20	
+
+Under the proposed rule, the term “clearing agency” would mean a clearing
+agency registered pursuant to section 17A of the Exchange Act, 15 U.S.C. 78q-1.
+See proposed Rule 15Fi-1(a)(3). A clearing agency that captures trade
+information regarding a securities transaction and performs an independent
+comparison of that information which results in the issuance of legally binding
+matched terms to the transaction is providing matching services. See, also,
+Exchange Act Release No. 39829 (April 6, 1998), 63 FR 17943 (April 13, 1998)
+(File No. S7-10-98) (“A vendor that provides a matching service will actively
+compare trade and allocation information and will issue the affirmed confirmation
+that will be used in settling the transaction.”).
+
+21	
+
+“Confirmation” means a trade acknowledgment that has been subject to
+verification. See proposed Rule 15Fi-1(a)(4).
+
+12 
+
+
+acknowledgment if a clearing agency, through its facilities, produces a confirmation of
+the SBS transaction.22
+A clearing agency may also serve as a central clearing counterparty (“CCP”) in
+SBS transactions. In a CCP arrangement, if the original counterparties to a bilateral SBS
+transaction are clearing members, they novate their bilateral trade to the clearing agency
+(acting as a CCP). In such a novation to a CCP, each counterparty terminates its contract
+with the other and enters into a new contract on identical terms with the CCP. In this
+way, the CCP becomes buyer to one counterparty and seller to the other.23 The novation
+would constitute a purchase from or a sale to the clearing agency. While the purchase or
+sale would require a trade acknowledgment under paragraph (b)(1) of the proposed rule,
+paragraph (b)(2) of the proposed rule would permit the CCP to satisfy the SBS Entity’s
+obligation to provide a trade acknowledgment to its counterparty, both for the initial
+bilateral transaction between an SBS Entity and its counterparty that are clearing
+members, and for the subsequent purchases or sales that result from the novation to the
+CCP.
+
+22	
+
+In the course of clearing and settling SBS transactions, clearing agencies would
+need much or all of the information that is required on a trade acknowledgment,
+and therefore, the clearing agency would have in place systems to receive and
+process the information on a trade acknowledgment. The Commission notes that
+clearing agencies must: register with the Commission and submit their rules for
+review and approval by the Commission; meet minimum standards of care; have
+the capacity to enforce their rules and discipline their participants; and have chief
+compliance officers to oversee compliance with their statutory and regulatory
+obligations. The Commission believes that clearing agencies are thus equipped to
+manage the operations necessary to provide trade acknowledgments in the course
+of their work clearing and settling SBS transactions.
+
+23	
+
+See Exchange Act Release No. 59527 (Mar. 6, 2009).
+
+13 
+
+
+Request for Comment
+The Commission solicits comment on all aspects of the allocation of
+responsibility between the parties for providing the trade acknowledgment.
+10. Does the proposed rule appropriately allocate the responsibility to provide a
+trade acknowledgment?
+11. Would permitting the parties to agree which party would provide a trade
+acknowledgment in all transactions, instead of only in transactions between
+two SBS dealers or two major SBS participants, be preferable?
+12. Should the rule require each SBS Entity that is a party to an SBS transaction
+to provide a trade acknowledgment to its counterparty?
+13. Should the rule allow persons other than clearing agencies, such as SBS
+execution facilities, to provide trade acknowledgments on behalf of SBS
+Entities?
+14. Does the description of the use of matching services, above, accurately
+describe current market practice, including market practice in such forums as
+the inter-dealer market? If not, what current practices are not encompassed by
+the description?
+15. Should clearing agencies be permitted to provide trade acknowledgments on
+behalf of SBS Entities in transactions where the clearing agency was not
+responsible for clearing the transaction through a matching process? If so,
+under what conditions?
+
+14 
+
+
+B. 	
+
+Time to Provide a Trade Acknowledgment
+
+The Commission believes that confirming SBS transactions shortly after
+execution should help to promote the stability of the SBS market by preventing
+documentation backlogs from creating uncertainty over SBS Entities’ exposure to SBS. 24
+There will be a lag between the time when an SBS is executed (i.e., the point at which
+both parties become irrevocably bound to a transaction under applicable law),25 and when
+the transaction is confirmed (i.e., when a trade acknowledgment of the transaction is
+provided and verified). Requiring prompt provision of trade acknowledgments of
+electronically executed or processed SBS transactions should help SBS Entities to submit
+timely and accurate reports with respect to those transactions to SBS data repositories.
+However, the Commission believes that the goal of promptly providing trade
+acknowledgments must be tempered by the difficulty of achieving that goal, particularly
+for customized agreements that are not executed or processed26 electronically.
+
+24	
+
+The term “execution” would mean the point at which the parties become
+irrevocably bound to a transaction under applicable law. See proposed Rule 15Fi1(a)(6).
+
+25	
+
+In the SBS context, an oral agreement over the telephone will create an
+enforceable contract, and the time of execution will be when the parties to the
+telephone call agree to the material terms.
+
+26	
+
+The term “processed electronically,” with respect to an SBS transaction, would
+mean entered into a security-based swap dealer or major security-based swap
+participant’s computerized processing systems after execution to facilitate
+clearance and settlement. See proposed Rule 15FI-1(a)(9). A clearing agency
+may process electronically its members’ SBS transactions, as discussed further
+below.
+
+15 
+
+
+Promptly providing a trade acknowledgment would assure that the parties know
+the terms of their executed agreement.27 Accordingly, the Commission proposes that the
+maximum times for providing a trade acknowledgment of SBS transactions would vary
+depending upon whether transactions are electronically executed or electronically
+processed, but would not exceed 24 hours following execution. The Commission
+preliminarily believes that the prescribed times should be sufficient for SBS Entities to
+provide trade acknowledgments without permitting unnecessary delay. Specifically,
+proposed rule 15Fi-1(c)(1) would require any SBS transaction to be confirmed promptly,
+but in any event:
+•	 For any transaction that has been executed and processed electronically, a
+trade acknowledgment must be provided within 15 minutes of execution.
+•	 For any transaction that is not electronically executed, but that will be
+processed electronically, a trade acknowledgment must be provided within 30
+minutes of execution.
+•	 For any transaction that the SBS Entity cannot process electronically, a trade
+acknowledgment must be provided within 24 hours following execution.
+The Commission encourages SBS Entities to minimize the number of manual
+transactions processed, and to process electronically all SBS transactions if it is
+reasonably practicable to do so. However, the Commission understands that an SBS
+Entity may have the ability to process electronically only certain SBS transactions. For
+example, an SBS Entity may have the ability to process electronically certain
+
+27
+
+Promptly acknowledging a transaction would also enable parties to comply with
+the required time within which data must be reported to an SBS data repository.
+See SBSR Proposing Release, note 16 supra.
+
+16 
+
+
+standardized SBS transactions in certain asset classes, or transactions that it executes on
+an exchange or SBS execution facility, but may lack the ability to process electronically
+SBS transactions in other asset classes or that are executed by other means.28 The
+Commission also understands that an SBS Entity’s ability to process a transaction
+electronically may be limited by its counterparty’s abilities. For example, an SBS Entity
+may have the ability to clear an SBS transaction through a matching facility, but if its
+counterparty lacks access to the matching facility, it would need to process transactions
+with that counterparty through non-computerized means.
+Thus, proposed rule 15Fi-1(c)(2) would require an SBS Entity to process
+electronically an SBS transaction if the SBS Entity has the ability to do so. In other
+words, an SBS Entity could not delay providing a trade acknowledgment by choosing to
+process a transaction by non-electronic means. The Commission preliminarily believes
+that requiring SBS Entities to acknowledge trades as promptly as they are able to do so
+would promote the purposes of Exchange Act Section 15Fi-1.
+Request for Comment
+The Commission solicits comment on all aspects of the proposed time to provide
+a trade acknowledgment, and the requirement for SBS Entities to process electronically
+all transactions for which they have the ability.
+16. What is the current industry practice with respect to the time necessary to
+confirm trades, and does the operational infrastructure of SBS Entities makes
+
+28
+
+Transactions in non-standardized SBS that are individually negotiated and contain
+unique terms, or transactions effected telephonically and processed manually
+might fall into this category.
+
+17 
+
+
+providing a trade acknowledgment within 24 hours of execution for manual
+trades feasible?
+17. Should the proposed rule require an SBS Entity to provide a trade
+acknowledgment more quickly, particularly for transactions that are executed
+or processed electronically?
+18. Would the proposed rule provide sufficient time for SBS Entities to provide
+trade acknowledgments to their counterparties?
+19. Is there currently a backlog in confirming trades, and if so, would the
+proposed rule encourage confirming trades and reduce the backlog? Are there
+other procedures that would reduce any backlog of unconfirmed trades?
+20. Are there circumstances in which certain terms included on a trade
+acknowledgment would not be agreed by the parties within 24 hours of
+execution? If so, please explain why parties may not be able to agree on such
+terms within 24 hours of the execution of the SBS transaction. How should an
+inability to obtain agreement on such contract terms within 24 hours of
+execution, when it happens, be handled?
+21. How should the proposed rule address terms required to be on the trade
+acknowledgment that are not known on the date of execution?
+22. How should the proposed rule address transactions between an SBS Entity
+and a fund manager or other agent, where the allocation of the trade to the
+fund manager’s or agent’s accounts is not determined by the fund manager or
+agent until sometime after execution? Should a delay in providing a trade
+
+18 
+
+
+acknowledgment be permitted under these circumstances? If so, how long a
+delay should be permitted?
+23. Should the proposed rule require SBS Entities that have the ability to process
+transactions electronically do so in all situations? Are there circumstances
+when an SBS Entity would have the ability to process a transaction
+electronically but should not be required to do so?
+24. How often do trade acknowledgments contain inaccurate information and
+what are the most common errors? What procedures are currently in place to
+correct those errors?
+C.
+
+Form and Content of Trade Acknowledgments
+
+Paragraph (d) of proposed rule 15Fi-1 would require the trade acknowledgments
+to be provided through any electronic means that provide reasonable assurance of
+delivery and a record of transmittal. The Commission believes that electronic delivery of
+SBS trade acknowledgments would promote the timely provision of trade
+acknowledgments, in accordance with Exchange Act Section 15F(i) of the Exchange Act.
+The proposed rule would provide flexibility for SBS Entities to determine the specific
+electronic means by which they will comply.
+The Commission anticipates that clearing agencies may be instrumental in
+delivering trade acknowledgments and verifying SBS transactions for their members, but
+that the roles played by individual clearing agencies may vary. For example, as discussed
+in Part II.A above, clearing agencies may provide matching services in which they
+perform independent comparisons of each security-based swap transaction participant’s
+trade data regarding the terms of settlement of the transaction that result in the issuance
+
+19 
+
+
+of legally binding matched terms to the transactions. Paragraph (b)(2) of the proposed
+rule would permit clearing agencies to provide trade acknowledgments on behalf of SBS
+Entities; however, SBS Entities would not be limited to using clearing agencies to
+provide trade acknowledgments electronically. SBS Entities may also provide trade
+acknowledgments through a mutually agreed upon electronic standard, such as a
+messaging system that uses Financial products Markup Language (commonly known as
+FpML). SBS Entities may also continue to rely on facsimile transmission or email to
+provide trade acknowledgments. The Commission understands these means of providing
+trade acknowledgments may be particularly necessary when engaging in SBS
+transactions with counterparties that rarely buy or sell SBS and that consequently do not
+have the means to receive trade acknowledgments otherwise.
+Providing trade acknowledgments exclusively by mail or overnight courier would
+not satisfy the requirements of the proposed rule. These delayed means of
+communication do not appear to promote the principles of Exchange Act Section 15F(i).
+Moreover, as discussed in Part II.E below, an SBS Entity must establish, maintain, and
+enforce policies and procedures to obtain prompt verification of the terms included in
+each trade acknowledgment it provides. This requirement does not appear compatible
+with processes to provide trade acknowledgments that rely on delayed means of
+communication.
+Paragraph (d) of proposed rule 15Fi-1 would require trade acknowledgments to
+contain a minimum of 22 items of information, all but one of which is identical to the
+items that SBS Entities would be required to report to an SBS data repository pursuant to
+
+20 
+
+
+the rules the Commission has separately proposed in Regulation SBSR.29 We proposed
+to require the information in Regulation SBSR, in part, to facilitate regulatory oversight
+and monitoring of the SBS market by providing comprehensive information regarding
+SBS transactions and trading activity.30 The Commission believes that counterparties to
+an SBS transaction would benefit from receiving a trade acknowledgment that is
+similarly comprehensive. In addition, by requiring essentially the same information to be
+included on a trade acknowledgment as is reported to an SBS data repository, the
+proposed rule should allow SBS Entities to use systems and databases designed to
+comply with Regulation SBSR to also comply with rule 15Fi-1 under the Exchange Act,
+which would reduce the burden of complying with proposed rule 15Fi-1.
+The specific items that SBS Entities would provide in a trade acknowledgment
+under the proposed rule include: (1) the asset class31 of the security-based swap and, if
+the security-based swap is an equity derivative, whether it is a total return swap or is
+otherwise designed to offer risks and returns proportional to a position in the equity
+security or securities on which the security-based swap is based; (2) information that
+identifies the security-based swap instrument and the specific asset(s) or issuer of a
+security on which the security-based swap is based; (3) the notional amount(s), and the
+currenc(ies) in which the notional amount(s) is expressed; (4) the date and time, to the
+second, of execution, expressed using Coordinated Universal Time (UTC); (5) the
+
+29
+
+See SBSR Proposing Release, note 16 supra.
+
+30
+
+Id.
+
+31
+
+The term “asset class” means those security-based swaps in a particular broad
+category, including, but not limited to, credit derivatives, equity derivatives, and
+loan-based derivatives. See proposed Rule 15Fi-1(a)(1).
+
+21 
+
+
+effective date; (6) the scheduled termination date; (7) the price;32 (8) the terms of any
+fixed or floating rate payments, and the frequency of any payments; (9) whether the
+security-based swap will be cleared by a clearing agency; (10) if both counterparties to a
+security-based swap are security-based swap dealers, an indication to that effect; (11) if
+the transaction involved an existing security-based swap, an indication that the
+transaction did not involve an opportunity to negotiate a material term of the contract,
+other than the counterparty; (12) if the security-based swap is customized to the extent
+that the information provided in items (1) through (11) does not provide all of the
+material information necessary to identify such customized security-based swap or does
+not contain the data elements necessary to calculate the price, an indication to that effect;
+(13) the participant ID of each counterparty; (14) as applicable, the broker ID, desk ID,
+and trader ID of the reporting party;33 (15) the amount(s) and currenc(ies) of any up-front
+
+32	
+
+The term “price” means the price of a security-based swap transaction, expressed
+in terms of the commercial conventions used in that asset class. See proposed
+Rule 15Fi-1(a)(8).
+
+33	
+
+Proposed Rule 15Fi-1(a) includes definitions for “unique identification code,”
+“broker ID,” “desk ID,” “participant ID,” and “trader ID.” Proposed Rule 15Fi1(a)(12) defines “unique identification code” or “UIC” as the unique
+identification code assigned to a person, unit of a person, or product by or on
+behalf of an internationally recognized standards-setting body that imposes fees
+and usage restrictions that are fair and reasonable and not unreasonably
+discriminatory. If no standards-setting body meets these criteria, a registered
+security-based swap data repository shall assign all necessary UICs using its own
+methodology. If a standards-setting body meets these criteria but has not assigned
+a UIC to a particular person, unit of a person, or product, a registered securitybased swap data repository shall assign a UIC to that person, unit of a person, or
+product using its own methodology. “Broker ID” is a UIC assigned to a person
+acting as a broker for a participant. Proposed Rule 15Fi-(1)(a)(2). “Desk ID” is a
+UIC assigned to the trading desk of a participant or of a broker of a participant.
+Proposed Rule 15Fi-1(a)(5). “Participant ID” is a UIC assigned to a participant.
+Proposed Rule 15Fi-1(a)(7). “Trader ID” is a UIC assigned to a natural person
+who executes security-based swaps. Proposed Rule 15Fi-1(a)(11). The
+definitions of UIC, broker ID, desk ID, participant ID, and trader ID are identical
+22 
+
+
+payment(s) and a description of the terms and contingencies of the payment streams of
+each counterparty to the other; (16) the title of any master agreement, or any other
+agreement governing the transaction (including the title of any document governing the
+satisfaction of margin obligations), incorporated by reference and the date of any such
+agreement; (17) the data elements necessary for a person to determine the market value of
+the transaction; (18) if the security-based swap will be cleared, the name of the clearing
+agency; (19) if the security-based swap is not cleared, whether the exception in Section
+3C(g) of the Exchange Act was invoked;34 (20) if the security-based swap is not cleared,
+a description of the settlement terms, including whether the security-based swap is cashsettled or physically settled, and the method for determining the settlement value; (21) the
+venue where the security-based swap was executed; and (22) if the transaction is to be
+cleared, any additional information that is required for the transaction to be cleared by a
+clearing agency.
+The first 21 items are identical to the items that would be reported to an SBS data
+repository under proposed Regulation SBSR. In addition, if a transaction is to be cleared,
+proposed rule 15Fi-1(d)(22) would require SBS Entities to include on a trade
+acknowledgment any additional information that a clearing agency requires to clear the
+transaction. The Commission has oversight authority over clearing agencies, including
+
+to the definitions of the same terms the Commission has proposed in Regulation
+SBSR, and parties would use the same IDs for purposes of both rules. See SBSR
+Proposing Release, note 16 supra.
+34
+
+Section 3C(g) of the Exchange Act provides certain exceptions from the general
+requirement of Section 3C(a)(1) of the Exchange Act that an SBS be submitted to
+a registered clearing agency or a clearing agency that is exempt from registration.
+
+23
+
+the ability to approve or disapprove all proposed rules and rule changes.35 These
+proposed rules and rule changes are also published for public notice and comment. The
+Commission preliminarily believes that additional information that is significant to a
+clearing agency would also be significant to a counterparty, and thus should be included
+in the trade acknowledgment. An SBS Entity that is a clearing agency participant would
+be required to comply with (and therefore to know) the clearing agency’s requirements
+because it is obligated to comply with the clearing agency’s rules. If a clearing agency
+participant acting on behalf of an SBS Entity submits a transaction to a clearing agency,
+the participant would have to obtain the necessary information from the SBS Entity.
+Request for Comment
+The Commission requests comment on all aspects of the proposal as to the form
+and content of the trade acknowledgment.
+25. Is it feasible to require trade acknowledgments to be provided electronically?
+26. Would the requirement for electronic trade acknowledgment unduly restrict
+the types of SBS transactions that SBS Entities may enter into or the persons
+that may be their counterparties?
+27. Would permitting non-electronic means of providing trade acknowledgments
+further the Commission’s objective to promote the timely and accurate
+confirmation, processing, netting, documentation, and valuation of all SBS?
+28. What systems are used to provide confirmations today?
+29. Should the proposed rule require SBS Entities to use other systems, such as
+electronic messaging systems that rely on machine readable structured data
+35
+
+See Exchange Act Section 19(b). Section 3(a)(26) of the Exchange Act defines
+“self-regulatory organization” to include a registered clearing agency.
+
+24 
+
+
+(and therefore lend themselves to automated trade processing) or some other
+process, to provide trade acknowledgments? If so, please describe those
+systems.
+30. Should we consider any enhancements to current market practices?
+31. Would permitting trade acknowledgments to be provided by facsimile or
+email create problems or raise issues, and would the benefits of permitting
+acknowledgments to be provided by facsimile or email outweigh those
+problems or issues?
+32. Would the requirement for trade acknowledgments to be provided through
+electronic means that provide reasonable assurance of delivery and a record of
+transmittal create difficulties for participants, for example, because some
+counterparties are unable to receive trade acknowledgments electronically, or
+because electronic trade acknowledgment is not feasible for transactions in
+certain asset classes?
+33. Can the Commission’s objective to promote the timely provision of trade
+acknowledgments be achieved if SBS Entities provide trade acknowledgments
+by non-electronic means, such as mail or overnight courier, and if so, how?
+34. Should the proposed rule allow clearing agencies to use methods other than
+confirmation by matching or comparison to provide trade acknowledgments
+on behalf of SBS Entities?
+35. Is there additional information that the proposed rule should require to be
+included on a trade acknowledgment?
+36. Does the proposed rule require any information that is unnecessary?
+
+25 
+
+
+37. The Commission has proposed that the trade acknowledgment contain a
+minimum of 22 items of information. In light of the purpose of the rule,
+should the Commission simply require instead that the trade acknowledgment
+must evidence the entire agreement of the parties? For example, the
+Commission could require a trade acknowledgment to include: (a) “all of the
+terms an SBS transaction”; (b) “all of the material terms of an SBS
+transaction”; (c) “all terms that the parties have agreed to at the time of
+execution”; (d) “all terms that are necessary for the parties to have a complete
+and definitive agreement”; or (e) “all the terms necessary to fully and
+completely describe the transaction.” Which of these alternatives is best, and
+why? Would it be clear how to comply with any or all of these possible
+alternatives? If not, why not? Would certain terms used in these alternative
+requirements require further definition, such as “complete and definitive,” or
+“fully and completely”? If so, what terms would require further definition,
+and how should they be defined? Would the alternative requirements
+encompass transaction terms that would otherwise not be included on a trade
+acknowledgment as required by the proposed rule and the enumerated items
+specified therein? If so, what additional transaction terms would be required?
+What would be the costs and benefits or disadvantages of such a principlesbased requirement?
+38. Please propose any alternative standards to those described in question 38 the
+Commission should consider, discuss what additional information would be
+
+26 
+
+
+required under your alternatives, and the costs and benefits and the advantages
+and disadvantages of your proposed standards.
+39. Should the Commission require markup/markdown disclosure or expected
+profitability/loss on a trade acknowledgment? If so, why, and if not, why not?
+How should SBS Entities calculate markup/markdown or expected
+profitability/loss? What would be the best evidence of the prevailing market
+price for a SBS transaction from which a markup or markdown could be
+calculated? Should the prevailing market price be based on a dealer’s
+contemporaneous cost, its cost to hedge the transaction, or a dealer’s sale to
+another SBS dealer or major SBS participant? Should there be any distinction
+between inter-dealer transactions and transactions between a dealer and a nondealer? Are SBS dealers and/or major SBS participants acting as market
+makers?
+40. The Commission understands that some SBS agreements may receive credit
+support from a guarantor or other credit support provider who agrees to satisfy
+a party’s payment or margin obligations in the event of default. Should the
+trade acknowledgment include the legal name of or other information about
+the guarantor or credit support provider?
+41. How does price differ, if at all, from market value?
+42. Should the Commission require that a trade acknowledgment include in all
+cases the material information necessary to identify the SBS or the data
+elements necessary to calculate its price (rather than the proposal in paragraph
+(d)(12))?
+
+27 
+
+
+43. Should the Commission require that a trade acknowledgment include in all
+cases the material information necessary to determine required upfront
+payments and any future cash flows (rather the proposal in paragraph
+(d)(12))?
+44. Do parties typically provide the material information necessary to identify the
+SBS or the data elements necessary to calculate its price in a trade
+acknowledgment or confirmation? Are there any SBS transactions, such as
+highly customized SBS transactions, for which it would be difficult to provide
+this information? If so, please describe these transactions and the information
+that parties would be challenged to provide.
+45. Section 3C(g)(1) of the Exchange Act provides an exception for certain
+counterparties from the mandatory clearing requirement in Exchange Act
+Section 3C(a)(1). In order to qualify for the exception, counterparties would
+need to comply with the Commission’s rules and regulations, which may
+require that counterparties provide additional information to the Commission,
+such as how a counterparty invoking the clearing exception generally expects
+to meet its financial obligations associated with an SBS or the title of any
+agreements in place between the SBS Entity and the counterparty that would
+support such counterparty’s financial obligations. Should the trade
+acknowledgment include such additional information that a counterparty may
+need to provide to the Commission? Should the trade acknowledgment
+include such additional information that a counterparty may need to provide to
+
+28 
+
+
+the Commission to support that it is not a financial entity and is using the SBS
+to hedge or mitigate commercial risk?
+46. The Commission also considered proposing a requirement that parties use
+master confirmation agreements for complex products when such agreements
+are in widespread use.36 If the parties have entered into a master confirmation
+agreement, the transaction-specific confirmations may be less detailed
+because the confirmation would not repeat the standard terms included in the
+master confirmation agreement. The Commission believes that the use of
+master confirmation agreements reduces transaction costs, improves liquidity,
+and speeds back-office processing in the markets in which they are adopted,
+and therefore encourages their use. However, the Commission believes that it
+would be difficult for SBS Entities to determine whether a master
+confirmation agreement is “in widespread use” and therefore required to be
+used. The Commission solicits comment on whether to require the use of
+master confirmation agreements in markets in which they are widespread, and
+how the Commission and SBS Entities could determine whether master
+confirmation agreements are in widespread use.
+D.
+
+Trade Verification
+
+As part of the trade verification process, paragraph (e)(1) of proposed rule 15Fi-1
+would require an SBS Entity to establish, maintain, and enforce reasonable written
+
+36
+
+Master confirmation agreements are agreements that incorporate by reference
+standardized agreements (such as the 1992 or 2002 ISDA Master Agreement) that
+allow parties to agree on most standard terms to be incorporated by reference into
+a complex trade and then execute individual transactions by agreeing on a small
+subset of economic terms.
+
+29 
+
+
+policies and procedures to obtain the prompt verification of trade acknowledgments. The
+Commission preliminarily believes this requirement will induce SBS Entities to minimize
+the number of unverified trade acknowledgments, and thereby reduce the operational risk
+and uncertainty associated with unverified SBS transactions.
+Verifying a transaction would require the SBS Entity responsible for providing
+the trade acknowledgment to obtain manually, electronically, or by some other legally
+equivalent means, the signature of its counterparty on the trade acknowledgment.37
+Verifying trades may be done through a process in which the counterparty affirms the
+transaction terms after reviewing a trade acknowledgment sent by the first party. The
+counterparty may also dispute the terms of the transaction (often referred to as a “DK” of
+the transaction, short for “don’t know”). Verifying or disputing the transaction may be
+done by fax or electronically, where the first party transmits a trade acknowledgment to
+its counterparty, after which the counterparty – electronically, manually, or by some other
+legally equivalent method – either signs and returns the trade acknowledgment to verify
+the transaction, or notifies the counterparty that it rejects the terms. By promoting
+prompt verification, the proposed rule is designed to minimize the operational risk and
+uncertainty associated with SBS transactions for which trade acknowledgments have not
+been verified.
+Pursuant to paragraph (e)(2) of the rule, cleared transactions would be verified in
+accordance with the process prescribed by the registered clearing agency through which
+the transaction will be cleared. The Commission expects that clearing agencies will
+adopt rules to obtain the signature of a counterparty on a trade acknowledgment as part of
+
+37
+
+See Proposed Rule 15Fi-1(a)(13).
+
+30 
+
+
+their verification procedures. In electronically processed transactions, the clearing
+agency could obtain counterparties’ signatures electronically or by other means. As
+noted above, the Commission has authority over registered clearing agencies, including
+the authority to review and approve or disapprove all proposed rules and rule changes.38
+The Commission would, therefore, be able to review any proposed rules and rule changes
+concerning verification of trade acknowledgments to determine whether the rules or rule
+changes are consistent with the purposes of proposed rule 15Fi-1.
+For SBS transactions that are not subject to clearing, paragraph (e)(1) of the
+proposed rule would require SBS Entities to establish their own trade verification
+processes. For example, an SBS Entity could establish, maintain, and enforce policies
+and procedures under which it will only deal with a counterparty that agrees to timely
+review any trade acknowledgment to ensure that it accurately describes their agreed upon
+transaction, and sign and return the trade acknowledgment as evidence of the verification.
+SBS Entities’ policies and procedures for verification could also include using a thirdparty matching service.39
+Paragraph (e)(2) of the proposed rule would provide that, in any SBS transaction
+to be cleared through a clearing agency, an SBS Entity’s compliance with the
+verification process prescribed by the clearing agency satisfies the verification
+requirements of subparagraph (e)(1) with respect to the transaction. Therefore, an SBS
+38
+
+See Exchange Act Sec. 19(b).
+
+39
+
+As described in Part A.2. above, each counterparty could submit the SBS terms to
+an agreed-upon matching service operated by a registered clearing agency. The
+matching service would then compare the submitted transaction terms. If the
+submitted SBS terms agreed, the transaction would be verified; otherwise, the
+matching service would notify the counterparties of the discrepancies, and the
+counterparties would have the opportunity to resolve them.
+
+31 
+
+
+Entity would not need to separately verify a transaction with another SBS Entity cleared
+through a clearing agency. Additionally, an SBS Entity would not be required to have
+separate written policies and procedures that are reasonably designed to obtain prompt
+verification of the terms of a trade acknowledgment if the SBS Entity enters a cleared
+transaction with a non-SBS Entity, and the SBS Entity complies with the clearing
+agency’s verification process.
+Paragraph (e)(3) of the proposed rule would require SBS Entities to promptly
+verify the accuracy of, or dispute with their counterparties, the terms of trade
+acknowledgments they receive pursuant to the proposed rule. This requirement is
+intended to reduce the incidence of unverified SBS transactions, thereby reducing the
+operational risk for SBS Entities.
+Request for Comment
+The Commission solicits comment on all aspects of the proposed requirement that
+SBS Entities verify trade acknowledgments they receive, and establish, maintain, and
+enforce written policies and procedures to obtain the prompt verification of the terms of
+executed SBS transactions.
+47. Should the proposed rule set time limits within which trade acknowledgments
+must be verified by SBS Entities? For example, should the proposed rule
+require SBS Entities to verify or dispute a trade acknowledgment within 24 or
+48 hours of provision of the trade acknowledgment? Should SBS Entities be
+required to verify or dispute a trade acknowledgment more quickly for SBS
+transactions that are executed electronically or processed electronically than
+for other transactions?
+
+32 
+
+
+48. What additional steps could the Commission take to promote verification of
+SBS transactions?
+49. Should the Commission give more guidance in the types of policies and
+procedures it expects SBS Entities to adopt that would be “reasonably
+designed to obtain prompt verification of the terms of a trade
+acknowledgment”?
+50. Are there other ways in which SBS participants currently evidence their
+agreement to an SBS transaction besides manual or electronic signature of a
+trade acknowledgment that we should consider?
+51. The proposed rule requires that parties obtain “verification” of the trade
+acknowledgment, which would be defined to mean manual or electronic
+signature of the trade acknowledgment by the receiving party. Is this
+definition sufficient? Does this definition differ from current market practice,
+and if so, how?
+52. Are there other processes currently in place that would not fit within this
+definition of “verification” that we should consider?
+53. Although the Commission believes that matching services are an effective
+way to verify SBS transactions, and increase the efficiency of the SBS
+settlement process, the Commission has not proposed requiring SBS Entities
+to submit their trades to a matching service. The Commission is concerned
+that the variety of SBS transactions may make it unlikely that matching
+services would be able to verify all transactions, and the Commission
+questions whether all SBS Entities’ counterparties would be members or
+
+33 
+
+
+participants (or eligible to be members or participants) in a matching service.
+Therefore, a requirement to submit all trades to a matching service could limit
+both the types of transactions and the counterparties in the SBS market. We
+request comment on the mandatory use of matching services. Would a
+requirement to use matching services limit the types of SBS transactions or
+counterparties in the market? How could the Commission mitigate those
+effects?
+E. 	
+
+Exemption from Rule 10b-10
+
+Proposed paragraph (f) of rule 15Fi-1 would provide an exemption from the
+requirements of rule 10b-10 under the Exchange Act for SBS Entities that confirm their
+SBS transactions in compliance with proposed rule 15Fi-1.40 Rule 10b-10 generally
+requires that broker-dealers effecting securities transactions on behalf of customers,
+provide to their customers, at or before completion of the securities transaction, a written
+notification containing certain basic transaction terms.41
+The Dodd-Frank Act amended the Exchange Act definition of “security” to
+include any “security-based swap.”42 Consequently, SBS, as securities, are fully subject
+to the federal securities laws and regulations, including, rule 10b-10.43 The Commission
+
+40	
+
+17 CFR 240.10b-10.
+
+41	
+
+Examples of transaction terms included on a rule 10b-10 confirmation include:
+the date of the transaction; the identity, price, and number of shares bought or
+sold; the capacity of the broker-dealer; the dollar or yield at which a transaction in
+a debt security was effected, and under specified circumstances, the compensation
+paid to the broker-dealer by the customer or other parties. Id.
+
+42	
+
+Dodd-Frank Act Sec. 761(a)(2) (codified at Exchange Act Section 3(a)(10)).
+
+43	
+
+The Commission will discuss further the implications of defining “security” to
+include security-based swaps on the requirement for brokers and dealers to
+register with its proposed rules for SBS Entity registration.
+
+34 
+
+
+anticipates that some SBS Entities may also be registered broker-dealers. Therefore, in
+the absence of an exemption, an SBS Entity that is also a broker or dealer would be
+required to comply with both rule 10b-10 and proposed rule 15Fi-1. This could be
+duplicative and overly burdensome.
+The proposed exemption in paragraph (f) would apply solely to transactions in
+SBS in which an SBS Entity is also a broker or a dealer, and would not apply to a
+transaction by a broker-dealer that is not also an SBS Entity. In other words, a brokerdealer that is not an SBS Entity would continue to comply with rule 10b-10 to the extent
+that it effects transactions in SBS with customers.
+As noted in Part A.1 above, because the proposed rule would apply solely to an
+SBS Entity that “purchases” or “sells” an SBS, it is effectively limited to principal
+transactions in which the SBS Entity is a counterparty to the transaction and is acting for
+its own account. Thus, the proposed exemption in paragraph (f) would also apply solely
+to principal transactions. The Commission recognizes that some SBS Entities may also
+engage in SBS brokerage or agency transactions.44 Any broker acting as an agent in an
+SBS transaction, regardless of whether it is also registered as an SBS Entity, would
+continue to be required to comply with Rule 10b-10.45
+
+44	
+
+An SBS Entity’s agency activities would be done pursuant to its broker-dealer
+registration under Section 15(b) of the Exchange Act. 15 U.S.C. 78o(b).
+
+45	
+
+This would include, at a minimum, disclosure of: the date of the transaction; the
+identity, price and number of units (or the principal amount) bought or sold, and
+the time of the transaction or the fact that it will be furnished upon written request
+(17 CFR 240.10b-10(a)(1)); that they are acting in an agent capacity (17 CFR
+240.10b-10(a)(2)); and, under specified circumstances, the amount of
+remuneration to be received by the broker from the customer, and whether the
+broker is receiving any other remuneration in connection with the transaction (17
+CFR 240.10b-10(a)(2)(i)(B) and (D)).
+
+35 
+
+
+Request for Comment
+The Commission solicits comment on all aspects of the proposed exemption from
+rule 10b-10 for SBS Entities that provide a trade acknowledgment pursuant to proposed
+rule 15Fi-1(f).
+54. Is the proposed exemption from rule 10b-10 necessary or appropriate?
+55. Is additional interpretive guidance regarding rule 10b-10 necessary?
+III.
+
+Implementation Timeframes
+The Commission proposes that the rule be effective 60 days after publication of
+
+the final rule in the Federal Register.
+Request for Comment
+The Commission solicits comment on all aspects of the implementation time
+frame for proposed rule 15Fi-1.
+56. Would the proposed time frame provide sufficient time for SBS Entities to
+comply with the rule?
+57. Should the implementation time be coordinated with the implementation
+timeframes for proposed Regulation SBSR?
+IV.
+
+Paperwork Reduction Act
+Certain provisions of the proposed rule would result in “collection of information
+
+requirements” within the meaning of the Paperwork Reduction Act of 1995 (“PRA”).46
+The Commission is therefore submitting proposed rule 15Fi-1 to the Office of
+Management and Budget (“OMB”) for review in accordance with 44 U.S.C. 3507 and 5
+CFR 1320.11. Compliance with the collection of information requirements would be
+
+46
+
+44 U.S.C. 3501 et seq.
+
+36 
+
+
+mandatory. An agency may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless it displays a currently valid control number.
+A. Summary of Collection of Information
+As discussed above, Exchange Act Section 15F(i)(1) provides that SBS Entities
+“shall conform with such standards as may be prescribed by the Commission, by rule or
+regulation, that relate to timely and accurate confirmation, processing, netting,
+documentation, and valuation of all security-based swaps.”47 Section 15F(i)(2) of the
+Exchange Act further provides that the Commission must adopt rules governing
+documentation standards for SBS Entities. Accordingly, proposed rule 15Fi-1 would
+adopt documentation standards for the timely and accurate acknowledgment and
+verification of SBS transactions by SBS Entities. The proposed rule contains six
+paragraphs: (a) definitions of relevant terms; (b) the trade acknowledgment obligations of
+specific SBS Entities; (c) the prescribed time frames under which a trade
+acknowledgment must be sent; (d) the form and content requirements of the trade
+acknowledgment; (e) an SBS Entities’ verification obligations; and (f) a limited
+exemption for brokers from the requirements of Exchange Act Rule 10b-10.48
+Under paragraph (b)(1) of proposed rule 15Fi-1, sending an SBS trade
+acknowledgment would be the obligation of a particular SBS Entity (i.e., an SBS dealer
+or major-SBS participant) depending on whether the SBS Entity and its counterparty are
+SBS dealers or major SBS participants and/or any agreements between the counterparties
+that delineate the trade acknowledgment responsibility. Paragraph (b)(2) of the proposed
+rule however, would provide that SBS Entities will satisfy this requirement to the extent
+47
+
+15 U.S.C. 78o-8.
+
+48
+
+17 CFR 240.10b-10.
+
+37 
+
+
+that an SBS transaction is cleared through the facilities of clearing agency that matches or
+compares the terms of the transaction. Regardless of how the trade acknowledgment
+obligation is satisfied however, a trade acknowledgment would be required to be
+provided within 15 minutes, 30 minutes or 24 hours following execution, depending on
+whether the transaction is executed and/or processed electronically.49
+Paragraph (d) of proposed rule 15Fi-1 would require that trade acknowledgments
+be provided through electronic means and lists the 22 data elements that must be included
+on each confirmation.50 Paragraph (e)(1) of proposed rule 15Fi-1 would require SBS
+Entities to establish, maintain, and enforce policies and procedures reasonably designed
+to obtain prompt verification of SBS trade acknowledgments. If a transaction is cleared
+through a clearing agency, paragraph (e)(2) of the proposed rule would also require SBS
+Entities to comply with the clearing agency’s verification procedures. Regardless of the
+method of transmittal, when an SBS Entity receives a trade acknowledgment, pursuant to
+paragraph (e)(3) of the proposed rule, it must promptly verify the accuracy of the trade
+acknowledgment or dispute the terms with its counterparty. Paragraph (a) of the
+proposed rule would define relevant terms and would not be a “collection of information”
+49	
+
+Under proposed Rule 15Fi-1(c)(1)(i), any transaction that is executed and
+processed electronically would have to be acknowledged within 15 minutes of
+execution. Transactions that are not electronically executed but processed
+electronically would have to be acknowledged within 30 minutes of execution.
+See proposed Rule 15Fi-1(c)(1)(ii). Finally, proposed Rule 15Fi-1(c)(1)(ii) would
+require that all other transactions be acknowledged within 24 hours of execution.
+Proposed paragraph (c)(2) of the rule however, would require that transactions be
+processed electronically if the counterparties have the ability to do so. As the
+market for derivatives develops further however, the Commission believes that
+most SBS transactions will be processed electronically.
+
+50	
+
+See proposed Rule 15Fi-1(d) (1) through (22). See also discussion in Section
+II.C. supra.
+
+38 
+
+
+within the meaning of the PRA. Similarly, paragraph (f) is an exemptive provision and
+would not be a collection of information.
+B. Proposed Use of Information
+The trade acknowledgment and verification requirements of proposed rule 15Fi-1
+would apply to both types of SBS Entities depending on whether the entity and its
+counterparty are SBS dealers or major SBS participants and on any agreements between
+counterparties addressing the obligation to send a trade acknowledgment. Generally, the
+transaction details that would be provided in a proposed rule 15Fi-1 trade
+acknowledgment would serve as a written record by which the counterparties to a
+transaction memorialize the economic and related terms of a transaction. In effect, the
+trade acknowledgment would reflect the contract entered into between the counterparties.
+In addition, proposed rule 15Fi-1’s verification requirements are intended to assure that
+the written record of the transaction (i.e. the trade acknowledgment) accurately reflects
+the terms of the transaction as understood by the respective counterparties. In situations
+where an SBS Entity is provided a trade acknowledgment that is not an accurate
+reflection of the agreement, proposed rule 15Fi-1 would require the SBS Entity to dispute
+the terms of the transaction.
+C. Respondents
+Proposed rule 15Fi-1 would only apply to SBS Entities, that is to SBS dealers and
+major SBS participants, both of which would be registered with the Commission. Based
+on the Commission staff’s discussions with industry participants and incorporated in our
+other Dodd-Frank Act related rulemaking, we preliminarily believe that approximately 50
+entities may fit within the definition of SBS dealer, and up to five entities may fit within
+
+39 
+
+
+the definition of major SBS participant. Thus, approximately 55 entities may be required
+to register with the Commission as SBS Entities and thus, would be subject to the trade
+acknowledgment provision and verification requirements of proposed rule 15Fi-1.51
+D. Total Initial and Annual Reporting and Recordkeeping
+Pursuant to proposed rule 15Fi-1, all SBS transactions would have to be
+acknowledged and verified through the methods and by the timeframes prescribed in the
+proposed rule. Collectively, paragraphs (b), (c), (d) and (e) of proposed rule 15Fi-1
+identify the information that is to be included in a trade acknowledgment; the party
+responsible for sending the trade acknowledgment; the permissible methods for sending
+the trade acknowledgment; and criteria for verifying the terms of a trade
+acknowledgment. According to the Depository Trust and Clearing Corporation
+(“DTCC”), there are on average 36,000 single-name credit-default swap (“CDS”)
+transactions per day,52 resulting in a total number of 13,140,000 CDS transactions per
+year. The Commission preliminarily believes that CDSs represent 85% of all SBS
+transactions.53 Assuming that at least one SBS Entity is a party to every SBS transaction,
+the Commission preliminarily estimates that the total number of SBS transactions that
+
+51	
+
+We note that many clearing agencies already have facilities that would permit
+SBS Entities to acknowledge and verify SBS transactions in addition to other
+services provided by the clearing agency.
+
+52	
+
+See, e.g., http://www.dtcc.com/products/derivserv/data_table_iii.php (weekly data
+as updated by DTCC).
+
+53	
+
+The Commission’s estimate is based on internal analysis of available SBS market
+data. The Commission is seeking comment about the overall size of the SBS
+market.
+
+40 
+
+
+would be subject to proposed 15Fi-1 on an annual basis would be approximately
+15,460,000 which is an average of 281,091 transactions per SBS Entity per year.54
+Based on discussions with industry participants, the Commission estimates that
+approximately 99 percent, or 15,305,400 transactions,55 are processed electronically,
+meaning that these transactions are either cleared through the facilities of a clearing
+agency,56 or processed through an SBS Entity’s internal electronic systems. The
+Commission believes that the remaining one percent of SBS transactions, or 154,600
+transactions,57 are currently not processed electronically, but are acknowledged and
+verified through other means, such as email, facsimile or other similar means.58
+As discussed above, the Commission believes that most transactions will be
+electronically executed and cleared through the facilities of a clearing agency. The
+Commission understands that the clearing of SBS transactions through the facilities of a
+clearing agency generally includes the matching and verification of such transactions.
+The Commission has taken this process into account in paragraph (b)(2) of proposed rule
+15Fi-1, which provides that SBS Entities will satisfy the requirement to provide a trade
+
+54	
+
+These figures are based on the following: [13,140,000 / 0.85] = 15,458,824, or
+approximately 15,460,000. (15,460,000 estimated SBS transactions) / (55 SBS
+Entities) = 281,091 SBS transactions per SBS Entity per year. The Commission
+understands that many of these transactions may arise from previously executed
+SBS transactions.
+
+55	
+
+15,460,000 SBS transactions x .99 = 15,305,400 transactions.
+
+56	
+
+See discussion in Part II.A.2 supra.
+
+57	
+
+15,460,000 SBS transactions x .01 = 154,600 transactions.
+
+58	
+
+We note that proposed rule 15Fi-1(c)(2) would require that SBS transactions be
+processed electronically if the acknowledging entity has the ability to do so. As
+noted above, the Commission believes that as this market develops further, fewer
+SBS Entities will lack the ability to process SBS transactions electronically. See
+also note 50 supra.
+
+41 
+
+
+acknowledgment if a clearing agency produces a confirmation through its facilities.
+Nevertheless, the Commission believes that it will be necessary for SBS Entities, if they
+have not already done so, to develop computerized systems for inputting the terms of an
+SBS transaction and then transmitting that data to the relevant clearing agency for
+electronic processing.
+The Commission also believes that such computerized systems will necessarily
+have to be programmed so that SBS transactions that are not electronically processed
+through the facilities of a clearing agency can be processed internally. Indeed, it is the
+Commission’s understanding, through publicly available information and discussions
+with industry participants, that many SBS Entities may already have these types of
+systems in place.
+Because this information is anecdotal, for the purposes of the PRA, the
+Commission assumes that most SBS Entities do not currently have the platforms
+necessary for processing, acknowledging, and verifying SBS transactions electronically,
+whether internally or by transmitting the necessary data packages to the facilities of a
+clearing agency for processing. Therefore, the Commission believes that SBS Entities
+will have to develop internal order and trade management systems (“OMS”) that will be
+connected or linked to the facilities of a clearing agency and that will also be able to
+process SBS transactions internally if necessary.59 The Commission believes that those
+systems will also have front-office and back-office linkages that will permit the front
+
+59
+
+The Commission believes that systems for acknowledging and verifying SBS
+transactions will likely be an additional functionality of an OMS that SBS Entities
+would have to use to report SBS transactions to an SBS data repository. See
+SBSR Proposing Release, note 16 supra.
+
+42 
+
+
+office to input SBS transaction details60 and to send these updates in real-time or near
+real-time to the back-office so that complete packages of information can be sent to the
+clearing agency for electronic processing and timely acknowledgment, or in the
+alternative, so that the relevant SBS Entity can itself electronically process the transaction
+and send the required trade acknowledgment.
+Based on our staff’s discussions with industry participants and incorporated in our
+other Commission rulemaking related to the Dodd-Frank Act,61 the Commission
+preliminarily estimates that the development of an OMS by SBS Entities for electronic
+processing of SBS transactions with the capabilities described above would impose a
+one-time aggregate burden of approximately 19,525 hours, or 355 burden hours per SBS
+Entity.62 This estimate assumes that SBS Entities will not have to develop an entirely
+new OMS but rather, would leverage existing trading and processing platforms and adapt
+those systems to satisfy the functionalities described above. In addition, the Commission
+further preliminarily estimates that proposed rule 15Fi-1 would impose an ongoing
+annual hour burden of approximately 23,980 hours or 436 hours per SBS Entity.63 This
+
+60	
+
+The Commission understands that in some instances, additional transaction details
+may have to be entered post-execution but prior to processing. In the industry,
+this process generally referred to as “enrichment.”
+
+61	
+
+See SBSR Proposing Release, note 16 supra, at Section XIII.B.4.a.
+
+62	
+
+This estimate is based on Commission staff discussions with market participants
+and is calculated as follows: [((Sr. Programmer at 160 hours) + (Sr. Systems
+Analyst at 160 hours) + (Compliance Manager at 10 hours) + (Director of
+Compliance at 5 hours) + (Compliance Attorney at 20 hours)) x 55 (SBS
+Entities)] = 19,525 burden hours at 355 hours per SBS Entity. The Commission
+understands that many SBS Entities may already computerized systems in place
+for electronically processing SBS transactions, whether internally or through a
+clearing agency. This may result in lesser burdens for those parties
+
+63	
+
+This estimate is based on Commission staff discussions with market participants
+and is calculated as follows: [((Sr. Programmer at 32 hours) + (Sr. Systems
+43 
+
+
+estimate would include day-to-day technical support of the OMS, as well as the
+amortized annual burden associated with system or platform upgrades and periodic
+implementation of significant updates based on new technology, products, or both.
+In addition, pursuant to paragraph (e)(1) of proposed rule 15Fi-1, SBS Entities
+must establish, maintain, and enforce written policies and procedures reasonably
+designed to obtain prompt verification of transaction terms. While the cost of these
+policies and procedures will vary, the Commission estimates that such policies and
+procedures would require an average of 80 hours per respondent to initially prepare and
+implement, with a total initial burden of 4,400 hours for all respondents. 64 Once these
+policies and procedures are established, the Commission estimates that it will take an
+average 40 hours annually to maintain these policies and procedures per respondent, with
+a total estimated average annual burden of 2,200 hours for all respondents.65
+E. Recordkeeping Requirements
+Pursuant to amendments to the Exchange Act from Title VII of the Dodd-Frank
+Act, the Commission plans to propose separate rules for SBS transactions that include,
+among other things, recordkeeping and transaction reporting requirements. Because a
+trade acknowledgment will serve as a written record of the transaction, the information
+Analyst at 32 hours) + (Compliance Manager at 60 hours) + (Compliance Clerk at
+240 hours) + (Director of Compliance at 24 hours) + (Compliance Attorney at 48
+hours)) x (55 SBS Entities)] = 23.980 burden hours, or 436 hours per SBS Entity.
+64	
+
+This estimate is based on Commission staff discussions with market participants
+and is calculated as follows: [(Compliance Attorney at 40 hours) (Director of
+Compliance at 20 hours) + (Deputy General Counsel at 20 hours) x (55 SBS
+Entities)] = 4,400 burden hours, or 80 hours per SBS Entity.
+
+65	
+
+This estimate is based on Commission staff discussions with market participants
+and is calculated as follows: [(Compliance Attorney at 20 hours) (Director of
+Compliance at 10 hours) + (General Counsel at 10 hours) x (55 SBS Entities)] =
+2,200 burden hours, or 40 hours per SBS Entity.
+
+44 
+
+
+required by proposed Rule 15Fi-1would be required to be maintained by an SBS Entity
+subject to those rules. This requirement will be subject to a separate PRA submission
+under that rulemaking.
+F. Collection of Information is Mandatory
+Each collection of information discussed above would be a mandatory collection
+of information.
+G. Will Responses of Collection of Information be Kept Confidential?
+By its terms, information collected pursuant to proposed rule 15Fi-1 will not be
+available to the public. Under other rules proposed by the Commission, however, most,
+if not all, of the information required to be included in a trade acknowledgment, as
+described in paragraph (d) of the proposed rule, will be otherwise publicly available. In
+particular, under proposed Regulation SBSR,66 SBS Entities would be required to report
+SBS transaction details to a SBS data repository that will in turn, publicly disseminate
+SBS transaction data. To the extent however, that the Commission receives confidential
+information pursuant to this collection of information that is otherwise not publicly
+available, that information will be kept confidential, subject to the provisions of the
+Freedom of Information Act.
+H. Request for Comment
+The Commission requests comment on all aspects of its burden estimates. The
+Commission also solicits comment as follows:
+58. Is the proposed collection of information necessary for the performance of the
+functions of the agency? Would the information have a practical utility?
+
+66
+
+See SBSR Proposing Release, note 16 supra.
+
+45 
+
+
+59. How accurate are the Commission’s preliminary estimates of the burdens of
+the proposed collection of information associated with proposed rule 15Fi-1?
+How many entities would incur collection of information burdens pursuant to
+rule 15Fi-1?
+60. Would SBS Entities incur any additional burdens associated with designing,
+creating and implementing a system for the processing, acknowledgment and
+verification of SBS transactions pursuant to proposed rule 15Fi-1?
+61. Would there be different or additional burdens associated with the collection
+of information under proposed rule 15Fi-1 that an SBS Entity would not
+undertake in the ordinary course of business?
+62. Are there additional burdens that the Commission has not addressed in its
+preliminary burden estimates?
+63. Are there ways to enhance the quality, utility and clarity of the information to
+be collected?
+64. Are there ways to minimize the burden of collection of information on those
+who would be required to respond, including through the use of automated
+collection techniques or other forms of information technology?
+65. What entities may be subject to proposed rule 15Fi-1? Would specific classes
+of entities be impacted? How many entities would be impacted? Will any
+entity or class of entities be impacted differently than others?
+V.
+
+Cost-Benefit Analysis
+The Dodd-Frank Act was enacted, in part, to promote the financial stability of the
+
+46 
+
+
+United States by improving accountability and transparency in the financial system.67
+Title VII of the Dodd-Frank Act designates the Commission to oversee the SBS markets
+and develop appropriate regulations. In furtherance of this goal, the Dodd-Frank Act
+added Section 15F(i) to the Exchange Act, which requires SBS Entities to “conform with
+such standards as may be prescribed by the Commission, by rule or regulation, that relate
+to timely and accurate confirmation, processing, netting, documentation, and valuation of
+all security-based swaps,” and provides that the Commission must adopt rules governing
+those documentation standards. Accordingly, proposed rule 15Fi-1 would provide these
+documentation standards with respect to the timely and accurate provision of trade
+acknowledgments and verification of SBS transactions by SBS Entities.
+The market for OTC derivatives, which has been described as opaque,68 has
+grown exponentially in recent years69 and is capable of affecting significant sectors of the
+U.S. economy. One of the primary goals of Title VII of the Dodd-Frank Act is to
+increase the transparency and efficiency of the OTC derivatives market and to reduce the
+
+67	
+
+See Pub. L. No. 111-203 Preamble.
+
+68	
+
+With respect to CDSs, for example, the GAO found that “comprehensive and
+consistent data on the overall market have not been readily available,” that
+“authoritative information about the actual size of the CDS market is generally
+not available,” and that regulators currently are unable “to monitor activities
+across the market.” GAO, “Systemic Risk: Regulatory Oversight and Recent
+Initiatives to Address Risk Posed by Credit Default Swaps,” GAO-09-397T
+(March 2009), at 2, 5, 27.
+
+69	
+
+The Bank for International Settlements semi-annual reports on the swap markets
+summarizes developments in the OTC derivatives markets. The report breaks
+down trading volumes and other statistics for various classes of derivatives,
+including credit default swaps, interest rate and foreign exchange derivatives, and
+equity and commodity derivatives. The report covers derivatives trading within
+the G10 countries. The most recent report, available at
+http://www.bis.org/statistics/derstats.htm, covers the period through the last
+quarter of 2009.
+
+47 
+
+
+potential for counterparty and systemic risk.70 With respect to the confirmation of OTC
+derivatives transactions, the GAO noted that the trading volume of credit derivatives,
+such as SBS, had expanded so rapidly that the operational infrastructure and confirmation
+practices of many SBS Entities had failed to keep pace with the increased volume.71 In
+particular, the GAO noted, among other things, that the lack of automated systems for
+confirming and verifying the terms of SBS transactions contributed to a significant
+backlog of unconfirmed transactions, which in turn created significant legal and operation
+risk for market participants.72 As a result, these risks and other operational issues
+associated with OTC derivatives have been the focus of reports and recommendations by
+the President’s Working Group,73 and of ongoing efforts to by the FRBNY74 to enhance
+operational systems in the OTC market, including the reduction of confirmation backlogs
+and the timely provision of confirmations and verification of transactions in OTC
+derivatives.
+Proposed rule 15Fi-1 would prescribe standards for the documentation and timely
+provision of SBS trade acknowledgments and the verification of such trade
+acknowledgments. More specifically, proposed Rule 15Fi-1 would require SBS Entities
+to provide a trade acknowledgment of an SBS transaction within 15 minutes, 30 minutes
+
+70
+
+See “Financial Regulatory Reform – A New Foundation: Rebuilding Financial
+Supervision and Regulation,” U.S. Department of the Treasury, at 47-48 (June 17,
+2009).
+
+71
+
+See GAO Confirmation Report, supra, note 6 and accompanying text.
+
+72
+
+Id. at pages 12-15.
+
+73
+
+See, e.g., Press Release, President’s Working Group on Financial Markets,
+Progress Summary on OTC Derivatives Operational Improvements (November
+2008).
+
+74
+
+See, note 10, supra.
+
+48 
+
+
+or 24 hours following execution of the transactions, depending on whether the transaction
+is executed and/or processed electronically.75 In addition, the proposed rule would
+require SBS Entities to include specified information in the trade acknowledgment,76 to
+verify transactions with other SBS Entities, and to establish, maintain, and enforce
+reasonable written policies and procedures for verifying the transaction terms. The
+proposed rule would require most SBS transactions to be processed and acknowledged
+electronically if the SBS Entity has the ability to do so, but also would provide that many
+of the requirements of the rule can satisfied through the facilities of the clearing agency
+that clears an SBS transaction.
+A. Benefits
+The Commission believes that proposed rule 15Fi-1 would yield substantial
+benefits to the SBS market and address many of the concerns noted by the GAO
+regarding the timely and accurate acknowledgment of OTC derivatives transactions. In
+particular, by requiring SBS Entities to timely provide trade acknowledgments and verify
+SBS transactions and to use electronic means when possible, the Commission is
+addressing the concern raised by the GAO regarding the legal and operational risks
+associated with confirmation backlogs in the OTC derivatives markets. In particular, the
+GAO noted in its report that the lack of automation was a significant contributor to
+confirmation backlogs.77 The Commission believes that requiring SBS transactions to be
+processed electronically would help reduce what the GAO described as the operational
+and legal risks accompanying unconfirmed derivatives transactions. In addition, the
+75
+
+See note 49 supra.
+
+76
+
+See note 50 supra. See also proposed Rule 15Fi-1(c)(1).
+
+77
+
+See GAO Confirmation Report, supra note 6.
+
+49 
+
+
+Commission believes that permitting SBS Entities to rely on the facilities of a clearing
+agency to satisfy their requirements under the proposed rule will encourage these entities
+to use clearing agency facilities, thereby promoting efficiency and automation in this
+market.
+B. Costs
+Proposed rule 15Fi-1 would impose initial and ongoing costs on SBS Entities.
+The Commission believes that these costs will be a function of number of SBS
+transactions entered into by SBS Entities, whether SBS Entities have the ability to
+electronically process SBS transactions, and whether SBS Entities will enter into SBS
+transactions that can be, and are, cleared by a clearing agency.
+The Commission obtained information from publicly available sources and
+consulted with industry participants in an effort to quantify the number of aggregate SBS
+transactions on an annual basis. According to the DTCC, there are on average 36,000
+single-name CDS transactions per day,78 resulting in a total number of 13,140,000 CDS
+transactions per year. The Commission preliminarily believes that CDSs represent 85%
+of all SBS transactions.79 Therefore, the Commission preliminarily believes that there
+will be a total of approximately 15,460,000 SBS transactions entered into each year.
+Assuming that at least one SBS Entity is a party to every SBS transaction, the
+Commission preliminarily estimates that the total number of SBS transactions that would
+be subject to proposed 15Fi-1 on an annual basis would be approximately 15,460,000
+78	
+
+See, e.g., http://www.dtcc.com/products/derivserv/data_table_iii.php (weekly data
+as updated by DTCC).
+
+79	
+
+The Commission’s estimate is based on internal analysis of available SBS market
+data. The Commission is seeking comment about the overall size of the SBS
+market.
+
+50 
+
+
+which is an average of 281,091 transactions per SBS Entity per year.80
+To fulfill the proposed rule’s requirements, the Commission believes that SBS
+Entities would have to develop an OMS with portals to relevant clearing agencies and
+real-time or near real-time linkages between an SBS Entities’ front and back-office
+operations. The development of an OMS would have to occur regardless of whether an
+SBS transaction is, or can be, cleared by a clearing agency.
+The Commission preliminarily estimates that an SBS Entity’s’ development of an
+OMS that achieves compliance with proposed rule 15Fi-1 would impose a one-time
+aggregate cost of $3,665,750,81 or approximately $66,650 per SBS Entity. This estimate
+includes the development of an OMS that leverages off of an SBS Entities’ existing frontoffice and back-office operational platforms. The Commission further preliminarily
+estimates that the requirements of proposed rule 15Fi-1 would impose an ongoing annual
+aggregate cost of $4,022,920, or approximately $73,144 per SBS Entity. 82 This estimate
+
+80	
+
+These figures are based on the following: [13,140,000 / 0.85] = 15,458,424, or
+approximately 15,460,000. (15,460,000 estimated SBS transactions) / (55 SBS
+Entities) = 309,200 SBS transactions per SBS Entity per year. The Commission
+understands that many of these transactions may arise from previously executed
+SBS transactions.
+
+81	
+
+This estimate is based on the following: [((Sr. Programmer (160 hours) at $285
+per hour) + (Sr. Systems Analyst (160 hours) at $251 per hour) + (Compliance
+Manager (10 hours) at $294 per hour) + (Director of Compliance (5 hours) at
+$426 per hour) + (Compliance Attorney (20 hours) at $291 per hour) x (50 SBS
+Entities)] = $3,665,750 or $66,650 per SBS Entity. The Commission understands
+that many SBS Entities may already computerized systems in place for
+electronically processing SBS transactions, whether internally or through a
+clearing agency.
+
+82	
+
+This estimate is based on Commission staff discussions with market participants
+and is calculated as follows: [((Sr. Programmer (32 hours) at $285 per hour) +
+(Sr. Systems Analyst (32 hours) at $251 per hour) + (Compliance Manager (60
+hours) at $294 per hour) + (Compliance Clerk (240 hours) at $59 per hour )+
+(Director of Compliance (24 hours) at $426 per hour + (Compliance Attorney (48
+51 
+
+
+would include day-to-day technical supports of the OMS, as well as an estimate of the
+amortized annual burden associated with system or platform upgrades and periodic
+“re-platforming” (i.e., implementing significant updates based on new technology,
+products or both). In addition, the Commission estimates that the development and
+implementation of written policies and procedures as required under paragraph (e)(1) of
+the proposed rule would impose initial costs of $1,754,500, or approximately $31,900 per
+SBS Entity.83 Once established, the Commission estimates that it would costs
+respondents approximately $877,250 per year, or $15,950 per respondent,84 to update and
+maintain these policies and procedures.
+In sum, the Commission estimates that the initial cost of complying with proposed
+rule 15Fi-1 will be $5,417,500 for all respondents, or $98,500 per SBS Entity.85 The
+Commission estimates that total ongoing costs to respondents would be $4,900,170 for all
+respondents, or $89,094 per SBS Entity.86
+
+hours) at $291 per hour) x (55 SBS Entities)] = $4,022,920 burden hours, or
+$73,144 per SBS Entity.
+83	
+
+This estimate comes from Commission staff experience regarding the
+development of policies and procedures and is calculated as follows:
+[(Compliance Attorney (40 hours) at $294 per hour) + (Director of Compliance
+(20 hours) at $426 per hour) + (Deputy General Counsel (20 hours) at $581 per
+hour) x (55 SBS Entities)] = $1,754,500 total, or $31,900 per SBS Entity.
+
+84	
+
+This estimate comes from Commission staff experience regarding the
+development of policies and procedures and is calculated as follows:
+[(Compliance Attorney (20 hours) at $294 per hour) + (Director of Compliance
+(10 hours) at $426 per hour) + (Deputy General Counsel (10 hours) at $581 per
+hour) x (55 SBS Entities)] = $877,250 total, or $15,950 per SBS Entity.
+
+85	
+
+($3,665,750 initial cost for developing OMS) + ($1,754,500 for developing
+policies and procedures) = $5,417,500 for all respondents. ($5,417,500 / 505
+Respondents) = $98,500 per SBS Entity.
+
+86	
+
+($4,022,920 ongoing cost for maintaining OMS) + ($877,250 for maintaining
+policies and procedures) = $4,900,170 for all respondents. ($4,900,170 / 55
+Respondents) = $89,094 per SBS Entity.
+52 
+
+
+C. Request for Comment
+The Commission requests comment on the costs and benefits of proposed rule 15Fi-1
+discussed above, as well as any costs and benefits not already described that could result.
+In addition, the Commission requests comment on the following:
+66. How can the Commission accurately estimate the costs and benefits of the
+proposed rule?
+67. What are the costs currently borne by SBS Entities that would be subject to
+proposed rule 15Fi-1 with respect to the acknowledgment and verification of
+SBS transactions?
+68. How many entities would be subject to the proposed rule? 	How transactions
+would be subject to the proposed rule?
+69. Are there additional costs involved in complying with the rule that have not
+been identified? What are the types, and amounts, of the costs?
+70. Would the obligations imposed on SBS Entities by proposed rule 15Fi-1 be a
+significant enough barrier to cause some firms not to enter the SBS market? If
+so, how many firms might decline to enter the market? How could the cost of
+their not entering the market be measured? How should the Commission
+weigh those costs, if any, against the anticipated benefits from reducing legal
+and operational risk to SBS Entities from the proposal, as discussed above?
+71. Would there be additional benefits from the proposed rule that have not been
+identified?
+
+53 
+
+
+VI. 	
+
+Consideration of Burden on Competition and Promotion of Efficiency,
+Competition, and Capital Formation
+Exchange Act Section 3(f) requires the Commission, when engaging in
+
+rulemaking that requires it to consider whether an action is necessary or appropriate in
+the public interest, to consider, in addition to the protection of investors, whether the
+action would promote efficiency, competition, and capital formation. In addition, Section
+23(a)(2) of the Exchange Act requires the Commission, when making rules under the
+Exchange Act, to consider the impact of those rules on competition. Section 23(a)(2)
+also prohibits the Commission from adopting any rule that would impose a burden on
+competition not necessary or appropriate in furtherance of the purposes of the Exchange
+Act.
+The Commission preliminarily believes that the documentation standards for the
+provision of trade acknowledgments and verification of SBS transactions, as required by
+the Dodd-Frank Act and implemented by proposed rule 15Fi-1, would promote
+efficiency, competition, and capital formation by encouraging SBS Entities to automate
+their systems for SBS transactions, providing further incentive for SBS Entities to clear
+SBS transactions through clearing agencies’ automated facilities, thus lowering
+transaction costs, and helping alleviate the legal and operational risks encountered by
+SBS Entities when SBS transactions are otherwise confirmed through manual methods.
+The Commission’s experience with the acknowledgment and verification of other
+types of securities is that the timely resolution of disputes regarding the terms of a
+transaction are more efficiently handled near in time to when the transaction took place.
+Timely acknowledgment and verification of SBS transactions will provide counterparties
+with the appropriate means by which to evaluate their own risk exposures in a timely
+
+54 
+
+
+manner, thereby enabling them to more quickly and efficiently determine whether and
+how to deploy capital in other asset classes. In addition, the Commission believes that
+competition will be promoted because market participants would be encouraged to enter
+into SBS transactions with SBS Entities whose automated operations reduce the amount
+of time it takes to confirm the terms of a trade. In particular, the Commission believes
+that the need for speed and efficiency in today’s capital markets would encourage market
+participants in general, and SBS Entities in particular, to provide quicker and more
+efficient process for confirming SBS transactions because counterparties to an SBS
+transaction must not only concern themselves with the SBS transaction, but also the
+underlying reference security that itself is subject to rapid market movements.
+VII.
+
+Consideration of Impact on the Economy
+For purposes of the Small Business Regulatory Enforcement Fairness Act of 1996
+
+(“SBREFA”), the Commission must advise the OMB whether the proposed regulation
+constitutes a “major” rule. Under SBREFA, a rule is considered “major” when, if
+adopted, it results or is likely to result in: (1) an annual effect on the economy of $100
+million or more (either in the form of an increase or a decrease); (2) a major increase in
+costs or prices for consumers or individual industries; or (3) significant adverse effect on
+competition, investment or innovation. If a rule is “major,” its effectiveness will
+generally be delayed for 60 days pending Congressional review.
+The Commission requests comment on the potential impact of proposed rule
+15Fi-1 on the economy on an annual basis, on the costs or prices for consumers or
+individual industries, and on competition, investment, or innovation. Commenters are
+
+55 
+
+
+requested to provide empirical data and other factual support for their view to the extent
+possible.
+VIII. Regulatory Flexibility Act Certification
+The Regulatory Flexibility Act (“RFA”) requires federal agencies, in
+promulgating rules, to consider the impact of those rules on small entities. Section 603(a)
+of the Administrative Procedure Act, as amended by the RFA, generally requires the
+Commission to undertake a regulatory flexibility analysis of all proposed rules, or
+proposed rule amendments, to determine the impact of such rulemaking on “small
+entities.” Section 605(b) of the RFA states that this requirement shall not apply to any
+proposed rule or proposed rule amendment which, if adopted, would not have a
+significant economic impact on a substantial number of small entities.
+For purposes of Commission rulemaking in connection with the RFA, a small
+entity includes: (1) when used with reference to an “issuer” or a “person,” other than an
+investment company, an “issuer” or “person” that, on the last day of its most recent fiscal
+year, had total assets of $5 million or less; or (2) a broker-dealer with total capital (net
+worth plus subordinated liabilities) of less than $500,000 on the date in the prior fiscal
+year as of which its audited financial statements were prepared pursuant to Rule 17a-5(d)
+under the Exchange Act, or, if not required to file such statements, a broker-dealer with
+total capital (net worth plus subordinated liabilities) of less than $500,000 on the last day
+of the preceding fiscal year (or in the time that it has been in business, if shorter); and is
+not affiliated with any person (other than a natural person) that is not a small business or
+small organization.
+
+56 
+
+
+Based on our staff’s discussions with SBS market participants, the Commission
+preliminarily believes that the majority of SBS transactions have at least one counterparty
+that is either a SBS dealer or major SBS participant, and that these entities – whether
+registered broker-dealers or not – would exceed the thresholds defining “small entities”
+set out above. Accordingly, neither of these types of entities would likely qualify as
+small entities for purposes of the RFA. Moreover, even in situations in which one of the
+counterparties to a SBS is not covered by these definitions, the Commission preliminarily
+does not believe that any such entities would be “small entities” as defined in
+Commission Rule 0-10. Industry participants have indicated to our staff that only
+persons or entities with assets significantly in excess of $5 million participate in the SBS
+market. For example, as stated in a current survey conducted by Office of the
+Comptroller of the Currency, 99.9% of CDS positions by U.S. commercial banks and
+trusts are held by those with assets over $10 billion.87 Given the magnitude of this
+figure, and the fact that it so far exceeds $5 million, the Commission preliminarily
+believes that the vast majority of, if not all, SBS transactions do not involve small entities
+for purposes of the RFA.
+In addition, the Commission preliminarily believes that the entities likely to
+register as SBS Entities would not be small entities. Industry participants have indicated
+to our staff that most if not all of the registered SBS Entities would be part of large
+business entities, and that all registered SBS Entities would have assets exceeding $5
+million and total capital exceeding $500,000. Therefore, the Commission preliminarily
+believes that none of the SBS Entities would be small entities.
+87
+
+See Office of the Comptroller of the Currency, “Quarterly Report on Bank
+Trading and Derivatives Activities Second Quarter 2010” (2010).
+
+57 
+
+
+On this basis, the Commission preliminarily believes that the number of SBS
+transactions involving a small entity as that term is defined for purposes of the RFA
+would be de minimis. Moreover, the Commission does not believe that any aspect of
+proposed rule 15Fi-1 would be likely to alter the type of counterparties presently
+engaging in SBS transactions. Therefore, the Commission preliminarily does not believe
+that proposed rule 15Fi-1 would impact any small entities.
+For the foregoing reasons, the Commission certifies that proposed Rule 15Fi-1 would not
+have a significant economic impact on a substantial number of small entities for purposes
+of the RFA. The Commission encourages written comments regarding this certification.
+The Commission requests that commenters describe the nature of any impact on small
+entities, indicate whether they believe that SBS Entities are unlikely to be small entities,
+and provide empirical data to support their responses.
+IX.
+
+Statutory Basis and Text of Proposed Amendments
+The Commission is proposing to adopt Rule 15Fi-1 pursuant to Section 15F of the
+
+Exchange Act, as amended.
+List of Subjects in 17 CFR Part 240
+Reporting and recordkeeping requirements, Securities, Security-based swaps, Securitybased Swap Dealers, Major Security-based Swap Participants.
+In accordance with the foregoing, the Securities and Exchange Commission is
+proposing to amend Title 17, chapter II of the Code of Federal Regulations as follows:
+PART 240 – GENERAL RULES AND REGULATIONS, SECURITIES
+EXCHANGE ACT OF 1934
+1. The general authority citation for Part 240 is revised to read as follows::
+
+58 
+
+
+Authority: 15 U.S.C. 77c, 77d, 77g, 77j, 77s, 77z-2, 77z-3, 77eee, 77ggg, 77nnn,
+77sss, 77ttt, 78c, 78d, 78e, 78f, 78g, 78i, 78j, 78j-1, 78k, 78k-1, 78l, 78m, 78n, 78o, 78o4, 78o-8, 78p, 78q, 78s, 78u-5, 78w, 78x, 78ll, 78mm, 80a-20, 80a-23, 80a-29, 80a-37,
+80b-3, 80b-4, 80b-11, and 7201 et. seq.; and 18 U.S.C. 1350, and 12 U.S.C. 5221(e)(3)
+unless otherwise noted.
+*
+
+*
+
+*
+
+*
+
+2.
+
+*
+Add an undesignated center heading following § 15Cc1-1 and § 240.15Fi-
+
+1 to read as follows:
+REGISTRATION AND REGULATION OF SECURITY-BASED SWAP
+DEALERS AND MAJOR SECURITY-BASED SWAP PARTICIPANTS
+§ 240.15Fi-1 Acknowledgment and verification of security-based swap transactions.
+(a) Definitions. For the purposes of this section:
+(1) The term asset class means those security-based swaps in a particular broad
+category, including, but not limited to, credit derivatives, equity derivatives, and loanbased derivatives.
+(2) The term broker ID means the UIC assigned to a person acting as a broker for
+a participant.
+(3) The term clearing agency means a clearing agency registered pursuant to
+section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q-1).
+(4) The term confirmation means a trade acknowledgment that has been subject to
+verification.
+(5) The term desk ID means the UIC assigned to the trading desk of a participant
+or of a broker of a participant.
+
+59 
+
+
+(6) The term execution means the point at which the parties become irrevocably
+bound to a transaction under applicable law.
+(7) The term participant ID means the UIC assigned to a participant.
+(8) The term price means the price of a security-based swap transaction,
+expressed in terms of the commercial conventions used in that asset class.
+(9) The term processed electronically means entered into a security-based swap
+dealer or security-based swap participant’s computerized processing systems to facilitate
+clearance and settlement.
+(10) The term trade acknowledgment means a written or electronic record of a
+security-based swap transaction sent by one party to the other.
+(11) The term trader ID means the UIC assigned to a natural person who executes
+security-based swaps.
+(12) The term unique identification code or UIC means the unique identification
+code assigned to a person, unit of a person, or product by or on behalf of an
+internationally recognized standards-setting body that imposes fees and usage restrictions
+that are fair and reasonable and not unreasonably discriminatory. If no standards-setting
+body meets these criteria, a registered security-based swap data repository shall assign all
+necessary UICs using its own methodology. If a standards-setting body meets these
+criteria but has not assigned a UIC to a particular person, unit of a person, or product, a
+registered security-based swap data repository shall assign a UIC to that person, unit of a
+person, or product using its own methodology.
+
+60 
+
+
+(13) The term verification means the process by which a trade acknowledgment
+has been manually, electronically, or by some other legally equivalent means, signed by
+the receiving counterparty.
+(b) Trade Acknowledgment Requirement.
+(1) In any transaction in which a security-based swap dealer or major securitybased swap participant purchases from or sells to any counterparty a security-based swap,
+a trade acknowledgment must be provided by:
+(i) The security-based swap dealer, if the transaction is between a security-based
+swap dealer and a major security-based swap participant;
+(ii) The security-based swap dealer or major security-based swap participant, if only
+one counterparty in the transaction is a security-based swap dealer or major securitybased swap participant; or
+(iii) The counterparty that the counterparties have agreed will provide the trade
+acknowledgment in any transaction other than one described in paragraph (i) or (ii) of
+this section.
+(2) A security-based swap dealer or major security-based swap participant will
+have satisfied the requirements of paragraph (b)(1) of this section if a clearing agency
+through its facilities produces a confirmation of each security-based swap transaction.
+(c) Prescribed Time.
+(1) Any trade acknowledgment required by paragraph (b) of this section must be
+provided promptly, but in any event:
+(i) For any transaction that has been executed and processed electronically, within
+15 minutes of execution;
+
+61 
+
+
+(ii) For any transaction that is not executed electronically, but that will be
+processed electronically, within 30 minutes of execution; or
+(iii) For any transaction that cannot be processed electronically by the securitybased swap dealer or security-based swap participant, within 24 hours following
+execution.
+(2) A transaction must be processed electronically if the security-based swap
+dealer or major security-based swap participant has the ability to do so.
+(d) Form and Content of Trade Acknowledgment. Any trade acknowledgment
+required in paragraph (b) of this section must be provided through electronic means that
+provide reasonable assurance of delivery and a record of transmittal, and must disclose:
+(1) The asset class of the security-based swap and, if the security-based swap is an
+equity derivative, whether it is a total return swap or is otherwise designed to offer risks
+and returns proportional to a position in the equity security or securities on which the
+security-based swap is based;
+(2) Information that identifies the security-based swap instrument and the specific
+asset(s) or issuer of a security on which the security-based swap is based;
+(3) The notional amount(s), and the currenc(ies) in which the notional amount(s)
+is expressed;
+(4) The date and time, to the second, of execution expressed using Coordinated
+Universal Time (UTC);
+(5) The effective date;
+(6) The scheduled termination date;
+(7) The price;
+
+62 
+
+
+(8) The terms of any fixed or floating rate payments, and the frequency of any
+payments;
+(9) Whether or not the security-based swap will be cleared by a clearing agency;
+(10) If both counterparties to a security-based swap are security-based swap
+dealers, an indication to that effect;
+(11) If the transaction involved an existing security-based swap, an indication that
+the transaction did not involve an opportunity to negotiate a material term of the contract,
+other than the counterparty;
+(12) If the security-based swap is customized to the extent that the information
+provided in paragraphs (d)(1) through (11) of this section does not provide all of the
+material information necessary to identify such customized security-based swap or does
+not contain the data elements necessary to calculate the price, an indication to that effect;
+(13) The participant ID of each counterparty;
+(14) As applicable, the broker ID, desk ID, and trader ID of the reporting party;
+(15) The amount(s) and currenc(ies) of any up-front payment(s) and a description
+of the terms and contingencies of the payment streams of each counterparty to the other;
+(16) The title of any master agreement, or any other agreement governing the
+transaction (including the title of any document governing the satisfaction of margin
+obligations), incorporated by reference and the date of any such agreement;
+(17) The data elements necessary for a person to determine the market value of
+the transaction;
+(18) If the security-based swap will be cleared, the name of the clearing agency;
+
+63 
+
+
+(19) If the security-based swap is not cleared, whether the exception in Section
+3C(g) of the Exchange Act (15 U.S.C. 78c-3(g)) was invoked;
+(20) If the security-based swap is not cleared, a description of the settlement
+terms, including whether the security-based swap is cash-settled or physically settled, and
+the method for determining the settlement value;
+(21) The venue where the security-based swap was executed; and
+(22) If the transaction is to be cleared, any additional information that is required
+for the transaction to be cleared by a clearing agency.
+(e) Trade Verification.
+(1) A security-based swap dealer or major security-based swap participant must
+establish, maintain, and enforce written policies and procedures that are reasonably
+designed to obtain prompt verification of the terms of a trade acknowledgment provided
+pursuant to paragraph (b) of this section.
+(2) In any security-based swap transaction to be cleared through a clearing
+agency, a security-based swap dealer or major security-based swap participant must
+comply with the verification process prescribed by the clearing agency. Such compliance
+shall satisfy the requirements of paragraph (e)(1) of this section with respect to the
+transaction.
+(3) A security-based swap dealer or major security-based swap participant must
+promptly verify the accuracy of, or dispute with its counterparty, the terms of a trade
+acknowledgment it receives pursuant to paragraph (b) of this section.
+(f) Exemption from § 240.10b-10. A security-based swap dealer or major
+security-based swap participant who is also a broker or dealer and who complies with
+
+64 
+
+
+paragraph (b) of this section with respect to a security-based swap transaction is exempt
+from the requirements of § 240.10b-10 of this chapter with respect to the security-based
+swap transaction.
+By the Commission.
+
+Elizabeth M. Murphy
+Secretary
+
+Dated: January 14, 2011
+
+65 
+
+
+

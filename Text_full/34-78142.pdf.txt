@@ -1,0 +1,589 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 78142 / June 23, 2016
+INVESTMENT ADVISERS ACT OF 1940
+Release No. 4434 / June 23, 2016
+INVESTMENT COMPANY ACT OF 1940
+Release No. 32159 / June 23, 2016
+ADMINISTRATIVE PROCEEDING
+File No. 3-17313
+ORDER INSTITUTING ADMINISTRATIVE
+AND CEASE-AND-DESIST PROCEEDINGS,
+PURSUANT TO SECTIONS 15(b) AND 21C
+OF THE SECURITIES EXCHANGE ACT OF
+1934, SECTION 203(f) OF THE
+INVESTMENT ADVISERS ACT OF 1940,
+AND SECTION 9(b) OF THE INVESTMENT
+COMPANY ACT OF 1940.
+
+In the Matter of
+WILLIAM TIRRELL,
+Respondent.
+
+I.
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that public administrative and cease-and-desist proceedings be, and hereby are,
+instituted pursuant to Sections 15(b) and 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), Section 203(f) of the Investment Advisers Act of 1940 (“Investment Advisers Act”), and
+Section 9(b) of the Investment Company Act of 1940 (“Investment Company Act”) against
+William Tirrell (“Respondent” or “Tirrell”).
+II.
+After an investigation, the Division of Enforcement alleges that:
+SUMMARY
+From 2009 to 2012, Tirrell aided and abetted and caused unprecedented violations of
+Sections 15(c)(3) and 17(a)(1) of the Exchange Act and Rules 15c3-3, 17a-5(a), and 17a-5(d)
+thereunder by Merrill Lynch, Pierce, Fenner & Smith, Inc. (“MLPF&S”) and its wholly-owned
+
+subsidiary, Merrill Lynch Professional Clearing Corp. (“MLPro” and, together with MLPF&S,
+“ML”).
+During this period, ML willfully violated Section 15(c)(3) of the Exchange Act and Rule
+15c3-3 thereunder. Known as the Customer Protection Rule (“Rule”), Rule 15c3-3 requires
+broker-dealers to safeguard the cash of their customers so that customer assets can be quickly
+returned if the firm fails. ML violated the Rule by failing to deposit a sufficient amount of cash in
+a customer reserve account it was required to maintain pursuant to Rule 15c3-3(e), thereby placing
+billions of dollars of ML customers’ money at risk. ML underfunded its reserve account by
+billions of dollars through the use of trades, known internally as Leveraged Conversion Trades
+(“Trades”), that improperly used ML customer assets to finance its own activities.
+Tirrell was MLPF&S’s Head of Regulatory Reporting, which is the department responsible
+for, among other things, ensuring ML protects its customers by complying with Rule 15c3-3.
+Tirrell was also MLPF&S’s designated Financial and Operational Principal (“FinOp”), assuming
+specific and primary responsibilities for the firm’s compliance with the Rule. In these capacities,
+Tirrell and his subordinates calculated the customer reserve requirement each week. Tirrell
+knowingly reduced the amount ML reserved by billions of dollars as a result of the Trades despite
+knowing that regulators had significant unanswered questions about changes being made to the
+Trades, changes that Tirrell both approved of and failed to address with those regulators. In
+addition, he failed to accurately disclose the purpose of the Trades to regulators and repeatedly
+ignored requests from regulators for information that, if provided, would have put an abrupt end to
+the Trades. In so doing, Tirrell was reckless and negligent.
+Tirrell likewise was reckless and negligent in aiding and abetting and causing ML’s
+violations of Section 17(a)(1) of the Exchange Act and Rule 17a-5(a) thereunder as well as
+MLPF&S’s violation of Rule 17a-5(d) thereunder, which the firm violated by submitting required
+Financial and Operational Combined Uniform Single (“FOCUS”) Reports and required annual
+financial reports that consistently provided inaccurate information about ML’s reserve formula,
+and omitted required information on the Leveraged Conversion Trades.
+A.
+
+Respondent
+
+1.
+William Tirrell, age 61, is a resident of Lawrenceville, NJ and an associated person
+of broker-dealer and investment adviser MLPF&S. From 2004 until April 2016, he was the FinOp
+and Head of the Regulatory Reporting Department for MLPF&S and in that role oversaw
+regulatory reporting for MLPF&S and MLPro. Concurrent with that role, Tirrell was the Acting
+CFO of MLPF&S from August 2014 to April 2016. He holds a Series 27 license.
+
+2
+
+B.
+
+Other Entities and Individuals
+
+2.
+Merrill Lynch, Pierce, Fenner & Smith Incorporated, headquartered in New York,
+New York, is dually-registered with the Commission as a broker-dealer and investment adviser. It
+is a wholly-owned subsidiary of Bank of America Corp.
+3.
+Merrill Lynch Professional Clearing Corp., headquartered in New York, New York,
+is registered with the Commission as a broker-dealer. It is a wholly-owned subsidiary of
+MLPF&S.
+4.
+SEFT Trader was a Managing Director at MLPF&S who worked on its Structured
+Equity Financing & Trading (“SEFT”) desk from 2005 to 2012.
+C.
+
+The Customer Protection Rule
+
+5.
+Rule 15c3-3 under the Exchange Act is designed to protect broker-dealer customers
+in the event a broker-dealer becomes insolvent. The intent and objective of the Rule is:
+the elimination of the use by broker-dealers of customer funds and securities to
+finance firm overhead and such firm activities as trading and underwriting through
+the separation of customer related activities from other broker-dealer operations.
+Rule 15c3-3 Adopting Release, Exch. Rel. No. 9775, 1972 WL 125434, at *1 (Sept. 14, 1972).
+6.
+Rule 15c3-3(e) requires a broker-dealer that maintains custody of customer
+securities and cash (a “carrying broker-dealer”) to maintain a reserve of funds and/or certain
+qualified securities in an account at a bank (“Reserve Account”) that is at least equal in value to the
+net cash owed to customers. 17 CFR 240.15c3-3(e).
+7.
+The amount of net cash owed to customers is computed pursuant to a formula set
+forth in Exhibit A to Rule 15c3-3 (“Reserve Formula”), which most carrying broker-dealers
+calculate on a weekly basis. 17 CFR 240.15c3-3a. Under the Reserve Formula, the carrying
+broker-dealer adds up customer credit items that it owes its customers (e.g., cash in customer
+securities accounts) and then subtracts from that amount customer debit items that its customers
+owe it (e.g., margin loans). If credit items exceed debit items, that net amount must be deposited,
+or already be on deposit, in the Reserve Account in the form of cash and/or qualified securities. 17
+CFR 240.15c3-3(e). A broker-dealer generally cannot make a withdrawal from the Reserve
+Account until the next computation and even then only if the computation shows that the reserve
+requirement has decreased. Id. The broker-dealer must make a deposit into the Reserve Account
+if the computation shows an increase in the reserve requirement.
+8.
+If a broker-dealer owes more to its customers than its customers owe to it, the
+broker-dealer must set aside at least an amount equal to that difference so that it is readily available
+to repay customers.
+
+3
+
+9.
+FINRA’s Interpretations of Financial and Operational Rules handbook includes an
+update first issued in 1989 which states that the Commission staff has advised that any “device,
+window dressing or restructuring of transactions made solely to reduce an excess of credits over
+debits in the Rule 15c3-3 formula computation and not otherwise a normal business transaction”
+may be considered a circumvention of the Rule. FINRA Interpretations of Financial and
+Operational Rules, Rule 15c3-3(e)(2)/02 (“Interp. 15c3-3(e)(2)/02”) formerly N.Y.S.E.
+Interpretation Handbook, Vol. II, Interpretation Memo No. 89-10, Aug. 23, 1989 (Commission
+Staff to NYSE) (No. 89-11, 1989 WL 1169979, Oct. 9, 1989).
+D.
+
+Tirrell’s Role at ML and Expertise with the Customer Protection Rule
+
+10.
+Tirrell worked in MLPF&S’s Regulatory Reporting Department from November
+1980 to April 2016. The primary function of MLPF&S’s Regulatory Reporting Department is to
+maintain ML’s compliance with the Customer Protection Rule and other SEC and CFTC financial
+responsibility rules.
+11.
+During 2009 to 2012, which is when ML executed Leveraged Conversion Trades
+for the purpose of using customer money to finance firm activities, Tirrell was the Head of
+MLPF&S’s Regulatory Reporting Department and its FinOp. In those roles, Tirrell was ultimately
+responsible for supervision and performance of MLPF&S’s obligations under Rule 15c3-3, which
+included calculating the Reserve Formula each week and ensuring that there was sufficient cash
+and/or qualified securities in the Reserve Account to protect customers.
+12.
+Tirrell also was ultimately responsible for ensuring monthly FOCUS Reports filed
+with regulators by MLPF&S and MLPro were complete and accurate.
+13.
+Tirrell has many years of experience working on issues relating to Rule 15c3-3 and
+is extremely familiar the Rule’s requirements. For example, while the Leveraged Conversion
+Trades were underway, Tirrell was familiar with the Commission guidance summarized in
+paragraph 9 concerning window dressing and alerted the traders who structured the Trades to it.
+14.
+Tirrell positioned his department to further the interests of the business units of
+which the Regulatory Reporting Department served as a crucial control function. In a selfevaluation submitted in the year before he worked with others to get the Leveraged Conversion
+Trades underway for the express purpose of reducing ML’s Reserve Account balance, Tirrell
+touted his ability to “utilize the regulatory systems and skill sets for business purposes.”
+15.
+At roughly the same time that the Leveraged Conversion Trades were conceived
+and introduced, on October 8, 2008, MLPro settled charges by FINRA that the firm had repeatedly
+failed to maintain – by hundreds of millions of dollars – the minimum required amount in the
+Reserve Account. This violation should have further underscored to Tirrell the importance of
+ensuring that the Leveraged Conversion Trades were fully compliant with the Customer Protection
+Rule.
+
+4
+
+E.
+
+Tirrell Aided and Abetted and Caused ML’s Primary Violations
+
+16.
+From 2009 to 2012, ML executed a series of trades that reduced the balance of its
+Reserve Account by billions of dollars and then used those freed-up funds to finance firm
+inventory and thereby finance its business activities.
+17.
+To efficiently manage the firm’s capital, ML requires its trading desks to finance
+the securities they hold. ML makes capital available to its trading desks so that the desks can
+purchase securities, but it charges an interest rate on this capital, known as the firm’s treasury rate,
+that typically is higher than the interest that external third parties charge. To avoid being assessed
+the more expensive internal financing, a trading desk finances its positions externally through a
+repurchase agreement, stock loan, or other means. As described below, the Leveraged Conversion
+Trades used interest-free funds obtained through reductions to the Reserve Account balance to
+finance business activities.
+18.
+In 2008, ML sought to reduce the amount of cash it was required to deposit in the
+Reserve Account that it maintained for the benefit of MLPF&S’s and MLPro’s customers.
+MLPF&S’s SEFT desk developed a trade designed to introduce customer debits into the Reserve
+Formula through making solicited margin loans to certain customers, which would decrease dollarfor-dollar the amount ML was required to maintain in the Reserve Account.
+19.
+SEFT Trader conceived of the trade and was responsible for structuring it. While
+developing the trade, the SEFT desk consulted with Tirrell about the Trades’ potential impact on
+the Reserve Formula to ensure the Trades would have the desired effect on the Reserve Account
+and would not run afoul of the Rule. To help Tirrell understand the proposed Trade, the SEFT
+desk shared flow charts that described the Trades and fully responded to Tirrell’s questions and
+requests for information. Neither SEFT Trader nor other traders on the SEFT desk involved with
+structuring the Trades had responsibilities with respect to the Reserve Account or had expertise
+with Rule 15c3-3.
+20.
+Beginning in mid-2008, Tirrell helped guide the proposed trade through ML’s
+internal approval process. Tirrell advised people within ML that he did not believe that it was
+necessary to subject the proposal for the Trades to MLPF&S’s New Product Review. The firm’s
+Structured Finance Committee (“SFC”), however, reviewed them. Tirrell and SEFT Trader
+worked with the SFC during their review of the Trades.
+21.
+As originally presented to the SFC for approval, the Leveraged Conversion Trades
+were conversion trades that used listed options financed by customers through margin loans
+extended by MLPF&S or MLPro. This margin loan introduced a customer debit into the Reserve
+Formula that reduced the minimum amount ML was required to maintain on deposit in ML’s
+Reserve Account.
+22.
+In this listed conversion trade, a customer would buy a put and sell a call on a stock
+with the same strike price and expiration date. The customer would also purchase on margin the
+stock to cover the call. Because the options fully hedged the customer’s stock purchase, it was
+5
+
+insulated from market risk provided that the customer could fully cover the short position created
+by his call option. In addition to this stock borrow risk, the trade presented other risks because it
+was exposed to the market, such as pin risk, dividend risk, and early exercise risk.1
+23.
+The original version of the trade, as presented by the SEFT desk to Tirrell and to
+internal reviewers in a one page handout, expressly proposed that the trade be used to provide
+“synthetic financing” to ML through which the firm’s inventory would be used in the Trades and
+financed through the reductions to the amount deposited into the Reserve Account caused by the
+extension of the margin loan to a customer. A Leveraged Conversion Trade using listed options
+cannot finance firm inventory in situations where other market participants on the exchange are
+able to step in to take the other side of the customer’s put and call options. If the customer long
+position in that scenario is sourced from ML’s inventory, ML would lose that inventory when the
+counterparty to the conversion trade exercised its in-the-money put or call. To avoid that, under
+the trade proposed by the SEFT desk, ML would ensure that it always was the counterparty to the
+customer’s conversion trade and thereby was guaranteed to retain the inventory it used in a
+Leveraged Conversion Trade.
+24.
+Through this proposed trade, the SEFT desk was proposing to finance a customer –
+through the extension of a margin loan – so that the customer could then use the loan it received to
+provide that same financing back to ML – through the customer’s purchase of ML firm inventory
+used to cover the short. While this reciprocal financing cancels itself out, the margin loan extended
+to the customer would reduce the Reserve Account and those funds could be used – on an interestfree basis – to finance the firm inventory used in the Trade.
+25.
+As stated above, one of the primary objectives of the Reserve Account requirement
+in Rule 15c3-3 is to prevent broker-dealers from using customer assets to finance firm activities.
+In August 2008, the SFC rejected the SEFT desk’s proposal but agreed to a modified one in which
+firm inventory could be financed incidentally through a customer-driven trade, but could not be the
+impetus for the conversion trade or the terms or securities used in a trade. As reflected in a revised
+handout also shared with Tirrell, (i) the Trades would be exposed to the market, (ii) ML could take
+the other side of the Trades, but floor traders could also step in and take all or part of the Trades,
+and (iii) the customer’s long position used to cover the short would be sourced as all customer
+shorts typically were sourced by the firm, through either a borrow from an external lender, firm
+inventory, or some combination of the two. The following is the handout revised to reflect
+limitations imposed by internal reviewers:
+
+1
+
+Pin risk arises when the market price of the underlying stock at the time of the put and call’s expiration is
+close to the strike price. If this occurs, there is a risk that options may not be exercised and the customer is left with
+a large, undesired, and unhedged stock position. Dividend risk occurs when a dividend on the underlying stock is
+unexpectedly cancelled or lowered. Because the pricing of a conversion trade takes into account the anticipated
+dividend amount, any dividends paid that are less than this anticipated amount will result in a loss to the customer.
+Early exercise risk materializes when the owner of the call or put option exercises the option prior to its expiration
+date.
+
+6
+
+26.
+After executing Leveraged Conversion Trades according to the limitations imposed
+by the SFC, the SEFT desk in early 2009 renewed their request to use the Trades to finance firm
+inventory. The SEFT desk also requested to scale the Trades up so that they could reduce the
+minimum amount required to be maintained in the Reserve Account by a greater amount.
+27.
+Tirrell and others within ML, which by that time had recently been acquired by
+Bank of America Corp., sought to discuss the Leveraged Conversion Trades with staff from
+FINRA and the Commission’s Division of Trading and Markets (“T&M”).
+Tirrell Failed to Disclose the True Purpose of the Leveraged Conversion Trades to Regulators
+28.
+Tirrell and SEFT Trader presented the Leveraged Conversion Trades at a meeting
+with FINRA and T&M in August 2009. SEFT Trader answered a few technical questions about
+the Trade, and Tirrell presented the overview, discussed the regulatory implications, and fielded
+most of the questions from regulators.
+29.
+Tirrell did not describe the intended purpose and effect of the Trades to regulators.
+Rather, Tirrell presented them, consistent with the diagram above, as standard conversion trades
+that, while solicited by the firm, were executed to meet the investment objectives of ML customers.
+Tirrell, using the revised handout shown above, described the Trades to regulators. In addition to
+7
+
+explaining the bullets on the slide concerning market exposure and the use of only actively traded
+large cap stocks, Tirrell told regulators that ML’s customers took on real risk, which in Tirrell’s
+view made the Leveraged Conversion Trades like any other conversion trade.
+30.
+Tirrell did not inform FINRA or T&M, either at the August 2009 meeting or
+subsequently, that the primary purpose of the Leveraged Conversion Trades was to finance firm
+inventory.
+31.
+Had Tirrell disclosed the true purpose of the Trades, the FINRA and T&M staff
+who attended this meeting never would have allowed ML to execute them.
+32.
+Based on, among other considerations, the revised handout shown to regulators and
+representations at the meeting concerning (i) the supposed presence of real risk and economic
+substance, and (ii) the characterization of the Trades as standard conversion trades driven by
+customers’ investment objectives, the regulators did not object to the version of the Leveraged
+Conversion Trades that was presented. The trade components Tirrell and SEFT Trader presented
+at the meeting were important to the regulators. While they did not object to the Trade as
+presented, the regulators limited them by advising ML that the Trades collectively could not
+exceed a notional value of $3 billion for any given calculation period.
+33.
+Over the next year, the Leveraged Conversion Trades would lose each of the key
+attributes that had been presented to regulators by Tirrell.
+34.
+Shortly after ML met with regulators, it began using the Leveraged Conversion
+Trades to finance firm inventory in a manner inconsistent with Tirrell’s presentation to regulators.
+ML chose stocks that it had in inventory and that it otherwise would seek to finance through a
+more costly repurchase agreement or other means. ML then advised floor traders that it intended
+to take the other side of the trade and that they need not locate counterparties on the exchange. The
+margin loan extended to customers in each trade created a debit that reduced the required amount
+to be deposited into the Reserve Account by hundreds of millions and, collectively, billions of
+dollars. The cash freed from ML’s Reserve Account through this debit was used to finance the
+security sold to the Leveraged Conversion Trade customer as part of the trades.
+35.
+
+By using this interest-free cash to finance its own inventory, ML profited from the
+
+Trades.
+36.
+Once ML began using the Leveraged Conversion Trades to finance firm inventory,
+ML’s financing needs, and not the investment decisions of customers, dictated the terms of the
+Trades. As a result, the customer debits created by the Trades became purely firm driven. A
+significant portion of the Leveraged Conversion Trades were done with limited liability companies
+(“LLCs”) that were set up at ML’s behest by customers who were told they would receive fixed
+profits and had no meaningful input into the Trades. The customers received risk-free returns from
+ML, returns that ML paid the customers from the profits it obtained from reducing its Reserve
+Account balance. This was contrary to how Tirrell described the Trades to regulators in August
+2009, and was never subsequently disclosed to regulators.
+8
+
+The Trades Morphed
+37.
+SEFT Trader sought to modify the Leveraged Conversion Trades so that the SEFT
+desk had total control over each leg of each trade. As summarized below, the Trades became, with
+Tirrell’s knowledge and approval, instantaneous roundtrips with delayed settlements that kept the
+customer debit in the formula for months after the Trade was completed.
+38.
+The SEFT desk sought to use unlisted, over-the-counter (“OTC”) options. OTC
+options, which are bilateral contracts directly between the LLC and ML, would eliminate exposure
+to the listed option market and the risks that come with it.
+39.
+Before the SEFT desk took any steps toward this change, it consulted with and
+requested permission from Tirrell.
+40.
+In December 2009, Tirrell emailed FINRA staff to advise them that the SEFT desk
+“would like to [] use unlisted options as it provides greater flexibility” and that these proposed
+Trades “would still be written on large Cap stocks.” “I don’t see this as a material change to the
+current arraingement [sic],” Tirrell stated in the email, “but wanted to ensure you are in
+agreement.” Tirrell attached to his email the outdated transaction diagram that had previously been
+presented to regulators.
+41.
+FINRA staff responded to Tirrell by email on January 11, 2010 by asking him for
+“clarifications in writing to the SEC and FINRA” regarding “the difference in transactions as
+compared to [ML’s] last proposal”; “regulatory impacts, if any, aside from the margin
+requirements,” and the rationale for why this version of the Leveraged Conversion Trades should
+be allowed to have a similar impact on the Reserve Formula.
+42.
+Tirrell did not provide the requested information. The SEFT desk obtained internal
+approval from Tirrell and others for Leveraged Conversion Trades using OTC options. Within
+ML, only Tirrell knew at the time about FINRA staff’s questions posed in the January 2010 email.
+43.
+With the OTC version of the Leveraged Conversion Trades, ML had the ability to
+make structural changes that could not have been achieved with the version of the Trades using
+listed options.
+44.
+During the structuring and testing of the OTC version of the Leveraged Conversion
+Trades, which took place from January 2010 to when they began to be executed in September
+2010, the SEFT desk sent Tirrell presentations detailing the proposed transaction structure and the
+economics of the proposed OTC Trade and requested to meet with him to walk him through those
+presentations.
+45.
+After an insufficient examination of the proposed differences in the transaction
+structure, Tirrell did not disclose them to the FINRA staff who specifically requested that he
+explain such differences. These failures to disclose important changes to the Trades prevented
+regulators from receiving information that would have instantly prompted them to prohibit ML
+from moving forward.
+9
+
+46.
+A significant difference in the transaction structure of the OTC version was the use
+of delayed settlements. Under this new structure, the Trades involved the sale and instantaneous
+repurchase of securities and a put and a call that expired on the trade date. ML also delayed the
+settlement of the return sale of the securities for weeks and, in some cases, months. ML used this
+delayed settlement as a justification for keeping the purported customer debit in the Reserve
+Formula for the entire period until securities settled.
+47.
+A MLPro senior executive became concerned about the use of a delayed settlement
+in this proposal and escalated his concerns to Tirrell and others. Tirrell gave ultimate approval to
+the use of this feature.
+48.
+As with the use of OTC options and other departures from his earlier presentation
+to regulators, Tirrell did not inform FINRA of ML’s use of delayed settlements. The FINRA and
+T&M staff who were present at the August 2009 meeting view this change as extremely important.
+In their view, under this undisclosed revised structure, the customer is flat on day one, and the
+margin loan is not financing any customer activity and therefore the customer debit created by that
+margin loan is not legitimate.
+49.
+Tirrell also knew ML was further delaying already substantially delayed settlements
+if it suited firm needs. In other words, the delayed settlement date was repeatedly further delayed
+so long as ML desired. Still, Tirrell did not disclose this difference in the transaction structure to
+FINRA and T&M, who were both under the mistaken impression that customer, not firm,
+objectives drove the Trades.
+50.
+Another difference with this version of the Trade relates to the prices used.
+Because the prices used for OTC options are not reported and are not exposed to the market, ML
+could depart from the prevailing market price of the securities and reverse engineer prices, often at
+off-market levels, to achieve a precise amount of compensation for the counterparty participating
+in the Trades. Again, Tirrell did not disclose this change to FINRA despite the focus on market
+exposure at the August 2009 meeting.
+51.
+Tirrell also learned that the SEFT desk sought to depart from ML’s assurance that it
+would only use large cap stocks. By moving to OTC options, which can be written on any
+security, ML could diverge from Tirrell’s representation to regulators made in August 2009 and
+reiterated in his December 2009 email that ML would use only actively traded large cap stocks.
+As discussed below, using OTC options allowed ML to use customer money to finance certain of
+its less liquid positions like convertible bonds. During this period, the convertible bond market
+was especially illiquid. Liquidating these securities would have taken a period of time during
+which customers would not have been able to access their accounts. Also, a liquidation of a large
+amount of convertible bonds into an already illiquid market would likely be achieved only by
+selling them at a significant discount. Consequently, this modification to the Trades exposed ML
+customers to substantial market risk in the event ML failed. Tirrell once again failed to disclose
+this modification to regulators.
+
+10
+
+52.
+Tirrell had access to the SEFT desk and to information about the Trades, even as
+they evolved over time. In seeking Tirrell’s approval of changes made to the Trades, SEFT Trader
+and others on the SEFT desk timely provided Tirrell with information about the Trades and
+responded to questions he asked and requests he made.
+53.
+In the OTC iteration of the Trades, which lasted from approximately September
+2010 to April 2012, ML reduced the minimum amount required in its Reserve Account by up to $5
+billion per week through Leveraged Conversion Trades.
+54.
+While failing to provide the requested differences in transaction structure to FINRA
+staff, Tirrell was diligent in obtaining regulatory approval to expand the monetary limits applicable
+to the Trades. After repeated follow-up by Tirrell, the regulators granted ML’s request to expand
+the size of the Leveraged Conversion Trades, as they understood them based on the August 2009
+meeting, from $3 billion to $5 billion.
+55.
+From August 2009 to April 2012, Tirrell and those under his supervision
+improperly included purported customer debits in ML’s Reserve Formula. During this period,
+ML’s Reserve Account balance ranged from approximately $7.6 to $12.8 billion; therefore, ML
+was able to reduce the customer money it deposited into its Reserve Account by approximately
+28% to 40%. Including the improper debits arising from the Trades in the Reserve Formula
+caused MLPF&S and MLPro to misreport the aggregate amount of customer debits in monthly
+FOCUS Reports throughout the life of the Trades.
+Tirrell Did Not Keep Regulators Apprised Through Required Regular Reports
+56.
+At the August 2009 meeting with FINRA and T&M, and in a subsequent email
+confirming the takeaways from that meeting, Tirrell agreed to provide details on executed
+Leveraged Conversion Trades in its FOCUS Reports that MLPF&S and MLPro each submit to
+FINRA and the Commission monthly.
+57.
+MLPF&S did not, however, provide details relating to its Leveraged Conversion
+Trade activity in any monthly FOCUS Reports filed in 2009, 2010, or 2011. And, aside from one
+FOCUS Report filed in September 2009, MLPro similarly failed to provide this information from
+2009 to 2012. During this period, FINRA’s monitoring of information pertaining to ML’s Reserve
+Account led it to conclude that Leveraged Conversion Trades were being executed. FINRA staff
+raised this suspicion to Tirrell, who confirmed it and assured FINRA staff that FOCUS Reports
+would contain information on Leveraged Conversion Trades going forward. Despite Tirrell’s
+assurance, ML continued to fail to provide this information for years.
+58.
+Monthly FOCUS Reports as well as MLPF&S annual reports signed by Tirrell filed
+while Leveraged Conversion Trades were being executed were inaccurate because they contained
+information on the computation of the Reserve Account that took into account billions of dollars in
+improper customer debits generated from the Trades.
+
+11
+
+ML Halted All Leveraged Conversion Trades
+59.
+In early 2012, a new co-head of the business unit that included the SEFT desk
+learned of the Leveraged Conversion Trades and became concerned about whether they complied
+with the Customer Protection Rule. Around the same time, a member of the SFC who initially
+reviewed the Trades learned about the OTC version and similarly became concerned. After the cohead discussed the OTC version of the Trades with the SEFT desk, this SFC member, and others
+within ML, the firm retained external counsel to review the Leveraged Conversion Trades.
+60.
+ML thereafter changed two practices associated with the Trades. First, ML had the
+LLCs sign OTC contracts for all of their OTC Leveraged Conversion Trades that attempted to
+retroactively create the OTC options that had expired many months ago and that were used in
+Trades that had already been fully executed. Second, after years of failing to report Leveraged
+Conversion Trades in FOCUS Reports, both MLPF&S and MLPro began submitting the required
+information in their respective FOCUS Reports for the months January 2012 through April 2012.
+61.
+In April 2012, ML prohibited the SEFT desk from executing any new Leveraged
+Conversion Trades. Tirrell was aware of the review of the Trades and aware that ML changed its
+practices associated with the trades, but neither Tirrell, nor anyone else at ML, provided any
+information relating to the circumstances of the discontinuation of the Leveraged Conversion
+Trades in 2012 to the regulators.
+The Effect of the Leveraged Conversion Trades
+62.
+ML conceived of and executed the Leveraged Conversion Trades during an
+extremely precarious period of time in the financial markets. By using up to $5 billion in customer
+money to finance proprietary trading activity, ML failed to maintain the required minimum amount
+in its Reserve Account during this period.
+63.
+By using customer cash to finance firm inventory, ML made approximately $50
+million in profits through the Leveraged Conversion Trades, which represents the amount the firm
+saved by using interest-free customer money to finance its inventory rather than doing so through
+other means such as repurchase agreements.
+IV.
+Violations
+As a result of the conduct described above, Tirrell (a) willfully aided and abetted and
+caused MLPF&S’s and MLPro’s violations of Section 15(c)(3) of the Exchange Act and Rule
+15c3-3 thereunder which, inter alia, require carrying broker-dealers to maintain a reserve of funds
+or qualified securities in an account at a bank that is at least equal in value to the net cash owed to
+customers, (b) willfully aided and abetted and caused MLPF&S’s and MLPro’s violations of
+Section 17(a)(1) of the Exchange Act and Rule 17a-5(a) thereunder which, inter alia, require
+broker-dealers to file monthly FOCUS Reports, and MLPF&S’s violations of Section 17(a)(1) of
+the Exchange Act and 17a-5(d) (as it existed prior to amendments to Rule 17a-5 in 2014)
+12
+
+thereunder which, inter alia, require broker-dealers to file annual financial reports and supporting
+schedules, and (c) willfully caused to be made in a report required to be filed with the Commission
+a statement that was false or misleading with respect to a material fact.
+V.
+In view of the allegations made by the Division of Enforcement, the Commission deems it
+necessary and appropriate in the public interest that public administrative and cease-and-desist
+proceedings be instituted to determine:
+A.
+Whether the allegations set forth in Section II hereof are true and, in connection
+therewith, to afford Respondent an opportunity to establish any defenses to such allegations;
+B.
+What, if any, remedial action is appropriate in the public interest against Respondent
+pursuant to Section 15(b)(6) of the Exchange Act including, but not limited to, civil penalties
+pursuant to Section 21B(a) of the Exchange Act;
+C.
+What, if any, remedial action is appropriate in the public interest against Respondent
+pursuant to Section 203(f) of the Advisers Act;
+D.
+What, if any, remedial action is appropriate in the public interest against Respondent
+pursuant to Section 9(b) of the Investment Company Act; and
+E.
+Whether, pursuant to Section 21C of the Exchange Act, Respondent should be
+ordered to cease and desist from committing or causing violations of and any future violations of
+Sections 15(c)(3) and 17(a)(1) of the Exchange Act and Rules 15c3-3, 17a-5(a), and 17a-5(d)
+thereunder, and whether Respondent should be ordered to pay a civil penalty pursuant to Section
+21B(a) of the Exchange Act.
+VI.
+IT IS ORDERED that a public hearing for the purpose of taking evidence on the questions
+set forth in Section III hereof shall be convened not earlier than 30 days and not later than 60 days
+from service of this Order at a time and place to be fixed, and before an Administrative Law Judge
+to be designated by further order as provided by Rule 110 of the Commission's Rules of Practice, 17
+C.F.R. § 201.110.
+IT IS FURTHER ORDERED that Respondent shall file an Answer to the allegations
+contained in this Order within twenty (20) days after service of this Order, as provided by Rule 220
+of the Commission's Rules of Practice, 17 C.F.R. § 201.220.
+If Respondent fails to file the directed answer, or fails to appear at a hearing after being duly
+notified, the Respondent may be deemed in default and the proceedings may be determined against
+him upon consideration of this Order, the allegations of which may be deemed to be true as
+13
+
+provided by Rules 155(a), 220(f), 221(f) and 310 of the Commission's Rules of Practice, 17 C.F.R.
+§§ 201.155(a), 201.220(f), 201.221(f) and 201.310.
+This Order shall be served forthwith upon Respondent as provided for in the Commission’s
+Rules of Practice.
+IT IS FURTHER ORDERED that the Administrative Law Judge shall issue an initial
+decision no later than 300 days from the date of service of this Order, pursuant to Rule 360(a)(2) of
+the Commission’s Rules of Practice.
+In the absence of an appropriate waiver, no officer or employee of the Commission engaged
+in the performance of investigative or prosecuting functions in this or any factually related
+proceeding will be permitted to participate or advise in the decision of this matter, except as witness
+or counsel in proceedings held pursuant to notice. Since this proceeding is not “rule making” within
+the meaning of Section 551 of the Administrative Procedure Act, it is not deemed subject to the
+provisions of Section 553 delaying the effective date of any final Commission action.
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+14
+
+

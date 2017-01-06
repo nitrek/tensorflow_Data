@@ -1,0 +1,662 @@
+SECURITIES AND EXCHANGE COMMISSION
+(Release No. 34-78941; File No. 600-36)
+September 27, 2016
+Self-Regulatory Organizations; LCH SA; Notice of Filing of Application for Registration as a
+Clearing Agency and Request for Exemptive Relief
+I.
+
+Introduction
+On July 5, 2016, Banque Centrale de Compensation, which conducts business under the
+
+name LCH SA (“LCH SA”) filed with the Securities and Exchange Commission
+(“Commission”) a Form CA-1 seeking registration as a clearing agency under Section 17A of the
+Securities Exchange Act of 1934 1 (“Act”) and Rule 17Ab2-1 thereunder. 2 Specifically, LCH SA
+is seeking to provide central counterparty (“CCP”) services for U.S. persons for security-based
+swaps, in particular single-name credit default swaps (“CDS”), through its CDSClear business
+unit. LCH SA also is seeking exemptive relief (i) from Sections 5 and 6 of the Act 3 with respect
+to its end-of-day pricing process; (ii) from Section 19(b) of the Act 4 and Rule 19b-4 thereunder 5
+with respect to filing certain proposed rule changes relating to its non-U.S. business; (iii) from
+Rules 17Ad-22(c)(2) and 17Ad-22(c)(2)(iii) 6 with respect to its annual audited financial
+statements; and (iv) Rule 17a-22 7 with respect to requirements to provide the Commission with
+
+1
+
+15 U.S.C. 78q-1.
+
+2
+
+17 CFR 240.17Ab2-1(a).
+
+3
+
+15 U.S.C. 78e and 78f.
+
+4
+
+15 U.S.C. 78s(b).
+
+5
+
+17 CFR 240.19b-4.
+
+6
+
+17 CFR 240.17Ad-22(c)(2) and 17 CFR 240.17Ad-22(c)(2)(iii).
+
+7
+
+17 CFR 240.17a-22.
+
+physical copies of certain materials. 8 The Commission is publishing this notice to solicit
+comments from interested persons regarding LCH SA’s Form CA-1 and Request for Exemptive
+Relief. 9 The Commission will consider any comments it receives in making its determination of
+whether to grant LCH SA’s application for registration as a clearing agency and Request for
+Exemptive Relief.
+II.
+
+LCH SA Form CA-1 Application
+LCH SA’s Form CA-1 application and accompanying exhibits contain information
+
+regarding LCH SA and its CDSClear operations. 10 Set forth below is a summary of certain
+aspects of LCH SA’s Form CA-1 application.
+A. Overview of LCH SA
+LCH SA maintains its principal office in Paris, France and is a wholly-owned subsidiary
+of LCH.Clearnet Group Limited (“LCH Group”), a limited company incorporated under the laws
+of England and Wales. 11 LCH Group is majority owned by the London Stock Exchange Group
+
+8
+
+See Letter from Christophe Hémon, CEO, LCH SA, to Brent J. Fields, Secretary,
+Securities and Exchange Commission (August 9, 2016) (hereinafter “Request for
+Exemptive Relief”).
+
+9
+
+The descriptions set forth in this notice regarding the structure and operations of LCH SA
+have been derived from information contained in LCH SA’s Form CA-1 application. The
+application and exhibits thereto for which LCH SA has not requested confidential
+treatment are available on the Commission’s Web site at www.sec.gov/rules/other.shtml.
+
+10
+
+Schedule A to LCH SA’s Form CA-1 includes a description of the risk management
+procedures utilized by LCH SA. Exhibit A contains information about the ownership and
+governance structure of LCH SA. Exhibit B contains a list of LCH SA’s officers and
+senior managers of LCH SA and the CDSClear business unit. Exhibit C includes a
+narrative and graphic descriptions of LCH SA’s organizational structure. Exhibit E
+includes copies of the CDS Clearing rulebook, procedures and articles of association.
+Exhibit J provides a description of CDSClear’s services and functions.
+
+11
+
+See LCH SA Form CA-1, Exhibit A at 1.
+
+2
+
+plc (“LSEG”). In its home jurisdiction, LCH SA is the only CCP in France and is regulated as a
+bank and a CCP under French law by the Autorité des Marchés Financiers, Autorité de Contrôle
+Prudentiel et de Résolution, and Banque de France. 12 In addition, LCH SA is a CCP authorized
+to offer clearing services in the European Union pursuant to the European Market Infrastructure
+Regulation (“EMIR”) and also is registered with the CFTC as a derivatives clearing organization
+(“DCO”) to provide clearing services for broad-based index CDS to U.S. members and their
+customers. 13
+LCH SA offers clearing services for derivatives, exchange-traded futures and options,
+cash equities and fixed income and energy instruments through three lines of CCP services:
+EquityClear, CommodityClear, and RepoClear. 14 These services constitute LCH SA’s “nonU.S. business” in that they operate entirely outside the United States and do not have any U.S.
+clearing members. LCH SA’s CDS clearing services are located in the CDSClear business unit.
+While all clearing services are provided from within the same legal entity, CDSClear is “ringfenced” as it has its own rulebook, policies and procedures, risk management framework, risk
+management personnel, default fund, waterfall, default management process, operations
+department, and certain information technology resources. 15 Registration with the Commission
+as a clearing agency would permit LCH SA to offer single-name CDS clearing services to U.S.
+persons through its CDSClear business unit. LCH SA currently offers index CDS and single-
+
+12
+
+See generally, LCH SA Form CA-1, Exhibit J-3 (LCH SA CDSClear Service
+Description) Section 2.3.
+
+13
+
+Id.
+
+14
+
+See generally, LCH SA Form CA-1, Exhibit C.
+
+15
+
+See generally, LCH SA Form CA-1, Exhibit C.
+
+3
+
+name CDS clearing services to non-U.S. persons in Europe and is authorized to offer index CDS
+clearing services to U.S. clearing members and their customers under its DCO registration.
+B. LCH SA Membership Standards and Enforcement of Rules
+1. Membership Standards
+LCH SA has established requirements concerning membership. These requirements are
+used to accept, deny, or condition any person’s participation in LCH SA’s clearing services as a
+member and include standards for financial responsibility, operational capacity, business
+experience, and creditworthiness. 16 Members must comply with these requirements on an
+ongoing basis. 17
+With respect to financial responsibility, LCH SA’s rulebook contains net capital
+requirements that, among other things, establish minimum net capital requirements for members
+that may be scalable based on the risk the members introduce to LCH SA. Regarding
+operational capacity and business experience requirements, a member must be able to
+demonstrate that it has sufficient expertise in clearing activities, that its systems and operations
+are sufficiently reliable and capable of supporting the performance of the member in meeting its
+obligations (including having sufficient facilities, equipment, personnel, hardware and software
+systems), and that it has appropriate banking arrangements. 18 To assess a member’s
+
+16
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA CDS Rule Book) Section
+2.2.1.
+
+17
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA CDS Rule Book) Section
+2.2.2.
+
+18
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA CDS Rule Book) Section
+2.2.1.
+
+4
+
+creditworthiness, LCH SA uses an internal credit scoring framework to determine the member’s
+credit risk based on financial and qualitative factors. 19
+LCH SA imposes several monitoring and reporting obligations on its members to ensure
+ongoing compliance with its membership obligations. LCH SA monitors on an ongoing basis
+certain indicators of its members, including CDS spreads, long-term credit ratings, and equity
+returns. Each member is required to notify LCH SA in writing of material changes to itself or its
+operations, such as changes in the direct or indirect controlling ownership, reduction in capital of
+more than 10%, the occurrence of insolvency proceedings, the default of any of the member’s
+clients, and any change to the member’s systems or operations that materially impact the
+member’s ability to meet its obligations as a member. Furthermore, members are required to
+provide to LCH SA audited financial statements on an annual basis, as well as interim financial
+statements during the course of the year. 20
+2. Capacity to Enforce Rules and Discipline Members
+LCH SA has established rules to monitor for members’ breaches of its rules, enforce its
+rules, and discipline members. Additionally, as noted above, CDSClear members are required to
+notify LCH SA of certain breaches relating to financial or operational capacity, and are required
+to submit to inspections and audits by LCH SA. 21 In the event that a member breaches its
+obligations, LCH SA may impose certain risk-reducing measures, including restricting a
+
+19
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA CDS Rule Book) Section
+2.2.4.1.
+
+20
+
+See generally, LCH SA Form CA-1, Schedule A at 9; See also Exhibit E-4 (LCH SA
+CDS Rule Book) Sections 2.3.1 and 2.3.2.
+
+21
+
+See generally LCH SA Form CA-1, Exhibit E-4 (LCH SA CDS Clearing Rule Book)
+Section 2.3.3.
+
+5
+
+member’s ability to submit additional transactions for clearing, or impose disciplinary sanctions,
+such as fines or public censure. 22 LCH SA also may suspend or terminate the membership in
+certain circumstances such as upon a member’s material breaches of its obligations, upon
+suspension or termination of a member’s membership in another clearing house, or upon the
+occurrence of an event that materially impacts the member’s ability to meet its obligations under
+relevant membership agreements. 23
+LCH SA also has established pre-defined procedures for the disciplining of members and
+for affording a member or a person with respect to the CDSClear services the opportunity to
+dispute a decision by LCH SA to discipline the member or to deny, prohibit, or limit the person’s
+access to the CDSClear services. These disciplinary proceedings set forth procedures regarding
+investigations of a member by LCH SA, which require LCH SA to send a written notice to the
+member regarding the details of the investigation and an opportunity for the member to object.
+Following an investigation, LCH SA must provide a written report of its findings to the member
+and, where LCH SA has determined to impose disciplinary proceedings, form a disciplinary
+committee and provide the member the opportunity to respond to the report. The disciplinary
+committee is required to provide the member with notice of its decision and any sanctions
+imposed. Members are permitted to dispute the decision and imposition of sanctions, and to
+submit such dispute to arbitration or litigation, as applicable. 24
+
+22
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA Rulebook) Section 2.4.1; and
+Exhibit E-6.8 (LCH SA CDS Clearing Proceedings, Section 8: Disciplinary Proceedings)
+Section 8.4.
+
+23
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA Rulebook) Section 2.4.1.1.
+
+24
+
+See generally, LCH SA Form CA-1, Exhibit E-6.8 (LCH SA CDS Clearing Procedures,
+Section 8: Disciplinary Proceedings).
+
+6
+
+C. Governance
+LCH SA is governed by its board of directors, which determines LCH SA’s business
+strategies and oversees implementation of those strategies. The Terms of Reference of LCH
+SA’s Board of Directors require the board to be composed of between 3 and 18 members, and
+must include a non-executive chair; executive directors; independent non-executive members; at
+least one director representing LSEG; and a director nominated by a user of LCH SA. 25
+LCH SA has an audit committee tasked with determining whether LCH SA management
+has put in place adequate internal control systems and assisting the board in reviewing LCH
+SA’s audited financial statements, regulatory compliance, risk governance framework, internal
+control environment and information security and business continuity plans. 26 LCH SA also has
+established a risk committee to consider LCH SA’s risk appetite, tolerance and strategy. The
+risk committee reviews on an annual basis LCH SA’s operational risk policy and regularly
+reviews reports prepared by LCH SA’s risk management department. 27 Representatives of
+members and customers are directly represented on the Risk Committee. 28
+In addition to these internal governance structures, LCH SA also has a process for
+considering external views regarding certain aspects of its CDSClear service. Specifically, when
+considering a material change to the CDSClear service, LCH SA engages certain banks (some of
+25
+
+See generally, LCH SA Form CA-1, Exhibit A; and Exhibit A.2 (LCH SA Terms of
+Reference of the Board of Directors) Section 1.
+
+26
+
+See generally, LCH SA Form CA-1, Exhibit A-5 (LCH SA Terms of Reference of the
+Audit Committee of the Board of Directors) Section 1.
+
+27
+
+See generally, LCH SA Form CA-1, Exhibit A-4 (LCH SA Terms of Reference of the
+Risk Committee of the Board of Directors).
+
+28
+
+See generally, Exhibit A-2 (LCH SA Terms of Reference of the Risk Committee of the
+Board of Director) Section 1.1.
+
+7
+
+which are members), which also bear part of the cost of developing and operating CDSClear, in a
+consultative process where such banks may provide recommendations to LCH SA. Ultimately,
+LCH SA maintains authority for operating CDSClear, and may choose to not implement any
+recommendations. 29
+D. Safeguarding of Securities and Funds
+1. Margin
+LCH SA employs a risk-based margin methodology specific to its CDSClear service to
+calculate its exposures to CDSClear members and to set initial margin requirements. 30
+Specifically, LCH SA uses a Value at Risk (“VaR”) model to calculate member margin
+requirements sufficient to cover losses under normal market conditions with a 99.7% confidence
+interval. The margin model takes into account a variety of risks, including changes to credit
+spreads, recovery rates, and interest rates. In addition to its initial margin requirements, to
+manage the risk of price fluctuations occurring in a member’s open position, LCH SA and
+members are required to make cash payments to meet a variation margin requirement. 31 LCH
+SA performs an independent model validation annually. In addition to margin requirements
+derived from its model, LCH SA imposes margin requirements on members to address position
+
+29
+
+See generally, LCH SA Form CA-1, Exhibit A
+
+30
+
+See generally, LCH SA Form CA-1, Exhibit H-1 (LCH SA Audited Financial Statements
+for the Year Ended 31 December 2015) at 18.
+
+31
+
+See generally, LCH SA Form CA-1, Exhibit H-1 (LCH SA Audited Financial Statements
+for the Year Ended 31 December 2015) at 18; See also, LCH SA Form CA-1, Exhibit E-4
+(CDS Clearing Rule Book) Section 4.2.5; and Exhibit E-6 (LCH.Clearnet SA CDS
+Clearing Procedures, Section 2 – Margin and Price Alignment Interest).
+8
+
+concentrations, wrong way risk, and illiquid positions. LCH SA also requires additional margin
+from members with lower credit standing. 32
+LCH SA requires each member to post collateral to satisfy its margin requirement to
+allow LCH SA to manage its risk exposure. LCH SA limits the collateral that is eligible to cash
+and securities with low credit, liquidity, and market risk, and applies haircuts to collateral posted
+in the form of securities. 33
+2. Default Fund
+Apart from its initial and variation margin requirements, LCH SA has established a
+mutualized default fund exclusively for the CDSClear service and keeps it separate from the
+default funds for LCH SA’s other services. 34 The default fund is only available for use to cover
+losses as a result of, and following, an event of default with respect to a member. LCH SA sizes
+the default fund to cover the theoretical losses associated with the default of the largest two
+members in extreme but plausible market conditions plus an additional buffer. 35 Each clearing
+member is required to contribute to the default fund in an amount that is the greater of the
+clearing member’s proportionate share of the total default fund based on the margin requirements
+
+32
+
+See generally, LCH SA Form CA-1, Exhibit H-1 (LCH SA Audited Financial Statements
+for the Year Ended 31 December 2015) at 18; and Exhibit J-3 (CDSClear Service
+Description) Section 9.1.
+
+33
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (CDS Clearing Rule Book) Sections
+4.2.6.3 and 4.2.6.4; See also, LCH SA Form CA-1, Exhibit E-6.3 (LCH SA CDS
+Clearing Procedures Section 3 – Collateral and Cash Payment) Section 3.9.
+
+34
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA CDS Clearing Rule Book)
+Article 4.4.1.1.
+
+35
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA CDS Clearing Rule Book)
+Sections 4.4.1.1 and 4.4.1.2.
+
+9
+
+related to positions held in the CDSClear service, or the minimum contribution of €10 million.36
+LCH SA calibrates its default fund, and member default fund requirements, on a monthly basis. 37
+LCH SA’s Risk Committee reviews results of stress testing related to the CDSClear default fund
+on at least a quarterly basis. 38
+3. Investment and Liquidity Risk Management
+To appropriately manage cash collateral posted by members to satisfy margin and default
+fund requirements, LCH SA has an investment risk policy that is designed to ensure that
+collateral is invested securely. LCH SA’s policies require investments be made with
+counterparties that meet certain minimum credit standards (based on LCH SA’s internal credit
+assessment). 39
+LCH SA monitors and measures liquidity resources and requirements for the entity as a
+whole, and calculates its liquidity needs daily. In addition to the cash collateral it holds and its
+capital as immediate liquidity resources, during liquidity stress events, LCH SA also can access
+French central bank liquidity through the Banque de France and also maintains other secured
+financing facilities. 40
+
+36
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA CDS Clearing Rule Book)
+Article 4.4.1.3.
+
+37
+
+See generally, LCH SA Form CA-1, Exhibit J-3 (LCH SA CDSClear Service
+Description) Section 11.1.
+
+38
+
+See generally, Exhibit A-4 (LCH SA Terms of Reference of the Risk Committee of the
+Board of Directors) Section 9.1.
+
+39
+
+See generally, LCA SA Form CA-1, Exhibit H-1 (LCH SA Audited Financial Statements
+for the Year Ended 31 December 2015) at 20.
+
+40
+
+See generally, LCH SA Form CA-1, Exhibit H-1 (LCH SA Audited Financial Statements
+for the Year Ended 31 December 2015) at 23-24.
+
+10
+
+4. Default Management Process
+To manage losses incurred in the event of a member default, LCH SA’s default
+management process sets forth the steps LCH SA would take in the event of such an
+occurrence. 41 Upon the declaration of an event of default, LCH SA’s default management
+process begins to minimize losses and disruption by attempting to hedge against market risk and
+transfer client positions to non-defaulting members, and to dispose of the defaulting member’s
+portfolio through a competitive auction process within the five-business-day default management
+process period. 42 Default losses resulting from a CDSClear member’s default can be covered
+only by using the financial resources collected for CDSClear pursuant to the default waterfall. 43
+Under the default waterfall, the defaulting member’s initial margin, variation margin and
+additional margins are first used to cover losses. If these resources are insufficient to cover the
+losses, the defaulting member’s default fund contribution is applied. To the extent that losses are
+still not covered, LCH SA would use a portion of its own capital (in the amount established in
+the CDSClear default waterfall pursuant to the CDSClear rulebook) to cover remaining losses. If
+losses exceed the financial resources used up to this point, LCH SA may then access the default
+fund contributions of non-defaulting members and also may impose additional default fund
+contribution assessments against non-defaulting members. If pre-funded resources and
+assessments are insufficient to cover losses within a five business-day period, LCH SA may
+
+41
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA CDS Clearing Rule Book,
+Appendix 1 “CDS Default Management Process”).
+
+42
+
+See generally, LCH SA Form CA-1, Schedule A at 10-11; see also Exhibit E-4 (LCH SA
+CDS Clearing Rule Book) Appendix 1, Section 2.1.
+
+43
+
+See generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA CDS Clearing Rule Book)
+Section 4.4.1.
+
+11
+
+impose, on a pro rata basis, reductions in daily settlement payments owed to non-defaulting
+members (“variation margin haircutting”), subject to certain limits. The entire default
+management process, including the use of variation margin haircutting, is intended to be
+completed within five business days following the declaration of a default. 44 At any time during
+the default management process, if LCH SA determines that it would not have sufficient
+resources to meet obligations arising from the default auction or auctions in accordance with its
+default waterfall, LCH SA must early terminate all open contracts and proceed to wind down the
+CDSClear service pursuant to the terms set forth in its Rulebook. 45
+E. Business Continuity
+LCH SA maintains a business continuity plan as a part of the LCH Group’s business
+continuity model, which is designed to recover core clearing services within a two-hour period
+following a point of failure and to enable LCH SA to perform end-of-day settlement of
+transactions on the same business day. The business continuity plan includes policies and
+procedures regarding threat assessment and monitoring, and anticipated responses in the event
+that such threats materialize, including the switching over to alternative systems and secondary
+sites. 46
+F. Fee Structure
+
+44
+
+See generally, LCH SA Form CA-1, Exhibit J-3 (CDSClear Service Description) Section
+11.2.
+
+45
+
+See Generally, LCH SA Form CA-1, Exhibit E-4 (LCH SA CDS Clearing Rule Book)
+Appendix 1, Clause 2.1.4 and 8.1.
+
+46
+
+See generally, LCH SA Form CA-1, Exhibit K-2 (Group Business Continuity
+Management Policy).
+
+12
+
+LCH SA charges transaction fees linked to products and annual membership fees, which
+are generally usage-based and apply equally to all members using LCH SA’s CDSClear service.
+LCH SA also imposes annual account structure fees for individually segregated accounts and
+omnibus segregated accounts. 47
+III.
+
+Requests for Exemptive Relief
+A. Exemptive Relief from Sections 5 and 6 of the Act
+LCH SA requests exemptive relief from the requirements of Sections 5 and 6 of the Act
+
+with respect to its “forced trade” mechanism that is used in the calculation of mark-to-market
+prices for open positions in cleared single-name CDS and exemptive relief for each of its
+CDSClear members from the requirements of Section 5 of the Act with respect to their
+participation in the “forced trade” mechanism. 48 LCH SA represents that, as part of its clearing
+and risk management processes for single-name CDS, it would compute the end-of-day
+settlement price for each contract in which any of its members has a cleared position, based on
+off-market prices submitted by its members and use those prices to establish a daily mark on
+which to base margin calculations. To promote the integrity of these price submissions, LCH SA
+would employ a “forced trade” mechanism pursuant to which its members would be required to
+execute CDS trades based on their price submissions. 49
+LCH SA states that, absent an exemption, this activity would cause LCH SA’s “forced
+trade” mechanism to meet the criteria of Rule 3b-16 under the Act 50 and, as a result, would
+47
+
+See generally LCH SA Form CA-1, Exhibit Q.
+
+48
+
+See Request for Exemptive Relief, at 2.
+
+49
+
+See Request for Exemptive Relief, at 3-4.
+
+50
+
+17 CFR 240.3b-16.
+13
+
+require it to either register with the Commission as a national securities exchange under Sections
+5 and 6 of the Act or obtain an exemption from registration. Additionally, any member that is a
+broker or dealer would not be permitted to use any facility of an exchange or to effect any
+transaction in a security, or to report any such transaction, unless the exchange were registered as
+a national securities exchange or an exemption were available. 51
+B. Exemptive Relief from Section 19(b) of the Act and Rule 19b-4 Thereunder
+LCH SA requests exemptive relief from the requirements of Section 19(b) of the Act and
+Rule 19b-4 thereunder with respect to filing certain proposed rule changes that (i) primarily
+affect its clearing operations with respect to the non-U.S. business and (ii) do not significantly
+affect any CDSClear operations or any rights or obligations of LCH SA with respect to the
+CDSClear services or persons using such services. 52 LCH SA states that the rule filing
+requirements under Section 19(b) of the Act and Rule 19b-4 thereunder do not adequately
+consider circumstances in which a foreign clearing agency that is registered with the CFTC for
+the purposes of clearing index CDS (which are swaps) and with the Commission for the purpose
+of clearing single-name CDS (which are security-based swaps). Specifically, such foreign
+clearing agencies may have completely offshore businesses that provide clearing services to nonU.S. persons outside of the United States that would not otherwise implicate the Commission’s
+registration requirements under the Act (nor those of the CFTC under the Commodity Exchange
+Act). 53 As a condition of this requested relief, LCH SA has represented that it would provide
+
+51
+
+See Request for Exemptive Relief at 4.
+
+52
+
+See Request for Exemptive Relief at 2-3.
+
+53
+
+See Request for Exemptive Relief at 5-12.
+14
+
+notice of its non-U.S. business rule changes to Commission staff once duly approved by its
+national competent authorities in lieu of filing such changes under Section 19(b) and Rule 19b-4.
+C. Exemptive Relief from Rules 17Ad-22(c)(2) and 17Ad-22(c)(2)(iii)
+LCH SA requests exemptive relief from the requirements of Rule 17Ad-22(c)(2) and
+Rule 17Ad-22(c)(2)(iii) with respect to its financial statements for fiscal years 2014 and 2015. 54
+LCH SA represents that pursuant to the listing rules to which its indirect parent company LSEG
+is subject LCH SA is not permitted to publish its own financial statements prior to the
+publication of LSEG’s financial statements. 55 Given the scope of LSEG’s business activities,
+LCH SA represents that it is unlikely that LSEG would be able to publish its financial statements
+within 60 days of the end of its fiscal year, nor would LCH SA have control over when such
+financial statements would ultimately be published. 56
+In addition, LCH SA represents that it currently prepares its financial statements in
+accordance with International Financial Reporting Standards (“IFRS”) and its financial
+statements are audited in accordance with International Standards on Auditing (“ISA”).
+Additionally, under French law, LCH SA states that it is required to maintain two statutory
+auditing firms that jointly sign the annual audited accounts. 57 LCH SA represents that, because
+it would be required upon being registered with the Commission as a clearing agency to have its
+2014 and 2015 annual financial statements audited in accordance with Public Company
+Accounting Oversight Board standards, its 2014 and 2015 financial records would need to be re54
+
+See Request for Exemptive Relief at 4.
+
+55
+
+See Request for Exemptive Relief at 15.
+
+56
+
+Id.
+
+57
+
+See Request for Exemptive Relief at 14.
+
+15
+
+analyzed (including reviewing past judgments regarding accounting figures), and that re-opening
+its audit files in such a manner would present practical, and potentially legal challenges as well
+as impose material burdens on LCH SA, its staff and auditors, to complete such work prior to the
+end of this calendar year. 58 LCH SA states that such challenges would be further exacerbated if
+the relief requested were to be granted only with respect to LCH SA’s 2014 financial statements,
+as auditing its 2015 financial statements in isolation would cause auditors to use unaudited 2014
+figures in their auditing report for the 2015 financial statements. 59
+D. Exemptive Relief from Rule 17a-22
+LCH SA requests exemptive relief from the requirements of Rule 17a-22 to file with the
+Commission certain materials made available to its participants regarding LCH SA’s non-U.S.
+business units where such materials (i) primarily affect LCH SA’s clearing operations with
+respect to the non-U.S. business lines, and (ii) do not significantly affect any CDSClear
+operations or any rights or obligations of LCH SA with respect to its CDSClear services or
+persons using the CDSClear services. 60 Additionally, LCH SA requests relief from the
+requirement of Rule 17a-22 to file physical copies with respect to materials primarily concerning
+its CDSClear services. LCH SA requests instead, that it be permitted to provide the Commission
+with electronic submissions for such materials. 61
+
+58
+
+Id.
+
+59
+
+Id.
+
+60
+
+See Request for Exemptive Relief at 15-16.
+
+61
+
+Id.
+
+16
+
+IV.
+
+Solicitation of Comments
+Interested persons are invited to submit written data, views, and arguments concerning
+
+LCH SA’s Form CA-1 and Request for Exemptive Relief. The Commission requests comment
+regarding whether granting the Request for Exemptive Relief is appropriate, whether the
+conditions required for granting such relief, as set forth in the Request for Exemptive Relief, are
+appropriate, and whether any other conditions should be required. In particular, the Commission
+requests comment concerning the appropriateness of granting exemptive relief under Section
+19(b) and Rule 19b-4 thereunder as described above, in connection with LCH SA’s non-U.S.
+business. Comments may be submitted by any of the following methods:
+Electronic Comments:
+•
+
+Use the Commission’s Internet comment form (http://www.sec.gov/rules/sro.shtml) or
+
+•
+
+Send an e-mail to rule-comments@sec.gov. Please include File Number 600-36 on the
+subject line.
+
+Paper Comments:
+•
+
+Send paper comments in triplicate to Secretary, Securities and Exchange Commission,
+100 F Street, NE, Washington, DC 20549-1090.
+
+All submissions should refer to File Number 600-36. This file number should be included on the
+subject line if e-mail is used. To help the Commission process and review your comments more
+efficiently, please use only one method of submission. The Commission will post all comments
+on the Commission’s internet website (http://www.sec.gov/rules/sro.shtml). Copies of the Form
+CA-1 and the Request for Exemptive Relief, all subsequent amendments, all written statements
+with respect to LCH SA’s Form CA-1 and the Request for Exemptive Relief that are filed with
+the Commission, and all written communications relating to the Form CA-1and the Request for
+
+17
+
+Exemptive Relief between the Commission and any person, other than those that may be
+withheld from the public in accordance with the provisions of 5 U.S.C. 552, will be available for
+website viewing and printing in the Commission’s Public Reference Room, 100 F Street, NE,
+Washington, DC 20549, on official business days between the hours of 10:00 a.m. and 3:00 p.m.
+All comments received will be posted without change; the Commission does not edit
+personal identifying information from submissions. You should submit only information that you
+wish to make available publicly. All submissions should refer to File Number 600-36 and should
+be submitted on or before [insert date 30 days from publication in the Federal Register].
+By the Commission.
+
+Robert W. Errett
+Deputy Secretary
+
+18
+
+

@@ -1,0 +1,653 @@
+U.S. Securities and Exchange Commission
+Data Delivery Standards
+
+U.S. Securities and Exchange Commission
+Data Delivery Standards
+
+This document describes the technical requirements for paper and electronic document productions to the U.S.
+Securities and Exchange Commission (SEC). **Any questions or proposed file formats other than those
+described below must be discussed with the legal and technical staff of the SEC Division of Enforcement
+prior to submission.**
+General Instructions........................................................................................................................................................................1
+Delivery Formats............................................................................................................................................................................2
+I.
+
+Concordance® Imaged Productions............................................................................................................................................2
+1. Images ...............................................................................................................................................................................2
+2. Concordance Image® or Opticon Cross-Reference File ....................................................................................................2
+3. Concordance® Data File...................................................................................................................................................3
+4. Text ...................................................................................................................................................................................3
+5. Linked Native Files ...........................................................................................................................................................3
+
+II. Native File Productions without Load Files............................................................................................................................3
+III. Adobe PDF File Productions……………..............................................................................................................................3
+IV. Audio Files ............................................................................................................................................................................4
+.
+
+V.
+
+Video Files..............................................................................................................................................................................4
+
+VI. Electronic Trade and Bank Records …....................................................................................................................................4
+VII. Electronic Phone Records ..................................................................................................................................................4
+VIII. Audit Workpapers ……………………..…………………………………………………………………………………..5
+
+General Instructions
+Electronic files must be produced in their native format, i.e. the format in which they are ordinarily used and maintained during the
+normal course of business. For example, an MS Excel file must be produced as an MS Excel file rather than an image of a
+spreadsheet. (Note: An Adobe PDF file is not considered a native file unless the document was initially created as a PDF.)
+In the event produced files require the use of proprietary software not commonly found in the workplace, the SEC will explore
+other format options with the producing party.
+The proposed use of file de-duplication methodologies or computer-assisted review or technology-assisted review (TAR) during
+the processing of documents must be discussed with and approved by the legal and technical staff of the Division of
+Enforcement (ENF). If your production will be de-duplicated it is vital that you 1) preserve any unique metadata associated with
+the duplicate files, for example, custodian name, and, 2) make that unique metadata part of your production to the SEC.
+
+1 
+ 
+
+ 
+
+Rev 07/2016
+
+U.S. Securities and Exchange Commission
+Data Delivery Standards
+General requirements for ALL document productions are:
+1.
+
+A cover letter should be included with each production and include the following:
+a. A list of each piece of media included in the production with its unique production volume number
+b. A list of custodians, identifying the Bates range for each custodian.
+c. The time zone in which the emails were standardized during conversion.
+Data can be produced on CD, DVD, thumb drive, etc., using the media requiring the least number of deliverables and
+labeled with the following:
+a. Case number
+b. Production date
+c. Producing party
+d. Bates range
+All submissions must be organized by custodian unless otherwise instructed.
+All document family groups, i.e. email attachments, embedded files, etc., should be produced together and children files
+should follow parent files sequentially in the Bates numbering.
+All load-ready collections should include only one data load file and one image pointer file.
+All load-ready text must be produced as separate text files.
+All load-ready collections should account for custodians in the custodian field.
+Audio files should be separated from data files if both are included in the production.
+Only alphanumeric characters and the underscore character are permitted in file names and folder names. Special characters
+are not permitted.
+All electronic productions submitted on media must be produced using industry standard self-extracting encryption
+software.
+Electronic productions may be submitted via Secure File Transfer. The SEC cannot accept productions made using file
+sharing sites.
+Productions containing BSA or SARs material must be delivered on encrypted physical media. The SEC cannot accept
+electronic transmission of BSA or SARs material. Any BSA or SARs material produced should be segregated and
+appropriately marked as BSA or SARs material, or should be produced separately from other case related material.
+Passwords for electronic documents, files, compressed archives and encrypted media must be provided separately either via
+email or in a separate cover letter from the media.
+All electronic productions should be produced free of computer viruses.
+Additional technical descriptions can be found in the addendum to this document.
+
+2.
+
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+13.
+14.
+15.
+
+*Please note that productions sent to the SEC via United States Postal Service are subject to Mail Irradiation, and as a result
+electronic productions may be damaged.*
+
+Delivery Formats
+I.
+
+Concordance® Imaged Productions
+The SEC prefers that all documents and data be produced in a structured format prepared for Concordance. All scanned
+paper and electronic file collections should be converted to TIFF files, Bates numbered, and include fully searchable text
+files.
+1.
+
+Images
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+i.
+
+Black and white images must be 300 DPI Group IV single-page TIFF files.
+Color images must be produced in JPEG format.
+File names cannot contain embedded spaces or special characters (including the comma).
+Folder names cannot contain embedded spaces or special characters (including the comma).
+All TIFF image files must have a unique file name, i.e. Bates number.
+Images must be endorsed with sequential Bates numbers in the lower right corner of each image.
+The number of TIFF files per folder should not exceed 500 files.
+Excel spreadsheets should have a placeholder image named by the Bates number of the file.
+AUTOCAD/photograph files should be produced as a single page JPEG file.
+
+2 
+ 
+
+ 
+
+Rev 07/2016
+
+U.S. Securities and Exchange Commission
+Data Delivery Standards
+2.
+
+Concordance Image® OR Opticon Cross-Reference File
+The image cross-reference file (.LOG or .OPT) links the images to the database records. It should be a comma-delimited
+file consisting of seven fields per line with a line in the cross-reference file for every image in the database with the
+following format:
+ImageID,VolumeLabel,ImageFilePath,DocumentBreak,FolderBreak,BoxBreak,PageCount
+
+3. Concordance® Data File
+The data file (.DAT) contains all of the fielded information that will be loaded into the Concordance® database.
+a.
+b.
+
+c.
+d.
+e.
+f.
+g.
+h.
+i.
+
+The first line of the .DAT file must be a header row identifying the field names.
+The .DAT file must use the following Concordance® default delimiters:
+Comma ASCII character (020)
+Quote þ ASCII character (254)
+Date fields should be provided in the format: mm/dd/yyyy
+Date and time fields must be two separate fields.
+If the production includes imaged emails and attachments, the attachment fields must be included to preserve the
+parent/child relationship between an email and its attachments.
+An OCRPATH field must be included to provide the file path and name of the extracted text file on the produced
+storage media. The text file must be named after the FIRSTBATES. Do not include the text in the .DAT file.
+For productions with native files, a LINK field must be included to provide the file path and name of the native file
+on the produced storage media. The native file must be named after the FIRSTBATES.
+BEGATTACH and ENDATTACH fields must be two separate fields.
+A complete list of metadata fields is available in Addendum A to this document.
+
+4. Text
+Text must be produced as separate text files, not as fields within the .DAT file. The full path to the text file (OCRPATH)
+should be included in the .DAT file. We require document level ANSI text files, named per the FIRSTBATES/Image Key.
+Please note in the cover letter if any non-ANSI text files are included in the production. Extracted text files must be in a
+separate folder, and the number of text files per folder should not exceed 1,000 files. There should be no special characters
+(including commas in the folder names). For redacted documents, provide the full text for the redacted version.
+5. Linked Native Files
+Copies of original email and native file documents/attachments must be included for all electronic productions.
+a. Native file documents must be named per the FIRSTBATES number.
+b. The full path of the native file must be provided in the .DAT file for the LINK field.
+c. The number of native files per folder should not exceed 1,000 files.
+II.
+
+Native File Production without Load Files
+With prior approval, native files may be produced without load files. The native files must be produced as they are
+maintained in the normal course of business and organized by custodian-named file folders. When approved, Outlook (.PST)
+and Lotus Notes (.NSF) email files may be produced in native file format. A separate folder should be provided for each
+custodian.
+
+III.
+
+Adobe PDF File Production
+With prior approval, Adobe PDF files may be produced in native file format.
+1. PDF files should be produced in separate folders named by the custodian. The folders should not contain any
+special characters (including commas).
+2. All PDFs must be unitized at the document level, i.e., each PDF must represent a discrete document.
+3. All PDF files must contain embedded text that includes all discernible words within the document, not selected text
+or image only. This requires all layers of the PDF to be flattened first.
+4. If PDF files are Bates endorsed, the PDF files must be named by the Bates range.
+
+3 
+ 
+
+ 
+
+Rev 07/2016
+
+U.S. Securities and Exchange Commission
+Data Delivery Standards
+IV. Audio Files
+Audio files from telephone recording systems must be produced in a format that is playable using Microsoft Windows
+Media Player™. Additionally, the call information (metadata) related to each audio recording MUST be provided. The
+metadata file must be produced in a delimited text format. Field names must be included in the first row of the text file.
+The metadata must include, at a minimum, the following fields:
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+
+Caller Name:
+Originating Number:
+Called Party Name:
+Terminating Number:
+Date:
+Time:
+Filename:
+
+Caller’s name or account/identification number
+Caller’s phone number
+Called party’s name
+Called party’s phone number
+Date of call
+Time of call
+Filename of audio file
+
+V.
+
+Video Files
+Video files must be produced in a format that is playable using Microsoft Windows Media Player™.
+
+VI.
+
+Electronic Trade and Bank Records
+When producing electronic trade and bank records, provide the files in one of the following formats:
+1. MS Excel spreadsheet with header information detailing the field structure. If any special codes exist in the dataset, a
+separate document must be provided that details all such codes. If details of the field structure do not fit in the header,
+a separate document must be provided that includes such details.
+2. Delimited text file with header information detailing the field structure. The preferred delimiter is a vertical bar “|”. If
+any special codes exist in the dataset, a separate document must be provided that details all such codes. If details of the
+field structure do not fit in the header, a separate document must be provided that includes such details.
+
+VII. Electronic Phone Records
+When producing electronic phone records, provide the files in the following format:
+1.
+
+MS Excel spreadsheet with header information detailing the field structure. If any special codes exist in the dataset, a
+separate document must be provided that details all such codes. If details of the field structure do not fit in the header,
+a separate document must be provided that includes such details. Data must be formatted in its native format (i.e.
+dates in a date format, numbers in an appropriate numerical format, and numbers with leading zeroes as text).
+a. The metadata that must be included is outlined in Addendum B of this document. Each field of data must be
+loaded into a separate column. For example, Date and Start_Time must be produced in separate columns and
+not combined into a single column containing both pieces of information. Any fields of data that are provided
+in addition to those listed in Addendum B must also be loaded into separate columns.
+
+VIII. Audit Workpapers
+The SEC prefers for workpapers to be produced in two formats: (1) With Bates numbers in accordance with the SEC Data
+Delivery Standards; and (2) in native format or if proprietary software was used, on a standalone laptop with the appropriate
+software loaded so that the workpapers may be reviewed as they would have been maintained in the ordinary course of
+business. When possible, the laptop should be configured to enable a Virtual Machine (VM) environment.
+
+4 
+ 
+
+ 
+
+Rev 07/2016
+
+U.S. Securities and Exchange Commission
+Data Delivery Standards
+
+ADDENDUM A
+The metadata of electronic document collections should be extracted and provided in a .DAT file using the field definition and
+formatting described below:
+
+Field Name
+FIRSTBATES
+LASTBATES
+
+Sample Data
+EDC0000001
+EDC0000001
+
+ATTACHRANGE
+
+EDC0000001 - EDC0000015
+
+BEGATTACH
+ENDATTACH
+PARENT_BATES
+
+EDC0000001
+EDC0000015
+EDC0000001
+
+CHILD_BATES
+
+EDC0000002; EDC0000014
+
+CUSTODIAN
+
+Smith, John
+
+FROM
+
+John Smith
+
+TO
+
+Coffman, Janice; LeeW
+[mailto:LeeW@MSN.com]
+
+CC
+
+Frank Thompson [mailto:
+frank_Thompson@cdt.com]
+
+BCC
+
+John Cain
+
+SUBJECT
+
+Board Meeting Minutes
+
+FILE_NAME
+
+BoardMeetingMinutes.docx
+
+DATE_SENT
+
+10/12/2010
+
+TIME_SENT/TIME 07:05 PM GMT
+_ZONE
+
+TIME_ZONE
+
+GMT
+
+Description
+First Bates number of native file document/email
+Last Bates number of native file document/email
+**The LASTBATES field should be populated
+for single page documents/emails.
+Bates number of the first page of the parent
+document to the Bates number of the last page of the
+last attachment “child” document
+First Bates number of attachment range
+Last Bates number of attachment range
+First Bates number of parent document/Email
+**This PARENT_BATES field should be populated
+in each record representing an attachment “child”
+document
+First Bates number of “child” attachment(s); can be
+more than one Bates number listed depending on the
+number of attachments
+**The CHILD_BATES field should be populated in
+each record representing a “parent” document
+Email: Mailbox where the email resided
+Native: Name of the individual or department from
+whose files the document originated
+Email: Sender
+Native: Author(s) of document
+**semi-colon should be used to separate multiple
+entries
+Recipient(s)
+**semi-colon should be used to separate multiple
+entries
+Carbon copy recipient(s)
+**semi-colon should be used to separate multiple
+entries
+Blind carbon copy recipient(s)
+**semi-colon should be used to separate multiple
+entries
+Email: Subject line of the email
+Native: Title of document (if available)
+Native: Name of the original native file, including
+extension
+Email: Date the email was sent
+Native: (empty)
+Email: Time the email was sent/ Time zone in which
+the emails were standardized during conversion.
+Native: (empty)
+**This data must be a separate field and cannot be
+combined with the DATE_SENT field
+The time zone in which the emails were standardized
+during conversion.
+Email: Time zone
+Native: (empty)
+
+5 
+ 
+
+ 
+
+Rev 07/2016
+
+U.S. Securities and Exchange Commission
+Data Delivery Standards
+LINK
+
+D:\001\ EDC0000001.msg
+
+MIME_TYPE
+
+MSG
+
+FILE_EXTEN
+
+MSG
+
+AUTHOR
+
+John Smith
+
+DATE_CREATED
+
+10/10/2010
+
+TIME_CREATED
+
+10:25 AM
+
+DATE_MOD
+
+10/12/2010
+
+TIME_MOD
+
+07:00 PM
+
+DATE_ACCESSD
+
+10/12/2010
+
+TIME_ACCESSD
+
+07:00 PM
+
+PRINTED_DATE
+
+10/12/2010
+
+FILE_SIZE
+PGCOUNT
+PATH
+
+5,952
+1
+J:\Shared\SmithJ\October
+Agenda.doc
+
+INTFILEPATH
+
+Personal Folders\Deleted
+Items\Board Meeting
+Minutes.msg
+<000805c2c71b$75977050$cb
+8306d1@MSN>
+d131dd02c5e6eec4693d9a069
+8aff95c
+2fcab58712467eab4004583eb
+8fb7f89
+TEXT/001/EDC0000001.txt
+
+INTMSGID
+MD5HASH
+
+OCRPATH
+
+Hyperlink to the email or native file document
+**The linked file must be named per the
+FIRSTBATES number
+The content type of an Email or native file document
+as identified/extracted from the header
+The file type extension representing the Email or
+native file document; will vary depending on the
+email format
+Email: (empty)
+Native: Author of the document
+Email: (empty)
+Native: Date the document was created
+Email: (empty)
+Native: Time the document was created
+**This data must be a separate field and cannot be
+combined with the DATE_CREATED field
+Email: (empty)
+Native: Date the document was last modified
+Email: (empty)
+Native: Time the document was last modified
+**This data must be a separate field and cannot be
+combined with the DATE_MOD field
+Email: (empty)
+Native: Date the document was last accessed
+Email: (empty)
+Native: Time the document was last accessed
+**This data must be a separate field and cannot be
+combined with the DATE_ACCESSD field
+Email: (empty)
+Native: Date the document was last printed
+Size of native file document/email in KB
+Number of pages in native file document/email
+Email: (empty)
+Native: Path where native file document was stored
+including original file name.
+Email: original location of email including original
+file name.
+Native: (empty)
+Email: Unique Message ID
+Native: (empty)
+MD5 Hash value of the document.
+
+Path to extracted text of the native file
+
+Sample Image Cross-Reference File:
+
+ 
+
+IMG0000001,,E:\001\IMG0000001.TIF,Y,,, 
+IMG0000002,,E:\001\IMG0000002.TIF,,,, 
+IMG0000003,,E:\001\IMG0000003.TIF,,,, 
+IMG0000004,,E:\001\IMG0000004.TIF,Y,,, 
+IMG0000005,,E:\001\IMG0000005.TIF,Y,,, 
+IMG0000006,,E:\001\IMG0000006.TIF,,,, 
+ 
+
+6 
+ 
+
+ 
+
+Rev 07/2016
+
+U.S. Securities and Exchange Commission
+Data Delivery Standards
+ 
+
+ADDENDUM B
+ 
+For Electronic Phone Records, include the following fields in separate columns:
+For Calls:
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+11)
+12)
+13)
+14)
+15)
+
+Account Number
+Connection Date – Date the call was received or made
+Connection Time – Time call was received or made
+Seizure Time – Time it took for the call to be placed in seconds
+Originating Number – Phone that placed the call
+Terminating Number – Phone that received the call
+Elapsed Time – The length of time the call lasted, preferably in seconds
+End Time – The time the call ended
+Number Dialed – Actual number dialed
+IMEI Originating – Unique id to phone used to make call
+IMEI Terminating– Unique id to phone used to receive call
+IMSI Originating – Unique id to phone used to make call
+IMSI Terminating- Unique id to phone used to receive call
+Call Codes – Identify call direction or other routing information
+Time Zone – Time Zone in which the call was received or placed, if applicable
+
+For Text messages:
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+11)
+12)
+
+Account Number
+Connection Date – Date the text was received or made
+Connection Time – Time text was received or made
+Originating Number – Who placed the text
+Terminating Number – Who received the text
+IMEI Originating – Unique id to phone used to make text
+IMEI Terminating– Unique id to phone used to receive text
+IMSI Originating - Unique id to phone used to make text
+IMSI Terminating- Unique id to phone used to receive text
+Text Code – Identify text direction, or other text routing information
+Text Type Code – Type of text message (sent SMS, MMS, or other)
+Time Zone – Time Zone in which the call was received or placed, if applicable
+
+For Mobile Data Usage:
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+
+Account Number
+Connection Date – Date the data was received or made
+Connection Time – Time data was received or made
+Originating number – Number that used data
+IMEI Originating – Unique id of phone that used data
+IMSI Originating - Unique id of phone that used data
+Data or Data codes – Identify data direction, or other data routing information
+Time Zone – Time Zone in which the call was received or placed, if applicable
+
+7 
+ 
+
+ 
+
+Rev 07/2016
+
+

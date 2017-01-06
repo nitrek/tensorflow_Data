@@ -1,0 +1,762 @@
+ORAL ARGUMENT HELD MAY 12, 2009
+UNITED STATES COURT OF APPEALS
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+________________________________
+No. 08-7095
+________________________________
+LIBERTY PROPERTY TRUST and LIBERTY PROPERTY
+LIMITED PARTNERSHIP,
+Plaintiffs-Appellants,
+v.
+REPUBLIC PROPERTIES CORPORATION, STEVEN A. GRIGG and
+RICHARD L. KRAMER,
+Defendants-Appellees.
+________________________________
+On Appeal From the
+United States District Court for the District of Columbia
+________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION, 
+
+AMICUS CURIAE, ON ISSUES ADDRESSED
+
+________________________________
+DAVID M. BECKER
+General Counsel
+MARK D. CAHN
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+SUSAN S. McDONALD
+Senior Litigation Counsel
+BENJAMIN L. SCHIFFRIN
+Senior Counsel
+Securities and Exchange Commission
+100 F Street, N.E.
+Washington, D.C. 20549
+(202) 551-5003 (Schiffrin)
+schiffrinb@sec.gov
+
+CERTIFICATE AS TO PARTIES, RULINGS, AND RELATED CASES
+
+Parties and Amici
+All parties, intervenors, and amici appearing before the district court and in
+this Court are listed in the Defendants-Appellees’ Petition for Rehearing or
+Rehearing En Banc and the Response of Plaintiffs-Appellants to DefendantsAppellees’ Petition for Rehearing or Rehearing En Banc.
+Rulings Under Review
+References to the rulings at issue appear in the Brief of Appellees.
+Related Cases
+This case is before the Court on Defendants-Appellees’ Petition for
+Rehearing and Rehearing En Banc of an August 21, 2009 decision of a panel of
+the Court. Liberty Prop. Trust v. Republic Props. Corp., 577 F.3d 335 (D.C. Cir.
+2009). A related case, Grigg v. Liberty Prop. Trust, No. 2006 CA 9051 B (JoseyHerring, J.), is pending before the Superior Court of the District of Columbia.
+
+ii
+
+TABLE OF CONTENTS
+
+Page
+
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iv
+
+GLOSSARY OF ABBREVIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION . . . . . 1
+
+STATUTES AND REGULATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+BACKGROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+A. 	
+
+REITS and UPREITS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+
+B.
+
+Relevant Facts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+
+
+SUMMARY OF ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 
+
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 
+
+I.	
+
+The Limited Partnership Units are Securities Because They are Options or
+
+Rights to Purchase or Otherwise Acquire Securities or the Cash Value of
+
+Securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 
+
+
+II.	
+
+Under the Majority’s View of the Facts, the Limited Partnership Units are
+
+Securities Because They are Investment Contracts . . . . . . . . . . . . . . . . . . 9
+
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+CERTIFICATE OF COMPLIANCE
+
+STATUTORY ADDENDUM
+
+CERTIFICATE OF SERVICE
+
+
+iii
+
+TABLE OF AUTHORITIES
+
+Cases
+
+Page
+
+Caiola v. Citibank, N.A., 295 F.3d 312 (2d Cir. 2002) . . . . . . . . . . . . . . . . . . 7, 8
+
+Lawrence v. Cohn, 932 F. Supp. 564 (S.D.N.Y. 1996) . . . . . . . . . . . . . . . . . . . . 6
+
+Liberty Prop. Trust v. Republic Props. Corp., 
+
+570 F. Supp. 2d 95 (D.D.C. 2008) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 
+
+Liberty Prop. Trust v. Republic Props. Corp., 
+
+577 F.3d 335 (D.C. Cir. 2009) . . . . . . . . . . . . . . . . . . . . 4, 9, 10, 11, 13, 14
+
+*One-O-One Enters., Inc. v. Caruso, 848 F.2d 1283 (D.C. Cir. 1988) . . . . . . . . 6
+
+SEC v. Aqua-Sonic Prods. Corp., 687 F.2d 577 (2d Cir. 1982) . . . . . . . . . . 13-14
+
+SEC v. Edwards, 540 U.S. 389 (2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 14
+
+SEC v. Int’l Loan Network, Inc., 968 F.2d 1304 (D.C. Cir. 1992) . . . . . . . . . 9-10
+
+SEC v. Merchant Capital LLC, 483 F.3d 747 (11th Cir. 2007) . . . . . . . . . . . . . 13
+
+SEC v. SG Ltd., 265 F.3d 42 (1st Cir. 2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 
+
+SEC v. W.J. Howey Co., 328 U.S. 293 (1946) . . . . . . . . . . . . . . . . . . . 5, 9, 13, 14
+
+Steinhardt Group, Inc. v. Citicorp., 126 F.3d 144 (3d Cir. 1997) . . . . . . . . . . . 13
+
+United Housing Foundation, Inc. v. Forman, 421 U.S. 837 (1975) . . . . . . 11, 14
+
+Williamson v. Tucker, 645 F.2d 404 (5th Cir. 1981) . . . . . . . . . . . . . . . . . . . . . 10
+
+___________________________
+*/
+
+Authorities on which we chiefly rely are marked with asterisks. 
+
+iv
+
+
+TABLE OF AUTHORITIES (CONTINUED)
+
+Statutes and Rules
+
+Page
+
+Securities Exchange Act of 1934, 15 U.S.C. § 78a, et seq.
+
+Section 3(a)(10), 15 U.S.C. § 78c(a)(10) . . . . . . . . . . . . . . . . . . . . . . . 5-6, 7
+
+Section 3(a)(13), 15 U.S.C. § 78c(a)(13) . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+Section 10(b), 15 U.S.C. § 78j(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+
+Rules under the Securities Exchange Act of 1934, 17 C.F.R. 240.0-1, et seq.
+
+Rule 10b-5, 17 C.F.R. § 240.10b-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+
+Miscellaneous
+Alvin L. Arnold, Real Estate Investor’s Deskbook,
+
+REINVESTOR (Westlaw) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+
+Harold S. Bloomenthal, Securities & Federal Corporate Law (2001) . . . . . . . 10
+
+David M. Einhorn, et al., REIT M&A Transactions: Peculiarities and
+
+Complications, 55 Bus. Law. 693 (2000) . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+
+*Peter M. Fass, et al., Real Estate Investment Trusts Handbook
+
+(2006 ed.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1, 2, 8, 9
+
+Limited Partnership Roll-Up Transactions, 
+
+Exchange Act Rel. No. 35036 (Dec. 1, 1994), 1994 WL 669982 . . . . . . . 8
+
+Michael T. Madison, et al., Law of Real Estate Financing,
+
+REFINLAW (Westlaw) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+M. Guy Maisnik, Basic Issues in Exchanging Property Interests for
+
+UPREIT OP Units, 468 PLI/Real 401 (2001) . . . . . . . . . . . . . . . . . . . . . . 9
+
+
+v
+
+
+TABLE OF AUTHORITIES (CONTINUED)
+
+Miscellaneous (continued)
+
+Page
+
+Jack H. McCall, A Primer on Real Estate Trusts: The Legal Basics of REITS, 
+
+2 Transactions: Tenn. J. Bus. L. 1 (2001) . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+Stuart M. Saft, Commercial Real Estate Transactions,
+
+CRETRANS (Westlaw) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+Russell J. Singer, Note, Understanding REITS, UPREITs, and DOWN-REITs,
+
+and the Tax and Business Decisions Surrounding Them, 
+
+16 Va. Tax. Rev. 329 (1996) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+
+
+vi
+
+
+GLOSSARY OF ABBREVIATIONS
+
+Contribution	
+Agreement	
+
+Agreement between RPC and RPLP whereby RPC
+contracted to contribute the Professional Services
+Agreement to RPLP in exchange for 100,234 limited
+partnership units in RPLP
+
+IPO	
+
+Initial Public Offering of REIT stock
+
+Partnership
+Agreement
+
+First Amended and Restated Agreement of Limited
+Partnership of Republic Property Limited Partnership
+
+Professional Services
+Agreement
+
+Agreement between RPC and a municipality under
+which RPC would be paid to provide real estate
+development services to the municipality
+
+REIT	
+
+Real Estate Investment Trust
+
+RPC	
+
+Defendant-Appellee Republic Properties Corporation
+
+RPT	
+
+Republic Property Trust, predecessor in interest to
+Plaintiff-Appellant Liberty Property Trust
+
+RPLP	
+
+Republic Property Limited Partnership, predecessor in
+interest to Plaintiff-Appellant Liberty Property Limited
+Partnership
+
+UPREIT	
+
+Umbrella Partnership Real Estate Investment Trust
+
+vii
+
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+The Securities and Exchange Commission is the agency principally
+responsible for the administration and enforcement of the federal securities laws.
+This amicus curiae brief is filed pursuant to the Court’s invitation to respond to
+the defendants’ petition for rehearing or rehearing en banc. The brief addresses
+questions relating to the definition of a “security.”
+STATUTES AND REGULATIONS
+The pertinent statutes and regulations are set forth in this brief’s Addendum.
+BACKGROUND
+A.
+
+REITS and UPREITS
+This case involves a real estate investment trust, or “REIT,” and associated
+
+umbrella limited partnership. A REIT is a “corporation or business trust
+combining the capital of many investors to own and, in most cases, operate
+income-producing real estate.” Peter M. Fass, et al., Real Estate Investment Trusts
+Handbook § 1:1, at 3 (2006 ed.) (“Handbook”). In a conventional REIT, private
+investors transfer their real estate and other property directly to the REIT in
+exchange for shares. 1 Michael T. Madison, et al., Law of Real Estate Financing,
+REFINLAW § 4:29 (Westlaw). Such a transfer, however, may trigger tax
+liabilities for the transferors. Stuart M. Saft, Commercial Real Estate
+Transactions, CRETRANS § 4:36 (Westlaw). “The problem of immediate
+
+1
+
+
+taxation of property owners from a transfer of property to a REIT is solved by
+using an ‘UPREIT.’” Handbook § 7:1, at 989.
+In a typical UPREIT, the REIT holds all of its assets and conducts all of its
+business through an umbrella, or operating, limited partnership. David M.
+Einhorn, et al., REIT M&A Transactions: Peculiarities and Complications, 55
+Bus. Law. 693, 695 (2000). Private investors contribute property to the operating
+partnership in exchange for limited partnership units, and, contemporaneously, the
+REIT sells stock to the public and contributes the proceeds of the offering to the
+partnership in exchange for a general partnership interest. Russell J. Singer, Note,
+Understanding REITS, UPREITs, and DOWN-REITs, and the Tax and Business
+Decisions Surrounding Them, 16 Va. Tax. Rev. 329, 334 (1996). The transfers of
+property in exchange for units occur simultaneously with the initial public offering
+of REIT stock. Alvin L. Arnold, Real Estate Investor’s Deskbook, REINVESTOR
+§ 6.56 (Westlaw). Typically, each limited partnership unit is convertible after one
+year into a share of REIT stock or, at the REIT’s option, into the cash value of a
+share of REIT stock. Handbook § 2:272, at 476-77, and § 7.1, at 990-91.
+B.
+
+Relevant Facts
+In this action under Section 10(b) of the Securities Exchange Act of 1934
+
+(“Exchange Act”), 15 U.S.C. § 78j(b), and Rule 10b-5, 17 C.F.R. § 240.10b-5, a
+REIT, together with its umbrella limited partnership that privately sold limited
+2
+
+
+partnership units, sued a corporation that purchased units, and that corporation’s
+two owners, for alleged fraud. Defendants Richard L. Kramer and Steven A.
+Grigg and a third individual formed Republic Property Trust (“RPT”), predecessor
+in interest to plaintiff Liberty Property Trust, in anticipation of creating an
+UPREIT. See JA 9 ¶1, JA 11-12 ¶¶11-14. Before its initial public offering
+(“IPO”) in December 2005, RPT established Republic Property Limited
+Partnership (“RPLP”), predecessor in interest to plaintiff Liberty Property Limited
+Partnership, as the operating partnership through which RPT (the REIT) would
+conduct the business (JA 9 ¶2). As is typical in the creation of an UPREIT, prior
+to the IPO for RPT’s stock in December 2005, RPT, through RPLP, entered into a
+number of transactions whereby RPT contracted to acquire property and contracts
+in exchange for shares of RPT and units in RPLP (JA 12 ¶¶12-13).
+In one of those transactions, in September 2005, defendant Republic
+Properties Corporation (“RPC”), which was wholly owned by Kramer and Grigg,
+entered into a “Development Services Rights Contribution Agreement” with RPLP
+(JA 13 ¶18). This “Contribution Agreement” provided that, “in connection with
+the IPO Transactions,” RPC would contribute to RPLP, in exchange for 100,234
+limited partnership units in RPLP (valued at $1.2 million), a preexisting
+“Professional Services Agreement” between RPC and a municipality under which
+RPC was paid to provide real estate development services to the municipality (JA
+3
+
+
+12-13 ¶15, JA 43-44). The Contribution Agreement conditioned the exchange on
+the closing of the IPO and provided that the units were to be issued simultaneously
+with the closing (JA 50, JA 51-52). When RPT completed its IPO on December
+20, 2005, RPC contributed the Professional Services Agreement to RPLP and
+RPLP issued the limited partnership units to RPC (JA 14 ¶21).
+RPLP’s Partnership Agreement contained the provision—standard in
+UPREITs (see supra page 2)—entitling the limited partners, including RPC, to
+have each limited partnership unit converted after one year into either one share of
+REIT stock or the cash equivalent (at the REIT’s option). See Liberty Prop. Trust
+v. Republic Props. Corp., 570 F. Supp. 2d 95, 99 (D.D.C. 2008); First Amended
+and Restated Agreement of Limited Partnership of Republic Property Limited
+Partnership (“Partnership Agreement”) art. I and § 8.6, available at
+http://www.sec.gov/Archives/edgar/data/1335686/000110465905058095/a05­
+16242_1ex10d1.htm. Also, the Partnership Agreement was a traditional limited
+partnership agreement that gave limited partners no managerial authority, while
+the sole general partner, RPT, would manage the partnership (and the business).
+Liberty Prop. Trust v. Republic Props. Corp., 577 F.3d 335, 339 (D.C. Cir. 2009);
+Partnership Agreement §§ 7.1 and 8.2.
+After facts surfaced that caused the municipality to terminate the
+Professional Services Agreement in October 2006, RPT and RPLP filed this action
+4
+
+
+alleging that RPC, Kramer, and Grigg committed securities fraud by failing to
+disclose those facts, which affected the Professional Services Agreement’s value,
+at the time of the Contribution Agreement (JA 29 ¶¶103-105). The district court
+dismissed the complaint on the ground that the limited partnership units were not
+securities; a panel of this Court, with one judge dissenting, reversed.
+SUMMARY OF ARGUMENT
+The limited partnership units are securities because they are options or
+rights to purchase stock or the cash value of stock—items identified in the
+Exchange Act definition of a security. The units satisfy this part of the definition
+because they are convertible into REIT stock or the cash value of REIT stock.
+Under the majority’s view of the facts, the limited partnership units are also
+investment contracts under the test of SEC v. W.J. Howey Co., 328 U.S. 293, 298­
+99 (1946), which is whether an investment involves “a contract, transaction, or
+scheme whereby a person invests his money in a common enterprise and is led to
+expect profits solely from the efforts of the promoter or a third party.” Id.
+ARGUMENT
+I.	
+
+The Limited Partnership Units are Securities Because They are Options or
+Rights to Purchase or Otherwise Acquire Securities or the Cash Value of
+Securities.
+Section 3(a)(10) of the Exchange Act defines “security” to include any
+
+“stock,” “any . . . option, or privilege on any security . . . (including any interest
+5
+
+
+therein or based on the value thereof),” and any “warrant or right to subscribe to or
+purchase, any of the foregoing.” 15 U.S.C. § 78c(a)(10). In One-O-One Enters.,
+Inc. v. Caruso, 848 F.2d 1283 (D.C. Cir. 1988) (R.B. Ginsburg, J.), this Court held
+that an “option to purchase stock” “is such a traditional securities instrument that
+its existence may be shown ‘by proving the document itself’ without any need ‘to
+look beyond the characteristics of the instruments’ and, specifically, without any
+need to apply the Howey test.” Id. at 1288. The Court reached this conclusion by
+“attend[ing] to the presence in the [Exchange Act] definition of ‘security’ not only
+of the term ‘option’ but also of the phrase ‘any . . . right to . . . purchase, any of the
+foregoing,’ where ‘the foregoing’ includes ‘stock.’” Id.
+In Caruso, the Court held that a “contractual option to buy all of [a
+company’s] stock established defendants’ ‘right to purchase’ that stock,” and that
+therefore the “option to purchase [the] stock was a security.” Id. Similarly, the
+Partnership Agreement in this case, as is typical for an UPREIT, gave holders of
+limited partnership units the right to acquire REIT stock by redeeming their units
+for shares. The limited partnership unit is a security, therefore, because it contains
+a contractual option to acquire a security. See also Lawrence v. Cohn, 932 F.
+Supp. 564, 578 (S.D.N.Y. 1996).
+Caruso cannot be distinguished on the ground that the option in that case
+gave the holder the right to purchase stock and the limited partnership units here
+6
+
+
+give limited partners the right to redeem the units for stock. Section 3(a)(13) of
+the Exchange Act provides that the “terms ‘buy’ and ‘purchase’ each include any
+contract to buy, purchase, or otherwise acquire.” 15 U.S.C. § 78c(a)(13)
+(emphasis added). The right to acquire stock, therefore, satisfies the definition of
+a security in Section 3(a)(10) of the Exchange Act.
+The fact that here, as is typical in UPREITs, the REIT had the choice to give
+holders of the units the cash value of the REIT stock, rather than the stock itself,
+does not undermine the conclusion that the limited partnership units are securities.
+An option on the value of a security is also itself a security. In Caiola v. Citibank,
+N.A., 295 F.3d 312 (2d Cir. 2002), the Second Circuit, agreeing with the view
+expressed by the Commission in an amicus brief filed in that case, held that “cash­
+settled over-the-counter options on the value of a security are covered by Section
+10(b).” Id. at 325. Section 3(a)(10) of the Exchange Act provides that the term
+“security” includes an “option . . . on any security, certificate of deposit, or group
+or index of securities (including any interest therein or based on the value
+thereof).” 15 U.S.C. § 78c(a)(10). Therefore, “the right to take possession does
+not define an ‘option’ under Section 3(a)(10), which covers options that can be
+physically delivered as well as those that cannot,” 295 F.3d at 326, and there is
+“no textual basis for reading section 3(a)(10) to define ‘option’ as including only
+transactions that give the holder the right to receive the underlying securities,” id.
+7
+
+
+at 327. Accordingly, “options based on the value of a security are . . . securities.”
+Id. at 327 n.7.
+In sum, the limited partnership units in this case are securities because they
+give unit holders the right to acquire either REIT stock, which renders each unit an
+option to acquire a security, or the cash value of REIT stock, which renders each
+unit an option based on the value of a security.
+This conclusion comports with the Commission’s historical treatment of
+limited partnership units in the operating partnership of an UPREIT as securities.
+For example, in adopting rules regarding limited partnership roll-up transactions,
+“the SEC, by way of footnote, made it clear that the typical UPREIT transaction
+could not avail itself of the exclusion from the definition of a rollup” for
+transactions that “involve[] only issuers . . . that are not required to register or
+report under Section 12 of the 1934 Act both before and after the transaction.”
+Handbook § 2:260, at 464 (citing Limited Partnership Roll-Up Transactions,
+Exchange Act Rel. No. 35036 (Dec. 1, 1994), 1994 WL 669982, at *3 n.33). In
+the footnote, the Commission stated that “if a transaction involves the issuance of
+a security that, after the transaction, would be convertible into a security of an
+issuer that is required to register or report under Section 12, this exclusion would
+not be available since the transaction would not involve only non-Section 12
+issuers.” 1994 WL 669982, at *3 n.33. The footnote’s reasoning demonstrates
+8
+
+
+that the Commission considers the issuance of limited partnership units in the
+operating partnership of an UPREIT, which may be converted into REIT stock, to
+“involve[] the issuance of a security.” 1/
+II.	
+
+Under the Majority’s View of the Facts, the Limited Partnership Units are
+Securities Because They are Investment Contracts.
+The panel majority, noting that Section 3(a)(10) of the Exchange Act
+
+defines “security” to include an “investment contract,” analyzed “whether the
+limited partnership units in this case are investment contract[s]” under “the test of
+SEC v. W.J. Howey Co., 328 U.S. at 298-99.” 577 F.3d at 339. As the majority
+opinion stated, the Supreme Court, in Howey, held an investment contract to be “a
+contract, transaction, or scheme whereby a person invests his money in a common
+enterprise and is led to expect profits solely from the efforts of the promoter or a
+third party.” Id. (quoting Howey, 328 U.S. at 298-99). “The courts of appeals
+have been unanimous in declining to give literal meaning to the word ‘solely’ in
+this context,” SEC v. SG Ltd., 265 F.3d 42, 55 (1st Cir. 2001), and, as the majority
+stated, 577 F.3d at 339, this Court has repeatedly treated this test as met when
+profits are generated predominantly from the efforts of others, e.g., SEC v. Int’l
+1/	
+
+Leading commentators also recognize that UPREIT limited partnership
+units are securities. See Handbook § 2:260, at 462; Jack H. McCall, A
+Primer on Real Estate Trusts: The Legal Basics of REITS, 2 Transactions:
+Tenn. J. Bus. L. 1, 11 (2001); M. Guy Maisnik, Basic Issues in Exchanging
+Property Interests for UPREIT OP Units, 468 PLI/Real 401, 406 (2001).
+9
+
+
+Loan Network, Inc., 968 F.2d 1304, 1308 (D.C. Cir. 1992). In this case, the only
+aspect of the Howey analysis the dissent argues is lacking is the expectation that
+profits will come predominantly from the efforts of others, because, the dissent
+contends, Kramer and Grigg, who owned purchaser RPC, also controlled RPT, the
+general partner that would manage the business.
+As the majority recognized here, a traditional limited partnership interest (in
+a limited partnership not associated with a REIT and without a redemption-for­
+shares feature) “generally is a security” in the form of an investment contract
+“because such an interest involves an investment in a common enterprise with
+profits to come primarily from the efforts of others.” 577 F.3d at 339 (internal
+quotation marks and citations omitted). 2/ The majority held that profits from the
+limited partnership units in this case were expected to come predominantly from
+the efforts of others because after its IPO in December 2005, RPT, which
+controlled RPLP, had additional trustees and executive officers, and Kramer’s and
+Grigg’s votes were a minority of the board. Id. at 341. The majority opinion
+2/	
+
+Accord Williamson v. Tucker, 645 F.2d 404, 423 (5th Cir. 1981) (observing
+that “a limited partnership [interest] . . . has long been held to be an
+investment contract”); 3 Harold S. Bloomenthal, Securities & Federal
+Corporate Law § 2:38, at 2-92 (2001) (“Since, in order to achieve limited
+liability for the limited partners, it is essential that they not participate in
+management, the investment contract approach ordinarily results in
+classification [of a limited partnership interest] as a security. These interests
+have generally been regarded by the Commission and courts as securities.”)
+10
+
+
+concluded, based on this economic reality analysis, that after the IPO “Kramer and
+Grigg did not exercise sufficient control of the limited partnership to disqualify
+their units as securities.” Id. at 340-41.
+The dissent focused on control of RPT at the time the “Contribution
+Agreement [was] executed on September 23, 2005, when Kramer and Grigg were
+two of only three trustees.” Id. at 343 n.*. The majority held in the alternative,
+however, that “the analysis does not change if we consider the trust at the time the
+Contribution Agreement was signed in September 2005” because even at that
+earlier time Kramer and Grigg expected that the business would operate with the
+additional trustees to be added at the time of the IPO in December 2005. Id. at
+341.
+The Commission agrees with the majority that, whether one looks at
+September or December, determining whether the purchaser of the units, RPC,
+expected its financial return to come primarily from the efforts of others must
+focus on managerial control of the business as it was expected to operate. SEC v.
+Edwards, 540 U.S. 389, 395 (2004) (stating that the “‘touchstone’” of an
+investment contract is “‘an investment in a common venture premised on a
+reasonable expectation of profits to be derived from the entrepreneurial or
+managerial efforts of others’”) (emphasis added) (quoting United Housing
+Foundation, Inc. v. Forman, 421 U.S. 837, 852 (1975)). In the case of an
+11
+
+
+UPREIT, this means the expectations as to how the business will operate after the
+completion of the IPO because, in an UPREIT, limited partnership units are not
+issued, and the business does not begin operating, until after the IPO’s closing.
+The closing of the IPO is a condition of the issuance of the units and the time at
+which the proceeds of the offering are contributed to the partnership to enable the
+business to operate. In this case, the Contribution Agreement expressly provided
+(as is typical in such agreements in anticipation of creating an UPREIT) that the
+parties’ obligations under the agreement were subject to the closing of the IPO,
+and that if the IPO did not close the agreement would be terminated and would be
+“of no further force and effect” (JA 50, JA 52). Any profits to be generated from
+the limited partnership units were expected to come only from operation of the
+business after the IPO.
+As noted above, the majority held that the presence of the independent
+trustees and executive officers demonstrated that Kramer and Grigg did not
+exercise sufficient control after the IPO to exclude their limited partnership units
+from the scope of an investment contract. The Commission assumes the
+correctness of the majority’s conclusion that Kramer and Grigg did not exercise
+sufficient control at this time and takes no position on whether or not that was a
+correct reading of the allegations of the complaint.
+
+12
+
+
+Earlier in its opinion, the majority appears to have held that the limited
+partnership units were investment contracts based on the Partnership Agreement’s
+legal rights alone, without regard to the economic reality regarding control of the
+business. 577 F.3d at 339-40. The Commission disagrees with the majority’s
+statement that, in deciding whether an interest is an investment contract, “‘the
+legal rights and powers enjoyed by the investor’ should be the touchstone of [the]
+analysis.” 577 F.3d at 339 (quoting Steinhardt Group, Inc. v. Citicorp., 126 F.3d
+144, 153 (3d Cir. 1997)). That approach is inconsistent with Howey. In Howey, a
+contract to purchase a fee simple interest in land and a service contract to grow
+crops on the land—documents that alone gave investors control of their property
+and its use—nonetheless were held to be an investment contract when viewed
+together and in the context of surrounding circumstances, including the promoter’s
+representations. In cases where, as in Howey but unlike here, formal documents
+purport to give investors legal control of the enterprise—while in fact investors’
+powers are illusory and the promoters retain practical control—the Commission
+and the courts have long recognized that the formal documents are not the focus of
+the analysis. See, e.g., SEC v. Merchant Capital LLC, 483 F.3d 747, 756-57 (11th
+Cir. 2007) (agreeing with the Commission that the Howey analysis is not limited to
+partnership documents); SEC v. Aqua-Sonic Prods. Corp., 687 F.2d 577, 584 (2d
+Cir. 1982) (stating that “it would be incongruous to attach decisive significance to
+13
+
+
+mere legal formality when the Court [in Howey] explicitly refused to be bound by
+‘the legal terminology in which such contracts are clothed’”) (quoting Howey, 328
+U.S. at 300); see also Edwards, 540 U.S. at 393 (stating that the definition of
+investment contract “embodies a flexible rather than a static principle, one that is
+capable of adaptation to meet the countless and variable schemes devised by those
+who seek the use of the money of others on the promise of profits”); Forman, 421
+U.S. at 848 (stating that “‘form should be disregarded for substance and the
+emphasis should be on economic reality’”) (citation omitted).
+The majority’s reference to legal rights under the documents being the
+“touchstone” of the investment contract analysis can be read, however, as limited
+to cases like this one where the limited partnership agreement itself gives unit
+holders no managerial authority. 577 F.3d at 340-41 n.2. According to the
+majority opinion, “[n]either party argues that the limited partnership units
+purchased by the corporation granted legal rights to control the limited
+partnership.” 577 F.3d at 339. Partnership agreements for operating partnerships
+of UPREITs ordinarily, as here, are traditional limited partnership agreements that
+give limited partners no managerial authority—such authority is given to the REIT
+itself, the general partner of the limited partnership. Arguably, in such cases,
+where the documents give limited partners no managerial authority, an analysis
+that looks only to the legal rights of the parties could be appropriate. It is
+14
+
+
+unnecessary, however, to decide whether the majority’s analysis based on the
+Partnership Agreement alone is correct under Howey and other Supreme Court
+decisions, and the Commission takes no position on that issue, because the
+majority also held, as noted above, that the limited partnership units were
+investment contracts based on the economic reality of the transaction.
+CONCLUSION
+For the foregoing reasons, the Court should rule in accordance with the
+positions urged in this brief.
+Respectfully submitted,
+DAVID M. BECKER
+General Counsel
+MARK D. CAHN
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+SUSAN S. McDONALD
+Senior Litigation Counsel
+/s/ Benjamin L. Schiffrin
+BENJAMIN L. SCHIFFRIN
+Senior Counsel
+Securities and Exchange Commission
+100 F Street, NE
+Washington, DC 20549
+(202) 551-5003 (Schiffrin)
+schiffrinb@sec.gov
+December 2009
+15
+
+
+CERTIFICATE OF COMPLIANCE
+
+In compliance with the Court’s October 5, 2009 order, I certify that the
+Brief of the Securities and Exchange Commission, Amicus Curiae, on Issues
+Addressed, does not exceed fifteen pages.
+
+/s/ Benjamin L. Schiffrin
+BENJAMIN L. SCHIFFRIN
+
+STATUTORY ADDENDUM
+
+
+TABLE OF CONTENTS
+
+Section 3(a)(10) of the Securities Exchange Act of 1934,
+15 U.S.C. § 78c(a)(10) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1A
+Section 3(a)(13) of the Securities Exchange Act of 1934,
+15 U.S.C. § 78c(a)(13) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1A
+Section 10(b) of the Securities Exchange Act of 1934,
+15 U.S.C. § 78j(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2A
+Rule 10b-5 under the Securities Exchange Act of 1934,
+17 C.F.R. § 240.10b-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3A
+
+Section 3(a)(10) of the Securities Exchange Act of 1934,
+15 U.S.C. § 78c(a)(10)
+(a) When used in this title, unless the context otherwise requires—
+(10) The term “security” means any note, stock, treasury stock, security
+future, bond, debenture, certificate of interest or participation in any profit-sharing
+agreement or in any oil, gas, or other mineral royalty or lease, any collateral-trust
+certificate, preorganization certificate or subscription, transferable share,
+investment contract, voting-trust certificate, certificate of deposit for a security,
+any put, call, straddle, option, or privilege on any security, certificate of deposit, or
+group or index of securities (including any interest therein or based on the value
+thereof), or any put, call, straddle, option, or privilege entered into on a national
+security exchange relating to foreign currency, or in general, any instrument
+commonly known as a ‘security’; or any certificate of interest or participation in,
+temporary or interim certificate for, receipt for, or warrant or right to subscribe to
+or purchase, any of the foregoing; but shall not include currency or any note, draft,
+bill of exchange, or banker’s acceptance which has a maturity at the time of
+issuance of not exceeding nine months, exclusive of days of grace, or any renewal
+thereof the maturity of which is likewise limited.
+Section 3(a)(13) of the Securities Exchange Act of 1934,
+15 U.S.C. § 78c(a)(13)
+(a) When used in this title, unless the context otherwise requires—
+(13) The terms “buy” and “purchase” each include any contract to buy,
+purchase, or otherwise acquire. For securities futures products, such term includes
+any contract, agreement, or transaction for future delivery.
+
+1A
+
+
+Section 10(b) of the Securities Exchange Act of 1934,
+15 U.S.C. § 78j(b)
+It shall be unlawful for any person, directly or indirectly, by the use of any means
+or instrumentality of interstate commerce or of the mails, or of any facility of any
+national securities exchange—
+(b) To use or employ, in connection with the purchase or sale of any
+security registered on a national securities exchange or any security not so
+registered, or any securities-based swap agreement (as defined in section 206B of
+the Gramm-Leach-Bliley Act), any manipulative or deceptive device or
+contrivance in contravention of such rules and regulations as the Commission may
+prescribe as necessary or appropriate in the public interest or for the protection of
+investors.
+Rules promulgated under subsection (b) that prohibit fraud, manipulation, or
+insider trading (but not rules imposing or specifying reporting or recordkeeping
+requirements, procedures, or standards as prophylactic measures against fraud,
+manipulation, or insider trading), and judicial precedents decided under subsection
+(b) and rules promulgated thereunder that prohibit fraud, manipulation, or insider
+trading, shall apply to security-based swap agreements (as defined in section 206B
+of the Gramm-Leach-Bliley Act) to the same extent as they apply to securities.
+Judicial precedents decided under section 17(a) of the Securities Act of 1933 and
+sections 9, 15, 16, 20, and 21A of this title, and judicial precedents decided under
+applicable rules promulgated under such sections, shall apply to security-based
+swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) to
+the same extent as they apply to securities.
+
+2A
+
+
+Rule 10b-5 under the Securities Exchange Act of 1934,
+17 C.F.R. § 240.10b-5
+It shall be unlawful for any person, directly or indirectly, by the use of any means
+or instrumentality of interstate commerce, or of the mails or of any facility of any
+national securities exchange,
+(a) To employ any device, scheme, or artifice to defraud
+(b) To make any untrue statement of a material fact or to omit to state a
+material fact necessary in order to make the statements made, in light of the
+circumstances under which they were made, not misleading, or
+(c) To engage in any act, practice, or course of business which operates or
+would operate as a fraud or deceit upon any person,
+in connection with the purchase or sale of any security.
+
+3A
+
+
+CERTIFICATE OF SERVICE
+I hereby certify that on December 22, 2009, I caused a copy of the Brief of
+the Securities and Exchange Commission, Amicus Curiae, on Issues Addressed to
+be served via e-mail on George A. Borden, counsel for Appellees Republic
+Properties Corporation and Richard L. Kramer; Leslie R. Cohen, counsel for
+Appellee Steven A. Grigg; and Mark Earl Nagle, counsel for Appellants Liberty
+Property Trust and Liberty Property Limited Partnership, by filing the brief with
+the Clerk of Court using the CM/ECF system.
+
+/s/ Benjamin L. Schiffrin
+BENJAMIN L. SCHIFFRIN
+
+

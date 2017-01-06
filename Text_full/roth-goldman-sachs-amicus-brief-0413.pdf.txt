@@ -1,0 +1,690 @@
+12-2509-cv
+
+IN THE UNITED STATES COURT OF APPEALS 
+
+FOR THE SECOND CIRCUIT
+
+ANDREW E. ROTH, DERIVATIVELY ON BEHALF OF 
+
+LEAP WIRELESS INTERNATIONAL, INC.,
+
+Plaintiff-Appellant,
+v.
+THE GOLDMAN SACHS GROUP, INC., GOLDMAN, SACHS & CO.,
+LEAP WIRELESS INTERNATIONAL, INC.,
+Defendants-Appellees.
+
+On Appeal From The United States District Court 
+
+For The Southern District Of New York 
+
+
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE
+GEOFFREY F. ARONOW
+General Counsel
+MICHAEL A. CONLEY
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+JOHN W. AVERY
+Deputy Solicitor
+BENJAMIN M. VETTER
+Attorney
+Securities and Exchange Commission
+100 F. Street N.E.
+Washington, D.C. 20549-9040
+(202) 551-7945 (Vetter)
+
+TABLE OF CONTENTS
+
+TABLE OF AUTHORITIES .................................................................................... ii 
+
+INTEREST OF THE COMMISSION .......................................................................1 
+
+ISSUE ADDRESSED ................................................................................................2 
+
+STATEMENT OF THE CASE..................................................................................2 
+
+A.	
+
+Statutory and Regulatory Scheme .........................................................3 
+
+
+B.	
+
+Facts .......................................................................................................7
+
+
+C.
+
+The District Court Proceedings ............................................................8 
+
+
+DISSCUSSION ........................................................................................................11 
+
+I.	
+
+Under Rule 16b-6(d), the expiration of a call option contract within six 
+
+months of its writing is treated as a purchase by the writer of the call option 
+
+contract for Section 16(b) purposes. ..............................................................11 
+
+
+II.	
+
+Rule 16b-6(d) requires that a ten percent beneficial owner pay the options
+premium to the issuer only if the ten percent beneficial owner was such both
+at the time the options contract was written and when it expires. .................18 
+
+
+CONCLUSION ........................................................................................................20 
+
+CERTIFICATE OF COMPLIANCE WITH RULE 32(a) ......................................21 
+
+
+i
+
+TABLE OF AUTHORITIES 
+
+CASES
+Allaire Corp. v. Okumus, 433 F.3d 248 (2d Cir. 2006) ...................... 8, 11-12, 14-15 
+
+Colema Realty Corp. v. Bibow, 555 F. Supp. 1030 (D. Conn. 1983)................12, 17
+
+Foremost-McKesson, Inc. v. Provident Sec. Co., 423 U.S. 232 (1976) .................. 18
+
+Gollust v. Mendell, 501 U.S. 115 (1991) ................................................................... 4
+
+Gwozdzinsky v. Zell/Chilmark Fund, L.P., 156 F.3d 305 (2d Cir. 1998) .......... 13, 14
+
+Kern County Land Co. v. Occidental Petroleum Corp., 
+
+411 U.S. 582 (1973)......................................................................................... 4
+
+Magma Power Co. v. Dow Chemical Co., 
+
+136 F.3d 316 (2d Cir. 1998) .................................................. 10, 11, 13-14, 15
+
+Matas v. Siess, 467 F. Supp. 217 (S.D.N.Y. 1979)............................................12, 17
+
+Reece Corp. v. Walco Nat’l Corp., 565 F. Supp. 158 (S.D.N.Y. 1981) ............ 12, 18
+
+Reliance Electric Co. v. Emerson Electric Co., 404 U.S. 418 (1972) .....4, 15, 18, 19
+
+Roth ex rel. Leap Wireless Int’l, Inc.v. The Goldman Sachs Group, Inc., 
+
+873 F. Supp. 2d 524 (S.D.N.Y. 2012) ............................ 2-3, 7-8, 9-10, 13, 19 
+
+STATUTES
+Securities Exchange Act of 1934, 15 U.S.C. § 78a, et seq.
+
+Section 16(a)(1), 15 U.S.C. 78p(a)(1) ............................................................. 3 
+
+Section 16(b), 15 U.S.C. 78p(b) .............................................................passim
+
+LEGISLATIVE HISTORY
+S. Rep. No. 73-1455 (1934) ....................................................................................... 3 
+
+ii 
+
+
+RULES
+Exchange Act Rule 16a-1(b), 17 C.F.R. 240.16a-1(b) .............................................. 6 
+
+Exchange Act Rule 16a-1(h), 17 C.F.R. 240.16a-1(h) ........................................6, 11 
+
+Exchange Act Rule 16a-2, 17 C.F.R. 240.16a-2........................................................ 8 
+
+Exchange Act Rule 16a-10, 17 C.F.R. 240.16a-10 ................................................... 8 
+
+Exchange Act Rule 16b-6, 17 C.F.R. 240.16b-6 ....................................................... 1 
+
+Exchange Act Rule 16b-6(a), 17 C.F.R. 240.16b-6(a) .......................................... 6, 8 
+
+Exchange Act Rule 16b-6(b), 17 C.F.R. 240.16b-6(b) .......................................... 6-7 
+
+Exchange Act Rule 16b-6(d), 17 C.F.R. 240.16b-6(d) .....................................passim
+
+RELEASES
+Ownership Reports and Trading by Officers, Directors and Principal Stockholders,
+
+53 Fed. Reg. 49997 (Dec. 13, 1988)..................................................12, 13, 14 
+
+Ownership Reports and Trading by Officers, Directors and Principal Security 
+
+Holders, 56 Fed. Reg. 7242 (Feb. 21, 1991) ..................................... 5, 6-7, 16 
+
+OTHER AUTHORITIES
+5A Arnold S. Jacobs, Disclosure & Remedies 
+
+under the Securities Laws § 4:166 (2012) ..................................................... 16 
+
+
+iii 
+
+
+12-2509-cv
+IN THE UNITED STATES COURT OF APPEALS 
+
+FOR THE SECOND CIRCUIT
+
+ANDREW E. ROTH, DERIVATIVELY ON BEHALF OF 
+
+LEAP WIRELESS INTERNATIONAL, INC.,
+
+Plaintiff-Appellant,
+v.
+THE GOLDMAN SACHS GROUP, INC., GOLDMAN, SACHS & CO.,
+LEAP WIRELESS INTERNATIONAL, INC.,
+Defendants-Appellees.
+
+On Appeal From The United States District Court 
+
+For The Southern District Of New York 
+
+
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE
+INTEREST OF THE COMMISSION
+The Securities and Exchange Commission submits this brief as amicus
+curiae in response to the invitation of the Court. The Commission has a strong
+interest in ensuring that Exchange Act Rule 16b-6, 17 C.F.R. 240.16b-6, which
+implements Section 16 of the Securities Exchange Act of 1934, 15 U.S.C. 78p, as
+it relates to derivative transactions by corporate insiders, is properly interpreted
+and its objectives are carried out. The parties assert conflicting interpretations of
+Section 16(b), 15 U.S.C. 78p(b), and Rule 16b-6(d), 17 C.F.R. 240.16b-6(d), and
+the Commission submits this brief setting forth its interpretation.
+
+1
+
+
+ISSUE ADDRESSED
+Whether, under Section 16(b) and Rule 16b-6(d), which allow recovery of
+short-swing profits gained from the sale and subsequent expiration within six
+months of short call options written by a ten percent beneficial owner, the ten
+percent beneficial owner must be such both at the time the option is written and at
+the time the option expires.
+STATEMENT OF THE CASE
+This action was brought by Andrew E. Roth, a Leap Wireless International,
+Inc. shareholder. Roth brought the action on behalf of Leap under Section 16(b)
+and Rule 16b-6(d) to recover alleged short-swing profits obtained by The Goldman
+Sachs Group, Inc. while it was a statutory insider of Leap due to its beneficial
+ownership of more than ten percent of Leap’s equity securities. Roth alleged that
+when Goldman was a statutory insider, it wrote short call options on Leap shares.
+Because the call options expired unexercised within six months of writing, Roth
+argues that the premiums Goldman received for writing them are recoverable under
+Rule 16b-6(d). The district court dismissed Roth’s action because, although
+Goldman was a beneficial owner of more than ten percent of Leap’s stock at the
+time it wrote the options, it had ceased to be so at the time the options expired.
+Roth ex rel. Leap Wireless Int’l, Inc. v. The Goldman Sachs Group, Inc., 873
+2
+
+
+F.Supp.2d 524, 536 (S.D.N.Y. 2012). The Commission agrees with the district
+court’s conclusion that Goldman is not liable under Section 16(b) on the facts
+alleged in the complaint.
+A.
+
+Statutory and Regulatory Scheme
+
+Section 16(b) provides for the recovery by the issuer, in an action brought by
+the issuer or by a security holder of the issuer, of profits realized by a statutory
+insider (an officer, director, or ten percent beneficial owner) from the sale and
+purchase, or the purchase and sale, of the securities of the issuer when both the
+purchase and sale, or the sale and purchase, take place within a six-month period.
+As related to ten percent beneficial owners,1 Section 16(b) does not “cover any
+transaction where such beneficial owner was not such both at the time of the
+purchase and sale, or the sale and purchase, of the security . . . involved.”
+Section 16(b)’s stated purpose is to “prevent[] the unfair use of information
+which may have been obtained by [a corporate insider] by reason of his
+relationship to the issuer.” As the Supreme Court has noted, “the only method
+Congress deemed effective to curb the evils of insider trading was a flat rule taking
+1
+
+By including “beneficial owners” in Section 16(b), Congress intended to prevent
+“the unscrupulous employment of inside information by large stockholders who,
+while not directors and officers, exercised sufficient control over the destinies of
+their companies to enable them to acquire and profit by information not available
+to others.” S. Rep. No. 73-1455, at 55 (1934). Congress set beneficial ownership
+of more than ten percent of a company’s equity securities as the “large
+stockholders” threshold. Id. at 68; Section 16(a)(1), 15 U.S.C. 78p(a)(1) (applying
+Section 16 to ten percent beneficial owners).
+3
+
+
+the profits out of a class of transactions in which the possibility of abuse was
+believed to be intolerably great.” Reliance Electric Co. v. Emerson Electric Co.,
+404 U.S. 418, 422 (1972). To prevent profit-taking based on inside information,
+Section 16(b) “imposes a form of strict liability on ‘beneficial owners,’ . . .
+rendering them liable to suits requiring them to disgorge their profits even if they
+did not trade on inside information or intend to profit on the basis of such
+information.” Gollust v. Mendell, 501 U.S. 115, 122 (1991).
+Although Section 16(b)’s imposition of “liability without fault” creates a
+“reluctan[ce] to exceed a literal, ‘mechanical’ application of the statutory text in
+determining who may be subject to liability,” Gollust, 501 U.S. at 122, the
+Supreme Court nonetheless has instructed that “where alternative constructions of
+the terms of §16(b) are possible, those terms are to be given the construction that
+best serves the congressional purpose of curbing short-swing speculation by
+corporate insiders.” Reliance, 404 U.S. at 424. Recognizing that “[t]he statutory
+definitions of ‘purchase’ and ‘sale’ are broad and, at least arguably, reach many
+transactions not ordinarily deemed a sale or purchase,” courts, when interpreting
+those terms in Section 16(b), “have properly asked whether the particular type of
+transaction involved is one that gives rise to speculative abuse.” Kern County
+Land Co. v. Occidental Petroleum Corp., 411 U.S. 582, 593-95 (1973) (citations
+and quotation marks omitted).
+4
+
+
+As part of a comprehensive revision of its Section 16 rules in 1991, the
+Commission considered whether derivative transactions could give rise to
+speculative abuse of inside information. The Commission concluded that since the
+value of a derivative security is tied to the value of the underlying equity security,
+“holding derivative securities is functionally equivalent to holding the underlying
+equity securities for purposes of section 16.” Ownership Reports and Trading by
+Officers, Directors and Principal Security Holders, 56 Fed. Reg. 7242, 7248 (Feb.
+21, 1991) (“Adopting Release”). This functional equivalence means that “both
+types of securities can be used to engage in the kind of short-swing profit taking
+that Congress sought to prevent. . . .” Id. The Commission therefore adopted Rule
+16b-6 “to effect the purposes of section 16 and to address the proliferation of
+derivative securities and the popularity of exchange-traded options.” Id.
+To prevent the use of inside information to take short-swing profits in
+derivative transactions, Rule 16b-6 defines when derivative transactions are
+deemed sales or purchases for Section 16(b) purposes. The Commission began
+with the fact that “[j]ust as an insider’s opportunity to profit commences when he
+purchases or sells the issuer’s common stock, so too the opportunity to profit
+commences when the insider engages in transactions in options or other derivative
+securities that provide an opportunity to obtain or dispose of the stock at a fixed
+price.” 56 Fed. Reg. at 7248. Because the insider’s “opportunity to profit” on
+5
+
+
+inside information arises at the commencement of a derivative transaction, the
+Commission, in its Adopting Release, determined that the “significant event” for
+Section 16(b) purposes is “acquisition of the derivative security . . . not the
+exercise.” 56 Fed. Reg. at 7248. Thus, Rule 16b-6(a), 17 C.F.R. 240.16b-6(a), as
+adopted in 1991, states that, for Section 16(b) purposes, “[t]he establishment of or
+increase in a call equivalent position or liquidation of or decrease in a put
+equivalent position shall be deemed a purchase of the underlying security . . . and
+the establishment of or increase in a put equivalent position or liquidation of or
+decrease in a call equivalent position shall be deemed a sale of the underlying
+securities.”2 Because acquiring fixed-price derivative securities is treated as a sale
+or purchase of the underlying equity security under Section 16, the acquisition can
+be matched to other sales or purchases of the same underlying equity security, or
+derivative securities, by the insider, and the insider must disgorge any resulting
+profit. 56 Fed. Reg. at 7249, 7252-53.
+While Rule 16b-6(a) defines acquiring a derivative security position as a
+purchase or sale for Section 16 purposes, Rule 16b-6(b), 17 C.F.R. 240.16b-6(b),
+exempts the exercise of a derivative security from being a purchase or sale under
+Section 16. Because exercise of a derivative security “essentially changes the form
+2
+
+A “call equivalent position” increases in value when the underlying security
+increases in value and includes short put options; a “put equivalent position”
+increases in value when the underlying security decreases in value and includes
+short call options. Rule 16a-1(b) & (h), 17 C.F.R. 240.16a-1(b) & (h).
+6
+
+
+of beneficial ownership from indirect to direct” and “represents neither the
+acquisition nor the disposition of a right affording the opportunity to profit,” the
+Commission determined that it is not a Section 16 sale or purchase. 56 Fed. Reg.
+at 7249.
+The expiration or cancellation of a derivative security, however, represents
+the reacquisition of a right affording the opportunity to profit in that it returns full
+beneficial ownership of the underlying security to the writer and, in fact,
+guarantees the writer a profit in the form of the option premium. Thus, as
+explained in greater detail below, infra at 16, Rule 16b-6(d) separately addresses
+expiration and requires that “[u]pon cancellation or expiration of an option within
+six months of the writing of the option, any profit derived from writing the option
+shall be recoverable under section 16(b).” The profit is the premium collected by
+the insider for writing the option. Id.
+B.
+
+Facts
+
+Goldman Sachs became a ten percent beneficial owner of Leap on
+September 30, 2009. Roth, 873 F. Supp. 2d at 527. Also on September 30, 2009,
+while it was a ten percent beneficial owner, Goldman Sachs wrote 32,000 short call
+options covering 3.2 million shares, exercisable at the fixed price of $39 per share,
+and sold them for 33 cents per share, receiving premiums totaling $1,056,000. Id.
+On October 2, 2009, Goldman Sachs ceased being a ten percent beneficial owner
+7
+
+
+after it sold enough Leap shares to bring its ownership stake below ten percent. Id.
+The September 30 call options expired unexercised on January 16, 2010, less than
+four months after issuance. Id. Goldman Sachs was not a ten percent beneficial
+owner of Leap when the call options expired.
+C.
+
+Proceedings in the District Court
+
+Goldman moved to dismiss Roth’s action, relying primarily on two
+independent arguments. First, pointing out that Section 16(b) requires a matched
+sale and purchase, Goldman claimed it was not liable on the ground that, accepting
+that writing the call options was a “sale” under Section 16(b) and Rule 16b-6(a),
+there was no matching purchase because, according to Allaire Corp. v. Okumus,
+433 F.3d 248, 252 (2d Cir. 2006), the expiration of the call options was not a
+“purchase” under Section 16(b). Second, Goldman argued it was not liable
+because even if the expiration of the call options was a “purchase,” it was not a ten
+percent beneficial owner at the time of expiration, and Section 16(b) applies only
+when a ten percent beneficial owner is such at the time of both the sale and the
+purchase.3
+
+3
+
+Goldman also argued that because it was not a ten percent beneficial owner when
+the call options expired, Rule 16a-2, 17 C.F.R. 240.16a-2, exempted it from
+Section 16(a)’s reporting requirement, and that Rule 16a-10, 17 C.F.R. 240.16a-10,
+in turn, exempted it from Section 16(b). The district court did not address the
+argument, deciding the case on other grounds. Goldman raises the argument again
+on appeal. Goldman Br. at 25-27. The Commission does not believe it is
+8
+
+
+Opposing dismissal, Roth argued that Goldman’s lack of ten percent
+beneficial owner status at expiration was immaterial because the expiration of the
+options was a “non-event”—neither a purchase nor a sale for Section 16(b)
+purposes. Roth argued that Rule 16b-6(d) satisfies the statutory requirement that a
+ten percent beneficial owner be such at the time of both a sale and a purchase
+because writing the option was itself both a sale and a purchase for Section 16(b)
+purposes. This was so, according to Roth, because writing the call option
+presented Goldman with the opportunity to profit from inside information, the
+concern that Section 16(b) was intended to address.
+The district court dismissed Roth’s action. The court first noted that “in
+order for liability to attach, the requirements of [Section 16(b)] must be met—it is
+not enough for a transaction to fall under the broader category of evils that the
+statute was meant to curb.” Roth, 873 F. Supp. 2d at 530. One requirement of the
+statute is that a ten percent beneficial owner be such at the time of both matchable
+transactions—either the sale and the purchase, or the purchase and the sale, of the
+security involved. Id.
+Turning to the regulations, the court rejected both Goldman Sachs’s and
+Roth’s arguments that the expiration of the call options within six months of
+writing was not a “purchase.” The court noted that “[i]f the expiration of an option
+necessary to address the exemption argument, and, consequently, takes no position
+on its correctness.
+9
+
+could never be considered a ‘purchase’ or ‘sale,’ then Rule 16b-6(d) could not
+impose liability consistently with Section 16(b), which ‘requires both a purchase
+and sale within a six-month period’ to impose liability.” Id. at 534. Rule 16b-6(d)
+was consistent with Section 16(b) “if the events that the regulation governs (the
+writing and expiration of an option) can be considered a ‘purchase’ and a ‘sale.’”
+Id. at 535. Thus, the court found that writing the call options was the “sale,” and
+“[t]he equivalent of the purchase was the expiration of the options on January 16,
+2010.” Id. at 536. Addressing Roth’s argument that the writing of the option was
+a simultaneous purchase and sale for Rule 16b-6(d) purposes, the court stated that
+“Section 16(b) ‘requires at least two transactions within six months: a purchase
+followed by a sale or a sale followed by a purchase.’” Id. at 535 (quoting Magma
+Power Co. v. Dow Chem. Co., 136 F.3d 316, 325 (2d Cir. 1998)). The court
+concluded that Roth’s single-transaction theory “is simply incompatible with the
+plain language of the statute.” Id.
+Because it was uncontested that Goldman Sachs was not a ten percent
+beneficial owner at the time of the “purchase”—the expiration of the call options—
+the court held that Goldman Sachs could not be liable under Section 16(b) and
+dismissed the action.
+
+10 
+
+
+DISCUSSION 
+
+I. 	
+
+Under Rule 16b-6(d), the expiration of a call option contract within six
+months of its writing is treated as a purchase by the writer of the call option
+contract for Section 16(b) purposes.
+The parties do not dispute that Goldman’s writing of the short call options
+
+was a sale under Rule 16b-6(a) because it established a “put equivalent position”
+that is “deemed a sale of the underlying securities for purposes of section 16(b) of
+the Act.” See also Rule 16a-1(h) (defining “put equivalent position” to include “a
+short call option position”).
+On appeal, Goldman argues that the district court correctly held that it was
+not liable under Section 16(b) and Rule 16b-6(d) because it was not a ten percent
+beneficial owner when the options expired. Goldman Br. 11-14. As an alternative
+ground for affirmance, Goldman further argues that the expiration of a call option
+is not a purchase under Section 16(b) because “the SEC’s rationale behind
+imposing liability on the expiration (rather than cancellation) of an option cannot
+be reconciled with ‘[t]he settled rule . . . that an insider’s inactivity cannot give rise
+to Section 16(b) liability.’” Goldman Br. 28 (quoting Magma Power, 136 F.3d at
+325). According to Goldman, Magma Power’s conclusion that inactivity by an
+insider cannot give rise to Section 16(b) liability underpins Allaire’s statement that
+“‘neither the holder’s exercise of the option nor the holder’s allowing the option to
+expire constitutes a transaction by the option’s writer.’” Id. (quoting Allaire, 433
+11 
+
+
+F.3d at 252). In Goldman’s view, the expiration of an option is neither a purchase
+nor a sale by the writer because expiration involves no activity by the writer.
+Roth argues that, contrary to the district court’s conclusion, the expiration of
+the call options was not a matching purchase by Goldman for Section 16(b)
+purposes. Rather, he argues, the writing of the call options was both a sale and a
+purchase by Goldman because “[u]nder the statute the purchase and sale takes
+place simultaneously by the terms of the option contract.” Roth Br. 11. Roth cites
+three district court cases pre-dating the Commission’s 1991 adoption of
+Rule 16b-64 as authority that “[t]he notion that a transaction can be both a purchase
+and a sale for 16(b) purposes had been approved by a number of courts where
+necessary to vindicate the purposes of the statute.” Id. 18.
+Neither Roth’s argument that writing an option is a simultaneous purchase
+and sale nor Goldman’s argument that expiration of a short call option is not
+treated as a purchase by the writer is correct. Rule 16b-6(d) requires the
+disgorgement of the premium received when expiration occurs within six months
+of writing “because there is short-swing profit potential in such a case.”
+Ownership Reports and Trading by Officers, Directors and Principal Stockholders,
+53 Fed. Reg. 49997, 50008 (Dec. 13, 1988). The short-swing profit potential arises
+4
+
+Colema Realty Corp. v. Bibow, 555 F. Supp. 1030, 1039 (D. Conn. 1983), Reece
+Corp. v. Walco Nat’l Corp., 565 F. Supp. 158 (S.D.N.Y. 1981), and Matas v. Siess,
+467 F. Supp. 217, 224 (S.D.N.Y. 1979).
+12 
+
+
+from the possibility that an insider might acquire an option position “knowing, by
+virtue of his inside information, that the option will not be exercised within six
+months.” Gwozdzinsky v. Zell/Chilmark Fund, L.P., 156 F.3d 305, 309 (2d Cir.
+1998). In such a case, expiration ends the holder’s right to exercise and awards the
+insider a profit from the inside information. To prevent such profit-taking, the
+Commission determined that “in the case of an expiration of a short option
+position, the expiration would be treated as the purchase of the option.” 53 Fed.
+Reg. at 50008. Rule 16b-6(d) treats expiration as a purchase, matched to the
+earlier sale (the writing), by requiring that “[u]pon . . . expiration of an option
+within six months of the writing of the option, any profit derived from writing the
+option shall be recoverable under section 16(b) of the Act.” Thus, the district court
+correctly concluded that Goldman’s writing of the call options was a “sale,” and
+that “[t]he equivalent of the purchase was the expiration of the options on January
+16, 2010.” Roth, 873 F. Supp. 2d at 536.
+Goldman’s argument that the expiration of the options is not a purchase
+under Section 16(b) because inactivity by an insider cannot give rise to liability
+rests on a misreading of Magma Power and Allaire. Magma Power concluded that
+an option holder’s decision not to exercise the option was neither a purchase nor a
+sale by the option holder. 136 F.3d at 324. There, the “inactivity” was the option
+holder’s decision not to exercise an option to purchase equity securities. Id. As
+13 
+
+
+the court noted, insiders have the opportunity to purchase equity securities every
+day, and the decision not to purchase cannot rationally form the basis of Section
+16(b) liability. Id. Goldman is not similarly situated. Goldman was the writer, not
+the holder. And when it wrote the call options, Goldman set the strike price, the
+amount of the premium, and the expiration date, and it was that activity that
+presented Goldman an opportunity to profit from inside information.
+Gwozdzinsky, 156 F.3d at 309; 53 Fed. Reg. at 50008. The expiration of the option
+within six months resulted from a combination of Goldman’s activity and the
+option holder’s inactivity.
+Goldman’s reliance on Allaire is equally misplaced. The Allaire plaintiff
+argued that, because the expiration of a set of call options liquidated the writer’s
+put equivalent position, it was a purchase under Rule 16b-6(a), and that that
+purchase could be matched to the writing of a second set of call options (written
+within six months), which was a sale under Rule 16b-6(a) because it established a
+new put equivalent position. 433 F.3d at 249, 251. The court rejected the
+plaintiff’s argument on the ground that Rule 16b-6(a) does not apply to expirations.
+Id. at 252 (Rule 16b-6(a) applies only to determine whether the “initial transaction
+between the writer and the holder” is a Section 16(b) purchase or sale). Pointing
+out that Rule 16b-6(d) explicitly deals with expirations, the court stated that “if the
+SEC had intended Rule 16b-6(a) to govern expirations, the SEC would presumably
+14 
+
+
+have used the word ‘expiration’ to do so.” Id. at 253. The court further noted that
+Rule 16b-6(d) did not apply. The plaintiff was attempting to match two different
+sets of options, but the writer of an option is liable under Rule 16b-6(d) only when
+“that same option [expires] within six months.” Id. Allaire is inapposite to this
+case because it dealt with different facts and it interpreted Rule 16b-6(a), not Rule
+16b-6(d).
+Roth, like Goldman, misreads Allaire to hold that the expiration of a call
+option is never a purchase for Section 16(b) purposes, Roth Br. 15, but he
+nonetheless contends that Goldman is liable because a simultaneous sale and
+purchase took place when Goldman wrote the call options. It therefore is
+immaterial, in Roth’s view, that Goldman was not a ten percent beneficial owner at
+expiration because it was a ten percent beneficial owner when it wrote the call
+options. Roth’s argument conflicts with the plain language of both Section 16(b)
+and Rule 16b-6(d).
+The imposition of strict liability under Section 16(b) turns on the “objective
+standard[s]” set out in the statute. Reliance, 404 U.S. at 422-23. One objective
+standard in Section 16(b) is the requirement that the insider engage in “any
+purchase and sale, or any sale and purchase” of the issuer’s equity securities. The
+requirement of either a purchase and sale, or sale and purchase, means that there
+must be two events, one offsetting the other. Magma Power, 136 F.3d at 324-25;
+15 
+
+
+see also 56 Fed. Reg. at 7248 (Section 16 applies to “insiders who engage[] in two
+transactions in the company’s equity securities within a six-month period of
+time”). Roth argues that two events exist because Goldman “irrevocably
+committed to both the purchase and sale of Leap Wireless equity securities on
+writing the Options—a simultaneous purchase and sale.” Roth Br. 4. Roth’s
+simultaneous purchase-and-sale theory presumes that the option holder will not
+exercise the option, and that the subsequent expiration of the option within six
+months relates back to the writing such that the writer will be deemed at the time
+of writing to have made a purchase to match its sale for Section 16(b) purposes.
+Roth’s presumption ignores an essential feature of an options contract—the
+holder’s right to decide if and when to exercise the option before it expires.
+Goldman’s writing of the call options was a sale under Rule 16b-6(a), but it does
+not follow that Goldman was immediately and irrevocably committed to a
+matching purchase. Because the holder of an option can decide whether or not to
+exercise, “the parties are irrevocably committed only when the optionee exercises.”
+5A Arnold S. Jacobs, Disclosure & Remedies under the Securities Laws § 4:166, at
+4-603 (2012). Recognizing that fact, Rule 16b-6(d) does not treat the writing of
+the call options as simultaneous sale-and-purchase; rather, Rule 16b-6(d) requires
+disgorgement of short-swing profits obtained from short options positions only
+“[u]pon cancellation or expiration of an option . . .” (emphasis added). The actual
+16 
+
+
+cancellation or expiration of the option is the triggering event for liability under
+Rule 16b-6(d), not the writing of the option. Roth’s contrary assertion, Roth Br.
+11, 17, is simply incorrect. Treating of the actual expiration of an option as the
+Section 16(b) purchase is consistent with the goal of depriving insider-writers of
+short options of their profits because it acknowledges that the profit is not lockedin until expiration. Thus, Rule 16b-6(d) allows recovery of the premium paid for
+the call options only after they expire, and treats the actual expiration as the
+matching purchase required by Section 16(b).
+Roth’s argument is not supported by the cases he cites. For example, key to
+the court’s holding in Matas v. Siess, 467 F. Supp. 217 (S.D.N.Y. 1979) was the
+fact that under then-governing precedent, “an option is a purchase only when it is
+exercised, not when it is granted.” Id. at 224. But as explained above, supra at 6,
+the Commission’s 1991 rulemaking clarified that acquisition of an option is the
+“significant event,” not the exercise. Colema Realty Corp. v. Bibow, 555 F. Supp.
+1030 (D. Conn. 1983), likewise was decided before the 1991 rulemaking, and
+likewise relied on precedent holding that “option shares are deemed to have been
+purchased on the date the option was exercised.” Id. at 1039. And in any event,
+Colema clearly involved two distinct transactions: the defendants surrendered
+(sold) 100 shares of previously acquired stock at current market value and, using
+the value received for those shares, acquired (purchased) new shares at the option
+17 
+
+
+price. Id. Reece Corporation v. Walco National Corporation, 565 F.Supp. 158
+(S.D.N.Y. 1981), addressed when two sales taking place at different times might
+nonetheless be part of a single transaction, and contributes nothing to the question
+of when a single transaction might be a simultaneous purchase and sale.
+II. 	
+
+Rule 16b-6(d) requires that a ten percent beneficial owner pay the options
+premium to the issuer only if the ten percent beneficial owner was such both
+at the time the options contract was written and when it expires.
+Section 16(b), as it relates to ten percent beneficial owners, plainly requires
+
+that the ten percent beneficial owner be such “both at the time of the purchase and
+sale, or the sale and purchase, of the security . . . involved.” See Reliance, 404
+U.S. at 422-23. Neither a purchase of securities by which a person becomes a ten
+percent beneficial owner nor a sale of securities made after a person ceases to be a
+ten percent beneficial owner is matchable for purposes of liability under Section
+16(b). Reliance, 404 U.S. at 424-25 (Section 16(b) does not apply to sales made
+after a person ceases to be a ten percent beneficial owner); Foremost-McKesson,
+Inc. v. Provident Sec. Co., 423 U.S. 232, 249-50 (1976) (Section 16(b) applies only
+to purchases made after a person becomes a ten percent beneficial owner).
+Roth correctly notes that treating expiration as the Section 16(b) purchase
+means that a ten percent beneficial owner can write options that expire within six
+months, but nonetheless avoid liability under Rule 16b-6(d) simply by ceasing to
+be a ten percent beneficial owner before the short options expire. Roth Br. 16-17.
+18 
+
+
+This, however, is an unavoidable consequence of the statutory requirements set by
+Congress. Reliance, 404 U.S. at 423 (the literal language of the statute “clearly
+contemplates that a statutory insider might sell enough shares to bring his holdings
+below 10%, and later—but still within six months—sell additional shares free from
+liability under the statute”).
+Here, it is undisputed that Goldman was not a ten percent beneficial owner
+when the call options expired which, as explained above, is the relevant purchase
+under Rule 16b-6(d) for Section 16(b) purposes. The district court correctly held
+that Goldman could not be held liable under Section 16(b). Roth, 873 F. Supp. 2d
+at 536.
+CONCLUSION
+For the foregoing reasons, the district court was correct in holding (1) that
+Rule 16b-6(d) treats the expiration of call options within six months of writing as a
+purchase for Section 16(b) purposes and (2) that Goldman could not be liable
+because it was no longer a ten percent beneficial owner when the call options it
+wrote expired.
+
+19 
+
+
+Respectfully submitted,
+GEOFFREY F. ARANOW
+General Counsel
+MICHAEL A. CONLEY
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+JOHN W. AVERY
+Deputy Solicitor
+/s/ Benjamin Vetter
+BENJAMIN VETTER
+Attorney
+Securities and Exchange Commission
+100 F Street N.E.
+Washington, DC 20549
+(202) 551-7945 (Vetter)
+VetterB@sec.gov
+April 2013
+
+20 
+
+
+CERTIFICATE OF COMPLIANCE WITH RULE 32(a)
+This brief complies with the type-volume limitation of Fed. R. App. P.
+32(a)(7)(B) because this brief contains 4,687 words, excluding the parts of the
+brief exempted by Fed. R. App. P. 21(a)(7)(B)(iii).
+This brief complies with the typeface requirements of Fed. R. App. P.
+21(a)(5) and with the type style requirements of Fed. R. App. P. 32(a)(6) because
+this brief has been prepared in a proportionally spaced typeface using Microsoft
+Word 2010 in 14 point Times New Roman font.
+/s/ Benjamin Vetter
+BENJAMIN VETTER
+Attorney
+Securities and Exchange Commission
+100 F Street N.E.
+Washington, DC 20549
+(202) 551-7945 (Vetter)
+VetterB@sec.gov
+April 2013
+
+21 
+
+
+

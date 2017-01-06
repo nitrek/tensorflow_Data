@@ -1,0 +1,626 @@
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+________________________________________________
+MOHAMMED FEZZANI ET AL.,
+Plaintiffs-Appellants,
+v.
+BEAR, STEARNS & CO., INC. ET AL.,
+Defendants-Appellees.
+____________________________________________________________________________________
+
+On Appeal from United States District Court
+for the Southern District of New York
+____________________________________________________________________________________
+
+BRIEF FOR THE SECURITIES AND EXCHANGE COMMISSION
+AS AMICUS CURIAE SUPPORTING
+THE PETITION FOR REHEARING OR REHEARING EN BANC
+____________________________________________________________________________________
+
+ANNE K. SMALL
+General Counsel
+MICHAEL A. CONLEY
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+JOHN W. AVERY
+Deputy Solicitor
+JEFFREY A. BERGER
+Senior Litigation Counsel
+Securities and Exchange Commission
+100 F. Street, N.E.
+Washington, D.C. 20549-9040
+(202) 551-5112 (Berger)
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES ................................................................................................. ii
+STATEMENT OF INTEREST ............................................................................................. 1
+ISSUE PRESENTED .............................................................................................................. 1
+DISCUSSION ........................................................................................................................... 1
+I.
+
+Misrepresentations are not prerequisites for manipulation claims......................... 2
+
+II.
+
+Rehearing is necessary to avoid conflict with Supreme Court precedent
+and to ensure uniformity with this Court’s prior decisions ................................... 7
+
+III.
+
+A.
+
+The majority’s decision conflicts with Supreme Court precedent ............. 7
+
+B.
+
+The majority’s decision also creates an intracircuit split ............................ 10
+
+The Court should grant rehearing because the majority’s decision creates a
+significant obstacle for investors bringing private actions and may be
+applied to impair Commission enforcement actions ............................................. 12
+
+CONCLUSION ...................................................................................................................... 15
+
+i
+ 
+
+ 
+
+TABLE OF AUTHORITIES
+Cases
+Affiliated Ute Citizens of Utah v. United States, 406 U.S. 128 (1972).................................. 7, 8
+Amgen Inc. v. Connecticut Ret. Plans & Trust Funds, 133 S. Ct. 1184 (2013) ......................... 4
+ATSI Communs., Inc. v. Shaar Fund, LTD, 493 F.3d 87 (2d Cir. 2007) ..................... passim
+In re Bear, Stearns Secs. Corp., 54 S.E.C. 224 (1999) ................................................................ 5
+Cellular South Inc. v. Merrill, Lynch, 2013 U.S. App. Lexis 5356
+(2d Cir. Mar. 19, 2013) (unpublished)...............................................................................11
+Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A.,
+511 U.S. 164 (1994) ................................................................................................ 3, 4, 8, 10
+In re Edward J. Mawod & Co., 46 S.E.C. 865 (1977),
+aff’d, 591 F.2d 588 (10th Cir. 1979) ..................................................................................... 3
+Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976). .................................................................. 2
+In re F.S. Johns & Co., 43 S.E.C. 124 (1966),
+aff’d sub nom. Dlugash v. SEC, 373 F.2d 107 (2d Cir. 1967) ............................................... 6
+Finn v. Barney, 471 Fed. Appx. 30 (2d Cir. 2012) (unpublished). ......................................11
+Ganino v. Citizens Utils. Co., 228 F.3d 154 (2d Cir. 2000) ..................................................... 4
+In re Gellas, Rel. No. 34-39132, 1997 SEC Lexis 2001 (Sept. 25, 1997) ............................ 1
+Gurary v. Winehouse, 190 F.3d 37 (2d Cir. 1999) ............................................................. 6, 11
+In re Halsey, Stuart & Co., 30 S.E.C. 106 (1947) .................................................................... 3
+Harper v. Crenshaw, 82 F.2d 845 (D.C. Cir. 1949) .................................................................. 3
+Janus Capital Group, Inc. v. First Derivative Traders, 131 S. Ct. 2296 (2011) ................... 8, 10
+In re Kirlin Secs., Rel. No. 34-61135, 2009 SEC Lexis 4168 (Dec. 10, 2009) ................ 6, 8
+In re Montelbano, 56 S.E.C. 76 (2003) .............................................................................. 12, 14
+ii
+ 
+
+TABLE OF AUTHORITIES (cont’d)
+Page(s)
+In re Pagel, Inc., 48 S.E.C. 223 (1985), aff’d, 803 F.2d 942 (8th Cir. 1986) .......................... 3
+Santa Fe Indus. v. Green, 430 U.S. 462 (1977) .........................................................2, 3, 14, 15
+SEC v. First Jersey Sec., Inc., 101 F.3d 1450 (2d Cir. 1996) ..................................................14
+SEC v. Resch-Cassin & Co., 362 F. Supp. 964 (S.D.N.Y. 1973) ........................................... 6
+SEC v. U.S. Envt’l Inc., 155 F.3d 107 (2d Cir. 1998)................................................ 6, 11, 12
+Stoneridge Inv. Partners, LLC v. Scientific-Atlanta, Inc., 552 U.S. 148 (2008) ..................passim
+Thornton v. SEC, 171 F.2d 702 (2d Cir. 1948) (per curiam) ................................................. 6
+United States v. Brown, 5 F. Supp. 81 (S.D.N.Y. 1933),
+aff’d 79 F.2d 321 (2d Cir. 1935) ............................................................................................ 6
+United States v. Royer, 549 F.3d 886 (2d Cir. 2008) ...............................................................11
+United States v. Russo, 74 F.3d 1383 (2d Cir. 1996) ..............................................................11
+United States v. Stein, 456 F.2d 844 (2d Cir. 1972).................................................................. 3
+Van Cook v. SEC, 653 F.3d 130 (2d Cir. 2011),
+cert. denied 132 S. Ct. 1582 (2012) .................................................................................. 4, 11
+Wilson v. Merrill Lynch & Co., 671 F.3d 120 (2d Cir. 2011) ................................................11
+In re Yoshikawa, Rel. No. 34-53731, 2006 SEC Lexis 948 (Apr. 26, 2006)......................12
+Statutes and Rules
+Securities Exchange Act of 1934, 15 U.S.C. § 78a, et seq.
+Section 2(3), 15 U.S.C. 78b(3).................................................................................... 14
+Section 10(b), 15 U.S.C. 78j(b) ............................................................................passim
+Rules under the Securities Exchange Act, 17 C.F.R. 240.0-1, et seq.
+Rule 10b-5, 17 C.F.R. 240.10b-5 .........................................................................passim
+Rule 10b-5(a), 17 C.F.R. 240.10b-5(a) ............................................................. 4, 7, 11
+iii
+ 
+
+TABLE OF AUTHORITIES (cont’d)
+Page(s)
+Rule 10b-5(b), 17 C.F.R. 240.10b-5(b) ...................................................... 4, 7, 10, 11
+Rule 10b-5(c), 17 C.F.R. 240.10b-5(c) ............................................................. 4, 7, 11
+Other Authorities
+S. REP. NO. 73-1455, at 30 (1934) .................................................................................. 14, 15
+A.A. Berle, Jr., Stock Market Manipulation, 38 COLUM. L. REV. 393 (1938) ....................... 6
+Steve Thel, The Original Conception of Section 10(b) of the Securities Exchange Act,
+42 STAN. L. REV. 385 (1990). .......................................................................................... 6, 7
+
+iv
+ 
+
+STATEMENT OF INTEREST
+The Securities and Exchange Commission enforces the federal securities laws,
+including the anti-manipulation provisions of Section 10(b) of the Securities Exchange
+Act of 1934, 15 U.S.C. 78j(b), and Rule 10b-5, 17 C.F.R. 240.10b-5. The Commission
+has a substantial interest in rehearing because of the implications of the divided
+panel’s decision for private plaintiffs seeking relief under those provisions and for the
+Commission’s enforcement program, which is supplemented by such private actions.
+ISSUE PRESENTED
+Whether a defendant, who enters into sham securities transactions designed to
+give the false appearance of market activity, cannot be held liable for manipulation
+under Rule 10b-5 unless that defendant also makes false or misleading statements.
+DISCUSSION
+As alleged in the complaint, Isaac Dweck was a key participant in A.R. Baron’s
+“paradigmatic ‘pump and dump’ scheme.” Slip op. 4. Dweck entered into “parking”
+arrangements: he nominally “purchased” shares from Baron, which agreed to
+repurchase them later, retained all risk of loss, and compensated Dweck for his role.
+In re Gellas, Rel. No. 34-39132, 1997 SEC Lexis 2001, at *3 n.2 (Sept. 25, 1997)
+(“Parking is the sale of securities subject to an agreement or understanding that the
+securities will be repurchased by the seller at a later time and at a price which leaves
+the economic risk on the seller.”). These parking transactions served no legitimate
+purpose; they were designed only “to create a false appearance of volume and
+1
+ 
+
+increasing price.” Slip op. 4. Under Second Circuit precedent, well-pleaded
+allegations of such direct acts of manipulation would state a claim under Rule 10b-5.
+Yet a panel of this Court affirmed the dismissal of plaintiffs’ manipulation
+claim against Dweck—over Judge Lohier’s dissent—because even though plaintiffs
+alleged that “Dweck was a primary violator” who “engaged directly in market
+manipulation,” they did not allege that he made any false or misleading statements
+regarding pricing information. Dissent at 2. This ruling erroneously “conflates
+market manipulation claims and pure misrepresentation claims,” deviates from
+Supreme Court precedent, generates an intracircuit split, and imposes an
+unprecedented requirement for establishing manipulation claims that will
+“unnecessarily” provide “extra shelter for stock manipulation under the federal
+security laws.” Id. at 1, 10. Rehearing is necessary to maintain uniformity of this
+Court’s decisions and to resolve the important question that divided the panel.
+I.
+
+Misrepresentations are not prerequisites for manipulation claims.
+The majority erred because its opinion “superimposes the elements of a
+
+misrepresentation claim on a market manipulation claim.” Dissent at 3. Section 10(b)
+prohibits the use of “any manipulative or deceptive practice or contrivance,” 15
+U.S.C. 78j(b), and the use of “the word ‘manipulative’ is especially significant.” Ernst
+& Ernst v. Hochfelder, 425 U.S. 185, 199 (1976). It is “‘virtually a term of art when used
+in connection with securities markets.’” Santa Fe Indus. v. Green, 430 U.S. 462, 476
+(1977), quoting Ernst, 425 U.S. at 199. It “refers generally to practices, such as wash
+2
+ 
+
+sales, matched orders, or rigged prices, that are intended to mislead investors by
+artificially affecting market activity,” id., which “artificially affect[s] the price of
+securities,” Ernst, 425 U.S. at 199 & n.21.
+While a manipulative scheme may involve false or misleading statements, it is
+not correct that “only the person who communicates the misrepresentation” may be
+liable for acts of manipulation undertaken in furtherance of that scheme. Slip op. 13.
+The essence of manipulation is not a misrepresentation, but market activity—the
+buying and selling of shares—that itself creates a “false pricing signal.” ATSI
+Communs., Inc. v. Shaar Fund, LTD, 493 F.3d 87, 100 (2d Cir. 2007). A manipulative
+transaction, such as parking, is an “intentional interference with the free forces of
+supply and demand.” In re Pagel, Inc., 48 S.E.C. 223, 226 (1985), aff’d, 803 F.2d 942
+(8th Cir. 1986), citing United States v. Stein, 456 F.2d 844, 850 (2d Cir. 1972); In re
+Halsey, Stuart & Co., 30 S.E.C. 106, 112 (1949). Investors are “entitled to assume that
+the prices they pay and receive are determined by the unimpeded interaction of real
+supply and real demand.” But manipulative transactions “frustrate these
+expectations,” substituting “fiction for fact” and transforming a market “into ‘a stage
+managed performance.’” In re Edward J. Mawod & Co., 46 S.E.C. 865, 871–72 (1977),
+aff’d, 591 F.2d 588 (10th Cir. 1979).
+By conflating manipulative conduct with misrepresentations, the panel
+disregarded the Supreme Court’s recognition of a distinction between the two.
+Stoneridge Inv. Partners, LLC v. Scientific-Atlanta, Inc., 552 U.S. 148, 158 (2008); Central
+3
+ 
+
+Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A., 511 U.S. 164, 177 (1994).
+This Court has similarly recognized that engaging in manipulative acts—practices
+“that are intended to mislead investors by artificially affecting market activity”—are
+violations distinct from making “misrepresentations.” Ganino v. Citizens Utils. Co., 228
+F.3d 154, 161 (2d Cir. 2000). Emphasizing that distinction is this Court’s ruling that a
+manipulation claim requires “market activity aimed at deceiving investors as to how
+other market participants have valued a security.” ATSI, 493 F.3d at 99–100, 105
+(emphasis added).1
+Manipulation and misrepresentation claims also differ with respect to reliance,
+which private plaintiffs (but not the Commission) must show. For misrepresentation
+claims, plaintiffs must establish that they engaged in a transaction “based on that
+specific misrepresentation.” Amgen Inc. v. Connecticut Ret. Plans & Trust Funds, 133 S.
+Ct. 1184, 1192 (2013) (internal quotation marks omitted). For manipulation claims,
+by contrast, plaintiffs must establish that the conduct sent “a false pricing signal to the
+market” and that plaintiffs then bought or sold assuming that the price was
+“‘determined by the natural interplay of supply and demand, not rigged by
+                                                            
+1
+
+This distinction between manipulative conduct and misstatements is echoed in the differences
+between the three subparts of Rule 10b-5. Van Cook v. SEC, 653 F.3d 130, 138–41 (2d Cir. 2011),
+cert. denied 132 S. Ct. 1582 (2012). Rule 10b-5(a) makes it unlawful “[t]o employ any device, scheme,
+or artifice to defraud,” and Rule 10b-5(c) makes it unlawful “[t]o engage in any act, practice, or
+course of business which operates or would operate as a fraud or deceit upon any person.” Rule
+10b-5(b) is narrower: it states that it “shall be unlawful” to “make any untrue statement of a material
+fact or to omit to state a material fact necessary in order to make the statements made, in the light of
+the circumstances under which they were made, not misleading.” 17 C.F.R. 240.10b-5.
+
+4
+ 
+
+manipulators.’” ATSI, 493 F.3d at 100–01, quoting Gurary v. Winehouse, 190 F.3d 37,
+45 (2d Cir. 1999). Thus, plaintiffs must show that they suffered damage “caused by
+reliance on an assumption of an efficient market free of manipulation.” Id. at 106.
+Conflating these two types of claims, the majority held that a plaintiff must
+establish that an artificial price “is communicated to persons who, in reliance upon a
+misrepresentation that the price was set by market forces, purchase the securities.”
+Slip op. 13. Dweck engaged in sham transactions that artificially inflated the price,
+but did not directly communicate any pricing information to plaintiffs. Thus, the
+majority held, plaintiffs failed “to allege reliance upon a misrepresentation.” Id. at 11.
+This ruling “mistakenly” focused on “who actually communicated the false
+price to the plaintiffs” and viewed “the answer to that question as dispositive.”
+Dissent at 7. But the “relevant analysis” is “whether a defendant has engaged” in the
+transaction that sends “‘a false pricing signal to the market.’” Id. at 5, quoting ATSI,
+493 F.3d at 100. It is not, as the majority stated, whether the defendant is the source
+of plaintiffs’ “perceptions of prices at which trades were being made.” Slip op. 10.2
+
+                                                            
+2
+
+It is unclear why the majority assumed that plaintiffs claimed reliance on Baron’s statements about
+the price, as opposed to the price itself. Slip op. 6. As the Commission previously found, and as
+judicially noticeable material confirms (i.e., news items, trading records, and public filings), the
+relevant securities traded “in the over-the-counter markets” (i.e., NASDAQ) and on AMEX. In re
+Bear, Stearns Secs. Corp., 54 S.E.C. 224, 228 (1999). For those securities, information about price was
+publicly available, and Baron would not have been “the sole sources” of plaintiffs’ “perceptions of
+prices at which trades were being made.” Slip op. 9–10. Indeed, it is difficult to fathom why Baron
+would go to the trouble of paying Dweck for parking unless those transactions sent a false pricing
+signal that was publicly reported.
+
+5
+ 
+
+The majority’s ruling would shield from liability those who create the illusion of
+a functioning market simply because investors learn about prices from another source.
+This is a novel proposition because misrepresentations about price have never been a
+requirement for a viable manipulation claim. Even before the Exchange Act, courts
+condemned sham transactions that artificially inflated the price because they created
+“a kind of price mirage which may lure an outsider into the market,” causing him to
+pay more “than he would have paid in a free and open market.” United States v. Brown,
+5 F. Supp. 81, 85, 93 (S.D.N.Y. 1933), aff’d 79 F.2d 321 (2d Cir. 1935), cited by A.A.
+Berle, Jr., Stock Market Manipulation, 38 COLUM. L. REV. 393, 395–97 (1938); cf. Harper
+v. Crenshaw, 82 F.2d 845, 846 (D.C. Cir. 1936) (a contract having “as its object the
+fixing of a fictitious price” was against public policy because it prevented “the free
+and uncontrolled processes” of the market). The Exchange Act built upon this
+foundation, outlawing manipulative acts regardless of whether those who engage in
+such acts also make false statements to investors. E.g., SEC v. U.S. Envt’l Inc., 155
+F.3d 107 (2d Cir. 1998); Thornton v. SEC, 171 F.2d 702 (2d Cir. 1948) (per curiam).3
+Indeed, the types of manipulative acts that spurred the enactment of Section 10(b)
+                                                            
+3
+
+SEC v. Resch-Cassin & Co., 362 F. Supp. 964 (S.D.N.Y. 1973); In re Kirlin Secs., Rel. No. 34-61135,
+2009 SEC Lexis 4168, at *52 (Dec. 10, 2009) (finding by Commission that the respondent’s trades,
+which were designed to inflate price, constituted manipulative conduct in violation of Rule 10b-5
+even though the respondent did not communicate pricing information to investors); In re F.S. Johns
+& Co., 43 S.E.C. 124, 136–37 (1966), aff’d sub nom. Dlugash v. SEC, 373 F.2d 107 (2d Cir. 1967)
+(finding by Commission that brokers who submitted false quotations to artificially inflate the price
+engaged in manipulation, even though there was “no evidence that the quotations were shown to
+members of the public to induce purchases at the quoted prices,” because, as the Commission
+found, the “transactions in themselves [were] sufficient to establish violations”).
+
+6
+ 
+
+“did not depend on communication at all, but rather on the brute force of
+concentrated economic resources.” Steve Thel, The Original Conception of Section 10(b) of
+the Securities Exchange Act, 42 STAN. L. REV. 385, 413 (1990).
+II.
+
+Rehearing is necessary to avoid conflict with Supreme Court precedent
+and to ensure uniformity with this Court’s prior decisions.
+The requirement that a defendant “communicat[e] the artificial price
+
+information to the would-be buyers,” slip op. 13, imposes a new requirement for
+manipulation that deviates from Supreme Court and Second Circuit precedent.
+A.
+
+The majority’s decision conflicts with Supreme Court precedent.
+
+The majority’s ruling cannot be reconciled with the decisions in Affiliated Ute
+Citizens of Utah v. United States, 406 U.S. 128 (1972) and Stoneridge. In Affiliated Ute, the
+defendants induced the sale of stock that was subject to restrictions without disclosing
+to the sellers that defendants had created a market in which the stock could be resold
+for a greater profit. 406 U.S. at 152–53. The Court disagreed that there was no Rule
+10b-5 violation “unless the record disclosed evidence of reliance on material fact
+misrepresentations” made by those defendants. Id. at 152. The Court refused to
+“read Rule 10b-5 so restrictively” because while “the second sub paragraph of the rule
+[Rule 10b-5(b)] specifies the making of an untrue statement of a material fact,” the
+“first and third sub paragraphs [Rule 10b-5(a), (c)] are not so restricted.” Id. at 152–
+53. Even though the defendants “may have made no positive representations” to the
+
+7
+ 
+
+sellers, their conduct still violated Rule 10b-5 because it constituted “a ‘course of
+business’ or a ‘device, scheme, or artifice’ that operated as a fraud.” Id. at 153.
+The majority’s decision also conflicts with Stoneridge. The Court there declared
+it “erroneous” to conclude that “there must be a specific oral or written statement
+before there could be liability under [Section] 10(b) or Rule 10b-5.” 552 U.S. at 158.
+Rather, the Court stated, “[c]onduct itself can be deceptive.” Id.; see also Central Bank,
+511 U.S. at 191.
+The majority understood Stoneridge, as well as Janus Capital Group, Inc. v. First
+Derivative Traders, 131 S. Ct. 2296 (2011), to instruct that “only the person who
+communicates the misrepresentation is liable.” Slip op. 13. But, as Judge Lohier
+stated, Stoneridge and Janus “did no such thing.” Dissent at 6. The majority, in
+becoming the first federal court to apply those decisions “to foreclose a claim against
+an actor alleged to have engaged directly in market manipulation,” overlooked the fact
+that neither Stoneridge nor Janus “require[s] a direct communication of either a false
+statement or deceptive conduct to specific plaintiffs” as a precondition to stating a
+manipulation claim under Rule 10b-5. Id. at 6–7.
+The investors in Stoneridge brought suit against “entities who, acting both as
+customers and suppliers [of a cable television company], agreed to arrangements that
+allowed the investors’ company to mislead its auditor and issue a misleading financial
+statement affecting the stock price.” 552 U.S. at 152. More specifically, the cable
+company agreed to overpay for cable boxes with the understanding that the cable box
+8
+ 
+
+manufacturers would then overpay for advertising, helping the cable company to
+show that it had met its revenue projections. Id. at 154. The Court rejected the
+argument that the investors relied upon these arrangements because they allowed the
+cable company to produce a false financial statement; the Court held that the
+arrangements were “purchase and supply contracts” that fell into “the realm of
+ordinary business operations” and were “too remote to satisfy the requirement of
+reliance.” Id. at 161. The Court did not fashion a broad rule requiring a plaintiff
+alleging manipulation to also allege that the defendant “was identified as making the
+pertinent misrepresentation(s).” Slip op. 11. Rather, the Court emphasized that the
+allegedly deceptive acts, which involved the sale of cable boxes and advertising, “took
+place in the marketplace for goods and services, not in the investment sphere,” and
+that “nothing [the manufacturers] did made it necessary or inevitable for [the cable
+company] to record the transactions as it did” because the cable company “was free to
+do as it chose” when “preparing and then issuing its financial statements.” Stoneridge,
+552 U.S. at 161, 166–67.
+By contrast, Dweck’s prearranged, riskless parking arrangements were
+transactions “in the investment sphere.” Stoneridge, 552 U.S. at 166. And Dweck’s
+conduct was hardly “remote.” Id. at 161. Dweck “was central to the manipulation
+itself”—he “effectively was a founder, principal, and owner of Baron”—and the sham
+transactions from which he profited were central to the scheme because they
+“directly” gave “the public the false impression that Dweck, not Baron, controlled the
+9
+ 
+
+relevant manipulated securities.” Dissent at 3, 7–8. The majority elides the difference
+between a sham business transaction used to support a false accounting statement and a
+sham securities transaction that directly affects the price of the securities and
+perpetuates the illusion of a fair market. Unlike the defendant in Stoneridge, Dweck
+“engaged directly in market manipulation of securities,” Dissent at 7, and thus is liable
+as a primary violator, even if he did not communicate with investors.
+Janus is also inapposite. That case “involved discrete misrepresentations
+relating to defendants’ business operations, rather than a market manipulation
+scheme.” Dissent at 6. The Supreme Court, interpreting the word “make” in subpart
+(b) of Rule 10b-5, held that only “the entity with authority over the content of the
+statement and whether and how to communicate it” can “make” a material
+misstatement. Janus, 131 S. Ct. at 2301, 2303. Janus is a pure misrepresentation case;
+the Court assessed liability “for false statements” and decided that “[o]ne who
+prepares or publishes a statement on behalf of another is not its maker.” Id. at 2302.
+The Court did not address manipulation (the word does not appear in the majority
+opinion), it did not discuss the elements of such a claim, and it did not decide that
+“only the person who communicates the misrepresentation” may be liable for
+manipulation. Slip op. 13.
+B.
+
+The majority’s decision also creates an intracircuit split.
+
+Rehearing is also necessary to maintain uniformity of this Court’s decisions.
+The decision conflicts with ATSI, where the plaintiffs alleged both manipulation and
+10
+ 
+
+misrepresentation claims, and the Court articulated different elements for each. In
+ATSI, the Court stated that a manipulation claim requires allegations, inter alia, of “(1)
+manipulative acts” and “(2) damage (3) caused by reliance on an assumption of an
+efficient market free of manipulation.” 493 F.3d at 101. ATSI followed Gurary v.
+Winehouse, 190 F.3d 37, 45 (2d Cir. 1999), where the Court stated that a plaintiff
+asserting a manipulation claim may show reliance by establishing “that he or she
+engaged in a securities trade in ignorance of the fact that the price was affected by the
+alleged manipulation.” The Court did not require plaintiffs to establish “reliance upon
+a misrepresentation that the price was set by market forces.” Slip op. 13. Rather, the
+Court addressed the allegations about false statements in a separate section using a
+separate standard for reliance. ATSI, 493 F.3d at 105. 4
+The intracircuit split grows even starker when the majority’s decision is
+juxtaposed with U.S. Environmental. In that case, the Commission alleged that a
+registered representative of a broker-dealer executed manipulative trades—including
+the same type of risk-free trades at issue here—that created the appearance of a
+market for securities and, consequently, inflated their price. 155 F.3d at 108–09. As
+                                                            
+4
+
+The majority’s ruling also conflicts with decisions that follow ATSI. Wilson v. Merrill Lynch & Co.,
+671 F.3d 120 (2d Cir. 2011); Cellular South Inc. v. Merrill, Lynch, 2013 U.S. App. Lexis 5356 (2d Cir.
+Mar. 19, 2013) (unpublished); Finn v. Barney, 471 Fed. Appx. 30 (2d Cir. 2012) (unpublished). And it
+conflicts with other Second Circuit opinions that, similar to ATSI, distinguish between manipulation
+claims and misrepresentation claims. Van Cook, 653 F.3d at 138, 139–40 (discussing the difference
+between misrepresentation claims under Rule 10b-5(b), and manipulation claims under Rule 10b5(a) and (c)); United States v. Royer, 549 F.3d 886, 900 (2d Cir. 2008) (distinguishing between
+“conventional frauds brought about by making materially false or misleading statements” and
+manipulative acts); United States v. Russo, 74 F.3d 1383, 1391–92 (2d Cir. 1996) (same).
+
+11
+ 
+
+in plaintiffs’ complaint against Dweck, there were no allegations that the
+representative communicated pricing information to investors. The absence of such
+misstatements did not lead to dismissal; this Court held that the Commission had
+stated a manipulation claim because the representative executed “the very buy and sell
+orders that artificially manipulated” the price. Id. at 112. As the Court stated, “if the
+trader who executes manipulative buy and sell orders is not a primary violator, it is
+difficult to imagine who would remain liable after Central Bank.” Id.5
+III.
+
+The Court should grant rehearing because the majority’s decision
+creates a significant obstacle for investors bringing private actions and
+may be applied to impair Commission enforcement actions.
+The petition for rehearing presents an issue of “exceptional importance”—and
+
+should be granted—because the panel decision will sharply limit the ability of
+investors to recover damages when they purchase securities at prices inflated by sham
+transactions. The majority’s decision raises the bar considerably. Even though this
+Court has previously stated that a “plaintiff need not plead manipulation to the same
+degree of specificity as a plain misrepresentation claim,” ATSI, 493 F.3d at 102, the
+majority’s decision requires a plaintiff to allege not only that the defendant engaged in
+manipulative acts, but also that the defendant communicated pricing information
+directly to the plaintiff.
+                                                            
+5
+
+This holding is consistent with Commission orders finding that individuals who make manipulative
+trades violate Rule 10b-5. E.g., In re Montelbano, 56 S.E.C. 76, 87, 91–92 (2003) (trader “placed the
+quotations and effected the buy and sell orders that arbitrarily moved the price of [the] stock up and
+down”); In re Yoshikawa, Rel. No. 34-53731, 2006 SEC Lexis 948, at *15–20 (Apr. 26, 2006).
+
+12
+ 
+
+Plaintiffs here alleged that Dweck “engaged in parking transactions with the
+purpose and effect of creating a false appearance of an active trading market with the
+intent of inflating the trading price of [the securities] and causing investors, such as
+plaintiffs to purchase [them].” First Am. Compl. ¶ 10; accord id. ¶¶ 21, 131, 251, 293,
+319. Judge Lohier believed that such allegations (along with other allegations
+describing the parking transactions) were adequate under prior Second Circuit
+precedent to establish that plaintiffs “acted in reliance on an assumption of an
+efficient market free of manipulation when they purchased the securities at artificially
+inflated prices.” Dissent at 9. Yet, under the majority’s rule, these allegations are not
+enough—a determination that “unnecessarily provides” an “extra shelter for stock
+manipulation under the federal securities laws.” Id. at 10.
+The Commission is also concerned that the decision could be applied in a way
+that would impair its ability to bring manipulation claims. While the majority’s
+decision arises in the context of a private action, appears to focus on reliance (which
+only private plaintiffs must establish), and expressly recognizes that plaintiffs’
+allegations “would easily be sufficient” in a Commission action premised upon a
+theory of secondary liability, slip op. 14, the broad language used in the opinion to
+impose a new misrepresentation requirement for manipulation claims is not ostensibly
+limited to private actions. For instance, when the majority states that “an allegation of
+acts facilitating or even indispensable to a fraud is not sufficient to state a claim if
+
+13
+ 
+
+those acts were not the particular misrepresentations that deceived the investor,” id. at
+11–12, it does not clearly restrict this language to private actions.
+Moreover, the majority’s decision may also affect the Commission’s ability to
+proceed under a theory of secondary liability because the Commission can only bring
+an aiding and abetting claim if there is a primary violator. SEC v. First Jersey Sec., Inc.,
+101 F.3d 1450, 1471 (2d Cir. 1996). Under the majority’s view, a manipulation claim
+requires a defendant to communicate pricing information to the plaintiff. In this case,
+Baron’s officers and employees communicated with investors, and thus there is a
+primary violation upon which Dweck’s secondary liability may be premised. But not
+every instance of manipulation will involve someone who, acting with scienter, makes
+false statements about price to directly to investors.
+Such a shield from liability is inconsistent with the Exchange Act and Rule 10b5. The Exchange Act was a direct response to manipulation in the securities markets;
+in Section 2(e), which explains the “[n]ecessity for [r]egulation,” Congress described
+the economic and social ills that result when “the prices of securities” on exchanges
+and over-the-counter markets “are susceptible to manipulation and control.” 15
+U.S.C. 78b(3). Congress enacted Section 10(b)—and authorized the Commission to
+promulgate Rule 10b-5—to ensure that “supply and demand may freely meet at prices
+uninfluenced by manipulation and control.” S. REP. NO. 73-1455, at 30 (1934).
+Congress used an axe, not a scalpel, to accomplish this objective: it “meant to prohibit
+the full range of ingenious devices that might be used to manipulate securities prices.”
+14
+ 
+
+Santa Fe, 430 U.S. at 477. Its goal was to outlaw every “device used to persuade the
+public that activity in a security is the reflection of a genuine demand instead of a
+mirage.” S. REP. NO. 73-1455, at 54.
+The majority’s decision undermines that goal. It permits schemers who enter
+into illegitimate transactions that project the mirage of a functioning market to escape
+liability because they do not personally communicate to investors the illusory pricing
+information generated by their manipulative acts. Even though investors purchase
+the securities at prices that they believe are established by the free interplay of supply
+and demand—but, unbeknownst to them, are the product of a rigged market—they
+may not recover against the person who engaged in the transaction that created the
+mirage and profited from it. Such a result is inconsistent with the Exchange Act and
+should be reexamined by the panel or by the en banc court.
+CONCLUSION
+The petition for rehearing or rehearing en banc should be granted.
+Respectfully submitted,
+ANNE K. SMALL
+General Counsel
+
+JOHN W. AVERY
+Deputy Solicitor
+
+MICHAEL A. CONLEY
+Deputy General Counsel
+
+/s Jeffrey A. Berger
+
+JACOB H. STILLMAN
+Solicitor
+
+JEFFREY A. BERGER
+Senior Litigation Counsel
+Securities and Exchange Commission
+100 F. Street, N.E.
+Washington, D.C. 20549-9040
+(202) 551-5112 (Berger)
+
+June 20, 2013
+15
+ 
+
+CERTIFICATE OF SERVICE
+I certify that, on June 20, 2013, I filed with the Clerk of the Second Circuit
+fifteen copies of the Commission’s amicus curiae brief in support of plaintiffs’ petition
+for rehearing or rehearing en banc, and I further certify that I served two copies of
+that brief on the following counsel via UPS overnight delivery:
+Donald Cohen, Esq.
+Timothy E. Di Domenico, Esq.
+Greenberg Traurig, LLP
+200 Park Avenue
+New York, New York 10166
+Tel: (212) 801-9200
+
+Max Folkenflik
+Folkenflick & McGerity
+1500 Broadway, 21st Floor
+New York, NY 10036
+Tel: (212) 757-0400
+
+Michael D. Schissel, Esq.
+Kerry A. Dziubek, Esq.
+Arnold & Porter LLP
+399 Park Avenue
+New York, New York 10022
+Tel: (212) 715-1000
+
+Ira Lee Sorkin, Esq.
+Donald A. Corbett Esq.
+Lowenstein Sandler LLP
+1251 Avenue of the Americas
+New York, New York 10020
+Tel: (212) 262-6700
+
+Thomas J. Quigley, Esq.
+Winston & Strawn LLP
+200 Park Avenue
+New York, New York 10166
+Tel: (212) 294-6700
+Fax: (212) 294-4700
+
+Howard Wilson, Esq.
+Anthony Wladyka, Esq.
+Proskauer Rose LLP
+1585 Broadway
+New York, New York 10036
+Tel: (212) 969-3000
+
+Stephen Wagner, Esq.
+Cohen Tauber Spievack & Wagner P.C.
+420 Lexington Avenue
+New York, New York 10170
+Tel: (212) 586-5800
+
+/s/ Jeffrey A. Berger
+Jeffrey A. Berger
+
+ 
+
+

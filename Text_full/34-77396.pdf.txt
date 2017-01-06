@@ -1,0 +1,1486 @@
+UNITED STATES OF AMERICA
+before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 77396 / March 17, 2016
+Admin. Proc. File No. 3-15869
+
+In the Matter of the Application of
+THE DRATEL GROUP, INC.
+and
+WILLIAM M. DRATEL
+for Review of Action Taken by
+FINRA
+
+OPINION OF THE COMMISSION
+REGISTERED SECURITIES ASSOCIATION – REVIEW OF DISCIPLINARY
+PROCEEDINGS
+Grounds for Remedial Action
+Fraud
+Recordkeeping Violations
+Conduct Inconsistent with Just and Equitable Principles of Trade
+Former member firm and its principal engaged in a fraudulent cherry-picking scheme,
+falsified and backdated order tickets, time stamped blank order tickets, failed to identify
+customer names on order tickets before execution, and discarded order tickets. Held,
+FINRA’s findings of violations and imposition of sanctions are sustained.
+APPEARANCES:
+William M. Dratel, pro se.
+Alan Lawhead and Andrew J. Love, for FINRA.
+
+2
+Appeal filed: May 12, 2014
+Last brief received: August 22, 2014
+I. Introduction
+The Dratel Group, Inc. (“DGI”), a former FINRA member firm, and William M. Dratel
+(“Dratel”), DGI’s principal and a formerly registered person (collectively, “Applicants”), appeal
+from a FINRA disciplinary action that found, in part, that Applicants engaged in a fraudulent
+trade allocation scheme known as “cherry picking,” falsified and backdated order tickets, time
+stamped blank order tickets, and failed to identify customer names on order tickets until after
+execution.1 For these violations, FINRA expelled DGI from its membership; barred Dratel in all
+capacities; and ordered Dratel to disgorge $489,000, plus interest, and to pay certain costs. 2
+The charges against Applicants stem from Dratel’s use of omnibus firm accounts to day
+and overnight trade for both himself and his customers from October 2005 through December
+1
+
+Dratel entered the securities industry in September 1977 and, with his father and another
+business partner, founded DGI as a registered broker-dealer in 1980. Dratel became DGI’s sole
+owner in August 1999 and began operating, managing, and supervising all aspects of DGI’s
+business, including acting as the firm’s sole broker for its customer accounts. Dratel was DGI’s
+Chief Compliance Officer, Anti-Money Laundering Compliance Officer, and Financial
+Operations Officer. He was registered with FINRA as a General Securities Representative,
+General Securities Principal, and Financial and Operations Principal, but neither DGI nor Dratel
+are currently registered. DGI began operating under a waiver of the two-principal requirement in
+2002. See NASD Rule 1021(e) (requiring members, other than sole proprietorships, to have “at
+least two officers or partners who are registered as principals with respect to each aspect of the
+member’s investment banking and securities business”); NASD Rule 9610 (providing a means
+for applicants to request a waiver or exemption from the two-principal requirement).
+2
+
+FINRA also found that Applicants failed to establish, maintain, and enforce supervisory
+procedures adequate to prevent post-execution allocation of trades and ensure timely and
+accurate completion of customer order tickets and that they failed to update certain customer
+account information periodically. DGI also opened new customer accounts without requiring
+customers to show photographic identification and failed to independently test its anti-money
+laundering program. We do not address these findings because FINRA did not impose sanctions
+for these violations. See Dep’t of Enforcement v. The Dratel Group, Inc., Complaint No.
+2008012925001, 2014 WL 1803377, at *31 (May 2, 2014). Under Exchange Act Section 19(e),
+we review only final disciplinary sanctions imposed by self-regulatory organizations. See 15
+U.S.C. § 78s(e)(1) (providing that the Commission shall review an action in which a selfregulatory organization, such as FINRA, imposes “any final disciplinary sanction” on any
+member or person associated with a member if an aggrieved person timely files an application
+for review).
+In addition, Applicants did not challenge these findings in their application for review or
+their opening brief—their challenges appear in their reply brief. Under Commission Rule of
+Practice 450(b), reply briefs must be confined to matters in opposition briefs of other parties, and
+as such, we do not consider these arguments.
+
+3
+2006.3 Dratel purchased securities (or initiated short positions) in the omnibus accounts, but
+waited to allocate those trades until after he saw how they performed. Applicants directed a
+higher proportion of profitable trades to Dratel’s personal account and a smaller proportion of
+profitable trades to customers’ accounts—thereby “cherry picking” the best trades for Dratel.
+Applicants furthered this scheme by failing to keep accurate and current records of their trades.
+We find that, by engaging in this conduct, Applicants willfully violated the antifraud and
+recordkeeping provisions of the federal securities laws and NASD Conduct Rules and that
+FINRA’s imposition of sanctions is neither excessive nor oppressive.4 Our findings are based on
+an independent review of the record.
+II. Facts
+Cherry picking is a practice in which securities professionals allocate profitable trades to
+a preferred account (like their own) and less profitable or unprofitable trades to a non-preferred
+account (like a customer’s). To cherry pick a trade, a securities professional typically originates
+the trade in an omnibus firm account, without identifying the underlying customer or proprietary
+account for which the trade was placed, and then allocates the trade to an account after observing
+how that transaction performed. By directing the more profitable trades toward preferred
+accounts, a securities professional is effectively stealing from one customer to enrich himself or
+other preferred customers.5
+Determining whether cherry picking has occurred often requires drawing inferences from
+a pattern of behavior, irregularities, and trading data. Cherry picking is difficult to detect. By
+self-dealing occasionally and skimming small amounts of customer profits, disadvantaged
+customers continue to earn an overall profit (although less of one), making it easier to avoid
+regulatory or customer scrutiny.
+
+3
+
+For simplicity, this opinion occasionally refers to day and overnight trades as “day
+trades.”
+4
+
+On July 26, 2007, the Commission approved a proposed rule change filed by NASD to
+amend NASD’s Restated Certificate of Incorporation to reflect its name change to Financial
+Industry Regulatory Authority, Inc., or FINRA, in connection with the consolidation of NASD
+and the member-regulation, enforcement, and arbitration functions of the New York Stock
+Exchange. See Securities Exchange Act Release No. 56146, 2007 WL 5185331 (July 26, 2007).
+Because the conduct at issue occurred before this date, NASD Conduct Rules apply to this case.
+5
+
+Alex Raskolnikov, Irredeemably Inefficient Acts: A Threat to Markets, Firms, and the
+FISC, 102 GEO. L.J. 1133, 1152 (2014) (“Cherry-picking—a broker’s trading alongside her
+customers while taking advantage of the cheapest execution prices and burdening the customers
+with the least favorable ones—comes close to outright theft.”).
+
+4
+A. Beginning in October 2005, the proportion of profitable trades in Dratel's own
+account increased substantially while the proportion of profitable trades in certain
+discretionary accounts fell.
+During the relevant period, Dratel was DGI’s sole owner and broker. He placed trades in
+both his personal and customer accounts, including about seventy customer accounts over which
+he had discretionary trading authority.6 Although the majority of Dratel’s trades for customers
+were long-term investments, Dratel day and overnight traded in about forty of the customer
+accounts over which he had discretionary authority, and the majority of the trades in Dratel’s
+personal account were day trades. At issue here are the twenty-five discretionary accounts in
+which Dratel day and overnight traded most actively (the “Discretionary Customers”).7 Many of
+these Discretionary Customers were Dratel’s friends or family and were long-term DGI
+customers.
+Dratel’s general practice was to place all trades through two omnibus firm accounts.8
+Dratel, working in DGI’s East Hampton, New York office, initiated all day and overnight trades
+by calling or sending a fax to one of two staff members who worked in DGI’s Manhattan office.
+He provided the stock’s name and quantity to trade, which the staff then entered into a system
+maintained by DGI’s clearing broker, Oppenheimer & Co., called the Order Management
+System (“OMS”).9 Some of these day and overnight trades were for a single account (either his
+or a customer’s) and some were “bunched” trades that Dratel placed for multiple accounts
+simultaneously, including his personal account and customer accounts.
+The Manhattan staff member who worked as DGI’s sales assistant had primary
+responsibility for entering trades into OMS. After she entered the trades into OMS, she typically
+called Dratel to give him the price and order identification number as trades were executed.
+Dratel then used this information to complete a paper OMS order ticket that reflected the order’s
+entry and execution time. The OMS ticket reflected only the purchase or sale in the firm’s
+
+6
+
+Dratel had one regular trading account and several individual retirement accounts at DGI.
+The trading at issue here occurred primarily in Dratel’s regular trading account.
+7
+
+FINRA excluded the other fifteen discretionary accounts from its analysis because Dratel
+day traded only one or two times during the relevant period.
+8
+
+Dratel used one of two firm omnibus accounts: an “Average Price Listed Account,”
+which he used for securities listed on the New York Stock Exchange, and an “OTC Principal
+Account,” which he used for Nasdaq or over-the-counter securities. Broker-dealers often use
+average price accounts as a way to buy or sell large amounts of a given security for their
+customers in small increments throughout a trading session. The broker-dealer then typically
+transfers the accumulated long or short position to one or more individual accounts at a volumeweighted average price.
+9
+
+An introducing broker, like DGI, deals directly with the public and originates customer
+accounts, and a clearing broker, like Oppenheimer, handles the mechanics of clearance and
+settlement of trades in those accounts. See VanCook v. SEC, 653 F.3d 130, 133 (2d Cir. 2011).
+
+5
+omnibus accounts and did not reflect the account to which the trade ultimately would be
+allocated.
+DGI used a separate Oppenheimer system, called FiNet, to allocate trades from the
+omnibus accounts to customer accounts. Dratel testified that for trades involving only his
+account or a single customer account, his long-standing practice was to time stamp blank paper
+FiNet order tickets at the same time that he time stamped the paper OMS tickets. Then,
+sometime later in the day, he faxed a completed FiNet ticket showing the account allocation to
+the staff in the Manhattan office. For trades involving multiple accounts, Dratel instructed the
+staff in Manhattan to time-stamp a blank FiNet ticket at the same time that he placed the initial
+OMS order, but to wait to complete the FiNet ticket until he sent them allocation instructions.10
+The staff entered the allocation information from the paper FiNet tickets into the FiNet system.
+The FiNet system did not automatically record the time that a trade was entered into it, meaning
+that DGI staff could enter allocations anytime the system was open, including after the market
+had closed.11 Oppenheimer used the information in FiNet to generate trade confirmations for
+DGI and its customers.
+Dratel admitted that he sometimes waited until four or five o’clock before transmitting
+allocation instructions to the staff in the Manhattan office. The sales assistant testified that
+Dratel generally provided her with allocation instructions after a trade had been executed, and
+often provided her those instructions near or after the close of the market. The allocation
+instructions that Applicants produced during FINRA’s investigation reflect this practice.
+Applicants produced allocation instructions for approximately half of Dratel’s day trades, and all
+of these instructions had been faxed to DGI’s Manhattan office after Dratel had closed the
+particular trade position.
+In the first nine months of 2005, the proportion of profitable day and overnight trades in
+the Discretionary Customer accounts and Dratel’s own account was 46% and 40%, respectively.
+Beginning in October 2005, the success rate of the day and overnight trades in the two types of
+accounts was no longer consistent. From October 2005 to December 2006, only 28% of the day
+and overnight trades in the Discretionary Customers’ accounts were profitable, while 83% of the
+trades in Dratel’s account were profitable.
+
+10
+
+The sales assistant also time stamped blank FiNet order tickets after completing the OMS
+tickets. Based on her training by two other DGI employees, she would ensure that both tickets
+had the same time stamp by rolling back the firm’s time-stamp machine to match the time on the
+FiNet ticket to the time on the previously stamped OMS order ticket. Although the two
+employees both denied telling the sales assistant to roll back the time stamp, the Hearing Panel
+found the sales assistant’s account to be “very credible,” noting that, “[u]nlike [the other two
+employees], [the sales assistant] was not a long-time employee of DGI. Further, she appeared to
+have no animosity toward Dratel.” We find no evidence in the record that provides a basis for
+overturning this finding. See infra note 34 (noting that we generally accord deference to the fact
+finder’s credibility determinations).
+11
+
+FiNet remained open for several hours after the market closed.
+
+6
+Dratel day and overnight traded the same stock, on the same day, for both himself and his
+Discretionary Customers 27 times in 2006. Dratel received a greater profit or smaller loss than
+his customers did in 21 out of 27 (78%) of those cases.
+B. The higher proportion of profitable trades in Dratel’s personal account coincided
+with an increase in his day-trading activity despite his reduced buying power.
+The higher proportion of profitable trades in Dratel’s own account in late 2005 and 2006,
+and the decrease in the proportion of profitable trades in the Discretionary Customers’ accounts,
+coincided with an increase in Dratel’s day-trading activity despite a smaller amount of equity, or
+buying power, in his personal account. Beginning in October 2005, Dratel increased the number
+of day and overnight trades he placed for both his Discretionary Customers’ accounts and his
+own account.
+Between January and September 2005, Dratel executed an average of 19.2 day and
+overnight trades per month in the Discretionary Customers’ accounts and an average of 2.7 day
+and overnight trades per month in his own account. In contrast, between October 1, 2005, and
+December 31, 2006, Dratel executed an average of 82.9 day and overnight trades per month in
+his Discretionary Customers’ accounts—an increase of more than 330% over the first nine
+months of 2005. He executed an average of 33.4 day and overnight trades per month in his own
+account—an increase of more than 1,130% over the first nine months of 2005. In 2006 alone,
+Dratel executed approximately 1,200 day and overnight trades in the Discretionary Customers’
+accounts and approximately 501 day and overnight trades for his personal account. By
+comparison, between 1999 and 2004, the highest volume of day trades in the Discretionary
+Customers’ accounts was in 2001, when Dratel made 410 day trades, and the highest number of
+day trades in his personal account was in 2002, when Dratel made 411 day trades.
+This increased trading volume in Dratel’s own account occurred despite a drop in the
+equity in that account. Although Dratel had less buying power in his account, Dratel leveraged
+the buying power of his customers’ accounts by placing his trades through the firm’s omnibus
+accounts. As a result, Dratel placed more trades with less of his own money at risk. Between
+1999 and 2002, Dratel’s personal account traded at a little more than three times equity.12 In
+2003, Dratel’s personal account traded at approximately five and a half times equity, and his
+
+12
+
+Between 1999 and 2002, the average equity in Dratel’s personal account was
+approximately $510,364 per month, while the monthly average purchase volume was
+approximately $1,614,376 (thus he was trading at a little more than three times equity).
+
+7
+account traded at a little more than one times equity in 2004.13 But in 2006, Dratel’s account
+traded at approximately 71 times equity.14
+In 2006, Dratel conducted his personal trades through the omnibus accounts, although it
+would have been more cost effective to initiate orders through his personal account. 15 Dratel did
+not disclose to customers that he was directing a higher proportion of profitable trades away
+from their accounts to benefit himself. In fact, Dratel testified that, unless it “came up,” he did
+not disclose to his customers that he was trading for both his own and customers’ accounts at the
+same time, or that he waited until after trades were executed before allocating these trades
+between his own account and customers’ accounts.
+Further, Dratel testified that he did not think day trading for himself and his customers
+through the same omnibus account, at the same time, created an issue because he “knew exactly
+who was . . . buying what.” But Dratel acknowledged at the hearing that his personal trades in
+the same stocks as his customers created at least “the appearance of conflict and makes for all
+sorts of problems.” Dratel relied on the fact that his customers trusted him. As he put it at the
+hearing, “[m]y customers trust me. That’s why they give me discretion.”
+C. The increased proportion of profitable trades in Dratel’s own account occurred
+after he experienced financial difficulties.
+The increased proportion of profitable trades in Dratel’s own account followed financial
+losses that he suffered starting in the early 2000s. In 2002 and 2003, Dratel realized total
+investment losses of $34,439 in his personal trading account and $252,173 in his IRA accounts.
+
+13
+
+In 2003, Dratel’s average monthly account equity was approximately $132,325, with an
+average monthly purchase volume of $733,084 (thus trading at approximately five and one-half
+times equity). In 2004, Dratel’s average monthly account equity was approximately $152,203,
+with an average monthly purchase volume of approximately $177,664 (a little more than one
+times equity).
+14
+
+In the last three months of 2005, Dratel’s average monthly account equity dropped to
+approximately $60,718, while his average monthly purchase volume rose to approximately
+$921,568 (approximately 15 times equity). And in 2006, Dratel’s average monthly account
+equity was approximately $27,867 per month, while his average monthly purchase volume was
+$1,990,678 (approximately 71 times equity).
+15
+
+Dratel claimed that routing his personal trades through the omnibus accounts saved him
+money. During FINRA’s investigation, Dratel stated he used the omnibus accounts because they
+were “the simplest and most cost effective way” to trade, claiming that Oppenheimer charged
+DGI twice as much for trades placed through personal accounts (such as Dratel’s or a
+customer’s) as it did for trades placed through the omnibus accounts. At the hearing, Dratel
+admitted that he had no evidence to support this assertion. He also admitted at the hearing that
+he would have saved money by using the omnibus accounts only if he had placed bunched orders
+of more than four trades. Because he executed significantly more single orders than bunched
+trades for himself in 2006, he acknowledged that it would have been more cost effective for him
+to initiate orders through his own account.
+
+8
+Between 2004 and 2005, Dratel lost another $144,981 in his personal account and $115,509 in
+his IRA accounts. In addition to settling two customer arbitrations in 2002 and 2005, paying the
+customers a total of $233,000, Dratel also personally compensated certain DGI customers for
+$156,000 in trading losses between 2004 and 2005.16
+In 2005, Dratel refinanced an approximately $4.2 million mortgage on his home with an
+interest-only loan. Later that year, he put his home on the market and purchased a less expensive
+one. He testified that he was having difficulty selling his first home and needed “a chunk of
+money” to purchase the second. Dratel then borrowed $434,000 from a customer, despite
+Dratel’s acknowledgement that his firm’s internal procedures barred him from doing so. Dratel
+ultimately was unable to sell the first home, and the bank foreclosed on it in 2008.17
+D. FINRA investigated an increase in the number of “as of” trades at DGI and
+discovered numerous record-keeping inconsistencies.
+In 2006, FINRA received a report indicating a significant increase in the number of “asof trades” that DGI executed relative to its peer firms.18 An “as-of trade” typically refers to a
+trade executed to correct a trading error that occurred on an earlier “as-of” date.19
+
+16
+
+Dratel described these payments as covering “egregious” losses that he felt were the
+result of his own bad investment decisions. Dratel made the payments by engaging in crosstrades between his personal account and the customers’ accounts. He purchased poorly
+performing securities from customers at an above-market price (thus covering at least part of the
+customers’ losses) and then sold the securities from his own account into the market (often for a
+significant personal loss). Dratel did not disclose these trades to his customers.
+17
+
+Applicants dispute that Dratel suffered financial hardships in 2005 and 2006, but the only
+support for this argument is a citation to Dratel’s cursory and self-serving testimony that he was
+not suffering financial problems during that time.
+18
+
+FINRA maintained a surveillance system in which clearing firms provided information
+about broker-dealers’ cancelled and as-of trades. According to Applicants, the firm would use
+as-of trades for trades that were, for whatever reason, not entered into FiNet on the day the trade
+was executed. Dratel testified that, when this happened, DGI would enter the trade into FiNet
+the next date, but with the indication that the trade was executed “as-of” the earlier, intended
+date. On appeal, Applicants argue that FINRA failed to prove that they used the “as-of” trades to
+perpetuate their fraud. Although “[t]he use of an arbitrary ‘as of’ date for the purpose of creating
+the appearance that a transaction had occurred on a specific date, in order to disguise or hide rule
+violations, is an improper practice,” our findings of violations do not rely on Applicants’ use of
+as-of trades. Kirk A. Knapp, Exchange Act Release No. 31556, 1992 WL 365568, at *3 n.17
+(Dec. 3, 1992).
+19
+
+See, e.g., SEC v. Durgarian, 477 F. Supp. 2d 342, 352 (D. Mass. 2007) (stating that
+mutual fund company had a policy of allowing “as of” trades to correct trading errors); Knapp,
+1992 WL 36556, at *3 n.17 (observing that, “[i]n common industry usage, an ‘as of’ trade is the
+correction of an error or oversight which actually occurred on the ‘as of’ date”).
+
+9
+FINRA initiated an examination to investigate the increase. During the exam, FINRA’s
+lead examiner uncovered faxes indicating that Applicants had delayed the allocation of trades.20
+In one case, she found order tickets in DGI’s files for the purchase and sale of Sun Microsystems
+through an omnibus account that had time stamps of January 13, 2006, at 3:10 and 3:12 p.m. But
+the allocation instructions for those trades indicated that they were not faxed to the Manhattan
+office until four days later, with a notation that the trades should be entered “as of” the earlier,
+January 13, date. The time stamps on the physical FiNet order tickets were manually altered to
+reflect the January 13 trade date, with a time stamp of 9:12 a.m., which made it appear as if the
+allocations were made six hours before the initial trades were placed.
+FINRA’s examination also uncovered order tickets that were never time stamped. When
+FINRA asked Applicants to provide more information about their trades,21 Applicants produced
+tickets for the same trades, now time stamped and written in different handwriting. In another
+instance, FINRA examiners found a ticket during their on-site examination for trades in IFS AB
+stock that had no time stamp; Dratel later produced a ticket for the same trade with a time stamp,
+for the correct time of the trade, but in different handwriting and with the wrong trade date. In
+another instance, Dratel executed a cross-trade between customers on January 18, 2006. For that
+trade, one customer’s order ticket is time stamped 2:22 p.m., while the order ticket for the other
+side of the cross-trade is stamped 12:22 p.m. Dratel testified that he had told his staff to stamp
+the tickets 2:22 p.m. (when he claimed to have done the cross-trade), but said he did not know
+what caused the discrepancy.
+III. Procedural History
+In May 2010, FINRA’s Department of Enforcement filed a complaint against Applicants,
+alleging, among other things, that Applicants executed a fraudulent trade allocation scheme and
+falsified and backdated order tickets to further their cherry-picking scheme. After holding a
+hearing, a hearing panel found Applicants liable for the alleged violations. One member of the
+hearing panel partially dissented, finding that “there was no direct evidence of cherry-picking”
+and that the Department of Enforcement’s “entire case was circumstantial and built exclusively
+on the statistical unlikelihood of Dratel’s day trading success being attributable to anything other
+than cherry-picking.”22 The statistical evidence, the dissenting member concluded, was based on
+an arbitrary and unrepresentative sample of Applicants’ overall trades. The dissenting member
+also found no evidence that Dratel personally altered order tickets, or directed anyone else to do
+20
+
+The hearing panel found that FINRA’s lead examiner “was credible and thorough in her
+review of [Applicants’] records.” Applicants take issue with this conclusion, but we see no
+reason to overturn it because the record evidence supports the FINRA examiner’s descriptions of
+Applicants’ trading records. See infra note 34 (noting that we generally accord deference to the
+fact finder’s credibility determinations).
+21
+
+Applicants were required to provide information or documents in the investigation
+pursuant to NASD Rule 8210.
+22
+
+The dissenting member agreed with the majority’s finding of record-keeping violations
+not related to Dratel’s cherry picking, but because he dissented from the majority’s fraud
+findings, he recommended imposing lesser sanctions.
+
+10
+so, and that it was “not clear that allocations were made (as opposed to transmitted) after the
+fact.”
+Applicants appealed the hearing panel’s decision to FINRA’s National Adjudicatory
+Council. The NAC affirmed the hearing panel’s findings and rejected the dissenting hearing
+panel member’s conclusion that the Department of Enforcement had used arbitrary and
+unrepresentative data to support its allegations. The NAC found that Dratel’s lower success rate
+before 2006, as compared to his Discretionary Customers, did “not counteract the extreme nature
+of the reversal that occurred in 2006 and the extent of the differences in 2006 between the
+performance of day and overnight trading in Dratel’s personal account and day and overnight
+trading in the [customers’] accounts, particularly given that Dratel and the customers often traded
+the same or similar securities.”
+The NAC found Applicants’ misconduct was “highly egregious, pervasive, [and]
+premeditated” and affirmed the hearing panel’s decision to bar Dratel in all capacities and order
+him to disgorge $489,000, plus pre-judgment interest, and to pay certain costs. The NAC
+increased the sanction against DGI from a day-trading bar to a full expulsion from membership,
+but declined to impose any fines against either Dratel or DGI because it had imposed a bar and
+expulsion, respectively. This appeal followed.23
+IV. Analysis
+We base our findings on an independent review of the record and apply the
+preponderance of the evidence standard for self-regulatory organization disciplinary actions.24
+Pursuant to Exchange Act Section 19(e)(1), we determine whether Applicants engaged in the
+conduct found by FINRA, whether that conduct violated the relevant provisions, and whether
+those provisions are, and were applied in a manner, consistent with the purposes of the Exchange
+Act.25
+A. Applicants engaged in an unlawful cherry-picking scheme.
+The record contains sufficient evidence to find that Applicants cherry picked profitable
+trades away from their Discretionary Customers during the relevant period. First, the increased
+proportion of profitable day and overnight trades in Dratel’s own account in 2006, and
+corresponding decrease in the proportion of profitable trades in Discretionary Customers’
+accounts, is a statistically significant departure from prior trading periods. Second, the record
+supports a finding that Dratel allocated trades after they had been executed, and falsified and
+backdated trade tickets to make it appear as if the allocations occurred when the trades were
+23
+
+Only the NAC’s decision is before us on appeal. See Philippe N. Keyes, Exchange Act
+Release No. 54723, 2006 WL 3313843, at *6 (Nov. 8, 2006 (“[I]t is the decision of the NAC, not
+the decision of the Hearing Panel, that is the final action of NASD which is subject to
+Commission review.”).
+24
+
+See David M. Levine, Exchange Act Release No. 48760, 2003 WL 22570694, at *9 n.42
+(Nov. 7, 2003) (citing Seaton v. SEC, 670 F.2d 309, 311 (D.C. Cir. 1982) (upholding
+preponderance of evidence standard in SRO disciplinary proceeding)).
+25
+
+15 U.S.C. § 78s(e)(1).
+
+11
+placed. Third, the record evidence does not demonstrate an explanation, other than cherry
+picking, for the increased proportion of profitable trades in Dratel’s own account. As a whole,
+the circumstantial and indirect evidence in the record establishes by a preponderance of the
+evidence that Dratel cherry picked profitable trades away from his customers to benefit himself.
+Neither chance, faulty statistics, nor trading strategy provides a persuasive alternative
+explanation for the shifts in success rates and late allocation of trades.
+The increase in Dratel’s rate of profitable trades in his personal account during the
+relevant period and the decrease in the rate of profitable trades in the Discretionary Customers’
+accounts during the same period cannot be explained by chance alone. The proportion of
+profitable trades in Dratel’s own account had been slightly lower during the first nine months of
+2005 than the proportion of profitable trades in the Discretionary Customers’ accounts (40% of
+Dratel’s own trades were profitable versus 46% of the Discretionary Customers’ trades). In
+comparison, from October 2005 through December 2006, Dratel’s success rate when trading for
+his own accounts was 83%, while his success rate when trading for the Discretionary Customers’
+accounts was 28%.26
+This is striking because the proportion of profitable day and overnight trades when the
+trades in both Dratel’s own account and the Discretionary Customers’ accounts are combined is
+consistent and stable in both periods. For all day and overnight trades placed in both Dratel’s
+own account and the Discretionary Customers’ accounts, the aggregate proportion of profitable
+trades in the first nine months of 2005 was approximately 45%, and the aggregate proportion of
+profitable trades from October 2005 through December 2006 was approximately 44%. Although
+the aggregate proportion of profitable day and overnight trades during the two periods was
+essentially the same, from October 2005 through December 2006, the trades that Dratel allocated
+to his own account were much more likely to be profitable than the trades that he allocated to the
+Discretionary Customers’ accounts. The statistical probability that chance caused the difference
+between Dratel’s own success rate and his Discretionary Customers’ success rate from October
+2005 through December 2006 was effectively zero.
+We reject Applicants’ argument that the statistical evidence on which FINRA relied was
+an arbitrary and unrepresentative sample of Applicants’ trades and order tickets.27 Applicants
+26
+
+In its complaint, FINRA’s Department of Enforcement alleged that Applicants’
+misconduct occurred from October 2005 through December 2006, but the hearing panel and the
+NAC limited their fraud findings to 2006. As part of our review, however, we examined all of
+the trades and statistics that were part of the record. Our discussion therefore includes statistics
+concerning trades over a longer period of time. The hearing panel and the NAC both found all
+other violations to have occurred from October 2005 through December 2006.
+27
+
+A two-proportion z-test is a hypothesis test to determine whether the difference between
+two ratios is statistically significant. This test requires there to be a “null hypothesis” and an
+“alternative hypothesis.” The “null hypothesis” is the hypothesis that the observed results are
+caused solely by chance. The “alternative hypothesis” is the hypothesis that the observed results
+are from some non-random cause. The “z score” or “z statistic” indicates how many standard
+deviations the alternative hypothesis results are from those of the null hypothesis. A z-statistic of
+1.96 (or -1.96) indicates a result that is approximately two standard deviations away from the
+(continued…)
+
+12
+fault FINRA for focusing on day and overnight trades that represented a tiny fraction of the
+overall trading activity during the relevant period.28 The analysis’s focus on day and overnight
+trades was reasonable because Dratel testified that he engaged in “purely day trading” when
+trading for his own account. The long-term trades FINRA excluded from its analysis were
+(…continued)
+
+expected result, and anything above that number in absolute value is generally considered
+statistically significant. The z-statistic can be expressed as a “p-value,” which is the probability
+that the difference between the null hypothesis and Dratel’s actual trade results occurred by
+chance. The larger the z-score, the smaller the p-value, and a p-value smaller than 5% is
+generally considered statistically significant. See SEC v. Selden, 632 F. Supp. 2d 91, 94
+(D. Mass. 2009) (“A p value of 0.05 or less (indicating a 95% level of certainty that the observed
+effect was not randomly induced) is generally accepted as showing a statistically-significant
+effect.”); FEDERAL JUDICIAL CENTER, REFERENCE MANUAL ON SCIENTIFIC EVIDENCE 250 (3d ed.
+2000) (“Large p-values indicate that a disparity can easily be explained by the play of chance:
+The data fall within the range likely to be produced by chance variation. On the other hand, if p
+is very small, something other than chance must be involved: The data are far away from the
+values expected under the null hypothesis.”).
+In this case, the null hypothesis was that Dratel would achieve the same trading results
+(namely achieve the same ratio of profitable trades in his personal account to the profitable
+trades in the Discretionary Customers’ accounts) simply by chance. The alternative hypothesis
+was that this ratio was a result of some non-random cause, e.g., cherry picking by Applicants.
+The Z statistic for Dratel’s trading activity, from October 2005 through December 2006,
+was 20.39— highly statistically significant. The associated p-value indicates that there is
+effectively zero probability of his trading results being the result of chance. By comparison, in
+the nine months before Dratel’s cherry-picking scheme began in late 2005, the z-statistic was
+0.53 with a p-value of 59%, meaning there was no statistically significant difference between
+Dratel’s success when trading for his own account or for his customers’ accounts during that
+time.
+Applicants argue that FINRA failed to show that this increased success rate was more
+than what occurred at some other time in Dratel’s trading history. It may be that Dratel had a
+higher proportion of successful trades at some other time in his trading career, but Applicants
+point to no evidence of this. Even if this were true, we still find for all the reasons discussed
+herein that FINRA provided ample evidence to conclude that Dratel’s increased success rate
+during the relevant time is best explained by Applicants’ cherry picking trades.
+28
+
+Dratel argues, for instance, that FINRA focused on the twenty-seven trades where he
+traded the same stock on the same day as his customers, which he claims represent fewer than
+1.6% of all trades at issue during the relevant time. This is not an accurate comparison, however,
+because FINRA looked at all of Dratel’s day and overnight trades in his and the Discretionary
+Customers’ accounts, not just the twenty-seven instances where Dratel traded the same stock on
+the same day as his customers—and this larger pool of trades represents approximately 31% of
+all trades at issue.
+
+13
+allocated exclusively to customer accounts; analyzing them for cherry picking would be to no
+end, since there are no long-term trades that Dratel allocated to his personal accounts. To test for
+cherry picking here, it was necessary to compare the performance of similar trades across
+personal and customer accounts.
+Applicants also fault FINRA for excluding the fifteen customer accounts from its
+analysis that contained only one or two day and overnight trades during the relevant period.
+FINRA’s exclusion of the fifteen customer accounts, however, does not affect the persuasiveness
+of its statistical evidence. If FINRA had included in its analysis two day and overnight trades in
+each of the fifteen customer accounts, and we assume that all of those trades were profitable for
+customers during the relevant period, there would not be a significant change in the proportion of
+profitable trades in Dratel’s account versus the Discretionary Customers’ accounts. And the
+probability of that success occurring by chance would still be effectively zero.
+Finally, Applicants fault FINRA for failing to explain its rationale for calculating Dratel’s
+success rate on a per-customer basis instead of a per-stock basis. FINRA expressly considered
+this issue and concluded that Applicants’ preferred methodology of using a per-stock calculation
+did not provide an accurate comparison between Dratel’s success rate and that of his customers.
+By considering multiple transactions in the same security as a single trade, FINRA observed,
+Applicants’ approach would effectively hide those occasions where Dratel made multiple trades
+in a given security during the day, and later allocated the better trades to himself.29 Ultimately, it
+is appropriate to use a per-customer analysis, and Dratel offers no authority suggesting such an
+approach is invalid or improper.30
+Besides challenging the statistical evidence, Applicants argue that the higher proportion
+of profitable trades in Dratel’s account was the result of Dratel’s use of a more aggressive trading
+strategy for himself than for his customers. This is not supported by his testimony or any other
+record evidence.
+Dratel testified that he “always” or “usually” used a more aggressive day-trading strategy
+for himself. He claimed this difference in strategy was “part of [his] fiduciary duty . . . not to put
+29
+
+To illustrate the difference, assume, arguendo, that Dratel purchased a stock twice in a
+given day (first at $9 per share and later at $10) and that he then sold all of those shares on the
+same day at $9.50, allocating the winning trade (purchased at $9) to his own account and the
+losing trade (purchased at $10) to a customer’s account. Analyzing these transactions on a per
+customer basis, as FINRA did, would show these differing outcomes. But analyzing the
+transactions on a per stock basis, as Applicants suggest, would result in only a single data point,
+which would show that neither a winning nor a losing trade took place because the stock’s
+average purchase price would equal its sale price ($9.50)—thus hiding Dratel’s profit and his
+customer’s loss. SEC v. K.W. Brown & Co., 555 F. Supp. 2d 1275, 1299 (S.D. Fla. 2007)
+(finding evidence of cherry picking by analyzing trades on a per customer basis).
+30
+
+Applicants argue that FINRA failed to show that this increased trading volume was
+greater than any other increase between 1999 and 2004, but Applicants themselves introduced an
+exhibit showing that Dratel’s trading volume in 2006 was significantly higher than in any other
+year between 1999 and 2004.
+
+14
+the customers at a greater risk than they need to be.” But that testimony was contradicted by his
+other hearing testimony and his earlier investigation testimony.
+At the hearing, he admitted that he held a higher percentage of his customers’ “day-trade
+positions” overnight than he did in his own account—and acknowledged that holding these
+positions overnight was riskier than ending the day flat.31 Further, Dratel conceded that he used
+the same trading strategy for himself and his customers on the occasions when he traded the
+same stock, on the same day, for both accounts. And in his investigative testimony he said that
+he “day trade[d] the same way for everyone. . . . Day trading is day trading” and that there was
+“[u]sually no difference” between how he selected stocks for himself and for customers,
+although he was also “sure” there were times when “the customers had the riskier [stock].
+The actual trading activity also contradicts Dratel’s claim. He traded the same stock on
+the same day twenty-seven times in 2006. And despite using the same trading strategy for those
+stocks, Dratel received a greater profit or smaller loss than his customers in twenty-one of the
+twenty-seven trades (78%).32
+Applicants also claim that their increased proportion of profitable trades (and their
+customers’ corresponding decreased proportion of profitable trades) can be explained by Dratel’s
+use of an online subscription service called TheFlyOnTheWall.com (“TheFly”). Dratel testified
+that he began to use TheFly in 2004. When asked to explain why, during 2006, the
+recommendations from TheFly were more profitable for himself than his customers, Dratel
+claimed that 2006 was a year with “less volatility of the customers’ stocks, even though the
+stocks were volatile, I would also try to buy the customers the ones with the better
+recommendations.” Dratel’s explanations about his trading strategy, however, do not explain the
+dramatic change in the proportion of profitable trades between his and his customers’ accounts
+during the relevant period. As a result, we are not persuaded by Applicants’ claims that the
+changes in success rate were the result of trading strategy.33
+
+31
+
+Dratel held approximately 27% (323 of 1,164 trades) of his customers’ day-trade
+positions overnight, while he held only 5% (21 of 423 trades) of his own day-trade positions
+overnight. See also Day Trading: Your Dollars at Risk, at 1, available at http://www.sec.gov/
+investor/pubs/daytips.htm (“True day traders do not own any stocks overnight because of the
+extreme risk that prices will change radically from one day to the next, leading to large losses.”).
+32
+
+Applicants contend that this difference in profits “was because Dratel charged himself
+slightly less commission on these trades,” but provide no citation to the record supporting this
+claim. See 17 C.F.R. § 201.450(b) (requiring that all exceptions to the findings or conclusions
+under review “shall be supported by citation to the relevant portions of the record, including
+references to the specific pages relied upon”).
+33
+
+K.W. Brown, 555 F. Supp. 2d at 1304 (finding that defendants engaged in cherry picking
+where the disparity between the success of their and their customers’ trades, “cannot be
+explained through market forces and . . . is more likely than not . . . caused from cherry
+picking”).
+
+15
+Dratel claims that he made his allocation decision when he initiated his day and overnight
+trades (and thus did not cherry pick). But the only evidence supporting his claim is his own
+testimony, which the hearing panel did not credit. We agree that his testimony is not credible.34
+Dratel testified that he recorded all allocation decisions as he made them on a sheet of paper (for
+multiple customer orders) or on an order ticket (for single customer orders). But when asked
+whether he ever produced the allocation sheets to FINRA, Dratel responded, “No, because I
+never keep them.” He explained that he “d[id]n’t run [his] business that way, as just a data
+collection center.” Dratel similarly admitted that DGI did not number or code its order tickets
+(on which he recorded single-trade allocations) and that he therefore could have discarded a
+ticket before the trade was entered in FiNet, and created a new one, without anyone knowing that
+another ticket had existed, and had been replaced or discarded. There was, in other words, no
+evidence to corroborate Dratel’s claims about how he actually allocated the trades. There was,
+however, significant documentary evidence, discussed above—including falsified tickets,
+backdated tickets, and allocation instructions that were faxed post-execution35—all of which
+suggests he allocated trades after they were executed.36
+The statistical and documentary evidence supports FINRA’s finding by a preponderance
+of the evidence that Applicants cherry picked profitable trades away from the Discretionary
+Customers’ accounts. Dratel has also offered no persuasive alternative to FINRA’s findings.
+Although the burden of proving that Applicants engaged in violative conduct rests with FINRA,
+Applicants bore the burden of producing evidence to support their claimed factual defenses to the
+
+34
+
+“We generally accord considerable weight and deference to the fact finder’s credibility
+determination.” Mitchell H. Fillet, Exchange Act Release No. 75054, 2015 WL 3397780, at *8
+(May 27, 2015) (finding no reason to depart from a FINRA hearing panel’s credibility
+determination); cf. Rita J. McConville, Exchange Act Release No. 51950, 2005 WL 1560276, at
+*6 n.21 (June 30, 2005) (observing in an administrative proceeding that the credibility
+determination of an initial fact finder “is entitled to considerable weight and deference because it
+is based on hearing the witnesses’ testimony and observing their demeanor”), petition denied,
+465 F.3d 780 (7th Cir. 2006)).
+35
+
+Applicants argue that FINRA failed to produce original copies of the faxes admitted as
+exhibits during trial, contending that FINRA failed to establish that the “fax [marks on DGI’s
+records] were genuine and unaltered.” Applicants have not presented evidence that the
+documents were altered by FINRA, such as their own original records from which these
+documents were copied.
+36
+
+DGI’s supervisory procedures also required that Dratel, as the designated sales
+supervisor, ensure that all “employee or employee-related orders are so designated on the order
+ticket.” But Dratel admitted that none of the OMS order tickets for his trades contained any
+indication that the trade was for him. Rather, the tickets stated only that they were for DGI’s
+omnibus account. DGI’s procedures similarly required that “each [Registered Representative]
+effecting a trade for any discretionary account must designate the account number prior to
+entering any order.” Dratel admitted that he did not provide account numbers on order tickets
+before executing trades through DGI’s omnibus accounts.
+
+16
+charged conduct.37 Applicants had ample opportunity to offer their own expert analysis or other
+countervailing evidence about why Dratel’s rate of profitable trades in his personal account
+during the relevant period and the decrease in the Discretionary Customers’ rate of profitable
+trades during the same period was not due to cherry picking. Instead, Applicants provided
+unpersuasive explanations—which without adequate supporting evidence amounts to little more
+than assertions—for Dratel’s trading success that, as we explain above, do not outweigh
+FINRA’s evidence of cherry picking.
+B. Applicants’ Cherry-Picking Scheme Violated The Antifraud Provisions of The
+Securities Laws.
+We sustain FINRA’s finding that Applicants violated Exchange Act Section 10(b),
+Exchange Act Rule 10b-5, and NASD Rule 2120 by engaging in an unlawful cherry-picking
+scheme. Section 10(b) makes it “unlawful for any person directly or indirectly . . . to use or
+employ, in connection with the purchase or sale of any security . . . any manipulative or
+deceptive device or contrivance in contravention of” Commission rules.38 Rule 10b-5
+implements the Commission’s authority under Section 10(b) through three subsections that are
+“mutually supporting rather than mutually exclusive.”39
+The first subsection, Rule 10b-5(a), prohibits “directly or indirectly . . . employ[ing] any
+device, scheme, or artifice to defraud.”40 The second subsection, Rule 10b-5(b), prohibits
+“directly or indirectly . . . mak[ing] any untrue statement of a material fact or [omitting] to state a
+material fact necessary in order to make the statements made . . . not misleading.”41 The third,
+Rule 10b-5(c), prohibits “directly or indirectly . . . engag[ing] in any act, practice, or course of
+business which operates or would operate as a fraud or deceit upon any person.”42 Liability
+
+37
+
+See, e.g., Atlanta-One, Inc. v. SEC, 100 F.3d 105, 109–10 (9th Cir. 1996) (finding that
+NASD had not impermissibly shifted the burden of proof when it asked respondent during the
+hearing process to explain certain commissions that were alleged to have been excessive); Kirlin
+Sec., Inc., Exchange Act Release No. 61135, 2009 WL 4731652, at *13 n.87 (Dec. 10, 2009)
+(“As always, the burden of proving that an applicant engaged in conduct violating [FINRA rules]
+rests with FINRA; however, as we have stated previously, the applicant bears the burden of
+producing evidence to support his claimed defenses.” (citing James M. Bowen, Exchange Act
+Release No. 34195, 1994 WL 268834, at *2 (June 10, 1994) (affirming violation for failure to
+pay arbitration award timely where applicant “produced no documents, letters, or witnesses to
+corroborate his assertions” about having conducted good faith negotiations with arbitration
+counterparty))).
+38
+
+15 U.S.C. § 78j(b).
+
+39
+
+Cady, Roberts & Co., Exchange Act Release No. 6668, 1961 WL 60638, at *4 (Nov. 8,
+
+1961).
+40
+
+17 C.F.R. § 240.10b-5(a).
+
+41
+
+Id. § 240.10b-5(b).
+
+42
+
+Id. § 240.10b-5(c).
+
+17
+under each subsection requires a showing of scienter, “a mental state embracing intent to
+deceive, manipulate, or defraud.”43
+NASD Rule 2120, in place at the time of the conduct, similarly prohibited members from
+“effect[ing] any transaction in, or induc[ing] the purchase or sale of, any security by means of
+any manipulative, deceptive or other fraudulent device or contrivance.”44
+We conclude that Applicants violated Exchange Act Section 10(b), Rule 10b-5, and
+NASD Rule 2120 because their cherry picking was a deceptive “device, scheme [and] artifice to
+defraud”45 and a deceptive act, practice, and course of business which operated as a “fraud or
+deceit”46 on their customers.47 It is “well-settled” that “a discretionary account automatically
+
+43
+
+Ernst & Ernst v. Hochfelder, 425 U.S. 185, 193 n.12 (1976). Scienter may be established
+through a heightened showing of recklessness. Rockies Fund, Inc. v. SEC, 428 F.3d 1088, 1093
+(D.C. Cir. 2005). This has been “defined as . . . an extreme departure from the standards of
+ordinary care, and which presents a danger of misleading buyers or sellers that is either known to
+the [actor] or is so obvious that the actor must have been aware of it.” David Henry Disraeli,
+Exchange Act Release No. 57027, 2007 WL 4481515, at *5 (Dec. 21, 2007); accord SEC v.
+Ficken, 546 F.3d 45, 47–48 (1st Cir. 2008) (finding that Section 10(b) and Rule 10b–5 require “a
+high degree of recklessness” (quotations omitted)); Rockies Fund, 428 F.3d at 1093 (finding that
+Rule 10b-5 requires a showing of extreme recklessness).
+44
+
+NASD Rule 2120 is now FINRA Rule 2020. See Notice of Filing of a Proposed Rule
+Change, Exchange Act Release No. 58095, 2008 WL 2971979, at *3 (July 3, 2008) (observing
+FINRA’s belief that transferring NASD Rule 2120 into the Consolidated FINRA Rulebook as
+FINRA Rule 2020 with no changes was consistent with the provisions of Exchange Act Section
+15A(b)(6), which requires that FINRA’s rules be designed to prevent fraudulent and
+manipulative acts and practices and to protect investors and the public interest), Rule Change
+Approved Without Modification, 2008 WL 4468749 (Sept. 25, 2008).
+45
+
+17 C.F.R. § 240.10b-5(a).
+
+46
+
+Id. § 240.10b-5(c).
+
+47
+
+Cf. K.W. Brown, 555 F. Supp. 2d at 1304 (finding that, “by its very nature,” a cherrypicking scheme operated as a fraud in violation Rule 10b-5(a) and (c)). FINRA found that
+Applicants willfully violated the antifraud and recordkeeping provisions, noting that such a
+finding gives rise to a statutory disqualification under Exchange Act Section 3(a)(39)(F). See 15
+U.S.C. § 78c(a)(39)(F) (stating that a person is subject to a statutory disqualification if, among
+other things, he has committed any act enumerated in Exchange Act Section 15(b)(4)(D), 15
+U.S.C. § 78o(b)(4)(D), which refers, among other things, to willful violations of the Exchange
+Act). Under Article III, § 3, of FINRA’s By-Laws, a person subject to a statutory
+disqualification cannot become or remain associated with a FINRA member unless the
+disqualified person’s member firm applies for and is granted, in FINRA’s discretion, relief from
+the statutory disqualification. See Joseph S. Amundsen, Exchange Act Release No. 69406, 2013
+WL 1683914, at *1 n.4 (Apr. 18, 2013).
+(continued…)
+
+18
+implies a general fiduciary duty between a broker and customer.”48 And a fiduciary has “an
+affirmative duty of . . . full and fair disclosure of all material facts.”49 Nondisclosure in breach
+of a fiduciary duty “satisfies section 10(b)’s requirement . . . [of] a ‘deceptive device or
+contrivance.’”50 Dratel breached his fiduciary duty by failing to disclose that he was cherry
+picking trades for his own personal benefit. 51 As FINRA concluded, “[a] reasonable investor
+surely would find material Dratel’s subordination of discretionary customers’ interests to his
+personal interests.” Accordingly, Applicants’ conduct was deceptive within the meaning of
+Section 10(b).
+Having found that Applicants acted deceptively, we also find that they employed a
+device, scheme, or artifice to defraud in violation of Rule 10b-5(a) and engaged in an act,
+practice, or course of business that operated as a fraud in violation of Rule 10b-5(c). Each
+cherry-picked trade was a device Applicants used to defraud a customer of profits. The series of
+cherry-picked trades constituted an over-arching scheme to defraud the Discretionary Customers
+by stealing profits on select trades in a way that would be difficult to detect. The Applicants
+used the falsified and backdated FiNet tickets as artifices to defraud and make their cherry(…continued)
+
+Because we find that Applicants acted with scienter in violating the antifraud provisions,
+and because Dratel admitted to time stamping blank order tickets (and directing his staff to do
+the same) and to adding customer names to order tickets after execution, we agree with FINRA
+that Applicants acted willfully. Cf. Robert D. Tucker, Exchange Act Release No. 68210, 2012
+WL 5462896, at *10 (Nov. 9, 2012) (stating that a willful violation under the federal securities
+laws simply means “‘that the person charged with the duty knows what he is doing.’” (quoting
+Wonsover v. SEC, 205 F.3d 408,414 (D.C. Cir. 2000))).
+48
+
+United States v. Wolfson, 642 F.3d 293, 295 (2d Cir. 2011); accord United States v.
+Skelly, 442 F.3d 94, 98 (2d Cir. 2006); United States v. Szur, 289 F.3d 200, 208 (2d Cir. 2002).
+49
+
+Geman v. SEC, 334 F.3d 1183, 1189 (10th Cir. 2003) (quotation omitted); see also
+Paulson Inv. Co., Inc., Exchange Act Release No. 19603, 47 SEC 886, 1983 WL 32198, at *2
+(Mar. 16, 1983) (quoting Chasins v. Smith, Barney & Co., Inc., 438 F.2d 1167, 1172 (2d Cir.
+1970) (finding a Rule 10b-5 violation where firm failed to disclose that its buy recommendations
+“could have been motivated by its own market position rather than the intrinsic desirability of the
+securities for [its customers]”)).
+50
+
+United States v. O’Hagan, 521 U.S. 642, 653 (1997); see also United States v. Finnerty,
+533 F.3d 143, 148 (2d Cir. 2008) (holding that deception “irreducibly entails some act that gives
+the victim a false impression” such as “a false statement, breach of a duty to disclose, or
+deceptive communicative conduct”); see generally Stoneridge Inv. Partners, LLC v. ScientificAtlanta, 128 S. Ct. 761, 769 (2008) (“Conduct itself can be deceptive.”).
+51
+
+See Basic Inc. v. Levinson, 485 U.S. 224, 231–32 (1988); see also Vernazza v. SEC, 327
+F.3d 851, 859 (9th Cir. 2003) (stating that even “potential conflicts of interest are ‘material’ facts
+with respect to clients and the Commission”); cf. K.W. Brown, 555 F. Supp. 2d at 1305 (finding
+that defendants made materially false statements when failing to disclose that they were placing
+their interests in front of their customers by keeping profitable trades for themselves).
+
+19
+picking scheme successful. Applicants made it appear as if trades were allocated at the time the
+trade orders were placed by time stamping the paper FiNet tickets at the same time that the OMS
+tickets were stamped (even though Applicants delayed their completion of the allocation
+instructions on the FiNet tickets until after a position was closed).
+Similarly, each cherry-picked trade was an act that operated as a fraud or deceit on the
+affected customer by depriving that customer of profits. Applicants’ allocation of trades after
+they were able to see which trades would be profitable, followed by cherry picking, was a
+practice and course of business that operated as a fraud on the Discretionary Customers.
+The record also supports a finding that Applicants acted with scienter. Dratel controlled
+all of the trading and allocation decisions. Dratel therefore knew that he was trading in the same
+securities as his customers and that he was favoring his own account over theirs.52 Dratel’s
+dramatically increased personal success rate, at the expense of his customers’ success, further
+demonstrate that he intended to defraud his customers. Dratel also demonstrated his intent to
+deceive when he failed to disclose his activities to his customers and attempted to conceal his
+misconduct from FINRA.53 We therefore find that Dratel acted with scienter and that, as DGI’s
+owner and sole registered person, Dratel’s actions and scienter are imputed to DGI.54
+Applicants argue that FINRA erred in citing several cases —James C. Dawson,55 SEC v.
+K.W. Brown, 56 and SEC v. Slocum.57 In Dawson, we imposed an associational bar on an
+investment adviser after finding that he had been enjoined from violating the anti-fraud
+provisions of the securities laws as a result of his cherry-picking scheme.58 Applicants contend
+that Dawson is distinguishable because the respondent there had established new trading
+accounts at the beginning of his cherry-picking scheme, while Applicants had been using the
+
+52
+
+See, e.g., K.W. Brown, 555 F. Supp. 2d at 1307 (finding scienter where “it was impossible
+for [defendant] not to know about the cherry-picking scheme since he was doing the actual
+trading that constituted the cherry[-]picking scheme”).
+53
+
+See Phillip J. Milligan, Exchange Act Release No. 61790, 2010 WL 1143088, at *5 (Mar.
+26, 2010) (“[A]ttempts to conceal misconduct indicate scienter.”).
+54
+
+See Disraeli, 2007 WL 4481515, at *5 n.25 (“The scienter of a corporation’s officers and
+directors establishes the scienter of the corporation for purposes of the antifraud provisions.”
+(internal quotation marks and citation omitted)); cf. SIG Specialists, Inc., Exchange Act Release
+No. 51867, 2005 WL 1421103, at *7 (June 17, 2005) (“It is well-established that a firm may be
+held accountable for the misconduct of its associated persons because it is through such persons
+that a firm acts.”).
+55
+
+Investment Adviser Act Release No. 3057, 2010 WL 2886183, at *1 (July 23, 2010)
+(barring an investment advisor who engaged in a cherry-picking scheme to divert profitable
+securities trades he made on behalf of a hedge fund to his personal trading account).
+56
+
+555 F. Supp. 2d at 1304 (finding defendants liable for fraudulent cherry-picking scheme).
+
+57
+
+334 F. Supp. 2d 144.
+
+58
+
+2010 WL 2886183.
+
+20
+same omnibus accounts for years.59 This distinction is irrelevant. Unlike Dawson, who needed
+to open a new account to enable his cherry picking, Applicants already had a system in place that
+allowed for late allocation among accounts at the same broker. The fact that Applicants did not
+need to open a new account does not have any effect on their liability.60
+In K.W. Brown, the court found, among other things, that defendants violated the antifraud provisions through their cherry-picking scheme.61 Applicants contend unlike in their case,
+the customers in K.W. Brown experienced significant overall losses, and the defendants often got
+better prices than their customers, failed to identify customer allocations until after execution,
+and provided an inadequate explanation for using an average price account. Contrary to
+Applicants’ argument, these facts—or ones similar to them—are present in this case.
+Although Applicants’ overall customer base may not have suffered losses, the
+Discretionary Customers suffered an aggregate net day-trading loss of $185,748 during the
+relevant period. Even if the Discretionary Customers had realized net day-trading profits, the
+Discretionary Customers would have made greater profits if Applicants had not cherry picked
+certain profitable trades away from their accounts. Applicants received better prices than their
+customers when trading the same stock, on the same day. Applicants also failed to identify
+customer allocations until after execution, and did not provide an adequate explanation for using
+the omnibus accounts for both their own and their customers’ trades.
+Slocum62 also does not demand a contrary result. There, a district court found that the
+Commission had not proven its allegations that defendants engaged in a cherry-picking scheme.
+The court, based on the facts in the case before it, credited the defendants’ explanations for why
+certain trades in their customers’ accounts were less profitable, while trades in their own
+accounts were more profitable. Here, in contrast, the hearing panel expressly did not credit
+Applicants’ explanations about their trades. And we, too, do not find Applicants’ explanations
+credible.
+Applicants argue that Slocum allows an inference of non-cherry picking if there is
+evidence their customer accounts “performed extremely well,”63 which they allege was true for
+their customers between 1999 and 2006. But in Slocum, the Commission had relied on evidence
+of “hypothetical client losses,” not evidence of actual customer losses on cherry picking trades.64
+Unlike in Slocum, statistical evidence from Applicants’ actual day and overnight trades shows
+that their Discretionary Customers performed worse on those trades than Dratel during the
+relevant period. At no point does the court in Slocum establish a per se rule, as Applicants
+suggest, that overall profitability negates an inference of cherry picking.
+
+59
+
+Id. at *1.
+
+60
+
+Id.
+
+61
+
+555 F. Supp. 2d at 1304.
+
+62
+
+334 F. Supp. 2d 144.
+
+63
+
+Id. at 173.
+
+64
+
+Id. at 169–73.
+
+21
+Within the context of the facts of this case, we find it compelling that there is both
+testimony and documentary evidence that Dratel allocated day trades after they had been
+completed and he knew whether the trades had been profitable. Further, Dratel’s increased
+trading volume corresponded with a decrease in available personal equity. Similar evidence was
+simply not present in Slocum.
+C. Applicants violated the recordkeeping provisions.
+In carrying out their cherry-picking scheme, Applicants also violated various
+recordkeeping provisions. Exchange Act Section 17(a)(1)65 requires registered brokers and
+dealers to make and keep records as required by Commission rules. Exchange Act Rule 17a3(a)(6) requires broker-dealers to indicate on every brokerage order ticket the account for which
+an order is entered, the time the order was received, the time of entry, the time of execution (to
+the extent feasible), and whether the order was entered pursuant to an exercise of discretionary
+authority.66 Similarly, Exchange Act Rule 17a-3(a)(7) requires broker-dealers to indicate on
+every proprietary order ticket the account for which an order is entered, the time the order was
+received (when the purchase or sale is with a customer other than a broker-dealer), the time of
+execution (to the extent feasible), and whether the order was entered pursuant to an exercise of
+discretionary authority (when the purchase or sale is with a customer other than a brokerdealer).67
+
+65
+
+15 U.S.C § 78q(a)(1).
+
+66
+
+17 C.F.R. § 240.17a-3(a)(6) (requiring that a memorandum of “each brokerage order”
+show, among other things, “the time the order was received; the time of entry; the price at which
+executed; the identity of each associated person, if any, responsible for the account; . . . and, to
+the extent feasible, the time of execution or cancellation”); see also Statement Regarding the
+Maintenance of Current Books and Records by Brokers and Dealers, Exchange Act Release No.
+10756 (April 26, 1974), 39 FR 16440, 16440 (May 9, 1974) (stating that “[b]y their nature the
+memoranda of brokerage and principal transactions should be prepared at the time of the
+transactions”).
+67
+
+17 C.F.R. § 240.17a-3(a)(7) (requiring that a memorandum for “each purchase and sale
+for the account of the member, broker, or dealer” show, among other things, “the price and, to
+the extent feasible, the time of execution; and, in addition, where the purchase or sale is with a
+customer other than a broker or dealer, a memorandum of each order received, showing the time
+of receipt; the terms and conditions of the order and of any modification thereof; the account for
+which it was entered; the identity of each associated person, if any, responsible for the account”);
+see also Statement Regarding the Maintenance of Current Books and Records by Brokers and
+Dealers, Exchange Act Release No. 10756 (Apr. 26, 1974), 39 FR 16440, 16440 (May 9, 1974)
+(stating that “[b]y their nature the memoranda of brokerage and principal transactions should be
+prepared at the time of the transactions”).
+
+22
+Implicit in these requirements is “that the records be accurate, which applies ‘regardless
+of whether the information itself is mandated.’”68 NASD Rule 3110(a) similarly requires that
+members make and preserve books, accounts, records, memoranda, and correspondence in
+conformity with all applicable laws, rules, and regulations, which includes Exchange Act Rules
+17a-3 and 17a-4. NASD Rule 3110(j) requires that, before any customer order is executed, the
+name or designation of the account for which the order is to be executed must be placed on the
+order ticket. And NASD Rule 2110 requires the observance of high standards of commercial
+honor and just and equitable principles of trade. A violation of any other Commission or NASD
+rule constitutes a violation of NASD Rule 2110.69 Proof of scienter is not required to establish
+violations of either the SEC or FINRA recordkeeping provisions.70
+Applicants failed to meet these obligations. Applicants admit that they or their staff time
+stamped blank order tickets, failed to identify customers on order tickets until after execution,71
+and threw order tickets away.72 Applicants’ staff also admitted to backdating time stamps on
+tickets. When asked during FINRA’s investigation about suspicious or questionable order
+tickets, Applicants also produced several obviously altered tickets that contradicted earlier
+tickets, and thereby providing compelling evidence that Applicants falsified order tickets to
+conceal their misconduct from FINRA.
+On appeal, Applicants admit that their records contained errors, but describe them as
+mere clerical mistakes. The evidence is to the contrary. Applicants played an active and
+knowing role in intentionally mismarking, altering, or omitting information in records in
+furtherance of their scheme. Dratel admits, for example, that he purposefully left customer
+
+68
+
+Eric J. Brown, Exchange Act Release No. 66469, 2012 WL 625874, at *11 (Feb. 27,
+2012) (quoting Merrill Lynch, Pierce, Fenner & Smith, Inc., Exchange Act Release No. 33367,
+1993 WL 538899 at *7 (Dec. 22, 1993)).
+69
+
+See Stephen J. Gluckman, Exchange Act Release No. 41628, 1999 WL 507864, at *6
+(July 20, 1999) (stating that “our long-standing and judicially-recognized policy [is] that a
+violation of another Commission or NASD rule or regulation . . . constitutes a violation of
+[NASD] Conduct Rule 2110.”); see also Fillet, 2015 WL 3397780, at *13 (observing that
+“providing misleading and inaccurate information to FINRA is conduct contrary to high
+standards of commercial honor and is inconsistent with just and equitable principles of trade”).
+70
+
+See Fillet, 2015 WL 3397780, at *12–13 (observing that neither NASD Rule 2110 nor
+3110 have scienter requirements); Orlando Joseph Jett, Exchange Act Release No. 49366, 2004
+WL 2809317, at *23 (Mar. 5, 2004) (finding that scienter is not required to establish a primary
+violation of Exchange Act Section 17(a)(1) or the rules thereunder).
+71
+
+We note that FINRA Rule 4515.01, which is based on NYSE Rule Interpretation 410/02,
+permits investment advisers to allocate orders by noon of the next business day following the
+trading session. DGI was not registered as an investment adviser.
+72
+
+Although the NAC decision did not discuss Exchange Act Rule 17a-4 violations, NASD
+Rule 3110(a) requires members to make and preserve books and records in conformity with all
+applicable laws, rules, and regulations, including Exchange Act Rule 17a-4.
+
+23
+names and account numbers blank when time stamping FiNet order tickets and completed the
+information later. Dratel also admitted to directing his staff to throw order tickets away, and
+Applicants’ staff admitted to rolling back the time stamp machine so that time stamps on FiNet
+tickets matched time stamps on OMS tickets. Although Applicants claim that they did not know
+DGI staff was rolling back the time stamp machine or making other mistakes, the hearing panel
+did not find Dratel’s testimony on this issue to be credible, and we see no basis to disagree with
+that finding.
+Accordingly, DGI violated Exchange Act Section 17(a)(1), Exchange Act Rules 17a3(a)(6) and (7), and Applicants violated NASD Rule 3110.73 Because Dratel handled all of
+DGI’s trading, and completed or directed DGI staff to complete all of the firm’s order tickets,
+Dratel also caused DGI’s recordkeeping violations.74 By violating these recordkeeping
+provisions, Applicants also violated NASD Rule 2110.
+V. Sanctions
+Exchange Act Section 19(e)(2) directs us to sustain FINRA’s sanctions unless we find,
+having due regard for the public interest and the protection of investors, that the sanctions are
+excessive or oppressive or impose an unnecessary or inappropriate burden on competition.75 As
+part of this review, we consider any aggravating or mitigating factors presented76 and whether
+the sanctions that FINRA imposed are remedial and not punitive.77 Though not bound by
+FINRA’s Sanction Guidelines, we use them as a benchmark for our review under Exchange Act
+Section 19(e)(2).78 Here, we sustain FINRA’s decision to bar Dratel in all capacities; expel DGI
+from membership; and order Dratel to pay disgorgement, interest, and certain costs.
+
+73
+
+NASD Rule 115 made NASD’s rules, including the books and records requirements,
+equally applicable to “[FINRA] members and persons associated with a member,” such as
+Dratel. NASD Rule 115; see also Edward S. Brokaw, Exchange Act Release No. 70883, 2013
+WL 6044123, at *16 (Nov. 15, 2013).
+74
+
+K.W. Brown, 2012 WL 625874, at *11 (observing that a person “can be a cause of a
+broker-dealer’s violations of the books and records provisions ‘if he was responsible for an act or
+omission that he knew or should have known would contribute to the violation.’” (quoting
+Stephen J. Horning, Exchange Act Release No. 56886, 2007 WL 4236161, at *12 (Dec. 3,
+2007), aff’d, 570 F.3d 337 (D.C. Cir. 2009))).
+75
+
+15 U.S.C. § 78s(e)(2). Applicants do not allege, and the record does not show, that the
+FINRA rules at issue are, or that FINRA’s application of them was, inconsistent with the
+Exchange Act. Nor do Applicants allege, nor does the record show, that FINRA’s sanctions in
+this case imposed an undue burden on competition.
+76
+
+See Saad v. SEC, 718 F.3d 904, 906 (D.C. Cir. 2013); PAZ Sec., Inc. v. SEC, 494 F.3d
+1059, 1064–65 (D.C. Cir. 2007).
+77
+
+See PAZ, 494 F.3d at 1065.
+
+78
+
+Capwest Sec., Inc., Exchange Act Release No. 71340, 2014 WL 198188, at *9 (Jan. 17,
+2014) (citation omitted). FINRA adopted the Sanction Guidelines to ensure “greater
+(continued…)
+
+24
+A. FINRA’s expulsion of DGI and bar of Dratel in all capacities was neither excessive
+nor oppressive.
+FINRA’s Sanction Guidelines recommend that adjudicators consider barring an
+individual and expelling a firm for egregious cases of fraud.79 The Guidelines similarly
+recommend a possible bar and expulsion for egregious violations of the recordkeeping
+provisions.80 The sanctions that FINRA imposed fit within these recommendations and, for the
+reasons below, are neither excessive nor oppressive.
+Applicants’ violations were egregious. Their customers, many of whom were friends,
+family, and long-term customers, entrusted Applicants with discretion and authority over their
+accounts. Dratel knew this discretionary authority created a fiduciary duty between himself and
+his customers.81 Rather than acting in good faith towards their customers, Applicants stole from
+them by surreptitiously directing more profitable trades to themselves.82 By arguing that their
+violations represented only a small fraction of their overall trading activity, Applicants seem to
+imply that their violations were not widespread. But Applicants’ cherry picking occurred over
+the course of at least twelve months, and involved a significant number of day and overnight
+trades.
+Several other aggravating factors also weigh in favor of a bar. First, Applicants’
+violations demonstrated a high degree of scienter.83 Their cherry-picking scheme was done in a
+calculating manner, as it “required specific preparation and the deliberate allocation of a
+disproportionate number of profitable trades to [his] own account.”84 Dratel carried out this
+calculated scheme to defraud his customers of profits and enrich himself. Dratel also admitted
+that he knowingly withheld material information about the cherry picking from his customers.
+And Applicants’ recordkeeping violations were intentional, as Dratel admitted that he
+purposefully stamped blank order tickets, waited to complete order tickets, and directed his staff
+(…continued)
+
+consistency, uniformity, and fairness in the sanctions that are imposed for violations.” Richard
+A. Neaton, Exchange Act Release 65598, 2011 WL 5001956, at *12 n.38 (Oct. 20, 2011).
+79
+
+FINRA Sanction Guidelines, at 88 (2013) (hereafter “Guidelines”).
+
+80
+
+See Guidelines, at 29.
+
+81
+
+See United States v. Skelly, 442 F.3d 94, 98 (2d Cir. 2006) (stating that a fiduciary duty
+“[m]ost commonly . . . exists in situations in which a broker has discretionary authority over the
+customer’s account”).
+82
+
+See, e.g., Dawson, 2010 WL 2886183, at *3 (finding applicant’s allocation of profitable
+trades to himself and losing trades to his customers to be egregious misconduct that warranted a
+bar); see also Guidelines, at 7 (Principal Consideration No. 18) (stating that adjudicators should
+consider the character of transactions at issue).
+83
+
+See Guidelines, at 7 (Principal Consideration No. 13) (stating that adjudicators should
+consider whether respondents’ misconduct was intentional, reckless, or negligent).
+84
+
+Dawson, 2010 WL 2886183, at *5.
+
+25
+to throw tickets away. Second, Applicants intentionally sought to mislead their regulator by
+producing altered order tickets in the course of the investigation. This conduct both
+demonstrates the extent to which Applicants were willing to go to avoid detection and
+undermines FINRA’s ability to regulate its members.85 In fact, Applicants’ production of false
+records to FINRA would warrant a bar and expulsion by itself.86
+Third, the breadth of Applicants’ misconduct is an aggravating factor. Their actions
+involved multiple violations, affected twenty-five different customer accounts, and occurred over
+the course of at least a year.87 Their recurrent actions exposed the Discretionary Customers to
+the potential for significant, ongoing losses, while earning illicit profits for themselves.88
+Fourth, Applicants’ recordkeeping violations demonstrate an inability or unwillingness
+to follow other regulatory requirements. Applicants characterize their recordkeeping violations
+as mere “clerical mistakes” and claim that the evidence shows “an astonishingly good record of
+accuracy by Dratel’s staff.” To the contrary, the evidence shows an institutional failure to
+maintain accurate records. Dratel admitted, among other things, that he (or his staff, at his
+direction) regularly stamped blank tickets, waited to complete those tickets until after trades were
+completed, and threw records away. Dratel also was dismissive toward his regulatory
+obligations, testifying that he did not keep records of his allocation instructions because he did
+not run his business “as just a data collection center.”
+Finally, Applicants’ misconduct fits within a broader pattern of noncompliance.89 In
+November 2003, for example, DGI settled a disciplinary matter in which FINRA found that DGI
+
+85
+
+See, e.g., John Edward Mullins, Exchange Act Release No. 66373, 2012 WL 423413, at
+*18 (Feb. 10, 2012) (affirming bar by considering aggravating factors, including that applicant
+sought to conceal his conduct); Guidelines, at 6 (Principal Consideration No. 10) (stating that
+adjudicators should consider whether respondents attempted to conceal their misconduct).
+86
+
+Cf. Geoffrey Ortiz, Exchange Act Release No. 58416, 2008 WL 3891311, at *9 (Aug. 22,
+2008) (finding that a bar was appropriate where applicant provided false information to NASD
+during an investigation, which “‘mislead[s] NASD and can conceal wrongdoing’ and thereby
+‘subvert[s]’ NASD’s ability to perform its regulatory function and protect the public interest”
+(quoting Michael A. Rooms, Exchange Act Release No. 51467, 2005 WL 742738, at *5 (Apr. 1,
+2005), aff’d, 444 F.3d 1208 (10th Cir. 2006))).
+87
+
+See Guidelines, at 6 (Principal Consideration Nos. 8, 9) (stating that adjudicators should
+consider whether respondents engaged in numerous acts or a pattern of misconduct and whether
+the misconduct occurred over an extended period).
+88
+
+See William J. Murphy, Exchange Act Release No. 69923, 2013 WL 3327752, at *24
+(July 2, 2013) (affirming FINRA’s imposition of a bar where applicant’s misconduct “benefitted
+himself while injuring his customers”); Guidelines, at 6–7 (Principal Consideration Nos. 11, 17)
+(stating that adjudicators should consider whether respondents’ misconduct resulted in customer
+harm and the potential for gain for the respondents).
+89
+
+John Joseph Plunkett, Exchange Act Release No. 69766, 2013 WL 2898033, at *12 (June
+14, 2013) (observing that “FINRA routinely considers an applicant’s disciplinary history in
+(continued…)
+
+26
+had failed to report equity transactions timely, failed to disclose required information accurately,
+failed to report time on order tickets completely, and failed to prepare certain order tickets
+properly.90 In July 2006, Applicants settled a disciplinary matter in which FINRA found that
+they had failed to timely report two customer complaints that they subsequently settled, failed to
+amend and update Dratel’s Form U4, and failed to timely obtain an opinion of counsel
+concerning a lawsuit that could have had a material impact on DGI’s net capital computation.91
+Finally, in May 2015 FINRA found that Applicants committed numerous rule violations related
+to the disclosure of liens and judgments, creation and preservation of order memoranda,
+maintenance of books and records, and other fundamental regulatory requirements.92
+Applicants argue that their disciplinary history is misleading and that neither of the two
+settled proceedings “represent more than 10% of the complainant’s damage request” and that
+“these were suits brought for their nuisance value and nothing more.” Applicants further
+contend that the two settlements “had nothing to do with customers whatsoever” and that they
+were “technical in nature.” Even if Applicants settled the two proceedings for reasons of
+efficiency, they are part of Applicants’ disciplinary history, which “provides evidence of whether
+an applicant’s misconduct is isolated, the sincerity of the applicant’s assurance that he will not
+commit future violations and/or the egregiousness of the applicant’s misconduct.”93 Applicants’
+settled matters ultimately are part of a pattern of regulatory failures that raise serious concerns
+about Applicants’ ability to comply with their obligations in the future. 94 Even ignoring the two
+(…continued)
+
+determining the appropriate sanction”); Guidelines, at 2 (General Principle No. 2) (stating that
+“[a]djudicators should always consider a respondent’s disciplinary history in determining
+sanctions” and observing that “[a]n important objective of the disciplinary process is to deter and
+prevent future misconduct by imposing progressively escalating sanctions on recidivists …
+including barring registered persons and expelling firms”); Guidelines, at 6 (Principal
+Consideration No. 1) (stating that adjudicators should consider “[t]he respondent’s relevant
+disciplinary history” and citing General Principle No. 2).
+90
+
+The Dratel Group, Inc., NASD Case No. CLI030027 (Nov. 25, 2003).
+
+91
+
+The Dratel Group, Inc., NASD Case No. 2005001123301 (July 24, 2006).
+
+92
+
+Dep’t of Enforcement v. The Dratel Group, Inc., FINRA Discip. Proc.
+No. 2009016317701, 2015 FINRA Discip. LEXIS 10, at *63–64 (May 6, 2015) (suspending
+Dratel for twenty-five business days, jointly and severally fining Applicants $31,000, fining
+Dratel an additional $5,000, fining the firm an additional $2,500, and ordering Applicants to pay
+certain fees and costs).
+93
+
+Consolidated Inv. Servs., Inc., Exchange Act Release No. 36687, 1996 SEC LEXIS 83, at
+*24 (Jan. 5, 1996); accord Midas Sec., LLC, Exchange Act Release No. 66200, 2012 WL
+169138, at *16 (Jan. 20, 2012).
+94
+
+See, e.g., North Woodward Fin. Corp., Exchange Act Release No. 74913, 2015 WL
+2151765, at *13 (May 8, 2015) (affirming FINRA’s imposition of a bar and expulsion where
+FINRA found applicants’ disciplinary history, including a settled matter, to be an aggravating
+factor).
+
+27
+settled matters, FINRA’s 2015 decision alone is evidence of Applicants’ inability to comply with
+their regulatory obligations.
+We also find no mitigating factors that weighed against the imposition of a bar. The
+number of cherry-picked trades or percentage of trades that Applicants cherry picked is not a
+mitigating factor. As FINRA correctly observed, Applicants must “comply with [FINRA’s] high
+standards of conduct at all times.”95 And defrauding customers, no matter the frequency, may
+warrant the imposition of severe sanctions.96
+The letters and testimony that Applicants submitted from their customers are not
+mitigating evidence. As we have repeatedly held, “we look beyond the interests of particular
+investors in assessing the need for sanctions, to the protection of investors generally.”97
+Although the customers opined about what they believe to be Dratel’s general honesty and
+integrity, none of the customers indicated that they fully comprehended the seriousness of the
+misconduct at issue.98
+
+95
+
+Rooms v. SEC, 444 F.3d 1208, 1214 (10th Cir. 2006); see also Donner Corp. Int’l,
+Exchange Act Release No. 55313, 2007 WL 516282, at *11 (Feb. 20, 2007) (finding that
+respondent’s “compliance with the law in some instances does not excuse its [other violations]”);
+Robert Fitzpatrick, Exchange Act Release No. 44956, 2001 WL 1251680, at *6 (Oct. 19, 2001)
+(finding that NASD “correctly ruled that prompt compliance with some requests for information
+does not excuse dilatory compliance with other requests”).
+96
+
+See Keith Springer, Exchange Act Release No. 45439, 2002 WL 220611, at *8 (Feb. 13,
+2002) (finding that fraud violations “go[] to the heart of the duties owed by a securities
+professional to his investor clients”); Marshall E. Melton, Advisers Act Release No. 9865, 2003
+WL 21729839, at *9 (July 25, 2003) (holding that “[c]onduct that violates the antifraud
+provisions of the federal securities laws is especially serious and subject to the severest of
+sanctions”).
+97
+
+Dawson, 2010 WL 2886183, at *4; see also Arthur Lipper Corp., Exchange Act Release
+No. 11773, 1975 WL 163472, at *15 (Oct. 24, 1975) (stating that “we must weigh the effect of
+our action or inaction on the welfare of investors as a class and on standards of conduct in the
+securities business generally”).
+98
+
+See Dawson, 2010 WL 2886183, at *4 (rejecting respondent’s reliance on client letters
+where it was “not clear from the letters that all of these clients fully comprehend the gravamen of
+the misconduct at issue”).
+Applicants’ also suggest that that FINRA exhibited prejudice and vindictiveness by not
+considering what Applicants alleged was their favorable relationship with their customers.
+Applicants emphasize their efforts to cover their customers’ losses in 2004 and 2005 with cross
+trades, and claim that FINRA wrongly labeled these actions as a “negative.” FINRA reasonably
+considered Dratel’s cross trades, correctly noting that the trades partly explained why his
+customers had not suffered greater losses in 2004 and 2005, but reasonably found, as we do, that
+the cross trades also contributed to Dratel’s increasingly strained financial situation and motive
+to recoup his losses by cherry picking.
+
+28
+We reject Applicants’ argument that a bar and expulsion are inappropriately severe
+relative to other cases. Applicants contrast their misconduct to other firms that they allege,
+without citation, “are all still free to do business with customers after having admitted to
+cheating their customers out of hundreds and hundreds of billions of dollars.” (Emphasis in
+original). These unsupported references to other cases do not provide a basis for concluding that
+FINRA’s sanctions were inappropriate.99
+For these reasons, we find that Applicants pose a serious threat to investors, warranting
+their bar and expulsion.100 These sanctions serve the remedial goals of general and specific
+deterrence, encouraging Applicants and other securities professionals to comply with their
+regulatory obligations.101 We accordingly find that FINRA’s imposition of sanctions is neither
+excessive nor oppressive and serves the public interest and protects investors.
+B. FINRA’s disgorgement is neither excessive nor oppressive.
+We also affirm FINRA’s $489,000 disgorgement order. FINRA’s Guidelines state that
+disgorgement generally should be ordered where, as here, the respondents had substantial illgotten gains.102 We have held that FINRA, in cases involving misconduct, may require
+respondents to disgorge their entire financial benefit.103 Determining the amount of that
+
+99
+
+See 17 C.F.R. § 201.450(b) (requiring that all exceptions to the findings or conclusions
+under review “shall be supported by . . . concise argument including citation of such statutes,
+decisions and other authorities as may be relevant”).
+100
+
+See, e.g., Mission Sec. Corp., Exchange Act Release No. 63453, 2010 WL 5092727, at
+*14 (Dec. 7, 2010) (holding that “applicants’ demonstrated lack of fitness to be in the securities
+industry . . . supports the remedial purpose to be served by [a bar and expulsion]”); Dawson,
+2010 WL 2886183, at *6 (finding respondent’s lack of appreciation for the wrongful nature of
+his misconduct indicative of a potential for recurrence).
+101
+
+See PAZ Sec., 494 F.3d at 1066 (“‘[G]eneral deterrence is not, by itself, sufficient
+justification for expulsion or suspension . . . [but] may be considered as part of the overall
+remedial inquiry.’” (quoting McCarthy v. SEC, 406 F.3d 179, 189 (2d Cir. 2005))); see, e.g.,
+Arthur Lipper, 1975 WL 163472, at *15 (finding that a bar was “necessary to provide the
+deterrent effect” because “to be truly remedial, [the proceedings] must have a deterrent effect on
+other investment company managers who may be tempted to enrich themselves at the expense of
+their beneficiaries”).
+102
+
+See Guidelines, at 10 (Technical Matters); see also Michael David Sweeney, Exchange
+Act Release No. 29884, 1991 WL 716756, at *5 (Oct. 30, 1991) (“[D]isgorgement is intended to
+force wrongdoers to give up the amount by which they were unjustly enriched.”).
+103
+
+See, e.g., Anthony A. Grey, Exchange Act Release No. 75839, 2015 WL 5172955, at *12
+(Sept. 3, 2015) (citing Guidelines, at 5 (“In cases in which the record demonstrates that the
+respondent obtained a financial benefit from his or her misconduct, where appropriate to
+remediate misconduct, Adjudicators may require the disgorgement of such ill-gotten gains by
+fining away the amount of some or all of the financial benefit derived, directly or indirectly.”)).
+
+29
+disgorgement “does not require precision.”104 Rather, “calculating disgorgement must recognize
+that separating legal from illegal profits exactly may at times be a near-impossible task.”105 The
+amount of disgorgement therefore needs to be only “a reasonable approximation” of the illgotten gains causally connected to the violation.106
+Dratel acknowledges that he generated profits of approximately $489,000 in his personal
+account through day and overnight trading in 2006. Although some of those profits may have
+flowed from legal trades, some of the profits also flowed directly from Dratel’s illegal cherry
+picking. It is nearly impossible to separate the two because of the deceptive nature of Dratel’s
+misconduct, including his failure to maintain accurate records, his falsification of documents,
+and his use of inaccurate date and time stamps on trade tickets.107 In those circumstances, we
+find that Dratel’s 2006 day-trading profits are a reasonable approximation of his unjust
+enrichment. Dratel does not challenge that calculation on appeal, and therefore failed to meet his
+burden of showing that the amount of disgorgement is not a reasonable approximation.108 We
+
+104
+
+K. W. Brown, 555 F. Supp. 2d at 1312.
+
+105
+
+SEC v. First City Fin. Corp., Ltd., 890 F.2d 1215, 1231 (D.C. Cir. 1989).
+
+106
+
+Id.
+
+107
+
+See, e.g., supra note 5and accompanying text (discussing the difficulty of detecting
+cherry picking); First City Fin. Corp., 890 F.2d at 1231 (holding that “disgorgement need only
+be a reasonable approximation of profits causally connected to the violation” and any risk of
+uncertainty in calculating disgorgement is borne by the wrongdoer that created that uncertainty);
+SEC v. Balboa, No. 11 Civ. 8731(PAC), 2015 WL 4092328, at *4 (S.D.N.Y. July 6, 2015)
+(ordering disgorgement of commissions where defendant’s illegal conduct “directly created” the
+uncertainty of distinguishing between legally and illegally derived profits); Guy P. Riordan,
+Exchange Act Release No. 61153, 2009 WL 4731397, at *21 (Dec. 11, 2009) (ordering
+disgorgement in kickback scheme despite fact that “it was not possible to separate out individual
+transactions awarded to Riordan and conclude that they were not obtained by the kickback
+scheme simply because they were not linked to specific kickbacks”), petition denied, 627 F.3d
+1230 (Dec. 28, 2010).
+108
+
+See Zacharias v. SEC, 569 F.3d 458, 472–73 (D.C. Cir. 2009) (observing that, where
+disgorgement cannot be exact, the “well-established principle is that the burden of uncertainty in
+calculating ill-gotten gains falls on the wrongdoers who created that uncertainty”); SEC v. Lorin,
+76 F.3d 458, 462 (2d Cir. 2006) (holding that “[w]here disgorgement calculations cannot be
+exact, ‘any risk of uncertainty . . . should fall on the wrongdoer whose illegal conduct created
+that uncertainty’” (quoting SEC v. Patel, 61 F.3d 137, 140 (2d Cir. 1995))).
+
+30
+therefore find that FINRA’s order for Dratel to disgorge his $489,000 in profits, plus
+prejudgment interest,109 is neither excessive nor oppressive and serves the remedial purpose of
+depriving him of the benefit of his misconduct.110
+An appropriate order will issue.111
+By the Commission (Chair WHITE and Commissioners STEIN and PIWOWAR).
+
+Brent J. Fields
+Secretary
+
+109
+
+See Terence Michael Coxon, Exchange Act Release No. 48385, 2003 WL 21991359,
+at *14 (Aug. 21, 2003) (“[E]xcept in the most unique and compelling circumstances,
+prejudgment interest should be awarded on disgorgement, among other things, in order to deny a
+wrongdoer the equivalent of an interest free loan from the wrongdoer’s victims.”), aff’d, 137 F.
+App’x 975 (9th Cir. 2005).
+110
+
+Cf. Sweeney, 1991 WL 716756, at *5 (“[D]isgorgement is intended to force wrongdoers
+to give up the amount by which they were unjustly enriched.”). Applicants do not challenge
+FINRA's order that they pay costs totaling $18,611.60, which we also sustain.
+111
+
+We have considered all of the parties’ contentions. We have rejected or sustained them
+to the extent that they are inconsistent or in accord with the views expressed in this opinion.
+
+UNITED STATES OF AMERICA
+before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 77396 / March 17, 2016
+Admin. Proc. File No. 3-15869
+
+In the Matter of the Application of
+THE DRATEL GROUP, INC.
+and
+WILLIAM M. DRATEL
+for Review of Action Taken by
+FINRA
+
+ORDER SUSTAINING DISCIPLINARY ACTION
+On the basis of the Commission’s opinion issued this day, it is
+ORDERED that the disciplinary action taken by FINRA against The Dratel Group, Inc.,
+and William M. Dratel, and the assessment of costs imposed, is sustained.
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+

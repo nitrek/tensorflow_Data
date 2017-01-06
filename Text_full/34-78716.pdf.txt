@@ -1,0 +1,3248 @@
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Part 240
+[Release No. 34-78716; File No. S7-15-15]
+RIN 3235-AL74
+Access to Data Obtained by Security-Based Swap Data Repositories
+AGENCY: Securities and Exchange Commission.
+ACTION: Final rule.
+SUMMARY: Pursuant to section 763(i) of Title VII (“Title VII”) of the Dodd-Frank Wall
+Street Reform and Consumer Protection Act of 2010 (“Dodd-Frank Act”), the Securities and
+Exchange Commission (“Commission”) is adopting amendments to rule 13n-4 under the
+Securities Exchange Act of 1934 (“Exchange Act”) related to regulatory access to security-based
+swap data held by security-based swap data repositories. The rule amendments would
+implement the conditional Exchange Act requirement that security-based swap data repositories
+make data available to certain regulators and other authorities.
+EFFECTIVE DATE: November 1, 2016.
+FOR FURTHER INFORMATION CONTACT: Carol McGee, Assistant Director, Joshua
+Kans, Senior Special Counsel, or Kateryna Imus, Special Counsel, at (202) 551-5870; Division
+of Trading and Markets, Securities and Exchange Commission, 100 F Street, NE, Washington,
+DC 20549-7010.
+SUPPLEMENTARY INFORMATION: The Commission is adding paragraphs (b)(9) and
+(b)(10) to Exchange Act rule 13n-4 to implement the statutory requirement that security-based
+swap data repositories conditionally provide data to certain regulators and other authorities. The
+Commission also is adding paragraph (d) to rule 13n-4 to specify the method to be used to
+comply with the associated statutory notification requirement.
+
+2
+
+I.
+
+Background
+
+A.
+
+Statutory Requirements for Access to Security-Based Swap Data Repository Information,
+as Amended
+Title VII of the Dodd-Frank Act amended the Exchange Act to provide a comprehensive
+
+regulatory framework for security-based swaps, including the regulation of security-based swap
+data repositories. 1
+Those amendments, among other things, require that security-based swap data
+repositories make data available to certain regulators and other entities. In particular, the
+amendments conditionally require that security-based swap data repositories “on a confidential
+basis pursuant to section 24, upon request, and after notifying the Commission of the request,
+make available security-based swap data obtained by the security-based swap data repository,
+including individual counterparty trade and position data” to specified recipients. 2 As provided
+by the statute, these recipients include “each appropriate prudential regulator” 3; the Financial
+Stability Oversight Council (“FSOC”); the Commodity Futures Trading Commission (“CFTC”);
+
+1
+
+Pub. L. No. 111-203, section 761(a) (adding Exchange Act section 3(a)(75) (defining “securitybased swap data repository”)) and section 763(i) (adding Exchange Act section 13(n) (establishing a
+regulatory regime for security-based swap data repositories)).
+
+References in this release to the terms “data repository,” “trade repository,” “repository” or
+“SDR” generally address security-based swap data repositories unless stated otherwise.
+2
+
+Exchange Act section 13(n)(5)(G), 15 U.S.C. 78m(n)(5)(G). The confidentiality requirements
+addressed by Exchange Act section 24, 15 U.S.C. 78x, are addressed below. See note 83, infra. As
+initially adopted, this provision addressed access to “all” data obtained by the security-based swap data
+repository. As amended by Congress in 2015, the reference to “all” was replaced by a reference to
+“security-based swap” data. See Pub. L. No. 114-94, section 86011(c)(1)(A) (striking “all” and adding
+“security-based swap” in the introductory part of Exchange Act section 13(n)(5)(G)).
+3
+
+As discussed below, the term “prudential regulator” encompasses the Board of Governors of the
+Federal Reserve System and certain other regulators, with regard to certain categories of regulated
+entities. See note 26, infra.
+
+3
+
+the Department of Justice; and “any other person that the Commission determines to be
+appropriate,” including foreign financial supervisors (including foreign futures authorities),
+foreign central banks, foreign ministries and other foreign authorities. 4
+Access to data pursuant to these provisions is conditioned on the repository receiving “a
+written agreement from each entity stating that the entity shall abide by the confidentiality
+requirements described in section 24 relating to the information on security-based swap
+transactions that is provided.” 5
+As enacted in 2010, moreover, the data access provisions stated that before such data is
+shared, “each entity shall agree to indemnify the security-based swap data repository and the
+Commission for any expenses arising from litigation relating to the information provided under
+section 24.” 6 Congress repealed the indemnification requirement in December 2015. 7
+B.
+
+Proposed Rule Amendments
+In 2015, prior to the legislative revision of the data access provisions, the Commission
+
+proposed rule amendments to implement the data access provisions. 8 This proposal built upon
+
+4
+
+Exchange Act section 13(n)(5)(G), 15 U.S.C. 78m(n)(5)(G). As initially adopted this provision
+did not reference “other foreign authorities.” That provision was added by Congress in December 2015.
+See Pub. L. No. 114-94, section 86011(c)(1)(B) (adding paragraph (G)(v)(IV) to Exchange Act section
+13(n)(5)).
+5
+
+Exchange Act section 13(n)(5)(H), 15 U.S.C. 78m(n)(5)(H).
+
+6
+
+See Dodd Frank Act section 763(i) (adding former Exchange Act section 13(n)(5)(H)(ii)).
+
+7
+
+See Pub. L. No. 114-94, section 86011(c)(2).
+
+8
+
+See Exchange Act Release No. 75845 (Sept. 4, 2015), 80 FR 55182 (Sept. 14, 2015) (“Proposing
+Release”).
+
+4
+
+two earlier Commission proposals, 9 and specifically set forth proposed amendments to Exchange
+Act rule 13n-4 – which the Commission previously adopted as part of a series of rules governing
+the registration process, duties and core principles applicable to security-based swap data
+repositories. 10 Key elements of the proposal were:
+•
+
+Designation of entities eligible to access data. The proposal: (i) specifically identified
+each of the five applicable prudential regulators as being eligible to access data under
+these provisions 11; (ii) identified the Federal Reserve Banks and the Office of Financial
+Research (“OFR”) as being able to access data 12; and (iii) stated that the Commission
+would consider the presence of certain confidentiality-related protections in determining
+whether to permit other entities to access data pursuant to these provisions, and that the
+associated determination orders typically would incorporate conditions that “specify the
+
+9
+
+See generally Proposing Release, 80 FR at 55182-84 (discussing relevant provisions of 2010
+proposed rules regarding security-based swap data repositories, and 2013 proposed rules regarding crossborder application of Title VII).
+10
+
+See Exchange Act Release No. 74246 (Feb. 11, 2015), 80 FR 14438 (Mar. 19, 2015) (“SDR
+Adopting Release”). Those rules did not address the data access requirements applicable to data
+repositories, and the Commission stated that final resolution of the issue would benefit from further
+consideration and public comment. See SDR Adopting Release, 80 FR at 14487-88.
+11
+
+See Proposing Release, 80 FR at 55185-86. The Commission proposed those provisions so the
+ability of those regulators to access data would not vary depending on the registration status of the
+regulated entity, and on whether the regulator was acting in a “prudential” capacity. See id.
+12
+
+See Proposing Release, 80 FR at 55186-87. The Commission preliminarily concluded that access
+by these entities would be appropriate given the mandates of the Federal Reserve Banks and the OFR.
+See id.
+
+5
+
+scope of a relevant authority’s access to data, and that limit this access in a manner that
+reflects the relevant authority’s regulatory mandate or legal responsibility or authority.” 13
+•
+
+Confidentiality condition. To implement the statutory confidentiality condition, the
+proposal stated that before a repository could provide access, there would have to be in
+effect an arrangement between the Commission and the entity (in the form of a
+memorandum of understanding (“MOU”) or otherwise) to address the confidentiality of
+the information made available. This arrangement would be deemed to satisfy the
+statutory requirement that the repository receive a written confidentiality agreement from
+the recipient entity. 14
+
+•
+
+Notification requirement. To implement the statutory requirement that the Commission
+be notified of data access requests, the proposal provided that a repository must notify the
+Commission of the first request for data from a particular entity, and must maintain
+records of all information related to the initial and all subsequent request for data access
+from that entity. 15
+
+13
+
+See Proposing Release, 80 FR at 55187-88. The Commission noted that limiting access in this
+manner may help minimize the risk of unauthorized disclosure, misappropriation or misuse. See id.
+14
+
+See Proposing Release, 80 FR at 55189-90. The Commission stated that this proposed approach
+would: build upon the Commission’s experience in negotiating MOUs with other regulators with regard
+to enforcement and supervision, help avoid the possibility of uneven and potentially inconsistent
+application of confidentiality protections, and appropriately implement the statutory reference to
+Exchange Act section 24. See id.
+15
+
+See Proposing Release, 80 FR at 55188-89. The Commission stated that this approach should
+place the Commission on notice that an entity has the ability to access data, and place the Commission in
+a position to examine such access as appropriate, while avoiding the inefficiencies that would accompany
+an approach that requires a repository to direct to the Commission information regarding each instance of
+access. See id.
+
+6
+
+•
+
+Limitation to security-based swap data. The proposal specified that data access under the
+rules would apply only to “security-based swap data.” 16
+
+•
+
+Scope of application of data access provisions. The proposal stated that the data access
+provisions and its associated conditions would not apply in certain circumstances,
+including when information is received directly from the Commission.17
+
+•
+
+Indemnification exemption. The proposal set forth a conditional exemption to the thenextant indemnification requirement. The proposed exemption was conditioned in part on
+the applicable security-based swap information relating to persons or activities being
+within the recipient entity’s “regulatory mandate, or legal responsibility or authority.” 18
+
+C.
+
+Commenter Views
+A commenter criticized the inclusion of a notification requirement, 19 suggesting that the
+
+scope of certain regulators’ access to security-based swap data should be determined on a case-
+
+16
+
+See Proposing Release, 80 FR at 55189.
+
+17
+
+See Proposing Release, 80 FR at 55193.
+
+18
+
+See Proposing Release, 80 FR at 55191-93. The indemnification exemption further would have
+been conditioned on there being one or more arrangements (in the form of an MOU or otherwise)
+between the Commission and the recipient entity that addressed the confidentiality of the security-based
+swap information provided and any other matters as determined by the Commission, and that also
+specified the types of information that would relate to persons or activities within the recipient entity’s
+“regulatory mandate, legal responsibility or authority.” See id.
+19
+
+See Depository Trust & Clearing Corp. comment dated Oct. 29, 2015 (“DTCC comment”) at 4
+(requesting that rulemaking not include a notification requirement; stating that requiring notice to the
+Commission of data access requests may cause other regulators to hesitate to make such requests,
+particularly in connection with investigations, and that a notice requirement could impede the real-time
+flow of information among regulators; adding that if any notification requirement is included, it should
+not require a repository to submit the identity of the requesting party).
+
+7
+
+by-case basis, 20 and supported elimination of the statutory indemnification requirement. 21
+The Commission reopened the comment period earlier this year to allow the public the
+opportunity to comment on the remainder of the proposal in light of the statutory changes,
+including removal of the statutory indemnification requirement. 22 That release recognized that
+Congress eliminated the indemnification requirement discussed above, making unnecessary
+paragraph (d) of proposed rule 13n-4. The Commission received two additional comments in
+response. 23
+II.
+
+Final Data Access Rules
+For the reasons discussed below, and after considering commenter concerns, the
+
+Commission is adopting final rules to implement the data access statutory provisions. The final
+
+20
+
+See DTCC comment at 5 (stating that for requests by entities other than the prudential regulators,
+“the Commission should determine on a case-by-case basis whether an SB SDR should make available
+confidential swap data based on the unique set of facts and circumstances of that request for information
+and address permissible uses and disclosures of such data, such as for research or publications,” and
+adding that such an approach would help ensure that “data access is granted based on an entity’s
+regulatory mandate, responsibly balanc[ing] the need for efficient, timely information sharing, and
+avoid[ing] overly expansive access to confidential information”).
+21
+
+See DTCC comment at 5-6.
+
+One comment submitted to the comment file did not address the substance of the Commission’s
+proposal. See Zeba Gomez comment dated Sept. 19, 2015. The public comments that the Commission
+received on the Proposing Release are available on the Commission’s website at
+http://www.sec.gov/comments/s7-15-15/s71515.shtml.
+22
+
+See Exchange Act Release No. 76922 (Jan. 15, 2016), 81 FR 3354 (Jan. 21, 2016) (“Comment
+Reopening Release”).
+23
+
+See Depository Trust & Clearing Corp. comment dated Feb. 22, 2016 (“DTCC 2016 comment”);
+Suzanne Shatto comment dated Jan. 20, 2016 (“Shatto comment”).
+
+8
+
+rules largely are the same as those that were proposed, apart from eliminating the proposed
+indemnification exemption in response to the removal of the underlying statutory provision. 24
+Accordingly, should the confidentiality condition to data access be satisfied, securitybased swap data repositories would be legally obligated to provide relevant authorities with
+access to security-based swap data, consistent with the parameters of any Commission orders,
+MOUs or other arrangements that are relevant to the availability and scope of access. 25
+A.
+
+Application to prudential regulators and Federal Reserve Banks
+1.
+
+Proposed approach
+
+As noted above, the Exchange Act provides that a repository is conditionally obligated to
+make information available to, among others, “each appropriate prudential regulator.” 26 To
+implement this, the proposed rules identified, as being eligible to access data, each of the entities
+24
+
+As discussed below, the Commission also has revised the proposal regarding the designation of
+additional entities that may access data, for consistency with the statute as amended. See part II.C.2,
+infra.
+25
+
+We believe that the approach taken by the final rule is generally consistent with the principles
+expressed by a commenter that supported access, while also putting into effect the statutory conditions to
+data access for persons identified by statute or subject to a determination by the Commission. See Shatto
+comment.
+26
+
+See Exchange Act section 13(n)(5)(G)(i), 15 U.S.C. 78m(n)(5)(G)(i). Exchange Act section
+3(a)(74), 15 U.S.C. 78c(a)(74), defines “prudential regulator” by reference to the Commodity Exchange
+Act (“CEA”). The CEA, in turn, defines “prudential regulator” to encompass: (a) the Board, (b) the
+Office of the Comptroller of the Currency, (c) the FDIC, (d) the Farm Credit Administration or (e) the
+Federal Housing Finance Agency – in each case with respect to swap dealers, major swap participants,
+security-based swap dealers or major security-based swap participants (cumulatively, “dealers” or “major
+participants”) that fall within the regulator’s authority. See CEA section 1a(39); 7 U.S.C. 1a(39).
+For example, the definition provides that the Board is a prudential regulator with regard to,
+among others, certain dealers and major participants that are: state-chartered banks and agencies, foreign
+banks that do not operate insured branches, or members of bank holding companies. Also, for example,
+the definition provides that the Office of the Comptroller of the Currency is a prudential regulator with
+regard to, among others, certain dealers or major participants that are national banks, federally chartered
+branches or agencies of foreign banks or federal saving associations.
+
+9
+
+encompassed within the statutory “prudential regulator” definition: the Board of Governors of
+the Federal Reserve System (“Board”), the Office of the Comptroller of the Currency, the
+Federal Deposit Insurance Corporation (“FDIC”), the Farm Credit Administration, and the
+Federal Housing Finance Agency. 27 The proposed rules also included “any Federal Reserve
+Bank” among the entities conditionally eligible to access data, 28 in accordance with the
+Exchange Act provision that extends data access to “any other person that the Commission
+determines to be appropriate.” 29
+No commenter addressed the proposal to specifically identify the prudential regulators or
+the Federal Reserve Banks as being eligible to access such data. 30
+2.
+
+Final rule
+
+The final rule incorporates the elements of proposed Exchange Act rule 13n-4(b)(9)(i)(v), as discussed below, without change. 31
+The final rule accordingly identifies each of the five prudential regulators as being able to
+access data. Consistent with the discussion in the proposal, this is to specify that those
+regulators’ ability to access security-based swap data would not vary depending on whether
+entities regulated by the regulators are acting as security-based swap dealers, as major security27
+
+See proposed Exchange Act rule 13n-4(b)(9)(i)-(v).
+
+28
+
+See proposed Exchange Act rule 13n-4(b)(9)(i).
+
+29
+
+See Exchange Act section 13(n)(5)(G)(v), 15 U.S.C. 78m(n)(5)(G)(v).
+
+30
+
+As noted, one commenter suggested that data access by recipients other than the prudential
+regulators should be more circumscribed than the access afforded the prudential regulators, in that the
+access of the other recipients should be subject to case-by-case review by the Commission. See note 20,
+supra. As discussed below the Commission will have the ability to tailor access in accordance with each
+entity’s regulatory mandate or legal responsibility or authority. See parts II.C.2.a and II.F.2, infra.
+31
+
+See Proposing Release, 80 FR at 55185-86; Exchange Act rule 13n-4(b)(9)(i)-(v).
+
+10
+
+based swap participants, or in some other capacity, 32 or vary depending on whether the regulator
+acts in a “prudential” capacity in connection with the information, so long as the prerequisites to
+data access, including the confidentiality condition, have been met. 33
+The final rules also include “any Federal Reserve Bank” among the entities conditionally
+eligible to access security-based swap data from repositories, 34 in accordance with the Exchange
+Act provision that extends data access to “any other person that the Commission determines to
+be appropriate.” 35 The Commission believes that it is appropriate for the Federal Reserve Banks
+to be able to access security-based swap data, subject to the confidentiality condition and other
+applicable prerequisites. In part, this conclusion is based on the Commission’s understanding
+that the Federal Reserve Banks occupy important oversight roles under delegated authority from
+the Board, including supervision of banks that are under the Board’s authority, and gathering and
+analyzing information to inform the Federal Open Market Committee regarding financial
+
+32
+
+This particularly addresses the fact that the statutory “prudential regulator” definition noted above
+specifically refers to those regulators in connection with dealers and major participants that fall within
+their authority. The Commission concludes that application of the data access provision should not vary
+depending on whether an entity regulated by the regulator is acting as a dealer or major participant, or in
+some other capacity. Such a reading would not further the purposes of Title VII, and the Dodd-Frank Act
+more generally, including facilitating regulator access to security-based swap information to help address
+the risks associated with those instruments.
+33
+
+Those regulators’ ability to access security-based swap data accordingly would not be limited to
+situations in which they act in the capacity of a prudential supervisor. Thus, for example, the FDIC is
+conditionally authorized to access security-based swap data from a repository in connection with all of its
+statutory capacities, including its prudential supervisory capacity as well as other capacities such as the
+FDIC’s resolution authority pursuant to the Federal Deposit Insurance Act and the Orderly Liquidation
+Authority provisions of Title II of the Dodd-Frank Act.
+34
+35
+
+See Exchange Act rule 13n-4(b)(9)(i).
+
+See Exchange Act section 13(n)(5)(G)(v), 15 U.S.C. 78m(n)(5)(G)(v). The CFTC has identified
+the Federal Reserve Banks as being “appropriate domestic regulators” that may access swap data from
+swap data repositories. See Proposing Release, 80 FR at 55184 n.29. See 17 CFR 49.17(b)(1).
+
+11
+
+conditions. 36 The Commission further understands that the Federal Reserve Banks, as well as
+the Board, would use data from security-based swap data repositories to fulfill statutory
+responsibilities related to prudential supervision and financial stability. 37 The Commission
+accordingly concludes that the Federal Reserve Banks should conditionally have access to the
+security-based swap data. 38
+
+36
+
+Section 11(k) of the Federal Reserve Act grants the Board authority “to delegate, by published
+order or rule…any of its functions, other than those relating to rulemaking or pertaining to monetary and
+credit policies to…members or employees of the Board, or Federal Reserve banks.” 12 U.S.C. 248(k).
+The Federal Reserve Banks carry out the Board’s activities including the supervision, examination and
+regulation of financial institutions as directed by the Board and under its supervision. See the Board’s
+Rules of Organization, section 3(j) FRRS 8-008 (providing that the Director of the Board’s Division of
+Banking Supervision and Regulation “coordinates the System’s supervision of banks and bank holding
+companies and oversees and evaluates the Reserve Banks’ examination procedures”). The Board further
+has delegated extensive authority to the Reserve Banks with respect to numerous supervisory matters.
+See 12 CFR 265.11 (functions delegated by the Board to the Federal Reserve Banks).
+37
+
+We understand that the Board and the Federal Reserve Banks jointly would use the data in
+support of the prudential supervision of institutions under the Board’s jurisdiction, such as state member
+banks, bank holding companies, and Edge Act corporations. See, e.g., section 9 of the Federal Reserve
+Act, 12 U.S.C. 321-338a (supervision of state member banks); the Bank Holding Company Act, 12
+U.S.C. 1841-1852 (supervision of bank holding companies); the Edge Act, 12 U.S.C. 610 et seq.
+(supervision of Edge Act corporations). We also understand that the Board and the Federal Reserve Banks
+would use the data in support of the implementation of monetary policy, such as through market
+surveillance and research. See, e.g., section 12A of the Federal Reserve Act, 12 U.S.C. 263 (establishing
+the Federal Open Market Committee); and section 2A of the Federal Reserve Act, 12 U.S.C. 225a (setting
+monetary policy objectives). In addition, we understand that the Board and the Federal Reserve Banks
+would use the data in fulfilling the Board’s responsibilities with respect to assessing, monitoring and
+mitigating systemic risk, such as supervision of systemically important institutions. See, e.g., section 113
+of the Dodd-Frank Act, 12 U.S.C. 5323 (SIFIs); and section 807 of the Dodd-Frank Act, 12 U.S.C. 5466
+(designated FMUs).
+38
+
+In permitting the Federal Reserve Banks to access security-based swap information pursuant to
+the data access provisions, the Commission concludes that the Federal Reserve Banks’ access should not
+be limited to information regarding security-based swap transactions entered into by banks supervised by
+the Board, but should be available more generally with regard to security-based swap transaction data,
+subject to the confidentiality condition and other applicable prerequisites. This is consistent with the fact
+that Title VII does not limit the Board’s access to data in such a way. This view also reflects the breadth
+of the Federal Reserve Banks’ responsibilities regarding prudential supervision and financial stability, as
+addressed above. Their access, however, would be subject to the confidentiality condition, including all
+access limits incorporated as part of implementing that condition.
+
+12
+
+A Federal Reserve Bank’s ability to access such data would be subject to conditions
+related to confidentiality, as would the ability of any other entity that is identified by statute or
+determined by the Commission to access such data. 39 As discussed below, the Commission may
+consider the recipient entity’s regulatory mandate or legal responsibility or authority, and tailor
+the entity’s access in accordance with that regulatory mandate or legal responsibility or
+authority. 40
+B.
+
+FSOC, CFTC, Department of Justice and Office of Financial Research
+1.
+
+Proposed approach
+
+The Exchange Act also states that FSOC, CFTC, and the Department of Justice may
+access security-based swap data, 41 and the proposed rules accordingly identified those entities as
+being conditionally authorized to access such data. 42 The proposed rules further stated that the
+OFR conditionally would be eligible to access such data, 43 in accordance with the Exchange Act
+provision that extends data access to “any other person that the Commission determines to be
+appropriate.” 44
+
+39
+
+In this regard, the Commission notes that personnel of the Board and the Reserve Banks already
+are subject to a number of confidentiality requirements. See 18 U.S.C. 1905 (imposing criminal sanctions
+on U.S. government personnel who disclose non-public information except as provided by law), 18
+U.S.C. 641 (imposing criminal sanctions on the unauthorized transfer of records), 5 CFR 2635.703
+(Office of Government Ethics regulations prohibiting unauthorized disclosure of nonpublic information);
+see also Federal Reserve Bank Code of Conduct section 3.2 (requiring Reserve Bank employees to
+maintain the confidentiality of nonpublic information).
+40
+
+See part II.F.2, infra.
+
+41
+
+See Exchange Act sections 13(n)(5)(G)(ii)-(iv), 15 U.S.C. 78m(n)(5)(G)(ii)-(iv).
+
+42
+
+See proposed Exchange Act rule 13n-4(b)(9)(vi)-(viii).
+
+43
+
+See proposed Exchange Act rule 13n-4(b)(9)(ix).
+
+44
+
+See Exchange Act section 13(n)(5)(G)(v), 15 U.S.C. 78m(n)(5)(G)(v).
+
+13
+
+No commenter addressed these aspects of the proposal.
+2.
+
+Final rule
+
+The final rule incorporates these elements of the proposal without change. 45 As
+discussed in the Proposing Release, the rule includes the FSOC, CFTC, and the Department of
+Justice among the entities that may access data.
+Moreover, the Commission believes that such access by the OFR is appropriate in light of
+the OFR’s regulatory mandate and legal responsibility and authority. 46 The OFR was established
+by Title I of the Dodd-Frank Act to support FSOC and FSOC’s member agencies by identifying,
+monitoring and assessing potential threats to financial stability through the collection and
+analysis of financial data gathered from across the public and private sectors. 47 In connection
+
+45
+
+See Exchange Act rule 13n-4(b)(9)(vi)-(ix).
+
+46
+
+See Exchange Act rule 13n-4(b)(9)(ix). We note that the CFTC has identified the OFR as being
+an “appropriate domestic regulator” that may access swap data from swap data repositories. See
+Proposing Release, 80 FR at 55184 n.29; see also 17 CFR 49.17(b)(1).
+47
+
+See Dodd-Frank Act section 153(a) (identifying the purpose of the OFR as: (1) collecting data on
+behalf of FSOC and providing such data to FSOC and its member agencies; (2) standardizing the types
+and formats of data reported and collected; (3) performing applied research and essential long-term
+research; (4) developing tools for risk measurement and monitoring; (5) performing other related services;
+(6) making the results of the activities of the Office available to financial regulatory agencies; and (7)
+assisting those member agencies in determining the types and formats of data authorized by the DoddFrank Act to be collected by the member agencies); Dodd-Frank Act section 154(c) (requiring that OFR’s
+Research and Analysis Center, on behalf of FSOC, develop and maintain independent analytical
+capabilities and computing resources to: (A) develop and maintain metrics and reporting systems for
+risks to U.S. financial stability; (B) monitor, investigate, and report on changes in systemwide risk levels
+and patterns to FSOC and Congress; (C) conduct, coordinate, and sponsor research to support and
+improve regulation of financial entities and markets; (D) evaluate and report on stress tests or other
+stability-related evaluations of financial entities overseen by FSOC member agencies; (E) maintain
+expertise in such areas as may be necessary to support specific requests for advice and assistance from
+financial regulators; (F) investigate disruptions and failures in the financial markets, report findings and
+make recommendations to FSOC based on those findings; (G) conduct studies and provide advice on the
+impact of policies related to systemic risk; and (H) promote best practices for financial risk management).
+
+14
+
+with this statutory mandate to monitor and assess potential threats to financial stability, the
+OFR’s access to security-based swap transaction data may be expected to help assist it in
+examining the manner in which derivatives exposures and counterparty risks are distributed
+through the financial system, and in otherwise assessing those risks. The Commission
+accordingly concludes that the OFR should conditionally have access to the security-based swap
+data. 48
+As with the other entities that may access data pursuant to the data access provision, the
+OFR’s ability to access such data would be subject to conditions related to confidentiality. 49
+C.
+
+Future Commission determination of additional entities
+1.
+
+Proposed approach
+
+As noted, the Dodd-Frank Act amended the Exchange Act to provide that data access
+under these provisions would be available to “any other person that the Commission” determines
+to be appropriate, including foreign financial supervisors (including foreign futures authorities),
+
+The OFR is also required to report annually to Congress its analysis of any threats to the financial
+stability of the United States. See Dodd-Frank Act section 154(d).
+48
+
+As discussed below, the proposed confidentiality condition could limit an entity’s access to data
+by linking the scope of the access to information that related to persons or activities within an entity’s
+regulatory mandate or legal responsibility or authority, as could be specified in an MOU or other
+arrangement between the Commission and the entity. See part II.F.2, infra.
+49
+
+Also, as U.S. government personnel, OFR personnel are subject to the same general
+confidentiality requirements that are addressed above in the context of the Board and the Federal Reserve
+Banks. See note 39, supra. In addition, the OFR is required to keep data collected and maintained by the
+OFR data center secure and protected against unauthorized disclosure. See Dodd-Frank Act section
+154(b)(3); see also 12 CFR 1600.1 (ethical conduct standards applicable to OFR employees, including
+post-employment restrictions linked to access to confidential information); 31 CFR 0.206 (Treasury
+Department prohibition on employees disclosing official information without proper authority).
+
+15
+
+foreign central banks and foreign ministries. 50 To implement that requirement, the proposed rule
+provided that data access would be available to any other person that the Commission determines
+to be appropriate, conditionally or unconditionally, by order, including but not limited to foreign
+financial supervisors, foreign central banks and foreign ministries. 51 The Commission noted that
+one or more self-regulatory organizations potentially may seek such access under this
+provision. 52
+In the proposal, the Commission further stated that in connection with making such a
+determination, it would consider the presence of a confidentiality-related MOU or other
+arrangement between the Commission and a relevant authority, and whether the information
+would be subject to robust confidentiality safeguards. The Commission added that it would
+consider an authority’s interest in access to security-based swap data based on the relevant
+authority’s regulatory mandate or legal responsibility or authority, and that the Commission
+preliminarily expected that determination orders typically would incorporate conditions that
+specify the scope of a relevant authority’s access to data, and that limit such access in a manner
+that reflects the relevant authority’s regulatory mandate or legal responsibility or authority. 53 In
+addition, the Commission anticipated that it would take into account any other factors
+appropriate to the determination, including whether the determination was in the public interest,
+
+50
+
+See Exchange Act section 13(n)(5)(G)(v). As discussed below, the 2015 legislative change added
+to that provision. See note 58, infra.
+51
+
+See proposed Exchange Act rule 13n-4(b)(9)(x).
+
+52
+
+See Proposing Release, 80 FR at 55187.
+
+53
+
+See Proposing Release, 80 FR at 55187-88.
+
+16
+
+and whether the relevant authority agrees to provide the Commission and other U.S. authorities
+with reciprocal assistance in matters within their jurisdiction. 54
+As part of the proposal, the Commission noted that it may issue determination orders of a
+limited duration, and that the Commission may revoke a determination at any time. 55 The
+Commission also stated the preliminary belief that it is not necessary to prescribe by rule specific
+processes to govern a repository’s treatment of requests for access. 56
+As discussed below, one commenter addressed the Commission’s future determination
+orders regarding data access. 57
+2.
+
+Final rule
+
+To implement its determination authority the Commission largely is adopting these
+provisions as proposed, except that the final rule, consistent with the recent statutory change,
+also identifies “other foreign authorities” within the nonexclusive list of the types of entities that
+may be subject to a determination pursuant to this authority. 58 The Commission will make such
+determinations through the issuance of Commission orders, and such determinations may be
+conditional or unconditional. 59
+
+54
+
+See id. at 55188.
+
+55
+
+See id.
+
+56
+
+See id.
+
+57
+
+See text accompanying notes 62 through 64.
+
+58
+
+See Exchange Act rule 13n-4(b)(9)(x). The 2015 statutory amendment added the term “other
+foreign authorities” to the entities identified in Exchange Act section 13(n)(5)(G)(v). See note 7, supra.
+The addition of that term to the rule is consistent with the proposal, which, like the final rule, uses the
+phrase “including, but not limited to” when identifying the types of authorities that may be subject to a
+Commission determination.
+59
+
+See Exchange Act rule 13n-4(b)(9)(x).
+
+17
+
+a.
+
+Determination factors and conditions
+
+As stated in the proposal, the Commission expects that it would consider a variety of
+factors in connection with making such a determination, and that it may impose associated
+conditions in connection with the determination. In part, given the importance of maintaining
+the confidentiality of security-based swap data, the Commission expects to consider whether
+there is an MOU or other arrangement between the Commission and the relevant authority that is
+designed to protect the confidentiality of the security-based swap data provided to the
+authority. 60 The Commission also expects to consider whether such data would be subject to
+robust confidentiality safeguards, such as safeguards set forth in the relevant jurisdiction’s
+statutes, rules or regulations with regard to disclosure of confidential information by an authority
+or its personnel, and/or safeguards set forth in the authority’s internal policies and procedures.
+In addition, the Commission may consider the relevant authority’s interest in access to
+security-based swap data based on the relevant authority’s regulatory mandate or legal
+responsibility or authority. Consistent with that factor, the Commission expects that such
+determination orders typically would incorporate conditions that specify the scope of a relevant
+authority’s access to data, and that limit this access in a manner that reflects the relevant
+authority’s regulatory mandate or legal responsibility or authority. 61 Depending on the nature of
+
+60
+
+Such an MOU or other arrangement will also satisfy the statutory requirement that a securitybased swap data repository obtain a confidentiality agreement from the authority. See part II.F.2, infra.
+To the extent that a relevant authority needs access to additional information, the relevant authority may
+request that the Commission consider revising its determination order, and MOU or other arrangement, as
+applicable. See Proposing Release, 80 FR at 55187-88.
+61
+
+See Proposing Release, 80 FR at 55187-88. To appropriately limit a relevant authority’s access
+to only security-based swap data that is consistent with the designation order, a repository may, for
+
+18
+
+the relevant authority’s interest in the data, such conditions could address factors such as the
+domicile of the counterparties to the security-based swap, and the domicile of the underlying
+reference entity. Limiting the amount of information accessed by an authority in this manner
+should be expected to help minimize the risk of unauthorized disclosure, misappropriation or
+misuse of security-based swap data, as each relevant authority will only have access to
+information within its regulatory mandate, or legal responsibility or authority. 62
+The Commission continues to anticipate taking into account any other factors that are
+appropriate to the determination, including whether such a determination would be in the public
+interest, and whether the relevant authority agrees to provide the Commission and other U.S.
+authorities with reciprocal assistance in matters within their jurisdiction.
+One commenter suggested that the ability of authorities (other than prudential regulators)
+to access data pursuant to these provisions should be subject to request-by-request Commission
+determinations that address permissible uses and disclosures of such data, to balance the need for
+information sharing against “overly expansive access to confidential information.” 63 That
+commenter subsequently expressed the view that the Commission should simplify its proposal to
+allow access to data by certain named entities, consistent with their interest based on their
+regulatory mandate or legal responsibility or authority, “without further action needed to be
+
+example, need to customize permissioning parameters to reflect each relevant authority’s designated
+access to security-based swap data. See generally note 140, infra (discussing access criteria currently
+used by DTCC in connection with current voluntary disclosure practices).
+62
+
+As discussed below, the Commission will consider similar issues in connection with
+implementing the confidentiality condition. See also part II.F.2, infra.
+63
+
+See note 20, supra.
+
+19
+
+taken by the requesting body or the [repository].” The commenter added that trade repositories
+needed “clear and specific guidance” – such as that expressed in the CPMI-IOSCO guidance
+regarding access to trade repository data – regarding the type of data that should be made
+accessible to each of the different requesting entities.” 64
+The Commission has considered these suggestions, but has determined not to change the
+approach of the proposal, either by implementing a request-by-request approach toward access
+for some entities, or by allowing data access to other entities without further action. The
+Commission concludes that a request-by-request approach for access generally would be
+impracticable in terms of resources and operational delays, as well as unnecessary in light of the
+final rule’s approach of linking access under the Commission’s determination authority in a
+manner that reflects an entity’s regulatory mandate or legal responsibility or authority. In our
+view, this approach reasonably achieves the goal of providing clear and specific guidance to
+repositories, as suggested by the commenter, in a manner that appropriately balances the benefits
+of information sharing with the need to protect the confidentiality of information. Moreover,
+with respect to the suggestion that data access may be allowed for certain entities without further
+action by these entities or the repository, in our view such an approach would not achieve the
+confidentiality benefits that will flow from using MOUs or other arrangements. The final rule’s
+approach of using MOUs or other arrangements between the Commission and recipient entities
+to satisfy the confidentiality condition, in any event, addresses the commenter’s suggestion in
+
+64
+
+See DTCC 2016 comment at 2 (citing the Committee on Payments and Market Infrastructure
+(“CPMI”) and the International Organization of Securities Commissions’ (“IOSCO”) guidance on
+authorities access to trade repository data as an example of such guidance).
+
+20
+
+part by obviating the need for the repository (as opposed to the recipient entities) to take further
+action with respect to satisfying the confidentiality condition. In addition, this approach will
+provide a vehicle for the Commission to provide the type of “clear and specific guidance”
+requested by the commenter. Moreover, the use of the Commission-negotiated confidentiality
+arrangements will eliminate the need for each recipient entity to negotiate separate
+confidentiality arrangements with each trade repository.
+b.
+
+Additional matters related to the determinations
+
+Consistent with the proposal, the Commission may take various approaches in deciding
+whether to impose additional conditions in connection with its consideration of requests for
+determination orders. For example, the Commission may issue a determination order that is of a
+limited duration. In addition, the Commission further may revoke a determination at any time,
+such as, for example, if a relevant authority fails to comply with the MOU or other arrangement
+by failing to keep confidential security-based swap data provided to it by a repository. Even
+absent such a revocation, an authority’s access to data pursuant to these provisions also would
+cease upon the termination of the MOU or other arrangement used to satisfy the confidentiality
+condition. 65
+The Commission continues to expect that repositories will provide relevant authorities
+with access to security-based swap data in accordance with the determination orders, and the
+Commission generally does not expect to be involved in reviewing, signing-off on or otherwise
+approving relevant authorities’ requests for security-based swap data from repositories that are
+
+65
+
+See part II.F.2, infra.
+
+21
+
+made in accordance with a determination order. The final rule also does not prescribe any
+specific processes to govern a repository’s treatment of requests for access. 66
+
+Finally, consistent with the proposal, the Commission notes that when it designates an
+authority to receive direct electronic access to data under section 13(n)(5)(D) – which states that
+a repository must provide such access to the Commission “or any designee of the Commission,
+including another registered entity” – the Commission may elect to apply these determination
+factors and consider applying protections similar to those in the data access provisions of
+Exchange Act sections 13(n)(5)(G) and (H). 67
+D.
+
+Notification requirement
+1.
+
+Proposed approach
+
+The Exchange Act states that a repository must notify the Commission when an entity
+requests the repository to make available security-based swap data. 68 The Commission proposed
+to implement that notification requirement by requiring that the repository inform the
+Commission upon its receipt of the first request for data from a particular entity (which may
+
+66
+
+See Proposing Release, 80 FR at 55188.
+
+67
+
+See Proposing Release, 80 FR at 55188. In practice, the Commission expects that security-based
+swap data repositories may satisfy their obligation to make available data pursuant to sections 13(n)(5)(G)
+and (H) by providing direct electronic access to appropriate authorities. To the extent a repository were to
+satisfy those requirements by some method other than electronic access, however, the Commission
+separately may consider whether to also designate particular authorities as being eligible for direct
+electronic access to the repository pursuant to section 13(n)(5)(D). In making such assessments under
+section 13(n)(5)(D), the Commission will have the ability to consider factors similar to the above
+determination factors, including the presence of confidentiality safeguards, and the authority’s interest in
+the information based on its regulatory mandate or legal responsibility or authority.
+68
+
+See Exchange Act section 13(n)(5)(G), 15 U.S.C. 78m(n)(5)(G). As discussed below, see part
+III, infra, the notification requirement does not apply to circumstances in which the Commission provides
+security-based swap data to an entity.
+
+22
+
+include any request that the entity be provided ongoing online or electronic access to the data),
+and to maintain records of all information related to the initial and all subsequent requests for
+data access requests from that entity, including records of all instances of online or electronic
+access, and records of all data provided in connection with such requests or access. 69
+In making this proposal, the Commission noted that one commenter had opposed any
+requirement that the Commission receive notice of a recipient’s initial request, on the grounds
+that such notice may cause other authorities to hesitate to make such requests. The Commission
+explained, however, that it is necessary for the Commission to be informed of the initial request
+from a particular entity, and that commenter’s concerns that other regulators may be reluctant to
+place the Commission on notice of such initial requests are mitigated by the Commission’s long
+history of cooperation with other authorities in supervisory and enforcement matters. 70 As
+discussed below, one commenter addressed the notification requirement. 71
+2.
+
+Final rule
+
+The Commission is adopting as proposed the approach for implementing the notification
+requirement. 72 Accordingly, a security-based swap data repository would be required to inform
+the Commission upon its receipt of the first request for data from a particular entity (which may
+
+69
+
+See proposed Exchange Act rule 13n-4(e).
+
+70
+
+See Proposing Release, 80 FR at 55189.
+
+71
+
+See text accompanying notes 78 through 80, infra.
+
+72
+
+See Exchange Act rule 13n-4(d). This provision has been redesignated as paragraph (d) in light
+of the elimination of the proposed indemnification exemption.
+
+23
+
+include any request that the entity be provided ongoing online or electronic access to the data). 73
+A repository must keep such notifications and any related requests confidential. 74
+Under the final rule, the repository also must maintain records of all information related
+to the initial and all subsequent requests for data access requests from that entity, including
+records of all instances of online or electronic access, and records of all data provided in
+connection with such requests or access. 75 For these purposes, we believe that “all information
+related to” such requests would likely include, among other things: the identity of the requestor
+or person accessing the data; the date, time and substance of the request or access; date and time
+access is provided; and copies of all data reports or other aggregations of data provided in
+connection with the request or access. 76
+Consistent with the discussion accompanying the proposal, the Commission concludes
+that the final rule regarding the notification requirement appropriately accounts for the way in
+which entities are likely to access such data from repositories, by distinguishing steps that an
+
+73
+
+The rule does not require the repository to inform the Commission of subsequent requests.
+
+74
+
+Exchange Act section 13(n)(5)(G), 15 U.S.C. 78m(n)(5)(G), and rule 13n-4(b)(9) both require
+that a repository must make data available “on a confidential basis.” Failure by a repository to treat such
+notifications and requests as confidential could have adverse effects on the underlying basis for the
+requests. If, for example, a regulatory use of the data is improperly disclosed, such disclosure could
+signal a pending investigation or enforcement action, which could have detrimental effects.
+75
+
+We note that Exchange Act rule 13n-7(b)(1) requires security-based swap data repositories to
+maintain copies of “all documents and policies and procedures required by the Act and the rules and
+regulations thereunder, correspondence, memoranda, papers, books, notices, accounts and other such
+records as shall be made or received by it in the course of its business as such.” See also SDR Adopting
+Release, 80 FR at 14501 (“This rule includes all electronic documents and correspondence, such as data
+dictionaries, e-mails and instant messages, which should be furnished in their original electronic
+format.”). Exchange Act rule 13n-4(d) identifies specific types of records that must be maintained in the
+specific context of access requests to repositories.
+76
+
+Cf. Proposing Release, 80 FR at 55189.
+
+24
+
+entity takes to arrange access from subsequent electronic instructions and other means by which
+the recipient obtains data. By making relevant data available to the Commission in this manner,
+the approach would place the Commission on notice that a recipient has the ability to access
+security-based swap data, and place the Commission in a position to examine such access as
+appropriate, while avoiding the inefficiencies that would accompany an approach whereby a
+repository must direct to the Commission information regarding each instance of access by each
+recipient. The approach of the final rule accordingly is more consistent with the manner in
+which the Commission examines the records of other regulated entities under the Commission’s
+authority. 77
+In response to the proposal, one commenter reiterated its opposition to the Commission
+being provided notice of a recipient’s initial request, on the grounds that such notice might cause
+other authorities to hesitate to make such requests. 78 As we discussed at the time of the proposal,
+the Commission believes that it is necessary that it be informed of the initial request from a
+particular entity so that the Commission may assess whether the initial conditions to data access
+(i.e., MOUs or other arrangements as needed to satisfy the confidentiality condition 79) have been
+met at the time the repository first is requested to provide the entity with information pursuant to
+the data access provisions, and, more generally, to facilitate the Commission’s ongoing
+assessment of the repository’s compliance with the data access provisions. Also, as previously
+stated, the Commission believes that commenter concerns that other regulators may be reluctant
+77
+
+See Proposing Release, 80 FR at 55189.
+
+78
+
+See note 19, supra.
+
+79
+
+See part II.F.2, infra.
+
+25
+
+to place the Commission on notice of such initial requests are mitigated by the Commission’s
+long history of cooperation with other authorities in supervisory and enforcement matters. 80 For
+the same reasons, we decline to follow that commenter’s suggestion that a repository may
+comply with the notification requirement without submitting the identity of the requesting party
+to the Commission.
+E.
+
+Limitation to “security-based swap data”
+1.
+
+Proposed approach
+
+The proposed rule amendments specifically addressed access to “security-based swap
+data” obtained by a security-based swap data repository. 81 In taking that approach, the
+Commission recognized that repositories that obtain security-based swap data may also obtain
+data regarding other types of financial instruments, such as swaps under the CFTC’s
+jurisdiction, 82 but preliminarily concluded that the relevant data access provisions should not be
+read to require a repository to make available data that does not involve security-based swaps. 83
+
+80
+
+See Proposing Release, 80 FR at 55189. As noted in conjunction with the proposal, moreover,
+data repositories can provide direct electronic access to relevant authorities under this approach. The
+requirement that the repository inform the Commission when the relevant authority first requests access to
+security-based swap data maintained by the repository, and to retain records of subsequent access, is
+designed to facilitate such direct electronic access. See Proposing Release, 80 FR at 55189 n.80.
+81
+
+See proposed Exchange Act rule 13n-4(b)(9).
+
+82
+
+Specifically, the Dodd-Frank Act provides that the CFTC will regulate ‘‘swaps,’’ the
+Commission will regulate ‘‘security-based swaps,’’ and both the CFTC and the Commission will regulate
+‘‘mixed swaps.’’ See Dodd-Frank Act section 712.
+83
+
+See Proposing Release, 80 FR at 55189 (noting that those data access provisions were added by
+Subtitle B of Title VII, which focused on the regulatory treatment of security-based swaps, to the
+Exchange Act, which generally addresses the regulation of securities such as security-based swaps; also
+addressing the significance of language in the confidentiality condition).
+
+26
+
+No commenter addressed this limitation on the type of data made available by
+repositories.
+2.
+
+Final rule
+
+The 2015 amendment to the data access provisions under the Exchange Act clarified that
+those provisions specifically addressed the disclosure of security-based swap data. 84 This
+clarification is consistent with the proposal. The Commission accordingly is adopting this part
+of the rule as proposed.
+F.
+
+Confidentiality Condition
+1.
+
+Proposed Approach
+
+As noted, the Exchange Act provides that, prior to providing data, a repository “shall
+receive a written agreement from each entity stating that the entity shall abide by the
+confidentiality requirements described in section 24 relating to the information on security-based
+swap transactions that is provided.” 85
+The proposed rule implementing this condition would require that, before a repository
+provides information to an entity pursuant to the data access provisions, the Commission and the
+84
+
+See note 7, supra.
+
+85
+
+See Exchange Act section 13(n)(5)(H)(i), 15 U.S.C. 78m(n)(5)(H)(i).
+
+Exchange Act section 24, 15 U.S.C. 78x, generally addresses disclosures of information by the
+Commission and its personnel. In relevant part it provides that the Commission may, “in its discretion
+and upon a showing that such information is needed,” provide all records and other information “to such
+persons, both domestic and foreign, as the Commission by rule deems appropriate if the person receiving
+such records or information provides such assurances of confidentiality as the Commission deems
+appropriate.” See Exchange Act section 24(c), 15 U.S.C 78x(c); see also Exchange Act rule 24c-1(b)
+(providing that the Commission may, upon “such assurances of confidentiality as the Commission deems
+appropriate,” provide non-public information to persons such as domestic and foreign governments or
+their political subdivisions, authorities, agencies or instrumentalities, self-regulatory organizations and
+foreign financial authorities).
+
+27
+
+entity shall have entered into an MOU or other arrangement addressing confidentiality. This
+arrangement would be deemed to satisfy the statutory requirement that the repository receive a
+written confidentiality agreement from the entity. 86
+As discussed below, one commenter addressed the Commission’s future determination
+orders regarding data access in response to the Comment Reopening Release. 87
+2.
+
+Final Rule
+
+The Commission is adopting as proposed the approach for implementing the
+confidentiality requirement. Accordingly, the final rule provides that “there shall be in effect an
+arrangement between the Commission and the entity (in the form of a memorandum of
+understanding or otherwise) to address the confidentiality of the security-based swap information
+made available to the entity,” and that this arrangement between the Commission and a regulator
+or other recipient entity will satisfy the statutory confidentiality condition. 88
+As discussed in the proposal, in the Commission’s view this approach should help
+obviate the need for each individual repository to negotiate and enter into multiple agreements
+and help avoid the possibility of uneven and potentially inconsistent application of
+confidentiality protections across data repositories and recipient entities. 89 This approach also
+
+86
+
+See proposed Exchange Act rule 13n-4(b)(10).
+
+87
+
+See text accompanying note 92, infra.
+
+88
+
+See Exchange Act rule13n-4(b)(10). As discussed below, see part III, infra, the confidentiality
+condition in Exchange Act sections 13(n)(5)(G) and (H) does not apply to circumstances in which the
+Commission provides security-based swap data to an entity.
+89
+
+As discussed in the proposal, see Proposing Release, 80 FR at 55190 n. 87, the Commission notes
+that the Exchange Act does not require that the security-based swap data repository “agree” with the
+entity, “enter into” an agreement or otherwise be a party to the confidentiality agreement. The Exchange
+
+28
+
+should appropriately implement the statutory reference to the “confidentiality requirements
+described in section 24” of the Exchange Act, which articulates an approach whereby the
+Commission determines standards for confidentiality assurances. 90
+Consistent with the importance of protecting confidentiality of the security-based swap
+data provided, MOUs or other arrangements may include a variety of means of safeguarding
+confidentiality. These may include, for example, restrictions regarding the personnel who may
+access the data provided, and limits on the distribution of that data to third parties. Moreover,
+such MOUs or other arrangements may incorporate conditions that specify the scope of the
+relevant authority’s access to data, and that limit this access in a manner that reflects the relevant
+authority’s regulatory mandate or legal responsibility or authority.
+One commenter expressed the view that an MOU should help determine a regulatory
+body’s interest in security-based swap data, notify the Commission of the intent to access the
+data and provide the Commission with “confirmation that an appropriate confidentiality
+agreement has been made by the requesting regulatory authority or that statutory confidentiality
+requirements are applicable to such requesting authority.” The commenter further requested that
+
+Act merely states that the repository “receive” such an agreement. See Exchange Act section
+13(n)(5)(H)(i), 15 U.S.C. 78m(n)(5)(H)(i). Accordingly, we believe that, at a minimum, the statutory
+language is ambiguous as to whether the data repository must itself be a party to the confidentiality
+agreement. In light of this ambiguity, we read the statute to permit the Commission to enter into
+confidentiality agreements with the entity, with the repository receiving the benefits of the agreement.
+The Commission further concludes that it is appropriate to view a security-based swap data repository as
+having received a confidentiality agreement when the entity enters into a confidentiality arrangement with
+the Commission and the arrangement runs to the benefit of the repository.
+90
+
+See Proposing Release, 80 FR at 55190.
+
+29
+
+the rule permit repositories to require entities to certify their ability to keep such data
+confidential. 91 Consistent with that commenter’s view, we anticipate that, as appropriate, each
+MOU or other arrangement will set forth access provisions that reflect a recipient’s interest in
+security-based swap data. We decline to adopt the commenter’s suggestion that the MOU or
+other arrangement should be deemed to provide the Commission with notification of an entity’s
+intent to access data, given that we are adopting separately a requirement with respect to
+notification from the repository to the Commission. 92 While an SDR may seek additional
+confidentiality certifications from other regulatory authorities, consistent with the statute, an
+SDR may not decline the regulatory authority access to the data based on another regulatory
+authority’s refusal to agree to these certifications. Allowing repositories to require additional
+confidentiality certifications, moreover, could lead to an uneven application of the data access
+provisions, potentially undermining the benefits of using arrangements between the Commission
+and recipient entities to satisfy the statutory confidentiality condition.
+III.
+
+Applicability of Exchange Act Data Access Provisions
+In the Proposing Release, the Commission discussed how Exchange Act sections
+
+13(n)(5)(G) and (H) 93 do not provide the exclusive means by which regulators or other
+authorities might access security-based swap data. In part, the Proposing Release suggested that
+regulators and other authorities may separately access security-based swap data directly from the
+
+91
+
+See DTCC 2016 comment.
+
+92
+
+See part II.D.2, infra.
+
+93
+
+15 U.S.C. 78m(n)(5)(G) and (H).
+
+30
+
+Commission.94 The Commission preliminarily stated that the conditions associated with the data
+access provisions of sections 13(n)(5)(G) and 13(n)(5)(H) should not govern access in those
+circumstances. The Commission received no comments on that proposed interpretation. 95
+The Exchange Act provides that relevant authorities may obtain security-based swap data
+from the Commission, rather than directly from data repositories. 96 First, Exchange Act section
+21(a)(2) 97 states that, upon request of a foreign securities authority, the Commission may provide
+assistance in connection with an investigation the foreign securities authority is conducting to
+determine whether any person has violated, is violating or is about to violate any laws or rules
+relating to securities matters that the requesting authority administers or enforces. 98 That section
+further provides that, as part of this assistance, the Commission in its discretion may conduct an
+investigation to collect information and evidence pertinent to the foreign securities authority’s
+request for assistance. 99 In addition, the Commission may share “nonpublic information in its
+possession” with, among others, any “federal, state, local, or foreign government, or any political
+94
+
+See Proposing Release, 80 FR at 55193.
+
+95
+
+In the Proposing Release, the Commission also discussed the application of data access
+provisions to access that is authorized by foreign law. In light of the repeal of the indemnification
+requirement, the Commission is not addressing data access in such circumstances.
+96
+
+See Proposing Release, 80 FR at 55193.
+
+97
+
+15 U.S.C. 78u(a)(2).
+
+98
+
+Exchange Act section 3(a)(50), 15 U.S.C. 78c(a)(50), broadly defines “foreign securities
+authority” to include “any foreign government, or any governmental body or regulatory organization
+empowered by a foreign government to administer or enforce its laws as they relate to securities matters.”
+99
+
+Exchange Act section 21(a)(2), 15 U.S.C. 78u(a)(2), also states that the Commission may provide
+such assistance without regard to whether the facts stated in the request also would constitute a violation
+of U.S. law. That section further states that when the Commission decides whether to provide such
+assistance to a foreign securities authority, the Commission shall consider whether the requesting
+authority has agreed to provide reciprocal assistance in securities matters to the United States, and
+whether compliance with the request would prejudice the public interest of the United States.
+
+31
+
+subdivision, authority, agency or instrumentality of such government . . . [or] a foreign financial
+regulatory authority,” subject to the recipient providing “such assurances of confidentiality as the
+Commission deems appropriate.” 100 Consistent with the Commission practice for many years,
+these sections provide the Commission with separate, additional authority to assist a domestic or
+a foreign authority in certain circumstances, such as, for example, by providing security-based
+swap data directly to the authority. At those times, the foreign authority would receive
+information not from the data repository, but instead from the Commission.
+IV. Effective Date
+These amendments to Exchange Act rule 13n-4 to implement the data access
+requirements will become effective 60 days following publication of the rule amendments in the
+Federal Register.
+The obligation of a security-based swap data repository to provide data pursuant to the
+rules will be conditioned on the Commission and a relevant authority entering into an MOU or
+other arrangement addressing the confidentiality of the security-based swap information that is
+made available. A repository accordingly will have no disclosure obligation pursuant to these
+rules until such MOUs or other arrangements have been entered into and become effective. 101
+
+100
+
+See Exchange Act rule 24c-1(c) (implementing Exchange Act section 24(c), 15 U.S.C. 78x(c),
+which states that the Commission may, “in its discretion and upon a showing that such information is
+needed,” provide records and other information “to such persons, both domestic and foreign, as the
+Commission by rule deems appropriate,” subject to assurances of confidentiality).
+101
+
+The Commission anticipates that any such MOU or other arrangement would not become
+immediately effective after the agreement of the parties, to allow repositories an appropriate amount of
+time to make any technical arrangements needed to provide access, potentially including electronic
+access, to the recipient.
+
+32
+
+V.
+
+Paperwork Reduction Act
+Certain provisions of the final rules contain “collection of information” requirements
+
+within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). 102 The Commission has
+submitted them to the Office of Management and Budget (“OMB”) for review in accordance
+with 44 U.S.C. 3507 and 5 CFR 1320.11. The title of the new collection of information is
+“Security-Based Swap Data Repository Data Access Requirements.” An agency may not
+conduct or sponsor, and a person is not required to respond to, a collection of information unless
+it displays a currently valid OMB control number. OMB has not yet assigned a control number
+to the new collection of information.
+In the Proposing Release, the Commission solicited comment on the collection of
+information requirements and the accuracy of the Commission’s statements. 103 Although, as
+discussed above, one commenter addressed certain substantive issues with regard to the
+proposal, 104 that commenter did not address the burden estimates in the Proposing Release
+related to the collection of information.
+Although the final rules have been changed from the proposal to reflect the removal of
+the proposed indemnification exemption, in the Commission’s view this change does not alter
+the estimates from the Proposing Release. In particular, although the conditions to the proposed
+indemnification exemption would have caused the Commission and a relevant authority to enter
+into an MOU or other arrangement to address confidentiality, and to address the types of
+102
+
+44 U.S.C. 3501 et seq.
+
+103
+
+See Proposing Release, 80 FR at 55196.
+
+104
+
+See notes 19 through 21, supra, and accompanying text.
+
+33
+
+activities that would be within the regulatory mandate or legal responsibility or authority of that
+relevant authority, the Commission would still expect to enter into that type of MOU or other
+arrangement with the relevant authority in connection with the confidentiality condition.
+Accordingly, the Commission’s estimates remain unchanged from the Proposing Release.
+A.
+
+Summary of Collection of Information
+The final rules would require security-based swap data repositories to make security-
+
+based swap data available to other parties, including certain government bodies. This data access
+obligation would be conditioned on a confidentiality requirement. The final rules further would
+require such repositories to create and maintain information regarding such data access.
+B.
+
+Use of Information
+The data access requirement and associated conditions would provide the regulators and
+
+other authorities that receive the relevant security-based swap data with tools to assist with the
+oversight of the security-based swap market and of dealers and other participants in the market,
+and to assist with the monitoring of risks associated with that market.
+C.
+
+Respondents
+The data access requirement will apply to every person required to be registered with the
+
+Commission as a security-based swap data repository – that is, every U.S. person performing the
+functions of a security-based swap data repository, and to every non-U.S. person performing the
+functions of a security-based swap data repository within the United States absent an exemption.
+
+34
+
+The Commission continues to estimate, for PRA purposes, that ten persons might register with
+the Commission as security-based swap data repositories. 105
+The conditions to data access under these rules further will affect all persons that may
+seek access to security-based swap data pursuant to these provisions. As discussed below, these
+may include up to 30 domestic entities.
+D.
+
+Total Annual Reporting and Recordkeeping Burden
+1.
+
+Data access generally
+
+The data access provisions may implicate various types of PRA burdens and costs: (i)
+burdens and costs that regulators and other authorities incur in connection with negotiating
+MOUs or other arrangements with the Commission in connection with the data access
+provisions; (ii) burdens and costs that certain authorities that have not been determined by statute
+or Commission rule may incur in connection with requesting that the Commission grant them
+access to repository data 106; (iii) burdens and costs associated with information technology
+systems that repositories develop in connection with providing data to regulators and other
+authorities; and (iv) burdens and costs associated with the requirement that repositories notify the
+Commission of requests for access to security-based swap data, including associated
+recordkeeping requirements.
+105
+
+See Proposing Release, 80 FR 55194. The Commission used the same estimate when adopting
+final rules to implement statutory provisions related to the registration process, duties and core principles
+applicable to security-based swap data repositories. See SDR Adopting Release, 80 FR at 14521.
+106
+
+These include MOUs and other arrangements in connection with: the determination of additional
+entities that may access security-based swap data (see part II.C.2.a, supra), and the confidentiality
+condition (see part II.F.2, supra). Although under the proposal these also would have included MOUs
+and other arrangements in connection with the indemnification exemption, as noted above we believe that
+the original PRA estimates associated with such MOUs or other arrangements remain appropriate.
+
+35
+
+a.
+
+MOUs and other arrangements
+
+As discussed above, entities that access security-based swap data pursuant to these data
+access provisions would be required to enter into MOUs or other arrangements with the
+Commission to address the confidentiality condition. In some cases, any such entity also would
+enter into an MOU or other arrangement in connection with the Commission’s determination of
+the entity as authorized to access such data (to the extent that the entity’s access is not already
+determined by statute or by the final rules). For purposes of the PRA requirements, the
+Commission estimates that up to 30 domestic entities potentially might enter into such MOUs or
+other arrangements, reflecting the nine entities specifically identified by statute or the final rules,
+and up to 21 additional domestic governmental entities or self-regulatory organizations that may
+seek access to such data. Based on the Commission’s experience in negotiating similar MOUs
+that address regulatory cooperation, including confidentiality issues associated with regulatory
+cooperation, the Commission believes that each regulator on average would expend 500 hours in
+negotiating such MOUs and other arrangements. 107
+
+107
+
+It may be expected that the initial MOU or other arrangement that is entered into between the
+Commission and another regulator may take up to 1,000 hours for that regulator to negotiate. In practice,
+however, subsequent MOUs and other arrangements involving other recipient entities would be expected
+to require significantly less time on average, by making use of the prior MOUs as a basis for negotiation.
+Based on these principles, the Commission estimates that the average amount of time that domestic and
+foreign recipients of data would incur in connection with negotiating these arrangements would be 500
+hours.
+To the extent that each of those 30 domestic entities were to seek to access data pursuant to these
+provisions, and each of the applicable MOUs or other arrangements were to take 500 hours on average,
+the total burden would amount to 15,000 hours.
+
+36
+
+b.
+
+Requests for access
+
+Separately, certain entities that are not identified by statute and/or the final rules may
+request that the Commission determine that they may access such security-based swap data. For
+those entities, in light of the relevant information that the Commission may consider in
+connection with such determinations (apart from the MOU issues addressed above) – including
+information regarding how the entity would be expected to use the information, information
+regarding the entity’s regulatory mandate or legal responsibility or authority, and information
+regarding reciprocal access – the Commission estimates that each such entity would expend 40
+hours in connection with such request. As noted above, the Commission estimates that 21
+domestic entities not encompassed in the final rule may seek access to the data. Accordingly, to
+the extent that 21 domestic entities were to request access (apart from the nine entities identified
+by statute or the final rule), the Commission estimates a total burden of 840 hours for these
+entities to prepare and submit requests for access.
+c.
+
+Systems costs
+
+The Commission previously addressed the PRA costs associated with the Exchange Act’s
+data access requirement in 2010, when the Commission initially proposed rules to implement
+those data access requirements in conjunction with other rules to implement the duties applicable
+to security-based swap data repositories. At that time, based on discussions with market
+participants, the Commission estimated that a series of proposed rules to implement duties
+applicable to security-based swap data repositories – including the proposed data access rules as
+well as other rules regarding repository duties (e.g., proposed rules requiring repositories to
+accept and maintain data received from third parties, to calculate and maintain position
+information, and to provide direct electronic access to the Commission and its designees) –
+
+37
+
+together would result in an average one-time start-up burden per repository of 42,000 hours and
+$10 million in information technology costs for establishing systems compliant with all of those
+requirements. The Commission further estimated that the average per-repository ongoing annual
+costs of such systems would be 25,200 hours and $6 million.108
+The Commission incorporated those same burden estimates in 2015, when the
+Commission adopted final rules to implement the duties applicable to security-based swap data
+repositories, apart from the data access requirement. 109
+Subject to the connectivity issues addressed below, the Commission believes that the
+burden estimates associated with the 2010 proposed repository rules encompassed the costs and
+burdens associated with the data access requirements in conjunction with other system-related
+requirements applicable to security-based swap dealers. To comply with those other systemrelated requirements – including in particular requirements that repositories provide direct
+electronic access to the Commission and its designees – we believe that it is reasonable to expect
+that repositories may use the same systems as they would use to comply with the data access
+requirements at issue here, particularly given that both types of access requirements would
+require repositories to provide security-based swap information to particular recipients subject to
+
+108
+
+See Proposing Release, 80 FR at 55194-95 (citing Exchange Act Release No. 63347 (Nov. 19,
+2010), 75 FR 77306, 77348-49 (Dec. 10, 2010) (“SDR Proposing Release”)). The Commission further
+estimated, for PRA purposes, that ten persons may register with the Commission as security-based swap
+data repositories. Based on the estimate of ten respondents, the Commission estimated total one-time
+costs of 420,000 hours and $100 million, and total annual ongoing systems costs of 252,000 and $60
+million. See Proposing Release, 80 FR at 55195 n. 120 (citing SDR Adopting Release, 75 FR at 14523).
+109
+
+See Proposing Release, 80 FR at 55194-95 (citing SDR Adopting Release, 80 FR at 14523).
+
+38
+
+certain parameters. 110 As a result, subject to per-recipient connectivity burdens addressed below,
+the Commission believes that there would be no additional burdens associated with information
+technology costs to implement the data access requirements of the final rule.
+The Commission also recognizes, however, that once the relevant systems have been set
+up, repositories may be expected to incur additional incremental burdens and costs associated
+with setting up access to security-based swap data consistent with the recipient’s regulatory
+mandate or legal responsibility or authority. 111 The Commission believes that, for any particular
+recipient, security-based swap data repositories on average would incur a burden of 26 hours. 112
+As discussed below, and consistent with our estimates in the Proposing Release, based on the
+estimate that approximately 300 relevant authorities may make requests for data from security-
+
+110
+
+The Commission also anticipates that repositories would use the same systems in connection with
+the Exchange Act data access requirements as they use in connection with the corresponding requirements
+under the CEA.
+111
+
+In addressing those burdens, the Commission expects that the determination order will set forth
+objective criteria that delimit the scope of a recipient’s ability to access security-based swap data. The
+Commission may also consider the recipient entity’s regulatory mandate or legal responsibility or
+authority, and tailor the entity’s access in accordance with that regulatory mandate or legal responsibility
+or authority, when entering into MOUs or other arrangements with recipient entities. The Commission
+further expects that repositories would use those criteria to program their data systems to reflect the scope
+of the recipient’s access to repository data. Absent such objective and programmable criteria, repositories
+would be expected to incur greater burdens to assess whether an authority’s request satisfies the relevant
+conditions, particularly with regard to whether particular information relates to persons or activities
+within the entity’s regulatory mandate or legal responsibility or authority.
+112
+
+This estimate is based on the view that, for each recipient requesting data, a repository would
+incur a 25 hour burden associated with programming or otherwise inputting the relevant parameters,
+encompassing 20 hours of programmer analyst time and five hours of senior programmer time. The
+estimate also encompasses one hour of attorney time in connection with each such recipient.
+
+39
+
+based swap data repositories, 113 the Commission estimates that each repository would incur a
+one-time burden of 7,800 hours in connection with providing that connectivity. 114
+d.
+
+Providing notification of requests, and associated records requirements
+
+Under the final rules, repositories would be required to inform the Commission when it
+receives the first request for security-based swap data from a particular entity. 115 As discussed
+below, based on the estimate that approximately 300 relevant authorities may make requests for
+data from security-based swap data repositories, the Commission estimates that each repository
+would provide the Commission with actual notice approximately 300 times. 116 Moreover, based
+on the estimate that ten persons may register with the Commission as security-based swap data
+repositories, the Commission estimates that repositories in the aggregate would provide the
+Commission with actual notice a total of 3,000 times. The Commission estimates that each such
+notice would take no more than one-half hour to make on average, leading to a cumulative
+estimate of 1,500 hours associated with the notice requirement.
+The final rules further require that repositories must maintain records of all information
+related to the initial and all subsequent requests for data access, including records of all instances
+of online or electronic access, and records of all data provided in connection with such access. 117
+
+113
+
+See note 195, infra.
+
+114
+
+Across an estimated ten repositories, accordingly, the Commission estimates that repositories
+cumulatively would incur a one-time burden of 78,000 hours in connection with providing such
+connectivity.
+115
+
+See Exchange Act rule 13n-4(d).
+
+116
+
+See part VI.C.3.a.ii, infra; see also Proposing Release, 80 FR at 55195.
+
+117
+
+See Exchange Act rule 13n-4(d).
+
+40
+
+Consistent with our estimates in the Proposing Release, the Commission estimates that there
+cumulatively may be 360,000 subsequent data requests or instances of direct electronic access
+per year across all security-based swap data repositories, for which repositories must maintain
+records as required by the final rule. 118 Based on its experience with recordkeeping costs
+associated with security-based swaps generally, the Commission estimates that for each
+repository this requirement would create an initial burden of roughly 360 hours, and an annual
+burden of roughly 280 hours and $40,000 in information technology costs. 119
+2.
+
+Confidentiality condition
+
+The Commission does not believe that the confidentiality provision of the final rule will
+be associated with collections of information that would result in a reporting or recordkeeping
+burden for security-based swap data repositories. This is because, under the final rule, the
+confidentiality condition will be satisfied by an MOU or other arrangement between the
+Commission and the recipient entity (i.e., another regulatory authority) addressing
+confidentiality. We expect that repositories accordingly will not be involved in the drafting or
+negotiation of confidentiality agreements.
+As discussed above, however, the confidentiality condition is expected to impose burdens
+on authorities that seek to access data pursuant to these provisions, as a result of the need to
+negotiate confidentiality MOUs or other arrangements. 120
+
+118
+
+See part VI.C.3.a.ii, infra; see also Proposing Release, 80 FR at 55195.
+
+119
+
+Across an estimated ten repositories, accordingly, the Commission preliminarily estimates that
+repositories cumulatively will incur an initial burden of roughly 3,600 hours in information technology
+costs, and an annual burden of roughly 2,800 hours and $400,000 in information technology costs.
+120
+
+See part V.D.1.a, supra.
+
+41
+
+E.
+
+Collection of Information is Mandatory
+The conditional data access requirements of Exchange Act sections 13(n)(5)(G) and (H)
+
+and the underlying rules are mandatory for all security-based swap data repositories. The
+confidentiality condition is mandatory for all entities that seek access to data under those
+requirements.
+F.
+
+Confidentiality
+The Commission will make public requests for a determination that an authority is
+
+appropriate to conditionally access security-based swap data, as well as Commission
+determinations issued in response to such requests. The Commission expects that it will make
+publicly available the MOUs or other arrangements with the Commission used to satisfy the
+confidentiality condition. 121
+Initial notices of requests for access provided to the Commission by repositories will be
+kept confidential, subject to the provisions of applicable law. To the extent that the Commission
+obtains subsequent requests for access that would be required to be maintained by the
+repositories, such as in connection with an examination or investigation, the Commission also
+will keep those records confidential, subject to the provisions of applicable law.
+VI.
+
+Economic Analysis
+As discussed above, the Commission is adopting final rules to implement data access
+
+requirements for relevant authorities other than the Commission that the Dodd-Frank Act
+
+121
+
+The Commission provides a list of MOUs and most other arrangements with foreign authorities
+on its public website, which are available at:
+http://www.sec.gov/about/offices/oia/oia_cooparrangements.shtml.
+
+42
+
+imposes on security-based swap repositories. To carry out their regulatory mandate, or legal
+responsibility or authority, certain relevant entities other than the Commission may periodically
+need access to security-based swap data collected and maintained by SEC-registered securitybased swap data repositories, and the final rules are intended to facilitate such access.
+Although the final rules have been changed from the proposal to reflect the removal of
+the proposed indemnification exemption, in the Commission’s view this change does not
+significantly alter the economic costs and benefits from the Proposing Release. In particular,
+although the conditions to the proposed indemnification exemption would have caused the
+Commission and a relevant authority to enter into an MOU or other arrangement to address
+confidentiality, and to address the types of activities that would be within the regulatory mandate
+or legal responsibility or authority of that relevant authority, such MOU or other arrangement
+will still be necessary in connection with the confidentiality condition. Accordingly, the
+Commission’s assessment of the costs and benefits remain largely unchanged from the Proposing
+Release.
+The Commission is sensitive to the economic effects of its rules, including the costs and
+benefits and the effects of its rules on efficiency, competition and capital formation. Section
+3(f) 122 of the Exchange Act requires the Commission, whenever it engages in rulemaking
+pursuant to the Exchange Act and is required to consider or determine whether an action is
+necessary or appropriate in the public interest, to also consider, in addition to the protection of
+investors, whether the action would promote efficiency, competition, and capital formation. In
+
+122
+
+15 U.S.C. 78c(f).
+
+43
+
+addition, section 23(a)(2) 123 of the Exchange Act requires the Commission, when promulgating
+rules under the Exchange Act, to consider the impact such rules would have on competition.
+Exchange Act section 23(a)(2) also provides that the Commission shall not adopt any rule which
+would impose a burden on competition that is not necessary or appropriate in furtherance of the
+purposes of the Exchange Act.
+A.
+
+Economic Considerations
+1.
+
+Title VII Transparency Framework
+
+The security-based swap market prior to the passage of the Dodd-Frank Act has been
+described as being opaque, in part because transaction-level data were not widely available to
+market participants or to regulators. 124 To increase the transparency of the over-the-counter
+derivatives market to both market participants and regulatory authorities, Title VII requires the
+Commission to undertake a number of rulemakings, including rules the Commission adopted last
+year to address the registration process, duties and core principles applicable to security-based
+
+123
+124
+
+15 U.S.C. 78w(a)(2).
+
+With respect to one type of security-based swap, credit default swaps (“CDS”), the Government
+Accountability Office found that “comprehensive and consistent data on the overall market have not been
+readily available,” “authoritative information about the actual size of the [CDS] market is generally not
+available” and regulators currently are unable “to monitor activities across the market.” Government
+Accountability Office, GAO-09-397T, Systemic Risk: Regulatory Oversight and Recent Initiatives to
+Address Risk Posed by Credit Default Swaps, at 2, 5, 27, (2009) available at:
+http://www.gao.gov/new.items/d09397t.pdf; see also Robert E. Litan, The Derivatives Dealers’ Club and
+Derivatives Market Reform: A Guide for Policy Makers, Citizens and Other Interested Parties, Brookings
+Institution (Apr. 7, 2010),
+http://www.brookings.edu/~/media/research/files/papers/2010/4/07%20derivatives%20litan/0407_derivati
+ves_litan.pdf; Michael Mackenzie, Era of an Opaque Swaps Market Ends, Financial Times, June 25,
+2010, available at: http://www.ft.com/intl/cms/s/0/f49f635c-8081-11df-be5a-00144feabdc0.html.
+
+44
+
+swap data repositories, 125 and to address regulatory reporting and public dissemination of
+security-based swap information. 126 Among other matters, those rules address market
+transparency by requiring security-based swap data repositories, absent an exemption, to collect
+and maintain accurate security-based swap transaction data, and address regulatory transparency
+by requiring security-based swap data repositories to provide the Commission with direct
+electronic access to such data. 127
+Consistent with the goal of increasing transparency to regulators, the data access
+provisions at issue here set forth a framework for security-based swap data repositories to
+provide access to security-based swap data to relevant authorities other than the Commission.
+The final rules implement that framework for repositories to provide data access to other relevant
+entities in order to fulfill their regulatory mandate, or legal responsibility or authority.
+2.
+
+Transparency in the Market For Security-Based Swaps
+
+The data access rules, in conjunction with the transparency-related requirements
+generally applicable to security-based swap data repositories, are designed, among other things,
+to make available to the Commission and other relevant authorities data that will provide a broad
+view of the security-based swap market and help monitor for pockets of risk and potential market
+
+125
+
+See SDR Adopting Release.
+
+126
+
+See Regulation SBSR—Reporting and Dissemination of Security-Based Swap Information,
+Exchange Act Release No. 74244 (Jan. 14, 2015), 80 FR 14564 (Mar. 19, 2015) (“Regulation SBSR
+Adopting Release”). In July 2016, the Commission adopted amendments and guidance to Regulation
+SBSR. See Exchange Act Release No. 78321 (Jul. 14, 2016), 81 FR 53546 (Aug. 12, 2016).
+127
+
+See Exchange Act rule 13n-5 (requiring repositories to comply with data collection and data
+maintenance standards related to transaction and position data); Exchange Act rule 13n-4(b)(5) (requiring
+repositories to provide direct electronic access to the Commission and its designees).
+
+45
+
+abuses that might not otherwise be observed by those authorities. 128 Unlike many other types of
+securities transactions, security-based swaps involve ongoing financial obligations between
+counterparties during the life of transactions that typically span several years. Counterparties to
+a security-based swap rely on each other’s creditworthiness and bear this credit risk and market
+risk until the security-based swap terminates or expires. If a large market participant, such as a
+security-based swap dealer, major security-based swap participant, or central counterparty were
+to become financially distressed, a general lack of information about market participants’
+exposures to the distressed entity could contribute to uncertainty and ongoing market instability.
+In addition, the default of a large market participant could introduce the potential for sequential
+counterparty failure; the resulting uncertainty could reduce the willingness of market participants
+to extend credit, and substantially reduce liquidity and valuations for particular types of financial
+instruments. 129
+A broad view of the security-based swap market, including information regarding
+aggregate market exposures to particular reference entities (or securities), positions taken by
+individual entities or groups, and data elements necessary to determine the market value of the
+transaction, may be expected to provide the Commission and other relevant authorities with a
+128
+
+See, e.g., Exchange Act section 13(n)(5)(D), 15 U.S.C. 78m(n)(5)(D), and rule 13n-4(b)(5)
+(requiring SDRs to provide direct electronic access to the Commission and its designees). See also 156
+Cong. Rec. S5920 (daily ed. July 15, 2010) (statement of Sen. Lincoln) (“These new ‘data repositories’
+will be required to register with the CFTC and the SEC and be subject to the statutory duties and core
+principles which will assist the CFTC and the SEC in their oversight and market regulation
+responsibilities.”).
+129
+
+See, e.g., Markus K. Brunnermeier and Lasse Heje Pedersen, Market Liquidity and Funding
+Liquidity, 22 Review of Financial Studies 2201 (2009); Denis Gromb and Dimitri Vayanos, A Model of
+Financial Market Liquidity Based on Intermediary Capital, 8 Journal of the European Economic
+Association 456 (2010).
+
+46
+
+better understanding of the actual and potential risks in the market and promote better risk
+monitoring efforts. The information provided by security-based swap data repositories also may
+be expected to help the Commission and other relevant authorities investigate market
+manipulation, fraud and other market abuses.
+3.
+
+Global Nature of the Security-Based Swap Market
+
+As highlighted in more detail in the Economic Baseline below, the security-based swap
+market is a global market. Based on market data in the Depository Trust and Clearing
+Corporation’s Trade Information Warehouse (“DTCC-TIW”), the Commission estimates that
+only 12 percent of the global transaction volume that involves either a U.S.-domiciled
+counterparty or a U.S-domiciled reference entity (as measured by gross notional) between 2008
+and 2015 was between two U.S.-domiciled counterparties, compared to 48 percent entered into
+between one U.S.-domiciled counterparty and a foreign-domiciled counterparty and 40 percent
+entered into between two foreign-domiciled counterparties. 130
+In light of the security-based swap market’s global nature there is the possibility that
+regulatory data may be fragmented across jurisdictions, particularly because a large fraction of
+transaction volume includes at least one counterparty that is not a U.S. person 131 and the
+
+130
+
+The data the Commission receives from DTCC-TIW does not include transactions between two
+non-U.S. domiciled counterparties that reference a non-U.S. entity or security. This is approximately 19
+percent of global transaction volume. See note 143, infra. Therefore, factoring in these transactions,
+approximately 10 percent of global transaction volume involves two U.S.-domiciled counterparties, 39
+percent involve one U.S.-domiciled counterparty and one foreign counterparty, and 51 percent are
+between two foreign-domiciled counterparties.
+131
+
+This statement is based on staff analysis of voluntarily reported CDS transaction data to DTCCTIW, which includes self-reported counterparty domicile. See note 154, infra. The Commission notes
+
+47
+
+applicable U.S. regulatory reporting rules depend on the U.S. person status of the
+counterparties. 132 As discussed further below, fragmentation of data can increase the difficulty
+in consolidating and interpreting security-based swap market data from repositories, potentially
+reducing the general economic benefits derived from transparency of the security-based swap
+market to regulators. Absent a framework for the cross-border sharing of data reported pursuant
+to regulatory requirements in various jurisdictions, the relevant authorities responsible for
+monitoring the security-based swap market may not be able to access data consistent with their
+regulatory mandate or legal responsibility or authority.
+4.
+
+Economic Purposes of the Rulemaking
+
+The data access requirements are designed to increase the quality and quantity of
+transaction and position information available to relevant authorities about the security-based
+swap market while helping to maintain the confidentiality of that information. The increased
+availability of security-based swap information may be expected to help relevant authorities act
+in accordance with their regulatory mandate, or legal responsibility or authority, and to respond
+to market developments.
+Moreover, by facilitating access to security-based swap data for relevant authorities,
+including non-U.S. authorities designated by the Commission, the Commission anticipates an
+
+that DTCC-TIW entity domicile may not be completely consistent with the Commission’s definition of
+“U.S. person” in all cases but believes that these two characteristics have a high correlation.
+132
+
+See Regulation SBSR rule 908(a) (generally requiring regulatory reporting and public
+dissemination of a security-based swap transaction when at least one direct or indirect counterparty is a
+U.S. person). Note that current voluntary reporting considers the self-reported domicile of the
+counterparty but Regulation SBSR considers the counterparty’s status as a U.S. person.
+
+48
+
+increased likelihood that the Commission itself will have commensurate access to security-based
+swap data stored in trade repositories located in foreign jurisdictions. 133 This may be particularly
+important in identifying transactions in which the Commission has a regulatory interest (e.g.,
+transactions involving a U.S. reference entity or security) but may not have been reported to a
+registered security-based swap data repository due to the transactions occurring outside of the
+U.S. between two non-U.S. persons. 134 This should assist the Commission in fulfilling its
+regulatory mandate and legal responsibility and authority, including by facilitating the
+Commission’s ability to detect and investigate market manipulation, fraud and other market
+abuses, and by providing the Commission with greater access to security-based swap information
+than that provided under the current voluntary reporting regime. 135
+Such data access may be especially critical during times of market turmoil, by giving the
+Commission and other relevant authorities information to examine risk exposures incurred by
+individual entities or in connection with particular reference entities. Increasing the available
+
+133
+
+For example, EU law conditions the ability of non-EU authorities to access data from EU
+repositories on EU authorities having “immediate and continuous” access to the information they need.
+See EU regulation 648/2012 (“EMIR”), art. 75(2).
+As discussed above, the Commission anticipates considering whether the relevant authority
+requesting access agrees to provide the Commission and other U.S. authorities with reciprocal assistance
+in matters within their jurisdiction when making a determination whether the requesting authority shall be
+granted access to security-based swap data held in registered SDRs. See part II.C.1 supra.
+134
+
+For example, it is possible to replicate the economic exposure of either a long or short position in
+a debt security that trades in U.S. markets by trading in U.S. treasury securities and CDS that reference
+that debt security. Transactions between two non-U.S. persons on a U.S. reference entity or novations
+between two non-U.S. persons that reduce exposure to a U.S. registrant may provide information to the
+Commission about the market’s views concerning the financial stability or creditworthiness of the
+registered entity.
+135
+
+See part VI.B, supra, for a description of the data the Commission receives from DTCC-TIW
+under the current voluntary reporting regime.
+
+49
+
+data about the security-based swap market should further give the Commission and other
+relevant authorities better insight into how regulations are affecting or may affect the market,
+which may allow the Commission and other regulators to better craft regulations to achieve
+desired goals, and therefore increase regulatory effectiveness.
+B.
+
+Economic Baseline
+To assess the economic impact of the data access rules adopted herein, the Commission is
+
+using as a baseline the security-based swap market as it exists today, including applicable rules
+that have already been adopted and excluding rules that have been proposed but not yet finalized.
+Thus we include in the baseline the rules that the Commission adopted to govern the registration
+process, duties and core principles applicable to security-based swap data repositories, and to
+govern regulatory reporting and public dissemination of security-based swap transactions. 136
+There are not yet any registered security-based swap data repositories; therefore, the
+Commission does not yet have access to regulatory reporting data. 137 Hence, our
+characterization of the economic baseline, including the quantity and quality of security-based
+swap data available to the Commission and other relevant authorities and the extent to which
+data are fragmented, considers the anticipated effects of the rules that govern the registration
+process, duties and core principles applicable to SDRs and Regulation SBSR. The Commission
+acknowledges limitations in the degree to which it can quantitatively characterize the current
+state of the security-based swap market. As described in more detail below, because the
+
+136
+
+See SDR Adopting Release and Regulation SBSR Adopting Release.
+
+137
+
+See note 157, infra.
+
+50
+
+available data on security-based swap transactions do not cover the entire market, the
+Commission has developed an understanding of market activity using a sample that includes
+only certain portions of the market.
+1.
+
+Regulatory Transparency in the Security-Based Swap Market
+
+There currently is no robust, widely accessible source of information about individual
+security-based swap transactions. In 2006, a group of major dealers expressed their commitment
+in support of DTCC’s initiative to create a central “industry utility trade contract warehouse” for
+credit derivatives. 138 Moreover, in 2009, the leaders of the G20 – whose members include the
+United States, 18 other countries, and the European Union – addressed global improvements in
+the over-the-counter (“OTC”) derivatives markets. They expressed their view on a variety of
+issues relating to OTC derivatives contracts, including, among other things, that OTC derivatives
+contracts should be reported to trade repositories. 139 A single repository, DTCC-TIW, makes the
+data reported to it under the voluntary reporting regime available to the Commission and other
+relevant authorities in accordance with the guidance from the OTC Derivatives Regulatory
+Forum (“ODRF”), of which the Commission is a member, and similar subsequent guidance. 140
+Although many jurisdictions have implemented rules concerning reporting of security-based
+
+138
+
+See Letter to Timothy Geithner, President, Federal Reserve Bank of New York, Mar. 10, 2006,
+available at:
+https://www.newyorkfed.org/medialibrary/media/newsevents/news/markets/2006/industryletter2.pdf.
+139
+
+See G20 Leaders Statement from the 2009 Pittsburgh Summit, available at:
+http://www.g20.utoronto.ca/2009/2009communique0925.html.
+140
+
+See Proposing Release 80 FR 55181, note 71. See also DTCC 2016 comment at 2 (“DTCC is
+strongly supportive of the work of the [CPMI], [IOSCO] and the Financial Stability Board (‘FSB’) to
+improve regulatory access to OTC derivatives data, including CPMI-IOSCO’s guidance on authorities’
+access to trade repository data”).
+
+51
+
+swaps to trade repositories, 141 the Commission understands that many market participants
+continue to report voluntarily to DTCC-TIW.
+The data that the Commission receives from DTCC-TIW do not encompass CDS
+transactions that both: (i) do not involve any U.S. counterparty, and (ii) are not based on a U.S.
+reference entity. 142 Based on a comparison of weekly transaction volume publicly disseminated
+by DTCC-TIW with data provided to the Commission under the voluntary arrangement, we
+estimate that the transaction data provided to the Commission covers approximately 81 percent
+of the global single-name CDS market. 143
+While DTCC-TIW generally provides detailed data on positions and transactions to
+regulators that are members of the ODRF, DTCC-TIW makes only summary information
+available to the public. 144
+
+141
+
+See OTC Derivatives Market Reforms: Tenth Progress Report on Implementation (Nov. 2015),
+available at: http://www.fsb.org/wp-content/uploads/OTC-Derivatives-10th-Progress-Report.pdf.
+142
+
+The Commission notes that the identification of entity domicile in the voluntary data reported to
+DTCC-TIW may not be consistent with the Commission’s definition of “U.S. person” in all cases. See
+note 154, infra.
+143
+
+In 2015, DTCC-TIW reported on its website new trades in single-name CDS with gross notional
+of $11.8 trillion. During the same period, data provided to the Commission by DTCC-TIW, which
+include only transactions with a U.S. counterparty or transactions written on a U.S. reference entity or
+security, included new trades with gross notional equaling $9.6 trillion, or 81% of the total reported by
+DTCC-TIW.
+144
+
+DTCC-TIW publishes weekly transaction and position reports for single-name CDS. In addition,
+ICE Clear Credit provides aggregated volumes of clearing activity, and large multilateral organizations
+periodically further report measures of market activity. For example, the Bank for International
+Settlements (“BIS”) reports gross notional outstanding for single-name CDS and equity forwards and
+swaps semiannually.
+
+52
+
+2.
+
+Current Security-Based Swap Market
+
+The Commission’s understanding of the market is informed in part by available data on
+security-based swap transactions, though the Commission acknowledges that limitations in the
+data prevent the Commission from quantitatively characterizing certain aspects of the market. 145
+Because these data do not cover the entire market, the Commission has developed an
+understanding of market activity using a sample of transaction data that includes only certain
+portions of the market. The Commission believes, however, that the data underlying its analysis
+here provide reasonably comprehensive information regarding single-name CDS transactions
+and the composition of participants in the single-name CDS market.
+Specifically, the Commission’s analysis of the state of the current security-based swap
+market is based on data obtained from the DTCC-TIW, especially data regarding the activity of
+market participants in the single-name CDS market during the period from 2008 to 2015.
+According to data published by the Bank for International Settlements (“BIS”), the global
+notional amount outstanding in single-name CDS was approximately $7.18 trillion, 146 in multiname index CDS was approximately $4.74 trillion, and in multi-name, non-index CDS was
+approximately $373 billion. The total gross market value outstanding in single-name CDS was
+approximately $284 billion, and in multi-name CDS instruments was approximately $137
+
+145
+
+The Commission also relies on qualitative information regarding market structure and evolving
+market practices provided by commenters, both in letters and in meetings with Commission staff, and
+knowledge and expertise of Commission staff.
+146
+
+The global notional amount outstanding represents the total face amount of the swap used to
+calculate payments. The gross market value is the cost of replacing all open contracts at current market
+prices.
+
+53
+
+billion.147 The global notional amount outstanding in equity forwards and swaps as of December
+2015 was $3.32 trillion, with total gross market value of $147 billion. 148 As these figures show
+(and as the Commission has previously noted), although the definition of security-based swap is
+not limited to single-name CDS, single-name CDS make up a majority of security-based swaps
+in terms of notional amount, and the Commission believes that the single-name CDS data are
+sufficiently representative of the market to inform the Commission’s analysis of the state of the
+current security-based swap market. 149
+Based on this information, our analysis below indicates that the current security-based
+swap market: (i) is global in scope, and (ii) is concentrated among a small number of dealing
+entities. Although under the voluntary reporting regime discussed above there was a single
+repository, as various jurisdictions have implemented mandatory reporting rules in their
+jurisdictions the number of trade repositories holding security-based swap data has grown. 150
+
+147
+
+See Semi-annual OTC derivatives statistics (December 2015), Table D10.1, available at
+http://stats.bis.org/statx/toc/DER.html (last viewed May 24, 2016). For purposes of this analysis, the
+Commission assumes that multi-name index CDS are not narrow-based security index CDS, and therefore
+do not fall within the definition of security-based swap. See Exchange Act section 3(a)(68)(A), 15 U.S.C.
+78c(a)(68)(A); see also Further Definition of “Swap,” “Security-Based Swap,” and “Security-Based Swap
+Agreement”; Mixed Swaps; Security-Based Swap Agreement Recordkeeping, Exchange Act Release No.
+67453 (July 18, 2012), 77 FR 48207 (Aug. 13, 2012).
+148
+
+These totals include both swaps and security-based swaps, as well as products that are excluded
+from the definition of ‘‘swap,’’ such as certain equity forwards. See Semi-annual OTC derivatives
+statistics (December 2015), Table D8, available at http://stats.bis.org/statx/toc/DER.html (last viewed
+May 24, 2016). The Commission assumes that instruments reported as equity forwards and swaps
+include instruments such as total return swaps on individual equities that fall with the definition of
+security-based swap.
+149
+150
+
+See Proposing Release 80 FR 55199, note 154.
+
+See, for example, the list of trade repositories registered by ESMA, available at:
+https://www.esma.europa.eu/supervision/trade-repositories/list-registered-trade-repositories. As of May
+
+54
+
+a.
+
+Security-Based Swap Market Participants
+
+A key characteristic of security-based swap activity is that it is concentrated among a
+relatively small number of entities that engage in dealing activities. 151 Based on the
+Commission’s analysis of DTCC-TIW data, there were 1,957 entities engaged directly in trading
+CDS between November 2006 and December 2015. 152 Table 1 below highlights that of these
+entities, there were 17, or approximately 0.9 percent, that were ISDA-recognized dealers. 153
+ISDA-recognized dealers executed the vast majority of transactions (83.7 percent) measured by
+the number of counterparties (each transaction has two counterparties or transaction sides).
+Many of these dealers are regulated by entities other than, or in addition to, the Commission. In
+addition, thousands of other market participants appear as counterparties to security-based swap
+
+28, 2016, there were six repositories registered by ESMA, all of which are authorized to receive data on
+credit derivatives.
+151
+
+See Exchange Act Release No. 72472 (Jun. 25, 2014), 79 FR 47278, 47293 (Aug. 12, 2014)
+(“Cross-Border Definitions Adopting Release”). All data in this section cites updated data from the
+Proposing Release. See Proposing Release, 80 FR at 55196-202.
+152
+
+These 1,957 transacting agents represent over 10,000 accounts representing principal risk holders.
+See Proposing Release 80 FR 55199, note 158.
+As noted above, the data provided to the Commission by DTCC-TIW includes only transactions
+that either include at least one U.S.-domiciled counterparty or reference a U.S. entity or security.
+Therefore, any entity that is not domiciled in the U.S., never trades with a U.S.-domiciled entity and never
+buys or sells protection on a U.S. reference entity or security would not be included in this analysis.
+153
+
+For the purpose of this analysis, the ISDA-recognized dealers are those identified by ISDA as a
+recognized dealer in any year during the relevant period. Dealers are only included in the ISDArecognized dealer category during the calendar year in which they are so identified. The complete list of
+ISDA recognized dealers during the applicable period was: JP Morgan Chase NA (and Bear Stearns),
+Morgan Stanley, Bank of America NA (and Merrill Lynch), Goldman Sachs, Deutsche Bank AG,
+Barclays Capital, Citigroup, UBS, Credit Suisse AG, RBS Group, BNP Paribas, HSBC Bank, Lehman
+Brothers, Société Générale, Credit Agricole, Wells Fargo, and Nomura. See ISDA, Operations
+Benchmarking Surveys, available at: http://www2.isda.org/functional-areas/research/surveys/operationsbenchmarking-surveys.
+
+55
+
+transactions, including, but not limited to, investment companies, pension funds, private funds,
+sovereign entities and non-financial companies.
+Table 1. The number of transacting agents in the single-name CDS market by counterparty
+type and the fraction of total trading activity, from November 2006 through December
+2015, represented by each counterparty type.
+Transacting Agents
+
+Number
+
+Percent
+
+Investment Advisers
+
+1,499
+
+76.6%
+
+Transaction
+share
+12.2%
+
+- SEC registered
+
+603
+
+30.8%
+
+8.1%
+
+Banks
+
+253
+
+12.9%
+
+3.6%
+
+Pension Funds
+
+29
+
+1.5%
+
+0.1%
+
+Insurance Companies
+
+39
+
+2.0%
+
+0.2%
+
+ISDA-Recognized Dealers
+
+17
+
+0.9%
+
+83.7%
+
+Other
+
+120
+
+6.1%
+
+0.2%
+
+Total
+
+1,957
+
+100%
+
+100%
+
+Although the security-based swap market is global in nature, approximately 60 percent of
+the transaction volume reflected in DTCC-TIW data during the 2008-2015 period included at
+least one U.S.-domiciled entity (see Figure 1). Moreover, 48 percent of the single-name CDS
+transactions that include at least one U.S.-domiciled counterparty or a U.S. reference entity or
+security were between U.S.-domiciled entities and foreign-domiciled counterparties.
+
+56
+
+Figure 1: The fraction of notional volume in North American corporate single-name CDS
+between (1) two U.S.-domiciled accounts, (2) one U.S.-domiciled account and one non-U.S.domiciled account, and (3) two non-U.S.-domiciled accounts, computed from January 2008
+through December 2015.
+
+The fraction of new accounts with transaction activity that are domiciled in the United
+States fell through the 2008-2015 period. Figure 2 below is a chart of: (1) the percentage of new
+accounts with a domicile in the United States, 154 (2) the percentage of new accounts with a
+
+154
+
+The domicile classifications in DTCC-TIW are based on the market participants’ own reporting
+and have not been verified by Commission staff. Prior to enactment of the Dodd-Frank Act, account
+holders did not formally report their domicile to DTCC-TIW because there was no systematic
+requirement to do so. After enactment of the Dodd-Frank Act, DTCC-TIW has collected the registered
+office location of the account. This information is self-reported on a voluntary basis. It is possible that
+some market participants may misclassify their domicile status because the databases in DTCC-TIW do
+not assign a unique legal entity identifier to each separate entity. It is also possible that the domicile
+classifications may not correspond precisely to the definition of “U.S. person” under the rules defined in
+Exchange Act rule 3a71-3(a)(4), 17 CFR 240.3a71-3(a)(4). Notwithstanding these limitations, the
+
+57
+
+domicile outside the United States, and (3) the percentage of new accounts that are domiciled
+outside the United States but managed by a U.S. entity, foreign accounts that include new
+accounts of a foreign branch of a U.S. bank, and new accounts of a foreign subsidiary of a U.S.
+entity. Over time, a greater share of accounts entering DTCC-TIW data either have had a foreign
+domicile or have had a foreign domicile while being managed by a U.S. person. The increase in
+foreign accounts may reflect an increase in participation by foreign accountholders, and the
+increase in foreign accounts managed by U.S. persons may reflect the flexibility with which
+market participants can restructure their market participation in response to regulatory
+intervention, competitive pressures and other factors. There are, however, alternative
+explanations for the shifts in new account domicile in Figure 2. Changes in the domicile of new
+accounts through time may reflect improvements in reporting by market participants to DTCCTIW. Additionally, because the data include only accounts that are domiciled in the United
+States, transact with U.S.-domiciled counterparties or transact in single-name CDS with U.S.
+reference entities or securities, changes in the domicile of new accounts may reflect increased
+transaction activity between U.S. and non-U.S. counterparties.
+We note that cross-border rules related to regulatory reporting and public dissemination
+of security-based swap transactions depend on, among other things, the U.S.-person status of the
+
+Commission believes that the cross-border and foreign activity demonstrates the nature of the singlename CDS market.
+
+58
+
+counterparties. 155 The analyses behind Figures 1 and 2 show that the security-based swap
+market is global, with an increasing share of the market characterized by cross-border trade.
+
+155
+
+See note132, supra.
+
+59
+
+Figure 2: The percentage of (1) new accounts with a domicile in the United States (referred
+to below as “US”), (2) new accounts with a domicile outside the United States (referred to
+below as “Foreign”), and (3) new accounts outside the United States, but managed by a
+U.S. entity, new accounts of a foreign branch of a U.S. bank, and new accounts of a foreign
+subsidiary of a U.S. entity (collectively referred to below as “Foreign Managed by US”). 156
+Unique, new accounts are aggregated each quarter and shares are computed on a quarterly
+basis, from January 2008 through December 2015.
+
+156
+
+Following publication of the Warehouse Trust Guidance on CDS data access, DTCC-TIW
+surveyed market participants, asking for the physical address associated with each of their accounts (i.e.,
+where the account is organized as a legal entity). This is designated the registered office location by
+DTCC-TIW. When an account does not report a registered office location, we have assumed that the
+settlement country reported by the investment adviser or parent entity to the fund or account is the place
+of domicile. This treatment assumes that the registered office location reflects the place of domicile for
+the fund or account.
+
+60
+
+b.
+
+Security-Based Swap Data Repositories
+
+No security-based swap data repositories are currently registered with the
+Commission.157 The Commission is aware of one entity in the market (i.e., DTCC-TIW) that has
+been accepting voluntary reports of single-name and index CDS transactions. In 2015, DTCCTIW received approximately 2.5 million records of single-name CDS transactions, of which
+approximately 798,000 were price-forming transactions. 158
+The CFTC has provisionally registered four swap data repositories. 159 These swap data
+repositories are: BSDR LLC, Chicago Mercantile Exchange Inc., DDR, and ICE Trade Vault.
+The Commission believes that some or all of these entities will likely register with the
+Commission as security-based swap data repositories and that other persons may seek to register
+with both the CFTC and the Commission as swap data repositories and security-based swap data
+repositories, respectively. 160
+
+157
+
+ICE Trade Vault, LLC (“ICE Trade Vault”) and DTCC Data Repository (U.S.) LLC (“DDR”)
+filed with the Commission Form SDRs seeking registration as a security-based swap data repository
+under Section 13(n) of the Exchange Act and the Commission’s rules promulgated thereunder. See
+Notice of Filing of Application for Registration as a Security-Based Swap Data Repository, Release No.
+77699 (Apr. 22, 2016), 81 FR 25475 (Apr. 28, 2016) and Notice of Filing of Application for Registration
+as a Security-Based Swap Data Repository, Release No. 78216 (Jun. 30, 2016), 81 FR 44379 (July 7,
+2016).
+158
+
+Price-forming CDS transactions include new transactions, assignments, modifications to increase
+the notional amounts of previously executed transactions and terminations of previously executed
+transactions. Transactions terminated or entered into in connection with a compression exercise, and
+expiration of contracts at maturity, are not considered price-forming and are therefore excluded, as are
+replacement trades and all bookkeeping-related trades.
+159
+
+CFTC rule 49.3(b) provides for provisional registration of a swap data repository. 17 CFR
+
+49.3(b).
+160
+
+For the purpose of estimating PRA related costs, the number of security-based swap data
+repositories is estimated to be as high as ten. See part V.C, supra.
+
+61
+
+Efforts to regulate the swap and security-based swap markets are underway not only in
+the United States, but also abroad. Consistent with the call of the G20 leaders for global
+improvements in the functioning, transparency and regulatory oversight of OTC derivatives
+markets, 161 substantial progress has been made in establishing the trade repository infrastructure
+to support the reporting of OTC derivatives transactions. 162 Currently, multiple trade
+repositories operate, or are undergoing approval processes to do so, in a number of different
+jurisdictions. 163 Combined with the fact that the requirements for trade reporting differ across
+jurisdictions, the result is that security-based swap data is fragmented across many locations,
+stored in a variety of formats, and subject to many different rules for authorities’ access.
+Authorities will be able to obtain a comprehensive and accurate view of the global OTC
+derivatives markets to the extent that means exist to aggregate data in these trade repositories.
+C.
+
+Economic Costs and Benefits, Including Impact on Efficiency, Competition and Capital
+Formation
+As discussed above, the security-based swap market to date largely has developed as an
+
+opaque OTC market with limited dissemination of transaction-level price and volume
+information. 164 Accordingly, the Commission envisions that registered security-based swap data
+repositories, by maintaining security-based swap transaction data and positions, will become an
+essential part of the infrastructure of the market in part by providing the data to relevant
+161
+
+See note 139, supra, and accompanying text.
+
+162
+
+See OTC Derivatives Market Reforms: Tenth Progress Report on Implementation (Nov. 2015),
+available at: http://www.fsb.org/wp-content/uploads/OTC-Derivatives-10th-Progress-Report.pdf.
+163
+164
+
+Id.
+
+See part VI.B.1, supra (addressing limited information currently available to market participants
+and regulators).
+
+62
+
+authorities in accordance with their regulatory mandate, or legal responsibility or authority.
+In finalizing these rules to implement the Exchange Act data access requirement, the
+Commission has attempted to balance different goals. On the one hand, the Commission
+believes that these rules will facilitate the sharing of information held by repositories with
+relevant authorities, which should assist those authorities in acting in accordance with their
+regulatory mandate, or legal responsibility or authority. At the same time, although regulatory
+access raises important issues regarding the confidentiality of the information, the Commission
+believes that the rules should appropriately reduce the risk of breaching the confidentiality of the
+data by providing for a reasonable assurance that confidentiality will be maintained before access
+is granted.
+Additionally, we note that the magnitude of the costs and benefits of these rules depend
+in part on the type of access granted to relevant authorities. Ongoing, unrestricted direct
+electronic access by relevant authorities may be most beneficial in terms of facilitating efficient
+access to data necessary for those authorities to act in accordance with their regulatory mandate,
+or legal responsibility or authority, but at the cost of increasing the risk of improper disclosure of
+confidential information. Restricting each relevant authority’s access to only that data consistent
+with that authority’s regulatory mandate, or legal responsibility or authority, reduces the quantity
+of data that could become subject to improper disclosure. On the other hand, restricting a
+relevant authority’s access to data may make it more difficult for it to effectively act in
+accordance with its regulatory mandate or legal responsibility or authority.
+The potential economic effects stemming from the final rules can be grouped into several
+categories. In this section, we first discuss the general costs and benefits of the final rules,
+including the benefits of reducing data fragmentation, data duplication and enhancing regulatory
+
+63
+
+oversight, as well as the risks associated with potential breaches of data confidentiality. Next,
+we discuss the effects of the rules on efficiency, competition and capital formation. Finally, we
+discuss specific costs and benefits linked to the final rules.
+1.
+
+General Costs and Benefits
+
+As discussed above, the final rules would implement the statutory provisions that require
+a security-based swap data repository to disclose information to certain relevant authorities.
+Access under the final rules would be conditioned upon the authority entering into an MOU or
+other arrangement with the Commission addressing the confidentiality of the information
+provided.
+a.
+
+Benefits
+
+The final rules should facilitate access to security-based swap transaction and position
+data by entities that require such information to fulfill their regulatory mandate or legal
+responsibility or authority. Market participants accordingly should benefit from relevant
+domestic authorities other than the Commission having access to the data necessary to fulfill
+their responsibilities. In particular, such access could help promote stability in the security-based
+swap market particularly during periods of market turmoil, 165 and thus could indirectly
+contribute to improved stability in related financial markets, including equity and bond
+markets. 166
+
+165
+166
+
+See Proposing Release 80 FR 55202, note 171.
+
+See Darrell Duffie, Ada Li, and Theo Lubke, Policy Perspectives of OTC Derivatives Market
+Infrastructure, Federal Reserve Bank of New York Staff Report No. 424, dated January 2010, as revised
+March 2010 (“Transparency can have a calming influence on trading patterns at the onset of a potential
+
+64
+
+Moreover, as noted in part II.C.1, the Commission anticipates, when making a
+determination concerning a relevant authority’s access to security-based swap data, considering
+whether the relevant authority agrees to provide the Commission and other U.S. authorities with
+reciprocal assistance in matters within their jurisdiction. Allowing non-U.S. authorities access to
+security-based swap data held by registered security-based swap data repositories may be
+expected to help facilitate the Commission’s own ability to access data held by repositories
+outside the United States. 167 Accordingly, to the extent the Commission obtains such access, the
+rules further may be expected to assist the Commission in fulfilling its regulatory
+responsibilities, including by detecting market manipulation, fraud and other market abuses by
+providing the Commission with greater access to global security-based swap information. 168
+The ability of other relevant authorities to access data held in trade repositories registered
+with the Commission, as well as the ability of the Commission to access data held in repositories
+registered with other regulators, may be especially crucial during times of market turmoil.
+Increased data sharing should provide the Commission and other relevant authorities morecomplete information to monitor risk exposures taken by individual entities and exposures
+connected to particular reference entities, and should promote global stability through enhanced
+regulatory transparency. Security-based swap data repositories registered with the Commission
+
+financial crisis, and thus act as a source of market stability to a wider range of markets, including those
+for equities and bonds.”).
+167
+
+See note 133 supra, and accompanying text.
+
+168
+
+See Proposing Release 80 FR 55203, note 174.
+
+65
+
+are required to retain complete records of security-based swap transactions and maintain the
+integrity of those records. 169 Based on discussions with other regulators, the Commission
+believes repositories registered with other authorities are likely to have analogous requirements
+with respect to the data maintained at the repositories. As a result, rules and practices to
+facilitate regulatory access to those records in line with the recipient authorities’ regulatory
+mandate, or legal responsibility or authority, are designed to help position the Commission and
+other authorities to: detect market manipulation, fraud and other market abuses; monitor the
+financial responsibility and soundness of market participants; perform market surveillance and
+macroprudential supervision; resolve issues and positions after an institution fails; monitor
+compliance with relevant regulatory requirements; and respond to market turmoil. 170
+Additionally, improving the availability of data regarding the security-based swap market
+should give the Commission and other relevant authorities improved insight into how regulations
+are affecting, or may affect, the market. This may be expected to help increase regulatory
+effectiveness by allowing the Commission and other regulators to better craft regulation to
+achieve desired goals.
+In addition, the Commission believes that providing relevant foreign authorities with
+access to data maintained by repositories may help reduce costs to market participants by
+reducing the potential for duplicative security-based swap transaction reporting requirements in
+multiple jurisdictions. The Commission notes that relevant foreign authorities have imposed
+
+169
+
+See Proposing Release 80 FR 55293, note 175.
+
+170
+
+See Proposing Release 80 FR 55203, note 176.
+
+66
+
+their own reporting requirements on market participants within their jurisdictions. 171 Given the
+global nature of the security-based swap market and the large number of cross-border
+transactions, the Commission recognizes that it is likely that such transactions are or may
+become subject to the reporting requirements of at least two jurisdictions. 172 However, the
+Commission believes that if relevant authorities are able to access security-based swap data in
+trade repositories outside their jurisdiction, such as repositories registered with the Commission,
+as needed, then relevant authorities may be more inclined to permit market participants involved
+in such transactions to fulfill their reporting requirements by reporting the transactions to a single
+trade repository. 173 If market participants can satisfy their reporting requirements by reporting
+transactions to a single trade repository rather than to separate trade repositories in each
+applicable jurisdiction, their compliance costs may be reduced. Similarly, to the extent that
+security-based swap data repositories provide additional ancillary services, 174 if market
+
+171
+
+For example, EU law requires that counterparties to derivatives contracts report the details of the
+contract to a trade repository, registered or recognized in accordance with EU law, no later than the
+working day following the conclusion, modification or termination of the contract. See EMIR art. 9; see
+also EC Delegated Regulation no. 148/2013 (regulatory technical standards implementing the reporting
+requirement).
+172
+
+For example, as noted above, market data regarding single-name CDS transactions involving
+U.S.-domiciled counterparties and/or U.S.-domiciled reference entities indicates that 12 percent of such
+transactions involve two U.S.-domiciled counterparties, while 48 percent involve a U.S.-domiciled
+counterparty and a foreign-domiciled counterparty. See note 130, supra, and accompanying text.
+173
+
+For example, EU law anticipates the possibility that market participants may be able to satisfy
+their EU reporting obligations by reporting to a trade repository established in a third country, so long as
+that repository has been recognized by ESMA. See EMIR art. 77; see also Regulation SBSR, rule 908(c)
+(providing that to the extent that the Commission has issued a substituted compliance
+order/determination, compliance with Title VII regulatory reporting and public dissemination
+requirements may be satisfied by compliance with the comparable rules of a foreign jurisdiction).
+174
+
+See Proposing Release 80 FR 55204, note 181.
+
+67
+
+participants choose to make use of such services, they would likely find such services that make
+use of all of their data held in a single trade repository more useful than services that are applied
+only to a portion of that market participant’s transactions. Ancillary services applied to only a
+portion of a participant’s transactions could result if data were divided across multiple
+repositories as a result of regulations requiring participants to report data to separate trade
+repositories in each applicable jurisdiction.
+b.
+
+Costs
+
+The Commission believes that although there are benefits to security-based swap data
+repositories providing access to relevant authorities to data maintained by the repositories, such
+access will likely involve certain costs and potential risks. For example, the Commission expects
+that repositories will maintain data that are proprietary and highly sensitive 175 and that are
+subject to strict privacy requirements. 176 Extending access to such data to anyone, including
+relevant authorities, increases the risk that the confidentiality of the data maintained by
+repositories may not be preserved. 177 A relevant authority’s inability to protect the
+confidentiality of data maintained by repositories could erode market participants’ confidence in
+the integrity of the security-based swap market and increase the overall risks associated with
+
+175
+
+See SDR Adopting Release, 80 FR at 14504.
+
+176
+
+See Exchange Act section 13(n)(5)(F), 15 U.S.C. 78m(n)(5)(F) (requiring an SDR to maintain the
+privacy of security-based swap transaction information); Exchange Act rules 13n-4(b)(8) and 13n-9
+(implementing Exchange Act section 13(n)(5)(F)).
+177
+
+See Proposing Release 80 FR 55204, note 184.
+
+68
+
+trading. 178 As we discuss below, this may ultimately lead to reduced trading activity and
+liquidity in the market, hindering price discovery and impeding the capital formation process. 179
+To help mitigate these risks and potential costs to market participants, the Exchange Act
+and the final data access rules impose certain conditions on relevant authorities’ access to data
+maintained by repositories. 180 In part, the Exchange Act and these final rules limit the
+authorities that may access data maintained by a security-based swap data repository to a specific
+list of domestic authorities and other persons, including foreign authorities, determined by the
+Commission to be appropriate, 181 and further require that a repository notify the Commission
+when the repository receives an authority’s initial request for data maintained by the
+repository. 182 Restricting access to security-based swap data available to relevant authorities
+should reduce the risk of unauthorized disclosure, misappropriation or misuse of security-based
+swap data because each relevant authority will only have access to information within its
+regulatory mandate, or legal responsibility or authority.
+
+178
+
+For example, should it become generally known by market participants that a particular dealer
+had taken a large position in order to facilitate a trade by a customer and was likely to take offsetting
+positions to reduce its exposure, other market participants may seek to take positions in advance of the
+dealer attempting to take its offsetting positions.
+179
+
+See Proposing Release 80 FR 55204, note 186.
+
+180
+
+Exchange Act sections 13(n)(5)(G) and (H), 15 U.S.C. 78m(n)(5)(G) and (H); see also Exchange
+Act rules 13n-4(b)(9) (implementing Exchange Act section 13(n)(5)(G)) and 13n-4(b)(10) (implementing
+Exchange Act section 13(n)(5)(H)).
+181
+
+As discussed above in part II.C, the Commission anticipates that such determinations may be
+conditioned, in part, by specifying the scope of a relevant authority’s access to data, and may limit this
+access to reflect the relevant authority’s regulatory mandate or legal responsibility or authority.
+182
+
+See Exchange Act section 13(n)(5)(G), 15 U.S.C. 78m(n)(5)(G); Exchange Act rule 13n-4(b)(9).
+
+69
+
+The final rules further require that, before a repository shares security-based swap
+information with a relevant authority, there must be an arrangement (in the form of an MOU or
+otherwise) between the Commission and the relevant authority that addresses the confidentiality
+of the security-based swap information provided. The arrangement should reduce the likelihood
+of confidential trade or position data being inadvertently made public.
+2.
+
+Effects on Efficiency, Competition and Capital Formation
+
+The final rules described in this release are intended to facilitate access for relevant
+authorities to data stored in repositories registered with the Commission and therefore affect such
+repositories, but do not directly affect security-based swap market participants. As discussed
+below, access by relevant authorities to security-based swap data could indirectly affect market
+participants through the benefits that accrue from the relevant authorities’ improved ability to
+fulfill their regulatory mandate or legal responsibility or authority as well as the potential impact
+of disclosure of confidential data. However, because these rules will condition access to
+security-based swap data on the agreement of the relevant authorities to protect the
+confidentiality of the data, the Commission expects these rules to have little effect on the
+structure or operations of the security-based swap market. Therefore, the Commission believes
+that effects of the final rules on efficiency, competition and capital formation will be small. 183
+Nevertheless, there are some potential effects, particularly with respect to efficiency and capital
+formation, which flow from efficient collection and aggregation of security-based swap data.
+
+183
+
+See part VI.C.1.b supra for a discussion of the potential impact on capital formation of inadequate
+data confidentiality protections. The Commission believes that its approach balances the need for data
+confidentiality and the need for regulatory transparency.
+
+70
+
+We describe these effects below.
+In part VI.B of this release, the Commission describes the baseline used to evaluate the
+economic impact of the final rules, including the impact on efficiency, competition and capital
+formation. In particular, the Commission notes that the security-based swap data currently
+available from DTCC-TIW is the result of a voluntary reporting system and access to that data is
+made consistent with guidelines published by the ODRF.
+Under the voluntary reporting regime, CDS transaction data involving counterparties and
+reference entities from most jurisdictions is reported to a single entity, DTCC-TIW. DTCCTIW, using the ODRF guidelines, then allows relevant authorities, including the Commission, to
+obtain data necessary to carry out their respective authorities and responsibilities with respect to
+OTC derivatives and the regulated entities that use derivatives. 184 As various regulators
+implement reporting rules within their jurisdictions, counterparties within those jurisdictions may
+or may not continue to report to DTCC-TIW. As a result, the ability of the Commission and
+other relevant authorities to obtain the data required consistent with their regulatory mandate, or
+legal responsibility or authority, may require the ability to access data held in a trade repository
+outside of their own jurisdictions. That is, because the market is global and interconnected,
+effective regulatory monitoring of the security-based swap market may require regulators to have
+access to information on the global market, particularly during times of market turmoil. The data
+access rules should facilitate access of relevant authorities other than the Commission to
+security-based swap data held in repositories, and may indirectly facilitate Commission access to
+
+184
+
+See note 140, supra.
+
+71
+
+data held by trade repositories registered with regulators other than the Commission. To the
+extent that the final data access rules facilitate the ability of repositories to collect security-based
+swap information involving counterparties across multiple jurisdictions, there may be benefits in
+terms of efficient collection and aggregation of security-based swap data.
+To the extent that the final data access provisions increase the quantity of transaction and
+position information available to regulatory authorities about the security-based swap market, the
+ability of the Commission and other relevant authorities to respond in an appropriate and timely
+manner to market developments could enhance investor protection through improved detection,
+and facilitate the investigation of fraud and other market abuses. Moreover, as noted above, we
+do not anticipate that the final rules will directly affect market participants, and such
+enhancements in investor protections may decrease the risks and indirect costs of trading and
+could therefore encourage greater participation in the security-based swap market for a wider
+range of entities seeking to engage in a broad range of hedging and trading activities. 185 While
+increased participation is a possible outcome of the Commission’s transparency initiatives,
+including these rules, relative to the level of participation in this market if these initiatives were
+not undertaken, the Commission believes that the benefits that flow from improved detection,
+facilitating the investigation of fraud and other market abuses and more-efficient data
+aggregation are the more direct benefits of the rules.
+
+185
+
+Indirect trading costs refer to costs other than direct transaction costs. Front running costs
+described above provide an example of indirect trading costs. In the context of investor protection, the
+risk of fraud represents a cost of trading in a market with few investor protections or safeguards.
+
+72
+
+In addition, the improvement in the quantity of data available to regulatory authorities,
+including the Commission, should improve their ability to monitor concentrations of risk
+exposures and evaluate risks to financial stability and could promote the overall stability in the
+capital markets. 186
+Aside from the effects that the final data access rules may have on regulatory oversight
+and market participation, the Commission expects the rules potentially to affect how SDRs are
+structured. In particular, the data access rules could reduce the potential for SDRs to be
+established along purely jurisdictional lines. That is, effective data sharing may reduce the need
+for repositories to be established along jurisdictional lines, reducing the likelihood that a single
+security-based swap transaction must be reported to multiple swap-data repositories. As noted
+previously by the Commission, due to high fixed costs and increasing economies of scale, the
+total cost of providing trade repository services to the market for security-based swaps may be
+lower if the total number of repositories is not increased due to a regulatory environment that
+results in trade repositories being established along jurisdictional lines. 187 To the extent that the
+final rules result in fewer repositories that potentially compete across jurisdictional lines, cost
+savings realized by fewer repositories operating on a larger scale could result in reduced fees,
+with the subsequent cost to market participants to comply with reporting requirements being
+lower. At the same time, the Commission acknowledges that fewer repositories operating on a
+
+186
+
+See note 166, supra.
+
+187
+
+See Proposing Release 80 FR 55205, note 197.
+
+73
+
+larger scale could result in those repositories having the ability to take advantage of the reduced
+level of competition to charge higher prices.
+Furthermore, multiple security-based swap data repositories with duplication of reporting
+requirements for cross-border transactions increase data fragmentation and data duplication, both
+of which increase the potential for difficulties in data aggregation. To the extent that the data
+access rules facilitate the establishment of SDRs that accept transactions from multiple
+jurisdictions, there may be benefits in terms of efficient collection and aggregation of securitybased swap data. To the extent that these rules allow relevant authorities to have better access to
+the data necessary to form a more complete picture of the security-based swap market –
+including information regarding risk exposures and asset valuations – these rules should help the
+Commission and other relevant authorities perform their oversight functions in a more effective
+manner.
+However, while reducing the likelihood of having multiple SDRs established along
+jurisdictional lines would resolve many of the challenges involved in aggregating security-based
+swap data, there may be costs associated with having fewer repositories. In particular, the
+existence of multiple repositories may reduce operational risks, such as the risk that a
+catastrophic event or the failure of a repository leaves no repositories to which transactions can
+be reported, impeding the ability of the Commission and relevant authorities to obtain
+information about the security-based swap market.
+Finally, as we noted above, a relevant authority’s inability to protect the privacy of data
+maintained by repositories could erode market participants’ confidence in the integrity of the
+security-based swap market. More specifically, confidentiality breaches, including the risk that
+trading strategies may no longer be anonymous due to a breach, may increase the overall risks
+
+74
+
+associated with trading or decrease the profits realized by certain traders. Increased risks or
+decreased profits may reduce incentives to participate in the security-based swap markets which
+may lead to reduced trading activity and liquidity in the market. Depending on the extent of
+confidentiality breaches, as well as the extent to which such breaches lead to market exits,
+disclosures of confidential information could hinder price discovery and impede the capital
+formation process. 188
+3.
+
+Additional Costs and Benefits of Specific Rules
+
+Apart from the general costs and benefits associated with the structure of the Exchange
+Act data access provisions and implementing rules, certain discrete aspects of the final rules and
+related interpretation raise additional issues related to economic costs and benefits.
+a.
+
+Benefits
+i.
+
+Determination of recipient authorities
+
+The Commission is adopting an approach to determining whether an authority, other than
+those expressly identified in the Exchange Act and the implementing rules, 189 should be provided
+access to data maintained by SDRs. The Commission believes that this approach has the benefit
+of appropriately limiting relevant authorities’ access to data maintained by repositories to protect
+the confidentiality of the data. 190 The Commission expects that relevant authorities from a
+number of jurisdictions may seek to obtain a determination by the Commission that they may
+appropriately have access to repository data. Each of these jurisdictions may have a distinct
+
+188
+
+See Proposing Release 80 FR 55206, note 199.
+
+189
+
+See parts II.A-B supra for a discussion of specific authorities included in the implementing rules.
+
+190
+
+See Proposing Release 80 FR 55206, note 201.
+
+75
+
+approach to supervision, regulation or oversight of its financial markets or market participants
+and to the protection of proprietary and other confidential information. The Commission
+believes that the approach of the final rule– which among other things would consider whether
+an authority has an interest in access to security-based swap data based on the relevant
+authority’s regulatory mandate or legal responsibility or authority, whether there is an MOU or
+other arrangement between the Commission and the relevant authority that addresses the
+confidentiality of the security-based swap data provided to the authority, and whether
+information accessed by the applicable authority would be subject to robust confidentiality
+safeguards 191 – appropriately condition an authority’s ability to access data on the confidentiality
+protections the authority will afford that data. This focus further would be strengthened by the
+Commission’s ability to revoke its determination where necessary, including, for example, if a
+relevant authority fails to keep such data confidential. 192 This approach should increase market
+participants’ confidence that their confidential trade data will be protected, reducing perceived
+risks of transacting in security-based swaps.
+The Commission also believes that its approach in determining the appropriate relevant
+authorities would reduce the potential for fragmentation and duplication of security-based swap
+data among trade repositories by facilitating mutual access to the data. Narrower approaches
+such as allowing regulatory access to security-based swap data only to those entities specifically
+
+191
+
+See part II.C.1, supra.
+
+192
+
+See part II.C, supra.
+
+76
+
+identified in the Exchange Act 193 may increase fragmentation and duplication, and hence
+increase the difficulty in consolidating and interpreting security-based swap market data from
+repositories, potentially reducing the general economic benefits discussed above.
+Furthermore, the Commission believes that its approach in conditioning access to
+security-based swap data held in SDRs by requiring there to be in effect an arrangement between
+the Commission and the authority in the form of a MOU or other arrangement would promote
+the intended benefits of access by relevant authorities to data maintained by SDRs. Under this
+approach, rather than requiring regulatory authorities to negotiate confidentiality agreements
+with multiple SDRs, a single MOU or other arrangement between the Commission and the
+relevant authority can serve as the confidentiality agreement that will satisfy the requirement for
+a written agreement stating that the relevant authority will abide by the confidentiality
+requirements described in section 24 of the Exchange Act relating to the security-based swap
+data. The Commission routinely negotiates MOUs or other arrangements with relevant
+authorities to secure mutual assistance or for other purposes, and the Commission believes that
+this approach is generally consistent with existing practice.
+The Commission further believes that negotiating a single such agreement with the
+Commission will be less costly for the authority requesting data than negotiating directly with
+each registered SDR. This approach is intended to eliminate the need for each SDR to negotiate
+as many as 300 confidentiality agreements with requesting authorities. This approach would also
+avoid the difficulties that may be expected to accompany an approach that requires SDRs to
+
+193
+
+See Exchange Act section 3(a)(74), 15 U.S.C. 78c(a)(74).
+
+77
+
+enter into confidentiality agreements – particularly questions regarding the parameters of an
+adequate confidentiality agreement, and the presence of uneven and potentially inconsistent
+confidentiality protections across SDRs and recipient entities.
+ii.
+
+Notification requirement
+
+The Commission is adopting an approach by which an SDR may satisfy the notification
+requirement by notifying the Commission upon the initial request for security-based swap data
+by a relevant authority and maintaining records of the initial request and all subsequent
+requests. 194 The Commission estimates that approximately 300 relevant authorities may make
+requests for data from security-based swap data repositories. 195 Based on the Commission’s
+experience in making requests for security-based swap data from trade repositories, the
+Commission estimates that each relevant authority will access security-based swap data held in
+SDRs using electronic access. Such access may be to satisfy a narrow request concerning a
+specific counterparty or reference entity or security, to create a summary statistic of trading
+activity or outstanding notional or to satisfy a large request for detailed transaction and position
+
+194
+195
+
+See Exchange Act rule 13n-4(d).
+
+See Exchange Act rules 13n-4(b)(9)(i)-(v) for a list of prudential regulators that may request data
+maintained by SDRs from SDRs. The Exchange Act also states that FSOC, the CFTC and the
+Department of Justice may access security-based swap data. See parts II.B.1, 2, supra. The rules further
+state that the OFR may access security-based swap data. See parts II.B.1,2, supra. The Commission also
+expects that certain self-regulatory organizations and registered futures associations may request securitybased swap data from repositories. Therefore, the Commission estimates that up to approximately 30
+relevant authorities in the United States may seek to access security-based swap data from repositories.
+The Commission believes that most requests will come from authorities in G20 countries, and estimates
+that each of the G20 countries will also have no more and likely fewer than 30 relevant authorities that
+may request data from SDRs. Certain authorities from outside the G20 also may request data.
+Accounting for all of those entities, the Commission estimates that there will likely be a total of no more
+than 300 relevant domestic and foreign authorities that may request security-based swap data from
+repositories.
+
+78
+
+data. Requests may occur as seldom as once per month if the relevant authority is downloading
+all data to which it has access in order to analyze it on its own systems, or may occur 100 or
+more times per month if multiple staff of the relevant authority are making specific electronic
+requests concerning particular counterparties or reference entities and associated positions or
+transactions. Therefore, under the Commission’s approach to notification requirement
+compliance, the Commission estimates based on staff experience that each repository would
+provide the Commission with actual notice as many as 300 times, and that repositories
+cumulatively would maintain records of as many as 360,000 subsequent data requests per
+year. 196 The final rule is expected to permit repositories to respond to requests for data by
+relevant authorities more promptly and at lower cost than if notification was required for each
+request for data access, while helping to preserve the Commission’s ability to monitor whether
+the repository provides data to each relevant entity consistent with the applicable conditions.
+The Commission’s final rule also is designed to simplify a relevant authority’s direct
+access to security-based swap data needed in connection with its regulatory mandate or legal
+responsibility or authority, because a repository would not be required to provide the
+Commission with actual notice of every request prior to providing access to the requesting
+relevant authority.
+
+196
+
+The annual estimate of 360,000 is calculated based on 300 recipient entities each making 100
+requests per month cumulatively across all repositories. The estimate of 100 requests per authority is
+based on staff experience with similar data requests in other contexts.
+
+79
+
+iii.
+
+Use of confidentiality agreements between the Commission and recipient
+authorities
+
+The final rules in part would condition regulatory access on there being an arrangement
+between the Commission and the recipient entity, in the form of an MOU or otherwise,
+addressing the confidentiality of the security-based swap information made available to the
+recipient. These rules add that those arrangements shall be deemed to satisfy the statutory
+requirement for a written confidentiality agreement. 197
+As discussed above, the Commission believes that this approach reflects an appropriate
+way to satisfy the interests associated with the confidentiality condition. The benefits associated
+with this approach include obviating the need for repositories to negotiate and enter into multiple
+confidentiality agreements, avoiding difficulties regarding the parameters of an adequate
+confidentiality agreement, and avoiding uneven and potentially inconsistent confidentiality
+protections. This approach also would build upon the Commission’s experience in negotiating
+such agreements. 198
+b.
+
+Costs
+
+The Commission recognizes that its approach to providing access to relevant authorities
+other than the Commission to security-based swap data held in repositories has the potential to
+involve certain costs and risks.
+The relevant authorities requesting security-based swap data would incur some costs in
+seeking a Commission order deeming the authority appropriate to receive security-based swap
+
+197
+
+See Exchange Act rule 13n-4(b)(10).
+
+198
+
+See part II.F, supra.
+
+80
+
+data. These costs would include the negotiation of an MOU or other arrangement to address the
+confidentiality of the security-based swap information it seeks to obtain and providing
+information to justify that the security-based swap data relates to the entity’s regulatory mandate
+or legal responsibility or authority. As discussed above, the Commission estimates that up to
+300 entities potentially might enter into such MOUs or other arrangements. 199 Based on the
+Commission staff’s experience in negotiating MOUs that address regulatory cooperation, the
+Commission estimates the cost to each relevant authority requesting data associated with
+negotiating such an arrangement of approximately $208,300 per entity for a total of
+$62,490,000. 200
+In addition, authorities that are not specified by the final rule may request that the
+Commission determine them to be appropriate to receive access to such security-based swap
+data. Given the relevant information that the Commission would consider in connection with
+such designations (apart from the MOU issues addressed above) – including information
+regarding how the authority would be expected to use the information, information regarding the
+authority’s regulatory mandate or legal responsibility or authority, and information regarding
+
+199
+200
+
+See part VI.C.3.a.ii, supra.
+
+These figures are based on 300 entities each requiring 500 personnel hours on average to
+negotiate an MOU or other arrangement. See part V.D.1.a, supra. The cost per entity is 400 hours x
+attorney at $386 per hour + 100 hours x deputy general counsel at $539 per hour = $208,300, or a total of
+$62,490,000. We use salary figures from SIFMA’s Management & Professional Earnings in the
+Securities Industry 2013, modified by Commission staff to account for an 1800-hour year-week,
+multiplied by 5.35 to account for bonuses, firm size, employee benefits and overhead, and adjusted for
+inflation using the Consumer Price Index (CPI).
+
+81
+
+reciprocal assistance – the Commission estimates the cost associated with such a request to be
+approximately $15,440 per requesting entity for a total of $4,632,000. 201
+Security-based swap data repositories would incur some costs to verify that an entity
+requesting data entered into the requisite agreements concerning confidentiality with the
+Commission. The Commission generally expects that such verification costs would be minimal
+because information regarding such Commission arrangements would generally be readily
+available. 202
+To the extent that the security-based swap data repository provides the requested data
+through direct electronic means, the repository may incur some cost in providing the requesting
+authority access to the system that provides such access and setting data permissions to allow
+access only to the information that relates to the authority’s regulatory mandate, or legal
+responsibility or authority. The Commission believes most of the costs associated with
+providing such access would be the fixed costs incurred in designing and building the systems to
+provide the direct electronic access required by rules the Commission adopted last year to
+address the registration process, duties and core principles applicable to security-based swap data
+
+201
+
+These figures are based on roughly 300 entities (noting that certain entities designated by statute
+or rule would not need to prepare such requests) requiring 40 personnel hours to prepare a request for
+access. See part V.D.1.b, supra. The cost per entity is 40 hours x attorney at $386 per hour = $15,440, or
+a total of $4,632,000. We use salary figures from SIFMA’s Management & Professional Earnings in the
+Securities Industry 2013, modified by Commission staff to account for an 1800-hour year-week,
+multiplied by 5.35 to account for bonuses, firm size, employee benefits and overhead, and adjusted for
+inflation using the Consumer Price Index (CPI).
+202
+
+The Commission provides a list of MOUs and most other arrangements on its public website,
+which are available at: http://www.sec.gov/about/offices/oia/oia_cooparrangements.shtml.
+
+82
+
+repositories. 203 The Commission believes the marginal cost of providing access to an additional
+relevant authority and setting the associated permissions is approximately $6,406. 204 Based on
+an estimated 300 entities requesting access to each of ten registered SDRs, we estimate the total
+cost of connecting entities to SDRs to be approximately $19,218,000.
+In addition, under the Commission’s notification compliance rule, SDRs would be
+required to notify the Commission of the initial request for data but would not have to inform the
+Commission of all relevant authorities’ requests for data prior to a SDR fulfilling such requests.
+Based on the estimate that approximately 300 relevant authorities may make requests for data
+from security-based swap data repositories, the Commission estimates that a repository would
+provide the Commission with actual notice approximately 300 times. 205 Moreover, based on the
+estimate that ten persons may register with the Commission as SDRs,206 this suggests that
+repositories in the aggregate would provide the Commission with actual notice up to a total of
+
+203
+
+See Proposing Release, 80 FR at 55208, n. 222.
+
+204
+
+This figure is based on the view that, for each recipient requesting data, a repository would incur
+a 25-hour burden associated with programming or otherwise inputting the relevant parameters,
+encompassing 20 hours of programmer analyst time and five hours of senior programmer time. The
+estimate also encompasses one hour of attorney time in connection with each such recipient. See part
+V.D.1.c, supra. The cost per entity is 20 hours x programmer analyst at $224 per hour + 5 hours x senior
+programmer at $308 per hour + 1 hour x attorney at $386 per hour = $6,406. We use salary figures from
+SIFMA’s Management & Professional Earnings in the Securities Industry 2013, modified by Commission
+staff to account for an 1800-hour year-week, multiplied by 5.35 to account for bonuses, firm size,
+employee benefits and overhead, and adjusted for inflation using the Consumer Price Index (CPI).
+205
+
+See part VI.C.3.a.ii, supra.
+
+206
+
+See note 105, supra, and accompanying text.
+
+83
+
+3,000 times. The Commission estimates that the total cost of providing such notice to be
+$57,900 per SDR for a total of $579,000 for all SDRs. 207
+Pursuant to the rule, SDRs would be required to maintain records of subsequent
+requests. 208 Not receiving actual notice of all requests may impact the Commission’s ability to
+track such requests, but the Commission believes that the benefits of receiving actual notice of
+each request would not justify the additional costs that repositories would incur in providing such
+notices and the potential delay in relevant authorities receiving data that they need to fulfill their
+regulatory mandate, or legal responsibility or authority. At the same time, providing notice of
+initial requests will help to preserve the Commission’s ability to monitor whether the repository
+provides data to each relevant entity consistent with the applicable conditions. As discussed
+above, the Commission estimates that the average initial paperwork burden associated with
+maintaining certain records related to data requests or access would be roughly 360 hours, and
+that the annualized burden would be roughly 280 hours and $121,000 for each repository. 209
+Assuming a maximum of ten security-based swap data repositories, the estimated aggregate one-
+
+207
+
+These figures are based each of ten SDRs providing notice for each of 300 requesting entities.
+See part V.D.1.d, supra. The cost per SDR is 300 requesting entities x 0.5 hours x attorney at $386 per
+hour = $57,900, or a total of $579,000. We use salary figures from SIFMA’s Management &
+Professional Earnings in the Securities Industry 2013, modified by Commission staff to account for an
+1800-hour year-week, multiplied by 5.35 to account for bonuses, firm size, employee benefits and
+overhead, and adjusted for inflation using the Consumer Price Index (CPI).
+208
+
+See part V.D.1.d, supra. As noted above, existing rules require SDRs to maintain copies of all
+documents they make or receive in their course of business, including electronic documents. See note 75,
+supra.
+209
+
+See part V.D.1.d, supra.
+
+84
+
+time dollar cost would be roughly $1 million, 210 and the estimated aggregate annualized dollar
+cost would be roughly $1.21 million.211
+D.
+
+Alternatives
+The Commission considered a number of alternative approaches to implementing the
+
+Exchange Act data access provisions, but, for the reasons discussed below, is not adopting any of
+them.
+1.
+
+Use of confidentiality arrangements directly between repositories and recipients
+
+The Commission considered the alternative approach of permitting confidentiality
+agreement between an SDR and the recipient of the information to satisfy the confidentiality
+condition to the data access requirement. The Commission believes, however, that the approach
+taken in the final rules, which would instead make use of confidentiality arrangements between
+the Commission and the recipients of the data, would avoid difficulties such as questions
+regarding the parameters of the confidentiality agreement, and the presence of uneven and
+inconsistent confidentiality protections. 212 This also would avoid the need for SDRs to negotiate
+and potentially enter into hundreds of confidentiality agreements, as under the adopted approach
+such costs will be borne by the Commission.
+210
+
+The Commission anticipates that a repository would assign the associated responsibilities
+primarily to a compliance manager and a senior systems analyst. The total estimated dollar cost would be
+roughly $102,240 per repository, reflecting the cost of a compliance manager at $288 per hour for 300
+hours, and a senior systems analyst at $264 per hour for 60 hours. Across the estimated ten repositories,
+this equals $1,022,400.
+211
+
+The Commission anticipates that a repository would assign the associated responsibilities
+primarily to a compliance manager. The total estimated dollar cost would be roughly $121,000 per
+repository, reflecting $40,000 annualized information technology costs, as well as a compliance manager
+at $288 per hour for 280 hours. Across the estimated ten repositories, this equals $1.21 million.
+212
+
+See part II.A, supra.
+
+85
+
+2.
+
+Notice of individual requests for data access
+
+Finally, the Commission considered requiring repositories to provide notice to the
+Commission of all requests for data prior to repositories fulfilling such requests, rather than the
+approach of requiring such notice only of the first request from a particular recipient, with the
+repository maintaining records of all subsequent requests. 213 The Commission believes that the
+benefits of receiving actual notice for each request would not justify the additional costs that
+would be imposed on repositories to provide such notice, and providing notice of subsequent
+requests might not be feasible if data is provided by direct electronic access.
+VII.
+
+Regulatory Flexibility Act Certification
+Section 3(a) of the Regulatory Flexibility Act of 1980 (“RFA”) 214 requires Federal
+
+agencies, in promulgating rules, to consider the impact of those rules on small entities. The
+Commission certified in the proposing release, pursuant to Section 605(b) of the RFA, 215 that the
+proposed rule would not, if adopted, have a significant economic impact on a substantial number
+of “small entities.” The Commission received no comments on this certification.
+For purposes of Commission rulemaking in connection with the RFA, a small entity
+includes: (1) when used with reference to an “issuer” or a “person,” other than an investment
+company, an “issuer” or “person” that, on the last day of its most recent fiscal year, had total
+assets of $5 million or less; 216 or (2) a broker-dealer with total capital (net worth plus
+
+213
+
+See part II.D, supra.
+
+214
+
+5 U.S.C. 603(a).
+
+215
+
+5 U.S.C. 605(b).
+
+216
+
+See 17 CFR 240.0-10(a).
+
+86
+
+subordinated liabilities) of less than $500,000 on the date in the prior fiscal year as of which its
+audited financial statements were prepared pursuant to Rule 17a-5(d) under the Exchange Act, 217
+or, if not required to file such statements, a broker-dealer with total capital (net worth plus
+subordinated liabilities) of less than $500,000 on the last day of the preceding fiscal year (or in
+the time that it has been in business, if shorter); and is not affiliated with any person (other than a
+natural person) that is not a small business or small organization. 218
+In initially proposing rules regarding the registration process, duties and core principles
+applicable to SDRs, the Commission stated that it preliminarily did not believe that any persons
+that would register as repositories would be considered small entities. 219 The Commission
+further stated that it preliminarily believed that most, if not all, SDRs would be part of large
+business entities with assets in excess of $5 million and total capital in excess of $500,000, and,
+as a result, the Commission certified that the proposed rules would not have a significant impact
+on a substantial number of small entities and requested comments on this certification. 220 The
+
+217
+
+17 CFR 240.17a-5(d).
+
+218
+
+See 17 CFR 240.0-10(c).
+
+For purposes of the Regulatory Flexibility Act, the definition of “small entity” also encompasses
+“small governmental jurisdictions,” which in relevant part means governments of locales with a
+population of less than fifty thousand. 5 U.S.C. 601(5), (6). Although the Commission anticipates that
+these final rules may be expected to have an economic impact on various governmental entities that
+access data pursuant to Dodd-Frank’s data access provisions, the Commission does not anticipate that any
+of those governmental entities will be small entities.
+219
+220
+
+See 75 FR at 77365.
+
+See id. (basing the conclusions on review of public sources of financial information about the
+current repositories that are providing services in the OTC derivatives market).
+
+87
+
+Commission reiterated that conclusion in adopting final rules generally addressing repository
+registration, duties and core principles. 221
+In the Proposing Release for these rule amendments, the Commission stated that it
+continued to hold the view that any persons that would register as SDRs would not be considered
+small entities. The Commission accordingly certified that the proposed rules would not have a
+significant economic impact on a substantial number of small entities for purposes of the
+RFA. 222
+We continue to believe that the entities that will register as SDRs will not be small
+entities. Accordingly, the Commission certifies that the final rules will not have a significant
+economic impact on a substantial number of small entities for purposes of the RFA.
+Statutory Basis and Text of Final Rules
+Pursuant to the Exchange Act, and particularly sections 3(b), 13(n), and 23(a) thereof, 15
+U.S.C. 78c(b), 78m(n), and 78w(a), and section 752(a) of the Dodd-Frank Act, 15 U.S.C 8325,
+the Commission is adopting amendments to rule 13n-4 under the Exchange Act by adding
+paragraphs (b)(9), (b)(10), and (d) to that rule.
+List of Subjects in 17 CFR Part 240
+Confidential business information, Reporting and recordkeeping requirements, Securities.
+
+221
+
+See SDR Adopting Release, 80 FR at 14549 (noting that the Commission did not receive any
+comments that specifically addressed whether the applicable rules would have a significant economic
+impact on small entities).
+222
+
+See Proposing Release, 80 FR at 55210.
+
+88
+
+Text of Final Rules
+For the reasons stated in the preamble, the Commission is amending Title 17, Chapter II,
+of the Code of Federal Regulations as follows:
+PART 240—GENERAL RULES AND REGULATIONS, SECURITIES EXCHANGE
+ACT OF 1934
+1.
+
+The authority citation for Part 240 continues to read, in part, as follows:
+
+Authority: 15 U.S.C. 77c, 77d, 77g, 77j, 77s, 77z-2, 77z-3, 77eee, 77ggg, 77nnn, 77sss, 77ttt,
+78c, 78c-3, 78c-5, 78d, 78e, 78f, 78g, 78i, 78j, 78j-1, 78k, 78k-1, 78l, 78m, 78n, 78n-1, 78o, 78o4, 78o-10, 78p, 78q, 78q-1, 78s, 78u-5, 78w, 78x, 78ll, 78mm, 80a-20, 80a-23, 80a-29, 80a-37,
+80b-3, 80b-4, 80b-11, 7201 et seq., and 8302; 7 U.S.C. 2(c)(2)(E); 12 U.S.C. 5221(e)(3); 18
+U.S.C. 1350; Pub. L. 111-203, 939A, 124 Stat. 1376 (2010); and Pub. L. 112-106, sec. 503 and
+602, 126 Stat. 326 (2012), unless otherwise noted.
+*
+
+*
+
+*
+
+*
+
+*
+
+2.
+
+Amend § 240.13n-4 by revising paragraph (b)(8) to remove the “and” after the
+
+semicolon and adding paragraphs (b)(9), (b)(10), and (d) to read as follows:
+§ 240.13n–4 Duties and core principles of security-based swap data repository.
+*
+
+*
+
+*
+
+*
+
+*
+
+(b) Duties. * * *
+(9) On a confidential basis, pursuant to section 24 of the Act (15 U.S.C. 78x), upon
+request, and after notifying the Commission of the request in a manner consistent with paragraph
+(d) of this section, make available security-based swap data obtained by the security-based swap
+data repository, including individual counterparty trade and position data, to the following:
+
+89
+
+(i) The Board of Governors of the Federal Reserve System and any Federal Reserve
+Bank;
+(ii) The Office of the Comptroller of the Currency;
+(iii) The Federal Deposit Insurance Corporation;
+(iv) The Farm Credit Administration;
+(v) The Federal Housing Finance Agency;
+(vi) The Financial Stability Oversight Council;
+(vii) The Commodity Futures Trading Commission;
+(viii) The Department of Justice;
+(ix) The Office of Financial Research;
+and
+(x) Any other person that the Commission determines to be appropriate, conditionally or
+unconditionally, by order, including, but not limited to –
+(A) Foreign financial supervisors (including foreign futures authorities);
+(B) Foreign central banks;
+(C) Foreign ministries; and
+(D) Other foreign authorities;
+(10) Before sharing information with any entity described in paragraph (b)(9) of this
+section, there shall be in effect an arrangement between the Commission and the entity (in the
+form of a memorandum of understanding or otherwise) to address the confidentiality of the
+security-based swap information made available to the entity; this arrangement shall be deemed
+to satisfy the requirement, set forth in section 13(n)(5)(H) of the Act (15 U.S.C. 78m(n)(5)(H)),
+that the security-based swap data repository receive a written agreement from the entity stating
+
+90
+
+that the entity shall abide by the confidentiality requirements described in section 24 of the Act
+(15 U.S.C. 78x) relating to the information on security-based swap transactions that is provided;
+and
+*
+
+*
+
+*
+
+*
+
+*
+
+(d) Notification requirement compliance. To satisfy the notification requirement of the
+data access provisions of paragraph (b)(9) of this section, a security-based swap data repository
+shall inform the Commission upon its receipt of the first request for security-based swap data
+from a particular entity (which may include any request to be provided ongoing online or
+electronic access to the data), and the repository shall maintain records of all information related
+to the initial and all subsequent requests for data access from that entity, including records of all
+instances of online or electronic access, and records of all data provided in connection with such
+requests or access.
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+Date: August 29, 2016
+
+

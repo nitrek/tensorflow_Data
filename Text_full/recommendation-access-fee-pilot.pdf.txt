@@ -1,0 +1,233 @@
+U.S. Securities and Exchange Commission
+Equity Market Structure Advisory Committee
+Recommendation for an Access Fee Pilot
+July 8, 2016
+RECOMMENDATION
+The Equity Market Structure Advisory Committee (“Committee”) recommends that the
+Commission propose a pilot program to adjust the access fee cap under Rule 610. The suggested
+framework for the pilot is described below, as well as a background discussion and areas
+suggested for public comment.
+The Regulation NMS Subcommittee (“Subcommittee”) generated this recommendation after:
+• Multiple meetings of the Subcommittee, the minutes of which have all been posted to the
+SEC’s website.
+• The participation of additional outside experts in these meetings in order to broaden the
+composition of constituents involved in the discussion. The Subcommittee itself included
+an Exchange executive, buy-side participants, sell-side representatives, an individual
+investor representative and an academic. The additional outside participants included:
+o A representative from an online retail firm;
+o An additional academic;
+o An executive from a proprietary trading firm;
+o Brief participation from an individual involved with listed companies. It is also
+worth noting that several of the Subcommittee members are employees of and/or
+interact with listed companies in their current functions, while other
+Subcommittee members have dealt with listed companies in former positions. It
+is also worth noting that NYSE and Nasdaq were requested to participate in our
+discussions in order to share their views as listing exchanges, but declined
+multiple invitations.
+• Incorporating the full EMSAC Committee and panel deliberations during the public
+EMSAC meetings, most notably the April 26, 2016 meeting, including the participation
+of NYSE and Nasdaq.
+The intent of the proposed pilot is to better understand, within the context of our current market
+structure, the effect of access fees on liquidity provision, liquidity taking and order routing with
+the ultimate goal of improving market quality. The Committee does not believe that there are
+any certain or predetermined outcomes from the pilot, and the net effect of many
+counterbalancing factors are not believed to be significantly beneficial or detrimental to any
+single group. Ultimately, the findings from the pilot are purely intended to inform the broader
+debate on how to improve market quality for issuers, investors and market participants.
+
+1
+
+PILOT FRAMEWORK
+1. Access fee caps for all quotations covered under SEC Rule 610(c) for a select number of
+symbols, divided into the following buckets:
+a. Bucket 1 - Control bucket
+b. Bucket 2 - $.0020 access fee cap
+c. Bucket 3 - $.0010 access fee cap
+d. Bucket 4 - $.0002 access fee cap*
+2. Random sample of 100 (total) common stocks and ETFs within each bucket
+a. Each issue with an individual market capitalization >$3 billion.
+b. Stratified random sampling for both the common stock and ETF selections based
+on market capitalization, share price, and trading volume.
+c. We further suggest that the pilot should begin with a more limited set of 10 stocks
+for an initial three-month measurement period and then expand to the full set of
+pilot stocks.
+3. Two-year pilot program.
+4. Consistent with the current structure of Rule 610, applied to protected quotations and not
+depth of book quotations.
+5. Consistent with the current structure of Rule 610, does not cover inverted venues.*
+6. Consistent with the current structure of Rule 610, no direct application to ATSs.*
+* see Items Suggested for Public Comment below
+MEASUREMENT CRITERIA
+• General intent is to attempt to:
+o Measure the impact of lower access fees on liquidly provisioning - bid/ask
+spreads, market depth, order routing behaviors, ratio of hidden liquidity vs.
+displayed liquidity on the exchanges, quoting behavior;
+o Measure the impact of lower access fees on liquidity taking - ratio of on vs. off
+exchange trading, order routing behaviors, price impact, slippage/realized spread,
+trade volume.
+• Suggested measurement criteria:
+• Quoted Spreads
+• Effective Spreads
+• Realized Spreads
+• Displayed liquidity – changes at the inside, depth at 3, 5, 10 cents beyond the NBBO
+• Volatility – stock-level changes; number of price changes at the NBBO
+• Hidden liquidity – off-exchange market share; mid-point exchange executions and
+exchange dark liquidity
+• Changes in trading volume
+• Behavioral routing changes as evidenced by:
+o Market share shifts among trading venues
+o On- vs. off-exchange trading levels
+o ATS vs. broker internalization levels
+• Changes in the levels of Price improvement in the marketplace
+• Percentage of time the market is locked/crossed
+2
+
+•
+•
+•
+•
+•
+•
+
+Slippage and price impact
+Retail and institutional commission pricing
+Shifts among Exchange order type usage
+Significant behavioral changes in pricing from ATSs and/or Exchange reserve
+quantities
+Ongoing monitoring to potentially terminate the program early should there be significant
+deterioration in any of the measurement criteria. The Committee would additionally
+suggest periodic (every six-months) reporting of data.
+Given that the pilot does not prohibit rebates nor apply to inverted venues (see discussion
+in Items Suggested for Public Comment), the Committee would suggest monitoring to
+ensure that marketplace behavior does not evolve in a way that potentially negates the
+output of the pilot, e.g.:
+a. Monitoring for material order flow migration to inverted venues/ATSs;
+b. Potentially institute a moratorium on new inverted pricing schemes.
+
+ADDITIONAL DETAIL
+• Justification for Why a Pilot Should be Conducted
+• “Maker-taker” is one of the more debated aspects of current market structure. The
+Regulation NMS adopting release acknowledged that “[p]erhaps more than any other
+single issue, the proposed limitation on access fees splintered the commenters.” 1
+• Regulation NMS Rule 610 limited the fees that any trading center can charge (or can
+allow to be charged) for accessing its protected quotations to no more than $0.003 per
+share. 2
+• Given the complex ecosystem of our marketplace, definitive conclusions on access
+fee modifications are difficult to draw without an actual implementation. In addition,
+market characteristics, such as effective spreads, have declined since the cap was set.
+• Limited experiments, such as the recent Nasdaq pilot, have shown that individual
+market experiments do not yield conclusive results about the potential impact of
+market-wide policy reform on access fees.
+• The access fee cap of $0.003 effectively sets a ceiling for rebates. In the nine years
+since the cap went into effect, there are and have been multiple exchange pricing
+models along the spectrum up to the access fee cap, including inverted exchanges
+where rebates are paid to those accessing quotes. However, the largest exchanges in
+terms of volume are those that charge access fees at or near the cap and, hence, pay
+the highest rebates to attract displayed liquidity.
+• While reducing market complexity is difficult to outline and justify as a primary pilot
+goal, there is a case to be made that rules such as the access fee cap create structural
+complexity (such as fragmentation, order types, etc.) for which the tangible
+cost/benefit is difficult to measure. A pilot will potentially help measure the dynamic
+between Rule 610 and complexity.
+• A pilot would study, and hopefully help to answer, the following questions:
+o The relationship among access fees, liquidity provision and market quality;
+1
+2
+
+SEC Regulation NMS adopting release, pp.27-28 (https://www.sec.gov/rules/final/34-51808.pdf)
+SEC Regulation NMS adopting release, p.27 (link above)
+
+3
+
+o The relationship between access fees, rebates, and order routing practices;
+o The potential impact of access fee dynamics on the price discovery process.
+•
+
+Regarding Pilot Framework Item 2:
+a. The Committee understand the addressable universe of U.S. common stocks and
+ETFs with market capitalizations >$3b to be approximately 970 (and
+approximately 1,250 with the inclusion of ADRs, REITs, companies incorporated
+outside the US and limited partnerships). The Committee believes the selection
+of 100 names per bucket (300 in total) appropriately balances the desire to
+achieve an adequate sample size and stratification, without over-inclusion within
+the pilot.
+b. Access fees are more meaningful in larger-capitalization stocks, supporting the
+$3b market cap cutoff; in addition this level will limit overlap with the “tick pilot”
+that is currently in development.
+
+•
+
+Regarding Pilot Framework Item 4 - Rule 610 does not apply to non-displayed
+liquidity on Exchanges, and current industry fee schedules do not distinguish between
+displayed and non-displayed liquidity. While the Committee is concerned that the lower
+access fee caps could create a theoretical incentive for distinct higher rebates on nondisplayed Exchange liquidity, this was outweighed by the desire to not introduce
+additional rulemaking beyond an adjustment to the access fee cap. As such, we are not
+incorporating application of the access fee cap to non-displayed Exchange liquidity, but
+encourage the SEC to not allow any rule filings that would look to exploit this differential
+and disrupt the pilot by introducing a change in the current market structure which could
+impact data interpretation.
+
+ITEMS SUGGESTED FOR PUBLIC COMMENT
+1. Regarding Pilot Framework Item 1.d. - The Committee intentionally selected $.0002
+as the rate in Bucket 4 in order to create a bucket where any rebate should result in a de
+minimis economic incentive. The Committee also discussed whether this bucket should
+in fact be a no-rebate bucket in order to more clearly measure behavior in the absence of
+inducements to trade. However, the Committee does not suggest a no-rebate bucket in
+the pilot for several reasons:
+a. Capping inducements is currently not an existing component of our market
+structure, and the Committee worries about the complicating impacts of
+introducing such a restriction on the effectiveness of the pilot.
+b. Exchange rebates are only one of several examples of inducements to trade (e.g.,
+payment for order flow, soft dollars, rebates to liquidity takers on inverted
+exchanges (see below), clearing arrangements, etc.).
+c. As such, while the Committee would encourage the SEC to consider a separate
+potential study and/or pilot around the role of inducements in trading, we do not
+believe the access fee pilot is the place to do so.
+d. Given that these considerations also span the other EMSAC Subcommittees, this
+topic may also warrant a specific EMSAC recommendation in the future.
+
+4
+
+e. We would encourage additional public comment on this conclusion.
+2. Regarding Pilot Framework Item 5 - The Committee does not propose extending the
+jurisdiction of Rule 610 to include fees for providing liquidity (or rebates for taking
+liquidity) on inverted exchanges in the pilot program in order to remain consistent with
+the market structure that is currently in place, and along the same lines as the logic
+highlighted above.
+a. The Committee would encourage additional public comment on this conclusion.
+3. Regarding Pilot Framework Item 6 – The Committee is endeavoring to create as broad
+and inclusive of a pilot as possible, and is sensitive to not inadvertently create an unlevel
+playing field for exchanges vs. ATSs. However, the Committee does not believe that
+extending the application of Rule 610 to ATSs would be a beneficial part of the pilot
+given that (i) such limitation does not apply today, (ii) ATSs are not afforded a protected
+quote, and (iii) ATS transaction fees generally take the form of an institutional
+commission. The Committee would, however, encourage this to be a specific point for
+public comment.
+4. Options - The Committee believes no specific implications arise with respect to Options
+markets, but this warrants further consideration and confirmation.
+5. Trade-At – The Committee does not agree with an inclusion of Trade-At in this pilot for
+the following reasons, but would encourage additional public comment:
+a. The access fee pilot is being proposed to determine, in part, if a trade-at provision
+is needed. Many in the market believe that a motivation for ATS activity is
+economic, i.e., take fees are too high, and an access fee pilot will help answer that
+question. Trade-at will predetermine an outcome of forcing flow back onto
+Exchanges that will be independent of the changes to access fees, thus impacting
+the measurement criteria for the pilot.
+b. The purpose of this pilot is to generate data to see the impact on market quality
+when the cap is changed. It is the Committee's opinion that, while many issues
+are intertwined, trade-at would address different market structure questions, such
+as segmentation. In addition, the likely shift of flows as a result of trade-at would
+both make the pilot more complex and impact effective measurement of the
+access fee change.
+c. The Committee believes an access fee pilot is relatively simple to implement and
+conduct, and should be kept that way without introducing significant additional
+complications.
+d. The tick pilot will yield trade-at results that can be further studied; thus
+duplication is not warranted.
+6. ETFs – Pursuant to the July 8, 2016 full EMSAC meeting, the Committee is
+recommending the inclusion of ETFs in the pilot. The Committee would encourage
+additional public comment on this point.
+
+5
+
+

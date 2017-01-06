@@ -1,0 +1,234 @@
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Part 232
+[Release Nos. 33-10217; 34-78883; 39-2512; IC-32269]
+Adoption of Updated EDGAR Filer Manual
+AGENCY:
+
+Securities and Exchange Commission.
+
+ACTION:
+
+Final rule.
+
+SUMMARY: The Securities and Exchange Commission (the Commission) is adopting revisions
+to the Electronic Data Gathering, Analysis, and Retrieval System (EDGAR) Filer Manual and
+related rules to reflect updates to the EDGAR system. The updates are being made primarily to
+support the new submission form types N-MFP2 and N-MFP2/A for money market mutual funds;
+allow unregistered money market fund to file a report on submission form types N-CR and NCR/A; update the date format for ABS-EE Asset Data schemas from MM/YYYY to MM-DDYYYY for CMBS Asset Class: Item 2(c) (12), and Debt Securities Asset Class: Debt Securities,
+Item 5(f)(3); update the codes and descriptions referencing CMSA to reference CREFC for CMBS
+Asset Class Item 2(d)(28)(xii) and CMBS Asset Class Item 2(d)(28)(xiii); allow a Large Trader
+whose most recent Form 13H submission was a Form 13H-I (Inactive) to submit a Form 13H-T
+(Termination) regardless of elapsed time; and make documentation updates to Chapter 5 and
+Chapter 6 of the “EDGAR Filer Manual, Volume II: EDGAR Filing” relating to eXtensible
+Business Reporting Language (XBRL) format. The EDGAR system was upgraded to support the
+new submission form types N-MFP2 and N-MFP2/A for money market mutual funds on August
+29, 2016. The EDGAR system is scheduled to be upgraded to support the other functionalities on
+September 19, 2016.
+
+DATES: Effective [Insert date of publication in the Federal Register.] The incorporation by
+reference of the EDGAR Filer Manual is approved by the Director of the Federal Register as of
+[Insert date of publication in the Federal Register].
+FOR FURTHER INFORMATION CONTACT: In the Division of Investment Management,
+for questions concerning Form N-MFP2 and Form N-CR, contact Heather Fernandez at (202) 5516708; in the Division of Corporate Finance, for questions concerning Form ABS-EE, contact Vik
+Sheth at (202) 551-3818; in the Division of Trading and Markets, for questions concerning Form
+13H, contact Kathy Bateman at (202) 551-4345; and in the Division of Economic and Risk
+Analysis, for questions concerning eXtensible Business Reporting Language (XBRL)
+disseminations; contact Walter Hamscher at (202) 551-5397.
+SUPPLEMENTARY INFORMATION: We are adopting an updated EDGAR Filer Manual,
+Volume II. The Filer Manual describes the technical formatting requirements for the preparation
+and submission of electronic filings through the EDGAR system. 1 It also describes the
+requirements for filing using EDGARLink Online and the Online Forms/XML Website.
+The revisions to the Filer Manual reflect changes within Volume II entitled EDGAR Filer
+Manual, Volume II: “EDGAR Filing,” Version 38 ( September 2016). The updated manual will
+be incorporated by reference into the Code of Federal Regulations.
+The Filer Manual contains all the technical specifications for filers to submit filings using
+the EDGAR system. Filers must comply with the applicable provisions of the Filer Manual in
+order to assure the timely acceptance and processing of filings made in electronic format. 2 Filers
+
+1
+
+We originally adopted the Filer Manual on April 1, 1993, with an effective date of April 26, 1993.
+Release No. 33-6986 (April 1, 1993) [58 FR 18638]. We implemented the most recent update to the Filer
+Manual on June 13, 2016. See Release No. 33-10095 (July 1, 2016) [81 FR 43047].
+2
+
+See Rule 301 of Regulation S-T (17 CFR 232.301).
+2
+
+may consult the Filer Manual in conjunction with our rules governing mandated electronic filing
+when preparing documents for electronic submission. 3
+The EDGAR system will be upgraded to Release 16.3 on September 19, 2016 and will
+introduce the following changes:
+An unregistered money market fund will now be able to file a report on submission form
+types N-CR and N-CR/A. When submitting N-CR and N-CR/A filings, filers that are unregistered
+money market funds can optionally provide values for the following fields:
+•
+
+Filer Investment Company Type
+
+•
+
+Series ID
+
+•
+
+Class (Contract) ID
+
+ABS-EE Asset Data schemas will be updated to change the date format from MM/YYYY
+to MM-DD-YYYY for the following Asset Class Items:
+•
+
+CMBS Asset Class: Item 2(c)(12), First Loan Payment Due Date
+
+•
+
+Debt Securities Asset Class: Item 5(f)(3), Demand Resolution Date
+
+In addition, the codes and descriptions referencing CMSA will be updated to reference
+CREFC for the following Asset Class Items:
+•
+
+CMBS Asset Class: Item 2(d)(28)(xii), Net Operating Income Net Cash Flow
+Securitization Code
+
+•
+
+CMBS Asset Class: Item 2(d)(28)(xiii), Net Operating Income Net Cash Flow
+Code
+
+3
+
+See Release No. 33-10095 in which we implemented EDGAR Release 16.2. For additional history of Filer
+Manual rules, please see the cites therein.
+3
+
+The ABS-EE Asset Data schemas will also be updated to allow whole integer numbers in
+decimal fields. For more information, see the updated “EDGAR ABS XML Technical
+Specification” document located on the SEC’s Public Website
+(https://www.sec.gov/info/edgar/tech-specs).
+A Large Trader whose most recent Form 13H submission was a Form 13H-I (Inactive) will
+now be able to subsequently submit a Form 13H-T (Termination), regardless of the elapsed time.
+Documentation only corrections relating to eXtensible Business Reporting Language
+(XBRL) formatting were made to Chapter 5, “Constructing Attached Documents and Document
+Types” and Chapter 6 “Interactive Data” of the EDGAR Filer Manual: Volume II.
+On August 29, 2016, EDGAR Release 16.2.4 was updated to include two new submission
+form types – N-MFP2 and N-MFP2/A – to incorporate the amendments to Form N-MFP adopted
+by the Commission on September 16, 2015.
+These two new submission form types will be accepted from the EDGAR Filing Website
+via filer-constructed XML submissions, as described in the “EDGAR Form N-MFP2 XML
+Technical Specification” document available on the SEC’s Public Website
+(https://www.sec.gov/info/edgar/tech-specs).
+EDGAR will only accept TEST submissions for submission form types N-MFP2 and NMFP2/A until October 13, 2016. Beginning on October 14, 2016, submission form types N-MFP2
+and N-MFP2/A will be accepted as LIVE or TEST submissions. After that date, filers will be
+prevented from submitting existing submission form type N-MFP1 beginning October 14, 2016.
+Filers will also be prevented from submitting existing submission form type N-MFP1/A beginning
+October 14, 2017.
+Along with the adoption of the Filer Manual, we are amending Rule 301 of Regulation S-T
+to provide for the incorporation by reference into the Code of Federal Regulations of today’s
+4
+
+revisions. This incorporation by reference was approved by the Director of the Federal Register in
+accordance with 5 U.S.C. 552(a) and 1 CFR Part 51.
+The updated EDGAR Filer Manual will be available for Website viewing and printing; the
+address for the Filer Manual is https://www.sec.gov/info/edgar/edmanuals.htm. You may also
+obtain paper copies of the EDGAR Filer Manual from the following address: Public Reference
+Room, U.S. Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549, on
+official business days between the hours of 10:00 a.m. and 3:00 p.m.
+Since the Filer Manual and the corresponding rule changes relate solely to agency
+procedures or practice, publication for notice and comment is not required under the
+Administrative Procedure Act (APA). 4 It follows that the requirements of the Regulatory
+Flexibility Act 5 do not apply.
+The effective date for the updated Filer Manual and the rule amendments is [Insert date of
+publication in the Federal Register]. In accordance with the APA, 6 we find that there is good
+cause to establish an effective date less than 30 days after publication of these rules. The EDGAR
+system upgrade to Release 16.3 is scheduled to become available on September 19, 2016. The
+Commission believes that establishing an effective date less than 30 days after publication of these
+rules is necessary to coordinate the effectiveness of the updated Filer Manual with these system
+upgrades.
+
+4
+
+5 U.S.C. 553(b).
+
+5
+
+5 U.S.C. 601 - 612.
+
+6
+
+5 U.S.C. 553(d)(3).
+5
+
+Statutory Basis
+We are adopting the amendments to Regulation S-T under Sections 6, 7, 8, 10, and 19(a)
+of the Securities Act of 1933, 7 Sections 3, 12, 13, 14, 15, 23, and 35A of the Securities Exchange
+Act of 1934, 8 Section 319 of the Trust Indenture Act of 1939, 9 and Sections 8, 30, 31, and 38 of
+the Investment Company Act of 1940. 10
+List of Subjects in 17 CFR Part 232
+Incorporation by reference, Reporting and recordkeeping requirements, Securities.
+Text of the Amendment
+In accordance with the foregoing, Title 17, Chapter II of the Code of Federal Regulations
+is amended as follows:
+PART 232 - REGULATION S-T—GENERAL RULES AND REGULATIONS FOR
+ELECTRONIC FILINGS
+1.
+
+The authority citation for Part 232 continues to read in part as follows:
+
+Authority: 15 U.S.C. 77f, 77g, 77h, 77j, 77s(a), 77z–3, 77sss(a), 78c(b), 78l, 78m, 78n,
+78o(d), 78w(a), 78ll, 80a–6(c), 80a–8, 80a–29, 80a–30, 80a–37, and 7201 et seq.; and 18 U.S.C.
+1350.
+*****
+2.
+
+Section 232.301 is revised to read as follows:
+
+§232.301 EDGAR Filer Manual.
+
+7
+
+15 U.S.C. 77f, 77g, 77h, 77j, and 77s(a).
+
+8
+
+15 U.S.C. 78c, 78l, 78m, 78n, 78o, 78w, and 78ll.
+
+9
+
+15 U.S.C. 77sss.
+
+10
+
+15 U.S.C. 80a-8, 80a-29, 80a-30, and 80a-37.
+6
+
+Filers must prepare electronic filings in the manner prescribed by the EDGAR Filer
+Manual, promulgated by the Commission, which sets out the technical formatting requirements for
+electronic submissions. The requirements for becoming an EDGAR Filer and updating company
+data are set forth in the updated EDGAR Filer Manual, Volume I: “General Information,” Version
+24 (December 2015). The requirements for filing on EDGAR are set forth in the updated EDGAR
+Filer Manual, Volume II: “EDGAR Filing,” Version 38 (September 2016). Additional provisions
+applicable to Form N-SAR filers are set forth in the EDGAR Filer Manual, Volume III: “N-SAR
+Supplement,” Version 5 (September 2015). All of these provisions have been incorporated by
+reference into the Code of Federal Regulations, which action was approved by the Director of the
+Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR Part 51. You must comply with
+these requirements in order for documents to be timely received and accepted. The EDGAR Filer
+Manual is available for Website viewing and printing; the address for the Filer Manual is
+https://www.sec.gov/info/edgar/edmanuals.htm. You can obtain paper copies of the EDGAR Filer
+Manual from the following address: Public Reference Room, U.S. Securities and Exchange
+Commission, 100 F Street, NE, Washington, DC 20549, on official business days between the
+hours of 10:00 a.m. and 3:00 p.m. You can also inspect the document at the National Archives
+and Records Administration (NARA). For information on the availability of this material at
+NARA, call 202–741–6030, or go to:
+http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+September 20, 2016
+7
+
+8
+
+

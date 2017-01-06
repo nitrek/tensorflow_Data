@@ -1,0 +1,714 @@
+No. 04-55665
+__________________________________________
+UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+__________________________________________
+T. JEFFREY SIMPSON, on behalf of himself and
+all others similarly situated,
+Plaintiff,
+and
+CALIFORNIA STATE TEACHERS’ RETIREMENT SYSTEM,
+Plaintiff - Appellant,
+v.
+HOMESTORE.COM, INC.; et al.,
+Defendants - Appellees.
+___________________________________________
+On Appeal from the United States District Court
+for the Central District of California
+____________________________________________
+REPLY BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE, IN SUPPORT OF POSITIONS THAT FAVOR APPELLANT
+___________________________________________
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+KATHARINE B. GRESHAM
+Assistant General Counsel
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+MICHAEL L. POST
+Senior Counsel
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C. 20549
+(202) 942-0921 (Post)
+
+TABLE OF CONTENTS
+
+Page
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+1.
+
+Conduct Covered by Section 10(b) and Rule 10b-5(a) . . . . . . . . . . . . . . . . 1
+
+2.
+
+Criticism of the Commission’s Proposed Tests for Primary
+Liability and Reliance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+a.
+
+Primary Liability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
+b.
+
+Reliance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+ADDENDUM
+CERTIFICATE OF SERVICE
+CERTIFICATE OF COMPLIANCE
+
+i
+
+TABLE OF AUTHORITIES
+
+CASES:
+
+Page
+
+Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A.,
+511 U.S. 164 (1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,6,11,14,15
+passim
+Cooper v. Pickett, 137 F.3d 616 (9th Cir. 1998) . . . . . . . . . . . . . . . . . . . . . . . . 6,11
+Ernst & Ernst v. Hochfelder,
+425 U.S. 185 (1976) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,3,4
+Export Group v. Reed Industries, Inc.,
+54 F.3d 1466 (9th Cir. 1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Santa Fe Industries v. Green,
+430 U.S. 462 (1977) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,3,4
+SEC v. Zandford, 535 U.S. 813 (2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Wharf (Holdings) Ltd. v. United Intern. Holdings, Inc.,
+532 U.S. 588 (2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+ii
+
+Statutes and Rules
+
+Page
+
+Securities Act of 1933, 15 U.S.C. 77a, et. seq.:
+Section 17(a), 15 U.S.C. 77q(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.:
+Section 10(b), 15 U.S.C. 78j(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,2,3,4,10
+passim
+Rule 10b-5(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,3,4,5,
+passim
+Fed. R. Civ. P. 9(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Private Securities Litigation Reform Act of 1995 . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+Miscellaneous
+Black’s Law Dictionary 465 (7th ed. 1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+iii
+
+The Securities and Exchange Commission, which is participating in this
+appeal as amicus curiae, submits this reply brief to address issues raised in the
+briefs of the defendants and the amicus curiae briefs supporting them. In our
+initial brief, we addressed the appropriate test for finding a defendant to be a
+primary violator rather than an aider and abettor in a scheme to defraud under Rule
+10b-5(a).
+As explained in our initial brief, this case involves allegations that a public
+company and its business partners engaged in a scheme to defraud in which they
+committed the deceptive act of engaging in transactions whose principal purpose
+and effect was to create a false appearance of corporate revenues. As we noted,
+this situation has arisen in a number of recent cases involving schemes to inflate
+the revenues of internet companies, as well as other types of schemes to
+misrepresent the financial condition of publicly traded companies. Such schemes
+harm the integrity of the nation’s securities markets and undermine the confidence
+of public investors.
+1.
+
+Conduct Covered by Section 10(b) and Rule 10b-5(a)
+
+Defendants and their amici incorrectly interpret Supreme Court cases as
+holding that deceptive conduct under Section 10(b) is limited to conduct that
+involves material misstatements or omissions, and does not include other
+deceptive acts. The principal support they offer for this interpretation is the
+
+following statement in Central Bank of Denver, N.A. v. First Interstate Bank of
+Denver, N.A., 511 U.S. 164 (1994):
+As in earlier cases considering conduct prohibited by § 10(b), we again
+conclude that the statute prohibits only the making of a material
+misstatement (or omission) or the commission of a manipulative act. See
+Santa Fe Industries [v. Green], 430 U.S. at 473 (“language of § 10(b) gives
+no indication that Congress meant to prohibit any conduct not involving
+manipulation or deception”); Ernst & Ernst [v. Hochfelder], 425 U.S. at 214
+(“When a statute speaks so specifically in terms of manipulation and
+deception . . . , we are quite unwilling to extend the scope of the statute”).
+511 U.S. at 177. According to defendants and their amici, this statement is a
+holding by the Supreme Court on the interpretation of the “manipulative or
+deceptive device or contrivance” language of Section 10(b), with “manipulative
+act” the conduct covered by the manipulative component and “misstatement (or
+omission)” the conduct covered by the deceptive component. Thus, in their view,
+“deceptive” covers only conduct that deceives by false statement or misleading
+omission.
+The Central Bank statement, however, is dictum, as it was not essential to
+the determination of the case, which concerned “the existence and scope of the
+§ 10(b) aiding and abetting action” (511 U.S. at 170).1 It was not necessary for the
+
+1
+
+See Export Group v. Reef Industries, Inc., 54 F.3d 1466, 1472 (9th Cir.
+1995) (adopting Black’s Law Dictionary definition of dicta as “‘[e]xpressions in
+the court’s opinion which go beyond the facts before the court’”); Black’s Law
+Dictionary 465 (7th ed. 1999) (defining dictum as “[a] court’s stating of a legal
+principle more broadly than is necessary to decide the case”).
+2
+
+Supreme Court, in deciding that aiding and abetting is not covered by the statutory
+language, to determine the full extent of deceptive conduct covered by Section
+10(b) – an issue that was not raised by the case or briefed by the parties.
+It is also inconceivable that the Court would make a pronouncement on such
+an important matter of statutory construction without explanation. Instead, as is
+apparent from the citations to Santa Fe Indus., Inc. v. Green, 430 U.S. 462 (1977),
+and Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976), and the accompanying
+parentheticals, the sentence is best explained as an unfortunate choice of words to
+paraphrase the statutory language. The parentheticals refer to both the statutory
+terms “manipulation” and “deception” and do not purport to explain the scope of
+conduct encompassed by those terms.
+Indeed, both Santa Fe and Hochfelder contain language showing that
+deceptive conduct under Section 10(b) and Rule 10b-5 can include more than
+misrepresentations. In Santa Fe, the Court observed in discussing case law on
+what constitutes deceptive conduct: “[T]he cases do not support the proposition
+. . . that a breach of fiduciary duty by majority stockholders, without any
+deception, misrepresentation, or nondisclosure, violates the statute and the Rule.”
+430 U.S. at 476 (emphasis supplied). In other words, deceptive conduct can be
+
+3
+
+something other than misrepresentation or nondisclosure. 2 In Hochfelder, the
+Court observed that the language of subsections (b) and (c) of Rule 10b-5 could be
+read as “proscribing . . . any type of material misstatement or omission, and any
+course of conduct, that has the effect of defrauding investors . . . .” 425 U.S. at
+212. Again, the Court recognized that the Rule covers conduct beyond
+misstatements and omissions. (See also the Commission’s initial brief at pp. 1314, 18-19 n.6 for other cases and authorities showing that the statute and rule
+cover conduct beyond the making of misstatements and omissions.)
+Amicus American Institute of Certified Public Accountants acknowledges
+that Rule 10b-5(a) focuses on “actions rather than statements,” but asserts that the
+provision “should be understood simply as implementing Section 10(b)’s
+prohibition” on “manipulative conduct.” AICPA Brief at 20. No support is
+offered for this statement, and the plain language of neither Section 10(b) nor Rule
+
+2
+
+Amicus American Institute of Certified Public Accountants states that in
+Santa Fe the Court “held that because ‘the complaint failed to allege a material
+misstatement or material failure to disclose,’ there was no allegation of ‘deceptive’
+conduct within the meaning of Section 10(b).” AICPA Brief at 20, quoting Santa
+Fe, 430 U.S. at 474. The AICPA attempts to elevate the Court’s observation about
+the complaint into a holding that deceptive conduct under Section 10(b) can only
+involve misstatements or omissions. In Santa Fe, however, there was no allegation
+of any type of deceptive conduct: investors “were furnished with all relevant
+information on which to base their decision” (430 U.S. at 474). The Court’s
+holding was that the transaction at issue “if carried out as alleged in the complaint,
+was neither deceptive nor manipulative and therefore did not violate either § 10(b)
+of the Act or Rule 10b-5.” Id.
+4
+
+10b-5(a) suggests such a restrictive intent. Moreover, the Commission interprets
+Rule 10b-5(a) as covering not only manipulative conduct, but also deceptive
+conduct, as is apparent from the test proposed by the Commission in this case –
+that “any person who directly or indirectly engages in a manipulative or deceptive
+act as part of a scheme to defraud can be a primary violator under Section 10(b)
+and Rule 10b-5(a).” SEC Brief at 16 (emphasis added).
+It is important that the narrow view of Section 10(b) urged by the
+defendants and their amici be rejected because it ignores the reality that facts can
+be misrepresented by conduct as well as words. See SEC Brief at 18-19 & n.6.
+One who creates a material deception through a false statement can be a primary
+violator; similarly, one who creates the same material deception through deceptive
+conduct rather than words can also be a primary violator.
+2.
+
+Criticism of the Commission’s Proposed Tests for Primary Liability
+and Reliance
+a.
+
+Primary Liability
+
+Commission’s Test: Any person who directly or indirectly engages in a
+manipulative or deceptive act as part of a scheme to defraud can be a
+primary violator of Section 10(b) and Rule 10b-5(a).
+The Commission’s test for primary liability is not new, as the defendants
+suggest, but rather a restatement of existing law as applied to participation in a
+scheme to defraud. The crux of the test is the requirement that the defendant
+himself engage in a “manipulative or deceptive” act – a requirement that is based
+5
+
+squarely on the language of the statute itself. SEC Brief at 16. The remainder of
+the test is a combination of (i) language the Supreme Court has found to be
+synonymous with Section 10(b)’s language, (ii) language from the related
+antifraud provision in Section 17(a) of the Securities Act of 1933, and (iii)
+language from Rule 10b-5. See SEC Brief at 12-15. The test is consistent with
+this Court’s statement in Cooper v. Pickett that “Central Bank does not preclude
+liability based on allegations that a group of defendants acted together to violate
+the securities laws, as long as each defendant committed a manipulative or
+deceptive act in furtherance of the scheme.” 137 F.3d 616, 624 (9th Cir. 1998).
+As explained in the Commission’s initial brief, the Commission’s test
+provides a meaningful distinction between a primary violator and an aider and
+abettor and is thus consistent with Central Bank. SEC Brief at 17-18. It is
+important that the test requires that each defendant engage in a “manipulative or
+deceptive” act; this requirement avoids the danger of extending primary liability to
+cover activity that is only aiding and abetting. We also note that the
+Commission’s test, together with the application by the courts of the heightened
+pleading requirements of Federal Rule of Civil Procedure 9(b) and the Private
+Securities Litigation Reform Act, will help to weed out frivolous or vexatious
+
+6
+
+litigation. See Wharf (Holdings) Ltd. v. United Intern. Holdings, Inc., 532 U.S.
+588, 598-97 (2001).3
+None of the defendants or their amici presents an argument that would
+justify rejection of the Commission’s test for primary liability in a scheme to
+defraud. Indeed, given its grounding in the language of the statute and rule, they
+attack the test by misstating it and explaining why their misstated version amounts
+to aiding and abetting.
+For instance, defendant AOL Time Warner asserts that the Commission
+defines primary violators as “all who ‘directly or indirectly’ engage in any ‘part of’
+a ‘scheme to defraud.’” AOL Brief at 42 (emphasis in original). AOL then argues
+that there is no meaningful difference between substantial assistance in the
+primary violation (i.e., aiding and abetting) and “‘indirect engagement as part of a
+scheme.’” Id. The Commission’s actual test, however, covers “any person who
+directly or indirectly engages in a manipulative or deceptive act as part of a
+scheme to defraud.” The test thus distinguishes covered conduct from mere aiding
+and abetting, which does not require a person to engage in a manipulative or
+deceptive act. The test also does not cover engaging in “any part” of a scheme to
+
+3
+
+As noted in our initial brief, we do not believe that, in the context of a
+scheme to defraud, a test turning on whether a defendant had “substantial
+participation” in the scheme would be appropriate. See SEC Brief at 16-17 n.3.
+7
+
+defraud; it covers only parts of the scheme that constitute a manipulative or
+deceptive act within the meaning of Section 10(b). 4
+The defendants and their amici also use this tactic of knocking down straw
+men in their critiques of the Commission’s examples of conduct that could
+constitute a primary violation, particularly the example of “engaging in a
+transaction whose principal purpose and effect is to create a false appearance of
+revenues.” The AICPA argues that “[c]onduct that, by itself, would not mislead
+investors is not actionable simply because it has the ‘purpose’ and ‘effect’ of
+helping a third party do so,” since such conduct is only aiding and abetting.
+AICPA Brief at 24. But the Commission’s example says nothing about conduct
+whose purpose and effect is “helping a third party” mislead investors. Rather, it
+covers conduct whose principal purpose and effect is creating a false appearance
+of revenues – conduct that is itself deceptive.
+The BMA and AICPA briefs characterize the Commission’s test as turning
+on a distinction between “legitimate and illegitimate” transactions and complain
+
+4
+
+Similarly, defendant Keller maintains that the “Commission’s new
+version of ‘deception’ means that a person who does not make a misstatement can
+nevertheless be primarily liable if he intentionally commits an act with the
+intention that someone else make a misstatement.” Keller Brief at 27 (emphasis
+added). This reformulation, like AOL’s, ignores the test’s “manipulative or
+deceptive” act requirement. Under the Commission’s actual test, a person who
+does not make a misstatement is potentially a primary violator only if he or she
+engages in some other manipulative or deceptive act within the meaning of
+Section 10(b).
+8
+
+that such a test is too “ambiguous” or “vague” to provide a workable test for
+primary liability. BMA Brief at 30; AICPA Brief at 25. The Commission,
+however, urges no such test. The Commission’s initial brief stated that a
+transaction whose principal purpose and effect is to create a false appearance of
+revenues is deceptive. The Commission did not suggest that all transactions a
+plaintiff alleges to be in any way “illegitimate” are deceptive.
+Some defendants and amici criticize the Commission as proposing a
+distinction between a primary violation and aiding and abetting that turns on the
+actor’s state of mind. See Colburn Brief at 28; see also Cendant Brief at 36
+(arguing a transaction could be the basis for liability based on a party’s principal
+purpose) and BMA Brief at 30. The Colburn brief, which is illustrative of this
+argument, recounts the Commission’s contrasting hypothetical examples:
+[1] a third party that “engages with the corporation in a transaction whose
+principal purpose and effect is to create a false appearance of revenues,
+intending to deceive investors in the corporation’s stock, . . . may be a
+primary violator”, [2] while a third party that “enters into a legitimate
+transaction with a corporation, knowing that the corporation will overstate
+the revenue generated by the transaction, . . . is at most an aider and
+abettor.”
+Colburn Brief at 28. The Colburn brief then states that “the conduct of the third
+party – entering into the underlying business transaction – is the same in both
+[examples],” and the only difference is that in the first example, “the third party
+not only knows how the corporation will account for the transaction but
+9
+
+affirmatively intends that result.” Id. at 29 (emphasis in original). This argument,
+however, ignores the fact that the first example involves a transaction whose
+principal purpose and effect is to create a false appearance of fact and the second
+does not. To engage in one or the other of the hypothetical transactions is not the
+same conduct, and the distinction between them therefore does not turn on the
+actor’s state of mind. 5
+Finally, the AICPA rejects primary liability for deceptive transactions that
+do not themselves involve false statements on the ground that such transactions
+have no effect on the market unless a third party reports them fraudulently.
+AICPA Brief at 25-26. In the AICPA’s view, “a primary defendant must be
+culpable – in the sense of actually defrauding investors or the market – based
+solely on its own actions, rather than as a result of the conduct or statements of
+someone else.” Id. The AICPA’s view of primary liability ignores the plain
+language of Section 10(b) and Rule 10b-5, both of which include the phrase
+“directly or indirectly.” A defendant indirectly defrauds the market if he or she
+
+5
+
+L90 believes that the Commission’s contrasting examples suggest that its
+conduct would be covered “just because Homestore’s ‘principal purpose’ was to
+misstate revenue,” and that the test would thus make Rule 10b-5 liability turn on
+the intent of a defendant’s “counter-party,” rather than on the defendant’s own
+intent. L90 Brief at 30 (emphasis added). This critique misstates the
+Commission’s position. The transaction’s principal purpose and effect must be to
+create a false appearance of revenues. Each defendant, of course, must also have
+the requisite scienter.
+10
+
+engages with an issuer of securities in a transaction whose principal purpose and
+effect is to create a false appearance of revenues that will be reported falsely by
+the issuer. 6
+The AICPA’s argument is also foreclosed by this Court’s decision in
+Cooper v. Pickett, 137 F.3d at 616. There, corporate officials provided false
+information to securities analysts with the intent that the analysts would then make
+statements to the securities markets based on that false information. (To use the
+AICPA’s formulation, the investors were not defrauded “based solely on the
+[corporate officials’] own actions,” but “as a result of the conduct or statements of
+[the analysts].”) The Court ruled that Central Bank did not bar the plaintiffs’
+claims because the plaintiffs “are asserting that [defendants], through false
+statements to analysts, and those analysts, by issuing reports based on statements
+they knew were false, together engaged in a scheme to defraud the shareholder.”
+137 F.3d at 625. If the AICPA’s approach were correct, then the complaint
+against the corporate officials would have been dismissed because their deception
+
+6
+
+In Central Bank, the Supreme Court rejected the suggestion that the
+statutory “directly or indirectly” language could be used to support aiding and
+abetting liability under Section 10(b). 511 U.S. at 176. The Court stated: “The
+problem, of course, is that aiding and abetting liability extends beyond persons
+who engage, even indirectly, in a proscribed activity; aiding and abetting liability
+reaches persons who do not engage in the proscribed activities at all, but who give
+a degree of aid to those who do.” Id. This statement indicates that a secondary
+actor in a scheme to defraud can be primarily liable if he or she indirectly engages
+in a manipulative or deceptive act.
+11
+
+was not communicated to the market until the analysts made their subsequent
+statements.
+Acceptance of the approach of defendants and their amici would undermine
+the intent of Section 10(b) to protect investors against fraud and to ensure honest
+markets. If two companies together make a false statement about the revenues of
+one of them, both companies undisputedly could be primarily liable for securities
+fraud. If they together achieve the same deception by engaging in a transaction
+whose principal purpose and effect is to create a false appearance of revenues, but
+only one of them makes a misstatement about the revenues, investors would be
+misled by the deceptive conduct of both, and both can be primarily liable.
+b.
+
+Reliance
+
+Commission’s Test: The reliance requirement is satisfied where a plaintiff
+relies on a material deception flowing from a defendant’s deceptive act,
+even though the conduct of other participants in the fraudulent scheme may
+have been a subsequent link in the causal chain leading to the plaintiff’s
+securities transaction.
+The Commission’s reliance test is derived from basic legal principles
+concerning causation as applied to participation in a scheme to defraud investors
+in the securities markets. See SEC Brief at 21-23. The test is met where the
+plaintiff relies on a material deception that flows from a deceptive act committed
+by the defendant, even though the conduct of others is a subsequent link in the
+chain of causation that injects the material deception into the securities markets.
+12
+
+As explained in greater detail below, the defendants and their amici
+mischaracterize the Commission’s test and then criticize the mischaracterized test
+as eviscerating the reliance requirement. Their arguments ignore the crux of the
+Commission’s test, which requires the material deception created by the defendant
+to flow through the subsequent actor’s actions; the test does not just require the
+subsequent actor’s actions to flow or follow from the defendant’s actions.
+The AICPA, for example, argues that the Commission’s “notion that a
+plaintiff who relies on a misstatement thereby relies on the actions of every party
+who played some antecedent role in helping that misstatement come into life is
+precisely what Central Bank rejected.” AICPA Brief at 23; see also AOL Brief at
+46 (arguing that the Commission’s test allows reliance on a statement that “in any
+way ‘flow[ed] from’ the scheme in which the defendants allegedly took part”).
+Under the Commission’s actual test, however, the defendant must himself commit
+a deceptive act, not simply have “some antecedent role in helping [a] misstatement
+come into life.” The material deception created by the defendant must then flow
+through a misstatement made by a subsequent actor that is the natural consequence
+of the defendant’s initial deceptive act. Thus, when the plaintiff engages in a
+securities transaction, the plaintiff relies on a material deception initially created
+by the defendant.
+
+13
+
+In addition to mischaracterizing the test, the defendants and their amici
+argue that the requirement that a plaintiff plead and prove reliance as to each
+defendant means that a plaintiff must rely on each defendant “directly.” BMA
+Brief at 12. 7 They base this argument on the Supreme Court’s statement in
+Central Bank that “[a] plaintiff must show reliance on the defendant’s
+misstatement or omission to recover under 10b-5.” 511 U.S. at 180. Violations of
+Section 10(b) and Rule 10b-5, however, can be accomplished indirectly, as
+explained supra p. 10. There is no suggestion in Central Bank that reliance on a
+defendant’s actions cannot be indirect – as on a material deception flowing
+through the subsequent actions of others.
+The defendants and their amici also argue that the Commission’s test is at
+odds with the Supreme Court’s statement in Central Bank that the argument made
+by the plaintiffs in that case “‘would impose 10b-5 aiding and abetting liability
+when at least one element critical for recovery under 10b-5 is absent: reliance.’”
+511 U.S. at 180. According to defendants and their amici, allegations of mere
+aiding and abetting would meet the Commission’s reliance test, and the test is
+
+7
+
+The BMA brief argues that “[b]ecause it is only Homestore’s public
+statements to the marketplace that connect investors to the alleged ‘scheme,’
+Plaintiff cannot plead or prove that investors relied on the Business Defendants at
+all.” BMA Brief at 23. See also AICPA Brief at 22-23; L90 Brief at 30-31; Keller
+Brief at 22.
+14
+
+therefore foreclosed by Central Bank. See AICPA Brief at 22; Colburn Brief at
+43; AOL Brief at 46.
+To place the Supreme Court’s statement in context, however, it is
+significant that the Court went on to say in the same paragraph that “[w]ere we to
+allow the aiding and abetting action proposed in this case, the defendant could be
+liable without any showing that the plaintiff relied upon the aider and abettor’s
+statements or actions.” 511 U.S. at 180 (emphasis added). In Central Bank, the
+defendant bank had been the indenture trustee for a defaulted bond issue, and had
+not created any misrepresentations, but had failed to update the appraisal for land
+securing the bonds. Before concluding that summary judgment for the bank was
+proper, the Court noted that the plaintiffs “concede[d] that Central Bank did not
+commit a manipulative or deceptive act within the meaning of § 10(b).” Id. at
+191. Thus, the plaintiffs in that case, as the Supreme Court recognized, could not
+be said to have relied on any deception created by the bank. The Commission’s
+reliance test begins with the requirement that the defendant engage in a deceptive
+act, and requires the plaintiff to have relied on the material deception created by
+the defendant. Thus, contrary to the contentions of defendants and their amici, the
+allegations in Central Bank would not have met the Commission’s proposed test,
+and there is therefore no tension between that test and Central Bank.
+
+15
+
+It is important that the Court reject the approach of defendants and their
+amici to reliance, as it would only invite gamesmanship on the part of wrongdoers.
+Defendants and their amici essentially argue for a rule precluding reliance on
+parties that are one or more causal steps removed from the injured party. But
+under such a rule, wrongdoers could structure their conduct so as to engage only in
+materially deceptive activity that is at least one causal step away from false
+statements to investors and the market, and thereby escape liability in a private
+action. This would be the case even though their actions caused the same injury to
+investors and the same deleterious effects on the market as if they had committed
+fraud through their own false statements. 8
+CONCLUSION
+For the foregoing reasons, and for the reasons set forth in the Commission’s
+initial amicus curiae brief, the Court should hold that any person who has the
+requisite scienter can be liable as a primary violator of Section 10(b) of the
+Securities Exchange Act of 1934 and Rule 10b-5(a) thereunder when he or she,
+
+8
+
+The BMA amicus brief argues that the “in connection with” requirement
+under the statute and rule is not satisfied here, basing that argument on SEC v.
+Zandford, 535 U.S. 813 (2002). BMA Brief at 16-21. The Court in Zandford
+stated that to satisfy the requirement “it is enough that the scheme to defraud and
+the sale of securities coincide.” 535 U.S. at 822. Where, as part of a scheme to
+misrepresent a company’s true financial results, a defendant engages in a
+transaction whose principal purpose and effect is to create a false appearance of
+revenues, and where that effect continues at the time of purchases and sales of the
+company’s stock, the fraud and the securities transactions do coincide.
+16
+
+directly or indirectly, engages in a manipulative or deceptive act as part of a
+scheme to defraud; that engaging in a transaction whose principal purpose and
+effect is to create a false appearance of revenues constitutes such a deceptive act;
+and that the reliance requirement in private actions is satisfied where a plaintiff
+relies on a material deception flowing from a defendant’s deceptive act, even
+though the conduct of other participants in the fraudulent scheme may have been a
+subsequent link in the causal chain leading to the plaintiff’s securities transaction.
+
+Respectfully submitted,
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+KATHARINE B. GRESHAM
+Assistant General Counsel
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+_____________________________
+MICHAEL L. POST
+Senior Counsel
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C. 20549-0606
+(202) 942-0921 (Post)
+
+February 2005
+
+17
+
+ADDENDUM
+
+TABLE OF CONTENTS
+
+Page
+Section 17(a) of the Securities Act of 1933,
+15 U.S.C. 77q(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A1
+Section 10(b) of the Securities Exchange Act of 1934,
+15 U.S.C. 78j(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A1
+Rule 10b-5, 17 C.F.R. 240.10b-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A1
+
+FRAUDULENT INTERSTATE TRANSACTIONS
+Section 17. [77q] (a) Use of interstate commerce for purpose of fraud or deceit--It shall
+be unlawful for any person in the offer or sale of any securities or any security-based swap
+agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) by the use of any means
+or instruments of transportation or communication in interstate commerce or by use of the mails,
+directly or indirectly–
+(1) to employ any device, scheme, or artifice to defraud, or
+(2) to obtain money or property by means of any untrue statement of a material fact or any
+omission to state a material fact necessary in order to make the statements made, in light of the
+circumstances under which they were made, not misleading; or
+(3) to engage in any transaction, practice, or course of business which operates or would
+operate as a fraud or deceit upon the purchaser. * * * *
+MANIPULATIVE AND DECEPTIVE DEVICES
+Section 10. [78j] It shall be unlawful for any person, directly or indirectly, by the use of
+any means or instrumentality of interstate commerce or of the mails, or of any facility of any
+national securities exchange-- * * *
+(b) To use or employ, in connection with the purchase or sale of any security registered
+on a national securities exchange or any security not so registered, or any securities-based swap
+agreement (as defined in section 206B of the Gramm-Leach-Bliley Act), any manipulative or
+deceptive device or contrivance in contravention of such rules and regulations as the
+Commission may prescribe as necessary or appropriate in the public interest or for the protection
+of investors. * * * *
+EMPLOYMENT OF MANIPULATIVE AND DECEPTIVE DEVICES
+17 C.F.R. 240.10b-5 It shall be unlawful for any person, directly or indirectly, by the use of any
+means or instrumentality of interstate commerce, or of the mails or of any facility of any national
+securities exchange,
+(a) To employ any device, scheme, or artifice to defraud,
+(b) To make any untrue statement of a material fact or to omit to state a material fact
+necessary in order to make the statements made, in the light of the circumstances under which
+they were made, not misleading, or
+(c) To engage in any act, practice, or course of business which operates or would operate
+as a fraud or deceit upon any person, in connection with the purchase or sale of any security.
+
+A1
+
+CERTIFICATE OF SERVICE
+I hereby certify that, on this day, I caused an original and four copies of the
+Motion of the Securities and Exchange Commission for Leave to File Amicus
+Curiae Reply Brief, and the original and fifteen copies of the foregoing reply brief
+to be sent by overnight delivery to
+Cathy Catterson
+Clerk of Court
+U.S. Court of Appeals for the Ninth Circuit
+95 Seventh Street
+San Francisco, CA 94103-1526
+and a copy of the Commission’s motion and two copies of the foregoing reply
+brief to be sent by overnight delivery to
+John B. Quinn, Esq.
+Quinn Emanuel Urquhart
+Oliver & Hedges
+865 South Figueroa Street
+Los Angeles, CA 90017
+
+Samuel Kadet, Esq.
+Skadden, Arps, Slate, Meagher
+& Flom
+Four Times Square
+New York, NY 10036
+
+F. Whitten Peters, Esq.
+Williams & Connolly
+725 - 12th Street, NW
+Washington, DC 20005
+
+Edward S. Nathan, Esq.
+Stern Greenberg & Kilcullen
+75 Livingston Avenue
+Roseland, NJ 07068
+
+Daniel J. Tyukody, Jr., Esq.
+Michael C. Tu, Esq.
+Orrick Herrington & Sutcliffe
+777 S. Figueroa Street, Suite 3200
+Los Angeles, CA 90017
+
+Belinda Lee, Esq.
+Latham & Watkins
+633 W. Fifth Street, Suite 4000
+Los Angeles, CA 90071-2007
+
+Roger C. Spaeder, Esq.
+Zuckerman Spaeder Goldstein
+Taylor & Kolker
+1201 Connecticut Ave., NW
+Suite 1200
+Washington, D.C. 20036
+
+Paul D. Murphy, Esq.
+Murphy Rosen & Cohen
+100 Wilshire Boulevard
+Suite 700
+Santa Monica, CA 90401
+
+Everett C. (Kip) Johnson, Jr., Esq.
+Latham & Watkins
+555 Eleventh Street, N.W.
+Suite 1000
+Washington, DC 20004-1304
+
+Eric A. Isaacson, Esq.
+Lerach Coughlin Stoia Geller
+Rudman & Robbins
+401 ‘B’ Street
+San Diego, CA 93101
+
+Nancy L. Fineman, Esq.,
+Cotchett Pitre Simon &
+McCarthy
+840 Malcolm Road
+San Francisco, CA 94010
+
+David H. Braff, Esq.
+Sullivan & Cromwell
+125 Broad Street
+New York, NY 10004
+
+Jeffrey Speiser, Esq.
+Stern & Kilcullen
+75 Livingston Ave.
+Roseland, NJ 07068
+
+_______________________________
+Michael L. Post
+Senior Counsel
+Securities and Exchange Commission
+450 Fifth St., N.W.
+Washington, D.C. 20549-0606
+(202) 942-0921
+February 4, 2005
+
+CERTIFICATE OF COMPLIANCE
+Pursuant to Fed. R. App. P. 32(a)(7)(C) and Circuit Rule 32-1
+For Case Number 04-55665
+I hereby certify that pursuant to Fed. R. App. P. 32(a)(7)(C) and Ninth
+Circuit Rule 32-1, the attached answering brief is proportionately spaced, has a
+typeface of 14 points or more, and contains 4,264 words.
+
+_______________________________
+Michael L. Post
+Senior Counsel
+Securities and Exchange Commission
+450 Fifth St., N.W.
+Washington, D.C. 20549-0606
+(202) 942-0921
+February 4, 2005
+
+

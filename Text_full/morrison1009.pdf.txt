@@ -1,0 +1,883 @@
+No. 08-1191
+
+In the Supreme Court of the United States
+
+ROBERT MORRISON, ET AL., PETITIONERS
+v.
+NATIONAL AUSTRALIA BANK LTD., ET AL.
+ON PETITION FOR A WRIT OF CERTIORARI 
+
+TO THE UNITED STATES COURT OF APPEALS 
+
+FOR THE SECOND CIRCUIT
+
+
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE
+
+DAVID M. BECKER
+General Counsel
+MARK D. CAHN
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+MARK PENNINGTON
+Assistant General Counsel
+WILLIAM K. SHIREY
+Counsel to the General
+Counsel
+Securities and Exchange
+Commission
+Washington, D.C. 20549
+
+ELENA KAGAN
+Solicitor General
+Counsel of Record
+MALCOLM L. STEWART
+Deputy Solicitor General
+ANTHONY A. YANG
+Assistant to the Solicitor
+General
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+
+QUESTION PRESENTED
+
+Petitioners alleged that respondents—an Australian
+parent company, its wholly-owned Florida-based subsidiary, and individual officials of the two companies—
+engaged in a transnational securities fraud in violation
+of Section 10(b) of the Securities Exchange Act of 1934,
+15 U.S.C. 78j. Petitioners further alleged that they suffered injury after the Florida subsidiary provided false
+accounting figures to the foreign parent, the parent incorporated the false information into its own financial
+reports and other public statements, petitioners purchased stock in the parent at prices inflated by the misstatements, and the price of petitioners’ stock fell when
+the misstatements were exposed. The question presented is as follows:
+Whether the courts below correctly dismissed petitioners’ private suit because of the attenuated link between petitioners’ alleged injury and the United States
+component of the alleged fraudulent scheme.
+
+(I)
+
+
+TABLE OF CONTENTS
+
+Page
+Interest of the United States . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 
+
+A.	 The courts of appeals have consistently and
+correctly held that Section 10(b) reaches at
+least some transnational fraudulent schemes
+that cause injury outside the United States . . . . . . . . 6
+B.	 The nexus between a fraudulent scheme, a
+private plaintiff, and the United States is
+not relevant to the court’s subject-matter
+jurisdiction, but bears on the applicability
+of Section 10(b)’s substantive prohibition
+and implied private right of action . . . . . . . . . . . . . . . . 8
+C.	 Although petitioners adequately alleged a
+substantive violation of Section 10(b), the
+link between the United States component
+of the scheme and petitioners’ injury is too
+attenuated to support a private suit . . . . . . . . . . . . . . 11
+D.	 Petitioners have identified no decision indicating that another court of appeals would have
+allowed their private suit to go forward . . . . . . . . . . . 17
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 
+
+TABLE OF AUTHORITIES
+
+Cases:
+Alstom SA Sec. Litig., In re, 406 F. Supp. 2d 346
+(S.D.N.Y. 2005) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 
+
+Arbaugh v. Y&H Corp., 546 U.S. 500 (2006) . . . . . . . . . . 8, 9 
+
+Basic Inc. v. Levinson, 485 U.S. 224 (1988) . . . . . . . . . . . . 10 
+
+(III)
+
+IV
+
+Cases—Continued:
+
+Page
+
+Bersch v. Drexel Firestone, Inc., 519 F.2d 974
+
+(2d Cir.), cert. denied, 423 U.S. 1018 (1975) . . . . . . . . 8, 19 
+
+CP Ships Ltd. Sec. Litig., In re, 578 F.3d 1306
+
+(11th Cir. 2009) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 
+
+Central Bank of Denver, N.A. v. First Interstate
+Bank of Denver, N.A., 511 U.S. 164 (1994) . . . . . . . 10, 13 
+
+Continental Grain (Austl.) Pty. Ltd. v. Pacific
+Oilseeds, Inc., 592 F.2d 409 (8th Cir. 1979) . . . . . 8, 19, 20 
+
+Dura Pharm., Inc. v. Broudo, 544 U.S. 336 (2005) . . . . . . . 2 
+
+EEOC v. Arabian Am. Oil Co., 499 U.S. 244 (1991) . . . . . . 7 
+
+Europe & Overseas Commodity Traders, S.A. v.
+Banque Paribas London, 147 F.3d 118 (2d Cir.
+1998), cert. denied, 525 U.S. 1139 (1999) . . . . . . . . . . . . . 6 
+
+F. Hoffman-La Roche Ltd v. Empagran, 542 U.S.
+
+155 (2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+
+Foley Bros. v. Filardo, 336 U.S. 281 (1949) . . . . . . . . . . . . . 7 
+
+Grunenthal GmbH v. Hotz, 712 F.2d 421 (9th Cir.
+
+1983) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 20 
+
+IIT v. Vencap, Ltd., 519 F.2d 1001 (2d Cir. 1975) . . . . . 8, 19 
+
+Itoba Ltd. v. Lep Group PLC, 54 F.3d 118 (2d Cir.
+
+1995), cert. denied, 516 U.S. 1044 (1996) . . . . . . . . . . . . . 6 
+
+Kauthar SDN BHD v. Sternberg, 149 F.3d 659
+
+(7th Cir. 1998), cert. denied, 525 U.S. 1114 
+
+(1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 8, 18 
+
+Pasquantino v. United States, 544 U.S. 349 (2005) . . . . . . . 7 
+
+Robinson v. TCI/US W. Commc’ns, Inc., 117 F.3d
+
+900 (5th Cir. 1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 
+
+SEC v. Berger, 322 F.3d 187 (2d Cir. 2003) . . . . . . . . . . 8, 16 
+
+
+V
+
+Cases—Continued:
+
+Page
+
+SEC v. Kasser, 548 F.2d 109 (3d Cir.), cert. denied,
+
+431 U.S. 938 (1977) . . . . . . . . . . . . . . . . . . . . 7, 8, 13, 18, 19 
+
+Stoneridge Inv. Partners, LLC v. Scientific-Atlanta,
+
+Inc., 128 S. Ct. 761 (2008) . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+
+Superintendent of Ins. v. Bankers Life & Cas. Co.,
+
+404 U.S. 6 (1971) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+
+Zoelsch v. Arthur Andersen & Co., 824 F.2d 27
+
+(D.C. Cir. 1987) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21, 22 
+
+Statutes and regulation:
+Securities Act of 1933, 15 U.S.C. 77a et seq. . . . . . . . . . . . . 6 
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a
+
+et seq.:
+
+15 U.S.C. 78j(b) (§ 10(b)) . . . . . . . . . . . . . . . . . . passim
+
+15 U.S.C. 78u(a)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+
+15 U.S.C. 78u(d)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 11 
+
+15 U.S.C. 78u(d)(3)(A) . . . . . . . . . . . . . . . . . . . . . . . 2, 11 
+
+15 U.S.C. 78aa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 
+
+17 C.F.R. 240.10b-5 (Rule 10b-5) . . . . . . . . . . . . . . . . . . 1, 2, 3 
+
+Miscellaneous:
+Hannah L. Buxbaum, Multinational Class
+
+Actions Under Federal Securities Law: 
+
+Managing Jurisdictional Conflict,
+
+46 Colum. J. Transnation’l L. 14 (2007) . . . . . . . . . . . . . 14 
+
+Investor Protection Act of 2009, H.R. 3817,
+
+111th Cong., 1st Sess. (2009) . . . . . . . . . . . . . . . . . . . . . . . 6 
+
+1 Restatement (Third) of Foreign Relations Law
+
+(1987) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+
+
+In the Supreme Court of the United States
+
+No. 08-1191
+
+ROBERT MORRISON, ET AL., PETITIONERS
+
+v.
+NATIONAL AUSTRALIA BANK LTD., ET AL.
+ON PETITION FOR A WRIT OF CERTIORARI 
+
+TO THE UNITED STATES COURT OF APPEALS 
+
+FOR THE SECOND CIRCUIT
+
+
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE
+
+INTEREST OF THE UNITED STATES
+
+This brief is filed in response to the Court’s order
+inviting the Solicitor General to express the views of the
+United States. In the view of the United States, the
+Court should deny the petition for a writ of certiorari.
+STATEMENT
+
+1. This case involves a private suit filed pursuant to
+Section 10(b) of the Securities Exchange Act of 1934
+(Exchange Act), 15 U.S.C. 78j(b), and Rule 10b-5, 17
+C.F.R. 240.10b-5. Section 10(b) makes it unlawful “[t]o
+use or employ, in connection with the purchase or sale of
+any security * * * , any manipulative or deceptive device or contrivance in contravention of such rules and
+regulations as the [Securities and Exchange] Commission may prescribe.” 15 U.S.C. 78j(b). Rule 10b-5, pro(1)
+
+2
+
+mulgated by the Securities and Exchange Commission
+(SEC or Commission), prohibits various deceptive acts
+and schemes in connection with the purchase or sale of
+securities. 17 C.F.R. 240.10b-5.
+The Commission is authorized to bring enforcement
+actions to prevent and punish violations of Section 10(b).
+See 15 U.S.C. 78u(d)(1) (suits for injunctive relief); 15
+U.S.C. 78u(d)(3)(A) (suits for civil penalties). “Though
+the text of the Securities Exchange Act does not provide
+for a private cause of action for § 10(b) violations, the
+Court has found a right of action implied in the words of
+the statute and its implementing regulation.” Stoneridge Inv. Partners, LLC v. Scientific-Atlanta, Inc., 128
+S. Ct. 761, 768 (2008) (citing Superintendent of Ins. v.
+Bankers Life & Cas. Co., 404 U.S. 6, 13 n.9 (1971)). “In
+a typical § 10(b) private action a plaintiff must prove
+(1) a material misrepresentation or omission by the defendant; (2) scienter; (3) a connection between the misrepresentation or omission and the purchase or sale of
+a security; (4) reliance upon the misrepresentation or
+omission; (5) economic loss; and (6) loss causation.”
+Ibid. (citing Dura Pharm., Inc. v. Broudo, 544 U.S. 336,
+341-342 (2005)).
+2. Respondent National Australia Bank (NAB) is
+organized under the laws of Australia and is that country’s largest bank. NAB is headquartered in Melbourne,
+Australia, and its ordinary shares (the Australian equivalent of common stock) trade on the Australian securities exchanges. In 1998, NAB acquired respondent
+HomeSide Lending, Inc. (HomeSide), located in Jacksonville, Florida. At all times relevant to this case,
+HomeSide was a wholly-owned subsidiary of NAB.
+HomeSide was a mortgage service provider, and its
+principal source of income was the fees that it generated
+
+3
+
+for servicing mortgages. The present value of those fees
+was calculated using an internal valuation model and
+was booked by NAB on its balance sheet as an asset
+called Mortgage Servicing Rights (MSR). Pet. App. 2a4a.
+Petitioners filed this putative class action on behalf
+of non-U.S. shareholders of NAB who had purchased
+stock between April 1, 1999, and September 3, 2001.
+The complaint alleged that respondents, who include
+HomeSide, NAB, and individual officers and directors of
+the two companies, had violated Section 10(b) and Rule
+10b-5 by making false and misleading statements that
+inflated the prices of NAB’s securities and caused losses
+to the class members who had purchased at inflated
+prices. Pet. App. 4a-5a.
+The allegations of securities fraud in this suit stem
+from the calculation of HomeSide’s MSR. The complaint
+alleged that between 1998 and 2001, HomeSide and its
+three principal executive officers (respondents Hugh
+Harris, Kevin Race, and W. Blake Wilson) had deliberately overvalued HomeSide’s mortgage portfolio by
+modifying the various assumptions in the computer data
+that HomeSide used to produce the MSR valuations.
+The complaint further alleged that the HomeSide respondents generated the false MSR valuations in the
+United States and then transmitted those figures to
+Australia for incorporation into NAB’s financials. Petitioners also alleged that the NAB respondents (NAB
+and its CEO, respondent Frank Cicutto) had learned
+that HomeSide’s MSR valuations were false but had
+nevertheless incorporated those figures into NAB’s own
+public filings and related public statements. Pet. App.
+4a, 9a, 27a-28a.
+
+4
+
+In July 2001, NAB announced that it would book a
+charge of $450 million because of a fiscal year writedown
+of the value of HomeSide’s MSR. Following the July
+writedown, the price of NAB’s ordinary shares fell by
+more than 5%. In September 2001, NAB announced that
+it would incur a further $1.75 billion writedown. Following the September writedown, the price of NAB’s ordinary shares on the Australian market fell by nearly 13%.
+Petitioners’ complaint alleged that they and other class
+members suffered economic loss as a result of the decline in value of NAB’s stock. Pet. App. 3a-4a, 26a-27a.
+3. The district court dismissed petitioners’ suit,
+holding that it lacked subject-matter jurisdiction because the alleged fraud had an insufficient connection to
+the United States. Pet. App. 23a-45a. The court stated
+that “HomeSide’s alleged conduct * * * amounts to, at
+most, a link in the chain of an alleged overall securities
+fraud scheme that culminated abroad.” Id. at 41a. The
+court observed that the alleged deceptive conduct of the
+HomeSide respondents “would be immaterial to [petitioners’] Rule 10b-5 claim but-for (i) the allegedly knowing incorporation of HomeSide’s false information; (ii) in
+public filings and statements made abroad; (iii) to investors abroad; (iv) who detrimentally relied on the information in purchasing securities abroad.” Id. at 41a-42a.
+The district court concluded that, “[o]n balance, it is the
+foreign acts—not any domestic ones—that ‘directly
+caused’ the alleged harm here.” Id. at 42a.
+4. The court of appeals affirmed. Pet. App. 1a-22a.
+The court identified two principal reasons for its conclusion that the district court lacked subject-matter jurisdiction over petitioners’ suit.
+a. The court of appeals framed the issue before it as
+“what conduct comprises the heart of the alleged fraud.”
+
+5
+
+Pet. App. 18a. The court stated that “[t]he actions taken
+and the actions not taken by NAB in Australia were
+* * * significantly more central to the fraud and more
+directly responsible for the harm to investors than the
+manipulation of the numbers in Florida.” Id. at 19a.
+The court further observed that “NAB, not HomeSide,
+is the publicly traded company and its executives—
+assisted by lawyers, accountants, and bankers—take
+primary responsibility for the corporation’s public filings, for its relations with investors, and for its statements to the outside world.” Ibid.
+b. The court of appeals also relied in part on the
+attenuated connection between any misconduct in the
+United States and the injury petitioners claimed to have
+suffered. The court noted “the striking absence of any
+allegation that the alleged fraud affected American investors or America’s capital markets” and observed that
+petitioners seek to represent a class made up entirely
+“of foreign plaintiffs who purchased on foreign exchanges.” Pet. App. 20a. The court also emphasized
+“the lengthy chain of causation between the American
+contribution to the misstatements and the harm to investors.” Id. at 21a. The court noted that petitioners “do
+not contend that HomeSide sent any falsified numbers
+directly to investors.” Ibid. Rather, it explained, “while
+HomeSide may have been the original source of the
+problematic numbers, those numbers had to pass
+through a number of checkpoints manned by NAB’s
+Australian personnel before reaching investors.” Ibid.
+DISCUSSION
+
+Although the court of appeals erred in treating the
+question before it as one of “subject matter jurisdiction,” the court correctly concluded that petitioners’
+
+6
+
+private suit could not go forward. And although the
+courts of appeals have not been entirely uniform in their
+analysis of Section 10(b)’s application to transnational
+frauds, petitioners cite no decision indicating that another circuit would have allowed their suit to proceed.
+The petition therefore should be denied.1
+A.	 The Courts Of Appeals Have Consistently And Correctly
+Held That Section 10(b) Reaches At Least Some Transnational Fraudulent Schemes That Cause Injury Outside The United States
+
+The text of the Exchange Act is silent as to its transnational reach. See Itoba Ltd. v. Lep Group PLC, 54
+F.3d 118, 121 (2d Cir. 1995), cert. denied, 516 U.S. 1044
+(1996). In the absence of clear congressional guidance,
+the courts have attempted “[t]o discern whether Congress would have wished the precious resources of the
+United States courts and law enforcement agencies to be
+devoted to” such transnational securities transactions.
+Europe & Overseas Commodity Traders, S.A. v. Banque
+Paribas London, 147 F.3d 118, 125 (2d Cir. 1998) (inter1
+
+Congress is presently considering a legislative proposal that would
+address the transnational reach of the antifraud provisions of the Securities Act of 1933, 15 U.S.C. 77a et seq., and the Exchange Act. On
+October 15, 2009, Representative Paul Kanjorski, a subcommittee
+chairman on the House Financial Services Committee, introduced the
+Investor Protection Act of 2009, H.R. 3817, 111th Cong., 1st Sess.
+Section 215 of this bill would amend both Acts to provide that the
+district courts of the United States have jurisdiction over violations of
+the antifraud provisions that involve a transnational fraud if there is
+“conduct within the United States that constitutes significant steps in
+furtherance of the violation, even if the securities transaction occurs
+outside the United States and involves only foreign investors.” The
+possibility that Congress may address this issue directly in the
+relatively near future provides an additional reason for this Court to
+deny the petition.
+
+7
+
+nal quotation marks and citation omitted), cert. denied,
+525 U.S. 1139 (1999). In applying the Exchange Act to
+different sets of facts involving alleged transnational
+frauds, courts have relied in large measure on “policy
+considerations and the courts’ best judgment.” Kauthar
+SDN BHD v. Steinberg, 149 F.3d 659, 664 (7th Cir.
+1998), cert. denied, 525 U.S. 1114 (1999).
+Respondents rely (Br. in Opp. 21) on the “longstanding principle of American law ‘that legislation of Congress, unless a contrary intent appears, is meant to apply only within the territorial jurisdiction of the United
+States.’ ” EEOC v. Arabian Am. Oil Co., 499 U.S. 244,
+248 (1991) (quoting Foley Bros. v. Filardo, 336 U.S. 281,
+285 (1949)). That interpretive rule provides a sound
+basis for concluding that Section 10(b) does not apply
+when a fraudulent scheme with no effects in the United
+States is hatched and executed entirely outside this
+country. But when a scheme to commit securities fraud
+is executed in part through domestic conduct and in part
+through conduct occurring outside the United States,
+that presumption does not identify the type or amount
+of domestic conduct that will bring the scheme within
+the reach of Section 10(b).
+In particular, the presumption against extraterritorial application of United States law does not suggest
+that fraudulent conduct for which this country serves as
+a base of operations will fall outside Section 10(b)’s coverage just because the effects of the fraud are experienced elsewhere. Cf. Pasquantino v. United States, 544
+U.S. 349, 371-372 (2005). Even in cases involving foreign
+victims who suffer harm overseas, courts have been “reluctant to conclude that Congress intended to allow the
+United States to become a ‘Barbary Coast,’ as it were,
+harboring international securities ‘pirates.’ ” SEC v.
+
+8
+
+Kasser, 548 F.2d 109, 116 (3d Cir.), cert. denied, 431
+U.S. 938 (1977). In addition, by extending federal securities laws to prohibit fraudulent domestic conduct that
+injures overseas investors, the United States can reasonably expect other countries to offer comparable protection to American investors. See IIT v. Vencap, Ltd.,
+519 F.2d 1001, 1017 (2d Cir. 1975); see also Kauthar, 149
+F.3d at 667. The courts have therefore concluded that
+Section 10(b) can apply not only when fraudulent conduct has effects within the United States, but also when
+conduct relevant to the fraud occurred in the United
+States but the effects were experienced abroad. See,
+e.g., id. at 665-666; Kasser, 548 F.2d at 116.
+B.	 The Nexus Between A Fraudulent Scheme, A Private
+Plaintiff, And The United States Is Not Relevant To The
+Court’s Subject-Matter Jurisdiction, But Bears On The
+Applicability Of Section 10(b)’s Substantive Prohibition
+And Implied Private Right Of Action
+
+The courts of appeals that have addressed the issue
+of the transnational reach of Section 10(b) have uniformly described it as one of “subject matter jurisdiction.” See, e.g., Pet. App. 22a; SEC v. Berger, 322 F.3d
+187, 192 (2d Cir. 2003); Continental Grain (Austl.) Pty.
+Ltd. v. Pacific Oilseeds, Inc., 592 F.2d 409, 413 (8th Cir.
+1979) (Continental Grain); Kasser, 548 F.2d at 116;
+Bersch v. Drexel Firestone, Inc., 519 F.2d 974, 984 (2d
+Cir.), cert. denied, 423 U.S. 1018 (1975). This Court’s
+more recent decisions, however, have emphasized the
+need for greater precision in the use of the term “jurisdiction.” See, e.g., Arbaugh v. Y&H Corp., 546 U.S. 500,
+510 (2006); Br. in Opp. 11 n.7. In Arbaugh, this Court
+announced a general rule that “when Congress does not
+rank a statutory limitation on coverage as jurisdictional,
+
+9
+
+courts should treat the restriction as nonjurisdictional
+in character.” 546 U.S. at 516.
+Jurisdiction over suits alleging violations of the Exchange Act is established by 15 U.S.C. 78aa. That provision states without qualification that the district courts
+and the courts of United States Territories “shall have
+exclusive jurisdiction of violations of this chapter or the
+rules and regulations thereunder, and of all suits in equity and actions at law brought to enforce any liability
+or duty created by this chapter or the rules and regulations thereunder.” 15 U.S.C. 78aa (emphases added). If
+a particular suit is otherwise an appropriate means of
+enforcing a “liability or duty created by” the Exchange
+Act or rules promulgated thereunder by the Commission, Section 78aa unambiguously vests the district
+courts with jurisdiction to resolve it. Cf. Arbaugh, 546
+U.S. at 514-515 (noting that the statutory provisions
+governing jurisdiction over Title VII suits did not contain any employee-numerosity requirement, and that the
+numerosity requirement at issue was set forth in a separate provision that did “not speak in jurisdictional
+terms”) (citation omitted).
+Thus, under the plain terms of Section 78aa, the geography of an alleged fraudulent scheme—i.e., whether
+it was conceived and executed in whole or in part outside
+the United States—is irrelevant to the district court’s
+subject-matter jurisdiction. Rather, that geography is
+potentially relevant to two non-jurisdictional issues
+bearing on the plaintiff ’s entitlement to relief. Cf. Arbaugh, 546 U.S. at 503 (noting “the distinction between
+two sometimes confused or conflated concepts: federalcourt ‘subject-matter’ jurisdiction over a controversy;
+and the essential ingredients of a federal claim for relief ”).
+
+10
+
+First, the determination whether a fraudulent
+scheme violates Section 10(b) depends in part on the
+location of the actions taken to effectuate it. Even if the
+defendant has engaged in the type of conduct at which
+Section 10(b) is directed—i.e., the use of a “manipulative
+or deceptive device or contrivance” “in connection with
+the purchase or sale of [a] security”—Section 10(b) does
+not apply if the scheme bears an insufficient connection
+to the United States.
+Second, in a private suit like this one, the transnational character of the scheme and any resulting harms
+may bear on the availability of Section 10(b)’s private
+right of action. Plaintiffs who invoke this right of action
+are always required to prove more than that the defendant violated the statute. Cf. Central Bank of Denver,
+N.A. v. First Interstate Bank of Denver, N.A., 511 U.S.
+164, 172 (1994) (Central Bank) (identifying, as distinct
+issues, questions concerning “the scope of conduct prohibited by § 10(b)” and “questions about the elements of
+the 10b-5 private liability scheme”). In cases involving
+wholly domestic conduct, a private plaintiff must establish a direct causal link between the defendant’s violation and injury to himself. See, e.g., Basic Inc. v. Levinson, 485 U.S. 224, 243 (1988) (holding that “reliance is
+an element of a Rule 10b-5 cause of action” because it
+“provides the requisite causal connection between a defendant’s misrepresentation and a plaintiff ’s injury”);
+p. 2, supra. Similarly, in cases involving transnational
+fraud, the private plaintiff should be required to demonstrate a direct causal link between his injury and the
+component of the scheme that occurred in the United
+States. See pp. 13-16, infra. In effect, the required
+nexus in such a suit becomes triangulated: it is not
+merely between this country and the fraud, but between
+
+11
+
+this country’s part of the fraud and the individual’s alleged injury.
+In an enforcement action brought by the Commission, by contrast, the transnational character of the
+fraudulent scheme is relevant only to the question
+whether the defendants’ conduct violated Section 10(b).
+Under the plain terms of the statutory provisions that
+govern SEC enforcement suits, “[w]henever it shall appear to the Commission that any person has violated any
+provision of [the Exchange Act], * * * the Commission
+may bring an action in United States district court to
+seek, and the court shall have jurisdiction to impose,
+upon a proper showing, a civil penalty to be paid by the
+person who committed such violation.” 15 U.S.C.
+78u(d)(3)(A). The SEC has similarly broad and unqualified authority to bring an action for injunctive relief
+“[w]henever it shall appear to the Commission that any
+person is engaged or is about to engage in acts or practices constituting a violation of any provision of [the Exchange Act].” 15 U.S.C. 78u(d)(1). Thus, so long as a
+particular fraudulent scheme bears a sufficient connection to the United States to bring it within Section
+10(b)’s substantive prohibition, the Commission may
+pursue an enforcement action.
+C.	 Although Petitioners Adequately Alleged A Substantive
+Violation Of Section 10(b), The Link Between The
+United States Component Of The Scheme And Petitioners’ Injury Is Too Attenuated To Support A Private Suit
+
+In holding that petitioners’ claims should be dismissed, the court of appeals relied on two distinct rationales. First, the court stated that the issue before it
+“boils down to what conduct comprises the heart of the
+alleged fraud,” Pet. App. 18a, and concluded that “[t]he
+
+12
+
+actions taken and the actions not taken by NAB in Australia were * * * significantly more central to the
+fraud * * * than the manipulation of the numbers in
+Florida,” id. at 19a. That analysis, which suggests that
+the conduct alleged in this case did not violate Section
+10(b), is erroneous. In addition, however, the court reasoned that petitioners sued “solely on behalf of foreign
+plaintiffs who purchased on foreign exchanges,” id. at
+20a, and noted “the lengthy chain of causation between
+the American contribution to the misstatements and the
+harm to investors,” id. at 21a. Those aspects of the case
+provide a sound basis for concluding that petitioners
+were not entitled to invoke the implied private right of
+action under Section 10(b).
+1. The increasing integration of the world’s securities markets has expanded legitimate investment and
+capital-raising opportunities, but it has also created an
+increased potential for novel transnational securitiesfraud schemes. As business transactions and fraudulent
+schemes become more and more internationally dispersed, cases are increasingly likely to arise in which no
+single country can meaningfully be described as the
+“heart” of the fraud. See, e.g., In re Alstom SA Sec.
+Litig., 406 F. Supp. 2d 346, 372 (S.D.N.Y. 2005). If all
+countries interpreted their securities laws in accordance
+with the “heart of the alleged fraud” approach that the
+Second Circuit articulated here (see Pet. App. 18a), the
+perpetrators of such schemes could escape accountability in any jurisdiction. And even apart from that concern, a “heart of the fraud” approach, which appears to
+limit Section 10(b)’s coverage to transnational frauds in
+which domestic conduct predominates, would not adequately protect the government’s law enforcement interests. The United States may have a substantial interest
+
+13
+
+in preventing the use of this country as a location for
+even a minor part of an international fraud. See Kasser,
+supra.
+To address both concerns, Section 10(b)’s coverage
+should not be limited to transnational frauds in which
+domestic conduct predominates. Rather, it is sufficient
+if the scheme involves significant conduct within the
+United States that is material to the fraud’s success.
+The allegations in petitioners’ complaint satisfy that
+standard. According to those allegations, the false information that was released to the public in Australia was
+generated in the United States with the expectation that
+it would be incorporated into NAB’s financial statements. The conduct of HomeSide and its officers within
+the United States thus was not peripheral or merely
+preparatory, but was an integral component of the overall scheme. Because the scheme had a sufficient connection to the United States to bring it within Section
+10(b)’s substantive prohibition, the SEC could have pursued an enforcement action based on the facts alleged in
+petitioners’ complaint. See p. 11, supra. To the extent
+the court of appeals concluded that the scheme as alleged did not violate Section 10(b), its analysis is incorrect.
+2. “[B]ecause Congress did not create a private
+§ 10(b) cause of action and had no occasion to provide
+guidance about the elements of a private liability
+scheme,” crafting the details of the private right of action is of necessity the responsibility of the courts,
+guided by any available evidence of what restrictions the
+1934 Congress would have imposed if it had enacted an
+express cause of action. Central Bank, 511 U.S. at 173.
+The plaintiff in every private Section 10(b) action must
+allege certain facts, such as economic loss and a causal
+
+14
+
+connection between that injury and the defendant’s misconduct, that are not elements of a Section 10(b) violation and that the Commission need not prove in its own
+enforcement actions. See pp. 2, 10-11, supra. When a
+foreign plaintiff in a private Section 10(b) suit alleges
+that he was injured outside the United States by transnational securities fraud, the plaintiff should be required
+to prove that his loss resulted not simply from the fraudulent scheme as a whole, but directly from the component of the scheme that occurred in the United States.
+“[T]his Court ordinarily construes ambiguous statutes to avoid unreasonable interference with the sovereign authority of other nations.” F. Hoffman-La Roche
+Ltd v. Empagran S.A., 542 U.S. 155, 164 (2004). Application of substantive federal antifraud provisions to
+transnational schemes usually will not interfere with
+comity among different nations because there is broad
+international consensus regarding the need for such regulation. See 1 Restatement (Third) of Foreign Relations
+Law § 416 note 3, at 301 (1987) (“United States securities regulation * * * has not resulted in state-to-state
+conflict.”). The Commission, moreover, routinely works
+with its overseas counterparts to develop coordinated
+approaches to transnational securities-fraud enforcement. See 15 U.S.C. 78u(a)(2).
+Certain aspects of private securities-fraud litigation
+—e.g., utilization of the fraud-on-the-market theory and
+the class-action device, both of which are potentially
+implicated in this case—may, however, create the potential for conflict among nations. See generally Hannah L.
+Buxbaum, Multinational Class Actions Under Federal
+Securities Law: Managing Jurisdictional Conflict, 46
+Colum. J. Transnation’l L. 14, 61-64 (2007). In addition,
+other nations might perceive affording a private remedy
+
+15
+
+to foreign plaintiffs as circumventing the causes of action and remedies (and the limitations thereon) that
+those nations provide their own defrauded citizens, particularly if the plaintiff ’s principal grievance appears
+directed at another foreign entity. Absent indications of
+a contrary congressional intent, the judicially-created
+private right of action under Section 10(b) should be
+tailored so as to minimize the likelihood of such international friction.
+In addition, invocation of the Section 10(b) right of
+action by foreign plaintiffs risks diverting the resources
+of United States courts to the redress of harms having
+only an attenuated connection to this country. Requiring a direct causal connection between the foreign plaintiff ’s injury and the United States component of a transnational scheme alleviates that danger. The Commission, by contrast, is a federal law-enforcement agency
+that can be expected to take account of national interests (including the national interest in ensuring that this
+country does not become a safe haven for wrongdoers)
+when it determines whether particular enforcement
+suits represent sound uses of its own resources and
+those of the federal courts.
+In this case, the link between HomeSide’s alleged
+false statements and the ultimate harm to petitioners
+was too indirect to support liability in a private suit. As
+the court of appeals explained, “while HomeSide may
+have been the original source of the problematic numbers, those numbers had to pass through a number of
+checkpoints manned by NAB’s Australian personnel
+before reaching investors.” Pet. App. 21a. In allegedly
+incorporating the false numbers into NAB’s financial
+reports and other public statements, NAB personnel
+were not acting under the direction and control of
+
+16
+
+HomeSide, but rather were exercising independent
+judgment as officers of HomeSide’s parent corporation.2
+Petitioners’ allegations thus posit a “lengthy chain of
+causation between what HomeSide did and the harm to
+investors,” ibid., and that causal chain includes significant intervening events outside this country, including
+the inflation of the stock price in the Australian trading
+market. The indirectness of the link between the Florida component of the scheme and petitioners’ injuries
+does not negate the existence of a Section 10(b) violation, but it provides a sound basis for dismissing petitioners’ private suit.3
+
+2
+
+A different analysis might be appropriate if the American mastermind of a transnational fraud scheme directed and controlled subordinates who carried out his instructions abroad. In that context, the actions of the foreign agents could reasonably be attributed to the domestic principal rather than treated as intervening causes of foreign plaintiffs’ injuries.
+3
+The Commission’s amicus brief in the Second Circuit argued that
+petitioners’ allegations in this case were sufficient to survive a motion
+to dismiss. See Pet. App. 77a. The Commission made clear, however,
+that its brief was premised on acceptance of existing Second Circuit
+precedents. See id. at 55a n.2. Based on its view that the application of
+Section 10(b) to transnational frauds involves a question of subjectmatter jurisdiction, the Second Circuit had previously held that private
+suits and SEC enforcement actions alleging such frauds are subject to
+the same limitations. See Berger, 322 F.3d at 193. The Commission in
+this case therefore had no occasion to discuss the distinct requirements,
+beyond the need to allege and prove a substantive violation of Section
+10(b), that apply to private plaintiffs who invoke the implied right of
+action.
+
+17
+
+D.	 Petitioners Have Identified No Decision Indicating That
+Another Court Of Appeals Would Have Allowed Their
+Private Suit To Go Forward
+
+Petitioners contend (Pet. 2-4, 11-14) that the courts
+of appeals are divided regarding the amount of domestic
+conduct necessary to proceed on transnational securityfraud claims in federal court. More specifically, petitioners identify what they contend is a three-way circuit
+split in which the Third, Eighth, and Ninth Circuits require a “lesser quantum” of conduct; the Second, Fifth
+and Seventh Circuits “set a mid-course”; and the D.C.
+Circuit applies “the most restrictive approach.” Pet. 1213 (emphasis and citation omitted). In fact, the differences among the circuits are much less pronounced than
+petitioners contend. For the most part, the circuits have
+agreed that private Section 10(b) suits may go forward
+if conduct within the United States is a “significant” or
+“substantial” part of the fraudulent scheme and the domestic conduct “directly causes” the plaintiff ’s injury.
+And while the approaches of the various courts of appeals have not been entirely uniform, petitioners identify no case indicating that any other circuit would have
+allowed their suit to go forward.
+1. Petitioners’ assertion of a circuit conflict rests
+principally on quotations from two courts of appeals.
+See Pet. 12; Reply Br. 2-3. The Fifth Circuit has suggested that “[t]he circuits are divided” based on its view
+that the Third, Eighth, and Ninth Circuits require a
+“lesser quantum of conduct” than the Second Circuit’s
+standard, which the Fifth Circuit adopted. Robinson v.
+TCI/US W. Commc’ns, Inc., 117 F.3d 900, 905-906 (5th
+Cir. 1997). The Seventh Circuit made a similar observation in adopting the Second Circuit’s formulation, which
+requires that an alleged transnational securities fraud
+
+18
+
+with no domestic effect involve domestic conduct that
+“directly causes the plaintiff ’s alleged loss” and constitute more than “merely preparatory” action. Kauthar,
+149 F.3d at 667; see id. at 665-666 (quoting Robinson
+and noting that courts “have articulated a number of
+methodologies”). Neither opinion, however, identifies a
+concrete (let alone a frequently recurring) fact pattern
+in which these circuits would reach conflicting results.
+Petitioners emphasize (Pet. 12) the Third Circuit’s
+statement in Kasser, 548 F.2d at 114, that a securitiesfraud plaintiff must show “at least some [domestic] activity designed to further a fraudulent scheme.” Contrary to petitioner’s suggestion, however, that statement
+does not purport to define the amount of domestic conduct needed to bring a fraudulent scheme within Section
+10(b)’s coverage. Kasser itself involved much more than
+“some” domestic activity. The Kasser defendants had
+“unleash[ed] from this country a pervasive scheme to
+defraud a foreign corporation”: “significant conduct”
+had occurred in the United States to advance that
+scheme, and such conduct “was essential to the plan to
+defraud.” Id. at 111-112, 114-115. 4 Kasser, moreover,
+was an SEC enforcement action, and the court held that
+“a district court does have jurisdiction in an SEC suit
+for injunctive relief under the federal securities laws,
+4
+
+In Kasser, the principal defendant (Kasser) was a United States
+resident who “largely owned and dominated” the two corporate defendants, one of which was a Delaware corporation. 548 F.2d at 111. Numerous acts “essential” to the fraud—including negotiations with the
+victim corporation, the execution of a key investment contract, the
+drafting of other contracts executed abroad, the use of the United
+States mails and telephones to further the scheme, and the transmittal
+of fraudulently procured proceeds to and from this country—were performed in the United States. Id. at 111, 115.
+
+19
+
+given circumstances such as are presented here.” Id. at
+112. The court thus had no occasion to consider what
+distinct limitations might apply to private suits brought
+by foreign plaintiffs. Cf. pp. 13-16, supra.
+The Eighth Circuit subsequently concluded that Kasser was consistent with its own requirement that “significant conduct” occur in this country as part of a fraudulent scheme. Continental Grain, 592 F.2d at 419 (quoting Kassar, 548 F.2d 111-112). In holding that the private plaintiffs’ suit could go forward, the court in Continental Grain endorsed the requirements, drawn from
+Second Circuit precedents, that the defendant’s conduct
+within the United States must be more than “merely
+preparatory” and that it must “directly cause the
+losses.” Id. at 420 (quoting Vencap, Ltd., 519 F.2d at
+1018, and Bersch, 519 F.2d at 993). The fraudulent
+scheme in Continental Grain was “devised and completed in the United States”: domestic letters and telephone calls ensured that material information would be
+concealed from a prospective buyer, and the resulting
+contract with that victim was executed in the United
+States by a United States citizen-resident and a United
+States corporation. Ibid.; see id. at 411-413.
+The Ninth Circuit subsequently “adopt[ed] the Continental Grain test.” Grunenthal GmbH v. Hotz, 712
+F.2d 421, 425 (1983). The court explained that, under
+that standard, “[t]he conduct in the United States cannot be merely preparatory . . . and must be material,
+that is, directly cause the losses.” Id. at 424 (quoting
+Continental Grain, 592 F.2d at 420). The court further
+concluded that its “[a]ssertion of jurisdiction under the
+facts of [Grunenthal] [wa]s not inconsistent with the
+approach taken by the Second Circuit.” Id. at 426. In
+Grunenthal, the pertinent sales contract procured by
+
+20
+
+fraud was executed in the United States immediately
+after fraudulent conduct in a face-to-face Los Angeles
+meeting that directly “induced [the victim] to execute
+the agreement.” Id. at 425; see id. at 423.
+Petitioners, by contrast, allege that they suffered
+losses on an Australian stock exchange because of fraudulent financial statements prepared in and distributed
+from Australia by an Australian corporation. In none of
+the circuits discussed above would this conduct have
+sufficed to allow petitioners’ suit to go forward.
+2. In one respect, the decision below appears to impose a standard more demanding than the approaches
+previously adopted by the Second Circuit and other
+courts of appeals. By framing the question before it as
+“what conduct comprises the heart of the alleged fraud,”
+Pet. App. 18a, the court of appeals suggested that Section 10(b) covers only those transnational frauds in
+which domestic conduct predominates. Other courts of
+appeals, by contrast, have focused on whether conduct
+within the United States is “significant” or “substantial”
+rather than “merely preparatory” to the fraud.
+In addition to concluding that Australia was the
+“heart” of the alleged fraud, however, the court of appeals relied on the “lengthy chain of causation between
+what HomeSide did [in the United States] and the harm
+to investors.” Pet. App. 21a. That aspect of the court’s
+analysis is consistent with decisions of other circuits,
+which have required private Section 10(b) plaintiffs to
+show that conduct within the United States “directly”
+caused their losses. See Grunenthal, 712 F.2d at 424
+(citation omitted); Continental Grain, 592 F.2d at 420
+(citation omitted). Petitioners identify no case in which
+a court of appeals has allowed a private Section 10(b)
+suit to go forward despite a similarly attenuated link
+
+21
+
+between the United States component of a fraudulent
+scheme and the plaintiff ’s ultimate harm. Because the
+indirectness of the causal chain in this case provides an
+independent basis for dismissing petitioners’ private suit
+(see pp. 13-16, supra), the apparent inconsistency between the court’s “heart of the alleged fraud” analysis
+and decisions of other courts of appeals does not warrant this Court’s review.5
+3. In Zoelsch v. Arthur Andersen & Co., 824 F.2d 27
+(1987), the D.C. Circuit adopted a “more restrictive test”
+that requires that a defendant’s “domestic conduct comprise all the elements * * * necessary to establish a
+violation of section 10(b) and Rule 10b-5.” Id. at 31. The
+D.C. Circuit’s adoption of that standard was based in
+part on the court’s mistaken view that the Second Circuit “seem[ed]” to require that showing. Ibid.; see Pet.
+App. 11a-12a n.6 (“disavow[ing]” Zoelsch’s characterization of Second Circuit’s jurisprudence); cf. Zoelsch, 824
+F.2d at 36 (Wald, J., concurring in the judgment) (“find[ing] it unnecessary” to adopt the court’s test because
+the alleged conduct in Zoelsch was insufficient “even
+under the less strict approach adopted by the Third,
+Eighth, and Ninth Circuits”). Zoelsch therefore does reflect a division of authority on the appropriate standard
+5
+
+The Eleventh Circuit’s decision in In re CP Ships Ltd. Sec. Litig.,
+578 F.3d 1306 (2009), which was issued after the petition for a writ of
+certiorari was filed in this case, is also consistent with the ruling below.
+The Eleventh Circuit discussed at some length the court of appeals’ decision in this case, and concluded that the facts before it “satisf[ied] the
+Morrison application of the Second Circuit test.” Id. at 1316 n.11. The
+court explained in particular that, “in the instant case, and unlike Morrison, the Complaint indicates no lengthy chain of causation between
+the American contribution to the misstatements and the harm to investors. Rather, the causation here was direct and immediate.” Id. at
+1316.
+
+22
+
+for determining when courts may entertain private Section 10(b) suits alleging transnational securities frauds.6
+This case, however, would not be a suitable vehicle
+for resolving that division. Petitioners do not contend
+that they could prevail under Zoelsch’s restrictive test.
+See Reply Br. 1. Because the court of appeals correctly
+held that petitioners’ suit could not go forward even under the Second Circuit’s less demanding approach, the
+choice between the two standards would not affect the
+outcome in this case.
+CONCLUSION
+
+The petition for a writ of certiorari should be denied.
+Respectfully submitted.
+DAVID M. BECKER
+General Counsel
+MARK D. CAHN
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+MARK PENNINGTON
+Assistant General Counsel
+WILLIAM K. SHIREY
+Counsel to the General
+
+Counsel
+
+Securities and Exchange
+
+Commission
+
+
+ELENA KAGAN
+Solicitor General
+MALCOLM L. STEWART
+Deputy Solicitor General
+ANTHONY A. YANG
+Assistant to the Solicitor
+General
+
+OCTOBER 2009
+
+6
+
+The court in Zoelsch expressly reserved the question whether a less
+demanding standard might be appropriate for enforcement suits
+brought by the Commission than for actions by private plaintiffs. 824
+F.3d at 33 n.3; see pp. 10-11, supra.
+
+

@@ -1,0 +1,1057 @@
+05-0115-CV
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+__________________________
+AT HOME CORPORATION,
+Plaintiff - Appellant,
+v.
+COX COMMUNICATIONS, INC., COX@HOME, INC.,
+COMCAST CORPORATION, COMCAST ONLINE
+COMMUNICATIONS, INC., COMCAST PC INVESTMENTS,
+INC., BRIAN L. ROBERTS and DAVID M. WOODROW,
+Defendants - Appellees.
+__________________________________________________________
+On Appeal from the United States District Court
+for the Southern District of New York
+__________________________________________________________
+BRIEF OF THE SECURITIES AND
+EXCHANGE COMMISSION, AMICUS CURIAE,
+SUBMITTED AT THE REQUEST OF THE COURT
+__________________________________________________________
+BRIAN G. CARTWRIGHT
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+ERIC SUMMERGRAD
+Deputy Solicitor
+ALLAN A. CAPUTE
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+100 F Street, NE
+Washington, D.C. 20549-8010
+(202) 551-5122 (Capute)
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+BACKGROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+I.
+
+THE ESTABLISHMENT OF THE PUTS IN MARCH 2000
+CONSTITUTED A SALE OF AT HOME STOCK FOR
+PURPOSES OF SECTION 16(b). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+II.
+
+THE MAY 2001 AGREEMENT TO CANCEL THE FIXED
+PRICE PUTS WAS A PURCHASE FOR SECTION 16(b)
+PURPOSES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+III.
+
+COMCAST’S ACQUISITION OF THREE CABLE COMPANIES
+THAT OWNED AT HOME WARRANTS WAS NOT A
+PURCHASE OF THE WARRANTS FOR PURPOSES OF
+SECTION 16(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+IV.
+
+THE “UNORTHODOX TRANSACTION DOCTRINE” IS
+INAPPLICABLE TO THE TRANSACTIONS IN THIS CASE. . . . . . . . . 15
+
+V.
+
+CONTROLLING DEFERENCE IS OWED BY THE COURT
+TO THE COMMISSION’S REASONABLE INTERPRETATIONS
+OF SECTION 16(b) AND RELATED COMMISSION RULES . . . . . . . . 16
+A.
+
+This Court and the Supreme Court Have Repeatedly Held that
+a Court Is Bound by an Agency’s Reasonable Interpretations
+of Its Own Regulations Provided in an Amicus Brief . . . . . . . . . . . . . 16
+
+B.
+
+This Court Should Accord Chevron Deference to Interpretations
+of the Federal Securities Statutes Provided in Commission
+Amicus Briefs. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+-i-
+
+TABLE OF CONTENTS (CONTINUED)
+CERTIFICATE OF COMPLIANCE WITH F.R.A.P. 32(A)
+CERTIFICATE OF COMPLIANCE WITH LOCAL RULE 32(a)(1): BRIEFS IN
+DIGITAL FORMAT
+CERTIFICATE OF SERVICE
+
+-ii-
+
+TABLE OF AUTHORITIES
+Cases
+
+Page
+
+Alaska Dept. of Environmental Conservation v. EPA,
+540 U.S. 461 (2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+American Standard, Inc. v. Crane Co., 510 F.2d 1043 (2d Cir. 1974) . . . . . . . . . . . 12
+At Home Corporation v. Cox Communications, et al.,
+340 F. Supp. 2d 404 (S.D.N.Y. 2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Auer v. Robbins, 519 U.S. 452 (1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 18
+Barnhart v. Walton, 535 U.S. 212 (2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 21, 23
+
+Bowen v. Georgetown Univ. Hospital, 488 U.S. 204 (1988) . . . . . . . . . . . . . . . . . . 17
+Bowles v. Seminole Rock & Sand Co., 325 U.S. 410 (1945) . . . . . . . . . . . . . . . . 17, 18
+Chevron, U.S.A., Inc. v. Natural Resources Defense Council, Inc.,
+467 U.S. 837 (1984) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 19, 20
+passim
+Christensen v. Harris County, 529 U.S. 576 (2000) . . . . . . . . . . . . . . . . . . . . . . . 20, 22
+Community Health Center v. Wilson-Coker, 311 F.3d 132 (2d Cir. 2002) . . . . . . . 23
+Dabit v. Merrill Lynch, Pierce, Fenner & Smith, Inc.,
+395 F.3d 25 (2d Cir.), cert. granted., 126 S. Ct. 34 (2005) . . . . . . . . . . . . . . . . 20, 23
+DeMaria v. Andersen, 318 F.3d 170 (2d Cir. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Drake v. FAA, 291 F.3d 59 (D.C. Cir. 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Ecarnacion v. Barnhart, 331 F.3d 78 (2d Cir. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . 18
+In re Enterprise Mortgage Acceptance Co., LLC, Securities Litigation,
+391 F.3d 401 (2d Cir. 2005) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 23
+-iii-
+
+TABLE OF AUTHORITIES (CONTINUED)
+Cases (Continued)
+
+Page
+
+Foremost-McKesson, Inc. v. Provident Securities Co.,
+423 U.S. 232 (1976) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Gollust v. Mendell, 501 U.S. 115 (1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Gryl v. Shire Pharmaceuticals Group PLC., 298 F.3d 136 (2d Cir. 2002) . . . . . . . . 25
+Kern County Land Co. v. Occidental Petroleum Corp.,
+411 U.S. 582 (1973) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 12, 14
+passim
+LaFleur v. Whitman, 300 F.3d 256 (2d Cir. 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Levy v. Southbrook International Investments, Ltd.,
+263 F.3d 10 (2d Cir. 2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 25
+Martin v. Occupational Safety & Health Rev. Com’n.,
+499 U.S. 144 (1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+National Cable & Telecommunications Assoc. v. Brand X Internet Services,
+__ U.S. __, 125 S. Ct. 2688 (2005) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+In re New Times Securities Services, Inc., 371 F.3d 68 (2d Cir. 2004) . . . . . . . 24, 26
+Press v. Quick & Reilly, Inc., 218 F.3d 121 (2d Cir. 2000) . . . . . . . . . . . . . . . . . . . . 17
+Reliance Electric Co. v. Emerson Electric Co., 404 U.S. 418 (1972) . . . . . . . . . 12, 13
+SEC v. American Board of Trade, Inc., 751 F.2d 529 (2d Cir. 1984) . . . . . . . . . . . 14
+Skidmore v. Swift & Co., 323 U.S. 134 (1944) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Taylor v. Vt. Dep. of Educ., 313 F.3d 768 (2d Cir. 2002) . . . . . . . . . . . . . . . . . . . . . 18
+
+-iv-
+
+TABLE OF AUTHORITIES (CONTINUED)
+Cases (Continued)
+
+Page
+
+United States v. Mead Corp., 533 U.S. 218 (2001) . . . . . . . . . . . . . . . . . . . . . . . 20, 22
+Washington State Dept. of Social and Health Servs. v. Guardianship
+Estate of Keffeler, 537 U.S. 371 (2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Yoder v. Orthomolecular Nutrition Institute, Inc.,
+751 F.2d 555 (2d. Cir. 1985) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Yourman v. Giuliani, 229 F.3d 124 (2d Cir. 2000) . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Commission Releases
+Notice of Proposal to Adopt a Rule Exempting from the Operation
+of Section 16(b) Certain Acquisitions and Dispositions of Securities
+Pursuant to Mergers or Consolidations, Exchange Act Rel. No. 4696,
+17 Fed. Reg. 3177, 1952 SEC LEXIS 63 (April 9, 1952) . . . . . . . . . . . . . . . . . . . . 13
+Ownership Reports and Trading By Officers, Directors and Principal
+Securities Holders, Exchange Act Rel. No. 28869, 56 Fed. Reg. 7242
+(Feb. 21, 1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 5, 18
+Statutes and Rules
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+Section 3(a), 15 U.S.C. 78c(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Section 3(a)(10), 15 U.S.C. 78c(a)(10) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Section 3(a)(13), 15 U.S.C. 78c(a)(13) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 14
+Section 16(b), 15 U.S.C. 78p(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1, 2,3
+passim
+
+-v-
+
+TABLE OF AUTHORITIES (CONTINUED)
+Statutes and Rules (Continued)
+
+Page
+
+Rules Under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.
+Rule 16a-1(c), 17 C.F.R. 240.16a-1(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Rule 16a-1(c)(6), 17 C.F.R. 240.16a-1(c)(6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Rule 16a-1(h), 17 C.F.R. 240.16a-1(h) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Rule 16a-9, 17 C.F.R. 240.16a-9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16a-10, 17 C.F.R. 240.16a-10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16a-11, 17 C.F.R. 240.16a-11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16a-12, 17 C.F.R. 240.16a-12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16a-13, 17 C.F.R. 240.16a-13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16b-1, 17 C.F.R. 240.16b-1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16b-2, 17 C.F.R. 240.16b-2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16b-3, 17 C.F.R. 240.16b-3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16b-4, 17 C.F.R. 240.16b-4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16b-5, 17 C.F.R. 240.16b-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16b-6, 17 C.F.R. 240.16b-6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16b-6(a), 17 C.F.R. 240.61b-6(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 9
+Rule 16b-6(b), 17 C.F.R. 240.61b-6(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Rule 16b-6(d), 17 C.F.R. 240.16b-6(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 9
+Rule 16b-7, 17 C.F.R. 240.16b-7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rule 16b-8, 17 C.F.R. 240.16b-8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Miscellaneous
+David S. Ruder, Address: The Development of Legal Doctrine Through
+Amicus Participation: The SEC Experience, 1989 Wis. L. Rev. 1167
+(1989) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+H.R. Rep. No. 1383, 73d Cong., 2d Sess. 13 (1934) . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Request for Commission Amicus Participation in a Pending Case,
+http://www.sec.gov/litigation/briefs/amicusrequest.htm . . . . . . . . . . . . . . . . . . . 26
+
+-vi-
+
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+____________________________
+No. 05-0115-cv
+____________________________
+AT HOME CORPORATION,
+Plaintiff - Appellant,
+v.
+COX COMMUNICATIONS, INC., COX@HOME, INC.,
+COMCAST CORPORATION, COMCAST ONLINE
+COMMUNICATIONS, INC., COMCAST PC INVESTMENTS,
+INC., BRIAN L. ROBERTS and DAVID M. WOODROW,
+Defendants - Appellees.
+__________________________________________________________
+On Appeal from the United States District Court
+for the Southern District of New York
+__________________________________________________________
+BRIEF OF THE SECURITIES AND
+EXCHANGE COMMISSION, AMICUS CURIAE,
+SUBMITTED AT THE REQUEST OF THE COURT
+__________________________________________________________
+INTRODUCTION
+The Securities and Exchange Commission submits this brief as amicus curiae in
+response to a request by the Court.
+This action was brought by At Home Corporation (“At Home,” “issuer,” or
+“plaintiff”) under Section 16(b) of the Securities Exchange Act of 1934, 15 U.S.C.
+78p(b), to recover alleged short-swing profits obtained by insiders of At Home. The
+complaint alleges that defendants - - Cox Communications, Inc., Comcast
+
+Corporation and their affiliates - - sold and then purchased, or purchased and sold,
+At Home equity securities within six months. The defendants are alleged to have
+acted as a group that owned more than 10 percent of At Home securities, and thus to
+be statutory insiders of At Home. The suit seeks recovery of profits the defendants
+allegedly realized on these short-swing trades. The district court dismissed plaintiff’s
+Section 16(b) claims. See At Home Corporation v. Cox Communications, et al., 340 F. Supp.
+2d 404 (S.D.N.Y. 2004). The Commission agrees with the district court that
+defendants are not liable under Section 16(b).
+BACKGROUND
+At Home was founded by a number of cable companies in March 1995 to
+provide cable-based internet access to customers (Compl. ¶18). On March 28, 2000,
+the defendants, Cox and Comcast, entered into a letter agreement with AT&T
+(“agreement”) in which Cox and Comcast acquired, respectively, a put to sell to
+AT&T up to $1.4 billion and $1.5 billion in At Home shares. Under the terms of the
+agreement, Cox and Comcast could sell each share for the higher of (1) $48 or (2) a
+floating average market price at the time of exercise (A-133; Compl. ¶45).
+Defendants notified AT&T of their intention to exercise their puts on January
+11, 2001. At that time, At Home’s shares were selling for an average $7.72 per share
+(Compl. ¶53). Accordingly, defendants’ notices to AT&T stated that the defendants
+“assumed” that the purchase price would be $48 per share (A-165, 168). AT&T did
+-2-
+
+not want the shares. AT&T and the defendants entered into a new agreement on
+May 18, 2001 whereby the defendants canceled their puts in exchange for 155.3
+million shares of AT&T stock worth $3.43 billion (Compl. ¶56).
+The plaintiff alleged that Cox and Comcast sold At Home shares for purposes
+of Section 16(b) on January 11, 2001, when they provided notice of their intent to
+exercise the puts.1/ This was within six months of the May 18, 2001 agreement to
+rescind the puts, which plaintiff contended was a purchase of At Home securities.
+The district court agreed that the rescission was a purchase, but held that the earlier
+sale occurred on March 28, 2000, when the puts were established, so that the sale and
+purchase took place more than six months apart, and were thus not subject to Section
+16(b).
+The plaintiff alternatively claimed that if the sale occurred on March 28, 2000,
+Comcast made matching purchases when, between January and August 2000, it
+acquired three cable companies that held At Home securities. The district court
+dismissed this claim, holding that these indirect acquisitions were not cognizable
+transactions under Section 16(b).
+
+1/
+
+Alternatively, the plaintiffs contended that the sales occurred on February 2,
+2001, at the end of the 30 day period for determining if the fixed rate or the
+floating rate was higher.
+-3-
+
+The plaintiff appealed, and this Court has sent a letter to the Commission
+inviting it to answer five questions. We address those questions in order.
+ARGUMENT
+I.
+
+THE ESTABLISHMENT OF THE PUTS IN MARCH 2000
+CONSTITUTED A SALE OF AT HOME STOCK FOR PURPOSES
+OF SECTION 16(b).
+The Court asks “[w]hether the establishment of the puts on March 28, 2000
+
+constituted a sale of At Home securities for purposes of section 16(b) * * *.” It did.
+Before 1991, the purchase or sale of securities underlying a derivative security
+occurred on the exercise of the derivative, rather than upon its creation. In 1991, the
+Commission noted that this left “open a significant potential for short-swing abuse
+in trading derivative securities.” Ownership Reports and Trading By Officers, Directors and
+Principal Securities Holders, Exchange Act Rel. No. 28869, 56 Fed. Reg. 7242, 7250
+(Feb. 21, 1991). In that release, the Commission offered the following example:
+[A]n insider with knowledge of a positive material development, to be
+announced shortly, determines that while he wants to retain his existing
+equity position, he wants to take advantage of the information, so he
+purchases issuer warrants. After the public announcement and rise in
+the stock price the insider sells his common stock, obtaining a shortswing profit, knowing that he can replace the shares at a predetermined
+price since he holds the warrants. Under the former rules, he could
+simply wait six months and a day to exercise the warrants so the profit
+would not be subject to section 16(b) and not recoverable by the
+company.
+
+-4-
+
+Id. at 7250. Likewise, an insider who knows of impending negative information can
+negotiate a fixed price put, enabling it to sell, after the negative information is
+released and the price falls, at the higher price. The insider unfairly uses the inside
+information by fixing the price when the derivative is created, not when it is
+exercised.
+In 1991, the Commission amended the rules so that the acquisition of a
+“derivative security” is also considered the acquisition of the underlying securities for
+purposes of Section 16(b). “[D]erivative security” was defined to mean “any option,
+warrant, convertible security, stock appreciation right, or similar right with an exercise
+or conversion privilege at a price related to an equity security, or similar securities
+with a value derived from the value of an equity security * * *.” Rule 16a-1(c), 17
+C.F.R. 240.16a-1(c). Rule 16b-6(a), 17 C.F.R. 240.16b-6(a), provides:
+The * * * establishment of or increase in a put equivalent position or
+liquidation of or decrease in a call equivalent position shall be deemed a
+sale of the underlying securities for purposes of section 16(b) of the Act
+***.
+A “put equivalent position” is defined by Rule 16a-1(h), 17 C.F.R. 240.16a-1(h), to
+mean “a derivative security position that increases in value as the value of the
+underlying equity decreases, including, but not limited to, a long put option and a
+short call option position.” A put with a fixed exercise price increases in value as the
+
+-5-
+
+price of the underlying stock decreases because the spread between the market price
+and the fixed exercise price increases.
+On the other hand, a floating price linked to the market price does not have
+that attribute. The 1991 rules draw a sharp distinction between fixed and floating
+prices. The Commission explained that “[r]ights without a fixed exercise price do not
+provide an insider the same kind of opportunity for short-swing profit since the
+purchase price is not known in advance.” Ownership Reports, Exchange Act Rel. No.
+28869, 56 Fed. Reg. at 7252. The Commission stressed that “[t]he opportunity to
+lock in a profit begins when the exercise price is fixed; at that time, the right becomes
+a derivative security subject to section 16.” Id. Conversely, the later exercise of a
+derivative at its previously fixed price is exempt from Section 16(b) and has no Section
+16(b) consequences. See Rule 16b-6(b), 17 C.F.R. 240.16b-6(b).
+On the other hand, the Commission explained that:
+[A] right with a floating exercise price is not required to be reported and
+will not be deemed to be acquired or purchased, for section 16
+purposes, until the purchase price of the underlying security becomes
+fixed or established, which commonly occurs at exercise. Thus, a right
+to purchase an equity security is deemed acquired as of the date the
+exercise or conversion price becomes fixed, and the acquisition, absent
+an exemption, would be matchable for section 16(b) purposes with a
+disposition within six months of the fixing of the price.
+56 Fed. Reg. at 7253. “The primary potential for abuse [of inside information] arises
+at the time of exercise for a floating price derivative security because only at exercise
+-6-
+
+is the price fixed and, therefore, the extent of the profit opportunity defined.” Thus,
+“[b]y treating the exercise of the floating price derivative security as the ‘acquisition’
+of the underlying security, the rules mitigate the incentives for insiders to abuse their
+informational advantage.” 2/
+In this case, the March 2000 agreement presented the defendants with puts
+with a fixed price of $48 paired with puts with a floating price based on a specified
+market average. In January 2001, with the market price far below $48, the defendants
+chose to exercise their puts at the fixed price. The opportunity to abuse inside
+information existed only at the time the fixed exercise price was set. If inside
+information is learned only after the fixed price is set, the information cannot be
+abused in later exercising at the fixed price. Because the fixed price was used in this
+case, the establishment of the puts is when the six month trading period should
+begin. The district court correctly concluded that the establishment of the puts in
+March 2000 constituted a sale of At Home stock under Section 16(b).
+Plaintiff nevertheless argues that the hybrid security should be treated as a
+floating price derivative security, as though there were no fixed component. The
+cornerstone of plaintiff’s contention is that, “in contrast to any other instrument in
+
+2/
+
+This is reflected in Rule 16a-1(c)(6), 17 C.F.R. 240. 16a-1(c)(6), which excludes
+from the definition of a “derivative security” “[r]ights with an exercise or
+conversion privilege at a price that is not fixed.”
+-7-
+
+any other reported case of which we are aware, the only fixed component at issuance
+was not the number of shares or price per share, but the total consideration to be
+paid by the grantor of the option (AT&T).” (Appellant’s Brief p. 37 (emphases in
+original)). Thus, “[t]he only fact that all the parties to the Put knew on March 28,
+2000 was that AT&T would pay a total of approximately $2.9 billion, but the number
+of shares and the price per share could not be known until after notice was given and
+the stock market determined the final price”(Appellant’s Brief p. 37-38).
+The district court correctly rejected this argument, pointing out that “[t]he
+specified maximum overall price of $2.9 million, when combined with the specified
+minimum per- share price of $48, dictated that defendants could sell, at most, 60.4
+million shares.3/ Thus the initial agreement did limit the number of shares which
+AT&T would be required to buy.” 340 F. Supp. 2d at 410 (emphasis in original).4/
+
+3/
+
+Since both the total and per share prices were fixed, the number of shares with
+respect to the fixed price component was fixed.
+
+4/
+
+Plaintiff also argues that the holding of the district court is unworkable in cases
+when the insider exercises a hybrid put at the floating rate because it would
+require there to be a second sale of the same underlying securities: “There
+could not be a ‘second’ sale, because according to the district court, all of the
+shares were deemed sold on March 28, 2000 at $48 per share * * * ”
+(Appellant’s Brief p. 37). This is incorrect. Where an insider exercises a hybrid
+put at the floating price, the fixed price put expires on an exempt basis by
+virtue of Rule 16b-6(d). The underlying shares become available for a
+different sale.
+-8-
+
+II.
+
+THE MAY 2001 AGREEMENT TO CANCEL THE FIXED PRICE
+PUTS WAS A PURCHASE FOR SECTION 16(b) PURPOSES.
+The Court next asks whether the May 18, 2001 agreement – in which the
+
+defendants agreed not to exercise their puts – was a purchase for purposes of Section
+16(b). The district court held that it was a purchase but that, since it occurred more
+than six months after the sale on March 28, 2000, the plaintiff’s first claim should be
+dismissed. That is correct.
+Under Rule 16b-6(a) the “liquidation of or decrease in a put equivalent
+position shall be deemed a purchase of the underlying security for purposes of
+section 16(b) * * *.” The May 2001 agreement explicitly cancelled what had been the
+defendants’ put equivalent position. Rule 16b-6(d), 17 C.F.R. 240.16b-6(d), provides
+that “[t]he disposition or closing of a long derivative security position, as a result of
+cancellation or expiration, shall be exempt from section 16(b) of the Act where no value
+is received from the cancellation or expiration” (emphasis added). This agreement
+does not qualify for that exemption since Cox and Comcast did receive value in
+exchange for agreeing to forgo the right to exercise their puts.
+Defendants nonetheless contend that “[a]fter the March 2000 Put was
+exercised on January 11, 2002, there was no put to ‘cancel’” and that the “[c]ourts
+uniformly have held that ‘once an option is exercised, the option itself ceases to exist and
+an enforceable bilateral contract is formed.’” (Brief of Appellee Cox p. 45 (emphases
+-9-
+
+in original); see also Brief of Appellee Comcast pp. 38-39). Defendants’ argument
+places semantics over substance: while the defendants gave notice of their intent to
+exercise the puts, they never, in fact, followed through and transferred any shares to
+AT&T.
+III.
+
+COMCAST’S ACQUISITION OF THREE CABLE COMPANIES
+THAT OWNED AT HOME WARRANTS WAS NOT A PURCHASE
+OF THE WARRANTS FOR PURPOSES OF SECTION 16(b).
+This Court’s third question is “[w]hether Comcast’s acquisition of three cable
+
+companies that owned warrants to purchase shares of At Home stock in January,
+March and August 2000 should be characterized as a § 16(b) purchase of At Home
+securities.” Under Count II of their complaint, plaintiff urges that if, arguendo, as
+Comcast contends, the creation of the put in March 28, 2000 constituted a ‘sale’ for
+purposes of Section 16(b), then that sale can be matched with Comcast’s acquisition
+of the warrants, which took place within six months of March 28, 2000 (Appellant’s
+Brief pp. 44-46; See also Compl. ¶ 74).5/ The plaintiff argues that “purchase,” as
+defined by Section 3(a)(13) of the Exchange Act, 15 U.S.C. 78c(a)(13), includes “any
+contract to buy, purchase, or otherwise acquire” and that this definition is broad
+enough to include the purchase of another company that, in turn, owns securities of
+the issuer (Appellant’s Brief pp. 44-46).
+
+5/
+
+There are no allegations against Cox in Count II.
+-10-
+
+The district court held that these transactions are not within the scope of
+Section 16(b) because the acquisition of the warrants was an incidental part of
+acquisitions of the three companies. Without deciding whether this amounted to a
+“purchase” of securities for purposes of Section 16(b), the court held (340 F. Supp.
+2d at 411):
+‘In deciding whether borderline transactions are within the reach of the
+statute, the courts have come to inquire whether the transaction may
+serve as a vehicle for the evil which Congress sought to prevent--the
+realization of short-swing profits based upon access to inside
+information.’ Kern County Land Co. v. Occidental Petroleum Corp., 411 U.S.
+582, 594 [ ] (1973). We can conceive of situations where an insider could
+acquire one company simply (or mainly) to obtain its interests in the
+subject company, as when the acquired company has few other assets or
+exists for the sole purpose of trading in shares of the subject company.
+However, plaintiff has failed to plead any facts giving rise to such a
+possibility here.
+The district court was correct to find that this sort of indirect acquisition in a
+change-in-control transaction typically does not fall within the scope of Section 16(b).
+The district court, however, incorrectly resolved the issue by use of Kern. The Kern
+Court held that a transaction that literally falls within the scope of Section 16(b) may,
+nevertheless, be excluded from the section if, on the facts of the case, it does not
+present a risk of speculative abuse. While the defendant in Kern was a greater than
+10% owner of stock in the issuer, it also was an unsuccessful hostile tender offeror.
+To the Court, the critical factors in excluding the defendant from liability under
+
+-11-
+
+Section 16(b) were that the defendant was forced to sell pursuant to a merger
+agreement, whose terms it did not negotiate, and, as a hostile tender offeror, the
+defendant did not have access to inside information. See Kern, 411 U.S. at 597-98.
+This Court has read Kern to require that the insider not have access to inside
+information and/or have no control over the terms of the transaction or its
+occurrence. See American Standard, Inc. v. Crane Co., 510 F.2d 1043, 1054 (2d Cir. 1974).
+Here, defendant Comcast does not meet either of those criteria, and we believe Kern
+does not apply.
+This case calls for a different approach. The acquisition of At Home warrants
+here was an indirect consequence of a change-in-control transaction. In general
+(although there can be exceptions, as we discuss below), this sort of indirect and
+incidental acquisition should be presumed not to be a “purchase” for purposes of
+Section 16(b), since it is not the sort of transaction Congress was concerned about.
+The Supreme Court has stated that “‘the only method Congress deemed effective to
+curb the evils of insider trading was a flat rule taking the profits out of a class of
+transactions in which the possibility of abuse was believed to be intolerably great.’”
+Kern, 411 U.S. at 592 (quoting Reliance Electric Co. v. Emerson Electric Co., 404 U.S. 418,
+422 (1972)). As the Commission explained long ago, a six-month period was chosen
+because that “arbitrary period” was thought “as roughly marking the distinction
+
+-12-
+
+between short swing speculation and long term investment.” Notice of Proposal to
+Adopt a Rule Exempting from the Operation of Section 16(b) Certain Acquisitions and
+Dispositions of Securities Pursuant to Mergers or Consolidations, Exchange Act Rel. No. 4696,
+17 Fed. Reg. 3177, 1952 SEC LEXIS 63 (April 9, 1952).
+Because Section 16(b) can be harsh in imposing strict liability, “Congress itself
+limited carefully the liability imposed by §16(b).” Foremost-McKesson, Inc. v. Provident
+Securities Co., 423 U.S. 232, 252 (1976). 6/ “When Congress has so recognized the
+need to limit carefully the ‘arbitrary and sweeping coverage’ of §16(b) * * * courts
+should not be quick to determine that * * * Congress intended the section to cover a
+particular transaction.” Id. at 252 (citations omitted). See also Gollust v. Mendell, 501
+U.S. 115, 122 (1991); H.R. Rep. No. 1383, 73d Cong., 2d Sess. 13 (1934).
+An insider who seeks to profit from inside information typically will engage in
+a purchase or sale in the issuer’s securities, and then engage in an opposite-way
+transaction when the information becomes public, and the securities’ price is affected.
+A change in control, however, is typically motivated by a desire to acquire control of
+a company. It also involves complex negotiations, and many strategic corporate
+considerations, and often involves regulatory review and approval. While it is not
+beyond possibility that an acquiror would tailor a change in control transaction to
+6/
+
+See also Gollust v. Mendell, 501 U.S. 115, 122 (1991); Reliance Electric Co. v. Emerson
+Electric Co., 404 U.S. at 422-25.
+-13-
+
+obtain short-swing profits from insider trading, it is certainly not going to be a
+common scenario. Good faith change in control transactions are not ones “in which
+the possibility of abuse [is] intolerably great,” Kern, 411 U.S. at 592.
+The plaintiff nonetheless argues that these acquisitions literally meet the words
+of the definition of “purchase” in Section 3(a)(13) of the Exchange Act. However,
+the prefatory language to the Exchange Act definitions states that they apply “[w]hen
+used in this title, unless the context otherwise requires.” Section 3(a), 15 U.S.C. 78c(a)
+(emphasis added). This Court has “recognized the importance of this introductory
+phrase in certain situations.” Yoder v. Orthomolecular Nutrition Institute, Inc., 751 F.2d
+555, 559 (2d. Cir. 1985). For example, Section 3(a)(10) of the Exchange Act, 15
+U.S.C. 78c(a)(10), excludes from the definition of “security” “any note * * * which
+has a maturity at the time of issuance of not exceeding nine months, exclusive of days
+of grace, or any renewal thereof the maturity of which is likewise limited.” In spite of
+this language, which would seem to exempt all notes of any quality, so long as of
+proper duration, this Court has long held, citing the context clause, that the
+exemption does not apply “literally,” but only applies to notes that are the equivalent
+of commercial paper. See, e.g., SEC v. American Board of Trade, Inc., 751 F.2d 529, 538
+(2d Cir. 1984)(Friendly, J.).
+
+-14-
+
+Employment of the context clause is likewise appropriate here. As discussed
+above, Section 16(b) is a strict liability statute. The purpose of the provision must be
+taken into account when construing the Section 3(a) definitions of “purchase” and
+“sale” with respect to Section 16(b). Since a change in control transaction will rarely
+be used to engage in insider trading in securities held as an asset by the acquired
+company, this sort of indirect acquisition should presumptively be deemed not to be
+a purchase for purposes of Section 16(b) (or a sale by the prior owners of the
+company). We say “presumptively” because, as the district court noted, there may be
+circumstances where an insider uses the acquisition of another entity as a subterfuge
+in order to acquire underlying securities. The plaintiff, however, should bear the
+burden of pleading and proving that this indirect acquisition was such an exception,
+something the plaintiff has not done here. 7/
+IV.
+
+THE “UNORTHODOX TRANSACTION DOCTRINE” IS
+INAPPLICABLE TO THE TRANSACTIONS IN THIS CASE.
+This Court next asks “[w]hether the Kern ‘unorthodox transaction’ doctrine
+
+supports the District Court’s dismissal of either of the relevant claims.” As discussed
+in the prior section, we do not believe that the doctrine should be expanded to apply,
+
+7/
+
+This does not mean, as might be thought, that Section 16(b) would cease to be
+a strict liability statute. It is a strict liability statute with respect to short-term
+transactions that are properly deemed purchases and sales for purposes of the
+statute. The inquiry here is whether a purchase was involved.
+-15-
+
+as the district court did, to the claim based on indirect acquisition of At Home
+warrants in three change of control transactions.
+Separately, Cox argues that dismissal of plaintiff’s first cause of action should
+be affirmed because “[a]s in Kern County, AT&T ‘undoubtedly knew more about’ At
+Home than Cox at the time of the alleged ‘purchase’ and ‘sale’” (Brief of Appellee
+Cox pp. 54-55, citing Kern County, 411 U.S. at 602). While this might be true, it is not a
+basis for applying Kern, which this Court has read to require lack of access to inside
+information and/or a forced transaction, neither of which existed here.
+V.
+
+CONTROLLING DEFERENCE IS OWED BY THE COURT TO
+THE COMMISSION’S REASONABLE INTERPRETATIONS OF
+SECTION 16(b) AND RELATED COMMISSION RULES.
+The Court asks “[w]hat deference, if any, this Court owes the positions the
+
+SEC adopts in its amicus curiae brief.” This actually presents two questions: (1) what
+deference is owed to the Commission’s construction of its own rules in an amicus
+brief; and (2) what deference is owed to the Commission’s construction of the federal
+securities statutes provided in an amicus brief.
+A.
+
+This Court and the Supreme Court Have Repeatedly Held that a
+Court Is Bound by an Agency’s Reasonable Interpretations of Its
+Own Regulations Provided in an Am ic u s Brief.
+
+The deference accorded by the courts to the Commission’s interpretations of
+its own rules in an amicus brief is settled law. This Court has repeatedly held that it is
+“‘bound by the SEC’s interpretations of its regulations in its amicus brief, unless they
+-16-
+
+are ‘plainly erroneous or inconsistent with the regulation[s].’” DeMaria v. Andersen,
+318 F.3d 170, 175 (2d Cir. 2003) and Levy v Southbrook International Investments, Ltd., 263
+F.3d 10, 14 (2d Cir. 2001) (both cases quoting Press v. Quick & Reilly, Inc., 218 F.3d 121,
+128 (2d Cir. 2000)). Accord Yourman v. Giuliani, 229 F.3d 124, 128 (2d Cir. 2000)
+(deferring to an interpretation of regulations submitted in an amicus brief by the
+Secretary of Labor). In Bowles v. Seminole Rock & Sand Co., 325 U.S. 410, 414 (1945),
+the Supreme Court first established the principle that an agency’s interpretation of
+one of its own regulations commands substantial judicial deference such that the
+agency’s interpretation “becomes of controlling weight unless it is plainly erroneous
+or inconsistent with the regulation.”
+More recently, the principle was reinforced in Auer v. Robbins, 519 U.S. 452
+(1997), where petitioner complained that an agency’s interpretation of a regulation
+came in the form of an amicus brief. The Supreme Court declared, “[t]hat does not, in
+the circumstances of this case, make it any less worthy of deference” because the
+agency’s “position is in no sense a ‘post hoc rationalizatio[n]’ advanced by [the] agency
+seeking to defend past agency action against attack” 519 U.S. at 462 (quoting Bowen v.
+Georgetown Univ. Hospital, 488 U.S. 204, 212 (1988)). “There is simply no reason to
+suspect that the interpretation does not reflect the agency’s fair and considered
+judgment on the matter in question.” Id. See also Barnhart v. Walton, 535 U.S. 212, 217
+(2002) (reaffirming Auer). As this Court has explained:
+
+-17-
+
+[W]e recognized that an agency’s interpretation of its own regulations is
+entitled to considerable deference, irrespective of the formality of the
+procedures used in formulating the interpretations. See Taylor v. Vt. Dep.
+of Educ., 313 F.3d 768, 779-80 (2d Cir. 2002) (citing Auer v. Robbins
+[,supra,at 461]); LaFleur v. Whitman, 300 F.3d 256, 277 (2d Cir. 2002)).
+We defer to an agency’s interpretation of its own regulations because we
+‘presume that the power authoritatively to interpret [the agency’s] own
+regulations is a component of the agency’s delegated lawmaking
+powers.’ Martin v. Occupational Safety & Health Rev. Com’n., 499 U.S. 144,
+151 [] (1991).
+Ecarnacion v. Barnhart, 331 F.3d 78, 86 (2d Cir. 2003).8/ In light of the well
+established law in the Supreme Court and this Court, the Commission’s
+interpretations of its rules expressed in this brief are binding, unless they are plainly
+erroneous or inconsistent with the regulations.
+B.
+
+This Court Should Accord Ch e v ro n Deference to Interpretations of
+the Federal Securities Statutes Provided in Commission Am ic u s
+Briefs.
+
+The Court also owes controlling deference to the Commission’s interpretation
+of the statute – Section 16(b) – provided in this amicus brief. The analysis of this
+question begins with Chevron, U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467
+U.S. 837 (1984). As the Supreme Court has recently summarized:
+
+8/
+
+There are three preconditions for applying Bowles or Auer deference: the
+language of the regulation in question must be ambiguous; there must be no
+reason to suspect that the interpretation does not reflect the agency’s fair and
+considered judgment on the matter in question; and the agency’s reading of its
+regulation must be fairly supported by the text of the regulation itself. Drake v.
+FAA, 291 F.3d 59, 68 (D.C. Cir. 2002) (citations omitted).
+-18-
+
+In Chevron, this Court held that ambiguities in statutes within an agency's
+jurisdiction to administer are delegations of authority to the agency to
+fill the statutory gap in reasonable fashion. Filling these gaps, the Court
+explained, involves difficult policy choices that agencies are better
+equipped to make than courts. 467 U.S., at 865-866, 81 L. Ed. 2d 694,
+104 S. Ct. 2778. If a statute is ambiguous, and if the implementing
+agency's construction is reasonable, Chevron requires a federal court to
+accept the agency's construction of the statute, even if the agency's
+reading differs from what the court believes is the best statutory
+interpretation. Id. at 843-844, and n. 11, 104 S. Ct. 2778.
+National Cable & Telecommunications Assoc., v. Brand X Internet Services, __ U.S. __, 125
+S.Ct. 2688, 2699 (2005). 9/
+For an agency interpretation to receive Chevron deference, the agency must
+have been entrusted by Congress with authority to interpret the statute, the statute
+must be ambiguous and subject to interpretation, and the agency’s interpretation
+must be a reasonable one. The term “purchase” as applied to Section 16(b) is
+ambiguous. Congress has entrusted the Commission with responsibility for resolving
+ambiguities in light of the purpose of the statute. Section 16(b) provides that “[t]his
+subsection shall not be construed to cover * * * any transaction or transactions which
+the Commission by rules and regulations may exempt as not comprehended within
+
+9/
+
+Prior to Chevron, the Court held in Skidmore v. Swift & Co., 323 U.S. 134 (1944),
+that the “rulings, interpretations and opinions of” an agency that do not
+constitute an exercise of lawmaking authority, “while not controlling upon the
+courts by reason of their authority, do constitute a body of experience and
+informed judgment” which are “entitled to respect” to the extent they are
+persuasive. Id. at 140.
+-19-
+
+the purpose of this subsection.” As this shows, Congress did not believe Section
+16(b) was self-explanatory and vested the Commission with authority to identify the
+purpose of the statute and identify transactions which do not contravene the section’s
+purpose. 10/
+The Commission has generally done that through rulemaking. However,
+rulemaking is not a prerequisite for the Commission’s views to be accorded Chevron
+deference. While earlier cases focused on the formality of an agency decision, such as
+whether it was the product of notice and comment rulemaking or of an adjudication,
+see Christensen v. Harris County, 529 U.S. 576, 587 (2000), more recent cases have
+focused on whether the interpretation is the product of authoritative agency
+consideration. In United States v. Mead Corp., 533 U.S. 218 (2001), the Court addressed
+the level of deference to be accorded to Customs Service tariff classifications
+contained in “letter rulings.” The court held that “administrative implementation of a
+
+10/
+
+In two recent cases, this Court declined to give Chevron deference to
+Commission amicus briefs because the statutes at issue did not explicitly look to
+the Commission to fill in interstices in the statutes. See Dabit v. Merrill Lynch,
+Pierce, Fenner & Smith, Inc., 395 F.3d 25, 34 n.6 (2d Cir.), cert. granted., 126 S. Ct.
+34 (2005) (Mem.) (construing provision of Securities Litigation Uniform
+Standards Act preempting state law securities fraud actions); In re Enterprise
+Mortgage Acceptance Co., LLC, Securities Litigation, 391 F.3d 401, 410 n.8 (2d Cir.
+2005) (construing provision in Sarbanes-Oxley Act modifying statutes of
+limitation in private securities lawsuits). Whatever the merit of those decisions
+as to those statutes, this case involves a statute, Section 16(b), in which
+Congress expressly delegated to the Commission that responsibility.
+-20-
+
+particular statutory provision qualifies for Chevron deference when it appears that
+Congress delegated authority to the agency generally to make rules carrying the force
+of law, and that the agency interpretation claiming deference was promulgated in the
+exercise of that authority.” Id. at 226-27. While the Court noted that “the
+overwhelming number of our cases applying Chevron deference have reviewed the
+fruits of notice-and-comment rulemaking or formal adjudication,” the Court added:
+That said, and as significant as notice-and-comment is in pointing to
+Chevron authority, the want of that procedure here does not decide the
+case, for we have sometimes found reasons for Chevron deference even
+when no such administrative formality was required and none was
+afforded.
+Id. at 230-31. The Court held that “[t]he fact that the tariff classification here was not
+a product of such formal process does not alone, therefore, bar the application of
+Chevron,” Id. at 231. The opinion, however, gives little conclusive guidance as to what
+must be shown, since the Court held that the authorities cited to it - - letter rulings
+issued by 46 different scattered Customs offices - - were obviously not authoritative
+agency positions. See id. 233.
+The next year, however, in Barnhart v. Walton, 535 U.S. 212 (2002), the Court
+achieved some clarity by stating flatly that an agency interpretation may be entitled to
+Chevron deference even when it is neither the product of notice-and-comment
+rulemaking nor has the force of law. The major factor the Court looked to is the
+level of careful consideration an agency has given the question. See 535 U.S. at 222. In
+-21-
+
+Barnhart the petitioner, whose application for benefits was denied by the Social
+Security Administration, asked the Court to disregard the agency’s interpretation
+found in recently promulgated regulations. The Court noted that the interpretation in
+fact was a “long standing” one and “the fact the Agency previously reached its
+interpretation through means less formal than ‘notice and comment’ rulemaking * * *
+does not automatically deprive that interpretation of the judicial deference otherwise
+due” under Chevron. 535 U.S. at 221 (citations omitted). Then, turning its attention to
+the confusion caused by Christensen and Mead, the Court stated:
+If this Court’s opinion in Christensen * * * suggested an absolute rule to
+the contrary, our later opinion in United States v. Mead * * * denied the
+suggestion. * * * Indeed, Mead pointed to instances in which the Court
+has applied Chevron deference to agency interpretations that did not
+emerge out of notice-and-comment rulemaking. * * * It indicated that
+whether a court should give such deference depends in significant part
+upon the interpretative method used and the nature of the question at
+issue.
+535 U.S. at 221-222 (citations omitted).11/ The Court went on to conclude (id. at
+222):
+
+11/
+
+As this makes clear, not every informal statement of agency position is to be
+accorded Chevron deference. The Supreme Court has since declined to accord
+such deference to internal agency guidance, such as that “presented in internal
+guidance memoranda,” Alaska Dept. of Environmental Conservation v. EPA, 540
+U.S. 461, 487 (2004), and an internal operating manual, Washington State Dept. of
+Social and Health Servs. v. Guardianship Estate of Keffeler, 537 U.S. 371, 385 (2003).
+We believe that the public position articulated here by the Commission itself,
+with the deliberative process undertaken to reach its position and the
+explanation of the reasons for that position, is more akin to the sort of
+articulations contained in rulemaking than it is to internal guidelines.
+-22-
+
+In this case the interstitial nature of the legal question, the related
+expertise of the Agency, the importance of the question to
+administration of the statute, the complexity of that administration, and
+the careful consideration the Agency has given the question over a long
+period of time all indicate that Chevron provides the appropriate legal
+lens through which to view the legality of the Agency interpretation here
+at issue. * * *
+Later that year, this Court construed Barnhart to mean:
+Less formal interpretations may also be entitled to mandatory deference,
+depending upon to what extent the underlying statute suffers from
+exposed gaps in its policies, especially if the statute itself is very
+complex, as well as on the agency's expertise in making such policy
+decisions, the importance of the agency's decisions to the administration
+of the statute, and the degree of consideration the agency has given the
+relevant issues over time. See Barnhart v. Walton, 535 U.S. 212, 122 S. Ct.
+1265, 1272, 152 L. Ed. 2d 330 (2002).
+Community Health Center v. Wilson-Coker, 311 F.3d 132, 138 (2d Cir. 2002).12/
+The only statutory interpretation in this brief is whether Section 16(b) applies
+to a transaction where an insider acquires securities of an issuer indirectly by
+acquiring ownership of a third party company which, in turn, owns securities of the
+issuer. This is precisely the sort of question that Congress directed the Commission
+to deal with. Section 16(b) states that it will not apply to transactions which the
+
+12/
+
+In Dabit and Enterprise Mortgage, this Court later cited Mead for the proposition
+that Commission views expressed in an amicus brief, rather than a rule or
+regulation, cannot receive Chevron deference. That position appears contrary to
+the Supreme Court’s decision in Barnhart and this Court’s decision in Community
+Health Center.
+
+-23-
+
+Commission exempts as not within the purpose of the statute. Because the statute
+imposes strict liability, the Commission’s role in determining when to exempt
+transactions is of critical importance to application of the statute. Congress and the
+Supreme Court have been clear that this is a statute which the Commission should
+assure is not unduly broad. This is, in short, precisely the sort of interstitial issue
+where Chevron deference is due the Commission’s informal conclusions; “the statute
+itself is very complex”, the Commission has long and broad “expertise in making
+such policy decisions,” and “the importance of the agency's decisions to the
+administration of the statute” is critical.
+The only reason to consider not according conclusive deference to the
+Commission’s position might be that it is not a “long-standing” one. That, however,
+is only true in the limited sense that the claim that the indirect acquisitions are within
+the scope of Section 16(b) is itself an apparently novel claim. The Commission
+should not have to envision every novel claim that might be made under Section
+16(b) and analyze these hypothetical claims, before its views will be deemed
+authoritative. 13/
+
+13/
+
+In In re New Times Securities Services, Inc., 371 F.3d 68, 80-83 (2d Cir. 2004), this
+Court appeared to recognize that a Commission amicus brief might be entitled
+to Chevron deference, but declined to give it such deference because of the
+Commission’s failure to previously address an issue even though it was
+longstanding. The Court also noted the presence of a competing view by an
+(continued...)
+
+-24-
+
+In a broader sense, moreover, the analysis here is closely similar to the sort of
+analysis the Commission has repeatedly engaged in for many years. The Commission
+has over the decades analyzed which transactions do not present risk within the
+purposes of Section 16(b). 14/ Consistent with its rulemaking authority, the
+Commission has emphasized in both rules and amicus briefs that liability should exist
+only in situations where there is a real risk of insider trading. 15/
+The Commission’s amicus position here satisfies the other requirements for
+Chevron deference. It is the product of careful consideration, and is the authoritative
+view of the Commission itself, not merely staff views. The Commission’s Office of
+the General Counsel posted to the Commission’s Web site a statement regarding
+consideration of amicus briefs. In relevant part, it states that after a request is made:
+
+13/(...continued)
+
+entity that administers the provision on a day to day basis, and the relation of
+the Commission to that entity. None of those facts exist in this case.
+14/
+
+See, e.g., Rules 16a-9 through 13 and 16b-1 through 16b-8, 17 C.F.R. 240.16a-9
+to 16a-13 and 16b-1 to 16b-8.
+
+15/
+
+See, e.g., Ownership Reports and Trading By Officers, Directors and Principal Securities
+Holders, Exchange Act Rel. No. 28869, 56 Fed. Reg. 7242, 7252 (Feb. 21,
+1991); Brief of the Securities and Exchange Commission, Amicus Curiae, in Support of the
+Appellee on Issues Addressed, at 23-24; Levy v. Southbrook International Investments,
+Ltd, 263 F.3d 10 (2d Cir. 2001); Brief of the Securities and Exchange Commission,
+Amicus Curiae at 13-14, Gryl v. Shire Pharmaceuticals Group PLC., 298 F.3d 136 (2d
+Cir. 2002).
+-25-
+
+The Office of the General Counsel will review the materials submitted
+and seek input from Divisions and Offices of the Commission that may
+have an interest in the case. In cases where further review is
+appropriate, the staff generally will contact both sides and offer them
+the opportunity to make further submissions in writing, in person, or by
+telephone. If the staff determines that amicus participation is merited in a
+particular case, the Office of the General Counsel will make a
+recommendation, together with interested Divisions and Offices, to the
+Commission. The Commission then considers and votes on whether to
+accept the recommendation and file a brief. This process can take a
+significant amount of time.
+Request for Commission Amicus Participation in a Pending Case, posted at
+http://www.sec.gov/litigation/briefs/amicusrequest.htm. Amicus briefs submitted
+by the Commission thus represent the views of the Commission. See e.g., David S.
+Ruder, Address: The Development of Legal Doctrine Through Amicus Participation: The SEC
+Experience, 1989 Wis. L. Rev. 1167 (1989). All of these steps were taken in this
+case.16/ Even when denying deference to a Commission amicus brief on other
+grounds, this Court has said it had “no reason to doubt that the SEC’s interpretation
+was the product of careful consideration.” In re New Times Securities Services, Inc., 371
+F.3d at 82.
+
+16/
+
+The Commission’s staff had detailed meetings with both sides’ counsel, made
+further inquiries of them and received responses, and prepared a detailed
+written analysis and recommendation. The Commission reviewed the
+recommendation for three weeks, met and discussed it, and then voted to
+authorize the brief. It also reviewed the brief itself.
+-26-
+
+The statutory interpretation in this brief is an authoritative and fully considered
+position by the Commission, which reasonably construes an ambiguous statutory
+provision whose interpretation was explicitly entrusted by Congress to the
+Commission. We believe that the views expressed in this brief are entitled to Chevron
+deference.
+CONCLUSION
+The judgment of the district court should be affirmed and the positions of the
+Commission urged above should be adopted by the Court.
+Respectfully submitted,
+BRIAN G. CARTWRIGHT
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+ERIC SUMMERGRAD
+Deputy Solicitor
+ALLAN A. CAPUTE
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+100 F Street, NE
+Washington, D.C. 20549-8010
+(202) 551-5122 (Capute)
+February, 2006
+
+-27-
+
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+____________________________
+No. 05-0115-cv
+____________________________
+AT HOME CORPORATION,
+Plaintiff - Appellant,
+v.
+COX COMMUNICATIONS, INC., COX@HOME, INC.,
+COMCAST CORPORATION, COMCAST ONLINE
+COMMUNICATIONS, INC., COMCAST PC INVESTMENTS,
+INC., BRIAN L. ROBERTS and DAVID M. WOODROW,
+Defendants - Appellees.
+__________________________________________________________
+CERTIFICATE OF COMPLIANCE WITH F.R.A.P. 32(a)
+__________________________________________________________
+I certify that THE BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, AMICUS CURIAE, SUBMITTED AT THE REQUEST OF THE
+COURT complies with the type-volume requirements of Rules 32(a)(7)(B) and 29(d)
+of the Federal Rules of Appellate Procedure (F.R.A.P.) because it contains 6988
+words. I further certify that this brief complies with the typeface requirements of
+F.R.A.P. 32(a)(5) and the type style requirements of F.R.A.P. 32(a)(6) because it has
+been prepared in proportionally-spaced typeface using WordPerfect (version 11) in
+garamond 14-point font size.
+_______________________
+Allan A. Capute
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+100 F. Street, N.E.
+Washington, D.C. 20549-8010
+(202) 551-5122
+
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+____________________________
+No. 05-0115-cv
+____________________________
+AT HOME CORPORATION,
+Plaintiff - Appellant,
+v.
+COX COMMUNICATIONS, INC., COX@HOME, INC.,
+COMCAST CORPORATION, COMCAST ONLINE
+COMMUNICATIONS, INC., COMCAST PC INVESTMENTS,
+INC., BRIAN L. ROBERTS and DAVID M. WOODROW,
+Defendants - Appellees.
+__________________________________________________________
+CERTIFICATE OF COMPLIANCE WITH LOCAL RULE 32(a)(1):
+BRIEFS IN DIGITAL FORMAT
+__________________________________________________________
+I certify that THE BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, AMICUS CURIAE, SUBMITTED AT THE REQUEST OF THE
+COURT, as submitted in digital format, has been scanned for viruses using McAfee
+VirusScan version 8.0 with signature 4692 of February 8, 2006 and that no viruses
+have been detected as required by Local Rule 32(a)(1).
+_______________________
+Allan A. Capute
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+100 F. Street, N.E.
+Washington, D.C. 20549-8010
+(202) 551-5122
+
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+____________________________
+No. 05-0115-cv
+____________________________
+AT HOME CORPORATION,
+Plaintiff - Appellant,
+v.
+COX COMMUNICATIONS, INC., COX@HOME, INC.,
+COMCAST CORPORATION, COMCAST ONLINE
+COMMUNICATIONS, INC., COMCAST PC INVESTMENTS,
+INC., BRIAN L. ROBERTS and DAVID M. WOODROW,
+Defendants - Appellees.
+__________________________________________________________
+CERTIFICATE OF SERVICE
+__________________________________________________________
+I, Allan A. Capute, am a member of the bars of Maryland and the District of
+Columbia, and I hereby certify that on 9th day of February, 2006, I caused to be
+served two copies of the BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, AMICUS CURIAE, SUBMITTED AT THE REQUEST OF THE
+COURT, to counsel for the parties of record at the address below, by overnight
+Federal Express:
+_______________________
+Allan A. Capute
+Counsel for the Plaintiff
+Joseph S. Allerhand, Esq.
+Weil, Gotshal & Manges LLP
+767 Fifth Avenue
+New York, New York 10153
+
+Counsel for Defandant Comcast Corporation
+Sheron Korpus, Esq.
+James T. Cain, Esq.
+White & Case LLP
+1155 Avenue of the Americas
+New York, New York 10036
+Counsel for Defenfant Cox Communications, Inc.
+Michael D. Hays, Esq.
+Daniel D. Prichard, Esq.
+Dow, Lohnes & Albertson
+1200 New Hampshire Avenue, N.W.
+Washington, D.C. 20036
+
+-2-
+
+

@@ -1,0 +1,1243 @@
+-
+
+THE UNITED STATES COURT OF APPEALS
+
+FOR THE SECOND CIRCUIT
+
+
+MARK LEVY, Derivatively on Behalf ofImmunoGen, Inc.,
+
+
+Plaintiff-Appellant,
+
+v.
+
+SOUTHBROOK INTERNATIONAL INVESTMENTS, LTD.,
+
+
+Defendant-Appellee,
+and
+
+IMMUNOGEN, INC.,
+
+
+Nominal Defendant-Appellee.
+
+On Appeal from the United States District Court
+for the Southern District of New York
+
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE, IN SUPPORT OF APPELLEE 0N.IS.SUE~ ADDRESSED
+
+DAVID M. BECKER
+General Counsel
+ERIC SUMMERGRAD
+Deputy Solicitor
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+ALLAN A. CAPUTE
+Special Counsel to the Solicitor .
+Securities and Exchange Commission
+Washington, D.C. 20549-0606
+(202) 942-0837
+
+TABLE OF CONTENTS
+
+TABLE OF AUTHORITIES
+
+ii
+
+
+STATEMENT OF THE CASE
+
+3
+
+
+A.	
+
+Factual Background
+
+3
+
+
+B.
+
+District Court Decision
+
+7
+
+
+SUMMARY OF ARGUMENT
+
+10
+
+
+STANDARD OF REVIEW
+
+14
+
+
+ARGUMENT
+
+14
+
+
+I.	
+
+II.	
+
+III.	
+
+WHERE A BINDING CONVERSION CAP DENIES AN
+
+INVESTOR THE RIGHT TO ACQUIRE MORE THAN 10%
+
+OF THE UNDERLYING EQUITY SECURITIES OF AN
+
+ISSUER, THE INVESTOR IS NOT, BY VIRTUE OF illS
+
+OR HER OWNERSHIP OF CONVERTIBLE SECURITIES,
+
+THE BENEFICIAL OWNER OF MORE THAN 10% OF
+
+THOSE EQUITY SECURITIES
+
+14
+
+
+THESE DERIVATIVE SECURITIES HAVE BOTH FIXED
+
+AND FLOATING RATE COMPONENTS
+
+26
+
+
+FLOATING RATE DERIVATIVE SECURITIES ARE
+
+INCLUDED IN THE 10% BENEFICIAL OWNERSHIP
+
+DETERMINATION
+
+29
+
+
+CONCLUSION	
+
+30
+
+
+1
+
+
+TABLE OF AUTHORITIES
+
+
+Cases
+Auer v. Robbins, 519 U.S. 452 (1997)
+
+14
+
+Citadel Holding Corp. v. Roven, 26 F.3d 960 (9th Cir. 1994)
+
+8
+
+Editek, Inc. v. Morgan Capital, L.L.C.,
+150 F.3d 830 (8th Cir. 1998)
+
+16,30
+
+Foremost-McKesson, Inc. v. Provident Securities Co.,
+423 U.S. 232 (1976)
+
+23, 24
+
+GAP Corp. v. Milstein, 453 F.2d 709 (2d Cir. 1971), cert. denied,
+406 U.S. 910 (1972)
+Global Intellicom, Inc. v. Thomas Kernaghan & Co.,
+[1999 Transfer Binder] Fed. Sec. L. Rep. (CCH) ~90,534,
+1999 WL 544708 (S.D.N.Y. July 27~ 1999)
+
+16
+
+8
+
+Gollust v. Mendell, 501 U.S. 115 (1991)
+
+23
+
+Gwozdzinsky v. Zel1/Chilmark Fund, L.P., 156 F.3d 305 (2d Cir. 1998)
+
+16
+
+Levner v. Prince Alwaleed, 61 F.3d 8 (2d Cir. 1995)
+
+8
+
+Levy v. Marshall Capital Management, Inc., No. 99 Civ. 3428
+(E.D.N.Y. July 26, 2000)
+
+8
+
+Levy v. Southbrook International Investments, Ltd.,
+[2000 Transfer Binder] Fed. Sec. L. Rep. (CCH) ~90,981, .
+2000 WL 567008 (S.D.N.Y. May 10,2000)
+Magma Power Co. v. Dow Chemical Co., 136 F.3d 316 (2d Cir. 1998)
+
+11
+
+7, 12
+23
+
+TABLE OF AUTHORITIES (CONTINUED)
+
+Cases (Continued)
+Press v. Quick & Reilly, Inc., 218 F.3d 121 (2d Cir. 2000)
+
+14
+
+Reliance Electric Co. v. Emerson Electric Co.,
+404 U.S. 418 (1972)
+
+24
+
+0
+
+• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+
+Schaffer v. Capital Ventures International, No. 98 Civ. 3900
+(S.D.N.Y. Sept. 13, 1999)
+
+9
+
+Schaffer v. CC Investments, LDC, 115 F. Supp. 2d 440
+(S.D.N.Y. 2000)
+
+8
+
+Transcon Lines v. A.G. Becker, Inc., 470 F. Supp. 356
+(S.D.N.Y. 1979)
+
+8
+
+Statutes and Rules
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+Section 12, 15 U.S.C. 781
+Section 13(d), 15 U.S.C. 78m(d)
+
+15
+8, 10, 16
+passIm
+Section 16, 15 U.S.C. 78p . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 10, 11,13
+passIm
+Section 16(a), 15 U.S.C. 78p(a)
+15,20
+Section 16(b), 15 U.S.C. 78p(b)
+1,2,3
+passIm
+Section 16(c), 15 U.S.C. 78p(c)
+:
+16
+
+111
+
+
+TABLE OF AUTHORITIES (CONTINUED)
+Statutes and Rules (Continued)
+
+Rules Under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.
+Rule 13d-l, 17 C.F.R. 240.13d-l
+Rule 13d-3, 17 C.F.R. 240. 13d-3
+Rule
+Rule
+Rule
+Rule
+Rule
+Rule
+
+13d-3(a), 17 C.F.R. 240.13d-3(a)
+13d-3(b), 17 C.F.R. 240. 13d-3(b)
+13d-3(d)(I), 17 C.F.R. 240. 13d-3(d)(1)
+13d-3(d)(1)(i), 17 C.F.R. 240. 13d-3(d)(1)(i)
+16a-l(a), 17 C.F.R. 240. 16a-l(a)
+16a-l(a)(1), 17 C.F.R. 240. 16a-l(a)(1)
+
+Rule 16a-l(a)(2), 17 C.F.R. 240. 16a-l(a)(2)
+Rule 16a-l(a)(2)(ii)(F), 17 C.F.R. 240. 16a-l(a)(2)(ii)(F)
+Rule 16a-l(c)(6), 17 C.F.R. 240. 16a-l(c)(6)
+
+18
+2,9, 10
+passIm
+17, 19
+24
+9
+17,21,30
+29
+9, 10, 16
+paSSIm
+16,27
+27
+28
+
+Miscellaneous
+
+BancBoston Capital Inc., No-Action Letter, 1987 WL 108100
+(publicly available Aug. 10, 1987)
+
+21
+
+Filing and Disclosure Requirements Relating to Beneficial Ownership,
+Exchange Act Release No. 14692, 14 SEC Docket 862, 1978 WL 14827
+(April 21, 1978)
+
+18,20
+
+Ownership Reports and Trading by Officers, Directors and Principal
+Security Holders, Exchange Act Release No. 28869,
+48 SEC Docket 234, 1991 WL 292000 (February 8, 1991)
+
+17,28
+
+IV
+
+
+UNITED STATES COURT OF APPEALS
+FOR TIlE SECOND CIRCUIT
+
+No. 00-7630
+MARK. LEVY, Derivatively on behalf of ImmunoGen, Inc.,
+
+Plaintiff-Appellant,
+
+v.
+SOUTHBROOK INTERNATIONAL INVESTMENTS, LTD.,
+Defendant-Appellee,
+and
+
+IMMUNOGEN, INC.,
+
+Nominal Defendant-Appellee.
+On Appeal from the United States District Court
+
+for the Southern District ofNew York
+
+
+BRIEF OF TIlE SECURITIES AND EXCHANGE
+
+COMMISSION, AMICUS CURIAE, IN SUPPORT
+
+OF APPELLEES ON ISSUES ADDRESSED
+
+The Securities and Exchange Commission submits this brief as amicus curiae
+in response to the December 27, 2000 invitation of the Court. This case was
+brought under Section 16(b) of the Securities Exchange Act of 1934, 15 U.S.C.
+78p(b). The plaintiff claims that the defendant, by virtue of holding convertible
+
+preferred stock in a company, is the beneficial owner of more than 10% of the
+common stock in the company, and thus is subject to the short-swing profit
+recovery provision of Section 16(b) with respect to the company's common stock.
+The term "beneficial owner" is defmed for these purposes by Commission Rule
+13d-3, 17 C.F.R. 240. 13d-3, which provides, among other things, that a person is
+the beneficial owner of equity securities if, through conversion rights, it can acquire
+voting or investment power over the securities within sixty days. The defendant
+claims that because its conversion rights are limited so that it cannot hold more
+than 4.9% of the common stock at anyone time, it cannot be the beneficial owner
+of more than 10% of the common stock. The Court has requested the
+Commission's views on three specific issues:
+1) whether an investor that holds convertible securities
+may be a more than ten percent beneficial owner of the
+underlying equity stock, under the investment power
+prong of the within 60 day rule (Rule 13d-3), despite the
+existence of a conversion limit of 4.9%;
+2) whether preferred stock that is convertible into
+common stock by dividing $1,000 plus accrued dividends
+by the lesser of (a) a fixed price determined at the date of
+purchase of the particular issue ofpreferred stock or, (b)
+the applicable percentage of the average closing bid price
+of the common stock for the five consecutive trading
+days immediately preceding the date of conversion,
+where the applicable percentage is defmed as (i) 100%
+
+2
+
+
+for the frrst forty days after the purchase of the particular
+issue of preferred stock, (ii) 90% for the next forty days,
+and (iii) 85% for any conversion thereafter, is properly
+considered a fixed rate derivative or a floating rate
+derivative security;
+3) whether floating rate derivatives are included in the more
+than ten percent beneficial ownership determination.l1
+STATEMENT OF THE CASE
+A.
+
+Factual Background
+
+Plaintiff Mark Levy, a shareholder of ImmunoGen, brought this Section
+16(b) action on behalf of ImmunoGen alleging that Southbrook was a beneficial
+owner of more than 10% of ImmunoGen common stock and realized short-swing
+profits through the purchase and sale of the common stock within a six month
+period. Plaintiff seeks disgorgement of Southbrook's profits.
+On October 16, 1996, Southbrook entered into a Purchase Agreement with
+ImmunoGen to acquire convertible preferred stock. The Agreement provided
+Southbrook with a right to convert the preferred stock into ImmunoGen common
+stock and to exercise certain warrants to purchase common stock. These rights,
+
+II
+
+A fourth question asked the Commission to inform this Court of "any other
+matter that the SEC may feel is relevant to a correct determination of the
+issue facing the panel." The Commission does not believe discussion of any
+other issue is warranted.
+
+3
+
+however, were expressly limited by Section 3.10 of the Purchase Agreement (A36­
+37).2J Under Section 3.10 Southbrook could not convert preferred stock and
+warrants if their conversion or exercise would result in Southbrook owning more
+than 4.9% of ImmunoGen's outstanding shares of common stock at anyone time:
+The Purchaser may not use its ability to convert Shares
+hereunder or under the terms of the Vote Certificate 3/ or
+to exercise its right to acquire shares of Common Stock
+under the Warrants to the extent that such conversion or
+exercise would result in the Purchaser owning more than
+4.9% of the outstanding shares of Common Stock.
+Section 3.10 further provides that the company will, at the time a conversion
+is requested, notify the purchaser ofthe number of outstanding shares of common
+stock the purchaser would hold after the conversion (A36-37). If it is determined
+that the conversion would result in the purchaser holding more that 4.9% of the
+company's outstanding shares of common stock, the purchaser may then exercise
+the conversion or revoke the conversion to the extent that full exercise would result
+in the purchaser owning more than 4.9% (A37).
+
+2J
+
+"A_" refers to a page number in the Joint Appendix.
+
+3/
+
+The "Vote Certificate" refers to the certification of the vote ofthe directors
+establishing the terms ofthe convertible preferred stock.
+
+4
+
+The Vote Certificate contains a similar revocation provision. Section S(a)(i)
+of the Vote Certificate provides that a notice of intent to convert shall be
+irrevocable except that the holder of the preferred stock "may revoke the
+conversion requested * * * to the extent the conversion contemplated by [the
+holder] would result in such holder owning more than 4.9% of the outstanding
+shares of common stock" (AS8, see also 227-28). In addition, the "Notice of
+Conversion At the Election Of Holder," sent to the company to request a
+conversion of preferred stock, contains similar language (A68 , 238).
+Each preferred stock certificate states that the "securities represented by this
+certificate are subject to a Convertible Preferred Stock Purchase Agreement, as
+amended, between the Corporation and Southbrook International Investments,
+Ltd." (A20S-24).
+There is no allegation that the conversion cap was ever modified or that the
+parties failed to comply with its prohibition.
+Subsequently, Southbrook acquired 3,000 shares of ImmunoGen Series B
+Preferred Stock, 3,000 shares of Series C Preferred Stock, and 1,000 shares of
+Series D Preferred Stock. Each issue ofpreferred stock was convertible into
+common stock by dividing $1,000 plus accrued dividends by the lesser of (a) a
+
+S
+
+
+fixed price determined at the date of purchase or, (b) the "applicable percentage" of
+the average closing bid price of the common stock for the five trading days
+immediately preceding the date of conversion. The "applicable percentage" was
+defmed as (i) 100% for the fust forty days after the purchase of the issue, (ii) 90%
+for the next forty days, and (iii) 85% for any conversions thereafter (A9-12).
+The preferred stock was subsequently converted by Southbrook at the
+applicable percentage of the average closing bid price for the ImmunoGen common
+stock during the five consecutive trading days immediately preceding the date of
+conversion (A12).
+The plaintiff filed his Section 16(b) action on February 26, 1999 (AI).
+Plaintiff calculated that by February 21, 1997, Southbrook had the right to acquire
+cumulatively over a sixty-day period, by exercising its conversion rights, a total of
+2,673,742 shares of ImmunoGen common stock, or approximately 15% of the
+outstanding shares (A10, 369). Plaintiff, therefore, alleges that between January 1
+and February 4, 1997, Southbrook beneficially owned more than 10% ofthe
+company's common stock. During this period, the plaintiff alleges, Southbrook
+acquired 1,384,823 shares of common stock and then sold them (A10-11,369).
+Southbrook allegedly again engaged in short-swing trading in ImmunoGen
+
+6
+
+
+common stock while beneficially owning more than 10% - between January 27,
+1997 and August 4, 1997, and again in October 1997 (AI2, 369).
+On February 11,2000, Southbrook moved to dismiss plaintiffs complaint
+(A4). Southbrook argued that the conversion cap shielded it from Section 16(b)
+liability because the cap prohibited it from converting and holding any more than
+4.9% of ImmunoGen's outstanding common stock at anyone time. Accordingly,
+Southbrook contends that it never had the "right to acquire" more than 4.9% at any
+given time within sixty days and cannot be held liable as a more than 10%
+beneficial owner under Section 16(b).
+B.
+
+District Court Decision
+
+On May 10, 2000, the district court granted defendant's motion and
+dismissed plaintiffs complaint. In its opinion, See Levy v. Southbrook
+International Investments. Ltd., [2000 Transfer Binder] Fed. Sec. L. Rep. (CCH)
+~90,981,
+
+2000 WL 567008 (S.D.N.Y. May 10,2000), the district court noted that
+
+the issue to be decided is whether Southbrook, despite the existence of the 4.9%
+limitation, had the right to acquire more that 10% of ImmunoGen's common stock
+within sixty days. The district court offered several reasons for its determination
+that Southbrook did not have such a right.
+
+7
+
+
+"First, contrary to plaintif:fs contention that conversion caps are invalid, * *
+* several courts in the Second Circuit have upheld conversion caps, such as the one
+present here, in the context of §16(b)" (A374). Foremost among the cases relied on
+by the district court is Levner v. Prince Alwaleed, 61 F.3d 8, 9-10 (2d Cir. 1995).
+While the sixty-day rule was not mentioned in Levner, the decision, nevertheless,
+endorses the effectiveness of conversion caps. This Court decided that a
+shareholder, who held both common stock and convertible securities of an issuer,
+was not liable for short-swing profits because a conversion cap limited his holding
+of equity securities to 4.9%. Thus, even though a hypothetical conversion of all the
+defendant's securities would have given him 14% of the company's outstanding
+common stock, the Levner court found it decisive that the cap limited his right to
+hold common stock to much less than 10%. M See also Citadel Holding Corp. v.
+
+M	
+
+While Levner did not concern the sixty-day rule, the district court also relied
+on several district court decisions that have analyzed conversion limitations
+apparently within the sixty-day rule context and rejected the arguments put
+forward by plaintiff in this case. See Schaffer v. CC Investments. LDC, 115
+F. Supp. 2d 440,442-43 (S.D.N.Y. 2000); Levy v. Marshall Capital
+Management. Inc., No. 99 Civ. 3428, slip. op. pp. 8-9, 12, 17-18 (B.D.N.Y.
+July 26,2000); Global Intellicom. Inc. v. Thomson Kernaghan & Co., [1999
+Transfer Binder] Fed. Sec. L. Rep. (CCH) ~90,534, 1999 WL 544708 at *16
+(S.D.N.Y. July 27, 1999)(construing Section 13(d)); Transcon Lines v. A.G.
+Becker Inc., 470 F. Supp. 356,370-71 (S.D.N.Y. 1979) (Section 13(d) case).
+(continued...)
+
+8
+
+
+Roven, 26 F.3d 960,965-67 (9th Cir. 1994) (holding that conversion caps are
+effective to avoid reporting requirements while construing the rules prior to the
+adoption of Rule 16a-l(a)(I)).
+Secondly, the district court rejected the plaintiffs theory of beneficial
+ownership based upon its "independent analysis" of the Rule 13d-3. "Reading the
+rule within the broader statutory framework" the court concluded that "it is clear
+that only those holders of derivative securities, who could acquire ownership, by
+conversion or otherwise, of more than 10% of the common stock, at anyone time,
+are subject to §16(b) liability" (A376) (emphasis in original).
+Finally, the district court viewed plaintiffs theory of liability under Rule
+13d-3(d)(1) to be "extremely far reaching and overly broad." "Under plaintiffs
+theory, the person's mere ability to acquire more than 10% at different times within
+sixty days, while never resulting in his owning 10% at one time, would make him
+the beneficial owner of more than 10%." The court was confident that Section
+16(b) "was not intended to reach this hypothetical investor" because such an
+
+~/(...continued)
+
+In one oral decision, the court accepted the arguments advanced by the
+plaintiff here. See Schaffer v. Capital Ventures International, No. 98 Civ.
+3900, transcript ofproceedings p. 28-32 (S.D.N.Y. Sept. 13, 1999).
+
+9
+
+
+interpretation "would extend the statute's sweep beyond those with insider power
+and information" (A378).
+Thus, the court found that, "in absence of a violation of the conversion cap,
+Southbrook did not beneficially own more than 4.9% of ImmunoGen's common
+stock" (A377-78).
+SUMMARY OF ARGUMENT
+The plaintiff alleges that the defendant, Southbrook International
+Investments, is the beneficial owner of more than 10% ofthe common stock of
+ImmunoGen, Inc. and, therefore, subject to Section 16 of the Securities Exchange
+Act of 1934, 15 U.S.C. 78p. It is seeking to recover, under Section 16(b) ofthe
+Act, "short swing" profits realized by the defendant on its trades in ImmunoGen
+stock.
+Section 16 does not defme who is a "beneficial owner" of stock for purposes
+of its provisions. The Commission has by rule (Rule 16a-l(a)(I), 17 C.F.R.
+240. 16a-l(a)(1)), provided that whether a person is the beneficial owner of more
+than 10% of a class of equity securities under Section 16 is determined under
+Section 13(d), 15 U.S.C. 78m(d), and the rules thereunder. Rule 13d-3 generally
+provides that a person is a beneficial owner of stock if the person has (i) voting
+
+10
+
+
+power over the stock, (ii) investment power (including the power to dispose of
+stock), or (iii) the right to acquire voting or investment power within sixty days. 'if
+The plaintiff in this case argues that Southbrook could acquire, within sixty
+days, investment power over more than 10% of ImmunoGen's stock. Southbrook
+owns preferred stock in ImmunoGen that is convertible into common stock at
+either a fixed price or, iflower, a floating price based on the recent market price of
+the stock at the time of conversion. The conversion rights are limited, however, so
+that Southbrook can hold no more than 4.9% of ImmunoGen stock at anyone time.
+Although the cap, if effective, operates to limit the amount of stock the defendant
+can own at one time, the plaintiff argues that, because the defendant could serially
+acquire and dispose of more than 10% of the stock during a sixty-day period,
+Southbrook has the right to acquire investment power over more than 10% ofthe
+stock and thus is subject to Section 16.
+Following several courts that have held that such conversion caps can
+prevent a person from holding more than the statutory amount at anyone time, the
+district court accepted Southbrook's arguments and granted its motion to dismiss
+
+~
+
+References in this discussion to "hold" or "held" include beneficial .
+ownership through voting or investment power, but do not include the right
+to acquire those powers.
+11
+
+
+plaintiff's complaint. Levy v.Southbrook International Investments, Ltd., [2000
+Transfer Binder] Fed. Sec. L. Rep. (CCll) ~ 90,981,2000 WL 567008 (S.D.N.Y.
+May 10,2000).
+The Commission believes that a 4.9% conversion cap, ifvalid and binding,
+prevents the convertible holder from being, by virtue of its conversion rights, a
+more than 10% beneficial owner. Rule 13d-3 defmes beneficial ownership to
+include only voting or investment power over a security or the "right" to acquire
+the same within sixty days. Since Southbrook's right to hold common stock at any
+one time is limited to 4.9%, there is no time when it can hold more than 10%.
+Once it reaches 4.9%, it can have the "right" to acquire more only if it first divests
+itself of existing holdings, at which point it ceases to have either power over the
+divested shares. As a result, there is no one time when Southbrook could be the
+beneficial owner ofmore than 4.9% of the stock.
+While the plaintiffs point out that a person who is in a position to serially
+dispose of large amounts of stock (especially newly issued stock) may be in a
+position to exert influence over the company, that general observation does not
+displace the clear language of Rule 13d-3. It would be especially inappropriate to
+
+12
+
+
+expand that language in the context of Section 16, which the Supreme Court has
+long held should be construed narrowly because it is a strict liability statute.
+While the Commission believes that conversion caps may be effective in
+principle, such provisions should be examined on a case-by-case basis to determine
+whether they are binding and valid. If a cap is not effective in
+constraining conversion rights, it is not a basis for fmding limits on beneficial
+ownership.
+As to the second question, whether the convertible stock in this case, which
+could be converted at the lower of either a fixed price or a market-based price, "is
+properly considered a fixed rate derivative or a floating rate derivative security," it
+is the Commission's view that such a derivative has both fixed and floating rate
+components. The fixed rate component sets a floor below which the number of
+common shares received on a conversion will not decline. The floating rate
+component allows conversion into an increasing number of common shares as the
+market price of the common shares declines.
+Finally, this Court has asked "whether floating rate derivative securities are
+included in the more than ten percent beneficial ownership determination for
+purposes of Section 16." It is our view that so long as the conversion rate gives the
+
+13
+
+
+holder the right to acquire more than 10% of the company's equity stock, the
+holder is subject to Section 16 whether the conversion rate is fixed or floating.
+STANDARD OF REVIEW
+This Court has held that it is "bound by the SEC's interpretations of its
+regulations in its amicus briefs, unless they are 'plainly erroneous or inconsistent
+with the regulation[s].'" Press v. Quick & Reilly. Inc., 218 F.3d 121, 128 (2d Cir.
+2000) (quoting Auer v. Robbins, 519 U.S. 452, 461-63 (1997)).
+ARGUMENT
+I.	
+
+WHERE A BINDING CONVERSION CAP DENIES AN INVESTOR THE
+RIGHT TO ACQUIRE MORE THAN 10% OF THE UNDERLYING
+EQUITY SECURITIES OF AN ISSUER, THE INVESTOR IS NOT, BY
+VIRTUE OF HIS OR HER OWNERSHIP OF CONVERTIBLE
+SECURITIES, THE BENEFICIAL OWNER OF MORE THAN 10% OF
+THOSE EQUITY SECURITIES.
+The fIrst question posed by this Court is whether the 4.9% conversion cap
+
+imposed on Southbrook operated to prevent Southbrook from becoming a more
+than 10% beneficial owner of ImmunoGen common stock. The issue arises
+because under the applicable rules, beneficial ownership of a class of equity
+securities includes not only existing voting or investment power over the security,
+but also the right to acquire such power through, among other things, the exercise
+of conversion rights, within 60 days. Thus, ordinarily, a shareholder who owns
+14
+
+
+convertible preferred that may be converted into more than 10% ofthe company's
+common stock within sixty days would be deemed to beneficially own the
+underlying common.
+Under Section 16(a) a beneficial owner (as well as any officer or director,
+regardless of share ownership) must report, at the time of registration of the
+securities under Section 12 ofthe Exchange Act, 15 U.S.C. 781, or at the time he or
+she becomes a reporting person, the amount of all issuer securities he or she
+beneficially owns, and must thereafter report all purchases and sales ofthose
+securities.
+Section 16(b) then provides that an issuer or a shareholder of an issuer may
+bring an action to recover short-swing profits (i.e., profits from the purchase and
+sale of the issuer's equity securities within a period ofless that six months) realized
+by an officer, director or the beneficial owner of more than 10% of any class of the
+issuer's equity securities. This provision "seeks to deter [the statutory insiders
+defmed in Section 16(a)], who are presumed to possess material information about
+the issuer, from using such information as a basis for purchasing or selling the
+
+15
+
+
+issuer's equity securities at an advantage over persons with whom they trade."
+Gwozdzinsky v. ZelllChilmark Fund, L.P., 156 F.3d 305,308 (2d Cir. 1998). fl./
+Section 16 does not defme who is a "beneficial owner" of the issuer's
+securities. In 1991 the Commission promulgated Rule 16a-l(a)(I), 17 C.F.R.
+240. 16a-l(a)(I), which adopts the defmition of "beneficial owner" found in Section
+13(d) ofthe Exchange Act and the rules promulgated under Section 13(d), but only
+for purpose of determining who is a beneficial owner of more than ten percent
+under Section 16. 11 While the purpose of Section 13(d) is to alert investors to a
+rapid accumulation of shares that might potentially affect the control of a company,
+GAP Corp. v. Milstein, 453 F.2d 709, 717 (2d Cir. 1971), cert. denied, 406 U.S.
+910 (1972), the Commission decided to apply the Section 13(d) defmition of
+"beneficial owner" to Section 16 because the same considerations that·extend to
+control also are applicable or analogous to those that might lead to access to insider
+
+fl./
+
+In addition, Section 16(c) restricts a reporting person's short sales of issuer
+equity securities.
+
+1/
+
+For all other Section 16 purposes the Commission adopted a defmition of
+"beneficial owner" based on a person's direct or indirect pecuniary interest
+in the subject securities. See Rule 16a-l(a)(2), 17 C.F.R. 240.16a-l(a)(2).
+See~, Editek, Inc. v. Morgan Capital, L.L.C., 150 F.3d 830, 834 (8th Cir.
+1998). Thus, even if a person is deemed a beneficial owner of more than
+10% of common stock, he or she is only responsible for disgorgement of
+short-swing profits on those shares in which he has a pecuniary interest.
+16
+
+information. See Ownership Reports and Trading by Officers, Directors and
+Principal Security Holders, Exchange Act Release No. 28869, 48 SEC Docket 234,
+236, 1991 WL 292000 at *5 (February 8, 1991).
+The critical rule here is Rule 13d-3, 17 C.F.R. 240.13d-3. Rule 13d-3(a)
+provides that a beneficial owner includes
+any person who, directly or indirectly, through any
+contract, arrangement, understanding, relationship, or
+otherwise has or shares:
+(1) Voting power which includes the power to vote, or to
+direct the voting of, such security; and/or
+(2) Investment power which includes the power to
+dispose, or to direct the disposition of, such security.
+Most important for this case is Rule 13d-3(d)(1)(i), 17 C.F.R. 240.13d-3(d)(1)(i),
+which goes on to provide that
+A person shall be deemed to be the beneficial owner of a
+security * * * if that person has the right to acquire
+beneficial ownership of such security, as defmed in Rule
+13d-3(a) * * * within sixty days, including but not limited
+to any right to acquire * * * through the conversion of a
+security * * *.
+Accordingly, beneficial ownership includes currently having a voting or investment
+power, or having the "right to acquire" either voting power or investment power
+
+17
+
+
+within sixty days. ~/ The purpose of the sixty-day rule was explained in the 1978
+release adopting amendments to the rule. Filing and Disclosure Requirements
+Relating to Beneficial Ownership, Exchange Act Release No. 14692, 14 SEC
+Docket 862, 1978 WL 14827 (April 21, 1978) ("1978 Release"). In discussing
+why it decided to adopt the sixty-day rule, and not to extend beneficial ownership
+to include the right to acquire at any time, the Commission stated that it was
+mindful that as the point in time in which the right to
+acquire may come to fruition is extended into the future
+the relation of the right's ability to influence control is
+correspondingly attenuated. When sixty days or less are
+left until the right to acquire may be exercised, the
+Commission believes that the ability of the holder of such
+right to affect control is sufficient to warrant the
+imposition of an obligation to file under Rule 13d-l.
+1978 Release at *15. The Commission, in other words, viewed the near-term right
+to acquire voting or investment power over a security as the equivalent of having
+current voting or investment power over the security. The near-term right to
+acquire power may be just as influential, in terms of affecting control of a
+
+~/	
+
+The rule encompasses options and other securities or arrangements that give
+a person the right to acquire equity securities. It further provides that if the
+option, convertible security, or other right is obtained with the purpose or
+effect of affecting control, the sixty-day period under the rule does not apply,
+and the owner will be deemed the beneficial owner of the underlying
+securities regardless of when the right is exercisable.
+18
+
+
+corporation, as the present possession ofthose powers. And since Section 13(d) is
+intended to provide early warnings to investors of potential changes in control, it
+makes sense to advise investors of the incipient acquisition ofthese powers.
+Plaintiff contends that Southbrook was the beneficial owner ofmore than
+10% of ImmunoGen's common stock because within sixty days Southbrook could
+acquire and dispose of more than that amount of common stock. Plaintiff argues
+that the power to dispose of stock within sixty days should be viewed cumulatively,
+so that i~ a person can acquire and dispose of stock, and then acquire and dispose of
+more stock, all within sixty days, those acquisitions should be combined.
+This argument turns on a construction of the term "investment power" as used
+in Rule 13d-3(a). 9./ The rule explicitly includes, as part of investment power, the
+power to dispose. In explaining its decision to retain this in 1978, the Commission
+explained the significance of the power to dispose as follows:
+
+* * * [T]he·power to dispose, without more, gives its
+holder the ability to change or influence control and is
+therefore essential to eliciting the type of information
+within the purview of Section 13(d). This is attributable
+to the fact that the power to vote inheres in the security
+
+9./	
+
+The plaintiff does not claim that voting power should be calculated
+cumulatively. Once a security is sold and the voting power is gone, of
+course, that power cannot be exercised. The fact that a person at one time
+had voting power has no lingering effects in terms of control.
+19
+
+
+and may be relocated in the hands of any person to whom
+the holder of the power to dispose wishes to sell. Thus,
+the holder of the power to dispose potentially has the
+ability to bring about the rapid shift in control at which
+Section 13(d) is aimed even though he does not have the
+power to vote or to direct the voting of the security.
+1978 Release at *13. Among other things, the plaintiff argues that the holder of
+convertible preferred stock could, by serially converting and selling common stock
+to a single person, effect a change in control within a short period of time.
+The language of Rule 13d-3 cannot, however, be stretched to encompass this
+situation. The rule provides that a person is deemed the beneficial owner of stock
+when that person has voting power, investment power, or the "right to acquire" the
+same within sixty days. Furthermore, clearly the powers and "rights" one has must
+be evaluated as of the time of a transaction to determine whether one is required to
+file a report under Sections 13(d) and/or 16(a), and whether the transaction is
+subject to short-swing profit recovery under Section 16(b).
+If the conversion cap is effective, Southbrook does not have the "right" to
+hold more than 4.9% of the common stock. While subject to the cap, if Southbrook
+owns no common stock, it can acquire up to 4.9%. But to the extent Southbrook
+
+20
+
+
+holds any common stock, its right to acquire more shares through conversion is
+correspondingly reduced. 10/
+The plaintiffs argument focuses (plaintiffs Opening Brief 7, 12) on what
+plaintiff calls Southbrook's "ability" to acquire more stock over a sixty-day period.
+Rule 13d-3(d)(1)(i), however, speaks of the "right," not the "ability," to acquire,
+and Southbrook's right to acquire stock is at all times subject to the conversion cap.
+If Southbrook at some time in the future were to divest itself of some holdings, it
+
+could then acquire the right to buy more stock. The rule, however, speaks of a
+right -- a current right -- to acquire stock, not the possibility that one may acquire a
+
+right to acquire more stock in the future. At the time any such new rights come
+into being, it will be only because Southbrook has divested itself of shares of
+common stock. At that point Southbrook will not have voting power, investment
+power, or the right to acquire those powers, with respect to the divested shares. At
+no point will Southbrook's conversion rights give it the right to hold more than
+
+10/	
+
+The defendant cites in support of his position a Commission staff no-action
+letter in BancBoston Capital Inc., No-Action Letter, 1987 WL 108100
+(publicly available Aug. 10, 1987). Although the position taken by the
+Commission in this brief is consistent with the position taken by the staff in
+that letter, the letter was an expression of the staffs views only and, was not
+precedential authority of the Commission.
+21
+
+
+4.9% of the stock. The plaintiff's argument ignores the plain language of the rule
+and substitutes its own language.
+Thus, so long as the cap is binding (and the Commission takes no position on
+that issue), Southbrook cannot be the beneficial owner ofmore than 4.9% of
+ImmunoGen stock. At anyone time, it cannot hold more than that amount of stock
+because it does not have the "right to acquire" more than that amount.
+This is not to say that the plaintiff does not raise an issue of concern from a
+policy standpoint. As noted, a person in Southbrook's position may be able to
+affect control by serially converting and selling shares to a single person -­
+altho1;lgh if it did so as part of a pre-arranged plan, it likely would be deemed part
+of a Section 13(d) group and on that basis would need to report under Section 13(d)
+and Section 16 as well. The plaintiff also contends that one who can dispose of
+more than 10% of the company's stock within a sixty-day period has significant
+influence over the company. This, plaintiff contends, gives the defendant the
+power to dilute existing holdings and drive down the stock price, and that may well
+give the defendant sufficient influence to acquire access to inside information,
+making it appropriate to apply Section 16 to the defendant.
+
+22
+
+
+Whatever the merits of that contention, we do not believe that the holders of
+these types ofpreferred stock can fall within the defmition of a more than 10%
+beneficial owner of securities solely by virtue of their cumulative power to dispose
+of stock. The situation does not fit within the rules under Section 13(d), which
+control the determination of a person's status as a more than 10% beneficial owner
+under Section 16(b). Whatever the policy weight of the plaintiff s argument, the
+courts favor a narrow, more literal construction of Section 16(b), which is a strict
+liability provision. "No showing of actual misuse of inside information or of
+unlawful intent is necessary to compel disgorgement" under Section 16(b). Magma
+Power Co. v. Dow Chemical Co., 136 F.3d 316,320 (2d Cir. 1998). It "operates
+mechanically, and makes no moral distinctions, penalizing technical violators of
+pure heart, and bypassing corrupt insiders who skirt the letter of the prohibition."
+Id. at 320-21. In Gollust v. Mendell, 501 U.S. 115, 122 (1991) the Supreme Court
+emphasized:
+Because the statute imposes "liability without fault within
+its narrowly drawn limits," Foremost-McKesson, Inc. v.
+Provident Securities Co., 423 U.S. [232,251 (1976)], we
+have been reluctant to exceed a literal, "mechanical"
+application of the statutory text in determining who may
+be subject to liability, even though in some cases a
+broader view of statutory liability could work to eliminate
+an "evil Congress sought to correct through § 16(b)."
+23
+
+
+Reliance Electric Co. v. Emerson Electric Co., 404 U.S.
+[418,425 (1972)].
+Thus, while an argument can be made that Southbrook could have access to
+inside information by virtue of its power to dispose of stock, that is not enough to
+bring it under Section 16. That section was not intended to be so broad in scope as
+to reach each and every person with potential access to inside information. In
+particular, Section 16(b) was intended to operate only within "narrowly drawn
+limits." Foremost-McKesson, Inc. v. Provident Securities Co., 423 U.S. at 251. As
+to 10% beneficial ownership, the Commission has limited the term to persons who
+fit within the Section 13(d) and Rule 13d-3 defmition. If the conversion cap in this
+case is binding, Southbrook is not, by virtue of holding convertible securities, a
+beneficial owner of more than 10% of ImmunoGen's common stock, and thus is
+not subject to Section 16.
+Finally, while we take no position on the validity of the conversion cap in
+this case, 111 we believe that such provisions must be examined on a case-by-case
+
+il/	 Plaintiff contends that the conversion caps found in Section 3.10 of the
+Purchase Agreement are void under the sham doctrine. This is a fact specific
+inquiry at a stage in the litigation when there has been little discovery. The
+Commission takes no position on this issue. Plaintiff similarly argues that
+the conversion cap is a nullity under Rule 13d-3(b), 17 C.F.R. 240.13d-3(b),
+which prohibits "contract[s], arrangement[s], or device[s]" that are "part of a
+(continued...)
+24
+
+basis to determine whether they are binding and valid. Factors that may indicate
+that a conversion cap is illusory include whether the cap:
+
+*
+
+is easily waivable by the parties (particularly the
+holder of the convertible securities);
+
+*
+
+lacks an enforcement mechanism;
+
+*	
+
+has not been adhered to in practice; or
+
+*	
+
+can be avoided by transferring the securities to an
+affiliate of the holder.
+
+Factors that may indicate that a cap is binding include whether it:
+
+*	
+
+is provided in the certificate of designation or the
+issuer's governing instruments;
+
+*	
+
+reflects limitations established by another
+regulatory scheme applicable to the issuer; or
+
+*	
+
+is the product of bona fide negotiations between
+the parties.
+
+Limitations on the number of conversions that may take place over a period of time
+may add integrity to such provisions, although they are not essential. When the
+limitations provided by conversion caps are discovered to be illusory or a sham,
+
+W(... continued)
+plan or scheme to evade the [applicable] reporting requirements." There is
+no allegation in this case, however, that Southbrook ever held more than
+4.9% of ImmunoGen's outstanding common stock at one time or attempted
+to conceal that ownership.
+25
+
+they should be disregarded and the courts should analyze the case as though no
+such limitations existed.
+
+II.	
+
+THESE DERIVATIVE SECURITIES HAVE BOTH FIXED AND
+FLOATING RATE COMPONENTS.
+The Court's second question is whether the convertible preferred stock
+
+purchased by Southbrook in this case has a fixed or floating conversion rate. These
+securities have both a fixed rate component and a floating rate component. The
+flXed rate component is convertible into common stock by dividing $1,000, plus
+accrued dividends, by a fixed rate determined at the date of purchase of the
+particular issue of convertible preferred stock. This flXed rate component
+establishes the minimum number of shares of common stock into which the
+convertible preferred stock will be converted. Conversion will never result in
+receipt of fewer shares of common stock. To that extent, the holder's minimum
+opportunity to profit from the underlying common stock is established at the time
+the holder acquires the convertible preferred stock.
+Under the floating rate component, the convertible preferred stock is
+convertible by dividing $1,000, plus accrued dividends, by the applicable
+percentage of the average closing bid price of the common stock for the five
+consecutive trading days immediately preceding the date of conversion. The
+
+26
+
+
+applicable percentage is defmed as (i) 100% for the first forty days after the
+purchase of the particular issue of convertible preferred stock, (ii) 90% for the next
+forty days, and (iii) 85% for any conversion thereafter. The floating rate
+component thus provides for the investor to convert into an increasing number of
+common shares as the market price of the common shares declines.
+Whether the fixed rate or floating rate component determines the ultimate
+number of common shares to be received upon conversion depends on which
+component determines the lower price. The fixed rate component sets a floor
+below which the number of common shares received on conversion will not
+decline. The holder's opportunity to profit with respect to any additional shares of
+common that it may acquire through the floating rate component is not fixed until
+conversIOn.
+Under Rule 16a-l(a)(2), 17 C.F.R. 240. 16a-l(a)(2), a person beneficially
+owns a security, for all purposes other than determining the person's status as a
+more than ten percent beneficial owner, only if the person has a direct or indirect
+pecuniary interest in the security. Rule 16a-l(a)(2)(ii)(F) defmes "indirect
+pecuniary interest" to include "[a] person's right to acquire equity securities
+
+27
+
+
+through the exercise or conversion of any derivative security, whether or not it is
+presently exercisable."
+However, Rule 16a-1(c)(6), 17 C.F.R. 240. 16a-1(c)(6), provides that a
+"derivative security" does not include "rights with an exercise or conversion
+privilege at a price that is not fixed." This is because "[r]ights without a fixed
+exercise price do not provide an insider the same kind of opportunity for short­
+swing profits since the purchase price [of the underlying security] is not known in
+advance." Ownership Reports and Trading by Officers, Directors, and Principal
+Security Holders, Exchange Act Release No. 28869,48 SEC Docket 234, 1991 WL
+292000 at * 17 (February 8, 1991). Unless and until these rights are exercised or
+converted, their holder does not have a pecuniary interest in the underlying equity
+securities because the number of additional underlying securities that may be
+acquired - and hence the holder's opportunity to profit from them - is not known
+until then.
+Thus, acquisition of convertible preferred stock with a fixed conversion price
+establishes an indirect pecuniary interest in the underlying common stock,
+whereas acquisition of convertible preferred stock with a floating conversion price
+does not.
+
+28
+
+
+With respect to the ImmunoGen convertible preferred stock purchased by
+Southbrook, the fixed price component establishes the minimum number of shares
+of common stock into which the convertible preferred stock will be converted.
+Accordingly, Southbrook acquired an indirect pecuniary interest in that minimum
+number of common shares at the time Southbrook acquired the convertible
+preferred stock. However, Southbrook would not acquire a pecuniary interest in
+any additional shares of common stock through the convertible preferred stock
+before its conversion, at which time the conversion price would fix to determine
+what - if any - additional shares of common would be obtained through the
+floating price component.
+III.	
+
+FLOATING RATE DERIVATIVE SECURITIES ARE INCLUDED IN
+THE 10% BENEFICIAL OWNERSHIP DETERMINATION.
+Finally, the Court asked whether floating rate derivatives are included in the
+
+determination of whether an investor is a 10% beneficial owner. Here, again, it is
+important to keep in mind that Rule 16a-1(a) provides two defmitions of beneficial
+ownership: one for purposes of determining a person's status as a 10% beneficial
+owner under Section 16 and a second definition of beneficial ownership for all
+other purposes. This second defmition focuses on whether the person has a
+
+29
+
+
+pecuniary interest in the securities. The owner of floating rate derivative securities
+does not have a pecuniary interest in the underlying equity securities until the
+exercise price becomes fixed.
+. This Court's question concerns the definition pertaining to a person's status
+as a 10% beneficial owner. Floating rate derivative securities are considered in
+making this determination. As noted earlier, Rule 16a-l(a)(1) adopts the Section
+13(d) definition of beneficial owner for purposes of determining an investor's
+status as a more than 10% holder. Section 13(d) and the rules promulgated under
+that section make no special provision for floating rate securities. Whether the
+conversion rate is fixed or floating, ifthe investor has the right to acquire the
+underlying voting securities at any time within sixty days under Rule 13d­
+3(d)(I)(i), the investor is deemed to be the beneficial owner of those securities for
+the purpose of determining whether the investor is a more than 10% beneficial
+owner.
+
+See~,
+
+Editek v. Morgan Capital, L.L.C., 150 F.3d 830, 833-34 (8th Cir.
+
+1998).
+CONCLUSION
+The Commission concludes that where the Court fmds that a conversion cap
+would deny an investor holding convertible securities the right to hold more than
+
+30
+
+
+10% of the underlying equity securities of an issuer at anyone time, the investor
+would not be, by virtue of his ownership of convertible securities, the beneficial
+owner of more than 10% ofthe underlying equity securities of the issuer such that
+he is subject to Section 16. We take no position as to whether as a factual matter
+the cap in this case is sufficiently binding to limit Southbrook's Section 16(b)
+liability. The Commission further urges this Court to view the derivative securities
+at issue in this case as having both fixed rate and floating rate components, and that
+floating rate derivative securities are included in the more than 10% beneficial
+ownership determination.
+Respectfully submitted,
+DAVID M. BECKER
+General Counsel
+ERIC SUMMERGRAD
+De
+olicito
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+Securities and Exchange Commission
+Washington, D.C. 20549-0606
+(202) 942-0837 (Capute)
+
+March 2001
+
+31
+
+
+No. 00-7630
+UNITED STATES COURT OF APPEALS
+
+FOR THE SECOND CIRCUIT
+
+
+MARK LEVY, Derivatively on behalf of ImmunoGen, Inc.,
+Plaintiff-Appellant,
+
+v.
+SOUTHBROOK INTERNATIONAL INVESTMENTS, LTD.,
+Defendant-Appellee,
+
+and
+IMMUNOGEN, INC.,
+Nominal Defendant-Appellee.
+
+CERTIFICATE OF COMPLIANCE
+
+WITH CIRCUIT RULE 32(a)(7)(B)
+
+
+I, Allan A. Capute, certify, in accordance with Circuit Rule 32(a)(7)(B), that the
+Brief of the Securities and Exchange Commission, Amicus Curiae, in Support of Appellees
+on Issues Addressed is 6812 words in length, as determined by the word count system
+provided by the WordPerfect 8 word processing system.
+
+anA. Capute
+ecurities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C. 20549-0606
+(202) 942-0837
+March 15,2001
+
+No. 00-7630
+UNITED STATES COURT OF APPEALS
+
+FOR THE SECOND CIRCUIT
+
+
+MARK LEVY, Derivatively on behalf of ImmunoGen, Inc.,
+Plaintiff-Appellant,
+
+v.
+SOUTHBROOK INTERNATIONAL INVESTMENTS, LTD.,
+Defendant-Appellee,
+
+and
+IMMUNOGEN, INC.,
+Nominal Defendant-Appellee.
+
+CERTIFICATE OF SERVICE
+
+I, Allan A. Capute, am a member of the bars of Maryland and the District of
+Columbia, and I hereby certify that on March 15, 2001 I caused to be served three copies of
+the Brief of the Securities and Exchange Commission, Amicus Curiae, in Support of
+Appellee on Issues Addressed by overnight Federal Express or by hand to:
+Herbert Teitelbaum, Esq.
+Robinson, Silverman, Pearce
+Aronsohn & Berman, L.L.P.
+1290 Avenue of the Americas
+New York, New York 10104
+(212) 541-2000
+Hilary Claudette Lane, Esq.
+Rogers & Wells
+200 Park Avenue
+New York, New York 10166
+(212) 878-8000
+
+Paul Gonson, Esq. (By Hand)
+
+Kirkpatrick & Lockhart, L.L.P.
+
+1800 Massachusetts Avenue, N.W.
+
+2nd Floor
+
+Washington, D.C. 20036-1800
+
+(202) 778-9434
+
+Mitchell M.Z. Twersky, Esq.
+
+Jack G. Fruchter, Esq.
+
+Fruchter & Twersky
+
+60 East 42nd Street
+
+New York, New York 10165
+
+(212) 687-6655
+
+Jeffrey S. Abraham, Esq.
+
+Law Offices of Jeffrey S. Abraham, Esq.
+
+60 East 42nd Street
+
+New York, New York 10165
+
+(212) 692-0555
+
+
+anA. Capute
+ecurities and Exchange Commission
+
+450 Fifth Street, N.W.
+
+Washington, D.C. 20549-0606
+
+
+-2­
+
+

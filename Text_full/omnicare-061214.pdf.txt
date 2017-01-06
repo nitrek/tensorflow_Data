@@ -1,0 +1,1840 @@
+No. 13-435
+
+In the Supreme Court of the United States
+OMNICARE, INC., ET AL., PETITIONERS
+v.
+LABORERS DISTRICT COUNCIL CONSTRUCTION
+INDUSTRY PENSION FUND, ET AL.
+
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE SIXTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE
+IN SUPPORT OF VACATUR AND REMAND
+
+ANNE K. SMALL
+General Counsel
+MICHAEL A. CONLEY
+Deputy General Counsel
+JOHN W. AVERY
+Deputy Solicitor
+DOMINICK V. FREDA
+Senior Litigation Counsel
+STEPHEN G. YODER
+Senior Counsel
+Securities and Exchange
+Commission
+Washington, D.C. 20549
+
+DONALD B. VERRILLI, JR.
+Solicitor General
+Counsel of Record
+MALCOLM L. STEWART
+Deputy Solicitor General
+NICOLE A. SAHARSKY
+Assistant to the Solicitor
+General
+Department of Justice
+Washington, D.C. 20530-0001
+SupremeCtBriefs@usdoj.gov
+(202) 514-2217
+
+QUESTION PRESENTED
+
+Whether, in a suit under Section 11 of the Securities Act of 1933, 15 U.S.C. 77k, a plaintiff who seeks to
+impose liability for a statement of opinion in a registration statement, and who alleges that the opinion
+lacks a reasonable basis, must also allege that the
+maker of the statement did not subjectively hold that
+opinion.
+
+(I)
+
+TABLE OF CONTENTS
+
+Page
+Interest of the United States ........................................................ 1
+Statement ......................................................................................... 2
+Summary of argument ................................................................... 5
+Argument:
+A statement of opinion is actionable under Section 11
+if it lacked a reasonable basis under the circumstances,
+even if the opinion was genuinely held ................................. 10
+A. A statement of opinion is actionable under
+Section 11 if it either misrepresents the
+speaker’s actual belief or conveys a false
+impression as to the nature or extent of the
+inquiry on which the statement was based ............... 10
+B. The Court in Virginia Bankshares recognized
+that opinions may be actionable under the
+securities laws either if they are not genuinely
+held or if they lack foundation .................................... 16
+C. Common-law courts imposed liability for
+statements of opinion that either were not
+genuinely held or lacked a reasonable basis
+under the circumstances .............................................. 21
+D. Imposing Section 11 liability for statements of
+opinion that are not genuinely held or lack a
+reasonable basis furthers Congress’s intent
+and fulfills the Act’s purposes ..................................... 25
+E. The SEC has consistently recognized that
+statements of opinion that are not genuine
+or that lack a reasonable basis may be actionable
+under the securities laws ............................................. 31
+Conclusion ...................................................................................... 34
+Appendix ........................................................................................ 1a
+
+(III)
+
+IV
+TABLE OF AUTHORITIES
+
+Cases:
+
+Page
+
+Alexander Reid & Co., No. 8-7105, 1962 WL 68464
+(S.E.C. Feb. 8, 1962) ......................................................... 9, 32
+Dickerman v. Northern Trust Co., 176 U.S. 181
+(1900) ...................................................................................... 28
+Gold Props. Restoration Co., No. 3-7735, 1992 WL
+211480 (S.E.C. Aug. 27, 1992) ......................................... 9, 33
+Hamilton Oil & Gas Corp., No. 24D-2258,
+1961 WL 61074 (S.E.C. July 25, 1961) ............... 9, 31, 32, 33
+Herman & MacLean v. Huddleston, 459 U.S. 375
+(1983) .................................................................................. 3, 29
+Howard v. Riggs Nat’l Bank, 432 A.2d 701
+(D.C. 1981) ............................................................................. 25
+Kefuss v. Whitley, 189 N.W. 76 (Mich. 1922) ........................ 24
+Knickerbocker Merch. Co. v. United States, 13 F.2d
+544 (2d Cir.), cert. denied, 273 U.S. 729 (1926) ................. 23
+Marx v. Computer Scis. Corp., 507 F.2d 485
+(9th Cir. 1974) ........................................................................ 15
+Richard J. Buck & Co., No. 3-417, 1968 WL 86080
+(S.E.C. Dec. 31, 1968), aff ’d sub nom. Hanly v.
+SEC, 415 F.2d 589 (2d Cir. 1969) ..................................... 9, 33
+SEC v. Capital Gains Research Bureau,
+375 U.S. 180 (1963) ............................................................... 27
+SEC v. Zandford, 535 U.S. 813 (2002) ............................... 9, 33
+Seymour v. Chicago & Nw. Ry., 164 N.W. 352 (Iowa
+1917) ....................................................................................... 25
+Shepherd v. Kendrick, 181 So. 782 (Ala. 1938)..................... 24
+Smith v. Land & House Prop. Corp., (1884)
+28 Ch. D. 7 (C.A.) (Eng.) ................................................ 23, 24
+Virginia Bankshares, Inc. v. Sandberg,
+501 U.S. 1083 (1991) .................................................... passim
+Weiss v. SEC, 468 F.3d 849 (D.C. Cir. 2006) ....................... 11
+
+V
+Statutes and regulations:
+
+Page
+
+Securities Act of 1933, ch. 38, 48 Stat. 74
+(15 U.S.C. 77a et seq.) ....................................................... 2, 25
+§ 5(a), 48 Stat. 77 (15 U.S.C. 77e(a)) ............................... 26
+§ 5(b), 48 Stat. 77 (15 U.S.C. 77e(b)) ............................... 26
+§ 6(a), 48 Stat. 78 (15 U.S.C. 77f(a)) ................................ 26
+§ 7, 48 Stat. 78 (15 U.S.C. 77g) ........................................ 26
+§ 8(a), 48 Stat. 79 (15 U.S.C. 77h(a)) ............................... 26
+§ 8(d), 48 Stat. 79 (15 U.S.C. 77h(d)) .............................. 26
+§ 10, 48 Stat. 81 (15 U.S.C. 77j) ....................................... 26
+§ 11, 48 Stat. 82 (15 U.S.C. 77k) ...................................... 26
+§ 11(b)(3), 48 Stat. 82 (15 U.S.C. 77k(b)(3)) ................... 28
+§ 11(c), 48 Stat. 83 (15 U.S.C. 77k(c)) ............................. 28
+§ 12, 48 Stat. 84 (15 U.S.C. 77l) ....................................... 26
+15 U.S.C. 77d (§ 4) ............................................................... 2
+15 U.S.C. 77e (§ 5) ......................................................... 2, 1a
+15 U.S.C. 77e(a) (§ 5(a)) .............................................. 12, 26
+15 U.S.C. 77e(b) (§ 5(b)) ................................................... 26
+15 U.S.C. 77f (§ 6) .................................................... 2, 12, 3a
+15 U.S.C. 77f(a) (§6(a)) ..................................................... 26
+15 U.S.C. 77g (§ 7) ................................................... 2, 26, 9a
+15 U.S.C. 77g(a) (§ 7(a)) ................................................... 12
+15 U.S.C. 77h (§ 8) ....................................................... 2, 14a
+15 U.S.C. 77h(a) (§ 8(a)) ............................................... 2, 26
+15 U.S.C. 77h(d) (§ 8(d)) ......................................... 2, 26, 33
+15 U.S.C. 77j (§ 10) ........................................................ 2, 26
+15 U.S.C. 77k (§ 11) .................................................. passim
+15 U.S.C. 77k(a) (§ 11(a)) ........................................ passim
+15 U.S.C. 77k(b) (§ 11(b)) ................................................. 14
+15 U.S.C. 77k(b)(3) (§ 11(b)(3))........................................ 28
+15 U.S.C. 77k(b)(3)(A) (§ 11(b)(3)(A)) .............................. 3
+
+VI
+Statutes and regulations—Continued:
+
+Page
+
+15 U.S.C. 77k(c) (§ 11(c)) .................................................. 28
+15 U.S.C. 77l (§ 12) ........................................................ 3, 26
+15 U.S.C. 77q(a)(2) (§17(a)(2)) ......................................... 33
+15 U.S.C. 77aa Sched. A ................................................... 12
+Securities Exchange Act of 1934, ch. 404,
+48 Stat. 881 (15 U.S.C. 78a et seq.):
+§ 206(c), 48 Stat. 907 (15 U.S.C. 77k(c)) ......................... 28
+15 U.S.C. 78j(b) (§ 10(b)) .................................................. 33
+15 U.S.C. 78n(a) (§ 14(a)) ........................... 6, 16, 18, 19, 20
+17 C.F.R.:
+Section 240.10b-5(b) .......................................................... 33
+Section 240.14a-9 ............................................... 7, 16, 18, 19
+Miscellaneous:
+37 C.J.S. Fraud (2014) ............................................................ 25
+2 Thomas M. Cooley, A Treatise on the Law of Torts
+(D. Avery Haggard ed., 4th ed. 1932) .................... 21, 22, 29
+H.R. Conf. Rep. No. 152, 73d Cong., 1st Sess. (1933) ......... 28
+H.R. Conf. Rep. No. 1838, 73d Cong., 2d Sess. (1934)........ 28
+H.R. Rep. No. 85, 73rd Cong., 1st. Sess.
+(1933) ........................................................13, 26, 27, 28, 29, 30
+2 Fowler V. Harper et al., Harper, James, and Gray
+on Torts (3d ed. 2006) ..................................................... 22, 29
+W. Page Keeton et al., Prosser and Keeton on Torts
+(5th ed. 1984) ......................................................................... 24
+James M. Landis, The Legislative History of the Securities Act of 1933, 28 Geo. Wash. L. Rev. 29 (1959) ...... 28
+2 John Norton Pomeroy, Jr., A Treatise on Equity
+Jurisprudence (4th ed. 1918) .............................................. 21
+Regulation of Stock Market Manipulation,
+56 Yale L.J. 509 (1947) .......................................................... 27
+
+VII
+Miscellaneous—Continued:
+
+Page
+
+3 Restatement (Second) of Torts (1977) ..................... 7, 24, 25
+Harry Shulman, Civil Liability and the Securities
+Act, 43 Yale L.J. 227 (1933)............................................ 27, 28
+1 Joseph Story, Commentaries on Equity Jurisprudence (14th ed. 1918) ...................................................... 21, 22
+
+In the Supreme Court of the United States
+No. 13-435
+OMNICARE, INC., ET AL., PETITIONERS
+v.
+LABORERS DISTRICT COUNCIL CONSTRUCTION
+INDUSTRY PENSION FUND, ET AL.
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE SIXTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE
+IN SUPPORT OF VACATUR AND REMAND
+
+INTEREST OF THE UNITED STATES
+
+The United States, through the Department of Justice and the Securities and Exchange Commission
+(SEC or Commission), administers and enforces the
+federal securities laws. This case concerns Section 11
+of the Securities Act of 1933, 15 U.S.C. 77k, which
+authorizes private suits when a registration statement
+includes any “untrue statement of a material fact” or
+“omit[s] to state a material fact” that is “necessary to
+make the statements therein not misleading.” The
+question presented is whether a plaintiff whose Section 11 suit is premised on an issuer’s statement of
+opinion must allege that the maker of the statement
+did not subjectively hold that opinion. The resolution
+of that question will affect private actions under Sec(1)
+
+2
+tion 11, which are an important means of ensuring
+accuracy in registration statements, as well as Commission stop orders under Section 8 of the Act, 15
+U.S.C. 77h. The Court’s disposition of this case also
+may affect the enforcement, by the government and
+by private parties, of numerous other federal securities laws that prohibit material misstatements and
+omissions. The United States therefore has a substantial interest in this Court’s resolution of the question presented.
+STATEMENT
+
+1. The Securities Act of 1933 (Act), ch. 38, 48 Stat.
+74, requires an issuer of a security offered to the public through the mails or in interstate commerce to
+register its offering with the Commission. See 15
+U.S.C. 77e.1 The registration statement must contain
+certain information about the issuer and the security,
+and it must be signed by the issuer, its officers, and
+the majority of its board of directors. 15 U.S.C. 77f,
+77g. A prospectus used to market the security must
+include much of the information from the registration
+statement. 15 U.S.C. 77e, 77j.
+A registration statement generally becomes effective 20 days after filing. 15 U.S.C. 77h(a). The Commission may issue a “stop order” delaying the effectiveness of a registration statement that “includes any
+untrue statement of a material fact” or that “omits to
+state any material fact” that is “necessary to make the
+statements therein not misleading.” 15 U.S.C. 77h(d).
+The Act also establishes an express private right of
+action for material misstatements or omissions in
+1
+
+This requirement is subject to limited exceptions not at issue
+here. See 15 U.S.C. 77d.
+
+3
+registration statements. Section 11 of the Act provides that “any person acquiring” a security may sue
+the issuer, its directors, its underwriters, and others if
+“any part of the registration statement, when such
+part became effective, contained an untrue statement
+of a material fact or omitted to state a material fact
+required to be stated therein or necessary to make the
+statements therein not misleading.” 15 U.S.C. 77k(a).
+Section 12 establishes a similar cause of action for
+material misstatements or omissions in prospectuses.
+See 15 U.S.C. 77l.
+Section 11 “was designed to assure compliance with
+the disclosure provisions of the Act by imposing a
+stringent standard of liability on the parties who play
+a direct role in a registered offering.” Herman &
+MacLean v. Huddleston, 459 U.S. 375, 381-382 (1983)
+(footnote omitted). A plaintiff “need only show a material misstatement or omission” in the registration
+statement “to establish his prima facie case.” Id. at
+382. An issuer may avoid liability only if the plaintiff
+knew of the untruth or omission when he acquired the
+security. 15 U.S.C. 77k(a). A director, underwriter, or
+individual defendant may establish certain limited
+affirmative defenses, including that, after a “reasonable investigation,” he had “reasonable ground to believe” and “did believe” that the statements in the
+registration statement were true.
+15 U.S.C.
+77k(b)(3)(A).
+2. Petitioner Omnicare, Inc., is the nation’s largest
+provider of pharmaceutical care for the elderly and
+other residents of long-term care facilities. Pet. App.
+5a. Respondents are investors who purchased Omnicare stock during a December 2005 public offering.
+Id. at 6a. In conjunction with that public offering,
+
+4
+Omnicare filed a registration statement with the
+Commission. Ibid.
+In February 2006, respondents filed this lawsuit
+against Omnicare and several of its officers and directors (petitioners in this Court). Pet. App. 5a, 7a. In
+the operative complaint (see id. at 6a & n.2), respondents alleged that petitioners are liable under Section
+11 for certain statements in the registration statement. Id. at 6a-7a. Those statements read:
+We believe that our contracts with pharmaceutical
+manufacturers are legally and economically valid arrangements that bring value to the healthcare system and the patients that we serve. * * *
+We believe our contract arrangements with other
+healthcare providers, our pharmaceutical suppliers
+and our pharmacy practices are in compliance with
+applicable federal and state laws.
+J.A. 201-203 (para. 46) (emphasis omitted) (quoting
+registration statement); see J.A. 191-192, 226-227
+(paras. 27, 91).
+In respondents’ view, those statements were false
+and misleading because Omnicare had entered into
+unlawful kickback arrangements with pharmaceutical
+manufacturers. J.A. 185-186, 203-226 (paras. 10, 4790). Respondents further alleged that none of petitioners had “made a reasonable investigation or possessed reasonable grounds” to believe that the statements in the registration statement were truthful and
+complete. J.A. 274 (para. 183). Respondents also
+“disclaim[ed] any allegation” of “fraud or intentional
+or reckless misconduct.” J.A. 273 (para. 178).
+3. The district court granted petitioners’ motion to
+dismiss the Section 11 claim. Pet. App. 28a-41a. In
+
+5
+the court’s view, “statements regarding a company’s
+belief as to its legal compliance are considered ‘soft’
+information and are generally not actionable,” unless
+the complaint alleges that the makers of the statements “knew the statements were untrue at the time
+they were made.” Id. at 38a (citation omitted). The
+court concluded that respondents had not alleged such
+knowledge here. Id. at 38a-40a.
+4. The court of appeals reversed. Pet. App. 3a-27a.
+The court noted that “Section 11 provides for strict
+liability” and “does not require a plaintiff to plead a
+defendant’s state of mind.” Id. at 12a. The court
+concluded that, in order to state a Section 11 claim
+based on a statement of opinion, the plaintiff need
+only allege that the opinion was “objectively false” and
+need not also allege that the statement was “disbelieved by the defendant at the time it was expressed.”
+Id. at 16a (citation omitted). The court rejected petitioners’ argument that, under Virginia Bankshares,
+Inc. v. Sandberg, 501 U.S. 1083 (1991), a Section 11
+plaintiff who alleges a false or misleading statement of
+opinion must allege (and ultimately prove) that the
+defendant did not genuinely believe the opinion. Pet.
+App. 16a-19a.
+SUMMARY OF ARGUMENT
+
+A statement of opinion is actionable under Section
+11 of the Securities Act, 15 U.S.C. 77k, if it lacked a
+basis that was reasonable under the circumstances,
+even if it was sincerely held.
+A. Section 11 creates an express cause of action
+for a registration statement that “contained an untrue
+statement of material fact” or “omitted to state a
+material fact * * * necessary to make the statements therein not misleading.” 15 U.S.C. 77k(a). A
+
+6
+statement of opinion generally conveys (1) that the
+maker of the statement genuinely holds the opinion
+and (2) that the opinion has a basis that is reasonable
+under the circumstances. If either is not true, the
+statement may be misleading. Although what constitutes a material omission depends on the circumstances, in the context of a registration statement, a statement of opinion generally implies it has a reasonable
+basis. That is especially true when the opinion is one
+about the lawfulness of the company’s own conduct.
+Petitioners contend that a statement of opinion is
+actionable under Section 11 only if it is not sincerely
+held, on the theory that the only fact expressly stated
+by the opinion is that the speaker holds that opinion.
+Petitioners overlook that Section 11 applies to both
+misstatements and omissions.
+Because an opinion can be misleading either because it is insincere or because it lacks foundation, the
+court of appeals correctly held that a Section 11 plaintiff need not allege that the defendant disbelieved the
+opinion. But the court erred in suggesting that a
+statement of opinion is actionable whenever it is ultimately proved incorrect. Section 11 liability should be
+determined based on the facts at the time the statement was made, not at a later time.
+B. In Virginia Bankshares, Inc. v. Sandberg, 501
+U.S. 1083 (1991), this Court recognized that a statement of opinion may be materially misleading either
+because it is not genuinely held or because it lacks
+foundation. The Court considered whether directors’
+statements, in a proxy solicitation, that they believed
+a proposed merger would result in a high value and
+fair price for stock were actionable under Section
+14(a) of the Securities Exchange Act, 15 U.S.C. 78n(a),
+
+7
+and SEC Rule 14a-9, 17 C.F.R. 240.14a-9. The Court
+determined that such statements of belief can be materially significant to investors because investors
+expect the directors to draw on their knowledge and
+experience and to act in the shareholders’ interests.
+501 U.S. at 1091. The Court then concluded that the
+statements were misleading because the jury had
+found that the directors did not actually believe them
+and the Court found sufficient evidence to establish
+that the directors lacked a “factual basis” for their
+beliefs. Id. at 1090, 1093-1094.
+Virginia Bankshares did not hold that subjective
+insincerity always must be present to make a statement of opinion actionable. Because the Court accepted the jury’s finding that the directors’ statements of belief were insincere, it did not consider
+whether such a finding is required in every case.
+C. Common-law courts recognized that a statement of opinion may be an actionable misrepresentation when it was not genuinely held or when it lacked
+foundation. Although the general common-law rule
+was that a statement of opinion regarding a commercial transaction was not actionable, common-law
+courts recognized numerous exceptions to that rule. A
+statement of opinion could be actionably false if it was
+not the speaker’s opinion and the recipient was entitled to rely on such an opinion. A statement of opinion
+also could be misleading if it implied a foundation that
+was lacking. Modern tort law continues to reflect
+these two principles. See 3 Restatement (Second) of
+Torts §§ 525 cmt. d, 539 & cmts. a & b (1977).
+D. Imposing Section 11 liability for statements of
+opinion that are not genuinely held or lack a reasonable basis furthers Congress’s intent and fulfills the
+
+8
+Securities Act’s purposes. The Act focuses on disclosure of information to potential investors. The registration statement plays a foundational role. It must
+be filed before any security can be sold, and if it contains any material misrepresentations or omissions,
+the Commission may prevent sale of the security and
+a purchaser of the security may sue for damages.
+In enacting Section 11, Congress built on commonlaw principles to create a far-reaching cause of action.
+Congress imposed liability not only for misstatements,
+but also for omissions, and it rejected the rule of caveat emptor, instead placing the burden of disclosure on
+the issuer’s directors and officers. And Congress
+dispensed with proof of scienter, reliance, and causation, permitting only limited affirmative defenses once
+it was established that a registration statement included a material misstatement or omission.
+Imposition of liability for a statement of opinion
+that is not genuine or that lacks a reasonable basis is
+consistent with this scheme, because it ensures that
+registration statements are both literally true and do
+not omit information that would matter to a reasonable investor. Petitioners are correct that imposing
+liability under Section 11 based on later events (as the
+court of appeals suggested) would disserve the Act’s
+purposes. But petitioners go too far in the other direction, because under their view, directors and officers who state opinions that lack foundation could avoid
+Section 11 liability so long as they genuinely held the
+opinions.
+E. The Commission has consistently recognized
+that a genuinely held statement of opinion may be
+materially misleading when it lacks a reasonable basis. In a series of adjudications, the Commission has
+
+9
+explained that “[g]roundless opinions come within the
+ambit of false or misleading statements prohibited by
+the securities laws,” even if the speaker “personally
+believes” the statement, because investors expect that
+the opinions are “responsibly made on the basis of
+actual knowledge and careful consideration.” Alexander Reid & Co., No. 8-7105, 1962 WL 68464, at *4
+(Feb. 8, 1962). The Commission has applied these
+principles in imposing a stop order to prevent a registration statement from becoming effective, see Hamilton Oil & Gas Corp., No. 24D-2258, 1961 WL 61074, at
+*8, *14 (July 25, 1961); in regulating broker-dealers,
+see Richard J. Buck & Co., No. 3-417, 1968 WL 86080,
+at *6 (Dec. 31, 1968), aff ’d sub nom. Hanly v. SEC, 415
+F.2d 589 (2d Cir. 1969); Alexander Reid & Co., 1962
+WL 68464, at *4; and in issuing a cease-and-desist
+order to prevent use of misleading documents regarding an initial public offering, see Gold Props. Restoration Co., No. 3-7735, 1992 WL 211480, at *5 (Aug. 27,
+1992).
+These decisions reflect a consistent interpretation
+of similar statutory language, and they comport with
+common-law principles and the purposes of the Act.
+Accordingly, they should be given significant weight.
+See SEC v. Zandford, 535 U.S. 813, 819-820 (2002).
+For all of these reasons, the Court should vacate the
+court of appeals’ judgment and remand this case for
+further proceedings.
+
+10
+ARGUMENT
+A STATEMENT OF OPINION IS ACTIONABLE UNDER
+SECTION 11 IF IT LACKED A REASONABLE BASIS UNDER THE CIRCUMSTANCES, EVEN IF THE OPINION
+WAS GENUINELY HELD
+
+At issue in this case are statements of opinion in
+Omnicare’s December 2005 registration statement. In
+the view of the United States, statements of opinion
+may be actionable under Section 11, either because
+the maker of the statement did not actually hold the
+opinion stated or because the statement lacked a basis
+that was reasonable under the circumstances in which
+the statement was made. The court of appeals therefore correctly held that a plaintiff need not allege
+subjective disbelief to recover under Section 11 for a
+statement of opinion. The court erred, however, in
+holding that a statement of opinion is actionably false
+whenever it is ultimately determined to be wrong.
+Because the court of appeals applied an erroneous
+legal standard, this Court should vacate the judgment
+below and remand for further proceedings.
+A. A Statement Of Opinion Is Actionable Under Section
+11 If It Either Misrepresents The Speaker’s Actual Belief Or Conveys A False Impression As To The Nature
+Or Extent Of The Inquiry On Which The Statement
+Was Based
+
+1. Section 11 creates an express cause of action for
+material misstatements or omissions in a registration
+statement. It provides that “any person acquiring” a
+security may sue the issuer, its officers and directors,
+and others if “any part of ” the security’s registration
+statement, “when such part became effective, contained an untrue statement of a material fact” or
+
+11
+“omitted to state a material fact * * * necessary
+to make the statements therein not misleading.” 15
+U.S.C. 77k(a).
+A statement of opinion generally conveys the facts
+that (1) the maker of the statement genuinely holds
+the opinion, and (2) there is a basis for the opinion
+that is reasonable under the circumstances. See, e.g.,
+Weiss v. SEC, 468 F.3d 849, 855 (D.C. Cir. 2006).
+First, a statement of opinion typically constitutes an
+express assertion that the speaker actually holds the
+stated belief. Thus, if a corporate director states, “I
+believe that my company’s conduct is lawful,” she
+represents as fact that she holds a certain view about
+the legality of the company’s conduct. If the director
+actually believes the company’s conduct to be unlawful, then she has made “an untrue statement of material fact.” 15 U.S.C. 77k(a).
+Second, a statement of opinion implies the existence of a basis for the opinion that is reasonable under
+the circumstances. If a company says in a registration
+statement, “We believe our conduct is lawful,” it implies that it has a reasonable basis for that conclusion.
+If there is no such basis, the speaker has “omitted to
+state a material fact,” 15 U.S.C. 77k(a)—the lack of
+foundation for the opinion—that is necessary to make
+the statement not misleading. 2 For example, if the
+company states that its conduct is lawful without having conducted any legal analysis, the statement of
+opinion is incomplete because it fails to apprise the
+2
+
+A statement of opinion that lacks a reasonable basis also can be
+viewed as one that implies a statement that is untrue. See, e.g.,
+Virginia Bankshares, 501 U.S. at 1095-1096 (noting that there may
+be “something false or misleading in what the statement expressly
+or impliedly declares about its subject”).
+
+12
+reader that no such analysis occurred. The company’s statement of opinion may likewise be misleading
+if the company’s lawyers have questioned the legality
+of its conduct and the statement contains no reference
+to that fact.
+What constitutes a material omission from a statement of opinion depends on the circumstances under
+which the opinion is offered. In their daily lives, individuals often express off-the-cuff opinions on myriad
+subjects as to which they possess, and are understood
+to possess, no special expertise. A registration statement, however, is a formal document filed with the
+Commission as a legal prerequisite to the sale of a
+security to the public. See 15 U.S.C. 77e(a), 77f. The
+information required in a registration statement generally consists of facts, not opinions. See 15 U.S.C.
+77g(a), 77aa Sched. A. Because the registration
+statement is so important, Section 11 imposes farreaching liability on issuers and corporate officers for
+material misstatements and omissions. If an issuer
+volunteers a statement of opinion in a registration
+statement, the reader would naturally expect that the
+issuer has undertaken a significant investigation and
+has concluded that the opinion has a solid foundation.
+That is especially true where, as here, the statement
+concerns the issuer’s own compliance with the law, so
+that the issuer has every incentive to conduct a thorough investigation.
+2. Petitioners contend (Br. 14-16) that a statement
+of opinion is actionable under Section 11 only if the
+speaker does not sincerely hold the belief stated.
+They assert (Br. 14-15) that Section 11 “imposes liability only for untrue statements of material fact,” and
+that “[t]he only fact conveyed by a statement of opin-
+
+13
+ion or belief ” is “that the speaker held the stated
+belief.” But Section 11 does not limit liability to express misrepresentations of fact; it also applies if a
+registration statement “omit[s] to state a material fact
+* * * necessary to make the statements therein
+not misleading.” 15 U.S.C. 77k(a).
+A statement of opinion can be misleading either because of what it expressly states or because of what it
+omits. At least in circumstances where readers and
+listeners would expect a speaker to conduct a reasonable inquiry before expressing a particular opinion, a
+statement of opinion that lacks a reasonable basis and
+fails to mention that lack of foundation has “omitted”
+a fact that is “necessary” to make the statement of
+opinion not misleading. Congress imposed liability for
+such omissions in Section 11 to ensure that a company
+seeking to sell a security to the public tells “the whole
+truth” in its registration statement, rather than
+providing incomplete statements and half-truths.
+H.R. Rep. No. 85, 73d Cong., 1st. Sess. 2 (1933) (quoting President Franklin D. Roosevelt’s statement)
+(House Report).
+Although petitioners acknowledge (Br. 20-21) that
+a statement of opinion can be misleading when it lacks
+a factual basis, they assert that this is so only if the
+statement “contain[s] an explicit representation about
+the factual basis for the belief.” Section 11 is not so
+limited, however, because it imposes liability both for
+factual misstatements and for omissions that render a
+literally-accurate statement misleading. Petitioners
+also assert (Br. 16) that, so long as Omnicare “did in
+fact hold the stated belief ” that its conduct was lawful,
+then no “other ‘fact’ * * * would need to be disclosed in order to render the statement ‘not mislead-
+
+14
+ing.’ ” But the assertion (particularly in a formal document like a registration statement) that Omnicare
+believes its contracts are lawful implies that the company has a reasonable basis for so believing. If no
+such reasonable basis exists, Omnicare’s omission of
+that fact from its registration statement renders its
+statement of opinion misleading.
+3. Because a statement of opinion may be false or
+misleading in two different ways, the court of appeals
+was correct to hold that respondents were not required to plead or prove Omnicare’s subjective disbelief in the opinions it stated. See Pet. App. 15a-17a.
+The court’s stated reasons for that holding, however,
+were incomplete. The court explained that, because
+Section 11 does not require proof of scienter, “once a
+false statement has been made, a defendant’s
+knowledge is not relevant to a strict liability claim.”
+Id. at 16a. It is true that Section 11 does not require a
+plaintiff to prove any state of mind to recover; Section
+11 imposes near-absolute liability on the issuer, 15
+U.S.C. 77k(a), and what amounts to negligence liability on individual defendants, 15 U.S.C. 77k(a) and (b).
+Where the allegedly false or misleading statement is
+one of opinion, however, proof of the defendant’s state
+of mind is directly relevant to whether that statement
+is “untrue.” As explained above, statements of opinion
+are often express representations about the views the
+speaker holds, and the truth or falsity of such a representation logically depends on whether the speaker
+subjectively held the stated opinion.
+The court of appeals also erred in suggesting that a
+statement of opinion is actionably false whenever the
+stated opinion is ultimately found to be incorrect. See
+Pet. App. 11a, 16a, 20a-22a. In ordinary parlance, the
+
+15
+statement “I believe X to be true” would not naturally
+be characterized as an “untrue statement of * * *
+fact” simply because X was later determined to be
+false. Liability under Section 11 depends, moreover,
+on whether “any part of the registration statement”
+contained a material misstatement or omission “when
+such part became effective.” 15 U.S.C. 77k(a). Accordingly, whether a statement of opinion had sufficient basis depends on facts existing at the time the
+statement was made, not at a later time when a court
+can look back with the benefit of hindsight. See, e.g.,
+Marx v. Computer Scis. Corp., 507 F.2d 485, 490 (9th
+Cir. 1974). The mere fact that an opinion is ultimately
+determined to be incorrect does not mean that the
+statement of opinion was false when made.
+4. An example from outside the securities-law context illustrates these concepts. Suppose that a judge
+assigns a law clerk to a case some weeks before the
+scheduled date of oral argument, and subsequently
+asks the clerk on the eve of argument, “Which party
+do you think should prevail?” If the clerk replies, “I
+think the appellant has the better legal argument,”
+the judge will reasonably infer both that the statement reflects the clerk’s sincere legal judgment and
+that the clerk’s opinion is premised on significant legal
+research and analysis.
+If the law clerk actually believes that the appellant’s legal argument is weak, but professes to hold
+the contrary view because he has a financial interest
+in the appellant’s business, the statement is literally
+false because the clerk has claimed to hold an opinion
+that he did not actually believe. If the clerk sincerely
+believes that the appellant has the better of the argument, but the clerk’s only study of the case consists of
+
+16
+reading a brief on-line summary of the competing
+legal theories, the clerk’s statement of opinion may be
+literally true but will still be misleading, since it omits
+the critical fact that the clerk has not performed the
+expected legal analysis. 3 But if the clerk accurately
+communicates his subjective view of the merits, and
+that view is premised on reasonably diligent legal
+analysis, the clerk’s statement of opinion would not be
+untrue or misleading simply because the court ultimately ruled in the appellee’s favor.
+B. The Court In Virginia Bankshares Recognized That
+Opinions May Be Actionable Under The Securities
+Laws Either If They Are Not Genuinely Held Or If
+They Lack Foundation
+
+1. In Virginia Bankshares, Inc. v. Sandberg, 501
+U.S. 1083 (1991), the Court considered whether corporate directors can be liable under Section 14(a) of the
+Securities Exchange Act, 15 U.S.C. 78n(a), and SEC
+Rule 14a-9, 17 C.F.R. 240.14a-9, for their statements of
+reasons, opinions, or beliefs in a proxy solicitation.
+501 U.S. at 1090-1091. Section 14(a) and Rule 14a-9
+prohibit statements in proxy solicitations that are
+“false or misleading with respect to any material fact”
+or that “omit[] to state any material fact necessary in
+order to make the statements * * * not false or
+misleading.” Id. at 1087 n.2 (quoting Rule 14a-9). At
+3
+
+The situation would be different if the judge asked the clerk for
+his on-the-spot reaction to a newly-asserted legal argument. The
+clerk would still make an untrue statement of fact if he professed
+to hold an opinion that he did not actually believe. But, absent any
+contextual reason for the judge to infer that the clerk’s stated
+opinion was premised on significant prior study, the clerk’s failure
+to disavow such study would not be the sort of omission that would
+render the statement of opinion misleading.
+
+17
+issue in Virginia Bankshares were statements by the
+directors urging the adoption of a merger proposal
+and stating that the directors supported the proposal
+because shareholders could obtain a “high” value and
+a “fair” price for their stock. Id. at 1088. The Court
+concluded that those statements could be actionable
+under the securities laws. Id. at 1093-1095.
+The Court first determined that statements of reason or belief may be “materially significant” to shareholders. Virginia Bankshares, 501 U.S. at 1090-1091.
+The Court explained that a reasonable investor would
+place weight on the directors’ beliefs about the benefits of a merger because “[s]hareholders know that
+directors usually have knowledge and expertness far
+exceeding the normal investor’s resources,” and because the directors are “oblige[d] * * * to exercise
+their judgment in the shareholders’ interest.” Id. at
+1091.
+The Court in Virginia Bankshares then explained
+that statements of belief “are factual in two senses”:
+“as statements that the directors do act for the reasons given or hold the belief stated,” and “as statements about the subject matter of the reason or belief
+expressed.” 501 U.S. at 1092-1093. On the first point,
+the Court observed that a statement of reasons or
+belief “purports to express what is consciously on the
+speaker’s mind.” Id. at 1090. On the second point, the
+Court explained that the directors’ statements about
+the stock’s value “are reasonably understood to rest
+on a factual basis that justifies them as accurate,” and
+that the “absence” of such a basis would “render[]
+them misleading.” Id. at 1093. The Court thus recognized that the directors’ statements could be problematic if the directors either did not subjectively believe
+
+18
+that the merger would benefit shareholders or did not
+have a reasonable basis for the opinion stated.
+Applying those principles, the Court concluded that
+the directors’ statements in Virginia Bankshares
+were actionable under Section 14(a) and Rule 14a-9.
+The Court took as a given the jury’s finding that the
+directors “did not hold the beliefs or opinions expressed,” and it therefore “confine[d] [its] discussion
+to statements so made.” 501 U.S. at 1090. The Court
+accordingly did not decide whether, or under what
+circumstances, a defendant can be liable under Section
+14(a) and Rule 14a-9 for stating an opinion that is
+sincerely held. The Court then held that the plaintiffs
+had adduced sufficient evidence (including “provable
+facts about the Bank’s assets” and “actual and potential levels of operation”) to show that the directors had
+lacked a “factual basis” to make their statements
+“accurate.” Id. at 1093-1094.
+Having considered the situation where the statement of opinion both “misstate[s] the speaker’s reasons and also mislead[s] about the stated subject matter,” the Court went on to consider an alternative
+scenario not before the Court—a statement of belief
+that is “open to objection only” because it is “a misstatement of the psychological fact of the speaker’s
+belief in what he says.” Virginia Bankshares, 501
+U.S. at 1095. The Court stated that “proof of mere
+disbelief or belief undisclosed should not suffice for
+liability under § 14(a).” Id. at 1096. The Court explained that “it would be rare to find a case with evidence solely of disbelief or undisclosed motivation
+without further proof that the statement was defective
+as to its subject matter,” and that imposing liability
+based on subjective disbelief alone would unduly ex-
+
+19
+pand Section 14(a)’s implied private right of action.
+Ibid.
+2. The Virginia Bankshares Court recognized the
+common-sense proposition that a company cannot
+escape liability for making misleading statements
+simply by couching them as opinions. The Court also
+recognized that a statement of opinion or belief can be
+false or misleading either because it is not genuinely
+held or because it lacks foundation. Section 11, like
+Section 14(a) and Rule 14a-9, imposes liability both for
+false statements of material fact and for omissions
+that render the explicit statements misleading. Compare 15 U.S.C. 77k with 15 U.S.C. 78n(a) and 17 C.F.R.
+240.14a-9. Whether contained in a proxy solicitation
+or a registration statement, a director’s statement of
+opinion can be materially misleading either because it
+is “knowingly false” or because it is “misleadingly
+incomplete.” Virginia Bankshares, 501 U.S. at 1095. 4
+
+4
+
+Although the Court in Virginia Bankshares recognized that a
+statement of opinion can be misleading in two different ways, it
+stated in dicta that Section 14(a) does not impose liability if the
+only objection to the opinion is that it was not sincerely held. 501
+U.S. at 1095-1096. Because respondents appear to have disavowed
+any contention that Omnicare did not subjectively believe the
+opinions it stated (J.A. 273 (para. 178)), this case presents no
+occasion for the Court to decide whether the same rule should
+apply under Section 11. There are good reasons, however, not to
+apply the Court’s dicta about Section 14(a) to Section 11. As the
+Virginia Bankshares Court recognized, under modern tort law, a
+statement of opinion can be an actionable misrepresentation either
+because it does not reflect the speaker’s actual belief or because it
+lacks foundation. See 501 U.S. at 1092-1093. The Court departed
+from that common-law principle because of a perceived need to
+narrow the Section 14(a) implied cause of action. Id. at 1096.
+Section 11, by contrast, includes an express private right of action
+
+20
+3. Petitioners read Virginia Bankshares to hold
+that, in order for a statement of opinion to be actionable under Section 14(a), the plaintiff must establish
+that the speaker did not actually hold that opinion.
+Pet. Br. 16-19. Petitioners rely (Br. 17-18) on the
+Court’s observation that “[a] statement of belief may
+be open to objection only * * * as a misstatement
+of the psychological fact of the speaker’s belief in what
+he says.” 501 U.S. at 1095. Petitioners construe that
+observation to reflect the Court’s legal conclusion that
+a statement of opinion is actionable under the securities laws “only” if it “misstate[s]” that “psychological
+fact.”
+Read in context, however, the quoted language was
+making a quite different point. In the sentence preceding the quoted language, the Court explained that
+the directors’ “statements of reasons” in Virginia
+Bankshares itself were objectionable in two different
+respects because they both “misstate the speaker’s
+reasons and also mislead about the stated subject
+matter.” 501 U.S. at 1095. The Court’s ensuing observation that “[a] statement of belief may be objectionable only in the former respect” (ibid.) simply
+reflected the Court’s recognition that, in a different
+(hypothetical) case, the plaintiff ’s only proffered basis
+for impugning a particular statement of opinion might
+be the defendant’s subjective insincerity. Indeed,
+because the Court went on to state in dicta that subjective disbelief alone would not render a statement of
+opinion actionable under Section 14(a), the quoted
+language cannot plausibly be read to suggest that
+that was intended to encompass conduct beyond common-law
+fraud. See 15 U.S.C. 77k; see also pp. 27-29, infra.
+
+21
+such disbelief is the only valid basis for imposing
+liability.
+C. Common-law Courts Imposed Liability For Statements Of Opinion That Either Were Not Genuinely
+Held Or Lacked A Reasonable Basis Under The Circumstances
+
+1. The general rule at common law was that “a
+misrepresentation cannot be made of a matter of opinion,” because the “person addressed * * * is assumed to be equally able to form his opinion, and to
+come to a correct judgment in respect to the matter.”
+2 John Norton Pomeroy, Jr., A Treatise on Equity
+Jurisprudence § 878, at 1813-1814 (4th ed. 1918)
+(Pomeroy); see also 2 Thomas M. Cooley, A Treatise
+on the Law of Torts § 352, at 567 (D. Avery Haggard
+ed., 4th ed. 1932) (Cooley). That principle was based
+on the doctrine of caveat emptor, and on the principle
+that courts of equity would not intervene where matters of opinion were “equally open to the inquiries of
+both parties” and “neither could be presumed to trust
+the other.” 1 Joseph Story, Commentaries on Equity
+Jurisprudence § 269, at 266 (14th ed. 1918).
+Despite that general rule, the common law identified certain circumstances in which a statement of
+opinion could be an actionable misrepresentation.
+First, a statement of opinion could be actionably false
+if it did not accurately reflect the speaker’s actual
+opinion. A “statement that such an opinion exists” is
+an “affirmation of a fact,” and if “[t]he existence of an
+opinion” is a “fact material to the proposed transaction” and “is untrue,” then “it is a misrepresentation.”
+Pomeroy § 878, at 1814-1815. If the person stating
+the opinion was an “expert[]” or had “special
+knowledge” of the transaction, “the other party ha[d]
+
+22
+a right to rely on [the opinion] without bringing his
+own judgment to bear.” Cooley § 352, at 573 (citation
+omitted). A similar principle applied when there was a
+special “relationship between the parties,” such as
+when “one party stands in a fiduciary capacity toward
+the other,” in which case “the latter will naturally
+repose confidence in his opinions.” 2 Fowler V. Harper et al., Harper, James, and Gray on Torts § 7.8, at
+506 (3d ed. 2006) (Harper). The same was true of
+other relationships involving a “great disparity in
+knowledge.” Id. at 506-507. In all those circumstances, “[t]he expression of opinion must be an honest
+one”; if a person “express[es] * * * a dishonest
+opinion to one entitled to rely upon it,” then “an action
+will lie.” Cooley § 352, at 572-573.
+Second, common-law courts recognized that statements of opinion could actionably be false or misleading if they implied a foundation for the opinion that in
+fact was lacking. A statement of opinion may “imply
+the possession of information about the existence of
+external facts” justifying the opinion, and “as the
+implication of external facts increases,” so does the
+“justification for reliance,” especially where “there is
+also disparity of knowledge or expertise.” Harper
+§ 7.8, at 509. An opinion also may “create liability” if
+it “implies * * * the non-existence of the fact
+which makes the statement false” but the speaker
+actually knows that such facts exist. Story § 269, at
+268 n.5.
+2. Common-law misrepresentation decisions reflect
+those principles. In one leading case, a buyer of a
+hotel was permitted to rescind the contract because
+the seller had told the buyer that the current tenant
+was “a most desirable tenant,” even though the tenant
+
+23
+was struggling financially. Smith v. Land & House
+Prop. Corp., (1884) 28 Ch. D. 7 (C.A.) at 7-10 (Eng.).
+The seller argued that its statement was not actionable because it was “a mere expression of opinion.”
+Id. at 10 (quoting party’s argument). The court disagreed, holding that the seller had made a “misrepresentation of a specific fact.” Id. at 15 (opinion of Bowen, L.J.); see id. at 13 (opinion of Baggallay, L.J.); id.
+at 17 (opinion of Fry, L.J.). As Lord Justice Bowen
+explained, “it is often fallaciously assumed that a
+statement of opinion cannot involve the statement of a
+fact,” because there is no liability for a statement of
+opinion when “the facts are equally well known to both
+parties.” Id. at 15. But when “the facts are not equally known to both sides,” then “a statement of opinion
+by the one who knows the facts best * * * impliedly states that [the speaker] knows facts which justify
+his opinion.” Ibid.
+In the context of a criminal fraud conviction, Judge
+Learned Hand explained that “[s]ome utterances are
+in such form as to imply knowledge at first hand, and
+the utterer may be liable, even though he believes
+them, if he has no knowledge on the subject.” Knickerbocker Merch. Co. v. United States, 13 F.2d 544, 546
+(2d Cir.) (emphasis added), cert. denied, 273 U.S. 729
+(1926). Similarly, several state supreme courts applied the rule set out by Lord Justice Bowen in Smith
+to impose liability for statements of opinion that
+lacked foundation. For example, the Alabama Supreme Court found a statement of opinion about
+whether land would be suitable for use as a dairy
+fraudulent because “[i]f the facts are not equally
+known to both sides, then a statement of opinion by
+the one who knows the facts best involves very often
+
+24
+the statement of a material fact, for he impliedly
+states that he knows facts which justify his opinion.”
+Shepherd v. Kendrick, 181 So. 782, 784 (1938) (quoting
+Smith, (1884) 28 Ch. D. at 15 (opinion of Bowen,
+L.J.)); see, e.g., Kefuss v. Whitley, 189 N.W. 76, 81-82
+(Mich. 1922) (relying on Lord Justice Bowen’s explanation to assess liability for statements as to the value
+and salability of a tract of land).
+3. Modern tort law continues to reflect the view
+that a statement of opinion may be misleading for
+either of the two reasons discussed above. The Second Restatement of Torts recognizes that the “holding
+of an opinion” is a “fact” that can be misrepresented.
+3 Restatement (Second) of Torts § 525 cmt. d (1977)
+(Restatement). “[A]n expression of opinion is itself
+always a statement of at least one fact—the fact of the
+belief, the existing state of mind, of the one who asserts it.” W. Page Keeton et al., Prosser and Keeton
+on Torts § 109, at 755 (5th ed. 1984) (Prosser and
+Keeton).
+Even when an opinion is sincerely held, however, a
+person who expresses it can sometimes be held liable
+at common law if his statement of opinion implies the
+existence of a reasonable predicate that in fact is lacking. The Second Restatement explains: “A statement
+of opinion as to facts not disclosed and not otherwise
+known to the recipient may, if it is reasonable to do so,
+be interpreted by him as an implied statement” that
+the speaker “knows facts sufficient to justify” the
+opinion, or that he at least does not know facts “incompatible with his opinion.” Restatement § 539; see
+id. § 539 cmt. a. A statement of opinion thus may
+“carry with it an implied assertion” that the speaker
+“know[s] facts which justify it.” Prosser and Keeton
+
+25
+§ 109, at 760. That is especially true “when the maker
+[of the statement] is understood to have special
+knowledge of the facts unknown to the recipient.”
+Restatement § 539 cmt. b. If a person is “reasonably
+understood” as conveying that he has a basis for his
+opinion, “he is subject to liability if he has not made
+[an] examination, or if he has not found facts that
+justify the opinion.” Ibid.
+4. In discussing Section 11’s common-law antecedents (Pet. Br. 21-22), petitioners overlook the substantial body of law recognizing that statements even of
+sincerely-held opinions can be actionable if they imply
+a foundation that is lacking. See pp. 22-25, supra.
+Petitioners cite decisions stating that “knowledge of [a
+statement’s] falsity” is required to establish fraud,
+Howard v. Riggs Nat’l Bank, 432 A.2d 701, 706 (D.C.
+1981); see Seymour v. Chicago & Nw. Ry., 164 N.W.
+352, 354 (Iowa 1917), but that is because scienter is an
+element of common-law fraud, not because subjective
+disbelief is the only way in which a statement of opinion can be misleading. Indeed, the sources upon
+which petitioners rely recognize that whether a
+statement of opinion is misleading “depends on the
+circumstances in which the statement is made,” and
+that a person can be liable for such a statement if it
+“amounts to an implied assertion that the speaker
+knows facts justifying the opinion” and such facts are
+lacking. 37 C.J.S. Fraud § 21, at 200-201 (2014).
+D. Imposing Section 11 Liability For Statements Of
+Opinion That Are Not Genuinely Held Or Lack A Reasonable Basis Furthers Congress’s Intent And Fulfills
+The Act’s Purposes
+
+1. Congress enacted the Securities Act of 1933, ch.
+38, 48 Stat. 74, in the aftermath of the 1929 stock
+
+26
+market crash and during the Great Depression.
+House Report 1-3. The Act was the first national
+regulation of securities, and it focused on disclosure of
+information to the government and to potential investors. It was enacted after President Franklin D. Roosevelt urged Congress to require that “every issue of
+new securities to be sold in interstate commerce” be
+“accompanied by full publicity and information,”
+where the “burden of telling the whole truth” would
+be “on the seller.” Id. at 1-2 (quoting President’s
+statement).
+The linchpin of the Act is the requirement of a registration statement. See House Report 7 (noting the
+“basic importance” of the registration statement).
+The Act makes it unlawful to offer a security or to
+transmit a prospectus to potential buyers unless a
+registration statement containing certain information
+and signed by certain corporate officers is in effect.
+See §§ 5(a) and (b), 6(a), 7, 48 Stat. 77-78 (15 U.S.C.
+77e(a) and (b), 77f(a), 77g). The registration statement must be filed with the Commission, and if it is
+incomplete or contains any material misstatement or
+omission, the Commission may issue a stop order and
+prevent the sale of the security. See § 8(a) and (d), 48
+Stat. 79-80 (15 U.S.C. 77h(a) and (d)). Under the
+provision at issue here, a purchaser of the security
+also may sue for any material misrepresentations or
+omissions in the registration statement. See § 11, 48
+Stat. 82-83 (15 U.S.C. 77k). Congress applied similar
+rules to prospectuses, requiring that they contain
+certain information and authorizing a cause of action
+for material misstatements or omissions. See §§ 10,
+12, 48 Stat. 81, 84 (15 U.S.C. 77j, 77l). Together, these
+provisions embody a policy of “full and fair disclosure”
+
+27
+so that investors can make an “accurate judgment
+upon the value of the security.” House Report 3.
+2. The Act’s imposition of civil liability for material
+misstatements or omissions in a registration statement was premised on, but went well beyond, common-law fraud principles. Although some courts had
+imposed liability for misstatements in the sales of
+securities, their “piecemeal” approach had proved
+unsatisfactory, Harry Shulman, Civil Liability and
+the Securities Act, 43 Yale L.J. 227, 227 (1933) (Shulman), and the “reach of strict fraud doctrine” was “far
+too short” to fulfill the goals of the 1933 Act. Regulation of Stock Market Manipulation, 56 Yale L.J. 509,
+516 (1947). Accordingly, in fashioning the Act’s civilliability provisions, Congress “borrowed heavily from
+the background of the common law” (id. at 511) but
+also broadened liability in several important respects.
+Congress rejected the common-law “rule of caveat
+emptor” and placed the burden of disclosure on the
+issuer and its officers. House Report 2 (quoting President Roosevelt’s statement); see, e.g., SEC v. Capital
+Gains Research Bureau, 375 U.S. 180, 186 (1963).
+Rather than treat the issuance of a security as an
+arm’s-length transaction where the parties are on
+equal footing, Congress recognized that an issuer’s
+directors have particular knowledge about the company. Also, the Act imposes liability for material omissions as well as for material misstatements. Under
+the common law, issuers sometimes could avoid liability by “omitting mention of a variety of matters and
+confining [the] circular and prospectus to truthful
+description of the show window without taking the
+investor through the store behind it.” Shulman 242.
+The Act went further, requiring issuers to provide “a
+
+28
+picture not simply of the show window, but of the
+entire store.” Ibid.
+The Act also imposes a standard of care on directors, underwriters, and other persons involved in
+preparing the registration statement. Although some
+courts (including this Court) had, in individual cases,
+imposed duties of care on persons selling securities,
+see, e.g., Dickerman v. Northern Trust Co., 176 U.S.
+181, 203-204 (1900), the “system as a whole” had
+“failed miserably in imposing those essential fiduciary
+standards that should govern persons whose function
+it was to handle other people’s money.” James M.
+Landis, The Legislative History of the Securities Act
+of 1933, 28 Geo. Wash. L. Rev. 29, 30 (1959). The Act
+holds the issuer and its officers to “the high standards
+of trusteeship,” on the theory that “those responsible
+for statements upon the face of which the public is
+solicited to invest its money” must provide the public
+with full information. House Report 3, 5, 9; see H.R.
+Conf. Rep. No. 152, 73d Cong., 1st Sess. 26 (1933).
+That standard is embodied in the “reasonable belief ”
+affirmative defense, which assesses reasonableness
+from the standard “of a person occupying a fiduciary
+relationship.” Act § 11(b)(3) and (c), 48 Stat. 82-83 (15
+U.S.C. 77k(b)(3) and (c)).5
+
+5
+
+In 1934, Congress amended Section 11’s affirmative defense to
+provide that “the standard of reasonableness shall be that required
+of a prudent man in the management of his own property.” Securities Exchange Act of 1934, ch. 404, § 206(c), 48 Stat. 907. That
+change did not effect a departure from fiduciary standards. See
+H.R. Conf. Rep. No. 1838, 73d Cong., 2d Sess. 41 (1934) (provision
+was amended to use “the accepted common law definition of the
+duty of a fiduciary”).
+
+29
+Section 11 departed from common-law fraud requirements in other respects as well. Rather than
+require proof of scienter, Congress imposed “virtually
+absolute” liability for issuers of a security, and placed
+“the burden of demonstrating due diligence” on directors, underwriters, and others. Herman & MacLean
+v. Huddleston, 459 U.S. 375, 382 (1983). A Section 11
+plaintiff also need not prove either that he reasonably
+relied on the issuer’s actionable statements or that
+those statements caused the plaintiff ’s loss. Shulman
+248. Section 11 thus imposes a “heav[y] legal liability”
+on an issuer and its representatives, one that Congress thought justified because such persons have a
+“particularly heavy” “moral responsibility to the public.” House Report 9.
+3. Imposition of liability for a statement of opinion
+that either is not genuinely held or lacks a reasonable
+basis is consistent with the Act’s design. The Act
+imposes liability when a registration statement “contain[s] an untrue statement of a material fact or
+omit[s] to state a material fact * * * necessary to
+make the statements therein not misleading.” 15
+U.S.C. 77k(a) (emphasis added). Congress’s use of the
+disjunctive makes clear that, even if all statements of
+fact contained in a registration statement are literally
+true, the issuer may nevertheless be held liable if its
+failure to disclose other facts renders the explicit
+statements misleading. In addition, the Act’s imposition of fiduciary standards on corporate officers reflects Congress’s view that such officers have both
+specialized knowledge and an obligation to act in
+shareholders’ interest. See Cooley § 352, at 573;
+Harper § 7.8, at 506; see also Virginia Bankshares,
+501 U.S. at 1091. Because investors would reasonably
+
+30
+expect that issuers’ statements of opinion are premised on an adequate factual foundation, an issuer’s
+failure to disclose that no such foundation exists can
+cause the harms that Section 11 was intended to prevent.
+4. Petitioners contend (Br. 32-38) that the court of
+appeals’ approach would disserve the Act’s purposes
+by imposing “liability by hindsight.” In that respect,
+petitioners are correct. Section 11 liability depends on
+the registration statement’s accuracy when the statement becomes effective, 15 U.S.C. 77k, because Congress’s concern was that investors must be able to
+make an informed decision at the time of the public
+offering. House Report 3-4, 7, 9. To impose Section
+11 liability on an issuer or its officers simply because a
+statement of opinion in a registration statement ultimately was proved false, even though the opinion was
+genuinely and reasonably held, would effectively treat
+the statement of opinion as a guarantee. The Act does
+not go that far. Rather, so long as an opinion expressed in a registration statement is sincerely held
+and is premised on an inquiry that is reasonable under
+the circumstances, a subsequent determination that
+the stated opinion was incorrect would not imply that
+the issuer’s statement was either false or misleading.
+For those reasons, the court of appeals misconstrued the Act by suggesting that a statement of opinion is actionable under Section 11 whenever the stated
+opinion is ultimately found to be incorrect. Petitioners go too far in the opposite direction, however, by
+arguing that statements of opinion are actionable only
+when the stated beliefs are not sincerely held. Petitioners’ approach disregards Congress’s decision to
+prohibit material omissions as well as express false
+
+31
+statements of fact. And, contrary to petitioners’ contentions (Br. 34, 36), imposing Section 11 liability for
+opinions that are subjectively believed but that lack
+any reasonable foundation would pose no serious
+threat of “unpredictable” or “massive” liability. The
+issuer decides when to submit a registration statement, and if the issuer chooses to volunteer an opinion
+about its business, it is reasonable for investors to
+expect both that the opinion is honestly held and that
+it is premised on an inquiry sufficient to make it worthy of investor credence.
+E. The SEC Has Consistently Recognized That Statements Of Opinion That Are Not Genuine Or That Lack
+A Reasonable Basis May Be Actionable Under The Securities Laws
+
+1. The Commission’s longstanding practice is consistent with the foregoing principles. For more than
+50 years, the Commission has imposed liability in
+formal adjudications for statements of opinion made in
+bad faith or without a reasonable basis.
+In Hamilton Oil & Gas Corp., No. 24D-2258, 1961
+WL 61074 (July 25, 1961), the Commission issued a
+stop order suspending the effectiveness of a registration statement because the statement included several
+opinions that lacked a reasonable basis. Without expressing a view on whether the opinions were sincerely held, the Commission explained that a statement of
+opinion that “anticipated income” would “be sufficient
+to defray the current operating expenses of the company” lacked a reasonable basis and “was so out of
+line with the company’s past experience that it must
+be considered false.” Id. at *14. The Commission also
+found it misleading for the registration statement to
+announce the expectations that the company would be
+
+32
+listed on the American Stock Exchange and that the
+stock would be worth $5 per share by a certain date,
+without also disclosing known facts that undercut
+those predictions. Id. at *8.
+The Commission likewise has held that, under the
+anti-fraud provisions of the Securities Act and the
+Exchange Act, a broker-dealer who states an opinion
+to his customer in bad faith or without a reasonable
+basis has made a false statement. In Alexander Reid
+& Co., No. 8-7105, 1962 WL 68464 (Feb. 8, 1962), the
+Commission held that “[g]roundless opinions come
+within the ambit of false or misleading statements
+prohibited by the securities laws,” and it observed
+that a contrary approach would “run[] counter to the
+objectives of the Securities laws.” Id. at *4. The
+Commission explained that “[a] broker-dealer in his
+dealings with customers impliedly represents that his
+opinions and predictions respecting a stock * * *
+are responsibly made on the basis of actual knowledge
+and careful consideration.” Ibid. The Commission
+found it insufficient that the “dealer personally believes the representation for which he has no adequate
+basis,” because the lack of sufficient basis rendered
+the statement misleading. Ibid.
+Applying the same principles in Richard J. Buck &
+Co., No. 3-417, 1968 WL 86080 (Dec. 31, 1968), aff ’d
+sub nom. Hanly v. SEC, 415 F.2d 589 (2d Cir. 1969),
+the Commission censured a broker-dealer that had
+made “optimistic representations * * * without
+disclosure of known or reasonably ascertainable adverse information which rendered them materially
+misleading.” Id. at *6. The Commission explained
+that the individual making the “optimistic or favorable
+representations” was “under a duty to disclose the
+
+33
+known or then reasonably ascertainable facts” that
+undercut the representations, in order to “enable the
+customer to assess the weight to be given to the optimism of the salesman and make an informed judgment
+on whether to purchase or retain the stock.” Ibid.
+Similarly, in Gold Props. Restoration Co., No. 3-7735,
+1992 WL 211480 (Aug. 27, 1992), the Commission
+imposed a cease-and-desist order because documents
+disseminated to the public in connection with an initial
+public offering contained opinions that lacked foundation. The Commission explained that “[t]he gold reserves and estimates of value contained in each of
+these documents were materially false and misleading,
+because, among other things, the Respondents had no
+reasonable basis for the statements.” Id. at *5.
+2. The Commission’s longstanding view that a
+statement of opinion is misleading when it lacks a
+reasonable basis under the circumstances is entitled
+to deference. Although only one of the Commission’s
+formal adjudications (Hamilton Oil & Gas Corp.)
+concerned statements of opinion in a registration
+statement, all of the adjudications involved provisions
+that prohibit material misstatements or omissions.
+See 15 U.S.C. 77h(d), 77q(a)(2), 78j(b); 17 C.F.R.
+240.10b-5(b). Those interpretations reflect a consistent and reasonable view of similar statutory language, and they comport with common-law concepts
+and the purposes of the securities laws. Accordingly,
+they should be given significant weight. See SEC v.
+Zandford, 535 U.S. 813, 819-820 (2002).
+
+34
+CONCLUSION
+
+The judgment of the court of appeals should be vacated and the case remanded for further proceedings.
+Respectfully submitted.
+ANNE K. SMALL
+General Counsel
+MICHAEL A. CONLEY
+Deputy General Counsel
+JOHN W. AVERY
+Deputy Solicitor
+DOMINICK V. FREDA
+Senior Litigation Counsel
+STEPHEN G. YODER
+Senior Counsel
+Securities and Exchange
+Commission
+
+JUNE 2014
+
+DONALD B. VERRILLI, JR.
+Solicitor General
+MALCOLM L. STEWART
+Deputy Solicitor General
+NICOLE A. SAHARSKY
+Assistant to the Solicitor
+General
+
+APPENDIX
+
+1. 15 U.S.C. 77e provides:
+Prohibitions relating to interstate commerce and the
+mails
+(a) Sale or delivery after sale of unregistered securities
+
+Unless a registration statement is in effect as to a
+security, it shall be unlawful for any person, directly or
+indirectly—
+(1) to make use of any means or instruments of
+transportation or communication in interstate commerce or of the mails to sell such security through
+the use or medium of any prospectus or otherwise;
+or
+(2) to carry or cause to be carried through the
+mails or in interstate commerce, by any means or
+instruments of transportation, any such security for
+the purpose of sale or for delivery after sale.
+(b) Necessity of prospectus meeting requirements of
+section 77j of this title
+
+It shall be unlawful for any person, directly or indirectly—
+(1) to make use of any means or instruments of
+transportation or communication in interstate commerce or of the mails to carry or transmit any prospectus relating to any security with respect to
+which a registration statement has been filed under
+this subchapter, unless such prospectus meets the
+requirements of section 77j of this title; or
+(1a)
+
+2a
+(2) to carry or cause to be carried through the
+mails or in interstate commerce any such security
+for the purpose of sale or for delivery after sale,
+unless accompanied or preceded by a prospectus
+that meets the requirements of subsection (a) of
+section 77j of this title.
+(c) Necessity of filing registration statement
+
+It shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of
+transportation or communication in interstate commerce or of the mails to offer to sell or offer to buy
+through the use or medium of any prospectus or otherwise any security, unless a registration statement
+has been filed as to such security, or while the registration statement is the subject of a refusal order or
+stop order or (prior to the effective date of the registration statement) any public proceeding or examination under section 77h of this title.
+(d) Limitation
+
+Notwithstanding any other provision of this section,
+an emerging growth company or any person authorized to act on behalf of an emerging growth company
+may engage in oral or written communications with potential investors that are qualified institutional buyers
+or institutions that are accredited investors, as such
+terms are respectively defined in section 230.144A and
+section 230.501(a) of title 17, Code of Federal Regulations, or any successor thereto, to determine whether
+such investors might have an interest in a contemplated securities offering, either prior to or following
+the date of filing of a registration statement with re-
+
+3a
+spect to such securities with the Commission, subject
+to the requirement of subsection (b)(2).
+(e) Security-based swaps
+
+Notwithstanding the provisions of section 77c or
+77d of this title, unless a registration statement meeting the requirements of section 77j(a) of this title is in
+effect as to a security-based swap, it shall be unlawful
+for any person, directly or indirectly, to make use of
+any means or instruments of transportation or communication in interstate commerce or of the mails to
+offer to sell, offer to buy or purchase or sell a securitybased swap to any person who is not an eligible contract participant as defined in section 1a(18) of Title 7.
+2. 15 U.S.C. 77f provides:
+Registration of securities
+(a) Method of registration
+
+Any security may be registered with the Commission under the terms and conditions hereinafter provided, by filing a registration statement in triplicate, at
+least one of which shall be signed by each issuer, its
+principal executive officer or officers, its principal financial officer, its comptroller or principal accounting
+officer, and the majority of its board of directors or
+persons performing similar functions (or, if there is no
+board of directors or persons performing similar functions, by the majority of the persons or board having
+the power of management of the issuer), and in case
+the issuer is a foreign or Territorial person by its duly
+authorized representative in the United States; except
+
+4a
+that when such registration statement relates to a
+security issued by a foreign government, or political
+subdivision thereof, it need be signed only by the underwriter of such security. Signatures of all such
+persons when written on the said registration statements shall be presumed to have been so written by
+authority of the person whose signature is so affixed
+and the burden of proof, in the event such authority
+shall be denied, shall be upon the party denying the
+same. The affixing of any signature without the authority of the purported signer shall constitute a violation of this subchapter. A registration statement
+shall be deemed effective only as to the securities
+specified therein as proposed to be offered.
+(b) Registration fee
+(1) Fee payment required
+
+At the time of filing a registration statement, the
+applicant shall pay to the Commission a fee at a rate
+that shall be equal to $92 per $1,000,000 of the
+maximum aggregate price at which such securities
+are proposed to be offered, except that during fiscal
+year 2003 and any succeeding fiscal year such fee
+shall be adjusted pursuant to paragraph (2).
+(2) Annual adjustment
+
+For each fiscal year, the Commission shall by order adjust the rate required by paragraph (1) for
+such fiscal year to a rate that, when applied to the
+baseline estimate of the aggregate maximum offering prices for such fiscal year, is reasonably likely to
+produce aggregate fee collections under this sub-
+
+5a
+section that are equal to the target fee collection
+amount for such fiscal year.
+(3) Pro rata application
+
+The rates per $1,000,000 required by this subsection shall be applied pro rata to amounts and balances of less than $1,000,000.
+(4) Review and effective date
+
+In exercising its authority under this subsection,
+the Commission shall not be required to comply
+with the provisions of section 553 of Title 5. An
+adjusted rate prescribed under paragraph (2) and
+published under paragraph (5) shall not be subject
+to judicial review. An adjusted rate prescribed
+under paragraph (2) shall take effect on the first
+day of the fiscal year to which such rate applies.
+(5) Publication
+
+The Commission shall publish in the Federal
+Register notices of the rate applicable under this
+subsection and under sections 78m(e) and 78n(g)1 of
+this title for each fiscal year not later than August
+31 of the fiscal year preceding the fiscal year to
+which such rate applies, together with any estimates or projections on which such rate is based.
+(6) Definitions
+
+For purposes of this subsection:
+
+1
+
+See References in Text note below.
+
+6a
+(A) Target fee collection amount
+
+The target fee collection amount for each fiscal
+year is determined according to the following table:
+2002 .........................................$377,000,000
+2003 .........................................$435,000,000
+2004 .........................................$467,000,000
+2005 .........................................$570,000,000
+2006 .........................................$689,000,000
+2007 .........................................$214,000,000
+2008 .........................................$234,000,000
+2009 .........................................$284,000,000
+2010 .........................................$334,000,000
+2011 .........................................$394,000,000
+2012 .........................................$425,000,000
+2013 .........................................$455,000,000
+2014 .........................................$485,000,000
+2015 .........................................$515,000,000
+2016 .........................................$550,000,000
+2017 .........................................$585,000,000
+2018 .........................................$620,000,000
+2019 .........................................$660,000,000
+2020 .........................................$705,000,000
+An amount that is equal to
+2021 and each fiscal year
+the target fee collection
+thereafter.
+amount for the prior fiscal year, adjusted by the
+rate of inflation.
+
+7a
+(B) Baseline estimate of the aggregate maximum
+offering prices
+
+The baseline estimate of the aggregate maximum offering prices for any fiscal year is the
+baseline estimate of the aggregate maximum offering price at which securities are proposed to be
+offered pursuant to registration statements filed
+with the Commission during such fiscal year as
+determined by the Commission, after consultation
+with the Congressional Budget Office and the Office of Management and Budget, using the methodology required for projections pursuant to section 907 of Title 2.
+(c) Time registration effective
+
+The filing with the Commission of a registration
+statement, or of an amendment to a registration statement, shall be deemed to have taken place upon the receipt thereof, but the filing of a registration statement
+shall not be deemed to have taken place unless it is accompanied by a United States postal money order or a
+certified bank check or cash for the amount of the fee
+required under subsection (b) of this section.
+(d) Information available to public
+
+The information contained in or filed with any registration statement shall be made available to the public under such regulations as the Commission may prescribe, and copies thereof, photostatic or otherwise,
+shall be furnished to every applicant at such reasonable charge as the Commission may prescribe.
+
+8a
+(e) Emerging growth companies
+(1) In general
+
+Any emerging growth company, prior to its initial
+public offering date, may confidentially submit to
+the Commission a draft registration statement, for
+confidential nonpublic review by the staff of the
+Commission prior to public filing, provided that the
+initial confidential submission and all amendments
+thereto shall be publicly filed with the Commission
+not later than 21 days before the date on which the
+issuer conducts a road show, as such term is defined
+in section 230.433(h)(4) of title 17, Code of Federal
+Regulations, or any successor thereto.
+(2) Confidentiality
+
+Notwithstanding any other provision of this subchapter, the Commission shall not be compelled to
+disclose any information provided to or obtained by
+the Commission pursuant to this subsection. For
+purposes of section 552 of Title 5, this subsection
+shall be considered a statute described in subsection (b)(3)(B) of such section 552. Information described in or obtained pursuant to this subsection
+shall be deemed to constitute confidential information for purposes of section 78x(b)(2) of this title.
+
+9a
+3. 15 U.S.C. 77g provides:
+Information required in registration statement
+(a) Information required in registration statement
+(1) In general
+
+The registration statement, when relating to a
+security other than a security issued by a foreign
+government, or political subdivision thereof, shall
+contain the information, and be accompanied by
+the documents, specified in Schedule A of section
+77aa of this title, and when relating to a security
+issued by a foreign government, or political subdivision thereof, shall contain the information, and
+be accompanied by the documents, specified in
+Schedule B of section 77aa of this title; except that
+the Commission may by rules or regulations provide that any such information or document need
+not be included in respect of any class of issuers
+or securities if it finds that the requirement of
+such information or document is inapplicable to
+such class and that disclosure fully adequate for
+the protection of investors is otherwise required
+to be included within the registration statement.
+If any accountant, engineer, or appraiser, or any
+person whose profession gives authority to a
+statement made by him, is named as having prepared or certified any part of the registration
+statement, or is named as having prepared or certified a report or valuation for use in connection
+with the registration statement, the written consent of such person shall be filed with the registration statement. If any such person is named
+
+10a
+as having prepared or certified a report or valuation (other than a public official document or
+statement) which is used in connection with the
+registration statement, but is not named as having
+prepared or certified such report or valuation for
+use in connection with the registration statement,
+the written consent of such person shall be filed
+with the registration statement unless the Commission dispenses with such filing as impracticable or as involving undue hardship on the person
+filing the registration statement. Any such registration statement shall contain such other information, and be accompanied by such other
+documents, as the Commission may by rules or
+regulations require as being necessary or appropriate in the public interest or for the protection
+of investors.
+(2) Treatment of emerging growth companies
+
+An emerging growth company—
+(A) need not present more than 2 years of audited financial statements in order for the registration statement of such emerging growth
+company with respect to an initial public offering of its common equity securities to be effective, and in any other registration statement to
+be filed with the Commission, an emerging
+growth company need not present selected financial data in accordance with section 229.301
+of title 17, Code of Federal Regulations, for any
+period prior to the earliest audited period pre-
+
+11a
+sented in connection with its initial public offering; and
+(B) may not be required to comply with any
+new or revised financial accounting standard until such date that a company that is not an issuer
+(as defined under section 7201 of this title) is
+required to comply with such new or revised accounting standard, if such standard applies to
+companies that are not issuers.
+(b) Registration statement for blank check companies
+
+(1) The Commission shall prescribe special rules
+with respect to registration statements filed by any
+issuer that is a blank check company. Such rules may,
+as the Commission determines necessary or appropriate in the public interest or for the protection of investors—
+(A) require such issuers to provide timely disclosure, prior to or after such statement becomes effective under section 77h of this title, of (i) information regarding the company to be acquired and
+the specific application of the proceeds of the offering, or (ii) additional information necessary to prevent such statement from being misleading;
+(B) place limitations on the use of such proceeds
+and the distribution of securities by such issuer until the disclosures required under subparagraph (A)
+have been made; and
+(C) provide a right of rescission to shareholders
+of such securities.
+
+12a
+(2) The Commission may, as it determines consistent with the public interest and the protection of investors, by rule or order exempt any issuer or class of
+issuers from the rules prescribed under paragraph (1).
+(3) For purposes of paragraph (1) of this subsection, the term “blank check company” means any development stage company that is issuing a penny stock
+(within the meaning of section 78c(a)(51) of this title)
+and that—
+(A) has no specific business plan or purpose; or
+(B) has indicated that its business plan is to
+merge with an unidentified company or companies.
+(c) Disclosure requirements
+(1) In general
+
+The Commission shall adopt regulations under
+this subsection requiring each issuer of an assetbacked security to disclose, for each tranche or
+class of security, information regarding the assets
+backing that security.
+(2) Content of regulations
+
+In adopting regulations under this subsection, the
+Commission shall—
+(A) set standards for the format of the data
+provided by issuers of an asset-backed security,
+which shall, to the extent feasible, facilitate comparison of such data across securities in similar
+types of asset classes; and
+
+13a
+(B) require issuers of asset-backed securities,
+at a minimum, to disclose asset-level or loan-level
+data, if such data are necessary for investors to
+independently perform due diligence, including—
+(i) data having unique identifiers relating to
+loan brokers or originators;
+(ii) the nature and extent of the compensation of the broker or originator of the assets
+backing the security; and
+(iii) the amount of risk retention by the originator and the securitizer of such assets.
+(d) Registration statement for asset-backed securities
+
+Not later than 180 days after July 21, 2010, the
+Commission shall issue rules relating to the registration statement required to be filed by any issuer of an
+asset-backed security (as that term is defined in section 78c(a)(77)1 of this title) that require any issuer of
+an asset-backed security—
+(1) to perform a review of the assets underlying
+the asset-backed security; and
+(2) to disclose the nature of the review under
+paragraph (1).
+
+1
+
+See References in Text note below.
+
+14a
+4. 15 U.S.C. 77h provides:
+Taking effect of registration statements and amendments thereto
+(a) Effective date of registration statement
+
+Except as hereinafter provided, the effective date of
+a registration statement shall be the twentieth day after the filing thereof or such earlier date as the Commission may determine, having due regard to the adequacy of the information respecting the issuer theretofore available to the public, to the facility with which
+the nature of the securities to be registered, their relationship to the capital structure of the issuer and the
+rights of holders thereof can be understood, and to the
+public interest and the protection of investors. If any
+amendment to any such statement is filed prior to the
+effective date of such statement, the registration statement shall be deemed to have been filed when such
+amendment was filed; except that an amendment filed
+with the consent of the Commission, prior to the effective date of the registration statement, or filed pursuant to an order of the Commission, shall be treated as
+a part of the registration statement.
+(b) Incomplete or inaccurate registration statement
+
+If it appears to the Commission that a registration
+statement is on its face incomplete or inaccurate in any
+material respect, the Commission may, after notice by
+personal service or the sending of confirmed telegraphic notice not later than ten days after the filing of
+the registration statement, and opportunity for hearing (at a time fixed by the Commission) within ten days
+
+15a
+after such notice by personal service or the sending of
+such telegraphic notice, issue an order prior to the
+effective date of registration refusing to permit such
+statement to become effective until it has been amended in accordance with such order. When such statement has been amended in accordance with such order
+the Commission shall so declare and the registration
+shall become effective at the time provided in subsection (a) of this section or upon the date of such declaration, whichever date is the later.
+(c) Effective date of amendment to registration statement
+
+An amendment filed after the effective date of the
+registration statement, if such amendment, upon its
+face, appears to the Commission not to be incomplete
+or inaccurate in any material respect, shall become
+effective on such date as the Commission may determine, having due regard to the public interest and the
+protection of investors.
+(d) Untrue statements or omissions in registration
+statement
+
+If it appears to the Commission at any time that the
+registration statement includes any untrue statement
+of a material fact or omits to state any material fact required to be stated therein or necessary to make the
+statements therein not misleading, the Commission
+may, after notice by personal service or the sending of
+confirmed telegraphic notice, and after opportunity for
+hearing (at a time fixed by the Commission) within
+fifteen days after such notice by personal service or
+the sending of such telegraphic notice, issue a stop
+
+16a
+order suspending the effectiveness of the registration
+statement. When such statement has been amended
+in accordance with such stop order, the Commission
+shall so declare and thereupon the stop order shall
+cease to be effective.
+(e) Examination for issuance of stop order
+
+The Commission is empowered to make an examination in any case in order to determine whether a
+stop order should issue under subsection (d) of this
+section. In making such examination the Commission
+or any officer or officers designated by it shall have
+access to and may demand the production of any books
+and papers of, and may administer oaths and affirmations to and examine, the issuer, underwriter, or any
+other person, in respect of any matter relevant to the
+examination, and may, in its discretion, require the
+production of a balance sheet exhibiting the assets and
+liabilities of the issuer, or its income statement, or
+both, to be certified to by a public or certified accountant approved by the Commission. If the issuer
+or underwriter shall fail to cooperate, or shall obstruct
+or refuse to permit the making of an examination, such
+conduct shall be proper ground for the issuance of a
+stop order.
+(f) Notice requirements
+
+Any notice required under this section shall be sent
+to or served on the issuer, or, in case of a foreign government or political subdivision thereof, to or on the
+underwriter, or, in the case of a foreign or Territorial
+person, to or on its duly authorized representative in
+the United States named in the registration statement,
+
+17a
+properly directed in each case of telegraphic notice to
+the address given in such statement.
+5.
+
+15 U.S.C. 77k provides:
+
+Civil liabilities on account of false registration statement
+(a) Persons possessing cause of action; persons liable
+
+In case any part of the registration statement, when
+such part became effective, contained an untrue statement of a material fact or omitted to state a material
+fact required to be stated therein or necessary to make
+the statements therein not misleading, any person
+acquiring such security (unless it is proved that at the
+time of such acquisition he knew of such untruth or
+omission) may, either at law or in equity, in any court of
+competent jurisdiction, sue—
+(1) every person who signed the registration
+statement;
+(2) every person who was a director of (or person
+performing similar functions) or partner in the issuer at the time of the filing of the part of the registration statement with respect to which his liability is asserted;
+(3) every person who, with his consent, is named
+in the registration statement as being or about to
+become a director, person performing similar functions, or partner;
+(4) every accountant, engineer, or appraiser, or
+any person whose profession gives authority to a
+
+18a
+statement made by him, who has with his consent
+been named as having prepared or certified any
+part of the registration statement, or as having
+prepared or certified any report or valuation which
+is used in connection with the registration statement, with respect to the statement in such registration statement, report, or valuation, which purports to have been prepared or certified by him;
+(5) every underwriter with respect to such security.
+If such person acquired the security after the issuer
+has made generally available to its security holders an
+earning statement covering a period of at least twelve
+months beginning after the effective date of the registration statement, then the right of recovery under
+this subsection shall be conditioned on proof that such
+person acquired the security relying upon such untrue
+statement in the registration statement or relying
+upon the registration statement and not knowing of
+such omission, but such reliance may be established
+without proof of the reading of the registration statement by such person.
+(b) Persons exempt from liability upon proof of issues
+
+Notwithstanding the provisions of subsection (a) of
+this section no person, other than the issuer, shall be
+liable as provided therein who shall sustain the burden
+of proof—
+(1) that before the effective date of the part of
+the registration statement with respect to which his
+liability is asserted (A) he had resigned from or had
+
+19a
+taken such steps as are permitted by law to resign
+from, or ceased or refused to act in, every office,
+capacity, or relationship in which he was described
+in the registration statement as acting or agreeing
+to act, and (B) he had advised the Commission and
+the issuer in writing that he had taken such action
+and that he would not be responsible for such part
+of the registration statement; or
+(2) that if such part of the registration statement
+became effective without his knowledge, upon becoming aware of such fact he forthwith acted and
+advised the Commission, in accordance with paragraph (1) of this subsection, and, in addition, gave
+reasonable public notice that such part of the registration statement had become effective without his
+knowledge; or
+(3) that (A) as regards any part of the registration statement not purporting to be made on the
+authority of an expert, and not purporting to be a
+copy of or extract from a report or valuation of an
+expert, and not purporting to be made on the authority of a public official document or statement,
+he had, after reasonable investigation, reasonable
+ground to believe and did believe, at the time such
+part of the registration statement became effective,
+that the statements therein were true and that
+there was no omission to state a material fact required to be stated therein or necessary to make
+the statements therein not misleading; and (B) as
+regards any part of the registration statement
+purporting to be made upon his authority as an expert or purporting to be a copy of or extract from a
+
+20a
+report or valuation of himself as an expert, (i) he
+had, after reasonable investigation, reasonable
+ground to believe and did believe, at the time such
+part of the registration statement became effective,
+that the statements therein were true and that
+there was no omission to state a material fact required to be stated therein or necessary to make
+the statements therein not misleading, or (ii) such
+part of the registration statement did not fairly
+represent his statement as an expert or was not a
+fair copy of or extract from his report or valuation
+as an expert; and (C) as regards any part of the
+registration statement purporting to be made on
+the authority of an expert (other than himself) or
+purporting to be a copy of or extract from a report
+or valuation of an expert (other than himself), he
+had no reasonable ground to believe and did not believe, at the time such part of the registration statement became effective, that the statements therein
+were untrue or that there was an omission to state a
+material fact required to be stated therein or necessary to make the statements therein not misleading, or that such part of the registration statement
+did not fairly represent the statement of the expert
+or was not a fair copy of or extract from the report
+or valuation of the expert; and (D) as regards any
+part of the registration statement purporting to be
+a statement made by an official person or purporting to be a copy of or extract from a public official
+document, he had no reasonable ground to believe
+and did not believe, at the time such part of the registration statement became effective, that the state-
+
+21a
+ments therein were untrue, or that there was an
+omission to state a material fact required to be stated therein or necessary to make the statements
+therein not misleading, or that such part of the registration statement did not fairly represent the
+statement made by the official person or was not a
+fair copy of or extract from the public official document.
+(c) Standard of reasonableness
+
+In determining, for the purpose of paragraph (3) of
+subsection (b) of this section, what constitutes reasonable investigation and reasonable ground for belief,
+the standard of reasonableness shall be that required
+of a prudent man in the management of his own property.
+(d) Effective date of registration statement with regard
+to underwriters
+
+If any person becomes an underwriter with respect
+to the security after the part of the registration statement with respect to which his liability is asserted has
+become effective, then for the purposes of paragraph
+(3) of subsection (b) of this section such part of the
+registration statement shall be considered as having
+become effective with respect to such person as of the
+time when he became an underwriter.
+(e) Measure of damages; undertaking for payment of
+costs
+
+The suit authorized under subsection (a) of this section may be to recover such damages as shall represent the difference between the amount paid for the
+
+22a
+security (not exceeding the price at which the security
+was offered to the public) and (1) the value thereof as
+of the time such suit was brought, or (2) the price at
+which such security shall have been disposed of in the
+market before suit, or (3) the price at which such security shall have been disposed of after suit but before
+judgment if such damages shall be less than the damages representing the difference between the amount
+paid for the security (not exceeding the price at which
+the security was offered to the public) and the value
+thereof as of the time such suit was brought: Provided, That if the defendant proves that any portion or
+all of such damages represents other than the depreciation in value of such security resulting from such
+part of the registration statement, with respect to
+which his liability is asserted, not being true or omitting to state a material fact required to be stated
+therein or necessary to make the statements therein
+not misleading, such portion of or all such damages
+shall not be recoverable. In no event shall any underwriter (unless such underwriter shall have knowingly received from the issuer for acting as an underwriter some benefit, directly or indirectly, in which all
+other underwriters similarly situated did not share in
+proportion to their respective interests in the underwriting) be liable in any suit or as a consequence of
+suits authorized under subsection (a) of this section for
+damages in excess of the total price at which the securities underwritten by him and distributed to the public were offered to the public. In any suit under this
+or any other section of this subchapter the court may,
+in its discretion, require an undertaking for the pay-
+
+23a
+ment of the costs of such suit, including reasonable
+attorney’s fees, and if judgment shall be rendered
+against a party litigant, upon the motion of the other
+party litigant, such costs may be assessed in favor of
+such party litigant (whether or not such undertaking
+has been required) if the court believes the suit or the
+defense to have been without merit, in an amount sufficient to reimburse him for the reasonable expenses
+incurred by him, in connection with such suit, such
+costs to be taxed in the manner usually provided for
+taxing of costs in the court in which the suit was heard.
+(f) Joint and several liability; liability of outside director
+
+(1) Except as provided in paragraph (2), all or any
+one or more of the persons specified in subsection (a)
+of this section shall be jointly and severally liable, and
+every person who becomes liable to make any payment
+under this section may recover contribution as in cases
+of contract from any person who, if sued separately,
+would have been liable to make the same payment,
+unless the person who has become liable was, and the
+other was not, guilty of fraudulent misrepresentation.
+(2)(A) The liability of an outside director under
+subsection (e) of this section shall be determined in
+accordance with section 78u-4(f ) of this title.
+(B) For purposes of this paragraph, the term “outside director” shall have the meaning given such term
+by rule or regulation of the Commission.
+
+24a
+(g) Offering price to public as maximum amount recoverable
+
+In no case shall the amount recoverable under this
+section exceed the price at which the security was offered to the public.
+
+

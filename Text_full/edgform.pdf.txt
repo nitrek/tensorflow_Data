@@ -1,0 +1,11722 @@
+3.
+
+INDEX TO FORMS
+
+As a filer, you will first need to determine whether you must meet your filing obligation via
+EDGAR. The SEC Rules, particularly Regulation S-T, General Rules and Regulations for
+Electronic Filings, outline which filings are mandated as electronic. This means that they must be
+filed on EDGAR unless there is a case for Temporary or Permanent Hardship. (The rules for each
+form and hardship exemptions may differ, so please see the regulation for specific information.)
+Once you determine the form you need to file is electronic, then you need to identify the
+submission type to use. For each submission type, there are specific tools that you can use.
+As the EDGAR system has evolved using new technologies, tools have been added, changed, and
+sometimes updated. There is no longer a single tool for preparing an EDGAR submission. Your
+guide to the tools is this index. The first index allows you to lookup EDGAR electronic
+submission types easily if all you know is the submission form type. Included in the last two
+columns is detailed information about the tools that are used to create and/or assemble the filing.
+The second index is easiest to use if you are more comfortable looking up your submission type
+by Act.
+Before using the indexes, it is important to understand the difference between the Code of Federal
+Regulations (CFR) Form/Schedule/Rule column reference and the EDGAR Submission Type
+column. The index entries under the CFR Form/Schedule/Rule column refer to the titles of the
+actual Form, Schedule or Rule named in the CFR. The Submission Type refers to Form variations
+filers use on the electronic filing system to fulfill their filing obligation. For example, the paper
+Form 15 is implemented on EDGAR as a number of different submission types including:
+15-12B, 15-12G, and 15-15D. The last three digits represent the section of the 34 Act under which
+the filer is obligated to file periodic reports.
+Using either Index, find the submission type, check that the description of the form matches your
+understanding of the purpose of the form, and identify the tool that should be used to create the
+form. The options in this column are EDGARLink Online, EDGARLite and the corresponding
+templates, and OnlineForms. There is a section in this manual describing in detail each of these
+tools. Chapter 7, “Preparing and Transmitting EDGARLink Online Submissions,” describes
+EDGARLink Online. Chapter 8, “Preparing and Transmitting EDGARLite Submissions,”
+describes EDGARLite. Chapter 9, “Preparing and Transmitting Online Submissions,” describes
+online submissions using the EDGAR OnlineForms/XML Website and EDGAR Filing Website.
+The column entitled Filer-Constructed Technical Specifications should only be used by filers who
+want to create their submissions without the use of EDGAR tools. These Technical Specifications
+are available on the SEC’s Public Website. The Technical Specifications are delivered separately
+and are not part of the Filer Manual.
+Note: In Section 3.1, “Alpha/Numeric” for simplicity we include both the initial form and the
+associated amendment in the Submission Type column.
+
+August 2015
+
+3-1
+
+EDGAR Filer Manual (Volume II)
+
+3.1
+
+Alpha/Numeric
+
+Submission Type
+
+Description
+
+Tool/
+Template
+Number
+EDGAR
+Filing
+Website
+
+1-A, 1-A/A
+
+Offering statement under Regulation A
+
+1-A POS
+
+Post-qualification amendment to a 1-A offering
+statement
+
+EDGAR
+Filing
+Website
+
+1-A-W, 1-A-W/A
+
+Withdrawal of offering statement under Regulation A
+
+EDGARLink
+Online
+
+1-E, 1-E/A
+
+Notification under Regulation E by small business
+investment companies and business development
+companies.
+
+EDGARLink
+Online
+
+1-E AD, 1-E AD/A
+
+Sales material filed pursuant to Rule 607 under
+Regulation E.
+
+EDGARLink
+Online
+
+1-K, 1-K/A
+
+Annual Report Pursuant to Regulation A
+
+EDGAR
+Filing
+Website
+
+1-SA, 1-SA/A
+
+Semiannual Report Pursuant to Regulation A
+
+EDGARLink
+Online
+
+1-U, 1-U/A
+
+Current Report pursuant to Regulation A
+
+EDGARLink
+Online
+
+1-Z, 1-Z/A
+
+Exit Report under Regulation A
+
+EDGAR
+Filing
+Website
+
+1-Z-W, 1-Z-W/A
+
+Withdrawal of Exit Report under Regulation A
+
+EDGARLink
+Online
+
+EDGAR Filer Manual (Volume II)
+
+3-2
+
+FilerConstructed
+Form Spec.
+EDGAR
+REG A XML
+Technical
+Specification
+EDGAR
+REG A XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGAR
+REG A XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGAR
+REG A XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+
+August 2015
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+253G1
+Reflects information previously omitted from the offering EDGARLink EDGARLink
+circular in reliance on Rule 253(b)
+Online
+Online XML
+Technical
+Specification
+253G2
+Reflects information that constitutes a substantive
+EDGARLink EDGARLink
+change from or addition to the information set forth in the Online
+Online XML
+last offering circular
+Technical
+Specification
+253G3
+Reflects information covered in both 253G1 and 253G2 EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+253G4
+Reflects information covered in 253G1, 253G2 or 253G3 EDGARLink EDGARLink
+that is not being timely filed
+Online
+Online XML
+Technical
+Specification
+2-E, 2-E/A
+Report of sales of securities pursuant to Rule 609 under EDGARLink EDGARLink
+Regulation E.
+Online
+Online XML
+Technical
+Specification
+10-12B, 10-12B/A Initial general form for registration of a class of securities EDGARLink EDGARLink
+pursuant to Section 12(b)
+Online
+Online XML
+Technical
+Specification
+10-12G, 10-12G/A Initial general form for registration of a class of securities EDGARLink EDGARLink
+pursuant to Section 12(g)
+Online
+Online XML
+Technical
+Specification
+10-D, 10-D/A
+Periodic distribution reports by asset-backed issuers
+EDGARLink EDGARLink
+pursuant to Rule 13a-17 or 15d-17
+Online
+Online XML
+Technical
+Specification
+10-K, 10-K/A
+Annual report pursuant to Section 13 and 15(d)
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+10-KT, 10-KT/A
+Transition report pursuant to Rule 13a-10 or 15d-10
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+10-Q, 10-Q/A
+Quarterly report pursuant to Section 13 or 15(d)
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Submission Type
+
+August 2015
+
+Description
+
+3-3
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+10-QT, 10-QT/A
+
+11-K, 11-K/A
+
+11-KT, 11-KT/A
+
+13F-HR, 13F-HR/A
+
+13F-NT, 13F-NT/A
+
+13H, 13H-Q,
+13H-A, 13H-I,
+13H-R, 13H-T
+
+144, 144/A
+
+15-12B, 15-12B/A
+
+15-12G, 15-12G/A
+
+15-15D, 15-15D/A
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+Transition report pursuant to Rule 13a-10 or 15d-10
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Annual report of employee stock purchase, savings and EDGARLink EDGARLink
+similar plans
+Online
+Online XML
+Technical
+Specification
+Transition report pursuant to rule 13a-10 or 15d-10
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Initial Quarterly Form 13F Holdings Report filed by
+EDGAR
+EDGAR
+institutional managers
+Filing
+Form 13F
+Website
+XML
+Initial Quarterly Form 13F Combination Report filed by Online Forms Technical
+Specification
+institutional managers
+Initial Quarterly Form 13F Notice Report filed by
+EDGAR
+EDGAR
+institutional managers
+Filing
+Form 13F
+Website
+XML
+Online Forms Technical
+Specification
+Large Trader Registration Information Required of Large EDGAR
+N/A
+Traders Pursuant to the Securities Exchange Act of
+Filing
+1934 and Rule 13h-1 Thereunder. Initial Filing (13H),
+Website
+Amended Filing (13H-Q), Annual Filing (13H-A), Inactive Online Forms
+Status (13H-I), Reactivated Status (13H-R), and
+Termination Filing (13H-T)
+Filing for proposed sale of securities under Rule 144
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Notice of termination of registration of a class of
+EDGARLink EDGARLink
+securities under Section 12(b)
+Online
+Online XML
+Technical
+Specification
+Notice of termination of registration of a class of
+EDGARLink EDGARLink
+securities under Section 12(g)
+Online
+Online XML
+Technical
+Specification
+Notice of suspension of duty to file reports pursuant to EDGARLink EDGARLink
+Section 13 and 15(d) of the Act
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+Description
+
+3-4
+
+August 2015
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+15F-12G,
+Notice of termination of a foreign private issuer’s
+EDGARLink EDGARLink
+15F-12G/A
+registration of a class of securities under Section 12(g). Online
+Online XML
+Technical
+Specification
+15F-15D,
+Notice of a foreign private issuer’s suspension of duty to EDGARLink EDGARLink
+file reports pursuant to Section 13 and 15(d) of the Act Online
+15F-15D/A
+Online XML
+Technical
+Specification
+18-12B, 18-12B/A Form for initial registration of securities of foreign
+EDGARLink EDGARLink
+Online
+Online XML
+governments or political subdivisions pursuant to
+Technical
+Section 12(b)
+Specification
+18-12G, 18-12G/A Form for initial registration of securities of foreign
+EDGARLink EDGARLink
+governments or political subdivisions thereof pursuant to Online
+Online XML
+Section 12(g)
+Technical
+Specification
+18-K, 18-K/A
+Annual report for foreign governments and political
+EDGARLink EDGARLink
+subdivisions
+Online
+Online XML
+Technical
+Specification
+20-F, 20-F/A
+Annual and transition report of foreign private issuers
+EDGARLink EDGARLink
+pursuant to Section 13 or 15(d)
+Online
+Online XML
+Technical
+Specification
+20FR12B,
+Form for initial registration of a class of securities of
+EDGARLink EDGARLink
+20FR12B/A
+foreign private issuers pursuant to Section 12(b)
+Online
+Online XML
+Technical
+Specification
+20FR12G,
+Form for initial registration of a class of securities of
+EDGARLink EDGARLink
+20FR12G/A
+foreign private issuers pursuant to Section 12(g)
+Online
+Online XML
+Technical
+Specification
+24F-2NT,
+Rule 24F-2 notice filed on Form 24F-2
+EDGARLink EDGARLink
+24F-2NT/A
+Online
+Online XML
+Technical
+Specification
+25, 25/A
+Notification filed by issuer to voluntarily withdraw a class EDGARLink EDGARLink
+of securities from listing and registration on a national
+Online
+Online XML
+securities exchange
+Technical
+Specification
+Submission Type
+
+August 2015
+
+Description
+
+3-5
+
+EDGAR Filer Manual (Volume II)
+
+Tool/
+Template
+Number
+25-NSE, 25-NSE/A Notification filed by national security exchange to report Distributed to
+the removal from listing and registration of matured,
+National
+redeemed or retired securities
+Securities
+Exchanges
+only
+3, 3/A
+Initial statement of beneficial ownership of securities
+OnlineForms
+Submission Type
+
+Description
+
+305B2, 305B2/A
+
+Application for designation of a new trustee under the
+Trust Indenture Act
+
+EDGARLink
+Online
+
+4, 4/A
+
+Statement of changes in beneficial ownership of
+securities
+
+OnlineForms
+
+40-6B, 40-6B/A
+
+Application under the Investment Company Act by an
+employees’ securities company
+
+EDGARLink
+Online
+
+40-17F1,
+40-17F1/A
+
+Initial certificate of accounting of securities and similar
+investments in the custody of management investment
+companies filed pursuant to Rule 17f-1 of the Investment
+Company Act of 1940 filed on Form N-17F-1
+40-17F2,
+Initial certificate of accounting of securities and similar
+40-17F2/A
+investments in the custody of management investment
+companies filed pursuant to Rule 17f-2 of the Investment
+Company Act of 1940 filed on Form N-17F-2
+40-17G, 40-17G/A Fidelity bond filed pursuant to Rule 17g1(g)(1) of the
+Investment Company Act of 1940
+
+EDGARLink
+Online
+
+EDGARLink
+Online
+
+EDGARLink
+Online
+
+40-17GCS,
+4017GCS/A
+
+Filings of claim or settlement pursuant to rule 17gEDGARLink
+1(g)(1)(2) or (3) of the Investment Company Act of 1940 Online
+
+40-24B2,
+40-24B2/A
+
+Filing of sales literature pursuant to Rule 24b2 under the EDGARLink
+Investment Company Act of 1940
+Online
+
+EDGAR Filer Manual (Volume II)
+
+3-6
+
+FilerConstructed
+Form Spec.
+Distributed to
+National
+Securities
+Exchanges
+only
+EDGAR
+Ownership
+XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGAR
+Ownership
+XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+
+August 2015
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+40-33, 40-33/A
+Copies of all stockholder derivative actions filed with a EDGARLink EDGARLink
+court against an investment company or an affiliate
+Online
+Online XML
+thereof pursuant to Section 33 of the Investment
+Technical
+Company Act of 1940
+Specification
+40-8B25
+Document or report
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+40-8F-2, 40-8F-2/A Initial application for de-registration pursuant to
+EDGARLink EDGARLink
+Online
+Online XML
+Investment Company Act Rule 0-2
+Technical
+Specification
+40-APP, 40-APP/A Applications under the Investment Company Act other EDGARLink EDGARLink
+than those reviewed by Office of Insurance Products
+Online
+Online XML
+Technical
+Specification
+40-F, 40-F/A
+Annual reports filed by certain Canadian issuers
+EDGARLink EDGARLink
+pursuant to Section 15(d) and Rule 15d-4
+Online
+Online XML
+Technical
+Specification
+40FR12B,
+Registration of a class of securities of certain Canadian EDGARLink EDGARLink
+40FR12B/A
+issuers pursuant to Section 12(b) of the 1934 Act
+Online
+Online XML
+Technical
+Specification
+40FR12G,
+Registration of a class of securities of certain Canadian EDGARLink EDGARLink
+40FR12G/A
+issuers pursuant to Section 12(g) of the 1934 Act
+Online
+Online XML
+Technical
+Specification
+40-OIP, 40-OIP/A Applications under the Investment Company Act
+EDGARLink EDGARLink
+reviewed by Office of Insurance Products
+Online
+Online XML
+Technical
+Specification
+424A
+Prospectus filed pursuant to Rule 424(a)
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+424B1
+Prospectus filed pursuant to Rule 424(b)(1)
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+424B2
+Prospectus filed pursuant to Rule 424(b)(2)
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Submission Type
+
+August 2015
+
+Description
+
+3-7
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+
+Description
+
+424B3
+
+Prospectus filed pursuant to Rule 424(b)(3)
+
+424B4
+
+Prospectus filed pursuant to Rule 424(b)(4)
+
+424B5
+
+Prospectus filed pursuant to Rule 424(b)(5)
+
+424B7
+
+Prospectus filed pursuant to Rule 424(b)(7)
+
+424B8
+
+Prospectus filed pursuant to Rule 424(b)(8)
+
+424H, 424H/A
+
+Preliminary Prospectus filed pursuant to Rule 424(h)
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+
+425
+
+Filing under Securities Act Rule 425 of certain
+prospectuses and communications in connection with
+business combination transactions
+
+EDGARLink
+Online
+
+485APOS
+
+Post-effective amendment filed pursuant to Securities
+Act Rule 485(a) (this filing cannot be submitted as a
+1940 Act only filing)
+
+EDGARLink
+Online
+
+485BPOS
+
+Post-effective amendment filed pursuant to Securities
+Act Rule 485(b) (this filing cannot be submitted as a
+1940 Act only filing)
+
+EDGARLink
+Online
+
+485BXT
+
+Post-effective amendment filed pursuant to Securities EDGARLink
+Act Rule 485(b)(1)(iii) to designate a new effective date Online
+for a post-effective amendment previously filed pursuant
+to Securities Act Rule 485(a) (this filing cannot be
+submitted as a 1940 Act only filing)
+
+EDGAR Filer Manual (Volume II)
+
+3-8
+
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+
+August 2015
+
+Submission Type
+486APOS
+
+486BPOS
+
+487
+
+497
+
+497AD
+
+497H2
+
+497J
+
+497K
+
+497K1
+
+497K2
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+Post-effective amendment to filing filed pursuant to
+EDGARLink EDGARLink
+Securities Act Rule 486(a)
+Online
+Online XML
+Technical
+Specification
+Post-effective amendment to filing filed pursuant to
+EDGARLink EDGARLink
+Securities Act Rule 486(b)
+Online
+Online XML
+Technical
+Specification
+Pre-effective pricing amendment filed pursuant to
+EDGARLink EDGARLink
+Online
+Online XML
+Securities Act Rule 487
+Technical
+Specification
+Definitive materials filed under paragraph (a), (b), (c),
+EDGARLink EDGARLink
+(d), (e) or (f) of Securities Act Rule 497
+Online
+Online XML
+Technical
+Specification
+Filing by certain investment companies of Securities Act EDGARLink EDGARLink
+Rule 482 advertising in accordance with Securities Act Online
+Online XML
+Rule 497
+Technical
+Specification
+Filings made pursuant to Rule 497(h)(2)
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Certification of no change in definitive materials under EDGARLink EDGARLink
+paragraph (j) of Securities Act Rule 497
+Online
+Online XML
+Technical
+Specification
+Summary Prospectus for certain open-end management EDGARLink EDGARLink
+investment companies filed pursuant to Securities Act Online
+Online XML
+Rule 497(k)
+Technical
+Specification
+Cannot be used until March 31, 2009.
+Profiles for certain open-end management investment EDGARLink EDGARLink
+companies filed pursuant to Securities Act Rule
+Online
+Online XML
+497(k)(1)(i)
+Technical
+Specification
+Will no longer be accepted after close of business, (5:30
+Description
+
+PM EST) on March 30, 2009.
+Profiles for certain open-end management investment
+companies filed pursuant to Securities Act Rule
+497(k)(1)(ii)
+Will no longer be accepted after close of
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+business, (5:30 PM EST) on March 30, 2009.
+
+August 2015
+
+3-9
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+497K3A
+
+Description
+Profiles for certain open-end management investment
+companies filed pursuant to Securities Act Rule
+497(k)(1)(iii)(A)
+Will no longer be accepted after close of
+
+497K3B
+
+business (5:30 PM EST) on March 30, 2009.
+Profiles for certain open-end management investment
+companies filed pursuant to Securities Act Rule
+497(k)(1)(iii)(B)
+Will no longer be accepted after close of
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+business (5:30 PM EST) on March 30, 2009.
+Annual statement of changes in beneficial ownership of OnlineForms EDGAR
+securities
+Ownership
+XML
+Technical
+Specification
+6-K, 6-K/A
+Current report of foreign issuer pursuant to Rules 13a- EDGARLink EDGARLink
+16 and 15d-16 Amendments
+Online
+Online XML
+Technical
+Specification
+8-A12B, 8-A12B/A Form for the registration / listing of a class of securities EDGARLink EDGARLink
+on a national securities exchange pursuant to Section Online
+Online XML
+12(b)
+Technical
+Specification
+8-A12G, 8-A12G/A Form for registration of a class of securities pursuant to EDGARLink EDGARLink
+Section 12(g)
+Online
+Online XML
+Technical
+Specification
+8-K, 8-K/A
+Current report filing
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+8-K12B, 8-K12B/A Notification that a class of securities of successor issuer EDGARLink EDGARLink
+is deemed to be registered pursuant to Section 12(b)
+Online
+Online XML
+Technical
+Specification
+8-K12G3,
+Notification that a class of securities of successor issuer EDGARLink EDGARLink
+8-K12G3/A
+is deemed to be registered pursuant to Section 12(g)
+Online
+Online XML
+Technical
+Specification
+8-K15D5,
+Notification of assumption of duty to report by successor EDGARLink EDGARLink
+8-K15D5/A
+issue under Section 15(d)
+Online
+Online XML
+Technical
+Specification
+5, 5/A
+
+EDGAR Filer Manual (Volume II)
+
+3-10
+
+August 2015
+
+Submission Type
+ABS-15G,
+ABS-15G/A
+
+ABS-EE,
+ABS-EE/A
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+Asset-backed securities report pursuant to Section 15G EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Form for Submission of Electronic Exhibits in assetEDGARLink EDGARLink
+backed securities offerings
+Online
+Online XML
+Technical
+Specification,
+Description
+
+ANNLRPT,
+ANNLRPT/A
+
+Periodic Development Bank filing, submitted annually
+
+APP WD,
+APP WD/A
+
+Withdrawal of an application for exemptive or other relief EDGARLink
+from the federal securities laws
+Online
+
+ARS, ARS/A
+
+Annual report to security holders
+
+EDGARLink
+Online
+
+AW
+
+Withdrawal of amendment to a registration statement
+filed under the Securities Act
+
+EDGARLink
+Online
+
+AW WD
+
+Withdrawal of a request for withdrawal of an amendment EDGARLink
+to a registration statement
+Online
+
+CB, CB/A
+
+Notification form filed in connection with certain tender
+offers, business combinations and rights offerings, in
+which the subject company is a foreign private issuer of
+which less than 10% of its securities are held by U.S.
+persons
+A correspondence can be sent as a document with
+another submission type or can be sent as a separate
+submission.
+
+CORRESP
+
+August 2015
+
+3-11
+
+EDGARLink
+Online
+
+EDGARLink
+Online
+
+EDGAR ABS
+XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+D, D/A
+
+DEF 14A
+
+DEF 14C
+
+DEFA14C
+
+DEFC14A
+
+DEFC14C
+
+DEFM14A
+
+DEFM14C
+
+DEFN14A
+
+DEFR14A
+
+DEFR14C
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+Official notice of an offering of securities that is made
+Online Forms EDGAR
+without registration under the Securities Act in reliance
+Form D XML
+on an exemption provided by Regulation D and Section
+Technical
+4(a)(5) under the Act.
+Specification
+Definitive proxy statements
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Definitive information statements
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Definitive additional information statement materials
+EDGARLink EDGARLink
+including Rule 14(a)(12) material
+Online
+Online XML
+Technical
+Specification
+Definitive proxy statement in connection with contested EDGARLink EDGARLink
+solicitations
+Online
+Online XML
+Technical
+Specification
+Definitive information statement - contested solicitations EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Definitive proxy statement relating to a merger,
+EDGARLink EDGARLink
+acquisition, or disposition
+Online
+Online XML
+Technical
+Specification
+Definitive information statement relating to merger or
+EDGARLink EDGARLink
+acquisition
+Online
+Online XML
+Technical
+Specification
+Definitive proxy statement filed by non-management
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Definitive revised proxy soliciting materials
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Definitive revised information statement materials
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+Description
+
+3-12
+
+August 2015
+
+Submission Type
+DEL AM
+
+DFAN14A
+
+DFRN14A
+
+DOS, DOS/A
+
+DOSLTR
+DRS, DRS/A
+
+DRSLTR
+DSTRBRPT,
+DSTRBRPT/A
+
+F-1, F-1/A
+
+F-10, F-10/A
+
+F-10EF
+
+F-10POS
+
+August 2015
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+Separately filed delaying amendment under Securities EDGARLink EDGARLink
+Act Rule 473 to delay effectiveness of a 1933 Act
+Online
+Online XML
+registration statement
+Technical
+Specification
+Definitive additional proxy soliciting materials filed by
+EDGARLink EDGARLink
+non-management including Rule 14(a)(12) material
+Online
+Online XML
+Technical
+Specification
+Revised definitive proxy statement filed by nonEDGARLink EDGARLink
+Online
+Online XML
+management
+Technical
+Specification
+Non-public draft offering statement under Regulation A EDGAR
+N/A
+Filing
+Website
+Draft Offering Statement Letter
+EDGARLink N/A
+Online
+Draft registration statement submitted by Emerging
+EDGARLink N/A
+Growth Company under Securities Act Section 6(e) or Online
+by Foreign Private Issuer under Division of Corporation
+Finance policy
+Correspondence Related to Draft Registration
+EDGARLink N/A
+Statement
+Online
+Distribution of primary obligations Development Bank
+EDGARLink EDGARLink
+report
+Online
+Online XML
+Technical
+Specification
+Registration statement for securities of certain foreign EDGARLink EDGARLink
+private issuers
+Online
+Online XML
+Technical
+Specification
+Registration statement for securities of certain Canadian EDGARLink EDGARLink
+issuers under the Securities Act of 1933
+Online
+Online XML
+Technical
+Specification
+Auto effective registration statement for securities of
+EDGARLink EDGARLink
+certain Canadian issuers under the Securities Act of
+Online
+Online XML
+1933
+Technical
+Specification
+Post-effective amendment to a F-10EF registration
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Description
+
+3-13
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+F-1MEF
+
+F-3, F-3/A
+
+F-3ASR
+
+F-3DPOS
+
+F-3MEF
+
+F-4 POS
+
+F-4, F-4/A
+
+F-4EF
+
+F-4MEF
+
+F-6 POS
+
+F-6, F-6/A
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+A new registration statement filed under Rule 462(b) to EDGARLink EDGARLink
+add securities to a prior related effective registration
+Online
+Online XML
+statement filed on Form F-1
+Technical
+Specification
+Registration statement for specified transactions by
+EDGARLink EDGARLink
+certain foreign private issuers
+Online
+Online XML
+Technical
+Specification
+Automatic shelf registration statement of securities of
+EDGARLink EDGARLink
+Online
+Online XML
+well-known seasoned issuers
+Technical
+Specification
+Post-Effective amendment to a F-3D registration
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+A new registration statement filed under Rule 462(b) to EDGARLink EDGARLink
+add securities to a prior related effective registration
+Online
+Online XML
+statement filed on Form F 3
+Technical
+Specification
+Post-effective amendment to a F-4EF registration
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Registration statement for securities issued by foreign EDGARLink EDGARLink
+private issuers in certain business combination
+Online
+Online XML
+transactions
+Technical
+Specification
+Auto effective registration statement for securities by
+EDGARLink EDGARLink
+certain foreign private issuers in connection with certain Online
+Online XML
+business combination transactions
+Technical
+Specification
+A new registration statement filed under Rule 462(b) to EDGARLink EDGARLink
+add securities to a prior related effective registration
+Online
+Online XML
+statement filed on Form F 4
+Technical
+Specification
+Post-effective amendment to a F-6EF registration
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Registration statement for American Depositary
+EDGARLink EDGARLink
+Receipts representing securities of certain foreign
+Online
+Online XML
+private issuers
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+Description
+
+3-14
+
+August 2015
+
+Submission Type
+
+Description
+
+F-6EF
+
+Auto effective registration statement for American
+Depositary Receipts representing securities of certain
+foreign private issuers
+
+F-7 POS
+
+Post-effective amendment to a F-7 registration
+
+F-7, F-7/A
+
+Registration statement for securities of certain Canadian
+issuers offered for cash upon the exercise of rights
+granted to existing security holders under the Securities
+Act of 1933
+Post-effective amendment to a F-8 registration
+
+F-8 POS
+
+F-8, F-8/A
+
+Registration statement for securities of certain Canadian
+issuers to be issued in exchange offers or a business
+combination under the Securities Act of 1933
+
+F-80, F-80/A
+
+Registration of securities of certain Canadian issuers to
+be issued in exchange offers or a business combination
+under the Securities Act of 1933
+
+F-80POS
+
+Post-effective amendment to a F-80 registration
+
+F-9 POS
+
+Post-effective amendment to a F-9EF registration
+
+F-9, F-9/A
+
+Registration of securities of certain investment grade
+debt or investment grade preferred securities of certain
+Canadian issuers under the Securities Act of 1933
+
+F-9EF
+
+Auto effective registration of securities of certain
+investment grade debt or investment grade preferred
+securities of certain Canadian issuers under the
+Securities Act of 1933
+Notification of the appointment of an agent for service by
+certain foreign institutions
+
+F-N, F-N/A
+
+August 2015
+
+3-15
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+FWP
+
+F-X, F-X/A
+
+IRANNOTICE
+
+MA, MA-A, MA/A
+
+MA-I, MA-I/A
+
+MA-W
+
+N-1, N-1/A
+
+N-14 8C,
+N-14 8C/A
+
+N-14, N-14/A
+
+N-14MEF
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+Filing under Securities Act Rules 163/433 of free writing EDGARLink EDGARLink
+prospectuses
+Online
+Online XML
+Technical
+Specification
+For appointment of agent for service of process by
+EDGARLink EDGARLink
+issuers registering securities
+Online
+Online XML
+Technical
+Specification
+Notice of disclosure filed in Exchange Act quarterly and EDGARLink EDGARLink
+annual reports pursuant to Section 219 of the Iran
+Online
+Online XML
+Threat Reduction and Syria Human Rights Act of 2012
+Technical
+and Section 13(r) of the Exchange Act
+Specification
+Municipal Advisor registration required pursuant to
+EDGAR
+N/A
+Section 15B(a)(2) of the Securities Exchange Act of
+Filing
+1934 and the Rules Thereunder. Application for
+Website
+Municipal Advisor Registration (MA), Annual Update of Online Forms
+Municipal Advisor Registration (MA-A), and Amendment
+of a Prior Application for Registration (MA/A)
+Information Regarding Natural Persons Who Engage in EDGAR
+N/A
+Municipal Advisory Activities, and Amendment of a
+Filing
+Previously Submitted Form MA-I
+Website
+Online Forms
+Notice of Withdrawal from Registration as a Municipal EDGAR
+N/A
+Advisor
+Filing
+Website
+Online Forms
+Initial registration statement filed on Form N-1 for open- EDGARLink EDGARLink
+end management investment companies
+Online
+Online XML
+Technical
+Specification
+Initial registration statement filed on Form N14 by
+EDGARLink EDGARLink
+Online
+Online XML
+closed-end investment company (business
+Technical
+combinations)
+Specification
+Initial registration statement filed on Form N14 for open- EDGARLink EDGARLink
+end investment company, including those filed with
+Online
+Online XML
+automatic effectiveness under Rule 488 (business
+Technical
+combinations)
+Specification
+A new registration statement filed on Form N14 by
+EDGARLink EDGARLink
+closed end investment companies filed under Securities Online
+Online XML
+Act Rule 462(b) of up to an additional 20% of securities
+Technical
+for an offering that was registered on Form N-14
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+Description
+
+3-16
+
+August 2015
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+N-18F1, N-18F1/A Initial notification of election pursuant to Rule 18f-1 filed EDGARLink EDGARLink
+on Form N-18F-1
+Online
+Online XML
+Technical
+Specification
+N-1A, N-1A/A
+Initial registration statement filed on Form N1A for open- EDGARLink EDGARLink
+end management investment companies
+Online
+Online XML
+Technical
+Specification
+N-2, N-2/A
+Initial filing of a registration statement on Form N-2 for EDGARLink EDGARLink
+Online
+Online XML
+closed-end investment companies
+Technical
+Specification
+N-23C-2,
+Notice by closed-end investment companies of intention EDGARLink EDGARLink
+N-23C-2/A
+to call or redeem their own securities under Investment Online
+Online XML
+Company Act Rule 23c-2
+Technical
+Specification
+N-23C3A,
+Notification of periodic repurchase offer Filed pursuant EDGARLink EDGARLink
+N23C3A/A
+to Rule 23c-3(b) only
+Online
+Online XML
+Technical
+Specification
+N-23C3B,
+Filing pursuant to Rule 23c-3(c) only on Form N-23C-3 EDGARLink EDGARLink
+N23C3B/A
+Online
+Online XML
+Technical
+Specification
+N-23C3C,
+Filing pursuant to Rule 23c-3(b) and (c) on Form N-23C- EDGARLink EDGARLink
+N23C3C/A
+3
+Online
+Online XML
+Technical
+Specification
+N-27D-1,
+Accounting for segregated trust accounts on Form NEDGARLink EDGARLink
+N-27D-1/A
+27D-1
+Online
+Online XML
+Technical
+Specification
+N-2MEF
+A new registration statement on Form N-2 filed under
+EDGARLink EDGARLink
+Securities Act Rule 462(b) by closed-end investment
+Online
+Online XML
+companies of up to an additional 20% of securities for an
+Technical
+offering that was registered on Form N-2
+Specification
+N-3, N-3/A
+Initial registration statement on Form N-3 for separate EDGARLink EDGARLink
+accounts (management investment companies)
+Online
+Online XML
+Technical
+Specification
+N-30B-2
+Periodic and interim reports mailed to investment
+EDGARLink EDGARLink
+company shareholders (other than annual and semiOnline
+Online XML
+annual reports mailed to shareholders pursuant to Rule
+Technical
+30e-1)
+Specification
+Submission Type
+
+August 2015
+
+Description
+
+3-17
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+N-30D, N-30D/A
+
+N-4, N-4/A
+
+Description
+Initial annual and semi-annual reports mailed to
+investment company shareholders pursuant to Rule
+30e-1 (other than those required to be submitted as part
+of Form NCSR.)
+Initial registration statement on Form N-4 for separate
+accounts (unit investment trusts)
+
+N-5, N-5/A
+
+Registration statement for small business investment
+companies
+
+N-54A, N-54A/A
+
+Notification of election by business development
+companies filed on Form N-54A
+
+N-54C, N-54C/A
+
+Notification of withdrawal by business development
+companies filed on Form N-54C
+
+N-6, N-6/A
+
+Registration statement for separate accounts (unit
+investment trusts)
+
+N-6F, N-6F/A
+
+Notice of intent by business development companies to
+elect to be subject to Sections 55 through 65 of the 1940
+Act filed on Form N-6F
+
+N-8A, N-8A/A
+
+Initial notification of registration under Section 8(a) filed
+on Form N-8A
+
+N-8B-2, N-8B-2/A
+
+Initial registration statement for unit investment trusts
+filed on Form N-8B-2
+
+N-8B-3, N-8B-3/A
+
+Initial registration statement for periodic payment plans
+filed on Form N-8B-3
+
+N-8B-4, N-8B-4/A
+
+Initial registration statement for face-amount certificate
+companies filed on Form N-8B-4
+
+EDGAR Filer Manual (Volume II)
+
+3-18
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+August 2015
+
+Submission Type
+N-8F, N-8F/A
+
+N-CR, N-CR/A
+
+N-CSR, N-CSR/A
+
+N-CSRS,
+N-CSRS/A
+
+N-MFP, N-MFP/A
+
+N-PX, N-PX/A
+
+N-PX-CR,
+N-PX-CR/A
+
+N-PX-FM,
+N-PX-FM/A
+
+N-PX-NT,
+N-PX-NT/A
+
+N-PX-VR,
+N-PX-VR/A
+
+August 2015
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+Application for deregistration made on Form N-8F
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Current Report of Money Market Fund Material Events EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Certified annual shareholder report of registered
+EDGARLink EDGARLink
+Online
+Online XML
+management investment companies filed on Form NTechnical
+CSR
+Specification
+Certified semi-annual shareholder report of registered EDGARLink EDGARLink
+management investment companies filed on Form NOnline
+Online XML
+CSR
+Technical
+Specification
+Monthly Schedule of Portfolio Holdings of Money Market N/A
+EDGAR
+Funds
+Form N-MFP
+XML
+Technical
+Specification
+Annual Report of Proxy Voting Record of Registered
+EDGARLink EDGARLink
+Management Investment Companies filed on Form N- Online
+Online XML
+PX
+Technical
+Specification
+Annual Form N-PX Combination Report filed by
+EDGARLink EDGARLink
+institutional managers
+Online
+Online XML
+Technical
+Specification
+Annual Report of Proxy Voting Record of Registered
+EDGARLink EDGARLink
+Management Investment Companies that includes proxy Online
+Online XML
+votes institutional managers
+Technical
+Specification
+Annual Form N-PX Notice filed by institutional managers EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Annual Form N-PX Voting Report filed by institutional
+EDGARLink EDGARLink
+managers
+Online
+Online XML
+Technical
+Specification
+Description
+
+3-19
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+
+Description
+
+N-Q, N-Q/A
+
+Quarterly Schedule of Portfolio Holdings of Registered
+Management Investment Company filed on Form N-Q
+
+NRSRO-UPD
+
+Update of Registration for Nationally Recognized
+Statistical Rating Organizations
+
+NRSRO-CE,
+NRSRO-CE/A
+
+Annual Certification for Nationally Recognized Statistical
+Rating Organizations
+
+NRSRO-FR,
+NRSRO-FR/A
+
+Annual Financial/Other Reports for Nationally
+Recognized Statistical Rating Organizations, as required
+by Rule 17g-3 (Non-Public)
+
+NRSRO-WCLS
+
+Withdrawal from Credit Rating Class for Nationally
+Recognized Statistical Rating Organizations
+
+NRSRO-WREG
+
+Withdrawal from Registration as Nationally Recognized
+Statistical Rating Organization
+
+NSAR-A,
+NSAR-A/A
+
+Semi-annual report for management companies filed on
+Form N-SAR
+
+NSAR-AT,
+NSAR-AT/A
+
+Transitional semi-annual report filed on Form N-SAR
+
+NSAR-B,
+NSAR-B/A
+
+Annual report for management companies filed on Form
+N-SAR
+
+NSAR-BT,
+NSAR-BT/A
+
+Transitional annual report filed on Form N-SAR
+
+NSAR-U,
+NSAR-U/A
+
+Annual report for unit investment trusts filed on Form NSAR
+
+EDGAR Filer Manual (Volume II)
+
+3-20
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+August 2015
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+NT 10-K,
+Notice under Rule 12b25 of inability to timely file all or EDGARLink EDGARLink
+NT 10-K/A
+part of a Form 10-K, 10-KSB, or 10-KT
+Online
+Online XML
+Technical
+Specification
+NT 10-D,
+Notice under Rule 12b25 of inability to timely file all or EDGARLink EDGARLink
+part of a Form 10-D
+NT 10-D/A
+Online
+Online XML
+Technical
+Specification
+NT 10-Q,
+Notice under Rule 12b25 of inability to timely file all or EDGARLink EDGARLink
+NT 10-Q/A
+Online
+Online XML
+part of a form 10-Q or 10-QSB
+Technical
+Specification
+NT 11-K,
+Notice under Rule 12b25 of inability to timely file all or EDGARLink EDGARLink
+NT 11-K/A
+part of a form 11-K
+Online
+Online XML
+Technical
+Specification
+NT 15D2,
+Notice under Rule 12b25 of inability to timely file a
+EDGARLink EDGARLink
+NT 15D2/A
+special report pursuant to Section 15d-2
+Online
+Online XML
+Technical
+Specification
+NT 20-F, NT 20-F/A Notice under Rule 12b25 of inability to timely file all or EDGARLink EDGARLink
+part of an annual report of form 20-F
+Online
+Online XML
+Technical
+Specification
+NT-NCSR,
+Notice under Exchange Act Rule 12b-25 of inability to EDGARLink EDGARLink
+NTNCSR/A
+timely file Form N-CSR (annual or semi-annual report) Online
+Online XML
+Technical
+Specification
+NT-NSAR,
+Notice under Exchange Act Rule 12b-25 of inability to EDGARLink EDGARLink
+NTNSAR/A
+timely file Form N-SAR
+Online
+Online XML
+Technical
+Specification
+POS 8C
+Post-effective amendment filed under the 1933 Act only EDGARLink EDGARLink
+or under both the 1933 and 1940 Acts pursuant to
+Online
+Online XML
+Section 8(c) of the 1933 Act by closed-end investment
+Technical
+companies (this filing cannot be submitted as a 1940 Act
+Specification
+only filing)
+POS AM
+Post-effective amendment to a registration statement
+EDGARLink EDGARLink
+that is not immediately effective upon filing
+Online
+Online XML
+Technical
+Specification
+Submission Type
+
+August 2015
+
+Description
+
+3-21
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+POS AMI
+
+POSASR
+
+POS EX
+
+POS462B
+
+POS462C
+
+PRE 14A
+
+PRE 14C
+
+PREC14A
+
+PREC14C
+
+PREM14A
+
+PREM14C
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+Post-effective amendment (for filings made under the
+EDGARLink EDGARLink
+1940 Act only)
+Online
+Online XML
+Technical
+Specification
+Post-effective Amendment to an automatic shelf
+EDGARLink EDGARLink
+registration statement on Form S-3ASR or Form FOnline
+Online XML
+3ASR
+Technical
+Specification
+Post-effective amendment filed solely to add exhibits to EDGARLink EDGARLink
+Online
+Online XML
+a registration statement
+Technical
+Specification
+Post-effective amendment to Securities Act Rule 462(b) EDGARLink EDGARLink
+registration statement
+Online
+Online XML
+Technical
+Specification
+Post-effective amendment to a registration statement
+EDGARLink EDGARLink
+filed under Rule 462(c)
+Online
+Online XML
+Technical
+Specification
+Preliminary proxy statement not related to a contested EDGARLink EDGARLink
+matter or merger/acquisition
+Online
+Online XML
+Technical
+Specification
+Preliminary information statement not related to a
+EDGARLink EDGARLink
+contested matter or merger/acquisition
+Online
+Online XML
+Technical
+Specification
+Preliminary proxy statement in connection with
+EDGARLink EDGARLink
+contested solicitations
+Online
+Online XML
+Technical
+Specification
+Preliminary information statements - contested
+EDGARLink EDGARLink
+solicitations
+Online
+Online XML
+Technical
+Specification
+Preliminary proxy statement relating to a merger,
+EDGARLink EDGARLink
+acquisition, or disposition
+Online
+Online XML
+Technical
+Specification
+Preliminary information statements relating to merger or EDGARLink EDGARLink
+acquisition
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+Description
+
+3-22
+
+August 2015
+
+Submission Type
+
+Description
+
+PREN14A
+
+Preliminary proxy statement filed by non-management
+
+PRER14A
+
+Preliminary revised proxy soliciting materials
+
+PRER14C
+
+Preliminary revised information statements
+
+PRRN14A
+
+Revised preliminary proxy statement filed by nonmanagement
+
+PX14A6G
+
+Notice of exempt solicitation
+
+PX14A6N
+
+Notice of exempt solicitation for the purpose of
+determining whether to solicit proxies, consents, or
+authorizations in opposition to a proposed roll-up
+transaction filed pursuant to Rule 14a6(g) of the
+Securities Exchange Act of 1934
+Periodic Development Bank filing, submitted quarterly
+
+RTLYRPT,
+QRTLYRPT/A
+
+RW
+
+RW WD
+
+S-1, S-1/A
+
+August 2015
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Registration Withdrawal Request
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Withdrawal of a Registration Withdrawal Request
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+General form of registration statement for all companies EDGARLink EDGARLink
+including face-amount certificate companies
+Online
+Online XML
+Technical
+Specification
+
+3-23
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+S-11, S-11/A
+
+S-11MEF
+
+S-1MEF
+
+S-20, S-20/A
+
+S-3, S-3/A
+
+S-3ASR
+
+S-3D
+
+S-3DPOS
+
+S-3MEF
+
+S-4 POS
+
+S-4, S-4/A
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+Registration statement for securities to be issued by real EDGARLink EDGARLink
+estate companies
+Online
+Online XML
+Technical
+Specification
+A new registration statement filed under Rule 462(b) to EDGARLink EDGARLink
+add securities to a prior related effective registration
+Online
+Online XML
+statement filed on Form S 11
+Technical
+Specification
+A new registration statement filed under Rule 462(b) to EDGARLink EDGARLink
+Online
+Online XML
+add securities to a prior related effective registration
+Technical
+statement filed on Form S 1
+Specification
+Registration statement for standardized options
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Registration statement for specified transactions by
+EDGARLink EDGARLink
+certain issuers
+Online
+Online XML
+Technical
+Specification
+Automatic shelf registration statement of securities of
+EDGARLink EDGARLink
+well-known seasoned issuers
+Online
+Online XML
+Technical
+Specification
+Automatically effective registration statement for
+EDGARLink EDGARLink
+securities issued pursuant to dividend or interest
+Online
+Online XML
+reinvestment plans
+Technical
+Specification
+Post-effective amendment to a S-3D registration
+EDGARLink EDGARLink
+statement
+Online
+Online XML
+Technical
+Specification
+A new registration statement filed under Rule 462(b) to EDGARLink EDGARLink
+add securities to a prior related effective registration
+Online
+Online XML
+statement filed on Form S 3
+Technical
+Specification
+Post-effective amendment to a S-4EF registration
+EDGARLink EDGARLink
+statement
+Online
+Online XML
+Technical
+Specification
+Registration of securities issued in business
+EDGARLink EDGARLink
+combination transactions
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+Description
+
+3-24
+
+August 2015
+
+Submission Type
+S-4EF
+
+S-4MEF
+
+Description
+Auto effective registration statement for securities
+issued in connection with the formation of a bank or
+savings and loan holding company in compliance with
+General Instruction G
+A new registration statement filed under Rule 462(b) to
+add securities to a prior related effective registration
+statement filed on Form S-4
+
+S-6, S-6/A
+
+Initial registration statement filed on Form S-6 for unit
+investment trusts
+
+S-8
+
+Initial registration statement for securities to be offered
+to employees pursuant to employee benefit plans
+
+S-8 POS
+
+Post-effective amendment to a S-8 registration
+statement
+
+S-B, S-B/A
+
+Registration statement for securities of foreign
+governments and subdivisions thereof under the
+Securities Act of 1933 (Schedule B)
+
+S-BMEF
+
+A new registration statement filed under Rule 462(b) to
+add securities to a prior related effective registration
+statement filed on Form S-B
+
+SC 13D, SC 13D/A Schedule filed to report acquisition of beneficial
+ownership of 5% or more of a class of equity securities
+
+SC 13E1,
+SC 13E1/A
+
+Schedule 13-E1 statement of issuer required by Rule
+13e-1
+
+SC 13E3,
+SC 13E3/A
+
+Schedule filed to report going private transactions
+
+SC 13G, SC 13G/A Schedule filed to report acquisition of beneficial
+ownership of 5% or more of a class of equity securities
+by passive investors and certain institutions
+
+August 2015
+
+3-25
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+
+Description
+
+SC 14D9,
+SC 14D9/A
+
+Tender offer solicitation/recommendation statements
+filed under Rule 14d-9
+
+SC 14F1,
+SC 14F1/A
+
+Statement regarding change in majority of directors
+pursuant to Rule 14f-1
+
+SC 14N, SC 14N/A Information filed by certain nominating shareholders
+(pursuant to Section 240 14n-1)
+
+SC 14N-S,
+SC 14N-S/A
+
+SC TO-C
+
+Solicitation in connection with the formation or attempted
+formation of a Rule 14a-11 nominating shareholder
+group or solicitation in connection with a Rule 14a-11
+nomination
+Written communication relating to an issuer or third party
+tender offer
+
+SC TO-I,
+SC TO-I/A
+
+Issuer tender offer statement
+
+SC TO-T,
+SC TO-T/A
+
+Third party tender offer statement
+
+SC13E4F,
+SC13E4F/A
+
+Issuer tender offer statement filed pursuant to Rule
+13(e)(4) by foreign issuers
+
+SC14D1F,
+SC14D1F/A
+
+Third party tender offer statement filed pursuant to Rule
+14d-1(b) by foreign issuers
+
+SC14D9C
+
+Written communication by the subject company relating
+to a third party tender offer
+
+SC14D9F,
+SC14D9F/A
+
+Solicitation/recommendation statement pursuant to
+Section 14(d)(4) of the Securities Exchange Act of 1934
+and Rules 14d-1(b) and 14e-2(c) by foreign issuers
+
+EDGAR Filer Manual (Volume II)
+
+3-26
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+August 2015
+
+Submission Type
+SD, SD/A
+
+SDR, SDR/A,
+SDR-A
+
+SDR-W
+
+SF-1, SF-1/A
+
+SF-3, SF-3/A
+
+SF-3MEF
+
+SH-ER, SH-ER/A
+
+SH-NT, SH-NT/A
+
+SP 15D2,
+SP 15D2/A
+
+August 2015
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+Specialized Disclosure Report filed pursuant to Section EDGARLink EDGARLink
+1502 of the Dodd-Frank Wall Street Reform and
+Online
+Online XML
+Consumer Protection Act relating to the use of conflict
+Technical
+minerals (Rule 13p-1)
+Specification
+Security-based swap data repository registration
+EDGAR
+EDGAR SDR
+pursuant to the Securities Exchange Act of 1934.
+Filing
+XML
+Application for Registration as Security-based Swap
+Website
+Technical
+Data Repository (SDR), Interim Amendment to
+Online Forms Specification
+Application for Registration as Security-based Swap
+Data Repository (SDR/A), and Annual Amendment to
+Application for Registration as Security-based Swap
+Data Repository (SDR-A)
+Application for Withdrawal from Registration as
+EDGAR
+EDGAR SDR
+Security-based Swap Data Repository
+Filing
+XML
+Website
+Technical
+Online Forms Specification
+General form of registration statement for all issuers of EDGARLink EDGARLink
+asset-backed securities
+Online
+Online XML
+Technical
+Specification
+Shelf registration statement for qualified offerings of
+EDGARLink EDGARLink
+asset-backed securities
+Online
+Online XML
+Technical
+Specification
+A new registration statement filed under Rule 462(b) to EDGARLink EDGARLink
+add securities to a prior related effective registration
+Online
+Online XML
+statement filed on Form SF-3
+Technical
+Specification
+Weekly Form SH Entries Report Filed by Institutional
+EDGARLink SH-ER
+Investment Managers
+Online
+Information
+Table XML
+Technical
+Specification
+Weekly Form SH Notice Report Filed by Institutional
+EDGARLink EDGARLink
+Investment Managers
+Online
+Online XML
+Technical
+Specification
+Special Financial Report filed under Rule 15d-2
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Description
+
+3-27
+
+EDGAR Filer Manual (Volume II)
+
+Submission Type
+
+Description
+
+SUPPL
+
+Voluntary supplemental material filed pursuant to
+Section 11(a) of the Securities Act of 1933 by foreign
+issuers
+
+T-1, T-2
+
+Note - 'Submission types' T-1 and T-2 are not used as
+stand-alone submission types on the EDGAR system.
+They are filed as EX-25 to registration statements.
+Initial application for qualification of trust indentures
+
+T-3, T-3/A
+
+T-6, T-6/A
+
+TA-1, TA-1/A
+
+TA-2, TA-2/A
+
+TA-W
+
+Tool/
+FilerTemplate Constructed
+Number
+Form Spec.
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+No info blank cell
+
+No info blank cell
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Application for determination of eligibility of a foreign
+EDGARLink EDGARLink
+Online
+Online XML
+person to act as institutional trustee filed pursuant to
+Technical
+Section 310(a)(1) of the Trust Indenture Act of 1939
+Specification
+Application for registration as a transfer agent filed
+EDGARLite EDGAR
+pursuant to the Securities Exchange Act of 1934
+TA-1
+Form TA-1
+Template
+XML
+Technical
+Specification
+Annual report of transfer agent activities filed pursuant to EDGARLite EDGAR
+the Securities Exchange Act of 1934
+TA-2
+Form TA-2
+Template
+XML
+Technical
+Specification
+Notice of withdrawal from registration as transfer agent EDGARLite EDGAR
+filed pursuant to the Securities Exchange Act of 1934
+TA-W
+Form TA-W
+Template
+XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+3-28
+
+August 2015
+
+3.2
+
+Electronic Form Types by Act
+
+This index will allow you to use the filing type to identify the EDGAR submission type and
+finally the tool or template you can use to either create or assemble the filing. Each of the tools
+and templates are covered in detail in separate sections of this document. The final column should
+only be used by filers or software developers who construct filings outside of the SEC supplied
+tools. EDGARLite templates can be downloaded from the OnlineForms/XML Website. FilerConstructed Technical Specifications are available on the SEC’s Public Website. Please refer to
+these sites to determine if your version of the tool, template, or document is correct.
+Note: Tools, templates, and documents will no longer be marked with a version number relating
+to a software release. Some tools may be specific to submission types that remain the same
+through several releases, instead of being updated with each new release. Therefore each
+tool, template and manual will now be marked with its own version number, specific to
+that particular item. You can find the most current versions on the website from which the
+tools, templates, and manuals are downloaded. Be sure to verify that you have the current
+version before filing.
+Issuers are advised that filings with the submission types listed below will receive a “Filing Date”
+identical to the EDGAR “Received Date” even if received after 5:30 P.M. Eastern time, which is
+different than normal filings. In addition these filings will be disseminated until 10:00 P.M.
+Eastern time. Normally filings received after 5:30 P.M. Eastern time will receive a filing date of
+the next business day and will not be disseminated until the next business day.
+The following submission types will receive a filing date identical to the EDGAR “Received
+Date” and will be disseminated until 10:00 P.M. Eastern time:
+Submission form types:
+3
+
+5/A
+
+N-2MEF
+
+S-4MEF
+
+3/A
+
+F-1MEF
+
+POS 462B
+
+S-BMEF
+
+4
+
+F-3MEF
+
+S-11MEF
+
+no info blank cell
+
+4/A
+
+F-4MEF
+
+S-1MEF
+
+no info blank cell
+
+5
+
+N-14MEF
+
+S-3MEF
+
+no info blank cell
+
+You should send any fee payment made for the above registration statements to the Commission's
+lockbox. Additionally, you should submit any fee payment certification that you are making for
+the above-listed submission types, pursuant to Rule 111(b), using the “CORRESP” submission
+type.
+
+August 2015
+
+3-29
+
+EDGAR Filer Manual (Volume II)
+
+Electronic Form Types by Act
+List of Tables
+Table 3-1: Securities Act Submission Types Accepted by EDGAR........................... ...........3-31
+Table 3-2: Securities Exchange Act - Proxy Materials and Information Statements Filed
+Pursuant to Section 14 Submission Types Accepted by EDGAR............................... ...........3-49
+Table 3-3: Securities Exchange Act - Registration and Report Submission Types Accepted by
+EDGAR........................................................................................................................ ...........3-52
+Table 3-4: Williams Act Filing Submission Types Accepted by EDGAR.................. ...........3-70
+Table 3-5: Investment Company Submission Types Accepted by EDGAR............... ...........3-73
+Table 3-6: Development Bank Submission Types Accepted by EDGAR................... ...........3-96
+Table : Correspondence Submission Types................................................................. ...........3-97
+
+EDGAR Filer Manual (Volume II)
+
+3-30
+
+August 2015
+
+Table 3-1: Securities Act Submission Types Accepted by EDGAR
+CFR Form/
+Schedule/
+Rule
+1-A
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Offering statement under Regulation A
+
+1-A
+
+EDGAR Filing EDGAR
+Website
+REG A XML
+Technical
+Specification
+
+Pre-qualification amendment for offering
+statement under Regulation A
+
+1-A/A
+
+EDGAR Filing EDGAR
+Website
+REG A XML
+Technical
+Specification
+
+1-A POS
+
+Post-qualification amendment to a 1-A
+offering statement
+
+1-A POS
+
+EDGAR Filing EDGAR
+Website
+REG A XML
+Technical
+Specification
+
+1-A-W
+
+Withdrawal of offering statement under
+Regulation A
+
+1-A-W
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment to a withdrawal of offering
+statement under Regulation A
+
+1-A-W/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Annual Report Pursuant to Regulation A
+
+1-K
+
+EDGAR Filing EDGAR
+Website
+REG A XML
+Technical
+Specification
+
+Amendment to Annual Report Pursuant to
+Regulation A
+
+1-K/A
+
+EDGAR Filing EDGAR
+Website
+REG A XML
+Technical
+Specification
+
+1-K
+
+1-SA
+
+August 2015
+
+Semiannual Report Pursuant to Regulation 1-SA
+A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment to Semiannual Report
+Pursuant to Regulation A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+1-SA/A
+
+3-31
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+1-U
+
+1-Z
+
+1-Z-W
+
+Submission
+Type
+
+Description
+Current Report pursuant to Regulation A
+
+1-U
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment to Current Report pursuant to 1-U/A
+Regulation A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Exit Report under Regulation A
+
+1-Z
+
+EDGAR Filing EDGAR
+Website
+REG A XML
+Technical
+Specification
+
+Amendment to Exit Report under
+Regulation A
+
+1-Z/A
+
+EDGAR Filing EDGAR
+Website
+REG A XML
+Technical
+Specification
+
+Withdrawal of Exit Report under Regulation 1-Z-W
+A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment to a withdrawal of Exit Report 1-Z-W/A
+under Regulation A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+253G1
+
+Reflects information previously omitted from 253G1
+the offering circular in reliance on Rule
+253(b)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+253G2
+
+Reflects information that constitutes a
+substantive change from or addition to the
+information set forth in the last offering
+circular
+
+253G2
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+253G3
+
+Reflects information covered in both 253G1 253G3
+and 253G2
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+3-32
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+253G4
+
+Reflects information covered in 253G1,
+253G2 or 253G3 that is not being timely
+filed
+
+253G4
+
+EDGARLink
+Online
+
+D
+
+Official notice of an offering of securities
+that is made without registration under the
+Securities Act in reliance on an exemption
+provided by Regulation D and Section
+4(a)(5) under the Act
+
+D
+
+OnlineForms EDGAR
+Form D XML
+Technical
+Specification
+
+Amendment
+
+D/A
+
+OnlineForms EDGAR
+Form D XML
+Technical
+Specification
+
+Non-public draft offering statement under
+Regulation A
+
+DOS
+
+EDGAR Filing N/A
+Website
+
+Non-public draft pre-qualification
+amendment for offering statement under
+Regulation A
+
+DOS/A
+
+EDGAR Filing N/A
+Website
+
+Draft Offering Statement Letter
+
+DOSLTR
+
+EDGARLink
+Online
+
+N/A
+
+Draft registration statement submitted by
+DRS
+Emerging Growth Company under
+Securities Act Section 6(e) or by Foreign
+Private Issuer under Division of Corporation
+Finance policy
+
+EDGARLink
+Online
+
+N/A
+
+Amended Draft Registration Statement
+
+DRS/A
+
+EDGARLink
+Online
+
+N/A
+
+Correspondence Related to Draft
+Registration Statement
+
+DRSLTR
+
+EDGARLink
+Online
+
+N/A
+
+DOS
+
+DRS
+
+August 2015
+
+3-33
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+F-1
+
+F-1MEF
+
+F-3
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Registration statement for securities of
+certain foreign private issuers
+
+F-1
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+F-1/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+A new registration statement filed under
+F-1MEF
+Rule 462(b) to add securities to a prior
+related effective registration statement filed
+on Form F-1
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to Securities Act POS462B
+Rule 462(b) registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for specified
+transactions by certain foreign private
+issuers
+
+F-3
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-Effective amendment
+
+F-3/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+EDGAR Filer Manual (Volume II)
+
+3-34
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+F-3
+
+Submission
+Type
+
+Description
+Automatic shelf registration statement of
+securities of well-known seasoned issuers
+
+F-3ASR
+
+F-4
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective Amendment to an automatic POSASR
+shelf registration statement on Form S3ASR or Form F-3ASR
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for dividend or
+interest reinvestment plan securities of
+foreign private issuers
+
+F-3D
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-Effective amendment to a
+
+F-3DPOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+A new registration statement filed under
+F-3MEF
+Rule 462(b) to add securities to a prior
+related effective registration statement filed
+on Form F-3
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to Securities Act POS462B
+Rule 462(b) registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for securities issued F-4
+by foreign private issuers in certain
+business combination transactions
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+F-4/A
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+August 2015
+
+FilerConstructed
+Form Spec.
+
+EDGARLink
+Online
+
+F-3D registration
+
+F-3MEF
+
+Tool/
+Template
+Number
+
+3-35
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+F-4
+
+F-4MEF
+
+F-6
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Auto effective registration statement for
+F-4EF
+securities by certain foreign private issuers
+in connection with certain business
+combination transactions
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a F-4EF
+registration
+
+F-4 POS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+A new registration statement filed under
+F-4MEF
+Rule 462(b) to add securities to a prior
+related effective registration statement filed
+on Form F-4
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to Securities Act POS462B
+Rule 462(b) registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for American
+F-6
+Depositary Receipts representing securities
+of certain foreign private issuers
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Auto effective registration statement for
+F 6EF
+American Depositary Receipts representing
+securities of certain foreign private issuers
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a F-6EF
+registration
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+F-6/A
+
+3-36
+
+F-6 POS
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+F-7
+
+F-8
+
+F-9
+
+August 2015
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Registration statement for securities of
+certain Canadian issuers offered for cash
+upon the exercise of rights granted to
+existing security holders under the
+Securities Act of 1933
+
+F-7
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+F-7/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a F-7
+registration
+
+F-7 POS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for securities of
+F-8
+certain Canadian issuers to be issued in
+exchange offers or a business combination
+under the Securities Act of 1933
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+F-8/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a F-8
+registration
+
+F-8 POS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration of securities of certain
+F-9
+investment grade debt or investment grade
+preferred securities of certain Canadian
+issuers under the Securities Act of 1933
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+F-9/A
+
+3-37
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+F-9
+
+F-10
+
+F-80
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Auto effective registration of securities of
+F-9EF
+certain investment grade debt or investment
+grade preferred securities of certain
+Canadian issuers under the Securities Act
+of 1933
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a F-9EF
+registration
+
+F-9 POS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for securities of
+certain Canadian issuers under the
+Securities Act of 1933
+
+F-10
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+F-10/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Auto effective registration statement for
+F-10EF
+securities of certain Canadian issuers under
+the Securities Act of 1933
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a
+F10EF registration
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration of securities of certain
+F-80
+Canadian issuers to be issued in exchange
+offers or a business combination under the
+Securities Act of 1933
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+F-10POS
+
+F-80/A
+
+3-38
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+S-1
+
+S-1MEF
+
+S-3
+
+Submission
+Type
+
+Description
+
+FilerConstructed
+Form Spec.
+
+General form of registration statement for
+all companies including face-amount
+certificate companies
+
+S-1
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+S-1/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+A new registration statement filed under
+S-1MEF
+Rule 462(b) to add securities to a prior
+related effective registration statement filed
+on Form S-1
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to Securities Act POS462B
+Rule 462(b) registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for specified
+transactions by certain issuers
+
+S-3
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+S-3/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+August 2015
+
+Tool/
+Template
+Number
+
+3-39
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+S-3
+
+S-3MEF
+
+S-4
+
+Submission
+Type
+
+Description
+Automatic shelf registration statement of
+securities of well-known seasoned issuers
+
+S-3ASR
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective Amendment to an automatic POSASR
+shelf registration statement on Form S3ASR or Form F-3ASR
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Automatically effective registration
+S-3D
+statement for securities issued pursuant to
+dividend or interest reinvestment plans
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a S-3D
+registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+A new registration statement filed under
+S-3MEF
+Rule 462(b) to add securities to a prior
+related effective registration statement filed
+on Form S-3
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to Securities Act POS462B
+Rule 462(b) registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration of securities issued in business S-4
+combination transactions
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+S-3DPOS
+
+S-4/A
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+EDGAR Filer Manual (Volume II)
+
+3-40
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+S-4
+
+S-4MEF
+
+S-8
+
+S-11
+
+Submission
+Type
+
+Description
+
+FilerConstructed
+Form Spec.
+
+Auto effective registration statement for
+securities issued in connection with the
+formation of a bank or savings and loan
+holding company in compliance with
+General Instruction G
+
+S-4EF
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a S-4EF
+registration statement
+
+S-4 POS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+A new registration statement filed under
+S-4MEF
+Rule 462(b) to add securities to a prior
+related effective registration statement filed
+on Form S-4
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to Securities Act POS462B
+Rule 462(b) registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial registration statement for securities to S-8
+be offered to employees pursuant to
+employee benefit plans
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a S-8
+registration statement
+
+S-8 POS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for securities to be
+issued by real estate companies
+
+S-11
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+S-11/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+August 2015
+
+Tool/
+Template
+Number
+
+3-41
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+S-11MEF
+
+S-20
+
+S-B
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+A new registration statement filed under
+S-11MEF
+Rule 462(b) to add securities to a prior
+related effective registration statement filed
+on Form S-11
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to Securities Act POS462B
+Rule 462(b) registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for standardized
+options
+
+S-20
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+S-20/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for securities of
+foreign governments and subdivisions
+thereof under the Securities Act of 1933
+(Schedule B)
+
+S-B
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+S-B/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+EDGAR Filer Manual (Volume II)
+
+3-42
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+S-BMEF
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+A new registration statement filed under
+S-BMEF
+Rule 462(b) to add securities to a prior
+related effective registration statement filed
+on Form S-B
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to Securities Act POS462B
+Rule 462(b) registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+POS462B
+
+Post-effective amendment to Securities Act POS462B
+Rule 462(b) registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+POS462C
+
+Post-effective amendment to a registration POS462C
+statement filed under Rule 462(c)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+POS AM
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+POS EX
+
+Post-effective amendment filed solely to
+add exhibits to a registration statement
+
+POS EX
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+SF-1
+
+General form of registration statement for
+all issuers of asset-backed securities
+
+SF-1
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment to an SF-1
+registration statement
+
+SF-1/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+August 2015
+
+3-43
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+SF-3
+
+SF-3MEF
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Shelf registration statement for qualified
+offerings of asset-backed securities
+
+SF-3
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment to an SF-3
+registration statement
+
+SF-3/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+A new registration statement filed under
+SF-3MEF
+Rule 462(b) to add securities to a prior
+related effective registration statement filed
+on Form SF-3
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+PROSPECTUSES FILED PURSUANT TO RULE 424
+No info blank cell
+
+Prospectus filed pursuant to Rule 424(a)
+
+No info blank cell
+
+Prospectus filed pursuant to Rule 424(b)(1) 424B1
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Prospectus filed pursuant to Rule 424(b)(2) 424B2
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Prospectus filed pursuant to Rule 424(b)(3) 424B3
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Prospectus filed pursuant to Rule 424(b)(4) 424B4
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+3-44
+
+424A
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+No info blank cell
+
+Prospectus filed pursuant to Rule 424(b)(5) 424B5
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Prospectus filed pursuant to Rule 424(b)(7) 424B7
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Prospectus filed pursuant to Rule 424(b)(8) 424B8
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Preliminary Prospectus filed pursuant to
+Rule 424(h)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Application for designation of a new trustee 305B2
+under the Trust Indenture Act
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+424H
+
+Amendment to Preliminary Prospectus filed 424H/A
+pursuant to Rule 424(h)
+
+FREE WRITING PROSPECTUS
+No info blank cell
+
+Filing under Securities Act Rules 163/433 of FWP
+free writing prospectuses
+
+FILINGS PURSUANT TO THE TRUST INDENTURE ACT
+305B2
+
+August 2015
+
+305B2/A
+
+3-45
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+T-3
+
+T-6
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Initial application for qualification of trust
+indentures
+
+T-3
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+T-3/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Application for determination of eligibility of T-6
+a foreign person to act as institutional
+trustee filed pursuant to Section 310(a)(1)
+of the Trust Indenture Act of 1939
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+T-6/A
+
+Note: “Submission types” T-1 and T-2 are not used as stand-alone submission types on the EDGAR
+system. They are filed as EX-25 to registration statements.
+FILINGS PURSUANT TO RULE 144
+144
+
+Filing for proposed sale of securities under 144
+Rule 144
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment to Form 144
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Withdrawal of an application for exemptive APP WD
+or other relief from the federal securities
+laws
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment to Form APP WD
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+144/A
+
+Note: Form 144 may be filed electronically
+on a voluntary basis if the issuer of the
+securities is a public company.
+MISCELLANEOUS FILINGS
+APP WD
+
+EDGAR Filer Manual (Volume II)
+
+APP WD/A
+
+3-46
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+DEL AM
+
+Separately filed delaying amendment under DEL AM
+Securities Act Rule 473 to delay
+effectiveness of a 1933 Act registration
+statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+UNDER
+
+Initial undertaking to file reports
+
+UNDER
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+UNDER/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+SUPPL
+
+Voluntary supplemental material filed
+SUPPL
+pursuant to Section 11(a) of the Securities
+Act of 1933 by foreign issuers
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+RW
+
+Registration Withdrawal Request
+
+RW
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+RW WD
+
+Withdrawal of a Registration Withdrawal
+Request
+
+RW WD
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+AW
+
+Withdrawal of amendment to a registration AW
+statement filed under the Securities Act
+
+EDGARLink
+Online
+
+Specification
+EDGARLink
+Online XML
+Technical
+Specification
+
+AW WD
+
+Withdrawal of a request for withdrawal of an AW WD
+amendment to a registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+August 2015
+
+3-47
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+425
+
+Submission
+Type
+
+Description
+
+Filing under Securities Act Rule 425 of
+425
+certain prospectuses and communications
+in connection with business combination
+transactions
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+For appointment of agent for service of
+F-X
+process by issuers registering securities (if
+filed on Form F-8, F-9, F-10 or F-80, or
+registering securities or filing periodic
+reports on Form 40-F, or by any person
+filing certain tender offer documents, or by
+any person acting as trustee with respect to
+securities registered on form F-7, F-8, F-9
+or F-10
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Notification of the appointment of an agent F-N
+for service by certain foreign institutions
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Note: Form 425 can be filed as part of Form
+8-K. For filers subject to 8K filing
+requirements, we recommend the use of
+the 8-K combined form type as the easiest
+method for fulfilling your filing requirement
+for both forms
+F-X
+
+F-N
+
+EDGAR Filer Manual (Volume II)
+
+F-X/A
+
+F-N/A
+
+3-48
+
+August 2015
+
+Table 3-2: Securities Exchange Act - Proxy Materials and Information Statements Filed
+Pursuant to Section 14 Submission Types Accepted by EDGAR
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+PRELIMINARY PROXY SOLICITING MATERIALS
+No info blank cell
+
+Preliminary proxy statement relating to a
+merger, acquisition, or disposition
+
+PREM14A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Preliminary proxy statement in connection
+with contested solicitations
+
+PREC14A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Preliminary proxy statement filed by nonmanagement
+
+PREN14A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Preliminary proxy statement not related to a PRE 14A
+contested matter or merger / acquisition
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+PRELIMINARY INFORMATION STATEMENTS
+No info blank cell
+
+Preliminary information statements relating PREM14C
+to merger or acquisition
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Preliminary information statements –
+contested solicitations
+
+PREC14C
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Preliminary information statement not
+related to a contested matter or merger/
+acquisition
+
+PRE 14C
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+PRER14A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+REVISED PRELIMINARY MATERIALS
+No info blank cell
+
+August 2015
+
+Preliminary revised proxy soliciting
+materials
+
+3-49
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+No info blank cell
+
+Revised preliminary proxy statement filed
+by non-management
+
+PRRN14A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Preliminary revised information statements PRER14C
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+DEFINITIVE MATERIALS (PROXY MATERIALS)
+No info blank cell
+
+Definitive proxy statement relating to a
+merger, acquisition, or disposition
+
+DEFM14A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Definitive proxy statement in connection
+with contested solicitations
+
+DEFC14A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Definitive proxy statement filed by nonmanagement
+
+DEFN14A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Revised definitive proxy statement filed by DFRN14A
+non-management
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Definitive revised proxy soliciting materials DEFR14A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Definitive additional proxy soliciting
+DEFA14A
+materials including Rule 14(a)(12) material
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Note: Submission type DEFA14A can be
+filed as part of Form 8-K. For filers subject
+to 8-K filing requirements, we recommend
+the use of the 8-K combined form type as
+the easiest method for fulfilling your filing
+requirement for both forms
+
+EDGAR Filer Manual (Volume II)
+
+3-50
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+No info blank cell
+
+Submission
+Type
+
+Description
+Definitive additional proxy soliciting
+materials filed by non-management
+including Rule 14(a)(12) material
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+DFAN14A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Note: Submission type DFAN14A can be
+filed as part of Form 8-K. For filers subject
+to 8-K filing requirements, we recommend
+the use of the 8-K combined form type as
+the easiest method for fulfilling your filing
+requirement for both forms
+No info blank cell
+
+Definitive proxy statements
+
+DEF 14A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Notice of exempt solicitation
+
+PX14A6G
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Notice of exempt solicitation for the purpose PX14A6N
+of determining whether to solicit proxies,
+consents, or authorizations in opposition to
+a proposed roll-up transaction filed
+pursuant to Rule 14a6(g) of the Securities
+Exchange Act of 1934
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+DEFINITIVE MATERIALS (INFORMATION STATEMENTS)
+No info blank cell
+
+Definitive information statement relating to DEFM14C
+merger or acquisition
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Definitive information statement –
+contested solicitations
+
+DEFC14C
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Definitive information statements
+
+DEF 14C
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+No info blank cell
+
+Definitive additional information statement DEFA14C
+materials including Rule 14(a)(12) material
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+August 2015
+
+3-51
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+No info blank cell
+
+Tool/
+Template
+Number
+
+Submission
+Type
+
+Description
+Definitive revised information statement
+materials
+
+DEFR14C
+
+EDGARLink
+Online
+
+FilerConstructed
+Form Spec.
+EDGARLink
+Online XML
+Technical
+Specification
+
+Table 3-3: Securities Exchange Act - Registration and Report Submission Types Accepted
+by EDGAR
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+REGISTRATION STATEMENTS
+8-A
+
+Form for the registration / listing of a class of
+securities on a national securities exchange
+pursuant to Section 12(b)
+
+8-A12B
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+8-A12B/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Form for registration of a class of securities
+pursuant to Section 12(g)
+
+8-A12G
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+8-A12G/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+3-52
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+10
+
+13H
+
+August 2015
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Initial general form for registration of a class of 10-12B
+securities pursuant to Section 12(b)
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+10-12B/A
+
+Initial general form for registration of a class of 10-12G
+securities pursuant to Section 12(g)
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+10-12G/A
+
+Large Trader Registration Information
+13H
+Required of Large Traders Pursuant to the
+Securities Exchange Act of 1934 and Rule 13h1 Thereunder
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+Amended Filing
+
+13H-Q
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+Annual Filing
+
+13H-A
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+Inactive Status
+
+13H-I
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+Reactivated Status
+
+13H-R
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+Termination Filing
+
+13H-T
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+3-53
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+20-F
+
+40-F
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Form for initial registration of a class of
+20FR12B
+securities of foreign private issuers pursuant to
+Section 12(b)
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+20FR12B/A
+
+Form for initial registration of a class of
+20FR12G
+securities of foreign private issuers pursuant to
+Section 12(g)
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+20FR12G/A
+
+Registration of a class of securities of certain 40FR12B
+Canadian issuers pursuant to Section 12(b) of
+the 1934 Act
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+40FR12B/A
+
+Registration of a class of securities of certain 40FR12G
+Canadian issuers pursuant to Section 12(g) of
+the 1934 Act
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+40FR12G/A
+
+3-54
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+18
+
+MA
+
+MA-I
+
+MA-W
+
+August 2015
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Form for initial registration of securities of
+foreign governments or political subdivisions
+pursuant to Section 12(b)
+
+18-12B
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+18-12B/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Form for initial registration of securities of
+foreign governments or political subdivisions
+thereof pursuant to Section 12(g)
+
+18-12G
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+18-12G/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Application for Municipal Advisor Registration
+
+MA
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+Annual Update of Municipal Advisor
+Registration
+
+MA-A
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+Amendment of a Prior Application for
+Registration
+
+MA/A
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+Information Regarding Natural Persons Who
+Engage in Municipal Advisory Activities
+
+MA-I
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+Amendment of a previously submitted Form
+MA-I
+
+MA-I/A
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+Notice of Withdrawal from Registration as a
+Municipal Advisor
+
+MA-W
+
+EDGAR
+N/A
+Filing
+Website
+Online Forms
+
+3-55
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+SDR
+
+SDR-W
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Application for Registration as Security-based SDR
+Swap Data Repository
+
+EDGAR
+EDGAR SDR
+Filing
+XML
+Website
+Technical
+Online Forms Specification
+
+Interim Amendment to Application for
+Registration as Security-based Swap Data
+Repository
+
+SDR/A
+
+EDGAR
+EDGAR SDR
+Filing
+XML
+Website
+Technical
+Online Forms Specification
+
+Annual Amendment to Application for
+Registration as Security-based Swap Data
+Repository
+
+SDR-A
+
+EDGAR
+EDGAR SDR
+Filing
+XML
+Website
+Technical
+Online Forms Specification
+
+Application for Withdrawal from Registration as SDR-W
+Security-based Swap Data Repository
+
+EDGAR
+EDGAR SDR
+Filing
+XML
+Website
+Technical
+Online Forms Specification
+
+ANNUAL, QUARTERLY, AND PERIODIC REPORTS
+ABS-EE
+
+Form for Submission of Electronic Exhibits in
+asset-backed securities offerings
+
+ABS-EE
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification,
+EDGAR ABS
+XML
+Technical
+Specification
+
+Amendment to Form for Submission of
+Electronic Exhibits in asset-backed securities
+offerings
+
+ABS-EE/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification,
+EDGAR ABS
+XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+3-56
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+ARS
+
+Submission
+Type
+
+Description
+
+FilerConstructed
+Form Spec.
+
+Annual report to security holders
+
+ARS
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+ARS/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Note: Use this submission type when
+furnishing the annual report to security holders
+for the information of the Commission pursuant
+to Rule 14a-3(c) or Rule 14c-3(b). Portions of
+the annual report to security holders filed with
+the Commission as part of a registration
+statement or periodic report should be filed as
+Exhibit 13, as provided by Item 601 of
+Regulation S-K and S-B.
+
+SD
+
+Tool/
+Template
+Number
+
+Specialized Disclosure Report filed pursuant to SD
+Section 1502 of the Dodd-Frank Wall Street
+Reform and Consumer Protection Act relating
+to the use of conflict minerals (Rule 13p-1)
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+SD/A
+
+ANNUAL, QUARTERLY, AND PERIODIC REPORTS
+IRANNOTICE Notice of disclosure filed in Exchange Act
+quarterly and annual reports pursuant to
+Section 219 of the Iran Threat Reduction and
+Syria Human Rights Act of 2012 and
+Section 13(r) of the Exchange Act
+
+IRANNOTICE EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+6-K
+
+Current report of foreign issuer pursuant to
+Rules 13a-16 and 15d-16
+
+6-K
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendments
+
+6-K/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+August 2015
+
+3-57
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+10-Q
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Quarterly report pursuant to Section 13 or
+15(d)
+
+10-Q
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+10-Q/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Transition report pursuant to Rule 13a-10 or
+15d-10
+
+10-QT
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+ANNUAL, QUARTERLY, AND PERIODIC REPORTS
+10-K
+
+10-D
+
+Annual report pursuant to Section 13 and 15(d) 10-K
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+10-K/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Transition report pursuant to Rule 13a-10 or
+15d-10
+
+10-KT
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+10-KT/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Periodic distribution reports by asset-backed
+issuers pursuant to Rule 13a-17 or 15d-17
+
+10-D
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+10-D/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+3-58
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+8-K
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Current report filing
+
+8-K
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+8-K/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Notification that a class of securities of
+successor issuer is deemed to be registered
+pursuant to Section 12(b)
+
+8-K12B
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+8-K12B/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Notification that a class of securities of
+successor issuer is deemed to be registered
+pursuant to Section 12(g)
+
+8-K12G3
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+8-K12G3/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Notification of assumption of duty to report by
+successor issue under Section 15(d)
+
+8-K15D5
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+8-K15D5/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+ANNUAL, QUARTERLY, AND PERIODIC REPORTS
+8-K
+
+August 2015
+
+3-59
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+11-K
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Annual report of employee stock purchase,
+savings and similar plans
+
+11-K
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+11-K/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Transition report pursuant to rule 13a-10 or
+15d-10
+
+11-KT
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+11-KT/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Annual report for foreign governments and
+political subdivisions
+
+18-K
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+18-K/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Annual and transition report of foreign private
+issuers pursuant to Section 13 or 15(d)
+
+20-F
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+20-F/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+ANNUAL, QUARTERLY, AND PERIODIC REPORTS
+18-K
+
+20-F
+
+EDGAR Filer Manual (Volume II)
+
+3-60
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+40-F
+
+12b-25
+
+August 2015
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Annual report filed by certain Canadian issuers 40-F
+pursuant to Section 15(d) and Rule 15d-4
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+40-F/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Notice under Rule 12b25 of inability to timely
+file all or part of a form 10-Q or 10-QSB
+
+NT 10-Q
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+NT 10-Q/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+3-61
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+ANNUAL, QUARTERLY, AND PERIODIC REPORTS
+12b-25
+
+Notice under Rule 12b25 of inability to timely NT 10-K
+file all or part of a form 10-K, 10-KSB, or 10-KT
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+NT 10-K/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Notice under Rule 12b25 of inability to timely
+file all or part of a Form 10-D
+
+NT 10-D
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+NT 10-D/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Notice under Rule 12b25 of inability to timely
+file all or part of a form 11-K
+
+NT 11-K
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+NT 11-K/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Notice under Rule 12b25 of inability to timely NT 15D2
+file a special report pursuant to Section 15d-2
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+NT 15D2/A
+
+Notice under Rule 12b25 of inability to timely NT 20-F
+file all or part of an annual report of form 20-F
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+NT 20-F/A
+
+3-62
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+ANNUAL, QUARTERLY, AND PERIODIC REPORTS
+15
+
+See Rule
+15d-2
+
+15F
+
+August 2015
+
+Notice of termination of registration of a class
+of securities under Section 12(b)
+
+15-12B
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+15-12B/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Notice of termination of registration of a class
+of securities under Section 12(g)
+
+15-12G
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Notice of suspension of duty to file reports
+pursuant to Section 13 and 15(d) of the Act
+
+15-15D
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+15-15D/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Special Financial Report filed under Rule 15d-2 SP 15D2
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+SP 15D2/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Notice of termination of a foreign private
+issuer’s registration of a class of securities
+under Section 12(b)
+
+15F-12B
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+15F-12B/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+3-63
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+ANNUAL, QUARTERLY, AND PERIODIC REPORTS
+15F
+
+Notice of termination of a foreign private
+issuer’s registration of a class of securities
+under Section 12(g)
+
+15F-12G
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+15F-12G/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Notice of a foreign private issuer’s suspension 15F-15D
+of duty to file reports pursuant to Section 13
+and 15(d) of the Act
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+15-15D/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Asset-backed securities report pursuant to
+Section 15G
+
+ABS-15G
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+ABS-15G/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+DODD-FRANK SUBMISSION TYPES/FILINGS
+ABS-15G
+
+NATIONALLY RECOGNIZED STATISTICAL RATING ORGANIZATION SUBMISSION TYPES/FILINGS
+NRSRO
+
+Update of Registration for Nationally
+Recognized Statistical Rating Organizations
+
+NRSRO-UPD EDGARLink EDGARLink
+Online XML
+Online
+Technical
+Specification
+
+Annual Certification for Nationally Recognized NRSRO-CE
+Statistical Rating Organizations
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment to Annual Certification for
+Nationally Recognized Statistical Rating
+Organizations
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+3-64
+
+NRSROCE/A
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+NRSRO
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Annual Financial/Other Reports for Nationally
+Recognized Statistical Rating Organizations,
+as required by Rule 17g-3 (Non-Public)
+
+NRSRO-FR
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment to Annual Financial/Other
+Reports for Nationally Recognized Statistical
+Rating Organizations, as required by
+Rule 17g-3 (Non-Public)
+
+NRSROFR/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Withdrawal from Credit Rating Class for
+Nationally Recognized Statistical Rating
+Organizations
+
+NRSROWCLS
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Withdrawal from Registration as Nationally
+Recognized Statistical Rating Organization
+
+NRSROWREG
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+MISCELLANEOUS SUBMISSION TYPES/FILINGS
+Form 13F
+
+Initial Quarterly Form 13F Holdings Report filed 13F-HR
+by institutional managers
+Initial Quarterly Form 13F Combination Report
+filed by institutional managers
+
+August 2015
+
+EDGAR
+Filing
+Website
+Online Forms
+
+EDGAR
+Form 13F
+XML
+Technical
+Specification
+
+Amendment
+
+13F-HR/A
+
+EDGAR
+Filing
+Website
+Online Forms
+
+EDGAR
+Form 13F
+XML
+Technical
+Specification
+
+Initial Quarterly Form 13F Notice Report filed
+by institutional managers
+
+13F-NT
+
+EDGAR
+Filing
+Website
+Online Forms
+
+EDGAR
+Form 13F
+XML
+Technical
+Specification
+
+Amendment
+
+13F-NT/A
+
+EDGAR
+Filing
+Website
+Online Forms
+
+EDGAR
+Form 13F
+XML
+Technical
+Specification
+
+3-65
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+MISCELLANEOUS SUBMISSION TYPES/FILINGS
+Form APP WD Withdrawal of an application for exemptive or
+other relief from the federal securities laws
+
+APP WD
+APP WD/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Form N-MFP
+
+Monthly Schedule of Portfolio Holdings of
+Money Market Funds
+
+N-MFP
+
+N/A
+
+Weekly Form SH Entries Report Filed by
+Institutional Investment Managers
+
+SH-ER
+
+EDGARLink SH-ER
+Online
+Information
+table only:
+SH-ER
+Information
+Table XML
+Technical
+Specification
+
+Amendment
+
+SH-ER/A
+
+EDGARLink SH-ER/A
+Online
+Information
+table only:
+SH-ER
+Information
+Table XML
+Technical
+Specification
+
+Weekly Form SH Notice Report Filed by
+Institutional Investment Managers
+
+SH-NT
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+SH-NT/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Form SH
+
+EDGAR Filer Manual (Volume II)
+
+3-66
+
+N-MFP/A
+
+EDGAR
+Form N-MFP
+XML
+Technical
+Specification
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+MISCELLANEOUS SUBMISSION TYPES/FILINGS
+Form RW
+
+Form AW
+
+Form 425
+
+Registration Withdrawal Request
+
+RW
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Withdrawal of a registration withdrawal
+statement
+
+RW WD
+
+EDGARLink EDGARLink
+Online XML
+Online
+Technical
+Specification
+
+Withdrawal of an amendment to a registration AW
+statement filed under the Securities Act
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Withdrawal of an amendment registration
+withdrawal statement
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+AW WD
+
+Filing under Securities Act Rule 425 of certain 425
+prospectuses and communications in
+connection with business combination
+transactions
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Note: Form 425 can be filed as part of Form
+8-K. For filers subject to 8K filing requirements,
+we recommend the use of the 8-K combined
+form type as the easiest method for fulfilling
+your filing requirement for both forms.
+Form 25
+
+August 2015
+
+Notification filed by issuer to voluntarily
+withdraw a class of securities from listing and
+registration on a national securities exchange
+
+25
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+Amendment
+
+25/A
+
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+
+3-67
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/
+Rule
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Notification filed by national security exchange 25-NSE
+to report the removal from listing and
+registration of matured, redeemed or retired
+securities
+
+Distributed to
+National
+Securities
+Exchanges
+only
+
+Distributed to
+National
+Securities
+Exchanges
+only
+
+Amendment
+
+25-NSE/A
+
+Distributed to
+National
+Securities
+Exchanges
+only
+
+Distributed to
+National
+Securities
+Exchanges
+only
+
+Initial statement of beneficial ownership of
+securities
+
+3
+
+OnlineForms EDGAR
+Ownership
+XML
+Technical
+Specification
+
+Amendment
+
+3/A
+
+OnlineForms EDGAR
+Ownership
+XML
+Technical
+Specification
+
+Submission
+Type
+
+Description
+
+MISCELLANEOUS SUBMISSION TYPES/FILINGS
+Form 25
+
+SECTION 16 OWNERSHIP FORMS/FILINGS
+Form 3
+
+Form 4
+
+Statement of changes in beneficial ownership 4
+of securities
+
+OnlineForms EDGAR
+Ownership
+XML
+Technical
+Specification
+
+Amendment
+
+OnlineForms EDGAR
+Ownership
+XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+4/A
+
+3-68
+
+August 2015
+
+CFR Form/
+Schedule/
+Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+SECTION 16 OWNERSHIP FORMS/FILINGS
+Form 5
+
+Annual statement of changes in beneficial
+ownership of securities
+
+5
+
+OnlineForms EDGAR
+Ownership
+XML
+Technical
+Specification
+
+Amendment
+
+5/A
+
+OnlineForms EDGAR
+Ownership
+XML
+Technical
+Specification
+
+SECTION 17A TRANSFER AGENT FORMS/FILINGS
+TA-1
+
+TA-2
+
+TA-W
+
+August 2015
+
+Application for registration as a transfer agent TA-1
+filed pursuant to the Securities Exchange Act of
+1934
+
+EDGARLite
+TA-1
+Template
+
+EDGAR
+Form TA-1
+XML
+Technical
+Specification
+
+Amendment
+
+TA-1/A
+
+EDGARLite
+TA-1
+Template
+
+EDGAR
+Form TA-1
+XML
+Technical
+Specification
+
+Annual report of transfer agent activities filed
+pursuant to the Securities Exchange Act of
+1934
+
+TA-2
+
+EDGARLite
+TA-2
+Template
+
+EDGAR
+Form TA-2
+XML
+Technical
+Specification
+
+Amendment
+
+TA-2/A
+
+EDGARLite
+TA-2
+Template
+
+EDGAR
+Form TA-2
+XML
+Technical
+Specification
+
+Notice of withdrawal from registration as
+transfer agent filed pursuant to the Securities
+Exchange Act of 1934
+
+TA-W
+
+EDGARLite
+TA-W
+Template
+
+EDGAR
+Form TA-W
+XML
+Technical
+Specification
+
+3-69
+
+EDGAR Filer Manual (Volume II)
+
+Table 3-4: Williams Act Filing Submission Types Accepted by EDGAR
+CFR Form/
+Schedule/ Rule
+Schedule 13D
+
+Schedule 13-E1
+
+Schedule 13E-3
+
+Schedule 13E4F
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Schedule filed to report acquisition of
+SC 13D
+beneficial ownership of 5% or more of a
+class of equity securities
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+SC 13D/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Schedule 13-E1 statement of issuer
+required by Rule 13e-1
+
+SC 13E1
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+SC 13E1/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Schedule filed to report going private
+transactions
+
+SC 13E3
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+SC 13E3/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Issuer tender offer statement filed
+pursuant to Rule 13(e)(4) by foreign
+issuers
+
+SC13E4F
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+SC13E4F/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+3-70
+
+August 2015
+
+CFR Form/
+Schedule/ Rule
+Schedule 13G
+
+Schedule 14A-11
+
+Schedule TO-I
+
+Schedule TO-T
+
+Schedule TO-C
+
+Submission
+Type
+
+Description
+
+FilerConstructed
+Form Spec.
+
+Schedule filed to report acquisition of
+SC 13G
+beneficial ownership of 5% or more of a
+class of equity securities by passive
+investors and certain institutions
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+SC 13G/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Information filed by certain nominating
+shareholders (pursuant to Section 240
+14n-1)
+
+SC 14N
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+SC 14N/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Issuer tender offer statement
+
+SC TO-I
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+SC TO-I/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Third party tender offer statement
+
+SC TO-T
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+SC TO-T/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Written communication relating to an
+issuer or third party tender offer
+
+SC TO-C
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Note: Form Schedule TO-C can be filed
+as part of Form 8-K. For filers subject to
+8-K filing requirements, we recommend
+the use of the 8-K combined form type
+as the easiest method for fulfilling your
+filing requirement for both forms
+August 2015
+
+Tool/
+Template
+Number
+
+3-71
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/ Rule
+Schedule 14D1F
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Third party tender offer statement filed
+pursuant to Rule 14d-1(b) by foreign
+issuers
+
+SC14D1F
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+SC14D1F/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Schedule 14D9-C Written communication by the subject
+SC14D9C
+company relating to a third party tender
+offer
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Schedule 14D9
+
+Tender offer solicitation /
+SC 14D9
+recommendation statements filed under
+Rule 14-d9
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Solicitation/recommendation statement SC14D9F
+pursuant to Section 14(d)(4) of the
+Securities Exchange Act of 1934 and
+Rules 14d-1(b) and 14e-2(c) by foreign
+issuers
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Statement regarding change in majority SC 14F1
+of directors pursuant to Rule 14f-1
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Schedule 14D9F
+
+Schedule 14F-1
+
+EDGAR Filer Manual (Volume II)
+
+SC 14D9/A
+
+SC14D9F/A
+
+SC 14F1/A
+
+3-72
+
+August 2015
+
+CFR Form/
+Schedule/ Rule
+CB
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Notification form filed in connection with CB
+certain tender offers, business
+combinations and rights offerings, in
+which the subject company is a foreign
+private issuer of which less than 10% of
+its securities are held by U.S. persons
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+CB/A
+
+Table 3-5: Investment Company Submission Types Accepted by EDGAR
+CFR Form/
+Schedule/ Rule
+Forms S-1 & S-3
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+General form of registration statement for S-1
+all companies including face-amount
+certificate companies
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+S-1/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for specified
+transactions by certain issuers including
+face-amount certificate companies
+
+S-3
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+S-3/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Submission
+Type
+
+Description
+Registration statement for face-amount
+certificate companies
+
+Post-effective amendment to a registration POS AM
+statement that is not immediately effective
+upon filing
+
+August 2015
+
+3-73
+
+EDGAR Filer Manual (Volume II)
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Definitive materials filed under paragraph 497
+(a), (b), (c), (d), (e) or (f) of Securities Act
+Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Certification of no change in definitive
+497J
+materials under paragraph (j) of Securities
+Act Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial registration statement filed on Form N-1A
+N-1A for open-end management
+investment companies
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment to a registration N-1A/A
+statement filed on Form N-1A for openend management investment companies
+(this filing cannot be submitted as a 1940
+Act only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial registration statement filed on Form N-1
+N-1 for open-end management investment
+companies
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment to a registration N-1/A
+statement filed on Form N-1 for open-end
+management investment companies (this
+filing cannot be submitted as a 1940 Act
+only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(a) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485APOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(b) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485BPOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment (for filings
+made under the 1940 Act only)
+
+POS AMI
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+CFR Form/
+Schedule/ Rule
+Forms S-1 & S-3
+
+Submission
+Type
+
+Description
+
+Forms N-1 & N-1A Registration statement for open-end
+management investment companies
+
+EDGAR Filer Manual (Volume II)
+
+3-74
+
+August 2015
+
+CFR Form/
+Schedule/ Rule
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Definitive materials filed under paragraph 497
+(a), (b), (c), (d), (e) or (f) of Securities Act
+Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Certification of no change in definitive
+497J
+materials under paragraph (j) of Securities
+Act Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Summary Prospectus for certain open-end 497K
+management investment companies filed
+pursuant to Securities Act Rule 497(k)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Submission
+Type
+
+Description
+
+Forms N-1 & N-1A Post-effective amendment filed pursuant 485BXT
+to Securities Act Rule 485(b)(1)(iii) to
+designate a new effective date for a posteffective amendment previously filed
+pursuant to Securities Act Rule 485(a)
+(this filing cannot be submitted as a 1940
+Act only filing)
+
+Rule 498
+
+Cannot be used until March 31, 2009.
+Profiles for certain open-end management 497K1
+investment companies filed pursuant to
+Securities Act Rule 497(k)(1)(i)
+Will no longer be accepted after close of
+business (5:30 PM EST) on March 30,
+2009.
+Profiles for certain open-end management 497K2
+investment companies filed pursuant to
+Securities Act Rule 497(k)(1)(ii)
+Will no longer be accepted after close of
+business (5:30 PM EST) on March 30,
+2009.
+Profiles for certain open-end management 497K3A
+investment companies filed pursuant to
+Securities Act Rule 497(k)(1)(iii)(A)
+Will no longer be accepted after close of
+business (5:30 PM EST) on March 30,
+2009.
+
+August 2015
+
+3-75
+
+EDGAR Filer Manual (Volume II)
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment to a registration N-2/A
+statement on Form N-2 for closed-end
+investment companies (this filing cannot
+be submitted as a 1940 Act only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment (for filings
+made under the 1940 Act only)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed under the POS 8C
+1933 Act only or under both the 1933 and
+1940 Acts pursuant to Section 8(c) of the
+1933 Act by closed-end investment
+companies (this filing cannot be submitted
+as a 1940 Act only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Filing of a Form N-2 registration statement N-2
+by closed-end investment companies
+pursuant to Securities Act Rule 486(a) for
+the purpose of registering additional
+shares of common stock
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to filing filed
+pursuant to Securities Act Rule 486(a)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+CFR Form/
+Schedule/ Rule
+Rule 498
+
+Submission
+Type
+
+Description
+
+Profiles for certain open-end management 497K3B
+investment companies filed pursuant to
+Securities Act Rule 497(k)(1)(iii)(B)
+Will no longer be accepted after close of
+business (5:30 PM EST) on March 30,
+2009.
+
+Form N-2
+
+Initial filing of a registration statement on
+Form N-2 for closed-end investment
+companies
+
+N-2
+
+POS AMI
+
+486APOS
+
+Filing of a Form N-2 registration statement N-2
+by closed-end investment companies
+pursuant to Securities Act Rule 486(b) for
+the purpose of registering additional
+shares of common stock
+
+EDGAR Filer Manual (Volume II)
+
+3-76
+
+August 2015
+
+CFR Form/
+Schedule/ Rule
+Form N-2
+
+August 2015
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Definitive materials filed under paragraph 497
+(a), (b), (c), (d), (e) or (f) of Securities Act
+Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Certification of no change in definitive
+materials
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+A new registration statement on Form N-2 N-2MEF
+filed under Securities Act Rule 462(b) by
+closed-end investment companies of up to
+an additional 20% of securities for an
+offering that was registered on Form N-2
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to Securities
+Act Rule 462(b) registration statement
+
+POS462B
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to a registration POS462C
+statement filed under Securities Act Rule
+462(c)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed solely to
+add exhibits to a registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Definitive materials filed under paragraph 497
+(a), (b), (c), (d), (e) or (f) of Securities Act
+Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Filings made pursuant to Rule 497(h)(2)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Submission
+Type
+
+Description
+Post-effective amendment to filing filed
+pursuant to Securities Act Rule 486(b)
+
+3-77
+
+486BPOS
+
+497J
+
+POS EX
+
+497H2
+
+EDGAR Filer Manual (Volume II)
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Initial registration statement on Form N-3 N-3
+for separate accounts (management
+investment companies)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment to a registration N-3/A
+statement on Form N-3 for separate
+accounts (management investment
+companies) (this filing cannot be
+submitted as a 1940 Act only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(a) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485APOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(b) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485BPOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment (for filings
+made under the 1940 Act only)
+
+POS AMI
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant 485BXT
+to Securities Act Rule 485(b)(1)(iii) to
+designate a new effective date for a posteffective amendment previously filed
+pursuant to Securities Act Rule 485(a)
+(this filing cannot be submitted as a 1940
+Act only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Definitive materials filed under paragraph 497
+(a), (b), (c), (d), (e) or (f) of Securities Act
+Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Certification of no change in definitive
+497J
+materials under paragraph (j) of Securities
+Act Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+CFR Form/
+Schedule/ Rule
+Form N-3
+
+Submission
+Type
+
+Description
+
+EDGAR Filer Manual (Volume II)
+
+3-78
+
+August 2015
+
+CFR Form/
+Schedule/ Rule
+Form N-4
+
+August 2015
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Initial registration statement on Form N-4 N-4
+for separate accounts (unit investment
+trusts)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment to a registration N-4/A
+statement on Form N-4 for separate
+accounts (unit investment trusts) (this
+filing cannot be submitted as a 1940 Act
+only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective pricing amendment filed
+pursuant to Securities Act Rule 487
+
+487
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(a) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485APOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(b) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485BPOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant 485BXT
+to Securities Act Rule 485(b)(1)(iii) to
+designate a new effective date for a posteffective amendment previously filed
+pursuant to Securities Act Rule 485(a)
+(this filing cannot be submitted as a 1940
+Act only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment (for filings
+made under the 1940 Act only)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Definitive materials filed under paragraph 497
+(a), (b), (c), (d), (e) or (f) of Securities Act
+Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Certification of no change in definitive
+497J
+materials under paragraph (j) of Securities
+Act Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Submission
+Type
+
+Description
+
+3-79
+
+POS AMI
+
+EDGAR Filer Manual (Volume II)
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Registration statement for small business N-5
+investment companies
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment to a registration N-5/A
+statement on Form N-5 for small business
+investment companies (this filing cannot
+be submitted as a 1940 Act only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment (for filings
+made under the 1940 Act only)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed under the POS 8C
+1933 Act only or under both the 1933 and
+1940 Acts pursuant to Section 8(c) of the
+1933 Act by closed-end investment
+companies (this filing cannot be submitted
+as a 1940 Act only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Definitive materials filed under paragraph 497
+(a), (b), (c), (d), (e) or (f) of Securities Act
+Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Certification of no change in definitive
+497J
+materials under paragraph (j) of Securities
+Act Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration statement for separate
+accounts (unit investment trusts)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment to a registration N-6/A
+statement filed on Form N-6 for separate
+accounts (unit investment trusts)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective pricing amendment filed
+pursuant to Securities Act Rule 487
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+CFR Form/
+Schedule/ Rule
+Form N-5
+
+Form N-6
+
+Submission
+Type
+
+Description
+
+EDGAR Filer Manual (Volume II)
+
+3-80
+
+POS AMI
+
+N-6
+
+487
+
+August 2015
+
+CFR Form/
+Schedule/ Rule
+Form N-6
+
+Form S-6
+
+August 2015
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(a) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485APOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(b) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485BPOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant 485BXT
+to Securities Act Rule 485(b)(1)(iii) to
+designate a new effective date for a posteffective amendment previously filed
+pursuant to Securities Act Rule 485(a)
+(this filing cannot be submitted as a 1940
+Act only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment (for filings
+made under the 1940 Act only)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Definitive materials filed under paragraph 497
+(a), (b), (c), (d), (e) or (f) of Securities Act
+Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Certification of no change in definitive
+497J
+materials under paragraph (j) of Securities
+Act Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial registration statement filed on Form S-6
+S-6 for unit investment trusts
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+S-6/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective pricing amendment filed
+pursuant to Securities Act Rule 487
+
+487
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+3-81
+
+POS AMI
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/ Rule
+Form S-6
+
+Form N-14
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Initial undertaking to file reports
+
+UNDER
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+UNDER/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(a) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485APOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(b) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485BPOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant 485BXT
+to Securities Act Rule 485(b)(1)(iii) to
+designate a new effective date for a posteffective amendment previously filed
+pursuant to Securities Act Rule 485(a)
+(this filing cannot be submitted as a 1940
+Act only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Definitive materials filed under paragraph 497
+(a), (b), (c), (d), (e) or (f) of Securities Act
+Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Certification of no change in definitive
+497J
+materials under paragraph (j) of Securities
+Act Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial registration statement filed on Form N-14
+N-14 for open-end investment company,
+including those filed with automatic
+effectiveness under Rule 488 (business
+combinations)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+N-14/A
+
+3-82
+
+August 2015
+
+CFR Form/
+Schedule/ Rule
+Form N-14
+
+August 2015
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(a) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485APOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed pursuant
+to Securities Act Rule 485(b) (this filing
+cannot be submitted as a 1940 Act only
+filing)
+
+485BPOS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial registration statement filed on Form N-14 8C
+N-14 by closed-end investment company
+(business combinations)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Pre-effective amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment filed under the POS 8C
+1933 Act only or under both the 1933 and
+1940 Acts pursuant to Section 8(c) of the
+1933 Act by closed-end investment
+companies (this filing cannot be submitted
+as a 1940 Act only filing)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Definitive materials filed under paragraph 497
+(a), (b), (c), (d), (e) or (f) of Securities Act
+Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Certification of no change in definitive
+497J
+materials under paragraph (j) of Securities
+Act Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+A new registration statement filed on Form N-14MEF
+N-14 by closed end investment companies
+filed under Securities Act Rule 462(b) of
+up to an additional 20% of securities for an
+offering that was registered on Form N-14
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Post-effective amendment to Securities
+Act Rule 462(b) registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+N-14 8C/A
+
+3-83
+
+POS462B
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/ Rule
+Form N-14
+
+Submission
+Type
+
+Description
+Post-effective amendment to Securities
+Act Rule 462(c) registration statement
+
+POS462C
+
+Definitive materials filed under paragraph 497
+(a), (b), (c), (d), (e) or (f) of Securities Act
+Rule 497
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+MISCELLANEOUS FILINGS UNDER THE SECURITIES ACT
+Rule 425
+
+Filing under Securities Act Rule 425 of
+425
+certain prospectuses and communications
+in connection with business combination
+transactions
+Note: Form 425 can be filed as part of
+Form 8-K. For filers subject to 8-K filing
+requirements, we recommend the use of
+the 8-K combined form type as the easiest
+method for fulfilling your filing requirement
+for both forms
+
+Rule 473
+
+Separately filed delaying amendment
+under Securities Act Rule 473 to delay
+effectiveness of a 1933 Act registration
+statement
+
+DEL AM
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Rule 477
+
+Withdrawal of an application for exemptive APP WD
+or other relief from the federal securities
+laws
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Withdrawal of an amendment to an
+application for exemptive or other relief
+from the federal securities laws
+
+APP WD/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Registration Withdrawal Request
+
+RW
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Withdrawal of a request for withdrawal of a RW WD
+registration statement
+
+EDGAR Filer Manual (Volume II)
+
+3-84
+
+August 2015
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Withdrawal of amendment to a registration AW
+statement filed under the Securities Act
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Withdrawal of a request for withdrawal of AW WD
+an amendment to a registration statement
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Filing by certain investment companies of 497AD
+Securities Act Rule 482 advertising in
+accordance with Securities Act Rule 497
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+CFR Form/
+Schedule/ Rule
+Rule 477
+
+Rule 482
+
+Submission
+Type
+
+Description
+
+REGISTRATION OF SECURITIES BY CERTAIN INVESTMENT COMPANIES PURSUANT TO
+RULE 24F-2
+Rule 24F-2
+
+Rule 24f-2 notice filed on Form 24F-2
+
+24F-2NT
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+24F-2NT/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial notification of registration under
+Section 8(a) filed on Form N-8A
+
+N-8A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-8A/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial registration statement for unit
+investment trusts filed on Form N-8B-2
+
+N-8B-2
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-8B-2/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+OTHER COMPANY ACT REGISTRATION STATEMENTS
+Form N-8A
+
+Form N-8B-2
+
+August 2015
+
+3-85
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/ Rule
+Form N-8B-3
+
+Form N-8B-4
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Initial registration statement for periodic
+payment plans filed on Form N-8B-3
+
+N-8B-3
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-8B-3/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial registration statement for faceamount certificate companies filed on
+Form N-8B-4
+
+N-8B-4
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-8B-4/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Notice of intent by business development N-6F
+companies to elect to be subject to
+Sections 55 through 65 of the 1940 Act
+filed on Form N-6F
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Notification of election by business
+N-54A
+development companies filed on Form N54A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Notification of withdrawal by business
+N-54C
+development companies filed on Form N54C
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+SUBMISSION TYPES FOR BUSINESS DEVELOPMENT COMPANIES
+Form N-6F
+
+Form N-54A
+
+Form N-54C
+
+EDGAR Filer Manual (Volume II)
+
+N-6F/A
+
+N-54A/A
+
+N-54C/A
+
+3-86
+
+August 2015
+
+CFR Form/
+Schedule/ Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+OTHER INVESTMENT COMPANY SUBMISSION TYPES
+Rule 8b-25(a)
+
+Filing by investment company of
+40-8B25
+application under Investment Company
+Act Rule 8b-25(a) requesting extension of
+time for filing certain information,
+document or report
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Form 17F-1
+
+Initial certificate of accounting of securities 40-17F1
+and similar investments in the custody of
+management investment companies filed
+pursuant to Rule 17f-1 of the Investment
+Company Act of 1940 filed on Form N17F-1
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial certificate of accounting of securities 40-17F2
+and similar investments in the custody of
+management investment companies filed
+pursuant to Rule 17f-2 of the Investment
+Company Act of 1940 filed on Form N17F-2
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Fidelity bond filed pursuant to Rule 17g- 40-17G
+1(g)(1) of the Investment Company Act of
+1940
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Form 17F-2
+
+Rule 17g-1(g)(1)
+
+August 2015
+
+40-17F1/A
+
+40-17F2/A
+
+40-17G/A
+
+3-87
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/ Rule
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+40-17GCS/A EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Submission
+Type
+
+Description
+
+Rule 17g-1(g)(2) or Filings of claim or settlement pursuant to 40-17GCS
+(3)
+rule 17g-1(g)(1)(2) or (3) of the Investment
+Company Act of 1940
+Amendment
+
+Rule 24b-2
+
+Filing of sales literature pursuant to Rule 40-24B2
+24b-2 under the Investment Company Act
+of 1940
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+40-24B2/A
+
+ICA Section 33
+
+Copies of all stockholder derivative
+40-33
+actions filed with a court against an
+investment company or an affiliate thereof
+pursuant to Section 33 of the Investment
+Company Act of 1940
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+ICA Section 33
+
+Amendment
+
+40-33/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial notification of election pursuant to
+Rule 18f-1 filed on Form N-18F-1
+
+N-18F1
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-18F1/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Note: May be filed electronically on a
+voluntary basis.
+Form N-18F-1
+
+EDGAR Filer Manual (Volume II)
+
+3-88
+
+August 2015
+
+CFR Form/
+Schedule/ Rule
+Rule 23c-2(b)
+
+Form N-23C-3
+
+Submission
+Type
+
+Description
+
+N-23C-2
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-23C-2/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Notification of periodic repurchase offer
+Filed pursuant to Rule 23c-3(b) only
+
+N-23C-3A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-23C-3A/A EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Filing pursuant to Rule 23c-3(c) only on
+Form N-23C-3
+
+N-23C-3B
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-23C-3B/A EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+August 2015
+
+FilerConstructed
+Form Spec.
+
+Notice by closed-end investment
+companies of intention to call or redeem
+their own securities under Investment
+Company Act Rule 23c-2
+
+Filing pursuant to Rule 23c-3(b) and (c) on N-23C-3C
+Form N-23C-3
+
+Form N-27D-1
+
+Tool/
+Template
+Number
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+N-23C-3C/A EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Accounting for segregated trust accounts N-27D-1
+on Form N-27D-1
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+N-27D-1/A
+
+3-89
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/ Rule
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+PERIODIC REPORTS FOR REGISTERED INVESTMENT COMPANIES
+Form N-SAR
+
+Semi-annual report for management
+companies filed on Form N-SAR
+
+NSAR-A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+NSAR-A/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Transitional semi-annual report filed on
+Form N-SAR
+
+NSAR-AT
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+NSAR-AT/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Annual report for management companies NSAR-B
+filed on Form N-SAR
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Transitional annual report filed on Form N- NSAR-BT
+SAR
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+NSAR-BT/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Annual report for unit investment trusts
+filed on Form N-SAR
+
+NSAR-U
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+NSAR-U/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+NSAR-B/A
+
+3-90
+
+August 2015
+
+CFR Form/
+Schedule/ Rule
+Form N-CR
+
+Form N-CSR
+
+Form N-MFP
+
+August 2015
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Current Report of Money Market Fund
+Material Events
+
+N-CR
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-CR/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Certified annual shareholder report of
+registered management investment
+companies filed on Form N-CSR
+
+N-CSR
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-CSR/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Certified semi-annual shareholder report
+of registered management investment
+companies filed on Form NCSR
+
+N-CSRS
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-CSRS/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Monthly Schedule of Portfolio Holdings of N-MFP
+Money Market Funds
+
+N/A
+
+EDGAR
+Form N-MFP
+XML
+Technical
+Specification
+
+Amendment
+
+N/A
+
+EDGAR
+Form N-MFP
+XML
+Technical
+Specification
+
+N-MFP/A
+
+3-91
+
+EDGAR Filer Manual (Volume II)
+
+CFR Form/
+Schedule/ Rule
+Form N-PX
+
+Submission
+Type
+
+Description
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Annual Report of Proxy Voting Record of
+Registered Management Investment
+Companies filed on Form N-PX
+
+N-PX
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-PX/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Annual Form N-PX Combination Report
+filed by institutional managers
+
+N-PX-CR
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-PX-CR/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Annual Report of Proxy Voting Record of
+Registered Management Investment
+Companies that includes proxy votes
+institutional managers
+
+N-PX-FM
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-PX-FM/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Annual Form N-PX Notice filed by
+institutional managers
+
+N-PX-NT
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-PX-NT/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Annual Form N-PX Voting Report filed by N-PX-VR
+institutional managers
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGAR Filer Manual (Volume II)
+
+N-PX-VR/A
+
+3-92
+
+August 2015
+
+CFR Form/
+Schedule/ Rule
+Form N-Q
+
+Rule 12b-25
+
+Submission
+Type
+
+Description
+
+N-Q
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-Q/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Notice under Exchange Act Rule 12b-25
+of inability to timely file Form NSAR
+
+NT-NSAR
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+NT-NSAR/A EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+August 2015
+
+FilerConstructed
+Form Spec.
+
+Quarterly Schedule of Portfolio Holdings
+of Registered Management Investment
+Company filed on Form N-Q
+
+Notice under Exchange Act Rule 12b25 of NT-NCSR
+inability to timely file Form NCSR (annual
+or semi-annual report)
+
+Rule 30b2-1
+
+Tool/
+Template
+Number
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+NT-NCSR/A EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Initial annual and semi-annual reports
+N-30D
+mailed to investment company
+shareholders pursuant to Rule 30e-1
+(other than those required to be submitted
+as part of Form N-CSR)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-30D/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Periodic and interim reports mailed to
+N-30B-2
+investment company shareholders (other
+than annual and semi-annual reports
+mailed to shareholders pursuant to Rule
+30e-1)
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+3-93
+
+EDGAR Filer Manual (Volume II)
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Notification under Regulation E by small 1-E
+business investment companies and
+business development companies filed on
+Form 1-E.
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment to a notification under
+1-E/A
+Regulation E by small business
+investment companies and business
+development companies filed on Form 1-E
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Sales material filed pursuant to Rule 607
+under Regulation E
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment to sales material filed
+1-E AD/A
+pursuant to Rule 607 under Regulation E
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Report of sales of securities pursuant to
+Rule 609 under Regulation E filed on
+Form 2-E
+
+2-E
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment of a report of sales of
+securities pursuant to Rule 609 under
+Regulation E filed on Form 2-E
+
+2-E/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+CFR Form/
+Schedule/ Rule
+
+Submission
+Type
+
+Description
+
+REGULATION E FILINGS
+Regulation E
+
+EDGAR Filer Manual (Volume II)
+
+3-94
+
+1-E AD
+
+August 2015
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment to an application under the
+40-OIP/A
+Investment Company Act submitted
+pursuant to Investment Company Act Rule
+0-2 reviewed by the Office of Insurance
+Products
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Application under the Investment
+40-6B
+Company Act by an employees’ securities
+company submitted pursuant to
+Investment Company Act Rule 0-2
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment to an application under the
+40-6B/A
+Investment Company Act by an
+employees’ securities company submitted
+pursuant to Investment Company Act Rule
+0-2
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Application under the Investment
+Company Act submitted pursuant to
+Investment Company Act Rule 0-2 other
+than those reviewed by Office of
+Insurance Products
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+CFR Form/
+Schedule/ Rule
+
+Submission
+Type
+
+Description
+
+APPLICATION FOR AN ORDER UNDER THE INVESTMENT COMPANY ACT
+Rule 0-2
+
+Application under the Investment
+Company Act submitted pursuant to
+Investment Company Act Rule 0-2
+reviewed by the Office of Insurance
+Products
+
+40-OIP
+
+40-APP
+
+Amendment to an application under the
+40-APP/A
+Investment Company Act submitted
+pursuant to Investment Company Act Rule
+0-2 other than those reviewed by Office of
+Insurance Products
+APPLICATION FOR DEREGISTRATION OF INVESTMENT COMPANIES
+Form N-8F
+
+August 2015
+
+Application for deregistration made on
+Form N-8F
+
+N-8F
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+N-8F/A
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+3-95
+
+EDGAR Filer Manual (Volume II)
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+Initial application for deregistration
+40-8F-2
+pursuant to Investment Company Act Rule
+0-2
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+Amendment
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+CFR Form/
+Schedule/ Rule
+Rule 0-2
+
+Submission
+Type
+
+Description
+
+40-8F-2/A
+
+Table 3-6: Development Bank Submission Types Accepted by EDGAR
+FilerConstructed
+Form Spec.
+QRTLYRPT
+Periodic Development Bank filing,
+QRTLYRPT
+EDGARLink
+submitted quarterly
+Online XML
+Technical
+Specification
+Amendment
+QRTLYRPT/ A EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+ANNLRPT
+Periodic Development Bank filing,
+ANNLRPT
+EDGARLink EDGARLink
+submitted annually
+Online
+Online XML
+Technical
+Specification
+Amendment
+ANNLRPT/A
+EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+DSTRBRPT
+Distribution of primary obligations
+DSTRBRPT
+EDGARLink EDGARLink
+Development Bank report
+Online
+Online XML
+Technical
+Specification
+Amendment
+DSTRBRPT/A EDGARLink EDGARLink
+Online
+Online XML
+Technical
+Specification
+Note: (1) These submission types are to be filed ONLY by the Development Banks. BW-2 and BW-3
+submission types have been rescinded; please use QRTLYRPT, ANNLRPT, and DSTRBRPT Form
+Types.
+CFR Form/
+Schedule/ Rule
+
+EDGAR Filer Manual (Volume II)
+
+Submission
+Type
+
+Description
+
+3-96
+
+Tool/
+Template
+Number
+EDGARLink
+Online
+
+August 2015
+
+Correspondence Submission Types
+CFR Form/
+Schedule/ Rule
+
+Submission
+Type
+
+Description
+
+Correspondence A correspondence can be sent as a
+CORRESP
+document with another submission type
+or can be sent as a separate
+submission. Correspondence is not
+publicly disseminated immediately. The
+SEC staff may release all or portions of
+these documents electronically if they
+relate to the staff’s review process. See
+SEC Press Release 2004-89, “SEC
+Staff to Publicly Release Comment
+Letters and Responses.”
+Correspondence Letters to SEC staff regarding draft
+DRSLTR
+Related to Draft registration statements can either be
+Registration
+included in the DRS submission as a
+Statement
+COVER document or must be submitted
+as a separate DRSLTR submission.
+Filers should not submit
+correspondence to the staff using the
+CORRESP form type until they begin
+making public filings to complete their
+offerings. This allows the SEC staff to
+easily associate correspondence during
+the draft review with the draft
+registration statement.
+Draft Offering
+Letters to SEC staff regarding draft
+DOSLTR
+Statement Letter offering statements can either be
+included in the DOS submission as a
+COVER document or must be submitted
+as a separate DOSLTR submission.
+Filers should not submit
+correspondence to the staff using the
+CORRESP form type until they begin
+making public filings to complete their
+offerings. This allows the SEC staff to
+easily associate correspondence during
+the draft review with the draft offering
+statement.
+
+August 2015
+
+3-97
+
+Tool/
+Template
+Number
+
+FilerConstructed
+Form Spec.
+
+EDGARLink
+Online
+
+EDGARLink
+Online XML
+Technical
+Specification
+
+EDGARLink
+Online
+
+N/A
+
+EDGARLink
+Online
+
+N/A
+
+EDGAR Filer Manual (Volume II)
+
+

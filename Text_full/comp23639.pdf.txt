@@ -1,0 +1,1142 @@
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 1 of 28
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+__________________________________________
+)
+SECURITIES AND EXCHANGE COMMISSION )
+100 F Street, N.E.
+)
+Washington, D.C. 20549,
+)
+Plaintiff,
+)
+)
+v.
+)
+Case No. _______________
+)
+RPM INTERNATIONAL INC. and
+)
+EDWARD W. MOORE,
+)
+)
+Defendants. )
+__________________________________________)
+COMPLAINT
+Plaintiff Securities and Exchange Commission (“SEC”) alleges as follows:
+SUMMARY OF THE ACTION
+1.
+
+This is a disclosure and accounting fraud case arising from the failure of RPM
+
+International Inc. (“RPM”) to timely disclose a loss contingency, or record an accrual for, an
+investigation by the U.S. Department of Justice (the “DOJ investigation”). A public company
+facing a loss contingency, such as a lawsuit or government investigation, is required under
+accounting principles and the securities laws to (1) disclose the loss contingency if a material
+loss is reasonably possible, and (2) record an accrual for the loss contingency if a material loss is
+probable and reasonably estimable. In connection with the DOJ investigation, RPM faced a
+material loss that was probable and reasonably estimable, but RPM failed to disclose the loss
+contingency or record an accrual on its books when required to do so.
+2.
+
+The DOJ investigation began in 2011 in response to a complaint filed under the
+
+False Claims Act against RPM and its wholly-owned subsidiary, Tremco, Inc. (“Tremco”), and
+concerned whether Tremco overcharged the federal government on certain government
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 2 of 28
+
+contracts. In 2013, RPM settled the DOJ investigation and the underlying litigation for nearly
+$61 million.
+3.
+
+Defendant Edward W. Moore, RPM’s General Counsel and Chief Compliance
+
+Officer, oversaw RPM’s response to the DOJ investigation, but failed to disclose material facts
+about the investigation to RPM’s Chief Executive Officer, Chief Financial Officer, Audit
+Committee, and independent auditors (the “Audit Firm”). For example, Moore knew but failed
+to inform them: (1) that RPM sent DOJ several analyses estimating that Tremco overcharged the
+government by at least $11.9 million on the contracts under investigation; (2) that RPM agreed to
+submit a settlement offer by a specific date to resolve the DOJ investigation; and (3) that, prior to
+submitting the settlement offer, RPM’s overcharge estimates increased substantially to at least
+$27-28 million. Additionally, Moore made material misrepresentations to the Audit Firm about
+the DOJ investigation in connection with the Audit Firm’s reviews and audits of RPM’s financial
+statements and SEC filings.
+4.
+
+As a result of Moore’s misstatements and his failure to disclose key facts regarding
+
+the DOJ Investigation, from October 2012 through December 2013 RPM submitted multiple
+materially false and misleading filings to the SEC. For example, RPM’s SEC filings from
+October 2012 through January 2013 failed to disclose any information about the DOJ
+investigation, including any loss contingency or accrual on RPM’s financial statements, as
+required by the governing accounting principles and securities laws. Those filings also did not
+disclose any material weakness in RPM’s internal controls over financial reporting or its
+disclosure controls when in fact such weakness existed.
+5.
+
+Moreover, even after RPM disclosed the DOJ investigation and recorded an accrual
+
+in April 2013, the company’s SEC filings continued to be misleading. For example, RPM’s
+
+2
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 3 of 28
+
+filings from April to December 2013 indicated that RPM timely disclosed and accrued for the
+DOJ investigation when in fact disclosure and accrual were required in earlier reporting periods.
+In addition, those SEC filings still failed to disclose any material weakness in RPM’s internal
+controls over financial reporting or its disclosure controls.
+6.
+
+Because of RPM’s false and misleading SEC filings, investors were not timely
+
+informed that a material loss relating to the DOJ investigation was reasonably possible or
+probable. Investors also were not timely notified of a material weakness in RPM’s internal
+control over financial reporting and its disclosure controls.
+7.
+
+In August 2014, RPM restated its financial results for three quarters that occurred
+
+during the DOJ investigation and filed amended SEC filings for those quarters. RPM’s amended
+SEC filings – unlike the original filings – disclosed the DOJ investigation and recorded accruals
+in each quarter showing the company’s best estimates of probable losses related to the
+investigation. Further, in connection with the restatement, RPM admitted that it made “errors”
+relating to the “timing of disclosure and accrual” for the DOJ investigation and that the company
+had a material weakness in its internal control over financial reporting and its disclosure controls.
+RPM’s restatement thus confirmed that the company’s original SEC filings referenced above
+were materially false and misleading.
+8.
+
+By engaging in the conduct described herein, RPM violated antifraud, reporting,
+
+books and records, and internal controls provisions of the securities laws, including Sections
+17(a)(2) and (a)(3) of the Securities Act of 1933 (the “Securities Act”) [15 U.S.C. §§ 77q(a)(2)
+and 77q(a)(3)]; Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Securities Exchange Act of
+1934 (the “Exchange Act”) [15 U.S.C. §§ 78m(a), 78m(b)(2)(A), and 78m(b)(2)(B)]; and
+Exchange Act Rules 12b-20, 13a-1, 13a-11, and 13a-13 [17 C.F.R. §§ 240.12b-20, 240.13a-1,
+
+3
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 4 of 28
+
+240.13a-11, and 240.13a-13]. Unless restrained and enjoined, RPM will violate those provisions
+again in the future.
+9.
+
+Moore violated antifraud, books and records, and misleading accountant or auditor
+
+provisions of the securities laws, including Sections 17(a)(2) and (a)(3) of the Securities Act [15
+U.S.C. §§ 77q(a)(2) and 77q(a)(3)], and Exchange Act Rules 13b2-1 and 13b2-2(a) [17 C.F.R.
+§§ 240.13b2-1 and 240.13b2-2(a)]. Unless restrained and enjoined, Moore will violate those
+provisions again in the future.
+10.
+
+The SEC therefore seeks a judgment against RPM and Moore providing permanent
+
+injunctive relief and ordering RPM and Moore to pay disgorgement with prejudgment interest
+and civil money penalties.
+JURISDICTION AND VENUE
+11.
+
+The SEC brings this action, and this Court has jurisdiction, pursuant to Securities
+
+Act Sections 20(b), 20(d), and 22(a) [15 U.S.C. §§ 77t(b), (d), and 77v(a)], and Exchange Act
+Sections 21(d)(1) and 27 [15 U.S.C. §§ 78u(d)(1) and 78aa].
+12.
+
+Defendants directly or indirectly, singly or in concert with others, made use of the
+
+means or instruments of transportation and communication in interstate commerce, or of the
+mails, or of the facilities of a national securities exchange in connection with the acts,
+transactions, and practices alleged in this Complaint.
+13.
+
+Venue is proper in this district pursuant to Securities Act Section 22(a) [15 U.S.C. §
+
+77v(a)] and Exchange Act Section 27 [15 U.S.C. § 78aa] because Defendants transact business
+in this district and violations of the securities laws alleged in this Complaint occurred within this
+district, including the filing of false and misleading documents with the SEC.
+
+4
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 5 of 28
+
+DEFENDANTS
+14.
+
+RPM International Inc. is a Delaware corporation with its principal place of
+
+business in Medina, Ohio. RPM, through its subsidiaries, manufactures and sells various
+chemical product lines, including paints, protective coatings, roofing systems, sealants, and
+adhesives. One of RPM’s wholly-owned subsidiaries is Tremco, a company that provides
+roofing materials and services. At all relevant times, RPM’s common stock was registered with
+the SEC pursuant to Section 12(b) of the Exchange Act and traded continuously on the New
+York Stock Exchange under the ticker symbol “RPM.” RPM’s fiscal year runs from June
+through May.
+15.
+
+Edward W. Moore, age 59, is a resident of Ohio and a lawyer admitted to the Ohio
+
+bar since 1982. From 1982 to 2006, Moore practiced corporate and securities law at a law firm.
+From 2007 to the present, Moore has served as RPM’s General Counsel and Corporate Secretary.
+Beginning in 2011, and continuing to the present, Moore also has served as RPM’s Chief
+Compliance Officer. At all relevant times, Moore was responsible for reviewing RPM’s SEC
+filings and ensuring that the filings complied with applicable laws and regulations. Additionally,
+at all relevant times, Moore acted within the course and scope of his employment by RPM.
+FACTS
+A.
+16.
+
+The FCA Complaint is Filed Against RPM and Tremco
+The False Claims Act (“FCA”), 31 U.S.C. §§ 3729 – 3733, is a civil fraud statute
+
+that allows triple damages and penalties against a party who submits a false claim to the
+government. See 31 U.S.C. § 3729(a). The qui tam provisions of the FCA allow a plaintiff,
+known as a “relator,” to bring an action in federal court in the name of the government. See 31
+U.S.C. § 3730(b). When a relator files a complaint under the FCA, the complaint is filed under
+
+5
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 6 of 28
+
+seal and provided to DOJ so that DOJ may investigate the relator’s allegations. See id. After the
+investigation, DOJ informs the court whether DOJ will intervene and litigate the case or decline
+to intervene and allow the relator to litigate the case alone. Id.
+17.
+
+In July 2010, a former Tremco employee filed a qui tam complaint under the FCA
+
+(the “FCA complaint”) in federal court against RPM and Tremco. The FCA complaint alleged
+that Tremco overcharged the government under certain government contracts by, among other
+things, failing to provide required price discounts. The FCA complaint was filed under seal and
+provided to DOJ so that DOJ could investigate the allegations and decide whether to intervene in
+the lawsuit.
+B.
+18.
+
+The DOJ Investigation Begins
+In March 2011, RPM learned of the DOJ investigation when Tremco received a
+
+subpoena from the government, requesting documents related to Tremco’s government contracts.
+19.
+
+As RPM’s General Counsel and Chief Compliance Officer, Moore oversaw the
+
+response of RPM and Tremco to the DOJ investigation. Moore also was required to keep RPM’s
+CEO, CFO, and Audit Committee reasonably informed, with timely and accurate information,
+regarding the status of the DOJ investigation. Additionally, Moore was responsible for updating
+the Audit Firm on the status of the DOJ investigation.
+20.
+
+Moore was responsible for providing RPM’s CEO and CFO with timely and
+
+accurate information about the DOJ investigation so that, among other things, the CEO and CFO
+could evaluate RPM’s disclosure and accrual obligations before certifying the accuracy of certain
+SEC filings, including RPM’s quarterly reports on Forms 10-Q, annual reports on Forms 10-K,
+and the financial information therein.
+21.
+
+Soon after learning of the DOJ investigation in March 2011, RPM retained a law
+
+6
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 7 of 28
+
+firm (“RPM’s counsel”) to represent RPM in connection with the DOJ investigation. From the
+outset of that engagement, RPM’s counsel and RPM understood that, in order to settle an FCA
+matter, DOJ generally required at least two times the amount of actual damages sustained from
+the false claims. RPM’s counsel that worked on the DOJ investigation did not act as RPM’s
+securities disclosure counsel for SEC filings; instead, a different law firm served as RPM’s
+disclosure counsel.
+22.
+
+At RPM’s quarterly Audit Committee meeting on April 5, 2011, which was
+
+attended by RPM’s CEO and representatives from the Audit Firm, Moore discussed the DOJ
+investigation. Once the Audit Firm became aware of the DOJ investigation in April 2011, its
+auditors asked Moore on at least a quarterly basis whether any new developments had occurred
+in the DOJ investigation.
+C.
+23.
+
+Disclosure and Accrual Provisions Relating to the DOJ Investigation
+Once RPM became aware of the DOJ investigation, the company had to ensure that
+
+it complied with certain disclosure and accrual provisions of the federal securities laws in
+connection with the investigation. For example, Regulation S-X requires that financial
+statements included with an issuer’s SEC filings must comply with Generally Accepted
+Accounting Principles (“GAAP”), and provides that financial statements filed with the SEC that
+are not prepared in accordance with GAAP are presumed to be misleading. See 17 C.F.R.
+§210.4-01. Accounting Standards Codification (“ASC”) 450-20 codifies GAAP regarding “loss
+contingencies.” 1 A loss contingency is an existing condition, situation, or set of circumstances
+involving uncertainty as to a possible loss that will be resolved when one or more future events
+occurs or fails to occur. See ASC 450-20-20. Loss contingencies include, among other things,
+1
+
+The ASC became effective in 2009. Prior to the ASC, GAAP regarding loss contingencies was set forth in
+the Statement of Financial Accounting Standards No. 5, which was often referred to as “FAS 5.”
+
+7
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 8 of 28
+
+(i) actual or possible claims and (ii) pending or threatened litigation. See ASC 450-20-05-10.
+Under GAAP, an issuer must disclose a loss contingency if a material loss is reasonably possible,
+see ASC 450-20-50-3, and an issuer must record an accrual for a loss contingency, as a charge
+against income, if a material loss is probable and reasonably estimable, see ASC 450-20-25-2.
+From at least March 2011 through August 2013, the DOJ investigation represented a loss
+contingency.
+24.
+
+Additionally, under Item 303 of Regulation S-K (“Item 303”), which addresses
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(“MD&A”) for Forms 10-K and 10-Q, an issuer must describe any known trends or uncertainties
+that have had, or that the issuer reasonably expects will have, a material unfavorable impact on
+net sales, revenues, or income from continuing operations. See 17 C.F.R. § 229.303.
+25.
+
+Moreover, under Exchange Act Rule 12b-20, along with the information expressly
+
+required to be included in an SEC filing, an issuer must also disclose such further material
+information as may be necessary to make the required statements, in light of the circumstances,
+not misleading. See 17 C.F.R. § 240.12b-20.
+D.
+
+26.
+
+The Audit Firm Suggests that RPM Consider Disclosing the DOJ
+Investigation, But RPM and Moore Decide Not to Disclose
+On June 7, 2012, the Audit Firm sent an e-mail to Moore regarding the Form 10-K
+
+that was scheduled to be filed in July 2012. The e-mail stated in part: “As we head into yearend and start thinking about disclosures, etc. I wanted to pass along the attached, which is a
+document with an example disclosure related to . . . government investigations.” The Audit Firm
+attached to the e-mail sample language used by another public company to disclose a
+government investigation in an SEC filing.
+27.
+
+Despite the Audit Firm providing sample disclosure language, RPM and Moore
+
+8
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 9 of 28
+
+decided not to disclose the DOJ investigation at that time.
+E.
+28.
+
+DOJ Provides a Copy of the FCA Complaint to RPM
+On August 9, 2012, DOJ provided a copy of the FCA complaint, which had been
+
+partially unsealed, to RPM. Only a small group of RPM personnel, including Moore, reviewed
+the FCA complaint.
+29.
+F.
+
+30.
+
+Moore did not disclose the FCA complaint to the Audit Firm.
+RPM Informs DOJ that Tremco Did Not Comply with the Government
+Contracts Under Investigation, and Produces Estimates of Overcharges
+On September 12, 2012, with Moore’s knowledge and authorization, RPM’s
+
+counsel met with DOJ to discuss the DOJ investigation. During that meeting, RPM’s counsel
+informed DOJ that Tremco had not complied with the pricing terms of its government contracts.
+RPM’s counsel also discussed with DOJ an analysis prepared by a consultant for RPM and
+Tremco, which calculated that Tremco overcharged the government by at least $11 million
+during part of the time period under investigation. Soon after concluding the September 12
+meeting with DOJ, RPM’s counsel told Moore what transpired during the meeting, including that
+the $11 million overcharge analysis was discussed with DOJ.
+31.
+
+On or around September 28, 2012, in connection with the Audit Firm’s first quarter
+
+review of RPM, the Audit Firm asked Moore about the status of the DOJ investigation. In
+response, Moore falsely told the Audit Firm that “no claim has been asserted” and the matter was
+“investigative in nature and not in litigation.” In fact, Moore knew the FCA complaint had been
+filed against RPM and Tremco in federal court.
+32.
+
+On October 1, 2012, about two weeks after the September 12 meeting with DOJ,
+
+Moore sent a management representation letter to the Audit Firm in connection with the first
+quarter review of RPM. In the letter, Moore stated that, “since June 1, 2012, neither I, nor any of
+
+9
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 10 of 28
+
+the lawyers over whom I exercise general legal supervision, have given substantive attention to,
+or represented the Company in connection with, material loss contingencies” exceeding $1.2
+million. That representation was materially false and misleading because Moore knew that he
+and RPM’s counsel represented RPM in connection with the DOJ investigation, and that RPM’s
+potential loss relating to the DOJ investigation was at least $11 million.
+33.
+
+That same evening, on October 1, 2012, with Moore’s knowledge and
+
+authorization, RPM sent DOJ a written analysis, estimating that Tremco overcharged the
+government by approximately $11.4 million during part of the time period under investigation.
+That analysis set forth in writing the information that had been shared orally with DOJ at the
+meeting on September 12, and did not include any damages multiplier under the FCA.
+Moreover, as the $11.4 million overcharge estimate related to only part of the time period under
+investigation and to only one of the contracts under investigation, and additional overcharge
+analyses were planned or underway, Moore knew or should have known that the total amount by
+which Tremco overcharged the government likely was greater than $11.4 million.
+34.
+
+The next morning, on October 2, 2012, RPM’s Audit Committee held its quarterly
+
+meeting, which was attended by, among others, the CEO, the CFO, representatives from the
+Audit Firm, and Moore. During the meeting, however, Moore failed to disclose the $11.4
+million overcharge estimate that had been sent to DOJ.
+35.
+
+As of October 2, 2012, the date of the Audit Committee meeting, RPM had not yet
+
+submitted its SEC filings for the fiscal first quarter ended August 31, 2012. Even without
+considering the effect of any possible multiplier under the FCA, the $11.4 million overcharge
+estimate sent to DOJ was material because it equaled approximately 30% of RPM’s net income
+for the first quarter.
+
+10
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 11 of 28
+
+G.
+
+RPM’s First Quarter SEC Filings Do Not Disclose Any Information or
+Accrual Relating to the DOJ Investigation
+
+36.
+
+On October 3, 2012, RPM filed a Form 8-K, signed by Moore, which attached a
+
+press release concerning RPM’s financial results for the fiscal first quarter ended August 31,
+2012. The next day, October 4, 2012, RPM filed a Form 10-Q for the fiscal first quarter.
+37.
+
+By the dates of those SEC filings on October 3 and 4, 2012, Moore knew or should
+
+have known it was not only reasonably possible, but probable and reasonably estimable, that
+RPM would incur a material loss in connection with the DOJ investigation. Similarly, by the
+dates of those SEC filings, Moore knew it was reasonably likely that the DOJ investigation
+would have a material unfavorable impact on RPM’s income in the future because the likely
+floor for RPM’s range of loss was at least $11.4 million, even before considering the impact of
+any damages multiplier under the FCA.
+38.
+
+Nevertheless, despite the disclosure duties imposed by ASC 450-20 (requiring the
+
+disclosure of a material loss contingency or accrual), Item 303 (requiring the disclosure of a
+trend or uncertainty reasonably expected to have a material unfavorable impact), and Rule 12b20 (requiring the disclosure of additional material information needed to make the statements in
+an SEC filing not misleading), neither the Form 8-K nor the Form 10-Q disclosed any
+information or accrual relating to the DOJ investigation.
+39.
+
+RPM’s Form 8-K filed October 3, 2012 purported to provide the company’s
+
+financial results for its fiscal first quarter but misleadingly failed to disclose the material impact
+of the DOJ investigation on those results. As shown by RPM’s subsequent restatement, contrary
+to the originally reported first quarter results, RPM was required to record an accrual for the DOJ
+investigation as a charge against income in its first quarter.
+40.
+
+Although RPM’s Form 10-Q filed October 4, 2012 discussed “contingencies” in the
+
+11
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 12 of 28
+
+notes to the company’s financial statements and in the MD&A section, RPM omitted any
+information about the DOJ investigation, which was necessary to make the discussion regarding
+contingencies not misleading. RPM’s Form 10-Q also stated that, “We are party to various
+claims and lawsuits” and “we record provisions when we consider the liability probable and
+reasonably estimable,” but misleadingly failed to disclose that in fact a material loss relating to
+the DOJ investigation was probable and reasonably estimable by October 4, 2012, when the
+Form 10-Q was filed.
+41.
+
+Additionally, RPM’s Form 10-Q falsely and misleadingly stated that, as of the end
+
+of RPM’s first quarter, “our disclosure controls and procedures were effective in ensuring that
+information required to be disclosed by us in the reports we file or submit under the Exchange
+Act (1) is recorded, processed, summarized and reported, within the time periods specified in the
+Commission’s rules and forms, and (2) is accumulated and communicated to our management,
+including the Chief Executive Officer and the Chief Financial Officer, as appropriate to allow for
+timely decisions regarding required disclosure.” In fact, as RPM later admitted in connection
+with its restatement, its disclosure controls and procedures were not effective at the end of the
+first quarter.
+42.
+
+On October 19, 2012, about two weeks after RPM’s first quarter SEC filings, RPM
+
+filed with the SEC a Prospectus Supplement for a $300 million notes offering. Moore oversaw
+the notes offering and reviewed the Prospectus Supplement before it was filed with the SEC.
+The Prospectus Supplement stated to investors that “[i]t is important for you to read and consider
+all information . . . incorporated by reference in this prospectus supplement . . . in making your
+investment decision.” The Prospectus Supplement incorporated by reference RPM’s SEC
+filings, including the materially misleading first quarter Form 10-Q filed on October 4, 2012.
+
+12
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 13 of 28
+
+RPM’s sale of the notes closed on or around October 23, 2012.
+H.
+
+Moore’s Awareness of Negative Repercussions from Disclosing the DOJ
+Investigation or Recording an Accrual
+
+43.
+
+Around the time of RPM’s first quarter SEC filings in October 2012, Moore was
+
+aware of pressure to avoid, or at least postpone, recording another one-time charge on RPM’s
+books. In RPM’s Form 8-K filed on October 3, 2012, which related to RPM’s first quarter
+results, the company disclosed two one-time charges that were unrelated to the DOJ
+investigation: a $45 million charge for certain work in India, and another $11 million charge for
+other work overseas. According to the Chairman of RPM’s Audit Committee, at the Audit
+Committee meeting on October 2, 2012, the Committee communicated that “we’re not going to
+be accepting of ongoing extraordinary charges or one-time charges. We didn’t think that that
+would bode well for the company and . . . the impression of our shareholders and others of how
+we run the business, and we made that clear.” Similarly, at RPM’s annual shareholder meeting
+on October 4, 2012, RPM’s CEO told the shareholders that RPM would not “water torture them”
+with additional one-time “charges quarter after quarter.”
+44.
+
+Moore also was aware that disclosing the DOJ investigation or recording an accrual
+
+could negatively affect RPM’s stock price. According to Moore, disclosing the DOJ
+investigation in RPM’s first quarter SEC filings could have caused “uncertainty” and
+“depress[ed] the value of the stock.” Moore had a personal interest in RPM’s stock price
+because, as of August 31, 2012, he owned 65,952 shares of RPM stock – worth more than $1.8
+million – plus 65,000 RPM stock options.
+45.
+
+In addition, Moore was aware that disclosing the DOJ investigation might cause
+
+reputational harm to RPM and Tremco. According to Moore, disclosing the DOJ investigation in
+RPM’s first quarter SEC filings could have caused “harm to [RPM’s] roofing business.” Further,
+
+13
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 14 of 28
+
+according to Moore, if the FCA complaint “became public and everybody read about these really
+scandalous allegations,” that could “really damage [Tremco’s] business, possibly irreparably.”
+I.
+
+46.
+
+DOJ Conveys a Deadline for Intervention in the FCA Case, and RPM Says It
+Will Submit a Settlement Offer
+On November 5, 2012, DOJ notified RPM by e-mail that the seal on the FCA
+
+complaint would expire on January 17, 2013, and thus DOJ “want[ed] to make sure that the
+parties are in an appropriate posture by that date (i.e., this matter is resolved or the United States
+is prepared to inform the Court of its intervention determination).” RPM’s counsel conveyed
+DOJ’s message to Moore.
+47.
+
+On November 29, 2012, Moore attended a seminar regarding the FCA. According
+
+to Moore, during that seminar it was discussed that DOJ typically seeks to settle FCA cases for at
+least two times the amount of damages sustained from the false claims.
+48.
+
+On December 14, 2012, with Moore’s knowledge and authorization, RPM sent DOJ
+
+another analysis, calculating that Tremco overcharged the government by an additional $487,000
+on its government contracts. Therefore, by December 14, 2012, Moore knew that Tremco had
+overcharged the government by at least $11.9 million, and that RPM was working on additional
+overcharge calculations, so the total overcharge amount likely would continue to rise.
+49.
+
+On December 19, 2012, with Moore’s knowledge and authorization, RPM informed
+
+DOJ that RPM would submit a settlement offer to resolve the DOJ investigation and the
+underlying FCA case by January 11, 2013. No later than December 19, 2012, with Moore’s
+knowledge and authorization, RPM’s counsel began preparing a written settlement offer.
+50.
+
+Two days later, on December 21, 2012, RPM’s counsel and certain RPM personnel,
+
+including Moore, held a conference call to discuss the DOJ investigation and RPM’s planned
+settlement offer. During the call, the participants discussed the components of the planned
+
+14
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 15 of 28
+
+settlement offer and those components totaled $27-28 million. That figure represented the
+amount that RPM calculated Tremco had overcharged the government on the contracts under
+investigation, without considering any damages multiplier under the FCA.
+51.
+
+One week later, on December 28, 2012, Moore sent another management
+
+representation letter to the Audit Firm in connection with the second quarter review of RPM. In
+the letter, Moore stated that, “since June 1, 2012, neither I, nor any of the lawyers over whom I
+exercise general legal supervision, have given substantive attention to, or represented the
+Company in connection with, material loss contingencies” exceeding $1.2 million. That
+representation was materially false and misleading because Moore knew that he and RPM’s
+counsel represented RPM in connection with the DOJ investigation; that RPM was planning to
+submit a settlement offer to resolve the DOJ investigation by January 11, 2013; and that
+estimates for the settlement offer were approximately $27-28 million.
+52.
+
+Also on or around December 28, 2012, as part of the second quarter review of
+
+RPM, the Audit Firm again asked Moore about the status of the DOJ investigation. During that
+conversation, Moore falsely stated that “no claim has been filed” and “no loss contingency
+exists.” Contrary to that statement, however, Moore knew the FCA complaint had been filed
+against RPM and he knew about the DOJ investigation.
+53.
+
+On January 4, 2013, four days before RPM was scheduled to file its Form 10-Q for
+
+the fiscal second quarter, RPM’s Audit Committee held its quarterly meeting. That meeting was
+attended by, among others, RPM’s CEO, CFO, the Chairman of the Audit Committee,
+representatives from the Audit Firm, and Moore. During the meeting, Moore purported to
+provide an update on the current status of the DOJ investigation. But Moore’s update was
+materially inaccurate because he did not disclose: (1) any of the overcharge estimates that had
+
+15
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 16 of 28
+
+been sent to DOJ, which by this time totaled nearly $12 million; (2) that RPM had told DOJ a
+settlement offer would be submitted by January 11, 2013; or (3) that calculations for the
+settlement offer had reached $27-28 million. Indeed, Moore did not disclose that information to
+RPM’s CEO, CFO, the Chairman of the Audit Committee, or the Audit Firm at any time prior to
+RPM’s second quarter SEC filings on January 8, 2013. Additionally, prior to January 8, 2013,
+Moore did not disclose the underlying FCA complaint to the Audit Firm.
+J.
+
+54.
+
+RPM’s Second Quarter SEC Filings Do Not Disclose Any Information or
+Accrual Relating to the DOJ Investigation
+On January 8, 2013, RPM filed a Form 8-K, signed by Moore, which attached a
+
+press release concerning RPM’s financial results for the fiscal second quarter ended November
+30, 2012. That same day, RPM also filed a Form 10-Q for the fiscal second quarter.
+55.
+
+By the date of those SEC filings on January 8, 2013, Moore knew or should have
+
+known it was not only reasonably possible, but probable and reasonably estimable, that RPM
+would incur a material loss in connection with the DOJ investigation. Similarly, by January 8,
+Moore knew it was reasonably likely that the DOJ investigation would have a material
+unfavorable impact on RPM’s income in the future because the likely floor for RPM’s range of
+loss was at least $27-28 million, even before considering the impact of a damages multiplier
+under the FCA.
+56.
+
+But again, in violation of the disclosure duties imposed by ASC 450-20, Item 303,
+
+and Rule 12b-20, neither RPM’s Form 8-K nor its Form 10-Q disclosed any information or
+accrual relating to the DOJ investigation.
+57.
+
+RPM’s Form 8-K filed January 8, 2013 purported to provide the company’s
+
+financial results for its fiscal second quarter but misleadingly failed to disclose the material
+impact of the DOJ investigation on those results. As shown by RPM’s subsequent restatement,
+
+16
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 17 of 28
+
+contrary to the originally reported second quarter results, RPM was required to record an accrual
+for the DOJ investigation as a charge against income in its second quarter.
+58.
+
+RPM’s Form 10-Q filed January 8, 2013 again discussed “contingencies” in the
+
+notes to RPM’s financial statements and in the MD&A section but omitted any information
+about the DOJ investigation, which was necessary to make the statements made regarding
+contingencies not misleading. Also, the Form 10-Q again stated that RPM records accruals for
+claims and lawsuits “when we consider the liability probable and reasonably estimable,” but
+misleadingly failed to mention that in fact a material loss relating to the DOJ investigation was
+probable and reasonably estimable by January 8, 2013, when the Form 10-Q was filed.
+59.
+
+Additionally, RPM’s Form 10-Q falsely and misleadingly stated that, as of the end
+
+of RPM’s second quarter, the company’s “disclosure controls and procedures were effective.”
+But, as RPM later admitted in connection with its restatement, its disclosure controls and
+procedures were not effective at the end of the second quarter.
+60.
+
+As of January 8, 2013, when RPM’s second quarter Form 10-Q was filed with the
+
+SEC, Moore had only told the Audit Firm that the range of loss for the DOJ investigation was
+approximately $5 million. That representation was materially false and misleading because
+Moore knew that RPM had submitted overcharge estimates to DOJ totaling nearly $12 million
+(without considering any damages multiplier under the FCA), and that RPM was planning to
+submit a settlement offer of approximately $27-28 million in a matter of days.
+K.
+61.
+
+RPM Submits a Settlement Offer to DOJ and Records an Accrual
+On January 10, 2013, two days after RPM’s second quarter Form 10-Q was filed
+
+with the SEC, Moore told RPM’s CEO for the first time that the potential range of loss for the
+DOJ investigation had grown from $5 million to $28 million. Upon learning that information,
+
+17
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 18 of 28
+
+the CEO was surprised and angry and asked Moore, “How the hell could this happen?”
+According to the CEO, it was “impossible” for the range of loss to have grown so significantly
+between January 8 and 10, 2013.
+62.
+
+The next day, January 11, 2013, RPM submitted a 44-page settlement proposal to
+
+DOJ, offering to settle the DOJ investigation and the underlying FCA case for $28.3 million –
+the amount that RPM estimated Tremco overcharged the government without any damages
+multiplier under the FCA.
+63.
+
+RPM’s CFO did not learn that the company made a settlement offer of $28.3
+
+million until eleven days later, at a Board of Directors meeting on January 22, 2013. The CFO
+was shocked to learn that RPM’s offer, and its financial exposure in the DOJ investigation, were
+so high. The CFO did not know the true amount or range of RPM’s reasonably possible or
+probable loss in the DOJ investigation prior to that Board meeting because Moore failed to
+inform him of material developments in the investigation.
+64.
+
+On March 29, 2013, DOJ conveyed a settlement counter-offer of $71 million, which
+
+included a damages multiplier of approximately 2.5 under the FCA. On April 1, 2013, RPM for
+the first time recorded an accrual for the DOJ investigation, in the amount of $68.8 million,
+which was reflected on the company’s books as of the fiscal third quarter.
+L.
+65.
+
+RPM Discloses the DOJ Investigation and Accrual
+On April 4, 2013, RPM filed a Form 8-K, signed by Moore, which attached a press
+
+release concerning RPM’s financial results for the fiscal third quarter ended February 28, 2013,
+and publicly disclosed for the first time the DOJ investigation and related accrual. Later that
+day, RPM filed a Form 10-Q for its third quarter that also discussed the DOJ investigation and
+accrual. The Form 10-Q reported a net loss by RPM of $42.2 million for the third quarter,
+
+18
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 19 of 28
+
+compared to net income of $7.9 million for the same quarter one year earlier. According to the
+10-Q, the “primary driver of the decline” was the $68.8 million accrual for the DOJ
+investigation. Both the Forms 8-K and 10-Q misleadingly indicated that RPM had timely
+disclosed and accrued for the DOJ investigation in the fiscal third quarter, when in fact
+disclosure and accrual were required in the first and second quarters, as indicated by RPM’s
+subsequent restatement.
+66.
+
+As of April 4, 2013, when RPM publicly disclosed the DOJ investigation, the
+
+underlying FCA complaint remained under seal. Thus, the fact that the complaint was sealed did
+not prevent RPM from disclosing the DOJ investigation in an SEC filing.
+M.
+67.
+
+Moore Makes Further Misrepresentations to the Audit Firm About the DOJ
+Investigation
+On June 10, 2013, in connection with RPM’s fiscal year audit and the preparation
+
+of its Form 10-K, the Audit Firm met with Moore and asked about the timing of RPM’s accrual
+for the DOJ investigation. During the meeting, Moore stated that, after RPM’s Form 10-Q was
+filed on January 8, 2013, RPM completed additional pricing calculations for certain years under
+investigation and the government threatened to unseal the FCA complaint, and therefore RPM
+decided to make a settlement offer of $28 million on January 11, 2013.
+68.
+
+Moore’s June 10, 2013 statements to the Audit Firm were materially false and
+
+misleading because on December 19, 2012 – weeks before RPM’s Form 10-Q was filed on
+January 8, 2013 – RPM told DOJ a settlement offer would be submitted by January 11, 2013.
+Further, Moore’s June 10, 2013 statements to the Audit Firm were misleading because Moore
+still did not disclose the overcharge estimates that RPM had sent to DOJ prior to submitting the
+settlement offer or that RPM’s estimates of the contractual overcharges had grown to $27-28
+million by the time RPM’s second quarter Form 10-Q was filed on January 8, 2013.
+
+19
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 20 of 28
+
+N.
+
+RPM’s Form 10-K Discusses the DOJ Investigation, But Fails to Disclose
+Any Material Weakness in RPM’s Controls and Misleadingly Indicates that
+RPM Timely Disclosed and Accrued for the DOJ Investigation
+
+69.
+
+On July 24, 2013, RPM filed its Form 10-K for the fiscal year ended May 31, 2013.
+
+The Form 10-K discussed the DOJ investigation and the related accrual that RPM recorded in its
+third quarter ended February 28, 2013. The Form 10-K, however, misleadingly indicated that
+RPM timely disclosed and accrued for the DOJ investigation in the third quarter, when in fact
+disclosure and accrual were required in the first two quarters. Additionally, the Form 10-K
+misleadingly failed to disclose any material weakness in RPM’s internal control over financial
+reporting at any point during the fiscal year, when in fact such weakness existed. Instead, the
+Form 10-K misleadingly stated that RPM’s internal controls were effective.
+70.
+
+In July 2013, RPM paid Moore a cash bonus of $300,000 for the fiscal year ended
+
+May 31, 2013. That bonus was based in part on RPM’s financial performance during the fiscal
+year, including the company’s net income, which was bolstered by the October 2012 notes
+offering.
+71. In August 2013, RPM settled the DOJ investigation and the underlying FCA case
+for approximately $61 million. DOJ issued a press release announcing the settlement on August
+28, 2013.
+72. On December 5, 2013, RPM filed with the SEC a Prospectus Supplement for a
+$200 million notes offering. The underwriters exercised an option to purchase additional notes,
+bringing the total amount of the offering to $205 million. Moore oversaw the notes offering and
+reviewed the Prospectus Supplement before it was filed with the SEC. The Prospectus
+Supplement incorporated by reference RPM’s SEC filings, including the materially misleading
+Form 10-K filed on July 24, 2013, and stated that it was “important” for investors to consider
+this information. RPM’s sale of the notes closed on or around December 9, 2013.
+20
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 21 of 28
+
+O.
+73.
+
+The Audit Firm Learns New Facts About the DOJ Investigation
+On March 31, 2014, RPM sent the SEC staff a written chronology of events related
+
+to the DOJ investigation. Moore reviewed and authorized the chronology before it was sent to
+the SEC.
+74.
+
+The chronology discussed RPM’s communications with DOJ in 2012 and 2013.
+
+Among other things, the chronology stated that, “[o]n December 19, 2012, RPM and Tremco
+informed the DOJ that a settlement proposal would be submitted by January 11, 2013.”
+75.
+
+On April 5, 2014, the Audit Firm received a copy of RPM’s chronology and learned
+
+for the first time that, on December 19, 2012, RPM told DOJ a settlement offer would be
+submitted by January 11, 2013. Upon learning that new information, the Audit Firm was
+concerned. Shortly after reviewing RPM’s chronology, on April 5, 2014, the Audit Firm sent an
+e-mail to Moore and RPM’s CFO, stating in part: “We had an Audit Committee meeting on
+January 4, 2013 and the November 30, 2012 10-Q was filed January 8 I believe. At this time, we
+were told the whole matter was still a $5 million issue.”
+P.
+
+The Audit Firm Asks Additional Questions About the DOJ Investigation,
+and Moore Makes Additional Misrepresentations
+
+76.
+
+On April 8, 2014, members of the Audit Firm met with Moore and RPM’s CFO to
+
+discuss the chronology that RPM submitted to the SEC and a Form S-3 registration statement for
+which RPM needed the Audit Firm’s consent before filing with the SEC. During the meeting,
+Moore told the Audit Firm that: (1) on December 19, 2012, the range of reasonably possible loss
+for the DOJ investigation was $0 to $10 million; (2) the range of reasonably possible loss
+continued to be $0 to $10 million through January 8, 2013, when RPM’s second quarter Form
+10-Q was filed; and (3) the range of loss went from $0 to $10 million up to $28 million, and
+became probable, between January 8 and 11, 2013.
+
+21
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 22 of 28
+
+77.
+
+Moore’s April 8, 2014 statements to the Audit Firm were materially false and
+
+misleading because Moore knew that: (1) by December 19, 2012, the overcharge estimates RPM
+had sent to DOJ totaled nearly $12 million without any damages multiplier under the FCA; (2)
+by January 8, 2013, RPM’s calculations for its settlement offer had reached $27-28 million; and
+(3) RPM’s range of reasonably possible or probable loss had reached $27-28 million by
+December 21, 2012 – it did not jump to that amount between January 8 and 11, 2013. Based on
+Moore’s misrepresentations, the Audit Firm provided its consent for the Form S-3, which RPM
+filed with the SEC.
+78.
+
+In July 2014, RPM paid Moore a cash bonus of $400,000 for the fiscal year ended
+
+May 31, 2014. That bonus was based in part on RPM’s financial performance during the fiscal
+year, including the company’s net income, which was bolstered by the December 2013 notes
+offering.
+Q.
+79.
+
+RPM Restates its Financial Statements
+During the summer of 2014, the Audit Firm learned additional facts about the DOJ
+
+investigation, including the overcharge estimates that RPM sent to DOJ in 2012. As a result of
+that new information, on or around July 17, 2014, the Audit Firm told RPM that the Audit Firm
+would not sign off on RPM’s Form 10-K for the fiscal year ended May 31, 2014, unless RPM
+conducted an independent investigation regarding its disclosure and accrual for the DOJ
+investigation. In response, RPM’s Audit Committee hired a law firm to conduct an investigation
+(the “Audit Committee investigation”). The Audit Committee investigation took place from late
+July through early August 2014.
+80.
+
+On August 10, 2014, the findings of the Audit Committee investigation were shared
+
+with the Audit Firm in a conference call. Those findings included, among other things, that by
+
+22
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 23 of 28
+
+the end of the third week of December 2012, it became “known to Ed Moore” that RPM’s
+financial exposure in the DOJ investigation was “going to jump” from around $11 million to
+around $28 million; that RPM’s securities “[d]isclosure counsel [was] not aware” of the
+overcharge estimates sent to DOJ; and that Moore made “mistakes,” including “no disclosure to
+[the Audit Firm] or audit committee” at the Audit Committee meeting on January 4, 2013.
+81.
+
+The next day, August 11, 2014, the Audit Committee directed RPM to restate the
+
+first, second, and third quarters of fiscal year 2013. RPM determined that its restated financial
+statements would reflect an $11.4 million accrual for the DOJ investigation in the first quarter
+(which corresponded to the $11.4 million estimate sent to DOJ on October 1, 2012), and an
+additional $16.9 million accrual for the investigation in the second quarter (for a total accrual of
+$28.3 million, which corresponded to RPM’s settlement offer to DOJ on January 11, 2013).
+RPM also restated its third quarter to reduce the accrual in that quarter from $68.8 million to
+$40.5 million, since $28.3 million was accrued in the restated first and second quarters.
+82.
+
+On August 14, 2014, RPM filed a Form 8-K, signed by Moore, to announce the
+
+restatement. The Form 8-K stated that RPM made “errors” in disclosing and accruing for the
+DOJ investigation. The restatement was necessary because RPM’s disclosure and accounting
+errors were material. Moreover, RPM’s Form 8-K also disclosed that “the restatement reflects a
+material weakness in the Company’s internal control over financial reporting and that its
+disclosure controls and procedures were not effective” as of the first and second fiscal quarters
+ended on August 31 and November 30, 2012.
+83.
+
+Also on August 14, 2014, RPM filed amended Forms 10-Q for the first quarter
+
+ended August 31, 2012, and the second quarter ended November 30, 2012. The amended Forms
+10-Q, unlike the originals, disclosed the DOJ investigation and reflected accruals showing
+
+23
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 24 of 28
+
+RPM’s “best estimate of the amount of probable loss” associated with the DOJ investigation.
+84.
+
+RPM’s restatement and amended SEC filings thus confirmed that RPM’s original
+
+SEC filings in 2012 and 2013, referenced above, were materially inaccurate. By filing amended
+Forms 10-Q that disclosed the DOJ investigation and related accruals, RPM essentially admitted
+not only that a material loss was reasonably possible by October 4, 2012 and January 8, 2013,
+when the original Forms 10-Q were filed, but also that a material loss was probable and
+estimable by those dates.
+FIRST CLAIM FOR RELIEF
+Violations of Securities Act Section 17(a)(2)
+(Against RPM and Moore)
+85.
+
+All of the foregoing paragraphs are incorporated by reference herein.
+
+86.
+
+By the conduct alleged herein, RPM and Moore, in the offer or sale of RPM
+
+securities, by use of any means or instruments of transportation or communication in interstate
+commerce or by use of the mails, directly or indirectly, and acting at least negligently, obtained
+money or property by means of untrue statements of material fact and material omissions.
+87.
+
+By reason of the foregoing, RPM and Moore violated Section 17(a)(2) of the
+
+Securities Act [15 U.S.C. § 77q(a)(2)].
+SECOND CLAIM FOR RELIEF
+Violations of Securities Act Section 17(a)(3)
+(Against RPM and Moore)
+88.
+
+All of the foregoing paragraphs are incorporated by reference herein.
+
+89.
+
+By the conduct alleged herein, RPM and Moore, in the offer or sale of RPM
+
+securities, by use of any means or instruments of transportation or communication in interstate
+commerce or by use of the mails, directly or indirectly, and acting at least negligently, engaged
+in transactions, practices, or courses of business that operated or would operate as a fraud or
+
+24
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 25 of 28
+
+deceit upon the purchaser of the securities.
+90.
+
+By reason of the foregoing, RPM and Moore violated Section 17(a)(3) of the
+
+Securities Act [15 U.S.C. § 77q(a)(3)].
+THIRD CLAIM FOR RELIEF
+Violations of Exchange Act Section 13(a) and
+Exchange Act Rules 12b-20, 13a-1, 13a-11, and 13a-13
+(Against RPM)
+91.
+
+All of the foregoing paragraphs are incorporated by reference herein.
+
+92.
+
+Section 13(a) of the Exchange Act [15 U.S.C. § 78m(a)] and Rules 13a-1, 13a-11,
+
+and 13a-13 thereunder [17 C.F.R. §§ 240.13a-1, 240.13a-11, and 240.13a-13] require issuers of
+registered securities to file with the SEC factually accurate annual reports (on Form 10-K),
+quarterly reports (on Form 10-Q), and current reports (on Form 8-K). Exchange Act Rule 12b20 [17 C.F.R. § 240.12b-20] provides that, in addition to the information expressly required to be
+included in a statement or report, there shall be added such further material information, if any,
+as may be necessary to make the required statements, in light of the circumstances under which
+they were made, not misleading.
+93.
+
+By reason of the foregoing, RPM violated Section 13(a) of the Exchange Act and
+
+Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.
+FOURTH CLAIM FOR RELIEF
+Violations of Exchange Act Section 13(b)(2)(A)
+(Against RPM)
+94.
+
+All of the foregoing paragraphs are incorporated by reference herein.
+
+95.
+
+Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. § 78m(b)(2)(A)] requires
+
+issuers to make and keep books, records, and accounts, which, in reasonable detail, accurately
+and fairly reflect the transactions of the company and dispositions of its assets.
+96.
+
+By reason of the foregoing, RPM violated Section 13(b)(2)(A) of the Exchange Act.
+
+25
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 26 of 28
+
+FIFTH CLAIM FOR RELIEF
+Violations of Exchange Act Section 13(b)(2)(B)
+(Against RPM)
+97.
+
+All of the foregoing paragraphs are incorporated by reference herein.
+
+98.
+
+Section 13(b)(2)(B) of the Exchange Act [15 U.S.C. § 78m(b)(2)(B)] requires
+
+issuers to devise and maintain a system of internal accounting controls sufficient to provide
+reasonable assurances that transactions are recorded as necessary to permit preparation of
+financial statements in conformity with GAAP and to maintain the accountability of assets.
+99.
+
+By reason of the foregoing, RPM violated Section 13(b)(2)(B) of the Exchange Act.
+SIXTH CLAIM FOR RELIEF
+Violations of Exchange Act Rule 13b2-1
+(Against Moore)
+
+100. All of the foregoing paragraphs are incorporated by reference herein.
+101. Rule 13b2-1 under the Exchange Act [17 C.F.R. § 240.13b2-1] provides that no
+person shall, directly or indirectly, falsify or cause to be falsified, any book, record or account
+subject to section 13(b)(2)(A) of the Exchange Act.
+102. By reason of the foregoing, Moore violated Rule 13b2-1 under the Exchange Act.
+SEVENTH CLAIM FOR RELIEF
+Violations of Exchange Act Rule 13b2-2(a)
+(Against Moore)
+103. All of the foregoing paragraphs are incorporated by reference herein.
+104. Rule 13b2-2(a) [17 C.F.R. § 240.13b2-2(a)] provides that no director or officer of
+an issuer shall, directly or indirectly, make or cause to be made a materially false or misleading
+statement to an accountant or omit to state, or cause another person to omit to state, any material
+fact necessary in order to make statements made, in light of the circumstances under which such
+statements were made, not misleading, to an accountant in connection with any audit, review, or
+
+26
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 27 of 28
+
+examination of the financial statements of the issuer or the preparation or filing of any document
+or report required to be filed with the SEC.
+105. By reason of the foregoing, Moore violated Rule 13b2-2(a) under the Exchange
+Act.
+PRAYER FOR RELIEF
+Accordingly, the SEC respectfully requests that the Court enter a final judgment:
+A.
+
+Permanently enjoining RPM from further violations of Sections 17(a)(2) and
+
+(a)(3) of the Securities Act [15 U.S.C. §§ 77q(a)(2) and 77q(a)(3)]; Sections 13(a), 13(b)(2)(A),
+and 13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78m(a), 78m(b)(2)(A), and 78m(b)(2)(B)];
+and Exchange Act Rules 12b-20, 13a-1, 13a-11, and 13a-13 [17 C.F.R. §§ 240.12b-20, 240.13a1, 240.13a-11, and 240.13a-13];
+B.
+
+Permanently enjoining Moore from further violations of Sections 17(a)(2) and
+
+(a)(3) of the Securities Act [15 U.S.C. §§ 77q(a)(2) and 77q(a)(3)], and Exchange Act Rules
+13b2-1 and 13b2-2(a) [17 C.F.R. §§ 240.13b2-1 and 240.13b2-2(a)];
+C.
+
+Ordering RPM and Moore to disgorge their ill-gotten gains as a result of the
+
+conduct alleged in this Complaint, plus prejudgment interest thereon;
+D.
+
+Ordering RPM and Moore to pay civil money penalties pursuant to Section 20(d)
+
+of the Securities Act [15 U.S.C. § 77t(d)] and Section 21(d)(3) of the Exchange Act [15 U.S.C. §
+78u(d)(3)]; and
+E.
+
+Granting such other and further relief as the Court deems appropriate.
+
+27
+
+Case 1:16-cv-01803 Document 1 Filed 09/09/16 Page 28 of 28
+
+JURY DEMAND
+Pursuant to Federal Rule of Civil Procedure 38, the SEC demands a trial by jury on all
+issues so triable.
+
+Of Counsel:
+
+Respectfully submitted,
+
+Antonia Chion
+Cheryl L. Crumpton
+Stacy L. Bogert
+
+/s/ Timothy K. Halloran
+H. Michael Semler (DC Bar No. 162479)
+Tel: 202-551-4429
+E-mail: semlerm@sec.gov
+Gregory R. Bockin (DC Bar No. 450885)
+Tel: 202-551-5684
+E-mail: bocking@sec.gov
+Timothy K. Halloran (DC Bar No. 483245)
+Tel: 202-551-4414
+E-mail: hallorant@sec.gov
+Securities and Exchange Commission
+100 F Street, NE
+Washington, DC 20549
+
+Dated: September 9, 2016
+
+28
+
+

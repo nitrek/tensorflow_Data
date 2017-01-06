@@ -1,0 +1,348 @@
+October 3, 2016
+
+1211 Avenue of the Americas
+19th Floor
+New York, NY 10036
+Phone: (202) 434-9213
+(202) 448-1985
+Fax:
+(866) 516-6923
+
+Brent J. Fields
+Secretary
+Securities and Exchange Commission
+100 F Street NE
+Washington, DC 20549-1090
+RE: Business and Financial Disclosures Required by Regulation S-K, Release No. 33–10110; 34–78310; IC–
+32175; File No. S7–15–16
+Dear Mr. Fields:
+On behalf of XBRL US and its members, I am writing to respond to the SEC proposal on Disclosure Update
+and Simplification, File No. S7–15–16. XBRL US is a non-profit, standards organization with a mission to
+improve the efficiency and quality of reporting in the U.S. by promoting the adoption of business reporting
+standards. XBRL US is a jurisdiction of XBRL International, the not for profit consortium responsible for
+developing and maintaining the technical specification for XBRL, a free and open data standard widely
+used around the world for reporting by public and private companies as well as government agencies.
+XBRL US members include accounting firms, public companies, software, data and service providers, other
+nonprofits and standards organizations.
+We support the goals of this proposal to eliminate information that may be redundant, duplicative,
+overlapping, outdated, or superseded, which will help to reduce the burden on filers and to facilitate
+improved disclosure for investors. This letter provides input to specific questions raised in the release and
+proposes other recommendations that will help the Commission meet its goal of increasing disclosure
+effectiveness. In summary, we encourage the Commission to:
+●
+●
+●
+
+●
+
+Ensure that all facts that companies are required to report to investors be provided in a computerreadable format to facilitate greater ease of analysis,
+Require the use of standardized identifiers to give investors a consistent method to identify traded
+securities as well as legal entities,
+Support, acknowledge and adopt the work of the industry-led XBRL US Data Quality Committee,
+which provides freely available rules and guidance for issuers to improve the quality of financial
+data,
+Require the use of standard data identifiers for facts reported by all entities in disclosures to the
+Commission, and
+
+Page | 1
+
+●
+
+Lead an effort to standardize the way public companies are required to report to multiple
+government agencies.
+
+Response to Questions Raised in the SEC Proposal
+Public companies today are required to submit some data in computer-readable XBRL format (in addition
+to HTML) and some data only in HTML or Text, which is not computer-readable. HTML or Text-based data
+cannot be automatically and efficiently consumed by investors, regulators and other data users. Content
+that is XBRL-tagged however, can be efficiently and automatically extracted and therefore made available
+more quickly than data that is not tagged.
+Today, only data contained in the financial statements must be reported in XBRL format. This data must
+be block-tagged, which requires associating a concept such as “Accounting Policy” with a block of text
+and/or financial tables; and detail-tagged, which requires associating a concept such as “Earnings per
+Share” with an individual reported fact, such as $1.20.
+
+Benefits of Structured Data
+The SEC proposal poses the question:
+“… what are the benefits and costs of the inclusion/exclusion of these disclosures in the financial
+statements for investors and issuers? How important are these benefits and costs to investors and issuers?
+Please quantify the benefits and costs, to the extent practicable.”
+A paper published in June 2016 by the CFA Institute1, the global association for investment professionals,
+states that “standard setters need to include technological advancements in their decision-making
+process when setting accounting and disclosure requirements” and focuses on structured data,
+specifically XBRL, as one of these technology advancements that can improve disclosure for investors. The
+paper enumerates the benefits of structured data2 for investors as follows:
+●
+●
+●
+●
+●
+
+Improves financial statement accuracy - eliminating errors from keying information incorrectly
+and avoiding misinterpretation errors,
+Improves productivity - allowing analysts to spend less time on data collection, and enabling
+deeper analysis,
+Increases opportunity for higher returns - allows for faster and better analysis; and more in-depth
+analysis of individual companies,
+Allows for better risk management, and
+Empowers the analyst by allowing easier analysis of disclosures.
+
+Benefits for investors are further supported by statements made by Jo Guo, Head of Fundamentals, Equity
+Data Operations, at Morningstar: “Using XBRL has increased our productivity and efficiency… We are able
+to process each [XBRL] filing within 1-2 minutes, and provide our clients with more timely data. This stands
+in contrast to other document types where it takes at least 20 minutes to process an HTML filing, 30
+1
+
+Source: CFA Institute Data and Technology, Transforming the Financial Information Landscape, June 2016, page 40.
+http://www.cfapubs.org/doi/pdf/10.2469/ccb.v2016.n7.1?_ga=1.23623866.1817188536.1474298966.
+2
+Ibid, page 31.
+
+Page 2 of 8
+
+minutes for a good quality PDF and 50 minutes for an image document”. 3 The ability to read XBRL data
+into financial systems automatically means that data providers can process it more quickly and less
+expensively than traditional data types, providing greater value to investment clients.
+Analysis can be performed by investors, journalists and other stakeholders much more efficiently with
+structured, than with unstructured data. An example can be seen by considering a typical analysis
+performed by The Analyst's Accounting Observer, a research service dedicated to making investors and
+analysts aware of the investment impact of accounting issues. Each year, the Accounting Observer
+evaluates unremitted foreign earnings for the S&P 500 companies4. Unremitted foreign earnings can have
+significant implications for corporate earnings and is reported by public companies embedded in the
+footnotes to the financials. Before XBRL data was available, this analysis took approximately 80 hours to
+manually review 500 filings, searching for data points buried in the footnotes. Today with XBRL, the same
+analysis takes approximately 8 hours, a 90% time savings. Efficiencies in data processing mean analysis
+can be conducted in a shorter timeframe. This often means that more data (and more companies) can be
+included in an analysis which makes findings more useful - a significant benefit for investors.
+The SEC proposal recommends changes that will result in the elimination of XBRL tagging for these areas:
+● Issuer status as a REIT. REITs are not subject to entity-level taxation on the amounts distributed
+to their investors as long as their status as a REIT is maintained. Currently this must be disclosed
+in the notes to financials but the proposal suggests eliminating this information in the notes but
+retaining it in non-financial portions of the filing.
+● Disclosure of unusual or infrequent events or changes which include the nature and effect of
+material nonrecurring reinsurance transactions.
+● Material changes in issuers financial condition and results of operations; unusual or infrequent
+events that have material impact; and known trends.
+● Triggering events that accelerate or decelerate direct financial obligations
+If information is important enough for issuers to be required to disclose it, then that information should
+be tagged to make it more accessible and timely to data consumers. Eliminating the tagging of the data
+noted above will make it significantly more difficult for investors and other stakeholders to quickly identify
+and extract the information, and to perform timely, efficient analysis.
+
+Cost of Structured Data
+The cost of submitting data in XBRL format is estimated at an average of $10,000 per year for small
+companies, based on a study conducted by the AICPA and XBRL US5. The possible savings that a company
+may recognize if they were able to eliminate tagging of a handful of disclosures is negligible; once the
+fixed cost of establishing the XBRL process for reporting is in place, additional disclosures add little to the
+cost. Therefore, the changes proposed by the SEC which would eliminate tagging for selected items will
+result in virtually no cost savings for issuers and will likely have a negative impact for the investors and
+other users who need timely data to make decisions on investments and policy.
+3
+
+Morningstar discusses the value of financial data and structured data in October 8, 2015 video: The Importance of Financial
+Data for Stock Research, October 8, 2015: https://youtu.be/TkuQguC1qNU
+4
+Analyst’s Accounting Observer case study: https://xbrl.us/wp-content/uploads/2014/10/Accounting-Observer-Case-Study.pdf
+5
+AICPA/XBRL US Cost survey:
+https://www.aicpa.org/interestareas/frc/accountingfinancialreporting/xbrl/pages/xbrlcostsstudy.aspx
+
+Page 3 of 8
+
+Recommendations
+Require All Disclosures in Computer-readable Format
+MD&A
+We strongly recommend that all data, beyond just the financial statements, be provided in tagged format.
+Data embedded in the MD&A is currently not tagged. If all data of interest to investors, including that in
+the MD&A, were tagged, it would be significantly more useful to investors, regulators and other data
+consumers. In addition, disclosures reported in both the MD&A and financial statements can be
+consolidated without the risk of losing data tagged in a computer-readable format.
+Other Financial Data
+Other content such as earnings releases, corporate actions and proxy statements, is also not available in
+tagged, computer-readable format. This data is of great interest to investors and would be more valuable
+if also available in a tagged format. If companies also use standard identifiers in their filings information
+can be linked to data reported in proxies and corporate actions disclosures, alleviating the need to rereport security reference and pricing data in quarterly and yearly financial reports.
+The CFA Institute paper of June 2016 notes:
+“Earnings releases and supplemental reporting packages are the documents that most often move
+markets. But data from earnings releases remain unstructured, and XBRL versions are voluntary. We
+believe that requiring companies to tag their earnings releases, as well as requiring them to submit
+earnings releases to the SEC for dissemination before issuing press releases, will be beneficial for investors
+... Some very rich data exist in the management’s discussion and analysis (MD&A) section of filings.
+Unfortunately, the MD&A section falls outside the scope of the XBRL mandate. Requiring this section and
+other numeric data to be tagged would open up a trove of valuable data for all investors.”6
+The CFA Institute paper goes on to note:
+“Structured reporting is most effective when it is broadly applied to all aspects of reporting—that is, to
+earnings releases and all regulatory filings, such as Form 8-K, proxy statements, tax reporting, and so forth.
+… Consistent use of structured data for all reporting will help make the data consistent within the company
+over time and comparable between companies”.7
+
+Standardization of Identifiers
+The SEC’s disclosure effectiveness initiative could reach its goals more efficiently by embracing standards.
+This section addresses several recommendations related to the use of standards in disclosure that will
+benefit both issuers and investors.
+
+6
+7
+
+CFA Institute Data and Technology, Transforming the Financial Information Landscape, June 2016, page 35.
+Ibid, page 47.
+
+Page 4 of 8
+
+Require the Use of the Legal Entity Identifier (LEI)
+The LEI is a global identifier being adopted by regulators worldwide that is freely available for investors
+and regulators to use. We recommend that the SEC goes beyond merely replacing the CIK with the LEI but
+require that the LEI be used in additional areas throughout the filing to aid investors. For example, when
+a company refers to another legal entity, they should be required to refer to that entity using the
+appropriate LEI.
+Use of the LEI would significantly improve the functionality of the filings as it would uniquely and
+unambiguously identify participants in financial transactions and bring clarity to the interrelationships
+between these entities. In addition, it will allow information collected by the SEC to be easily compared
+with data collected by other federal agencies that have made a commitment to using the LEI. The LEI is
+ideal for this purpose as it is an international identifier that can be used for companies worldwide.
+The Commission should note that a joint working group of XBRL International and the GLEIF (Global Legal
+Entity Identifier Foundation) has been formed to determine the best ways to ensure that LEIs are reported
+inside XBRL documents in a consistent fashion, as primary or secondary identifiers, and to show the
+relationship between an entity and its subsidiaries.
+Security Identifier
+The SEC proposal poses the following questions:
+“..Is disclosure of trading symbols an adequate substitute for the current required disclosures in Item
+201(a)(1) of Regulation S-K and Item 9.A.4 of Form 20-F? Why or why not?”
+“Should foreign issuers be required to disclose the trading symbol(s) for both the principal U.S. market and
+the principal established foreign public trading market(s), as applicable? Why or why not?”
+Requiring filers to report market data in their filings that is freely and easily available via data feeds, mobile
+applications and websites is unnecessary. When these rules were originally written this was not the case,
+but now this data is easily obtained from alternative sources.
+The filing however, must have clear identification of the type of security and the market on which it is
+traded. We recommend that the filer identifies the tickers for the primary markets where all their issued
+instruments are traded including common stock, warrants, rights, convertible securities and preferred
+securities. In addition, the SEC should define clear standards for the ticker notation to be used so all filers
+use the same notation. For example, the notation for different classes of securities is often reported
+differently. For example the same class A preferred security is often referred to with either a dot, hyphen
+or space notation, e.g. ticker.A vs. ticker-A vs ticker A.
+For foreign issuers, both the principal U.S. market and the principal established foreign public trading
+market(s) should be disclosed. Because many of these securities are traded as American Depository
+Receipts (ADR), it is not always easy to identify the underlying security which represents the ADR. In
+addition, if a security is traded in a U.S. market as an ADR, the ADR ratio8 should be required to be reported
+by the company as this data is not always easily available to investors.
+8
+
+Defined as the number of foreign shares represented by one ADR. The ratio is typically depicted as, for example, "1 : 3",
+meaning that one ADR represents 3 foreign shares.
+
+Page 5 of 8
+
+The ticker symbol may be reliable for pricing data but not for other types of information for a variety of
+reasons: 1) it is only associated with securities that are traded on a market; 2) companies often change
+ticker symbols; 3) the market on which a security is trading may also change. Most investors however, are
+concerned with data related directly to the security, such as dividend amounts, payment dates and
+outstanding corporate action information. All of this data needs to be compiled by the investor to inform
+investment decisions and expected cash flows from a security, or actions they need to take as an owner
+of the security.
+For this reason, we believe it would be beneficial that, in addition to the ticker symbols related to a
+security, the underlying security identifier should also be reported. Money market funds reporting to the
+SEC do not report the tickers of the securities they hold. Instead they report the CUSIP. It is inconsistent
+that these funds use the CUSIP as the security identifier and the companies issuing the security only report
+the ticker. We recommend that when companies report details of the securities they have issued they
+also report the CUSIP associated with that security. This will allow investors to reliably obtain additional
+data about that security from alternative locations and eliminate the need for companies to repeatedly
+report reference data in their filings.
+
+Support and Acknowledge the Work of the XBRL US Data Quality Committee
+XBRL US established the Data Quality Committee (DQC)9 to address concerns about, and to improve the
+utility of, XBRL financial data filed with the SEC. The DQC is responsible for developing freely available
+guidance and validation rules that can prevent or detect inconsistencies or errors in XBRL SEC data. The
+DQC prioritizes issues based on trend analysis and input from users; and provides an open collaborative
+process with stakeholders through exposure of its proposed guidance and validation rules for public
+comment.
+Members of the DQC include representatives from public companies, software providers, data
+aggregators, institutional investors, the accounting profession and academia. The work of the DQC has
+already been proven to reduce errors in XBRL filings. A study10 conducted by the DQC found that by using
+its first set of validation rules, filers reduced the number of errors in their filings for the data covered by
+those rules by 64% in the first quarter of 2016 as compared to the first quarter of 2015. Large accelerated
+filers had a 70% decrease in the number of errors, while smaller companies had a 60% decrease.
+The CFA Institute paper noted earlier, favorably references the rules established by the DQC, stating that
+they are “intended to clean up reporting practices on a range of straightforward topics, such as the tagging
+of dates, and inappropriate use of negative values. Although these rules pertain specifically to filings with
+the SEC, it is our hope that other jurisdictions will develop comparable rules.”11
+We encourage the SEC to acknowledge, support, and adopt the guidance developed by the industrydriven DQC.
+
+9
+
+XBRL US Data Quality Committee: https://xbrl.us/data-quality/committee/
+XBRL US DQC Rule Results, Q1 2015 – Q1 2016, https://xbrl.us/data-quality/dqc-results/
+11
+CFA Institute Data and Technology, Transforming the Financial Information Landscape, June 2016, page 25.
+10
+
+Page 6 of 8
+
+Require the Use of Standard Identifiers for All Data Reported to the SEC
+Standard concepts should be used for all financial reporting required by the Commission and should be
+considered whenever a new disclosure requirement is put in place. Inconsistent disclosure requirements
+result in inconsistent data reported which is not helpful to stakeholders.
+For example, a recent review of Form C documents submitted by small businesses under Regulation
+Crowdfunding showed that definitions used for data reported do not match definitions in the US GAAP
+Taxonomy for line items such as Revenues and Assets.
+Investors should be able to review data from both public companies and from small businesses that are
+consistently defined. The difficult work of establishing standard line items has already been done and is
+available in the US GAAP Financial Reporting Taxonomy; it’s a logical step to employ the same standards
+for other financial statement reporting needs such as Regulation Crowdfunding.
+
+Review corporate reporting to other government agencies and adapt SEC
+requirements to reduce the burden on filers
+The Commission should lead an effort to establish consistent standards reported by public companies to
+government agencies. This effort will reduce the burden on registrants and agencies, improve data quality
+and generate savings across the corporate/regulatory reporting chain.
+By way of example, the Australian government instituted a program called Standard Business Reporting
+(SBR)12 which established standards in the way information was reported from corporations to regulators.
+In 2010, the Australian Tax Authority provided software companies a standard set of templates and tools
+that software companies could build into their offerings which converted reported data into structured
+(XBRL) format. The program was originally estimated to save $800 million a year across government and
+industry. Recent findings however, show that savings are now estimated at $1.1 billion for 2015/2016.13
+Given that Australian GDP constitutes about 6.8% of US GDP14, the savings across government and
+business from implementing a similar program in the US would be substantially greater.
+To undertake this project, the Commission should review what data is required and how it is reported to
+other agencies that is duplicative of SEC requirements; and then work to adapt SEC requirements to match
+what is required by these agencies. Public companies report to multiple agencies, e.g., Bureau of
+Economic Analysis (BEA), the IRS, the Department of Labor, the FDIC, the Federal Reserve, etc., often
+reporting the same information, at different frequencies, in different formats. Consistent reporting
+requirements would increase efficiencies and reduce labor costs both for reporting entities and for the
+agencies collecting the data; and it would improve the accuracy and usefulness of the data generated.
+A case study conducted by XBRL US that focused on United Technologies15, analyzed that organization’s
+reporting to multiple agencies: the BEA, Equal Employment Opportunity Commission (EEOC), the
+Department of Labor (DOL), the Federal Reserve Bank and the SEC, (a subset of the total reporting
+12
+
+SBR, an Australian Government Inititiative: http://www.sbr.gov.au/
+itNews “Tax Office claims $1 billion in savings from SBR”, Aug 3, 2016: http://www.itnews.com.au/news/tax-office-claims-1billion-in-savings-from-sbr-432460
+14
+Based on Wikipedia figures for 2015:
+https://en.wikipedia.org/wiki/Comparison_between_U.S._states_and_countries_by_GDP_(nominal)
+15
+Better Reporting for Better Decisions, Oct 2011: https://xbrl.us/xusnews/case-studies-white-papers/xbrlus-utc-2011/
+13
+
+Page 7 of 8
+
+conducted each year by United Technologies). The study found that reporting to these agencies alone
+required the equivalent of 12,000 man-hours per year (6.8 FTEs) and resulted in a significant duplication
+of effort throughout the company.
+We recognize that this program would require significant research and effort to put in place; but the
+expected payoff based on real-world experience, shows that it is well worth the effort.
+
+Conclusion
+Clear, consistent disclosures by public companies are critical to maintaining efficient capital markets and
+we applaud the Commission’s work to review and refine current practice. The Commission’s evaluation
+comes at an opportune time given technology advances and the availability of widely-used standards
+today which can dramatically improve the information available to issuers, investors, analysts and the
+public.
+We appreciate the opportunity to provide our recommendations and are available to respond to any
+questions the Commission may have.
+
+Campbell Pryde, President and CEO
+XBRL US, Inc.
+
+Page 8 of 8
+
+

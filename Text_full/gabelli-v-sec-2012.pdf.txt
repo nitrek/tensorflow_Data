@@ -1,0 +1,2124 @@
+No. 11-1274
+
+In the Supreme Court of the United States
+
+MARC J. GABELLI AND BRUCE ALPERT, PETITIONERS
+v.
+SECURITIES AND EXCHANGE COMMISSION
+ON WRIT OF CERTIORARI
+
+TO THE UNITED STATES COURT OF APPEALS
+
+FOR THE SECOND CIRCUIT
+
+
+BRIEF FOR THE RESPONDENT
+
+MARK D. CAHN
+General Counsel
+MICHAEL A. CONLEY
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+HOPE HALL AUGUSTINI
+DOMINICK V. FREDA
+Senior Litigation Counsels
+DAVID LISITZA
+Senior Counsel
+Securities and Exchange
+Commission
+Washington, D.C. 20549
+
+DONALD B. VERRILLI, JR.
+Solicitor General
+
+Counsel of Record
+
+MALCOLM L. STEWART
+Deputy Solicitor General
+JEFFREY B. WALL
+Assistant to the Solicitor
+General
+Department of Justice
+Washington, D.C. 20530-0001
+SupremeCtBriefs@usdoj.gov
+(202) 514-2217
+
+QUESTION PRESENTED
+
+Whether the court of appeals correctly held that the
+five-year limitations period in 28 U.S.C. 2462 did not
+begin to run until the Securities and Exchange Commission discovered, or reasonably could have discovered,
+petitioners’ alleged fraudulent scheme.
+
+(I)
+
+
+TABLE OF CONTENTS
+
+Page
+
+Opinions below . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+Jurisdiction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+
+Summary of argument . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8 
+
+Argument . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 
+
+I. 	 The five-year limitations period in 28 U.S.C. 2462 did
+
+not begin to run until the Commission discovered, or
+
+with reasonable diligence could have discovered, petitioners’ fraudulent scheme . . . . . . . . . . . . . . . . . . . . . . . . 12 
+
+A.	 In fraud cases, the discovery rule commences
+
+the running of Section 2462’s limitations period upon actual or constructive discovery of
+
+the fraud . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 
+
+B.	 This case does not present the question of
+
+when Section 2462 begins to run in nonfraud
+
+cases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 
+
+II. 	 Petitioners’ counterarguments lack merit . . . . . . . . . . . 24 
+
+A.	 The application of a discovery rule in cases of
+
+fraud or concealment dates to the beginning of
+
+the Republic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 
+
+1.	 Federal courts have consistently applied
+
+the fraud discovery rule both before and
+
+after Section 2462’s enactment . . . . . . . . . . . . . 24 
+
+2.	 The historical exception covers cases of
+
+fraud as well as cases of concealment . . . . . . . . 29 
+
+B.	 In fraud cases, the discovery rule is read into
+
+federal statutes of limitations unless Congress
+
+specifies otherwise . . . . . . . . . . . . . . . . . . . . . . . . . . . 33 
+
+C.	 When Congress has explicitly addressed discovery in other federal limitations statutes, it
+
+has generally done so in order to expand or
+
+contract the traditional rule . . . . . . . . . . . . . . . . . . . 38 
+
+(III)
+
+IV
+
+Table of Contents—Continued:	
+
+Page
+
+D.	 The fraud discovery rule applies equally to the
+government as to private plaintiffs . . . . . . . . . . . . .
+E.	 The fraud discovery rule balances the need for
+repose against the need to prevent abuse of
+limitations statutes . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F.	 The fraud discovery rule has proved to be judicially administrable for more than two centuries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+41
+
+46
+
+48
+52 
+
+
+TABLE OF AUTHORITIES
+
+Cases:
+Adams v. Woods, 6 U.S. (2 Cranch) 336 (1805) . . . . . . . . . 48
+Ali v. Federal Bureau of Prisons, 552 U.S. 214 (2008) . . . 10
+Amy v. Watertown (No. 2), 130 U.S. 320
+(1889) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26, 41, 44
+BP America Prod. Co. v. Burton, 549 U.S. 84 (2006) . . . . 42
+Bailey v. Glover, 88 U.S. (21 Wall.) 342 (1875) . . . . . passim
+Bay Area Laundry & Dry Cleaning Pension Trust
+Fund v. Ferbar Corp. of Cal., Inc., 522 U.S. 192
+(1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 21
+Beaubien v. Beaubien, 64 U.S. (23 How.) 190 (1860) . . . . 31
+Booth v. Warrington, (1714) 2 Eng. Rep. 111 (H.L.) . . . . 24
+Bowen v. Massachusetts, 487 U.S. 879 (1988) . . . . . . . . . . 27
+Bree v. Holbech, (1781) 99 Eng. Rep. 415 (K.B.) . . . . . . . . 25
+Cada v. Baxter Healthcare Corp., 920 F.2d 446
+(7th Cir. 1990), cert. denied, 501 U.S. 1261
+(1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34, 38
+Carr v. Hilton, 5 F. Cas. 134 (C.C.D. Me. 1852) . . . . . . . . 31 
+
+
+V
+
+Cases—Continued:
+
+Page
+
+Case of Broderick’s Will, 88 U.S. (21 Wall.) 503 
+
+(1875) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26, 44 
+
+Clark v. Hougham, (1823) 107 Eng. Rep. 339 
+
+(K.B.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 
+
+Clos v. Corrections Corp. of Am., 597 F.3d 925 
+
+(8th Cir. 2010) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 
+
+Corwin v. Marney, Orton Invs., 843 F.2d 194 
+
+(5th Cir.), cert. denied, 488 U.S. 924 (1988) . . . . . . . . . . 51 
+
+Credit Suisse Secs. (USA) LLC v. Simmonds, 
+
+132 S. Ct. 1414 (2012) . . . . . . . . . . . . . . . . . . . . . . . . . 31, 47 
+
+Dabney v. Levy, 191 F.2d 201 (2d Cir.), 
+
+cert. denied, 342 U.S. 887 (1951) . . . . . . . . . . . . . . . . . . . 34 
+
+Doe v. United States, 513 F.3d 1348 (Fed. Cir. 2008) . . . . . 7 
+
+Exploration Co. v. United States, 247 U.S. 435 
+
+(1918) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . passim
+
+FEC v. Williams, 104 F.3d 237 (9th Cir. 1996), 
+
+cert. denied, 522 U.S. 1015 (1997) . . . . . . . . . . . . . . . . . . 22 
+
+Federal Home Mortg. Corp. v. Scottsdale Ins. Co., 316
+
+F.3d 431 (3d Cir. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 
+
+First Mass. Tpk. Corp. v. Field, 3 Mass. (1 Tyng) 201
+
+(1807) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 
+
+Fort Stewart Schs. v. FLRA, 495 U.S. 641 (1990) . . . . . . . 41 
+
+Franconia Assocs. v. United States, 536 U.S. 129
+
+(2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37 
+
+Glus v. Brooklyn E. Dist. Terminal, 359 U.S. 231
+
+(1959) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 32, 43 
+
+Gomez-Perez v. Potter, 553 U.S. 474 (2008) . . . . . . . . . . . . 35 
+
+Granger v. George, (1826) 108 Eng. Rep. 56 (K.B.) . . . . . . 25 
+
+
+VI
+
+Cases—Continued:
+
+Page
+
+Harrell v. Kelly, 13 S.C.L. (2 McCord) 426 (S.C.
+
+Const. Ct. App. 1823) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 
+
+Holland v. Florida, 130 S. Ct. 2549 (2010) . . . . . . . . . . . . . 35 
+
+Holmberg v. Armbrecht, 327 U.S. 392 (1946) . . . . . . passim
+
+Homer v. Fish, 1 Mass. (1 Pick.) 435 (1823) . . . . . . . . . . . . 31 
+
+Hovenden v. Lord Annesley, 2 Schoales & Lefroy 
+
+(Ir. Ch. 1806) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+
+Hudson v. United States, 522 U.S. 93 (1997) . . . . . . . . . . . 47 
+
+Irwin v. Department of Veterans Affairs, 498 U.S. 89
+
+(1990) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 36, 42 
+
+India Breweries, Inc. v. Miller Brewing Co., 
+
+612 F.3d 651 (7th Cir. 2010) . . . . . . . . . . . . . . . . . . . . . . . . 7 
+
+Jackson v. Speer, 974 F.2d 676 (5th Cir. 1992) . . . . . . . 25, 38 
+
+Jackson’s Assignees v. Cutright, 5 Va. (2 Munf.) 308
+
+(1817) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 
+
+Janus Capital Grp., Inc. v. First Derivative Traders,
+
+131 S. Ct. 2296 (2011) . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 5 
+
+John R. Sand & Gravel Co. v. United States, 
+
+552 U.S. 130 (2008) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35 
+
+Jones v. Conoway, 4 Yeates 109 (Pa. 1804) . . . . . . . . . . . . 25 
+
+Jones v. McKennan, 2 Del. Cas. 106 (Del. C.P. New
+
+Castle 1798) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 
+
+Kane v. Bloodgood, 7 Johns. Ch. 90 (N.Y. Ch. 1823) . . . . . 26 
+
+Keene Corp. v. United States, 508 U.S. 200 (1993) . . . . . . 27 
+
+Kelly v. Robinson, 479 U.S. 36 (1986) . . . . . . . . . . . . . . . . . 35 
+
+Kirby v. Lake Shore & Mich. S. R.R., 120 U.S. 130
+
+(1887) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 34, 38, 44 
+
+Lampf, Pleva, Lipkind, Prupis & Petigrow v.
+
+Gilbertson, 501 U.S. 350 (1991) . . . . . . . . . . . . . . . . . 18, 50 
+
+
+VII
+
+Cases—Continued:
+
+Page
+
+Merck & Co., Inc. v. Reynolds, 130 S. Ct. 1784 
+
+(2010) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . passim
+
+Moore v. Greene, 60 U.S. (19 How.) 69 (1856) . . . . . . . . . . 26 
+
+Prevost v. Gratz, 19 U.S. (6 Wheat.) 481 (1821) . . . . . . . . . 47 
+
+Purdy v. Zeldes, 337 F.3d 253 (2d Cir. 2003) . . . . . . . . . . . . 7 
+
+Riddell v. Riddell Wash. Corp., 866 F.2d 1480 
+
+(D.C. Cir. 1989) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29 
+
+Rosenthal v. Walker, 111 U.S. 185 (1884) . . . . . . . . 16, 34, 37 
+
+Rotella v. Wood, 528 U.S. 549 (2000) . . . . . . . . . . . . . . . 45, 46 
+
+SEC v. Bartek, No. 11-10594, 2012 WL 3205446 
+
+(5th Cir. Aug. 7, 2012) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 
+
+SEC v. Capital Gains Research Bureau, Inc., 
+
+375 U.S. 180 (1963) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 43 
+
+SEC v. Cuban, 620 F.3d 551 (5th Cir. 2010) . . . . . . . . . . . . 51 
+
+SEC v. Koenig, 557 F.3d 736 (7th Cir. 2009) . . . . . . passim
+
+SEC v. Tambone:
+
+550 F.3d 106 (2008) . . . . . . . . . . . . . . . . . . . . . . 9, 23, 32, 49 
+
+573 F.3d 54 (2009) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 
+
+597 F.3d 436 (2010) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 
+
+Schindler Elevator Corp. v. United States ex rel.
+
+Kirk, 131 S. Ct. 1885 (2011) . . . . . . . . . . . . . . . . . . . . . . . . 4 
+
+Shelby’s Heirs v. Shelby, 3 Tenn. (Cooke) 179 (1812) . . . . 25 
+
+Sherwood v. Sutton, 21 F. Cas. 1303 (C.C.N.H. 
+
+1828) . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 14, 21, 25, 28, 38 
+
+Smith v. United States, 143 F.2d 228 (9th Cir.), 
+
+cert. denied, 323 U.S. 729 (1944) . . . . . . . . . . . . . . . . . . . 28 
+
+South Sea Co. v. Wymondsell, (1732) 24 Eng. Rep.
+
+1004 (Ch.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 
+
+Stearns v. Page, 48 U.S. (7 How.) 819 (1849) . . . . . . . . . . . 31 
+
+
+VIII
+
+Cases—Continued:
+
+Page
+
+TRW Inc. v. Andrews, 534 U.S. 19 
+
+(2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 19, 21, 29, 45 
+
+Taylor v. United States, 44 U.S. (3 How.) 197 (1845) . . . . 47 
+
+Texas v. Allan Constr. Co., 851 F.2d 1526 (5th Cir.
+
+1988) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+
+3M Co. (Minn. Mining. & Mfg.) v. Browner, 17 F.3d
+
+1453 (D.C. Cir. 1994) . . . . . . . . . . . . . . . . . . . . . . . 22, 23, 36 
+
+United States v. Core Labs., Inc., 759 F.2d 480 
+
+(5th Cir. 1985) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 
+
+United States v. Hoar, 26 F. Cas. 329 (1821) 
+
+(No. 15,373) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45 
+
+United States v. Maillard, 26 F. Cas. 1140 (S.D.N.Y.
+
+1871) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 
+
+United States v. Minor, 114 U.S. 233 (1885) . . . . . . . . 42, 45 
+
+United States v. Providence Journal Co., 485 U.S. 693
+
+(1988) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36 
+
+United States v. Witherspoon, 211 F.2d 858 
+
+(6th Cir. 1954) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 
+
+Urie v. Thompson, 337 U.S. 163 (1949) . . . . . . . . . . . . . . . . 45 
+
+Way v. Cutting, 20 N.H. 187 (1849) . . . . . . . . . . . . . . . . 19, 31 
+
+Willison v. Watkins, 28 U.S. (3 Pet.) 43 
+
+(1830) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 26, 27, 29 
+
+Statutes:
+Act of Apr. 30, 1790, ch. 9, § 32, 1 Stat. 119 . . . . . . . . . . . . 27 
+
+Act of Feb. 28, 1839, ch. 36, § 4, 5 Stat. 322 . . . . . . . . . . . . 27 
+
+Act of Mar. 3, 1891, ch. 561, § 8, 26 Stat. 1099 . . . . . . . . . . 16 
+
+Act of June 25, 1948, Pub. L. No. 80-773, 62 Stat. 974
+
+(28 U.S.C. 2462) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 
+
+
+IX
+
+Statutes—Continued:
+
+Page
+
+Bankruptcy Act of Mar. 2, 1867, ch. 176, § 2, 14 Stat.
+518 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 
+
+Federal Farm Loan Act, 12 U.S.C. 812 (1946) . . . . . . . . . . 16 
+
+Investment Advisers Act of 1940, 15 U.S.C. 80b-1
+et seq. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+
+15 U.S.C. 80b-6(1) . . . . . . . . . . . . . . . . . . . . . . 2, 6, 20, 49 
+
+15 U.S.C. 80b-6(2) . . . . . . . . . . . . . . . . . . . . . . 2, 6, 20, 49 
+
+15 U.S.C. 80b-9(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+
+15 U.S.C. 80b-9(e)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . 47 
+
+15 U.S.C. 80b-9(e)(2)(A) . . . . . . . . . . . . . . . . . . . . . . . 51 
+
+Rev. Stat. § 1047, 18 Stat. 193 (1874) . . . . . . . . . . . . . . . . . . 27 
+
+Securities Enforcement Remedies and Penny Stock
+Reform Act of 1990, Pub. L. 101-429, 104 Stat. 931
+
+(15 U.S.C. 78 note) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+
+Toxic Substances Control Act, 15 U.S.C. 2601 
+
+et seq. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 
+
+15 U.S.C. 77t(d) (2000) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47 
+
+15 U.S.C. 77www(a) (2000) . . . . . . . . . . . . . . . . . . . . . . . . . . 40 
+
+15 U.S.C. 78r (2000) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 
+
+15 U.S.C. 78u(d)(3) (2000) . . . . . . . . . . . . . . . . . . . . . . . . . . . 47 
+
+15 U.S.C. 78u-6(h)(B)(1)(iii)(I)(bb) (Supp. V 2011) . . . . . . 39 
+
+15 U.S.C. 1679i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 
+
+19 U.S.C. 1621 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 
+
+19 U.S.C. 1641(d)(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 
+
+21 U.S.C. 335b(b)(3)(B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 
+
+26 U.S.C. 7431(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39 
+
+28 U.S.C. 1658(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40, 45 
+
+28 U.S.C. 1658(b)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 
+
+
+X
+
+Statutes—Continued:
+
+Page
+
+28 U.S.C. 1658(b)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 
+
+28 U.S.C. 2415(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39 
+
+28 U.S.C. 2415(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39 
+
+28 U.S.C. 2416(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39 
+
+28 U.S.C. 2462 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . passim
+
+21 Jac. I. ch. 16, §§ II, VII (1623) . . . . . . . . . . . . . . . . . . . . . 24 
+
+Miscellaneous:
+1 Joseph K. Angell & John Wilder May, A Treatise on
+
+the Limitations of Actions at Law and Suits in
+
+Equity and Admiralty (4th ed., rev. & enl. 1861) . . . . 26 
+
+4 Matthew Bacon, A New Abridgment of the Law 
+
+(5th ed. 1798) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26 
+
+John P. Dawson, Fraudulent Concealment and 
+
+Statutes of Limitation, 31 Mich. L. Rev. 875 
+
+(1933) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31, 32, 33 
+
+1 Isaac Espinasse, A Digest of the Law of Actions at
+
+Nisi Prius (1791) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26 
+
+Restatement (Second) of Torts (1976) . . . . . . . . . . . . . . . . 44 
+
+S. Rep. No. 337, 101st Cong., 2d Sess. (1990):
+p. 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+
+p. 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 
+
+
+In the Supreme Court of the United States
+
+No. 11-1274
+
+MARC J. GABELLI AND BRUCE ALPERT, PETITIONERS
+
+v.
+SECURITIES AND EXCHANGE COMMISSION
+ON WRIT OF CERTIORARI
+
+TO THE UNITED STATES COURT OF APPEALS
+
+FOR THE SECOND CIRCUIT
+
+
+BRIEF FOR THE RESPONDENT
+
+OPINIONS BELOW
+
+The opinion of the court of appeals (Pet. App. 1a-23a)
+is reported at 653 F.3d 49. The opinion of the district
+court (Pet. App. 26a-51a) is not reported but is available
+at 2010 WL 1253603.
+JURISDICTION
+
+The judgment of the court of appeals was entered on
+August 1, 2011. A petition for rehearing was denied on
+November 22, 2011 (Pet. App. 52a-53a). On February
+10, 2012, Justice Ginsburg extended the time within
+which to file a petition for a writ of certiorari to and including March 22, 2012. On March 7, 2012, Justice
+Ginsburg further extended the time to April 20, 2012,
+and the petition was filed on that date. The jurisdiction
+of this Court rests on 28 U.S.C. 1254(1).
+(1)
+
+2
+
+STATEMENT
+
+1. The Investment Advisers Act of 1940 (Advisers
+Act or Act), 15 U.S.C. 80b-1 et seq., “was the last in a
+series of Acts designed to eliminate certain abuses in the
+securities industry.” SEC v. Capital Gains Research
+Bureau, Inc., 375 U.S. 180, 186 (1963); see id. at 186-187
+(noting that the Act is part of a comprehensive statutory
+scheme enacted by Congress to assure that “the highest
+ethical standards prevail in every facet of the securities
+industry”) (internal quotation marks omitted). The Act
+reflects Congress’s judgment that an investment adviser
+has “an affirmative duty of utmost good faith, and full
+and fair disclosure of all material facts, as well as an
+affirmative obligation to employ reasonable care to avoid
+misleading his clients.” Id. at 194 (internal quotation
+marks omitted). The Act is therefore designed “to eliminate, or at least to expose, all conflicts of interest which
+might incline an investment adviser—consciously or
+unconsciously—to render advice which was not disinterested.” Id. at 191-192.
+To that end, the Act makes it unlawful for any adviser to “employ any device, scheme, or artifice to defraud any client or prospective client.” 15 U.S.C.
+80b-6(1). The Act also prohibits an adviser from “engag[ing] in any transaction, practice, or course of business which operates as a fraud or deceit upon any client
+or prospective client.” 15 U.S.C. 80b-6(2). The “fundamental purpose” of those provisions is to ensure that
+investment advisers give “full disclosure” to their clients
+regarding the management of their investments. Capital Gains Research Bureau, Inc., 375 U.S. at 186. The
+Securities and Exchange Commission (SEC or Commission) may bring civil enforcement actions against investment advisers, or persons associated with them, who
+
+3
+
+violate any of the provisions of the Act or who aid and
+abet such violations. 15 U.S.C. 80b-9(d).
+Before 1990, the Commission’s primary remedies in
+such enforcement actions were injunctive relief and disgorgement of violators’ ill-gotten gains. In 1990, Congress authorized the SEC to seek civil monetary penalties against violators of the federal securities laws, including the Advisers Act. See Securities Enforcement
+Remedies and Penny Stock Reform Act of 1990 (Remedies Act), Pub. L. No. 101-429, 104 Stat. 931 (15 U.S.C.
+78a note); see also S. Rep. No. 337, 101st Cong., 2d Sess.
+10 (1990) (explaining that civil penalties were necessary
+“to increase deterrence and help maintain public confidence in the integrity of the markets”); ibid. (“Since
+disgorgement merely requires the return of wrongfully
+obtained profits, it does not impose any meaningful economic cost on the law violator.”).
+Neither the Advisers Act nor the Remedies Act specifies a statute of limitations for an enforcement action in
+which the Commission seeks monetary penalties from an
+investment adviser or associated person. The timeliness
+of such actions is therefore governed by 28 U.S.C. 2462,
+which states:
+Except as otherwise provided by Act of Congress, an
+action, suit or proceeding for the enforcement of any
+civil fine, penalty, or forfeiture, pecuniary or otherwise, shall not be entertained unless commenced
+within five years from the date when the claim first
+accrued if, within the same period, the offender or
+the property is found within the United States in order that proper service may be made thereon.
+
+4
+
+2. a. This case concerns a type of “market timing” of
+mutual funds known as “time-zone arbitrage.” 1 As a
+general rule, mutual funds are priced once a day, usually
+at 4 p.m. Eastern Time when the New York Stock Exchange closes. That price, called the fund’s net asset
+value (NAV), reflects the closing prices of the securities
+held by the fund. If one of those securities is traded on
+an overseas market, however, the closing price incorporated into the fund’s NAV can be based on stale information. For instance, if a United States mutual fund
+holds stock in a Japanese company that is traded on the
+Tokyo Stock Exchange (TSE)—which closes at 2 a.m.
+Eastern Time—the fund’s NAV for each day incorporates the stock’s Japanese closing price from 14 hours
+earlier. Positive market movements during the New
+York trading day, which will later cause the TSE price
+to rise when the TSE opens at 8 p.m. Eastern Time, will
+not be reflected in the fund’s late-afternoon NAV. See
+J.A. 78-79.
+“Market timers” attempt to exploit that type of pricing inefficiency by buying or selling a mutual fund’s
+shares based on events that they do not expect to be
+reflected in the fund’s NAV. Market timers then reverse their positions for a profit the next day. See Janus Capital Group, Inc. v. First Derivative Traders,
+131 S. Ct. 2296, 2300 n.1 (2011) (“[A] market-timing investor could buy shares of a mutual fund at the artificially low NAV and sell the next day when the NAV corrects itself upward.”). That practice harms long-term
+1
+
+This case arises on petitioners’ motion to dismiss the Commission’s
+complaint. See Pet. App. 51a. The factual statements in this brief are
+drawn from that complaint (which appears at J.A. 72-95) and are taken
+as true at this stage of the proceedings. See, e.g., Schindler Elevator
+Corp. v. United States ex rel. Kirk, 131 S. Ct. 1885, 1889 n.2 (2011).
+
+5
+
+mutual fund shareholders by capturing an arbitrage
+profit that comes dollar-for-dollar out of other shareholders’ pockets. See id. at 2300 (observing that market timing “harms other investors in the mutual fund”).
+b. Gabelli Funds, LLC (Gabelli Funds) is an investment adviser, within the meaning of the Act, to a mutual
+fund called Gabelli Global Growth Fund (GGGF). See
+Pet. 6; J.A. 77. During the relevant period, petitioner
+Bruce Alpert was the Chief Operating Officer of Gabelli
+Funds and was responsible for, inter alia, monitoring
+trading in GGGF to eliminate market timing. See J.A.
+76-77, 84, 86, 88-89. Petitioner Marc Gabelli was the
+portfolio manager for GGGF and also managed other
+affiliated funds. See J.A. 76.
+In April 2008, the Commission brought a civil enforcement action against petitioners. The Commission alleged that petitioners had secretly permitted one
+of GGGF’s investors—Headstart Advisers, Ltd. (Headstart)—to market time the mutual fund, in return for
+Headstart’s investment in another fund managed by
+Gabelli. See J.A. 72-75, 80-85. According to the SEC, at
+the same time that petitioners had allowed Headstart to
+market time the fund, they had prohibited other investors from doing the same. See J.A. 74, 83-85. The Commission alleged that, as a result of its privileged position, Headstart had earned returns of between 73 and
+185% on its investments (for total profits of approximately $9.7 million), while long-term investors had lost
+an average of 24% on their investments. See J.A. 73, 87.
+The Commission further alleged that petitioners had
+failed to disclose Headstart’s market timing (or their
+quid pro quo agreement with the market timer) to
+GGGF’s board of directors and other investors, but instead had falsely represented that they were taking nec-
+
+6
+
+essary steps to eliminate market timing. See J.A. 74-75,
+86, 88-89. The SEC alleged that, by failing to disclose
+the market timing arrangement and by falsely representing that Gabelli Funds was attempting to eliminate
+market timing in GGGF, petitioners had aided and abetted Gabelli Funds in violating the antifraud provisions
+of the Advisers Act, 15 U.S.C. 80b-6(1) and (2). See J.A.
+92-93. As remedies for petitioners’ violations, the Commission sought injunctive relief, disgorgement of their
+gains, and civil monetary penalties. See J.A. 93-94.2
+3. The district court granted in part and denied in
+part petitioners’ motion to dismiss the complaint. Pet.
+App. 26a-51a. As relevant here, the court held that most
+of the Commission’s claims for civil penalties were
+barred by the five-year limitations period in 28 U.S.C.
+2462. Pet. App. 34a-39a. The court reasoned that the
+SEC’s claims against petitioners had “first accrued” for
+purposes of Section 2462 when petitioners committed
+their various fraudulent acts, not when the Commission
+discovered or reasonably could have discovered petitioners’ fraud. Id. at 34a, 36a. Because most of petitioners’
+fraudulent acts had occurred more than five years before the Commission filed its complaint in April 2008,
+the court concluded that the SEC was foreclosed from
+
+2
+
+On the same day the Commission filed its complaint in this case,
+Gabelli Funds entered into a settlement in which it agreed to cease and
+desist from violating the relevant provisions of the Advisers Act.
+Gabelli Funds also agreed to pay disgorgement of $9.7 million,
+prejudgment interest of $1.3 million, and a civil penalty of $5 million.
+As part of the settlement, Gabelli Funds neither admitted nor denied
+the Commission’s allegations in this case. See In the Matter of Gabelli
+Funds LLC, No. 3-13019, Order (Apr. 24, 2008), http://www.sec.gov/
+litigation/admin/2008/ia-2727.pdf.
+
+7
+
+seeking civil penalties for the bulk of its claims. Id. at
+37a-38a.3
+4. The court of appeals reversed. Pet. App. 1a-23a.
+As relevant here, the court noted that the SEC had
+brought its claims under “the antifraud provisions” of
+the Advisers Act and had alleged that petitioners “aided
+and abetted Gabelli Funds’ fraudulent scheme.” Id. at
+19a. The court held that, because the Commission’s
+claims are based on fraud, they are subject to a “discovery rule” that prevents the applicable limitations period
+from beginning to run until the fraud claim “is discovered, or could have been discovered with reasonable
+diligence, by the plaintiff.” Id. at 18a; see Merck & Co.,
+Inc. v. Reynolds, 130 S. Ct. 1784, 1793 (2010).
+The court of appeals rejected petitioners’ argument
+that the discovery rule was inapplicable because the
+Commission had failed to plead any affirmative acts by
+petitioners to conceal their fraud. Pet. App. 18a-20a.
+3
+
+After the district court dismissed the bulk of the Commission’s
+claims, the SEC conditionally dismissed its remaining claim for disgorgement. The SEC agreed to reassert that disgorgement claim only
+if the district court’s ruling on the motion to dismiss was reversed on
+appeal and the Commission was permitted to proceed with its other
+claims. See J.A. 105-106. Some courts of appeals have held that this
+type of conditional dismissal does not produce a final, appealable
+judgment. Compare Clos v. Corrections Corp. of Am., 597 F.3d 925, 928
+(8th Cir. 2010); Federal Home Loan Mortg. Corp. v. Scottsdale Ins. Co.,
+316 F.3d 431, 440 (3d Cir. 2003), with Doe v. United States, 513 F.3d
+1348, 1354 (Fed. Cir. 2008); Purdy v. Zeldes, 337 F.3d 253, 258 (2d Cir.
+2003). Here, however, the Commission has been willing to abandon its
+disgorgement claim altogether in order to ensure that the judgment is
+appealable as to the other claims. See 1:08-CV-3868, Docket entry No.
+36, at 2-3 (S.D.N.Y. June 15, 2010). In that circumstance, courts have
+agreed that a judgment is appealable. See, e.g., India Breweries, Inc.
+v. Miller Brewing Co., 612 F.3d 651, 657-658 (7th Cir. 2010); Federal
+Home Loan Mortg. Corp., 316 F.3d at 440.
+
+8
+
+That argument, the court stated, conflates the discovery
+rule with the doctrine of fraudulent concealment, which
+prevents a limitations period from running when a defendant has taken steps to conceal his allegedly wrongful conduct. Id. at 18a-19a. Petitioners also contended
+that, “even if the discovery rule applies” to this case, the
+civil-penalty claims were time-barred because the SEC
+could have discovered the relevant facts earlier if it had
+exercised reasonable diligence. Id. at 21a. The court
+rejected that argument as “premature” at the motion-todismiss stage of the case, explaining that expiration of
+the limitations period is an affirmative defense and that
+the burden is therefore on petitioners to plead and prove
+the Commission’s lack of reasonable diligence. Ibid.
+The court of appeals concluded that, because “the complaint expressly alleges that the [Commission] first discovered the facts of [petitioners’] fraudulent scheme in
+late 2003,” less than five years before the complaint was
+filed in April 2008, the Commission’s “civil penalties
+claims [are] not clearly time-barred.” Ibid.
+SUMMARY OF ARGUMENT
+
+I. A. Section 2462 of Title 28 provides that an action
+for the enforcement of any civil penalty “shall not be
+entertained unless commenced within five years from
+the date when the claim first accrued.” This Court has
+repeatedly held that, unless Congress specifies a different rule, the limitations period in a suit for fraud does
+not begin to run until the plaintiff discovers, or in the
+exercise of reasonable diligence could have discovered,
+the facts underlying his claim. Whether that doctrine is
+labeled as one of claim accrual or equitable tolling, the
+Court has never questioned that the discovery rule delays the running of an applicable limitations period in
+
+9
+
+cases of fraud. Here, the Commission contends that
+petitioners engaged in a fraudulent scheme that violated
+the antifraud provisions of the Advisers Act. The court
+of appeals therefore correctly held that the Commission
+was required to bring its suit within five years after it
+discovered, or with reasonable diligence could have discovered, petitioners’ fraudulent scheme.
+B. Petitioners invoke the general rule that a claim
+accrues when a plaintiff has the right to bring suit. But
+the government has not contended, and the court below
+did not hold, that all claims for civil penalties under Section 2462 are subject to a discovery rule. Rather, the
+government has argued, and the court of appeals
+agreed, that a discovery rule applies when the government seeks civil penalties for claims based on fraud.
+Like the court below, the First and Seventh Circuits
+have held that, in fraud cases brought by the Commission seeking civil penalties, Section 2462’s five-year limitations period does not begin to run until the Commission knew or should have known the relevant facts. See
+SEC v. Koenig, 557 F.3d 736, 739-740 (7th Cir. 2009)
+(Easterbrook, C.J.); SEC v. Tambone, 550 F.3d 106,
+148-149 (1st Cir. 2008).
+II. Petitioners’ various counterarguments do not
+withstand scrutiny.
+A. The application of a discovery rule in cases of
+fraud or concealment dates to the earliest days of the
+Republic. See, e.g., Willison v. Watkins, 28 U.S. (3 Pet.)
+43, 52 (1830) (acknowledging the “well settled and unquestioned rule[] in all courts of law and equity” that the
+statute of limitations “does not run until the discovery of
+the fraud”) (internal quotation marks omitted). For
+nearly 175 years, Congress has relied on that settled
+
+10
+
+understanding in enacting, amending, and codifying Section 2462.
+B. The discovery rule has long been understood as a
+background principle that presumptively governs the
+application of federal limitations statutes unless Congress specifies otherwise. The doctrine’s applicability
+therefore does not depend on express language incorporating it into a federal limitations statute. The crucial
+question with respect to the discovery rule, as with respect to other equitable doctrines like forfeiture or
+waiver, is whether Congress has clearly displaced the
+usual rule that limitations periods in fraud cases are
+triggered by actual or constructive discovery. It has
+not: nothing in the text of Section 2462 clearly displaces
+the fraud discovery rule.
+C. When Congress has explicitly addressed discovery in other federal limitations statutes, it has generally
+done so not to codify the traditional fraud discovery
+rule, but to alter the rule’s usual operation. On rare
+occasions, Congress has expressly codified the traditional fraud discovery rule, perhaps “to remove any
+doubt” that the rule applies in those contexts. Ali v.
+Federal Bureau of Prisons, 552 U.S. 214, 226 (2008).
+Regardless, Congress’s occasional express endorsement
+of the fraud discovery rule does not render the rule inapplicable to statutes where it is neither explicitly incorporated nor explicitly displaced.
+D. This Court has long held that the fraud discovery
+rule applies equally when the government is the plaintiff. See Exploration Co. v. United States, 247 U.S. 435,
+449 (1918). That is because equity’s primary justification for the fraud discovery rule does not center on the
+injury suffered by the plaintiff from the delay, but on
+the defendant’s misconduct in causing that delay. That
+
+11
+
+equitable justification distinguishes cases of fraud or
+concealment from other cases in which a plaintiff is reasonably unaware of her cause of action, and it is as applicable to government enforcement actions as to private
+suits.
+E. The traditional fraud discovery rule balances the
+basic policies of all limitations provisions (like repose)
+against competing values, particularly the venerable
+equitable principle that a person should not profit from
+her own wrong. Its core justification is that defendants
+are not entitled to repose when their own deceptive conduct has effectively foreclosed potential plaintiffs from
+seeking such redress. Petitioners rely on a presumption
+against perpetual penalties that does not apply in the
+context of a civil remedy, but in any event Section 2462’s
+five-year time limit actually prevents the imposition of
+perpetual penalties. To the extent petitioners remain
+subject to liability, that results not from the statute but
+from their own misconduct.
+F. Finally, petitioners’ policy arguments are unpersuasive. For centuries, courts have applied the traditional fraud discovery rule, and they have not found it
+difficult to determine when a cause of action is based on
+fraud or when a plaintiff (including a government
+agency) actually or constructively discovered that fraud.
+Although the Commission has tools at its disposal to
+investigate fraud, that does not place the SEC on notice
+of the need to exercise those powers in a particular case
+when a defendant’s fraud remains concealed. Petitioners’ approach unrealistically envisions that the Commission (and other federal agencies) could constantly monitor every regulated entity and transaction for any hint
+of hidden fraud, which in any event would only increase
+the regulatory burden on nonculpable entities. Nor is it
+
+12
+
+realistic to think that the court of appeals’ approach will
+seriously weaken the Commission’s incentives to diligently investigate and pursue fraud claims, as it did in
+this case.
+ARGUMENT
+I.	 THE FIVE-YEAR LIMITATIONS PERIOD IN 28 U.S.C.
+2462 DID NOT BEGIN TO RUN UNTIL THE COMMISSION
+DISCOVERED, OR WITH REASONABLE DILIGENCE
+COULD HAVE DISCOVERED, PETITIONERS’ FRAUDULENT SCHEME
+
+In arguing that the SEC’s suit was untimely, petitioners invoke the general rule that a claim accrues
+when a plaintiff has the right to bring suit. That argument lacks merit because it ignores the distinct rule that
+has long governed the commencement of limitations periods in fraud cases. This Court has repeatedly held
+that, unless Congress specifies a different rule, the limitations period in a suit for fraud does not begin to run
+until the plaintiff actually or constructively discovers the
+facts underlying his claim. The SEC’s complaint in this
+case therefore was timely unless petitioners can establish on remand that the Commission discovered the facts
+underlying its claim, or could have discovered those
+facts by exercising reasonable diligence, more than five
+years before the suit was filed.
+A.	 In Fraud Cases, The Discovery Rule Commences The
+Running Of Section 2462’s Limitations Period Upon Actual Or Constructive Discovery Of The Fraud
+
+1. Section 2462 of Title 28 provides that an action for
+the enforcement of any civil penalty “shall not be entertained unless commenced within five years from the date
+when the claim first accrued.” Petitioners contend (Br.
+
+13
+
+15-16) that the Commission’s civil-penalty claims against
+them “first accrued” when petitioners’ allegedly unlawful acts occurred, regardless of when the Commission
+discovered (or reasonably could have discovered) petitioners’ fraudulent scheme. That argument lacks merit.
+This Court has consistently recognized that, unless Congress specifies a different rule, the limitations period in
+a suit for fraud does not begin to run until the plaintiff
+discovers, or in the exercise of reasonable diligence
+could have discovered, the facts underlying his claim.
+That rule derives from the equitable maxim that a
+party should not be permitted to benefit from its own
+misconduct. See, e.g., Glus v. Brooklyn E. Dist. Terminal, 359 U.S. 231, 232-233 (1959) (“[W]e need look no
+further than the maxim that no man may take advantage
+of his own wrong. Deeply rooted in our jurisprudence
+this principle has been applied in many diverse classes
+of cases by both law and equity courts and has frequently been employed to bar inequitable reliance on
+statutes of limitations.”) (footnote omitted). This Court
+has long held as a matter of equity that a defendant cannot use his own misconduct as a defense, including by
+unfairly relying on a statute of limitations. See, e.g.,
+Holmberg v. Armbrecht, 327 U.S. 392, 396-397 (1946)
+(“Equity * * * bars a defendant from setting up such a
+fraudulent defense, as it interposes against other forms
+of fraud.”); Exploration Co. v. United States, 247 U.S.
+435, 445-446 (1918); Bailey v. Glover, 88 U.S. (21 Wall.)
+342, 348-349 (1875); cf. Sherwood v. Sutton, 21 F. Cas.
+1303, 1307 (C.C.N.H. 1828) (Story, J.) (No. 12,782).
+Most recently, in Merck & Co. v. Reynolds, 130 S. Ct.
+1784 (2010), the Court explained that “in the statute of
+limitations context, the word ‘discovery’ is often used as
+a term of art in connection with the ‘discovery rule,’ a
+
+14
+
+doctrine that delays accrual of a cause of action until the
+plaintiff has ‘discovered’ it.” Id. at 1793. That doctrine
+“arose in fraud cases as an exception to the general limitations rule that a cause of action accrues once a plaintiff
+has a ‘complete and present cause of action.’ ” Ibid.
+(quoting Bay Area Laundry & Dry Cleaning Pension
+Trust Fund v. Ferbar Corp. of Cal., Inc., 522 U.S. 192,
+201 (1997)). The exception reflects the Court’s longstanding “recogni[tion] that something different was
+needed in the case of fraud, where a defendant’s deceptive conduct may prevent a plaintiff from even knowing
+that he or she has been defrauded.” Ibid. Absent an
+exception for fraud cases, “ ‘the law which was designed
+to prevent fraud’ could become ‘the means by which it is
+made successful and secure.’ ” Id. at 1793-1794 (quoting
+Bailey, 88 U.S. (21 Wall.) at 349); see Sherwood,
+21 F. Cas. at 1307.
+2. When a particular statute (like Section 2462)
+makes the “accru[al]” of a claim the event that triggers
+the limitations period, the Merck Court’s description of
+the discovery rule indicates that a fraud claim does not
+“accrue” until the plaintiff has (actually or constructively) discovered the relevant facts. Indeed, the decision below represents a straightforward application of
+the equitable principles discussed in Merck. When a
+plaintiff’s claim is for fraud, and the applicable statute
+of limitations runs from the accrual of the plaintiff ’s
+cause of action, the discovery rule “regard[s] the cause
+of action as having accrued at the time the fraud was or
+should have been discovered.” 130 S. Ct. at 1794 (quoting Kirby v. Lake Shore & Mich. S. R.R., 120 U.S. 130,
+138 (1887) (brackets in original)); see Kirby, 120 U.S. at
+138 (noting that “[i]t is an inflexible rule” in federal
+
+15
+
+courts to delay the accrual of causes of action in fraud
+cases). That reasoning resolves this case.
+As petitioners correctly observe (Br. 29-30), Merck
+involved a statute, 28 U.S.C. 1658(b), that contains an
+express discovery rule. Section 1658(b) requires private
+securities actions to be brought “not later than the earlier of—(1) 2 years after the discovery of the facts constituting the violation; or (2) 5 years after such violation.” But in construing what it means to “discover[]”
+the relevant facts (i.e., whether that term encompasses
+constructive as well as actual discovery), this Court relied heavily on the common-law background principles
+that generally govern the application of limitations provisions to fraud claims. See 130 S. Ct. at 1793-1796.
+Indeed, the Court discussed those background principles to explain that Congress had codified one of them
+(i.e., constructive discovery) in Section 1658(b)(1). See
+id. at 1794. The Court’s discussion is equally relevant
+here. Although the question in this case is whether the
+discovery rule delays a claim’s accrual in fraud cases,
+rather than whether constructive discovery puts an end
+to that delay, the Court’s historical analysis in Merck
+directly answers both questions.
+Petitioners suggest (Br. 29) that this case is different
+because, unlike the statute at issue in Merck, the limitations period in Section 2462 runs from a claim’s
+“accru[al].” But that only makes this case an easy one.
+In Bailey, the bankruptcy statute of limitations at issue
+required certain suits to be brought “within two years
+from the time [when] the cause of action accrued.”
+88 U.S. (21 Wall.) at 344 (quoting Bankruptcy Act of
+Mar. 2, 1867, ch. 176, § 2, 14 Stat. 518) (emphasis omitted). Surveying decisions from both English and American courts, the Court observed that “the decided weight
+
+16
+
+of authority is in favor of the proposition that where the
+party injured by the fraud remains in ignorance of it
+without any fault or want of diligence or care on his part,
+the bar of the statute does not begin to run until the
+fraud is discovered.” Id. at 348; see id. at 348 n.*;
+Rosenthal v. Walker, 111 U.S. 185, 189 (1884) (applying
+the fraud discovery rule to a similar successor provision). The Court’s decisions thus make particularly
+clear how the fraud discovery rule operates when the
+relevant statute of limitations runs from the “accrual” of
+a claim.
+3. The fraud discovery rule also applies when the
+relevant statute specifies some event other than the accrual of the claim as the point at which the limitations
+period commences. In Exploration Co., for example, the
+federal limitations period at issue required “[t]hat suits
+by the United States to vacate and annul any patent
+* * * shall only be brought within six years after the
+date of issuance of such patents.” 247 U.S. at 445 (quoting Act of Mar. 3, 1891, ch. 561, § 8, 26 Stat. 1099). The
+six-year limitations period thus ran from the date on
+which a patent was issued—not the date on which a
+claim to annul the patent accrued. The Court nevertheless saw “no good reason” not to apply “the rule, now
+almost universal, that statutes of limitations to set aside
+fraudulent transactions shall not begin to run until the
+discovery of the fraud.” Id. at 449.
+In Holmberg, the Court considered an action under
+the Federal Farm Loan Act, 12 U.S.C. 812 (1946), to
+recover for a bank’s liability against a shareholder who
+had concealed his ownership of the bank’s stock. See
+327 U.S. at 393. Because the Act did not provide a federal limitations period, the suit was governed by a tenyear state limitations period (the Court’s opinion does
+
+17
+
+not make clear what event that state law specified as the
+trigger for the ten-year period). See id. at 393-394. The
+plaintiffs’ action had been dismissed because it was
+brought more than ten years after the shareholder became liable under the Act, even though plaintiffs had
+filed suit only a year after learning the shareholder’s
+concealed identity. See id. at 393. In holding that the
+suit was timely, this Court recognized that it had “long
+ago adopted as its own the old chancery rule that where
+a plaintiff has been injured by fraud and ‘remains in ignorance of it without any fault or want of diligence or
+care on his part, the bar of the statute does not begin to
+run until the fraud is discovered, though there be no
+special circumstances or efforts on the part of the party
+committing the fraud to conceal it from the knowledge
+of the other party.’ ” Id. at 397 (quoting Bailey, 88 U.S.
+(21 Wall.) at 348).
+The Court’s reasoning in cases like Bailey, Exploration Co., and Holmberg does not depend on whether a
+limitations period commences upon a claim’s “accrual”
+or upon some other event. To the contrary, the Court in
+Holmberg explained that the fraud discovery rule is an
+“equitable doctrine [that] is read into every federal statute of limitation.” 327 U.S. at 397; see ibid. (“If the Federal Farm Loan Act had an explicit statute of limitation
+for bringing suit * * * , the time would not have begun
+to run until after petitioners had discovered, or had
+failed in reasonable diligence to discover, the alleged
+deception * * * which is the basis of this suit.”); see
+also Exploration Co., 247 U.S. at 449 (“When Congress
+passed the [limitations period] in question the rule of
+Bailey v. Glover was the established doctrine of this
+court. [The statute] was presumably enacted with the
+ruling of that case in mind.”). Thus, whatever the event
+
+18
+
+that normally commences the running of a limitations
+period, in a fraud case that period does not begin to run
+until the relevant information was discovered or could
+have been discovered by a reasonably diligent plaintiff.
+4. The Court has sometimes referred to the fraud
+discovery rule as a doctrine of tolling rather than of accrual. See TRW Inc. v. Andrews, 534 U.S. 19, 27 (2001)
+(TRW ) (explaining that “equity tolls the statute of limitations in cases of fraud or concealment”); Lampf, Pleva,
+Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350,
+363 (1991) (Lampf ) (stating that the Court in Bailey and
+Holmberg had applied an “equitable tolling doctrine”);
+cf. Irwin v. Department of Veterans Affairs, 498 U.S. 89,
+96 (1990) (identifying, as one circumstance where “equitable tolling” of limitations periods has been approved,
+the situation “where the complainant has been induced
+or tricked by his adversary’s misconduct into allowing
+the filing deadline to pass”). But regardless of whether
+the discovery rule is labeled as one of tolling or accrual,
+the Court has never questioned that the doctrine delays
+the running of a limitations period in cases of fraud.
+In TRW, the Court observed that “Holmberg * * *
+stands for the proposition that equity tolls the statute of
+limitations in cases of fraud or concealment; it does not
+establish a general presumption applicable across all
+contexts.” 534 U.S. at 27. The Court declined to decide
+whether to adopt a broader rule that would allow tolling
+whenever a diligent potential plaintiff is unaware, for
+reasons other than his adversary’s fraud or concealment,
+of the facts underlying his cause of action. See id. at
+27-28. Concurring in the judgment, Justice Scalia,
+joined by Justice Thomas, would have addressed the
+broader question and reaffirmed “the traditional rule”
+that “[a]bsent other indication, a statute of limitations
+
+19
+
+begins to run at the time the plaintiff has the right to
+apply to the court for relief.” Id. at 37 (internal quotation marks omitted). Justice Scalia expressly noted,
+however, this Court’s “recognition of the historical exception for suits based on fraud, e.g., Bailey v. Glover.”
+Ibid. Accordingly, whether or not the discovery rule
+applies beyond cases of fraud or concealment, no Member of this Court has questioned its application to fraud
+cases.
+There are sound historical and equitable reasons for
+this Court’s distinct treatment of cases involving fraud
+or concealment. To be sure, a court’s refusal to apply a
+discovery rule in other circumstances may effectively
+prevent some reasonably diligent plaintiffs from obtaining redress for actionable wrongs. That result is particularly egregious, however, when the plaintiff’s ignorance
+of his cause of action is attributable to the defendant’s
+deception, because such cases implicate the equitable
+principle that a person should not profit from his own
+wrong. See, e.g., Way v. Cutting, 20 N.H. 187, 190
+(1849) (“The general principle of natural justice and of
+positive law that precludes a party from deriving a benefit from his own wrong, has from an early period been
+applied by courts, both of law and of equity, to the construction of the statutes of limitation.”).
+5. The timeliness of the Commission’s complaint in
+this case does not depend on whether the fraud discovery rule is used to determine when the Commission’s
+claims accrued or instead is treated as a ground for tolling the applicable limitations period. The Seventh Circuit made precisely that point in a similar fraud case
+brought by the Commission for civil penalties. See SEC
+v. Koenig, 557 F.3d 736 (2009) (Easterbrook, C.J.). The
+court explained that it did not need to decide “when a
+
+20
+
+‘claim accrues’ for the purpose of [Section] 2462 generally, because the nineteenth century recognized a special
+rule for fraud, a concealed wrong.” Id. at 739. That doctrine, the court noted, “is apt to be called equitable tolling.” Ibid. The court observed, however, that it is “unimportant in practice” “[w]hether a court says that a
+claim for fraud accrues only on its discovery (more precisely, when it could have been discovered by a person
+exercising reasonable diligence) or instead says that the
+claim accrues with the wrong, but that the statute of
+limitations is tolled until the fraud’s discovery.” Ibid.
+“Either way,” the court explained, “a victim of fraud has
+the full time from the date that the wrong came to light,
+or would have done had diligence been employed.” Ibid.
+Like the Seventh Circuit in Koenig, the court of appeals correctly applied the fraud discovery rule in this
+case. The Commission alleges that petitioners’ conduct
+aided and abetted violations of the antifraud provisions
+of the Advisers Act, 15 U.S.C. 80b-6(1) and (2). Those
+provisions make it unlawful for any adviser “to employ
+any device, scheme, or artifice to defraud any client or
+prospective client,” 15 U.S.C. 80b-6(1), or “to engage in
+any transaction, practice, or course of business which
+operates as a fraud or deceit upon any client or prospective client,” 15 U.S.C. 80b-6(2). The court of appeals
+therefore held that, because “the Advisers Act claim is
+made under the antifraud provisions of that Act and alleges that the defendants aided and abetted Gabelli
+Funds’ fraudulent scheme, * * * the discovery rule
+defines when the claim accrues.” Pet. App. 19a.
+Consistent with the terminology this Court used in
+Merck, see 130 S. Ct. at 1794, the court below thus
+treated the fraud discovery rule as a means of identifying a fraud claim’s accrual date, rather than as a ground
+
+21
+
+for tolling Section 2462’s five-year limitations period. As
+the Seventh Circuit recognized in Koenig, however, that
+terminological choice is “unimportant in practice.”
+557 F.3d at 739; cf. Sherwood, 21 F. Cas. at 1305 (noting
+the existence of “some diversity of judgment” as to
+whether the fraud discovery rule was “an implied exception out of the words of the statute, or whether the right
+of action, in a legal sense, does not accrue until the discovery of the fraud”). Either way, the Commission was
+required to bring its suit within five years after it discovered, or with reasonable diligence could have discovered, petitioners’ fraudulent scheme.
+B.	 This Case Does Not Present The Question Of When Section 2462 Begins To Run In Nonfraud Cases
+
+Petitioners argue that the Commission’s civil penalty
+claims accrued at the time petitioners committed their
+fraud because “a claim accrues when it arises and the
+plaintiff has the right to sue.” Br. 15; see Br. 12-16. As
+the Court recognized in Merck, that is the “general limitations rule”: “a cause of action accrues once a plaintiff
+has a ‘complete and present cause of action.’ ” 130 S. Ct.
+at 1793 (quoting Bay Area Laundry & Dry Cleaning
+Pension Trust Fund, 522 U.S. at 201). But the government has not contended, and the court below did not
+hold, that all claims for civil penalties under Section
+2462 are subject to a discovery rule. Rather, the government has argued, and the court of appeals agreed,
+that a discovery rule applies when the government seeks
+civil penalties based on claims sounding in fraud. See
+Pet. App. 19a-20a. And as the Merck Court explained,
+the discovery rule “arose in fraud cases as an exception
+to the general limitations rule.” 130 S. Ct. at 1793; see
+TRW, 534 U.S. at 37 (Scalia, J., concurring in the judg-
+
+22
+
+ment) (noting “the historical exception for suits based on
+fraud”).
+All of the authorities on which petitioners rely (Br.
+12-16 & nn.9-12) address the accrual of nonfraud claims,
+i.e., claims presumptively subject to the general rule.
+Those authorities therefore do not undermine the rationale on which the court below decided this case. At the
+certiorari stage, petitioners contended (Pet. 13-19) that
+the decision below was the subject of a circuit conflict
+because four courts of appeals had held that a claim
+“accrue[s]” for purposes of Section 2462 at the time of
+the underlying violation. As the government explained
+(Br. in Opp. 19-20), however, none of those decisions
+even discussed, let alone rejected, application of the discovery rule to delay the accrual of a fraud claim for purposes of Section 2462. Petitioners no longer rely on (or
+even cite) three of those decisions. See FEC v. Williams, 104 F.3d 237 (9th Cir. 1996), cert. denied,
+522 U.S. 1015 (1997); United States v. Core Labs., Inc.,
+759 F.2d 480 (5th Cir. 1985); United States v. Witherspoon, 211 F.2d 858 (6th Cir. 1954).
+Petitioners continue to argue that the court in the
+fourth case “reject[ed] application of the discovery rule
+to Section 2462,” Br. 31, but in that case the underlying
+violation had nothing to do with fraud. See 3M Co.
+(Minn. Mining & Mfg.) v. Browner, 17 F.3d 1453,
+1460-1463 (D.C. Cir. 1994) (defendant imported chemicals in violation of the Toxic Substances Control Act,
+15 U.S.C. 2601 et seq.). 3M Co. thus stands for the unremarkable proposition that a cause of action often accrues at the time of a defendant’s unlawful conduct. See
+Pet. App. 20a n.4 (noting that petitioners’ reliance below
+on 3M Co. was “misplaced” because that case “did not
+involve fraud claims”); Koenig, 557 F.3d at 739 (distin-
+
+23
+
+guishing 3M Co. on the same ground). Moreover, the
+court in 3M Co. recognized that concealment suspends
+the running of Section 2462’s limitations period. See
+17 F.3d at 1461 n.15.
+Like the court below, the First and Seventh Circuits
+have squarely held that, in fraud cases brought by the
+Commission seeking civil penalties, Section 2462’s fiveyear limitations period does not begin to run until the
+Commission knew or should have known the relevant
+facts. See Br. in Opp. 18; see also Koenig, 557 F.3d at
+739-740; SEC v. Tambone, 550 F.3d 106, 148-149 (1st
+Cir. 2008).4 Petitioners acknowledge (Br. 53) that the
+court in Koenig so held, and they do not discuss
+Tambone.5 In a recent unpublished opinion, the Fifth
+Circuit declined to apply the discovery rule in a fraud
+case brought by the Commission seeking civil penalties.
+4
+
+The First Circuit granted en banc review in Tambone and accordingly withdrew the panel opinion, but the en banc court limited its
+review to a different issue in the case. See SEC v. Tambone, 573 F.3d
+54 (2009). The en banc court’s subsequent opinion was confined to that
+issue, and the court expressly reinstated the panel’s conclusion that an
+enforcement action by the Commission is timely if it is brought within
+five years of when the Commission discovered, or reasonably could have
+discovered, a defendant’s fraud. See SEC v. Tambone, 597 F.3d 436,
+450 (1st Cir. 2010).
+5
+Petitioners suggest that in Koenig, “the individual defendant
+deliberately concealed his wrongdoing,” Br. 53 n.33, but the defendant’s
+fraud there was no more or less “conceal[ed]” than in this case. In
+Koenig, a corporate executive used various accounting methods to
+overstate the company’s profits. See 557 F.3d at 737-739. The executive falsely told outside accountants that he would discontinue using
+those methods, see id. at 740, but that is not different from petitioners’
+false representation to directors and investors that they were attempting to eliminate market timing. In any event, nothing in the Seventh
+Circuit’s decision rested on the fact that the defendant there misled
+outside accountants.
+
+24
+
+See SEC v. Bartek, No. 11-10594, 2012 WL 3205446, at
+*3-*6 (Aug. 7, 2012). For reasons explained below, the
+Fifth Circuit erred in interpreting this Court’s decisions
+to hold that the discovery rule applies in a fraud case
+only if the defendant allegedly took additional steps to
+conceal his fraud. See id. at *4-*5; pp. 29-33, infra. This
+Court has long rejected precisely that argument.
+II.	 PETITIONERS’ COUNTERARGUMENTS LACK MERIT
+
+Petitioners advance several arguments why the limitations period in 28 U.S.C. 2462 should have commenced
+to run before the Commission discovered, or reasonably
+could have discovered, petitioners’ fraudulent scheme.
+None withstands scrutiny.
+A.	 The Application Of A Discovery Rule In Cases Of Fraud
+Or Concealment Dates To The Beginning Of The Republic
+1.	 Federal courts have consistently applied the fraud
+discovery rule both before and after Section 2462’s
+enactment
+
+a. Contrary to petitioners’ contention (Br. 49-53),
+the government’s position is deeply rooted in history.
+Although the Statute of James (the English predecessor
+to American statutes of limitations) lacked an express
+exception for fraud actions, see 21 Jac. I. ch. 16, §§ II,
+VII (1623), English courts sitting in equity suspended
+the statute’s operation in cases of fraud. See, e.g., South
+Sea Co. v. Wymondsell, (1732) 24 Eng. Rep. 1004, 1005
+(Ch.) (observing that “a bill to be relieved against a
+fraud, was not within the statute of limitations”); Booth
+v. Warrington, (1714) 2 Eng. Rep. 111, 112 (H.L.) (affirming that “the plea of the statute of limitations ought
+not to avail [the defendant] any thing” in a claim for
+
+25
+
+fraud). English courts eventually recognized that this
+equitable exception could apply to actions at law as well.
+See, e.g., Granger v. George, (1826) 108 Eng. Rep. 56, 56
+(K.B.); Clark v. Hougham, (1823) 107 Eng. Rep. 339, 341
+(K.B.); Bree v. Holbech, (1781) 99 Eng. Rep. 415, 416
+(K.B.) (Lord Mansfield, C.J.).
+Because “most, if not all[,] the statutes of limitations” enacted in the early days of the Republic “borrowed the language” of the Statute of James, “the expositions of the statute, which had been adopted in England, both at law and in equity, were well known to
+those, who framed our own.” Sherwood, 21 F. Cas. at
+1307 (Story, J.). It was therefore natural “that these
+expositions,” including the fraud discovery rule, “were
+received as the true interpretation” of statutes of limitations by American courts during the early nineteenth
+century. Ibid.6 Accordingly, treatises from both sides
+6
+
+See, e.g., Harrell v. Kelly, 13 S.C.L. (2 McCord) 426, 428 (S.C.
+Const. Ct. App. 1823) (“[I]f the plaintiff prosecute his claim within four
+years from the time the fraud is discovered, the case is not barred.”);
+Jackson’s Assignees v. Cutright, 5 Va. (2 Munf.) 308, 323 (1817)
+(“[W]here fraud has been committed, and not discovered by the party
+defrauded, the Act will not run; but it will run from the time when the
+fraud was discovered.”); Shelby’s Heirs v. Shelby, 3 Tenn. (Cooke) 179,
+183 (1812) (acknowledging an “exception” to the statute of limitations
+if “the fraud was not * * * discovered until within three years previous to the institution of the suit”); Jones v. Conoway, 4 Yeates 109,
+111 (Pa. 1804) (“Wherever there is a fraud, the statute of limitations is
+no plea, unless the fraud be discovered within the time.”); First Mass.
+Tpk. Corp. v. Field, 3 Mass. (1 Tyng) 201, 207 (1807) (“The delay of
+bringing the suit is owing to the fraud of the defendant, and the cause
+of action against him ought not to be considered as having accrued, until
+the plaintiff could obtain the knowledge that he had a cause of action.”);
+Jones v. McKennan, 2 Del. Cas. 106, 107 (Del. C.P. New Castle 1798)
+(agreeing with the plaintiff ’s argument that the limitations statute did
+not run “in case[s] of frauds”).
+
+26
+
+of the Atlantic confirmed that if “the fraud was not discovered” within the limitations period, “the statute of
+limitations is not a good plea, unless the defendant denies the fraud, or avers, that the fraud, if any, was discovered [within the limitations period].” 4 Matthew Bacon, A New Abridgment of the Law 476 (5th ed. 1798);
+see 1 Isaac Espinasse, A Digest of the Law of Actions at
+Nisi Prius 162 (1791).
+This Court likewise acknowledged the “well settled
+and unquestioned rule[] in all courts of law and equity”
+that the statute of limitations “does not run until the
+discovery of the fraud.” Willison v. Watkins, 28 U.S.
+(3 Pet.) 43, 52-53 (1830) (quoting Kane v. Bloodgood,
+7 Johns. Ch. 90, 122 (N.Y. Ch. 1823)). As the Court summarized, “[t]he courts of equity * * * from an early
+day, held that where one person has been injured by the
+fraud of another, and the facts constituting such fraud
+do not come to the knowledge of the person injured until
+some time afterward, the statute will not commence to
+run until the discovery of those facts, or until by reasonable diligence they might have been discovered.” Amy
+v. Watertown (No. 2), 130 U.S. 320, 324 (1889); see
+Moore v. Greene, 60 U.S. (19 How.) 69, 72 (1856) (“When
+fraud is alleged as a ground to set aside a title, the statute does not begin to run until the fraud is discovered.”);
+1 Joseph K. Angell & John Wilder May, A Treatise on
+the Limitations of Actions at Law and Suits in Equity
+and Admiralty 179-192 (4th ed., rev. & enl. 1861). Indeed, in language that remains directly relevant to this
+case, the Court explained that a “cause of action * * *
+is not to be deemed to have accrued until the discovery
+by the aggrieved party of the facts constituting the
+fraud.” Case of Broderick’s Will, 88 U.S. (21 Wall.) 503,
+518 (1875).
+
+27
+
+b. In 1839, when Congress enacted the earliest predecessor version of Section 2462, it did so against a settled background understanding that the federal courts
+would apply the discovery rule in cases of fraud.7 Indeed, this Court had said nearly a decade earlier in
+Willison that it was the “well settled and unquestioned
+rule[]” in federal courts that a limitations period “does
+not run until the discovery of the fraud.” 28 U.S. (3 Pet.)
+at 52-53. In light of the “presumption that Congress
+understands the state of existing law when it legislates,”
+Bowen v. Massachusetts, 487 U.S. 879, 896 (1988), Congress should be assumed to have incorporated into Section 2462 the settled principle that statutes of limitations
+in cases of fraud run from the date of (actual or constructive) discovery. See, e.g., Keene Corp. v. United
+States, 508 U.S. 200, 212-213 (1993). Congress subsequently amended the statute in 1874 and then recodified
+it in 1948 without making any relevant substantive
+change. See Rev. Stat. § 1047, 18 Stat. 193 (1874); Act of
+7
+
+Petitioners contend that “[t]he current version of Section 2462
+traces back to a 1790 statute.” Br. 49; see Act of Apr. 30, 1790, ch. 9,
+§ 32, 1 Stat. 119. That is incorrect. The 1790 provision on which petitioners rely forbade certain punishments for most capital and noncapital cases “unless the indictment or information * * * shall be
+found or instituted within two years from the time of committing the
+offence.” Ibid. The true historical antecedent to Section 2462 was
+enacted in 1839 and focused solely on suits for penalties or forfeiture.
+See Act of Feb. 28, 1839, ch. 36, § 4, 5 Stat. 322. Like current Section
+2462, the 1839 provision had a five-year time limit, which ran “from the
+time when the penalty or forfeiture accrued.” Ibid. (emphasis added);
+see Cato Inst. Amicus Br. 6 (“The operative language of [Section] 2462
+first appeared in an 1839 version of the statute.”). But even if Section
+2462 were traceable to the 1790 provision, it was clear even at that time
+that the limitations period in a suit for fraud does not begin to run until
+the plaintiff discovers, or in the exercise of reasonable diligence could
+have discovered, the facts constituting the fraud.
+
+28
+
+June 25, 1948, Pub. L. No. 80-773, 62 Stat. 974
+(28 U.S.C. 2462).
+c. Petitioners contend that in 1839, when the earliest predecessor version of Section 2462 was enacted, “a
+claim was understood to accrue when it could be sued
+on.” Br. 50. But again the authorities they cite (Br. 51)
+for that proposition involve nonfraud claims and thus
+implicate only the general rule that a claim accrues
+when a plaintiff has the right to bring suit. See, e.g.,
+Smith v. United States, 143 F.2d 228, 228-230 (9th Cir.)
+(defendant was convicted of a tariff violation and failed
+to pay the entire court-ordered fine; government
+brought suit under Section 2462 for the unpaid balance),
+cert. denied, 323 U.S. 729 (1944). Petitioners identify a
+single fraud case, United States v. Maillard, 26 F. Cas.
+1140 (S.D.N.Y. 1871) (No. 15,709), in which a district
+court held that a fraud claim accrues for purposes of
+Section 2462 at the time of the fraud, regardless of when
+the government could have discovered it. See id. at
+1142-1143. The district court in Maillard appeared to
+believe that it was bound by state law rather than federal law in interpreting Section 2462. See id. at 1143
+(citing New York cases). In any event, the district court
+did not discuss this Court’s prior decisions in Willison
+or Moore recognizing the fraud discovery rule, and it
+expressly rejected Justice Story’s influential circuit
+court opinion in Sherwood. See ibid. Petitioners thus
+rely on an outlier district court decision that, even at the
+time, was directly contrary to this Court’s precedent.8
+8
+
+Petitioners identify (Br. 32 n.23) a handful of early decisions in
+which state courts declined to apply a discovery rule in actions at law.
+Although there was some disagreement in state courts as to whether
+the discovery rule could apply at law as in equity, see Sherwood,
+21 F. Cas. at 1306-1307, this Court declared in Willison that in federal
+
+29
+
+2. The historical exception covers cases of fraud as well
+as cases of concealment
+
+a. Petitioners argue that the fraud discovery rule
+applies only when “the defendant affirmatively
+conceal[s] the existence of her wrongful conduct from
+the plaintiff.” Br. 26; see Br. 25-28 & n.22. Petitioners
+contend on that basis that the discovery rule does not
+extend the limitations period in this case because they
+did not take affirmative steps to conceal their fraud.
+That contention, the court of appeals recognized, conflates two distinct (though related) justifications for extending an applicable limitations period. See Pet.
+App. 18a-19a. One justification is that the fraudulent
+nature of a defendant’s offense prevents a plaintiff from
+knowing that she has been defrauded. Another is that
+the defendant has misrepresented or concealed facts
+that are essential to a plaintiff ’s cause of action, whether
+or not that cause of action is for fraud. See, e.g., Riddell
+v. Riddell Wash. Corp., 866 F.2d 1480, 1491 (D.C. Cir.
+1989) (distinguishing between “wrongs as to which concealment is established by the nature of the act, and
+wrongs as to which additional acts of concealment are
+required”) (internal quotation marks omitted). In either
+situation, an applicable limitations period does not begin
+to run until the plaintiff is aware, or reasonably could
+have been aware, of the facts underlying her cause of
+action. See TRW, 534 U.S. at 27 (noting that the discovcourts a “statute of limitations receives the same construction and
+application at law and in equity.” 28 U.S. (3 Pet.) at 52; see Bailey,
+88 U.S. (21 Wall.) at 349 (“[T]he weight of judicial authority, both in this
+country and in England, is in favor of the application of the [fraud
+discovery] rule to suits at law as well as in equity.”). It is that view, not
+the minority view of a few state courts, on which Congress continually
+relied in enacting, amending, and codifying Section 2462.
+
+30
+
+ery rule has historically applied “in cases of fraud or
+concealment”) (emphasis added).
+This Court has long recognized that either of those
+circumstances justifies deferring the commencement of
+a limitations period for so long as the plaintiff is reasonably unaware of the facts underlying his claim. In
+Bailey, the Court observed that “where the ignorance of
+the fraud has been produced by affirmative acts of the
+guilty party in concealing the facts from the other, the
+statute will not bar relief provided suit is brought within
+proper time after the discovery of the fraud.” 88 U.S.
+(21 Wall.) at 347-348. The Court further explained, however, that “where the party injured by the fraud remains
+in ignorance of it without any fault or want of diligence
+or care on his part, the bar of the statute does not begin
+to run until the fraud is discovered, though there be no
+special circumstances or efforts on the part of the party
+committing the fraud to conceal it from the knowledge
+of the other party.” Id. at 348 (emphasis added). The
+Court in Bailey thus made clear that the discovery rule
+applies in both circumstances.
+Petitioners correctly observe (Br. 27) that the plaintiff in Bailey alleged “that the defendants kept secret
+and concealed * * * the fraud.” 88 U.S. (21 Wall.) at
+348. The Court declined, however, to rest its decision on
+that fact. Rather, the Court concluded that “when the
+fraud has been concealed, or is of such character as to
+conceal itself, the statute does not begin to run until the
+fraud is discovered by, or becomes known to, the party
+suing.” Id. at 349-350 (emphasis added). That conclusion was consistent with this Court’s previous recognition that a plaintiff could invoke the discovery rule by
+pleading “particular acts of fraud or concealment” that
+had delayed the commencement of the limitations pe-
+
+31
+
+riod. Beaubien v. Beaubien, 64 U.S. (23 How.) 190, 208
+(1860); see Stearns v. Page, 48 U.S. (7 How.) 819, 829
+(1849).9
+b. This Court’s conclusion in Bailey was not novel.
+Long before Bailey, lower courts had held that plaintiffs
+whose causes of action were based on fraud did not have
+to plead additional acts of concealment in order to invoke the discovery rule. See, e.g., Carr v. Hilton,
+5 F. Cas. 134, 136 (C.C.D. Me. 1852) (No. 2436) (Curtis,
+J.) (“It is objected, however, that this bill does not contain any averment that the cause of action was fraudulently concealed. But it does state a case of secret fraud,
+and it would be difficult to distinguish this from fraudulent concealment.”); Way v. Cutting, 20 N.H. 187, 193
+(1849) (“[T]he position assumed by the defendant, that
+some new act of fraud and concealment, beside the representation made at the sale, must be proved upon him
+in order to deprive him of the protection of the statute,
+is not supported by authority or sound reason.”); Homer
+v. Fish, 1 Mass. (1 Pick.) 435, 438 (1823) (“[W]e do not
+find that a particular averment of * * * any act of the
+party by which the knowledge of [the fraud] was prevented, is necessary.”); see also John P. Dawson, Fraudulent Concealment and Statutes of Limitation, 31 Mich.
+L. Rev. 875, 880 (1933) (“Where undiscovered ‘fraud’
+was the basis of liability, it was universally agreed that
+no new concealment was necessary and the wrongdoer
+might remain wholly passive, provided no avenues were
+9
+
+In Credit Suisse Securities (USA) LLC v. Simmonds, 132 S. Ct.
+1414 (2012), this Court discussed concealment as a possible ground for
+suspending the limitations provision because that was the ground
+potentially applicable to that nonfraud case. Id. at 1419-1420. The
+Court had no occasion to address the application of the discovery rule
+to cases where the underlying violation sounds in fraud.
+
+32
+
+open to the plaintiff for discovery of the fraud.”)
+(Dawson); id. at 880 n.12 (collecting cases).
+The theory behind those cases was simple: “[A]s
+fraud is a secret thing, and may remain undiscovered for
+a length of time, during such time the statute of limitations shall not operate.” Hovenden v. Lord Annesley,
+2 Schoales & Lefroy 634 (Ir. Ch. 1806). Or as the court
+of appeals explained in this case, “fraud claims by their
+very nature involve self-concealing conduct,” and thus
+“it has been long established that the discovery rule applies where, as here, a claim sounds in fraud.” Pet. App.
+18a. The other courts of appeals to consider the question have reached the same conclusion. See Koenig,
+557 F.3d at 739 (“[T]he nineteenth century recognized a
+special rule for fraud, a concealed wrong.”); Tambone,
+550 F.3d at 148 (noting “the self-concealing nature of the
+defendants’ [fraudulent] conduct”); cf. Texas v. Allan
+Constr. Co., 851 F.2d 1526, 1529 (5th Cir. 1988) (“[I]n a
+fraud case, the plaintiff need only aver the underlying
+fraud in order to toll the statute of limitations until such
+time as the plaintiff had some notice of the wrong; fraud
+is, by its very nature, self-concealing.”).
+That approach follows naturally from equity’s primary justification for the fraud discovery rule, which is
+to prevent defendants from unfairly relying on statutes
+of limitations when their own acts have kept potential
+plaintiffs in the dark. See p. 13, supra; Glus, 359 U.S. at
+232-233. The Court’s treatment of “concealment” as a
+distinct ground for delaying the commencement of the
+limitations period reflects a recognition that this equitable principle may be implicated even though the underlying claim does not sound in fraud. That recognition
+provides no sound basis for declining to apply the discovery rule to actual fraud claims. As the Court ex-
+
+33
+
+plained in Bailey, “[t]o hold that * * * by committing
+a fraud in a manner that it concealed itself until such
+time as the party committing the fraud could plead the
+statute of limitations to protect it, is to make the law
+which was designed to prevent fraud the means by
+which it is made sucessful and secure.” 88 U.S.
+(21 Wall.) at 349; see Dawson 882 (requiring affirmative
+concealment in cases of fraud is “unnecessary” because
+there are “elements of immorality on the defendant’s
+part * * * in the original injury”). Simply put, petitioners point to nothing in law or logic for the notion
+that equity intervenes not at the original wrong (a defendant’s fraud) but only at the subsequent one (a defendant’s concealment of that fraud).
+B.	 In Fraud Cases, The Discovery Rule Is Read Into Federal Statutes Of Limitations Unless Congress Specifies
+Otherwise
+
+1. Petitioners argue (Br. 11-18) that applying a
+fraud discovery rule is inconsistent with the text of Section 2462, which imposes a five-year time limit without
+establishing any express exception for cases involving
+fraud or concealment. Whether described as a doctrine
+of accrual or tolling, however, the discovery rule has
+long been understood as a background principle that
+presumptively governs the application of federal limitations statutes unless Congress specifies otherwise. Indeed, nearly a century ago, this Court squarely held that
+the discovery rule may delay the running of a limitations
+period in cases of fraud, even in the absence of an express statutory “provision that the cause of action
+should not be deemed to have accrued until the discovery of the fraud.” Exploration Co., 247 U.S. at 447. As
+the Court recognized there, the doctrine’s applicability
+
+34
+
+does not depend on express language incorporating it
+into a federal limitations statute.
+The court of appeals therefore correctly reasoned
+“that for claims that sound in fraud a discovery rule is
+read into the relevant statute of limitation.” Pet. App.
+20a. This Court and other courts have long said the
+same thing. See, e.g., Holmberg, 327 U.S. at 397 (“This
+equitable doctrine is read into every federal statute of
+limitation.”); Cada v. Baxter Healthcare Corp., 920 F.2d
+446, 450 (7th Cir. 1990) (“[T]he ‘discovery rule’ of federal
+common law * * * is read into statutes of limitations in
+federal-question cases * * * in the absence of a contrary directive from Congress.”), cert. denied, 501 U.S.
+1261 (1991); Dabney v. Levy, 191 F.2d 201, 205 (2d Cir.)
+(Hand, J.) (“[I]n cases of fraud, * * * when Congress
+does not choose expressly to say the contrary, the period
+of limitation set by it only begins to run after the injured
+party has discovered, or has failed in reasonable diligence to discover[,] the wrong.”) (internal quotation
+marks omitted), cert. denied, 342 U.S. 887 (1951).
+For that reason, this Court has repeatedly applied
+the fraud discovery rule to limitations statutes that did
+not contain express language regarding the plaintiff’s
+discovery of his cause of action. See Holmberg, 327 U.S.
+at 397; Exploration Co., 247 U.S. at 449; Rosenthal,
+111 U.S. at 189; Bailey, 88 U.S. (21 Wall.) at 347; Kirby,
+120 U.S. at 136. Petitioners do not attempt to reconcile
+the results in those cases with their textual argument.
+They characterize (Br. 26, 28 n.22) those decisions as
+recognizing an exception only for concealment and not
+fraud (which is itself an inaccurate characterization, see
+pp. 30-31, supra), but none of the limitations statutes at
+issue in those cases contained any express language regarding fraud or concealment. Petitioners’ textual argu-
+
+35
+
+ment simply cannot be squared with this Court’s understanding and application of the fraud discovery rule.
+Abandonment of the long-settled background understanding reflected in this Court’s decisions would be
+especially ill-conceived because Congress has relied on
+that understanding in drafting innumerable federal limitations statutes. See, e.g., Gomez-Perez v. Potter,
+553 U.S. 474, 488 (2008); Kelly v. Robinson, 479 U.S. 36,
+46 (1986).
+Moreover, petitioners’ argument does not depend
+solely on “the plain language of Section 2462.” Br. 11
+(capitalization and emphasis omitted). Petitioners contend (Br. 12, 16) that Section 2462’s five-year period
+began to run when all of the events necessary to the
+SEC’s cause of action had occurred. Petitioners do not
+and could not contend, however, that the text of Section
+2462 specifically identifies that as the applicable test.
+Rather, in arguing that the claims here “accrued” upon
+the commission of their violation, petitioners rely on
+settled general background understandings of the term
+“accrued,” while ignoring the equally settled rule that a
+fraud claim “accrues” on the date of actual or constructive discovery. There is no warrant in either history or
+the plain text of Section 2462 for petitioners’ pick-andchoose approach.
+Section 2462’s five-year time limit likewise contains
+no express exceptions for other equitable doctrines like
+forfeiture, waiver, and tolling. This Court has repeatedly held, however, that federal statutes of limitations
+are generally “subject to rules of forfeiture and waiver,”
+and that courts are typically permitted “to toll the limitations period in light of special equitable considerations.” John R. Sand & Gravel Co. v. United States,
+552 U.S. 130, 133 (2008); see Holland v. Florida,
+
+36
+
+130 S. Ct. 2549, 2560 (2010) (explaining that federal statutes of limitations are “normally subject to a ‘rebuttable
+presumption’ in favor ‘of equitable tolling’ ”) (quoting
+Irwin, 498 U.S. at 95-96; emphasis omitted). As with the
+doctrines of forfeiture and waiver, the crucial question
+here is not whether Section 2462 explicitly incorporates
+the fraud discovery rule, but whether Congress has
+clearly displaced the usual rule that limitations periods
+in fraud cases are triggered by actual or constructive
+discovery.
+2. Petitioners also argue (Br. 16-18) that Congress
+clearly displaced the fraud discovery rule in the text of
+Section 2462. Petitioners note (Br. 17) that Section 2462
+imposes a five-year time limit on civil penalty actions
+“[e]xcept as otherwise provided by Act of Congress.”
+That phrase merely recognizes that Section 2462 is a
+catch-all provision governing numerous actions brought
+by different federal agencies, and that particular statutes authorizing suits for civil penalties may have their
+own limitations provisions. See 3M Co., 17 F.3d at 1461;
+see also United States v. Providence Journal Co.,
+485 U.S. 693, 705 n.9 (1988). Congress has not “otherwise provided” here, however, because the Advisers Act
+authorizes the SEC to seek civil penalties but does not
+specify the time within which the Commission must sue.
+Because (as explained above) the date of actual or constructive discovery is ordinarily the “accrual” date of a
+fraud claim, the introductory language of Section 2462
+provides no basis for departing from that approach here.
+Similarly, petitioners contend that “the language of
+Section 2462 is peremptory” because “[i]t directs that
+courts ‘shall’ not entertain” suits for civil penalties after
+five years. Br. 17. But that is a common feature of federal limitations statutes. This Court has often invoked
+
+37
+
+the fraud discovery rule in cases where the limitations
+statutes at issue contained the verb “shall.” See Exploration Co., 247 U.S. at 445; Rosenthal, 111 U.S. at 189;
+Bailey, 88 U.S. (21 Wall.) at 344. Section 2462’s directive that a court “shall” dismiss an untimely action sheds
+no light on whether any particular suit is untimely. In
+particular, it does not suggest that Congress departed
+here from the usual rule that a fraud claim “accrues” on
+the date of actual or constructive discovery.
+Petitioners emphasize (Br. 17) that the time limit in
+Section 2462 runs “from the date when the claim first
+accrued” (emphasis added). The term “first,” however,
+adds nothing to the parties’ dispute about when the Commission’s claims “accrued.” Each of the Commission’s
+claims could accrue only at a particular point in time.
+For petitioners, that point in time is when they committed the fraud underlying the claim; for the government,
+it is the Commission’s actual or constructive discovery
+of the same fraud. There is consequently no difference
+for these purposes between when the Commission’s
+claims “accrued” and “first accrued.” See Franconia
+Assocs. v. United States, 536 U.S. 129, 145 (2002) (explaining that the words “first accrues” are “unexceptional” and do not create “a special accrual rule”). In
+determining when a claim first accrues, courts should
+take into account the background principles governing
+accrual in a particular context, see ibid., and one of
+those principles is the fraud discovery rule.
+Finally, petitioners argue (Br. 16-17) that, by creating an exception to Section 2462’s five-year time limit
+when “the offender or the property is [not] found within
+the United States,” Congress precluded any further exception for cases of fraud or concealment. That argument is inconsistent with the history and nature of the
+
+38
+
+fraud discovery rule, which English courts applied under a limitations statute—the Statute of James—that
+contained express exceptions. See Sherwood, 21 F. Cas.
+at 1303 (applying the discovery rule even though “[t]he
+statute of limitations * * * contains like exceptions [to
+the Statute of James] in favour of infants, femes covert,
+&c.”); see also Jackson v. Speer, 974 F.2d 676, 678-680
+(5th Cir. 1992); Cada, 920 F.2d at 451. This Court has
+applied the fraud discovery rule in the same way. See
+Kirby, 120 U.S. at 135-139.
+C.	 When Congress Has Explicitly Addressed Discovery In
+Other Federal Limitations Statutes, It Has Generally
+Done So In Order To Expand Or Contract The Traditional Rule
+
+1. Petitioners contend (Br. 18-25) that when Congress intends the discovery rule to apply in a particular
+context, Congress says so expressly in the relevant federal limitations statute. That contention is incorrect for
+the same reasons as petitioners’ plain-text argument. In
+cases of fraud or concealment, the discovery rule “is
+read into every federal statute of limitation.” Holmberg,
+327 U.S. at 397. Accordingly, as the court of appeals
+explained, Congress typically has addressed discovery
+in other federal statutes not to codify the traditional
+fraud discovery rule, but to alter the rule’s usual operation in either of two ways: (a) by expanding the discovery rule to include nonfraud cases or (b) by contracting
+the amount of time a plaintiff would otherwise have to
+bring suit. See Pet. App. 20a.
+a. In some federal statutes, Congress has specified
+that a limitations period commences upon discovery of
+a cause of action that is not based on fraud. By specifying that the limitations period runs from a claim’s dis-
+
+39
+
+covery, Congress has ensured that the period does not
+run instead from the date of the events giving rise to
+the plaintiff’s cause of action. See, e.g., 15 U.S.C.
+78u-6(h)(B)(1)(iii)(I)(bb) (Supp. V 2011) (three-year time
+limit for antiretaliation actions by securities whistleblowers from “the date when facts material to the right
+of action are known or reasonably should have been
+known by the employee alleging a violation”); 26 U.S.C.
+7431(d) (two-year time limit for certain taxpayer actions
+from “the date of discovery by the plaintiff of the unauthorized inspection or disclosure”).
+Similarly, Congress sometimes specifies that a limitations period commences upon discovery when the provision governs both fraudulent and nonfraudulent conduct. For instance, Section 2415 of Title 28 establishes
+general time limits on contract and tort claims brought
+by the United States for money damages. See 28 U.S.C.
+2415(a) (six-year time limit for contract claims);
+28 U.S.C. 2415(b) (three-year time limit for tort claims).
+Those time limits run from the accrual of the government’s right of action. Section 2416(c) provides, however, that those time limits do not run during any period
+when “facts material to the right of action are not known
+and reasonably could not be known by an official of the
+United States charged with the responsibility to act in
+the circumstances.” Section 2416(c) thus ensures that
+the discovery rule operates with respect to all of the government’s contract and tort claims, regardless of
+whether those claims are based on fraud, and regardless
+of whether the government’s unawareness of the relevant facts is attributable to affirmative acts of concealment by the defendant.
+b. In other statutes, Congress has addressed discovery not to expand the traditional rule, but to contract or
+
+40
+
+displace it. In particular, Congress sometimes establishes time limits with a two-part structure that combines an express discovery rule with an absolute period
+of repose. See, e.g., 21 U.S.C. 335b(b)(3)(B) (requiring
+that suit must be commenced within six years from discovery of material facts, but in no event more than ten
+years after the violation); 28 U.S.C. 1658(b) (same; two
+years from discovery of the facts constituting the violation, but in no event more than five years after the violation). In that type of dual-prong provision, the express
+discovery rule functions very differently from its traditional counterpart. First, those express discovery rules
+can only shorten the time for bringing suit: a plaintiff
+who becomes aware of her claim must bring suit within
+the defined period after discovery, even if the repose
+period has not yet elapsed. Second, the repose limit displaces the traditional fraud discovery rule in cases
+where, as a result of fraud or concealment, plaintiffs
+discover violations after the repose period has elapsed.
+For both of those reasons, petitioners are wrong in arguing (Br. 21 & n.18, 23) that such dual-prong provisions
+codify the traditional fraud discovery rule.10
+2. Petitioners are correct (Br. 20-21) that, on rare
+occasions, Congress has expressly codified the traditional fraud discovery rule. See 19 U.S.C. 1621 (requir10
+
+It makes no difference if, in a limitations provision that combines
+an express discovery rule with an absolute period of repose, the outer
+limit runs from the date on which the claim accrued rather than the
+date of the violation. See 15 U.S.C. 77www(a) (2000) (requiring suit
+“within one year after the discovery of the facts constituting the cause
+of action and within three years after such cause of action accrued”);
+15 U.S.C. 78r (2000). The text and structure of such a provision make
+clear that, even in cases of fraud or concealment, a claim’s accrual is
+governed by general accrual principles, not by the traditional fraud
+discovery rule.
+
+41
+
+ing that suit be commenced “within 5 years after the
+date of the alleged violation or, if such violation arises
+out of fraud, within 5 years after the date of discovery of
+fraud”); 19 U.S.C. 1641(d)(4) (similar); cf. 15 U.S.C.
+1679i (extending the limitations period in misrepresentation cases against credit repair organizations until
+“the date of the discovery by the consumer”). By doing
+so, Congress “may have simply intended to remove any
+doubt” that the fraud discovery rule applies in those
+contexts. Ali v. Federal Bureau of Prisons, 552 U.S.
+214, 226 (2008); see Fort Stewart Schs. v. FLRA,
+495 U.S. 641, 646 (1990) (noting that “technically unnecessary” exceptions may have been “inserted out of an
+abundance of caution”). In any event, petitioners cite no
+authority for the counterintuitive proposition that, when
+Congress codifies an established canon of construction
+in a particular federal law, the canon ceases to govern
+the interpretation of other federal statutes. Congress’s
+occasional express endorsement of the fraud discovery
+rule does not render the rule inapplicable to statutes
+where it is neither explicitly incorporated nor explicitly
+displaced.
+D.	 The Fraud Discovery Rule Applies Equally To The Government As To Private Plaintiffs
+
+1. Petitioners contend (Br. 31, 33) that the fraud
+discovery rule applies only to suits brought by private
+plaintiffs, not to government actions for civil penalties.
+Nearly a century ago, however, this Court explained
+that there is “no good reason why the rule, now almost
+universal, that statutes of limitations upon suits to set
+aside fraudulent transactions shall not begin to run until
+the discovery of the fraud, should not apply in favor of
+the Government as well as a private individual.” Explo-
+
+42
+
+ration Co., 247 U.S. at 449; see ibid. (“We cannot believe
+that Congress intended to give immunity to those who
+for the period named in the statute might be able to conceal their fraudulent action from the knowledge of the
+agents of the Government.”); Koenig, 557 F.3d at 739
+(“[T]he United States is entitled to the benefit of [the
+fraud discovery] rule even when it sues to enforce laws
+that protect the citizenry from fraud, but is not itself a
+victim.”) (citing Exploration Co.). To the extent that
+Section 2462 is unclear, its interpretation is governed by
+the canon that “when the sovereign elects to subject
+itself to a statute of limitations, the sovereign is given
+the benefit of the doubt if the scope of the statute is ambiguous.” BP Am. Prod. Co. v. Burton, 549 U.S. 84, 96
+(2006). Petitioners provide no reason to abandon that
+approach here. Equitable-tolling principles are presumptively applicable to private suits against the government, see Irwin, 498 U.S. at 95-96, and it would be
+perverse to deny the sovereign alone the benefit of the
+fraud discovery rule.
+Petitioners argue that, in Exploration Co., “the government was suing for restitution [and] standing in for
+a private stakeholder who was defrauded by a private
+party.” Br. 28 n.22. That is incorrect. The defendants
+in Exploration Co. had obtained federal lands by fraud,
+and the United States brought suit to annul the land
+patents. See 247 U.S. at 445-446. The same type of action was at issue in United States v. Minor, 114 U.S. 233
+(1885). In both cases, this Court held that equitable
+doctrines—the discovery rule in Exploration Co. and
+laches in Minor—apply in the same way to suits brought
+by the government as to suits brought by private plaintiffs. See Minor, 114 U.S. at 238 (“Of course, lapse of
+time[] as a defence to a suit for relief for these frauds
+
+43
+
+did not begin to run until the fraud was discovered.”).
+Just as the government brought those cases to vindicate
+the public interest in lawful disposal of federal lands, the
+Commission brought this case to vindicate the public
+interest in lawful participation in the securities markets.
+See, e.g., SEC v. Capital Gains Research Bureau, Inc.,
+375 U.S. 180, 189-190 (1963).11
+2. Petitioners maintain (Br. 30-33) that the discovery rule applies only “where the party injured by the
+fraud remains in ignorance of it.” Bailey, 88 U.S.
+(21 Wall.) at 348 (emphasis added). Petitioners contend
+that, because the Commission need not establish injury
+as an element of its fraud claims under the Advisers Act,
+the discovery rule does not apply to “a statutory [Advisers Act] claim—or any other statutory fraud claim.”
+Br. 31. But equity’s primary justification for the fraud
+discovery rule has centered on the defendant’s misconduct, not on the particular disadvantage the plaintiff
+would suffer if its suit were dismissed as untimely. See
+Glus, 359 U.S. at 232 (“[W]e need look no further than
+the maxim that no man may take advantage of his own
+wrong.”); Holmberg, 327 U.S. at 386 (“[F]raudulent con11
+
+Notably, the arguments that the defendants advanced in Exploration Co. are virtually indistinguishable from those pressed by petitioners here. See Appellants’ Br., Exploration Co., supra (No. 277). The
+defendants in that case argued that the plain text of the limitations
+provision did not contain an exception for fraud, id. at 36; that Congress
+could have included such an exception if it had desired, id. at 27-35,
+60-62; that the defendants had not taken affirmative steps to conceal
+their fraud, id. at 42, 72-73; that the discovery rule could be invoked
+only by private litigants, not the government, id. at 63-66; and that
+adopting a contrary approach would raise administrability concerns and
+permit the government to delay investigating land patent fraud, id. at
+67-72. The Court in Exploration Co. squarely rejected each of those
+arguments.
+
+44
+
+duct on the part of the defendant * * * may make it
+unfair to bar appeal to equity because of mere lapse of
+time.”). Indeed, that equitable principle provides the
+core justification for distinguishing cases that involve
+fraud or concealment from other cases in which the
+plaintiff is reasonably unaware of the facts giving rise to
+his cause of action. See p. 19, supra. That principle is as
+applicable to government enforcement actions as to private suits.
+To be sure, the Court in Bailey referred to the discovery rule as applying when the eventual plaintiff was
+“injured by the fraud [and] remains in ignorance of it.”
+88 U.S. (21 Wall.) at 348. But in Bailey and other cases
+where that language was repeated, the plaintiffs were
+private parties that had been injured by the defendants’
+fraud. See id. at 343; see also Holmberg, 327 U.S. at
+393; Kirby, 120 U.S. at 131-132. Because private plaintiffs who sue for fraud typically must prove injury, see
+Restatement (Second) of Torts § 525 (1976), the language in Bailey accurately describes most of the cases
+in which the fraud discovery rule has been applied. But
+as the Court recognized in Exploration Co., equity’s
+rationale for the discovery rule is fully applicable to
+cases where Congress has authorized the government to
+bring fraud claims without a showing of injury. Indeed,
+the Court sometimes has stated that a limitations period
+does not begin to run “until the discovery of the facts
+constituting the fraud.” Amy, 130 U.S. at 324-325; Case
+of Broderick’s Will, 88 U.S. (21 Wall.) at 518-519. That
+formulation accurately captures the relevant inquiry and
+
+45
+
+encompasses the current SEC enforcement action for
+civil penalties.12
+3. Petitioners contend (Br. 23) that it would be
+anomalous to allow the SEC, but not private plaintiffs,
+to bring suit more than five years after the defendant’s
+fraudulent conduct occurred. See 28 U.S.C. 1658(b) (establishing a five-year period of repose in private
+securities-fraud suits). When Congress established that
+repose period on private suits in 2002, it did nothing to
+indicate that it intended to displace the traditional fraud
+discovery rule in enforcement actions brought by the
+government. And even under petitioners’ reading of
+Section 2462, that provision is more generous to the government than Section 1658(b) is to private plaintiffs,
+because Section 2462 establishes a five-year period to
+sue even when the violation is discovered immediately,
+whereas suits under Section 1658(b) must be filed within
+“2 years after the discovery of the facts constituting the
+violation.”
+In any event, there is nothing unusual about permitting greater remedies to the government than to private
+parties. See, e.g., Minor, 114 U.S. at 240; United States
+v. Hoar, 26 F. Cas. 329, 330 (1821) (No. 15, 373) (Story,
+J.). Congress wants to deter securities violations
+through the Commission’s enforcement authority, and
+that purpose is separate from seeking to compensate
+12
+
+This Court has extended the traditional discovery rule for cases of
+fraud or concealment to two other contexts: “latent disease and medical
+malpractice.” TRW, 534 U.S. at 27; see, e.g., Rotella v. Wood, 528 U.S.
+549, 555 (2000); Urie v. Thompson, 337 U.S. 163, 170-171 (1949). In
+those contexts, the application of the discovery rule may be linked to
+the nature of plaintiffs’ injuries, but those cases are distinct from “the
+historical exception for suits based on fraud.” TRW, 534 U.S. at 37
+(Scalia, J., concurring in the judgment).
+
+46
+
+injured victims. In addition, Section 2462 governs civil
+penalty actions in other contexts where the limitations
+provisions that apply to private suits may not clearly
+displace the discovery rule. In those contexts, it would
+be petitioners’ approach creating the anomaly: private
+plaintiffs would be able to invoke the discovery rule in
+cases of fraud or concealment, but the government alone
+would not.
+E.	 The Fraud Discovery Rule Balances The Need For Repose Against The Need To Prevent Abuse Of Limitations
+Statutes
+
+1. Petitioners argue (Br. 37-43) that the fraud discovery rule is “at odds with the basic policies of all limitations provisions: repose, elimination of stale claims,
+and certainty about a plaintiff ’s opportunity for recovery and a defendant’s potential liabilities.” Rotella v.
+Wood, 528 U.S. 549, 555 (2000). But the fraud discovery
+rule does not reject those policies altogether; it simply
+balances them against competing values in cases where
+the defendant’s own deceptive conduct has hindered his
+adversary’s ability to seek redress. Its core justification
+is that defendants are not entitled to repose when their
+own deceptive conduct has effectively foreclosed potential plaintiffs from seeking redress. If defendants want
+to eliminate stale claims and uncertainty about their
+liabilities, they need only make public whatever they
+have previously concealed. Here, if petitioners had disclosed the market timing scheme to the fund’s investors
+or to the Commission, the limitations period in Section
+2462 would have commenced to run.
+Petitioners argue (Br. 34-37) that this approach
+would allow perpetual penalties when the government
+alleges fraudulent violations of the securities laws. This
+
+47
+
+Court’s response to that concern, however, has never
+been to require affirmative acts of concealment over and
+above the defendant’s fraud. Rather, the Court has limited the potential consequences of the fraud discovery
+rule by emphasizing that actual or constructive discovery will trigger the limitations period. See, e.g., Credit
+Suisse Secs. (USA) LLC v. Simmonds, 132 S. Ct. 1414,
+1420 (2012); Merck, 130 S. Ct. at 1794-1795. Where a
+defendant’s fraud or concealment would prevent a diligent plaintiff from learning the facts that give rise to his
+cause of action, the discovery rule appropriately ensures
+that the defendant does not benefit from his own wrongdoing. See, e.g., Prevost v. Gratz, 19 U.S. (6 Wheat.)
+481, 498 (1821) (observing that although the “length of
+time necessarily obscures all human evidence,” it is likewise true that “the length of time, during which the
+fraud has been successfully concealed and practised, is
+rather an aggravation of the offence, and calls more
+loudly upon a Court of equity to grant ample and decisive relief”).
+Petitioners rely (Br. 34-37) on a presumption against
+perpetual penalties, but that presumption is inapposite
+here. Congress has consistently described the SEC’s
+monetary penalties imposed for regulatory violations as
+“civil” in nature, see, e.g., 15 U.S.C. 77t(d) (2000),
+78u(d)(3) (2000), 80b-9(e)(1), and “only the clearest proof
+will suffice to override legislative intent and transform
+what has been denominated a civil remedy into a criminal penalty,” Hudson v. United States, 522 U.S. 93, 100
+(1997) (internal quotation marks omitted); see Taylor v.
+United States, 44 U.S. (3 How.) 197, 210-211 (1845)
+(Story, J.) (recognizing that civil penalty provisions are
+not penal laws to which the rule of lenity applies). Moreover, Section 2462 actually prevents the imposition of
+
+48
+
+perpetual penalties by placing a five-year time limit on
+civil penalty actions. Cf. Adams v. Woods, 6 U.S.
+(2 Cranch) 336, 342 (1805) (Marshall, C.J.) (holding that
+a criminal forfeiture action should be subject to a limitations period). Although that limitations period is suspended in cases of fraud or concealment, the delay results from the defendant’s conduct, not the government’s.
+2. As noted above, the traditional discovery rule
+accounts for the importance of repose by providing that
+the limitations period in a fraud case begins to run when
+a reasonably diligent plaintiff could have discovered the
+relevant facts, even if the actual plaintiff did not discover them until later. Petitioners suggest in passing
+(Br. 29) that the Commission did not exercise reasonable
+diligence here. As the court of appeals recognized, however, that argument is, “at best, premature.” Pet. App.
+21a. This case arises on petitioners’ motion to dismiss,
+and the complaint alleges that the SEC “did not discover
+[petitioners’] illegal conduct until late 2003” and “could
+not have discovered that wrongdoing earlier.” J.A. 89.
+The court of appeals therefore correctly held that “at
+this stage in the litigation [petitioners] have not met
+their burden of demonstrating that a reasonably diligent
+plaintiff would have discovered this fraud prior to September 2003.” Pet. App. 21a-22a.
+F.	 The Fraud Discovery Rule Has Proved To Be Judicially
+Administrable For More Than Two Centuries
+
+Petitioners advance various policy arguments why
+the traditional discovery rule should not apply to the
+Commission’s civil penalty actions. None is persuasive.
+1. Petitioners argue (Br. 43-49) that the decision
+below will be difficult to administer in two respects.
+
+49
+
+First, petitioners assert (Br. 47-49) that it will be hard
+for courts to determine whether a cause of action is
+based on fraud. That is not a difficult inquiry here. The
+relevant provisions of the Advisers Act make it unlawful
+for an adviser “to employ any device, scheme, or artifice
+to defraud any client or prospective client,” 15 U.S.C.
+80b-6(1) (emphasis added), or “to engage in any transaction, practice, or course of business which operates as a
+fraud or deceit upon any client or prospective client,”
+15 U.S.C. 80b-6(2) (emphasis added). Nor do petitioners
+identify any prior case in which the inquiry has been
+difficult. In cases of fraud or concealment, courts in
+England and America have applied the discovery rule
+for centuries. And, as explained earlier, this Court has
+long distinguished between cases involving fraud or concealment and cases in which the plaintiff is unaware for
+some other reason of the facts underlying his cause of
+action. Petitioners offer no reason to suppose that this
+distinction has proved unworkable in practice.
+Petitioners also assert (Br. 44) that it will be hard for
+courts to determine when a large agency like the Commission constructively discovered a defendant’s fraud.
+Again, petitioners identify no cases in which that inquiry
+has proved to be difficult. See Koenig, 557 F.3d at
+739-740; Tambone, 550 F.3d at 148-149; see also Exploration Co., 247 U.S. at 438 (“There was nothing in the
+[government] records * * * which could possibly have
+aroused a suspicion * * * until the reports of the special agents of the General Land Office were made in the
+latter part of 1909.”); cf. Merck, 130 S. Ct. at 1798
+(“[C]ourts applying the traditional discovery rule have
+long had to ask what a reasonably diligent plaintiff
+would have known and done in myriad circumstances.”).
+Indeed, petitioners concede (Br. 43-44) that other fed-
+
+50
+
+eral statutes require courts to undertake virtually identical inquiries into the knowledge of government officials.
+2. Petitioners assert that the Commission “has extensive powers and the five-year statute of limitations
+gives it sufficient time to fulfill the interest in law enforcement.” Br. 40. That assertion places the cart before the horse. The Commission “can take evidence,
+subpoena documents, and compel testimony,” ibid., but
+its ability to exercise those powers does not put it on
+notice of the need to do so in a particular case when a
+defendant’s fraud has concealed a violation of the securities laws. Indeed, petitioners’ approach unrealistically
+envisions that the Commission (and other federal agencies that employ Section 2462) could constantly monitor
+every regulated entity and transaction for any hint of
+hidden fraud. That inefficient approach would only increase the burden on regulated entities generally, including those entities that have not engaged in any fraud
+or concealment.
+In any event, the SEC’s argument is not that “it has
+insufficient time to investigate” securities fraud, Br. 41,
+but that it should receive the five years granted to it by
+Congress in Section 2462. In authorizing the Commission to seek civil penalties, Congress recognized that
+increasingly “[i]nvestigations involve more complex issues of fact and law, the collection of evidence from foreign countries and the prosecution of defendants who, in
+many cases, have the financial means to fight and delay
+SEC actions for long periods of time, thus requiring a
+greater commitment of the SEC’s resources.” S. Rep.
+No. 337, 101st Cong., 2d Sess. 6 (1990). Fraud claims
+are typically more difficult to investigate and pursue
+than other types of claims, see Lampf, 501 U.S. at 377
+
+51
+
+(Kennedy, J., dissenting) (“The most extensive and corrupt schemes may not be discovered within the time allowed for bringing an express cause of action.”), and
+there is no reason why Congress would have wanted the
+Commission and other agencies to have less time to do
+so.
+3. Finally, petitioners suggest (Br. 39) that the court
+of appeals’ approach would weaken the Commission’s
+incentives to investigate fraud cases. Under the traditional fraud discovery rule, however, Section 2462’s limitations period begins to run when a reasonably diligent
+plaintiff could have discovered the relevant facts, regardless of the date of actual discovery. Defendants can
+take limited discovery and can obtain summary judgment if there is no genuine issue of fact that the SEC
+failed to file in time. See, e.g., Corwin v. Marney, Orton
+Invs., 843 F.2d 194, 197-198 (5th Cir.), cert. denied,
+488 U.S. 924 (1988). To bring an enforcement action like
+this one, moreover, the Commission must satisfy not
+only Section 2462’s timing requirement, but also the
+pleading standards for fraud, which may become more
+difficult to meet as the defendant’s conduct becomes
+more remote in time. See, e.g., SEC v. Cuban, 620 F.3d
+551, 552-553 & n.4 (5th Cir. 2010) (discussing those standards). If an enforcement suit is allowed to go forward
+and the Commission prevails on the merits, the district
+court has discretion to set the amount of any civil penalty, and it can consider the passage of time as well
+as other relevant factors.
+See, e.g., 15 U.S.C.
+80b-9(e)(2)(A) (providing that the “amount of the penalty shall be determined by the court in light of the facts
+and circumstances”). Taken together, the relevant statutory provisions create ample incentives for the Com-
+
+52
+
+mission to pursue its claims diligently, as it did in this
+case.
+CONCLUSION
+
+The judgment of the court of appeals should be affirmed.
+Respectfully submitted.
+MARK D. CAHN
+General Counsel
+MICHAEL A. CONLEY
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+HOPE HALL AUGUSTINI
+DOMINICK V. FREDA
+Senior Litigation Counsels
+DAVID LISITZA
+Senior Counsel
+
+Securities and Exchange 
+
+Commission
+
+
+DECEMBER 2012
+
+DONALD B. VERRILLI, JR.
+Solicitor General
+MALCOLM L. STEWART
+Deputy Solicitor General
+JEFFREY B. WALL
+Assistant to the Solicitor
+General
+
+

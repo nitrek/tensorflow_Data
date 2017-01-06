@@ -1,0 +1,548 @@
+IM	 Guidance Update
+JUNE 2016
+
+|
+
+No. 2016-04
+
+BUSINESS CONTINUITY PLANNING FOR REGISTERED INVESTMENT COMPANIES
+In this guidance update, the staff of the Division of Investment Management (the
+“Division”) underscores the importance of mitigating operational risks related to
+significant business disruptions, particularly through proper business continuity
+planning for registered investment companies (“funds”). Rule 38a-1 under the
+Investment Company Act of 1940 (“Investment Company Act”) requires funds
+to adopt and implement written compliance policies and procedures reasonably
+designed to prevent violation of the federal securities laws.1 In the staff’s view, fund
+complexes2 should consider their respective compliance obligations under the
+federal securities laws when assessing their ability to continue operations during a
+business continuity event.
+As discussed below, the importance of proper business continuity planning was
+highlighted in August of 2015 when a systems malfunction at a financial institution
+prevented it from calculating accurate net asset values (“NAVs”) for hundreds of
+mutual funds and exchange-traded funds. Because fund complexes increasingly
+use technologies and services provided by third parties to conduct daily fund
+operations, the staff believes such dependencies and arrangements should be
+considered as part of comprehensive business continuity planning. This guidance
+update discusses a number of measures that the staff believes funds should
+consider as they evaluate the robustness of their fund complex’s plan in order to
+mitigate business continuity risks for funds and investors.
+
+US Securities and Exchange Commission
+			
+Division of Investment Management
+
+I M G U I D A N C E U P D AT E
+
+2
+
+Background
+Funds are generally externally managed and do not have employees of their own;
+they typically are organized by their primary investment advisers (also known as
+the funds’ “sponsors”), who often manage a number of funds within a fund complex
+and coordinate the activities of other fund service providers. Due to this structure,
+we understand that business continuity planning generally is conducted at the
+fund complex level and typically business continuity plans (“BCPs”) address fund
+activities in conjunction with the activities of the primary investment adviser and
+other service providers that are part of the fund complex.3
+Business continuity planning is critical to a fund complex’s (or any business entity’s)
+ability to continue operations during, and recover from, a significant business
+disruption. The development of policies and procedures reasonably designed to
+ensure that an entity’s critical functions and business activities can continue to
+operate in the face of a significant business disruption has long been considered
+an essential aspect of operational risk management.4 For decades, fund complexes
+and their service providers have continued to build and improve practices to create
+resiliencies designed to mitigate the consequences of disruptive events.5 BCPs are
+important tools used by fund complexes and other service providers to prepare for
+significant business disruptions and to address fund compliance obligations during
+such disruptions.6
+In recent history, significant business disruptions have impacted the financial
+services industry and, as a result, business continuity and disaster recovery practices
+have appropriately taken on more importance in the industry and have been
+subject to increased focus by regulators.7 In the years since September 11, 2001, the
+Securities and Exchange Commission (“Commission” or “SEC”) has taken numerous
+steps to address business continuity practices in the financial services industry and
+the ability of market participants to continue operations during times of crisis.8
+For example, in 2003, the Commission adopted rule 38a-1 under the Investment
+Company Act,9 which, as discussed above, requires funds to adopt and implement
+written compliance policies and procedures.10 In the context of the expected
+elements of a fund’s compliance program, the Compliance Program Adopting
+Release states that funds’ or their advisers’ policies and procedures should address
+the issues identified in that release, including BCPs.11 Additionally, in the wake of
+Hurricanes Katrina and Sandy, Commission staff reviewed, observed, and addressed
+business continuity practices and issued alerts reflecting their observations and
+describing notable practices.12
+
+I M G U I D A N C E U P D AT E
+
+3
+
+As noted above, in August 2015, hundreds of mutual funds and exchange-traded
+funds (“ETFs”) experienced a business continuity event when a systems malfunction
+at a financial institution prevented it from calculating accurate NAVs for these
+funds.13 As a result of this malfunction, the critical third-party provider was unable
+to deliver timely system-generated NAVs or to publish current ETF baskets for
+certain clients for several days.14 Had this outage persisted, the magnitude of this
+event could have been much greater.15 Staff in the Division’s Risk and Examinations
+Office and the Commission’s Office of Compliance Inspections and Examinations
+conducted outreach to the third-party provider, fund and ETF complexes, and select
+intermediaries during the course of the outage and after the incident. The outreach
+revealed that some funds could have been better prepared for the possibility
+that one of their critical service providers would suffer an extended outage.16 This
+outreach also highlighted the importance of robust business continuity planning
+for fund complexes, particularly the need to understand the business continuity
+and disaster recovery protocols of critical fund service providers, and how the fund
+complex’s own BCP addresses the risk that a critical third-party provider could
+suffer a significant business disruption.
+Fund Compliance
+In the staff’s view, fund complexes should consider how to mitigate exposures
+through compliance policies and procedures that address business continuity
+planning and potential disruptions in services (whether provided internally at the
+fund complex or externally by a critical third-party service provider) that could
+affect a fund’s ability to continue operations, such as processing shareholder
+transactions. Because fund complexes vary in activities and operations, the staff
+believes that their policies, procedures, and plans generally should be tailored based
+on the nature and scope of their business. Additionally, because fund complexes
+also outsource critical functions to third parties, the staff believes that they should
+consider conducting thorough initial and ongoing due diligence of those third
+parties, including due diligence of their service providers’ business continuity and
+disaster recovery plans.
+Notable Practices for Fund Complexes
+The Division recently conducted outreach to a number of fund complexes and their
+advisers regarding business continuity planning generally. The staff recognized
+many similarities among fund complexes, including that most funds rely on fund
+complex or enterprise-wide business continuity and disaster recovery plans that
+incorporate, among other things, the critical functions performed on behalf of funds.
+
+I M G U I D A N C E U P D AT E
+
+4
+
+In the staff’s view, critical fund service providers likely would include, but would not
+be limited to, each named service provider under rule 38a-1 (i.e., each investment
+adviser, principal underwriter, administrator, and transfer agent), as well as each
+custodian and pricing agent.17
+Although the types of funds and fund complex business models may vary
+significantly, they generally share certain fundamental operational risks, including
+their ability to continue operations and service investors during business disruptions,
+regardless of the cause. The staff observed the following notable practices in recent
+discussions with fund complexes:
+•	
+
+Plans typically cover the facilities, technology/systems, employees, and activities
+conducted by the adviser and any affiliated entities, as well as dependencies on
+critical services provided by other third-party service providers.
+
+•	
+
+A broad cross-section of employees from key functional areas are involved in
+BCP programs at the fund complex typically including, but not limited to, senior
+management (including officers of the fund), technology, information security,
+operations, human resources, communications, legal, compliance, and risk
+management to assist in efforts to ensure continuity and resiliency when events
+occur.
+
+•	
+
+The fund’s Chief Compliance Officer (“CCO”) and/or the CCO of other entities in
+the fund complex typically participate in the fund complex’s third-party service
+provider oversight process as conducted by key personnel. Service provider
+oversight programs generally incorporate both initial and ongoing due diligence
+processes, including review of applicable business continuity and disaster recovery
+plans for critical providers. The fund complex typically seeks a combination of
+information to conduct its oversight, including, but not limited to, service provider
+presentations, on-site visits, questionnaires, certifications, independent control
+reports,18 and summaries of programs and testing, where appropriate, including
+with respect to BCPs.19
+
+•	
+
+Although practices vary, BCP presentations are typically provided to fund boards of
+directors, with CCO participation, on an annual basis and are given by the adviser
+and/or other critical service providers. These presentations may be provided
+separately, as part of periodic presentations related to contractual arrangements
+(including as part of the annual section 15(c) process),20 or as part of the CCO’s
+annual update to the board.21
+
+I M G U I D A N C E U P D AT E
+
+•
+
+5
+
+For many fund complexes, some form of BCP testing for their plan occurs at least
+annually, and the results of the fund complex’s tests may be shared in updates to
+fund boards.
+
+•
+
+Business continuity outages, including those incurred by the fund complex or a
+critical third-party service provider, are monitored by the CCO and other pertinent
+staff and reported to the fund board as warranted.22
+
+Additional Considerations Regarding Critical Service Providers
+As described above, advisers of fund complexes, CCOs, and the fund board play a
+key role in the selection and ongoing oversight of critical fund service providers.
+Key business functions and related activities may be performed by an affiliate of
+the fund complex, a third-party service provider, or some combination thereof. In
+the staff’s view, a fund complex’s BCP should contemplate such arrangements, and
+consider the following lessons learned from past business continuity events and
+our outreach efforts when formulating fund complex BCPs as they relate to critical
+service providers.
+•	
+
+Back-Up Processes and Contingency Plans. The staff believes that fund
+complexes should consider examining critical service providers’ backup
+processes and redundancies, the robustness of the provider’s contingency
+plans, including reliance on other critical service providers, and how these
+providers intend to maintain operations during a significant business
+disruption. Fund complexes generally should understand how their own BCP
+addresses the risk that a critical service provider could suffer a significant
+business disruption and how the provider and the fund complex might
+respond under certain scenarios.23
+
+•	
+
+Monitoring Incidents and Communications Protocols. The staff believes
+that fund complexes should consider how they can best monitor whether
+a critical service provider has experienced a significant disruption (such as
+a cybersecurity breach24 or other continuity event) that could impair the
+service provider’s ability to provide uninterrupted services, the potential
+impacts such events may have on fund operations and investors, and the
+communication protocols and steps that may be necessary for the fund
+complex to successfully navigate such events. Such protocols might include:
+–	 Policies and procedures for internal communications across the fund
+complex (e.g., involving senior management, legal, compliance, risk
+management, technology, information security, operations, human
+resources, and communications staff), as well as with fund boards.
+
+I M G U I D A N C E U P D AT E
+
+6
+
+–	 External communications plans that address ongoing discussions
+with the affected service provider, as well as other providers as
+warranted, and intermediaries, investors, regulators, and the press,
+as appropriate.
+–	 Maintaining updated and accessible contact information for
+essential communications with various constituents during an event.
+–	 Providing timely communications that report progress and next
+steps, which may include posting updates to websites or portals to
+facilitate accessibility and broad dissemination of information.
+•	
+
+Understanding the Interrelationship of Critical Service Provider BCPs.
+The staff believes that fund complexes should consider how the BCPs of a
+fund’s critical service providers relate to each other to better ensure that
+funds can continue operations and/or promptly resume operations during a
+significant business disruption. For example, if the fund complex relies on a
+particular third-party service provider to calculate its NAV on a daily basis,
+has the fund complex discussed with the service provider any redundancies
+and backup plans the service provider has in the event it experiences a
+significant business disruption? Additionally, does the fund complex also
+have backup procedures that address the steps that would need to be taken
+to successfully navigate through the service provider disruption in order to
+mitigate potential risks to impacted funds and investors?
+
+•	
+
+Contemplating Various Scenarios. The staff believes that fund complexes
+should consider how a critical service provider disruption could impact
+fund operations and investors, and generally have a plan for managing the
+response to potential disruptions under various scenarios, whether such
+disruptions occur internally or at a critical third-party service provider.
+
+In the staff’s view, to assist fund boards in providing appropriate oversight, boards
+generally should discuss with the fund’s adviser and other critical (affiliated and/or
+third-party) service providers the steps being taken to mitigate the risks associated
+with business disruptions and the robustness of their business continuity planning,
+including how the fund complex’s own BCP addresses the risk that a critical thirdparty service provider could suffer a business disruption. 25
+
+I M G U I D A N C E U P D AT E
+
+7
+
+Conclusion
+The staff believes that funds will be better prepared to deal with business continuity
+events, if and when they occur, if fund complexes consider the robustness of their
+BCPs as well as those of their critical third-party service providers. The staff also
+believes that fund complexes’ preparedness likely would be enhanced if they
+consider their service providers’ interrelationships to one another and how the
+fund complex will respond to significant business disruptions that may impact their
+internal operations and/or a critical third-party service provider of the fund. The
+staff recognizes that it is not possible for a fund or fund complex to anticipate or
+prevent every business continuity event. However, the staff believes appropriate
+planning includes consideration of these issues and various scenarios in advance of
+a significant business disruption. We believe such planning will assist funds and fund
+complexes in mitigating the impact of significant business disruptions on operations
+and in servicing investors, as well as in complying with the federal securities laws
+throughout business continuity events.
+Endnotes
+1
+
+See 17 CFR 270.38a-1(a)(1).
+
+2
+
+For purposes of this guidance update, we use the term “fund complex” to mean
+funds, their primary investment adviser, and other fund service providers that are
+affiliated with the funds or their primary investment adviser. See section 2(a)(3) of
+the Investment Company Act (defining “affiliated person”).
+
+3
+
+We recognize that some funds do not have a traditional “sponsor” and instead use
+a turnkey service provider or third-party administrator to conduct all or most of
+the activities of running the fund. Like with other critical service providers, the staff
+believes that such funds should consider the BCP of their turnkey service provider
+or third-party administrator as it affects the fund. See Additional Considerations
+Regarding Critical Service Providers in this guidance update.
+
+4
+
+See, e.g., Summary of “Lessons Learned” from Events of September 11 and
+Implications for Business Continuity, Discussion Note Prepared by Staffs of the
+Federal Reserve, the New York State Banking Department, the Office of the
+Comptroller of the Currency, and the SEC, for discussion at a meeting on February
+
+I M G U I D A N C E U P D AT E
+
+8
+
+26, 2002 at the Federal Reserve Bank of New York (Feb. 13, 2002), available at
+https://www.sec.gov/divisions/marketreg/lessonslearned.htm; Interagency Paper on
+the Sound Practices to Strengthen the Resilience of the Financial System, Securities
+Exchange Act Rel. No. 47638 (April 7, 2003) [68 FR 17809 (Apr. 11, 2003)] (setting
+forth business continuity objectives for all financial firms and the U.S. financial
+system as a whole); Policy Statement: Business Continuity Planning for Trading
+Markets, Securities Exchange Act Rel. No. 48545 (Sept. 29, 2003) [68 FR 56656
+(Oct. 1, 2003)].
+5
+
+See supra note 4; see also Comment Letter of Investment Company Institute on the
+Financial Stability Oversight Council’s (“FSOC”) Notice Seeking Comment on Asset
+Management Products and Activities (Mar. 25, 2015) (“ICI FSOC Comment Letter”)
+at 68 (“Over the past several decades, the fund industry has confronted and
+worked through a variety of emergencies …. In addition, since September 11, 2001,
+the nature and scope of business continuance has changed significantly, making
+fund complexes and their critical service providers more resilient to unexpected
+business interruptions.”).
+
+6
+
+See Comment Letter of BlackRock, Inc. on the FSOC Notice Seeking Comment
+on Asset Management Products and Activities (Mar. 25, 2015) at 10 (“In the
+normal course of business, asset managers implement measures to mitigate the
+impact of potentially disruptive events through operational risk management
+programs, including maintaining business continuity plans ….”); Comment Letter
+of The Capital Group Companies to the FSOC Notice Seeking Comment on Asset
+Management Products and Activities (Mar. 25, 2015) at 11 (“Regulatory compliance
+and operational risk management are well-developed areas within [the asset
+management] industry …. Consequently, asset managers invest significant resources
+and employ various tools to avoid operational issues that could adversely affect
+their clients or the assets they manage.”); ICI FSOC Comment Letter, supra note
+5 at 69 (“[F]unds and key service providers to the industry have robust plans
+and strategies in place to facilitate the continuation or resumption of business
+operations in the event of an emergency….”).
+
+7
+
+See, e.g., supra note 4; see also FSOC Notice Seeking Comment on Asset
+Management Products and Activities, available at http://www.treasury.gov/
+initiatives/fsoc/rulemaking/Documents/Notice%20Seeking%20Comment%20
+on%20Asset%20Management%20Products%20and%20Activities.pdf, [79 FR 77488
+(Dec. 24, 2014)] (requesting public comment on, among other things, operational
+risks and transition planning as it relates to the asset management industry).
+
+I M G U I D A N C E U P D AT E
+
+8	
+
+9
+
+See, e.g., infra notes 9 and 12; see also FINRA rule 4370 (requiring broker-dealers
+to have BCPs that address certain required elements); SEC Approves NASD
+and NYSE Business Continuity Rules (Apr. 2004), available at https://www.sec.
+gov/news/press/2004-53.htm. More recently, in 2014, the Commission adopted
+Regulation Systems Compliance and Integrity, or Regulation SCI, which, among
+other things, requires certain entities to establish, maintain, and enforce written
+policies and procedures, including business continuity and disaster recovery plans
+that include maintaining backup and recovery capabilities sufficiently resilient
+and geographically diverse and that are reasonably designed to achieve next
+business day resumption of trading and two-hour resumption of critical SCI
+systems following a wide-scale disruption. See Regulation Systems Compliance
+and Integrity, Securities Exchange Act Rel. No. 73639 (Nov. 19, 2014) [79 FR 72251
+(Dec. 5, 2014)]; 17 CFR 242.1001(a)(2)(v).
+
+9	
+
+See Compliance Programs of Investment Companies and Investment Advisers,
+Advisers Act Rel. No. 2204 (Dec. 17, 2003) [68 FR 74714 (Dec. 24, 2003)]
+(“Compliance Program Adopting Release”). In 2003, the Commission also adopted
+rule 206(4)-7 under the Advisers Act, which makes it unlawful for a registered
+investment adviser to provide investment advice unless the adviser has adopted
+and implemented written policies and procedures that are reasonably designed
+to prevent violation by the adviser and its supervised persons of the Advisers
+Act and the rules thereunder. See 17 CFR 275.206(4)-7(a). In addition, today the
+Commission proposed a new rule under the Advisers Act that would require SECregistered investment advisers to adopt and implement business continuity and
+transition plans reasonably designed to address operational and other risks related
+to a significant disruption in the investment adviser’s operations and that also
+address certain components. See Adviser Business Continuity and Transition Plans,
+Advisers Act Rel. No. 4439 (June 28, 2016).
+
+10	 Rule 38a-1 also requires a fund’s compliance policies and procedures to provide
+for the oversight of compliance by the fund’s advisers, principal underwriters,
+administrators, and transfer agents (collectively, “named service providers”), and
+that the fund’s board of directors approve, and review annually, the compliance
+policies and procedures of the fund and each of its named service providers. See 17
+CFR 270.38a-1(a)(1)-(3).
+11	
+
+In the Compliance Program Adopting Release, the Commission stated that it
+expected that an adviser’s policies and procedures, at a minimum, should address
+(among other things) BCPs to the extent that they are relevant to that adviser. In
+
+I M G U I D A N C E U P D AT E
+
+10
+
+the context of the expected elements of a fund’s compliance program, the release
+states that “[f]unds’ or their advisers’ policies and procedures should address the
+issues … identified for investment advisers….” See Compliance Program Adopting
+Release, supra note 9.
+12
+
+See Compliance Alert, June 2007, available at https://www.sec.gov/about/offices/
+ocie/complialert.htm; National Exam Program Risk Alert, SEC Examinations of
+Business Continuity Plans of Certain Advisers Following Operational Disruptions
+Caused by Weather-Related Events Last Year (Aug. 27, 2013), available at https://
+www.sec.gov/about/offices/ocie/business-continuity-plans-risk-alert.pdf. The 2012
+examination was part of a joint review by the Commission’s Office of Compliance
+Inspections and Examinations, the Financial Industry Regulatory Authority, and
+the Commodity Futures Trading Commission of relevant firms’ business continuity
+and disaster recovery planning in the wake of Hurricane Sandy. Together, these
+entities also issued a joint statement setting forth best practices and lessons
+learned as a result of their review. See Joint Review of Business Continuity and
+Disaster Recovery of Firms by the Commission’s National Examination Program,
+the Commodity Futures Trading Commission’s Division of Swap Dealers and
+Intermediary Oversight and the Financial Industry Regulatory Authority (Aug.
+16, 2013), available at http://www.sec.gov/about/offices/ocie/jointobservationsbcps08072013.pdf.
+
+13
+
+In late August 2015, Bank of New York Mellon (“BNY Mellon”), a service provider
+that provides custodial and administrative services to mutual funds, closedend funds, and exchange-traded funds, experienced a breakdown in one of its
+third-party systems (SunGard’s InvestOne) used to calculate numerous client
+funds’ NAVs. See, e.g., Stephen Foley, BNY Mellon Close to Resolving Software
+Glitch, Financial Times (Aug. 31, 2015), available at http://www.ft.com/intl/
+cms/s/0/47d5860a-4f2b-11e5-b029-b9d50a74fd14.html; Jessica Toonkel & Tim
+McLaughlin, BNY Mellon Pricing Glitch Affects Billions of Dollars of Funds, Reuters
+(Aug. 26, 2015), available at http://www.reuters.com/article/bnymellon-fundsnav-idUSL1N1111QY20150826; Barrington Partners White Paper, An Extraordinary
+Week: Shared Experiences from Inside the Fund Accounting System Failure of
+2015 (Nov. 2015), available at http://www.mfdf.org/images/uploads/blog_files/
+SharedExperiencefromFASystemFailure2015.pdf; Transcript of the BNY Mellon
+Teleconference Hosted by Gerald Hassell on the Sungard Issue, available at https://
+www.bnymellon.com/_global-assets/pdf/events/transcript-of-bny-mellonteleconference-on-sungard-issue.pdf.
+
+I M G U I D A N C E U P D AT E
+
+11
+
+14	 This situation resulted in certain clients pricing their shares using stale or manually
+calculated NAVs and certain ETFs using stale baskets. Once the automated system
+was restored, ETF baskets were updated and certain funds had to review the NAVs
+used while the automated system was down and make any necessary corrections.
+See supra note 13.
+15	 See Remarks to the Investment Company Institute’s 2016 Mutual Funds and
+Investment Management Conference, David W. Grim (Mar. 14, 2016), available at
+http://www.sec.gov/news/speech/david-grim-remarks-to-ici-2016-mutual-fundsand-invest-mgmt-conf.html (“[L]ast August, a computer malfunction at one
+financial institution prevented it from calculating accurate net asset values for
+hundreds of mutual funds and exchange traded funds. The situation could have
+been far worse had the outage persisted.”).
+16	 See id.
+17	 See, e.g., ICI FSOC Comment Letter, supra note 5 at 59-61 (discussing key service
+providers for funds); see also Compliance Program Rule Adopting Release, supra
+note 9 at n.28 (noting that limiting the service providers named in rule 38a-1 did
+not lessen a fund’s obligation to consider compliance as part of its decision to
+employ other entities, such as pricing services, auditors, and custodians). The staff
+recognizes that not all fund service providers provide critical services to a fund.
+In determining whether a service provider is critical, fund complexes may wish
+to consider the day-to-day operational reliance on the service provider and the
+existence of backup processes or multiple providers.
+18	 We understand that many fund complexes review Service Organization Control
+(“SOC”) reports, such as SSAE 16 reports that are prepared by an independent
+public accountant in accordance with the American Institute of CPAs’ Auditing
+Standards Boards’ Statement on Standards for Attestation Engagements No. 16,
+Reporting on Controls at a Service Organization. These reports provide assurances
+that the service provider has established a system of internal controls, that the
+internal controls are suitably designed to achieve specified objectives, and that
+the internal controls are operating effectively. See http://www.aicpa.org/Research/
+Standards/AuditAttest/DownloadableDocuments/AT-00801.pdf.
+
+I M G U I D A N C E U P D AT E
+
+12
+
+19	 Service provider oversight programs also may include the review of a service
+provider’s financial condition and resources, insurance arrangements, and any
+indemnification provisions covering the service provider and its activities. See, e.g.,
+Board Oversight of Certain Service Providers, Independent Directors Council, Task
+Force Report (June 2007) (“IDC Report”) at 4-5, available at https://www.idc.org/
+pdf/21229.pdf.
+20	 Section 15(c) of the Investment Company Act requires fund boards to approve
+and renew a fund’s investment advisory agreements and principal underwriting
+agreements. We understand that fund boards may consider an adviser’s or principal
+underwriter’s BCP in connection with its annual section 15(c) renewal process.
+21	 See supra note 9 and 10, and accompanying text (discussing rule 38a-1 under the
+Investment Company Act).
+22	 Such reports may include, among other things, periodic updates on progress,
+resumption, recovery, and remediation efforts during and after such events.
+23	 See, e.g., Comment Letter of Securities Industry and Financial Markets Association
+(Asset Management Group) and Investment Advisers Association to the FSOC
+Notice Seeking Comment on Asset Management Products and Activities (Mar. 25,
+2015) at 138 (“Typical business-continuity planning and disaster relief programs
+articulate the importance of back-ups and explicitly lay out contingency plans
+around service providers.”); The Fund Director in 2016: Keynote Address at the
+Mutual Fund Directors Forum 2016 Policy Conference, Chair Mary Jo White (Mar.
+29, 2016), available at https://www.sec.gov/news/speech/chair-white-mutual-funddirectors-forum-3-29-16.html (discussing back-up plans and redundancies in the
+context of service providers).
+24	 Our staff recently addressed the importance of cybersecurity for funds and
+investment advisers. See Cybersecurity Guidance, IM Guidance Update (Apr. 2015),
+available at http://www.sec.gov/investment/im-guidance-2015-02.pdf.
+25	 Fund boards oversee the activities of their funds, including the hiring and continued
+retention of critical service providers, but they are not involved in the day-to-day
+management and business activities conducted by the fund complex. Rather, they
+rely on the fund’s adviser and other service providers to perform necessary day-today functions on behalf of the fund. See Compliance Program Adopting Release,
+supra note 9 at 29 (“Most of the operations of funds are carried out by service
+providers….”); IDC Report, supra note 19 at 1 (“Service providers play a significant
+role in the day-to-day operations of a fund….”).
+
+I M G U I D A N C E U P D AT E
+
+	
+
+	
+	
+
+IM Guidance Updates are recurring publications that summarize the staff’s views
+regarding various requirements of the federal securities laws. The Division generally
+issues IM Guidance Updates as a result of emerging asset management industry trends,
+discussions with industry participants, reviews of registrant disclosures, and no-action
+and interpretive requests.
+The statements in this IM Guidance Update represent the views of the Division of
+Investment Management. This guidance is not a rule, regulation or statement of the
+Securities and Exchange Commission. Further, the Commission has neither approved
+nor disapproved its content. Future changes in rules, regulations, and/or staff no-action
+and interpretive positions may supersede some or all of the guidance in a particular
+IM Guidance Update.
+
+The mission of the Securities and Exchange Commission is to protect investors; maintain fair,
+orderly, and efficient markets; and facilitate capital formation.
+If you have any questions about this IM Guidance Update, please contact:
+Andrea Ottomanelli Magovern
+Kathleen Joaquin
+Investment Company Rulemaking Office
+Phone: 202.551.6792
+
+13
+
+

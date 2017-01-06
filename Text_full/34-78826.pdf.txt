@@ -1,0 +1,447 @@
+SECURITIES AND EXCHANGE COMMISSION
+(Release No. 34-78826; File No. SR-MSRB-2016-09)
+September 13, 2016
+Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing of
+Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as
+Modified by Amendment No. 1, to Establish the MSRB Academic Historical Transaction Data
+Product
+
+I.
+
+Introduction
+On June 30, 2016, the Municipal Securities Rulemaking Board (the “MSRB” or “Board”)
+
+filed with the Securities and Exchange Commission (the “SEC” or “Commission”), pursuant to
+Section 19(b)(1) of the Securities Exchange Act of 1934 (“Act”)1 and Rule 19b-4 thereunder,2 a
+proposed rule change consisting of proposed amendments to establish an academic historical
+transaction data product (the “proposed rule change”). The proposed rule change was published
+for comment in the Federal Register on July 20, 2016.3
+The Commission received two comment letters on the proposed rule change.4 On August
+29, 2016, the MSRB responded to the comments received by the Commission5 and on August
+
+1
+
+15 U.S.C. 78s(b)(1).
+
+2
+
+17 CFR § 240.19b-4.
+
+3
+
+Securities Exchange Act Release No. 78323 (July 14, 2016) (the “Notice of Filing”), 81
+FR 47211 (July 20, 2016).
+
+4
+
+See Letters to Secretary, Commission, from Sean Davy, Managing Director, Capital
+Markets Division, and Leslie M. Norwood, Managing Director & Associate General
+Counsel, Municipal Securities Division, Securities Industry and Financial Markets
+Association (“SIFMA”), dated July 27, 2016 (the “SIFMA Letter”); and Mike Nicholas,
+Chief Executive Officer, Bond Dealers of America (“BDA”), dated August 9, 2016 (the
+“BDA Letter”).
+
+5
+
+See Letter to Secretary, Commission, from Carl E. Tugberk, Assistant General Counsel,
+MSRB, dated August 29, 2016 (the “MSRB Response Letter”).
+
+31, 2016, the MSRB filed Amendment No. 1 to the proposed rule change (“Amendment No.
+1”).6 The Commission is publishing this notice to solicit comments on Amendment No. 1 to the
+proposed rule change from interested persons and is approving the proposed rule change, as
+modified by Amendment No. 1, on an accelerated basis.
+II.
+
+Description of Proposed Rule Change
+The proposed rule change consists of proposed amendments to the MSRB’s facility for
+
+the Real-Time Transaction Reporting System (“RTRS”) to establish an historical data product to
+provide institutions of higher education (“academic institutions”) with post-trade municipal
+securities transaction data collected through RTRS (“MSRB Academic Historical Transaction
+Data Product,” hereafter referred to as “RTRS Academic Data Product”) for purchase.7
+MSRB Rule G-14 requires dealers to report trade information to the RTRS on all
+executed transactions in municipal securities within 15 minutes of the time of trade, with limited
+exceptions.8 The MSRB then makes much, but not all, of the reported data publicly available on
+the Electronic Municipal Market Access (“EMMA”) website, through subscription services or
+historical data sets.9 The data that are made available through the EMMA website do not include
+any information regarding the identity of the dealers that reported the transactions, and thus,
+
+6
+
+See Letter to Secretary, Commission, from Carl E. Tugberk, Assistant General Counsel,
+MSRB, dated August 31, 2016 (the “MSRB Amendment Letter”), available at
+https://www.sec.gov/comments/sr-msrb-2016-09/msrb201609-4.pdf. In Amendment No.
+1, the MSRB partially amended the text of the proposed rule change to conform the
+description of the RTRS Academic Data Product in the RTRS facility to the description
+intended by the MSRB and fully described in the Notice of Filing.
+
+7
+
+See Notice of Filing.
+
+8
+
+Id.
+
+9
+
+Id.
+2
+
+according to the MSRB, limit a researcher’s ability to fully understand secondary market trading
+practices.10 According to the MSRB, the absence of any dealer identifiers in the EMMA data
+caused certain academics to request that the MSRB develop an enhanced version of RTRS trade
+data that includes dealer identifiers.11 As noted in the Notice of Filing, following the requests
+from members of the academic community, the MSRB published the Request for Comment on
+Establishment of an Academic Historical Trade Data Product on July 16, 2015 (the “Request for
+Comment”) to solicit comments from market participants on a proposed academic historical
+trade data product.12
+As stated in the Notice of Filing, after careful consideration of the comments received in
+response to the Request for Comment, the MSRB decided to make the RTRS Academic Data
+Product available only to academic institutions, to include anonymous dealer identifiers therein,
+and to populate the new data product with the same transactions included in the RTRS historical
+data sets currently available with the exclusion of list offering price and takedown transactions.13
+According to the MSRB, the proposed rule change will allow the MSRB to provide academics
+with trade data that include anonymous dealer identifiers while providing protections against the
+potential for reverse engineering of trade data.14 With respect to protecting against reverse
+engineering, the MSRB stated in the Notice of Filing that any academic institution that wishes to
+obtain the RTRS Academic Data Product will have to agree: (1) not to attempt to attempt to
+10
+
+Id.
+
+11
+
+Id.
+
+12
+
+Id.
+
+13
+
+Id.
+
+14
+
+Id.
+3
+
+reverse engineer the identity of any dealer; (2) not to redistribute the data in the RTRS Academic
+Data Product; (3) to disclose each intended use of the data; (4) to ensure that any data presented
+in work product be sufficiently aggregated so as to prevent reverse engineering of any dealer or
+transaction; and (5) to return or destroy the data if the agreement is terminated.15
+The MSRB stated in the Notice of Filing that the effective date of the proposed rule
+change will be announced in a regulatory notice to be published no later than 90 days from the
+date of this Order, and such effective date will be no later than 270 days following publication of
+the regulatory notice announcing Commission approval of the proposed rule change.16
+III.
+
+Summary of Comments Received and MSRB’s Responses to Comments
+As noted previously, the Commission received two comment letters on the proposed rule
+
+change, and the MSRB Response Letter. One commenter – SIFMA – generally supported the
+proposed rule change, while the other commenter – BDA – generally opposed the proposed rule
+change.
+While generally supportive of the proposed rule change, SIFMA expressed the view that
+the MSRB could make modifications to provide additional protections against the potential for
+reverse engineering the data without impeding its goals of promoting academic access and
+research.17 SIFMA stated that the potential impact of reverse engineering could include
+deciphering a dealer’s trading strategies and revealing confidential business information relating
+to specific client transactions.18
+15
+
+Id.
+
+16
+
+Id.
+
+17
+
+See SIFMA Letter.
+
+18
+
+Id.
+4
+
+BDA, however, argued that the proposed rule change would expose dealers and their
+customers to unnecessary risks.19 For example, BDA stated that “[i]t is very likely that, as a
+consequence of this proposal, private and non-educational entities will end up possessing full
+trade history including dealer names for every trade released.”20
+SIFMA and BDA offered differing views on the MSRB’s efforts to mitigate the risk of
+reverse engineering of the historical trade data provided to academics. SIFMA approved of the
+MSRB’s decision to exclude list offering price and takedown transactions from the data product
+and noted that such exclusion would mitigate the risk of reverse engineering.21 SIFMA also
+acknowledged that the proposed aging period of 36 months (expanded from 24 months in the
+Request for Comment) would help reduce the risk of reverse engineering, but thought that an
+aging period of no less than 48 months would be more appropriate.22 BDA also acknowledged
+that excluding list offering price and takedown transactions from the data product, expanding the
+aging period, and masking dealer identifiers would make reverse engineering more difficult, but
+ultimately concluded that these measures were not sufficient to reduce the risk of reverse
+engineering to an acceptable level.23
+With respect to protecting dealer identities, both SIFMA and BDA reiterated their
+respective suggestions that the MSRB make the transaction data available according to groupings
+of comparable dealers instead of on an individual level, arguing that masked dealer identifiers
+19
+
+See BDA Letter.
+
+20
+
+Id.
+
+21
+
+See SIFMA Letter; see also MSRB Amendment Letter.
+
+22
+
+See SIFMA Letter.
+
+23
+
+See BDA Letter; see also MSRB Amendment Letter.
+5
+
+might not effectively protect dealer identities.24
+SIFMA and BDA also offered suggestions regarding strengthening and enforcing the
+proposed user agreements. SIFMA urged the MSRB to develop “robust operational frameworks
+around the execution and ongoing oversight of user agreements . . . [in order to] further mitigate
+concerns of reverse engineering and information leakage.”25 BDA stated that although the
+proposed user agreements are designed to prevent the redistribution of data, federal and state
+freedom of information (“FOIA”) laws could defeat such intention if the transaction data is held
+by a public university and classified as a public record.26 In addition, BDA raised concerns about
+data security, suggesting that the data could be subject to hacking or data theft during
+transmission or when held by an institution of higher education.27
+In response to these comments, the MSRB stated that it “continues to believe that the
+proposed rule change strikes the appropriate balance between addressing risks regarding
+potential reverse engineering with facilitating the ability of academic researchers to study the
+market for municipal securities.”28 With respect to SIFMA’s comments, the MSRB noted in its
+response that “SIFMA’s comments are substantially similar to previous comments submitted in
+response to the Request for Comment” and that the MSRB addressed those comments in the
+
+24
+
+Id.; see also SIFMA Letter. The MSRB addressed these comments in the Notice of
+Filing.
+
+25
+
+See SIFMA Letter.
+
+26
+
+See BDA Letter.
+
+27
+
+Id.
+
+28
+
+See MSRB Response Letter.
+6
+
+Notice of Filing.29
+In response to BDA’s data security-related comments, the MSRB stated that it
+“understands and appreciates” BDA’s data security concerns and agrees that it cannot guarantee
+the security of data provided to academics through the proposed RTRS Academic Data
+Product.30 Nonetheless, the MSRB then noted its belief that the terms of the user agreements
+relating to the RTRS Academic Data Product will “mitigate those risks.”31 To that end, the
+MSRB stated that it expects each user agreement to include the following:
+(1) a prohibition on reverse engineering; (2) a provision requiring the use
+of commercially reasonable measures to protect data, including, for
+example, the use of user IDs and passwords, and other forms of
+entitlements to gain access to the data; (3) a definition of the term ‘Internal
+User’ to clarify to whom access to the data may be provided; and (4) a
+requirement that users have reasonable security procedures in the place(s)
+where the data are used, accessed, processed, stored, and/or transmitted to
+ensure the data remain secure from unauthorized access, including specific
+requirements regarding physical and logical access, encryption, and
+network and system security.32
+In addition to contractual data security measures like those listed above, the MSRB also
+stated its intention to encrypt data delivered to users.33
+In response to BDA’s FOIA law-related comments, the MSRB recognized the
+possibility that certain recipients of RTRS Academic Data Product data might be subject
+to FOIA laws that could require the disclosure of certain trade data but, notwithstanding
+
+29
+
+Id.
+
+30
+
+Id.
+
+31
+
+Id.
+
+32
+
+Id.
+
+33
+
+Id.
+7
+
+such risk, noted that federal and state FOIA laws include a variety of exemptions that
+would likely prevent disclosure of data delivered to users of the RTRS Academic Data
+Product.34 The MSRB also stated its expectation that the user agreements “will require
+academic institutions to notify the MSRB of any . . . requests under federal or state FOIA
+[l]aws prior to any disclosure, claim any and all applicable exemptions from such
+requests and provide the MSRB the opportunity to seek an injunction, protective order, or
+confidential treatment, and limit any disclosure ultimately required to the minimum
+legally necessary.”35
+IV.
+
+Discussion and Commission Findings
+The Commission has carefully considered the proposed rule change, as modified by
+
+Amendment No. 1, the comments letters received, and the MSRB Response Letter. The
+Commission finds that the proposed rule change is consistent with the requirements of the Act
+and the rules and regulations thereunder applicable to the MSRB.
+In particular, the Commission finds that the proposed rule change is consistent with
+Section 15B(b)(2)(C) of the Act,36 which requires, among other things that the rules of the
+MSRB be designed to prevent fraudulent and manipulative acts and practices, to promote just
+and equitable principles of trade, to remove impediments to and perfect the mechanism of a free
+and open market in municipal securities and municipal financial products and, in general, to
+protect investors, municipal entities, obligated persons, and the public interest. The Commission
+believes that the proposed rule change is consistent with Section 15B(b)(2)(C) of the Act because
+34
+
+Id.
+
+35
+
+Id.
+
+36
+
+15 U.S.C. 78o-4(b)(2)(C).
+8
+
+the proposed rule change is reasonably designed to prevent fraudulent and manipulative acts and
+practices, promote just and equitable principles of trade, and remove impediments to and perfect
+the mechanism of a free and open market in municipal securities by enabling subscribers to the
+RTRS Academic Data Product to better understand the pricing practices and trading behaviors of
+participants in the municipal securities market and thereby facilitate higher quality research and
+analysis of the municipal securities market. Furthermore, the Commission believes that by
+enhancing transparency in the municipal securities market, the proposed rule change is
+reasonably designed to protect investors, municipal entities, obligated persons, and the public
+interest.
+In approving the proposed rule change, the Commission has also considered the impact of
+the proposed rule change on efficiency, competition, and capital formation.37 The Commission
+does not believe that the proposed rule change would impose any burden on competition not
+necessary or appropriate in furtherance of the purposes of the Act.
+For the reasons noted above, the Commission believes that the proposed rule change, as
+modified by Amendment No. 1, is consistent with the Act.
+V.
+
+Solicitation of Comments on Amendment No. 1
+Interested persons are invited to submit written data, views, and arguments concerning
+
+Amendment No. 1, including whether the proposed rule change, as modified by Amendment
+No.1, is consistent with the Act. Comments may be submitted by any of the following methods:
+Electronic comments:
+
+37
+
+
+
+Use the Commission's Internet comment form (http://www.sec.gov/rules/sro.shtml); or
+
+
+
+Send an e-mail to rule-comments@sec.gov. Please include File Number SR-MSRB15 U.S.C. 78c(f).
+9
+
+2016-09 on the subject line.
+Paper comments:
+
+
+Send paper comments in triplicate to Secretary, Securities and Exchange Commission,
+100 F Street, NE, Washington, DC 20549.
+
+All submissions should refer to File Number SR-MSRB-2016-09. This file number should be
+included on the subject line if e-mail is used. To help the Commission process and review your
+comments more efficiently, please use only one method. The Commission will post all
+comments on the Commission’s Internet website (http://www.sec.gov/rules/sro.shtml). Copies of
+the submission, all subsequent amendments, all written statements with respect to the proposed
+rule change that are filed with the Commission, and all written communications relating to the
+proposed rule change between the Commission and any person, other than those that may be
+withheld from the public in accordance with the provisions of 5 U.S.C. 552, will be available for
+website viewing and printing in the Commission’s Public Reference Room, 100 F Street, NE,
+Washington, DC 20549 on official business days between the hours of 10:00 am and 3:00 pm.
+Copies of the filing also will be available for inspection and copying at the principal office of the
+MSRB. All comments received will be posted without change; the Commission does not edit
+personal identifying information from submissions. You should submit only information that you
+wish to make available publicly. All submissions should refer to File Number SR-MSRB-201609 and should be submitted on or before [insert date 21 days from publication in the Federal
+Register].
+VI.
+
+Accelerated Approval of Proposed Rule Change as Modified by Amendment No. 1
+The Commission finds good cause to approve the proposed rule change, as modified by
+
+Amendment No. 1, prior to the 30th day after the date of publication of Amendment No. 1 in
+
+10
+
+the Federal Register. As discussed above, Amendment No. 1 partially amends the text of the
+proposed rule change to conform the description of the RTRS Academic Data Product in the
+RTRS facility to the description intended by the MSRB.38 The proposed rule change, as
+described in the Notice of Filing, contemplated the exclusion of list offering price and takedown
+transactions; however, the proposed text of the proposed rule change did not include any
+reference to such exclusion.39 According to the MSRB, it was the MSRB’s intent to include the
+exclusion in the proposed rule change, thus the MSRB submitted Amendment No. 1 in order to
+conform the proposed description of the RTRS Academic Data Product in the RTRS facility
+with the description thereof in the Notice of Filing.40
+As noted by the MSRB, Amendment No. 1 is consistent with the purpose of the
+proposed rule change and does not raise any significant new issues not already addressed by
+commenters.41
+For the foregoing reasons, the Commission finds good cause for approving the proposed
+rule change, as modified by Amendment No. 1, on an accelerated basis, pursuant to Section
+19(b)(2) of the Act.
+
+38
+
+Supra note 6.
+
+39
+
+See Notice of Filing.
+
+40
+
+See MSRB Amendment Letter.
+
+41
+
+Id.
+11
+
+VII.
+
+Conclusion
+IT IS THEREFORE ORDERED, pursuant to Section 19(b)(2) of the Act,42 that the
+
+proposed rule change, as modified by Amendment No. 1 (SR-MSRB-2016-09) be, and hereby is,
+approved on an accelerated basis.
+For the Commission, pursuant to delegated authority.43
+
+Robert W. Errett
+Deputy Secretary
+
+42
+
+15 U.S.C. 78s(b)(2).
+
+43
+
+17 CFR 200.30-3(a)(12).
+12
+
+

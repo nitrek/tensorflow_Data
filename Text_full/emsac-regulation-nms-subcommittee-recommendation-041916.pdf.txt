@@ -1,0 +1,171 @@
+MEMORANDUM
+TO:
+
+Equity Market Structure Advisory Committee (EMSAC)
+
+FROM:
+
+EMSAC Regulation NMS Subcommittee
+
+DATE:
+
+April 19, 2016
+
+SUBJECT:
+
+Framework for Potential Access Fee Pilot
+
+_________________________________________________________________________________
+Purpose
+To both construct a framework and generate data for a pilot program to reduce the access fee cap
+(and corresponding liquidity rebates), and measure the commensurate impact on both market
+quality and marketplace behavior. Specifically:
+• Measuring the impact of lower access fees on liquidly provisioning - bid/ask spreads,
+market depth, order routing behaviors, ratio of hidden liquidity vs. displayed liquidity on
+the exchanges, quoting behavior, average time before getting a fill
+• Measuring the impact of lower access fees on liquidity taking - ratio of on vs. off
+exchange trading, order routing behaviors, price impact, slippage/realized spread, trade
+volume
+
+Justification for Why a Pilot Should be Conducted
+• “Maker-taker” is one of the more debated aspects of current market structure. The
+Regulation NMS adopting release acknowledged that “[p]erhaps more than any other
+single issue, the proposed limitation on access fees splintered the commenters.” 1
+• Regulation NMS Rule 610 limited the fees that any trading center can charge (or can
+allow to be charged) for accessing its protected quotations to no more than $0.003 per
+share. 2
+• Given the complex ecosystem of our marketplace, definitive conclusions on access fee
+modifications are difficult to draw without an actual implementation. In addition, market
+characteristics, such as effective spreads, have declined since the cap was set.
+• Limited experiments, such as the recent Nasdaq pilot, have shown that individual market
+experiments do not yield conclusive results about the potential impact of market-wide
+policy reform on access fees.
+• The access fee cap of $0.003 effectively sets a ceiling for rebates. In the nine years since
+the cap went into effect, there are and have been multiple exchange pricing models along
+the spectrum up to the access fee cap, including inverted exchanges where rebates are
+paid to those accessing quotes. However, the largest exchanges in terms of volume are
+those that charge access fees at or near the cap and, hence, pay the highest rebates to
+attract displayed liquidity.
+• A pilot would study, and hopefully help to answer, the following questions:
+o The relationship among access fees, liquidity provision and market quality;
+1
+2
+
+SEC Regulation NMS adopting release, pp.27-28 (https://www.sec.gov/rules/final/34-51808.pdf)
+SEC Regulation NMS adopting release, p.27 (link above)
+
+o The relationship between access fees, rebates, and order routing practices;
+o The potential impact of access fee dynamics on the price discovery process.
+Significant Aspects of the Pilot
+1. Access fee caps (dispersed to be able to draw meaningful conclusions) in several pilot
+buckets encompassing all quotations covered under SEC Rule 610(c):
+a. Bucket 1 - Control bucket
+b. Bucket 2 - $.0020 access fee cap
+c. Bucket 3 - $.0010 access fee cap
+d. Bucket 4 - $.0002 access fee cap
+i. The subcommittee intentionally selected $.0002 as the rate in Bucket 4 in
+order to create a bucket where any rebate should result in a de minimis
+economic incentive.
+ii. The subcommittee also discussed, but could not reach consensus on, two
+alternatives for this bucket: (a) prohibiting rebates (in addition to applying
+the access fee cap); and (b) applying the access fee cap to inverted venues.
+1. Given that this is also an area of significant industry debate, we
+would encourage the SEC to consider including these specific
+questions as part of the public comment process (should the pilot
+be proposed).
+2. The subcommittee would additionally advocate that if rebates are
+prohibited within Bucket 4, the $.0002 cap could be increased to
+$.0005 in order to provide additional pricing flexibility to
+compensate for the loss of rebates.
+3. Payment for order flow is not meant to be explicitly covered by
+this provision.
+4. If the pilot does not prohibit rebates and/or does not apply to
+inverted venues, then we would suggest additional monitoring to
+ensure that marketplace behavior does not evolve in a way that
+potentially negates the output of the pilot, e.g.:
+a. Monitoring for material order flow migration to inverted
+venues (or ATSs – see Point 2. below);
+b. Potentially institute a moratorium on new inverted pricing
+schemes.
+2. While Rule 610 does not apply to nondisplayed liquidity on Exchanges, and current
+industry fee schedules do not distinguish between displayed and nondisplayed liquidity,
+the subcommittee is concerned that the lower access fee caps could create a (new)
+incentive for higher rebates on nondisplayed Exchange liquidity. As such, we think the
+pilot should institute the same access fee caps for both displayed and nondisplayed
+Exchange liquidity.
+a. Similarly, while the subcommittee is sensitive to not inadvertently creating an
+unlevel playing field for exchanges vs. ATSs by capping access fees on
+exchanges, we are also sensitive to the fact that applying Rule 610(c) to ATSs for
+the first time may present a significant regulatory obstacle.
+
+i. However, assuming a proposal moves forward, we would encourage the
+SEC to specifically ask through the public comment process whether the
+access fee limits should additionally apply to ATSs.
+3. One- to two-year pilot program (long enough to eliminate potential gaming)
+4. Random sample of [x] stocks with a market capitalization >$3 billion.
+a. Access fees are more meaningful in larger-capitalization stocks; in addition this
+level will limit overlap with the “tick pilot” that is currently in development.
+5. We may want to build in specific criteria to terminate the program early should there be
+significant deterioration in any of the measurement criteria.
+a. For further exploration
+Measurement criteria:
+• Quoted Spreads
+• Effective Spreads (potentially Realized Spreads also)
+• Displayed liquidity – changes at the inside, depth at 3, 5, 10 cents beyond the NBBO
+• Volatility – stock-level changes; number of price changes at the NBBO
+• Hidden liquidity – off-exchange market share; mid-point exchange executions and
+exchange dark liquidity
+• Changes in trading volume
+• Behavioral routing changes as evidenced by:
+o Market share shifts among trading venues
+o On- vs. off-exchange trading levels
+o TRF vs. internalization levels
+• Changes in the levels of Price improvement in the marketplace
+• Percentage of time market locked/crossed
+• Slippage and price impact
+• Significant behavioral changes in pricing from ATSs and/or Exchange reserve quantities
+Other Considerations
+• Trade-At - we understand that some industry participants will push that an access fee
+pilot should include a “trade-at” provision. However we do not agree for the following
+reasons:
+o The access fee pilot is being proposed to determine, in part, if a trade-at provision
+is needed. Many in the market believe that a motivation for ATS activity (not
+wholesaler activity) is economic, i.e., take fees are too high.
+o The purpose of this pilot is to generate data to see the impact on market quality
+when the cap is changed. It is the subcommittee's opinion that, while many issues
+are intertwined, trade-at would address a different market structure issue. In
+addition, the likely shift of flows as a result of trade-at would both make the pilot
+more complex and impact effective measurement of the access fee change.
+o We believe an access fee pilot is relatively simple to implement and conduct, and
+should be kept that way without introducing significant additional complications.
+o The tick pilot will yield some trade-at results that can be further studied; thus
+duplication is not warranted.
+
+•
+
+•
+
+Retail
+o We are sensitive to unintended negative consequences on retail investors;
+therefore we recommend including the ability to stop the pilot should any
+significant unexpected impacts occur.
+Disclosure
+o Our understanding is that there is an SEC work-stream being undertaken
+regarding disclosure and routing. If timing of this potentially precedes the pilot, it
+would be helpful to understand the nature of such disclosure changes and whether
+there could be significant interactions with the access pilot that would affect
+behavior and therefore, need to be reflected in the design of the access fee pilot.
+o Additional avenues for potential disclosure by market centers would include: (1)
+the priority of their matching engines for the interaction of display, reserve,
+midpoint, penny increment and sub-penny increment discretionary orders and
+hidden orders; (2) reserve replenishment – operationally how do they do it – i.e.
+do they check the quote for 610(d) prior to re-display?
+
+Open Items
+• Selection of the optimal number of pilot stocks (and ETFs) and the possible use of
+stratified random sampling based on characteristics such as market cap, share price, and
+trading volume
+• We believe no special considerations arise with respect to Options markets, but this
+warrants further consideration and confirmation.
+
+

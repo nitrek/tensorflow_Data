@@ -1,0 +1,938 @@
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 1 of 13
+1
+2
+3
+4
+5
+
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF WASHINGTON
+AT SEATTLE
+
+6
+7
+
+SECURITIES AND EXCHANGE COMMISSION,
+
+8
+9
+10
+
+No. 2:16-cv-400
+
+Plaintiff,
+COMPLAINT
+v.
+JOHN E. HARDY III,
+
+11
+
+Defendant.
+
+12
+13
+14
+
+Plaintiff Securities and Exchange Commission (“the Commission”) alleges:
+
+15
+16
+
+SUMMARY OF THE ACTION
+1.
+
+Between June and September 2013, John E. Hardy III (“Hardy” or “Defendant”)
+
+17 repeatedly violated the federal securities laws by trading securities based on material non18 public information that he stole from his employer, Microsoft Corporation.
+19
+
+2.
+
+In June 2013, Hardy purchased Microsoft put options after learning from highly
+
+20 confidential internal Microsoft documents, including a draft presentation to Microsoft’s board
+21 of directors, that the company’s fiscal-year 2013 financial results would not meet Wall Street
+22 analysts’ expectations. When Microsoft issued a July 18, 2013 earnings release containing
+23 those disappointing financial results, the company’s stock price decreased over 11%. Hardy
+24 sold the put options shortly after the announcement, realizing ill-gotten gains of approximately
+25 $9,000.
+26
+
+3.
+
+Shortly thereafter, in August 2013, Hardy purchased Nokia Corporation call
+
+27 options after learning in the course of his work in Microsoft’s financial planning and analysis
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+1
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 2 of 13
+1 department that Microsoft was planning to acquire Nokia’s mobile phone business. After the
+2 public announcement of the acquisition on September 2, 2013 caused the price of Nokia
+3 American Depositary Shares trading in the United States to rise more than 30%, Hardy sold his
+4 Nokia call options, resulting in illegal profits of approximately $175,000.
+5
+
+4.
+
+In total, Hardy received approximately $184,000 in illegal profits by trading in
+
+6 advance of the two announcements.
+7
+
+5.
+
+As a senior manager in Microsoft’s corporate financial planning and analysis
+
+8 department, Hardy owed a duty to Microsoft and its shareholders to maintain the
+9 confidentiality of material nonpublic information that he obtained through his employment at
+10 Microsoft. He violated his duty to Microsoft and its shareholders when he traded based on that
+11 information.
+12
+
+6.
+
+Hardy knowingly or recklessly engaged in the conduct described in this
+
+13 Complaint. Hardy violated, and unless enjoined, will continue violating, Section 10(b) of the
+14 Securities Exchange Act of 1934 (“Exchange Act”) [15 U.S.C. § 78j(b)] and Rule 10b-5
+15 thereunder [17 C.F.R. § 240.10b-5].
+JURISDICTION, VENUE, AND INTRADISTRICT ASSIGNMENT
+
+16
+17
+
+7.
+
+The Commission brings this action pursuant to Sections 21(d) and 21A of the
+
+18 Exchange Act [15 U.S.C. §§ 78u(d) and 78u-1] to enjoin such transactions, acts, practices, and
+19 courses of business, and to obtain disgorgement, prejudgment interest, civil money penalties,
+20 an officer and director bar, and such other and further relief as the Court may deem just and
+21 appropriate.
+22
+
+8.
+
+This Court has jurisdiction over this action pursuant to Sections 21(e) and 27 of
+
+23 the Exchange Act [15 U.S.C. §§ 78u(e) and 78aa].
+24
+
+9.
+
+Venue in this District is proper pursuant to Section 27 of the Exchange Act [15
+
+25 U.S.C. § 78aa]. Certain of the transactions, acts, practices, and courses of business constituting
+26 the violations alleged herein occurred within the Western District of Washington.
+27
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+2
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 3 of 13
+10.
+
+1
+
+Assignment to the Seattle Division is appropriate because the events giving rise to
+
+2 the claim occurred in King County.
+THE DEFENDANT
+
+3
+11.
+
+4
+
+Hardy, age 36, resides in Redmond, Washington. Hardy was a senior manager in
+
+5 the corporate financial planning and analysis (“CFP&A”) department at Microsoft from 2011
+6 until September 2015. Before joining Microsoft, Hardy worked in business development and
+7 mergers and acquisitions roles at another Fortune 500 company. Hardy has an MBA from the
+8 University of Virginia and an undergraduate business degree from Virginia Tech.
+RELEVANT ENTITIES
+
+9
+12.
+
+10
+
+Microsoft Corporation, based in Redmond, Washington, is one of the world’s
+
+11 largest technology companies. Microsoft’s common stock trades on NASDAQ under the
+12 symbol “MSFT.” Microsoft’s options are listed on the Chicago Board Options Exchange, the
+13 Philadelphia Stock Exchange, the National Securities Exchange, the American Stock
+14 Exchange, and the BATS and Direct Edge exchanges.
+13.
+
+15
+
+Nokia Corporation is a telecommunications and information technology company
+
+16 based in Espoo, Finland. Nokia’s common stock trades on the Helsinki Stock Exchange and its
+17 American Depository Shares (“ADSs”), each representing one share of Nokia common stock,
+18 trade on the New York Stock Exchange under the symbol “NOK.” Options to buy or sell
+19 Nokia ADSs are listed on the Chicago Board Options Exchange, the Philadelphia Stock
+20 Exchange, National Securities Exchange, the American Stock Exchange, and the BATS and
+21 Direct Edge exchanges.
+FACTUAL ALLEGATIONS
+
+22
+23 A.
+
+Hardy’s Role at Microsoft
+
+24
+
+14.
+
+From 2011 to 2015, Hardy was a member of Microsoft’s CFP&A department,
+
+25 which performed a number of critical finance functions, including financial reporting,
+26 forecasting, guidance, and long-term planning. The CFP&A department also had a role in
+27 mergers and acquisitions, including by preparing cash-flow and other analyses designed to
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+3
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 4 of 13
+1 assist Microsoft’s senior management in deciding whether to fund a particular transaction.
+2 Hardy and others in the CFP&A department were also involved, from time to time, in
+3 preparing materials for meetings of Microsoft’s board of directors.
+15.
+
+4
+
+As a senior manager in the CFP&A department, Hardy was only a few reporting
+
+5 levels below Microsoft’s CFO, and at times carried out assignments directly for the CFO.
+16.
+
+6
+
+During the last two months of each quarter, Hardy helped prepare PowerPoint
+
+7 presentations for senior management and Microsoft’s board of directors. These presentations
+8 included analyses of the company’s then-current financial performance and assessments as to
+9 whether the company would meet or miss Wall Street analysts’ expectations for the quarter.
+10 These presentations were highly confidential and distribution was limited to a small number of
+11 employees within Microsoft.
+17.
+
+12
+
+One of Hardy’s most important assignments during the summer of 2013 was the
+
+13 preparation of a quarterly revenue analysis for all of Microsoft’s products, including the
+14 Windows operating system and the Surface tablet. To prepare the analysis, Hardy collected
+15 and analyzed information about Microsoft’s then-current and prospective sales and revenue.
+16 He had access to company-wide, near real-time sales information for all Microsoft products
+17 and also spoke regularly to finance managers within the company’s operating divisions about
+18 their respective division’s performance. Hardy’s revenue analysis was ultimately used by
+19 Microsoft’s CFO and other members of the company’s senior leadership team in decision20 making and in providing updates to the board of directors.
+21
+22
+23
+
+B.
+
+Hardy Traded Microsoft Put Options Based on Material Non-Public Information
+about Microsoft’s Fourth-Quarter and Full-Year 2013 Results
+18.
+
+Microsoft’s fourth quarter and fiscal year both end on June 30 each year, and the
+
+24 company issues its earnings release announcing fourth-quarter and year-end results during late
+25 July each year.
+26
+
+19.
+
+In the weeks before Microsoft announced its fourth-quarter and full-year 2013
+
+27 financial results on July 18, 2013, Hardy learned that Microsoft would be reporting financial
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+4
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 5 of 13
+1 results that were below analysts’ expectations at that time. As described in more detail below,
+2 Hardy received a steady stream of confidential information in May and June 2013 indicating
+3 that revenues from the sale of the Windows operating system and the Surface tablet would be
+4 worse than expected for the fourth quarter and fiscal year ending June 30, 2013.
+5
+
+20.
+
+On May 13, 2013, Hardy’s manager forwarded him an e-mail chain in which a
+
+6 divisional CFO informed Microsoft’s CFO that revenue generated by sales to original
+7 equipment manufacturers (“OEMs”) was significantly down when compared to the previous
+8 fiscal year. At the time, approximately 65% of Windows revenue was generated by sales to
+9 OEMs.
+10
+
+21.
+
+During May and early June 2013, Hardy and his CFP&A colleagues worked on a
+
+11 PowerPoint presentation for the meeting of Microsoft’s board of directors scheduled to take
+12 place on June 11 and June 12, 2013 (the “June board presentation”).
+13
+
+22.
+
+One of Hardy’s close friends and colleagues prepared slides for the June board
+
+14 presentation that showed how Microsoft’s fourth-quarter 2013 earnings compared with Wall
+15 Street analysts’ consensus estimates. The slides, which Hardy received by e-mail, showed
+16 operating income, earnings-per-share, and revenue estimates that were lower than the analysts’
+17 consensus. The presentation was clearly marked on the first page as containing “confidential,
+18 non-public financial information … [a]ccess [to which] constitutes ‘insider’ information under
+19 certain circumstances, and if it does, it limits your right to buy or sell Microsoft stock or
+20 derivatives thereof.” During May and early July 2013, Hardy continued to have access to and
+21 work on the June board presentation.
+22
+
+23.
+
+On June 2, 2013, Hardy received financial data that a senior Windows division
+
+23 finance manager had prepared for inclusion in the June board presentation. The data showed
+24 that Microsoft planned to make significant cuts to the price of certain Surface tablet models,
+25 the Surface RT model in particular, and corresponding downward adjustments to the revenue
+26 projected for those models.
+27
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+5
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 6 of 13
+1
+
+24.
+
+Microsoft’s board met on June 11 and 12, 2013. During the meeting, Microsoft’s
+
+2 CFO used the June board presentation that Hardy helped to prepare to update the board on
+3 Microsoft’s financial performance and its forecast for the fourth quarter of 2013.
+4
+
+25.
+
+On June 12, 2013, Hardy purchased 30 Microsoft put option contracts with a $35
+
+5 strike price and an October 2013 expiration date. On June 14, 2013, Hardy purchased an
+6 additional 70 put options with a $30 strike price and an October 2013 expiration date. At the
+7 time, Microsoft’s common stock was trading a little above $35 per share.
+8
+
+26.
+
+A put option contract gives the owner the right to sell a specified amount of an
+
+9 underlying stock at a specified price, the strike price, before a specified date, the expiration
+10 date, after which the put option will expire and become worthless. A put option becomes more
+11 valuable as the price of the underlying stock declines relative to the strike price. A person who
+12 buys a put option typically believes that the value of the underlying stock will go down.
+13
+
+27.
+
+On July 18, 2013, Microsoft issued its fourth-quarter and full-year 2013 earnings
+
+14 results. Microsoft’s results missed analysts’ projections by the widest margin in a decade. The
+15 company reported fourth-quarter revenues of $19.9 billion and earnings per share of $0.59,
+16 well below Wall Street analysts’ consensus estimates of $20.74 billion and $0.75, respectively.
+17
+
+28.
+
+The reported earnings per share, in particular, were very close to the estimates
+
+18 Hardy saw in the June board presentation. The company further reported a $900 million write19 off driven by Surface RT price cuts, also consistent with information included in the June
+20 board presentation.
+21
+
+29.
+
+The announcement caused Microsoft’s stock price to fall 11.39%, from $35.44 at
+
+22 the close of trading on July 18, 2013 to $31.40 at the close of trading on July 19, 2013.
+23
+
+30.
+
+As a result, Hardy’s put options increased in value. On July 25, 2013, Hardy sold
+
+24 all the put options he purchased in June, realizing ill-gotten gains of approximately $9,000.
+25
+26
+27
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+6
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 7 of 13
+1
+2
+3
+
+C.
+
+Hardy Traded Nokia Call Options Based on Material Non-Public Information
+about Microsoft’s Planned Acquisition of Nokia’s Mobile Phone Business
+31.
+
+On July 17, 2013, Microsoft’s board of directors authorized company
+
+4 management to negotiate definitive agreements relating to a potential acquisition by Microsoft
+5 of Nokia’s mobile phone business, and certain intellectual property assets, for $7.8 billion, or
+6 the equivalent amount denominated in euros. Over the next three days, Microsoft and Nokia
+7 senior management participated in telephonic and in-person meetings to discuss the
+8 transaction.
+9
+
+32.
+
+On July 24, 2013, Microsoft and Nokia entered into a letter agreement outlining
+
+10 the terms of the acquisition. On July 29, 2013, Microsoft began due diligence on the
+11 transaction.
+12
+
+33.
+
+During or around the last week of July 2013, several of Hardy’s CFP&A
+
+13 colleagues, including an employee whom Hardy was mentoring (“Microsoft Employee A”),
+14 learned that Microsoft was planning an approximately $7 billion acquisition, and began
+15 working on various aspects of that acquisition.
+16
+
+34.
+
+During the summer of 2013, Microsoft Employee A’s primary assignment was to
+
+17 work on a Microsoft cash-flow model that the CFP&A department used in forecasting and
+18 quarterly planning (the “cash flow model”). The cash-flow model contained a line item for
+19 acquisitions that reflected what Microsoft expected to spend on acquisitions during the 2014
+20 fiscal year.
+21
+
+35.
+
+During the last week of July 2013 – about a week after Microsoft’s board
+
+22 authorized management to pursue the Nokia transaction – Microsoft Employee A noticed that
+23 this line item had increased dramatically, reflecting that Microsoft anticipated spending
+24 approximately $7 billion on acquisitions during the 2014 fiscal year. The increased dollar
+25 figure in the acquisition line item appeared in the columns for the first and second quarters of
+26 fiscal year 2014, meaning that money was being set aside in the next few months for a major
+27 transaction.
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+7
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 8 of 13
+1
+
+36.
+
+That same week, Nokia and Microsoft executed the letter agreement outlining the
+
+2 terms of the transaction and Nokia sent Microsoft the first draft of the merger agreement.
+3 Around the same time, Microsoft Employee A was assigned the task of “auditing,” or double4 checking, the cash-flow model to ensure that the new $7 billion acquisition figure properly
+5 reconciled with the rest of the model.
+6
+
+37.
+
+Based on discussions about the assignment and the newly-increased acquisitions
+
+7 line item in the cash-flow model, Microsoft Employee A understood that Microsoft was
+8 planning a cash acquisition in the $7 billion range. Microsoft Employee A also knew, from his
+9 cash-flow work and conversations with more senior CFP&A employees, that the transaction
+10 would not be denominated in U.S. dollars, because Microsoft did not maintain on-shore cash
+11 reserves sufficient to finance an acquisition of that size, meaning that the target was likely a
+12 foreign company. From this information, it was evident that Microsoft was likely to acquire
+13 Nokia – a large technology company based in Finland.
+14
+
+38.
+
+On or before August 2, 2013, Hardy learned that Microsoft was planning a
+
+15 significant transaction with Nokia in the near term.
+16
+
+39.
+
+During the summer of 2013, Hardy served as Microsoft Employee A’s mentor.
+
+17 The two met regularly, and Microsoft Employee A frequently sought Hardy’s advice
+18 concerning work-related matters, including Microsoft Employee A’s work on the Microsoft
+19 cash-flow model. Sometimes he and Hardy met with the cash-flow model in front of them on a
+20 computer screen.
+21
+
+40.
+
+During August 2013, many of the CFP&A employees with whom Hardy
+
+22 interacted regularly – including two of Hardy’s supervisors, one of Hardy’s close friends, and a
+23 senior manager who occupied the office next to Hardy’s and whose telephone conversations
+24 Hardy could at times overhear – worked on Nokia-related projects or had knowledge of the
+25 planned transaction.
+26
+27
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+8
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 9 of 13
+1
+
+41.
+
+Hardy purchased Nokia call options on the basis of material nonpublic
+
+2 information he learned through his employment at Microsoft. On August 2, 2013, the week
+3 after the $7 billion acquisition figure appeared in the cash-flow model, Hardy began
+4 purchasing Nokia call options. Hardy continued buying Nokia call options throughout August,
+5 making purchases on eight separate occasions. His last purchase was on August 27, 2013, less
+6 than a week before the public announcement of the Nokia acquisition. In total, Hardy
+7 purchased 2,669 Nokia call options for approximately $77,500.
+8
+
+42.
+
+A call option contract gives the owner the right to buy a specified amount of an
+
+9 underlying stock at a specified price, the strike price, before a specified date, the expiration
+10 date, after which the call option will expire and become worthless. A call option becomes
+11 more valuable as the price of the underlying stock increases relative to the strike price. A
+12 person who buys a call option typically believes that the value of the underlying stock will go
+13 up. A person who buys a call option with a short-term expiration typically believes that the
+14 value of the underlying stock will go up in the short term.
+15
+
+43.
+
+Hardy purchased Nokia call options that expired in October 2013, consistent with
+
+16 the data in the cash-flow model that indicated the transaction would take place in the near term.
+17
+
+44.
+
+Hardy continued to buy Nokia call options even after a major credit ratings
+
+18 agency downgraded the company’s debt to B1 – a ratings level well below investment grade –
+19 on August 22, 2013.
+20
+
+45.
+
+Hardy used a very large percentage of his investment portfolio and overall net
+
+21 worth to make the purchases in Nokia securities.
+22
+
+46.
+
+Before August 2013, Hardy had never purchased Nokia securities. In fact, he had
+
+23 never purchased options, or derivative securities of any kind, before the spring 2013.
+24
+
+47.
+
+On Monday, September 2, 2013, Labor Day in the United States, Microsoft and
+
+25 Nokia announced that Microsoft would acquire substantially all of Nokia’s mobile phone
+26 business and certain related intellectual property assets for approximately $7.2 billion. On
+27 September 3, the price of Nokia ADSs rose by approximately 30%, closing at $5.12. By the
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+9
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 10 of 13
+1 close of trading that day, Hardy’s holdings of Nokia call options had increased in value,
+2 resulting in illegal profits of $175,077.
+3
+4
+
+D.
+
+5
+
+Hardy Breached His Duty To Microsoft And Knew That His Trading Violated
+Microsoft’s Policies
+48.
+
+When Hardy arrived at Microsoft, he signed an employment contract requiring
+
+6 him to, among other things, “compl[y] with Microsoft’s policies as published in the Microsoft
+7 Employee Handbook.” The Employee Handbook contained an insider trading policy
+8 prohibiting him from buying or selling Microsoft securities when he knew “information about
+9 the company that is both material and nonpublic.” Fiscal quarter and year-end financial results
+10 were included in the policy as specific examples of material, non-public information upon
+11 which Microsoft employees were prohibited from trading.
+12
+
+49.
+
+The insider trading policy also contained similar restrictions on an employee
+
+13 buying or selling “securities of other companies if you have material nonpublic information
+14 that was received … by you as a result of … a relationship with a public company with which
+15 we are negotiating an investment or acquisition.”
+16
+
+50.
+
+Hardy knew that he was prohibited from buying and selling securities of
+
+17 Microsoft and other companies (such as Nokia) when he was in possession of material, non18 public information.
+19
+20
+
+E.
+
+Hardy Violated the Federal Securities Laws
+51.
+
+In breach of duties he owed to Microsoft and/or its shareholders, Hardy
+
+21 knowingly and/or recklessly traded Microsoft securities while in possession, and on the basis
+22 of, material, nonpublic information about Microsoft’s year-end and fourth-quarter 2013
+23 performance.
+24
+
+52.
+
+Hardy also breached his duties to Microsoft by misappropriating material,
+
+25 nonpublic information about the Microsoft-Nokia transaction and trading Nokia securities for
+26 his own profit on the basis of that information.
+27
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+10
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 11 of 13
+1
+
+53.
+
+Microsoft’s insider trading policy, which Hardy agreed to adhere to, prohibited
+
+2 trading by employees while in possession of material nonpublic information, explicitly
+3 including fiscal quarter and year-end financial results and information relating to acquisition
+4 transactions.
+5
+
+54.
+
+Hardy knew that the information about Microsoft’s year-end and fourth-quarter
+
+6 2013 performance and the Microsoft-Nokia transaction was nonpublic and material and/or
+7 acted with reckless disregard of the nature of the information.
+8
+
+55.
+
+A reasonable investor would have viewed the information as being important to
+
+9 her investment decision and or significantly altering the mix of information available to the
+10 public.
+FIRST CLAIM FOR RELIEF
+(Violations of Section 10(b) of the Exchange Act
+and Rule 10b-5 Thereunder)
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+56.
+
+The Commission realleges and incorporates by reference each and every
+
+allegation in paragraphs 1 through 55, inclusive, as if they were fully set forth herein.
+57.
+
+By engaging in the conduct described above, Hardy, knowingly or recklessly, in
+
+connection with the purchase or sale of securities, directly or indirectly, by the use of means or
+instrumentalities of interstate commerce, or the mails, or the facilities of a national securities
+exchange:
+(a)
+
+employed devices, schemes, or artifices to defraud;
+
+(b)
+
+made untrue statements of material fact or omitted to state material facts
+
+necessary in order to make the statements made, in the light of the circumstances under which
+they were made, not misleading; and/or
+(c)
+
+engaged in acts, practices, or courses of business which operated or would operate
+
+as a fraud or deceit upon any person in connection with the purchase or sale of any security.
+58.
+
+By engaging in the foregoing conduct, Hardy has violated and, unless enjoined,
+
+will continue to violate Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5
+[17 C.F.R. § 240.10b-5].
+
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+11
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 12 of 13
+1
+2
+PRAYER FOR RELIEF
+
+3
+
+WHEREFORE, the Commission respectfully requests that this Court enter a final
+
+4
+5 judgment:
+
+I.
+
+6
+7
+
+Permanently restraining and enjoining Hardy, directly or indirectly, violating Section
+
+8 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. §
+9 240.10b-5];
+II.
+
+10
+11
+
+Ordering Hardy to disgorge the unlawful trading profits derived from the activities set
+
+12 forth in this Complaint, together with prejudgment interest;
+13
+
+III.
+
+14
+
+Ordering Hardy to pay civil penalties pursuant to Section 21A of the Exchange Act
+
+15 [15 U.S.C. § 78u-l];
+IV.
+
+16
+17
+
+Permanently barring Hardy from acting as an officer or director of any issuer that has a
+
+18 class of securities registered pursuant to Section 12 of the Exchange Act [15 U.S.C. § 78l] that
+19 is required to file reports under Section 15(d) of the Exchange Act [15 U.S.C. § 78o(d)]
+20 pursuant to Section 20(e) of the Securities Act [15 U.S.C. § 77t(e)] and Section 21(d)(2) of the
+21 Exchange Act [15 U.S.C. § 78u(d)(2)]; and
+22
+23
+24
+25
+26
+27
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+12
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+Case 2:16-cv-00400 Document 1 Filed 03/18/16 Page 13 of 13
+1
+V.
+
+2
+3
+
+Granting such other and further relief as this Court may determine to be just and
+
+4 necessary.
+5 Dated:
+
+March 18, 2016
+
+6
+
+Respectfully submitted,
+
+7
+
+By:
+
+8
+
+s/Rachael Clarke
+RACHAEL CLARKE
+PAUL CHRYSSIKOS
+(Conditionally Admitted
+Pursuant to Local GR 2(c)(2))
+chryssikosp@sec.gov
+clarkera@sec.gov
+
+9
+10
+11
+
+Attorneys for Plaintiff
+SECURITIES AND EXCHANGE
+COMMISSION
+1617 John F. Kennedy Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 Complaint
+
+SEC v. Hardy
+Case No.
+
+13
+
+Securities and Exchange Commission
+1617 JFK Blvd., Suite 520
+Philadelphia, PA 19103
+Telephone: (215) 597-3100
+
+

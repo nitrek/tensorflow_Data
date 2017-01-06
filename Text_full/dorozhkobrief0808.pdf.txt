@@ -1,0 +1,1234 @@
+08-0201-CV
+
+U NITED S TATES C OURT OF A PPEALS FOR THE S ECOND C IRCUIT
+______________________________________________
+
+S ECURITIES AND E XCHANGE C OMMISSION,
+
+Plaintiff-Appellant
+
+v.
+O LEKSANDR D OROZHKO,
+
+Defendant-Appellee.
+
+______________________________________________
+On Appeal from the United States District Court
+for the Southern District of New York
+_____________________________________________
+
+R EPLY B RIEF OF THE
+
+S ECURITIES AND E XCHANGE C OMMISSION ,
+
+A PPELLANT
+
+
+______________________________________________
+B RIAN G. C ARTWRIGHT
+General Counsel
+A NDREW N. V OLLMER
+Deputy General Counsel
+JACOB H. S TILLMAN
+Solicitor
+M ARK P ENNINGTON
+Assistant General Counsel
+D AVID L ISITZA
+Attorney
+Securities and Exchange Commission
+100 F Street, NE
+Washington, DC 20549-8010
+(202) 551-5015 (Lisitza)
+
+T ABLE OF C ONTENTS
+Page
+T ABLE OF A UTHORITIES
+
+iii
+
+INTRODUCTION
+
+1
+
+A RGUMENT
+
+1
+
+I.	 Because the Commission urges that the district court made an error of
+law, the issue on appeal is reviewed de novo, not with deference to the
+district court.
+3
+II.	 For purposes of this appeal, defendant expressly disavows reliance on
+the argument that hacking is not deceptive, and urges as a basis for
+affirmance only that lies, deceptive conduct, and half-truths do not
+violate Section 10(b) absent a breach of fiduciary duty.
+4
+III. Lies, deceptive conduct and half-truths are deceptive devices
+or contrivances whether they involve a breach of fiduciary duty
+or not.
+
+6
+
+A.	 The language and legislative history of Section 10(b) establish
+that it is designed to reach all sorts of fraud.
+
+6
+
+B.	 Precedent makes clear that false statements, deceptive conduct,
+and half-truths violate Section 10(b) and Rule 10b-5 regardless
+of the existence of fiduciary duties.
+
+9
+
+1. The Supreme Court’s insider trading cases rest on the
+understanding that affirmative misrepresentations, which
+includes deceptive conduct, are deceptive regardless of the
+breach of a fiduciary duty.
+
+10
+
+2.	 Supreme Court decisions not involving trading on non-public
+information also demonstrate that fraud may be based either
+on a misrepresentation or on a failure to speak in violation
+of a duty.
+
+17
+
+i
+
+T ABLE OF C ONTENTS (CONTINUED)
+
+Page
+3. Contrary to Dorozhko’s assertion, circuit court decisions,
+including the two examples cited in the Commission’s opening
+brief, hold that affirmative misrepresentations can violate
+Section 10(b) and Rule 10b-5 regardless of the absence of a
+21
+fiduciary duty.
+a. Our opening brief cited two examples from this Court of
+deceptive conduct that violates Section 10(b) without a
+breach of fiduciary duty – pump-and-dump schemes and
+manipulations.
+
+23
+
+b. Other decisions, including those from four other circuits,
+also hold that breach of fiduciary duty is not required
+when a defendant engages in active deception.
+
+25
+
+C. The fact that Rule 14e-3, which prohibits certain trading in
+connection with tender offers, does not require a breach of
+fiduciary duty has no bearing on whether Section 10(b) imposes
+a fiduciary requirement in cases of affirmative misstatement.
+
+27
+
+C ONCLUSION
+
+31
+
+C ERTIFICATE OF C OMPLIANCE
+
+33
+
+C ERTIFICATE OF S ERVICE
+
+34
+
+ii
+
+T ABLE OF A UTHORITIES
+
+Page
+C ASES
+Ackerman v. Schwartz, 947 F.2d 841 (7th Cir. 1991) ....................................... 25
+
+ATSI Comm., Inc. v. Shaar Fund, Ltd., 493 F.3d 87 (2d Cir. 2007) .................. 24
+
+Backman v. Polaroid Corp., 893 F.2d 1405 (1st Cir. 1990) ................................ 27
+
+Basic Inc. v. Levinson, 485 U.S. 224 (1988) ............................................ 18, 19, 26
+
+Billard v. Rockwell Intern. Corp., 683 F.2d 51 (2d Cir. 1982) ........................... 31
+
+Caiola v. Citibank, 295 F.3d 312 (2d Cir. 2002) ................................................. 25
+
+Chertkova v. Connecticut. Gen. Life Ins. Co., 92 F.3d 81, (2d Cir. 1996) ............ 5
+
+Chiarella v. United States, 445 U.S. 222 (1980) ......................... 11, 12, 13, passim
+
+County of Nassau, N.Y. v. Leavitt, 524 F.3d 408, 414 (2d Cir. 2008) ................. 4
+
+Deutschman v. Beneficial Corp., 841 F.2d 502 (3d Cir. 1988), cert. denied, 
+
+490 U.S. 1114 (1989) ................................................................................. 27
+
+Dirks v. SEC, 463 U.S. 646 (1983) ................................................................ 12, 24
+
+Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976) ...................................... 2, 7, 24
+
+Fry v. UAL Corp., 84 F.3d 936 (7th Cir. 1996) ............................................ 19, 26
+
+In re Edelman, 295 F.3d 171, 177 (2d Cir. 2002) ................................................. 7
+
+In re NYSE Specialists Sec. Litig., 503 F.3d 89 (2d Cir. 2007) .......................... 22
+
+iii
+
+
+T ABLE OF A UTHORITIES (CONTINUED)
+Page
+In re Refco Capital Markets, Ltd. Brokerage Customer Sec. Litig., 2007 WL
+2694469 (S.D.N.Y. Sept. 13, 2007) ........................................................... 15
+
+Levitt v. Bear Stearns & Co., 340 F.3d 94 (2d Cir. 2003) .................................. 22
+
+Manufacturers Hanover Trust Co. v. Drysdale Securities Corp., 801 F.2d 13 
+
+(2d Cir. 1986) ............................................................................................ 22
+
+New York Magazine v. Metro. Transp. Auth., 136 F.3d 123 (2d Cir. 1998), 
+
+cert. denied, 525 U.S. 824 (1998) ................................................................. 4
+
+Rubin v. Schottenstein, Zox & Dunn, 143 F.3d 263 (6th Cir. Cir. 1998) ......... 25
+
+SEC v. Bilzerian, 29 F.3d 689 (D.C. Cir. 1994) .................................................. 31
+
+SEC v. Cherif, 933 F.2d 403 (7th Cir. 1991) ....................................................... 13
+
+SEC v. George, 426 F.3d 786 (6th Cir. 2005) ..................................................... 22
+
+SEC v. Monarch Funding Corp., 192 F.3d 295 (2d Cir. 1999) .......................... 10
+
+SEC v. Texas Gulf Sulphur Co., 401 F.2d 833 (2d Cir. 1968) ........................... 19
+
+SEC v. Zandford, 535 U.S. 813 (2002) .......................................................... 19, 20
+
+Semerenko v. Cendant Corp., 223 F.3d 165 (3d Cir. 2000) ................................ 26
+
+Stoneridge Investment Partners v. Scientific-Atlanta, Inc.,
+
+128 S. Ct. 761 (2008) ....................................................................... 5, 17, 18
+
+Superintendent of Ins. v. Bankers Life & Cas. Co., 404 U.S. 6 (1971) ............ 2, 22
+
+
+iv
+
+
+T ABLE OF A UTHORITIES (CONTINUED)
+Page
+United States v. Andrews, 146 F.3d 933 (D.C. Cir. 1998) ................................ 22 
+
+United States v. Chestman, 947 F.2d 551 (2d Cir. 1991) (en banc), 
+
+cert. denied, 503 U.S. 1004 (1992) ....................................................... 29, 30
+
+United States v. Finnerty, No. 07-1104, 2008 WL 2778830 
+
+(2d Cir. July 18, 2008) ......................................................... 5, 9, 10, passim
+
+United States v. Skelly, 442 F.3d 94 (2d Cir. 2006) .......................................... 23 
+
+United States v. O’Hagan, 521 U.S. 642 (1997) ........................ 12, 13, 14, passim
+
+United States v. O’Hagan, 139 F.3d 641 (8th Cir. 1998) ................................... 14
+
+
+S TATUTES AND R ULES
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+
+Section 10(b), 15 U.S.C. 78j(b) ............................................. 1, 2, 7, passim
+
+Section 14(e), 15 U.S.C. 78n(e) ............................................................ 27-31
+
+Rules under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.
+
+Rule 10b-5, 17 C.F.R. 240.10b-5 ............................................ 2, 5, 9, passim
+
+Rule 14e-3, 17 C.F.R. 240.14e-3 ........................................................... 27-31
+
+18 U.S.C. 1341 ........................................................................................................ 7
+
+18 U.S.C. 1343 ........................................................................................................ 7
+
+
+v
+
+
+T ABLE OF A UTHORITIES (CONTINUED)
+Page
+
+M ISCELLANEOUS
+Tender Offers, Exchange Act Rel. 33-6239 & 34-17120,
+45 Fed. Reg. 60410 (1980)
+S. Rep. No. 792, 73d Cong., 2d Sess. (1934)
+Hearings on H.R. 7852 and H.R. 8720 before the House Committee
+on Interstate and Foreign Commerce, 73d Cong.,
+2d Sess. (1934)
+Kathleen Coles, The Dilemma of the Remote Tippee,
+41 Gonz. L. Rev. 181 (2005-06)
+Donald C. Langevoort, 18 Insider Trading Regulation, Enforcement and
+Prevention, Section 6:14, “Deception without breach of
+fiduciary duty” (April 2008)
+Donald C. Langevoort, 18 Insider Trading: Regulation, Enforcement, and
+Prevention, Section 6:14 (2007)
+Joel Seligman, The Transformation of Wall Street (Rev. ed. 1995)
+
+vi
+
+30
+8
+
+2, 8
+
+30
+
+16, 17
+
+16
+1
+
+INTRODUCTION
+The sole argument offered by defendant Oleksandr Dorozhko in
+support of the district court’s denial of a preliminary injunction and
+dissolution of the asset freeze is that every violation of the Section 10(b), the
+general antifraud provision of the Securities Exchange Act of 1934, requires
+proof of a breach of fiduciary duty. This argument is contrary to the plain
+language of the statute, the legislative history, relevant Supreme Court
+precedent, and the decisions of this Court and at least four other Courts of
+Appeals.
+
+A RGUMENT
+Congress enacted the federal securities laws after the stock market crash
+of 1929, and after half of the new securities sold during the post-World
+War I period turned out to be worthless. See generally, Joel Seligman, The
+Transformation of Wall Street, at 1-2 (Rev. ed. 1995). One main feature of the
+laws was broad anti-fraud protection designed to ensure market integrity,
+protect investors, and foster the investor confidence that is essential to
+capital formation. In the Securities Exchange Act of 1934, the general anti­
+fraud provision is Section 10(b), which outlaws, in connection with the
+1
+
+
+purchase or sale of securities, “any deceptive device or contrivance” in
+contravention of Commission regulations. Rule 10b-5, adopted by the
+Commission, prohibits, among other things, “any device, scheme, or
+artifice to defraud,” and “any act, practice, or course of business which
+operates . . . as a fraud or deceit upon any person.”
+These provisions reach all sorts of fraudulent schemes. The Supreme
+Court has explained that Section 10(b) and Rule 10b-5 “prohibit all
+fraudulent schemes in connection with the purchase or sale of securities,”
+Superintendent of Ins. v. Bankers Life & Cas. Co., 404 U.S. 6, 11 n.7 (1971),
+while the principal drafter famously paraphrased the statute as “Thou shalt
+not devise any other cunning devices.” Ernst & Ernst v. Hochfelder, 425 U.S.
+185, 202 (1976), quoting Hearings on H.R. 7852 and H.R. 8720 before the
+House Committee on Interstate and Foreign Commerce, 73d Cong., 2d
+Sess., 115 (1934) (Thomas Corcoran).
+Now, nearly 75 years after passage of the Exchange Act, defendant
+offers a startling new reading of the law: what Congress actually meant is
+“Thou shalt not breach any fiduciary duty; absent such a duty, thou mayest
+lie as much as thou wishes.” In Dorozhko’s view, Section 10(b) was
+2
+
+
+enacted to impose federal disclosure duties solely on fiduciaries, people
+who were already subject to heightened disclosure and other obligations,
+and was not concerned at all with run-of-the-mill fraudsters who would
+deceive a stranger in a securities transaction.
+As many circuits have held, this reading is insupportable, yet it is the
+only ground on which Dorozhko now defends the district court’s denial of
+a preliminary injunction and dissolution of the asset freeze in this case.
+The district court’s decision should be reversed.
+I.	
+
+Because the Commission urges that the district court made an error
+of law, the issue on appeal is reviewed de novo, not with deference
+to the district court.
+Dorozhko incorrectly proposes that because review of the denial of a
+
+preliminary injunction is for abuse of discretion, this Court owes deference
+to the district court’s legal conclusions, and that the Commission must
+make a “strong showing” that the district court made an error of law. Br.
+8-9.1 To the contrary, because the Commission does not challenge the
+district court’s exercise of judgment, but rather its legal conclusion (that
+
+1
+
+“Br. __” is Dorozhko’s brief in this Court. “SEC Br. __” is the
+Commission’s opening brief.
+3
+
+breach of fiduciary duty is a necessary element of every claim brought
+under Section 10(b), even those involving affirmative misstatements,
+deceptive conduct, or half truths), this Court reviews the district court’s
+“determination of law de novo. If the District Court has based its decision
+on an error of law, it has ipso facto abused its discretion.” New York
+Magazine v. Metro. Transp. Auth., 136 F.3d 123, 126 (2d Cir. 1998) (citations
+omitted); see also, County of Nassau, N.Y. v. Leavitt, 524 F.3d 408, 414 (2d Cir.
+2008).
+II.	
+
+For purposes of this appeal, defendant expressly disavows reliance
+on the argument that hacking is not deceptive, and urges as a basis
+for affirmance only that lies, deceptive conduct, and half-truths do
+not violate Section 10(b) absent a breach of fiduciary duty.
+The Commission’s opening brief demonstrated that hacking is a
+
+deceptive device or contrivance under Section 10(b). SEC Br. 18-40.
+Dorozhko, however, renounces reliance on the argument that his conduct
+was not deceptive as a ground for affirming the district court in this appeal.
+Br. 36-37. Instead, his sole defense of the district court’s decision in this
+Court is the argument that “violations of Section 10(b) must be predicated
+on a breach of fiduciary (or similar) duty.” Br. 10-11; see also, Br. 18 (the
+
+4
+
+
+Supreme Court “equates a violation of Section 10(b) with breach of a
+fiduciary or similar duty”). 2
+The district court held an evidentiary hearing with testimony by various
+witnesses and reviewed extensive briefing by both parties regarding
+whether hacking is deceptive, and we have fully briefed the issue here. We
+believe that it would be appropriate for this Court to decide this issue, in
+addition to the breach of fiduciary duty issue, and if it agrees with us on
+both, it should direct the district court to grant a preliminary injunction and
+continue the asset freeze. See Chertkova v. Connecticut. Gen. Life Ins. Co., 92
+F.3d 81, 88 (2d Cir. 1996) (exercising discretion to review an issue the
+district court did not decide). Alternatively, based upon our argument
+
+2
+
+We note that this Court’s recent decision in United States v. Finnerty
+provides additional support for the Commission’s argument that hacking is
+a “deceptive device or contrivance” within the meaning of Section 10(b).
+This Court reiterated the Supreme Court’s statements that “[c]onduct itself
+can be deceptive,” so that liability under Section 10(b) and Rule 10b-5 does
+not require “a specific oral or written statement.” Finnerty, No. 07-1104,
+2008 WL 2778830, at *4 (2d Cir. July 18, 2008), quoting Stoneridge Inv.
+Partners, LLC v. Scientific-Atlanta, 128 S. Ct. 761, 769 (2008). And it
+explained that “deception” is a “broad” concept that “irreducibly entails
+some act that gives the victim a false impression.” Id. This understanding
+of the meaning of deception is the basis for the Commission’s argument, see
+SEC Br. 21-22.
+5
+
+concerning breach of fiduciary duty, this Court should reverse the district
+court’s denial of a preliminary injunction, remand for the district court to
+consider the deception issue in the first instance, and keep the asset freeze
+in effect pending the district court’s consideration of that issue.
+III.	 Lies, deceptive conduct and half-truths are deceptive devices or
+contrivances whether they involve a breach of fiduciary duty or
+not.
+A false statement, deceptive action, or half-truth is a paradigmatic
+example of deception under both the common law and the federal
+securities laws. It has been clear at least since the Supreme Court’s insider
+trading cases that silence can also be deceptive under the securities laws, as
+under the common law, when a fiduciary or a similar duty of trust and
+confidence imposes a duty to speak. Dorozhko purports to find that the
+special case of the fiduciary who does not speak is in fact the entire law of
+securities fraud. His contentions are erroneous.
+A.	
+
+The language and legislative history of Section 10(b)
+establish that it is designed to reach all sorts of fraud.
+
+Statutory language and legislative history are the usual tools for
+construing statutes, of course, but both contradict Dorozhko’s fiduciary
+
+6
+
+
+duty theory. As we have seen (SEC Br. 19-22, 43), the ordinary meaning of
+the language of the statute – “any deceptive device or contrivance” – covers
+all sorts of fraud, and does not remotely suggest that only fiduciaries can
+be violators. See In re Edelman, 295 F.3d 171, 177 (2d Cir. 2002) (“Where the
+statutory terms are clear, our inquiry is at an end”). The language of the
+Rule is similarly broad: “any device, scheme, or artifice to defraud,” and
+“any act, practice, or course of business which operates as a fraud or deceit
+upon any person.” Indeed, Dorozhko’s concession (Br. 17) that breach of
+fiduciary duty is not required under the mail and wire fraud statutes is
+telling, since Section 10(b)’s language provides no more basis for such a
+requirement than does the mail or wire fraud language. See 18 U.S.C. 1341
+(mail fraud), 18 U.S.C. 1343 (wire fraud).3
+The legislative history is also inconsistent with the idea that the statute
+reaches only breaches of fiduciary duties. The principal drafter described
+the provision as a “catchall” intended to permit the Commission to “deal
+with new manipulative or cunning devices.” Hochfelder, 425 U.S. at 202
+
+3
+
+The mail fraud and wire fraud statutes contain identical language
+prohibiting “any scheme or artifice to defraud.”
+7
+
+(quoting Hearings on H.R. 7852 and H.R. 8720 before the House Committee
+on Interstate and Foreign Commerce, 73d Cong., 2d Sess., 115 (1934))
+(Thomas Corcoran) (internal brackets omitted). And the Senate Report
+explained that the section authorized the Commission “to prohibit or
+regulate the use of any other manipulative or deceptive practices which it
+finds detrimental to the interests of the investor.” S. Rep. No. 792, 73d
+Cong., 2d Sess., 1-5 (1934). It is inconceivable that Congress intended
+Section 10(b) to be a “catchall” only for fiduciaries, or that “any deceptive
+practice” means “any breach of fiduciary duty.”
+Perhaps because the task is manifestly impossible, Dorozhko does not
+even try to base his argument on the statutory language or legislative
+history. Rather he relies principally on a misreading of case law, which he
+contends establishes a fiduciary duty requirement that is not based on
+statutory language or legislative history. We next turn to these errors of his
+analysis.
+
+8
+
+
+B.	
+
+Precedent makes clear that false statements, deceptive
+conduct, and half-truths violate Section 10(b) and Rule 10b-5
+regardless of the existence of fiduciary duties.
+
+The fundamental principle that fraud means either affirmative deceptive
+conduct, regardless of the existence of a fiduciary duty, or silence when a
+duty requires disclosure, is interwoven into the very fabric of decisions
+construing Section 10(b).
+For example, in this Court’s recent decision in United States v. Finnerty,
+the issue was whether a specialist on the New York Stock Exchange
+engaged in deception within the meaning of Section 10(b) and Rule 10b-5
+when he interposed himself between customer orders that were sent to him
+to be executed on the floor of the exchange. Finnerty, No. 07-1104, 2008 WL
+2778830, at *1-2. This Court noted that the government “did not try to
+prove that Finnerty owed a fiduciary duty to public customers.” Id. at *3.
+Under Dorozhko’s view, that should have been the end of the Court’s
+analysis. But it was only a prefatory observation before the Court turned to
+the question of whether, in the absence of an allegation of manipulation,
+there was proof of “a false statement, breach of a duty to disclose, or
+deceptive communicative conduct.” Id. at *6 (emphasis added); see also, id.
+9
+
+
+at *7 (finding that there was “no material misrepresentation, no omission,
+no breach of a duty to disclose, and no creation of a false appearance of fact
+by any means”).
+The Court ruled that the defendant had not made an actionable
+misrepresentation, but it was clear that despite the absence of a claim of
+breach of fiduciary duty, the government would have established “a
+primary violation of § 10(b)” if it had shown that false customer
+expectations were based “on a statement or conduct by Finnerty.” Id. at *6.
+See also, SEC v. Monarch Funding Corp., 192 F.3d 295, 308 (2d Cir. 1999)
+(holding that a defendant violates Section 10(b) and Rule 10b-5 when he
+makes either “a material misrepresentation or a material omission as to
+which he had a duty to speak.”) (emphasis added).
+1.	
+
+The Supreme Court’s insider trading cases rest on the
+understanding that affirmative misrepresentations,
+which includes deceptive conduct, are deceptive
+regardless of the breach of a fiduciary duty.
+
+The Commission’s opening brief explained that according to the
+Supreme Court’s insider trading cases, a breach of duty is a basis for
+finding fraud under Section 10(b) in the specialized situation where the
+
+10
+
+
+deception arises, not from an affirmative misrepresentation, but through
+silence where there is a duty of disclosure. SEC Br. 44-49. These cases
+articulate what is generally referred to as the “disclose or abstain from
+trading” rule: a fiduciary in possession of material, nonpublic information
+must either abstain from trading on it or make appropriate disclosure, and
+the failure to do so is a form of fraud.
+The case now before the Court is different from the insider trading cases
+addressed by prior decisions of the Supreme Court because the fraud here
+is alleged to be the deceptive manner in which the information was
+obtained rather than in the fact that the defendant traded in breach of a
+duty. Nevertheless, these cases provide compelling support for the
+proposition that an affirmative misrepresentation (which, as we have seen,
+includes deceptive conduct) is fraudulent.
+In the first of these decisions, Chiarella, the Court explained that “[a]t
+common law, misrepresentation made for the purpose of inducing reliance
+upon the false statement is fraudulent,” but one who fails to disclose
+material information “commits fraud only when he is under a duty to do
+so” because he has a “fiduciary or other similar relation of trust and
+11
+
+
+confidence . . .” Chiarella v. United States, 445 U.S. 222, 227-28 (1980). The
+Court then applied these common law principles to Section 10(b), holding
+that silence is not fraudulent unless a duty requires disclosure.4
+Dorozhko, however, claims that the Court created a different rule in
+Chiarella. According to him, from the premise that at common law an
+affirmative misrepresentation is fraudulent, while a failure to disclose is
+only fraudulent if there is a duty to make disclosure, the Court drew the
+conclusion that not only is silence fraudulent if there is a breach of duty,
+but also that misrepresentations can never be fraudulent unless there is a
+breach of fiduciary duty. As we just saw, and as further explained in our
+opening brief, this conclusion is unsupported by Chiarella or any other
+decision of the Supreme Court.5
+Dorozhko incorrectly argues that this case is “virtually
+indistinguishable” from Chiarella and O’Hagan because, he says, like the
+
+4
+
+Subsequent insider trading cases apply the same rule. See Dirks v. SEC,
+463 U.S. 646, 659-60 (1983) (liability of those who are tipped confidential
+information); United States v. O’Hagan, 521 U.S. 642 (1997) (liability of those
+who misappropriate confidential information).
+
+5
+
+As we discuss below, infra at 21-27, it is also inconsistent with decisions of
+this Court and other circuit courts.
+12
+
+defendants in those cases, he is alleged to have “stolen” nonpublic
+information, and therefore, like the defendants in those cases, he is only
+liable for securities fraud if he had a fiduciary duty. Br. 11-17, 23-26. This
+assertion is incorrect. The focus in Chiarella and O’Hagan was not on how
+the information was obtained, but on whether, once the information had
+been obtained, the defendant thereafter committed fraud by trading in
+breach of a fiduciary duty.6
+The Court in O’Hagan was explicit on this point: the fraud in a
+misappropriation case is “consummated, not when the fiduciary gains the
+confidential information, but when, without disclosure to his principal, he
+uses the information to purchase or sell securities.” 521 U.S. at 656
+
+6
+
+Dorozhko similarly argues that the deception in SEC v. Cherif, 933 F.2d
+403 (7th Cir. 1991) was in how the defendant accessed the nonpublic
+information. Br. 24-25. Although Cherif used an identification card to
+falsely represent that he was authorized to enter the bank, and the court
+characterized this as fraudulent, the court’s decision ultimately turned on
+the conclusion that he continued to owe a fiduciary duty to his employer
+even after his employment terminated. 933 F.2d at 411. The court did not
+reach the question of whether fraudulent entry absent a duty violated
+Section 10(b). See SEC Br. 31 n.12, id. at 29-32.
+13
+
+(emphasis added).7 Chiarella likewise identified the controlling legal issue
+as “whether silence may constitute a manipulative or deceptive device,”
+not whether it is fraud to obtain information through deception. 445 U.S. at
+226 (this case “concerns the legal effect of the [defendant]’s silence”). In
+contrast, the Commission here alleges that the means by which Dorozhko
+obtained the information was deceptive.8
+Nor does the fact that some of Dorozhko’s conduct might be
+characterized as stealing mean that a fiduciary duty must be shown. As
+the Commission explained in its opening brief, merely because conduct
+might qualify as theft does not mean that it is not also deceptive within the
+meaning of Section 10(b). SEC Br. 37 n.16. This Court recently touched on
+this point in Finnerty when it noted that “[t]heft not accomplished by deception
+
+7
+
+Contrary to Dorozhko’s suggestion (Br. 24), O’Hagan’s mail fraud
+conviction was not based on some deceptive device he used to obtain the
+information, but on “the mailing of securities trading confirmation slips to
+him by his brokers.” United States v. O’Hagan, 139 F.3d 641, 652 (8th Cir.
+1998) (on remand).
+8
+
+By claiming that he merely “stole” information (Br. 14, 21), Dorozhko
+may intend to suggest that he did not engage in any deceptive conduct to
+obtain it, but for this appeal he has expressly disclaimed reliance on the
+argument that he did not engage in deceptive conduct as a ground for
+affirming the district court (Br. 36-37).
+14
+
+(e.g., physically taking and carrying away another’s property) is not fraud
+absent a fiduciary duty.” Finnerty, No. 07-1104, 2008 WL 2778830, at *4
+(quoting In re Refco Capital Markets, Ltd. Brokerage Customer Sec. Litig., 2007
+WL 2694469, at *8 (S.D.N.Y. Sept. 13, 2007) (emphasis added). Assuming
+that some of Dorozhko’s conduct might also be characterized as theft, it
+was accomplished through deception, and was therefore within the
+proscriptions of Section 10(b) and Rule 10b-5 regardless of the absence of a
+breach of fiduciary duty.
+Dorozhko also incorrectly suggests that the Commission is seeking to
+revive Justice Blackmun’s dissent in Chiarella in an effort to prohibit any
+“informational advantage” that arises from “mere possession” of
+nonpublic information. Br. 13-15 (citing 445 U.S. at 251). The fraud here is
+not that Dorozhko merely possessed nonpublic information but that he
+engaged in a deceptive device of hacking to obtain and immediately trade on
+that nonpublic information.
+He cites to several scholarly works that suggest that hacking does not
+violate Section 10(b). Br. 19-20. These scholars, however, were not
+suggesting that Section 10(b) can only be violated where there is a breach of
+15
+
+
+fiduciary duty, even if the defendant engages in deceptive conduct.
+Rather, they were speculating, with little discussion or analysis, that
+hacking could be deemed similar to theft-without-deception, an argument
+that Dorozhko is expressly not making in this appeal.
+We note that Dorozhko incorrectly describes the views expressed in a
+leading securities law treatise. Br. 20-21 n.7. As explained in our opening
+brief, the author of the treatise is of the view that deceptively hacking into a
+computer system to obtain nonpublic information is securities fraud
+irrespective of a fiduciary duty. SEC. Br. 23 (citing Donald C. Langevoort,
+18 Insider Trading: Regulation, Enforcement, and Prevention, Section 6:14
+(2007)). His treatise was updated after the Commission’s opening brief was
+filed, but the author still concludes that a hacker who “engages in some
+trickery to gain access to a company’s e-mail system” has engaged in
+deceptive acts or practices in violation of Rule 10b-5, “fiduciary breach or
+not.” Donald C. Langevoort, 18 Insider Trading Regulation, Enforcement and
+Prevention, Section 6:14, “Deception without breach of fiduciary duty”
+(April 2008). He continues to be of that view after the district court’s
+decision in this case, and he does not say, as Dorozhko suggests (Br. 20-21
+16
+
+
+n.7), that the district court’s ultimate decision was correct. Rather, he says
+that the district court is correct that Dorozhko is not liable under the
+theories adopted in the Supreme Court’s insider trading cases, which, as
+noted, require a breach of a fiduciary duty. What Langevoort thinks was
+“restrictive” (Br. 21 n.7) was not the district court’s application of the
+theories from the Supreme Court decisions, but its failure to find that a
+defendant can also commit fraud based on his use of deception in obtaining
+the information.
+2.	
+
+Supreme Court decisions not involving trading on nonpublic information also demonstrate that fraud may be
+based either on a misrepresentation or on a failure to
+speak in violation of a duty.
+
+The Commission’s opening brief explained that Stoneridge, 128 S. Ct. 761,
+distinguished between a fraud involving the failure to disclose in breach of
+a duty and a fraud where the defendant made an affirmative misstatement.
+SEC Br. 47-49. After the Court found that in a private action under Section
+10(b) there was no presumption of reliance because the defendant “had no
+duty to disclose,” the case did not end there – which it would have if a
+breach of duty was the beginning and end of Section 10(b). Rather, after
+
+17
+
+
+deciding the fiduciary duty issue the Court went on to decide that there
+was no reliance on affirmative misstatements because the “deceptive acts
+were not communicated to the public.” 128 S. Ct. at 769.
+Dorozhko agrees that in Stoneridge the Court analyzed reliance “in two
+circumstances” – first, “where there is an omission of material fact by one
+with a duty to disclose,” and second where “deceptive statements become
+public.” Br. 29 (emphasis added). This concession contradicts Dorozhko’s
+entire theory, because Dorozhko’s premise is that Section 10(b) only
+involves one circumstance (the omission of material fact by one with a duty
+to disclose) and that the second circumstance (deception without breach of
+duty) does not violate the statute.
+The Commission similarly explained that Basic Inc. v. Levinson, 485 U.S.
+224, 240 n.18 (1988) demonstrates that breach of fiduciary duty cases are
+distinct from affirmative misrepresentation cases because the Supreme
+Court refused to recognize one standard of materiality for situations where
+a fiduciary fails to disclose or abstain from trading, and another covering
+affirmative misrepresentations by those “under no duty to disclose (but
+under the ever-present duty not to mislead).” SEC Br. 49. There would
+18
+
+
+have been no reason for the Court to consider this issue if, as Dorozhko
+claims, only fiduciaries have the “ever-present duty not to mislead.”
+Dorozhko does not come to grips with this argument about Basic, and
+can only muster that this statement is “dicta” because it was made “in
+passing in a footnote” (Br. 27-28). Basic’s statement was not dicta; it was a
+basis for not adopting two separate standards for materiality. It has been
+relied upon in holding that misrepresentations alone are actionable under
+Section 10(b). See Fry v. UAL Corp., 84 F.3d 936, 937-38 (7th Cir. 1996) (“The
+duty not to make misrepresentations does not depend on the existence of a
+fiduciary relationship.”) (citing Basic, 485 U.S. at 240 n.18). In an additional
+statement, Basic reaffirmed that “Rule 10b-5 is violated whenever assertions
+are made . . . if such assertions are false or misleading or are so incomplete
+as to mislead.” Basic, 485 U.S. at 235 n.13 (quoting SEC v. Texas Gulf
+Sulphur Co., 401 F.2d 833, 862 (2d Cir. 1968) (en banc)).9
+Dorozhko argues that SEC v. Zandford, 535 U.S. 813 (2002) supports his
+reading of Section 10(b) because “the Section 10(b) violation was predicated
+9
+
+Dorozhko also argues that Basic preceded O’Hagan (Br. 27-28), but Basic
+was decided eight years after Chiarella’s recognition that fraud includes
+both misrepresentations and silence in breach of duty.
+19
+
+on Zandford’s breach of a fiduciary duty owed to his client.” Br. 18. But
+the fact that some fraud is perpetrated by the silence of fiduciaries provides
+no support for the notion that fraud can only be perpetrated by fiduciaries.
+One statement by the Court makes clear that it was fully aware that fraud
+may be committed either through affirmative deception or through
+omissions to disclose in breach of a duty. In response to Zandford’s
+argument that he should escape liability because he did not make an
+affirmative misrepresentation, but rather “simply failed to inform [his
+client] of his intent to misappropriate their securities, ” the Supreme Court
+explained that “any distinction between omissions and misrepresentations
+is illusory in the context of a broker who has a fiduciary duty to her clients.” Id.
+at 822-23 (citing Chiarella, 445 U.S. at 230) (emphasis added). If Dorozhko’s
+view of the law were correct, there would never be a distinction between
+omissions and misrepresentations because only fiduciaries could breach
+the statute in the first place.
+
+20
+
+
+3.	
+
+Contrary to Dorozhko’s assertion, circuit court
+decisions, including the two examples cited in the
+Commission’s opening brief, hold that affirmative
+misrepresentations can violate Section 10(b) and Rule
+10b-5 regardless of the absence of a fiduciary duty.
+
+Dorozhko asserts that the Commission “can not cite any case where
+Section 10(b) liability has been imposed in the absence of a breach of a
+fiduciary duty.” Br. 21, id. at 31. This claim is a bold one for Dorozhko to
+make, as he cites no appellate case in the history of the Exchange Act in
+which a defendant who made a material misrepresentation escaped
+liability on the ground that he did not breach a fiduciary duty, and he cites
+no appellate decision (or commentator, for that matter) supporting the
+view that lies are only deceptive if the liar is a fiduciary. Perhaps almost as
+telling are the many, many decisions holding defendants liable for
+violating Section 10(b) without any discussion at all of whether the
+
+21
+
+
+defendant was a fiduciary.10
+The Commission’s opening brief cited two examples from this Court in
+which Section 10(b) and Rule 10b-5 violations were found despite the
+absence of a fiduciary duty (SEC Br. 49-53), and, as we show below,
+Dorozhko’s efforts to distinguish those cases are wide of the mark. We also
+offer additional cases that expressly distinguish Chiarella and the “disclose
+or abstain from trading” rule, and do not require a breach of duty where
+the securities frauds are carried out by non-fiduciaries who make
+affirmative misrepresentations.11
+
+10
+
+See, e.g., Superintendent v. Bankers Life, 404 U.S. at 9 (fraudulent acts by
+bond issuer); Manufacturers Hanover Trust Co. v. Drysdale Securities Corp.,
+801 F.2d 13, 20-22 (2d Cir. 1986) (accountants’ misrepresentations made to
+client’s counterparty); In re NYSE Specialists Sec. Litig., 503 F.3d 89, 102 (2d
+Cir. 2007) (fraud by “bankers and non-issuer sellers”); Levitt v. Bear Stearns
+& Co., 340 F.3d 94 (2d Cir. 2003) (clearing agent’s misrepresentations); SEC
+v. George, 426 F.3d 786 (6th Cir. 2005) (“Ponzi” scheme); United States v.
+Andrews, 146 F.3d 933 (D.C. Cir. 1998) (“prime bank” securities scheme).
+11
+
+As noted in the discussion of the Finnerty decision, misrepresentations
+under the securities laws include not only untrue statements but also
+deceptive conduct. Supra at 5 n.2.
+22
+
+a.	
+
+Our opening brief cited two examples from this
+Court of deceptive conduct that violates Section
+10(b) without a breach of fiduciary duty –
+pump-and-dump schemes and manipulations.
+
+Pump-and-dump schemes. In United States v. Skelly, 442 F.3d 94, 97-98
+(2d Cir. 2006), this Court affirmed a jury verdict that defendants violated
+Section 10(b) and Rule 10b-5 in perpetrating a pump-and-dump scheme in
+which they made misleading statements to boost the price of the securities.
+See SEC Br. 50-51. The case had been submitted on two theories: that the
+misleading statements were deceptive, and that the defendants had
+breached the fiduciary duty they owed to the investors. The court found
+that the fiduciary duty instruction was defective, so that the verdict could
+not be affirmed on that basis, but nonetheless upheld the conviction on the
+basis of the misstatement theory. It is difficult to imagine a better
+illustration of the Commission’s contention that a violation of Section 10(b)
+can occur even without a breach of fiduciary duty. In response, Dorozhko
+describes the course of proceedings but never comes to terms with the
+case’s holding, and then asserts that the case is not relevant because it does
+
+23
+
+
+not cite Dirks, Chiarella, or O’Hagan. Br. 30. To the contrary, the fact that
+these cases are not cited is telling evidence that they are not relevant.
+Manipulations. In ATSI Comm., Inc. v. Shaar Fund, Ltd., 493 F.3d 87, 99­
+100 (2d Cir. 2007), this Court held that market manipulation violates Rule
+10b-5 “regardless of whether there is a fiduciary relationship between
+transaction participants.” See SEC Br. 52-53. Dorozhko responds that
+“[m]anipulative as used in Rule 10(b) is a term of art that has been given a
+specific meaning,” and that manipulation is a different concept from
+“deception.” Br. 30-31. The holding of ATSI , however, is not that
+manipulation is “manipulative,” but that manipulation is “deceptive.”
+Section 10(b) authorizes the Commission to adopt rules forbidding both
+“manipulative” and “deceptive” devices. Rule 10b-5 forbids fraudulent
+conduct but does not use the word “manipulative.” This Court concluded
+that Rule 10b-5 nonetheless prohibits market manipulation because
+manipulation involves “willful conduct designed to deceive or defraud
+investors by controlling or artificially affecting the price of securities,” 493
+F.3d at 100 (quoting Hochfelder, 425 U.S. at 199) (emphasis added), and that
+
+24
+
+
+Rule 10b-5 required a showing that the manipulation was “aimed at
+deceiving investors,” id.
+b.	
+
+Other decisions, including those from four other
+circuits, also hold that breach of fiduciary duty is
+not required when a defendant engages in active
+deception.
+
+Another decision from this Circuit is Caiola v. Citibank, 295 F.3d 312, 331
+(2d Cir. 2002), where a customer brought a securities fraud claim against
+his bank alleging “material misrepresentations concerning [the bank’s
+investment] strategy.” The bank argued that the customer failed to state a
+claim because he was told that the bank “would not be his fiduciary or
+advisor.” Id. This Court rejected the bank’s argument, holding that “the
+lack of an independent duty” to disclose its hedging strategy “is not, under
+such circumstances, a defense to Rule 10b-5 liability because upon choosing
+to speak, one must speak truthfully about material issues.” Id.12
+
+12
+
+This Court cited, inter alia, Rubin v. Schottenstein, Zox & Dunn, 143 F.3d
+263, 267-68 (6th Cir. Cir. 1998) (even if an attorney representing the seller in
+a securities transaction does not have an “independent duty” to volunteer
+information to a prospective buyer, “he assumes a duty to provide
+complete and non-misleading information with respect to subjects on
+which he undertakes to speak”), and Ackerman v. Schwartz, 947 F.2d 841,
+848 (7th Cir. 1991) (distinguishing Chiarella on the ground that “the lack of
+an independent duty does not excuse a material lie,” citing Basic).
+25
+
+Similarly, in Semerenko v. Cendant Corp., 223 F.3d 165, 187 n.14 (3d Cir.
+2000) the court declined to dismiss plaintiffs’ claims on the asserted ground
+that plaintiffs had not alleged breach of a fiduciary duty. The court
+explained that Chiarella and Dirks apply to allegations “that the defendants
+failed to disclose material facts,” but noted that “[t]hough defendants who
+are neither fiduciaries nor insiders generally are not under a duty to
+disclose material information, they subject themselves to liability under
+§10(b) and Rule 10b-5 when they make affirmative misrepresentations.”
+The issue has come up several times in the context of options trading.
+For instance, in Fry v. UAL Corp., 84 F.3d 936, 937-38 (7th Cir. 1996) (Posner,
+J.), the issuer of the underlying stock argued that it could not be held liable
+under Section 10(b) for misrepresentations affecting the owners of options
+on its stock because an issuer does not have a fiduciary duty to options
+holders. The court agreed that there was no fiduciary obligation, but
+rejected defendant’s argument that this was a valid defense. It
+distinguished Chiarella because the “duty not to make misrepresentations
+does not depend on the existence of a fiduciary relationship,” citing Basic,
+485 U.S. at 240 n.18. Otherwise, the court observed, “very little fraud
+26
+
+
+would be actionable. The garden-variety fraud in which the seller of a
+product misrepresents its qualities to the buyer would not be, because a
+seller is not his buyer’s fiduciary.” Id. 13
+C.	
+
+The fact that Rule 14e-3, which prohibits certain trading in
+connection with tender offers, does not require a breach of
+fiduciary duty has no bearing on whether Section 10(b)
+imposes a fiduciary requirement in cases of affirmative
+misstatement.
+
+Dorozhko makes a confused argument that the Commission’s adoption
+in 1980 of Rule 14e-3 under Section 14(e) of the Exchange Act somehow
+proves that Section 10(b) requires a breach of fiduciary duty. Br. 32-35. In
+contrast to Section 10(b), which prohibits only conduct contrary to
+Commission rules or regulations, Section 14(e) has a self-operative
+
+13
+
+Other decisions reaching the same conclusion in the options context are
+Deutschman v. Beneficial Corp., 841 F.2d 502, 506 (3d Cir. 1988), cert. denied,
+490 U.S. 1114 (1989) (Chiarella and Dirks are “simply not relevant to the
+distinct issue of affirmative misrepresentations affecting a market in
+securities” because “[n]othing in those opinions . . . can be construed to
+require the existence of a fiduciary relationship between a section 10(b)
+defendant and the victim of that defendant’s affirmative
+misrepresentation”), and Backman v. Polaroid Corp., 893 F.2d 1405, 1429-30
+(1st Cir. 1990) (“plaintiffs’ arguments on appeal focus on allegedly
+misleading statements” that constituted “misleading conduct,” “the issue
+of affirmative misrepresentations is distinct from the context of insider
+trading, and presents a situation where . . . the language of Chiarella do[es]
+not apply”).
+27
+
+provision that directly prohibits misleading statements and fraudulent,
+deceptive and manipulative practices in connection with any tender offer
+without the need for Commission rulemaking. See O’Hagan, 521 U.S. at
+671-72.14 Section 14(e) also has a rulemaking provision that gives the
+Commission authority to adopt rules and regulations that “define, and
+prescribe means reasonably designed to prevent, such acts and practices as
+are fraudulent, deceptive, or manipulative.”
+Acting pursuant to the rulemaking authority, the Commission has
+adopted Rule 14e-3, which imposes a disclose or abstain requirement on
+those in possession of certain nonpublic information in connection with a
+tender offer. The details of the Rule are not important here. All that is
+relevant to Dorozhko’s argument is that breach of a fiduciary duty is not an
+element of a violation Rule 14e-3. Instead, all that need be shown under
+Rule 14e-3 is that the defendant had the specified nonpublic information
+and that he traded without disclosing. See O’Hagan, 521 U.S. at 669
+
+14
+
+Section 14(e) and Rule 14e-3 are reproduced in the Addendum to this
+brief.
+28
+
+(upholding Rule 14e-3 as a means reasonably designed to prevent
+fraudulent, deceptive or manipulative acts and practices).
+Dorozhko claims that the Commission adopted Rule 14e-3 because it
+perceived Chiarella as “limiting Rule 10(b)’s scope to situations in which the
+trading party breached a duty of trust,” including, Dorozhko believes,
+situations where there have been affirmative misrepresentations. Br. 34.
+To the contrary, Rule 14e-3 is not at all concerned with cases in which
+someone has engaged in affirmative deception. Rather, the Rule was
+adopted to address situations in which there is a failure to make disclosure.
+Specifically, Rule 14e-3 was adopted as a prophylactic measure because
+trading without disclosure in breach of a fiduciary duty is particularly
+likely in the context of a tender offer, and also unusually difficult to prove
+given that there are often a fairly wide circle of people with confidential
+information. See O’Hagan, 521 U.S. at 674-676; United States v. Chestman, 947
+
+29
+
+
+F.2d 551, 559(2d Cir. 1991) (en banc), cert. denied, 503 U.S. 1004 (1992).15
+These concerns are not implicated when a defendant engages in
+affirmative deceptive conduct, and adoption of Rule 14e-3 sheds no light
+on the law applicable to misstatements. Thus, the Commission explained
+in the Adopting Release for Rule 14e-3 that “[t]he Court’s analysis in
+Chiarella does not alter existing standards of liability under Section 10(b)
+and Rule 10b-5 in cases where the defendant has made affirmative
+statements in connection with the purchase or sale of a security.” Tender
+Offers, Exchange Act Rel. 33-6239 & 34-17120, 45 Fed. Reg. 60410, at n.9
+(1980). Both before and after Chiarella, affirmative deception in connection
+with a tender offer is covered by the self-operative portion of Section 14(e),
+while an affirmative misrepresentation in connection with the purchase or
+sale of securities (including purchases and sales involving tender offers) is
+prohibited by Section 10(b) and Rule 10b-5, with no requirement for a
+15
+
+Even the academic source that Dorozhko quotes to advance his
+Rule 14e-3 argument (Opp. at 34-35) does not agree that a breach of
+fiduciary duty is a necessary condition under Rule 10b-5, but instead notes
+that Rule 10b-5 had “its genesis in the common law tort of deceit,” and a
+person “committed the tort of deceit under common law if they
+affirmatively misrepresented material facts.” See Kathleen Coles, The
+Dilemma of the Remote Tippee, 41 Gonz. L. Rev. 181, 187 n.31 (2005-06).
+30
+
+breach of fiduciary duty under either Section. See, e.g., SEC v. Bilzerian, 29
+F.3d 689, 695 (D.C. Cir. 1994) (affirming that a defendant who made
+misrepresentations in his tender offer violated both Section 10(b) and
+Section 14(e) even though his securities laws violations “did not arise from
+a position of authority in a brokerage firm, or from any other position for
+that matter . . . [t]hey resulted from actions he took as an investor”) (original
+emphasis); Billard v. Rockwell Intern. Corp., 683 F.2d 51, 56-57 (2d Cir. 1982)
+(noting that there could be viable claims under both Sections 10(b) and
+14(e) for misrepresenting that experts have advised the offeror that a
+tender offer price is fair).
+
+C ONCLUSION
+For the foregoing reasons, and for the reasons set forth in the
+Commission’s opening brief, if this Court agrees both that a breach of
+fiduciary duty is not always required under Section 10(b) and that hacking
+is deceptive, this Court should direct the district court to grant a
+preliminary injunction and continue the asset freeze. Alternatively, if this
+Court decides not to review the issue of whether hacking is deceptive, but
+
+31
+
+
+agrees that Section 10(b) can be violated absent a breach of fiduciary duty,
+this Court should reverse the district court’s denial of a preliminary
+injunction, remand for the district court to consider the deception issue in
+the first instance, and keep the asset freeze in effect pending the district
+court’s consideration of that issue.
+Respectfully submitted,
+B RIAN G. C ARTWRIGHT
+General Counsel
+A NDREW N. V OLLMER
+Deputy General Counsel
+JACOB H. S TILLMAN
+Solicitor
+______________________
+M ARK P ENNINGTON
+Assistant General Counsel
+D AVID L ISITZA
+Attorney
+Securities and Exchange Commission
+100 F Street, NE
+Washington, DC 20549-8010
+(202) 551-5015 (Lisitza)
+August 2008
+32
+
+
+C ERTIFICATE OF C OMPLIANCE
+
+Pursuant to Fed. R. App. P. 32(a)(7)(C)
+
+
+I hereby certify that, pursuant to Fed. R. App. P. 32(a)(7)(C), the
+attached brief is proportionately spaced, has a typeface of 14 points or
+more, and contains 6,507 words.
+
+Dated: August 4, 2008
+____________________________
+
+David Lisitza
+Securities and Exchange Commission
+100 F St., N.E.
+Washington, D.C. 20549-8010
+(202) 551-5015
+
+33
+
+
+C ERTIFICATE OF S ERVICE
+I hereby certify that, on this day, I caused the original and 10 copies
+of the foregoing brief to be sent by overnight delivery (as well as one
+electronic copy) to
+Catherine O’Hagan Wolfe
+Clerk of Court
+U.S. Court of Appeals for the Second Circuit
+
+The Daniel Patrick Moynihan Courthouse
+
+500 Pearl Street
+
+New York, NY 10007
+
+and two copies of the foregoing brief (and one electronic copy) to be sent
+by overnight delivery
+Charles A. Ross, Esq.
+Christopher L. Padurano, Esq.
+Charles A. Ross & Associates
+111 Broadway
+Suite 1401
+New York, NY 10006
+cross@carossassoc.com; cpadurano@carossassoc.com
+Dated: August 4, 2008
+__________________________
+David Lisitza
+
+34
+
+
+ADDENDUM
+
+
+T ABLE OF C ONTENTS FOR THE A DDENDUM
+Page
+
+S ECTION 14(e), 15 U.S.C. 78n(e)
+
+A-1
+
+R ULE 14e-3, 17 C.F.R. 240.14e-3
+
+A-2
+
+Section 14(e), 15 U.S.C. 78n(e)
+(e) Untrue statement of material fact or omission of fact with respect to
+tender offer
+It shall be unlawful for any person to make any untrue statement of a
+material fact or omit to state any material fact necessary in order to make
+the statements made, in the light of the circumstances under which they are
+made, not misleading, or to engage in any fraudulent, deceptive, or
+manipulative acts or practices, in connection with any tender offer or
+request or invitation for tenders, or any solicitation of security holders in
+opposition to or in favor of any such offer, request, or invitation. The
+Commission shall, for the purposes of this subsection, by rules and
+regulations define, and prescribe means reasonably designed to prevent,
+such acts and practices as are fraudulent, deceptive, or manipulative.
+
+A-1
+
+
+Rule 14e-3, 17 C.F.R. 240.14e-3
+Transactions in securities on the basis of material, nonpublic information in
+the context of tender offers.
+(a) If any person has taken a substantial step or steps to commence, or has
+commenced, a tender offer (the “offering person”), it shall constitute a
+fraudulent, deceptive or manipulative act or practice within the meaning of
+section 14(e) of the Act for any other person who is in possession of
+material information relating to such tender offer which information he
+knows or has reason to know is nonpublic and which he knows or has
+reason to know has been acquired directly or indirectly from:
+(1) The offering person,
+(2) The issuer of the securities sought or to be sought by such tender
+offer, or
+(3) Any officer, director, partner or employee or any other person acting
+on behalf of the offering person or such issuer, to purchase or sell or
+cause to be purchased or sold any of such securities or any securities
+convertible into or exchangeable for any such securities or any option or
+right to obtain or to dispose of any of the foregoing securities, unless
+within a reasonable time prior to any purchase or sale such information
+and its source are publicly disclosed by press release or otherwise.
+
+A-2
+
+
+(b) A person other than a natural person shall not violate paragraph (a) of
+this section if such person shows that:
+(1) The individual(s) making the investment decision on behalf of such
+person to purchase or sell any security described in paragraph (a) of this
+section or to cause any such security to be purchased or sold by or on
+behalf of others did not know the material, nonpublic information; and
+(2) Such person had implemented one or a combination of policies and
+procedures, reasonable under the circumstances, taking into
+consideration the nature of the person’s business, to ensure that
+individual(s) making investment decision(s) would not violate
+paragraph (a) of this section, which policies and procedures may
+include, but are not limited to, (i) those which restrict any purchase, sale
+and causing any purchase and sale of any such security or (ii) those
+which prevent such individual(s) from knowing such information.
+(c) Notwithstanding anything in paragraph (a) of this section to contrary,
+the following transactions shall not be violations of paragraph (a) of this
+section:
+(1) Purchase(s) of any security described in paragraph (a) of this section
+by a broker or by another agent on behalf of an offering person; or
+(2) Sale(s) by any person of any security described in paragraph (a) of
+this section to the offering person.
+
+A-3
+
+
+(d)
+(1) As a means reasonably designed to prevent fraudulent, deceptive or
+manipulative acts or practices within the meaning of section 14(e) of the
+Act, it shall be unlawful for any person described in paragraph (d)(2) of
+this section to communicate material, nonpublic information relating to
+a tender offer to any other person under circumstances in which it is
+reasonably foreseeable that such communication is likely to result in a
+violation of this section except that this paragraph shall not apply to a
+communication made in good faith,
+(i) To the officers, directors, partners or employees of the offering
+person, to its advisors or to other persons, involved in the planning,
+financing, preparation or execution of such tender offer;
+(ii) To the issuer whose securities are sought or to be sought by such
+tender offer, to its officers, directors, partners, employees or advisors
+or to other persons, involved in the planning, financing, preparation
+or execution of the activities of the issuer with respect to such tender
+offer; or
+(iii) To any person pursuant to a requirement of any statute or rule or
+regulation promulgated thereunder.
+(2) The persons referred to in paragraph (d)(1) of this section are:
+(i) The offering person or its officers, directors, partners, employees
+or advisors;
+
+A-4
+
+
+(ii) The issuer of the securities sought or to be sought by such tender
+offer or its officers, directors, partners, employees or advisors;
+(iii) Anyone acting on behalf of the persons in paragraph (d)(2)(i) of
+this section or the issuer or persons in paragraph (d)(2)(ii) of this
+section; and
+(iv) Any person in possession of material information relating to a
+tender offer which information he knows or has reason to know is
+nonpublic and which he knows or has reason to know has been
+acquired directly or indirectly from any of the above.
+
+A-5
+
+
+

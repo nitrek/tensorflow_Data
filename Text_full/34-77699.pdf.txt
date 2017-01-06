@@ -1,0 +1,1240 @@
+SECURITIES AND EXCHANGE COMMISSION
+(Release No. 34-77699; File No. SBSDR-2016-01)
+April 22, 2016
+Security-Based Swap Data Repositories; ICE Trade Vault, LLC; Notice of Filing of Application
+for Registration as a Security-Based Swap Data Repository
+I.
+
+Introduction
+On March 29, 2016, and as amended on April 18, 2016, ICE Trade Vault, LLC (“ICE
+
+Trade Vault”) filed with the Securities and Exchange Commission (“Commission”) a Form SDR
+seeking registration as a security-based swap data repository (“SDR”) under Section 13(n) of the
+Securities Exchange Act of 1934 (“Exchange Act”) 1 and the Commission’s rules promulgated
+thereunder. 2 ICE Trade Vault proposes to operate as a registered SDR for security-based swap
+(“SBS”) transactions in the credit derivatives asset class. The Commission is publishing this
+notice to solicit comments from interested persons regarding ICE Trade Vault’s Form SDR, 3 and
+
+1
+
+15 U.S.C. 78m(n)(3).
+
+2
+
+17 CFR 240.13n-1 through 240.13n-12.
+
+3
+
+ICE Trade Vault filed its Form SDR, including the exhibits thereto, electronically with
+the Commission. The descriptions set forth in this notice regarding the structure and operations
+of ICE Trade Vault have been derived, excerpted, and/or summarized from information in ICE
+Trade Vault’s Form SDR application, and principally from ICE Trade Vault’s Guidebook
+(Exhibit GG.2), which outlines the applicant’s policies and procedures designed to address its
+statutory and regulatory obligations as an SDR registered with the Commission. ICE Trade
+Vault’s Form SDR application and non-confidential exhibits thereto are available in EDGAR at
+http://www.sec.gov/cgi-bin/browseedgar?CIK=0001658496&owner=exclude&action=getcompany&Find=Search. In addition, the
+public may access copies of these materials on the Commission’s website at:
+http://www.sec.gov/rules/other/2016/ice-trade-vault-form-sdr.htm.
+
+1
+
+the Commission will consider any comments it receives in making its determination whether to
+grant ICE Trade Vault registration as an SDR. 4
+II.
+
+Background
+A.
+
+SDR Registration, Duties and Core Principles, and Regulation SBSR
+
+Section 763(i) of the Dodd-Frank Act added Section 13(n) to the Exchange Act,
+which requires an SDR to register with the Commission and provides that, to be registered and
+maintain registration as an SDR, an SDR must comply with certain requirements and “core
+principles” described in Section 13(n) and any requirement that the Commission may impose by
+rule or regulation. 5
+The Commission adopted Exchange Act Rules 13n-1 through 13n-12 (“SDR rules”),
+which require an SDR to register with the Commission and comply with certain “duties and core
+principles.” 6 Among other requirements, the SDR rules require an SDR to collect and maintain
+accurate SBS data and make such data available to the Commission and other authorities so that
+relevant authorities will be better able to monitor the buildup and concentration of risk exposure
+in the SBS market. 7
+
+4
+
+ICE Trade Vault’s Form SDR application also constitutes an application for registration
+as a securities information processor (“SIP”). See Exchange Act Release No. 74246 (Feb. 11,
+2015), 80 FR 14438, 14458 (Mar. 19, 2015) (“SDR Adopting Release”).
+5
+
+15 U.S.C. 78m(n).
+
+6
+
+See SDR Adopting Release, 80 FR at 14438.
+
+7
+
+See SDR Adopting Release, 80 FR at 14450.
+
+2
+
+Concurrent with the Commission’s adoption of the SDR rules, the Commission adopted
+Regulation SBSR, 8 which, among other things, provides for the reporting of SBS information to
+registered SDRs, and the public dissemination of SBS transaction, volume, and pricing
+information by registered SDRs. In addition, Regulation SBSR requires each registered SDR to
+register with the Commission as a securities information processor. 9
+B.
+
+Standard for Granting SDR Registration
+
+To be registered with the Commission as an SDR and maintain such registration, an SDR
+is required (absent an exemption) to comply with the requirements and core principles described
+in Exchange Act Section 13(n), as well as with any requirements that the Commission adopts by
+rule or regulation. 10 Exchange Act Rule 13n-1(c)(3) provides that the Commission shall grant
+the registration of an SDR if it finds that the SDR is so organized, and has the capacity, to be
+able to (i) assure the prompt, accurate, and reliable performance of its functions as an SDR; (ii)
+comply with any applicable provisions of the securities laws and the rules and regulations
+thereunder; and (iii) carry out its functions in a manner consistent with the purposes of Section
+13(n) of the Exchange Act and the rules and regulations thereunder. 11 The Commission must
+deny registration of an SDR if it does not make such a finding. 12
+
+8
+
+See Exchange Act Release No. 74244 (Feb. 11, 2015), 80 FR 14563 (Mar. 19, 2015)
+(“Regulation SBSR Adopting Release”).
+9
+
+See Regulation SBSR Adopting Release, 80 FR at 14567.
+
+10
+
+See Exchange Act Section 13(n)(3), 15 U.S.C. 78m(n)(3).
+
+11
+
+See 17 CFR 240.13n-1(c)(3).
+
+12
+
+See id.
+
+3
+
+In determining whether an applicant meets the criteria set forth in Rule 13n-1(c), the
+Commission will consider the information reflected by the applicant on its Form SDR, as well as
+any additional information obtained from the applicant. For example, Form SDR requires an
+applicant to provide, among other things, contact information, a list of the asset class(es) for
+which the applicant is collecting and maintaining data or for which it proposes to collect and
+maintain data, a description of the functions that it performs or proposes to perform, and general
+information regarding its business organization. 13 This, and other information reflected on the
+Form SDR, will assist the Commission in understanding the basis for registration as well as the
+SDR applicant’s overall business structure, financial condition, track record in providing access
+to its services and data, technological reliability, and policies and procedures to comply with its
+statutory and regulatory obligations. 14 Furthermore, the information requested in Form SDR will
+enable the Commission to assess whether the SDR applicant would be able to comply with the
+federal securities laws and the rules and regulations thereunder, and ultimately whether to grant
+or deny an application for registration. 15
+III.
+
+ICE Trade Vault Application for Registration
+ICE Trade Vault currently operates as a trade repository under the regulatory framework
+
+of other authorities. Specifically, ICE Trade Vault is a swap data repository regulated and
+provisionally registered by the Commodity Futures Trading Commission (“CFTC”). 16 In that
+
+13
+
+See SDR Adopting Release, 80 FR at 14458.
+
+14
+
+See id.
+
+15
+
+See SDR Adopting Release, 80 FR at 14458-59.
+
+16
+
+See Order of Provisional Registration, In the Matter of the Request of ICE Trade Vault,
+LLC for Provisional Registration as a Swap Data Repository Pursuant to Section 21 of the
+Commodity Exchange Act and Part 49 of the Commodity Futures Trading Commission’s
+4
+
+capacity, ICE Trade Vault has been accepting derivatives data for the commodity and credit asset
+classes in the United States since October 2012. Additionally, in 2014, ICE Trade Vault was
+approved by the Ontario Securities Commission,17 the Autorité des marchés financiers, 18 and the
+Manitoba Securities Commission19 as a Canadian Trade Repository to serve the commodity,
+credit, and foreign exchange asset classes.
+A.
+
+Corporate Structure and Governance Arrangements
+
+ICE Trade Vault is a Delaware limited liability company, and is a wholly owned
+subsidiary of Intercontinental Exchange Holdings, Inc., which, in turn, is a wholly owned
+subsidiary of Intercontinental Exchange, Inc. (“ICE”), a publicly traded company. 20 ICE Trade
+Vault is managed by a Board of Directors responsible for overseeing its operations. 21 The Board
+of Directors has the ability to: (i) designate and authorize specific appointed officers to act on
+
+Regulations (June 27, 2012), available at
+http://www.cftc.gov/stellent/groups/public/@otherif/documents/ifdocs/icetradevaultregistration.p
+df.
+17
+
+See Ontario Securities Commission, Order (Section 21.2.2 of the Securities Act), in the
+Matter of the Securities Act, R.S.O. 1990, Chapter S.5, as amended, and in the Matter of ICE
+Trade Vault, LLC (Sept. 19, 2014), available at
+http://www.osc.gov.on.ca/documents/en/Securities/ord_20140923_215-ice-trade-vault-llc.pdf.
+18
+
+See Autorité des marchés financiers, Decision 2014-PDG-0111, Bulletin 2014-09-25,
+Vol. 11, n°38 (Sept. 23, 2014), available at http://www.lautorite.qc.ca/files/pdf/bourses-oarchambres/referentiels-centraux/2014_pdg_0111_ice_tv.pdf.
+19
+
+See Manitoba Securities Commission, Order No. 7014 (Oct. 23, 2014), available at
+http://docs.mbsecurities.ca/msc/oe/en/item/105126/index.do.
+20
+
+See Exhibit V.2 (Disclosure Document). ICE is a global operator of exchanges, clearing
+houses, and data services for financial and commodity markets. ICE operates global
+marketplaces for trading and clearing a broad array of securities and derivatives contracts across
+major asset classes, including energy and agricultural commodities, interest rates, equities, equity
+derivatives, credit derivatives, bonds, and currencies.
+21
+
+See id.
+
+5
+
+behalf of the Board of Directors; (ii) fix, determine and levy all fees, when necessary; (iii)
+prepare and amend ICE Trade Vault’s Guidebook 22; (iv) act in emergencies; and (v) delegate any
+such power to the appropriate party. 23 The Board of Directors would oversee ICE Trade Vault’s
+SDR functions as it currently oversees the other regulated services that ICE Trade Vault
+provides. 24
+According to ICE Trade Vault, the Board of Directors is required to have at least three
+Directors, all appointed by ICE. 25 ICE Trade Vault represents that ICE considers several factors
+in determining the composition of the Board of Directors, including whether directors, both
+individually and collectively, possess the required integrity, experience, judgment, commitment,
+skills and expertise to exercise their obligations of oversight and guidance over an SDR. 26
+Additionally, ICE Trade Vault represents that its participants are afforded the opportunity
+to participate in the process for nominating the ICE Trade Vault Independent Director and with
+the right to petition for alternative candidates. 27 According to ICE Trade Vault, at least one
+Director will at all times be “independent” in accordance with applicable provision(s) of the New
+
+22
+
+See Exhibit GG.2 (Guidebook).
+
+23
+
+See id.
+
+24
+
+See id.
+
+25
+
+See id.
+
+26
+
+See id.
+
+27
+
+See id.
+
+6
+
+York Stock Exchange Listed Company Manual. 28 ICE Trade Vault represents that two officers
+of ICE Trade Vault’s parent, ICE, currently serve as the Non-Independent Directors. 29
+ICE Trade Vault’s Chief Compliance Officer (“CCO”) is appointed by the Board of
+Directors and reports directly to the President of ICE Trade Vault. 30 The Board of Directors
+approves the compensation of the CCO and meets with the CCO at least annually. 31 According
+to ICE Trade Vault, the CCO also works directly with the Board of Directors in certain instances,
+for example, when resolving conflicts of interest. 32 ICE Trade Vault represents that the CCO’s
+responsibilities include, but are not limited to: (i) preparing and signing a compliance report
+with a financial report to be provided to the Commission annually; (ii) reviewing the compliance
+of ICE Trace Vault with respect to regulatory requirements and core principles; and (iii)
+establishing and administering written policies and procedures reasonably designed to prevent
+violations of the Exchange Act. 33
+ICE Trade Vault directors, officers and employees must comply with the ICE Global
+Code of Business Conduct, which describes policies for, among other things, handling conflicts
+of interest, prohibiting insider trading, complying with the law and document management and
+retention requirements. 34 In addition, ICE Trade Vault prohibits any member of its Board or of
+
+28
+
+See id.
+
+29
+
+See id.
+
+30
+
+See Exhibit V.2
+
+31
+
+See id.
+
+32
+
+See id.
+
+33
+
+See id.
+
+34
+
+See Exhibit D.4 (Global Code of Business Conduct).
+
+7
+
+any Board committee (that the Board may create from time to time as it deems necessary) 35 that
+has authority to take action for ICE Trade Vault from knowingly participating in deliberations or
+voting in any matter involving a named party in interest where such member: (i) is a named
+party in interest; (ii) is an employer, employee, or guarantor of a named party in interest; (iii) has
+a family relationship with a named party in interest; or (iv) has any other significant ongoing
+relationship with a named party in interest or an affiliate of such party. 36 Furthermore, the CCO
+of ICE Trade Vault shall determine whether any member of a deliberating body is subject to a
+prohibition under its conflicts of interest policies. 37
+B.
+
+Description of ICE Trade Vault’s SDR Service
+
+ICE Trade Vault has applied to become a registered SDR with the Commission to accept
+data in respect of all SBS trades in the credit derivatives asset class. 38
+ICE Trade Vault states that it intends to provide an SDR service that facilitates the
+collection, storage and regulatory reporting of a comprehensive range of trade data in respect of
+credit derivatives trades. 39 ICE Trade Vault also states that it intends to offer certain ancillary
+services (i.e., services offered by ICE Trade Vault that are not core SDR functions), which
+include: (i) confirmation of the accuracy of the data submitted to ICE Trade Vault; and (ii)
+resolution of trade record errors and disputes. 40
+
+35
+
+See Exhibit D.3 (Governance Principles).
+
+36
+
+See Exhibit GG.2.
+
+37
+
+See id.
+
+38
+
+See ICE Trade Vault Form SDR, Item 6; see also Exhibits V.2 and GG.2.
+
+39
+
+See Exhibit V.2.
+
+40
+
+See id.
+
+8
+
+C.
+
+Access
+
+ICE Trade Vault represents that it would provide access to its SDR service on a fair, open
+and not unreasonably discriminatory basis. 41 According to ICE Trade Vault, access to and usage
+of its SDR service is available to all market participants that engage in SBS transactions, and do
+not require the use of any other ancillary service offered by ICE Trade Vault, except for any
+ancillary service(s) that ICE Trade Vault is required to provide. 42 ICE Trade Vault represents
+that for security reasons, access to the ICE Trade Vault system is strictly limited to market
+participants with valid permissions and security access who have executed a Participant
+Agreement with ICE Trade Vault and have completed and delivered to ICE Trade Vault the
+applicable ICE Trade Vault Enrollment Form (such market participants, “Participants”). 43
+According to ICE Trade Vault, Participants will only have access to their own data and data that
+ICE Trade Vault is required to make publically available. 44 ICE Trade Vault notes that
+passwords must meet technical and procedural processes for information security, must be from
+41
+
+See Exhibits V.2 and GG.2.
+
+42
+
+See id.; see also SDR Adopting Release, 80 FR at 14451-52 (Commission noting that
+confirmation and dispute resolution services or functions “are ancillary. . . . [and are] not ‘core’
+SDR services, which would cause a person providing such core services to meet the definition of
+an SDR, and thus, require the person to register with the Commission as an SDR. However,
+SDRs are required to perform these two services or functions, and thus, they are required
+ancillary services[.] . . . An SDR may delegate some of these required ancillary services to third
+party service providers, who do not need to register as SDRs to provide such services. The SDR
+will remain legally responsible for the third party service providers’ activities relating to the
+required ancillary services and their compliance with applicable rules under the Exchange Act.”).
+43
+
+See Exhibit V.2 (stating also that these documents are available upon request, and when
+enrolling with ICE Trade Vault, Participants must designate a master user (“Administrator”),
+who will, among other things, create and maintain all user IDs for its firm, which will ensure ICE
+Trade Vault access is granted by a trusted individual at the Participant’s firm who is closest to
+and has the most knowledge of those in the firm who require access).
+44
+
+See id.
+
+9
+
+eight to fourteen characters in length, utilize three different character types, and must be reset at
+least annually. 45
+ICE Trade Vault represents that determinations to revoke access to its system, its SDR
+service or data maintained by ICE Trade Vault shall be made by the CCO. 46 According to ICE
+Trade Vault, unless circumstances require immediate action, prior to implementing a limitation
+or revocation of access to its system, its SDR service or SDR information, ICE Trade Vault’s
+President and General Counsel shall review the basis for the limitation or revocation, with the
+CCO providing notice to the Participant of such limitation or revocation. 47 ICE Trade Vault
+represents that if the President and General Counsel determine that revocation of access is the
+result of unreasonable discrimination, the President and General Counsel will take such actions
+as are necessary to restore access to such service or data. 48
+D.
+
+Use of Data
+
+ICE Trade Vault represents that access to information it maintains as an SDR would be
+limited to those with the direct responsibility for supporting the ICE Trade Vault system, its SDR
+45
+
+See id.
+
+46
+
+See id.
+
+47
+
+See Exhibit GG.2.
+
+48
+
+See id. Because persons applying to be SDRs are also applying to be SIPs with the
+Commission, the procedures for notifying the Commission of any prohibitions or limitations of
+access to services as provided in Section 11A(b)(5)(A) would apply. See SDR Adopting
+Release, 80 FR at 14482 (“Rule 909 of Regulation SBSR, which the Commission is concurrently
+adopting in a separate release, requires each registered SDR to register as a SIP, and, as such,
+Exchange Act Section 11A(b)(5) governs denials of access to services by an SDR. This section
+provides that ‘[i]f any registered securities information processor prohibits or limits any person
+in respect of access to services offered, directly or indirectly, by such securities information
+processor, the registered securities information processor shall promptly file notice thereof with
+the Commission.’ Accordingly, an SDR must promptly notify the Commission if it prohibits or
+limits access to any of its services to any person.”).
+
+10
+
+service, Participants and regulators. 49 ICE Trade Vault would prohibit its employees and others
+performing similar functions on behalf of ICE Trade Vault from using information it maintains
+as an SDR other than in the performance of their job responsibilities. 50
+E.
+
+Asset Class Accepted; Submission Requirements; Validation
+
+ICE Trade Vault has represented that it would accept data in respect of all SBS trades in
+the credit derivatives asset class. 51 ICE Trade Vault has represented that Participants would be
+required to submit trade information in the data format required by ICE Trade Vault. 52 The ICE
+Trade Vault system would accept tab delimited file uploads via web access and Applicable
+Programming Interface submissions in FpML format. 53
+Exhibit N.5 to ICE Trade Vault’s application enumerates the required fields and
+acceptable values for the submission of trade information into the ICE Trade Vault system.
+According to ICE Trade Vault, the ICE Trade Vault system would perform certain validations to
+ensure that a submitted trade report adheres to the enumerated fields and values contained in
+Exhibit N.5. 54 Under ICE Trade Vault’s policies and procedures, upon receipt of trade
+information for an SBS, the ICE Trade Vault system would validate that:
+a. The submission file is in a valid format for receipt and processing;
+
+49
+
+See Exhibits V.2 and GG.2.
+
+50
+
+See id.
+
+51
+
+See id.
+
+52
+
+See Exhibit GG.2.
+
+53
+
+See id.
+
+54
+
+See id.
+
+11
+
+b. All fields meet the required field format (e.g., number, date, date timestamp, free
+form text, or standard data value);
+c. All required and conditionally required fields are contained in the submission;
+d. All conditionally required fields meet the validation standards; and
+e. All standard data value fields are provided with an acceptable value. 55
+ICE Trade Vault’s policies and procedures provide that, if the submitted trade
+information fails any of the above validations, the ICE Trade Vault system would generate an
+error message and give such information an “invalid” status. 56
+For historical SBS reporting, ICE Trade Vault represents that the ICE Trade Vault system
+would require Participants to indicate a “Y” value for “Flag for Historical Security-Based Swap
+public dissemination exemption.” 57 In addition, the ICE Trade Vault system allows Participants
+to submit “Y” or “N” values for a field “Flag for Historical Security-Based Swap Life Cycle
+Event public dissemination” to update information in the ICE Trade Vault system associated
+with such SBS. 58
+ICE Trade Vault represents that it would support the reporting of highly customized and
+bespoke SBS (“exotic SBS”). 59 ICE Trade Vault would require a Participant that wishes to
+
+55
+
+See id.
+
+56
+
+See id.
+
+57
+
+See id.
+
+58
+
+See id.
+
+59
+
+See id.
+
+12
+
+submit a trade report for exotic SBS to upload a file to the ICE Trade Vault system that contains
+that trade information and the corresponding confirmed terms. 60
+F.
+
+Verification of Transaction Data
+
+To fulfill its obligations under Exchange Act Rule 13n-5(b)(1), ICE Trade Vault’s
+policies and procedures provide that it would require Participants to report complete and accurate
+trade information and to review and resolve all error messages generated by the ICE Trade Vault
+system. 61 If any trade information is found to be incorrect or incomplete, ICE Trade Vault
+would require Participants to correct and resubmit such information to the ICE Trade Vault
+system. 62 For SBS that are not executed on a platform, ICE Trade Vault would require the
+reporting side to provide the method used to confirm the trade information (e.g., electronic
+confirmation service or paper confirmation). ICE Trade Vault would further require Participants
+to warrant and represent that all trade information reported to ICE Trade Vault is complete and
+accurate. 63 If the counterparties to an SBS use a paper confirmation to confirm the trade, ICE
+Trade Vault would require the reporting side to upload to the ICE Vault Trade system a copy of
+the confirmation that was agreed upon by the counterparties. 64
+According to ICE Trade Vault, clearing agencies would access ICE Trade Vault as
+Participants to report SBS that have been accepted for clearing. Platforms (such as an SBS
+execution facility) will access ICE Trade Vault as Participants to report the relevant data with
+60
+
+See id.
+
+61
+
+See id.; see also Exhibit V.2.
+
+62
+
+See Exhibit GG.2.
+
+63
+
+See id.
+
+64
+
+See id.
+
+13
+
+respect to SBS that have been executed on their respective platforms or subject to the rules of
+their markets. 65
+ICE Trade Vault’s policies and procedures provide that Participants would be responsible
+for the timely resolution of trade record errors contained in trade information that has been
+submitted to ICE Trade Vault. 66 ICE Trade Vault would provide Participants with electronic
+methods to extract information maintained by ICE Trade Vault for reconciliation. 67 If the nonreporting side for an SBS transaction discovers an error contained in the trade information
+submitted to ICE Trade Vault on its behalf, ICE Trade Vault requires that counterparty to notify
+promptly the reporting side of such error. 68 ICE Trade Vault represents that if the reporting side
+discovers an error contained in the trade information that it previously submitted to ICE Trade
+Vault or receives notification from a counterparty of an error, the reporting side is required to
+submit promptly to ICE Trade Vault amended trade information that remedies such error. 69 ICE
+Trade Vault would disseminate a corrected transaction report in instances where the initial report
+included erroneous primary trade information. 70
+G.
+
+Disputed Trade Data
+
+Under ICE Trade Vault’s policies and procedures, Participants would be required to
+notify promptly ICE Trade Vault of trade information that is disputed by the counterparties to the
+
+65
+
+See id.
+
+66
+
+See Exhibits V.2 and GG.2.
+
+67
+
+See id.
+
+68
+
+See id.
+
+69
+
+See id.
+
+70
+
+See id.
+
+14
+
+trade. ICE Trade Vault states that when a Participant “disputes” a trade stored in ICE Trade
+Vault’s system, the status of the trade would remain “Disputed” until the party that disputed the
+trade sends a message to ICE Trade Vault indicating that the dispute has been resolved. 71
+H.
+
+Application and Dissemination of Condition Flags
+
+ICE Trade Vault represents that it would apply submitted flags to trade information that
+is: (i) an error correction required to be disseminated by Rule 905(b)(2) of Regulation SBSR; or
+(ii) a life cycle event, or any adjustment due to a life cycle event, required to be disseminated by
+Rule 902(a) of Regulation SBSR. 72 In addition, ICE Trade Vault’s policies and procedures
+require Participants of ICE Trade Vault to apply certain flags with respect to primary trade
+information (i.e., flags required under Rule 901(c)(1)(v) of Regulation SBSR), 73 and ICE Trade
+Vault would publicly disseminate such flags if the SBS is eligible for public dissemination. ICE
+Trade Vault represents that certain flags address security-based swap characteristics that may
+contribute to creating a distorted market view. 74
+I.
+
+Calculation and Maintenance of Positions
+
+As provided in ICE Trade Vault’s policies and procedures, ICE Trade Vault states that it
+would calculate open positions for persons with open SBS for which ICE Trade Vault maintains
+records. 75 ICE Trade Vault’s policies and procedures relating to its calculation of positions are
+provided in Exhibit GG.2.
+71
+
+See id.
+
+72
+
+See Exhibit GG.2.
+
+73
+
+See 17 CFR 240.901(c)(i)(v).
+
+74
+
+See Exhibit GG.2.
+
+75
+
+See id.
+
+15
+
+J.
+
+Assignment of Unique Identification Codes
+
+ICE Trade Vault’s policies and procedures include the methodology ICE Trade Vault
+would utilize in connection with its assignment of unique identification codes (“UICs”) in
+accordance with Rule 903 of Regulation SBSR. 76 In particular, ICE Trade Vault represents that
+it would assign UICs as follows:
+1. Any SEC endorsed standard will be used, or in its absence;
+2. Any CPMI-IOSCO endorsed standard will be used, or in its absence;
+3. Any industry endorsed standard will be used, or in its absence;
+4. ICE Trade Vault will generate an ID for the applicable UIC. 77
+K.
+
+Transaction ID Methodology
+
+ICE Trade Vault represents that it has “endorsed” a transaction ID methodology as
+follows:
+1. If a transaction is executed on a platform, that platform would generate the
+transaction ID.
+2. If a transaction is cleared, the clearing agency would generate the transaction IDs for
+resulting cleared SBS.
+3. If the transaction is executed off-platform and is not cleared, the parties must
+mutually agree which side of the trade will generate the transaction ID. When the
+transaction ID generator is the reporting side, that party may request that ICE Trade
+Vault generate the transaction ID on its behalf.
+
+76
+
+See id.
+
+77
+
+See id.
+
+16
+
+4. For historical SBS that have been reported in another jurisdiction, the transaction ID
+assigned in that jurisdiction will be used for reporting.
+5. For historical SBS that have not been reported in another jurisdiction, the
+methodology described in items 1-3 above will apply.
+6. A multi-jurisdictional transaction should never have multiple transaction IDs. 78
+L.
+
+Ultimate Parent and Affiliate Information
+
+ICE Trade Vault’s policies and procedures provide that Participants, except for those that
+are platforms or clearing agencies, would be required to provide ICE Trade Vault information
+(e.g., parent IDs and counterparty IDs) to identify their ultimate parent(s) and affiliates. 79 In
+addition, ICE Trade Vault requires that Participants promptly notify ICE Trade Vault of any
+changes to such information. 80
+M.
+
+Branch and Trading Desk ID
+
+Under ICE Trade Vault’s policies and procedures, in order to receive a branch ID or
+trading desk ID from ICE Trade Vault, Participants must submit the branch and desk information
+to ICE Trade Vault before reporting an SBS. 81 More information concerning branch ID and
+trading desk ID is contained in Exhibit GG.2.
+
+78
+
+See id.
+
+79
+
+See id.
+
+80
+
+See id.; see also Exhibit U.5 (ICE Trade Vault Ultimate Parent & Affiliate Information
+Notification).
+81
+
+See Exhibit GG.2.
+
+17
+
+N.
+
+Product ID
+
+ICE Trade Vault states that it would issue product IDs and maintain reference data
+representation for SBS that will include schema definitions and will be made publicly available
+on a non-fee basis on ICE Trade Vault’s internet website (www.icetradevault.com). 82 According
+to ICE Trade Vault, if the industry creates and adopts a product ID taxonomy and registry, ICE
+Trade Vault would comply with the published standard at such time. 83 ICE Trade Vault has
+represented that it would create product IDs based on an industry accepted UPI taxonomy or,
+where not available, its own product taxonomy. 84
+ICE Trade Vault would require its Participants to notify ICE Trade Vault of any new SBS
+products they intend to report to ICE Trade Vault by submitting the relevant product information
+to: ICETradeVaultSupport@theice.com. 85 A complete list of available product information
+would be made available via a link on ICE Trade Vault’s internet website. 86
+O.
+
+Missing UIC Information
+
+ICE Trade Vault’s policies and procedures provide that the reporting side to an SBS may
+report the non-reporting side’s UIC information (other than counterparty ID) but is not required
+to do so. 87 ICE Trade Vault’s policies and procedures provide that, if the non-reporting side is
+not a Participant, the non-reporting side “should contact ICE Trade Vault” via electronic mail to
+82
+
+See id.
+
+83
+
+See id.
+
+84
+
+See id.
+
+85
+
+See id.
+
+86
+
+See id.
+
+87
+
+See id.; see also Exhibit GG.2 (Guidebook, section 6.2 requirements relating to
+counterparty IDs, execution agent IDs and broker IDs).
+
+18
+
+register for access to ICE Trade Vault and its trade information. ICE Trade Vault represents that
+it would identify in its records any SBS reported to it for which it does not have required UIC
+information. 88
+According to ICE Trade Vault, once a day, ICE Trade Vault would send a report to each
+Participant that is a counterparty to an SBS(s) that lacks required UIC information. 89 ICE Trade
+Vault represents in its policies and procedures that a Participant that receives a report must
+provide the missing information with respect to its side of each SBS referenced in the report to
+ICE Trade Vault within 24 hours. 90
+P.
+
+Public Dissemination
+
+ICE Trade Vault represents that it would publicly disseminate information required for
+public dissemination pursuant to Regulation SBSR, including SBS transaction reports, which
+contain all of the primary transaction information, and information regarding life cycle events or
+adjustments due to a life cycle event. 91 In addition, ICE Trade Vault would provide the public,
+Participants and regulators with the ability to download historical data. 92
+Q.
+
+Safeguarding Data, Operational Reliability, and Emergency Authority
+
+ICE Trade Vault represents that it has implemented systems and procedures to allow for
+timely resumption of key business processes and operations following unplanned interruptions,
+unavailability of staff, inaccessibility of facilities, and disruption or disastrous loss to one or
+88
+
+See id.
+
+89
+
+See id.
+
+90
+
+See id.
+
+91
+
+See id.
+
+92
+
+See id.
+
+19
+
+more of ICE Trade Vault’s facilities or services. 93 ICE Trade Vault represents that its SDR
+service data is saved to a redundant, local database and a remote disaster recovery database in
+near real-time and that its SDR service database is backed up to tape daily with tapes moved
+offsite weekly. 94 ICE Trade Vault also states that Participants’ individual trade data records
+remain available to Participants and regulators at no charge for online access through its SDR
+service from the date of submission until five years after expiration of the trade (last day of
+delivery or settlement as defined for each product). 95 According to ICE Trade Vault, after the
+initial five-year period, Participants’ trade data will be stored off-line and remain available to
+Participants and regulators, upon a three-day advance request to ICE Trade Vault, until ten years
+from the termination date. 96 ICE Trade Vault also states that Participants will retain unimpaired
+access to its online and archived trade data. 97
+ICE Trade Vault represents that it maintains and will continue to maintain a robust
+emergency and business-continuity and disaster recovery plan (“Business Continuity Plan”) that
+allows for timely resumption of key business processes and operations following unplanned
+interruptions, unavailability of staff, inaccessibility of facilities, and disruption or disastrous loss
+to one or more of ICE Trade Vault's facilities or services. 98 ICE Trade Vault represents that its
+Business Continuity Plan requires that all production system hardware and software is replicated
+
+93
+
+See id.
+
+94
+
+See Exhibits V.2 and GG.2.
+
+95
+
+See id.
+
+96
+
+See Exhibit V.2.
+
+97
+
+See Exhibits V.2 and GG.2.
+
+98
+
+See id.
+
+20
+
+in near real-time at a geographical- and vendor-diverse disaster recovery site to avoid any loss of
+data. 99
+ICE Trade Vault represents that it is authorized to determine, in its sole discretion,
+whether an emergency exists with respect to, or otherwise threatens, its system or its SDR
+service (an “Emergency”) and whether emergency action is warranted to mitigate such
+circumstances, but that it may also exercise emergency authority if ordered to do so by the
+Commission or other regulatory agency of competent jurisdiction. 100 Circumstances requiring
+the invocation of emergency authority pursuant to ICE Trade Vault’s policies and procedures
+include: (i) any occurrence or circumstance that ICE Trade Vault determines to constitute an
+Emergency; (ii) any “Physical Emergency” (such as a fire or other casualty, bomb threats,
+terrorist acts, substantial inclement weather, power failures, communications breakdowns,
+computer system breakdowns, or transportation breakdowns); (iii) any occurrence or
+circumstance that threatens or may threaten the proper functionality of ICE Trade Vault’s system
+or its SDR service; (iv) any occurrence or circumstance that may materially affect the
+performance of its system or its SDR service; (v) any action taken by any governmental body or
+any regulator that may have a direct impact on its system or its SDR service; and (vi) any other
+circumstance that may impact ICE Trade Vault, its system or its SDR service in a materially
+adverse manner. 101
+Under ICE Trade Vault’s policies and procedures, if the President of ICE Trade Vault, or
+any individual designated by the President or the Board of Directors, determines that an
+99
+
+See id.
+
+100
+
+See Exhibit GG.2.
+
+101
+
+See id.
+
+21
+
+Emergency is likely to arise or has arisen, the President or such designee, as the case may be,
+may, consistent with ICE Trade Vault’s conflict of interest policies, declare an Emergency with
+respect to its system, its SDR service or the facilities of ICE Trade Vault and take or place into
+immediate effect a temporary emergency action or protocol. 102 ICE Trade Vault represents that
+any such action or protocol may remain in effect for up to 30 business days, after which time,
+and for each 30-business day period thereafter, it must be reissued by the Board of Directors to
+remain in effect. 103 Under ICE Trade Vault’s policies and procedures, the CCO would be
+consulted in the event any emergency action or protocol may raise potential conflicts of
+interest. 104
+ICE Trade Vault represents that any such action or protocol may provide for, or may
+authorize ICE Trade Vault, the Board of Directors or any committee thereof to undertake,
+actions deemed necessary or appropriate by the President or its designee to respond to the
+Emergency, including, but not limited to, the following: modifying or suspending any relevant
+provision of the Guidebook; changing the operating hours of its SDR service; temporarily
+limiting or denying access to its system or its SDR service; or requiring re-submission of any
+data lost or otherwise affected due to such Emergency. 105 Any such action placed into effect in
+accordance with the preceding paragraph may be reviewed by the Board of Directors at any time
+and may be revoked, suspended or modified by the Board of Directors. 106 ICE Trade Vault
+102
+
+See id.
+
+103
+
+See id.
+
+104
+
+See id.
+
+105
+
+See id.
+
+106
+
+See id.
+
+22
+
+represents that it will notify the SEC as soon as is reasonably practicable of ICE Trade Vault's
+invocation of its emergency authority, any material business disruption, or any threat that
+actually or potentially jeopardizes automated system capacity, integrity, resiliency, availability or
+security, 107 with the decision-making process with respect to, and the reasons for, any such
+action recorded in writing 108 and with ICE Trade Vault notifying Participants via email as soon
+as practicable of any action taken (time permitting), or proposed to be taken. 109
+R.
+
+Data Confidentiality; Sensitive Information and Security
+
+ICE Trade Vault represents that it “recognizes its responsibility to ensure data
+confidentiality and [that it] dedicates significant resources” to information security to prevent the
+misappropriation or misuse of confidential information, and that it does not, as a condition of
+accepting SBS data from Participants, require the waiver of any privacy rights by such
+Participants. 110 ICE Trade Vault would use a multi-tiered firewall scheme to provide network
+segmentation and access control to its services. 111 A second set of firewalls would further isolate
+ICE Trade Vault’s systems and provide added security to detect any threats. 112 In addition,
+network sensors would analyze all internet and private line traffic for malicious patterns. 113
+
+107
+
+See Exhibits V.2 and GG.2.
+
+108
+
+See Exhibit GG.2.
+
+109
+
+See id.
+
+110
+
+See id.
+
+111
+
+See id.
+
+112
+
+See Exhibits V.2 and GG.2.
+
+113
+
+See id.
+
+23
+
+ICE Trade Vault’s application states that certain controls would be regularly examined
+and tested by multiple tiers of internal and external test groups, auditors and independently
+contracted third-party security testing firms. 114 In addition, ICE Trade Vault has represented that
+it would undertake an audit for adherence to its data security policies on at least an annual
+basis. 115
+IV.
+
+Solicitation of Comments
+Interested persons are invited to submit written data, views, and arguments concerning
+
+ICE Trade Vault’s Form SDR, including whether ICE Trade Vault has satisfied the requirements
+for registration as an SDR. To the extent possible, commenters are requested to provide
+empirical data and other factual support for their views. In addition, the Commission seeks
+comment on the following issues:
+1. Please provide your views as to whether ICE Trade Vault’s application for registration as
+an SDR demonstrates that ICE Trade Vault is so organized, and has the capacity, to be
+able to assure the prompt, accurate, and reliable performance of its functions as an SDR,
+comply with any applicable provisions of the securities laws and the rules and regulations
+thereunder, and carry out its functions in a manner consistent with the purposes of
+Section 13(n) of the Exchange Act and Commission’s SDR rules.
+2. Exchange Act Rule 13n-5(b)(1)(iii) requires every SDR to establish, maintain, and
+enforce written policies and procedures reasonably designed to satisfy itself that the
+transaction data that has been submitted to the SDR is complete and accurate. Please
+provide your views as to whether ICE Trade Vault’s policies and procedures concerning
+114
+
+See id.
+
+115
+
+See id.
+
+24
+
+verification of trade data are sufficiently detailed and reasonably designed to satisfy ICE
+Trade Vault that the transaction data that has been submitted to ICE Trade Vault is
+complete and accurate, as required by Rule 13n-5(b)(1)(iii).
+3. Please provide your views as to whether ICE Trade Vault’s policies and procedures to
+address confirmation of data accuracy and completeness for bespoke, bilateral SBS
+transactions (i.e., requiring the reporting side of the transaction to identify the method
+used to confirm the trade information, either by use of an electronic confirmation service
+or by paper confirmation agreed upon by the counterparties) are appropriate and
+reasonably designed to meet its obligations under the Rule 13n-5(b)(1)(iii). In this
+regard, the Commission is also interested in receiving comments as to whether ICE Trade
+Vault’s definition of “confirmed” as contained in its Guidebook (Exhibit GG.2) is
+appropriate.
+4. Please provide your views as to whether ICE Trade Vault’s policies and procedures
+relating to invalidly entered UICs being subject to an error message and an “invalid”
+status as noted in Exhibit GG.2 are sufficiently detailed to meet the objectives of
+Exchange Act Rule 13n-5(b)(1)(iii).
+5. Please provide your views as to whether ICE Trade Vault’s policies and procedures are
+sufficiently detailed and reasonably designed to ensure that the transaction data and
+positions that it maintains are complete and accurate, as required by Exchange Act Rule
+13n-5(b)(3).
+6. Please provide your views as to whether ICE Trade Vault’s policies and procedures are
+sufficiently detailed and reasonably designed to ensure that it has the ability to protect the
+
+25
+
+privacy of SBS transaction information that it receives, as required by Exchange Act Rule
+13n-9.
+7. Please provide your views as to whether ICE Trade Vault’s policies and procedures are
+sufficiently detailed and reasonably designed to ensure that it has the ability to calculate
+positions, as required by Exchange Act Rule 13n-5(b)(2).
+8. Please provide your views as to whether ICE Trade Vault’s policies and procedures are
+sufficiently detailed and reasonably designed to provide a mechanism for Participants and
+their counterparties to effectively resolve disputes over the accuracy of SBS data that it
+maintains, as required by Exchange Act Rule 13n-5(b)(6). Are ICE Trade Vault’s
+policies and procedures relating to dispute resolution adequate? Why or why not?
+Should the policies and procedures specify timeframes in the dispute resolution process
+to facilitate timely and conclusive resolution of disputes? Why or why not?
+9. Please provide your views as to whether ICE Trade Vault’s policies and procedures are
+sufficiently detailed and reasonably designed to ensure that its systems that support or are
+integrally related to the performance of its activities provides adequate levels of capacity,
+integrity, resiliency, availability and security, as required by Exchange Act Rule 13n-6.
+10. Please provide your views as to whether the disclosures in ICE Trade Vault’s Disclosure
+Document to a Participant prior to accepting any SBS data from that Participant or upon
+the Participant’s request, as required by Exchange Act Rule 13n-10, are adequate.
+Specifically, the Commission is interested in receiving comments as to whether ICE
+Trade Vault’s Disclosure Document contains adequate and sufficiently detailed
+information that would reasonably enable the Participant to identify and evaluate
+accurately the risks and costs associated with using ICE Trade Vault’s services. Such
+
+26
+
+information includes ICE Trade Vault’s criteria for providing others with access to its
+services and data it maintains, its criteria for those seeking to connect to or link with it, its
+description of its policies and procedures regarding its noncommercial and/or commercial
+use of the SBS transaction information that it receives from a Participant, any registered
+entity, or any other person, its description of all the SBS data repository’s services,
+including any ancillary services, and its description of its governance arrangements.
+11. Please provide your views as to whether ICE Trade Vault’s policies and procedures are
+sufficiently detailed and reasonably designed for the CCO’s handling, management
+response, remediation, retesting, and closing of noncompliance issues, as required by
+Exchange Act Rule 13n-11(c)(7).
+12. Please provide your views as to whether ICE Trade Vault’s policies or procedures could
+result in an unreasonable restraint of trade or impose any material anticompetitive burden
+on the trading, clearing, or reporting of transactions.
+13. Please provide your views as to whether ICE Trade Vault’s proposed dues, fees, or other
+charges, discounts or rebates and the process for setting dues, fees, or other charges,
+discounts or rebates are fair and reasonable and not unreasonably discriminatory. Please
+address whether such proposed dues, fees, other charges, discounts, or rebates are applied
+consistently across all similarly situated users of ICE Trade Vault’s services, including,
+but not limited to, Participants, market infrastructures (including central counterparties),
+venues from which data can be submitted to ICE Trade Vault (including exchanges, SBS
+execution facilities, electronic trading venues, and matching and confirmation platforms),
+and third party service providers.
+
+27
+
+14. Exchange Act Rule 13n-4(c)(2)(ii)—(iii) provides that each SDR must establish
+governance arrangements that provide for fair representation of market participants, and
+must provide representatives of market participants, including end-users, with the
+opportunity to participate in the process for nominating directors and with the right to
+petition for alternative candidates. Please provide your views as to whether ICE Trade
+Vault’s governance structure provides fair representation and an opportunity for
+participation by market participants pursuant to Rule 13n-4(c)(2)(ii)—(iii).
+15. Rule 903(a) of Regulation SBSR provides, in relevant part, that if no system has been
+recognized by the Commission, or a recognized system has not assigned a UIC to a
+particular person, unit of a person, or product, the registered SDR shall assign a UIC to
+that person, unit of person, or product using its own methodology. Is the methodology
+that ICE Trade Vault proposes to use to assign UICs as described in its application
+materials appropriate in light of the requirements under Rule 903(a) of Regulation SBSR?
+Why or why not?
+16. Rule 907(c) of Regulation SBSR requires a registered SDR to make its Regulation SBSR
+policies and procedures publicly available on its website. The Commission has stated
+that this public availability requirement will allow all interested parties to understand how
+the registered SDR is utilizing the flexibility it has in operating the transaction reporting
+and dissemination system, and will provide an opportunity for Participants to make
+suggestions to the registered SDR for altering and improving those policies and
+procedures, in light of the new products or circumstances, consistent with the principles
+
+28
+
+set out in Regulation SBSR. 116 ICE Trade Vault has proposed to satisfy its obligation
+under Rule 907(c) of Regulation SBSR by making the policies and procedures contained
+in Exhibit GG.2 and the other application exhibits referenced therein available on its
+public website. Is the information that is included in or referenced in Exhibit GG.2
+appropriate in light of the requirements of Rule 907(c)?
+17. For certain data fields, Exhibit N.5 indicates that the acceptable data format is the
+“standard data value” for the field, but Exhibit N.5 does not provide more specific
+information regarding acceptable data formats for such fields. ICE Trade Vault has
+indicated to Commission staff that it plans to make available to its Participants detailed
+specifications for reporting SBS information, and Participants will be permitted to
+download detailed descriptions of the acceptable data format for each “standard data
+value” from the ICE Trade Vault system. However, ICE Trade Vault stated in its
+discussions with Commission staff that it will make such additional specifications
+available only to Participants who have executed a Participant Agreement. Is it
+anticipated to be problematic for persons seeking to report SBS information to an SDR to
+be required to execute a Participant Agreement as a condition to ICE Trade Vault
+providing access to the additional data format specifications?
+18. Regulation SBSR imposes duties on various market Participants to report SBS
+transaction information to a registered SDR. Please provide your views as to whether the
+ICE Trade Vault application and the associated policies and procedures (including
+technical specifications for submission of data) provide sufficient information to potential
+
+116
+
+See Regulation SBSR Adopting Release, 80 FR at 14648.
+
+29
+
+Participants about how they would discharge these regulatory duties when reporting to
+ICE Trade Vault. In particular, please provide your views as to whether ICE Trade
+Vault’s technical specifications for submission of data are sufficiently detailed, especially
+with regard to historical SBSs and bespoke SBS. Please describe in detail what
+additional information you believe is necessary to allow you to satisfy any reporting
+obligation you may incur under Regulation SBSR.
+19. Rule 906(a) of Regulation SBSR provides, in relevant part, that a Participant of the
+registered SDR must provide the missing information with respect to its side of each SBS
+referenced in the report to the registered SDR within 24 hours. ICE Trade Vault has
+represented that a non-reporting-side participant must be fully onboarded before it may
+submit information that it is required to provide to a registered SDR by Rule 906(a) of
+Regulation SBSR. Please provide your views as to whether this form of access afforded
+to the non-reporting-side is fair, open, and not unreasonably discriminatory.
+20. Please provide your views as to whether ICE Trade Vault’s policies and procedures
+relating to Rule 906(a) are sufficiently detailed, appropriate and reasonably designed to
+ensure data accuracy and completeness.
+21. Please provide your views as to whether ICE Trade Vault has provided sufficient
+information to explain the SBS transaction information that it would publicly disseminate
+to discharge its duties under Rule 902 of Regulation SBSR. Please describe any
+additional information that you feel is necessary. Please offer any suggestions generally
+for how the publicly disseminated information could be made more useful.
+22. Please provide your views as to whether ICE Trade Vault has provided sufficient
+information to explain how Participants would be required to report life cycle events
+
+30
+
+under Rule 901(e). Please describe any additional information that you feel is necessary.
+In particular, please indicate whether you believe ICE Trade Vault’s specifications are
+reasonably designed to identify the specific data element(s) that change and thus that
+trigger the report of the life cycle event.
+23. Please provide your views as to whether ICE Trade Vault has provided sufficient
+information about how an agent could report SBS transaction information to ICE Trade
+Vault on behalf of a principal (i.e., a person who has a duty under Regulation SBSR to
+report). Please describe any additional information that is necessary. In particular, please
+provide your views as to whether ICE Trade Vault should differentiate between agents
+who are Participants of ICE Trade Vault because they themselves at times are principals
+(i.e., they are counterparties to one or more SBSs that are reported to ICE Trade Vault on
+a mandatory basis) and agents who are never principals (e.g., a vendor).
+24. Please provide your views as to whether ICE Trade Vault’s policies and procedures for
+developing condition flags for transactions having special characteristics under Rule
+907(a)(4) of Regulation SBSR are consistent with the goal of preventing market
+participants without knowledge of these characteristics receiving a distorted view of the
+market. Are there additional condition flags that you believe ICE Trade Vault should
+utilize? If so, please describe them and why you believe they are appropriate.
+Comments may be submitted by any of the following methods:
+Electronic comments:
+•
+
+Use the Commission’s Internet comment form
+(http://www.sec.gov/rules/proposed.shtml); or
+
+31
+
+•
+
+Send an e-mail to rule-comments@sec.gov. Please include File Number SBSDR-201601 on the subject line.
+
+Paper comments:
+•
+
+Send paper comments to Brent J. Fields, Secretary, Securities and Exchange
+Commission, 100 F Street, N.E., Washington, DC 20549-1090. All submissions should
+refer to File Number SBSDR-2016-01.
+To help the Commission process and review your comments more efficiently, please use
+
+only one method of submission. The Commission will post all comments on the Commission’s
+Internet website (http://www.sec.gov/rules/other.shtml).
+Copies of the Form SDR, all subsequent amendments, all written statements with respect
+to the Form SDR that are filed with the Commission, and all written communications relating to
+the Form SDR between the Commission and any person, other than those that may be withheld
+from the public in accordance with the provisions of 5 U.S.C. 552, will be available for website
+viewing and printing in the Commission’s Public Reference Section, 100 F Street, NE,
+Washington, DC 20549, on official business days between the hours of 10:00 a.m. and 3:00 p.m.
+All comments received will be posted without change; the Commission does not edit
+personal identifying information from submissions. You should submit only information that you
+wish to make available publicly. All submissions should refer to File Number SBSDR-2016-01
+and should be submitted on or before [INSERT DATE 30 DAYS FROM THE DATE OF
+PUBLICATION IN THE FEDERAL REGISTER].
+By the Commission.
+Brent J. Fields
+Secretary
+
+32
+
+

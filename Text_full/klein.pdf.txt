@@ -1,0 +1,1057 @@
+Nos. 97-1143; 97-1261
+__________________________________________
+UNITED STATES COURT OF APPEALS
+FOR THE THIRD CIRCUIT
+__________________________________________
+ELYSE S. KLEIN, RICHARD KASTNER, DORIS
+KASTNER, and WARREN KASTNER,
+Appellants,
+v.
+WILLIAM BALLANTINE BOYD, III, WILLIAM DISSTON
+COLEMAN, THOMAS H. TARANTINO, LAWRENCE G.
+STEVENS, GREGORY JAMGOCHIAN, DRINKER,
+BIDDLE & REATH, MERCER SECURITIES, INC.,
+and MERCER SERCURITIES, LTD.,
+Appellees.
+___________________________________________
+On Appeal from the United States District Court
+for the Eastern District of Pennsylvania
+____________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE
+___________________________________________
+RICHARD H. WALKER
+General Counsel
+JACOB H. STILLMAN
+Associate General Counsel
+KATHARINE B. GRESHAM
+Assistant General Counsel
+Of Counsel
+PAUL GONSON
+Solicitor
+
+CHRISTOPHER PAIK
+Senior Counsel
+Securities and Exchange Commission
+Washington, D.C. 20549
+
+TABLE OF CONTENTS
+PAGE
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . .
+
+ii
+
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION . . .
+
+1
+
+STATEMENT OF THE CASE
+
+. . . . . . . . . . . . . . . . .
+
+2
+
+1.
+
+The Facts . . . . . . . . . . . . . . . . . . .
+
+4
+
+2.
+
+The District Court's Decision . . . . . . . . .
+
+6
+
+3.
+
+The Panel's Decision
+
+. . . . . . . . . . . . .
+
+7
+
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . .
+
+9
+
+I.
+
+A RULE THAT IMPOSES LIABILITY ONLY WHEN A PERSON IS
+IDENTIFIED TO INVESTORS IS INCONSISTENT WITH
+CENTRAL BANK AND THE LANGUAGE OF SECTION 10(b) . .
+
+9
+
+A PERSON SHOULD BE LIABLE AS A PRIMARY VIOLATOR OF
+THE SECURITIES LAWS WHEN HE OR SHE, ACTING ALONE OR
+WITH OTHERS, CREATES A MISREPRESENTATION . . . . .
+
+15
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . .
+
+18
+
+II.
+
+- 2 -
+
+TABLE OF AUTHORITIES
+CASES
+
+PAGE
+
+Anixter v. Home-Stake Production Co.,
+77 F.3d 1215 (10th Cir. 1996) . . . . . . . . . . . .
+n.4
+
+10
+
+Bateman Eichler, Hill Richards, Inc. v. Berner,
+472 U.S. 299 (1985) . . . . . . . . . . . . . . . . .
+
+2
+
+Blue Chip Stamps v. Manor Drug Stores,
+421 U.S. 723 (1975) . . . . . . . . . . . . . . . . .
+
+2
+
+Central Bank of Denver, N.A. v. First Interstate Bank
+of Denver, N.A., 511 U.S. 164 (1994) . . . . . . . . .
+2,3,9,
+passim
+SEC v. Fehn,
+97 F.3d 1276 (9th Cir. 1996), cert. denied,
+118 S. Ct. 59 (1997) . . . . . . . . . . . . . . . . .
+Shapiro v. Cantor,
+123 F.3d 717 (2d Cir. 1997)
+n.4,
+17
+
+. . . . . . . . . . . . .
+
+Newton v. Dean Witter Reynolds, Inc.,
+135 F.3d 266 (3d Cir. 1998) (en banc)
+
+- ii -
+
+. . . . . . . .
+
+3 n.1
+10
+
+13
+
+STATUTES AND RULES
+
+PAGE
+
+Private Securities Litigation Reform Act of 1995,
+Pub. L. No. 104-67 . . . . . . . . . . . . . . . . . .
+
+3
+
+Securities Act of 1933, 15 U.S.C. 77a, et seq. . . . . .
+
+4
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.:
+Section 10(b), 15 U.S.C. 78j(b) . . . . . . . . . .
+
+9
+
+n.3,
+10
+Section 20(a), 15 U.S.C. 78t(a) . . . . . . . . . .
+
+11
+
+Section 20(f), 15 U.S.C. 78t(f) . . . . . . . . . .
+Section 21D(b)(2) U.S.C. 78u-4(b)(2) . . . . . . .
+Section 21D(c), 15 U.S.C. 78u-4(c) . . . . . . . .
+
+3
+13
+13
+
+n.5
+
+Rule Under the Securities Exchange Act:
+Rule 10b-5, 17 C.F.R. 240.10b-5 . . . . . . . . . .
+
+9
+
+n.3,
+10
+MISCELLANEOUS:
+Conference Report on Securities Litigation Reform,
+H.R. Rep. No. 369, 104th Cong., 1st Sess. 31 (1995)
+
+- iii -
+
+.
+
+3
+
+Nos. 97-1143; 97-1261
+__________________________________________
+UNITED STATES COURT OF APPEALS
+FOR THE THIRD CIRCUIT
+__________________________________________
+ELYSE S. KLEIN, RICHARD KASTNER, DORIS
+KASTNER, and WARREN KASTNER,
+Appellants,
+v.
+WILLIAM BALLANTINE BOYD, III, WILLIAM DISSTON
+COLEMAN, THOMAS H. TARANTINO, LAWRENCE G.
+STEVENS, GREGORY JAMGOCHIAN, DRINKER,
+BIDDLE & REATH, MERCER SECURITIES, INC.,
+AND MERCER SECURITIES, LTD.,
+Appellees.
+___________________________________________
+On Appeal from the United States District Court
+for the Eastern District of Pennsylvania
+____________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE
+___________________________________________
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+The Securities and Exchange Commission, the agency
+principally responsible for the administration and enforcement of
+the federal securities laws, submits this brief, amicus curiae,
+to address an important question concerning liability in private
+lawsuits, and possibly certain Commission actions, brought under
+the antifraud provisions of the federal securities laws:
+Is a person who makes a material misrepresentation,
+while acting with the requisite scienter, but who does
+not himself disseminate the misrepresentation to
+investors, and whose name is not made known to them,
+
+only an aider and abettor of the fraud, or is that
+person a primary violator subject to liability?
+In the Commission's view, such a person is a primary violator of
+the antifraud provisions.
+The question arises because the Supreme Court, in Central
+Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A.,
+511 U.S. 164 (1994), ruled that private actions cannot be brought
+against persons who aid and abet violations of Section 10(b) of
+the Securities Exchange Act of 1934, 15 U.S.C. 78j(b), and Rule
+10b-5 thereunder, 17 C.F.R. 240.10b-5, but only against "primary
+violators."
+
+The Supreme Court, however, expressly stated that
+
+persons like lawyers, accountants, bankers, or others who provide
+services to the central figures in a fraud, can be liable in
+private actions as primary violators, along with the central
+figures, when such "secondary actors" make misrepresentations.
+511 U.S. at 191.
+
+This case involves the circumstances under
+
+which a law firm may be deemed to have "made" misrepresentations
+and thus may be adjudged to be a primary violator.
+Meritorious private actions under the federal securities
+laws serve an important role, both because they provide
+compensation for investors who have been harmed by securities law
+violations and because, as the Supreme Court has repeatedly
+recognized, they "provide `a most effective weapon in the
+enforcement' of the securites laws and are `a necessary
+
+- 2 2
+
+supplement to Commission action.'"
+
+Bateman Eichler, Hill
+
+Richards, Inc. v. Berner, 472 U.S. 299, 310 (1985), quoting J.I.
+Case Co. v. Borak, 377 U.S. 426, 432 (1964).
+
+See also Blue Chip
+
+Stamps v. Manor Drug Stores, 421 U.S. 723, 730 (1975).
+
+Congress,
+
+in adopting the Private Securities Litigation Reform Act of 1995,
+Pub. L. No. 104-67, affirmed that "[p]rivate securities
+litigation is an indispensable tool with which defrauded
+investors can recover their losses" and that private lawsuits
+"promote public and global confidence in our capital markets and
+help to deter wrongdoing and guarantee that corporate officers,
+auditors, directors, lawyers and others properly perform their
+jobs."
+
+Conference Report on Securities Litigation Reform, H.R.
+
+Rep. No. 369, 104th Congress, 1st Sess. 31 (1995).
+The Commission has a further interest in this case, beyond
+its implications for private actions.
+
+Because Central Bank was a
+
+private action, the Supreme Court did not explicitly address the
+Commission's authority to bring actions against aiders and
+abettors.
+
+After Central Bank, Congress reaffirmed the
+
+Commission's authority to bring such actions in the Litigation
+Reform Act.
+78t(f).
+
+Securities Exchange Act Section 20(f), 15 U.S.C.
+
+Nonetheless, a decision in this case delineating the
+
+circumstances in which a person is a primary violator could
+affect the Commission's litigating authority in several areas.
+
+- 3 3
+
+First, assuming the Central Bank holding applies to the
+Commission, the courts have not resolved (except in one
+circuit 1/) whether the Congressional reaffirmation of the
+Commission's aiding and abetting authority is to be applied
+retroactively.
+
+Thus, it is unclear whether the Commission may
+
+proceed against persons as aiders and abettors whose fraudulent
+conduct occurred before Congress enacted the Litigation Reform
+Act.
+
+Second, the provision in the Litigation Reform Act
+
+reaffirming the Commission's authority to sue aiders and abettors
+requires a showing that the defendant provided assistance
+knowingly, thus raising a question about whether the scienter
+element in a securities fraud action against an aider and abettor
+can be satisfied by the reckless conduct that is sufficient to
+make a defendant liable as a primary violator.
+
+Third and
+
+finally, this case could have a bearing upon the Commission's
+authority to proceed against violators of the antifraud
+provisions of the Securities Act of 1933, 15 U.S.C. 77a et seq..
+The Supreme Court's rejection of aiding and abetting liability
+under Section 10(b) of the Securities Exchange Act could be
+applied to the Securities Act as well.
+
+The Litigation Reform
+
+Act, however, does not give the Commission authority to proceed
+against aiders and abettors of violations of the Securities Act.
+1/
+
+See SEC v. Fehn, 97 F.3d 1276 (9th Cir. 1996), cert. denied,
+118 S.Ct. 59 (1997).
+- 4 4
+
+STATEMENT OF THE CASE
+1.
+
+The Facts
+
+Defendant Drinker Biddle & Reath, a Philadelphia law firm,
+was retained in 1992 by William Coleman, a securities salesman
+with a long history of regulatory troubles and customer
+complaints, to assist in setting up a brokerage firm, Mercer
+Securities, Ltd.
+
+District Court slip op. at 4-5.
+
+The plaintiffs, who were social acquaintances and customers
+of Coleman, made two series of limited partnership investments in
+Mercer.
+
+Id. at 2, 3-5.
+
+this case.
+
+Only the second series is at issue in
+
+The first series, however, is relevant because it
+
+bears on whether Drinker Biddle & Reath knew of Coleman's
+disciplinary history and the customer complaints against him.
+In the first series of investments, in the fall of 1992, the
+plaintiffs were solicited by Coleman and invested money before
+the law firm had completed the partnership agreement and
+accompanying disclosure documents.
+
+Id. at 3.
+
+In February 1993,
+
+Drinker Biddle & Reath completed a disclosure package for
+investors that included details of outstanding state supervisory
+orders and judgments entered against Coleman.
+
+Id. at 4.
+
+The law
+
+firm gave the package to a principal of Mercer to give to
+investors.
+
+Ibid.
+
+When the law firm partner handling Mercer matters learned
+some months later that the disclosure package had not been given
+- 5 5
+
+to the investors, he urged Mercer officials to forward the
+information to them immediately.
+
+Id. at 5.
+
+The plaintiffs
+
+allege that they never received the February disclosure package.
+Id. at 4.
+In the fall of 1993, Coleman solicited the plaintiffs to
+make further investments in Mercer.
+
+Id. at 5.
+
+For this second
+
+series of investments, Drinker Biddle & Reath prepared a new
+disclosure package, which the plaintiffs were given.
+
+Ibid.
+
+The
+
+plaintiffs allege that the new disclosure package, unlike the
+first one, did not contain information about outstanding state
+supervisory orders, judgments entered, and customer complaints
+against Coleman.
+
+Id. at 6. 1/
+
+The cover letter transmitting the
+
+new disclosure package was signed by a Mercer principal, not by
+Drinker Biddle & Reath, and the law firm's name did not appear in
+the documents in the disclosure package.
+
+Ibid.
+
+Mercer eventually failed and the plaintiffs lost the money
+they provided in the second series of investments.
+at 9.
+2/
+
+2.
+
+Id.
+
+The District Court's Decision
+
+Plaintiffs allege that the second disclosure package
+concealed adverse facts about Coleman, including his censure
+by the Chicago Board of Options Exchange, consent orders
+with Vermont and Minnesota barring him from certain brokerdealer positions, a four-year bar imposed by California
+preventing him from holding any position as a broker-dealer
+or investment advisor, his long history of customer
+complaints of fraudulent conduct, and Mercer's agreement
+with the National Association of Securities Dealers to limit
+his conduct with clients. Id. at 6.
+- 6 6
+
+The district court dismissed plaintiffs' Section 10(b) and
+Rule 10b-5 securities fraud claim against Drinker Biddle & Reath
+because, even though the law firm had prepared documents that
+were given to investors, it did not sign those documents and its
+name did not appear in them.
+
+Id. at 64-65.
+
+The district court
+
+noted that the plaintiffs had no direct communication with the
+law firm and did not know that it was involved with Mercer.
+
+Id.
+
+at 65.
+The district court also ruled that the plaintiffs had not
+presented sufficient evidence to create a genuine issue of
+material fact as to whether Drinker Biddle & Reath had scienter.
+Id. at 65-68.
+
+3.
+
+The Panel's Decision
+
+A panel of this Court reversed the district court's grant of
+summary judgment on the federal securities fraud claim.
+
+The
+
+panel noted that when the Supreme Court ruled in Central Bank
+that there was no private cause of action for aiding and
+abetting, it was careful to state that there could still be
+liability for "secondary actors" -- i.e., "those who provide
+services to participants in the securities business" (Central
+Bank, 511 U.S. at 188).
+
+Panel slip op. at 15.
+
+Such a secondary
+
+actor can be liable if he or she "`makes a material misstatement
+
+- 7 7
+
+(or omission) on which a purchaser or seller of securities
+relies.'"
+
+Id. at 15, quoting Central Bank, 511 U.S. at 191.
+
+The panel held that, despite the fact that Drinker Biddle &
+Reath was not identified in any of the documents that went to
+investors, it could be liable because
+"lawyers and other secondary actors who significantly
+participate in the creation of their client's
+misrepresentations, to such a degree that they may
+fairly be deemed authors or co-authors of those
+misrepresentations, should be held accountable as
+primary violators under section 10(b) and Rule 10b-5
+even when the lawyers or other secondary actors are not
+identified to the investors, assuming the other
+requirements of primary liability are met."
+Id. at 18.
+
+When a lawyer elects to speak, the panel stated, he
+
+or she has a duty to speak truthfully, even when speaking "behind
+the scenes."
+
+Id. at 20.
+
+A lawyer who prepares a document
+
+knowing that it will be given to investors "has elected to speak
+to the investors, even though the document not may be facially
+attributed to the lawyer."
+
+Ibid.
+
+In response to Drinker Biddle & Reath's argument that the
+plaintiffs had not shown reliance because they did not know of
+the law firm's involvement, the panel held that the federal
+securities laws require a plaintiff to demonstrate "reliance on
+- 8 8
+
+the misleading statement; they do not require the plaintiff to
+demonstrate that he or she relied on the defendant's role in the
+preparation or dissemination of the statement."
+
+Id. at 18
+
+(emphasis in original).
+The panel made clear that a lawyer who only provides
+"substantial assistance" to a client, and who could have been
+liable as an aider and abettor before Central Bank eliminated
+aiding and abetting liability in private actions, would not be
+liable under the panel's test.
+
+In the panel's view, a person
+
+"has done more than provide mere substantial assistance" when his
+or her involvement was "sufficiently significant that the
+[fraudulent] statement can properly be attributed to the person
+as its author or co-author."
+
+Id. at 20-21; see also id. at 22.
+
+With respect to the law firm's scienter, the panel reversed
+the district court's ruling that the plaintiffs had not presented
+sufficient evidence to create a genuine issue of material fact.
+The panel stated that a trier of fact could reasonably find that
+the law firm knew that investors never received the earlier
+disclosure package that included material information about
+Coleman's regulatory difficulties, and that the law firm prepared
+the second disclosure package without including this information.
+Id. at 24.
+
+The panel also stated that a trier of fact could
+
+reasonably infer from the evidence that the law firm concealed
+this information so that the plaintiffs would not withdraw their
+- 9 9
+
+investments, Mercer would remain solvent, and Drinker Biddle &
+Reath would not be exposed to liability as a result of "possible
+oversights in [its] representation of Mercer LP."
+
+Id. at 24-25.
+
+ARGUMENT
+I.
+
+A RULE THAT IMPOSES LIABILITY ONLY WHEN A PERSON IS
+IDENTIFIED TO INVESTORS IS INCONSISTENT WITH
+CENTRAL BANK AND THE LANGUAGE OF SECTION 10(b).
+The Supreme Court cautioned in Central Bank that the
+
+elimination of aiding and abetting liability in private actions
+does not mean that only the central figure in a securities fraud
+is liable.
+
+The Supreme Court stated that "secondary actors"
+
+could be liable as well:
+"The absence of § 10(b) aiding and abetting liability
+does not mean that secondary actors in the securities
+markets are always free from liability under the
+Securities Acts.
+
+Any person or entity, including a
+
+lawyer, accountant, or bank, who employs a manipulative
+device or makes a material misstatement (or omission)
+on which a purchaser or seller of securities relies may
+be liable as a primary violator under 10b-5, assuming
+all of the requirements for primary liability under
+Rule 10b-5 are met.
+
+In any complex securities fraud,
+
+moreover, there are likely to be multiple violators
+* * *."
+
+- 10 10
+
+511 U.S. at 191 (citations omitted) (emphasis added). 1/
+The issue in this case is whether, as Drinker Biddle & Reath
+contends, the phrase "makes a material misstatement (or
+omission)" means that a law firm or other secondary actor can be
+primarily liable for a misrepresentation only if it signs the
+document containing the misrepresentation or is otherwise
+identified to investors.
+
+Drinker Biddle & Reath argues, in
+
+effect, that even if it prepared a disclosure package for
+investors that it knew was materially false or misleading, it
+cannot be liable under Central Bank because the disclosure
+package did not reveal its identity.
+
+Thus, in Drinker Biddle &
+
+Reath's view, "[p]articipation in the drafting, no matter how
+significant," cannot by itself result in liability.
+
+Rehearing
+
+Petition at 6. 1/
+
+3/
+
+The phrase "employs a manipulative or deceptive device" is
+from Section 10(b); the phrase "makes a material
+misstatement (or omission)" follows the language of Rule
+10b-5(b).
+
+4/
+
+In support of its position, Drinker Biddle & Reath cites,
+inter alia, Anixter v. Home-Stake Production Co., 77 F.3d
+1215, 1226-27 (10th Cir. 1996), and Shapiro v. Cantor, 123
+F.3d 717, 720-21 (2d Cir. 1997). Rehearing Petition at 3,
+5, n.3. Those cases, however, involved very different
+factual situations, and therefore do not provide guidance
+for this case. In Anixter, the defendant was an accounting
+firm that had actually signed fraudulent documents, and
+therefore was liable under any standard. In Shapiro, the
+defendant accounting firm was not alleged to have been
+involved in creating any misrepresentation, but only to have
+been aware that its client was making a misrepresentation.
+- 11 11
+
+This view of Central Bank is incorrect.
+
+Nothing in Central
+
+Bank indicates that when the Supreme Court used the word "makes,"
+it meant that only persons who sign documents or are otherwise
+identified to investors can be primarily liable.
+
+Indeed, such an
+
+interpretation would be inconsistent with the language of Section
+10(b), which makes it unlawful "for any person, directly or
+indirectly * * * [t]o use or employ * * * any manipulative or
+deceptive device or contrivance."
+
+(Emphasis added.)
+
+A person
+
+who creates a misrepresentation, but takes care not to be
+identified publicly with it, "indirectly" uses or employs a
+deceptive device or contrivance and should be liable.
+The rule Drinker Biddle & Reath proposes would have the
+unfortunate and unwarranted consequence of providing a safe
+harbor from liability for everyone except those identified with
+misrepresentations by name.
+
+Creators of misrepresentations could
+
+escape liability as long as they concealed their identities. 1/
+Not only outside lawyers would benefit from such a rule; others
+who are retained to prepare information for dissemination to
+investors, including accountants and public relations firms,
+could immunize themselves by remaining anonymous.
+5/
+
+Indeed, in-
+
+"Controlling persons" of those publicly identified as
+responsible for the misrepresentation would be liable under
+Section 20(a) of the Exchange Act, 15 U.S.C. 78t(a).
+However, a person can be a creator of a misrepresentation
+without controlling the person in whose name the
+misrepresentation is issued.
+- 12 12
+
+house counsel and other corporate officials and employees could
+avoid liability for misrepresentations they created, as long as
+their identities were not made known to the public.
+
+In sum, by
+
+providing a safe harbor for anonymous creators of
+misrepresentations, a rule that imposes liability only when a
+person is identified with a misrepresentation would place a
+premium on concealment and subterfuge rather than on compliance
+with the federal securities laws.
+Drinker Biddle & Reath contends that it was "the Supreme
+Court's clear intention in Central Bank to adopt a bright-line
+rule for imposing liability" in order to protect securities
+lawyers from being named as defendants in securities fraud suits.
+Rehearing Petition at 1, 6-7.
+
+While the Supreme Court was
+
+concerned that there should be limits on the liability of lawyers
+and others who provide services to the central figures in a
+securities fraud (see 511 U.S at 188-89), the bright line rule
+Drinker Biddle & Reath advocates, with its resulting unwarranted
+consequences, goes beyond any reasonable reading of Central Bank.
+The Supreme Court did not set forth a bright line rule for
+liability, much less one that turns on whether the identity of a
+defendant is disclosed.
+
+Indeed, the Supreme Court used the word
+
+"makes" in discussing the involvement that could lead to
+liability -- a word that requires further interpretation, as the
+panel recognized.
+
+Panel Slip Op. at 15 (discussing the need "to
+- 13 13
+
+clarify the circumstances under which a statement may fairly be
+said to have been `made' by a secondary actor"). 1/
+Drinker Biddle & Reath further contends that without a
+bright-line test, lawyers will be named as defendants in every
+securities fraud suit filed in this Circuit.
+
+Id. at 6-7.
+
+This
+
+contention, however, fails to take into account the scienter
+requirement, which gives lawyers (and other defendants)
+substantial protection against frivolous securities fraud
+lawsuits.
+
+In a Section 10(b) securities fraud suit, the
+
+plaintiff must both plead and prove that the defendant acted with
+scienter, defined by this Court to mean deliberately or
+recklessly.
+
+Newton v. Dean Witter Reynolds, Inc., 135 F.3d 266,
+
+273 (3d Cir. 1998) (en banc).
+The scienter element has become particularly important at
+the pleading stage of a suit in light of a key provision of the
+
+6/
+
+Nor did the Supreme Court forbid a fact-oriented test, as
+Drinker Biddle & Reath contends, pointing to the Supreme
+Court's discussion of policy arguments against such a test.
+See Rehearing Petition at 6. Rather, the Supreme Court
+discussed those arguments only to make the point that the
+policy arguments that the Commission made in its Central
+Bank brief in favor of aiding and abetting liability were
+not determinative. Policy considerations, the Court stated,
+could be taken into account "to the extent that they may
+help to show that adherence to the text and structure would
+lead to a result `so bizarre' that Congress could not have
+intended it." 511 U.S. at 188 (citations omitted).
+However, "[p]olicy considerations cannot override [the
+Court's] interpretation of the text and structure of the
+Act." Ibid.
+- 14 14
+
+Litigation Reform Act, which requires the plaintiff to "state
+with particularity facts giving rise to a strong inference that
+the defendant acted with [scienter]."
+
+Securities Exchange Act
+
+Section 21D(b)(2), 15 U.S.C. 78u-4(b)(2).
+
+This requirement means
+
+that a securities fraud plaintiff must state a strong and
+specific case in order to avoid dismissal of his or her claim.
+This protection substantially lessens the possibility that
+plaintiffs will be able to bring frivolous suits against lawyers.
+Moreover, the Litigation Reform Act provides for mandatory
+sanctions against plaintiffs who fail to comply with the pleading
+requirements.
+78u-4(c).
+
+Securities Exchange Act Section 21D(c), 15 U.S.C.
+
+Thus, if the Court rejects Drinker Biddle & Reath's
+
+bright line test, it is unlikely that there will be a flood of
+lawsuits against lawyers in this Circuit.
+Finally, Drinker Biddle & Reath contends that imposing
+liability on it when the investors did not know of its
+involvement in the creation of the misrepresentation would negate
+the element of reliance required in a private action for
+securities fraud.
+is incorrect.
+
+Rehearing Petition at 3, 6.
+
+This contention
+
+The reliance a plaintiff in a securities fraud
+
+action must plead is reliance on a misrepresentation, not on the
+fact that a particular person made that misrepresentation.
+
+The
+
+Supreme Court stated in Central Bank that liability exists where
+"[a]ny person or entity, including a lawyer, accountant, or bank
+- 15 15
+
+* * * makes a material misstatement (or omission) on which a
+purchaser or seller of securities relies."
+(emphasis added).
+
+511 U.S. at 191
+
+Thus, the Court placed the focus on the
+
+misrepresentation, not on the fact that a particular person made
+it.
+Drinker Biddle & Reath nonetheless points to the Supreme
+Court's statement that the argument made by the plaintiffs in
+Central Bank "`would impose 10b-5 aiding and abetting liability
+when at least one element critical for recovery under 10b-5 is
+absent:
+
+reliance.'"
+
+Rehearing Petition at 3, quoting 511 U.S.
+
+at 180.
+
+This problem, it asserts, will be present unless there
+
+is a requirement that a plaintiff rely on the person who makes
+the representation.
+Drinker Biddle & Reath, however, does not quote the entire
+passage from Central Bank.
+
+The Supreme Court went on to say that
+
+"[w]ere we to allow the aiding and abetting action proposed in
+this case, the defendant could be liable without any showing that
+the plaintiff relied upon the aider and abettor's statements or
+actions."
+
+511 U.S. at 180 (emphasis added).
+
+In Central Bank,
+
+the defendant, a bank that had been the indenture trustee for a
+defaulted bond issue, had not created any misrepresentations, but
+had failed to update the appraisal for land securing the bonds.
+The investors thus could not be said to have relied on any
+misrepresentations "made" by the bank.
+- 16 16
+
+In contrast, the
+
+plaintiffs in this case allege that Drinker Biddle & Reath
+created the misrepresentations upon which the investors relied.
+II.
+
+A PERSON SHOULD BE LIABLE AS A PRIMARY VIOLATOR OF THE
+SECURITIES LAWS WHEN HE OR SHE, ACTING ALONE OR WITH OTHERS,
+CREATES A MISREPRESENTATION.
+As we have shown in Argument I, Drinker Biddle & Reath is
+
+incorrect in arguing that liability may be imposed only when a
+defendant is identified to investors.
+
+The correct standard, we
+
+submit, is that when a person, acting alone or with others,
+creates a misrepresentation, the person can be liable as a
+primary violator -- assuming, of course, that he or she acts with
+the requisite scienter.
+While the Commission, as amicus curiae, takes no position as
+to the truth of the allegations in the complaint, under the
+Commission's standard those allegations, if proven to be true,
+would establish that Drinker Biddle & Reath was a primary
+violator of the antifraud provisions.
+The Commission's proposed test makes clear that more than
+one person may be involved in creating a misrepresentation.
+
+As
+
+the Supreme Court stated in Central Bank, "[i]n any complex
+securities fraud * * * there are likely to be multiple [primary]
+violators."
+
+See 511 U.S. at 191.
+
+Moreover, it would not be
+
+necessary for a person to be the initiator of a misrepresentation
+in order to be a primary violator.
+
+Provided that a plaintiff can
+
+plead and prove scienter, a person can be a primary violator if
+- 17 17
+
+he or she writes misrepresentations for inclusion in a document
+to be given to investors, even if the idea for those
+misrepresentations came from someone else.
+Under the Commission's test, however, a person who prepares
+a truthful and complete portion of a document would not be liable
+as a primary violator for misrepresentations in other portions of
+the document.
+
+Even assuming such a person knew of
+
+misrepresentations elsewhere in the document and thus had the
+requisite scienter, he or she would not have created those
+misrepresentations.
+The test proposed by the Commission differs somewhat from
+the test enunciated by the panel, which concluded that
+"lawyers and other secondary actors who significantly
+participate in the creation of their client's
+misrepresentations, to such a degree that they may
+fairly be deemed authors or co-authors of those
+misrepresentations, should be held accountable as
+primary violators under section 10(b) and Rule 10b-5
+even when the lawyers or other secondary actors are
+not identified to the investor."
+Panel slip op. at 18.
+
+In the Commission's view, the panel's
+
+phrase "significantly participate in the creation of their
+client's misrepresentations" is susceptible to misinterpretation.
+The phrase "significantly participate," although consistent with
+responsibility for the creation of a misrepresentation, could
+also be taken to encompass lesser degrees of involvement.
+Drinker Biddle & Reath argues that the panel's test would make
+
+- 18 18
+
+defendants liable for conduct that is "indistinguishable" from
+the aiding and abetting conduct held to be not actionable in
+Central Bank.
+
+Rehearing Petition at 2-3.
+
+While the Commission
+
+does not agree with this view, it recognizes some potential for
+misinterpretation in the panel's formulation.
+
+See Shapiro v.
+
+Cantor, 123 F.3d 717, 720 (2d Cir. 1997) ("Allegations of
+`assisting,' `participating in,' `complicity in' and similar
+synonyms used throughout the complaint all fall within the
+prohibitive bar of Central Bank.").
+
+The Commission believes that
+
+its proposed formulation -- "creates a misrepresentation, acting
+alone or with others" -- will help to avoid this difficulty.
+In sum, the word "makes" as used in Central Bank does not
+have a precise meaning independent of the circumstances of the
+particular case.
+
+Drinker Biddle & Reath's test would define
+
+"makes" as "signs."
+
+But, as noted earlier, nothing in Central
+
+Bank indicates that the Supreme Court meant to give such a
+restrictive definition to the word, and indeed, such a definition
+would be inconsistent with the "directly or indirectly" language
+of Section 10(b).
+
+The Commission believes that a test that looks
+
+to what a secondary actor does in "creating a misrepresentation"
+provides the appropriate focus for determining when the secondary
+actor "makes" a misrepresentation.
+
+- 19 19
+
+CONCLUSION
+For the foregoing reasons, the Commission urges this Court
+to hold that a person who has the requisite scienter can be
+liable as a primary violator of Section 10(b) of the Securities
+Exchange Act of 1934 and Rule 10b-5 thereunder when he or she,
+acting alone or with others, creates a misrepresentation, whether
+or not the person is identified with the misrepresentation by
+name.
+Respectfully submitted,
+RICHARD H. WALKER
+General Counsel
+JACOB H. STILLMAN
+Associate General Counsel
+KATHARINE B. GRESHAM
+Assistant General Counsel
+Of Counsel
+PAUL GONSON
+Solicitor
+
+CHRISTOPHER PAIK
+Senior Counsel
+Securities and Exchange Commission
+Washington, D.C. 20549
+
+April 1998
+
+- 20 20
+
+

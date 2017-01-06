@@ -1,0 +1,1963 @@
+INITIAL DECISION RELEASE NO. 1015
+ADMINISTRATIVE PROCEEDING
+FILE NO. 3-15350
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+In the Matter of the Application of
+SECURITIES INDUSTRY AND FINANCIAL
+MARKETS ASSOCIATION
+
+INITIAL DECISION (PUBLIC) 1
+June 1, 2016
+
+for Review of Actions Taken by
+Self-Regulatory Organizations
+
+APPEARANCES:
+
+Daniel G. Swanson, Eugene Scalia, Joshua Lipton, Amir C.
+Tayrani, and Thomas M. Johnson, Jr., Gibson, Dunn & Crutcher
+LLP, for Nasdaq Stock Market LLC
+Stephen D. Susman and Jacob W. Buchdahl, Susman Godfrey
+LLP, for Nasdaq Stock Market LLC
+Jeffrey S. Davis and John Yetter, Nasdaq OMX, for Nasdaq Stock
+Market LLC
+Douglas W. Henkin, Seth T. Taube, Patrick Marecki, and Charles
+Loughlin, Baker Botts LLP, for NYSE Arca, Inc.
+Michael D. Warden, HL Rogers, Eric D. McArthur, Benjamin
+Beaton, and Kevin P. Garvey, Sidley Austin LLP, for Applicant
+Securities Industry and Financial Markets Association
+
+BEFORE:
+
+Brenda P. Murray, Chief Administrative Law Judge
+BACKGROUND
+
+This proceeding concerns applications filed by the Securities Industry and Financial
+Markets Association (SIFMA), 2 pursuant to Section 19(d) of the Securities Exchange Act of
+1
+
+This public initial decision contains redactions and minor modifications from the original
+sealed initial decision issued on June 1, 2016, as discussed in an order issued on June 28, 2016.
+
+1934, to set aside certain rule changes made by NYSE Arca, Inc. (NYSE Arca), and Nasdaq
+Stock Market LLC (Nasdaq) (collectively with NYSE Arca, the Exchanges), regarding fees for
+depth-of-book market data.
+Securities exchanges aggregate and assimilate many types of market data derived from
+the orders and trades conducted on their platforms. SIFMA Ex. 376 at 13563. 3 The Commission
+has referred to subsets of this market data as “core data” and “non-core data.” Id. at 13567-68;
+see Order Setting Aside Action by Delegated Authority and Approving Proposed Rule Change
+Relating to NYSE Arca Data (2008 ArcaBook Order), Exchange Act Release No. 59039, 73 Fed.
+Reg. 74770, 74771 (Dec. 9, 2008). The rule changes at issue concern fees assessed by the
+Exchanges to access their non-core “depth-of-book” data. For each security, core data include:
+(1) a national best bid and offer (NBBO), (2) the best bids and offers from each exchange, and
+(3) the last sales reports from each exchange. 2008 ArcaBook Order, 73 Fed. Reg. at 74780. By
+law, securities exchanges must provide core data to central processors, known as Securities
+Information Processors (SIPs), who use that information to calculate the NBBO for each
+security. 17 C.F.R. § 242.603(b); SIFMA Ex. 376 at 13567-68. NBBO, or “top-of-book” data,
+provide a view of availability by showing the quantities available at the best (lowest) offer price
+and the best (highest) bid price. NYSE Arca Ex. 65 at 1545. The SIPs then distribute this
+information in a consolidated feed available to the public, which broker-dealers must purchase
+and make available to investors seeking to place a trade. 17 C.F.R. § 242.603(b), (c); 2008
+ArcaBook Order, 73 Fed. Reg. at 74780; SIFMA Ex. 376 at 13567-68.
+Non-core depth-of-book data “consists of outstanding limit orders to buy stock at prices
+lower than, or to sell stocks at prices higher than, the best prices on each exchange.” 4
+NetCoalition v. SEC (NetCoalition I), 615 F.3d 525, 529-30 (D.C. Cir. 2010), superseded on
+other grounds by statute as stated in 715 F.3d 342 (D.C. Cir. 2013) (NetCoalition II). Depth-ofbook data show the displayable “shares available to buy at every single price level and the shares
+available for sale at every price level,” and contain a summary of an exchange’s limit-order
+book, which consists of all pending displayed limit orders. Tr. 21; NYSE Arca Ex. 65 at 1545.
+This information allows a trader to learn the displayed liquidity—the amount of stock available
+2
+
+SIFMA sees itself as “the voice of the nation’s securities industry, bringing together the shared
+interests
+of
+hundreds
+of
+broker-dealers,
+banks
+and
+asset
+managers.”
+http://www.sifma.org/about/ (last visited May 24, 2016).
+3
+
+I will cite to the transcript of the hearing as “Tr. __.” I will cite to the NYSE Arca, Nasdaq, and
+SIFMA exhibits as “NYSE Arca Ex. __,” “Nasdaq Ex. __,” and “SIFMA Ex. __.” Many
+exhibits contain multiple sets of pagination. When available, I cite to the last non-zero numerical
+digits of their Bates numbers. I will use similar designations in citations to the prehearing and
+post-hearing filings.
+4
+
+A limit order can be contrasted from a market order. A market order is an order to buy or sell
+immediately, at the best price available in the market. See SIFMA Ex. 376 at 13564. For a limit
+order, the buyer places a bid on the highest price he is willing to pay to purchase a specific stock,
+and a seller sets an “ask” or “offer” on the lowest price he is willing to accept for the sale of a
+specific stock. See id.
+2
+
+at a price other than the best price—of a security on a particular exchange. See NetCoalition I,
+615 F.3d at 530. Because it is not core data, securities exchanges are not required to distribute
+depth-of-book data. 2008 ArcaBook Order, 73 Fed. Reg. at 74779. Exchanges that distribute
+depth-of-book data generally sell it to customers either through a direct feed, or indirectly
+through redistributors like Bloomberg and Thomson Reuters. NYSE Arca Ex. 65 at 1548.
+The parties agree that the fees concerning at least two depth-of-book products are at
+issue. The first product is NYSE Arca’s depth-of-book product, ArcaBook. The second product
+is Nasdaq’s Level 2 depth-of-book product, which “provides information on the best price
+quoted by each market participant, but does not include every price quoted by each participant.”
+Nasdaq Ex. 601 at 9. 5
+Nasdaq and SIFMA dispute whether fees for two additional Nasdaq depth-of-book
+products are at issue: OpenView, which provides depth-of-book information “on stocks traded
+on NASDAQ but listed on . . . other exchanges,” and TotalView, which provides “every bid and
+offer . . . for stocks listed on NASDAQ.” Nasdaq Ex. 601 at 9; see Nasdaq Br. at 1 n.1; SIFMA
+Br. at 4 n.1. I rule on whether these two products are at issue later in this initial decision.
+Procedural background and prior proceedings
+This proceeding is the most recent in a lengthy line of challenges brought by SIFMA and
+other parties before the Commission and the United States Court of Appeals for the District of
+Columbia Circuit. In large part, these earlier challenges inform and control this current
+proceeding and therefore require discussion.
+On May 23, 2006, NYSE Arca filed a proposed rule change with the Commission (the
+2006 ArcaBook Rule), seeking to impose a fee for its ArcaBook depth-of-book product, which
+had previously been free. 6 NYSE Arca Ex. 11. Under the law at the time, the 2006 ArcaBook
+Rule did not take effect until approved; it went through a notice-and-comment period and
+received Commission approval. 15 U.S.C. §78s(b) (2006); NetCoalition I, 615 F.3d at 528, 532.
+On October 12, 2006, the Division of Market Regulation (now known as the Division of Trading
+and Markets) approved the 2006 ArcaBook Rule under delegated authority. See NYSE Arca Ex.
+67. NetCoalition, a trade association, then filed a petition seeking review of the 2006 ArcaBook
+Rule by the Commission. NetCoalition I, 615 F.3d at 527, 532. On December 2, 2008, after
+extensive briefing, the Commission approved the 2006 ArcaBook Rule and determined that the
+fees were consistent with the Exchange Act by applying a “market-based approach.” 2008
+ArcaBook Order, 73 Fed. Reg. at 74770, 74781, 74797.
+5
+
+Nasdaq Exhibit 601 has two sets of pagination; when citing to this exhibit, I refer to the
+pagination at the bottom of the page.
+6
+
+Nasdaq and NYSE Arca are self-regulatory organizations (SROs) registered with the
+Commission. See 15 U.S.C. § 78f. For the most part, when SROs seek to establish new rules or
+modify existing ones, they must first go through a notice-and-comment period and obtain
+Commission approval. 15 U.S.C. § 78s(b). As discussed later in this decision, a subset of SRO
+rules—including the rules implementing the disputed fees for depth-of-book data—can become
+effective immediately upon filing, subject to later Commission review. Id. § 78s(b)(3)(A), (C).
+3
+
+In the 2008 ArcaBook Order, the Commission effectively rejected claims that the data
+fees sought to be imposed must bear a relation to the costs of collecting the data, and it found
+that NYSE Arca was subject to two significant competitive forces in setting fees for ArcaBook.
+See 2008 ArcaBook Order, 73 Fed. Reg. at 74773-74, 74782, 74794. First, the Commission
+concluded that the need to attract order flow “imposes significant pressure on NYSE Arca to act
+reasonably in setting its fees for depth-of-book order data, particularly given that the market
+participants that must pay such fees often will be the same market participants from whom
+NYSE Arca must attract order flow.” Id. at 74783. Second, the Commission held that “a variety
+of alternative sources of information . . . impose significant competitive pressures” on ArcaBook
+data. Id. at 74785. The Commission also found no “substantial countervailing basis” to
+disapprove the 2006 ArcaBook Rule. Id. at 74794.
+In NetCoalition I, an appeal by NetCoalition and SIFMA of the 2008 ArcaBook Order,
+the D.C. Circuit vacated the order on the grounds that the Commission “failed to disclose a
+reasoned basis . . . for concluding that NYSE Arca [was] subject to significant competitive forces
+in pricing ArcaBook.” 7 NetCoalition I, 615 F.3d at 544 (internal quotation marks omitted). In
+particular, the court noted numerous problems with the evidence supporting the Commission’s
+conclusions. Much of the evidence cited, purportedly showing that order flow competition
+constrains market data prices, consisted of little beyond the “self-serving views” of NYSE Arca
+and other exchanges. Id. at 541. Moreover, the Commission’s theory that ArcaBook prices
+would be kept low to attract order flow was contradicted by the Commission’s insistence that
+depth-of-book data are “unnecessary” and of “limited appeal” to most investors. Id. at 540. And
+the Commission’s argument—that prices were constrained by the existence of alternatives to
+ArcaBook—had failed to assess: whether the alternatives were “reasonably interchangeable”
+substitutes, the product’s elasticity of demand, “the number of potential users or how they might
+react to a change in price,” or numerous other factors controlling trader behavior. Id. at 542-44.
+The court also explained why the alternatives identified by the Commission might be ineffective
+substitutes for ArcaBook data. Id. at 543-44. On November 9, 2010, the court’s decision
+vacating the 2008 ArcaBook Order became effective. SIFMA, Exchange Act Release No. 72182,
+2014 SEC LEXIS 1686, at *15-16 (May 16, 2014) (discussing procedural history).
+
+7
+
+The D.C. Circuit held that the Commission’s use of a market-based approach to evaluate the
+2006 ArcaBook Rule was permissible and that a cost-based approach was not required under the
+Exchange Act. NetCoalition I, 615 F.3d at 534-35. It did, however, note:
+[W]e do not mean to say that a cost analysis is irrelevant. On the contrary, in a
+competitive market, the price of a product is supposed to approach its marginal
+cost, i.e., the seller’s cost of producing one additional unit. Supracompetitive
+pricing may be evidence of ‘monopoly,’ or ‘market,’ power. Thus, the costs of
+collecting the distributing market data can indicate whether an exchange is taking
+‘excessive profits’ or subsidizing its service with another source of revenue . . . .
+Id. at 537 (internal citations omitted).
+4
+
+Shortly before the D.C. Circuit issued NetCoalition I, Congress enacted the Dodd-Frank
+Act. Before Dodd-Frank, fees like the 2006 ArcaBook Rule became effective only upon
+Commission approval. Dodd-Frank, effective July 22, 2010, changed this framework, by
+allowing such fees to become effective immediately upon filing. 15 U.S.C. § 78s(b)(3)(A). 9 The
+Commission retained the ability, within sixty days of filing, to “temporarily suspend the change
+in the rules of the [SRO] . . . if it appears to the Commission that such action is necessary or
+appropriate in the public interest.” Id. § 78s(b)(3)(C). Upon such suspension, the Commission
+must institute proceedings “to determine whether the proposed rule should be approved or
+disapproved.” Id.
+8
+
+On September 7, 2010, Nasdaq filed with the Commission a notice of a rule change
+(2010 Nasdaq Rule) representing that it was seeking to harmonize certain fees between three
+depth-of-book data products: Level 2, TotalView, and OpenView. Nasdaq Ex. 548. The 2010
+Nasdaq Rule became effective immediately, and the Commission did not act within sixty days of
+filing to temporarily suspend the rule change.
+On November 1, 2010, NYSE Arca filed with the Commission a notice of a rule change
+(2010 ArcaBook Rule). SIFMA, 2014 SEC LEXIS 1686, at *15. The 2010 ArcaBook Rule,
+which also became effective immediately, assessed the same fees for ArcaBook that had been
+proposed in the 2006 ArcaBook Rule. Id.; NYSE Arca Ex. 1 at 4. The Commission had
+approved those fees in the vacated 2008 ArcaBook Order, and NYSE Arca had been assessing
+them since the beginning of 2009. NYSE Arca Ex. 1 at 3-4.
+On November 9, 2010, the Commission issued a notice soliciting comments on the 2010
+ArcaBook Rule. See NYSE Arca Ex. 1. NetCoalition and SIFMA submitted a joint comment,
+alleging that NYSE Arca sought to assess the same fees that the NetCoalition I court held had
+not been determined to be “fair and reasonable” under the Exchange Act, and that in doing so,
+NYSE Arca was relying on the same evidence and theories that NetCoalition I had rejected.
+SIFMA Ex. 65 at 1567, 1570. As with the 2010 Nasdaq Rule, the sixty-day period during which
+the Commission could suspend the 2010 ArcaBook Rule expired without the Commission taking
+any action. SIFMA, 2014 SEC LEXIS 1686, at *18.
+On December 28, 2010, and January 3, 2011, respectively, NetCoalition and SIFMA
+petitioned the D.C. Circuit to review the non-suspension of the 2010 Nasdaq Rule and the 2010
+8
+
+See also Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, Pub. L. 111203, § 4, 124 Stat. 1376, 1390 (July 21, 2010).
+9
+
+Dodd-Frank amended Exchange Act Section 19(b)(3)(A), which lays out certain SRO rule
+changes that are immediately effective. Prior to Dodd-Frank, SRO rule changes “establishing or
+changing a due, fee, or other charge imposed by the [SRO] . . . may take effect upon filing.” 15
+U.S.C. § 78s(b)(3)(A)(ii) (2006) (emphasis added). Dodd-Frank changed that language to “shall
+take effect upon filing” and broadened it to apply to fees imposed by the SRO not just on its own
+members, but also “on any person, whether or not the person is a member of the [SRO].” DoddFrank, 124 Stat. at 1835; 15 U.S.C. § 78s(b)(3)(A)(ii) (emphasis added); SIFMA, 2014 SEC
+LEXIS 1686, at *14 & n.36.
+5
+
+ArcaBook Rule. Petition for Review, NetCoalition v. SEC, No. 10-1422 (challenge to 2010
+NASDAQ Rule); Petition for Review, NetCoalition v. SEC, No. 11-1001 (challenge to 2010
+ArcaBook Rule). The D.C. Circuit consolidated these two proceedings along with several other
+SRO fee rules challenges brought by NetCoalition and SIFMA, but later dismissed them for lack
+of jurisdiction. Order, NetCoalition v. SEC, Case No. 10-1421 (D.C. Cir. June 3, 2011);
+NetCoalition II, 715 F.3d 342 (D.C. Cir. 2013).
+The NetCoalition II judgment referred to the “availability of judicial review [of the fees]
+down the road,” and recognized, without explicitly adopting, the Commission’s argument that
+judicial review was available through Exchange Act Section 19(d) and (f). 10 NetCoalition II,
+715 F.3d at 352-53. The court stated that it took “the Commission at its word . . . that it will
+make the section 19(d) process available to parties seeking review of unreasonable fees charged
+for market data, thereby opening the gate to our review.” Id. at 353. The court also upheld
+NetCoalition I’s determination that a market-based approach requires “evidence that competition
+will in fact constrain pricing for market data,” stating that it remained “a controlling statement of
+the law.” Id. at 354.
+Following NetCoalition II, SIFMA 11 filed an application under Exchange Act Section
+19(d) challenging the 2010 ArcaBook Rule and alleging that the fees it imposed: (1) constituted
+a limitation on access reviewable under Exchange Act Section 19(d) and (f); (2) was
+unenforceable under Exchange Act Section 19(b)(3)(C) because it was not “fair and reasonable”
+and did not “protect investors and the public interest”; and (3) failed the Commission’s marketbased approach because NYSE Arca had presented no evidence of being subject to significant
+competitive forces or its costs of collecting and distributing the data at issue. NYSE Arca Ex. 2
+at 286. SIFMA also filed another application challenging numerous other SRO rules, including
+the 2010 Nasdaq Rule. 12
+On May 16, 2014, the Commission consolidated SIFMA’s challenges to the 2010
+ArcaBook Rule and 2010 Nasdaq Rule into a single proceeding, which it then referred to me to
+10
+
+Exchange Act Section 19(d) allows “application by any person aggrieved” for review by the
+Commission of an SRO action that prohibits or limits “access to services offered by” the SRO,
+while 19(f) requires the Commission to review an SRO rule challenged under 19(d) and ensure
+the rule is “consistent with the purposes of this chapter” and does not “impose[ ] any burden on
+competition not necessary or appropriate.” 15 U.S.C. § 78s(d)(1)-(2), (f). In NetCoalition II, the
+Commission argued that Section 19(d) and (f) together allow “‘a party that is aggrieved by the
+fees . . . [to] challenge them as not consistent with the Exchange Act, including for not being
+‘fair and reasonable.’” NetCoalition II, 715 F.3d at 352-53 (quoting Commission Br. at 46).
+11
+
+NetCoalition had ceased to exist by the end of 2012. Jennifer Martinez, NetCoalition winds
+down operations, (Oct. 24, 2012, 2:35 PM), http://thehill.com/policy/technology/263793netcoalition-winds-down-operations.
+12
+
+Application for an Order Setting Aside Rule Changes of Certain Self-Regulatory
+Organizations Limiting Access to their Services, Admin. Proc. File No. 3-15351 (filed May 31,
+2013).
+6
+
+designate an administrative law judge to preside over the consolidated proceeding. SIFMA, 2014
+SEC LEXIS 1686, at *50-59. The Commission instructed that I first make “a determination of
+jurisdiction” under Exchange Act Section 19(d), and if I found jurisdiction, to then hold
+“additional record development and proceedings.” Id. at *50-52. After briefing from the parties,
+I determined that SIFMA had standing to pursue its challenges under Exchange Act Section
+19(d). SIFMA, Admin. Proc. Rulings Release No. 1921, 2014 SEC LEXIS 3906 (ALJ Oct. 20,
+2014). I then held a hearing from April 20 to April 24, 2015. The record consists of testimony
+from three fact witnesses and five expert witnesses. The Exchanges filed post-hearing briefs on
+June 8, 2015, SIFMA filed its opposition on July 20, 2015, and the Exchanges filed their reply
+briefs on August 3, 2015.
+LEGAL STANDARD
+The Commission directed me to “hold a hearing addressing whether the [2010 ArcaBook
+Rule and 2010 Nasdaq Rule] should be vacated under the statutory standard set forth in
+Exchange Act Section 19(f) – as informed by the two-part test set out in [the 2008 ArcaBook
+Order], the D.C. Circuit’s decision in NetCoalition I, and appropriate briefing from the parties.”
+SIFMA, 2014 SEC LEXIS 1686, at *52.
+Exchange Act Section 19(d) authorizes the Commission “on its own motion, or upon
+application by any person aggrieved,” to review an SRO action that “prohibits or limits” any
+person “access to services offered by [the SRO].” 15 U.S.C. § 78s(d)(1)-(2). Subsection (f)
+describes the review process for an action, like this one, brought under Section 19(d). See 15
+U.S.C. § 78s(f). Under that subsection, the legal inquiry in this proceeding is whether the
+Exchanges’ depth-of-book data fees are “consistent with” and “in furtherance of the purposes of”
+the Exchange Act; if they are not, the Commission “shall set aside the action of the [SRO] . . . .”
+Id. The Exchanges have the burden of establishing that the 2010 ArcaBook Rule and 2010
+Nasdaq Rule are consistent with the Exchange Act. SIFMA, 2014 SEC LEXIS 1686, at *39
+n.88.
+In its 2008 ArcaBook Order, the Commission identified several provisions as specifying
+the purposes of the Exchange Act relevant to this matter; such provisions provide that the
+Exchanges’ fees for the non-core data must be fair and reasonable, and not unfairly or
+unreasonably discriminatory. 13 See 15 U.S.C. §§ 78f(b)(4)-(5), (8), 78k-1(c)(1); 17 C.F.R.
+§ 240.603(a)(1)-(2); 73 Fed. Reg. at 74779, 74782. The Commission determines this inquiry
+under a market-based approach:
+•
+
+The Commission first “ask[s] whether the exchange was subject to significant
+competitive forces in setting the terms of” its fees. 73 Fed. Reg. at 74781.
+
+13
+
+As initially enacted, the Exchange Act had four basic purposes: to afford a measure of
+disclosure to people who buy and sell securities; to prevent and afford remedies for fraud in
+securities trading and manipulation of the markets; to regulate the securities markets; and to
+control the amount of the nation’s credit that goes into those markets. I Louis Loss, & Joel
+Seligman & Troy Parades, Securities Regulation 328 (4th ed. 2006).
+7
+
+•
+
+If this standard is met, the Commission will allow the fees to stand “unless it
+determines that there is a substantial countervailing basis to find that the terms
+nevertheless fail to meet an applicable requirement of the Exchange Act or the
+rules thereunder.” Id.
+
+•
+
+If this standard is not met, “the Commission will require the exchange to provide
+a substantial basis, other than competitive forces, . . . demonstrating that the terms
+of the proposal are equitable, fair, reasonable, and not unreasonably
+discriminatory.” Id.
+
+In NetCoalition I, the court upheld the Commission’s market-based approach, but
+directed that there must be sufficient evidence to meet the Commission’s standards. 615 F.3d at
+533-35, 539-44.
+FINDINGS OF FACT
+The factual findings and legal conclusions are based on the entire record. I have
+considered and rejected all arguments and proposed findings and conclusions that are
+inconsistent with this initial decision.
+There are approximately eleven securities exchanges operating today in the United States,
+split into four exchange “families.” Tr. 84; SIFMA Ex. 376 at 13565. Those families are:
+(1) the NYSE Group, which includes both the New York Stock Exchange and NYSE Arca; 14
+(2) Nasdaq, which also includes two smaller regional exchanges; (3) the BATS Global Markets
+Group; 15 and (4) the Chicago Stock Exchange. SIFMA Ex. 376 at 13565. There are also a
+substantial number of alternative trading systems, which include dark pools. 16 Id. at 13565 &
+n.2. Generally speaking, securities exchanges compete in a number of products and services,
+such as (1) listing services, (2) index services, (3) network and data center colocation services,
+and, most relevant to this proceeding, (4) trading services, and (5) data services. NYSE Arca Ex.
+65 at 1551-53; Nasdaq Ex. 601 at 5.
+There is fierce competition for trading services (or “order flow”). Tr. 1035-36; see also
+NetCoalition I, 615 F.3d at 539. The market for trading services is tremendously divided, and
+greater order flow makes an exchange’s depth-of-book data more valuable to customers. NYSE
+Arca Ex. 65 at 1551. At the end of 2014, when the market share of the alternative trading
+systems is included, no single exchange family accounted for even 25% of trading in U.S.
+14
+
+Despite belonging to the same exchange family, the New York Stock Exchange and NYSE
+Arca are separate exchanges. Tr. 84; SIFMA Ex. 376 at 13565.
+
+15
+
+The Commission approved a merger of BATS with Direct Edge, in 2014. Nasdaq Ex. 601 at
+7. BATS owners include numerous SIFMA members. Id. at 8.
+16
+
+Dark pools are owned by exchanges, large brokerages, and independent companies. NYSE
+Arca Ex. 65 at 1559. Dark pools do not provide pre-trade market data, including depth-of-book
+data. Id. at 1558.
+8
+
+equities. Nasdaq Ex. 601 at 6. To attract order flow, most exchanges use a “maker-taker” fee
+structure, where rebates are paid to “makers” who create liquidity by posting orders to buy or
+sell, and fees are charged to “takers” who take that liquidity. SIFMA Ex. 376 at 13567. The
+rebates paid to attract order flow can be quite sizable; Nasdaq pays around seven hundred million
+dollars a year in “maker” rebates. Tr. 431-32.
+Depth-of-book feeds
+All the major exchanges, including the New York Stock Exchange, NYSE Arca, Nasdaq,
+BATS, and Direct Edge sell real-time depth-of-book data feeds. 17 NYSE Arca Ex. 65 at 1548,
+1576. Depth-of-book data is sold either for display use or non-display use. Id. at 1548. A
+display subscription allows an individual to view the depth-of-book data displayed on a monitor
+or device, such as a Bloomberg terminal. Id. Exchanges generally charge different display fees
+depending on whether the user is a professional or non-professional subscriber. Id. Professional
+subscribers are persons licensed or registered with a securities or commodities trading regulator
+or who provide investment advice or analysis, and non-professional subscribers are anyone else.
+Id. at 1548-49.
+Non-display subscriptions allow for the use of depth-of-book data in computer
+applications such as market making, high-frequency trading, algorithmic trading, and the
+operation of dark pools. NYSE Arca Ex. 65 at 1549. Generally, non-display subscribers are
+smaller in number but account for a relatively large volume of orders on securities exchanges.
+Id. at 1550.
+No one contested the representation that the pricing of depth-of-book data is uniformly
+applied to similarly situated subscribers. NYSE Arca Ex. 65 at 1548.
+ArcaBook
+NYSE Arca has one depth-of-book product, ArcaBook, which “provides, among other
+information, lists of all of the bids and offers placed on NYSE Arca, including those outside the
+prevailing market price, in a real-time data feed.” NYSE Arca Prehearing Br. at 8.
+James Gilbert Brooks, III, testified on the history of ArcaBook and ArcaBook pricing; the
+types of customers who subscribe to ArcaBook; customer behavior in response to changes in
+ArcaBook pricing; and NYSE Arca’s efforts to maintain and grow their ArcaBook customer
+base. Specifically, he testified that ArcaBook is delivered to customers either through a direct
+feed or by distributors, such as Bloomberg. 18 Tr. 108. The direct feed is for institutional, rather
+17
+
+New York Stock Exchange offers a depth-of-book feed called NYSE OpenBook. Nasdaq Ex.
+601 at 13. NYSE Arca offers ArcaBook. Id. Nasdaq depth-of-book data feeds include Nasdaq
+TotalView and OpenView. NYSE Arca Ex. 65 at 1548 n.28. Direct Edge offers EdgeBook
+Depth and EdgeBook Attributed, and BATS also offers a depth-of-book feed. Id.; Nasdaq Ex.
+601 at 13.
+
+18
+
+Brooks is senior director and head of proprietary market data at the New York Stock
+Exchange. Tr. 18-19. He graduated from the University of Virginia with a degree in economics,
+9
+
+than individual, subscribers, because the direct feed is a “fire hose” of two hundred to three
+hundred million orders a day, intended to be read by machines and requiring substantial
+investments in infrastructure and bandwidth. Tr. 26, 29-30. There are fewer than two hundred
+subscribers for ArcaBook’s direct feed, and these are usually very large, sophisticated
+organizations. Tr. 48-49. Distributors, like Bloomberg, take the ArcaBook feed and turn it into
+a visual display that humans can read. Tr. 29-30.
+NYSE Arca charges a variety of fees for ArcaBook depending on the customer and the
+intended use. It first began charging for ArcaBook in January 2009. Tr. 65; NYSE Arca Ex. 65
+at 1565. NYSE Arca’s filing fee from November 2010, which is the subject of this proceeding,
+imposed a $750 per month access fee, which permitted a subscriber to receive the raw data feed
+from NYSE Arca and use it without limits internally. Tr. 35-36. The rule change also imposed a
+display fee, which allows a subscriber to view ArcaBook on a display device from a vendor like
+Bloomberg, after that vendor had converted the raw ArcaBook feed into something readable. Tr.
+36-37. For a listing of all securities, the display fee was $30 for professional subscribers and $10
+for nonprofessionals. Tr. 37-38, 40. Since November 2010, NYSE Arca has imposed additional
+fees for non-display uses as well as a redistribution fee. Tr. 43-44. Some of the already existing
+fees have also increased since 2010. See generally Tr. 130-34; SIFMA Exs. 81, 93, 380. When
+NYSE Arca first began charging for ArcaBook, the number of direct feed subscribers fell from
+220 to around 170, and the number of professional display subscribers declined from 29,636 to
+29,133. Tr. 90-92.
+When setting fees for ArcaBook, Brooks and his team examine the market and competing
+products to determine a fair price, which is often lower than what he thinks the product is
+actually worth because he is worried about customers canceling. Tr. 65-66. Brooks considers
+Nasdaq’s TotalView and the BATS depth-of-book products to be ArcaBook’s competitors, and
+stated that they compete in price and in features offered. Tr. 63-65. NYSE Arca deliberately
+tries to price its products to prevent customer attrition. Tr. 143. Brooks is also aware that in
+response to an ArcaBook price increase, clients may drop ArcaBook or route their order flow
+elsewhere. For example, BlueFin Trading, a former subscriber, dropped ArcaBook because of a
+price increase. Tr. 71-73. Lime Brokerage and Pico Trading also made threats to shift order
+flow elsewhere in response to a price increase for ArcaBook. Tr. 73-75. NYSE Arca also
+instituted a tiered pricing structure to placate the concerns of
+, a large customer. Tr. 7577. However, the only customer Brooks could identify that actually dropped ArcaBook in
+response to a price increase is BlueFin, and Brooks admitted that he had never heard of BlueFin
+until they dropped ArcaBook. Tr. 93, 112, 135. Brooks was also unable to identify any
+customer that switched from ArcaBook to Nasdaq’s TotalView or vice versa. Tr. 137-38.
+However, Brooks also testified that he would not be aware of customer switching depth-of-book
+products unless that customer specifically told him. Tr. 159-60. 19
+and prior to his work at the New York Stock Exchange, Brooks worked at Nasdaq OMX. Tr. 20.
+Brooks’s current position involves proprietary data in all phases: product development, the
+release of new products, the enhancement of existing products, and marketing of proprietary data
+products. Tr. 19.
+19
+
+Brooks testified that NYSE Arca does not track costs that are solely attributable to the
+ArcaBook product. Tr. 47. I find unpersuasive SIFMA’s contention that NYSE Arca’s
+10
+
+Nasdaq’s depth-of-book products
+Nasdaq has three depth-of-book products: TotalView, Open View, and Level 2.
+TotalView displays every bid and every offer for all market participants listed on Nasdaq. Tr.
+402. OpenView provides the same information, but for stocks listed on other exchanges besides
+Nasdaq. Tr. 405-06. Level 2 “provides information on the best price quoted by each market
+participant, but does not include every price quoted by each participant.” Nasdaq Ex. 601 at 9.
+Nasdaq considers Level 2 a subset of Total View. Tr. 403.
+Oliver Albers testified that Nasdaq sells over ninety data products and the data products
+department accounts for 19% of Nasdaq’s total revenue. 20 Tr. 389, 391. Albers admitted that
+data products is one of Nasdaq’s most profitable units, with profit margins between 70 and 80%,
+though he said that was partially due to the way Nasdaq allocated costs. Tr. 545. Nasdaq views
+its data products as a source of competitive advantage – in that it can drive order flow and add
+value to clients. Tr. 391. Nasdaq’s biggest customers for depth-of-book data products are data
+vendors and retail brokers. Tr. 399. Retail brokers typically only buy one, maybe two, depth-ofbook products. Tr. 399. Albers testified that this was because the retail brokers only needed one
+depth-of-book product, and sometimes, not even that; he believes that some might use it as a
+marketing tool. Tr. 400.
+Nasdaq considers the NYSE and BATS exchange families among its competitors for the
+sale of data products. Tr. 392-93, 477-79. Albers and his team have created internal documents
+identifying and comparing Nasdaq and their competitors’ depth-of-book products; he testified
+that he would not have created such documents and he probably would not be employed if, as
+SIFMA claims, investors were required to purchase all depth-of-book data. Tr. 413-15; SIFMA
+Ex. 133 at 610, 623. Nasdaq and Albers were concerned that a Direct Edge and BATS merger
+would create a powerful competitor in the data products market. Tr. 417; SIFMA Ex. 133 at
+623.
+Before deciding on a price for its depth-of-book data, Albers and his team run through
+various scenarios to determine potential attrition and revenue loss from customers either
+dropping Nasdaq’s product entirely or switching to a competitor’s product. Tr. 415-16; SIFMA
+Ex. 133 at 612. They also attempt to understand how each individual client will react, and will
+statements on this point “contradict[] its prior representations to the Commission that its ‘market
+data revenues compare favorably to the markets’ cost of producing the data.’” See SIFMA Br. at
+49-50. The two are not necessarily mutually exclusive. In any event, as I place little weight on
+cost and profit margin data for the reasons set forth in my legal conclusions, this issue is of
+minimal relevance.
+20
+
+Albers has been at Nasdaq for fifteen years, and is currently the global head of sales in
+Nasdaq’s data products department. Tr. 383-84. He graduated from Ohio University and has an
+M.B.A. from George Washington University. Tr. 671. Albers spends almost half his time
+visiting clients and trying to sell them Nasdaq’s data products; he also supervises sixteen
+salespersons located in six cities across the globe. Tr. 387.
+11
+
+also consult with their transactions and listing groups, because they are aware that a pricing
+change to depth-of-book products may lead to angry customers shifting order flow away from
+Nasdaq. Tr. 496-97. His team also reach out to customers in advance of a pricing decision to get
+feedback on their pricing changes – they even go in front of SIFMA’s market data committee
+twice a year to discuss their pricing changes. Tr. 497.
+Albers testified that Nasdaq’s depth-of-book products are marketed aggressively
+“[b]ecause it’s a very highly competitive market, and we’re trying to further our business in any
+way we can.” Tr. 438; see also Tr. 430. Nasdaq spends around one million dollars advertising
+its data products, two million dollars a year on research and development of depth-of-book
+products, and actively works on creating and improving products that respond to client needs.
+Tr. 392, 394, 419, 483-90. Nasdaq also has created numerous advertisements and marketing
+programs to persuade potential clients to switch from other exchanges’ products, or to upgrade
+from Nasdaq’s basic Level 2 to the more comprehensive TotalView product. Tr. 407, 419-30,
+432-33, 436-38, 490-92; SIFMA Exs. 118, 121, 122, 124, 127-29. Nasdaq also mulled a
+proposal where a client would receive a discount on market data in exchange for routing more
+order flow to Nasdaq, though the proposal was rejected by the Commission. Tr. 433-36; SIFMA
+Ex. 123. In addition to heavy advertising efforts, Albers and his sales team kept close watch on
+his competitors’ actions. Tr. 439-40, 473-77; Nasdaq Exs. 509, 515. He and his team also
+compiled a list of reasons given by customers who declined to purchase TotalView. Tr. 446;
+Nasdaq Ex. 511 at 36-37. Some of those reasons were that core data and/or Level 2 data were
+sufficient, or that the depth-of-book data from NYSE Arca or BATS/Edge was sufficient and
+cheaper. Nasdaq Ex. 511 at 36.
+Nasdaq has 350,000 professional subscribers to its data products, which includes core
+data. Tr. 408-09. Of those 350,000 professional subscribers, 85,000 get some type of depth-ofbook product from Nasdaq; of those, 30,000 receive TotalView. Tr. 409. Of those 30,000
+subscribers, 5,000 subscriptions are for servers rather than human beings, and those servers are
+all operated by around one hundred firms. Tr. 410. Those one hundred firms conduct upwards
+of 90% of all trading on Nasdaq. Tr. 450. Because order flow is Nasdaq’s “life blood,” this
+gives those one hundred firms “the upper hand in almost all of [the] negotiations.” Tr. 450-51,
+540-41. These one hundred firms’ power is especially pronounced because, at many of them, the
+person who Nasdaq negotiates with about depth-of-book pricing is also responsible for
+determining whether order flow is routed to Nasdaq. Tr. 542-43; Nasdaq Ex. 527 at 269.
+Albers testified that he has had clients switch from Nasdaq’s depth-of-book product to
+another exchange’s depth-of-book product and that that he has discussions “all the time” with
+clients who threaten to move order flow in response to depth-of-book pricing. Tr. 386, 443. In
+fact, some of Nasdaq’s customers have infrastructure which allows them to easily switch back
+and forth, on a monthly basis, between various exchanges’ depth-of-book data, based on market
+share and pricing changes. Tr. 443. The risk of customers switching to other depth-of-book
+products or routing order flow away in response to high prices for depth-of-book data is a serious
+risk that Albers’ team has presented to Nasdaq’s management. Tr. 492-96; Nasdaq Ex. 524 at
+193. An internal document from 2006, “NASDAQ Market Data,” states that “[m]arket data is
+currently an extremely competitive environment that affects all aspects of NASDAQ’s business
+
+12
+
+model,” with “numerous competitors currently vying for what tends to be a finite pool of funds
+allocated to market data consumption.” Nasdaq Ex. 524 at 193.
+is an example of a client that routed order flow elsewhere because of Nasdaq’s
+depth-of-book fee increases. Tr. 503-04. In 2012, Nasdaq sought to introduce new tiers of
+pricing for direct access non-display use of its depth-of-book data. Tr. 505-06; Nasdaq Ex. 505
+at 16-17.
+representative was furious with the new prices, claiming that Nasdaq
+placed a “false valuation” on its depth-of-book data, and that the valuation “will dissipate
+quickly as we begin pulling orders away from NASDAQ to other exchanges . . . . This simple
+relationship between market data and order flow should resonate.” Nasdaq Ex. 505 at 13.
+followed up on this threat, routing significant order flow away from Nasdaq, and
+Nasdaq became so concerned that it began to involve several senior executives. Tr. 510-12;
+Nasdaq Ex. 506.
+also reduced its number of servers subscribed to Nasdaq’s depth-ofbook data. Tr. 512-14; Nasdaq Ex. 507. Despite
+actions, Nasdaq did not budge with
+its pricing. Tr. 640-41.
+, a software company that assists firms with facilitating trading, is
+another example of a significant customer that threatened to drop all Nasdaq depth-of-book
+products in response to a price increase. Tr. 514-17; Nasdaq Ex. 508. Nasdaq also tried to
+induce more order flow from
+by offering to cap their market data fees at a lower
+level in exchange for more trade execution. Tr. 517-26; Nasdaq Exs. 502, 503, 504. While that
+effort was ultimately unsuccessful, Nasdaq successfully placated another customer, Hudson
+River Trading, with a fee cap. Tr. 529-34; Nasdaq Ex. 501.
+Lee Shavel, the chief financial officer at Nasdaq OMX Group, testified that his company
+enjoyed a 70-75% profit margin on market data products, but explained it was that high because
+of the way it allocated certain joint costs to various business segments. 21 Tr. 1334, 1337. Shavel
+also testified that depth-of-book data were “crucial” for a category of large and sophisticated
+market professionals, such as banks, market makers, and algorithmic traders. Tr. 1344. These
+entities are big customers of depth-of-book data and also are responsible for around 90% of
+Nasdaq’s order flow. Tr. 1347-57. SIFMA does not dispute that a small group of traders
+account for a tremendous share of order flow, up to 90% of trades executed on Nasdaq’s
+platform. Tr. 1014, 1034; see also Tr. 450.
+EXPERT TESTIMONY
+Terrence Hendershott and Aviv Nevo for NYSE ARCA
+Terrence Hendershott, Ph.D., and Aviv Nevo, Ph.D., opined on behalf of NYSE Arca as
+to whether competitive forces discipline and constrain NYSE Arca’s pricing of ArcaBook. 22
+21
+
+Prior to joining Nasdaq OMX Group, Shavel was a managing director in Bank of America and
+Merrill Lynch’s investment banking group, where he specialized in covering stock exchanges.
+Tr. 1334.
+22
+
+Hendershott is a professor at the Haas School of Business at the University of California,
+Berkeley, with an expertise in management of information systems and the role of information
+technology in financial markets and electronic communications networks and stock exchange
+design. NYSE Arca Ex. 65 at 1537. Nevo is a professor in the department of economics at
+13
+
+NYSE Arca Ex. 65 at 1539. Hendershott and Nevo submitted a joint report: Hendershott was
+primarily responsible for conclusions about the nature and industry use of depth-of-book data,
+and Nevo was primarily responsible for the economic analysis of pricing and competition in the
+depth-of-book data market. Id. at 1539, 1545, 1550, 1559. 23 Hendershott and Nevo conclude
+that competition for order flow and depth-of-book data imposes significant competitive restraints
+on NYSE Arca’s pricing of ArcaBook. Id. at 1543. In support of their position, they assert and
+conclude that:
+Over the last decade, a large number of exchanges and alternative trading systems have
+captured significant trading volume from the NYSE Group and NASDAQ.
+Individual exchanges do not maintain an exclusive hold on trading in a particular
+security.
+Economic theory demonstrates that a negative relationship exists between order flow and
+the price of depth-of-book data. In other words, competition for order flow disciplines
+and constrains the price of depth-of-book data.
+NYSE Arca sets ArcaBook prices to maximize joint profits from multiple exchange
+products. This is consistent with multiproduct firm pricing that seeks to optimize joint
+profits from the sale of two complementary products, namely, transaction services and
+depth-of-book data. Supporting this proposition are the declines in both ArcaBook
+subscriptions and NYSE Arca trading volume when ArcaBook prices increased, as well
+as the pricing of ArcaBook in the inelastic region of the demand curve. 24
+Northwestern University and a professor of marketing at Northwestern’s Kellogg School of
+Business. Id. at 1538. Nevo served as a deputy assistant attorney general for economic analysis
+in the Antitrust Division at the United States Department of Justice in 2013-2014, and his
+expertise includes empirical industrial organization, competition economics, and econometrics.
+Id.
+23
+
+The exhibit consists of a forty-four page report, Exhibits 1-8, and Appendices A-D.
+
+24
+
+Here, price elasticity of demand measures the percentage decrease in quantity demanded in
+response to a 1% change in price. NYSE Arca Ex. 65 at 1568 n.88. Demand is elastic if
+quantity demanded decreases by more than 1% in response to a 1% increase in price, and
+inelastic if quantity demanded decreases by less than 1%. Id. In other words, if demand is
+elastic, revenues decline in response to a price increase and if demand is inelastic, revenues
+increase in response to a price increase. Id. Pricing ArcaBook in the inelastic region of the
+demand curve would cause an increase in revenue when the price is increased because the
+increase in revenue from charging a higher price is greater than the decreased revenue from
+selling fewer units. See generally id. at 1568-69; NYSE Arca Ex. 86. By contrast, if NYSE
+Arca priced ArcaBook in the elastic portion of the demand curve, a price increase would reduce
+overall revenue because the loss in revenue from decreased unit sales is greater than the gain in
+revenue from higher unit prices. See generally NYSE Arca Ex. 65 at 1568-69; NYSE Arca Ex.
+86.
+14
+
+Many customers buy one depth-of-book product and switch to another one over time.
+Trading for nearly all stocks is unconcentrated or moderately concentrated and traders
+can obtain depth-of-book data information about a particular stock from competing
+depth-of-book products offered by different exchanges.
+Economic theory and empirical evidence shows that competing depth-of-book data
+products contain similar information.
+Id. at 1543-44.
+Hendershott opined 25 that depth-of-book data are directly implicated in only a small share
+of trades—3.3% according to one article—that occur outside the NBBO. NYSE Arca Ex. 65 at
+1548. For the remaining 96.7% of trades, which occur at or within the NBBO, depth-of-book
+data are not necessary. Id. Thus, his opinion is that most market participants do not need depthof-book data to trade, but such data would be useful for a trader seeking to fill a large order, and
+can help a trader decide whether to submit a limit order or a market order to trade immediately.
+Id. at 1546-47. For example, high-frequency traders and other market participants with
+sophisticated trading strategies use depth-of-book data. Id. at 1547. According to Hendershott,
+high-frequency traders and other subscribers of non-display data account for a relatively large
+volume of orders on the exchanges, and therefore have bargaining power relative to the
+exchanges that provide depth-of-book data. Id. at 1550.
+Hendershott claimed that stock exchanges compete across a variety of different products
+and services, including index and listing services. NYSE Arca Ex. 65 at 1551-52. They also
+compete in order execution, which accounts for the majority of their revenue, where traders pay
+a per-share fee for orders that take liquidity (execute against existing orders in the exchange’s
+order book), and receive a rebate for orders that make liquidity (add to exchange’s order book).
+Id. at 1552-53. And they compete in data services, such as the sale of core and non-core data.
+Id. at 1552-53. According to Hendershott, the exchanges seek to maximize their profits across
+all their products and services, and because these products are all complementary goods, an
+increase in the price of one good may reduce the revenue from another product. Id. at 1553-54.
+Also, when pricing its data services, an exchange will worry that a too-high price will damage
+revenue from their main business of order execution. Id. at 1554. For a variety of reasons,
+competition from new entrants, especially for order execution, has increased dramatically over
+the last decade. Id. at 1554-59.
+Hendershott represented that New York Stock Exchange and NASDAQ accounted for
+approximately 75% of equity trading volume in early 2007, but that is no longer true. NYSE
+Arca Ex. 65 at 1558. In 2014, New York Stock Exchange and NASDAQ each handled less than
+20% of trading volume; BATS and DirectEdge captured some of that trading volume, but
+electronic trading platforms and other alternative trading systems captured the largest share from
+25
+
+I will refer to each expert individually, rather than collectively, when discussing the assertions
+made in their respective sections of the report.
+15
+
+the incumbent exchanges. Id. at 1558, Ex. 2. Hendershott represented that available data
+showed fifty dark pools trading domestic equities, and the nineteen for which data were available
+accounted for 14% of consolidated volume in 2013. Id. at 1559. Hendershott opined that the
+proliferation of dark pools is clear evidence that low barriers to entry provide competitive
+discipline to the U.S. exchange industry. Id. at 1559.
+Nevo argued that competition between securities exchanges places downward pricing
+pressure on depth-of-book data products and that the existence of substitutes to ArcaBook
+constrains NYSE Arca’s ability to set supracompetitive prices. NYSE Arca Ex. 65 at 1560.
+Nevo concluded that competing depth-of-book products offered by NASDAQ, New York Stock
+Exchange, and others constrain depth-of-book product prices. Id. at 1560, 1570.
+Nevo explained that new entrants have taken substantial market share in order flow from
+incumbent exchanges. NYSE Arca Ex. 65 at 1560. As a result, NYSE Arca must keep its prices
+for its products and services low, including for depth-of-book data, in order to compete. Id. at
+1560-61. To demonstrate the competition between exchanges for order execution, and to rebut
+SIFMA’s claim that the trading volume for particular shares may be concentrated at a single
+exchange, Nevo calculated the Herfindahl-Hirschman Index (HHI) 26 for the trading volume
+across exchanges for all stocks and exchange traded funds traded in November 2014. 27 Id. at
+1561. Nevo found that the aggregate HHI is 1,362, which he claimed met the DOJ’s definition
+of an unconcentrated market. Id. at 1562. Nevo further found that for 90% of stocks, trading
+volume is unconcentrated or moderately concentrated with HHIs under 2500, and the remaining
+10% of stocks with concentrated trading volumes are more likely to be small-cap stocks that are
+rarely traded. Id. at 1562-63. Nevo claimed that the lack of concentration in trading volume is
+proof that competition disciplines exchange fees through the potential loss of order flow and
+trading volume. Id. at 1564. He reasoned that the same is true of depth-of-book fees as well: if
+they increase, they drive up the cost of trading at an exchange, thus causing participants to shift
+their order flow elsewhere. Id.
+To test out his theory, Nevo conducted an experiment, focusing on January 2009, when
+ArcaBook changed from being free to “significant[ly]” increasing its price. 28 NYSE Arca Ex. 65
+at 1565. Nevo sought to measure the impact the price increase had on NYSE Arca’s share of
+trading volume. Id. at 1566. He concluded that as a result of the ArcaBook fee, NYSE Arca lost
+26
+
+HHI is a standard measure of industry concentration, ranging from near zero (low
+concentration) to 10,000 (complete concentration in one venue). NYSE Arca Ex. 65 at 1561.
+
+27
+
+Nevo computed HHI values by exchange owner rather than by exchange because several
+exchanges have the same owner. Id. at 1562.
+28
+
+The new fee structure included a monthly per-customer access fee, a monthly per-subscriber
+device fee, and a fee cap for non-professional users. NYSE Arca Ex. 65 at 1565. After the new
+fees were implemented, subscriber accounts declined from 3,787 to 3,594 and the number of
+professional subscribers declined from 29,636 to 29,133. Id. at 1569. Because the percentage
+change in subscribers was substantially smaller in magnitude than the percentage change in
+price, Nevo concluded that demand for ArcaBook at 2009 prices was inelastic. Id. at 1569.
+16
+
+a “statistically significant” 2.4% of market share in trading volume versus other traditional
+exchanges and 2.1% versus the rest of the market (including dark pools). Id. at 1566-67. Nevo
+also stated that NYSE Arca is pricing its depth-of-book product on the inelastic demand curve.
+Id. at 1568-69. This shows that it is not maximizing its profits from the depth-of-book data,
+because inelastic demand means that NYSE Arca could increase revenues by increasing the price
+of depth-of-book data. Id. at 1568. But Nevo claimed that ArcaBook’s pricing is consistent with
+the conduct of a firm seeking to maximize joint profits from a portfolio of products, and is
+further proof that competition for order flow constrains the pricing of depth-of-book data. Id. at
+1569-70. Nevo explained that because order flow and depth-of-book data have a complementary
+relationship, an increase in the price of ArcaBook would dramatically curtail order flow, leading
+to a loss of overall revenue, which is why ArcaBook is priced on the inelastic demand curve. Id.
+at 1568-70.
+Nevo also claimed that the pricing of depth-of-book products is constrained by
+competitor products offered by other exchanges. NYSE Arca Ex. 65 at 1570. He examined 114
+entities that purchased Nasdaq depth-of-book data in the ninety-four months from January 2007
+to October 2014. Id. at 1572. By comparing those subscriber names to the names on customer
+sheets for NYSE Arca’s ArcaBook and New York Stock Exchange’s OpenBook depth-of-book
+product, Hendershott and Nevo concluded that: those subscribers also purchased ArcaBook and
+OpenBook in 54% of months; also purchased either ArcaBook or OpenBook in 21% of months;
+and did not purchase either ArcaBook or OpenBook in 25% of months. Id. at 1572-73, Ex. 7.
+Nevo also identified numerous Nasdaq depth-of-book subscribers who either never
+subscribed to ArcaBook or at some point dropped ArcaBook. NYSE Arca Ex. 65 at 1574-75.
+Nevo claimed this data show that few entities are required to purchase all depth-of-book data
+from every exchange, and that most entities can and do switch between depth-of-book products,
+perhaps in response to price changes. Id. at 1575. Nevo further argued that depth-of-book
+information is mostly correlated across the exchanges, allowing traders to buy a depth-of-book
+product from one exchange and use it to forecast the depth-of-book at other exchanges. Id. at
+1577-78.
+Nevo found no evidence that the marginal cost of ArcaBook could be determined and
+characterized the use of marginal cost as an indication of a competitive market as misguided.
+NYSE Arca Ex. 65 at 1578. In his opinion, the true measure of competitiveness in the market
+for depth-of-book data is whether there are barriers to entry. Id. at 1580.
+Hendershott and Nevo were also offered as rebuttal witnesses to SIFMA’s experts
+Bernard S. Donefer and David S. Evans. Tr. 164, 273-74. In rebuttal, Hendershott and Nevo
+agreed with SIFMA’s expert Evans that the Exchanges are “multi-product” platforms that
+compete in selling proprietary data products and trade executions, and that a sale of one product
+impacts the decision to buy the other. Tr. 166-67, 274-75. But Hendershott disagreed with
+Evans that the exchanges are both “multi-product” and “multi-sided” platforms. 29 Tr. 167.
+
+29
+
+According to Evans, the exchanges are multi-sided platforms because they act as
+intermediaries between buyers and sellers of equity. SIFMA Ex. 377 at 13683-84. Evans
+17
+
+Hendershott disputed SIFMA expert Donefer’s findings that most traders need depth-ofbook data. Tr. 170-71. Hendershott again cited the fact that 96.7% of trades occur at the NBBO
+prices that are provided by core data. Tr. 170-72. Hendershott conceded that depth-of-book data
+may be useful to certain market participants, such as high-frequency traders or traders who rely
+on algorithmic computer models, and that depth-of-book data would allow traders to see the
+supply and demand for a particular security. Tr. 224-27, 229.
+Hendershott also disputed Donefer’s assertion that depth-of-book products are not
+substitutes for each other by referencing a study in his expert report, showing that out of 120
+Nasdaq depth-of-book customers, only about half also subscribed to the depth-of-book products
+from NYSE Arca and New York Stock Exchange. 30 Tr. 173-78. Hendershott also disagreed
+with Donefer’s assertion that the duty of best execution required market participants to purchase
+depth-of-book data, because only broker-dealers have that duty, but he conceded that depth-ofbook data would help some broker-dealers meet their best execution duty. Tr. 193-94, 236-37.
+Hendershott did not agree with Donefer’s assertion that traders need depth-of-book data
+to participate in open and closing auctions. Tr. 191. Only traders who wish to trade on an order
+imbalance need depth-of-book imbalance data, and this strategy is done only by a very few
+sophisticated entities. Tr. 191-93. Hendershott responded to Evans’s criticism that Hendershott’s
+regression analysis, which showed that NYSE Arca’s relative share of the trading market
+declined when it began charging for NYSE Arca, failed to account for other factors that could
+explain for NYSE Arca’s diminished share of the trading market, including the entry of BATS as
+a securities exchange. Tr. 202-03. Hendershott stated that these criticisms were misplaced
+because in one regression he controlled for overall market volume. Tr. 203.
+Nevo disagreed with Evans’s assertion that the Exchanges keep depth-of-book prices
+high to cross-subsidize low prices for order flow. Tr. 278-79. According to Nevo, Evans’s
+customers who buy depth-of-book data are large and sophisticated entities with an outsized
+portion of trading volume, and can discipline the Exchanges if depth-of-book pricing gets too
+high. Tr. 308-09. Nevo agreed with Evans that NYSE Arca priced its depth-of-book product on
+the inelastic demand curve, but, according to Nevo, that pricing demonstrated that depth-of-book
+data fees were constrained by fear of losing order flow. Tr. 309-15; NYSE Arca Ex. 86.
+Nevo testified that Evans’s criticisms of the regression analysis in Hendershott and
+Nevo’s expert report relied on a theory of perfect competition, which is unrealistic. Tr. 281-82.
+According to Nevo, in the real world, the fact that a company raised prices and lost some
+customers does not demonstrate that the company has market power sufficient to raise an
+antitrust concern. Tr. 282-83. Nevo also criticized Evans’s position that order flow competition
+
+argued, and Nevo disputes, that as a result of this structure, the exchanges price depth-of-book
+products higher and cross-subsidize order flow. Id. at 13684-85; Tr. 277-78.
+30
+
+Hendershott concluded that not every customer needs depth-of-book data, much less all depthof-book data from all exchanges. Tr. 178-79, 182-83; NYSE Arca Ex. 87.
+18
+
+is correlated with an increase in depth-of-book data prices, and argued that Evans confused
+correlation with causation. Tr. 283-84.
+Nevo defended his analysis showing that around 90% of shares that trade on Nasdaq also
+trade on NYSE Arca, and vice versa. Tr. 292-93; NYSE Arca Ex. 83. Nevo explained that the
+90% of shares that trade on both Exchanges account for almost 100% of trading by volume, so
+the 10% of stocks that are concentrated on a particular exchange are small stocks that rarely
+trade. Tr. 293-95. Nevo also responded to criticisms of his HHI analysis, including Donefer’s
+contention that measuring concentration on a monthly basis does not comport with the fact that
+traders make decisions at fractions of a section, by arguing that the only way to conduct an HHI
+analysis was across a longer and more meaningful time period such as a month. Tr. 295-99.
+Nevo also testified that cost and profit margins of depth-of-book data are difficult to calculate
+and that it would be unrealistic to expect or require them to equal each other, which occurs only
+in a model of perfect competition. Tr. 301-05.
+Nevo defended the analysis showing that, out of 120 random Nasdaq depth-of-book
+customers, only about half of them also bought depth-of-book data from NYSE Arca and New
+York Stock Exchange. Tr. 320-22; NYSE Arca Ex. 65 at Ex. 7; NYSE Arca Ex. 82. Nevo
+admitted, however, that 75% of customers who purchased Nasdaq depth-of-book data also
+purchased another exchange’s depth-of-book data product. 31 Tr. 336-37; NYSE Arca Ex. 65 at
+Ex. 7; NYSE Arca Ex. 82. Nevo also admitted that when NYSE Arca first imposed fees for
+ArcaBook, it only lost 2% of professional and 5% of non-professional subscribers. Tr. 359-60.
+Furthermore, Nevo admitted that while his regression analysis showed that NYSE Arca’s share
+of trading volume declined in January 2009 when it began charging for ArcaBook, Nasdaq and
+New York Stock Exchange’s share of trading volume also declined during that time. Tr. 371-72;
+NYSE Arca Ex. 65 at Ex. 2.
+Janusz A. Ordover for Nasdaq
+Janusz A. Ordover presented expert testimony on behalf of Nasdaq. 32 Nasdaq Ex. 601. 33
+Ordover focused on whether the existence of alternatives to depth-of-book data and order flow
+competition constrained Nasdaq’s prices for depth-of-book data. Id. at 3-4. Initially, Ordover
+addressed issues raised in the 2008 ArcaBook Order and in NetCoalition I. He concluded: (1)
+31
+
+The study included only those Nasdaq customers who purchased their data directly from
+Nasdaq, and not Nasdaq customers who received their depth-of-book data from a redistributor.
+Tr. 344-49. Nevo concluded, without supporting evidence, that customers switched between
+depth-of-book products, and even if Nevo had evidence he would not be able to conclude that the
+switch was as a result of a price change. Tr. 350-54.
+
+32
+
+Ordover has been a professor of economics at New York University since 1973 and served as
+a deputy assistant attorney general for economics at the Antitrust Division of the U.S.
+Department of Justice from 1991-1992. Nasdaq Ex. 601 at 2. Ordover’s expertise includes the
+pricing of information and the costs and benefits of regulatory interventions in markets. Id.
+33
+
+The exhibit consists of a thirty-one page report and Attachment 1.
+19
+
+Nasdaq was subject to significant competitive forces in setting fees for depth-of-book data; (2)
+traders have competitive alternatives to Nasdaq depth-of-book data; (3) economic evidence
+shows that order flow competition constrains Nasdaq’s depth-of-book data prices; and (4) from
+an economic perspective, a market-based approach to pricing is likely to lead to greater
+efficiency and enhanced consumer welfare. Id. at 3.
+As an expert in the economics of competition, including antitrust and regulation, Ordover
+testified that products like ArcaBook and Nasdaq’s depth-of-book offerings do not have to be
+absolutely identical for them to compete in the same market. Tr. 675, 685-86. Ordover also
+testified that the mere fact that NYSE Arca and Nasdaq had exclusive control over their depthof-book data did not mean they were not competitors. Tr. 686. In fact, Ordover testified that it
+is very common for a business to have “exclusive control” over their information in the data
+business or content industries. Tr. 686. Ordover stated that Nasdaq’s efforts to innovate and
+market its depth-of-book products suggested it faced significant competitive forces. Tr. 689-90.
+According to Ordover, exchanges like Nasdaq and NYSE Arca compete on a variety of
+products and services, and the rapid rise of BATS, Direct Edge, and the substantial increase in
+OTC trading, including dark pools, indicate there are no substantial barriers to entry or expansion
+in the business of trading equities. Nasdaq Ex. 601 at 6. Ordover claimed that over the past six
+years, Nasdaq’s and NYSE Arca’s share of trading volume has fallen from 32 to 17% and 17 to
+11%, respectively, and that at the end of 2014 no single trading platform accounted for even 25%
+of trading volume. Id. at 6.
+Ordover argued that significant competition between Nasdaq’s depth-of-book products
+and those of other exchanges constrains prices. Nasdaq Ex. 601 at 9-10. Ordover cited Nasdaq’s
+continual improvement and innovation in its depth-of-book products as evidence of Nasdaq’s
+efforts to improve its competitive standing. Id. at 9-10. Ordover also cited efforts by Nasdaq
+and its competitors to undercut each other to gain market share in depth-of-book products. Id. at
+10-11. Ordover conceded that not every exchange’s depth-of-book product is identical, but
+maintained that the substantial overlap in quality of data can effectively constrain prices,
+comparing it to Coke and Pepsi, two products that are not identical yet constrain each other’s
+prices. Id. at 13.
+Ordover testified that Nasdaq gained and lost a substantial number of depth-of-book
+customers in every year during the period between 2008 and 2014. Nasdaq Ex. 601 at 14. In
+this time period, annual churn rates on Nasdaq’s depth-of-book products were between 23 and
+41%. 34 Id. at 14-15. Moreover, customers can, and do, put pressure on Nasdaq’s pricing by
+increasing or decreasing their subscriptions to depth-of-book data. Id. at 15-16. Based off this
+data, Ordover concluded that significant numbers of Nasdaq’s customers can drop its depth-ofbook products, or reduce their usage, if Nasdaq priced those products too high. Id. at 16.
+Ordover testified that a churn analysis demonstrated that customers can and do switch from one
+depth-of-book supplier to another, that Nasdaq’s depth-of-book product is not essential, and that
+34
+
+Ordover calculated the churn rate as the sum of annual customer additions and losses divided
+by the total number of customers in that year. Nasdaq Ex. 601 at 15 n.37.
+20
+
+not every customer needs depth-of-book product from all exchanges. Tr. 695-97, 701; Nasdaq
+Ex. 601 at 15.
+Ordover acknowledged that his churn analysis did not account for customers who stopped
+purchasing depth-of-book data from Nasdaq directly but instead received it from a redistributor.
+Tr. 698-99, 766-68. Ordover believed it unlikely that many customers would choose to receive
+depth-of-book data from a redistributor because it would be slower and more expensive;
+however, he admitted that he is unaware of the actual percentage of customers who switched to
+redistributors. Tr. 699-700. In response to Evans’s criticism that he had cited few examples of
+customers switching, Ordover put forward around thirty examples of customers switching
+between depth-of-book products, though he admitted that for those examples, he did not know
+whether customers dropped Nasdaq or simply switched to a redistributor. Tr. 702, 777-79.
+Ordover testified that competition for order flow constrains Nasdaq’s depth-of-book
+prices, citing
+, which, displeased with a price increase in Nasdaq’s depth-of-book
+product, threatened to, and eventually did, route significant order flow away from Nasdaq.
+Nasdaq Ex. 601 at 19-20. Ordover also cited another example where, in a bid to attract more
+order flow, Nasdaq lowered market data fees for a customer. Id. at 20-21. Ordover
+acknowledged that
+, a company that had threatened Nasdaq in response to a depth-of-book
+price increase, was still a Nasdaq depth-of-book customer, even though the fees
+had
+complained about had been raised again. Tr. 760-63. Ordover admitted that Nasdaq did not
+reduce its price in response to the
+order flow threat and that
+still buys depthof-book data from Nasdaq. Tr. 799.
+Ordover disputed SIFMA’s arguments that Nasdaq depth-of-book prices had
+continuously increased, but even if they had, he contended that it was not evidence of a lack of
+competitive forces in the marketplace. Tr. 704-07. In Ordover’s opinion, the only material fee
+increase for Nasdaq’s depth-of-book products was the increase for the non-display direct feed,
+which only affected high-frequency traders. Tr. 708-09.
+Ordover agreed with Donefer that 80% of Nasdaq’s depth-of-book customers also bought
+ArcaBook. Tr. 712-13. However, Ordover argued that those numbers showed depth-of-book
+data were not essential, since 20% of Nasdaq’s customers did not subscribe to ArcaBook. Tr.
+713. Also, he contended that among Nasdaq’s depth-of-book customers, over 51% are only
+purchasing TotalView, meaning half of its customers are not purchasing Nasdaq’s full depth-ofbook service. Tr. 713-15. Ordover testified that the only customers who absolutely need depthof-book data from all the exchanges are customers such as algorithmic and high-frequency
+traders, who are a small proportion of the overall total of customers, but who exert enormous
+power over the Exchanges because they represent a gigantic percentage of the trading market.
+Tr. 716-18. Ordover criticized SIFMA’s argument that broker-dealers needed to purchase depthof-book data to meet their best execution obligations, citing a lack of evidence. Tr. 719-20.
+Ordover disputed SIFMA’s claim that the reasonableness of an exchange’s depth-of-book
+fees can be determined from the cost incurred in collecting and distributing the depth-of-book
+data. Nasdaq Ex. 601 at 25. Ordover testified that marginal cost pricing is not sustainable in
+industries like this, with high fixed costs and low marginal cost. Tr. 729-31. He also claimed
+21
+
+that a great portion of the costs of depth-of-book data were joint costs, like the costs of paying
+rebates for trade execution, that were currently not being allocated to depth-of-book data. Tr.
+732-38. Ordover also contested SIFMA’s assertion that depth-of-book fees should be based off
+marginal cost, pointing out that numerous SIFMA members price the data on their own products
+above marginal cost. Nasdaq Ex. 601 at 27. According to Ordover, the more appropriate
+methodology to measure competition and market power is an assessment of the market structure
+and competitive forces that constrain pricing. Id. at 26.
+Bernard S. Donefer for SIFMA
+Bernard S. Donefer was retained by SIFMA as an expert rebuttal witness. 35 He testified
+that depth-of-book data is essential to market participants. SIFMA Ex. 376 at 13561. Donefer
+argued that ArcaBook and Nasdaq’s TotalView provide a complete picture of each exchange’s
+depth-of-book that cannot be obtained elsewhere. Id. at 13562. Using the example of WD-40
+Co., Donefer explained that depth-of-book data allow a trader “to see all of the visible orders
+available for a security on a particular exchange at all price levels.” Id. at 13573. Donefer
+testified that without depth-of-book data from all the exchanges, a trader seeking to execute a
+particularly large order would not know how to make his routing and trading decisions. Id. 36
+Donefer also stated that depth-of-book data has become more valuable with the introduction of
+decimalized trading, which allows shares to be traded on a spread of just one cent and which
+considerably reduced the amount of shares available at the best bid and offer prices. Id. at
+13576.
+According to Donefer, each exchange’s order book is entirely unique, and a trader at any
+given time cannot expect the order book on one exchange to be representative of the order book
+on another exchange. SIFMA Ex. 376 at 13587; Tr. 815. Donefer was emphatic that depth-ofbook data is essential for market participants, like high-frequency traders, who need core and
+non-core data at the fastest speeds. SIFMA Ex. 376 at 13578. Exchanges are required to provide
+core data, which includes the NBBO on each stock, but that data are given to a central processor
+that aggregates the data before distribution, and this creates a delay. Id. at 13578-79. In contrast,
+subscribers to a direct depth-of-book feed get core data directly at the fastest speed possible
+between the exchanges and the subscriber. Id. at 13579. According to Donefer, active traders
+without depth-of-book data are at a substantial disadvantage, citing a report by Hendershott that
+receipt of core data from the central processor lagged behind receipt of core data on a depth-ofbook direct feed tens of thousands of times over a single day. Id. In addition, Donefer testified
+35
+
+Donefer is a distinguished lecturer at the Zicklin School of Business at Baruch College of the
+City University of New York, associate director of the Zicklin School’s Subotnick Financial
+Services Center, and an adjunct associate professor at the Stern School of Business at New York
+University. SIFMA Ex. 376 at 13561. Before entering academia in 2003, Donefer’s career in
+the securities industry included serving as a senior vice president and head of capital markets
+systems at Fidelity Investments in Boston, where he was responsible for Fidelity’s trading
+systems. Id.
+36
+
+Donefer discussed and provided examples of how depth-of-book data is used for large orders.
+SIFMA Ex. 376 at 13573-76.
+22
+
+that depth-of-book data are vital for traders who wish to place “imbalance only” orders in the
+exchanges’ open and close auctions. Id. at 13580; Tr. 833-35.
+Donefer argued that several categories of investors require access to all depth-of-book
+products from every exchange, including pension funds, mutual funds, insurance companies,
+large endowments, and broker-dealers working for those entities, all of which often trade in
+quantities so large that they require depth-of-book data to formulate strategies for executing
+trades. SIFMA Ex. 376 at 13581-82. Market participants for whom depth-of-book data are
+essential also include short-term traders that trade on mathematical arbitrage models, market
+makers, and some retail investors. Id. at 13582-83. Donefer testified that a broker-dealer that
+does not purchase all available depth-of-book products will see its order execution decline,
+because it will not be able to optimize the quantity of shares traded at the best price. Id. at
+13585. Donefer testified that, because brokers have to meet their duty of best execution, they
+cannot move order flow easily, and that a broker’s ability to meet best execution is measured by
+regulators and clients. Tr. 931-32. A broker’s execution quality is evaluated within the industry,
+and a broker with declining execution quality will lose customers. Id. at 13585-86. In Donefer’s
+opinion, brokers are therefore heavily reliant on ArcaBook and TotalView, at any price. Id. at
+13586.
+Donefer testified that all broker-dealers need depth-of-book data from all the major
+exchanges, or otherwise they run the risk of not meeting their duty of best execution. Tr. 919-20.
+It is Donefer’s opinion that institutional investors will always choose a broker with full depth-ofbook data access over one without it because of the advantages offered in terms of trade
+execution, speed, and better queue placement. Tr. 996. Donefer acknowledged that to obtain a
+direct depth-of-book feed would require a significant investment in infrastructure. Tr. 965-66.
+Donefer agreed that about one hundred firms absolutely require all depth-of-book data
+from every major exchange, and that these firms account for a large percentage of the
+transactions on exchanges. Tr. 1013-14. Donefer testified that these one hundred firms have no
+choice but to buy depth-of-book data from every major exchange. Tr. 1016. However, these
+firms’ opportunities to shift order flow are limited by economic realities; even
+stated it
+would shift order flow subject to best execution. Tr. 1039. Donefer concluded that it was not
+sustainable for
+to permanently route order flow away from Nasdaq due to Regulation
+NMS, which states that if you have a client order, you must route it to the source of the best price
+in the market at that time. 37 Tr. 1039, 1047.
+Donefer criticized Hendershott and Nevo’s conclusions that trading is not concentrated
+on an individual exchange, noting that their study conceded that trading for 10% of all securities
+was concentrated. SIFMA Ex. 376 at 13577. Donefer argued that the study, based off trading
+patterns over an entire month, ignored the possibility that at any given time, trading may be
+highly concentrated within a certain exchange. Id. at 13577-78.
+
+37
+
+SIFMA presented no evidence, aside from Donefer’s testimony, to support the idea that traders
+were limited in shifting order flow.
+23
+
+Donefer did not consider the Hendershott and Nevo analyses persuasive. Donefer found,
+for instance, that some of their studies are skewed because they did not include market
+participants who receive depth-of-book data from a third party like Bloomberg. SIFMA Ex. 376
+at 13589. He also argues that some attrition in ArcaBook’s subscribers after the introduction of
+fees could be explained by the Great Recession occurring at the same time. Id.
+
+David S. Evans for SIFMA
+David S. Evans offered expert testimony on whether the Exchanges are subject to
+significant competitive forces in setting their depth-of-book fees and rebutted the economic
+analyses and opinions of Hendershott, Nevo, and Ordover. 38 Tr. 1064; SIFMA Ex. 377.
+Evans concluded that competitive forces did not constrain the pricing of depth-of-book
+data because customers lacked good substitutes. Tr. 1066. In determining whether depth-ofbook products were substitutes for each other, Evans considered if customers actually switched
+when prices went up, and testified that the evidence shows they do not. Tr. 1134-35. Evans
+noted, for instance, that when ArcaBook dramatically increased its prices, it lost few subscribers.
+Tr. 1066-67. Evans testified that it is likely that for many customers, ArcaBook and Nasdaq’s
+depth-of-book products are complements, not substitutes, and that those customers need both.
+Tr. 1139.
+Evans admitted that order flow competition was very intense; however, he saw no
+evidence suggesting raising depth-of-book prices caused the Exchanges to lose order flow. Tr.
+1170, 1317. Even if it did, Evans believed that, because profits are higher on depth-of-book data
+sales, an exchange might still earn enough additional revenue from higher depth-of-book prices
+to offset any loss in order flow revenue. Tr. 1318-19.
+Evans testified that he had learned from a
+representative that
+had
+been able to pull order flow from Nasdaq only for a short time because the costs were too great.
+Tr. 1192-93. Evans was surprised when shown an exhibit demonstrating that
+had in
+fact kept order flow with Nasdaq low for several years. Tr. 1200; Nasdaq Ex. 619. However,
+Evans pointed out that even if
+diverted its order flow for a longer period than he
+realized, it was still not successful in convincing Nasdaq to lower its data fee prices. Tr. 120001.
+Evans considers the Exchanges “multi-product” firms because they offer multiple related
+products such as trading services, listing services, and depth-of-book data. SIFMA Ex. 377 at
+13683. Evans claims such firms will charge higher prices for products with more inelastic
+demand and fewer substitutes, such as depth-of-book data. Id. at 13683-85. On the other hand,
+such firms will charge lower prices for products facing stiff competition, such as trading services
+to attract order flow. Id. at 13685. As a result, Evans argued that heavy competition for trading
+38
+
+Evans, chairman of Global Economics Group, has a Ph.D. in economics from the University of
+Chicago, has taught antitrust economics for more than twenty-five years, and has authored five
+major books and more than one hundred professional articles. SIFMA Ex. 377 at 13676, 13717.
+24
+
+services and order flow could encourage the Exchanges to increase depth-of-book data prices
+and use those profits to subsidize lower prices for trading services. Id.
+Evans argued that the availability of depth-of-book data from other exchanges does not
+constrain the Exchanges’ depth-of-book pricing. SIFMA Ex. 377 at 13686-95. Hendershott and
+Nevo’s analysis showed that NYSE Arca lost only 5% of its accounts and 2% of its subscribers
+in 2009 after it began charging certain subscribers up to $750 a month for depth-of-book data.
+Id. at 13689-90. To Evans, this demonstrated that ArcaBook customers “could not find
+substitutes” and “decided to continue purchasing ArcaBook.” Id. at 13689-90. Evans also
+contended that the regression analysis, purporting to show a fall in NYSE Arca’s market share
+due to charging fees for ArcaBook, is fatally flawed because it failed to account for the transition
+of BATS from an alternative trading venue to an exchange, which alone would have significantly
+reduced NYSE Arca’s share of trading volume amongst exchanges. Id. at 13697-98.
+Likewise, Evans considered Ordover’s “churn” analysis fatally flawed because it failed to
+account for customers who may have stopped purchasing Nasdaq depth-of-book data directly but
+instead opted to buy it through a redistributor like Bloomberg. SIFMA Ex. 377 at 13690. In
+addition, Evans faulted the analysis for failing to account for the effects of the Great Recession,
+when many firms that dropped Nasdaq depth-of-book data may have simply gone out of
+business. Id. at 13690-91. Evans claimed that, aside from a flawed churn analysis, Ordover’s
+only evidence of competition in depth-of-book data is a list of seven customers who switched
+between Nasdaq and NYSE Arca from 2006-2014. Id. at 13692. Evans concluded from
+Ordover’s churn analysis that there was very little switching done by Nasdaq’s depth-of-book
+customers. Tr. 1067. Moreover, Evans argued that the fact NYSE Arca only lost 2% of its
+subscribers when it instituted fees for ArcaBook is the evidentiary “gold standard” in
+determining that NYSE Arca had significant market power. Tr. 1095, 1109-10.
+Evans recognized an interdependent relationship between order flow and market data
+sales, but maintained there is no basis for concluding that competition for order flow restrained
+the price of market data. SIFMA Ex. 377 at 13696. Evans opined that Exchanges lowered prices
+for order flow and subsidized that reduction by raising the prices of depth-of-book data, and to
+support this, he cited to evidence showing that, even while the Exchanges’ market share for order
+flow declined, they continued to raise prices for their depth-of-book data. Id. at 13696-97.
+Evans also claimed that analytical mistakes invalidated Hendershott and Nevo’s conclusion that
+NYSE Arca priced depth-of-book data on the inelastic demand curve. Id. at 13699. Finally,
+Evans criticized Ordover’s testimony about firms threatening to divert order flow as
+unpersuasive, irrelevant, and inconsistent with scientific methods for making inferences. Id. at
+13700-02.
+ARGUMENTS OF THE PARTIES
+Nasdaq
+Nasdaq insisted that its depth-of-book fees are consistent with the Exchange Act because
+the market for depth-of-book data is subject to significant competitive forces. Nasdaq Br. at 12.
+Nasdaq argued that the Commission and the D.C. Circuit have recognized two types of
+25
+
+competitive forces that can put pressure on pricing depth-of-book data: 1) the availability of
+alternative products; and 2) competition for order flow. Id. at 10. Nasdaq argued that the
+Exchanges established the existence of these competitive forces with evidence sufficient to
+overcome the evidentiary deficiencies the court found when it invalidated the Commission’s
+2008 ArcaBook Order. See id. at 11-26.
+According to Nasdaq, its customers fall into two groups: 1) the vast majority of traders,
+who either require no depth-of-book data or do not require depth-of-book data from all
+exchanges; and 2) one hundred or so firms, comprising of banks and electronic trading firms,
+which require depth-of-book data from every major exchange. See Nasdaq Br. at 1-5. For the
+first group, Nasdaq argued that the Exchanges’ depth-of-book prices are constrained by the threat
+that these customers will either reduce their usage or substitute depth-of-book products from
+other exchanges when the prices get too high. Id. at 1-3, 12-19. For the second group, the
+Exchanges’ depth-of-book prices are constrained because the one hundred firms exert massive
+negotiating leverage over the Exchanges because they account for up to 90% of the order flow on
+Nasdaq. Id. at 3-5, 19-26.
+For the first group, Nasdaq claimed that the vast majority of consumers do not buy depthof-book data, do not need depth-of-book data from all exchanges, or trade in dark pools where
+there is no depth-of book data. Nasdaq Br. at 12. Furthermore, Nasdaq pointed out that out of
+all professional traders who purchase some type of market data from Nasdaq, only about 24.3%
+buy some type of depth-of-book product and only 8.57% subscribe to TotalView, Nasdaq’s full
+depth-of-book product for Nasdaq-listed stocks. Id. at 13-14. As a result, Nasdaq maintained
+that it is restrained from setting too high a price on its depth-of-book data because the majority of
+customers can either switch to another depth-of-book product or reduce or eliminate their use of
+depth-of-book data. Id. at 14-15. Nasdaq cited to evidence from its witnesses, Albers and
+Ordover, showing that approximately thirty firms have switched from Nasdaq depth-of-book
+products. Id. at 15-16; Nasdaq Reply Br. at 9-10. Nasdaq also claimed the evidence shows that
+the mere threat of switching has caused Nasdaq to reduce its prices to keep customers. Nasdaq
+Br. at 17-19.
+For the second group, Nasdaq argued that the one hundred firms requiring all depth-ofbook data have “the upper hand” in negotiations, because “[w]ithout the order flow, Nasdaq
+really doesn’t exist,” and the threat of switching by these powerful one hundred firms provides a
+significant constraint on depth-of-book-pricing. Nasdaq Br. at 3-5, 19-26; Nasdaq Reply Br. at
+11-17. Nasdaq claimed that if it raises prices too high for depth-of-book data, the one hundred
+firms would punish it by routing order flow elsewhere. Nasdaq Br. at 19-26. Because order flow
+is the “life blood” of Nasdaq, it argued that this threat constrains its pricing of depth-of-book
+data. Id. at 4, 20-21. As an example, Nasdaq cited
+withdrawal of half of its order
+flow from Nasdaq from 2012 to today, and threats of similar action by other customers. Nasdaq
+Br. at 22-23. It also cited other examples of powerful entities threatening to shift order flow
+away from Nasdaq. Id. at 23-24.
+Nasdaq also argued that the evidence of its competitive constraints can be seen in the
+consistently low prices assessed for its depth-of-book products. Nasdaq Br. at 26-30. It claimed
+that, contrary to SIFMA’s claims, its depth-of-book prices have either remained constant or
+26
+
+actually declined over the years. Id. at 27-29. Nasdaq conceded that its April 2012 filing was a
+“meaningful price increase,” but stated that it was the “only instance” of a meaningful price
+increase from 2006 until now. Nasdaq Reply Br. at 5. Nasdaq also defended the rationale
+behind the price increase, arguing that it was “fully consistent with higher demand by highintensity computer data users who were consuming the data at a far greater rate and were
+deriving far greater value.” Id. Nasdaq claimed that this price increase was carefully
+implemented, and essentially applied only to the one hundred firms. Nasdaq Br. at 30. Nasdaq
+also argued that, in 2003, it implemented significant permanent reductions in subscription fees
+for TotalView and OpenView. Id. at 27. In subsequent years, Nasdaq also significantly
+decreased distribution and direct access fees for TotalView and OpenView. Id. at 28 nn.7-9.
+Nasdaq contended that its pricing decisions always take into account potential client impacts and
+that the considerable sums it spends on marketing and promoting depth-of-book products
+demonstrate that it faces serious competition. Id. at 31-34. Nasdaq criticized SIFMA for failing
+to produce any supporting witnesses, documents, or data from any of its members. Nasdaq
+Reply Br. at 2.
+Nasdaq stated that the marginal cost of producing depth-of-book data is largely irrelevant
+because the costs of producing market data are not properly reflected in its accounting. Nasdaq
+Br. at 37-42. This is because Nasdaq incurs significant joint costs in creating a trading platform
+and attracting order flow, and without either, its depth-of-book data would be valueless. Id. at
+39, 41-42. However, when Nasdaq does its accounting, none of these joint costs are allocated to
+the depth-of-book data, and the result is that profit margins for depth-of-book data appear far
+greater than they are in reality. Id. at 41-42. Nasdaq also claimed that profit margins are largely
+irrelevant for determining whether an entity is constrained by competition. Id. at 42.
+Lastly, Nasdaq argued that SIFMA represents Nasdaq’s competitors, not the investing
+public, and that even if I found that Nasdaq’s products were not subject to significant
+competitive forces, the fees for depth-of-book data would still be in the public interest. Nasdaq
+Br. at 44-45.
+NYSE Arca
+NYSE Arca insisted that the sole issue, based on NetCoalition I, is whether the evidence
+in this record satisfies the market-based approach espoused by the Commission. NYSE Arca Br.
+at 1. NYSE Arca argued that the issue of sufficient competition is determined by the following
+criteria: are sellers of depth-of-book data subject to competitive constraints; does the risk of a
+reduced order flow constrain depth-of-book data prices; and does “trader behavior” indicate there
+are alternatives to purchasing an exchange’s depth-of-book data? Id. NYSE Arca believes the
+record provides an affirmative answer to each of these questions. Id. at 2-3.
+NYSE Arca argued that its prices are constrained by the threat of large firms shifting
+order flow elsewhere. NYSE Arca Br. at 20-22. In support, NYSE Arca cited the
+example, which it claimed clearly established the linkage between order flow and pricing of
+depth-of-book data, as well as examples of several of its own customers threatening it with
+shifting order flow. NYSE Arca Br. at 20-23; NYSE Arca Reply Br. at 9-10. NYSE Arca also
+cited a regression analysis conducted by its expert witnesses, purporting to show that NYSE
+27
+
+Arca’s share of order flow declined by 9.8% relative to the rest of the trading market after it
+introduced fees for ArcaBook. NYSE Arca Br. at 24. NYSE Arca reiterated that ArcaBook is
+priced in the inelastic region of the demand curve in order to increase trading volume. Id. at 2627. According to NYSE Arca, a profit-maximizing firm with market power would never price
+its product on the inelastic part of the demand curve because raising prices into the elastic
+portion of the demand curve would increase profits. Id. at 26. However, NYSE Arca prices its
+product on the inelastic demand curve because by raising prices, it would risk lowering demand
+for the complementary product, trade executions. Id. at 26-27; NYSE Arca Reply Br. at 14-15. 39
+NYSE Arca also argued that when it increases prices, those increases often reflect the increased
+value of the depth-of-book product. NYSE Arca Br. at 8.
+NYSE Arca also argued trader behavior and the availability of substitutes show that
+ArcaBook pricing is constrained. NYSE Arca Br. at 27-35. NYSE Arca cited evidence which it
+contends shows that most traders do not need depth-of-book data from all the major exchanges.
+Id. at 28-29. For instance, NYSE Arca cited evidence showing that among a selection of
+Nasdaq’s depth-of-book customers, only 54% also purchased the depth-of-book data from NYSE
+Arca and the New York Stock Exchange. Id. at 28. Moreover, NYSE Arca argued that several
+prominent broker-dealers only buy depth-of-book products from Nasdaq, NYSE Arca, or the
+New York Stock Exchange, but not from all three because depth-of-book data from the
+exchanges are substitutes because of the large overlap in the stocks they trade. Id. at 29-30.
+NYSE Arca took issue with SIFMA’s insistence that the Exchanges provide evidence of traders
+switching from one depth-of-book product to another, arguing that NetCoalition I only required
+evidence of the availability of alternatives. NYSE Arca Reply Br. at 15-16.
+NYSE Arca also contended that ArcaBook is sold in a competitive market, citing to
+conclusions by the Department of Justice’s Antitrust Division that the securities exchange data
+product market faced significant competition. NYSE Arca Br. at 13-14. NYSE Arca further
+maintained that new, vigorous competition among trading platforms disciplined depth-of-book
+data pricing by forcing exchanges to keep overall costs of trading low to avoid losing business to
+new competitors. Id. at 14.
+NYSE Arca was highly critical of the positions taken by SIFMA’s expert witnesses.
+NYSE Arca Br. at 15-19, 25-26, 33-35, 41-43. It rejected Evans’s position that the Exchanges
+have significant market power over their depth-of-book products because each controls the
+source of information on liquidity on its exchange below top of book, noting, among other
+things, that the Ford Motor Company is the only source of Ford automobiles yet faces
+competition in the auto industry. Id. at 17-18. NYSE Arca also argued that SIFMA did not
+provide any evidence of trader behavior related to substitution, and that many SIFMA members
+re-sell depth-of-book data for profit and operate alternate trading venues that compete with the
+Exchanges for order flow. Id. at 32, 35-36. NYSE Arca contended that SIFMA filed its petition
+39
+
+Hendershott and Nevo concluded that NYSE Arca was pricing on the inelastic portion of the
+demand curve by comparing the increase in revenue when it started charging for ArcaBook with
+the loss of ArcaBook subscribers. NYSE Arca Ex. 65 at 1569. The percentage change in the
+loss of subscribers was “substantially smaller in magnitude than the percentage change in price,”
+leading them to conclude that demand was inelastic. Id.
+28
+
+to force exchanges to lower the price of market data products for the benefit of certain SIFMA
+members. NYSE Arca Reply Br. at 4-5. NYSE Arca also argued that profit margins and costs
+are meaningless in assessing depth-of-book data fees because accounting measures do not reflect
+market power. NYSE Arca Br. at 37-38; NYSE Arca Reply Br. 20-21.
+In response to SIFMA, NYSE Arca contended that any price increases were reasonable
+and reflect “the value received by customers for their use of ArcaBook.” NYSE Arca Reply at
+17. NYSE Arca also pointed out that many key prices remain constant, for example, the nonprofessional ArcaBook user fee has not changed since it was implemented. Id. at 18. NYSE
+Arca concluded that SIFMA has not met its burden of establishing a “substantial countervailing
+basis” to find that its filing as to ArcaBook violates the Exchange Act or Commission rules, and
+that SIFMA’s arguments are contrary to the public interest. NYSE Arca Br. at 38, 44-45.
+SIFMA
+SIFMA contended that the evidence overwhelmingly shows that the Exchanges’ depthof-book pricing is not significantly constrained by alternative data sources or the possibility of
+order flow being routed elsewhere. Instead, SIFMA argued that an Exchange’s depth-of-book
+data are an exclusive product, containing data unique to each exchange that is essential to many
+traders. SIFMA Br. at 9-10, 17-32. SIFMA contended that depth-of-book data are essential for
+several reasons. One, they provide far more information about the liquidity of any particular
+stock than one would obtain from core data alone. Id. at 9-10. Two, the only way to obtain a
+full picture of the available liquidity in the market is to subscribe to all the depth-of-book data
+from the major exchanges. Id. at 10. Three, shares now trade in decimalized form, which has
+“substantially decreased the depth at the best prices and substantially increased the depth at the
+various one cent price points inferior to the best prices.” Id. at 10-11 (quoting NetCoalition I,
+615 F.3d at 530 n.7). Four, the low-latency provided by depth-of-book data are essential to
+participate in the Exchanges’ order imbalance auctions at the beginning and close of each trading
+day. Id. at 11. Finally, depth-of-book data proprietary feeds are much faster than the feeds for
+core data and other market data. Id. at 11-12. SIFMA alleged that the Exchanges take advantage
+of the necessity of depth-of-book data by repeatedly raising existing fees and creating new fees.
+Id. at 12-14. SIFMA asserted that depth-of-book fees have been extremely lucrative for the
+Exchanges, with profit margins for some products of 85%. Id. at 14-15.
+SIFMA disputed the argument that alternatives constrain the Exchanges’ depth-of-book
+pricing. It argued that the best way to determine whether substitution constrains prices is by
+looking at customer behavior when prices increase. SIFMA Br. at 17-19. The evidence, SIFMA
+asserted, showed almost zero substitution when prices increased. Id. at 18-19. SIFMA argued
+that NYSE Arca imposed a “massive fee increase,” up to 74,900%, when it began charging for
+ArcaBook in 2009. Id. at 13, 19. Prices went from zero for all subscriptions to $10 a month for
+nonprofessional subscribers, $30 a month for professional subscribers, and $750 a month for
+direct feed subscriptions. Id. at 19. Despite this increase, ArcaBook’s professional subscribers
+only dropped 2%, and the number of accounts dropped 5%. Id. at 20. SIFMA asserted that such
+a small drop “indicates that most of the subscribers who obtained ArcaBook could not find
+substitutes in the face of this massive price increase.” Id.
+
+29
+
+SIFMA also argued that Nasdaq lost only 17.7% of its customers and only 3.1% of
+Nasdaq’s depth-of-book revenue, or “virtually no substitution whatsoever,” after imposing a fee
+increase in 2012. SIFMA Br. at 22-23. Furthermore, SIFMA stated that the Exchanges have
+only identified a few anecdotal examples of customers switching between depth-of-book
+products, and that none of the evidence demonstrates that any of the switching was in response to
+price changes. Id. at 21-25, 29-30.
+SIFMA also argued that NYSE Arca was able to identify only one customer who had
+dropped a depth-of-book product because of price, and it disputed that there was even one
+because the customer dropped the Arca integrated feed and not ArcaBook. SIFMA Br. at 22 &
+n.15. SIFMA accused NYSE Arca of failing to present any evidence showing that it ever
+suffered significant subscriber losses in response to “any of the numerous other price increases”
+over the past seven years, including two prices increases over the past two years. Id. at 14, 19,
+21. As for Nasdaq, SIFMA argued that the evidence shows a number of price increases with
+little to no loss of subscribers. Id. at 22-23. SIFMA also dismissed Nasdaq’s expert’s churn
+analysis as flawed and unreliable. Id. at 23 n.16.
+SIFMA took issue with evidence from the Exchanges showing that some customers buy
+depth-of-book data from some but not all exchanges; to SIFMA, this evidence has no relevance
+as to whether customers actually switch between the products in response to price changes.
+SIFMA Br. at 29. SIFMA also considered irrelevant the evidence that trading in securities is
+dispersed across many exchanges. Id. at 30-31. And SIFMA dismissed the findings of the
+Department of Justice’s Antitrust Division, which it contended focused on a different issue and
+examined different evidence. Id. at 31-32.
+SIFMA also claimed that the Exchanges have failed to show that competition for order
+flow constrained their depth-of-book prices. SIFMA Br. at 32. SIFMA conceded that
+competition for order flow is intense, but argued that the Exchanges presented no evidence
+showing that competition for order flow actually constrains depth-of-book fees. Id. at 33.
+SIFMA argued that traders, because of order execution obligations, including best execution,
+have limited ability to “penalize” the Exchanges for raising depth-of-book prices by shifting their
+order flow elsewhere. Id. at 33-34. SIFMA claimed that the Exchanges have produced evidence
+of only one customer who shifted order flow in response to a depth-of-book fee increase, and
+that this falls far short of carrying the Exchanges’ burden. Id. at 35. SIFMA argued that this
+confirmed that traders have limited ability to shift order flow, because Nasdaq personnel
+recognized that
+was “shooting themselves in the foot.” Id.
+SIFMA claimed that NYSE Arca’s regression analysis, the “only effort either Exchange
+made to present systematic evidence of a relationship between depth-of-book data fees and order
+flow,” contained several fatal flaws. Id. at 38-40. SIFMA believes the regression analysis
+demonstrates that NYSE Arca was losing order flow even before the depth-of-book fees were
+introduced, such as when other exchanges entered the market and decreased NYSE’s share of
+exchange trading volume, and therefore is of little value. Id. at 39. SIFMA claimed that the
+experts failed to study the impact on order flow of price increases for high-frequency and
+algorithmic traders in 2013 and 2014. Id. at 39-40. And SIFMA argues that competition for
+order flow has actually increased, not decreased, depth-of-book prices. Id. at 40-47. Finally,
+30
+
+SIFMA argued that the Exchanges’ cost and profit margins are relevant under NetCoalition I,
+and that Nasdaq’s high profit margins and NYSE Arca’s refusal to disclose profit margins
+indicate significant market power. Id. at 48-54.
+LEGAL CONCLUSIONS
+Under the standards articulated by the Commission and D.C. Circuit, the Exchanges have
+shown that they are subject to significant competitive forces in setting fees for depth-of-book
+data: the availability of alternatives to the Exchanges’ depth-of-book products, and the
+Exchanges’ need to attract order flow from market participants constrains prices. There is no
+substantial countervailing basis to find against the Exchanges. The SRO rules at issue make
+available valuable proprietary information to anyone on a basis that is not unreasonably
+discriminatory from sources that are under no obligation to provide it. The Exchanges’ pricing
+for depth-of-book data is uniformly applied to similar-situated subscribers. Tr. 384, 617-18.
+Accordingly, the SRO rules at issue implementing fees for depth-of-book data are consistent
+with and in furtherance of the purposes of the Exchange Act.
+Depth-of-book products covered
+I conclude that ArcaBook, and Nasdaq’s Level 2, OpenView, and TotalView are all
+subject to this proceeding. The parties agree that ArcaBook and Level 2 are at issue. But
+SIFMA and Nasdaq disagree as to whether the challenged 2010 Nasdaq Rule also relates to
+OpenView and TotalView. Nasdaq Br. at 1 n.1, 36; SIFMA Br. at 4 n.1. Nasdaq argued those
+products are not at issue because the 2010 Nasdaq Rule sought to harmonize only certain Level 2
+fees with those of OpenView and TotalView, and that fees for those latter two products were not
+increased. Nasdaq Br. at 36; see Nasdaq Ex. 548 at 392-93. But SIFMA countered that in
+harmonizing Level 2’s fees with those of OpenView and TotalView, the 2010 Nasdaq Rule reimposed the fees for all three products. SIFMA Br. at 4 n.1.
+SIFMA’s argument is correct. The 2010 Nasdaq Rule did not impose a new fee applying
+only to Level 2. Nasdaq Ex. 548 at 392. Instead, it removed language that limited certain
+existing fees only to TotalView and OpenView. Id. (noting that language within the brackets
+was to be removed). Without that limiting language, those fees applied to TotalView,
+OpenView, and Level 2 as well. Id. In effect, Nasdaq withdrew two fees that applied only to
+TotalView and OpenView, respectively, and then imposed new, broader fees, that applied to
+those products and Level 2. Accordingly, the 2010 Nasdaq Rule imposed new fees on
+TotalView, OpenView, and Level 2, and all three data products are subject to this proceeding.
+The Commission indicated as much. SIFMA, 2014 SEC LEXIS 1686, at *55 (consolidating the
+ArcaBook challenge with “the challenge to the fees for NASDAQ’s depth-of-book products”
+(emphasis added)).
+Cost and profit margin data are not required
+The parties extensively dispute the relevance of the Exchanges’ cost and profit margins in
+producing depth-of-book data. In NetCoalition I, the court stated:
+
+31
+
+[I]n a competitive market, the price of a product is supposed to approach its
+marginal cost . . . [s]upracompetitive pricing may be evidence of “monopoly,” or
+“market,” power . . . [and] the costs of collecting and distributing market data can
+indicate whether an exchange is taking “excessive profits” . . . [e]ven NYSE
+Arca’s proposal acknowledges that costs are relevant in assessing the
+reasonableness of its fees.
+615 F.3d at 537-38. As a result of the court’s language, this record contains a great deal of
+evidence on the Exchanges’ cost and profit margins in producing depth-of-book data.
+It is essentially undisputed that the Exchanges enjoy strong profit margins from the sale
+of depth-of-book data. For example, Nasdaq’s profit margin for the sale of depth-of-book data is
+consistently over 80%. SIFMA Ex. 142 at 2; see also SIFMA Ex. 317 at 8848 (characterizing
+information services, which includes depth-of-book sales, as “high margin”); SIFMA Ex. 318 at
+8876 (showing 70% operating margins for information services). Shavel characterized
+information services as “our largest operating profit contributor,” a product with “relatively
+strong pricing power,” and acknowledged that depth-of-book sales enjoyed a “relatively high
+margin.” Tr. 1337; SIFMA Ex. 319 at 8902. NYSE Arca submitted no evidence relating to its
+costs and profit margins, but based on the similarity of the Exchanges’ business models, it is
+reasonable to assume that NYSE Arca enjoys similar profit margins.
+Depth-of-book costs and profit margins, however, have limited significance on these
+facts. First, NetCoalition I did not require cost or profit margin data, but simply stated that such
+data may be relevant in determining market power. NetCoalition I, 615 F.3d at 537 (rejecting
+petitioner’s cost-based challenges but explaining “we do not mean to say that a cost analysis is
+irrelevant”).
+Second, the Exchanges demonstrated their depth-of-book costs and profit margins are
+misleading because they incur significant costs in creating a trading platform and attracting
+trading volume, but none of these joint costs are allocated to depth-of-book data. See Tr. 133738 (Shavel explaining that for accounting purposes, none of the costs of running a trading
+platform are allocated to Nasdaq’s data business); see also Tr. 1132 (Evans explaining that
+“there are empirical problems with determining profit margins”). Nasdaq pays 700 to 800
+million dollars in rebates to attract order flow. Tr. 734-36, 1029-1031. Without that order flow,
+Nasdaq would have no depth-of-book data to sell. Tr. 432, 735. If even a small portion of those
+rebate costs were allocated to depth-of-book data, the high profit margins of Nasdaq’s depth-ofbook data sales would be severely diminished. Tr. 389, 737-38, 1031-32. The low costs and
+high profit margins for Nasdaq’s depth-of-book data are largely due to Nasdaq’s own accounting
+practices and are misleading in terms of the true cost of producing the product.
+Third, the evidence is persuasive that the Exchanges’ costs and profit margins are of
+limited value in determining whether the Exchanges are constrained by competition. Experts for
+both sides testified that NetCoalition I’s instruction that prices should approach marginal costs in
+a competitive market relied on a theoretical model of perfect competition rarely seen in practice.
+Tr. 301-02, 379-80, 1090-92, 1145-46. The experts also agreed that a scenario in which prices
+equaled marginal costs was particularly unrealistic in a market, like this, with high fixed costs
+32
+
+and low marginal costs. Tr. 380, 730-32, 1090, 1146. Moreover, even extremely profitable
+markets can still be competitive. For example, Nasdaq’s profit margins in the trading business,
+an industry which is indisputably highly competitive, approach 40-50%. Tr. 1086-88, 1339-40;
+SIFMA Ex. 318 at 8878. SIFMA’s own expert testified that “in this matter, I have not put much
+weight on the price cost margin,” and warned that evidence of profit margins must be “treated
+carefully.” Tr. 1132-34. For these reasons, the Exchanges’ costs and profit margins are given
+little weight in this decision.
+Determinative Findings
+The record evidence shows that competition plays a significant role in restraining
+exchange pricing of depth-of-book products.
+Alternative depth-of-book products from other exchanges are a significant
+competitive force
+This record showed that depth-of-book products from different exchanges function as
+substitutes for each other. The Exchanges’ unchallenged evidence is that no single exchange
+dominated trading; of nearly 8,200 stocks, only 10% of the stocks examined were likely to be
+concentrated in any particular exchange, and those 10% of stocks accounted for just 3% of
+trading volume and market capitalization across all stocks. NYSE Arca Ex. 65 at 1563, 1577. In
+fact, when weighted by trading volume, the likelihood that a security trading on one major
+exchange trades on another major exchange is over 99%. Id. at 1576, 1588. Accordingly,
+because of the overlap in traded stocks, depth-of-book data related to prices and quantities can be
+heavily correlated across exchanges, and depth-of-book products from different exchanges can
+be used as substitutes for each other. Id. at 1577-78; Tr. 174-80. In NetCoalition I, the court
+stated “[d]epth-of-book data from other exchanges could be an alternative . . . but that
+determination cannot be made without knowing how actively the security is trade[d] on those
+exchanges.” 615 F.3d at 543. Contrary to SIFMA’s objections, the evidence here demonstrates
+that trading in securities is widely dispersed across exchanges and that price and quantity
+information can be correlated between the exchanges.
+The Exchanges have provided persuasive evidence that the threat of substitution from
+depth-of-book customers constrains their depth-of-book prices. The evidence shows that
+switching between depth-of-book products is commonplace. Albers identified three customers
+who dropped TotalView to switch to ArcaBook. Tr. 565. Ordover identified numerous firms
+that had switched between ArcaBook and Nasdaq’s depth-of-book products, including Lynx
+Capital Partners, Soros Fund Management, PHD Capital, MWD Energy, Standard Pacific
+Capital, Tradeking Group, and Berner Kantolnal Bank. Nasdaq Ex. 601 at 16. At the hearing,
+Ordover claimed to have identified 31 to 35 examples of customers switching between
+ArcaBook and Nasdaq’s products. Tr. 702. Brooks also provided an example of a company,
+BlueFin, which dropped ArcaBook in direct response to a price increase, and examples of two
+companies, Lime Brokerage and Pico Trading, which threatened to drop ArcaBook if prices kept
+increasing. Tr. 71-75. The Exchanges also relied on a “churn analysis” conducted by Ordover,
+which measured the number of depth-of-book customers Nasdaq lost and added each year from
+2008 to 2014, showing that anywhere from 23% to 41% of its total customer base was lost or
+33
+
+added each year. Nasdaq Ex. 601 at 14-15. The churn analysis also showed that during that
+period, large customers, particularly brokers, substantially reduced or increased (or both) the
+number of subscribers for Nasdaq depth-of-book data. Id. at 14-15. The churn analysis does not
+conclusively establish that customers dropped or added Nasdaq depth-of-book data due to
+pricing, but it does demonstrate the large percentage of customers that shift in and out of
+Nasdaq’s depth-of-book customer base each year.
+The record shows that the Exchanges implement their depth-of-book prices out of
+concern for losing subscribers to substitutes. For instance, before setting a new depth-of-book
+price, Nasdaq performs “a lot of internal analysis, modeling out what the different pricing
+changes would look like, what we think the potential individual client impacts are,” and
+determining whether “the price [is] commensurate with the value of the deal.” Tr. 496. Nasdaq
+reaches out to subscribers, “walk[s] them through what [it is] looking to do,” obtains their
+feedback, and even goes in front of SIFMA’s market data committee every six months to solicit
+comments. Tr. 497. NYSE Arca also sets prices to deliberately prevent customer substitution or
+attrition. Tr. 143. The concern with customer substitution or attrition is reflected in numerous
+internal documents. For example, Nasdaq uses detailed models to predict depth-of-book
+customer attrition and the overall impact on revenues at “various scenarios of different [depth-ofbook] price levels.” Tr. 415; see SIFMA Ex. 133 at 612. And a report prepared for Nasdaq
+executive management warned that “history has shown that data products that are not priced
+proportionately to the value they deliver, do not sell,” and that “countless . . . competitors stand
+at the ready . . . if NASDAQ makes any missteps with respect to pricing strategy.” Nasdaq Ex.
+524 at 193.
+Over time, the Exchanges have implemented a limited number of fee increases after
+initially imposing fees for their depth-of-book data products, further supporting the proposition
+that there is competitive market for such products that is constraining prices. For example, in
+2003, Nasdaq lowered its prices for TotalView professional subscriptions from $150 per month
+to $70 per month, where it has remained unchanged. Tr. 452-53; Nasdaq Ex. 511 at 4. Its prices
+for TotalView non-professional subscriptions have also not changed since 2003. Tr. 453. In
+addition, Nasdaq capped or reduced numerous depth-of-book fees, and a few of the “fee
+increases” cited by SIFMA often had the effect of increasing costs for a small minority of
+customers while decreasing them for most. Tr. 455-62; SIFMA Ex. 379 at 13821; see also
+Nasdaq Ex. 542. When Nasdaq did increase a depth-of-book fee, the increase often applied only
+to its biggest customers or a small subset of that group, and in one case was motivated by a
+customer who admitted that his company was not getting charged commensurate to the value of
+the product. Tr. 462-72; SIFMA Ex. 379. Similarly, NYSE Arca began charging for depth-ofbook data in 2009, and while it has instituted some new fees that primarily affect its largest
+customers, its original fees have remained mostly constant. Tr. 37-40 (describing the fees
+imposed in 2009); SIFMA Ex. 376 at 13593 (showing that fees for non-professional users have
+remained constant, and fees for professional users have gone up $10 per month).
+Discussion of opposing arguments
+SIFMA contends that the evidence shows almost a complete lack of substitution in
+response to significant depth-of-book price increases. SIFMA Br. at 18-24. In particular, it
+34
+
+points to the “massive fee increase” when NYSE Arca began charging for ArcaBook in 2009,
+and prices went from zero to anywhere from $10 to $750 a month depending on the subscription
+type. Id. at 19; see also Tr. 87-88. Despite this, SIFMA contends that ArcaBook’s professional
+subscribers dropped only from 29,636 to 29,133, and the number of accounts fell only from
+3,787 to 3,594, drops of approximately 2% and 5% respectively. SIFMA Br. at 20. SIFMA also
+argues that Nasdaq lost only 17.7% of its customers and only 3.1% of Nasdaq’s depth-of-book
+revenue, or “virtually no substitution whatsoever,” after imposing a fee increase in 2012. Id. at
+23. Furthermore, SIFMA argues that the Exchanges have identified only a few anecdotal
+examples of customers switching between depth-of-book products, and that none of the evidence
+demonstrates that any of the switching was in response to price changes. Id. at 23-25, 29-30.
+I reject, as unpersuasive, SIFMA’s argument regarding NYSE Arca’s low subscriber
+attrition. First, SIFMA grossly mischaracterized the extent of NYSE Arca’s price increase in
+2009, by stating that prices increased anywhere from 900% to 74,900%. SIFMA Br. at 19.
+ArcaBook was priced at $0 before 2009, so literally any price increase would appear massive
+when measured in this manner. Moreover, it is essentially undisputed that the price of $0 for
+ArcaBook was not a competitive price, so it is inappropriate to use that as a baseline from which
+subscriber attrition is measured. Furthermore, even after NYSE Arca began charging for
+ArcaBook, it was still, in many respects, cheaper than competing products from Nasdaq and New
+York Stock Exchange. See SIFMA Ex. 376 at 13595. For these reasons, ArcaBook’s
+purportedly insufficient subscriber attrition numbers do not refute NYSE Arca’s position.
+SIFMA’s arguments that Nasdaq’s subscriber attrition evidence is too anecdotal and fails
+to demonstrate causality are similarly unconvincing. For one, Albers thoroughly refuted
+SIFMA’s claims that Nasdaq repeatedly increased depth-of-book fees. Tr. 455-466; see SIFMA
+Ex. 379. But SIFMA’s argument fails even when applied to the one uncontested “significant
+price increase” of April 2012. SIFMA argued that because Nasdaq lost subscribers constituting
+only 3.1% of depth-of-book revenue in the year following the price increase, it demonstrates that
+Nasdaq’s prices are not constrained by substitution. But the April 2012 fee increase affected
+only a limited group of Nasdaq’s depth-of-book subscribers, the one hundred firms. Tr. 462-64;
+SIFMA Ex. 379. It is unreasonable to expect a sizable reduction of subscribers or subscriber
+revenue as a result of a fee imposed on a tiny group of subscribers. 40 Also, SIFMA’s entire
+argument relied on two events – that a fee was imposed in April 2012, and that Nasdaq lost
+17.7% of customers and 3.1% of revenues in 2013 – but SIFMA has not shown any causative
+relationship between the two. Moreover, the fee increase in question was apparently instituted in
+response to a customer who had commented that the prices were low commensurate to the value
+of the data. Tr. 464; see also Tr. 471-72. A price increase to better reflect value may explain the
+loss of few subscribers.
+The record established that the Exchanges have largely not raised their depth-of-book
+prices since each initially imposing fees; when they have, most of the price increases have
+40
+
+This is particularly true because the fee increase here affected the one hundred firms, which
+Nasdaq claims constrain price through their control of order flow, not through substitution. See
+generally Nasdaq Br. at 19-26.
+35
+
+affected a handful of large customers, rather than large numbers of subscribers. The Exchanges
+have also demonstrated that they deliberately price their data at levels to avoid customer attrition.
+Next, the evidence does not support SIFMA’s contention that most traders cannot
+substitute one exchange’s depth-of-book product for another’s because they need depth-of-book
+data from every exchange. SIFMA Br. at 9-10. According to SIFMA, depth-of-book data from
+every exchange is essential because: (1) it provides the complete picture of liquidity for any
+security, made even more important after the “decimalization” 41 of stocks; (2) direct feeds of
+depth-of-book data are faster than any alternative; and (3) for traders who engage in open and
+close auctions, it is the “exclusive low-latency” source of “order imbalance” information.
+SIFMA Br. at 9-12. As a result, SIFMA argues that the existence of multiple depth-of-book
+products does not serve to constrain prices because many of its largest customers cannot
+substitute alternative depth-of-book products even in the face of massive price increases.
+SIFMA Br. at 27-29.
+For many market participants, having access to depth-of-book data from all exchanges
+would provide a clearer picture of liquidity that may be useful when engaging in large
+transactions, but useful information is not essential information. While depth-of-book data from
+all exchanges may be required for high-frequency traders who need the fastest feeds, or for
+traders participating in open and close auctions, both groups reflect only a small percentage of all
+market participants.
+The evidence is that nearly 97% of all trades occur at or within the NBBO, thus most
+customers do not require any sort of depth-of-book data. NYSE Arca Ex. 65 at 1548; see also
+Tr. 24. Nasdaq has 350,000 professional data subscribers. Tr. 409. But only 85,000 of those
+350,000 customers subscribe to any depth-of-book data, and among those 85,000, only 30,000
+subscribe to Nasdaq’s TotalView. Id. at 409-10. In other words, fewer than 10% of Nasdaq’s
+market data customers subscribe to Nasdaq’s comprehensive depth-of-book product. Id. at 40910.
+The evidence is that customers that need some depth-of-book data often do not need all
+depth-of-book data from every exchange. Hendershott and Nevo’s unrefuted calculation is that
+over a 94-month period, Nasdaq depth-of-book subscribers also subscribed to ArcaBook and
+NYSE’s OpenBook about half the time, subscribed to either ArcaBook or OpenBook about a
+fifth of the time, and did not subscribe to ArcaBook or OpenBook a quarter of the time. NYSE
+Arca Ex. 65 at 1572-73, 1587. Additionally, major broker-dealers like
+do not directly purchase all depth-of-book data
+products from every major exchange. Tr. 49-52, 182-83; NYSE Arca Ex. 87. The Exchanges
+compete against each other to obtain depth-of-book customers and there would be little point in
+doing so if traders needed to purchase all depth-of-book products from every exchange. See,
+e.g., SIFMA Ex. 121; Tr. 419-20, 429-30; see also Tr. 415 (Albers testifying that if customers
+were required to purchase depth-of-book data from every exchange, “I probably wouldn’t be
+41
+
+Before decimalization, securities traded in increments of 12.5 cents, but now shares trade at a
+separate price point for every cent. SIFMA Br. at 10.
+36
+
+employed.”). 42 It is clear that many customers find depth-of-book data from only some
+exchanges sufficient for their purposes.
+Shifts in order flow and threats of shifting order flow provide a significant
+competitive force in the pricing of the Exchanges’ depth-of-book data
+Order flow is the “life blood” of the Exchanges, and the one hundred firms that most
+consume and need depth-of-book data control an outsized portion of order flow. Nasdaq Br. at
+4, 19-26; NYSE Arca Br. at 20; see also Tr. 450-51. There is fierce competition for order flow
+and “[a]n exchange’s ability to attract order flow determines whether it has market data to
+distribute.” NetCoalition I, 615 F.3d at 539 (alterations in original); see also Tr. 719, 1035,
+1042, 1068; SIFMA Ex. 377 at 13695. A small group of traders account for a tremendous share
+of order flow, up to 90% of trades executed on Nasdaq’s platform, and these firms use their
+control of order flow to constrain depth-of-book prices. Tr. 1014, 1034; see also Tr. 450-51.
+The sentiment that the customers who control order flow have strong leverage in
+negotiations is reflected in internal Nasdaq documents, such as a presentation for management,
+which warned that “[b]roker/[d]ealers hav[e] the upper hand in price negotiations as we are
+dependent on their flow.” Nasdaq Ex. 526 at 231; Tr. 451, 541-43. Albers also testified that
+many traders have even stronger leverage in negotiations, because the individual negotiating
+often has decision-making authority over both routing order flow and purchasing depth-of-book
+data, an assertion reflected in internal Nasdaq documents. Tr. 542-543; see also Nasdaq Ex. 527
+at 268. According to Albers, moving order flow is common because “it’s very portable, and
+we’ve had clients move order flow because our CEO didn’t say the right thing in the press.” Tr.
+514.
+In 2012, Nasdaq raised fees for non-display uses of its depth-of-book data, which greatly
+angered
+, an executive at
+in charge of order routing strategies. Tr. 503-05;
+Nasdaq Ex. 505 at 15. After Nasdaq employees attempted to justify the increased fees,
+replied in an email, accusing Nasdaq of “placing false valuation to [its] depth of book.” Nasdaq
+Ex. 505 at 13. He then threatened:
+You have the valuation today only because your clients (brokers, market
+makers, etc.) are placing orders with NASDAQ. That valuation you speak
+of will dissipate quickly as we begin pulling orders away from NASDAQ
+to other exchanges that appreciate and work with their clients. This
+simple relationship between market data and order flow should resonate
+with all your clients. As stated to you, we will follow through and vote
+with our order flow without impacting our best execution obligations.
+42
+
+Hendershott and Nevo’s analysis did not account for subscribers who received Nasdaq’s
+depth-of-book data from a redistributor. Tr. 343-45. However, this was not a willful omission.
+NYSE Arca Ex. 65 at 1572-73 n.101. Even with this deficiency, the analysis refutes the premise
+that depth-of-book subscribers need all depth-of-book products from the major exchanges. Tr.
+346-47.
+37
+
+Id. at 13-14. After Nasdaq declined to re-evaluate its fee increases,
+routed both equity
+and options order flow to other exchanges. Tr. 510.
+order routing caused significant
+concern among Nasdaq employees. Tr. 510-12; Nasdaq Ex. 506. According to a Nasdaq
+employee,
+threatened that, unless Nasdaq re-evaluated its fee increases,
+would “vote the only way they can- through their [order] flow.” Nasdaq Ex. 507 at 21. In
+particular,
+threatened to do the following:
+1. all discretionary orders will be routed away from NASDAQ, 2. They
+will remove all depth of book fees from their routers wherever they can
+and 3. They will move all off-exchange quotes to NYSE. They are willing
+to route away from us at a cost to them to make this point. They are also
+working with other exchanges to make similar tiers with them.
+Id. at 21-22. Albers testified, as to the second point above, that not only did
+route their
+order flow away, but that “they reduced their server consumption of Depth-of-Book information
+. . . [and Nasdaq] lost about 50 percent of the nondisplay market data usage as well.” Tr. 513.
+By this point, the
+threat was so serious that Albers and his team prepared a briefing for
+the CEO of Nasdaq. Tr. 514; Nasdaq Ex. 507.
+The order flow diverted by
+was and, as of the date of the hearing, continued to
+be substantial. See Nasdaq Ex. 619. In the first five months of 2012,
+trading volume
+on Nasdaq averaged approximately 1.2 billion shares a month. Id.
+voiced its intense
+displeasure at the new fees in May 2012. See Nasdaq Exs. 505, 506. Starting in June 2012, and
+continuing up until the month preceding the hearing,
+trading volume on Nasdaq
+averaged approximately 610 million shares a month, or 50% of the prior amount. Nasdaq Ex.
+619; see also Tr. 1202.
+The record also contains examples where the Exchanges constrained depth-of-book
+prices in order to attract or maintain order flow. For example, in an attempt to attract order flow
+from
+, Nasdaq gave it a substantially discounted fee cap on depth-of-book data,
+which was successful in drawing order flow for only a few months. Tr. 518-524; Nasdaq Exs.
+502-03. Furthermore, Brooks testified that both Pico Trading and Lime Brokerage threatened to
+shift order flow away from NYSE Arca in response to price changes. Tr. 73-75. Jump Trading,
+one of Nasdaq’s largest depth-of-book clients, also responded to a price increase for a related,
+non-data product service, by warning Nasdaq that “[i]ncreased fees . . . always affect the trading
+volume in a negative way.” Tr. 537-39; Nasdaq Ex. 606; SIFMA Ex. 125 at 627. Hudson River
+Trading, another large client, made a similar threat in response to TotalView fees, and forced
+Nasdaq to institute a cap on fees in order to preserve their business. Tr. 529-33; SIFMA Ex. 125
+at 627. Albers testified that he receives threats to move order flow from his customers all the
+time, but that
+and Jump Trading were among the few that put their threats in writing.
+Tr. 537.
+Discussion of additional arguments
+Pricing on the inelastic portion of the demand curve is unpersuasive
+
+38
+
+NYSE Arca maintained that it priced its depth-of-book product on the inelastic part of the
+demand curve, seeking to maximize revenues from a portfolio of products, i.e. depth-of-book
+data and order flow. NYSE Arca Br. at 26. SIFMA responded by arguing that order flow faced
+intense competition (elastic demand), and depth-of-book data faced less competition (inelastic
+demand) and that the Exchanges kept prices of depth-of-book data high and used the profits to
+subsidize prices in the highly competitive order flow market. SIFMA Br. at 41.
+NYSE Arca’s argument is based on conjecture. And Brooks, its in-house witness, did not
+mention this possibility in his testimony. I also find SIFMA’s position unpersuasive because it
+presents no evidence in support of the theory that NYSE Arca kept depth-of-book prices high to
+subsidize order flow costs. SIFMA Ex. 377 at 13683-84.
+For these reasons, I find arguments about the Exchanges pricing on the inelastic portion
+of the demand curve unpersuasive.
+The regression analysis merits consideration
+NYSE Arca also claimed that a regression analysis demonstrates that its share of order
+flow declined when it began charging for ArcaBook. NYSE Arca Br. at 24. Hendershott’s
+regression analysis sought to measure the NYSE Arca loss of order flow as a result of the
+January 2009 ArcaBook price increase, and it did so by measuring NYSE Arca’s share of total
+market and exchange-based trading volume in three- and six-month intervals before and after
+January 2009. NYSE Arca Ex. 65 at 1566-67, 1586. The regression analysis showed that after
+NYSE Arca began charging for ArcaBook in January 2009, its share of order flow declined by
+11.7% relative to the rest of the market and 9.8% relative to the rest of the traditional exchanges’
+trading volume. NYSE Arca Br. at 24; Tr. 280-81.
+SIFMA accuses NYSE Arca’s regression analysis of containing several fatal flaws.
+SIFMA Br. at 38-40. First, it noted that BATS became a national securities exchange in October
+2008, and that that event alone caused NYSE Arca’s share of total exchange-based trading
+volume to drop. 43 SIFMA Ex. 377 at 13697; Tr. 202-04, 284-86. Therefore, SIFMA is correct
+that the 9.8% fall in NYSE Arca’s share of total exchange-based trading volume is overstated.
+However, the BATS issue had no impact on NYSE Arca’s 11.7% fall in its share of total market
+trading volume. Tr. 204, 285.
+SIFMA is also correct that the regression analysis merely shows “a link,” not a causative
+relationship, between an increase in depth-of-book prices and a decline in order flow. Tr. 280;
+SIFMA Br. at 38; see also Andrew Dick & Peter Boberg, Regression Analysis, ABA Antitrust
+Magazine, Fall 2005 (“[A]s is widely recognized . . . regression analysis can help find and
+quantify relationships between variables, [but] regressions cannot explicitly determine causation
+or prove causality between those variables.”). In addition, NYSE Arca does not deny SIFMA’s
+claim that its share of trading volume was declining even before the January 2009
+43
+
+When BATS became a securities exchange in October 2008, the regression analysis began
+counting BATS’s trading volume in the denominator for total exchange-based trading volume,
+causing NYSE Arca’s total share to drop. SIFMA Ex. 377 at 13697-98.
+39
+
+implementation of ArcaBook pricing. SIFMA Br. at 39. Nonetheless, I reject SIFMA’s claim
+that NYSE Arca should have commissioned other regression analyses to show the impact of
+other NYSE Arca depth-of-book price increases. SIFMA Br. at 39-40. The fact that NYSE Arca
+did not submit more evidence does not detract from the worthiness of the evidence it submitted.
+On balance, I find that the regression analysis supports the limited finding that NYSE
+Arca’s market share of trading volume materially declined in the six months following its initial
+pricing of ArcaBook.
+SIFMA’s objections
+SIFMA contended that the Exchanges failed to show that their depth-of-book fees
+significantly affect order flow because they provided evidence of only one customer who shifted
+order flow in response to a depth-of-book fee increase, and that this falls far short of carrying the
+Exchanges’ burden for numerous reasons. SIFMA Br. at 35. Moreover, that customer did not
+persuade Nasdaq to rescind the fee increase, and Nasdaq recognized that the customer was
+harming itself by diverting orders. Id. SIFMA argued further that traders, because of order
+execution obligations, have limited ability to “punish” the Exchanges for raising depth-of-book
+prices by shifting their order flow elsewhere because doing so would violate the duty of best
+execution and Reg. NMS. Id. at 7, 34. Donefer argued that if a broker purposely chose not to
+route trades to a particular exchange in order to punish it for raising depth-of-book prices, the
+quality of the broker’s order executions would decline, clients would notice, and the broker may
+lose business. SIFMA Ex. 376 at 13585-86. SIFMA also argued that a trader, trading for itself,
+would incur a cost in forgone profits if it chose to route orders away from the exchange with the
+most profitable trading opportunities. SIFMA Br. at 34. Finally, SIFMA argued that
+competition for order flow has actually increased, not decreased, depth-of-book prices. Id. at 4047.
+SIFMA’s many arguments are unpersuasive. The fact that one customer actually pulled
+order flow is not dispositive, but is persuasive when together with evidence that the Exchanges
+are constrained in their pricing by the threat of pulling order flow. The one example of a
+customer pulling order flow, the many customer threats, and Albers’ testimony that threats occur
+“all the time,” are persuasive evidence that certain depth-of-book customers recognize the
+leverage gained by their control over order flow, and have attempted to use it to drive down or
+stabilize depth-of-book prices. See Nasdaq Ex. 505 at 13 (“This simple relationship between
+market data and order flow should resonate with all your clients.”). Furthermore, as provided
+both by Albers’ testimony and various Nasdaq documents, it is obvious that the Exchanges take
+these threats seriously. Also, that Nasdaq stood firm in response to the backlash from one
+customer does not mean it is not competitively constrained in setting its prices. 44 Moreover,
+Albers provided two examples,
+and Hudson River Trading, where concern over a
+potential loss or gain of order flow caused Nasdaq to reduce its depth-of-book prices. Tr. 51820, 529-33.
+
+44
+
+Additionally, Albers testified that Nasdaq went back to
+with some proposals to
+resolve their differences, but
+rejected those proposals. Tr. 645.
+40
+
+The evidence does not support SIFMA’s claims that traders cannot shift order flow due to
+best execution or Reg NMS obligations. 45 For one,
+explicitly stated that it would shift
+order flow without impacting its best execution obligations. Nasdaq Ex. 507 at 13. The fact that
+appears to have pulled order flow for well over two years further demonstrates the
+ability to shift order flow without running afoul of best execution or any other obligations.
+Nasdaq Ex. 507 at 13-14. Furthermore, Donefer admitted that traders can also route their orders
+through wholesalers, instead of securities exchanges, and those wholesalers will guarantee that
+all best execution standards are in effect. Tr. 936-38; SIFMA Ex. 369 (showing that in the fourth
+quarter of 2014,
+routed all of its trades through wholesalers, rather than
+exchanges).
+I find that the record evidence persuasive that the Exchanges’ largest customers, such as
+the one hundred firms, constrain the Exchanges’ pricing of depth-of-book data by routing or
+threatening to route order flow elsewhere.
+The Exchanges’ evidence satisfies the NetCoalition I standard
+Order flow
+NetCoalition I was dismissive of the Commission’s finding that order flow was a restraint
+on depth-of-book pricing for two reasons. One, because the Commission’s explanation that
+depth-of-book data were unimportant to most traders was “at odds” with the idea that “wide
+distribution of the data to many market participants” was critical in attracting order flow.
+NetCoalition I, 615 F.3d at 540. The Commission noted this
+‘apparent contradiction’ could be resolved if ‘evidence of the traders using NYSE
+Arca’s depth-of-book data’ and ‘the percentage of total trading volume those
+traders may generate’ showed that a small but influential group of professional
+traders were interested in ArcaBook data.
+SIFMA, 2014 SEC LEXIS 1686, at *11 n.27 (citing NetCoalition I, 615 F.3d at 541 n.14). The
+apparent contradiction is resolved here by undisputed evidence that there are about 85,000
+subscribers to Nasdaq’s depth of book products, but around one hundred firms – of the 30,000
+subscribers to Nasdaq’s TotalView – account for about 90% of Nasdaq order flow. Tr. 409-10,
+450; see also Tr. 1013-14 (SIFMA expert agrees that one hundred firms account for about 90%
+of order flow).
+45
+
+SIFMA filed a notice of supplemental authority, attaching Financial Industry Regulatory
+Authority (FINRA) regulatory notice 15-46 and arguing that the notice confirms that “depth-ofbook data products may be necessary to satisfy a broker-dealer’s duty of best execution” and that
+“best execution obligations constrain” brokers’ ability to route order flow away from Exchanges.
+SIFMA Supp. Br. at 1-2 (filed Nov. 25, 2015). The FINRA notice confirms neither proposition.
+It merely states that a broker-dealer that subscribes to depth-of-book data fees would be expected
+to use those fees to determine best execution for customer orders. FINRA Notice at 3 n.12. It
+then states that routing decisions should not be unduly influenced by fees or rebate structure. Id.
+at 6.
+41
+
+Second, and “more problematic,” to the court was the failure of the evidentiary record to
+support the conclusion “that order flow competition constrains market data prices,” because the
+record contained little beyond “self-serving views,” in the form of banal acknowledgments, “of
+the regulated entities,” and some anecdotes concerning rival securities exchanges. NetCoalition
+I, 615 F.3d at 541. The record here is markedly better because it contains evidence from persons
+with the regulated entities, given under oath, of an exchange lowering prices on its depth-of-book
+data to attract or retain order flow. It contains evidence of traders threatening to shift order flow
+elsewhere if depth-of-book prices go too high. It contains evidence of a trader shifting
+substantial order flow in order to punish an exchange for raising depth-of-book prices. And
+finally, it contains evidence that these threats occur frequently, and that they were treated
+seriously by the Exchanges.
+I reject SIFMA’s claim that the record contains nothing more than “cherry-picked
+vignettes from which it is impossible ‘to draw valid statistical inferences.’” SIFMA Br. at 35.
+Statistical evidence is not required to resolve every dispute. The Exchanges have presented
+persuasive evidence establishing that their ability to price their depth-of-book products is
+constantly under pressure from their biggest customers, and those customers’ ability to control
+order flow. That is enough. I find the Exchanges have carried their burden of showing that their
+depth-of-book prices are constrained by order flow competition.
+Existence of substitutes
+NetCoalition I was also dismissive of the Commission’s finding that depth-of-book
+pricing was constrained by other alternative data products, including depth-of-book data from
+other exchanges, core data, “pinging orders,” and the “threat of independent distribution of
+depth-of-book data by data vendors or securities firms acting in concert.” 615 F.3d at 542.
+NetCoalition I found “insufficient evidence . . . to conclude that a trader interested in depth-ofbook data would substitute any of the four alternatives (or simply do without) instead of paying a
+supracompetitive price.” Id. at 544. In particular, the court was unsure if depth-of-book data
+from other exchanges could even serve as an alternative, stating that such “determination cannot
+be made without knowing how actively the security is trade[d] on those exchanges.” Id. at 543.
+This criticism does not apply here because this record is superior to NetCoalition I as to
+substitutes. For one, the evidence established that most securities are traded widely across all
+exchanges, meaning that depth-of-book data from rival exchanges can serve as substitutes for
+some traders. There is evidence that traders switch between depth-of-book products with relative
+frequency, with up to 41% of Nasdaq’s depth-of-book customer base dropping or adding the
+product each year. The Exchanges have also identified dozens of depth-of-book customers who
+have switched between depth-of-book products from rival exchanges.
+In analyzing alternatives, NetCoalition I would find helpful evidence of trader behavior
+in the face of “a supracompetitive price” for depth-of-book data. 615 F.3d at 543. However,
+nothing in this record suggests that the Exchanges set depth-of-book data at a supracompetitive
+price. Instead, the record is that for most customers, depth-of-book prices, once set, have been
+mostly unchanged or even decreased. Moreover, substantial evidence shows that the Exchanges
+42
+
+worry about setting prices too high and losing customers to rivals. Additionally, the record
+contains evidence of trader behavior in response to a dramatic decrease in depth-of-book
+prices. 46
+Taken as a whole, the record overcomes the evidentiary deficiencies noted in
+NetCoalition I. In conclusion, this record supports the Exchanges’ position that their depth-ofbook fee rules are constrained by significant competitive forces and that the Exchanges provided
+a “substantial basis” demonstrating that the fees are equitable, fair, reasonable, and not
+unreasonably discriminatory.
+There is no substantial countervailing basis to find otherwise
+In 2008, the Commission concluded that there was no substantial countervailing basis to
+disapprove the 2006 ArcaBook Rule, noting that: (1) the proposed fees would apply equally to
+all subscribers; (2) NYSE Arca’s proposed fees were less than the NYSE fee for data in NYSElisted stocks and less than the Nasdaq fee for data in all NMS Nasdaq-listed stocks; and
+(3) initial market data revenue from ArcaBook of less than $8 million would likely remain in
+2006 close to the 17% of NYSE Arca’s total revenue figure from 2005; fees for ArcaBook data
+were projected to be a small portion of NYSE Arca’s market data revenues and a smaller portion
+of NYSE Arca’s total revenues. 2008 ArcaBook Order, 73 Fed. Reg. at 74794-95.
+The factors that applied in 2008 apply now as well. As to (1), depth-of-book data is
+available to anyone on a fair and reasonable non-discriminatory basis and the proposed fees
+apply to all similarly situated subscribers. Tr. 384-85, 617-18; NYSE Arca Ex. 65 at 1548. As
+to (2), no SIFMA member testified that the proposed fees were too high, unjust, or unreasonable.
+The parties agree that they face fierce competition for order flow, and the persuasive evidence is
+that this competition, and the existence of substitutes, constrains the Exchanges’ depth-of-book
+data rates. As to (3), data products, of which depth-of-book products is one component, account
+for 19% of Nasdaq’s total revenue, only 2% higher than the percentage for NYSE Arca in 2005
+and 2006. Tr. 388-89; Nasdaq Ex. 605 at 1102.
+SIFMA argued that the record is replete with evidence providing a substantial
+countervailing basis for disapproving the fees. SIFMA Br. at 58. It contended that depth-ofbook fees cause retail brokers to limit the depth-of-book products made available to their
+customers, which puts retail investors at an informational disadvantage compared to investors
+who can afford to buy multiple depth-of-book products. Id. I find this argument unconvincing
+and contradicted by SIFMA’s own expert. Donefer, a retail investor with four brokerage
+accounts, was unconcerned as to whether any of those brokers had access to depth-of-book data,
+because they would route their orders to a wholesaler that did. Tr. 986-89. Moreover, the
+evidence is that nearly every trade executes at NBBO, so that in almost all circumstances, retail
+investors do not need depth-of-book data, much less depth-of-book data from every exchange.
+
+46
+
+When Nasdaq halved the prices in 2003, subscriber numbers skyrocketed. Tr. 453; Nasdaq
+Ex. 511 at 37.
+43
+
+SIFMA also argued that high depth-of-book data fees paid by broker-dealers increased
+overall costs for ordinary investors. SIFMA Br. at 59. But, aside from some assertions by
+Donefer, this argument is unsupported. While it is plausible that fees imposed by the Exchanges
+may ultimately affect costs for investors, SIFMA must do more than speculate for that increase
+in costs to be a “substantial countervailing basis.” Finally, SIFMA provided no evidence to
+support its claim that lower depth-of-book fees would lead to greater transparency, efficiency,
+and fairness. Id. at 59-60.
+Considering the evidence as a whole, I find that the Exchanges have shown their rules on
+depth-of-book fees are consistent with the purposes of the Exchange Act, and SIFMA has not
+shown a substantial countervailing basis to that outweighs that finding.
+RECORD CERTIFICATION
+I certify that the record includes the items set forth in the revised record index issued by
+the Secretary of the Commission on January 12, 2016. See 17 C.F.R. § 201.351(b).
+ORDER
+For the reasons set forth above, I REJECT the challenges of the Securities Industry and
+Financial Markets Association, filed pursuant to Section 19(d) of the Securities Exchange Act of
+1934, to the rules changes affecting non-core market dated filed by NYSE Arca, Inc., and
+Nasdaq Stock Market LLC.
+I ORDER that this initial decision shall become effective in accordance with and subject
+to the provisions of Rule 360 of the Commission’s Rules of Practice, 17 C.F.R. § 201.360.
+Pursuant to that Rule, a party may file a petition for review of this initial decision within twentyone days after service of the initial decision. A party may also file a motion to correct a manifest
+error of fact within ten days of the initial decision, pursuant to Rule 111 of the Commission’s
+Rules of Practice, 17 C.F.R. § 201.111. If a motion to correct a manifest error of fact is filed by
+a party, then a party shall have twenty-one days to file a petition for review from the date of the
+undersigned’s order resolving such motion to correct a manifest error of fact. The initial
+decision will not become final until the Commission enters an order of finality. The Commission
+will enter an order of finality unless a party files a petition for review or a motion to correct a
+manifest error of fact or the Commission determines on its own initiative to review the initial
+decision as to a party. If any of these events occur, the initial decision shall not become final as
+to that party.
+
+_______________________________
+Brenda P. Murray
+Chief Administrative Law Judge
+
+44
+
+

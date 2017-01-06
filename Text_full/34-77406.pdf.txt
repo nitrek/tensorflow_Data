@@ -1,0 +1,825 @@
+SECURITIES AND EXCHANGE COMMISSION
+(Release No. 34-77406; File No. 10-222)
+March 18, 2016
+Investors’ Exchange LLC; Notice of Filing of Amendment Nos. 2, 3, and 4 to, and Order Instituting
+Proceedings to Determine Whether to Grant or Deny, and Notice of Designation of Longer Period
+for Commission Action on Proceedings to Determine Whether to Grant or Deny, an Application
+for Registration as a National Securities Exchange Under Section 6 of the Securities Exchange
+Act of 1934, as Modified by Amendment Nos. 1, 2, 3, and 4 Thereto
+I.
+
+Introduction
+On August 21, 2015, Investors’ Exchange LLC (“IEX” or “IEX Exchange”) submitted to
+
+the Securities and Exchange Commission (“Commission”) a Form 1 application (“Form 1”),
+seeking registration as a national securities exchange pursuant to Section 6 of the Securities
+Exchange Act of 1934 (“Act”). 1 IEX amended its Form 1 four times, including its most recent
+amendment on March 7, 2016. The Commission is required to review the exchange registration
+application, as amended, together with all comments received, and make a determination
+whether to grant the registration. 2
+On September 9, 2015, IEX submitted Amendment No. 1 to its Form 1. 3 Notice of the
+application, as amended, was published for comment in the Federal Register on September 22,
+
+1
+
+15 U.S.C. 78f.
+
+2
+
+See 15 U.S.C. 78f and 15 U.S.C. 78s.
+
+3
+
+In Amendment No. 1, IEX submitted updated portions of its Form 1, including revised
+exhibits, a revised version of the proposed IEX Rule Book, and revised Addenda C-2, C3, C-4, D-1, D-2, F-1, F-2, F-3, F-4, F-5, F-6, F-7, F-8, F-9, F-10, F-11, F-12, and F-13.
+
+2015. 4 IEX submitted several responses to comments. 5 On December 18, 2015, IEX consented
+to an extension of time to March 21, 2016 for Commission consideration of its Form 1. 6 IEX
+submitted a second amendment to its Form 1 on February 29, 2016 that proposes to make
+functional changes to its outbound router, which had been the subject of extensive public
+comment as originally proposed. 7 IEX submitted a third amendment to its Form 1 on March 4,
+2016. 8 IEX submitted a fourth amendment to its Form 1 on March 7, 2016. 9
+Section 19(a)(1) of the Act 10 requires the Commission, within ninety days of the date of
+publication of notice of an application for registration as a national securities exchange, or such
+4
+
+See Securities Exchange Act Release No. 75925 (September 15, 2015), 80 FR 57261
+(“Notice”).
+
+5
+
+See Letter from Sophia Lee, General Counsel, IEX, to Brent J. Fields, Secretary,
+Commission, dated November 13, 2015 (“IEX First Response”); Letter from Sophia Lee,
+General Counsel, IEX, to Brent J. Fields, Secretary, Commission, dated November 23,
+2015 (“IEX Second Response”); Letter from Sophia Lee, General Counsel, IEX, to Brent
+J. Fields, Secretary, Commission, dated February 9, 2016 (“IEX Third Response”); Letter
+from Donald Bollerman, Head of Markets and Sales, IEX Group, Inc., to File No. 10222, dated February 16, 2016 (“IEX Fourth Response”); and Letter from IEX Group,
+Inc., to File No. 10-222, dated February 19, 2016 (“IEX Fifth Response”).
+
+6
+
+See Letter from Sophia Lee, General Counsel, IEX, to Brent J. Fields, Secretary,
+Commission, dated December 18, 2015.
+
+7
+
+In Amendment No. 2, IEX proposed changes to its Form 1 to, among other things,
+redesign its outbound routing functionality to direct routable orders first to the IEX
+routing logic instead of directly to the IEX matching engine. See Letter from Sophia Lee,
+General Counsel, IEX, to Brent J. Fields, Secretary, Commission, dated February 29,
+2016, at 1. In this manner, the IEX router would “interact with the IEX matching system
+over a 350 microsecond speed-bump in the same way an independent third party broker
+would be subject to a speed bump.” Id.
+
+8
+
+In Amendment No. 3, IEX proposed changes to its Form 1 to clarify and correct revisions
+to its rulebook that it made in Amendment No. 2. See Letter from Sophia Lee, General
+Counsel, IEX, to Brent J. Fields, Secretary, Commission, dated March 4, 2016.
+
+9
+
+In Amendment No. 4, IEX proposed changes to its Form 1 to update Exhibit E to reflect
+changes it proposed in Amendment No. 2. See Letter from Sophia Lee, General Counsel,
+IEX, to Brent J. Fields, Secretary, Commission, dated March 7, 2016.
+
+10
+
+15 U.S.C. 78s(a)(1).
+
+2
+
+longer period as to which the applicant consents, 11 to, by order, grant such registration 12 or
+institute proceedings to determine whether such registration should be denied. 13 This order is
+providing public notice of the significant changes in Amendment Nos. 2, 3, and 4 to IEX’s Form
+1 and soliciting comment on the Form 1 as amended, while simultaneously instituting
+proceedings under Section 19(a)(1)(B) of the Act 14 to determine whether to grant or deny IEX’s
+exchange registration application, as amended.
+Section 19(a)(1)(B) of the Act 15 further provides that such proceedings shall be
+concluded within one hundred eighty days of the date of publication of notice of the filing of the
+registration application. Under Section 19(a)(1)(B), the Commission may, however, extend the
+time for conclusion of such proceedings for up to ninety days if it finds good cause for such
+extension and publishes its reasons for so finding. As discussed below, the Commission believes
+that there is good cause for a ninety-day extension of these proceedings, and is therefore
+designating June 18, 2016 as the date by which the Commission shall determine whether to grant
+or deny IEX’s Form 1 for registration as a national securities exchange.
+The Commission received over 430 comment letters on IEX’s Form 1, many focused on
+IEX’s proposed trading rules and system. 16 Many commenters supported IEX’s application. 17
+
+11
+
+See supra note 6 and accompanying text (noting that IEX provided the Commission with
+an extension of time until March 21, 2016).
+
+12
+
+15 U.S.C. 78s(a)(1)(A).
+
+13
+
+15 U.S.C. 78s(a)(1)(B).
+
+14
+
+15 U.S.C. 78s(a)(1)(B).
+
+15
+
+15 U.S.C. 78s(a)(1)(B).
+
+16
+
+The public comment file for IEX’s Form 1 (File No. 10-222) is available on the
+Commission’s website at: http://www.sec.gov/comments/10-222/10-222.shtml.
+
+17
+
+See, e.g., Verret Letter; Shatto Letters 1, 2, and 3; Simonelis Letter; Leuchtkafer First
+Letter; Leuchtkafer Second Letter; Capital Group Letter; Southeastern Letter; Navari
+
+3
+
+Other commenters either opposed IEX’s application or questioned whether certain proposed
+elements of IEX’s trading system would be consistent with the requirements of the Act
+applicable to a registered national securities exchange. 18
+Among the commenters who supported IEX’s exchange registration, several argued that
+IEX would offer a market solution to address certain market inefficiencies and conflicts of
+interest in a manner that may protect the interests of buy-side investors. 19 In particular, some
+commenters noted IEX’s decision not to pursue “maker-taker” pricing and instead offer flat
+
+First Letter; Navari Second Letter; DV Advisors Letter; Cowen Letter; Themis First
+Letter; Themis Second Letter; Oppenheimer Funds Letter; Murphy Letter; Birch Bay
+Letter; Healthy Markets Letter; Keblish Letter; Bowcott Letter; Secrist Letter; Stevens
+Letter; Oltean Letter; Park Letter; Crespo Letter; Hovanec Letter; Meskill Letter; Brian S.
+Letter; Glennon Letter; Shaw Letter; Upson Letter; Goldman Sachs Letter; Robeson
+Letter; Lynch Letter; Budish Letter; Chen & Foley Letter; Liquidnet Letter; T. Rowe
+Price Letter.
+18
+
+See, e.g., BATS First Letter; BATS Second Letter; NYSE First Letter; NASDAQ First
+Letter; NASDAQ Second Letter; Citadel First Letter; Citadel Second Letter; Citadel
+Third Letter; Citadel Fourth Letter; FIA First Letter; Hudson River Trading First Letter;
+Hudson River Trading Second Letter; Anonymous First Letter; Hunsacker Letter;
+Modern Markets Initiative Letter; Tabb Letter; Weldon Letter; Markit First Letter; Markit
+Second Letter; Direct Match Letter; Duffy Letter; Scott Letter.
+
+19
+
+See, e.g., Capital Group Letter at 1 (noting the “technologies and practices to discourage
+predatory behavior” including the “350 microsecond buffer,” the lack of maker-taker
+pricing, and “simple order types”); Southeastern Letter (submitted on behalf of a group of
+undersigned asset managers) (complimenting IEX’s proposed benefits to investors in
+“reducing structural inefficiencies in the market, and offering a more balanced and
+simplified market design”); Navari First Letter at 1 (noting certain features that “have
+great promise for the [r]etail [i]nvestor”); DV Advisors Letter; Cowen Letter; Themis
+First Letter (noting that IEX’s “unconflicted investor-friendly alternative” will “employ
+technology designed to even playing fields, rather than exploit information asymmetry,”
+that IEX will be “a stark alternative to other stock exchange models that seem to be more
+focused on selling speed and data,” and that as an alternative trading system, IEX allowed
+it and its customers “to achieve best execution”); Oppenheimer Funds Letter; Murphy
+Letter (arguing that IEX’s design should “help to limit and even eliminate the electronic
+front running that is central to the problems in the market today”); Keblish Letter; Secrist
+Letter; Stevens Letter; Oltean Letter; Meskill Letter; fi360 Letter; TRS Letter; Lynch
+Letter; Jefferies Letter; T. Rowe Price Letter; Liquidnet Letter.
+
+4
+
+transaction fees. 20 Some commenters praised IEX for offering fewer order types. 21 Several
+commenters highlighted IEX’s “coil” delay (frequently referred to as IEX’s “speed bump”),
+discussed in detail below, and asserted that it may help counter latency arbitrage. 22 Some
+commenters questioned the motive of certain commenters who opposed the proposal. 23 In
+addition, one commenter argued that the coil delay should not be grounds for denying IEX’s
+exchange application, and suggested that IEX be phased into the national market system under a
+
+20
+
+See, e.g., Capital Group Letter; Southeastern Letter; Navari First Letter; Navari Second
+Letter; Themis Letter 1; Oppenheimer Funds Letter; Healthy Markets Letter; Abel/Noser
+Letter; Goldman Sachs Letter; Liquidnet Letter; Franklin Templeton Investments Letter;
+TRS Letter. The Commission notes, however, that fees are not actually part of IEX’s
+Form 1. Rather, if IEX were to be approved as an exchange, it would need to submit
+separate filings under Section 19(b) of the Act to establish fees that it would charge to
+members and others using its facilities. Nevertheless, in its Second Response Letter, IEX
+noted that, as an exchange, it would intend to charge a flat transaction fee. See IEX
+Second Response at 9.
+
+21
+
+See, e.g., Capital Group Letter; Southeastern Letter; Shatto First Letter; Navari First
+Letter; Oppenheimer Funds Letter; Healthy Markets Letter; Norges Bank Letter; Burgess
+Letter; fi360 Letter; TRS Letter. But see NYSE First Letter at 9 (arguing that IEX’s
+proposed menu of order types is not necessarily “simple” and the potential different
+combinations of instructions for limit orders is in the hundreds).
+
+22
+
+See, e.g., T. Rowe Price Letter at 1-2; Navari Second Letter; Healthy Markets Letter at 24; Jefferies Letter at 3; Chen & Foley Letter at 2-3; Leuchtkafer Second Letter at 9;
+Budish Letter at 4. See also Burgess Letter; Capital Group Letter; Franklin Templeton
+Investments Letter; Michael Schroeder Letter; Leeson Letter; Lupinski Letter; Oorjitham
+Letter; Eric K Letter; Grey Letter; Spear Letter; Baggins Letter; Nixon Letter; Campbell
+Letter; Moses Letter; Huff Letter; Kaye Letter; Jean Letter; Gloy Letter; Givehchi Letter;
+Kara Letter; Hiester Letter; Benites Letter; Eustace Letter; Ramirez Letter; Luce Letter;
+Arnold Letter; Tidwell Letter; Doyle Letter; Long Letter; Kim Letter; Mannheim Letter;
+Oppenheimer Funds Letter.
+
+23
+
+See, e.g., Verret Letter at 2 (arguing that “incumbent firms have long sought to utilize
+regulatory barriers to entry to minimize competition, and it would appear a number of
+firms are presently using the regulatory comment process regarding IEX’s application as
+a venue to replicate that strategy here”); Crespo Letter; Brian S. Letter.
+
+5
+
+pilot program so that the effect of IEX’s access delay on the wider market could be better
+assessed. 24
+Among the commenters who were critical of aspects of IEX’s proposal, most focused on
+issues surrounding IEX’s coil delay, IEX’s affiliated outbound router and what they viewed as an
+unfair advantage to bypass the outbound coil delay, and IEX’s proposed order types. 25 Other
+commenters did not express a view on whether the Commission should grant or deny IEX’s
+application. 26
+II.
+
+Description of IEX’s Trading System
+IEX, which currently operates a trading platform as an alternative trading system
+
+(“ATS”), is seeking to register as a national securities exchange. Below is a brief description of
+the proposed IEX exchange trading platform, including the new aspects of the system concerning
+the router functionality where noted. 27
+Order Execution. Non-marketable orders submitted to IEX would be displayed or nondisplayed, depending on the instructions indicated by the IEX member submitting the order. 28
+24
+
+See Angel Letter at 3-5. The pilot program suggested by this commenter would be to
+measure the effect on the market of protecting IEX’s quotation notwithstanding the
+“speed bump.” See id. at 4-5. According to the commenter, if the pilot caused material
+harm, it could be halted, in which case IEX could still operate as an exchange but without
+having its quotes protected under Regulation NMS. See id. at 5. See also Wolfe Letter at
+3 (agreeing with the pilot approach suggested in the Angel Letter).
+
+25
+
+See, e.g., NYSE First Letter; NASDAQ First Letter; BATS First Letter; Citadel First
+Letter; Citadel Second Letter; Citadel Third Letter; Hudson River Trading First Letter;
+Hudson River Trading Second Letter; FIA First Letter.
+
+26
+
+See, e.g., Virtu Letter; Healthy Markets Letter; Tabb Letter; Aesthetic Integration Letter.
+
+27
+
+For more detail on IEX’s proposed trading system, see IEX’s Form 1 and Exhibits, as
+amended (in particular Exhibits B (the proposed rulebook) and E (a narrative description
+of the proposed operation of IEX as an exchange)), which are available on the
+Commission’s website at http://www.sec.gov/rules/other/otherarchive/other2015.shtml.
+
+28
+
+See Proposed IEX Rule 11.220(a)(1).
+
+6
+
+IEX would direct an order (or any portion thereof) that it could not execute on IEX to away
+markets for execution through IEX Services LLC (“IEXS”), IEX’s wholly owned single-purpose
+outbound router, unless the terms of the order direct IEX not to route such order away. 29
+IEX proposed several pegged order types – primary peg, midpoint peg, and discretionary
+peg – all of which would be non-displayed with prices that are automatically adjusted by the IEX
+system in response to changes in the national best bid and offer (“NBBO”) (subject to a limit
+price, if any). 30 As noted below, it is these types of dark pegged orders – and not standard
+market or limit orders, or displayed quotes or orders – that would be affected by the proposed
+coil delay.
+Access and the Coil Delay. Only broker-dealer members of IEX and entities that enter
+into market access arrangements with members (collectively, “Users”) would have access to the
+IEX system. 31 Users would connect to IEX through a single Point-of-Presence (“POP”) located
+in Secaucus, New Jersey. 32 After entering through the POP, a User’s electronic message sent to
+the IEX trading system would traverse the IEX “coil,” which is a box of compactly coiled optical
+fiber cable equivalent to a prescribed physical distance of 61,625 meters (approximately 38
+miles). 33 After exiting the coil, the User’s message would travel an additional physical distance
+to the IEX trading system, located in Weehawken, New Jersey. 34 According to IEX, the coil,
+when combined with the physical distance between the POP and the IEX trading system
+29
+
+See Proposed IEX Rule 11.230(b). See also Amendment Nos. 2 and 3.
+
+30
+
+See Proposed IEX Rule 11.190(a)-(b).
+
+31
+
+To obtain authorized access to the IEX System, each User must enter into a User
+Agreement with IEX. See Proposed IEX Rule 11.130(a).
+
+32
+
+See IEX Second Response at 2.
+
+33
+
+See IEX First Response at 3.
+
+34
+
+See Exhibit E to IEX’s Form 1 submission, at 12. See also IEX First Response at 3.
+
+7
+
+(hereinafter the “POP/coil”), provides IEX Users sending non-routable orders to IEX with
+350 microseconds 35 of one-way latency (hereinafter the “POP/coil delay”). 36
+Several commenters expressed concern that IEX’s previously-published Form 1 lacked
+specific detail about how the POP/coil structure would work, including what messages and
+activity would – and would not – be subject to the delay. 37 IEX responded by supplementing the
+record through its first two response letters. 38 Most recently, IEX proposed a new approach to
+outbound routing, which is discussed further below.
+According to IEX, all incoming messages (e.g., orders to buy or sell and any modification
+to a previously sent open order) from any User would traverse the POP/coil to initially reach
+IEX. In addition, all outbound messages from IEX back to a User (e.g., confirmations of an
+execution that occurred on IEX) would pass through the same route in reverse. 39 IEX’s direct
+proprietary market data feed, which is an optional data feed that IEX would make available to
+subscribers, also would traverse the POP/coil. 40
+As originally proposed, one type of inbound message and two types of outbound
+messages would not traverse the POP/coil, specifically:
+1. Inbound market data from other trading centers to the IEX system would not traverse
+the POP/coil;
+
+35
+
+A microsecond is one millionth of a second.
+
+36
+
+See IEX First Response at 3. See also Amendment Nos. 2 and 3.
+
+37
+
+See, e.g., NYSE First Letter and Nasdaq First Letter.
+
+38
+
+See IEX First Response and IEX Second Response.
+
+39
+
+See IEX First Response at 3.
+
+40
+
+See id.
+
+8
+
+2. Orders routed outbound from IEX through IEXS to away trading centers for
+execution (as well as reports back to IEX from those away trading centers) would not
+traverse the POP/coil (though execution and transaction reports sent from IEX back to
+Users would traverse the POP/coil and thus would be delayed) (as discussed below,
+IEX recently proposed a materially different approach to outbound routing that it
+intends will eliminate any exclusive advantages provided to its routing functionality);
+and
+3. Outbound transaction and quote messages sent from IEX to the applicable securities
+information processor (“SIP”) would not pass through the POP/coil, but instead
+would be sent directly from the IEX system to the SIP processor. 41
+Finally, updates to resting pegged orders on IEX would be processed within the IEX trading
+system and would not require that separate messages be transmitted from outside the trading
+system, which would otherwise traverse the POP/coil, for each update. 42
+According to IEX, its POP/coil delay, including its application to some but not all of the
+message traffic into and out of its trading system, was originally designed to achieve two main
+purposes: (1) to allow IEX time to update the prices of resting dark pegged orders on its book
+(whose permissible execution prices are not static, but rather are tied to the NBBO as IEX sees it
+through the proprietary data feeds it purchases from each exchange) in response to changes in
+market prices before other market participants can access IEX’s resting pegged orders at
+potentially “stale” prices (i.e., pegged order prices that had not been updated by IEX when the
+
+41
+
+See id. at 3-4.
+
+42
+
+See id.
+
+9
+
+new incoming order arrived at IEX); 43 and (2) to delay the trade acknowledgements IEX sends to
+Users, as well as to delay its proprietary outbound data feed that reflects the occurrence of an
+execution on IEX, both of which originally provided IEX’s affiliated outbound router with a
+“head start” as it routes out to access trading interest posted on other exchanges before other
+market participants learn about a trade on IEX and can trade with or re-price that away interest in
+reaction to the execution that occurred on IEX. 44
+Outbound Routing. In the three recent amendments to its Form 1, IEX, among other
+things, proposed a significantly different approach to outbound routing. 45 Rather than initially
+43
+
+See id. at 4 (explaining that the POP/coil is designed “to ensure that no market
+participants can take action on IEX in reaction to changes in market prices before IEX is
+aware of the same price changes on behalf of all IEX members”). See also Hudson River
+Trading First Letter at 3 (discussing the purposes of the POP/coil delay). One commenter
+noted that the POP/coil delay “has no impact” on regular displayed orders, and “simply
+slows down the trade execution process but does not alter the outcome” for non-pegged
+orders. Id. at 2-3 (“Similar to a 100-meter sprint, if you simply add 350 microseconds to
+each participant’s time, neither the order in which they finish nor their time differentials
+will change.”). Rather, the commenter argued that “IEX delays all transparent displayed
+orders that are critical to price discovery without altering the outcomes of those orders…
+for the benefit of hidden, pegged orders that free-ride on price discovery.” See Hudson
+River Trading Second Letter at 4.
+
+44
+
+See IEX Second Response at 14 (“…the purpose of requiring outbound execution
+messages to go through the POP (350 microseconds) is to prevent ‘information leakage’
+or ‘liquidity fade’ when IEXS routes to other markets”).
+
+45
+
+The proposed revisions to accommodate the new routing process are primarily addressed
+in proposed IEX Rule 11.510 (Connectivity), as well as in proposed IEX Rules 2.220
+(IEX Services LLC as Outbound Router), 11.130 (Access), 11.230(b)-(c) (Order
+Execution), 11.240 (Trade Execution, Reporting, and Dissemination of Quotations),
+11.330 (Data Products), and 11.410 (Use of Market Data Feeds and Calculations of
+Necessary Price Reference Points). IEX also proposed other changes in Amendment
+Nos. 2 and 3, including changes to proposed Rule 2.160 (Restrictions on Membership) to
+reflect the Series 57 exam; proposed new Rule 2.250 (Mandatory Participation in Testing
+of Backup Systems); proposed new Rule 9.217 (Expedited Client Suspension
+Proceeding); proposed new Rule 10.270 (Disruptive Quoting and Trading Activity
+Prohibited); changes to proposed Rule 11.190(a)(3) (Pegged Orders), (b)(8)-(10)
+(concerning pegged orders), and (g) (concerning quote stability for Discretionary Peg
+Orders); and changes to proposed Rule 11.260 (LIMITATION OF LIABILITY).
+
+10
+
+directing the entirety of a User’s order to the IEX matching engine and then routing away any
+excess shares via IEXS directly (and without having to first pass through the POP/coil delay as it
+routes shares outbound), IEX proposed to eliminate this aspect and instead create a new structure
+intended to place its outbound routing function on parity with competing broker-dealers. IEX’s
+latest amendments, which constitute a significant change from its initial Form 1, are discussed
+further below.
+III.
+
+Proceedings to Determine Whether to Grant or Deny the Application and Grounds
+for Potential Denial Under Consideration
+The Commission is hereby instituting proceedings pursuant to Section 19(a)(1)(B) of the
+
+Act 46 to determine whether IEX’s Form 1, as amended, should be granted or denied. Institution
+of such proceedings is appropriate at this time in view of the issues raised by the application, the
+significant changes proposed in IEX’s recent amendments, and the need for the Commission to
+provide the public with an opportunity to comment and allow the Commission to consider
+comments received on the recently filed features of the IEX market. Institution of proceedings
+does not indicate that the Commission has reached any conclusions with respect to any of the
+issues involved. In fact, the Commission is providing the public with an opportunity to comment
+to inform its consideration and decision making regarding the Form 1, as IEX recently amended
+it. The Commission encourages interested persons to provide specific comment on the Form 1
+focused on Amendment Nos. 2, 3, and 4. 47
+
+46
+
+15 U.S.C. 78s(a)(1)(B).
+
+47
+
+See infra Section IV (Extension of Time for Proceedings). Separately, the Commission is
+evaluating whether to revisit its interpretation of automated quotation under Regulation
+NMS in light of comments received on IEX’s Form 1 concerning the consistency of the
+POP/coil delay with Regulation NMS.
+
+11
+
+As required by Section 19(a)(1)(B) of the Act, 48 the Commission is hereby providing
+notice of the grounds for potential denial under consideration. Under Sections 6(b) and 19(a)(1)
+of the Act, 49 the Commission shall grant an application for registration as a national securities
+exchange if the Commission finds that the requirements of the Act and the rules and regulations
+thereunder with respect to the applicant are satisfied; the Commission shall deny such
+application for registration if it does not make such a finding. In particular, Section 6(b)(5) of
+the Act 50 provides that an exchange shall not be registered as a national securities exchange
+unless the Commission determines that the rules of the exchange are designed, among other
+things, not to permit unfair discrimination between customers, issuers, brokers, or dealers. In
+addition, Section 6(b)(8) of the Act 51 provides that an exchange shall not be registered as a
+national securities exchange unless the Commission determines that the rules of the exchange do
+not impose any burden on competition that is not necessary or appropriate in furtherance of the
+purposes of Act.
+The Commission is particularly interested in commenters’ views as to whether the
+changes set forth in IEX’s Form 1, as amended, are consistent with the Act, in light of
+commenters’ concerns that IEX’s routing functionality and IEXS would have an advantage over
+other routing broker-dealers that would be unfairly discriminatory and an inappropriate burden
+on competition. 52 IEX has represented to the Commission that, under its revised outbound
+
+48
+
+15 U.S.C. 78s(a)(1)(B).
+
+49
+
+15 U.S.C. 78f(b) and 15 U.S.C. 78s(a)(1), respectively.
+
+50
+
+15 U.S.C. 78f(b)(5).
+
+51
+
+15 U.S.C. 78f(b)(8).
+
+52
+
+Several commenters criticized the fact that IEXS would have received routing
+information from the IEX system outside of, and not subject to, the POP/coil delay while
+other IEX members’ receipt of transaction and quotation information from the IEX
+
+12
+
+routing structure, IEX’s routing functionality would interface with the IEX matching engine on
+the same terms as other Users, including routing broker-dealer members of IEX. 53
+The proposed new outbound routing structure, which IEX filed with the Commission
+over a period ending in early March, represents a material departure from the original design that
+IEX proposed in its original Form 1 and therefore warrants further review and consideration by
+the Commission, as informed by further public comment. 54 IEX has proposed a number of
+changes to its rulebook to effectuate this new design. The Commission believes that the
+protection of investors and the public interest are best served by affording the public the
+system would have been subject to the POP/coil delay. See, e.g., BATS First Letter at 45; BATS Second Letter at 3-6; BATS Third Letter at 3; NYSE First Letter at 3-5; NYSE
+Second Letter at 3; Citadel First Letter at 6-7; Citadel Second Letter at 5-6; Citadel Third
+Letter at 1-2; FIA First Letter at 4-5; Tabb Letter at 2-3; Hudson River Trading First
+Letter at 3-7; Hudson River Trading Second Letter at 2-5; Markit First Letter at 1-3;
+Markit Second Letter at 3-4 and 6; Hunsacker Letter; Weldon Letter. In other words, the
+concern expressed was that IEXS would have been able to route to away markets the
+unexecuted portion of any marketable order not fully executed at IEX 350 microseconds
+before other routing broker-dealers learned that an execution occurred on IEX. Some
+commenters argued that this arrangement would provide an unfair competitive advantage
+to IEX and the routing broker that it owns in that IEXS would have faster access to
+information from the IEX trading system than other members of IEX, including those
+who offer routing services that compete with IEXS, and thus IEXS would have the
+unique ability over other routing brokers to most quickly and efficiently route to away
+markets. See, e.g., BATS First Letter at 4-5; BATS Second Letter at 3-6; BATS Third
+Letter at 3; NYSE First Letter at 3-5; NYSE Second Letter at 3; Citadel First Letter at 67; Citadel Second Letter at 5-6; Citadel Third Letter at 1-2; FIA First Letter at 4-5; Tabb
+Letter at 2-3; Hudson River Trading First Letter at 3-7; Hudson River Trading Second
+Letter at 4-5; Markit First Letter at 1-3; Markit Second Letter at 3-4 and 6; Weldon
+Letter. Other commenters opined that the advantage provided to IEXS would effectively
+force brokers to use IEXS because other third party routing brokers would be
+competitively disadvantaged by their inability to similarly bypass the POP/coil delay.
+See, e.g., Tabb Letter at 2; Citadel Third Letter at 3.
+53
+
+See Letter from Sophia Lee, General Counsel, IEX, to Brent J. Fields, Secretary,
+Commission, dated February 29, 2016.
+
+54
+
+In particular, the recently-filed amendments to IEX’s Form 1 introduce the concept of a
+new POP/coil delay between IEX’s routing logic (which is located within IEX’s system)
+and IEX’s book.
+
+13
+
+opportunity to review and comment on this modified proposal from IEX, particularly in light of
+the large number of comments the Commission received that raised questions about whether
+IEX’s proposed rules were consistent with the requirements of the Act. By publishing notice of,
+and soliciting comment on, IEX’s Form 1, as most recently amended by Amendment Nos. 2, 3,
+and 4, and simultaneously instituting proceedings, the Commission seeks public input on
+whether IEX’s proposed new outbound routing structure, as reflected in its new proposed
+amended rules, is consistent with the Act, and accordingly, whether IEX should be registered as
+a national securities exchange.
+The Commission previously has stated that an exchange-affiliated outbound router, as a
+“facility” of the exchange, will be subject to the exchange’s and the Commission’s regulatory
+oversight, and that the exchange will be responsible for ensuring that the affiliated outbound
+routing function is operated consistent with Section 6 of the Act and the exchange’s rules. 55 For
+example, in approving an exchange with an affiliated outbound routing broker, the Commission
+previously noted that “[a] conflict of interest would arise if the national securities exchange (or
+an affiliate) provided advantages to its broker-dealer that are not available to other members.” 56
+The Commission further explained that “advantages, such as greater access to information,
+
+55
+
+See, e.g., Securities Exchange Act Release No. 62716 (Aug. 13, 2010), 75 FR 51295
+(August 19, 2010) (granting BATS Y Exchange’s request to register as a national
+securities exchange).
+
+56
+
+Securities Exchange Act Release No. 44983 (October 25, 2001), 66 FR 55225, 55233
+(November 1, 2001) (PCX-00-25) (order approving Archipelago Exchange (“ArcaEx”) as
+the equities trading facility of PCX Equities, Inc.) (“ArcaEx Order”). In the 2001 PCX
+filing, two commenters expressed concerns regarding ArcaEx’s affiliation with the Wave
+broker-dealer, which operated as the outbound routing broker-dealer for ArcaEx.
+Specifically, these commenters were concerned that the affiliation between ArcaEx and
+Wave would be anti-competitive and could create a conflict of interest. See also supra
+note 55, at 51304 (citing to the BATS Y order).
+
+14
+
+improved speed of execution, or enhanced operational capabilities in dealing with the exchange,
+might constitute unfair discrimination under the Act.” 57
+As specified in IEX’s initial Form 1, unexecuted shares of routable orders sent to IEXS
+would not have traversed the POP/coil. As revised by Amendment Nos. 2, 3, and 4, IEX now
+proposes a significantly different structure that it says is intended to place its router and routing
+logic in an identical position to non-affiliated routing broker-dealers. 58
+IEX’s recent amendments include new rules to bifurcate its handling of non-routable and
+routable orders. 59 For routable orders, IEX explains that it would insert an additional POP/coil
+delay within the IEX system to delay routable orders’ access to the IEX book by an additional
+350 microseconds after they have already passed through the initial POP/coil delay on their way
+into the IEX system (for a total delay of 700 microseconds before any portion of the routable
+order reaches the IEX book). 60 IEX represents that this new delay is intended to place IEX in the
+same position as a third-party routing broker in reaching IEX’s book through a POP/coil delay,
+such that IEX’s ability to submit a routable order to its own order book would be identical to any
+other routing broker-dealer’s ability to submit a routable order to the IEX order book despite the
+fact that the orders would traverse different paths in the system. 61 Likewise, IEX notes that
+
+57
+
+ArcaEx Order, supra note 56, at 55233.
+
+58
+
+See Letter from Sophia Lee, General Counsel, IEX, to Brent J. Fields, Secretary,
+Commission, dated February 29, 2016, at 1.
+
+59
+
+See id.
+
+60
+
+See id. at 1-2 (“Please note that because of the speed bump introduced between the IEX
+Router and the IEX matching engine, IEX routing members independently choosing to
+use the IEX Router will experience an additional 350 microseconds of latency as
+compared to members sending non-routable orders to the IEX matching engine.”).
+
+61
+
+See id. at 1 (“In particular, this redesign eliminates any alleged advantage claimed by the
+commenters that the Router has over a third party broker routing to IEX.”).
+
+15
+
+messages from the IEX order book back to IEX’s routing logic also would be subject to this
+POP/coil delay to effect a latency identical to that experienced by IEX’s non-affiliated members
+when receiving messages back from the IEX order book. 62 As such, IEX represents that its
+routing functionality would have no information advantage (i.e., no special view of IEX’s book,
+including displayed or non-displayed interest) and IEX represents that the proposal places its
+outbound routing functionality in an identical position to third-party routing broker-dealers when
+sending orders into the IEX matching engine and when receiving transaction information from
+the IEX matching engine. 63
+Given this additional POP/coil delay, Users submitting routable orders to IEX and Users
+submitting non-routable orders to IEX would not be subject to the same cumulative POP/coil
+delay. Non-routable orders would remain subject to the 350 microsecond delay into and out of
+the IEX matching engine via the initial POP/coil. Routable orders, however, would be sent to
+IEX’s system routing logic first, and, if routed to IEX, would traverse a new POP/coil delay
+(with an additional 350 microsecond delay) when interacting with the IEX matching engine. 64
+
+62
+
+See id. at 1-2 (noting that “the IEX Router would receive fill information from the IEX
+matching engine by way of the speed bump, which would place the IEX Router’s ability
+to receive information from the IEX matching engine on equal terms to an independent
+broker router”).
+
+63
+
+See id. at 2 (noting that “the IEX Router would receive IEX quote information (the IEX
+TOPS feed) over the speed bump, which would place the IEX Router’s ability to receive
+IEX quote information on equal terms to an independent broker router”).
+
+64
+
+See id. IEX believes that this additional delay should not be to the detriment of a User
+submitting a routable order, and notes that Users may avoid this additional delay by
+submitting non-routable orders. See id. In addition, the trade confirmation report from
+the IEX matching engine back to the User that submitted the routable order would be
+subject to a 700 microsecond delay, whereas IEX’s proprietary data feed would only be
+subject to a 350 microsecond delay. See id. at 1-2.
+
+16
+
+The Commission is evaluating whether IEX’s revised proposal for handling routable
+orders sufficiently addresses concerns that its proposed rules may not be consistent with the Act,
+for example whether they constitute unfair discrimination, or impose an unnecessary or
+inappropriate burden on competition.
+Accordingly, the Commission believes that it is appropriate at this time to institute
+proceedings to determine whether to grant or deny IEX’s Form 1, as modified by IEX’s recent
+amendments. For the reasons set forth above, the Commission believes that questions remain as
+to whether IEX’s proposed trading system is consistent with the requirements of: (1) Section
+6(b)(5) of the Act, 65 which provides that an exchange shall not be registered as a national
+securities exchange unless the Commission determines that the rules of the exchange are
+designed, among other things, not to permit unfair discrimination between customers, issuers,
+brokers, or dealers; and (2) Section 6(b)(8) of the Act, 66 which provides that an exchange shall
+not be registered as a national securities exchange unless the Commission determines that the
+rules of the exchange do not impose any burden on competition that is not necessary or
+appropriate in furtherance of the purposes of Act. 67
+The Commission invites comment on all aspects of IEX’s Form 1, as amended,
+particularly with regard to the proposed outbound routing functionality as presented in its recent
+
+65
+
+15 U.S.C. 78f(b)(5).
+
+66
+
+15 U.S.C. 78f(b)(8).
+
+67
+
+Commenters also raised concerns about whether IEX’s quotation, in light of the POP/coil
+delay, could be categorized as “automated,” and therefore be “protected,” under Rule 611
+of Regulation NMS given prior Commission guidance on those definitions when it
+adopted Regulation NMS. See, e.g., FIA First Letter; NYSE First Letter; Citadel First
+Letter. The Commission is separately evaluating the definition of automated quotation
+under Regulation NMS in light of comments received on IEX’s Form 1 concerning the
+consistency of the POP/coil delay with Regulation NMS.
+
+17
+
+amendments. In particular, do commenters have a view on whether IEX’s revised proposal
+places other routing brokers who are members of IEX on the same footing as IEX in a manner
+that would address the concerns under the Act and the rules thereunder? Are there material
+aspects of IEX’s proposed revised routing functionality that are not clearly presented in IEX’s
+revised rules 68 and addressed by IEX’s Form 1, as amended? Do commenters have a view on
+whether the different delays in accessing the IEX matching engine experienced by routable
+orders versus non-routable orders present any concerns under the Act?
+IV.
+
+Extension of Time for Proceedings
+As noted above, IEX previously consented to an extension of time for its Form 1 to
+
+March 21, 2016. 69 Most recently, on February 29, March 4, and March 7, IEX filed amendments
+to its Form 1. 70 As discussed above, these amendments contained, among other unrelated
+changes, several new and amended rules to effect a significantly different approach to outbound
+routing. IEX stated its belief that its new routing proposal addresses concerns raised by
+commenters about its outbound routing functionality and whether that original proposal was
+consistent with the Act. 71 For the reasons discussed above, the Commission believes it is
+necessary to provide a notice and comment period so that market participants can evaluate the
+new proposal and amended rule text.
+IEX filed these amendments to its Form 1 approximately two weeks prior to the March
+21 deadline. The Commission does not have sufficient time before that March 21 deadline to
+68
+
+See supra note 45 (citing to the proposed amended IEX rules that would accommodate
+the new routing process, including proposed IEX Rule 11.510).
+
+69
+
+See supra note 6.
+
+70
+
+See supra notes 7-9.
+
+71
+
+See Letter from Sophia Lee, General Counsel, IEX, to Brent J. Fields, Secretary,
+Commission, dated February 29, 2016, at 2.
+
+18
+
+publish notice of IEX’s amendments in the Federal Register, afford market participants a 21-day
+comment period, and then evaluate any comments received before making a final determination
+on IEX’s Form 1, as amended. Therefore, to provide time for public notice and comment and for
+Commission consideration of this significant new proposal from IEX, the Commission believes
+that there is good cause for a ninety-day extension of these proceedings. Accordingly, the
+Commission hereby designates June 18, 2016 as the date by which the Commission shall
+determine whether to grant or deny IEX’s Form 1, as amended, for registration as a national
+securities exchange.
+V.
+
+Request for Written Comments
+The Commission requests that interested persons provide written views and data with
+
+respect to IEX’s Form 1, as amended, and the questions included above or other relevant issues.
+Comments may be submitted by any of the following methods:
+Electronic comments:
+•
+
+Use the Commission’s Internet comment form (http://www.sec.gov/rules/sro.shtml); or
+
+•
+
+Send an e-mail to rule-comments@sec.gov. Please include File Number 10-222 on the
+subject line.
+
+Paper comments:
+•
+
+Send paper comments in triplicate to Brent J. Fields, Secretary, Securities and Exchange
+Commission, 100 F Street, NE, Washington, DC 20549-1090.
+
+All submissions should refer to File Number 10-222. This file number should be included on the
+subject line if e-mail is used. To help the Commission process and review your comments more
+efficiently, please use only one method. The Commission will post all comments on the
+Commission’s Internet website (http://www.sec.gov/rules/other.shtml). Copies of the
+
+19
+
+submission, all subsequent amendments, all written statements with respect to IEX’s Form 1
+filed with the Commission, and all written communications relating to the application between
+the Commission and any person, other than those that may be withheld from the public in
+accordance with the provisions of 5 U.S.C. 552, will be available for website viewing and
+printing in the Commission’s Public Reference Room, 100 F Street, NE, Washington, DC 20549,
+on official business days between the hours of 10:00 a.m. and 3:00 p.m. All comments received
+will be posted without change; the Commission does not edit personal identifying information
+from submissions. You should submit only information that you wish to make publicly
+available. All submissions should refer to File Number 10-222 and should be submitted on or
+before [insert date 21 days from publication in the Federal Register].
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+20
+
+

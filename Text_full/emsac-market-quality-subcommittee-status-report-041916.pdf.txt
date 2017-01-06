@@ -1,0 +1,143 @@
+MEMORANDUM
+TO:
+
+Equity Market Structure Advisory Committee (EMSAC)
+
+FROM:
+
+EMSAC Market Quality Subcommittee
+
+DATE:
+
+April 19, 2016
+
+SUBJECT:
+
+Market Quality Subcommittee Status Report
+
+_________________________________________________________________________________
+Preliminary Recommendations for Rule-Making on Issues of Market Quality
+
+As the full Committee is aware, the Market Quality Sub-Committee was tasked with examining
+some of the effects of August 24th and recommending, if needed, changes for various market
+quality and safety features. The Sub-Committee is pleased to present our first preliminary set of
+recommendations to the full Committee. The Sub-Committee intends to continue to meet and
+work on these issues as well as continuing to consult with various market constituencies for their
+feedback and interest in these issues. So far we have spoken to representatives of the Chicago
+Board Options Exchange (CBOE), the International Stock Exchange (ISE), Exchange Traded
+Products Issuers (ETPS), BATS, Heathy Markets, Weild & Co and several market-making firms.
+At upcoming meetings, we will have representatives from several retail focused firms, additional
+ETF market participants and S&P/Dow Jones. As has been previously noted, the SubCommittee members themselves represent a diverse cross-section of market participants ranging
+from agency broker-dealers, market-making firms (some of whom deal extensively with retail
+order flow), large buy-side organizations as well as well-known market observers and
+commentators. Our recommendations reflect the view of the vast majority of the participants in
+these conversations. Where there has been dissent from a majority view or an alternative
+presented we have tried to ensure that view has been represented.
+The first three main issues we have recommendations are on the National Market System Plan to
+Address Extraordinary Volatility (hereafter described as Limit Up/Limit Down or LU/LD),
+Market Wide Circuit Breakers and the Market Opening. Further topics on the Sub-Committee’s
+agenda to address are Market-Making standards, rights, and obligations in equity markets, the
+plan submitted by NYSE and NASDAQ to address concerns around events effecting the Closing
+Auction of listed stocks, and Capital Formation impacts of Markets Structure, including but not
+limited to thoughts around the tick size pilot.
+Limit Up/Limit Down
+The Sub-Committee has looked carefully at the action of the Limit Up/Limit Down mechanism
+not only in the context of the events of August 24th 2015, but also with respect to its general
+operation since implemented. We are cognizant that the primary goal of Limit Up/Limit down
+has been to prevent runaway stocks, which may trade at prices not-reflective of true market
+interest, and thereby reduce panic or unwarranted buying and/or selling. As the Committee is
+aware, today’s current LU/LD operation bands each stock price on an ongoing basis. When the
+stock moves suddenly in either direction (e.g., 10%), it goes either limit up or limit down and
+
+only trades that would execute at or inside the band are allowed. If the stock remains quoted in
+the limit state condition, the stock is then halted by the primary listing exchange and a reopening auction process begins. At the end of the auction and re-opening process the stock
+begins to freely trade again.
+Based on trading on August 24th and more generally in the markets, two things seem apparent.
+First, the primary function of the bands works – meaning runaway stocks and panic selling or
+buying is mitigated by the bands and the LU/LD operation. Second, the re-opening process does
+not function well. It is characterized by a dearth of market participation and does not have the
+centralizing liquidity function of similar auctions around opening and closing by primary listing
+venues. While theoretically the re-opening auction should reset the trading range of a stock
+halted in the LU/LD process to its new ‘fair’ trading range, the actual operation of the function
+simply halts the stock until free trading finds the new fair trading range or the stock triggers
+another limit state (which occurred at very high levels on August 24th 2015, but is often a daily
+occurrence in the markets today).
+The Sub-Committee examined whether there were mechanisms or functions that could fix the
+auction process so that it would more successfully re-price securities to its new fair range.
+Following much discussion and examination, the Sub-Committee believes that such fixes could
+represent an onerous burden on the industry and significant time and effort to develop a
+centralizing auction process with full market participation to determine new re-opening prices.
+Additionally, the Sub-Committee noted a bias towards keeping markets open as opposed to
+closing them periodically.
+To that end, the Sub-Committee is preliminarily recommending that the LU/LD protocol be
+altered in two ways to help solve some of these structural issues. First, we recommend that when
+a stock is 'stuck' in limit up or limit down that there be no halt to the trading of the stock. Instead,
+we recommend that the trading bands of the stock stuck in limit up or limit down automatically
+adjust around the limit up or limit down price after a period of time. As an example, if a stock is
+trading at 100 and falls to 90 and goes limit down - after a period of time (see below), the limitup/limit down bands automatically adjust around the 90 price, allowing the stock to continue
+freely trading. Second, we recommend that the period of time - currently 15 seconds - that a
+stock remains in the limit state condition - be extended to 30 seconds allowing the market
+adequate time to assess the stock and its limit condition before the bands re-adjust. These
+changes would - in our opinion - allow stocks to continue to freely trade while still offering
+protection against runaway stock conditions. The longer time before band re-adjustment would
+allow market participants adequate time to 'correct' prices and respond if the market felt the stock
+should trade inside the current bands. It was also the Sub-Committee's belief that the
+implementation of the change would not create an onerous burden on the exchanges and other
+market participants.
+An observation made by several members of the sub-Committee is that there may be value after
+multiple LU/LD observations in a name (particularly those all headed in the same direction), to
+halt a stock. Two suggestions made by Sub-Committee members are: 1) after 3 LU/LD
+adjustments in the same direction, the stock would be halted and re-opening auction held. The
+rationale for this modification to the previous recommended change is that after that many
+
+events, it is clear that there is either a liquidity pocket in the security or significant market news
+warranting a halt and re-opening auction. While many Sub-Committee members are sympathetic
+to this notion, there are others that continue to believe a change to the auction process would
+require major changes to the current operation of the markets and should be not be considered.
+This leads naturally to the second suggestion made by several Sub-Committee members: That in
+the event of an auction being called, the auction time and process be extended by such time as
+necessary to achieve a ‘minimum volume threshold’ (to be defined) to re-open the stock. Several
+of the buy-side representatives on the Sub-Committee expressed some interest in participating if
+they “had sufficient time to read the info on the tape and work with their Portfolio Managers to
+respond” and others suggested that if the auctions were extended natural buying and selling
+interest would appear to ‘re-set’ the trading price. Several other Sub-Committee members
+suggested that this could have the negative effect of holding a stock closed for an inordinately
+long period of time if sufficient trading interest did not appear quickly and that the uncertainty of
+the re-opening time could unintentionally create liquidity gaps. Further, there were concerns
+expressed that the longer a stock is held closed for sufficient minimum volume, the more
+additional pressure could appear on a stock (in either direction) exacerbating the problem as
+opposed to helping it.
+Two other recommendations were made by the Sub-Committee in regard to the operation of the
+LU/LD plans. First, the Clearly Erroneous rules at each exchange conform to the LU/LD bands.
+In other words, any trade that takes place within the band would stand and not be broken and
+trades outside the LU/LD bands would be eligible for the consideration of the Clearly Erroneous
+rules.
+Second, the LU/LD bands include the concept of mean reversion. As an example, if a stock
+trades for $100 and trades down to its LD band of $90 and the bands ‘reset’ (or halt depending
+on final resolution of the LU/LD issues) and the stock immediately trades back to $100 that the
+LU band not be triggered at $99, but allow the stock to return to its trading level prior to its ‘selloff’ to $90. In particular, this should mitigate a large number of LU/LD conditions where stocks
+trigger multiple conditions around the same price, but in varying around that price. These effects
+were clearly driving some of the halts on August 24th.
+Market Wide Circuit Breakers
+As to market-wide circuit breakers, after much discussion and the consideration of using the
+value of the S+P 500 futures product as opposed to the cash value of the S+P 500 Index, the SubCommittee determined that - overall - the current market-wide circuit breaker construct should
+remain in place. This was done with an acknowledgment that the failure to open stocks in a
+timely manner does create anomalous cash S+P 500 opening values that could corrupt the
+process. But overall, it was the Sub-Committee's belief that the process as designed was and is
+adequate for larger market-safety protections. To that end, one common comment from market
+participants was a belief that if the market wide circuit breaker had been tripped on August 24th
+2015, the chaos in trading would have been much worse.
+
+Market Opening
+Finally, without opining on any Exchange's business model nor any specific methodology of
+opening stocks, the Sub-Committee strongly recommends that the Exchanges and Commission
+adopt policies and procedures that ensure all stocks open as close to 9:30 as feasibly and
+technically possible. We believe that this will prevent corrupt opening values for the index
+calculations necessary for market-wide circuit breakers and for ETFs that rely on those opening
+prices. Additionally, it would allow for the smoother operation of the Limit Up/Limit Down
+process regardless of any recommended changes.
+The Market Quality Sub-Committee of the EMSAC is pleased to present this first set of
+preliminary recommendations to the full Committee and will continue to meet and consider other
+recommendations or further refining these recommendations.
+
+

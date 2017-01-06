@@ -1,0 +1,1297 @@
+No. 08-905
+
+In the Supreme Court of the United States
+
+MERCK & CO., INC., ET AL., PETITIONERS
+v.
+RICHARD REYNOLDS, ET AL.
+ON WRIT OF CERTIORARI
+
+TO THE UNITED STATES COURT OF APPEALS
+
+FOR THE THIRD CIRCUIT
+
+
+BRIEF OF THE UNITED STATES
+
+AS AMICUS CURIAE SUPPORTING RESPONDENTS
+
+
+MARK D. CAHN
+Deputy General Counsel
+MICHAEL A. CONLEY
+Deputy Solicitor
+MARK PENNINGTON
+Assistant General Counsel
+DAVID LISITZA
+Senior Counsel
+Securities and Exchange
+Commission
+Washington, D.C. 20549
+
+ELENA KAGAN
+Solicitor General
+Counsel of Record
+MALCOLM L. STEWART
+Deputy Solicitor General
+DOUGLAS HALLWARD-DRIEMEIER
+Assistant to the Solicitor
+General
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+
+QUESTIONS PRESENTED
+
+The federal statute of limitations for private securities-fraud actions provides that a plaintiff must file suit
+within “[two] years after the discovery of the facts constituting the violation,” but not later than “[five] years
+after such violation.” 28 U.S.C. 1658(b)(1) and (2). The
+lower courts have uniformly construed the term “discovery” in that provision to encompass constructive as well
+as actual discovery, so that suit must be filed within two
+years after the plaintiff, in the exercise of reasonable
+diligence, ought to have discovered the “facts constituting the violation.” The point at which the plaintiff was
+sufficiently alerted to the possibility of wrongdoing that
+a reasonably diligent investor in his position would have
+undertaken further investigation is commonly referred
+to as “inquiry notice.” The questions presented are as
+follows:
+1. Whether, when the two-year limitations period is
+triggered by constructive discovery, the period begins to
+run when the plaintiff is first placed on “inquiry notice,”
+or only after an investor who has previously been placed
+on inquiry notice should have discovered the violation by
+way of a diligent investigation.
+2. Whether a potential plaintiff is on “inquiry notice” of possible fraud in violation of the securities laws
+whenever he suspects that the defendant has made a
+false statement, or only when he has reason to suspect
+that the defendant made the misstatement with the scienter necessary to constitute a violation of the securities
+laws.
+
+(I)
+
+TABLE OF CONTENTS
+
+Page
+Interest of the United States . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Summary of argument . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Argument:
+This action is timely because respondents neither
+knew, nor reasonably could have known, the facts
+constituting petitioners’ alleged Section 10(b)
+violation more than two years before filing suit . . . . . . . . 10 
+
+A.	 Section 1658(b)(1)’s two-year period begins to
+run only after the plaintiff discovers or should
+have discovered facts demonstrating that all
+elements of a securities-fraud violation can be
+established . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1.	 The term “facts constituting the violation” in
+Section 1658(b)(1) means facts demonstrating
+that the defendant has violated the securities
+laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+2.	 Section 1658(b)(1)’s two-year limitations
+period can be triggered by either actual or
+constructive discovery of the “facts constituting the violation,” but is not triggered
+by mere suspicion of illegality . . . . . . . . . . . . . . . . . 15
+3.	 Even if the plaintiff fails to undertake a
+reasonably diligent investigation after
+inquiry notice, the two-year limitations
+period runs from when such an investigation
+would have revealed the “facts constituting
+the violation,” not from when the investigation should have commenced . . . . . . . . . . . . . . . . . . 20
+
+(III)
+
+IV
+
+Table of Contents—Continued	
+
+Page
+
+B.	 Inquiry notice of a possible Section 10(b) violation arises only if circumstances suggest a misrepresentation or omission made with scienter . . . . .
+1.	 Inquiry notice identifies when a reasonable
+
+plaintiff would begin investigating a possible
+
+violation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.	 Suspicion of scienter is necessary for
+
+inquiry notice, though it may arise from
+
+suspicion of falsity . . . . . . . . . . . . . . . . . . . . . . . . . .
+C.	 Section 1658(b)(1) does not bar respondents’
+claims . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+26 
+
+
+27 
+
+
+28 
+
+30 
+
+33 
+
+
+TABLE OF AUTHORITIES
+
+Cases:
+Aaron v. SEC, 446 U.S. 680 (1980) . . . . . . . . . . . . . . . . 12, 28 
+
+Benak v. Alliance Capital Mgmt., L.P., 435 F.3d 396
+
+(3d Cir. 2006) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 
+
+Berry v. Valence Tech., Inc., 175 F.3d 699 (9th Cir.),
+
+cert. denied, 528 U.S. 1019 (1999) . . . . . . . . . . . . . . . . . . 17 
+
+Betz v. Trainer Wortham & Co, 519 F.3d 863
+
+(9th Cir. 2008), petition for cert. pending,
+
+No. 07-1489 (filed May 27, 2008) . . . . . . . . . . . . . . . . 17, 27 
+
+Brumbaugh v. Princeton Partners, 985 F.2d 157
+
+(4th Cir. 1993) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 
+
+Commissioner v. Keystone Consol. Indus., Inc.,
+
+508 U.S. 152 (1993) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 
+
+Cooperativa de Ahorro y Credito Aguada v. Kidder,
+
+Peabody & Co., 129 F.3d 222 (1st Cir. 1997) . . . . . . 16, 29 
+
+
+V
+
+Cases—Continued:
+
+Page
+
+Dodds v. CIGNA Sec., Inc., 12 F.3d 346 (2d Cir. 1993),
+
+cert. denied, 511 U.S. 1019 (1994) . . . . . . . . . . . . 16, 27, 30 
+
+Dura Pharm., Inc. v. Broudo, 544 U.S. 336 (2005) . . . . 2, 12 
+
+Edgington v. Fitzmaurice, 29 Ch. D. 459 (Eng. 1885) . . . 12
+
+Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976) . . . . . . . . 2 
+
+Fujisawa Pharm. Co. v. Kapoor, 115 F.3d 1132
+
+(7th Cir. 1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 
+
+Howard v. Haddad, 962 F.2d 328 (4th Cir. 1992) . . . . . . . 17 
+
+Kirby v. Lake Shore & Mich. S. R.R., 120 U.S. 130
+
+(1887) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 
+
+Klehr v. A.O. Smith Corp., 521 U.S. 179 (1997) . . . . . . . . . 25 
+
+LC Capital Partners, LP v. Frontier Ins. Group, Inc.,
+318 F.3d 148 (2d Cir. 2003) . . . . . . . . . . . . . . . . . . . . . . . . 21 
+
+Lampf, Pleva, Lipkind, Prupis & Petigrow v.
+Gilbertson, 501 U.S. 350 (1991) . . . . 2, 3, 11, 15, 18, 19, 24 
+
+Law v. Medco Research, Inc., 113 F.3d 781 (7th Cir.
+1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 29, 30 
+
+Maggio v. Gerard Freezer & Ice Co., 824 F.2d 123
+
+(1st Cir. 1987) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 
+
+Mathews v. Kidder, Peabody & Co., 260 F.3d 239
+
+(3d Cir. 2001) . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 21, 29, 30 
+
+New Eng. Health Care Employees Pension Fund v.
+Ernst & Young, LLP, 336 F.3d 495 (6th Cir. 2003),
+
+cert. denied, 540 U.S. 1183 (2004) . . . . . . . . . . . . . . . 16, 17 
+
+Ritchey v. Horner, 244 F.3d 635 (8th Cir. 2001) . . . . . . . . 16 
+
+Rotella v. Wood, 528 U.S. 549 (2000) . . . . . . . . . . . . . . . 13, 25 
+
+Rothman v. Gregor, 220 F.3d 81 (2d Cir. 2000) . . . . . . . . . 17 
+
+Sterlin v. Biomune Sys., 154 F.3d 1191 (10th Cir.
+1998) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 17 
+
+
+VI
+
+Cases—Continued:
+
+Page
+
+Sudo Props., Inc. v. Terrebonne Parish Consol. Gov’t,
+
+503 F.3d 371 (5th Cir. 2007) . . . . . . . . . . . . . . . . . . . . 17, 27 
+
+TRW Inc. v. Andrews, 534 U.S. 19 (2001) . . . . . . . . . . . 29, 32 
+
+Tellabs, Inc. v. Makor Issues & Rights, Ltd.,
+
+551 U.S. 308 (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 
+
+Theoharous v. Fong, 256 F.3d 1219 (11th Cir. 2001) . . . . . 16 
+
+Topalian v. Ehrman, 954 F.2d 1125 (5th Cir.),
+
+cert. denied, 506 U.S. 825 (1992) . . . . . . . . . . . . . . . . . . . 16 
+
+United States v. Kubrick, 444 U.S. 111 (1979) . . . . . . . . . . 25 
+
+United States v. Mack, 295 U.S. 480 (1935) . . . . . . . . . . . . 21 
+
+Young v. Lepone, 305 F.3d 1 (1st Cir. 2002) . . . . . . . . . . . . 17 
+
+Statutes, regulation and rule:
+Clayton Act, 15 U.S.C. 15b . . . . . . . . . . . . . . . . . . . . . . . . . . 25 
+
+Fair Credit Reporting Act, 15 U.S. 1681p . . . . . . . . . . . . . 29 
+
+Federal Tort Claims Act, 28 U.S.C. 2401(b) . . . . . . . . . . . . 25 
+
+Private Securities Litigation Reform Act of 1995,
+
+Pub. L. No. 104-67, 109 Stat. 737 . . . . . . . . . . . . . . . . . . . 3 
+
+Sarbanes-Oxley Act, Pub. L. No. 107-204, § 804,
+
+116 Stat. 801 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+
+Securities Act of 1933, 15 U.S.C. 77a et seq. . . . . . . . . . . . . 3 
+
+15 U.S.C. 77k . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+
+15 U.S.C. 77k(b)(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+
+15 U.S.C. 77l(a)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+
+15 U.S.C. 77m (§ 13) . . . . . . . . . . 3, 8, 11, 15, 16, 18, 19, 22 
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a
+
+et seq.:
+
+15 U.S.C. 78i(e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 11 
+
+
+VII
+
+Statutes, regulation and rule—Continued:
+
+Page
+
+15 U.S.C. 78j(b) (§ 10(b)) . . . . . . . . . . . . . . . . . . passim
+
+15 U.S.C. 78r(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 11 
+
+15 U.S.C. 78u-4(b)(1) . . . . . . . . . . . . . . . . . . . . . . . 13, 28 
+
+15 U.S.C. 78u-4(b)(2) . . . . . . . . . . . . . . . . . . . . . 3, 13, 28 
+
+28 U.S.C. 1658(b) . . . . . . . . . . . . . . . 1, 3, 10, 11, 14, 19, 26, 28 
+
+28 U.S.C. 1658(b)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . passim
+
+28 U.S.C. 1658(b)(2) . . . . . . . . . . . . . . . . . . . . . . . . 3, 10, 22, 26 
+
+N.Y. Code of Procedure § 91(6) (Voorhies’ 5th ed.
+
+1857) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 
+
+17 C.F.R. 240.10b-5 (Rule 10b-5) . . . . . . . . . . . . . 2, 11, 12, 13 
+
+Fed. R. Civ. P. 9(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13 
+
+Miscellaneous:
+2 Calvin Corman, Limitation of Actions (1991) . . . . . . . . 32 
+
+H. R. Conf. Rep. No. 369, 104th Cong., 1st Sess.
+
+(1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 13 
+
+S. Rep. No. 98, 104th Cong., 1st Sess. (1995) . . . . . . . . . . . . 3 
+
+S. Rep. No. 146, 107th Cong., 2d Sess. (2002) . . . . . 4, 17, 20 
+
+
+In the Supreme Court of the United States
+
+No. 08-905
+
+MERCK & CO., INC., ET AL., PETITIONERS
+
+v.
+RICHARD REYNOLDS, ET AL.
+ON WRIT OF CERTIORARI
+
+TO THE UNITED STATES COURT OF APPEALS
+
+FOR THE THIRD CIRCUIT
+
+
+BRIEF OF THE UNITED STATES
+
+AS AMICUS CURIAE SUPPORTING RESPONDENTS
+
+
+INTEREST OF THE UNITED STATES
+
+
+This case concerns the proper application of 28
+U.S.C. 1658(b), the federal statute of limitations for private securities-fraud claims. Meritorious private securities-fraud actions are an essential supplement to criminal prosecutions and civil enforcement actions brought
+by the United States and the Securities and Exchange
+Commission (SEC). The government therefore has a
+strong interest in Section 1658(b)’s proper construction.
+At the Court’s invitation, the United States previously
+filed a brief amicus curiae in Trainer Wortham & Co. v.
+Betz, petition for cert. pending, No. 07-1489 (filed May
+27, 2008), which raised substantially similar issues.
+
+(1)
+
+
+2
+
+STATEMENT
+
+1. Section 10(b) of the Securities Exchange Act of
+1934 (1934 Act) makes it unlawful to “use or employ, in
+connection with the purchase or sale of any security
+* * * , any manipulative or deceptive device or contrivance in contravention of ” rules and regulations prescribed by the SEC. 15 U.S.C. 78j(b). The SEC’s Rule
+10b-5 implements Section 10(b) by declaring it unlawful,
+“in connection with the purchase or sale of any security,” to (a) “employ any device, scheme, or artifice to
+defraud”; (b) “make any untrue statement of a material
+fact or to omit to state a material fact necessary in order
+to make the statements made * * * not misleading”; or
+(c) “engage in any act, practice, or course of business
+which operates or would operate as a fraud or deceit
+upon any person.” 17 C.F.R. 240.10b-5.
+This Court has construed Section 10(b) to afford an
+implied right of action. See, e.g., Dura Pharm., Inc. v.
+Broudo, 544 U.S. 336, 341 (2005). In order to establish
+a Section 10(b) or Rule 10b-5 violation, a private plaintiff
+must prove the defendant made a material misrepresentation or omission with scienter—“a mental state embracing intent to deceive, manipulate, or defraud.”
+Ernst & Ernst v. Hochfelder, 425 U.S. 185, 194 n.12
+(1976). To recover under the implied cause of action, a
+plaintiff must show, beyond a securities violation, that
+he relied on the defendant’s misrepresentation and suffered economic loss as a result. Dura, 544 U.S. at 341342. In the absence of an express statute of limitations,
+this Court held in Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350 (1991) (Lampf ), that
+Section 10(b) claims must be brought within the earlier
+of one year “after the discovery of the facts constituting
+the violation” or three years after the violation, id. at
+
+3
+
+364. The Court borrowed that language from limitations
+periods Congress had provided for express causes of
+action under the Securities Act of 1933 (1933 Act), 15
+U.S.C. 77a et seq., and the 1934 Act. Lampf, 501 U.S. at
+359-360 & nn.6-7, 364 n.9 (citing 15 U.S.C. 77m, 78i(e),
+78r(c)).
+Congress adopted the Private Securities Litigation
+Reform Act of 1995 (PSLRA), Pub. L. No. 104-67, 109
+Stat. 737, in response to the problem of abusive private
+securities litigation, including plaintiff lawyers’ “race to
+the courthouse” after only “minimal time preparing complaints,” often based on no more than a stock-price drop
+or “a failed product development project,” S. Rep. No.
+98, 104th Cong., 1st Sess. 8, 10-11 (1995). See H.R.
+Conf. Rep. No. 369, 104th Cong., 1st Sess. 31 (1995)
+(criticizing “the routine filing of lawsuits * * * without
+regard to any underlying culpability of the issuer”).
+Inter alia, the PSLRA requires a private securitiesfraud complaint to “state with particularity facts giving
+rise to a strong inference that the defendant acted with
+the required state of mind.” 15 U.S.C. 78u-4(b)(2).
+In 2002, Congress established an express federal
+statute of limitations to govern securities-fraud claims.
+Sarbanes-Oxley Act, Pub. L. No. 107-204, § 804, 116
+Stat. 801 (28 U.S.C. 1658(b)). Section 1658(b) applies to
+any “private right of action that involves a claim of
+fraud, deceit, manipulation, or contrivance in contravention of a regulatory requirement concerning the securities laws.” Like the limitations periods borrowed by the
+Court in Lampf, the Sarbanes-Oxley Act established
+both a period of repose, 28 U.S.C. 1658(b)(2), and a limitations period running “after the discovery of the facts
+constituting the violation,” 28 U.S.C. 1658(b)(1). Congress lengthened the time available to bring suit, how-
+
+4
+
+ever, by extending the limitations period to two years
+and the period of repose to five.
+The Senate Judiciary Committee explained that
+Lampf ’s one-year period encouraged “victims to race
+into court.” S. Rep. No. 146, 107th Cong., 2d Sess. 9
+(2002). The Committee contemplated that, in contrast
+to the one-year period, the two-year period would allow
+a plaintiff “to file a complaint under a heightened pleading standard, survive[] a motion to dismiss, begin[] discovery, and learn[] that an additional wrongdoer or theory should be added to the case.” Ibid.
+2. Merck developed Vioxx as one of a new class of
+painkillers with less harmful gastrointestinal (GI) sideeffects. Pet. App. 5a. The market viewed Vioxx as having blockbuster potential. Ibid. To demonstrate Vioxx’s
+superior GI safety, Merck undertook a large-scale
+study—the Vioxx Gastrointestinal Outcomes Research
+(VIGOR) study—comparing Vioxx to naproxen, the ingredient in other pain relievers. Id. at 6a. The results
+of the study did show greater GI safety, but also showed
+that Vioxx users suffered significantly more heart attacks than naproxen users. Ibid. To explain that discrepancy, Merck’s public statements advanced the “naproxen hypothesis”—i.e., that the lower incidence of
+cardiac events for patients taking naproxen was attributable to a beneficial effect of naproxen rather than to
+any harmful effect of Vioxx. Id. at 7a. In a press release
+about the study, Merck noted, however, that such an
+effect “had not been observed previously in any clinical
+studies for naproxen.” J.A. 291.
+In September 2001, the Food and Drug Administration (FDA) issued a Warning Letter informing Merck
+that its marketing of Vioxx was “false, lacking in fair
+balance, or otherwise misleading in violation of the Fed-
+
+5
+
+eral Food, Drug, and Cosmetic Act.” J.A. 339. The
+FDA acknowledged that the naproxen hypothesis was “a
+possible explanation” for the VIGOR study’s data concerning cardiac events, but faulted Merck for failing to
+balance presentation of that hypothesis with the alternative “reasonable explanation, that Vioxx may have prothrombotic properties.” J.A. 340. The FDA directed
+Merck to issue a corrective letter to healthcare providers. J.A. 353.
+The Brigham and Women’s Hospital in Boston conducted a study funded by Merck (the Harvard Study) to
+test Vioxx’s cardiac effect against Celebrex, another
+painkiller, and a placebo. On October 30, 2003, a Wall
+Street Journal (WSJ) article cited the Harvard Study
+as having “found an increased risk of heart attack in
+patients taking Vioxx compared with patients taking
+Celebrex and placebo.” Pet. App. 18a. According to the
+article, the increased relative risk of heart attack, between 30 and 90 days, was 37%. Ibid.
+3. On November 6, 2003, a week after the WSJ article, the first securities class-action complaint regarding Vioxx’s safety was filed. C.A. App. 1218 (Pringle
+Compl.). The complaint characterized the October 30
+WSJ article, and another from October 22 reporting that
+Vioxx sales were “suffering from clinical trial data suggesting it might slightly raise the risk of heart attacks,”
+as having disclosed the truth about Vioxx’s increased
+cardiac risk. Id. at 1245-1248. Apart from recounting
+these news articles, the complaint made only generalized
+allegations of scienter. Id. at 1248.
+On September 30, 2004, Merck withdrew Vioxx from
+the market, based on a new study indicating “an increased risk of confirmed cardiovascular events beginning after 18 months of continuous therapy.” Pet. App.
+
+6
+
+19a (internal quotation marks omitted). On November
+1, 2004, the WSJ reported that “internal Merck e-mails
+and marketing materials as well as interviews with outside scientists show that the company fought forcefully
+for years to keep safety concerns from destroying the
+drug’s commercial prospects.” Ibid.
+Ten new securities class-action complaints were filed
+during the next three months. See C.A. App. 121-174
+(docket sheets). The Judicial Panel on Multi-District
+Litigation directed that all the lawsuits be centralized in
+the District of New Jersey. J.A. 17.
+On June 15, 2005, after the cases were consolidated,
+respondents filed a 453-paragraph Corrected Consolidated And Fourth Amended Class Action Complaint.
+J.A. 20-264. The Fourth Amended Complaint cites the
+November 1, 2004, WSJ article as having “revealed the
+truth concerning [petitioners’] wrongful conduct and
+their actual knowledge of the truth regarding Vioxx.”
+J.A. 197.
+4. Petitioners moved to dismiss the Fourth
+Amended Complaint, arguing that the suit was timebarred because information suggesting Merck’s possible
+fraud had been released to the public more than two
+years before the November 6, 2003, filing of the first
+complaint. The district court granted the motion. Pet.
+App. 62a-99a. The court held that respondents were on
+“inquiry notice” of Merck’s possible fraud by October 9,
+2001. Id. at 85a. The court characterized the September 2001 FDA Warning Letter as having, “in no uncertain terms, * * * accuse[d] Merck of misrepresentation by endorsing the naproxen hypothesis as fact.”
+Ibid. The court also noted “numerous articles” (the last
+of which appeared on October 9, 2001) reporting “the
+competing prothrombotic hypothesis * * * that
+
+7
+
+VIOXX in fact increased the risk of heart attack.” Id. at
+87a; see id. at 85a, 89a.
+Because respondents were on inquiry notice 25
+months before the first Vioxx lawsuit was filed, and had
+not made diligent investigation thereafter, the district
+court held their suit untimely. Pet. App. 97a-98a. The
+court concluded that “a reasonable investor would have
+discovered the basis for his fraud claims against Merck
+* * * within the two years following the storm warnings which existed before November 6, 2001.” Id. at 98a.
+5. The court of appeals reversed. Pet. App. 1a-61a.
+The court held that the timeliness of the complaint depended on when respondents knew or should have
+known of the basis of their claims, which, in turn, depended on when they had “inquiry notice.” Id. at 22a.
+The court defined “inquiry notice” as “sufficient information of possible wrongdoing * * * to excite storm
+warnings of culpable activity.” Id. at 28a (quoting
+Benak v. Alliance Capital Mgmt., L.P., 435 F.3d 396,
+400 (3d Cir. 2006)).
+The court of appeals held that respondents were not
+on “inquiry notice” of Merck’s possible fraud before November 6, 2001, and that their initial complaint was
+therefore timely. The court stressed that the FDA
+Warning Letter “did not charge that the naproxen hypothesis was wrong or that Merck did not believe in [its]
+validity,” but only directed Merck to be more clear about
+the competing hypothesis, which was already publicly
+known. Pet. App. 43a. The court also rejected the district court’s conclusion that “storm warnings” had arisen
+from the October 9 New York Times article. Id. at 45a46a. The court explained that, although a Merck official
+quoted in that article had acknowledged the competing
+explanations for the VIGOR study results, he had reaf-
+
+8
+
+firmed Merck’s view that the naproxen hypothesis is
+“the likeliest interpretation.” Id. at 45a. The court of
+appeals concluded that “there [was] no reason to suspect
+that Merck did not believe the naproxen hypothesis until
+the Harvard Study in 2003 revealed an increased risk of
+heart attack” for Vioxx compared to Celebrex and a placebo. Id. at 47a.
+Judge Roth dissented. Pet. App. 49a-61a. She would
+have held that the FDA Warning Letter put respondents on inquiry notice of a possibly fraudulent misrepresentation. Id. at 55a. Because respondents had conducted no investigation after the FDA Warning Letter,
+Judge Roth would have held that the limitations period
+expired two years thereafter, before the first class-action complaint was filed. Id. at 61a.
+SUMMARY OF ARGUMENT
+
+A. Section 1658(b)(1)’s two-year limitations period
+does not begin to run until the plaintiff has actually discovered, or in the exercise of reasonable diligence ought
+to have discovered, facts demonstrating that all the elements of a securities-fraud violation can be established.
+In particular, because scienter is an essential element
+of a Section 10(b) violation, the term “facts constituting
+the violation” is best construed to include facts demonstrating that the defendant possessed the requisite mental state. And while the term “discovery” in Section
+1658(b)(1) encompasses constructive as well as actual
+discovery, constructive discovery is properly deemed to
+occur at the time a reasonably diligent investor would
+have unearthed the relevant facts—not when such an
+investor would begin investigating. That reading is confirmed by 15 U.S.C. 77m, which establishes an express
+constructive-discovery rule that provides the best evi-
+
+9
+
+dence of Congress’s intent as to the proper application
+of constructive-discovery principles in the securities
+context.
+Petitioners are therefore wrong in arguing that Section 1658(b)(1)’s limitations period runs from the time an
+investor is placed on “inquiry notice.” Petitioners’ alternative argument—that the limitations period should run
+from the time of “inquiry notice” at least when the plaintiff fails to exercise reasonable diligence in investigating
+suspicious circumstances—is likewise incorrect. In such
+cases too, the limitations period should run from the
+time a diligent investor would have discovered the facts
+constituting the violation. When Congress specifies the
+time at which a limitations period will commence, courts
+have no authority to direct that the period run from an
+earlier date, even to “punish” dilatory plaintiffs. If Congress had wanted to modify the limitations period in this
+way, Congress could have done so. Here, it did not.
+B. A plaintiff is placed on “inquiry notice” of a possible Section 10(b) violation only if the available information suggests that a defendant’s possible misrepresentation was made with scienter. The purpose of the “inquiry notice” concept is to identify the point in time
+when a reasonably diligent investor would have commenced an investigation. Because scienter is an essential element of a Section 10(b) violation, an investor who
+suspects that a misrepresentation was made, but has no
+reason to believe that it was anything other than an innocent mistake, cannot fairly be charged with lack of
+reasonable diligence if he declines to inquire further.
+C. The court of appeals correctly held that respondents’ suit was timely filed. Although numerous documents (including the FDA Warning Letter on which petitioners principally rely) made clear that the naproxen
+
+10
+
+hypothesis was unproven and open to debate, those documents did not place respondents on “inquiry notice”
+because they gave respondents no reason to suspect that
+Merck’s statement of its belief in the naproxen hypothesis was made with scienter. In any event, even if the
+FDA letter would have led a reasonably diligent investor
+to suspect that Merck had made knowing misrepresentations with regard to the naproxen hypothesis, petitioners identify no means by which respondents could have
+confirmed those suspicions before November 6, 2001.
+ARGUMENT
+THIS ACTION IS TIMELY BECAUSE RESPONDENTS NEITHER KNEW, NOR REASONABLY COULD HAVE KNOWN,
+THE FACTS CONSTITUTING PETITIONERS’ ALLEGED
+SECTION 10(b) VIOLATION MORE THAN TWO YEARS BEFORE FILING SUIT
+
+Under 28 U.S.C. 1658(b), a federal securities-fraud
+action must be commenced “not later than the earlier
+of ” the following two dates: “2 years after the discovery
+of the facts constituting the violation,” 28 U.S.C.
+1658(b)(1), or “5 years after such violation,” 28 U.S.C.
+1658(b)(2). Petitioners contend that the two-year period
+specified in Section 1658(b)(1) runs from the date when
+“a plaintiff possesses a quantum of information sufficiently suggestive of wrongdoing that he should conduct
+a further inquiry to confirm the existence of his claim.”
+Pet. Br. 20 (defining inquiry notice); id. at 40 (“inquiry
+notice [sh]ould always trigger the running of the limitations period”). Petitioners’ theory cannot be reconciled
+with the text of Section 1658(b)(1). Acceptance of that
+approach would also subvert the balance struck by Congress between (a) encouraging potential securities-fraud
+plaintiffs to conduct prompt and diligent investigations,
+
+11
+
+(b) ensuring that such plaintiffs have adequate time to
+conduct appropriate inquiries and to pursue litigation if
+their investigations reveal a sound basis to infer wrongdoing, and (c) discouraging “strike suits” premised on
+mere suspicion of fraud.
+A.	 Section 1658(b)(1)’s Two-Year Period Begins To Run
+Only After The Plaintiff Discovers Or Should Have Discovered Facts Demonstrating That All Elements Of A
+Securities-Fraud Violation Can Be Established
+
+Congress adopted Section 1658(b) in response to this
+Court’s decision in Lampf. In Lampf, the Court held
+that securities-fraud claims under Section 10(b) and
+SEC Rule 10b-5 were governed by a uniform federal
+limitations period and must be brought within the earlier of one year “after the discovery of the facts constituting the violation” or three years after the violation,
+the latter of which constituted an absolute period of repose. 501 U.S. at 364. The Court borrowed that language from the limitations periods that Congress had
+provided in 15 U.S.C. 77m, 78i(e), and 78r(c), for express
+causes of action under the 1933 and 1934 Acts. See
+Lampf, 501 U.S. at 359-360 & nn.6-7, 364 n.9.
+In 2002, Congress extended the limitations period
+from one to two years and extended the period of repose
+from three to five years, while retaining Lampf ’s trigger
+for the limitations period to begin running—“discovery
+of the facts constituting the violation.” 28 U.S.C.
+1658(b)(1). Proper application of Section 1658(b)(1) requires the Court (1) to construe the phrase “facts constituting the violation” and (2) to identify the point at
+which “discovery” of those facts occurs.
+
+12
+
+1.	 The term “facts constituting the violation” in Section
+1658(b)(1) means facts demonstrating that the defendant has violated the securities laws
+
+To establish a violation of Section 10(b), a plaintiff
+must prove that the defendant made a material misrepresentation or omission in connection with the purchase
+or sale of a security, and that “the defendant acted with
+scienter, ‘a mental state embracing intent to deceive,
+manipulate, or defraud.’ ” Tellabs, Inc. v. Makor Issues
+& Rights, Ltd ., 551 U.S. 308, 319 (2007) (internal quotation marks and citation omitted); see Aaron v. SEC, 446
+U.S. 680, 691 (1980) (explaining that “scienter is an element of a violation of § 10(b) and Rule 10b-5”).1 Although scienter must often be established circumstantially, it is nonetheless a “fact” that must be pleaded and
+proved. Cf. Edgington v. Fitzmaurice, 29 Ch. D. 459,
+483 (Eng. 1885) (“[T]he state of a man’s mind is as much
+a fact as the state of his digestion.”). The phrase “facts
+constituting the violation” in Section 1658(b)(1) should
+be construed in light of those substantive legal requirements. Thus, the two-year limitations period established by Section 1658(b)(1) begins to run upon the
+plaintiff ’s discovery of facts demonstrating that the defendant has made the sort of material misrepresentation
+or omission that Section 10(b) covers, with the requisite
+mental state.
+1
+
+To recover under the private right of action implied under Section
+10(b) and Rule 10b-5, a private plaintiff must establish elements beyond
+those required for a “violation” of Section 10(b), such as reliance, loss,
+and loss causation. See Dura, 544 U.S. at 341-342. We agree with petitioners (Br. 25, 29) that facts bearing on those additional requirements
+are not naturally viewed as among the “facts constituting the violation”
+within the meaning of Section 1658(b)(1).
+
+13
+
+Construing the statute in that fashion is consistent
+with the PSLRA. That statute requires securities-fraud
+plaintiffs who sue as class representatives to “specify
+each statement [of the defendant] alleged to have been
+misleading [and] the reason or reasons why the statement is misleading.” 15 U.S.C. 78u-4(b)(1). In addition,
+in any private suit “in which the plaintiff may recover
+money damages only on proof that the defendant acted
+with a particular state of mind, the complaint shall
+* * * state with particularity facts giving rise to a
+strong inference that the defendant acted with the requisite state of mind.” 15 U.S.C. 78u-4(b)(2). A primary
+purpose of the PSLRA’s heightened pleading requirement with respect to scienter is to discourage plaintiffs
+from charging as securities fraud every statement that
+has turned out to be false. H.R. Conf. Rep. No. 369, at
+31. Consistent with that enactment, Section 1658(b)(1)’s
+limitations period should begin to run when the plaintiff
+discovered or ought to have discovered facts that, if set
+out in a complaint, would allege scienter, as well as all
+other elements of a statutory violation, with sufficient
+specificity to survive a motion to dismiss.2
+Petitioners contend (Br. 41) that “the phrase ‘facts
+constituting the violation’ [in Section 1658(b)(1)] is properly understood to reach only the core nucleus of facts
+2
+
+Rotella v. Wood, 528 U.S. 549 (2000), did not, as petitioners contend
+(Br. 31), reject considering pleading standards when construing statutes of limitations. In deciding when the limitations period should start
+to run under RICO, the Court reasoned that because many civil RICO
+claims do not involve fraud, there was an “insufficient connection between civil RICO and fraud” to warrant considering Fed. R. Civ. P.
+9(b)’s heightened pleading standards. Rotella, 528 U.S. at 557. By contrast, every Rule 10b-5 complaint must surmount heightened pleading
+standards.
+
+14
+
+concerning the defendant’s conduct, separate and apart
+from the fact of the defendant’s state of mind.” But
+where, as under Section 10(b), an innocent misstatement
+does not violate the applicable law, facts suggesting that
+such a misstatement has occurred are not naturally
+characterized as “facts constituting [a] violation.” That
+inference is reinforced by Section 1658(b)(1)’s application only to private suits “that involve[] a claim of fraud,
+deceit, manipulation, or contrivance.” 28 U.S.C. 1658(b).
+Because the class of suits covered by Section 1658(b)(1)
+is defined in part by reference to the defendant’s dishonest intent, it is particularly clear that the “facts constituting the violation” include facts demonstrating the
+requisite scienter.
+And indeed, petitioners themselves do not construe
+the phrase “facts constituting the violation” as limited to
+facts concerning what the defendant actually did. Petitioners decline to contend that Section 1658(b)(1)’s twoyear limitations period commenced to run as soon as
+respondents discovered that Merck had endorsed the
+naproxen hypothesis. Rather, petitioners argue that the
+triggering “discovery” occurred upon the publication of
+materials (the FDA Warning Letter and various newspaper articles) suggesting that the naproxen hypothesis
+was false. But if the phrase “facts constituting the violation” encompasses facts that demonstrate the falsity of
+previously known statements, so too must that phrase
+encompass facts that demonstrate the mental state with
+which such statements were made. Both sets of facts go
+to the illegality, rather than mere existence, of the defendant’s statements, and neither is any more indispensable
+than the other in establishing that illegality. Because
+falsity and scienter are both elements of a Section 10(b)
+
+15
+
+violation, there is no basis for distinguishing between
+the facts demonstrating the two.
+2.	 Section 1658(b)(1)’s two-year limitations period can
+be triggered by either actual or constructive discovery of the “facts constituting the violation,” but is
+not triggered by mere suspicion of illegality
+
+a. Section 1658(b)(1)’s reference to “the discovery of
+the facts constituting the violation” most obviously covers the actual discovery by the plaintiff of the facts constituting the defendant’s violation of the securities laws.
+In addition, however, the term “discovery” in this provision is properly read to encompass constructive discovery. When Congress enacted Section 1658(b)(1), it was
+well-established that the limitations period adopted in
+Lampf could commence to run either upon actual discovery of the relevant facts or at the time of constructive
+discovery—i.e., the time when the plaintiff should have
+discovered the violation in the exercise of reasonable
+diligence.
+In Lampf, the Court referenced Section 13 of the
+Securities Act of 1933, 15 U.S.C. 77m, which includes an
+express constructive-discovery rule, as one source of the
+limitations period the Court adopted. See Lampf, 501
+U.S. at 360 n.7. Under Section 13, the limitations period
+begins to run “after the discovery of the untrue statement or the omission, or after such discovery should
+have been made by the exercise of reasonable diligence.”
+15 U.S.C. 77m (emphasis added). Between this Court’s
+decision in Lampf and the enactment of Section
+1658(b)(1), the courts of appeals uniformly applied a rule
+of constructive discovery, often by express reference to
+
+16
+
+Section 13.3 This Court likewise construed similarly
+worded limitations provisions to encompass constructive
+discovery. E.g., Kirby v. Lake Shore & Mich. S. R.R.,
+120 U.S. 130, 134-135, 138 (1887) (construing statute
+providing that action for fraud is “not to be deemed to
+have accrued until the discovery by the aggrieved party
+of the facts constituting the fraud” to mean that the statute did not run “until after such fraud was or should,
+with due diligence, have been discovered”) (quoting N.Y.
+Code of Procedure § 91(6), at 70 (Voorhies’ 5th ed.
+1857)). Congress can therefore be presumed to have
+intended that the same construction be given to Section
+1658(b)(1). See, e.g., Commissioner v. Keystone Consol.
+Indus., Inc., 508 U.S. 152, 159 (1993).
+b. When the two-year limitations period is triggered
+by constructive rather than actual discovery of the securities violation, the court should typically undertake a
+two-step analysis to calculate when the limitations period began to run. First, the court identifies the point at
+which the plaintiff received information sufficiently suggestive of possible wrongdoing that a reasonable investor would have undertaken further investigation to de3
+
+See Cooperativa de Ahorro y Credito Aguada v. Kidder, Peabody
+& Co., 129 F.3d 222, 224 (1st Cir. 1997); Dodds v. CIGNA Sec., Inc., 12
+F.3d 346, 349 (2d Cir. 1993) (citing Section 13), cert. denied, 511 U.S.
+1019 (1994); Mathews v. Kidder, Peabody & Co., 260 F.3d 239, 251 (3d
+Cir. 2001); Brumbaugh v. Princeton Partners, 985 F.2d 157, 162 (4th
+Cir. 1993); Topalian v. Ehrman, 954 F.2d 1125, 1134-1135 (5th Cir.),
+cert. denied, 506 U.S. 825 (1992); New Eng. Health Care Employees
+Pension Fund v. Ernst & Young, LLP, 336 F.3d 495, 500 (6th Cir. 2003)
+(citing Section 13), cert. denied, 540 U.S. 1183 (2004); Law v. Medco
+Research, Inc., 113 F.3d 781, 785-786 (7th Cir. 1997) (same); Ritchey v.
+Horner, 244 F.3d 635, 638-639 (8th Cir. 2001) (same); Sterlin v. Biomune Sys., 154 F.3d 1191, 1199-1202 (10th Cir. 1998) (same); Theoharous v. Fong, 256 F.3d 1219, 1228 (11th Cir. 2001).
+
+17
+
+termine whether the defendant had violated the securities laws. That point is commonly referred to as “inquiry notice.”4
+Second, the court must ascertain at what time “the
+investor, in the exercise of reasonable diligence, should
+have discovered the facts constituting the alleged
+fraud.” Betz v. Trainer Wortham & Co, 519 F.3d 863,
+876 (9th Cir. 2008), petition for cert. pending, No.
+07-1489 (filed May 27, 2008). It is “[t]he answer to that
+second question” which identifies the date on which “the
+statute of limitations began to run.” Ibid.; accord, e.g.,
+New Eng. Health Care Employees Pension Fund v.
+Ernst & Young, LLP, 336 F.3d 495, 501 (6th Cir. 2003),
+cert. denied, 540 U.S. 1183 (2004); Sudo Props., Inc. v.
+Terrebonne Parish Consol. Gov’t, 503 F.3d 371, 377-378
+(5th Cir. 2007); Young v. Lepone, 305 F.3d 1, 9-10 (1st
+Cir. 2002); Rothman v. Gregor, 220 F.3d 81, 97 (2d Cir.
+2000); Sterlin v. Biomune Sys., 154 F.3d 1191, 1201
+(10th Cir. 1998); Howard v. Haddad, 962 F.2d 328, 330
+(4th Cir. 1992) (Powell, J.).
+Petitioners argue (Br. 40) that “the date on which the
+plaintiff was on inquiry notice [should] always trigger
+the running of the limitations period.” That approach
+cannot be squared with the language of Section
+1658(b)(1). Section 1658(b)(1)’s two-year limitations
+4
+
+The terminology used by the courts has not been uniform, and
+some use “inquiry notice” to refer to what is described here and by petitioners as “constructive discovery.” See, e.g., Berry v. Valence Tech.,
+Inc., 175 F.3d 699, 704 (9th Cir.) (describing as “inquiry notice” the rule
+that, after investigation is triggered, the “limitations period begins to
+run once the investor, in the exercise of reasonable diligence, should
+have discovered the facts underlying the alleged fraud”) (quoting Sterlin, 154 F.3d at 1201), cert. denied, 528 U.S. 1019 (1999); S. Rep. No.
+146, at 29 (views of dissenting Senators).
+
+18
+
+period begins to run not when a reasonable investor
+would become suspicious or commence further investigation, but only “after the discovery of the facts constituting the violation.” Even in a case involving constructive
+discovery, in which the court must determine when a
+reasonably diligent investor would have discovered the
+relevant facts, the point at which a diligent investigation
+would have borne fruit will inevitably be later than the
+point at which the investigation should have commenced.
+There is consequently no textual basis for petitioners’
+view that the two-year limitations period begins to run
+when the plaintiff is placed on “inquiry notice.” No
+more than actual discovery occurs when an investigation
+commences does constructive discovery occur when an
+investigation should have done so.
+The error in petitioners’ approach is confirmed by
+15 U.S.C. 77m, one of the limitations periods on which
+the Court in Lampf relied (see 501 U.S. at 360 & n.7),
+which establishes an express constructive-discovery
+rule. Section 77m states that “[n]o action shall be maintained to enforce any liability created under section 77k
+or 77l(a)(2) of this title unless brought within one year
+after the discovery of the untrue statement or the omission, or after such discovery should have been made by
+the exercise of reasonable diligence.” 15 U.S.C. 77m
+(emphasis added).5 Section 77m provides the best evidence of Congress’s understanding of how constructivediscovery principles apply in the securities context. In
+a case in which the plaintiff fails to exercise “reasonable
+5
+
+Unlike Section 10(b), the provisions of law to which Section 77m
+applies (15 U.S.C. 77k and 77l(a)(2)) do not make scienter an element
+of a statutory violation, but rather make the defendant’s lack of knowledge of falsity an affirmative defense. See 15 U.S.C. 77k(b)(3); 15
+U.S.C. 77l(a)(2).
+
+19
+
+diligence,” Section 77m unambiguously provides that the
+limitations period begins to run at the time a diligent
+plaintiff would actually have discovered the defendant’s
+false statement, not at the time (i.e., inquiry notice)
+when the diligent plaintiff would have commenced an
+investigation. There is no warrant for construing Section 1658(b)(1), which simply refers to “discovery of the
+facts constituting the violation” and does not expressly
+provide that constructive discovery will suffice, to establish an earlier trigger for the limitations period.
+c. In a case in which even a diligent investigation
+would take more than two years to complete, the approach that petitioners advocate—under which Section
+1658(b)(1)’s limitations period would begin to run when
+the plaintiff is placed on “inquiry notice” and therefore
+should commence his investigation—would result in the
+limitations period expiring before a diligent plaintiff
+could acquire facts sufficient to survive a motion to dismiss. That result is incompatible with this Court’s decision in Lampf, which held that the limitations period
+applicable to private securities actions is not subject to
+equitable tolling because the period “by its terms, begins after discovery of the facts constituting the violation, making tolling unnecessary.” 501 U.S. at 363. That
+analysis presumes that the two-year limitations period
+(unlike the five-year “period of repose” that “serve[s] as
+a cutoff ” for all claims, see ibid.) cannot bar claims before a reasonably diligent plaintiff could learn the facts
+necessary to assert them.
+In addition to foreclosing the claims of some plaintiffs despite the plaintiffs’ exercise of reasonable diligence, petitioners’ reading of Section 1658(b)(1) would
+frustrate the purpose, common to the PSLRA and Section 1658(b), of discouraging so-called “strike suits.”
+
+20
+
+The Senate Report to the Sarbanes-Oxley Act recited
+that, under Lampf, plaintiffs were on a “one year ‘stop
+watch’ ” that ran “from the moment they know that they
+have been cheated.” S. Rep. No. 146, at 9. In extending
+the limitations period to two years, the Report explained
+that “even after the fraud is discovered,” plaintiffs need
+additional time to “find out more about exactly who participated in the fraudulent activity and how,” in order to
+“learn[] that an additional wrongdoer” should be “added
+to the case” that is otherwise ready to be filed. Ibid.
+The report criticized the one-year period as too short,
+driving plaintiffs “to race into court, so as not to be
+barred by time,” and to “throw[] in every possible defendant and every claim” “almost immediately upon a
+change in the stock price.” Ibid. Petitioners’ reading of
+Section 1658(b)(1), under which the two-year limitations
+period may begin to run well before a reasonably diligent plaintiff learns sufficient facts to support a wellfounded complaint, would create renewed incentives to
+the sort of hasty filings that Congress sought to discourage.6
+3.	 Even if the plaintiff fails to undertake a reasonably
+diligent investigation after inquiry notice, the twoyear limitations period runs from when such an investigation would have revealed the “facts constituting the violation,” not from when the investigation
+should have commenced
+
+In the alternative, petitioners urge (Br. 43-48) this
+Court to adopt a hybrid approach, drawn from decisions
+6
+
+Petitioners cite the “additional views of eight Senators.” See, e.g.,
+Pet. Br. 20, 46. Because seven of those eight Senators voted against extending the statutory period, S. Rep. No. 146, at 22, their views are an
+unreliable guide for construing Section 1658(b)(1).
+
+21
+
+of the Second and Third Circuits, see, e.g., LC Capital
+Partners, LP v. Frontier Ins. Group, Inc., 318 F.3d 148,
+154 (2d Cir. 2003); Mathews v. Kidder, Peabody & Co.,
+260 F.3d 239, 255 (3d Cir. 2001), under which the time
+when Section 1658(b)(1)’s two-year limitations period
+begins to run turns on whether the plaintiff conducted
+a reasonably diligent investigation. Under petitioners’
+alternative theory, when a plaintiff diligently investigates his possible claim after being placed on inquiry
+notice, the two-year period runs from the time the plaintiff actually discovers the “facts constituting the violation.” Petitioners contend (Br. 47), however, that “when
+a plaintiff fails to conduct a reasonably diligent investigation, he can be deemed, as an equitable matter, to
+have ‘discovered’ the relevant facts as of the date of inquiry notice,” and the two-year period should therefore
+run from that date. That theory is inconsistent with the
+text and purposes of Section 1658(b)(1) and with its role
+in the larger statutory scheme.
+a. As explained above (see pp. 16-20, supra), constructive “discovery of the facts constituting the violation” is deemed to occur at the time a reasonably diligent investigation would have given the plaintiff actual
+knowledge of those facts. If that understanding of Section 1658(b)(1) is sound—i.e., if petitioners are wrong in
+arguing that the plaintiff “discover[s] * * * the facts
+constituting the violation” when he is placed on inquiry
+notice—a court has no authority to adopt, even for dilatory plaintiffs, an earlier triggering date for the limitations period than the date Congress specified. Petitioners’ fallback theory is in substance an attempt to engraft
+laches principles onto Section 1658(b)(1); but “[l]aches
+within the term of the statute of limitations is no defense
+at law.” United States v. Mack, 295 U.S. 480, 489 (1935).
+
+22
+
+That is particularly so in the present context, where the
+five-year period of repose established by Section
+1658(b)(2) provides an outer limit on the dilatory plaintiff ’s ability to pursue securities-law claims. See pp. 2426, infra. Had Congress additionally wished to modify
+the triggering date for the limitations period in cases in
+which an investor has been dilatory, Congress could
+have done so. Here it did not choose to incorporate in
+this way principles of laches into the statute of limitations it adopted.
+Petitioners’ alternative theory is also inconsistent
+with the express constructive-discovery rule established
+by 15 U.S.C. 77m, which provides that the limitations
+period should start to run in the relevant cases “after
+the discovery of the untrue statement or the omission, or
+after such discovery should have been made by the exercise of reasonable diligence.” Ibid. Section 77m unambiguously contemplates that, when the plaintiff fails to
+exercise “reasonable diligence,” the limitations period
+will begin to run when “discovery should have been
+made,” not when the plaintiff should have commenced
+his investigation. As the best evidence of Congress’s
+intent regarding the operation of constructive-discovery
+principles in the securities context, Section 77m refutes
+a reading of Section 1658(b)(1) that would establish an
+earlier triggering date in cases in which the plaintiff
+fails to conduct a diligent investigation. See pp. 18-19,
+supra.
+b. Petitioners identify (Br. 48-51) three principal
+policy objections to the government’s construction of
+Section 1658(b)(1), under which the two-year limitations
+period begins to run at the time that a reasonably diligent investigation would have uncovered the “facts constituting the violation,” even if the plaintiff himself fails
+
+23
+
+to conduct such an investigation. Those objections provide no basis for disregarding the statutory text, and
+they are unsound even on their own terms.
+i. Petitioners contend (Br. 48) that the government’s approach “would effectively excuse a plaintiff ’s
+failure to conduct a further investigation after being
+placed on inquiry notice of a Section 10(b) violation” and
+would place such a plaintiff “in the same position as a
+plaintiff who does conduct a reasonably diligent investigation.” But a plaintiff who conducts a diligent investigation, and who thereby acquires facts sufficient to file
+a well-grounded complaint, is obviously in a better position than one who fails to obtain such facts, and therefore cannot proceed with his suit (even though he has
+the same time to do so). Providing the term “discovery”
+in Section 1658(b)(1) is read to encompass constructive
+as well as actual discovery, so that a plaintiff cannot extend the period for commencing suit by failing to investigate suspicious circumstances, an investor who is placed
+on inquiry notice will have an adequate incentive to conduct an investigation.
+ii. Petitioners argue (Br. 50) that the government’s
+approach “would lead to potentially grave difficulties in
+application, because it would force courts to engage in
+entirely hypothetical inquiries about what a reasonably
+diligent investigation would have entailed and how long
+it would have taken for such an investigation to bear
+fruit.” That objection is misguided. To be sure, determining how long a hypothetical investigation would have
+taken to unearth the “facts constituting the violation”
+will often involve some approximation. But this lack of
+complete certainty is an inherent consequence of construing Section 1658(b)(1) to encompass constructive
+discovery. Although Section 1658(b)(1) might be easier
+
+24
+
+to apply if its two-year limitations period were triggered
+only by a plaintiff ’s actual discovery of the relevant
+facts, petitioners insist (correctly, in our view) that the
+two-year period may begin to run before actual discovery occurs if “the plaintiff should have known of the relevant facts at an earlier date than he actually did.” Br.
+18. Petitioners cannot reasonably urge the Court to
+adopt that interpretation of Section 1658(b)(1) and then
+complain that the time of constructive discovery is too
+difficult to ascertain.
+iii. Petitioners also contend (Br. 51) that the government’s approach “would seemingly render the principle
+of inquiry notice irrelevant.” That is incorrect. To identify the point in time when a reasonably diligent plaintiff
+would have discovered particular facts, a court must
+determine both when the plaintiff would have begun his
+investigation and how long a reasonable investigation
+would have taken to bear fruit. An approach that disregarded the former question and focused only on how the
+investigation was conducted once commenced would allow plaintiffs to postpone the triggering of the two-year
+period simply by declining to begin an investigation.
+Although the phrase “inquiry notice” does not appear in
+the statute, it is a convenient shorthand term for the
+point in time at which the available facts cast sufficient
+doubt on the propriety of the defendant’s conduct that
+a diligent plaintiff would have begun to investigate. So
+understood, the concept of “inquiry notice” is integral to
+Section 1658(b)(1)’s proper application.
+c. Petitioners’ approach is especially inappropriate
+where, as here, Congress has adopted a bifurcated limitations period, in which an express “discovery” provision
+is paired with an absolute period of repose. Cf. Lampf,
+501 U.S. at 362 n.8 (concluding that “the 1-and-3-year
+
+25
+
+scheme” contained in then-existing law “represents an
+indivisible determination by Congress as to the appropriate cutoff point for claims under the statute”). Petitioners rely (e.g., Br. 21-22, 25, 44-45) on such decisions
+as Rotella v. Wood, 528 U.S. 549 (2000); Klehr v. A.O.
+Smith Corp., 521 U.S. 179 (1997); and United States v.
+Kubrick, 444 U.S. 111 (1979). In each of those cases, the
+relevant limitations period began to run when the plaintiff ’s claim “accrued.”7 And in each case, the plaintiff
+contended that his claim had not “accrued” until he acquired actual or constructive knowledge of some relevant fact. See Rotella, 528 U.S. at 552-553; Klehr, 521
+U.S. at 192; Kubrick, 444 U.S. at 118. In rejecting those
+arguments, the Court expressed concern that adopting
+the plaintiffs’ approach to the “accru[al]” of claims
+would unduly expand the period of time within which
+suit could be filed. See Rotella, 528 U.S. at 555, 558-559;
+Klehr, 521 U.S. at 192; Kubrick, 444 U.S. at 117-118,
+123. The Court in Rotella noted that “fraud * * * is
+generally associated with a different accrual rule.” 528
+U.S. at 557.
+Section 1658(b)(1) does not use the term “accrued,”
+but rather specifies the information—i.e., the “facts constituting the violation”—that the plaintiff must (actually
+or constructively) “discover[]” before the two-year limitations period will begin to run. And unlike the discovery principles that the plaintiffs in the cases discussed
+7
+
+The statute of limitations at issue in Rotella and Klehr provided:
+“Any action * * * shall be forever barred unless commenced within
+four years after the cause of action accrued.” 15 U.S.C. 15b (Clayton
+Act, applied to civil RICO actions); see Rotella, 528 U.S. at 553; Klehr,
+521 U.S. at 183. The statute of limitations at issue in Kubrick barred
+any claim not brought “within two years after such claim accrues.” 28
+U.S.C. 2401(b) (Federal Tort Claims Act).
+
+26
+
+above sought to invoke, Section 1658(b)(1) does not expand the period in which suit may be filed. Section
+1658(b)(2) establishes a five-year period of repose, and
+Section 1658(b) requires that suits alleging violations of
+Section 10(b) must be filed “not later than the earlier
+of ” the dates specified in Subsections (1) and (2).
+28 U.S.C. 1658(b). Section 1658(b)(1) therefore can operate only to shorten the five-year period (measured
+from the date of “the violation”) set by Section
+1658(b)(2), which remains the outer limit for bringing
+suit. Construing Section 1658(b)(1) in accordance with
+its terms therefore creates no risk that the time for filing suit will extend indefinitely if the plaintiff is unable
+(either because of his own dilatory conduct or through
+circumstances beyond his control) to acquire the information needed to support his claim.
+B.	 Inquiry Notice Of A Possible Section 10(b) Violation
+Arises Only If Circumstances Suggest A Misrepresentation Or Omission Made With Scienter
+
+Contrary to petitioners’ contention (Br. 19-28), an
+investor is not placed on “inquiry notice” of a potential
+Section 10(b) claim unless he has reason to suspect that
+a defendant’s possible misrepresentation was made with
+scienter. Because scienter is an essential element of a
+Section 10(b) violation, an investor who suspects only an
+innocent or negligent misrepresentation will have no
+reason to undertake a potentially time-consuming and
+costly investigation. Petitioners’ rule, especially when
+combined with their proposal that the two-year period
+should run from the time of inquiry notice, would create
+an untoward incentive for plaintiffs to file hastilydrafted complaints, based only on evidence of a misrepresentation, in order to avoid the limitations bar. Plain-
+
+27
+
+tiffs with meritorious claims, however, would be barred
+before they could have discovered the violation—and
+indeed before they would have had reason to suspect it.
+1.	 Inquiry notice identifies when a reasonable plaintiff
+would begin investigating a possible violation
+
+The court of appeals correctly held that, “to trigger
+‘storm warnings of culpable activity,’ in the context of a
+claim alleging falsely-held opinions or beliefs, investors
+must have sufficient information to suspect that the defendants engaged in culpable activity, i.e., that they did
+not hold those opinions or beliefs in earnest.” Pet. App.
+33a (citation omitted). Two other courts of appeals have
+likewise held that suspicion of scienter is necessary to
+trigger inquiry notice. See Betz, 519 F.3d at 876, 878;
+Sudo Props., 503 F.3d at 375, 378 (inquiry notice was not
+triggered by plaintiff ’s knowledge that defendant’s predictions were “grossly incorrect,” until plaintiff “learned
+for the first time that [defendant] had intentionally misled him”). Other circuits, without expressly addressing
+the issue, have similarly characterized “inquiry notice”
+in terms of putting the plaintiff on notice of potential
+“fraud,” which connotes scienter. See Dodds v. CIGNA
+Sec., Inc., 12 F.3d 346, 350 (2d Cir. 1993) (information
+that “would suggest * * * the probability that [the
+investor] has been defrauded”), cert. denied, 511 U.S.
+1019 (1994); Maggio v. Gerard Freezer & Ice Co., 824
+F.2d 123, 128 (1st Cir. 1987) (facts that “would have
+alerted a reasonable investor to the possibility of fraudulent conduct.”); Fujisawa Pharm. Co. v. Kapoor, 115
+F.3d 1332, 1335 (7th Cir. 1997) (“[t]he facts constituting
+[inquiry] notice must be sufficiently probative of fraud”).
+Those decisions are consistent with the ultimate statutory inquiry: to identify the point at which a reason-
+
+28
+
+ably diligent investor should have discovered “the facts
+constituting the violation” of Section 10(b). 28 U.S.C.
+1658(b)(1) (emphasis added). As one step in the twostep analysis used to determine when such an investor
+would have unearthed those facts, the “inquiry notice”
+concept serves to determine when the investigation
+should have begun. See pp. 16-18, supra. When an investor has reason to suspect that he was given inaccurate securities-related information, but has no reasonable basis to suppose that the misstatement was anything other than an error, he has no cause to think that
+a securities violation has occurred. Under those circumstances, a reasonable investor would not commence an
+investigation: he would not devote time or resources to
+exploring a potential legal action for which an essential
+element appears to be lacking.
+2.	 Suspicion of scienter is necessary for inquiry notice,
+though it may arise from suspicion of falsity
+
+Petitioners contend (Pet. Br. 21-22, 41-42) that inquiry notice can exist without suspicion of scienter because scienter is not one of the “core” facts constituting
+a securities-fraud violation. That is incorrect. As discussed above, see p. 12, supra, this Court has repeatedly
+held that scienter is an element of a Section 10(b) violation. See, e.g., Aaron, 446 U.S. at 691. Congress confirmed the centrality of scienter to a Section 10(b) violation in the PSLRA’s requirement that a securities-fraud
+complaint allege facts giving rise to a “strong inference”
+of scienter. See 15 U.S.C. 78u-4(b)(1) and (2). And because Section 1658(b)(1) applies only to “claim[s] of
+fraud, deceit, manipulation, or contrivance,” 28 U.S.C.
+1658(b), the limitations provision itself confirms the cen-
+
+29
+
+trality of scienter to the violations it covers. See p. 12,
+supra.
+Petitioner’s reliance (Br. 21-22) on TRW Inc. v. Andrews, 534 U.S. 19, 30 (2001), is misplaced. In TRW, the
+Court held that “Congress implicitly excluded [from the
+Fair Credit Reporting Act, 15 U.S.C. 1681p,] a general
+discovery rule by explicitly including a more limited
+one.” TRW, 534 U.S. at 28. In the course of its analysis,
+the Court observed that, “[i]f [a] consumer habitually
+paid her bills on time,” a denial of her credit application
+“might well lead her to suspect a prior credit agency
+error,” thereby placing her on “inquiry notice” so long
+as “a reasonable person in her position would have
+learned of the injury in the exercise of due diligence.”
+Id. at 30. The decision in TRW does not suggest that a
+potential plaintiff can be placed on “inquiry notice” even
+though she has no reason to suspect that a statutory
+violation has occurred. Rather, the Court simply recognized that the requisite suspicion may be based on reasonable inferences from the totality of the circumstances
+(e.g., an unexplained denial of credit to an applicant who
+has “habitually paid her bills on time”) even in the absence of direct evidence of the defendant’s wrongdoing.
+Similarly in the securities-fraud context, circumstances may often arise in which an innocent mistake is
+inherently unlikely, so that information giving rise to a
+suspicion of falsehood will itself give rise to a suspicion
+of fraud. In particular, when a “representation is false
+for reasons likely to have been within the knowledge of
+the company when making it, investors upon learning of
+the falsity should smell the possibility of fraud.” Law v.
+Medco Research, Inc., 113 F.3d 781,785 (7th Cir. 1997)
+(Posner, J.); see, e.g., Mathews, 260 F.3d at 252-255; Cooperativa de Ahorro y Credito Aguada v. Kidder, Pea-
+
+30
+
+body & Co., 129 F.3d 222, 224 (1st Cir. 1997). But that
+is not necessarily the case when the inaccurate statement concerns information that is external to the
+declarant—such as information about “a customer, supplier, licensee, licensor, or other outsider”—or events
+that might “have arisen after the representation was
+made.” Law, 113 F.3d at 785. In the latter case, such as
+when a prediction about the future does not come to
+pass, facts demonstrating the original statement to have
+been inaccurate will not necessarily suggest that the
+statement was fraudulent when made.8
+C. Section 1658(b)(1) Does Not Bar Respondents’ Claims
+
+1. The court of appeals correctly held that the FDA
+Warning Letter did not put respondents on “inquiry notice” of possible securities fraud because that letter did
+not suggest that Merck had made knowing misstatements about the safety of Vioxx. The FDA Warning
+Letter charged Merck with promotional activities for
+the medicine that were “false, lacking in fair balance, or
+otherwise misleading in violation of the Federal Food,
+Drug, and Cosmetic Act.” J.A. 339. The FDA determined that Merck had “selectively present[ed]” the
+naproxen hypothesis while “fail[ing] to disclose that
+[the] explanation is hypothetical, has not been demonstrated by substantial evidence, and that there is another reasonable explanation, that Vioxx may have prothrombotic properties.” J.A. 340.
+
+8
+
+The fact that information was within a defendant's control will not
+necessarily lead a reasonable investor to suspect scienter; inquiry notice depends on the circumstances of each case. See Dodds, 12 F.3d at
+350; Mathews, 260 F.3d at 251. For example, an accounting restatement would not automatically give rise to inquiry notice.
+
+31
+
+In making those criticisms, the FDA did not conclude
+that the naproxen hypothesis was untrue or even unlikely, or that Merck did not believe in it. Rather, the
+FDA recognized the naproxen hypothesis as “a possible
+explanation” for the known data, but faulted Merck for
+emphasizing that theory while ignoring the alternative
+—that Vioxx increased the risk of heart attack. J.A. 340.
+Such slanted or incomplete discussions of the pertinent
+medical evidence, when directed at doctors who must
+decide whether to prescribe a drug, is of great concern
+to the FDA. An issuer of securities, however, does not
+engage in fraud or deceit by failing to give equal attention to a competing theory in all its public utterances
+simply because the issuer’s explanation ultimately turns
+out to be wrong. And because the public record already
+showed that there were competing explanations of the
+available data and that neither had been substantiated,
+J.A. 291-292, the FDA’s admonition that the naproxen
+hypothesis remained unproven provided respondents
+with no additional information bearing on their investment decisions.
+2. Even if the FDA letter had placed respondents
+on “inquiry notice,” their current claims would still be
+timely. As explained above, constructive “discovery
+of the facts constituting the violation,” 28 U.S.C.
+1658(b)(1), is deemed to occur at the time when a reasonably diligent investor would have unearthed facts
+establishing each element of a statutory violation with
+sufficient specificity to file an adequate complaint—not
+when the investor would have started investigating.
+Even assuming that the FDA letter would have led a
+reasonably diligent investor to suspect that Merck did
+not actually believe the naproxen hypothesis, petitioners
+identify no means by which respondents could have con-
+
+32
+
+firmed that suspicion by an independent inquiry. The
+only apparent ways for an investor to ascertain whether
+petitioners’ expression of confidence in the naproxen
+hypothesis was genuinely held would be to gain access
+to internal corporate documents or to conduct a scientific study of Vioxx to determine whether Merck could
+possibly believe what it was saying. An investor need
+not display the skills of a private detective or research
+chemist, however, in order to exercise reasonable diligence in investigating and pursuing possible securitiesfraud claims. And “[i]t is obviously unreasonable to
+charge the plaintiff with failure to search for the missing
+element of the cause of action if such element would not
+have been revealed by such search.” TRW, 534 U.S.
+at 30 (citing 2 Calvin Corman, Limitation of Actions
+§ 11.1.6, at 164 (1991)).
+Indeed, even the district court, which held that respondents’ claims were barred by Section 1658(b)(1), did
+not suggest that respondents could have discovered
+facts constituting a securities violation by November 6,
+2001—i.e., two years before the complaint was filed on
+November 6, 2003. Rather, the court stated (without
+meaningful explanation) that “a reasonable investor
+would have discovered the basis for his fraud claims
+against Merck with respect to alleged misrepresentations about VIOXX within the two years following the
+storm warnings” that the court determined arose by
+October 9, 2001. Pet. App. 85a, 98a (emphasis added).
+Even if that assessment were well-founded, it would
+provide no basis for concluding that respondents should
+have had “discovery of the facts constituting the violation” by November 6, 2001, less than a month after the
+“storm warnings” arose.
+
+33
+CONCLUSION
+
+The judgment of the court of appeals should be affirmed.
+Respectfully submitted.
+MARK D. CAHN
+Deputy General Counsel
+MICHAEL A. CONLEY
+Deputy Solicitor
+MARK PENNINGTON
+Assistant General Counsel
+DAVID LISITZA
+Senior Counsel
+
+Securities and Exchange
+
+Commission
+
+
+OCTOBER 2009
+
+ELENA KAGAN
+Solicitor General
+MALCOLM L. STEWART
+Deputy Solicitor General
+DOUGLAS HALLWARD-DRIEMEIER
+Assistant to the Solicitor
+General
+
+

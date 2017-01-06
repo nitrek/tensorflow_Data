@@ -1,0 +1,832 @@
+UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+
+No. 03-30227
+
+KARL L. KAPPS, et al.,
+Plaintiffs-Appellants,
+v.
+TORCH OFFSHORE, INC., et al.,
+Defendants-Appellees.
+
+On Appeal from the United States District Court
+for the Eastern District of Louisiana
+
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION AMICUS CURIAE
+IN SUPPORT OF APPELLANTS ON ISSUE ADDRESSED
+
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+MARK PENNINGTON
+Assistant General Counsel
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C. 20549-0606
+(202) 942-0928 (Pennington)
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION . . . . . . . 1
+ISSUE ADDRESSED BY THE COMMISSION . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+STATEMENT OF THE CASE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+A.
+
+The Parties’ Contentions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+B.
+
+The District Court Decision . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+SUMMARY OF ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+STANDARD OF REVIEW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+A.
+
+The Disclosure Required by the Securities Act in Securities
+Registration Statements Is Determined by the Language of the
+Statute, Which Does Not Restrict That Disclosure to Firm-Specific
+or Non-Public Information. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+A.
+
+The Securities Act Requires the Material Disclosure in
+Registration Statements to Be Truthful, to Contain All
+Information Required by Law, and Not to Omit Information
+Necessary to Make the Statements Therein Not Misleading . . . . . . . . 9
+
+B.
+
+It Is Not an Absolute Defense to the Securities Act’s Disclosure
+Requirements That Information Is Not Firm-Specific or Is Publicly
+Available. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+-i-
+
+TABLE OF CONTENTS (Continued)
+Page
+II.
+
+The Disclosure of “Trends” Required by Item 303 Is Not Limited
+to Firm-Specific or Non-Public Trends . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+CERTIFICATES
+
+-ii-
+
+TABLE OF AUTHORITIES
+Cases
+
+Page
+
+Affiliated Ute Citizens of Utah v. United States,
+406 U.S. 128 (1972) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Auer v. Robbins, 519 U.S. 452 (1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 22
+Basic Inc. v. Levinson, 485 U.S. 224 (1988) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Central Bank of Denver v. First Interstate Bank of Denver,
+511 U.S. 164 (1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 12
+Chevron U. S. A. Inc. v. NRDC, 467 U.S. 837 (1984) . . . . . . . . . . . . . . . . . . . 8, 13
+Gustafson v. Alloyd, Co., 513 U.S. 561 (1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Herman & Maclean v. Huddleston, 459 U.S. 375 (1983) . . . . . . . . . . . . . . . . . . . 11
+Johnson v. Wiggs, 443 F.2d 803 (5th Cir. 1971) . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Klein v. General Nutrition Cos., 186 F.3d 338 (3d Cir. 1999) . . . . . . . . . . . . . . . 19
+Krim v. BancTexas Group, Inc., 989 F.2d 1435 (5th Cir. 1993) . . . . . . . . . . . 17, 19
+Press v. Quick & Reilly, Inc., 218 F.3d 121 (2d Cir. 2000) . . . . . . . . . . . . . . . . . . 3
+TSC Industries, Inc. v. Northway, 426 U.S. 438 (1976) . . . . . . . . . . . . . . 18, 19, 20
+United States v.Mead Corp., 533 U.S. 218 (2001) . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Ward v. Succession of Freeman, 854 F.2d 780 (5th Cir. 1988) . . . . . . . . . . . . . . . 17
+
+-iii-
+
+TABLE OF AUTHORITIES (Continued)
+Cases (Continued)
+
+Page
+
+Wielgos v. Commonwealth Edison, Co., 892 F.2d 509
+(7th Cir. 1989) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 15, 16
+passim
+Commission Releases
+Amendments to Annual Report Form, Related Forms, Rules, Regulations
+and Guides; Integration of Securities Acts Disclosure Systems,
+SEC Release No. 33-6231, 20 S.E.C. Docket 1059 (September 2, 1980) . . . . . . 23
+Management’s Discussion and Analysis of Financial Conditions
+and Results of Operations, SEC Release No. 33-6349,
+23 S.E.C. Docket 962 (September 28, 1981) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Statutes and Rules
+Securities Act of 1933, 15 U.S.C. 77a, et seq.
+Section
+Section
+Section
+Section
+Section
+Section
+
+5(a), 5 U.S.C. 77e(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+5(b), 15 U.S.C. 77e(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+7(a), 15 U.S.C. 77g(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 13
+8(d), 15 U.S.C. 77h(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+10(a), 15 U.S.C. 77j(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+11, 15 U.S.C. 77k . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 3, 4
+passim
+Section 12(a)(2), 15 U.S.C. 77l(a)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Section 17(a), 15 U.S.C. 77q(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Section 24, 15 U.S.C. 77x . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Rule Under the Securities Act of 1933, 17 C.F.R. 230.01, et seq.
+Rule 175, 17 C.F.R. 230.175 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 15, 17
+
+-iv-
+
+TABLE OF AUTHORITIES (Continued)
+Statutes and Rules (Continued)
+
+Page
+
+Rule Under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.
+Rule 10b-5, 17 C.F.R. 240.10b-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Regulation S-K, 17 C.F.R. 229
+Item 103, Regulation S-K, 17 C.F.R. 229.103 . . . . . . . . . . . . . . . . . . . . . . 14
+Item 303, Regulation S-K, 17 C.F.R. 229.303(a)(3)(ii) . . . . . . . . . . . . 4, 7, 8
+passim
+Miscellaneous
+ALI, Federal Securities Code, Section 202(92), Comment (1) . . . . . . . . . . . . 12, 19
+H. R. Rep. No. 85, 73d Cong., 1 st Sess. (1993) . . . . . . . . . . . . . . . . . . . . . . . . . 9, 10
+Joel Seligman, Transformation of Wall Street (Rev. Ed. 1995) . . . . . . . . . . . . . . . 9
+Restatement (Second) of Torts, Section 538(2)(a) . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+-v-
+
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+The Securities and Exchange Commission, the agency responsible for the
+administration and enforcement of the federal securities laws, submits this brief as
+amicus curiae to address the district court’s ruling on the securities registration
+statement disclosure obligations imposed on issuers by the Securities Act of 1933,
+15 U.S.C. 77a et seq. The district court held that the “[f]ederal securities laws do
+not impose a duty on issuers to disclose industry-wide trends or publicly available
+information,” so that the failure to disclose that information may never give rise to
+a claim under Section 11 of the Securities Act, 15 U.S.C. 77k, the provision that
+creates a private right of action for certain untrue statements and omissions in
+registration statements. The district court’s ruling on actionable omissions is
+incorrect, because it creates a per se defense to liability that is contemplated neither
+by the statute, the Commission’s regulations thereunder, nor applicable Supreme
+Court precedent.
+If accepted as a correct view of the law, the district court’s ruling would
+create substantial gaps in the fundamental protections extended to investors by the
+Securities Act’s registration and disclosure requirements, gaps that were not
+intended by Congress. Furthermore, some of the reasoning urged by the defendants
+in the district court would lead to the conclusion that issuers could not only omit to
+
+-1-
+
+include industry-wide or public information in their registration statements, but
+that they could also make untrue statements about that information. Moreover,
+although this case is a Section 11 private action, the principles enunciated by the
+district court and urged by the defendants could also restrict the disclosure
+obligations enforced by the Commission in its own proceedings. For these
+reasons, the Commission submits this brief amicus curiae to address the district
+court’s erroneous views.
+ISSUE ADDRESSED BY THE COMMISSION
+Section 11 creates a private damages action for any person acquiring a
+security issued pursuant to a registration statement that “contained an untrue
+statement of a material fact or omitted to state a material fact required to be stated
+therein or necessary to make the statements therein not misleading (unless it is
+proved that at the time of such acquisition he knew of such untruth or omission).”
+The issue addressed by the Commission is whether it is an absolute defense to an
+action under Section 11 that the untrue or omitted information is not specific to the
+firm issuing the securities, or is publicly available.
+
+-2-
+
+STATEMENT OF THE CASE
+A.
+
+The Parties’ Contentions
+
+The plaintiffs, purchasers in the initial public offering of shares in Torch
+Offshore Inc., sued Torch, Torch officers and directors, and the underwriters of the
+IPO under Section 11. Plaintiffs allege that in its discussion of the market price of
+natural gas, an important determinant of Torch’s business prospects, the
+registration statement for the offering made untrue statements of material fact,
+omitted to state material facts required to be stated therein when it failed to
+disclose a “trend” in the price of gas, and omitted to state material facts necessary
+to make the statements therein not misleading.
+Defendants moved to dismiss. They contended that, read in context, the
+statements challenged by plaintiffs were not untrue or misleading, and also that the
+price changes plaintiffs identified did not have to be disclosed because they were
+not a “trend,” but were instead only short term fluctuations in a volatile market.
+These arguments, which were not addressed by the district court, are the sort of
+fact-bound issues that the Commission ordinarily does not address in an amicus
+brief, see e.g., Press v. Quick & Reilly, Inc., 218 F.3d 121, 128 (2d Cir. 2000)
+(court notes that, in keeping with its usual practice, the Commission’s amicus brief
+expressed no views on fact-bound issues involving the application of legal
+
+-3-
+
+principles to the specific factual allegations in the complaint), and we do not
+address them here.
+Defendants also made a broader argument that the Securities Act requires
+disclosure only of firm-specific information that is not available to the public.
+Based on this premise, they urged that there can never be a duty to disclose
+information that is not firm-specific, or that is publicly available, so that the
+omission of that information from a registration statement can never be the basis
+for liability under Section 11. They also contended that information that is not
+firm-specific or that is publicly available can never be “material,” which would be
+an additional ground for barring recovery under Section 11; the logic of this
+argument would suggest that a lie about such information would also not be
+actionable. Finally, they averred that the requirement in Item 303 of Regulation SK, 17 C.F.R. 229.303(a)(3)(ii), that the issuer disclose “any known trends” that
+have had or that it reasonably believes will have a material impact on its finances,
+is limited to firm-specific trends that are not available to the public.
+B.
+
+The District Court Decision
+
+The district court granted the motion to dismiss. It did not specifically
+mention materiality or Item 303, nor did it mention plaintiff’s allegation that, in
+addition to omitting information that should have been included, defendants also
+
+-4-
+
+made false statements. It ruled that the failure to disclose non-firm-specific or
+publicly available information could not be the basis for a claim under Section 11:
+Federal securities laws do not impose a duty on issuers to disclose
+industry-wide trends or publicly available information. Information
+concerning publicly traded commodities such as natural gas and
+gasoline are readily available in the public domain, and therefore,
+omission of such information is not actionable under Section 11. In
+addition, non-disclosure of the industry wide-trend of drilling project
+delays does not form the basis for a securities fraud claim. 1
+Op. at 3 (citations omitted).
+SUMMARY OF ARGUMENT
+The Securities Act requires issuers of securities that are to be sold to the
+public to disclose specified information in a registration statement that is filed with
+the Commission, and in a prospectus that is delivered to investors. These
+disclosure requirements are enforceable by the Commission and through private
+rights of action, including Section 11 of the Act, which authorizes a suit for
+recovery of damages whenever the registration statement contains an untrue
+statement of material fact, omits a material fact required to be stated therein by
+statute or Commission regulation, or omits to state a material fact necessary to
+make the statements therein not misleading, unless it is proven that at the time of
+the acquisition, the acquirer knew of the untruth or omission.
+1
+
+Plaintiffs alleged that Torch’s customers had delayed projects in
+response to changes in the market price for gas.
+-5-
+
+1. Neither the statute nor the Commission’s regulations provide that it is an
+absolute defense to liability that omitted information is not firm-specific or is
+publicly available. What the statute says about disclosure of material facts is that
+all information required to be disclosed by the statute or Commission regulations
+must be included; that no untrue statement may be made, whether the statement is
+required or not; and that no information may be omitted if the omission would
+make any of the statements in the registration statement misleading. If material
+information is called for under this standard, it must be disclosed. There is no
+blanket requirement that the information be firm-specific, or that it not be publicly
+available. Indeed, as to public availability, the provision in Section 11 that liability
+is defeated if the acquirer knew of the untruth or omission cannot be reconciled
+with an absolute requirement that investors are required, as a matter of law, to
+appreciate the need to search in other sources, and then to look in those sources –
+which may be remote, technical, or otherwise difficult to obtain or apply – for
+information necessary to correct incomplete or misleading statements in the
+registration statement. Conversely, if material information is not required to be
+disclosed, and if it may be omitted without making statements in the registration
+statement materially misleading, it need not be stated, even if it is firm-specific or
+is not publicly available.
+
+-6-
+
+Nor is the definition of “material” under the Act strictly limited to
+information that is firm-specific and non-public. Information is material if there is
+a substantial likelihood that a reasonable investor would consider the information
+an important part of the total mix of information made available when making an
+investment decision. Because Section 11 is a remedy only when an untrue
+statement or omission is material, to hold that industry-wide trends or publicly
+available information can never be material would mean not only that issuers do
+not have to disclose that information in their registration statements, but also that
+they could make untrue statements about it. To restrict the definition with bright
+line rules about firm specificity and public availability is directly contrary to the
+philosophy of full and fair disclosure underlying by the Securities Act. That does
+not mean that all material information must be included in the registration
+statement, but it does mean that an issuer is not free to make material
+misrepresentations, or to omit material information if it is required to be disclosed
+by law or needs to be disclosed in order to prevent statements made from being
+misleading.
+2. The relevant provision of Item 303 is not limited to disclosure of trends
+that are firm-specific or that are not available to the public. Rather, under the plain
+language of the Item, issuers must disclose “any known trends * * * that have had
+
+-7-
+
+or that the registrant reasonably believes will have a material favorable or
+unfavorable impact” on company finances (emphasis added). Many such trends
+will be industry-wide or publicly available, but that does not excuse the issuer from
+complying with the requirements of the Item.
+STANDARD OF REVIEW
+The Commission’s interpretation in notice-and-comment rulemaking of the
+statutes it administers, including the scope of disclosure required by the Securities
+Act, is entitled to Chevron deference, which is to say that the Commission’s
+reasonable interpretation of the Act controls unless Congress has clearly and
+unambiguously addressed the question. See, e.g., United States v. Mead Corp.,
+533 U.S. 218, 226-27 (2001). The Commission’s interpretation in an amicus brief
+of one of its own regulations, such as what “trend” means in Item 303 of
+Regulation S-K, is controlling unless plainly erroneous or inconsistent with the
+regulation. Auer v. Robbins, 519 U.S. 452, 461-63 (1997).
+
+-8-
+
+ARGUMENT
+I.
+
+The Disclosure Required by the Securities Act in Securities Registration
+Statements Is Determined by the Language of the Statute, Which Does Not
+Restrict That Disclosure to Firm-Specific or Non-Public Information.
+A.
+
+The Securities Act Requires the Material Disclosure in
+Registration Statements to Be Truthful, to Contain All
+Information Required by Law, and Not to Omit Information
+Necessary to Make the Statements Therein Not Misleading.
+
+Following the 1929 market crash, Congress ascertained that fully half of the
+securities issued in the post-World War I decade were worthless. H. R. Rep. No.
+85, 73d Cong., 1 st Sess. 2 (1933). One of the very first tasks taken up by the new
+administration in the weeks after the inauguration in March, 1933, was to submit to
+Congress a bill requiring full disclosure with respect to securities to be offered to
+the public. See Joel Seligman, The Transformation of Wall Street, 50-72 (Rev. ed.
+1995). This statute, which was enacted as the Securities Act of 1933, 15 U.S.C.
+77a et seq., embraced as a fundamental purpose “‘to substitute a philosophy of full
+disclosure for the philosophy of caveat emptor.’” Central Bank of Denver v. First
+Interstate Bank of Denver, 511 U.S. 164, 171 (1994) quoting Affiliated Ute
+Citizens of Utah v. United States, 406 U.S. 128, 151 (1972).
+“The primary innovation of the 1933 Act was the creation of federal duties –
+for the most part, registration and disclosure obligations – in connection with
+public offerings.” Gustafson v. Alloyd, Co., 513 U.S. 561, 571 (1995). The Act
+-9-
+
+requires issuers that wish to sell their securities to the public to file a registration
+statement with the Commission that contains mandatory disclosures of material
+information. 2 It also requires delivery to investors of a prospectus containing
+essential information from the registration statement. 3 Congress intended that the
+registration statement and prospectus would contain “the basic information by
+which the public is solicited” to buy offered securities. H. R. Rep. 85 at 9.
+The Act also creates a range of remedies for violations of its requirements.
+Section 8(d), 15 U.S.C. 77h(d), for instance, authorizes the Commission to issue a
+stop order suspending the effectiveness of any registration statement that “includes
+any untrue statement of a material fact or omits to state any material fact required
+to be stated therein or necessary to make the statements therein not misleading.”
+
+2
+
+See Section 5(a), 5 U.S.C. 77e(a) (unlawful to sell or deliver any
+security by means of interstate commerce or the mails unless a
+registration statement for that security is in effect); Section 7(a), 15
+U.S.C. 77g(a) (registration statement must include information called
+for by statute or Commission regulation); Schedule A (disclosure
+requirements for registration of securities other than a security issued
+by a foreign government or political subdivision thereof); Regulation
+S-K, 17 C.F.R. 229 (disclosure requirements applicable to the content
+of the non-financial statement portions of a registration statement).
+
+3
+
+See Section 5(b), 15 U.S.C. 77e(b) (prospectus complying with
+Section 10 of the Act must be delivered to the purchaser of the
+security either before or at the same time as delivery of the security);
+Section 10(a), 15 U.S.C. 77j(a) (information required to be contained
+in the prospectus).
+-10-
+
+Section 11, the provision at issue in this case, authorizes a suit for damages
+by any person who acquires a security issued pursuant to a registration statement
+that contains any of these same defects, “unless it is proved that at the time of such
+acquisition he knew of such untruth or omission.” 4 Section 11was designed “to
+assure compliance with the disclosure provisions of the Act by imposing a
+stringent standard of liability on the parties who play a direct role in a registered
+offering.” Herman & Maclean v.. Huddleston, 459 U.S. 375, 382(1983). A
+plaintiff who acquires a security issued pursuant to a registration statement need
+only show a material misstatement or prohibited omission to establish his prima
+facie case. Once he has done so, “[l]iability against the issuer of a security is
+virtually absolute, even for innocent misstatements. Other defendants bear the
+burden of demonstrating due diligence.” Id. 5
+
+4
+
+The Act also contains other remedies for untrue statements or
+prohibited omissions of material fact. See Section 12(a)(2), 15 U.S.C.
+77l(a)(2) (creating purchaser’s right of action for untrue statement or
+misleading omission in prospectus); Section 17(a), 15 U.S.C. 77q(a)
+(prohibiting fraud in the offer and sale of securities, including
+obtaining money or property by means of an untrue statement or
+misleading omission); Section 24, 15 U.S.C. 77x (criminal liability for
+willfully making an untrue statement or misleading omission, or
+omitting required information in a registration statement).
+
+5
+
+In addition to the issuer, other possible defendants include every
+person who signed the statement, directors of the issuer, and the
+underwriter of the security.
+-11-
+
+The protections of the Act are broad, reaching not only an affirmatively
+untrue material statement, but also a literally true statement that is nonetheless
+misleading because of material information that is omitted – a half truth, in other
+words, “which is, of course, a lie.” ALI, Federal Securities Code, Section 202(92),
+Comment (1). And Section 11 makes it clear that there is no duty on the part of the
+investor to make a reasonable inquiry into information available outside the
+registration statement. Rather, where a misrepresentation or omission is material,
+the investor’s recovery may be defeated only if “it is proved that at the time of such
+acquisition he knew of such untruth or omission” (emphasis added).
+B.
+
+It Is Not an Absolute Defense to the Securities Act’s Disclosure
+Requirements That Information Is Not Firm-specific or Is Publicly
+Available.
+
+The disclosure duties imposed by the federal securities laws, like all the
+substantive requirements of those laws, are embodied in the statutes and the
+regulations adopted thereunder, and issues about the scope of those duties must be
+resolved in accordance with the language of the applicable provisions. See, e.g.,
+Central Bank of Denver v. First Interstate Bank of Denver, 511 U.S. at 164 (with
+respect to the issue of “the scope of conduct prohibited by §10(b), the text of the
+statute controls our decision”). As we have seen, nothing in the language of
+Section 11 supports an absolute defense based on the fact that the information is
+
+-12-
+
+publicly available or pertains to industry wide trends. Indeed, to hold that liability
+for a material misstatement or omission may be defeated as a matter of law by
+proving that corrective information could have been obtained by examining
+industry wide trends or other public information is contrary to the express statutory
+defense that plaintiff may recover unless it is proved that the person acquiring the
+security “knew” of the untrue statement or omission.
+Moreover, in keeping with the language and purpose of the Act, the
+Commission’s regulations have never treated registration disclosure obligations as
+being limited strictly to information that is firm-specific and that is not publicly
+available. As discussed in more detail below, a Commission rule requires the
+issuer to disclose certain “trends” that could affect its business, and that
+requirement extends to disclosure of industry-wide trends and to those that may in
+some way be public. The Commission’s determination in a notice-and-comment
+rulemaking that this disclosure is necessary or appropriate in the public interest, or
+for the protection of investors, even though it is not limited to information that is
+firm-specific or that is not publicly available, is an interpretation of the Securities
+Act that is entitled to deference under Chevron U. S. A. Inc. v. NRDC, 467 U.S.
+837 (1984). See Section 7(a) of the Securities Act, 15 U.S.C. 77g(a) (registration
+statement shall contain such other information “as the Commission may by rules
+
+-13-
+
+and regulations require as being necessary or appropriate in the public interest or
+for the protection of investors”).
+Yet the district court in this case held that the “[f]ederal securities laws do
+not impose a duty on issuers to disclose industry-wide trends or publicly available
+information” and that “[i]nformation concerning publicly traded commodities such
+as natural gas and gasoline are readily available in the public domain, and
+therefore, omission of such information is not actionable under Section 11.” The
+court seems to have based these conclusions, not on the language of the statute, but
+on certain remarks made by the court of appeals in Wielgos v. Commonwealth
+Edison, Co., 892 F.2d 509 (7 th Cir. 1989), and on cases citing that case. The
+beginning place for our analysis, therefore, is what the Seventh Circuit did, and
+what it did not, say in Wielgos.
+The two issues in that case, which sought recovery under Section 11, were
+(a) whether the defendant’s cost projections complied with the safe harbor for
+forward-looking statements contained in Commission Rule 175, 17 C.F.R.
+230.175, and (b) whether the disclosure made in the registration statement with
+respect to a pending license application before a branch of the Nuclear Regulatory
+Commission satisfied Item 103 of Regulation S-K, 17 C.F.R. 229.103, which
+requires disclosure of material pending legal proceedings. 892 F.2d at 512. The
+
+-14-
+
+court did not resolve either of those issues on the ground that an issuer can never
+have a duty to disclose information that is not firm-specific or that is in the public
+domain. Rather, it decided the case based on the application of the specific
+language of Rule 175 and Item 103 to the allegations in the complaint. 892 F.2d at
+512-17.
+Before addressing each issue before it, however, the Wielgos court offered
+its thumbnail view of the general way in which the securities disclosure regime
+works. 6 The district court treated the Wielgos court’s general statements as laying
+6
+
+First, discussing the safe harbor created by Rule 175, the court
+observed:
+Issuers need not “disclose” Murphy’s Law or the Peter
+Principle, even though these have substantial effects on
+business. * * * Securities laws require issuers to disclose
+firm-specific information; investors and analysts combine
+that information with knowledge about the competition,
+regulatory conditions, and the economy as a whole to
+produce a value for stock. Just as a firm needn’t disclose
+that 50% of all new products vanish from the market
+within a short time, so [defendant] needn’t disclose the
+hazards of its business, hazards apparent to all serious
+observers and most casual ones. (892 F.2d at 515
+(citation omitted).)
+Then the court made a similar statement in the course of rejecting the
+claim that details of the licensing proceeding had not been adequately
+disclosed:
+Issuers of securities must reveal firm-specific information.
+(continued...)
+-15-
+
+down the absolute rule that the securities laws never require disclosure of any
+information that is not firm-specific or that is publicly available, thereby creating
+an absolute defense to liability under Section 11 for the omission of that sort of
+information from a registration statement.
+The district court’s ruling in this regard was error. As has been mentioned,
+for instance, the Commission requires the issuer to disclose certain “trends” that
+could affect its business, and this requirement is not restricted to trends that are
+firm-specific, or not publicly available. Certainly, the court in Wielgos did not
+suggest that an issuer is free to ignore this requirement, or any other requirement
+that is set forth in statute or regulations, just because the information was not firmspecific or was in the public domain.
+Furthermore, it may be that a statement in the registration statement is
+materially misleading unless other statements are also included. In that event, the
+issuer is not free to omit the necessary additional disclosure – as a matter of
+absolute legal defense – simply because the information is not firm-specific, or
+
+6
+
+(...continued)
+Investors combine this with public information to derive
+estimates about the securities’ value. It is pointless and costly
+to compel firms to reprint information already in the public
+domain. (892 F.2d at 517).
+
+-16-
+
+because the investor, if alerted to the need to check, could find it out if he or she
+looked to some other source.
+In addition to Wielgos, the district court also cited this Court’s decision in
+Krim v. BancTexas Group, Inc., 989 F.2d 1435, 1446 (5 th Cir. 1993), which quoted
+one of the statements from Wielgos. This Court in Krim, however, like the court in
+Wielgos, did not decide the case on the broad ground that there could never be a
+duty to disclose non-firm-specific or publicly available information, but on the
+ground that the disclosure challenged in that case complied with the Rule 175 safeharbor. (Krim did hold that certain omitted information was not material, but it did
+so on the ground that the substance of the information was adequately set forth in
+the prospectus, not on the ground that the information was not firm-specific or was
+publicly available.) 7
+7
+
+In the district court, Torch also cited Ward v. Succession of Freeman,
+854 F.2d 780, 792-93 (5 th Cir. 1988), a case brought under Rule 10b-5
+under the Securities Exchange Act of 1934, 17 C.F.R. 240.10b-5, in
+support of the proposition that there can never be a duty to disclose
+public information. While it may well have been that the specific
+omissions in that case were not misleading, the Court’s reasoning is
+unclear – it cited in connection with its statement that the information
+was in the public domain only Johnson v. Wiggs, 443 F.2d 803 (5 th
+Cir. 1971). But Johnson was an insider trading case, in which one of
+the elements of plaintiff’s claim is that the defendant bought or sold
+securities while in possession of non-public information. Thus, it is
+true that information that is publicly known cannot be the basis of an
+insider trading violation, but that does not mean that the failure to
+(continued...)
+-17-
+
+In the district court, the defendants suggested that the limitation of required
+disclosure to firm-specific and non-public information is to be found in the
+definition of “material.” As noted, only material untrue statements and omissions
+are actionable, but the concept of material information is not restricted as
+defendants suggest.
+A fact is “material” “if there is a substantial likelihood that a reasonable
+shareholder would consider it important” in making an investment decision. Basic
+Inc. v. Levinson, 485 U.S. 224, 231, 234 (1988), quoting TSC Industries, Inc. v.
+Northway, 426 U.S. 438, 449 (1976). For an omission to be material, “there must
+be a substantial likelihood that the disclosure would have been viewed by the
+reasonable investor as having significantly altered the ‘total mix’ of information
+made available.” Id. at 231-32. In other words, the “role of the materiality
+requirement” is “to filter out essentially useless information that a reasonable
+investor would not consider significant, even as part of a larger ‘mix’ of factors to
+consider in making an investment decision.” Id. at 234. This Court has explained
+that the issue is whether “the information allegedly omitted or misrepresented in
+the prospectus was material, in the sense that it would have altered the way a
+
+7
+
+(...continued)
+disclose information that is publicly available can never be the basis
+of any claim under the securities laws.
+-18-
+
+reasonable investor would have perceived the total mix of information available in
+the prospectus as a whole.” Krim, 989 F.2d at 1435.
+These formulations of the standard do not absolutely limit materiality to
+information that is firm-specific or that it not publicly available. What is more, in
+TSC Industries, 426 U.S. at 445, the Court noted that the definition of materiality it
+accepted for the securities laws was the standard that was followed in the common
+law, see Restatement (Second) of Torts, Section 538(2)(a),8 and also that was
+found in the proposed Federal Securities Code, see ALI, Federal Securities Code,
+Section 202(92). 9 Neither of these sources defines “material” in such a way as to
+limit the concept exclusively to firm-specific or non-publicly available
+information.
+The district court did not expressly mention materiality in stating its rule that
+omission of information that is available in the public domain is not actionable
+under Section 11, but it did cite a case holding that certain omitted information was
+not material, Klein v. General Nutrition Cos., 186 F.3d 338 (3d Cir. 1999). The
+
+8
+
+A matter is “material” if “a reasonable man would attach importance
+to its existence or nonexistence in determining his choice of action in
+the transaction in question.”
+
+9
+
+“A fact is ‘material’ if there is a substantial likelihood that a
+reasonable person would consider it important under the
+circumstances in determining his course of action.”
+-19-
+
+court of appeals in Klein, however, by no means endorsed the proposition that nonfirm-specific or publicly available information can never be material. Instead, the
+court observed that “[a] determination of ‘materiality’ takes into account
+considerations as to * * * [the information’s] availability in the public domain”
+(emphasis added). 186 F.3d at 342.10
+Rather than turning on bright-line rules, the question of whether an omission
+is materially misleading requires consideration of all the relevant facts and
+circumstances. That question may be resolved on the pleadings if plaintiff failed
+sufficiently to allege that the omissions were material misleading, and summary
+judgment may be granted if reasonable minds cannot differ on the question of
+whether they were so; otherwise, the issue is for the trier of fact. See TSC
+Industries, 426 U.S. at 438.
+The result of applying a per se rule that any information that is not firmspecific or that is publicly available can never be material would be quite harmful
+to investor protection. Not only may information that is not material be omitted by
+the issuer without incurring Section 11 liability; an issuer will not be held liable
+10
+
+It is worth noting that the court in Wielgos explicitly stated that it was
+not addressing the question of whether the omitted facts were
+material, but was ruling on whether the disclosures complied with
+applicable Commission rules. 892 F.2d at 517 (“Our case may be
+decided, however, without regard to materiality. We think that
+Commonwealth Edison revealed all that Item 103 requires.”).
+-20-
+
+even if it makes untrue statements about non-material information. See Basic, 485
+U.S. at 249 (Court rejects “the proposition that ‘information becomes material by
+virtue of a public statement denying it’”) (internal quotation marks omitted). Thus,
+under the logic of defendants’ argument, it would have been lawful, without
+regard to any other facts and circumstances, for Torch to state that the price of
+natural gas had gone up steadily for the last ten years, even thought that was false;
+to fail to disclose market trends that it knew would vitally affect its business; and
+to present information about gas prices in clearly misleading ways; all on the
+theory that this information was industry-wide, and that an alert and diligent
+investor could have found it if the investor looked for corrective information in
+other sources.
+It is particularly inappropriate to say that investors are required as a matter
+of law – and entirely at their peril – to check the accuracy and completeness of
+representations in a registration statement (or prospectus) so long as the statements
+are not firm-specific, or if the truth could be tracked down in some publicly
+available source, given the registration statement is the key document in the
+registration and disclosure regime created by the Securities Act. (It would be even
+more inappropriate to conclude, on the same reasoning, that issuers may lie about
+such information in that document). Furthermore, as noted in the discussion of the
+
+-21-
+
+scope of duty to disclose created by the Securities Act, holding the investor liable
+for any information he could have found upon further investigation contradicts the
+express statutory provision that a plaintiff may recover unless it is proven that he
+“knew” of the untruth or omission.
+II.
+
+The Disclosure of “Trends” Required by Item 303 Is Not Limited to
+Firm-Specific or Non-Public Trends.
+Defendants’ assertion in the district court that a company never has a duty
+
+under Item 303 of Regulation S-K (Management’s Discussion and Analysis (MD
+& A)), to disclose industry-wide or publicly known trends is incorrect. The
+Commission’s interpretation of its regulations, including its interpretation in
+notice-and-comment rulemaking or in an amicus brief, governs unless that
+interpretation is inconsistent with the language of the regulation or clearly
+erroneous, Auer, 519 U.S. at 461-63.
+The relevant portion of Item 303 requires a company to describe:
+known trends or uncertainties that have had or that the registrant reasonably
+expects will have a material favorable or unfavorable impact on net sales or
+revenues or income from continuing operations. Item 303(a)(3)(ii).
+The language of the Item does not limit disclosure to firm-specific trends, or
+to trends that are not known to the public. Indeed, with respect to many trends that
+would have a material effect on a company’s finances, it is difficult to conceive
+how the company could meaningfully disclose the anticipated consequences
+-22-
+
+without also disclosing information about non-firm-specific aspects of the trend, as
+well as information that is publicly available.
+The absence of those limitations is not accidental. Rather, in the 1980
+adopting release for the amendments to Regulation S-K that added this MD & A
+trend disclosure requirement, the Commission articulated its concern that preexisting disclosure requirements were too narrow, and it recognized a “growing
+need to analyze an enterprise’s liquidity and capital resources, in addition to its
+revenues and income.” Amendments to Annual Report Form, Related Forms,
+Rules, Regulations and Guides; Integration of Securities Acts Disclosure Systems,
+SEC Release No. 33-6231, 20 S.E.C. Docket 1059, 1072 (September 2, 1980).
+The Commission’s concerns specifically evolved from its recognition that macro
+events affecting all public companies were not being accounted for in company
+disclosures. As the Commission subsequently explained, the 1980 changes
+reflected its “concerns about the economic climate of the time. High interest rates
+and inflation were significant problems and the revised MD&A was designed to
+foster disclosure of trends and uncertainties arising from these and other factors.”
+Concept Release on Management’s Discussion and Analysis of Financial
+Condition and Operations, SEC Release No. 33-6711, 38 S.E.C. Docket 219, 220
+
+-23-
+
+(April 21, 1987). Therefore, economy-wide concerns were driving expansive
+changes in the regulatory disclosure requirements.
+Part of the expanded MD&A required disclosure about the impacts of
+inflation and changing prices on individual registrant businesses. As the
+Commission stated: “In this regard the Commission believes that Management’s
+Discussion and Analysis should contain information which changes the potentially
+confusing situation involving inflation impact disclosure into a meaningful
+discussion of the effects of changing prices on the registrant’s business.” SEC
+Release No. 33-6231, 20 S.E.C. Docket at 1071. In order to present that
+information, an issuer would have to describe macro economic conditions –
+information that is not firm-specific and that is publicly available. In other words,
+contrary to defendants’ claim, Item 303 may call for disclosure of publicly known
+and industry-wide trends, where that information is relevant to an explanation of a
+given company’s financial condition and comparative performance from reporting
+period to reporting period.
+
+-24-
+
+CONCLUSION
+For the foregoing reasons, this Court should reject the contention that it is an
+absolute defense to an action under Section 11 of the Securities Act that the
+misstated or omitted information is not firm-specific, or is publicly available.
+Respectfully submitted,
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+MARK PENNINGTON
+Assistant General Counsel
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+Securities and Exchange Commission
+450 5th St. NW
+Washington, D.C. 20549-0606
+202-942-0928 (PENNINGTON)
+
+June 2003
+
+-25-
+
+CERTIFICATE OF SERVICE
+I hereby certify that on June 5, 2003, I caused two copies of the
+proposed amicus brief of the Securities and Exchange Commission (with electronic
+copy on diskette), and one copy of the Commission’s motion for leave to file that
+brief to be served by overnight delivery on
+Steven M. Jupiter
+Leblanc and Waddell LLC
+201 Saint Charles Ave.
+Suite 3204
+New Orleans, LA 70170-3204
+504-523-9900
+
+Andrew M. Schatz
+SCHATZ & NOBEL
+330 Main St.
+Hartford, CT 06106
+860-493-6292
+
+COUNSEL FOR PLAINTIFFS
+Robert L. Redfearn, Jr.
+David S. Sterling
+Simon, Peragine, Smith &
+Baker Botts LLP
+Redfearn, LLP
+One Shell Plaza
+th
+30 Floor, Energy Centre
+Houston, TX 77002
+1100 Poydras St.
+New Orleans, LA 70163-3000
+504-569-2030
+COUNSEL FOR ISSUER DEFENDANTS
+Thomas K. Potter
+Jones, Walker, Waechter, Poitevent
+Carrere & Denegre, LLP
+201 St. Charles Ave.
+New Orleans, LA 70170
+504-582-8000
+COUNSEL FOR UNDERWRITER DEFENDANTS
+________________________
+Mark Pennington
+
+CERTIFICATE OF COMPLIANCE WITH FRAP 32(a)(7)
+I hereby certify that the brief of appellee Securities and Exchange
+Commission complies with FRAP 32(a)(7). It is produced in 14 point Times New
+Roman type, and contains 5624 words, as counted by the word processing program
+Corel WordPerfect 9.
+________________________
+Mark Pennington
+
+

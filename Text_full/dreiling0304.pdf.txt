@@ -1,0 +1,887 @@
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+
+No. 03-35710
+
+THOMAS R. DREILING, on behalf of
+INFOSPACE, INC.,
+Plaintiff-Appellee,
+v.
+
+NAVEEN JAIN and
+ANURADHA JAIN, husband and wife and their marital community,
+Defendants-Appellants.
+
+On Appeal from the United States District Court
+for the Western District of Washington
+
+BRIEF OF THE
+SECURITIES AND EXCHANGE- COJ\.1MISSION,
+AMICUS CURIAE, IN SUPPORT OF REVERSAL AND OF
+POSITIONS THAT FAVOR THE DEFENDANTS - APPELLANTS
+
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+AlLAN A. CAPUTE
+Special Counsel to the Solicitor
+Securities and Exchange Commission_
+Washington, D.C. 20549-0606
+(202) 942-0837 (Capute)
+
+TABLE· OF CONTENTS
+
+TABLE OF AUTHORlTIES
+
+iii
+
+:
+
+IN1EREST OF THE SECURlTIES AND
+EXCHANGE COMMISSION
+
+~
+~
+
+IN'IRODUCTION
+BACKGROUND
+1.
+
+2.
+
+II.
+
+2
+5
+
+Facts
+
+5
+
+a.
+
+The Alleged Purchases
+
+b.
+
+The Sales
+
+6
+10
+
+Decision of the District Court
+
+DISCUSSION
+I.
+
+1
+
+11
+12
+
+IN CALCULATING PROFITS THE DISTRICT COURT
+IMPROPERLY DISREGARDED THE OFFSETTING
+OBLIGATION INCURRED BY THE DEFENDANTS
+TO RETURN THE SHARES OR, AT A MINIMUM,
+TO PAY TO THE TRUSTS THE' MARKET VALUE
+OF THE SHARES AT THE TIME OF ACQUISITION. .
+
+12
+
+IF NAVEEN JAIN'S ACQUISITION OF THE
+ESCROW SHARES IS DETERMINED TO BE
+A 'epURCHASE" BY HIM, HET5ENTITI..ED
+TO THE EXEMPTION IN RULE 16a-9 FOR
+HIS SUBSEQUENT ACQUISITION OF STOCK
+SPlll:SH.ARE£DER.IVEn FROM THE
+ESCROW SHARES. .
+
+18'
+
+.
+
+. CON·CLU·SION··
+
+-;;
+
+20
+-}-
+
+CERTIFICA1E OF SERVICE
+CERTIFICATE OF COMPUANCE PURSUANT TO RULE 32(A)
+
+-11-
+
+TABLE OF AUTHORITIES
+
+Page
+
+CASES
+Bonneville PowerAdministration v. Washington Public Power SupplY Systems,
+959 F.2d 1497 (9 th Cit:. 1992)
+In re Eustace' Estate, 87 P.2d 305 (Wash. 1939)
+
+16
+
+:................•................................. 16
+
+Gustafson v. Alloyd Company, Inc., 513 U.S. 561 (1995)
+
+5
+
+International Controls Corp. v. Vesco, 490 F.2d 1334 (2d Cit:. 1974)
+
+5
+
+Kornfeld v. Eaton, 217 F.Supp. 671 (S.D.N.Y 1963), ajfd,
+327 F.2d 263 (2d Cit:. 1964)
+
+15
+
+Log On America v. Promethean AssetManagement LLC,
+223 F. Supp. 2d 435 (S.D.N.Y. 2001)
+
+13
+
+Lynch v. Deaconess Medical Ctr., 776 P.2d 681 (Wash. App. 1989)
+
+16
+
+Omer v. Omer, 523 P.2d 957 (Wash. App. 1974)
+
+16
+
+Srymanski v. Dufault, 491 P.2d 1050 (Wash. 1972)
+
+:
+
+16
+
+STATUTES AND RULES
+Securities Exchange Act of 1934, 15 U.S.C. 78a; et seq.
+Section 3a(13), 15 U.S.c. 78c(a)(13)
+Section 10(b), 15 U.S.c. 78j(b)
+Section 16(b), 15 U.S.c. 78p(b)
+
+-lll-
+
+:
+
+4
+4, 5
+2,3,4
+passim
+
+Rules under the Securities Exchange Act of 1934~ 17 C.F.R. 240.01. et seq.
+Rule 16a-9(a), 17 C.F.R. 240.16a-9(a)
+Rule 16b-6(c), 17 C.F.R. 240.16b-6(c)
+
+15, 17
+15
+
+MISCELLANEOUS
+Interpretative Release on Rules Applicable to Insider &porting and Trading,
+Exchange Act Release No. 18114,23 S.E.C. Docket 856, 1981 WL 31301
+(September 24, 1981)
+:
+,
+Ownership &ports and Trading by Officers, Directors and Principal Security Holders,
+Exchange Act Release No. 28869, 56 Fed. Reg. 7242, 1991 WL 311110
+(Feb. 21, 1991)
+
+13
+
+15, 16, 18
+
+Statement Upon Rule X-16b-6, Exchange Act Release No. 4509 (Oct 30, 1950)
+
+15
+
+Restatement (First) qfRestitution (1937)
+
+16
+
+Restatement (Second) qfTorts (1965) ..;....................................................................................... 16
+Restatement (Second) qfTrusts (1959)
+
+:
+
+16
+
+Restatement (Third) qfRestitution and Unjust Enrichment (tentative draft 2002)
+
+16
+
+V Louis Loss & Joel Siligman, Securities Regulation (3d ed. 2001)
+
+12
+
+-lV-
+
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+
+No. 03-35710
+
+THOMAS R. DREILING, on behalf of
+INFOSPACE, INC.,
+Plaintiff-Appellee,
+v.
+
+NAVEEN JAIN and
+ANURADHA JAIN, husband and wife and their marital community,
+Defendants-Appellants.
+
+On Appeal from the United States District Court
+for the Western District of Washington
+
+BRIEF OF THE
+SECURITIES AND EXCHANGE COMMISSION, AMICUS CURIAE,
+IN SUPPORT OF REVERSAL AND OF POSITIONS THAT FAVOR
+THE DEFENDANTS - APPELLANTS
+
+INTEREST OF THE
+SECURITIES AND EXCHANGE COMMISSION
+The Securities and Exchange Commission, the agenCy responsible for the
+administration and enforcement of the federal securities laws, submits this brief as
+amicus curiae to address important legal issues relating to the "short-swing" trading
+
+provision in Section 16(b) of the Securities Exchange Act of 1934, 15 U.S.c. 78p(b).
+The objective of Section 16(b) is to deter corporate insiders from trading in their
+companies' securities on the basis of inside information to which they have access by
+virtue of their positions. Congress viewed shori-swing trading -- purchases and sales
+occurring within a period of less than six months -- as a type of trading that posed a
+particular risk of misuse of inside information. Therefore, it provided in Section
+16(b) that any profits realized by the insider from such trading shall inure to and be
+recoverable by the issuer. Although Section 16(b) actions are brought only by issuers
+and their shareholders, and not by the Commission, the Commission has an interest
+in assuring that Section 16(b) is properly construed.
+
+INTRODUCTION
+In this shareholder's actionbroughfunderSection 16(b) of the Exchange Act
+on behalf of an issuer against a statutory insider to recover short-swing profits
+allegedly realized from purchases and sales of the company's securities, the district
+court entered a $247,122,712 judgt.nent in favor of the plaintiff ($202,551,696 in
+profits and $44,571,016 in prejudgment interest). The relevant defendants, a
+statutory insider and his wife, are alleged to have taken stock of the issuer from three
+trusts established for the benefit of their children in violation of the terms of the
+trusts and for no consideration. They also are alleged to have sold stock of the issuer
+within six months of their acquisitions from the trusts. The district court held that
+-2-
+
+the defendants' acquisitions, for no consideration, constituted "purchases" under
+Section 16(b). Dreiling v.Kellett,.281 F. Supp. 2d 1215 (W.D. Wash. May 14,2003).
+And because the defendants paid nothing for the stock, the court held that the
+purchase price was zero. Having so found, the court detennined that the profits
+recoverable under Section 16(b) were the total amount of the proceeds from the·
+defendants' sales of the stock. Dreiling v. Jain, 281 F. Supp. 2d 1234 (W.D. Wash..
+Aug. 22,2003).
+In the Commission's view, the district court erred by assigning a purchase
+price of zero for the shares of stock. In so doing, the court failed to recognize that
+when the defendants acquired the shares from the trusts, they simultaneously
+incuriedan offsetting obligation -an obligation to return the shares to the trusts. In
+light of this obligation, any gains due to fluctuation in the value or market price of the
+shares inured to the trusts and not the defendants. To the extent that an insider
+acquires securities subject to an obligation to return them, and in fact performs that
+obligation before a shareholder demand for suit is made, he does not "realize" any
+"profits"within;the meaning ofSection
+
+16(b)~
+
+Even if the Court does not agree that the obligation to return the shares
+eliminated the potential for defendants to realize any profit under Section 16(b),
+defendants should be permitted to deduct from.the proceeds of their sales the market
+value of the shares at the
+
+time of their acquisition.
+-3-
+
+This amount, at a minimum; was~
+
+owed to the trusts and should be imputed as the "purchase price" of defendants'
+shares. Further, if the first alleged acquisition of stock here was a "purchase," and the
+defendants would otherwise be subject to liability for profits under Section 16(b),
+they are entitled to the exemption from Section 16(b) liability provided by
+Commission Rule 16a-9, 17 C.F.R. 240.16a-9, for their later acquisition of stock split
+shares derived from the stock acquired in the first purchase. 1/
+If the Court concurs in the view that defendants did not realize any "profits"
+
+under Section 16(b), it need not address the question whether their acquisitions of
+stock from the trusts were purchases, and we urge it not to reach that issue. Should
+the Court nevertheless determine to address whether the acquisitions were purchases,
+the Court should take into account the potential consequences that its resolution of
+the issue might have under provisions other than Section 16(b). The statutory
+definition of "purchase" (Section 3(a)(13), 15 U.S.c. 78c(a)(13» is applicable to the __
+entire Act, including the antifraud provisions in Section 10(b), 15 U.S.C. 78j(b). The
+Commission is concerned that, if the Court in this Section 16(b) case holds that a
+purchase requires consideration, it may be difficult to limit such a holding to Section
+
+1/
+
+The Commission does not take any position on other legal issues presented by
+the parties, and it takes no position on factual disputes. Nor does the
+Commission; in- expressing legal positions that would result in reversal of the
+judgment obtained by the plaintiff, endorse-the-alleged-conduct ofthe
+defe"ndants in this case or any other matter. The Commission's only interest is
+in the proper construction of the federal securities laws.
+
+-4-
+
+16(b). See Gustafson v. A/loyd Company, Inc., 513 U.S. 561,570 (1995) (holding that the
+term "prospectus" has the same meaning throughout the Securities Act). The
+Conurussion has traditionally taken a broad view of the term "purchase" in the
+context of Section 1O(b) and does not consider the term limited, in that context, to
+situations where consideration is exchanged. Indeed, the Second Circuit has held
+that, for purposes of Section 10(b), a taking of securities for no consideration can
+constitute a purchase. See International Controls Cop. v. Vesco, 490 F.2d 1334, 1343-44
+(2d Cir. 1974).
+
+BACKGROUND
+
+1.
+
+Facts 2./
+
+Thomas R. Dreiling, a shareholder of InfoSpace, Inc. (''InfoSpace''), brought
+this shareholders' action in September, 2001, on behalf of InfoSpace against Naveen
+Jain, a founder and former CEO of InfoSpace, and AnuradhaJain, NaveenJain's
+wife, alleging that they engaged in short-swing trading. J./ Plaintiff seeks recovery of
+short-swing profits on behalf of InfoSpace under Section 16(b) of the Exchange Act.
+
+2./
+
+-These facts are taken from the district court opinions and from record
+materials supporting the faet~ as set forth in the opinions.
+
+J.!
+
+Named as defendants in addition to Mr.. and Mrs. Jain are three trusts
+established by the J ains for the benefit of their children.
+-5-
+
+NaveenJain and his wife established three trusts for tax purposes in mid1998. They are the NaveenJain Grantor Retained Annuity Trost No.1
+("NJGRAT"), the Anuradha Jain GRAT Trost ("AJGRAT"), and the Jain Family
+Irrevocable Trost ("Family Trost"). All three trusts were irrevocable. Declaration of
+NaveenJain in Support ofJain Defendants' Motion for Summary Judgment, Dkt.
+No. 71, Exhs. A, B, and C (1 ER 51,61, 71).1.1 The two GRATs were each initially
+funded with two million shares of InfoSpace stock and the Family Trost was funded
+with one million shares. NaveenJain and his wife received an annual annuity from
+the two GRAT trusts, and the remainder of the trusts' estates were to be paid out to
+their children. Unlike the GRATtrusts, the Family Trost paid no annuity to Mr. and
+Mrs. Jain. AtulJain, Naveen Jain's brother, is the trustee of all three of the trusts and
+is the owner of the trust estates until they are paid out to the children. Dreiling v.
+Kellett, 281 F. Supp. 2d at 1217. See also Dedaration of Naveen Jain, Dkt. No. 71,
+
+Exhs. A, B, & C (1 ER 51,61, 71).
+
+a.
+
+The Alleged Purchases
+
+Plaintiff alleges that the Jains engaged in four separate purchases of InfoSpace
+stock from the trusts that, when matched with sales within six months of the
+
+1/
+
+Where a cited document is located in the Defendants-Appellants Excerpts of
+Record, _ ER _ refers to the volume and page number of the Excerpts of
+Record. In all cases, the civil docket number, the name of the document, and
+page numbers are supplied.
+-6-
+
+purchases, subject them to liability for short-swing profits under Section 16(b). The
+first purchase is alleged to have occurred in December 1998 when Naveen Jain
+allegedly took one million shares· of InfoSpace stock from the NJG RAT Trust and
+placed it in escrow to satisfy a personal indemnity obligation. Specifically, as
+InfoSpace was preparing its initial public offering in late 1998, the board of directors
+learned that N aveen Jain might have incurred liability for InfoSpace through options
+grants and disputes arising out of commercial contracts. Accordingly, the board
+required him to personally indemnify InfoSpace for potential claims against the
+company by placing one million shares in escrow, with InfoSpace as the escrow
+agent. 281 F. Supp. 2d at 1217.
+On December 11, 1998, Naveen Jain executed an agreement with InfoSpace to
+establish the escrow. Declaration of Richard Spoonemore ("Spoonemore Decl."),
+Dkt. No. 83, Exh. 25 at 2-3 (2 ER 378-79). The law firm of PerkinsCoie, attorneys
+for InfoSpace, drafted an amendment to the IPO registration statement stating that
+NaveenJain had placed one million shares of common stock, previously held by the
+NJGRATTmst~ in
+
+escrow, with Naveen Jain retaining voting control over those
+
+shares. Dreilingv. Kellett;·281F:Supp-:-2dat1217.. See, e.g., Spoonemore Decl., Dkt.
+No. 83, Exh. 25 at 2-3 (2 ER 378-79). This amendment was filed with the
+Commission.
+
+See,e~g.,
+
+Spoonemore Decl., Dkt. No. 83, Exh. 25 at 1 (2 ER 378)..
+
+-7-
+
+Over the period of a year, NaveenJain signed, or authorized his attorney in
+fact to sign, several filings with the Commission stating that he had placed the
+NJGRAT shares in escrow. Dreiling, 281 F. Supp. 2d at 1218. See also Spoonemore
+Declaration, Dkt. No. 83, Exhs. 25-39 (2 ER 361-89). After one year passed with no
+actions being brought against InfoSpace, Naveen Jain asked that. the stock in escrow
+be released.- The board complied with his request in early 2000. 281 F. Supp.2d at
+1218. Previously, the shares had been inadvertendy returned to the NJGRAT Trust
+in connection with the exchange of pre-IPO stock certificates for post-IPO
+certificates. Plaintiffs Motion for Summary Judgement and Response to Defendants
+Motion for Summary Judgment (''Plaintiffs Response''), Dkt. No. 82 at 11.
+The remaining three alleged purchases occurred in May 1999 when Mr. and
+Mrs. Jain deposited shares owned by the trUsts into their personal brokerage account.
+Specifically, at that time InfoSpace stock underwent a two-for-one stock split.
+Pursuant to the split, InfoSpace issued new stock certificates representing the new
+shares and sent them to its shareholders. The split shares were sent to th~ Jains,
+either at InfoSpace~s-offices-or-attheir-homeAlthough the certificates were marked
+as belonging to the trusts, Plaintiffs Response, Dkt 82, Exhs. 58,61, and the
+accounts for the trusts were maintained at Bane ofAmerica Securities, the J ains sent
+the shares to their personal trading account at Hambrecht & Quist ("H&Q''). 28-1 F.
+Supp. 2d at 1218; Defendants Consolidated Response to Plaintiffs Cross Motion for
+
+-8-
+
+Summary Judgment ("Defendants' Response''), Dkt. No. 92 at 3-4.
+After receiving the shares, H&Q sent N aveen Jain a draft letter of
+authorization that purported to make a gift of the NJGRAT shares to him from the
+trust. NaveenJain completed the fonn and returned it toH&Q. Similarly, Naveen
+Jain's wife provided a letter of authorization purporting to gift the AJGRAT split
+shares to her. Plaintiffs Response, Dkt. No. -82 at 14; Spoonemore Decl., Dkt. No.
+83, Exh. 1 at 124; Exh. 58 at NJOOl181; Exh. 59 at NJ001376 (2 ER 477,483). The
+GRAT split shares were then deposited into the Jains' personal account. 281 F.
+Supp. 2d at 1218; Plaintiff's Response, Dkt. 82 at 14. 5./
+As a result of these alleged purchases, tlu:ee deposits of InfoSpace stock were
+made in an account designated as the J ains' pe:i:sonal trading account at H&Q: two
+deposits of 999,236 shares (the NJGRAT and AJGRAT shares reregistered in the
+names of the Jains) and one deposit of500,000 shares belonging to the Family Trost.
+Spoonemore Decl., Dkt. No. 83, Exh. 63 at NJOOl448 (2 ER 401). fJ./ The Jains held
+these shares, and voted them, until 2000 ':Vhen the Jains assert that a "transfer error"
+
+5./
+
+The Family Trost split shares were deposited in the Jains' account without a
+
+gift letter being required. 281 F. Supp. 2d at 1218; Plaintiff's Response-at13.
+
+fJ./
+
+The record indicates that the trustee' of the trusts, Atul Jain, was apparently~'
+unaware of the alleged taking of the trusts' shares by the Jains.. Spoonemore
+Decl., Dkt. No. 83, Exh. 3 at 79,85.
+-9-
+
+was discovered. II The Family Trost shares were then reconveyed in May 2000. 281
+F. Supp. 2d at 121R Following an internal investigation, the split shares belonging to
+the two GRAT trusts were retunied to these trusts in December 2000 Cid.).
+
+b.
+
+~I
+
+The Sales
+
+There is no dispute regarding the Jains' sales of InfoSpace stock. On April 6,
+1999, the J ains sold 1,000,000 shares of InfoSpace stock, receiving $85,600,000. On
+April 12, 1999, they sold 210,000 shares for $17,955,000. And on May 13, 1999, they
+sold 1,800,000 shares for $98,966,696. There is no dispute that each sale occurred
+within six months of the alleged December 1998 purchase or one of the subsequent
+three alleged May 1999 purchases. '281 F. Supp. 2d at 1237.
+
+II
+
+A paralegal at InfoSpace, who was responsibie for tracking share's, testified that
+she first noticed the discrepancy in the Jains; account. Spoonemore Decl., ,
+Dkt. No. 83, Exh. 6 at 14-15. NaveenJain contends, however, that he
+requested that InfoSpace undertake an internal investigation that identified a
+transfer error. 281 F. Supp. 2d at 1218; Defendants Consolidated Response,
+Okt. No. 92 at 3-4.
+
+~I
+
+While 2,000,000 InfoSpace shares were initially deposited in each of the GRAT
+trusts and 1,000,000 were initially deposited in the Family Trost, the number of
+split shares derived from the shares held by the ttusts-as-theresult-ofthe May
+1999 two,. fon-one s_toclLsplit:was app:roximately:-halE the:s-hares::itUtially
+deposited in each trust. This discrepancy is the result of a reverse, ope-fortwo, stock split that took place in August 1998. Thus, at the time.ofilie_flrst
+alleged purchase in December1998, each trust held approxiiriately one half of
+,the number ofInfoSpace shares initially deposited in the trost.,EI~:tiffs
+Response, Dkt. No. 82 at 13, n.2. ,'-10-
+
+2.
+
+Decision of the District Court
+
+The defendants moved for swnmary judgment, and the plaintiff responded
+with a cross-motion for summary judgment. The district court issued a decision
+denying the Jains' motion for summary judgment and granting the plaintiffs crossmotion. Dreiling v. Kellett, 281 F. Supp. 2d 1215 (W.D. Wash. May 14, 2003). The court
+held that the defendants' acquisitions of the stock constituted purchases for purposes
+of Section 16(b). See 281 F. Supp. 2d at 1222.
+. Having received a favorable ruling on his cross motion for summary judgment,
+the plaintiff moved for judgment as to the amount of profits to be recovered from
+the Jains. In its decision granting plaintiffs motion, Dreiling v. Jain, 281 F. Supp. 2d 1234
+(W.D. Wash. Aug. 22, 2003), the court wrote that "[c]alculating the profit in this case is
+straightforward" because "[t]he Jains paid nothing for shares that were transferred,
+and therefore their purchase price is $0." 281 F. Supp. 2d at 1239. The Jains were
+therefore held liable for the full amount of the $202,551,696 in proceeds from their
+April and May 1999 sales_ The_CQU!t.-awarded prejudgment interest of $44,571,016
+for a total judgment of$247,122,712.id. at 1242,
+
+-11-
+
+DISCUSSION
+I.
+
+IN CALCULATING PROFITS THE DISTRICT COURT
+IMPROPERLY DISREGARDED THE OFFSETTING OBLIGATION
+INCURRED BY THE DEFENDANTS TO RETURN THE SHARES
+OR, AT A MINIMUM, TO PAY TO THE TRUSTS THE MARKET
+VALUE OF THE SHARES AT THE TIME OF ACQUISITION.
+When the J ains took the shares from the trusts, they did not take them free and
+
+clear. They incurred offsetting obligations to the trusts - - obligations that affect
+whether they made a profit and, if S'O, how much. These offsetting obligations are
+important in this case because Section 16(b) isa profits-based provision. It does not
+declare conduct unlawful; it is a strict liability provision that allows recovery only if
+the insider receives profits. 2/ In the case of a routine purchase, the calculation of
+profits simply involves subtracting the agreed-upon purchase price from the agreedupon sales price, and the purchase price in this regard is the amount paid to buy the
+shares. The Jains' acquisitions of stock, however, were not routine; there was no
+agreed-upon price that they paid. This does not mean, as the district court
+. concluded, that the Jains' profits should be calculated based on a "purchase price" of
+zero. Rather, the profits determination must reflect that the purchase price was the
+amount of the offsetting obligation that the Jains incurred. By disregarding that
+obligation and using a zero purchase price, the district court departed from the
+
+2/
+
+See V Louis Loss &JoelSeligman, Securities Regulation 2345 n.28 (3d ed. 2001).
+-12-
+
+profits-based nature of Section 16(b). 10/
+Thus, in detennining whether the J alnS realized profits, it is necessary to take
+into account their offsetting obligation to return the shares to the trusts. Where a .
+defendant incurs an obligation to return the securities that he has acquired, he cannot
+realize any profits: any profits inure to the person from whom the securities were
+acquired and not to the defendant. Because of the Jains' obligation to return the
+shares to the trusts, the trusts effectively remained the beneficial owners of the
+securities, even after the Jains acquired possession of them, and any benefits resulting
+from fluctuations in the value of the securities were realized by the trusts and not by
+the Jains.
+The sitqation involved here is analogous to a loan of securities. Bona fide
+pledges and loans of securities have longbeen regarded as being beyond the scope of
+Section 16(b} because, as here, there is no change in beneficial ownership. See
+Interpretative Release on Rules Applicable to Insider Reporting and Trading, Exchange Act
+Release No. 18114,23 S.E.C. Docket 856, 1981 WI. 31301 at *61 n.64 (September
+•. 24,1981). See also Log On America v. Promethean Asset Management LLC, 223 F. Supp.
+2d 435, 449-50 (S.D.N.Y. 2001) (sales cannot be matehed·withsha£esb(}rIowedto
+
+10/
+
+As discussed, infra pp.16-17, the insider should not be allowed to assert an··
+offsetting obligation in this context unless he both had, and has satisfie<i,the
+obligation.
+-- .
+-13-
+
+cover short sales).
+Because Section 16(b) is a strict liability provision that looks only to
+defendants' "profits," failure to consider the lack of ariy change in beneficial
+ownership can produce inappropriately harsh results. For example, consider an
+insider who has held shares for several years. On January 1, the.insider sells the
+shares; one month later, on February 1, he acquires shares from a trust as the J ains
+did; and he returns the shares tothe trust one week later. It should be apparent that
+the insider has realized no short-swing profit. Yet under the district, court's holding,
+he would be liable for the full amount of the proceeds of his sale. 11/
+Ignoring the offsetting obligation incurred by the Jains to the trusts, and
+making the J ains liable for the full amount of the proceeds of their sales, is contrary
+to Section 16(b)'s objective to recover shorl-swingprofits. Under Section 16(b)
+
+~n
+
+issuer is entided to recover profits made by a statutory insider from purchases. and
+sales of the issuer's securities, but only within a period of less than six months. The
+provision was not intended to recover long-term increments in the value of the
+security. -In reviewing the abuses that gave rise to the enactment of Section 16(b), the
+Commission stated in 1950:
+
+11/ Under Section 16(b), the insider is liable irrespective of which transaction -the purchase or the sale - - occurs first.
+
+-14-
+
+'
+
+The legislative history makes clear a basic purpose to deter
+manipulative activity and abuse of inside information by
+insiders. This purpose must of course be related to the
+discrimination section 16(b} makes between long term
+investment and short-swing speculation. * * * Congress
+evidently did not intend to discourage those who manage
+and control a company from having an investment stake in
+it * * *.
+Statement Upon Rule X-16b-6, Exchange Act Release'No. 4509 (Oct. 30, 1950) (quotedin
+Kornfeld v. Eaton, 217 F. Supp. 671,676-677 (S.D.N.Y. 1963), aJfd, 327 F.2d 263 (2d
+
+Cir. 1964». The district court's use of a zero purchase price impermissibly results in
+recovery of any long-term increment in the value of the shares. Indeed, the district
+court's judgment provides recovery of all gains in the value of the InfoSpace
+securities occurring since the inception of the company.
+Even if the Court does not agree that the obligation to return the shares
+eliminated the potential for defendants to realize any profit under Section 16(b),
+defendants should be permitted to deduct from the proceeds of their sales the market
+value of the shares at the time of their acquisition. This amount, at a minimum) was
+owed to the trusts: Imputing the value of the securities at the time of acquisition as
+the purchase price is supported by the use of a similar method in another context
+under Section 16(b). Rule 16b-6(c) requires looking to the price of the underlying
+securities on the purchase and sale dates to calculate sho,rt-swing profits made on
+transactions involving certain-derivative-securities: In addressing, that calculation, the
+
+-15-
+
+Commission said that "the maximum short-swing profit recovery is the difference in
+market value of the underlying security between the date of the purchase and the date
+of sale." Ownership Reports and Trading by Officers, Directors and Principal Security Holders,
+Exchange Act Release No. 28869, 56 Fed. Reg. 7242, 7254,1991 WL 311110, at
+*7254 (Feb. 21, 1991).
+The burden should be upon the insider to establish the existence and amount
+of any offsetting obligation arising from his acquisition of the securities. 12/
+
+12/
+
+Sources for such an obligation include common law principles of trusts, torts,
+and unjust enrichment. See, e.g., Restatement (Second) ofTrusts §291 (1959);
+Restatement (Second) ofTorts §222A (1965); Restatement (Third) ofRestitution and
+Unjust Enrichment, § 1 (tentative draft 2002). As applied to this case, for
+example, "[a] basic rule of equity is 'that one should not be unjusdy enriched at
+the expense of another.'" Bonneville PowerAdministration v. Washington Public
+PowerSupp!y System, 956 F.2d 1497, 1505 (9th Cit:. 1992) (quoting l.:Jnch v.
+Deaconess Medical CIT., 776 P.2d 681, 683 (Wash. App. 1989)). "A person who is
+unjusdy enriched at the expense of another is liable in restitution to the other."
+Restatement (Third) ofI,Vstitution and U'!iust Enrichment §1.
+Property may not be transferred from a trust in violation of the terms of the
+trust. See, e.g., In re Eustace' Estate, 87 P.2d 305, 307 (Wash. 1939). Whether the
+defendant acted intentionally or, as the Jains claim here, innocendy, may not
+make a difference under principles of unjustenrichrnent. A duty to provide
+restitution can arise from even an "innocent conversion" of property, see
+Restatement (First) ofRestitution, §154 (1937), and a "constructive trust may arise
+even though acquisition of the property was not wrongful." Srymanski v.
+Dtifault, 491 P.2d 1050, 1057 (Wash. 1972) (citing Restatement (First) ofRestitution,
+§160). See also Omerv. Omer, 523 P.2d 957, 961 (Wash. App. 1974) (affirming
+imposition of a constructive trust where there was no finding of fraud, .
+misrepresentation, or overreaching). Thus under the law of unjust enrichment
+the Jains incurred an obligation to returri the securities or, at a minimum, theit:
+fait: mat:k~t value at the time of their acquisition from the trusts.. See Restatement
+-16-
+
+Moreover, in the absence of a contract evidencing the acquisition of the securities (as
+in a bona fide loan), special care must be taken not to allow the insider to make a
+spurious claim that he incurred an offsetting obligation to the person from whom he
+acquired the securities. In order to ensure that he in fact incurred the requisite
+obligation (here, to return the shares or to pay the market value at the time of
+acquisition), and also to ensure that he retains no profits, the Conimission believes
+that the insider should not be allowed to assert an offsetting non-contractual
+obligation except where he not only had, but also has satisfied, that obligation. In
+addition, in order to further ensure that the insider understood and fully appreciated
+the obligation, satisfaction of the obligation ordinarily must take place prior to a
+Section 16(b) demand for suit being made upon the issuer by a shareholder or, in the
+absence of demand, prior to the filing of the complaint. 13/
+
+(First)ofRestitution§154 and §160.
+13/
+
+Here the securities allegedly acquired by the Jains were returned to the trusts in
+2000. No demand upon the issuer was made prior to the filing of the initial
+complaint in September 2001 on the ground that a demand would be futile.
+Complaint, Dkt. No. 1 at 3. Subsequendy, plaintiff made an unsuccessful .
+demand upon the issuer in October 2001. First Amended Complaint, Dkt.
+No.6 at 4 (1 ER 4). Plaintiffs First Amended Complaint was then filed in
+Decemher 2001. Dkt. No; 6 at 1 (1· ER 1):
+-17.:;
+
+II.
+
+IF NAVEEN JAIN'S ACQUISITION OF THE ESCROW SHARES IS
+DETERMINED TO BE A "PURCHASE" BY HIM., HE IS
+ENTITLED TO THE EXEMPTION IN RULE 16a-9 FOR HIS
+SUBSEQUENT ACQUISITION OF STOCK SPLIT SHARES
+DERIVED FROM THE ESCROW SHARES.
+Should the court detennine that the alleged transfer of InfoSpace stock from
+
+the NJGRAT Trust into escrow constitutes a purchase by NaveenJain for purposes
+of Section 16(b), he is then entitled to an exemption from Section 16(b) liability for
+his later acquisition of the stock split shares derived from the escrowed stock. Rule
+16a-9(a), 17 C.P.R. 240.16a-9(a), provides an exemption from Section 16 for "[t]he
+increase or decrease in the number of securities held as a result of a stock split * * *
+applying equally to all securities of a class * * * ." In adopting Rule 16a-9, the
+Commission reasoned that acquisition of additional securities through stock splits
+should be exempt because "these are non-discretionary transactions, and do not
+present the opportunity for abuse intended to be addressed by section 16." Ownership
+Rpotts, 56 Fed: Reg. 7242, 7259, 1991 WL 311110, at *7259.
+
+In December 1998, InfoSpace stock from the NJGRATTrust was alleged to
+have been placed in escrow. On May 5, 1999, InfoSpaceundertooka two-far-one
+stock split. Accordingly, if the alleged transfer of stock from the NJGRAT Trust into
+escrow is deemed. a purchase. by N aveen Jain, the Jains held those shares at the time
+they acquired the split shares derived from them in May 1999. Therefore, the
+acquisition of the stock split shares derived from the escrowed NJGRAT shares, and
+-18-
+
+deposited in the Jains' H&Q account, would be exempted from Section 16 by Rule
+16a-9. 14/ The Jains should not be held liable for any profits attributable to the sale
+of shares matched with this acquisition.
+
+14/
+
+This exemption is inapplicable to the AJGRAT split shares or the Family Trost
+split shares because the InfoSpace stock from which they were derived was
+held by the trusts and.notbytheJains at the time theJains acquired those split
+shares..
+-19-
+
+CONCLUSION
+The judgment of the district court should be reversed because, whether or not
+there was a purchase for purposes of Section 16(b), the defendants realized no profits
+recoverable under that provision; because recovery should, in any event, be restricted
+.to the difference between the market value of the shares at the time of their
+acquisition and the proceeds from the defendants' sales of the issuer's stock; and
+because the acquisition of stock split shares by the defendants attributable to stock
+allegedly transferred into escrow is exempt under Rule 16a-9.
+Respectfully submitted,
+
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Soli'
+(J ~
+
+A.CA~
+
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+Washington, D.C. 20549-0606
+(202) 942-0837 (Capute)
+March 2004
+
+-20-
+
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+
+No. 03-35710
+
+THOMAS R. DREILING, on behalf of
+INFOSPACE, INC.,
+Plaintiff-Appellee,
+v.
+
+NAVEEN JAIN and
+ANURADHAJAIN, husband and wife and their marital community,
+Defendants-Appellants.
+
+CERTIFICATE OF SERVICE
+
+I, Allan A. Capute, am a member of the bars of Maryland and the District of
+Columbia, and I hereby certify that on the 1st day of March 2004, I caused to be served
+two copies of the Brief of the Securities and Exchange Commission, Amicus Curiae, in Support
+ofReversal and ofPositions that Favor the Defendants-Appellees by overnight Federal Express
+to:
+Counsel for Plaintiff Thomas R. Dreiling
+Richard E. Spoonemore
+Jonathan P. Meier
+Stephen J. Sirianni
+Sirianni Youtz Meier & Spoonemore
+719 Second Avenue
+1100 Millennium Tower
+Seattle, WA 98104
+Telephone: (206) 223-0303
+Facsimile: (206)' 223-0246
+
+Counsel for Special Litigation Committee ofthe Board of Directors of InfoSpace.
+Inc.
+Kevin Paulich
+Wolfstone Panchot & Block
+801 2nd Avenue, Suite 1500
+Seattle, WA 98104
+Telephone: (206) 682-3840
+Facsimile: (206) 340-8837
+John C. Tang
+Latham & Watkins
+135.Commonwealth Drive
+. Menlo Park, CA 94025
+Telephone: (650) 328-4600
+Facsimile: (650) 463-2600
+Counsel for Tain Trusts
+
+-
+
+William E. Beaver, Jr.
+Karr Tuttle Campbell
+1201 Third Avenue, Suite 2900
+Seattle, WA 98101-3028
+Telephone: (206) 223-1313
+Facsimile: (206) 682-7100
+Counsel for Defendants NaveenJain and AnuradhaJain
+Arthur W. Harrigan, Jr.
+Timothy G. Leyh
+Danielson Harrigan Leyh & Tollefson LLP
+999 Third Avenue, Suite 4400
+Seattle,WA 98104.
+Telephone: (206) 623-1700
+Facsimile: (206) 623-8717
+
+-2-
+
+William A. Norris
+Edward P. Lazarus
+Ann Alpers
+Sandra M. Lee
+Akin Gump Straus Hauer & Field
+2029 Century Park East, Suite 2400
+Los Angeles, CA 90067
+Telephone: (310) 229-1000
+Facsimile: (310) 229-1001
+Allan A. Capute
+Securities and Exchange COnuIDssion
+450 Fifth Street, N.W.
+Washington, D.C. 20549-0606
+(202) 942-0837
+
+-3-
+
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+
+No. 03-35710
+
+THOMAS R. DREILING, on behalf of
+INFOSPACE, INC.,
+Plaintiff-Appellee,
+v.
+
+NAVEEN JAIN and
+ANURADHA JAIN, husband and wife and their marital community,
+Defendants-Appellants.
+
+On Appeal from the United States District Court
+for the Western District of Washington
+
+CERTIFICATE OF COMPLIANCE WITH
+FED. R. APP. P. 32(a) (7) (C) AND CIRCUIT RULE 32-1
+
+°
+
+I hereby certify that pursua~t to Fed. R App. P. 32(a)(7)(C) and Ninth Circuit
+Rule 32-1, the attached Brief ofthe Securities and Exchange CommissionrAmicusCuriae,-oin
+Support of Reversal and ofPositions that Favor the Defendants-Appellants is proportionally
+spaced, has a typeface of 14 points, and contains 4777 words.
+
+~~
+
+.Jman A. Capute
+Securities.and Exchatlge Commission
+450 Fifth Street, N.W.
+Washington, D.C. 20549-0606
+(202) 942-0837°
+
+°
+
+

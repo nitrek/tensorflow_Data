@@ -1,0 +1,1818 @@
+Available online at
+http://www.anpad.org.br/bar
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2,
+pp. 395-420, Oct./Dec. 2012
+
+Human Resources Management Policies and Practices Scale
+(HRMPPS): Exploratory and Confirmatory Factor Analysis
+
+Gisela Demo *
+E-mail address: giselademo@gmail.com
+UCLA Anderson School of Management - University of California
+Los Angeles, USA.
+Elaine Rabelo Neiva
+E-mail address: elaine_neiva@uol.com.br
+Universidade de Brasília - UnB
+Brasília, DF, Brazil.
+Iara Nunes
+E-mail address: iara.nunes.iara@gmail.com
+Universidade de Brasília - UnB
+Brasília, DF, Brazil.
+Kesia Rozzett
+E-mail address: kesiaro@gmail.com
+Universidade de Brasília - UnB
+Brasília, DF, Brazil.
+
+* Corresponding author: Gisela Demo
+UnB - Departamento de Administração, Campus Universitário Darcy Ribeiro, ICC Ala Norte, Bloco B - 1°
+Andar, Sala 576, Brasília, DF, 70910-900, Brazil.
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+396
+
+Abstract
+Given the strategic relevance of Human Resources Management (HRM) in organizations and the lack of
+scientific instruments to measure employees’ perceptions about policies and practices of HRM, this study aimed
+to validate the Human Resources Management Policies and Practices Scale (HRMPPS) through exploratory and
+confirmatory factor analysis using the maximum likelihood method. The study has a quantitative design, but also
+included qualitative analysis required for the development of a scale. Employees from various organizations
+composed a sample of 632 people. Scale reliability was assessed by Cronbach’s alpha and Jöreskog’s rho. A sixfactor model was generated showing high-reliability and good fit. Construct validity was provided through
+convergent and discriminant analyses. The factors were consistent with the literature review and explained about
+58% of the construct’s total variance. This study contributes to the scientific production in the area of Human
+Resources Management since HRMPPS can be used not only in relational studies but also as an evaluation
+instrument by managers who wish to improve their employees’ well-being as well as organizational outcomes.
+Key words: human resources policies; exploratory factor analysis; confirmatory factor analysis; structural
+equation modeling.
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+397
+
+Introduction
+
+Given the strategic relevance of Human Resources Management (HRM) in organizations and
+the lack of scientific instruments to measure employees’ perceptions about policies and practices of
+HRM, the objective of this study is to develop and validate a Human Resource Management Policies
+and Practices Scale, called HRMPPS.
+According to Huselid (1995), work on the measurement of HRM policies and practices is
+extremely limited and this is still true today. Besides some indexes of HRM practices identified by
+advocates of the high commitment approach (Guest, 1998; Pfeffer, 2005), the only scales found in the
+literature were the High-Performance Work Practices developed and validated by Huselid (1995), with
+13 items and a .67 Cronbach’s alpha, and the Perception of Personnel Management Policies Scale
+(PPMPS), developed and validated by Demo (2008), with 19 items distributed across 4 factors and
+presenting Cronbach’s alpha above .70.
+The PPMPS includes only four HRM policies: involvement; training, development and
+education; work conditions; and compensation and rewards. Considering the shortage of scientific
+validated scales to measure employee’s perceptions about HRM policies, the PPMPS is a good option
+to be used so far (e.g. Rubino, Demo, & Traldi, 2011). However comprehensive instruments with
+higher reliability for measuring HRM policies and practices are demanded.
+Thereafter, this paper attempted to answer the following question: is it possible to develop and
+validate a comprehensive and highly-reliable scale, validated through both exploratory and
+confirmatory factor analysis?
+The HRMPPS presented here sought to improve the completeness and the scope of the previous
+scales validated in the literature by adding policies for recruitment and selection, competency-based
+performance appraisal, also often cited by classic authors of the area, such as Bohlander and Snell
+(2009), Dessler (2002), Guest (1987), Sisson (1994) and Storey (1995).
+Furthermore, if the HRMPPS presents good psychometric parameters, remaining stable in other
+samples, it would be a reliable and more comprehensive instrument than the existing ones for use in
+relational studies in the Human Resources, Management and Organizations fields. Additionally, it can
+be used in managerial practice as well, as a diagnosis to improve employee’s well-being at work and
+optimize organizational results.
+First, a literature review is presented about human resources management, its strategic role in
+organizations, and human resources management policies, including their constitutive definitions. The
+methods used are then described, detailing the procedures to develop the scale, the exploratory
+validation, the validation in a different sample in order to test the scale generalizability and the
+confirmatory factor validation through structural equation modeling. Construct validity is provided
+through convergent and discriminant analysis. Finally, the results are presented and discussed and
+conclusions are made, focusing on the study contributions and proposal of a research agenda.
+
+Theoretical Background
+Many authors understand HRM’s current role in the organizations as being strategic. One of the
+distinctive features of HRM is that better performance is achieved through the people in the
+organization (AlDamoe, Yazam, & Ahmid, 2012). Ulrich, Halbrook, Meder, Stuchlik, and Thorpe
+(1991) stated that the competitive panorama is constantly being changed and has been demanding new
+models of competitiveness which in turn require organizational capacities that will enable the
+companies to better serve their customers and distinguish them from their competitors. These
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+398
+
+organizational capacities come from the redefinition and redistribution of HRM practices, functions
+and professionals.
+By summarizing what authors such as Guest (1987), Storey (1995), Legge (2006) and
+Bohlander and Snell (2009) say, it is possible to observe that people have been assuming a strategic
+and relevant role in organizations, and therefore cohesive and coherent theories - aligned to both
+planning and organizational strategy - must properly sustain HRM.
+In this meaning, HRM policies and practices may vary among organizations and should be
+aligned with business strategy (Chênevert & Tremblay, 2009). Boxall and Purcell (2000) add that the
+effects of individual HRM practices depend on both the nature of the effects of other HRM practices
+and the business strategy. Also, Lim (2012) argues that external business environment has a strong
+influence on HRM activities.
+From the perspective of Strategic HRM, policies and practices can be mutually reinforced and
+create a strong impact on organizational goals (Morris & Snell, 2010). Moreover, HRM policies are
+guided by the logic of skills developed in accordance to the requirements of business processes
+(Serpell & Ferrada, 2007). Thus, they provide tools to capture and communicate the strategic vision
+and objectives of the organization in clear terms that can be more easily understood and requested
+(Vakola, Soderquist, & Pratascos, 2007).
+Within this context, the development of scales that allow an estimation of the perception of
+HRM policies aims to identify to what extent they are applicable to various organizations and aligned
+with an organization’s strategy. In addition, a scale can translate how HRM policies are associated
+with business strategy, because only then can they be effective (Legge, 2006).
+HRM must also not be relegated to a traditional supporting role anymore, but instead must
+constitute an essential competence in reaching the organizational and individual objectives and results,
+since human resources are valuable and constitute a source of competitive advantage. Uysal (2012)
+indeed found strong, positive and significant correlations among the main HRM policies cited in the
+literature, such as staffing, training, performance evaluation and compensation. These results are
+important for understanding the inter-relationships between HRM practices in order to enhance the
+effect HR systems have on employee-based organizational outcomes.
+In this context, organizations have turned to the perspective of creating competitive advantage.
+Consequently, themes related to the areas of organizational strategy and theory converge, spawning
+comprehensive implications for HRM and putting its primary function under discussion. According to
+the Resourced Based View by Barney (1991), the creation of competitive advantage depends on
+prerequisites that may be closely related to the HRM area, since resources must be valuable and rare to
+the organization, may never be imitated or replaced, and the organization must be able to exploit them.
+Beauvallet and Houy (2010) support that the key mechanism and decisive variable that would justify
+the competitive advantages of companies alleged as being lean enterprises, or the ones practicing a
+lean management, are directly related to HRM.
+The term organizational policy can be defined as: principles established for leading a company,
+a general course of action in which some practices are developed collectively, in a constructive way,
+aiming to reach certain objectives (Singar & Ramsden, 1972). HRM policies define the attitude,
+expectations and values of the organization concerning how individuals are treated, and still serve as
+point of reference for the development of organizational practices and for decisions made by people,
+besides resulting in equal treatment among individuals (Armstrong, 2009).
+In this study the term HRM policy means an organizationally articulated proposal, with
+theoretical and practical constructions within human relations aiming to reach the desired results.
+Thereby, HRM policies define theoretical and practical referential built to make possible the reaching
+of an organization’s objectives and purposes, operating as thinking and acting guides for the HRM
+area.
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+399
+
+Some research results have pointed out positives relationships between HRM policies and
+variables like commitment, productivity, profitability and quality, among others (Guest, 1987;
+Schneider & Bowen, 1985; Ulrich, Halbrook, Meder, Stuchlik, & Thorpe, 1991). In the meta-analysis
+performed, Combs, Liu, Hall, and Ketchen (2006), found that relationships between Human Resources
+practices and organizational outcomes are stronger in manufacturing companies than in service
+companies.
+Studies have also been conducted in cultures other than the American and European ones.
+Majumder (2012) verified strong relationships between HRM practices and employee satisfaction in
+Bangladeshi private banks, and Kim and Lee (2012) found evidence that HRM policies and practices
+improve strategic capabilities and firm performance in management consultant firms in South Korea.
+The study by Demo (2010) showed positive and strong relationship between HRM policies and
+organizational justice in both private and public Brazilian organizations.
+Similarly, other researches have shown that HRM policies and practices favorably affect
+organizational performance (Boselie, Dietz, & Boon, 2005; Menezes, Wood, & Geladi, 2010;
+Subramony, 2009). Guest and Conway (2011) confirmed the association between both more HRM
+practices and higher HR effectiveness and a range of performance outcomes.
+Besides, ALDamoe, Yazam and Ahmid (2012) concluded that employee retention is likely to
+mediate in the relationship between HRM practices and organizational performance. Employee
+perceptions of HRM policies and practices also influence discretionary work effort and co-worker
+assistance (Frenkel, Restubog, & Bednall, 2012). On the other hand, the effectiveness and acceptance
+of HRM policies are related to organizational values and culture (Stone, Stone-Romero, &
+Lukaszewski, 2007).
+There is indeed a consensus that HRM practices produce higher organizational performance
+when integrated into business strategy (Ezzamel, Lilley, & Willmott, 1996; Guest & Hoque, 1994).
+This is also true for small firms. The study conducted by Katou (2012) showed that HRM policies
+have a positive effect on organizational performance through employee attitudes (satisfaction,
+commitment, motivation) and employee behaviors (absences, turnover, disputes).
+In summary, HRM policies assume special connotation in development, appreciation and
+retention of talents. They also promote employee commitment and, as a result, goodwill on their part
+to act in a flexible and adaptive manner towards excellence in organizations (Legge, 2006). An
+entrepreneurial strategy aiming at production and supply of added-value products and services must
+concern the development and the implementation of HRM policies resulting in well-qualified
+employees (Legge, 2006).
+Table 1 summarizes the selected policies as well as constitutive definitions elaborated from the
+literature review. The main authors who were reviewed in the development of the theoretical
+background for each HRM policy are pointed out.
+Table 1
+Constitutive Definitions of HRM Policies and Their Theoretical Backgrounds
+HRM Policy
+
+Constitutive Definition and Authors Reviewed
+
+Recruitment
+and Selection
+(RS)
+
+Organizationally articulated proposal, with theoretical and practical constructions, to look for
+employees, encourage them to apply, and select them, aiming to harmonize people’s values,
+interests, expectations and competences with the characteristics and demands of the position
+and the organization.
+Authors reviewed: Armstrong (2009); Bohlander and Snell (2009); Dessler (2002); Lievens and
+Chapman (2010); Mathis and Jackson (2003).
+Continues
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+400
+
+Table 1 (continued)
+HRM Policy
+
+Constitutive Definition and Authors Reviewed
+
+Involvement
+(I)
+
+Organizationally articulated proposal, with theoretical and practical constructions, to create an
+affective bond with its employees, contributing to their well-being at work, in terms of
+acknowledgement, relationship, participation and communication.
+Authors reviewed: Bohlander and Snell (2009); Dessler (2002); Dietz, Wilkinson and Redman
+(2010); Mathis and Jackson (2003); Muckinsky (2004); Sisson (1994); Ulrich et al. (1991);
+Siqueira (2008).
+
+Training,
+Development
+& Education
+(TD&E)
+
+Organizationally articulated proposal, with theoretical and practical constructions, to provide for
+employees' systematic competence acquisition and to stimulate continuous learning and
+knowledge production.
+Authors reviewed: Bohlander and Snell (2009); Borges-Andrade, Abbad and Mourão (2006);
+Dessler (2002); Dutra (2001); Goldstein (1996); Sisson (1994); Winterton (2007).
+
+Work
+Conditions
+(WC)
+
+Organizationally articulated proposal, with theoretical and practical constructions, to provide
+employees with good work conditions in terms of benefits, health, safety and technology.
+Authors reviewed: Bohlander and Snell (2009); Dessler (2002); Loudoun and Johnstone (2010);
+Mathis and Jackson (2003); Osborn, Hunt and Schermerhorn (1998); Sisson (1994); Ulrich
+(2001).
+
+CompetencyBased
+Performance
+Appraisal
+(CBPA)
+
+Organizationally articulated proposal, with theoretical and practical constructions, to evaluate
+employee’s performance and competence, supporting decisions about promotions, career
+planning and development.
+Authors reviewed: Bohlander and Snell (2009); Dessler (2002); Devanna, Fombrun and Tichy
+(1984); Dutra (2001); Latham, Sulsky and Macdonald (2007); Mathis and Jackson (2003).
+
+Compensation Organizationally articulated proposal, with theoretical and practical constructions, to reward
+and Rewards employees’ performance and competence via remuneration and incentives.
+(CR)
+Authors reviewed: Bohlander and Snell (2009); Dessler (2002); Devanna et al. (1984); Dutra
+(2001); Gerhart (2010); Hipólito (2001); Sisson (1994).
+
+Methods
+
+Scale development
+As set by Pasquali (2008), and Kerlinger and Lee (2008), the development of a scale includes
+qualitative analysis. First of all, interviews are required for the definition of critical incidents that will
+subsidize the elaboration of the scale items. In a second step, theoretical analysis of the items should
+be performed, comprising the semantic analysis and analysis of judges. All participants were chosen
+by non-probabilistic convenience sampling.
+Regarding the interviews, Bardin (2011) states that the group of participants should be diverse
+and representative. For this reason, respondents who answered the interviews work in organizations
+from various industries, such as banking, entertainment, consulting, education, telecommunications,
+engineering, healthcare, retail, food, beverages, beauty and fitness services. According to Bardin
+(2011), repetition in the response patterns indicates sufficiency of sample. Thus, in this step, the initial
+sample consisted of 30 participants.
+Participants were interviewed and answered basically two questions: In your opinion, what is
+considered relevant in terms of HRM policies development for you to feel valued by the organization
+you work for? Which HRM practices would help promote your well-being at work as well as your
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+401
+
+commitment to achieve organizational goals? For analysis of the responses, we performed a
+categorical thematic content analysis as proposed by Bardin (2011).
+As to the theoretical analysis of the items, they were first submitted to semantic analysis so that
+their understandability by the population members could be verified and doubts could be resolved. The
+analysis focused on a sample of 27 people, different from the 30 person initial sample, who work for
+organizations from different activities and industries, such as retail, education, public service, and
+banking. This sample was selected from the lowest (operational function) to the highest stratum of the
+target population (management function) to ensure the broadest possible understanding of the items.
+Then, the subjects were divided into small groups (5 or 6) and asked to explain the items in their own
+words to the other groups. If such explanation did not leave any doubt, the item was correctly
+understood. Otherwise, it would probably be a problematic item and likely excluded from the scale.
+Next, after the semantic analysis, a judges’ analysis was performed in late August of 2010, in
+order to check item consistency. Twelve (12) experts HRM (professors, HRM researchers and HRM
+managers) judged if the items were or were not referring to the factor (one of the 6 HRM policies) in
+question.
+
+Scale validation
+After the qualitative steps for the scale development, the questionnaire was ready for
+application. The 50 items were randomized in order to avoid bias (Kerlinger & Lee, 2008). A
+specialized website, namely Google Docs, was used in order to make it available online. The link was
+spread across the researchers' contact lists. Hard copies were also given to colleagues, students and
+acquaintances. People current employed, 18 year-old or older and having completed at least a highschool education level were eligible to answer the questionnaire. The data collection returned 851
+questionnaires. Using the criteria for sample sizes proposed by leading authors in Statistics (e.g.,
+Byrne, 2009; Field, 2009; Hair, Black, Babi, Anderson, & Tatham, 2009; Kline, 2011; Pasquali, 2008;
+Tabachnick & Fidell, 2007), that is, between 5 or 10 subjects per item for EFA, or a minimum of 300
+individuals, and a minimum of 400 subjects for CFA in case of complex models as ours, we
+determined we would need about 600 individuals. Thus, 851 subjects should be considered sufficient
+for the purposes of the present study, keeping in mind that data screening normally reduces sample
+size.
+Data were examined and the assumptions for multivariate analysis were checked, following the
+procedures recommended by Myers (1990), Menard (2002), Tabachnick and Fidell (2007) and Hair,
+Black, Babi, Anderson, and Tatham (2009). Data was found to be very precise, with no registration
+errors or discrepancies in average and standard deviation measures. Also, there wasn’t any case of
+multicollinearity or singularity as tolerance values were above 0.2 (Menard, 2002) and variance
+inflation factor (VIF) values were less than 5.0 (Myers, 1990). Analyses of outliers, normality and
+linearity were conducted as well, and 219 individuals from the original sample (851) were deleted by
+using the Mahalanobis distance criterion (D2 = 66.76; p<0.001). The percentage of missing data was
+lower than 5%, which were excluded by the Listwise Deletion method (Hair et al., 2009; Tabachnick
+& Fidell, 2007). The final sample was thus 632 participants, still enough to run the intended analysis.
+As previously mentioned, the sample diversity indicates sampling variability and representativeness.
+For the exploratory factor analysis, an initial sample composed of 304 individuals was randomly
+selected from the final sample (632). The criterion recommended by Hair et al. (2009), says that for an
+adequate sample size, it is necessary to have between 5 and 10 individuals for each instrument item.
+To Tabachnick and Fidell (2007), factor analysis validity is compromised with less than 300
+individuals. Similarly, Comrey and Lee recommend 300 as a good sample size. HRMPPS had 50
+items in its application version, which would require a minimum sample size of 250 people, according
+to Hair et al. (2009) criterion. Three hundred and four (304) people composed a sample that attended
+to both criteria, allowing the exploratory and confirmatory validations to have different samples.
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+402
+
+As to the psychometric validation, we first performed an Exploratory Factor Analysis (EFA).
+The correlation matrix, the matrix determinant and the results of the Kaiser-Meyer-Olkin (KMO)
+sampling adequacy test were analyzed regarding factorability. For factor extraction, Principal
+Components Analysis (PCA) was used. Once the matrix was considered factorable, the eigenvalues,
+percentage of explained variance of each factor, scree plot graphic and parallel analysis were then
+examined in order to determine the quantity of factors to be extracted.
+After defining the quantity of factors, we ran a Principal Axis Factoring (PAF) analysis using
+Promax rotation - since correlation among factors is expected in behavioral phenomena. Conbrach’s
+alpha was used to check the consistency, precision or reliability of each factor. The statistic software
+used in these analyses was the Statistical Package for the Social Sciences (SPSS), version 18.0.
+Next, a new validation of the structure obtained by the exploratory study was made with an
+independent sample, denominated the second sample, which was composed of an independent sample
+of the remaining 328 individuals. As this structure remained stable, the procedure continued using the
+total sample for the model’s confirmatory factor validation. According to Kline (2011), complex
+models require larger samples. Hair et al. (2009), state that complex models, with more than 5 factors,
+require minimum sample sizes of 400 to 500. To determine which factors’ structure adjusts better to
+HRMPPS, its fit was evaluated by using AMOS 18 through the following indexes: NC (normatized
+chi-square or chi-square value divided by the model’s degrees of freedom = CMIN/DF), CFI
+(Comparative Fit Index) and RMSEA (Root Mean Square Error of Approximation), as recommended
+by Kline (2011). The internal consistency or reliability was measured through composite reliability
+(also known as Dillon-Goldstein’s rho or Jöreskog’s) as proposed by Chin (1998). Dillon-Goldstein’s
+rho is a better reliability measure than Cronbach’s alpha in Structural Equation Modeling, since it is
+based on the loadings rather than the correlations observed between the observed variables.
+
+Results
+
+Scale development
+For the identification of categories and its indicators, we analyzed the categorical thematic
+content as recommended by Bardin (2011). The categories that emerged from content analysis were
+consistent with the six main policies cited in the literature, namely recruitment and selection,
+involvement, training, development and education, working conditions, competency-based
+performance appraisal, and compensation and rewards. These categories were the basis for
+confrontation with the literature and for the construction of the scale items. Thirty (30) items were
+generated from the interviews.
+Thereafter, based on the literature review, another 18 items regarding the recruitment and
+selection and competency-based performance appraisal policies were formulated. In addition, 40 items
+concerning all policies were developed based on the most recently visited scientific literature. In total,
+the first version of the HRMPPS had 88 items.
+At the end of the semantic analysis, 20 items were considered unclear, doubtful and repeated by
+the analysts. These items were crossed off and HRMPPS retained 68 items. Finally, after the judges’
+analysis, 18 items did not reach an application concordance to the factors for 80% of the judges or did
+not fit into only one factor and were therefore deleted from the instrument.
+At the end, HRMPPS had 50 items in its application version, with a 5-point Likert scale,
+varying from I totally disagree to I totally agree. These were the items used for the quantitative
+analysis described in the following sections.
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+403
+
+Scale validation
+Exploratory factor analysis
+The analyses’ results confirmed the matrix high factorability. KMO was 0.917, classified by
+Kaiser (1974) as marvelous. The determinant of the correlation matrix was extremely close to zero,
+indicating that the number of factors is lower than the number of items.
+Through Principal Components Analysis, it was possible to decide how many factors would be
+extracted. All the criteria adopted (eigenvalues higher than 1.0, explained variance percentage of each
+factor above 3%, scree plot graphic visual analysis and parallel analysis) pointed to the existence of 6
+factors. HRMPPS, after 8 iterations, resulted in a multifactorial instrument. Since the minimum
+acceptable load was defined as .32 (Pasquali, 2008), 10 items from the application version were not
+acceptable and the final version of HRMPPS comprised 40 items, distributed across 6 factors
+(subscales), representing HRM policies. The policies are compatible with the theoretical review,
+explaining 58% of the construct’s total variance and meeting Hair et al. (2009) criterion that says a
+scale needs to have enough factors in order to explain about 60% of the construct variance.
+The validity or quality of the items that composed each factor was also analyzed, based on
+Pasquali’s (2008) statement that a valid item is the one that well represents the factor; that is, an item
+with a good factor loading. Comrey and Lee (1992) classified items with loadings higher or equal .71
+as excellent; higher or equal .63 as very good; higher or equal .55 as good; higher or equal .45 as
+reasonable; and higher or equal .32 as poor. Thus, as to the items’ quality, 70% of them were classified
+as excellent, very good and good.
+Concerning the reliability, internal consistency or precision of the factors, Pasquali (2008) states
+that values above 0.70 indicate that the scale is reliable, while values above 0.80 indicate good
+reliability (Field, 2009). Nunnally and Bernstein (1994, pp. 264-265) say that “in the early stages of
+predictive or construct validation research,” it may be “satisfactory” to “have only modest reliability,
+e.g., .70”. For other scenarios, Nunnally and Bernstein (1994) go on to state that .80 or even .90 may
+be required. Peterson’s (1994) meta-analytical study on alpha showed that reliable alphas have a .77
+mean and .79 median.
+All the 6 factors showed high reliability, with alpha coefficients higher than .80, following the
+threshold recommended by authors such as Nunnally and Bernstein (1994), and Peterson (1994).
+Tables 2, 3, 4, 5, 6 and 7 summarize the main information of each factor.
+Table 2
+Description of the Items in Factor 1 (Recruitment and Selection)
+Item Description
+
+Loading
+
+I2
+
+The organization I work for widely disseminates information about both external and internal
+recruitment processes.
+
+.75
+
+I8
+
+The organization I work for discloses information to applicants regarding the steps and criteria
+of the selection process.
+
+.74
+
+I9
+
+The organization I work for communicates performance results to candidates at the end of the
+selection process.
+
+.70
+
+I5
+
+Selection tests of the organization where I work are conducted by trained and impartial people.
+
+.63
+
+I4
+
+The organization I work for has competitive selection processes that attract competent people.
+
+.60
+
+I6
+
+The organization I work for uses various selection instruments (e.g. interviews, tests, etc.).
+
+.50
+
+Note. This factor had a total of six items and reliability of .84 (Cronbach’s α in EFA) and of .82 (Jöreskog’s ϱ in CFA).
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+404
+
+Table 3
+Description of the Items in Factor 2 (Involvement)
+Item Description
+
+Loading
+
+I12
+
+The organization I work for treats me with respect and attention.
+
+.91
+
+I11
+
+The organization I work for is concerned with my well-being.
+
+.76
+
+I19
+
+In the organization where I work, there is an environment of understanding and confidence
+between managers and employees.
+
+.73
+
+I17
+
+The organization I work for recognizes the work I do and the results I achieve (e.g., in oral
+compliments, in articles in corporate bulletins, etc.).
+
+.73
+
+I21
+
+The organization I work for favors autonomy in doing tasks and making decisions.
+
+.73
+
+I13
+
+The organization I work for seeks to meet my needs and professional expectations.
+
+.67
+
+I18
+
+In the organization where I work, employees and their managers enjoy constant exchange of
+information in order to perform their duties properly.
+The organization I work for encourages my participation in decision- making and problemsolving.
+
+.66
+
+I20
+
+In the organization where I work, there is an environment of trust and cooperation among
+colleagues.
+
+.62
+
+I16
+
+The organization I work for encourages interaction among its employees (e.g., social
+gatherings, social events, sports events, etc.).
+
+.54
+
+I10
+
+The organization I work for follows up on the adaptation of employees to their functions.
+
+.53
+
+I22
+
+In the organization where I work, there is a consistency between discourse and management
+practice.
+
+.48
+
+I15
+
+.63
+
+Note. This factor had a total of twelve items and reliability of .93 (Cronbach’s α in EFA) and of .92 (Jöreskog’s ϱ in CFA).
+
+Table 4
+Description of the Items in Factor 3 (Training, Development & Education)
+Item Description
+
+Loading
+
+I25
+
+I can use knowledge and behaviors learned in training at work.
+
+.58
+
+I23
+
+The organization I work for helps me develop the skills I need for the successful
+accomplishment of my duties (e.g., training, conferences, etc.).
+
+.56
+
+I24
+
+The organization I work for invests in my development and education promoting my personal
+and professional growth in a broad manner (e.g., full or partial sponsorship of undergraduate
+degrees, postgraduate programs, language courses, etc.).
+
+.55
+
+I30
+
+In the organization where I work, training is evaluated by participants.
+
+.54
+
+I28
+
+The organization I work for stimulates learning and application of knowledge.
+
+.49
+
+I29
+
+In the organization where I work, training needs are identified periodically.
+
+.46
+
+Note. This factor had a total of six items and reliability of .88 (Cronbach’s α in EFA) and of .88 (Jöreskog’s ϱ in CFA).
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+405
+
+Table 5
+Description of the Items in Factor 4 (Work Conditions)
+Item Description
+
+Loading
+
+I34
+
+The organization I work for provides basic benefits (e.g., health care, transportation
+assistance, food aid, etc.).
+
+.86
+
+I36
+
+The organization I work for has programs or processes that help employees cope with
+incidents and prevent workplace accidents.
+
+.64
+
+I37
+
+The organization I work for is concerned with the safety of their employees by having access
+control of people who enter the company building/facilities.
+
+.63
+
+I35
+
+The organization I work for provides additional benefits (e.g., membership in gyms, country
+clubs, and other establishments, etc.).
+
+.57
+
+I38
+
+The facilities and physical condition (lighting, ventilation, noise and temperature) of the
+organization I work for are ergonomic, comfortable, and appropriate.
+
+.52
+
+I33
+
+The organization I work for is concerned with my health and quality of life.
+
+.46
+
+Note. This factor had a total of six items and reliability of .84 (Cronbach’s α in EFA) and of .80 (Jöreskog’s ϱ in CFA).
+
+Table 6
+Description of the Items in Factor 5 (Competency-Based Performance Appraisal)
+Item Description
+
+Loading
+
+I43
+
+The organization I work for discusses competency-based performance appraisal criteria and
+results with its employees.
+
+.92
+
+I42
+
+In the organization where I work, competency-based performance appraisal provides the basis
+for an employee development plan.
+
+.86
+
+I41
+
+In the organization where I work, competency-based performance appraisal is the basis for
+decisions about promotions and salary increases.
+
+.71
+
+I44
+
+The organization I work for disseminates competency-based performance appraisal criteria
+and results to its employees.
+
+.65
+
+I40
+
+The organization I work for periodically conducts competency-based performance appraisals.
+
+.55
+
+Note. This factor had a total of five items and reliability of .86 (Cronbach’s α in EFA) and of .91 (Jöreskog’s ϱ in CFA).
+
+Table 7
+Description of the Items in Factor 6 (Compensation and Rewards)
+Item Description
+
+Loading
+
+I47
+
+In the organization where I work, I get incentives such as promotions, commissioned
+functions, awards, bonuses, etc.
+
+.66
+
+I50
+
+In the organization where I work, my salary is influenced by my results.
+
+.56
+
+I46
+
+The organization I work for offers me a salary that is compatible with my skills, training, and
+education.
+
+.48
+
+I45
+
+The organization I work for remunerates me according to the remuneration offered at either
+the public or private marketplace levels.
+
+.45
+
+I49
+
+The organization I work for considers the expectations and suggestions of its employees when
+designing a system of employee rewards.
+
+.40
+
+Note. This factor had a total of five items and reliability of .81 (Cronbach’s α in EFA) and of .86 (Jöreskog’s ϱ in CFA).
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+406
+
+Validation of the structure in a different sample
+Table 8 shows that the six-factor structure obtained for HRMPS with the sample of 304
+employees revealed itself to be stable when applied in an independent sample of 328 employees.
+Considering the main psychometric indexes of an instrument, namely the explained variance’s total,
+the quantity of items and the precision of the factors measured by Cronbach’s alpha, it is possible to
+observe that the results are very similar in both validations, regarding reliability and percentage of
+explained variance, but the validation of the sample of 328 ended up with fewer items (37). The 6
+factors can be named and interpreted in the same way as in the initial structure, that is, factor 1:
+recruitment and selection; factor 2: involvement; factor 3: training, development and education; factor
+4: work conditions; factor 5: competency-based performance appraisal; and factor 6: compensation
+and rewards.
+Table 8
+Comparison among the Obtained Factor structures
+Items of comparison
+
+Sample of 304
+
+Sample of 328
+
+58%
+
+60%
+
+Number of items / Cronbach’s alpha of factor 1
+
+6 / 0.84
+
+7 / 0.84
+
+Number of items / Cronbach’s alpha of factor 2
+
+12 / 0.93
+
+12 / 0.92
+
+Number of items / Cronbach’s alpha of factor 3
+
+6 / 0.88
+
+6 / 0.90
+
+Number of items / Cronbach’s alpha of factor 4
+
+6 / 0.84
+
+5 / 0.80
+
+Number of items / Cronbach’s alpha of factor 5
+
+5 / 0.86
+
+4 / 0.88
+
+Number of items / Cronbach’s alpha of factor 6
+
+5 / 0.81
+
+3 / 0.82
+
+Percentage of explained variance
+
+Thereby, with the initial factor structure validated, testing the generalization of the scale, we
+continued with confirmatory analysis.
+
+Confirmatory factor analysis
+To perform the confirmatory factor validation of the new HRMPPS, using structural equations,
+we used the sample of 632 employees. We ran a CFA from the factor structure obtained in the
+exploratory analysis and chose the maximum likelihood method to estimate all models.
+As to dimensionality assessment, Byrne (2009) states that in a confirmatory factor analysis, a
+one-factor model should be tested before a multiple-factor model. So, in this study, two measurement
+models were tested and compared: Model 1, a one-factor model (see Figure 1), with HRM policies and
+practices (HRMPP) as the latent variable and the 40 items representing HR practices as observed
+variables; and Model 2, a six-factor model structure obtained in the EFA (see Figure 2).
+According to Kline (2011), values which indicate satisfactory adjustment for a model are: for
+NC (CMIN/DF), values 2.0 or 3.0 or, at most, up to 5.0; for CFI, values higher than .90 and for
+RMSEA, values lower than .06 or up to .08. Model 1 showed 121 parameters, with χ2(767)=5652.11,
+p<0.001; df = 767; p<0.001 or NC=7.64; CFI=.66; RMSEA=.103 (confidence interval from .100 to
+.105). Therefore, the one-factor model provided for a poor fit.
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+407
+
+Figure 1. Model 1.
+On the other hand, the hypothesized six-factor model (Model 2) was tested and confirmed,
+providing better indices and a reasonable fit (Figure 2). The final model held 141 parameters, with
+χ2(752) = 2376.2,29, p<0.001; df = 752; p<0.001 or NC=3.15; CFI = .89; RMSEA=.07 (confidence
+interval from .069 to .075). The factor loadings of the items in the confirmatory validation were
+between .55 and .88, showing good- quality items, according to Comrey and Lee (1992).
+It is important to emphasize that in the confirmatory analysis the same multifactorial structure of
+40 items distributed across 6 factors was kept, in agreement with the reviewed literature and
+exploratory validation, such that the interpretation of the factors is the same as displayed in Tables 2 to
+7. The results confirmed the HRMPPS’ validation by showing the conceptual suitability of the
+structure obtained in the exploratory analysis and reasonable fit. The six-factor model is represented in
+Figure 2.
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+408
+
+Figure 2. Model 2.
+Taken together, model 2 (six-factor model) was found to outperform model 1 (one-factor
+model) for all measures. In addition, chi-square difference was significant (Δχ2(15) = 2556,82,
+p<0.001), indicating that Model 2 is indeed better than Model 1. These results suggest that HRM
+policies and practices are a multi-dimensional construct that consists of six dimensions and 40 items.
+To assess the reliabilities of the six subscales of HRM Policies and Practices, Jöreskog’s rho
+was computed for each factor. Chin (1998) recommends that acceptable scores for the Jöreskog’s rho
+should be higher than 0.70. The results were very satisfactory, ranging from .80 through .92 for all the
+six factors. Specifically: recruitment and selection policy (ϱ=.82), involvement policy (ϱ=.92),
+training, development and education policy (ϱ=.88), work conditions policy (ϱ=.80), competencybased performance appraisal policy (ϱ=.91) and compensation and rewards policy (ϱ=.86).
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+409
+
+Construct validity is the degree to which a set of measured items actually reflects the theoretical
+latent construct that those items are supposed to measure (Hair et al., 2009). In this study, the
+construct validity of the HRMPPS was examined by assessing convergent and discriminant validity.
+Convergent validity refers to the degree of agreement between two or more measures of the
+same construct. According to Hair et al. (2009), there are several indicators of convergent validity, for
+example, examining factor loadings and the factor reliability. As we have seen, the reliability of all six
+factors were above ϱ=.70, indicating appropriate convergence (Hair et al., 2009). In addition, all items
+of the HRM Policies and Practices measure loaded significantly positive onto their specified factor
+(see Figure 2). All 40 items presented loadings over .5 (Hair et al., 2009) for the factors to which they
+were assigned; this is indeed a test of convergent validity of the scale. We may thus state that the
+scales for these six HRMPP dimensions possessed convergent validity.
+Discriminant validity indicates the degree to which measures of conceptually distinct constructs
+differ. In this study it was assessed as follows: AFC was performed for a selected pair of
+constructs/factors, allowing correlation between the two constructs. The chi-square value of this model
+was noted. Then, the AFC was performed again for the same pair of constructs, setting the correlation
+between the two constructs equal to 1. The chi-square value of the second model was then noted. We
+then calculated the difference between the values of the chi-squares and also the difference of degrees
+of freedom for both models. Finally, we analyzed the differences between the chi-square values and
+between the degrees of freedom in a chi-square table: statistically significant values indicate the
+existence of discriminant validity.
+The test was conducted for each pair of constructs, resulting in 15 tests. The results on Table 9
+showed that all chi-square differences are significant. There is evidence, then, that the constructs are
+different and have discriminant validity.
+Table 9
+Discriminant Validity
+Constructs
+
+Recruitment
+and Selection
+
+Involvement
+
+TD&E
+
+Work
+Conditions
+
+Involvement
+
+Δχ2(1)=79.5
+p<0.001
+
+Training,
+Development and
+Education
+
+Δχ2(1)=32.34
+p<0.001
+
+Δχ2(1)=81.9
+p<0.001
+
+Work Conditions
+
+Δχ2(1)=68.7
+p<0.001
+
+Δχ2(1)=47.5
+p<0.001
+
+Δχ2(1)=25.8
+p<0.001
+
+Competency-Based
+Performance
+Appraisal
+
+Δχ2(1)=36.6
+p<0.001
+
+Δχ2(1)=38.9
+p<0.001
+
+Δχ2(1)=8.9
+p<0.005
+
+Δχ2(1)=42.9
+p<0.001
+
+Compensation and
+Rewards
+
+Δχ2(1)=79.9
+p<0.001
+
+Δχ2(1)=40.6
+p<0.001
+
+Δχ2(1)=30.8
+p<0.001
+
+Δχ2(1)=31.2
+p<0.001
+
+CBPA
+
+Δχ2(1)=28.4
+p<0.001
+
+In summary, we found evidence of both convergent and discriminant validity, and thus our
+findings lend support to the construct validity of the six-factor model of HRM policies and practices.
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+410
+
+Discussion
+
+Even though the numbers resulting from the previous analysis were very satisfactory, it is also
+necessary to analyze HRMPPS’s theoretical consistency with the revised literature, verifying if the
+scale’s items are coherent with the theoretical concepts used to support it. Pasquali (2008) and
+Kerlinger and Lee (2008) have said that it is not appropriate to hold a factor that has only a
+mathematic meaning, for the factor must be relevant in the scientific theoretical context. HRMPPS’s
+40 items indeed have theoretical support, greatly corresponding to the literature review of each policy
+as discussed below.
+About the recruitment and selection policy, Dessler (2002), and Mathis and Jackson (2003) have
+suggested the vast disclosure of external and internal recruitment processes, as well as of information
+concerning the selective process’ stages, criteria, performance and results as important points. They
+are also present in the scale with a strong factor loading, indicating its representativeness in the
+construct. The importance of using several selection instruments, defended by authors like Bohlander
+and Snell (2009), Dessler (2002), and Mathis and Jackson (2003), is also an aspect of HRMPPS.
+And, finally, there are items illustrating the ideas found in Lievens and Chapman (2010), that
+professionals responsible for a recruitment and selection process have to be capable and impartial
+since they perform a fundamental and determinant role in the process. According to these authors,
+companies with a good organizational image become more attractive and have the possibility of
+selecting the best-prepared professionals.
+Dietz, Wilkinson and Redman (2010) discussed the involvement policy and its practices by
+legitimating the employees’ participation in decision-making and problem-solving as well as greater
+integration among them. Bohlander and Snell (2009) highlighted the importance of employees’
+adaptation to their positions, the existence of an environment of understanding, cooperation and trust
+as a way of creating involvement, and the coherence between managerial speech and practice,
+practices present in HRMPPS. Muckinsky (2004) and Siqueira (2008) emphasized the respectful and
+attentive treatment given to employees, as well as caring for their well-being as fundamental aspects to
+involve them. It is important to note that the illustrative items of this point are the ones with the
+highest factor loadings of the involvement policy, thus showing the convergent validity of the items
+with the concept they represent.
+The other scale’s items also have theoretical support. Bohlander and Snell (2009), Dessler
+(2002) and Mathis and Jackson (2003) suggested the autonomy in task performance and decisionmaking, as well as the empowerment, as involvement characteristic actions. Additionally, Sisson
+(1994) alerted to the importance of continuous recognition and feedback and the constant exchange of
+information between employees and managers as important practices of involvement. Finally, Ulrich
+et al. (1991) emphasized the necessity of establishing partner relationships with employees by
+identifying their needs, values and worries.
+The scale’s items referring to the TD&E practices also have theoretical support. BorgesAndrade, Abbad and Mourão (2006) and Goldstein (1996) explained the differences between the
+concepts of training, development and education, emphasizing the importance of evaluating training
+impact at work. Winterton (2007) highlighted that decisions regarding the necessity of training in an
+organization must be identified periodically, being influenced by national and sectorial culture.
+Sisson (1994) and Dessler (2002), in turn, discussed the need that organizations have to
+especially invest in development and education, given their strategic-long term character. Thus,
+modern methods of training, managerial development and career management assume special
+connotations. In this context, Dutra (2001) affirmed that TD&E policy plays an important role in the
+development of necessary competences to perform functions, illustrating distance education and the
+corporate universities’ model as innovative in this process. Finally, Bohlander and Snell (2009)
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+411
+
+indicated that the stimulus for learning and knowledge application must be at the heart of TD&E
+policy.
+Regarding the items referring to work conditions policy, Loudoun and Johnstone (2010) dealt
+with occupational health and work safety, referring to a suitable environment and auspicious
+conditions for maintaining the physical, psychic and mental welfare of the individuals, synthesizing
+items with high factor loading in the HRMPPS’ validation. Sisson (1994), Osborn, Hunt and
+Schermerhorn (1998), Dessler (2002) and Mathis and Jackson (2003) confirmed the importance of
+offering basic (the most representative item of the work conditions policy in the HRMPPS’ validation)
+and complementary benefits to the employees. Mathis and Jackson (2003) and Ulrich (2001) also
+pointed the importance of an ergonomic approaching on the project of functions, environment and
+positions.
+Items concerning the competency-based performance appraisal policy also have found support
+in the reviewed literature. According to Latham, Sulsky and Macdonald (2007), management feedback
+concerning employee performance is a crucial point, referring to the goals and results reached. From
+this, the authors highlight that it’s important to remember that the criteria’s definition for performance
+evaluation can be elaborated together with the employees, stimulating their involvement and
+participation in the process. Such an item presented the highest factor loading in this policy.
+Aligned to these ideas, Dessler (2002), Mathis and Jackson (2003) and Bohlander and Snell
+(2009), defended performance evaluation as the principal method for elaborating an employee
+development plan and for decision-making regarding promotion and salary increases. Dutra (2001)
+emphasized the need of evaluating, besides performance, employee competences since they might be
+indicatives of the potential for future contribution to the organization. Finally, Devanna, Fombrun and
+Tichy (1984) certified the need for periodical evaluations and, in this sense, Bohlander and Snell
+(2009) recommended a maximum period of 1 year between evaluations, with 6 months as the ideal
+period.
+Finally, regarding the items representing practices validated in the compensation and rewards
+policy, Gerhart (2010) argued that it must be result of careful choices by managers, as it is one of an
+organization’s most impactful strategic policies. According to the author, the main questions for
+decision making are “how to pay” (offered rewards), considered to be the most strategic in the
+decision-making process, and “how much to pay”. Referring to how much to pay, remuneration must
+be compatible with both the employee’s education and marketplace levels, as Sisson (1994) and
+Bohlander and Snell (2009) defend.
+Also, Devanna et al. (1984) understood that a compensation policy must also include rewards
+and incentives like prizes and bonuses, and a career plan for everyone, besides remuneration. The
+practice of incentives was present in the item with the highest factor loading in the compensation and
+rewards policy’s validation. On the same line, Hipólito (2001), Dutra (2001) and Dessler (2002)
+highlighted variable remuneration methods, such as prizes, gratification, profit participation and action
+options, competency-based promotion and broadbanding (fewer, but broader pay ranges indicating an
+easier way to professional promotion) as remuneration tendencies in the new millennium. Finally, the
+authors suggested considering employee expectations and suggestions on reward designs in order to
+make them as customized as possible, and further, that remuneration must depend on results so that the
+effort-reward relation is clear among employees, preventing revenge attitudes.
+Table 10 summarizes the 40 items of the HRMPPS, the respective construct and their theoretical
+background.
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+412
+
+Table 10
+Items of the HRMPPS, Construct and its Theoretical Background
+Item
+
+Construct
+
+Theoretical Background
+
+I2. The organization I work for widely disseminates
+information about both external and internal
+recruitment processes.
+
+Recruitment and Selection Dessler (2002); Mathis and
+Jackson (2003)
+
+I8. The organization I work for discloses information
+to applicants regarding the steps and criteria of the
+selection process.
+
+Recruitment and Selection Dessler (2002); Mathis and
+Jackson (2003)
+
+I9.The organization I work for communicates
+performance results to candidates at the end of the
+selection process.
+
+Recruitment and Selection Dessler (2002); Mathis and
+Jackson (2003)
+
+I5. Selection tests of the organization where I work are Recruitment and Selection Lievens and Chapman
+conducted by trained and impartial people.
+(2010)
+I4. The organization I work for has competitive
+selection processes that attract competent people.
+
+Recruitment and Selection Lievens and Chapman
+(2010)
+
+I6.The organization I work for uses various selection
+instruments (e.g. interviews, tests, etc.).
+
+Recruitment and Selection Dessler (2002); Mathis and
+Jackson (2003); Bohlander
+and Snell (2009)
+
+I12. The organization I work for treats me with respect Involvement
+and attention.
+
+Muckinsky (2004);
+Siqueira (2008)
+
+I11. The organization I work for is concerned with my Involvement
+well-being.
+
+Muckinsky (2004);
+Siqueira (2008)
+
+Involvement
+I19. In the organization where I work, there is an
+environment of understanding and confidence between
+managers and employees.
+
+Bohlander and Snell
+(2009)
+
+I17. The organization I work for recognizes the work I Involvement
+do and the results I achieve (e.g., in oral compliments,
+in articles in corporate bulletins, etc.).
+
+Sisson (1994)
+
+I21. The organization I work for favors autonomy in
+doing tasks and making decisions.
+
+Involvement
+
+Bohlander and Snell
+(2009); Dessler (2002);
+Mathis and Jackson (2003)
+
+I13. The organization I work for seeks to meet my
+needs and professional expectations.
+
+Involvement
+
+Ulrich et al. (1991)
+
+I18. In the organization where I work, employees and Involvement
+their managers enjoy constant exchange of information
+in order to perform their duties properly.
+
+Sisson (1994)
+
+Involvement
+I15. The organization I work for encourages my
+participation in decision- making and problem- solving.
+
+Dietz et al. (2010)
+
+Involvement
+I20. In the organization where I work, there is an
+environment of trust and cooperation among colleagues.
+
+Bohlander and Snell
+(2009)
+
+I16. The organization I work for encourages
+interaction among its employees (e.g., social
+gatherings, social events, sports events, etc.).
+
+Involvement
+
+Dietz et al. (2010)
+
+I10. The organization I work for follows up on the
+adaptation of employees to their functions.
+
+Involvement
+
+Bohlander and Snell
+(2009)
+Continues
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+413
+
+Table 10 (continued)
+Item
+
+Construct
+
+Theoretical Background
+
+I22. In the organization where I work, there is a
+consistency between discourse and management
+practice.
+
+Involvement
+
+Bohlander and Snell
+(2009)
+
+I25. I can use knowledge and behaviors learned in
+training at work.
+
+Training, Development &
+Education
+
+Borges-Andrade et al.
+(2006); Goldstein (1996)
+
+I23. The organization I work for helps me develop the
+skills I need for the successful accomplishment of my
+duties (e.g., training, conferences, etc.).
+
+Training, Development &
+Education
+
+Dutra (2001)
+
+I24. The organization I work for invests in my
+Training, Development &
+development and education promoting my personal
+Education
+and professional growth in a broad manner (e.g., full or
+partial sponsorship of undergraduate degrees,
+postgraduate programs, language courses, etc.).
+
+Sisson (1994); Dessler
+(2002)
+
+I30. In the organization where I work, training is
+evaluated by participants.
+
+Training, Development &
+Education
+
+Goldstein (1996); BorgesAndrade et al. (2006)
+
+I28. The organization I work for stimulates learning
+and application of knowledge.
+
+Training, Development &
+Education
+
+Bohlander and Snell
+(2009)
+
+I29. In the organization where I work, training needs
+are identified periodically.
+
+Training, Development &
+Education
+
+Winterton (2007)
+
+I34. The organization I work for provides basic
+benefits (e.g., health care, transportation assistance,
+food aid, etc.).
+
+Work Conditions
+
+Sisson (1994); Osborn et
+al. (1998); Dessler (2002);
+Mathis and Jackson (2003)
+
+Work Conditions
+I36. The organization I work for has programs or
+processes that help employees cope with incidents and
+prevent workplace accidents.
+
+Loudoun and Johnstone
+(2010)
+
+Work Conditions
+
+Loudoun and Johnstone
+(2010)
+
+I37. The organization I work for is concerned with the
+safety of their employees by having access control of
+people who enter the company building/facilities.
+
+Work Conditions
+I35. The organization I work for provides additional
+benefits (e.g., membership in gyms, country clubs, and
+other establishments, etc.).
+I38. The facilities and physical condition (lighting,
+ventilation, noise and temperature) of the organization
+I work for are ergonomic, comfortable, and
+appropriate.
+
+Sisson (1994); Osborn et
+al. (1998); Dessler (2002);
+Mathis and Jackson (2003)
+
+Work Conditions
+
+Ulrich (2001); Mathis and
+Jackson (2003)
+
+I33. The organization I work for is concerned with my Work Conditions
+health and quality of life.
+
+Loudoun and Johnstone
+(2010)
+
+I43. The organization I work for discusses
+competency-based performance appraisal criteria and
+results with its employees.
+
+Competency-Based
+Performance Appraisal
+
+Latham et al. (2007)
+
+I42. In the organization where I work, competencybased performance appraisal provides the basis for an
+employee development plan.
+
+Competency-Based
+Performance Appraisal
+
+Dessler (2002); Mathis and
+Jackson (2003); Bohlander
+and Snell (2009)
+
+I41. In the organization where I work, competencybased performance appraisal is the basis for decisions
+about promotions and salary increases.
+
+Competency-Based
+Performance Appraisal
+
+Dessler (2002); Mathis and
+Jackson (2003); Bohlander
+and Snell (2009)
+Continues
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+414
+
+Table 10 (continued)
+Item
+
+Construct
+
+Theoretical Background
+
+I44. The organization I work for disseminates
+competency-based performance appraisal criteria and
+results to its employees.
+
+Competency-Based
+Performance Appraisal
+
+Latham et al. (2007)
+
+I40. The organization I work for periodically conducts Competency-Based
+competency-based performance appraisals.
+Performance Appraisal
+
+Devanna et al. (1984);
+Dutra (2001)
+
+I47. In the organization where I work, I get incentives
+such as promotions, commissioned functions, awards,
+bonuses, etc.
+
+Compensation and
+Rewards
+
+Devanna et al. (1984)
+
+I50. In the organization where I work, my salary is
+influenced by my results.
+
+Compensation and
+Rewards
+
+Hipólito (2001); Dutra
+(2001)
+
+I46. The organization I work for offers me a salary that Compensation and
+is compatible with my skills, training, and education.
+Rewards
+
+Sisson (1994); Bohlander
+and Snell (2009); Gerhart
+(2010)
+
+I45. The organization I work for remunerates me
+according to the remuneration offered at either the
+public or private marketplace levels.
+
+Compensation and
+Rewards
+
+Sisson (1994); Bohlander
+and Snell (2009); Gerhart
+(2010)
+
+I49. The organization I work for considers the
+expectations and suggestions of its employees when
+designing a system of employee rewards.
+
+Compensation and
+Rewards
+
+Dessler (2002)
+
+Thereafter, we might affirm that HRMPPS’s 40 items indeed have theoretical support, greatly
+corresponding to the literature reviewed throughout this paper.
+Concerning the confirmatory factor analysis, the six-factor structure obtained through the
+exploratory factor analysis was confirmed, showing a satisfactory fit with respect to NC and RMSEA
+indexes, in spite of presenting an unsatisfactory fit regarding the GFI fit. According to Hair et al.
+(2009), researchers should not rely on just one measure of fit, that’s why the authors recommend
+researchers to use at least one absolute index (e.g., RMSEA) and one incremental index (e.g., CFI), in
+addition to the chi-square value and its degrees of freedom associated or NC.
+Although the CFI did not reached the minimum value of 0.90 to be considered satisfactory,
+despite being very close (0.89), the RMSEA, in turn, represents how well a better model fits a
+population and a sample not used only for estimation, as it is a more suitable index for use when
+samples become larger (> 500), as Hair et al. (2009) state. Furthermore, the authors argue that with
+samples larger than 250 and complex models (more than 30 variables), as in this research, RMSEA
+values up to 0.07 indicate good quality fit and chi-squares values could be significant (p<.05). In other
+words, more complex models with larger samples require less strict criteria for evaluation.
+Besides, the satisfactory value of NC may indicate that the variables comprising the HRM
+policies and practices factors were well specified, attesting to the reliability of the indicators used.
+Also, such indicators loaded significantly positive on their specified factor showing convergent
+validity. Therefore, we might consider the fit indexes reached by the confirmatory validation
+acceptable, bringing indications of validity, and thus further evaluations in other samples are
+encouraged.
+Ultimately, HRMPPS sought to improve the fullness and reliability of the scales already found
+in the literature. The objective of this study was reached and a multifactorial instrument with 40 items,
+distributed across 6 factors, explaining around 58% of the construct’s total variance, was produced in
+agreement with the performed literature review, with high-reliability and construct validity.
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+415
+
+Academic and Managerial Implications
+
+The present study makes both academic and practical contributions, and suggests some
+applications for the research.
+First, we explore the strategic nature of HRM, provide a clear conceptualization of the
+construct, and then develop a conceptual model with the six policies most cited in the literature,
+namely, recruitment and selection; involvement; training, development and education; work
+conditions; competency-based performance appraisal; compensation and rewards. Though some of the
+ideas expressed in this conceptual model are familiar to HRM specialists, its value is in integrating
+these various notions to provide a more comprehensive and holistic picture of HRM policies and
+practices.
+Second, we provide empirical evidence for the testable scales that are both reliable and valid.
+This gives a new theoretical insight into how HRM policies and practices can be managed to provide
+superior organizational outcomes. Third, the research contributed to scientific production in HRM,
+Organizational Psychology and Management and Organizations field since HRMPPS or its 6 subscales
+can be used separately in relational studies. Furthermore, HRMPPS, validated trough exploratory and
+confirmatory factor analysis, is a comprehensive and reliable measure considering the importance of
+developing profitable HRM policies in the organizations, as well as the gap in literature concerning
+measures of perceptions of HRM policies.
+As to the managerial implications, HRMPPS covers most of the policies used in the
+organizations, constituting an important evaluation instrument for managers to improve their
+employee’s well-being at work. There is a consensus in the literature that HRM policies and practices
+positively impact well-being at work. Nishii, Lepak and Schneider (2008) assert that HRM practices
+should be designed to enhance well-being at work. Similarly, Turner, Huemann and Keegan (2008)
+point out that HRM traditionally has two roles: (a) management support, providing the organization
+with competent people to perform the work processes; and (b) staff support, looking after their wellbeing. Additionally, the study performed by Baptiste (2008) showed that HRM practices significantly
+impact well-being at work.
+In addition, there is theoretical and empirical evidence that HRM policies and practices indeed
+favorably affect organizational performance (e.g., Boselie et al., 2005; Ezzamel et al., 1996; Guest &
+Conaway, 2011; Guest & Hoque, 1994; Katou, 2012; Menezes et al., 2010; Subramony, 2009).
+Consequently, since the Human Resource Management Policies and Practices Scale includes the most
+widely studied HRM policies and practices, it might support managers decision-making and problemsolving regarding identification of HRM areas where specific improvements are needed in order to
+improve organizational performance.
+
+Limitations and Directions for Future Research
+This research has limitations and consequently recommendations for future studies. Our
+proposal represents an attempt to build and test a conceptual framework of HRM policies and
+practices. Then, a first limitation is that the present findings are therefore indicative rather than
+conclusive. It would be useful to further assess the generalizability of the HRMPPS to other business
+environments such as American, European and Asian countries. Moreover, with more replicative and
+creative research, a more comprehensive conceptual framework related to HRM policies and practices
+can be developed in the future.
+Second, in spite of having a reasonable fit, the six-factor model didn’t present a good
+incremental index (CFI), indicating the necessity of new tests and other specifications, to generally
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+416
+
+improve the model fit. The models using structural equations tend to present excellent fit indices in
+situations where the measures have a good delimitation and theoretical precision, besides having
+validity and reliability confirmed by several samples (Tabachnick & Fidell, 2007). In the case of this
+study, the fit indices reached by the confirmatory validation could be considered reasonable
+considering the high complexity of the construct.
+Another limitation is the cross-sectional nature of the data. The development of a time-series
+database and testing in a longitudinal framework of the six-factor HRM policies and practices
+structure obtained here is recommended. Nevertheless, it is important to state that, in this research,
+samples of employees from several professional activities in organizations from different sectors were
+used seeking the best representativeness as possible.
+Considering the limitations mentioned, continued refinement of the HRMPPS is recommended
+based on further research on new HRM trends and perspectives and changes in business environments,
+so that a valid measure of HRM policies and practices can be ensured on an ongoing basis. Therefore,
+there could be a need for alteration or even deletion of original items. Additionally, items disclosed
+and mentioned as important in literature could be present in future factor analyses, such as: in the work
+conditions policy, the organization can offer flexible benefits plan (cafeteria), workplace amenities and
+conveniences, such as banks, snack bars, among others, exercise programs in the workplace, and other
+leisure and health benefits; prioritizing internal recruitment over external in the recruitment and
+selection policy; and the existence of internal communication channels in the involvement policy.
+Finally, the findings found here are not intended to be conclusive or limiting but offer a useful
+starting point from which further theoretical and empirical research on HRM policies and practices can
+be built.
+Received 4 November 2011; received in revised form 31 July 2012.
+
+References
+
+ALDamoe, F. M. A., Yazam, M., & Ahmid, K. B. (2012). The mediating effect of HRM outcomes
+(employee retention) on the relationship between HRM practices and organizational
+performance. International Journal of Human Resource Studies, 2(1), 75-88. doi:
+10.5296/ijhrs.v2i1.1252
+Armstrong, M. (2009). Armstrong’s handbook of human resource management practice (11th ed.).
+London: Kogan Page.
+Baptiste, N. R. (2008). Tightening the link between employee wellbeing at work and performance: a
+new
+dimension
+for
+HRM.
+Management
+Decision,
+46(2),
+284-309.
+doi:
+10.1108/00251740810854168
+Bardin, L. (2011). Análise de conteúdo. Lisboa: Edições 70.
+Barney, J. (1991). Firm resources and sustained competitive advantage. Journal of Management,
+17(1), 99-120. doi: 10.1177/014920639101700108
+Beauvallet, G., & Houy, T. (2010). Research on HRM and lean management: a literature survey.
+International Journal of Human Resources Development and Management, 10(1), 14-33. doi:
+10.1504/IJHRDM.2010.029444
+Bohlander, G. W., & Snell, S. (2009). Administração de recursos humanos (14th ed.). São Paulo:
+Cengage.
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+417
+
+Borges-Andrade, J. E., Abbad, G., & Mourão, L. (2006). Treinamento, desenvolvimento e educação
+em organizações de trabalho. Porto Alegre: Artmed.
+Boselie, P., Dietz, G., & Boon, C. (2005). Comunalities and contradictions in HRM and performance
+research.
+Human
+Resource
+Management
+Journal,
+15(3),
+67-94.
+doi:
+10.1111/j.17488583.2005.tb00154.x
+Boxall, P., & Purcell, J. (2000). Strategic human resource management: where have we come from e
+where should we be going? International Journal of Management Reviews, 2(2) 183-203. doi:
+10.1111/1468-2370.00037
+Byrne, B. M. (2009). Structural equation modeling with AMOS: basic concepts, applications, and
+programming (2nd ed.). New York: Routledge.
+Chênevert, D., & Tremblay, M. (2009). Fits in strategic human resource management and
+methodological challenge: empirical evidence of inﬂuence of empowerment and compensation
+practices on human resource performance in Canadian ﬁrms. The International Journal of
+Human Resource Management, 20(4), 738-770. doi: 10.1080/09585190902770547
+Chin, W. W. (1998). The partial least squares approach for structural equation modeling. In G. A.
+Marcoulides (Ed.), Modern methods for business research (pp. 295-236). London: Lawrence
+Erlbaum Associates.
+Combs, J., Liu Y., Hall, A., & Ketchen, D. (2006). How much do high-performance work practices
+matter? A meta-analysis of their effects on organizational performance. Personnel Psychology,
+59(3), 501-528. doi: 10.1111/j.1744-6570.2006.00045.x
+Comrey, A. L., & Lee, H. B. (1992). A first course in factor analysis (2nd ed.). Hillsdale, New Jersey:
+Lawrence Erlbaum Associates.
+Demo, G. (2008). Desenvolvimento e validação da escala de percepção de políticas de gestão de
+pessoas (EPPGP). Revista de Administração Mackenzie, 9(6), 77-101. doi: 10.1590/S167869712008000600005
+Demo, G. (2010). Políticas de gestão de pessoas, valores pessoais e justiça organizacional. Revista de
+Administração Mackenzie, 11(5), 55-81. doi: 10.1590/S1678-69712010000500004
+Dessler, G. (2002). Human resource management (9th ed.). New Jersey: Prentice Hall.
+Devanna, M. A., Fombrun, C. J., & Tichy, N. M. (1984). Strategic human resource management. New
+York: John Wiley and Sons.
+Dietz, G., Wilkinson, A., & Redman, T. (2010). Involvement and participation. In A. Wilkinson, N.
+Bacon, T. Redman, & S. Snell (Eds.), The SAGE handbook of human resource management (pp.
+245-268). London: Sage.
+Dutra, J. S. (2001). Gestão por competências (5th ed.). São Paulo: Editora Gente.
+Ezzamel, M., Lilley, S., & Willmott, H (1996). Practices and practicalities in human resource
+management. Human Resource Management Journal, 6(1), 63-80. doi: 10.1111/j.17488583.1996.tb00397.x
+Frenkel, S., Restubog, S. L. D., & Bednall, T. (2012). How employee perceptions of HR policy and
+practice influence discretionary work effort and co-worker assistance: evidence from two
+organizations. The International Journal of Human Resource Management, 23(20), 4193-4210.
+doi: 10.1080/09585192.2012.667433
+Field, A. (2009). Discovering statistics using SPSS (3rd ed.). Thousand Oaks, CA: Sage.
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+418
+
+Gerhart, B. (2010). Compensation. In A. Wilkinson, N. Bacon, T. Redman, S. Snell (Eds.), The SAGE
+handbook of human resource management (pp. 210-230). London: Sage.
+Goldstein, I. L. (1996). Training in work organizations. In M. Dunnete, & L. M. Hough (Eds.),
+Handbook of industrial and organizational psychology (Vol. 2, pp. 507-619). Palo Alto:
+Consulting Psychology Press.
+Guest, D. (1987). Human resource management and industrial relations. The Journal of Management
+Studies, 24(5), 503-521. doi: 10.1111/j.1467-6486.1987.tb00460.x
+Guest, D. (1998). Is the psychological contract worth taking seriously? Journal of Organisational
+Behaviour, 19(S1), 649-664. doi: 10.1002/(SICI)1099-1379(1998)19:1+<649::AIDJOB970>3.0.CO;2-T
+Guest, D., & Conway, N. (2011). The impact of HR practices, HR effectiveness and a ‘strong HR
+system’ on organisational outcomes: a stakeholder perspective. The International Journal of
+Human Resource Management, 22(8), 1686-1702. doi: 10.1080/09585192.2011.565657
+Guest, D., & Hoque, K. (1994). Yes, personnel does make a difference. Personnel Management,
+26(11), 40-43.
+Hair, J. F., Black, W. C., Babi, B. J., Anderson, R. E., & Tatham, R. L. (2009). Análise multivariada
+de dados (6th ed.). Porto Alegre: Bookman.
+Hipólito, J. A. M. (2001). Tendências no campo da remuneração para o novo milênio. In J. S. Dutra
+(Org.), Gestão por competências (5th ed., pp. 71-94). São Paulo: Gente.
+Huselid, M. A. (1995). The impact of human resource management practices on turnover,
+productivity, and corporate financial performance. Academy of Management Journal, 38(3),
+635-672.
+Kaiser, H. F. (1974). An index of factorial simplicity. Psychometrika, 39(1), 31-36. doi:
+10.1007/BF02291575
+Katou, A. A. (2012). Investigating reverse causality between human resource management policies
+and organizational performance in small firms. Management Research Review, 35(2), 134-156.
+doi: 10.1108/01409171211195161
+Kerlinger, F. N., & Lee, H. B. (2008). Foundations of behavioral research (5th ed.). Independence,
+KY: Wadsworth Thomson.
+Kim, A., & Lee, C. (2012). How does HRM enhance strategic capabilities? Evidence from the Korean
+management consulting industry. The International Journal of Human Resource Management,
+23(1), 126-146. doi: 10.1080/09585192.2011.561247
+Kline, R. B. (2011). Principles and practice of structural equation modeling (3rd ed.). New York: The
+Guilford Press.
+Latham, G., Sulsky, L. M., & Macdonald, H. (2007). Performance management. In P. Boxall, J.
+Purcell, & P. Wright. (Eds.), The Oxford handbook of human resource management (pp. 364381). New York: Oxford University Press.
+Legge, K. (2006). Human resource management. In S. Ackroyd, R. Batt, P. Thompson, & P. S. Tolbert
+(Eds.), The Oxford handbook of work and organization (pp. 220-241). New York: Oxford
+University Press.
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+Human Resources Management Policies and Practices Scale
+
+419
+
+Lievens, F., & Chapman, D. (2010). Recruitment and selection. In A. Wilkinson, N. Bacon, T.
+Redman, & S. Snell (Eds.), The SAGE handbook of human resource management (pp. 135-154).
+London: Sage.
+Lim W. M. (2012). Organisational strategic human resource management – The case of lehman
+brothers. Journal of Management Research, 4(2), 1-8. doi: 10.5296/jmr.v4i2.1368
+Loudoun, R., & Johnstone, R. (2010). Occupational health and safety in the modern world of work. In
+A. Wilkinson, N. Bacon, T. Redman, S. Snell (Eds.), The SAGE handbook of human resource
+management (pp. 286-307). London: Sage.
+Majumder, M. T. H. (2012). HRM practices and employees’satisfaction towards private banking
+sector in Bangladesh. International Review of Management and Marketing, 2(1), 52-58.
+Mathis, R. L., & Jackson, J. H. (2003). Human resource management (10th ed.). Ohio: SouthWestern/Thomson.
+Menard, S. (2002). Applied logistic regression analysis. Thousand Oaks, CA: Sage.
+Menezes, L. M., Wood, S., & Gelade, G. (2010). The integration of human resource and operation
+management practices and its link with performance: a longitudinal latent class study. Journal
+of Operations Management, 28(6), 455-471. doi: 10.1016/j.jom.2010.01.002
+Morris, S., & Snell, S. (2010). The evolution of HR strategy: adaptations to increasing global
+complexity. In A. Wilkinson, N. Bacon, T. Redman, S. Snell (Eds.), The SAGE handbook of
+human resource management (pp. 84-99). London: Sage.
+Muckinsky, P. M. (2004). Psicologia organizacional. São Paulo: Pioneira Thomson Learning.
+Myers, R. (1990). Classical and modern regression with applications (2nd ed.). Boston, MA:
+Duxbury.
+Nishii, L. H., Lepak, D. P., & Schneider, B. (2008). Employee attributions of the “Why” of HR
+practices: their effects on employee attitudes and behaviors, and customer satisfaction.
+Personnel Psychology, 61(3), 503-545. doi: 10.1111/j.1744-6570.2008.00121.x
+Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric theory (3rd ed.). New York: McGraw-Hill.
+Osborn, R., Hunt, J., & Schermerhorn, J. (1998). Fundamentos de comportamento organizacional
+(2nd ed.). São Paulo: Bookman.
+Pasquali, L. (Org.). (2008). Instrumentos psicológicos: manual prático de elaboração (2nd ed.).
+Brasília: LabPAM-IBAPP.
+Peterson, R. A. (1994). A meta-analysis of Cronbach’s coefficient alpha. Journal of Consumer
+Research, 21(2), 381-391.
+Pfeffer, J. (2005). Producing sustainable competitive advantage through effective management of
+people. Academy of Management Executive, 19(4), 95-108.
+Rubino, T., Demo, G., & Traldi, M. T. F. (2011, April). As políticas de gestão de pessoas influenciam
+o bem-estar no trabalho? Proceedings of the Congresso Iberoamericano de Psicologia das
+Organizações e do Trabalho, Florianópolis, SC, Brazil, 2.
+Schneider, B., & Bowen, D. (1985). Employee and customer perceptions of service in banks:
+replication and extension. Journal of Applied Psychology, 70(3), 423-433. doi: 10.1037/00219010.70.3.423
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+G. Demo, E. R. Neiva, I. Nunes, K. Rozzett
+
+420
+
+Serpell, A., & Ferrada, X. (2007). A competency-based model for construction supervisors in
+developing countries. Personnel Review, 36(4), 585-602. doi: 10.1108/00483480710752812
+Singar, E. J., & Ramdsen, J. (1972). Human resources: obtaining results from people at work. UK:
+McGraw-Hill.
+Siqueira, M. M. M. (2008). Envolvimento com o trabalho. In M. M. M. Siqueira (Org.), Medidas do
+comportamento organizacional: ferramentas de diagnóstico e de gestão (pp. 139-143). Porto
+Alegre: Artmed.
+Sisson, K. (1994). Personnel management: paradigms, practice and prospects. In: K. Sisson (Ed.),
+Personnel management (2nd ed., pp. 3-50). Oxford: Blackwell.
+Stone, D. L., Stone-Romero, E. F., & Lukaszewski, K. (2007). The impact of cultural values on
+acceptance and effectiveness of human resource management policies and practices. Human
+Resource Management Review, 17(2), 152-165. doi: 10.1016/j.hrmr.2007.04.003
+Storey, J. (1995). New perspectives in human resource management. London: Routledge.
+Subramony, M. (2009). A meta-analytic investigation of the relationship between HRM bundles and
+firm performance. Human Resource Management, 48(5), 745-768. doi: 10.1002/hrm.20315
+Tabachnick, B. G., & Fidell, L. S. (2007). Using multivariate statistics (5th ed.). San Francisco: Allyn
+& Bacon.
+Turner, R., Huemann, M., & Keegan, A. (2008). Human resource management in the project-oriented
+organization: employee well-being and ethical treatment. The International Journal of Project
+Management, 26(5), 577-585. doi: 10.1016/j.ijproman.2008.05.005
+Ulrich, D. (2001). Os campeões de recursos humanos. São Paulo: Futura.
+Ulrich, D., Halbrook, R., Meder, D., Stuchlik, M., & Thorpe, S. (1991). Employee and customer
+attachment: synergies for competitive. Human Resource Planning, 14(2), 89-102.
+Uysal, G. (2012). For the development of effective HRM systems: inter-relationships between HRM
+practices using correlation analysis. World Review of Entrepreneurship, Management and
+Sustainable Development, 8(1), 1-12. doi: 10.1504/WREMSD.2012.044483
+Vakola, M., Soderquist, K. E., & Pratascos, G. P. (2007). Competence management in support of
+organizational change. International Journal of Manpower, 28(3/4), 260-275. doi:
+10.1108/01437720710755245
+Winterton, J. (2007). Training, development and competence. In P. Boxall, J. Purcell, & P. Wright
+(Eds.), The Oxford handbook of human resource management (pp. 324-343). New York:
+Oxford University Press.
+
+BAR, Rio de Janeiro, v. 9, n. 4, art. 2, pp. 395-420, Oct./Dec. 2012
+
+www.anpad.org.br/bar
+
+

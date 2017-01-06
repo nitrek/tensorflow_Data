@@ -1,0 +1,1628 @@
+INITIAL DECISION RELEASE NO. 1030
+ADMINISTRATIVE PROCEEDING
+FILE NO. 3-16594
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+In the Matter of
+EQUITY TRUST COMPANY
+
+APPEARANCES:
+
+:
+:
+
+INITIAL DECISION
+June 27, 2016
+
+David Stoelting, Andrew Dean, and Luke Fitzgerald for the
+Division of Enforcement, Securities and Exchange Commission
+Howard M. Groedel of Ulmer & Berne LLP and
+Stephen J. Crimmins and Brian M. Walsh of Murphy & McGonigle P.C.
+for Respondent Equity Trust Company
+
+BEFORE:
+
+Carol Fox Foelak, Administrative Law Judge
+SUMMARY
+
+This Initial Decision dismisses charges brought against Equity Trust Company. The
+charges concerned its role as custodian of so-called “self-directed” individual retirement
+accounts that held investments promoted by individuals who turned out to be fraudsters. Equity
+Trust is not registered with the Securities and Exchange Commission in any capacity.
+I. INTRODUCTION
+A. Procedural Background
+The Commission instituted this proceeding with an Order Instituting Proceedings (OIP)
+on June 16, 2015, pursuant to Section 8A of the Securities Act of 1933. The undersigned held an
+eight-day hearing in Washington, D.C., in December 2015. The Division of Enforcement called
+nineteen witnesses, including two expert witnesses, from whom evidence was taken, and
+Respondent called eight witnesses, including three expert witnesses. Numerous exhibits were
+admitted into evidence.1
+
+1
+
+Citations to the transcript will be noted as “Tr. __.” Citations to exhibits offered by the
+Division and Respondent will be noted as “Div. Ex. __” and “Resp. Ex. __,” respectively.
+
+The findings and conclusions in this Initial Decision are based on the record and public
+official records of which official notice has been taken, pursuant to 17 C.F.R. § 201.323.
+Preponderance of the evidence was applied as the standard of proof. See Steadman v. SEC, 450
+U.S. 91, 96-104 (1981). Pursuant to the Administrative Procedure Act, 5 U.S.C. § 557(c), the
+following post-hearing pleadings were considered: (1) the Division’s Proposed Findings of Fact
+and Conclusions of Law, filed February 1, 2016; (2) Respondent’s Post-Hearing Brief, filed
+February 1, 2016; and (3) the parties’ February 29, 2016, Replies. All arguments and proposed
+findings and conclusions that are inconsistent with this Initial Decision were considered and
+rejected.
+B. Allegations and Arguments of the Parties
+This proceeding concerns the role of Equity Trust Company, a custodian for individual
+retirement accounts, in processing investments for customers referred by two promoters who
+were subsequently convicted for fraud. The OIP alleges that Equity Trust’s procedures were
+deficient such that it was a cause of violations by the two promoters of Securities Act Sections
+17(a)(2) and 17(a)(3). OIP at 2. The Division is seeking a cease-and-desist order, disgorgement,
+a civil penalty, and an order that Equity Trust retain an independent compliance consultant for a
+period of three years. Div. FOF at 181-88. Equity Trust argues that this proceeding is
+constitutionally infirm, that the investments at issue were not securities, that it did not fail in any
+duties to the investors, and that, in any event, the sanctions are inappropriate. Resp. Br. at 45-50,
+55-63.
+C. Procedural Issues
+Respondent argues that the proceeding is unconstitutional because the Commission
+appoints administrative law judges in a manner that is inconsistent with the Appointments Clause
+of the United States Constitution and because it otherwise lacks due process. Resp. Br. at 62-63.
+However, the Commission has rejected the Appointments Clause argument. Raymond J. Lucia
+Cos., Inc., Securities Exchange Act of 1934 Release No. 75837, 2015 SEC LEXIS 3628, at *7690 (Sept. 3, 2015), appeal pending, No. 15-1345 (D.C. Cir.); accord Timbervest, LLC,
+Investment Advisers Act of 1940 Release No. 4197, 2015 SEC LEXIS 3854, at *89-104 (Sept.
+17, 2015), appeal pending, No. 15-1416 (D.C. Cir.); David F. Bandimere, Securities Act Release
+No. 9972, 2015 SEC LEXIS 4472, at *74-86 (Oct. 29, 2015).
+Respondent’s argument that the proceeding deprives it of its right to a jury trial also fails.
+Atlas Roofing Co. v. OSHRC, 430 U.S. 442 (1977).2
+2
+
+Respondent cites Atlas Roofing in support of its argument that it was denied its constitutional
+right to a jury trial even though the Supreme Court upheld administrative adjudication of
+violations and of imposition of monetary penalties. Resp. Br. at 63. Respondent argues that its
+rights were violated because the Commission could have sued it in court where it would have
+had a right to a jury trial – essentially, Respondent argues that the Commission’s exercise of
+prosecutorial discretion violates the Constitution. Id. It is not clear why the exercise of
+prosecutorial discretion violates the Constitution.
+
+2
+
+Respondent urges that the Commission’s administrative proceedings are inherently unfair
+and violate the Due Process Clause in that: the Division had years to prepare its case, taking as
+many depositions as it chose, while Respondent was constrained to a short timeline with limited
+discovery that does not include depositions; the Commission has no rules of evidence, resulting
+in a record that includes extensive amounts of hearsay; and, after being rushed to hearing, Equity
+Trust will have to wait years for the Commission’s de novo review of the initial decision, if
+either party seeks review, before the Commission issues its final decision, far longer than in
+federal district court. Resp. Br. at 62.
+Respondent cites no authority to show that the procedures of the Commission’s
+administrative proceedings violate the Due Process clause. Indeed, “[t]he fundamental
+requirement of due process is the opportunity to be heard ‘at a meaningful time and in a
+meaningful manner.’” Matthews v. Eldridge, 424 U.S. 319, 333 (1976) (quoting Armstrong v.
+Manzo, 380 U.S. 545, 552 (1965)); see also Jonathan Feins, Exchange Act Release No. 41943,
+1999 SEC LEXIS 2039, at *25-26 (Sept. 29, 1999) (“Administrative due process is satisfied
+where the party against whom the proceeding is brought understands the issues and is afforded a
+full opportunity to meet the charges during the course of the proceeding.”). Respondent had an
+eight-day hearing and the opportunity to call witnesses and cross-examine the Division’s
+witnesses. While the procedures of the administrative proceedings may differ in some respects
+from those in district court, Respondent has not shown that they violate the Due Process clause.
+II. FINDINGS OF FACT
+A. Relevant Individuals and Entities
+1. Self-Directed Individual Retirement Accounts
+The investment vehicles at issue are a variation of the individual retirement account
+(IRA) in which investments, pursuant to the Internal Revenue Code and rules, are funded by pretax contributions and are not taxed until distribution to the individual account holder. Major wire
+houses serve as custodians for many IRAs.3 The IRA custodian holds title, for the benefit of the
+customer, to the IRA assets and provides timely reporting and filings to the IRS. Tr. 990-92. A
+so-called “self-directed” IRA (SDIRA) is an IRA administered by a custodian that permits
+investments in alternative assets other than publicly traded stocks and bonds, such as promissory
+notes, real estate, private placement securities, and precious metals. Div. Exs. 857-58.
+Typically, major wire houses do not serve as custodians for SDIRAs. Tr. 962-63.
+
+3
+
+Tax treatment of IRAs is as provided in 26 U.S.C. § 408, which describes an IRA as a trust and
+requires the trustee to be a bank; the term “bank” includes “a corporation which, under the laws
+of the State of its incorporation, is subject to supervision and examination by the Commissioner
+of Banking or other officer of such State in charge of the administration of the banking laws of
+such State.” 26 U.S.C. § 408(a)(2), (n)(3). “[A] custodial account is treated as a trust.” 26
+C.F.R. § 1.408-2(d).
+
+3
+
+In a September 2011 Investor Alert, titled “Self-Directed IRAs and the Risk of Fraud,” of
+which official notice is taken pursuant to 17 C.F.R. §201.323 and which is in the record as
+Respondent Exhibit 46, the Commission warned that promoters of fraudulent schemes may
+exploit SDIRAs because they permit investors to hold unregistered securities and the custodians
+of the accounts likely have not investigated the securities or the background of the promoter.
+Resp. Ex. 46 at 2. The Commission explained, “Self-directed IRA custodians generally do not
+evaluate the quality or legitimacy of any investment in the self-directed IRA or its promoters.
+Furthermore, most custodial agreements between a self-directed IRA custodian and an investor
+explicitly state that the self-directed IRA custodian has no responsibility for investment
+performance.” Id.
+2. Equity Trust
+Equity Trust is a private corporation ultimately owned by members of the Desich family.
+Tr. 200, 650. Its principal place of business is in Ohio. Answer at ¶ 6. Jeffrey Desich is, and
+was during the relevant period, Equity Trust’s CEO. Tr. 603, 964-65. Equity Trust came into
+being in 2003 when it assumed the SDIRA accounts of a predecessor, Mid-Ohio Securities Corp.
+Tr. 924-25. Mid-Ohio was a broker-dealer whose president and CEO was Desich’s father.4 Tr.
+924-26, 933; Div. Ex. 598 at 38. Desich joined Mid-Ohio in 1999, when his father was still
+actively running the business. Tr. 924, 932-33. Equity Trust is not registered with the
+Commission in any capacity. It is organized and chartered under the laws of South Dakota and is
+regulated by the South Dakota Division of Banking as a South Dakota public trust company.5
+Tr. 1158-59; Div. Ex. 598. Equity Trust has 130,000 to 140,000 customers and currently is
+
+4
+
+See Mid-Ohio Securities Corp., BrokerCheck Report, available at http://brokercheck.finra.org
+(last visited May 26, 2016). Official notice is taken of this and any other Financial Industry
+Regulatory Authority, Inc. (FINRA), records cited herein. See Joseph S. Amundsen, Exchange
+Act Release No. 69406, 2013 SEC LEXIS 1148, at *2 n.1 (Apr. 18, 2013), pet. denied, 575 F.
+App’x 1 (D.C. Cir. 2014). Mid-Ohio was registered from 1974 to 2013; regulatory authorities
+imposed sanctions on it a number of times. See Mid-Ohio Securities Corp., BrokerCheck
+Report. In a 2003 settlement order, the Commission found that Mid-Ohio violated customer
+protection, net capital, recordkeeping, and reporting rules in the operation of its IRA custodian
+business; the sanctions were a cease-and-desist order, a censure, and a $25,000 civil penalty.
+Mid-Ohio Sec. Corp., Exchange Act Release No. 48635, 2003 SEC LEXIS 2446 (Oct. 15, 2003).
+5
+
+The Division of Banking conducts examinations of public trust companies, such as Equity
+Trust, every twenty-four months; it follows guidance contained in the Federal Deposit Insurance
+Corporation trust examination manual and Office of the Comptroller of the Currency (OCC)
+handbooks, such as the OCC’s Common Trust Funds handbook. Tr. 1161-62. It conducted an
+examination in 2010, after Equity Trust acquired Sterling Trust Company of Waco, Texas, with
+the assistance of the Texas Department of Banking. Div. Ex. 595 at 3. It conducted
+examinations in 2011 and 2014 with the assistance of the Texas Department of Banking and the
+Ohio Division of Financial Institutions. Div. Ex. 596 at 3; Div. Ex. 597 at 6.
+
+4
+
+custodian for $13 to $14 billion in SDIRA assets. Tr. 961-62. Its size increased greatly in 2009,
+during the time at issue, when it acquired Sterling Trust Company of Waco, Texas.6
+Equity Trust’s target investor was a person of modest resources. Its publication “Proven
+Wealth Building Secrets – For You and Your Children” stated:
+Equity Trust Company was formed to meet the needs of the small- and mediumsized investor. Most (99%) IRA custodians do not allow non-traditional
+investments. Equity Trust Company welcomes your account, of any size, and
+encourages your investment in real estate and other vehicles you already know.
+Read this report and then call Equity Trust Company at 1-888-ETC-IRAS.
+Div. Ex. 548 at 6. The publication reiterated and emphasized: “But at Equity Trust Company,
+they actually encourage you to invest in the very areas that other custodians won’t allow!”
+Id. at 22 (emphasis in original).
+3. Equity Trust Advised Customers that it was a Passive Custodian
+The custodial agreement included in Equity Trust’s account opening applications and the
+company’s direction of investment (DOI) forms (by which the account holder directed Equity
+Trust to make a particular investment) made clear that the account holder was solely responsible
+for investment decisions and that Equity Trust was a passive custodian, was not a fiduciary, and
+had no duties or responsibilities with respect to selecting or monitoring the investments.
+a. Custodial Agreement
+The custodial agreement contained the following language:
+(a) In General. You have exclusive responsibility for and control over the
+investment of the assets in your IRA. . . .
+(b) Custodian Acting in Passive Capacity Only. We are acting solely as a passive
+custodian to hold IRA assets and we have no discretion to direct any investment
+in your IRA. Accordingly, we are not a fiduciary (as said term is defined in the
+Internal Revenue Code, ERISA, or any other applicable federal, state, or local
+laws) . . . It is not our responsibility to review the prudence, merits, viability
+or suitability of any investment directed by you . . . or to determine whether
+6
+
+As of June 30, 2007, Equity Trust had 38,434 accounts under management, with total assets
+over $2.4 billion. Tr. 1169; Div. Ex. 594 at 5. As of December 31, 2009, after acquiring
+Sterling Trust Company, Equity Trust had 128,442 accounts, with holdings approximating $8.7
+billion. Div. Ex. 595 at 3, 7, 9. As of year-end 2010 and 2011, it had 133,273 and 132,484
+accounts, respectively, with holdings each year approximating $10 billion. Div. Ex. 596 at 12.
+As of year-end 2012 and 2013, Equity Trust had 142,039 and 140,887 accounts, respectively,
+with holdings approximating $12 billion. Div. Ex. 597 at 14.
+
+5
+
+the investment is acceptable under ERISA, the Internal Revenue Code, or
+any other applicable law. We do not offer any investment advice, nor do we
+endorse any investment, investment product . . . [,] investment advisor,
+representative, broker, or other party selected by you. . . .
+It is your responsibility to perform proper due diligence with regard to any such
+representative, investment advisor, broker, or other party. . . .
+We shall be under no obligation or duty to investigate, analyze, monitor,
+verify title to, or otherwise evaluate or perform due diligence for any
+investment directed by you . . . .
+Any review performed by us with respect to an investment shall be solely for our
+own purposes of determining compliance with our internal policies, practices and
+standards . . . and the administrative feasibility of the investment and neither such
+review nor its acceptance should be construed in any way as an endorsement of
+any investment . . . We have no duty or obligation to notify you with respect to
+any information, knowledge, irregularities or our concerns relating to your
+investment or your investment advisor, broker, agent, promoter or representative.
+...
+You authorize and direct us to execute and deliver, on behalf of your IRA, any
+and all documents delivered to us in connection with your IRA investments; and
+we shall have no responsibility to verify or determine that any such documents are
+complete, accurate or constitute the documents necessary to comply with your
+investment direction.
+Resp. Ex. 92 at 8 (emphasis in original); see also Resp. Ex. 90 at 4; Resp. Ex. 91 at 4-5; Resp.
+Exs. 93-94 at 10; Resp. Exs. 95-96 at 10-11.
+b. DOI Forms
+The DOI forms contained similar language, emphasized with a bold face warning
+immediately preceding the Account Owner’s Signature line:
+Equity Trust Company (Custodian) does not offer any investment advice, nor
+does it endorse any investment . . . [,] any financial advisor, representative, broker
+or other party. . . . It is my own responsibility to perform proper due diligence
+with regard to any such representative . . . Any review performed by Custodian
+with respect to investment shall be solely for Custodian’s own purposes of
+determining the administrative feasibility of the investment and in no way should
+be construed as an endorsement of any investment, investment company, or
+investment strategy. . . .
+Neither Custodian nor any employee or agent of Custodian has selected or
+recommended any investment for me . . .
+
+6
+
+Custodian is acting solely as a passive custodian to hold Retirement Account
+assets and in no other capacity. . . .
+Custodian shall be under no obligation or duty to investigate, analyze, monitor,
+verify title to or otherwise evaluate any investment. . . .
+It is not the responsibility of Custodian to review the prudence, merits, viability or
+suitability of any investment made by me. . . .
+Custodian shall have no duty or obligation to notify the undersigned with respect
+to any information, knowledge, irregularities or concerns of Custodian relating to
+my investment or my financial advisor, broker, agent, promoter or representative,
+except as to civil pleadings or court orders received by custodian. . . .
+Custodian’s responsibilities and duties shall be limited to those expressly
+provided herein and under the Custodian’s IRA Adoption Agreement. . . .
+My Retirement Account is self-directed and I, alone, am responsible for the
+selection, due diligence, management, review and retention of all
+investments in my account. I agree that the Custodian is not a “fiduciary”
+for my account, as said term is defined in the Internal Revenue Code,
+ERISA, or any other applicable federal, state or local laws. I hereby direct
+the custodian, in a passive capacity, to enact this transaction for my account,
+in accordance with my adoption agreement.
+SIGN & DATE
+CHECK THIS PAGE ONE MORE TIME AND MAKE
+SURE IT’S COMPLETE, STOP! FORM COMPLETE
+____________________________________
+Account Owner’s Signature
+Date
+Resp. Exs. 88-89, 97-99 at 5 (emphasis in original).
+4. Fees
+Equity Trust charged customers an annual maintenance fee based on the value of assets in
+the account; for example, for $1 - $14,999 the fee was $190; for $100,000 - $199,999, $440; for
+$500,000 - 599,000, $1,500; and for $1,000,000 and over, $1,850. Div. Ex. 696 at 138. For
+2010 and after, a $20 paper statement charge was added. See, e.g., Resp. Ex. 135 at 43, 57.
+Additional fees are charged for special services, such as $5 for processing documents requiring a
+notary and $30 for wire transfers. Div. Ex. 696 at 138. Most customers pay around $300 to
+$400. Tr. 995. As Desich opined, this relatively low level of fees would not make economic
+sense if a SDIRA custodian were required to do extensive due diligence on hard-to-value assets.
+Tr. 996-99.
+
+7
+
+5. Privacy Policy
+The account application asked for the applicant’s name, address, date of birth, Social
+Security number, a client-selected PIN, citizenship, beneficiaries, and other information. See,
+e.g., Resp. Ex. 135. Equity Trust included a privacy statement in account statements it sent to
+customers for the quarters ending September 30: “Equity Trust Company restricts access to your
+personal and account information to those employees and affiliates who need to know the
+information to provide products, education materials, or services to you and we educate our
+employees about the importance of confidentiality and customer privacy.” See, e.g., Resp. Ex.
+135 at 54, 78; Resp. Ex. 142 at 22, 51; Resp. Ex. 168 at 15, 36; Div. Ex. 696 at 61, 67, 77
+(Privacy Statements from selected account statements for the periods ended September 30, 2009,
+2010, 2011, and 2013). This representation also appeared in Equity Trust’s account opening
+applications.
+Michael Dea is currently Equity Trust’s president and during the time at issue was its
+president and chief financial officer. Tr. 649. Dea testified that the privacy policy allowed
+certain types of information to be communicated to someone who had a customer’s PIN.7 Tr.
+690. Jeffery Bartlett, compliance manager, considered this appropriate. Tr. 896, 903-05, 91416. Dea and Bartlett’s interpretation was consistent with Equity Trust’s internal “Customer Data
+Protection and Privacy Policy,” which provided that it might disclose nonpublic personal
+information:
+In the course of business to administer, enforce, or effect a transaction requested
+or authorized by the consumer • To service or process a financial product or
+service requested or authorized by the consumer. . . . To carry out a transaction or
+product or service the business of which the transaction is a part, and record,
+service, or maintain the consumer’s account in the ordinary course of providing
+the financial service or product.
+Div. Ex. 46 at 2, 14. Investors in City Capital Corporation who submitted their Equity Trust
+account applications through City Capital, as found infra, perforce made their PINs and other
+personally identifiable information in the applications available to City Capital.
+
+7
+
+Sales representative Robert Batt had never read the written privacy policy and applied the
+policy articulated by Dea in providing information to Ephren Taylor, whose assistant Kinetra
+Dixon had PINs of customers who invested in Taylor’s entities. Tr. 306, 342-45. Keith Marsh,
+sales supervisor, regarded the PIN as protecting the account against unauthorized transactions or
+against divulging specific confidential information such as a Social Security number. Tr. 22122, 264. If the investment sponsor was working together with the client on an investment, the
+sales representative would advise the sponsor whether the client’s funds had arrived, or when
+they were expected, and a dollar amount. Tr. 222-23, 264. This was common practice. Tr. 224,
+345.
+
+8
+
+6. Marketing
+Sales representatives were paid $50 for each account opened. Tr. 207, 293-94, 982.
+Their performance was evaluated on the number of accounts opened. Tr. 201-02, 664. Sales
+representatives, such as Robert Batt, followed up on leads from various sources, including paid
+internet advertising.8 Tr. 447-48, 672; Div. Ex. 563. To achieve his performance goal, Batt
+made ninety telephone calls a day to yield three new accounts. Tr. 447. Management performed
+random monitoring of the representatives’ calls, amounting to monitoring about three calls per
+month per representative. Tr. 211-13. If management heard a representative speak favorably of
+a sponsor, the behavior was corrected through counseling. Tr. 213.
+At Equity Trust the term “Center of Influence” (COI) was used interchangeably with
+“referral source” and “investment sponsor,” and referred to persons who referred multiple
+accounts to Equity Trust. Tr. 210, 293, 663, 1204-05. A COI was associated with a specific
+sales representative, who would receive credit for accounts opened that had been referred by that
+COI. See, e.g., Tr. 293-96, 487, 501, 1231-32; Div. Ex. 191. As discussed below, fraudsters
+Ephren Taylor and Randy Poulson were COIs. Taylor was one of Robert Batt’s COIs. Tr. 29496. Batt’s business dealings with Taylor started in about February or March 2008. Tr. 304-05,
+446; Div. Ex. 270. Poulson was one of Irene Berlovan’s COIs. Tr. 1204-05. Batt understood
+that he could not endorse a COI or an investment. Tr. 301-03. Berlovan understood that she was
+not to vouch for the legitimacy of an investment but did not recall any specific training on that.
+Tr. 1205-06. Keith Marsh, a sales supervisor employed at Equity Trust from 2006 to 2012, who
+received the general training that all the employees had in about 2006 and later participated as a
+trainer, recalled that employees were told generally that being a passive custodian meant that
+they could not give investment advice or endorse any particular investment. Tr. 195-97, 210. At
+times, sales representatives attended sponsors’ events to provide the necessary applications and
+support to attendees who wanted to open accounts. Tr. 665.
+Equity Trust’s training for new employees focused on client service etiquette, such as
+how to engage a prospect on the phone using techniques such as asking open-ended questions;
+and on features of IRAs, such as eligibility requirements. Tr. 197, 209, 266, 296-97, 301.
+Employees were told that Equity Trust was a passive custodian and that they could not give
+investment advice or recommend or endorse any investment. Tr. 209-10, 301. The training did
+not address the possibility that fraudulent investment promoters might use SDIRAs as vehicles
+for fraud. Tr. 297-98. Employees who attended sponsors’ events were counseled or trained on
+how to be approachable (e.g., don’t sit behind the booth) and how to dress. Tr. 226, 235, 303-04;
+Div. Ex. 610.
+Equity Trust had a “Do Not Process” (DNP) list, emailed to sales representatives every
+two weeks, of sponsors and investments that could not be processed. Tr. 219, 299; Div. Ex. 490.
+8
+
+Equity Trust had landing pages such that if an individual using a search engine clicked on
+Equity Trust’s advertisement, he or she would reach a page tied to Pay Per Click asking for
+name, email address, and phone number that would constitute a lead that Equity Trust could
+follow up on. Tr. 993-94.
+
+9
+
+The list did not specify the reason that a particular sponsor or investment was on it. Tr. 299, 427.
+After Taylor’s City Capital Corporation was placed on the list, Batt did not take their phone calls
+and forwarded any emails to his supervisor, Keith Marsh. Tr. 467; Div. Ex. 519 at 2. City
+Capital was placed on the DNP list in January 2010. Tr. 427, 470. This stopped any new City
+Capital investments, but a number of existing City Capital notes were extended. Tr. 763-64, 893.
+The justification for this was that if Equity Trust did not allow a maturing note to be extended, it
+would have to be distributed to the customer, resulting in tax consequences.9 Tr. 894, 916-17.
+Poulson and his entity Equity Capital Investment were placed on the DNP list on October 25,
+2012. Div. Ex. 247; Div. Ex. 578 at 28. If questioned, Equity Capital would tell customers or
+sponsors that a particular investment was “administratively not feasible,” which was a catch-all
+term that was intended to sound innocuous. Tr. 262-63, 985, 1589-90.
+Edwin Kelly worked at Equity Trust from May 2005 to January 2011. 10 Tr. 596. He
+often spoke at events sponsored by Equity Trust and by others to promote Equity Trust’s
+products and services. Tr. 597-98. At one such event held from October 30 to November 2,
+2008, he encountered a speaker named Al Aiello, who sold a course on how to reduce taxes. Tr.
+600-01, 636. Aiello, now deceased, saw Kelly reading Taylor’s book “Creating Success From
+the Inside Out” and told him that Taylor was a crook who had cheated a client out of $600,000.
+Tr. 601-02. Aiello declined to identify the client but offered to provide Kelly’s contact
+information to the client.11 Tr. 601-02. Kelly testified that he told Desich, while they were still
+at the event, that Aiello said Taylor was a crook and that Desich instructed him to tell Dea, who
+was president of Equity Trust and in charge of compliance. Tr. 603-04. Desich testified that he
+did not recall such a conversation. Tr. 934-35. Kelly testified that he told Dea but did not recall
+Dea’s reaction. Tr. 604. Dea testified that he did not recall ever having a conversation with
+Kelly on the subject of Aiello’s saying that Taylor was a crook. Tr. 712-13. Kelly did not recall
+discussing Aiello’s accusation with anyone else at the time or later. Tr. 606. In light of the
+sketchy second-hand information originating from Aiello, as well as the fact that Kelly does not
+recall Dea’s reaction, it is found that, even if Kelly’s conversations with Desich and Dea took
+place as he described, they were not memorable so as to constitute red flags putting Desich and
+Dea on notice that Taylor was a crook.
+
+9
+
+This scenario assumes that the customer insisted on extending the note even if Equity Trust
+refused to hold the extended note. There is no need for a distribution of a note that matured and
+paid off. The resulting cash could be held in the account or used for a new investment.
+10
+
+Kelly is now in business with Keith Marsh as a SDIRA custodian called Specialized IRA
+Services. Tr. 624.
+11
+
+Kelly never heard from the unidentified client. Tr. 602.
+
+10
+
+7. Fraudsters
+Equity Trust’s customers included persons who invested in investments promoted by
+Ephren Taylor and Randy Poulson, both of whom were subsequently convicted of offenses
+related to the events at issue.12
+a. Ephren Taylor
+Taylor was convicted of conspiracy to commit wire fraud; he was sentenced to 235
+months of imprisonment, followed by three years of supervised release, and ordered to pay
+$15,590,752.81 in restitution. United States v. Taylor, No. 1-14-cr-217 (N.D. Ga. Mar. 24,
+2015), ECF No. 65.13 Taylor was unable to attend the hearing because of imprisonment; his
+testimony was taken by deposition, which was admitted at the hearing in the form of a video
+recording and written transcript.14 See Equity Trust Co., Admin. Proc. Rulings Release No.
+2975, 2015 SEC LEXIS 3045 (A.L.J. July 27, 2015); 17 C.F.R. §§ 201.233(b), .235(a)(3), (5).
+b. Randy Poulson
+Poulson was convicted of mail fraud; he was sentenced to seventy months of
+imprisonment, followed by three years of supervised release, and ordered to pay $2,580,940.94
+in restitution. United States v. Poulson, No. 14-cr-309 (D.N.J. Jan. 22, 2016), ECF No. 27. He
+testified at the hearing. Tr. 489-594.
+
+12
+
+The OIP alleges that Equity Trust has been a custodian for numerous fraudulent investments,
+“and Poulson and Taylor were just two examples.” OIP at 3. However, other fraudsters were
+only briefly addressed in the record. Tr. 703-04, 732-43. John Bravata was convicted of wire
+fraud. United States v. Bravata, No. 11-cr-20314 (E.D. Mich. Dec. 11, 2013), aff’d, 2016 U.S.
+App. LEXIS 1120 (6th Cir. Jan. 22, 2016). Robert Langguth was convicted of wire fraud and
+money laundering. United States v. Langguth, No. 12-cr-419 (W.D. Tex. Apr. 3, 2013). An
+individual named Kenneth Starr was also referenced at Tr. 703, but it is not clear whether he is
+the defendant who was convicted of wire fraud, money laundering, and investment adviser fraud
+in United States v. Starr, No. 10-cr-520 (S.D.N.Y. Mar. 3, 2011), based on the description of the
+misconduct in the complaint. Additionally, Ron LeGrand, a friend of Desich’s father, who gave
+lectures on profiting from real estate investments, including through SDIRAs, was enjoined
+against violations of Securities Act Sections 5(a), 5(c), 17(a)(2), and 17(a)(3) and fined
+$150,000. SEC v. LeGrand, No. 11-cv-474 (S.D.W.V. Aug. 2, 2011); Tr. 199-200, 672-73.
+13
+
+Of the total amount of restitution, $5,815,299.13 was ordered to be paid jointly and severally
+with co-defendant Wendy Connor. Id. at 6.
+14
+
+The video recording of the two-day, September 30 and October 1, 2015, deposition is
+contained in Division Exhibit 37, and the written transcript, in Division Exhibit 36.
+
+11
+
+B. Taylor Investments
+1. Taylor’s Business Procedures
+Taylor’s primary investment vehicle was City Capital Corporation.15 Div. Ex. 36 at 2027; Tr. passim. City Capital also had subsidiaries including City Beauty Systems, LLC; City
+Petroleum LLC; City Juice Systems, LLC; City Laundry Services, LLC; Resilient Innovation
+Systems; New York City Liquidation Group; St. Clair Superior, Inc.; and Cleveland Alpha
+Properties. Div. Ex. 36 at 26-27, 172; Tr. 804, 809, 811; Div. Ex. 833 at 16.16 Generally, his
+investors made short-term loans to Taylor’s companies that were evidenced by promissory notes.
+Div. Ex. 36 at 25-26. The notes did not identify specific uses for the investors’ money. Id. at 27;
+see, e.g., Div. Ex. 684 at 126-28. Taylor used Resilient as an alternative borrower to conceal the
+fact that funds were going to City Capital, for example, when obtaining multiple loans from the
+same individual. Div. Ex. 36 at 35-36.
+Generally, the investor funds were used in ways that differed from the ways Taylor had
+pitched the investments: the primary use of the funds was for marketing expenses, general
+overhead, payroll, and servicing old debt, while Taylor told investors that the funds would be
+used to acquire real estate or a specific business, often centered around socially conscious
+community development or housing. Div. Ex. 36 at 29-30. City Capital had difficulty in paying
+the notes from at least 2007 through 2010. Id. at 28-29. Also, in 2009, for example, it had
+insufficient revenue to cover its operating expenses, resulting in a net operating loss of over $5
+million. Id. at 32-33, 227-29; 2009 Form 10-K. City Capital’s periodic reports, filed with the
+Commission and available to the public on EDGAR, disclosed its parlous financial condition,
+which worsened each year with increasing liabilities from the notes. Its 2009 Form 10-K
+contained a going concern statement; the audited financial statements showed current liabilities
+of $9,660,684 and total assets of $2,997,088 as of December 31, 2009. 2009 Form 10-K at 82.
+The liabilities were primarily from notes obligations. Div. Ex. 36 at 34-35. The 2008 and 2007
+Forms 10-K also contained going concern statements; and the audited financial statements
+showed current liabilities of $4,839,438 and total assets of $2,531,761 for 2008 and current
+liabilities of $3,288,319 and total assets of $2,559,742 for 2007.
+One method that City Capital used to conserve cash was to persuade investors to extend
+their notes when they came due, paying only the interest or even incorporating the interest into
+the new replacement note. Div. Ex. 36 at 102, 313-16. By early 2010, when Equity Trust
+declined to process new City Capital notes, extensions were critical to City Capital. Id. at 10102.
+15
+
+Official notice, pursuant to 17 C.F.R. § 201.323, is taken of City Capital’s Forms 10-K and
+other filings with the Commission. Taylor’s involvement with City Capital began in 2006. Div.
+Ex. 36 at 21, 165-66; see, e.g., City Capital’s Form 14F, filed July 11, 2006. He resigned from
+the company on October 22, 2010. City Capital’s Form 8-K, filed Nov. 2, 2010.
+16
+
+By December 2010, Equity Trust was aware of more than forty Taylor entities. Div. Ex. 498;
+Tr. 758-60.
+
+12
+
+Taylor originally obtained direct loans from individuals. Div. Ex. 36 at 39. Then he
+learned of SDIRAs and realized that people who did not have significant amounts of available
+cash might have retirement accounts. Id. He saw that this was a vehicle that would allow him to
+raise capital from significantly more people by rolling over their existing retirement accounts
+into SDIRAs. Id. Taylor held events at a number of churches, real estate seminars, and other
+venues, as well as making an infomercial and appearing on broadcast shows. Id. at 213-19, 30709. He also was on a panel at the 2008 Democratic Convention and on a panel moderated by
+David Gergen at a June 2009 conference on volunteering where Michelle Obama was the
+introductory speaker. Id. at 220-22.
+Generally, when an individual contacted City Capital as a result of an advertisement or
+seminar, City Capital evaluated the individual’s current retirement account to see if it could be
+rolled over; if so, City Capital pitched a business option that fit within the amount of the account;
+if the customer bit, City Capital provided filled-out Equity Trust forms for the customer to sign
+and return; City Capital then sent the forms to Equity Trust and waited for the money, which
+often would arrive in about two weeks. Div. Ex. 36 at 47-48, 179-82, 200-03. City Capital’s
+need for speed in processing increased as time went on and its liabilities mounted. Id. at 56-57.
+In 2010, City Capital promoted gambling machines as SDIRA investments, but Equity
+Trust declined to custody such property. Div. Ex. 36 at 331-35. City Capital, through another
+custodian, did deploy the machines in convenience stores, gas stations, and dedicated rooms in
+Virginia, North Carolina, and Texas. Id. at 336-38. The venture failed in Virginia when police
+raided and seized the machines. Id. at 337. Elsewhere, the venture failed due to fraud in that
+City Capital sold machines that did not exist. Id. at 337-38.
+2. Relationship with Equity Trust
+After experience with some SDIRA custodians whose processing he found to be too
+slow, Taylor discovered Equity Trust. Div. Ex. 36 at 40-43, 56. After an exchange of emails
+with Equity Trust, Taylor spoke on the telephone with Robert Batt in approximately 2008. Id. at
+43-45. Taylor began referring investors to Equity Trust and found its speed in processing their
+applications satisfactory – two weeks. Id. at 44-47. As the volume of business increased, Taylor
+obtained Equity Trust forms from Batt for Capital City sales representatives to use at Taylor
+events to sign people up on site. Id. at 52.
+Taylor sent marketing information to Batt and let him know when he would appear on
+television or otherwise was mentioned in media. Div. Ex. 36 at 51-52. Batt also kept Taylor
+apprised of whether his investors’ money had arrived at Equity Trust and the amounts. Id. at 54;
+see, e.g., Div. Exs. 275, 335-36, 385. In July 2009, Batt visited City Capital’s headquarters in
+Raleigh, North Carolina, to educate the staff about SDIRAs. Tr. 264-65, 349, 417-19; Div. Ex.
+36 at 67-68; Div. Ex. 327. Taylor met Batt in person only once, at the New Birth Missionary
+Baptist Church event discussed below. Tr. 459-60; Div. Ex. 36 at 71.
+
+13
+
+3. City Capital Landing Page
+Equity Trust created a “landing page” for City Capital as a sub-page on the Equity Trust
+website.17 Div. Ex. 525 at 2. The page’s first paragraph, headed “City Capital Corporation –
+Wealth Builder Network,” stated “Welcome to the personalized Equity Trust Company page for
+members of the Wealth Builder Network,” and listed Batt as the contact. Id. The landing page
+provided information about SDIRAs and links to forms for customers who wished to open an
+account with Equity Trust. Id.
+Development of the landing page reached the beta test stage. Tr. 379-80. The parties
+dispute whether it ever went live on the Equity Trust website. In any event, the landing page did
+not promote Taylor or City Capital. City Capital is mentioned once, in the heading quoted above,
+and Taylor is not mentioned. Div. Ex. 525 at 2. The rest of the page consisted of links to Equity
+Capital forms and to information about holding real estate in SDIRAs. Id.
+4. New Birth Missionary Baptist Church
+New Birth Missionary Baptist Church is a large church in the Atlanta, Georgia, area, with
+a predominantly African-American congregation of about 25,000. Tr. 16, 19, 22, 39-40. Its
+long-time pastor, Bishop Eddie Long, built the church from an original membership of about 300
+and was greatly respected and influential over the members. Tr. 40-45, 127-29. Long spoke
+highly of Taylor. Tr. 50-52, 134, 1372, 1380-81, 1395-96. In October 2009, Taylor came to
+New Birth to speak about investment opportunities. Tr. 15, 99. He was accompanied by twelve
+City Capital sales representatives, supplied with Equity Trust forms, to handle the hoped-for
+enormous volume of applications, appointments, and sales. Div. Ex. 36 at 86-87. He spoke
+briefly at the Sunday worship service and presented a seminar on the following Tuesday evening
+to a large group of well over 3,000.18 Tr. 19-20; Div. Exs. 9, 800. Taylor described SDIRAs, in
+which the investor controlled where his money was invested, as contrasted to investing in mutual
+funds, which may invest in companies engaged in ungodly activities, such as strip clubs. Tr. 18,
+1351; Div. Ex. 9 at 46-48. Equity Trust sales representative Robert Batt was in attendance in the
+audience; Taylor asked him to stand up and be recognized as his “personal banker.” 19 Tr. 21,
+244, 1352-53; Div. Ex. 800-A. Batt did not deny this description at the time. Tr. 26, 1355-56;
+Div. Ex. 9 at 3-4; Div. Ex. 800-A. Neither Batt nor anyone else from Equity Trust appeared at
+
+17
+
+Landing pages were created for other investment sponsors as well. Tr. 380-81; see, e.g., Div.
+Ex. 525 at 3-4.
+18
+
+Taylor estimated the attendance at 6,000 or 7,000. Div. Ex. 9 at 64. Investor Crystal Turner
+described the church as “packed.” Tr. 1352.
+19
+
+Taylor described why he characterized Batt as his “banker”: “All the money that we raised, it
+was coming through Equity Trust and, because of Mr. Batt, it was the same to us as going to the
+bank and asking to borrow money; he still was that conduit that made that happen.” Div. Ex. 36
+at 79-80.
+
+14
+
+any other Taylor events. Tr. 459-60. Batt met Taylor for the first and only time at the New Birth
+event. Div. Ex. 36 at 71.
+After Taylor’s speech, investor Lillian Wells approached Batt to ask about SDIRAs, and
+Batt introduced her to Taylor, who was engaged in signing copies of a book he had written. Tr.
+24-25. Taylor handed her over to an associate who made an appointment for her to return on the
+following Thursday to set up an account with Equity Trust. Tr. 25-27. The appointment was
+with a Mr. Ferguson, whom Wells understood to be part of Taylor’s organization. Tr. 26-27. On
+that date she signed the account opening documents without reading them closely. Tr. 27-29, 84;
+Div. Ex. 684 at 197-98; Resp. Ex. 183 at 1-2. She returned the account opening documents,
+which included a PIN, to Ferguson. Tr. 78. Wells was attracted by the SDIRA concept because
+she wanted to control where her money was invested. Tr. 53-54, 63. Her IRA was then at
+Merrill Lynch; she asked her financial advisor there about changing it to a SDIRA, but he
+declined. Tr. 70. Wells invested funds in a City Capital unsecured promissory note; she signed
+the DOI without reading it closely. Tr. 31-33; Div. Ex. 684 at 126-32. The funds were never
+repaid; around the time of the note’s September 2010 maturity date, Wells contacted Equity
+Trust, which told her to contact City Capital about the payment; she did so but got the runaround.
+Tr. 34-36.
+Church member Ronald Jones conferred with Stacey Harvin, Keith McRae, Wendy
+Connor, Kinetra Dixon, and John Ferguson, all of whom he understood to be associated with
+Taylor’s company, City Capital, as well as with Batt. Tr. 101-16. Jones met with the Taylor
+associates after the Sunday service and with Batt on the following Tuesday. Tr. 101-14, 157.
+Between those dates, on October 19, 2009, Jones signed account opening documents. Resp. Ex.
+142 at 1-2. On November 10, 2009, Jones signed, without having read it closely, a DOI for an
+investment in an unsecured promissory note20 of Resilient Innovations, LLC, which had been
+filled out by Dixon. Tr. 116-17; Div. Ex. 712. In line with what Taylor described at the Sunday
+service Jones attended, Taylor’s associates said that Resilient was in the business of urban
+revitalization – rebuilding communities. Tr. 136, 138-39, 149-50. The funds were never repaid;
+around the time of the note’s August 2010 maturity date, Jones contacted Equity Trust and
+learned that the funds had not been paid into his account; his attempts to contact Resilient were
+fruitless. Tr. 117-20. Jones believed that Equity Trust endorsed Taylor. Tr. 156, 159.
+Crystal Turner and her husband Kenneth Turner attended the October 2009 New Birth
+event. Tr. 1347-51, 1359. She was favorably impressed with Batt’s presence, and spoke to him
+for two or three minutes after the service.21 Tr. 1353-55. Then the Turners met with Taylor
+associates Wendy Connor and Ebony Roland. Tr. 1356-58. The Turners returned the next day,
+20
+
+Jones did not, and does not, understand what an “unsecured note” is. Tr. 153-55.
+
+21
+
+The next time Mrs. Turner spoke to Batt was after the Turners realized that their money was
+gone; she left twenty or thirty voicemails without getting a call back and eventually reached him
+by posing as a fictitious new investor; he told her that she needed to complain to the authorities.
+Tr. 1393-95. Equity Trust did not want sales representatives performing client service functions.
+Tr. 225, 267-68.
+
+15
+
+October 21, 2009, with information concerning their existing investments, and Roland helped
+Mrs. Turner fill out paperwork to open and fund her Equity Trust account and to invest with City
+Capital. Tr. 1356-63; Div. Ex. 696 at 117-18, 143-61. She relied on Roland’s description and
+did not read the DOI before signing it. Tr. 1363. Mr. Turner opened an account with Equity
+Trust at the same time and rolled over an IRA with a relatively small balance into a City Capital
+promissory note. Resp. Ex. 179 at 1-10. In the spring of 2010, he lost his job and rolled over his
+401(k) into an IRA; those funds were transferred in April 2010 from Equity Trust to a different
+custodian, Sunwest Trust, before being invested with Taylor. Tr. 1365-68; Resp. Ex. 179 at 1622; Resp. Ex. 255. One of Taylor’s associates told Mr. Turner why this needed to be done. Tr.
+1367, 1388. No one from Equity Trust discussed the transfer with either of the Turners. Tr.
+1367. No one from either Equity Trust or City Capital told Mrs. Turner that Equity Trust would
+no longer process new investments with Taylor. Tr. 1367. Of the total amount the Turners
+invested with Taylor, about 10 percent was invested through Equity Trust; another, non-IRA
+portion, was invested directly in City Capital; and the largest portion, invested after Equity Trust
+had placed City Capital on its Do Not Process list, was forwarded by Equity Trust to Sunwest
+Trust on April 20, 2010. Resp. Ex. 179 at 22; Resp. Ex. 255. None of the Turners’ investments
+was repaid. Tr. 1368. They lost their life savings and their house; their loss was especially
+devastating because Mr. Turner had lost his job. Tr. 1365-70.
+Taylor estimated that City Capital raised about $2 million at the New Birth event,
+enabling it to pay about $800,000 in debt and interest, to meet its payroll and other operational
+expenses, and to continue marketing. Div. Ex. 36 at 86.
+5. Additional Investors
+Lawrence W. Hill, Sr., a sixty-four year old truck driver and a deacon of Westside
+Church of Christ in Jacksonville, Florida, invested with Taylor in 2008. Tr. 165-68. His longtime pastor had invited Taylor to the church to help organize the church’s finances. Tr. 168-69,
+177-78. The pastor spoke highly of Taylor, saying that he was a young, successful millionaire
+and a good Christian. Tr. 175, 179, 183. Hill had a one-on-one meeting with Taylor, who
+advised that he could obtain better returns through Taylor than he was currently receiving in his
+retirement account. Tr. 171-72, 184. Hill testified that he had one quick phone call, which lasted
+about one minute, to Batt of Equity Trust about Taylor and City Capital and Batt told him “it’s a
+good company and he’s getting people right now 10 percent return on their investment.” Tr.
+172, 186-87. Batt did not remember the call or Hill. Tr. 340-41. Subsequent to the phone call,
+Hill’s only contact with Equity Trust consisted of receiving quarterly account statements. Tr.
+191. Hill signed his Equity Trust account application on April 12, 2008, and mailed the papers
+back to City Capital. Tr. 174-75, 188; Resp. Ex. 135 at 1. Thereafter, on June 28, 2008, Hill
+signed a DOI and unsecured promissory note directing his funds to a loan to City Capital. Tr.
+188-89; Resp. Ex. 135 at 10-16. Hill signed the DOI without reading it. Tr. 190. When the note
+matured, Hill renewed it and loaned an additional sum to Resilient in September 2009. Tr. 176,
+192; Resp. Ex. 135 at 18-35. To induce Hill to do this, Taylor paid for Hill and his wife to travel
+to North Carolina, where Hill visited Taylor’s office and concluded that the operation looked
+genuine. Tr. 192-93. The DOIs for the City Capital replacement note and the new Resilient
+note indicated that the notes were secured, by collateral designated as “Company” – “City
+
+16
+
+Capital” and “Resilient,” respectively. Resp. Ex. 135 at 23, 31. Hill was never repaid the sums
+he loaned to Taylor’s companies, which amounted to almost all of his retirement funds. Tr. 176.
+Anita Dorio invested a large sum, including her own and her mother’s funds, with Taylor.
+Tr. 793-94. None of the invested funds was repaid. Tr. 824. Dorio first heard of Taylor when
+he presented a seminar at her church, Lakewood Church in Houston, Texas, pastored by Joel
+Osteen. Tr. 794-95, 831-32; Div. Ex. 36 at 214-15. As at New Birth, Taylor advised that mutual
+funds, available in traditional IRAs, may invest in companies engaged in ungodly activities, such
+as strip clubs; he offered SDIRAs as an alternative, enabling direct investments in businesses run
+by members of churches. Tr. 797, 834-35. About three weeks later Dorio and her husband met
+privately with Taylor, who introduced them to a man who said that he was able to retire from
+working due to investing with Taylor. Tr. 799, 837-38; Div. Ex. 36 at 185-87. Dorio did not
+invest at once; rather, she thought about it for a period of time. Div. Ex. 36 at 187. As Taylor
+described it, she was “on the hook, off the hook, a multitude of times.” Id. at 115. Before
+actually transferring funds and investing them with Taylor, Dorio spoke once or twice a week
+with Taylor or one of his associates. Tr. 842-43; Div. Ex. 36 at 187-92.
+Taylor introduced Dorio to Equity Trust via a conference call with Batt. Tr. 799-800.
+She had not previously heard of Equity Trust, but she believed in Taylor, and his vouching for
+Batt made her comfortable in dealing with Equity Trust. Tr. 800-01, 848. Dorio talked with Batt
+a total of two or three times. Tr. 856. The account for Dorio’s mother, Virginia Wallace, was
+opened in December 2008. Div. Ex. 833. The Dorio/Wallace accounts were the biggest
+investment that Taylor ever landed. Div. Ex. 36 at 116. Contemporaneously, he referred to the
+Wallace account as “the Big one.” Div. Ex. 11.
+Dorio believed that the investments were in secured notes. Tr. 813-14; see, e.g., Div. Ex.
+833 at 152, 233, 268 (DOIs for notes of City Petroleum, City Laundry, City Juice indicating
+secured by collateral designated as “Company”).
+Dorio signed the Equity Trust account application and DOIs without reading them
+closely. Tr. 866. The bold-face statement: “I agree that the Custodian is not a “fiduciary”
+for my account” appears right above the signature line on one of her DOIs. Resp. Ex. 151 at 6.
+She acknowledged that she did not focus on it when she signed; however, she understands its
+meaning: “A fiduciary looks after your interests and a custodian I would say is more of a record
+keeper.” Tr. 867.
+Before she invested with Taylor, Dorio’s investment advisor was Rick Wheeler, who was
+associated with AIG. Tr. 815. Batt intervened in Dorio’s decision to invest with Taylor as
+follows: On January 2, 2009, Batt emailed Taylor that the transfer of the Dorio/Wallace funds
+was in process. Div. Ex. 275. On January 6, Batt updated Taylor on the status of the transfers.
+Div. Ex. 277. On January 8, Wheeler sent Dorio a letter describing the risks of private
+placements – illiquidity and potential for reduced income – and urging that she consider the risks
+as well as the benefits; he advised against overconcentration in such assets. Tr. 817-21; Div. Ex.
+830. On January 12, Batt advised City Capital that he would call AIG if the funds did not arrive.
+Div. Ex. 281. On January 13, he advised City Capital that he had scheduled a conference call
+with Dorio. Div. Ex. 282. Following the January 14 Batt-Dorio-Wheeler conference call, Dorio
+
+17
+
+and Batt expected that the funds would be released shortly, and Dorio provided City Capital with
+the account numbers and password for the funds at AIG. Tr. 822-23, 859-60; Div. Ex. 14; Resp.
+Ex. 232. Batt sent Taylor an email, in which he denigrated Wheeler and took credit for
+convincing Dorio for proceeding with the transfer. Div. Ex. 14. Batt advised Taylor that the
+funds would be wired to Equity Trust the following week and said, “I am on it. . . . I will close
+it.” Id. By January 22, the funds had arrived at Equity Trust. Div. Ex. 292.
+Dorothy Sims first saw Taylor on a Christian TV channel; he discussed socially
+conscious investing and SDIRAs and stated that a 401(k) from a previous employer could be
+rolled over to a SDIRA. Tr. 1399. She purchased a book, titled “3 Simple Steps to Multiply
+Your Retirement Income,” that was promoted on the program, googled SDIRAs, and visited
+Taylor’s website. Tr. 1399-1401, 1432-34; Div. Ex. 35 at 2-60. This occurred in June 2009. Tr.
+1400; Div. Ex. 728. Sims was attracted by the idea of socially conscious investing through a
+SDIRA, rather than by Taylor per se. Tr. 1428-32. After reading the book, she telephoned City
+Capital and was referred to Batt, who emailed an account application to her the same day, July
+22, 2009. Tr. 1401-02; Div. Ex. 729. A few minutes later, Kinetra Dixon of City Capital
+emailed Sims, thanking her for her interest in City Capital. Div. Ex. 727. Dixon noted that Batt
+had forwarded an Equity Trust application to Sims. Id. Dixon offered to answer any questions
+about the application and instructed Sims to send it to her at City Capital. Id. Sims returned the
+application to Batt. Tr. 1402, 1404. Thereafter Batt telephoned her and asked when she was
+going to fund the account. Tr. 1404-05. This prodded her into contacting her former employer,
+Boeing, and arranging to have her 401(k) funds sent to Equity Trust. Tr. 1405. Thereafter, City
+Capital sent her the DOI, already filled out, for an investment in a promissory note of City
+Capital. Tr. 1405-07; Div. Ex. 719 at 132-38. She signed the DOI, without reading it closely,
+on August 19, 2009. Tr. 1408. The DOI indicated that the note was secured, by collateral
+designated as “Company” – “City Capital.” Tr. 1410; Div. Ex. 719 at 137.
+Sims’s account statements for the quarters ended September 30, 2009, and December 31,
+2009, described the note as “secured.” Div. Ex. 731 at 2, 4. However, the statement for the
+quarter ended March 31, 2010, described it as “unsecured.” Id. at 6. Seeing this, Sims became
+concerned and tried to call Batt; after multiple unsuccessful attempts, she was told he was no
+longer with Equity Trust.22 Tr. 1411. Eventually, another Equity Trust representative told her
+that she would have to contact City Capital about the change. Tr. 1411-12. The note matured on
+May 20, 2010. Tr. 1414; Div. Ex. 719 at 132. The money did not, however, appear in her
+Equity Trust account, and Sims emailed City Capital asking about the funds. Tr. 1415. Dixon
+telephoned her and advised that she needed to request the funds from City Capital; accordingly,
+she sent an email to City Capital requesting that the funds be returned but got the runaround over
+a period of several weeks. Tr. 1415; Div. Ex. 719 at 191-98. Eventually, after July 26, 2010,
+Sims was not able to contact anyone at City Capital; its email addresses and phone numbers were
+no longer active. Div. Ex. 719 at 192. The funds were never repaid. Tr. 1415. On September
+29, 2011, Sims executed Equity Trust’s Uncollectible Unsecured Note Form in order to close her
+account. Tr. 1415-17; Div. Ex. 719 at 191-98. She attached a chart showing that City Capital’s
+last bid was $0.0032 and material from the internet describing Taylor as a scam. Tr. 1417-18;
+22
+
+Batt left Equity Trust in August 2011. Tr. 292.
+
+18
+
+Div. Ex. 719 at 185-90. Equity Trust continued to charge her maintenance fees; it waived the fee
+for 2012, but required her to pay $50 in 2013 and $40 in 2014, threatening to report her to the
+IRS if she did not pay. Tr. 1419-22.
+C. Poulson Investments
+1. Poulson’s Business
+Poulson owned and operated Equity Capital Investments, LLC, and Poulson Russo, LLC.
+Tr. 501, 571-72; Div. Ex. 267 at 30. Equity Capital bought and sold residential real estate. Div.
+Ex. 267 at 30. Poulson Russo held educational seminars on investing in real estate. Tr. 589-90;
+Div. Ex. 267 at 30. Poulson was also the president of South Jersey Investors, Inc.,23 the New
+Jersey Association of Real Estate Professionals (NJAREP), and was founder of the Poulson
+Russo Real Estate Wealth Alliance. Tr. 576-80; Div. Ex. 147.
+Poulson, through Equity Capital, obtained the deeds to more than twenty-five residences
+facing foreclosure based on his promise that he would pay the homeowners’ underlying
+mortgages. Div. Ex. 267 at 31. To help finance these purchases, he issued promissory notes
+through Equity Capital, promising interest rates between 12 and 20 percent. Tr. 502; Div. Ex. 41
+at 2. Poulson solicited investors from the attendees at his Poulson Russo seminars and from
+other members of South Jersey Investors. Div. Ex. 267 at 31-32. Poulson told investors that the
+funds would be used to purchase, maintain, and improve specific residential properties. Id. at 32.
+Instead, the funds raised from sale of the Poulson Notes were commingled with other Equity
+Capital funds and used in part to pay Poulson’s personal expenses, such as a vacation to Mexico.
+Div. Ex. 41 at 2-3. He periodically repaid investors using other investors’ money. Div. Ex. 267
+at 32. Many properties that were purportedly securing the Poulson Notes were subject to
+multiple recorded and unrecorded mortgages, with the sum of these mortgages often exceeding
+the value of the property. Div. Ex. 41 at 4-5, 29. Because the mortgages were not recorded,
+investors did not know of the existence of other mortgages on the property. Tr. 1766.
+From January 2007 through May 2011, 34 Equity Trust customers invested a total of
+$984,998 in 41 Poulson Notes. Tr. 502; Div. Ex. 41 at 2, 19. Only $341,513 was ever repaid to
+Equity Trust investors. Div. Ex. 41 at 2.
+2. Relationship with Equity Trust
+Poulson first heard of Equity Trust while attending real estate investment seminars
+offered by Ron LeGrand and others and decided to recommend the company to his investors. Tr.
+498, 505-06. When he began offering promissory notes, Poulson established a relationship with
+
+23
+
+This organization later changed its name to the South Jersey Real Estate Investors Association.
+Tr. 1278.
+
+19
+
+Equity Trust; Irene Berlovan24 was his sales representative. Tr. 501, 505, 511. Poulson also had
+a few investors who used other SDIRA custodians, including Provident and Entrust. Tr. 555-56.
+Poulson and Berlovan communicated about marketing opportunities. In 2008, he sent
+Berlovan text of remarks he proposed to deliver at an Equity Trust “Tax Free Wealth Seminar,”
+touting the benefits of investing in real estate through SDIRAs, and, in particular, Equity Trust.
+Tr. 508-09; Div. Ex. 144 at 1-2. Berlovan also sent Poulson an article about the advantages of
+SDIRAs, with her name listed as the contact at Equity Trust. Tr. 1207-08; Div. Ex. 143.
+Poulson wanted the article for Poulson Russo’s newsletters and website. Tr. 507.
+When Poulson decided to begin conducting real estate investment seminars, he asked
+Equity Trust to participate to answer any questions that might arise about SDIRAs. Tr. 510-12,
+515. Poulson’s marketing and other materials were submitted to Desich and others for review as
+a “real estate education partner.” Div. Exs. 145, 147, 149-51.
+In April 2009, Poulson Russo held a real estate investing education event titled the “4
+Day Live Interactive Liquidation Extravaganza.” Div. Ex. 746; Tr. 513. Both Berlovan and
+another Equity Trust employee, Edwin Kelly, attended parts of the event. Tr. 587, 610, 1218-19.
+In the PowerPoint presentation given at the event, and shared with Berlovan beforehand,
+Berlovan was identified as one of fourteen members of Poulson’s “power team” of professionals.
+Tr. 513-16; Div. Ex. 148; Div. Ex. 262-A; Div. Ex 746 at 98-99. Poulson introduced Berlovan to
+the crowd, as a member of his “power team,” and she briefly spoke. Tr. 518, 1071-72, 1233-34;
+Div. Ex. 262-A; Div. Ex. 824 at 269-71. After speaking, she went to her table, outside the
+conference room in the vendor area, but did not recall anyone visiting her table or speaking with
+her during the event. Tr. 1220-21, 1234-35. However, she later reported to Equity Trust that
+five Equity Trust accounts had been opened at the event and 48 qualified leads had been
+generated. Tr. 1241-42; Div. Ex. 264 at 6. Kelly gave a presentation on SDIRAs the next day.
+Tr. 517-18, 610-12, 1218. Poulson Russo recorded the event, including Berlovan’s two-minute
+speech, and sold the recording as a DVD set titled “Acquisition SuperConference 1.0.” Tr. 51920; Div. Ex. 263. Equity Trust’s share of DVD sales from the event amounted to $4,819. Div.
+Ex. 186 at 23.
+In 2009, Equity Trust and Poulson discussed sponsoring additional events.25 Poulson
+invited Equity Trust, among others, to be a sponsor of a series of “monthly dinner events.” Tr.
+526; Div. Ex. 160. Equity Trust agreed to pay $600 to be a sponsor, and Poulson included
+Equity Trust marketing material in the folders that he distributed to the attendees. Tr. 527, 52931; Div. Ex. 168 at 5. Berlovan invited Poulson to be a sponsor of Equity Trust’s “October 2009
+Networking Super Conference.” Div. Ex. 161. Poulson did not attend Equity Trust’s event, but
+agreed to sponsor one of the breaks for $750. Tr. 521, 527-29; Div. Ex. 163; Div. Ex. 168 at 2-4.
+24
+
+Berlovan estimated that she opened fewer than ten accounts from his referrals. Tr. 1236.
+After she left Equity Trust in 2010, Poulson’s sales representative was Robert Yurgalewicz. Tr.
+536.
+25
+
+Neither attended the other’s events. Tr. 529, 1237.
+
+20
+
+Equity Trust solicited Poulson for a sponsorship in 2010, but he did not purchase a sponsorship.
+Tr. 537-38; Div. Ex. 243.
+3. Poulson Investors
+Joseph Angelo Gatto, an engineer, first met Poulson when he joined the South Jersey
+Investors group in 2008.26 Tr. 1255-57. Poulson was president of the group, which involved
+setting up and choosing speakers for periodic meetings. Tr. 1256-58. Gatto, who had recently
+left government employment, was looking to invest his government retirement assets in assets
+other than stocks and bonds. Tr. 1259.
+Poulson made several presentations to the South Jersey Investors group concerning
+investing in real estate through an IRA. Tr. 1258. Poulson recommended Equity Trust as
+custodian and identified Berlovan as a contact. Tr. 1258-59, 1261-62. After hearing his
+presentation, Gatto invested $115,000 with Poulson through an Equity Trust SDIRA. Tr. 126061. Before choosing Equity Trust, Gatto spoke with representatives from two other self-directed
+IRAs as well as Berlovan. Tr. 1261-62. Berlovan spoke favorably of Poulson. Tr. 1261-62.
+Gatto had already decided to invest with Poulson. Tr. 1299-1300. However, Berlovan’s
+testimonial influenced him to choose Equity Trust over another custodian. Tr. 1261-62; 128889, 1299-1300.
+In March 2009, Gatto made three investments totaling $115,000 with Poulson through his
+Equity Trust SDIRA. Tr. 1260; Div. Ex. 751 at 80-83, 88-91, 126-29; Resp. Ex. 200. Gatto’s
+investment was eventually lost. Tr. 1277. Gatto signed and agreed to the provisions in Equity
+Trust’s custodial agreement and DOI. Tr. 1300-02, 1305-08; Resp. Ex. 200 at 2, 6. When
+making his initial investment, Gatto sent Berlovan DOI forms, promissory notes, and mortgages
+for two of his investments. Div. Ex. 751 at 50-75. The promissory notes or mortgages were
+unsigned by Gatto and Poulson, because he believed that he was prohibited from doing so, and
+that it was Equity Trust’s responsibility to sign on his behalf. Tr. 1267-68; Div. Ex. 751 at 54,
+57, 66, 71. In his quarterly account statements, each of Gatto’s investments contained a note that
+Equity Trust was “AWAITING RECEIPT: PROMISSORY NOTE.” E.g., Resp. Ex. 200 at 30,
+32, 38, 40; Tr. 1326, 1330-33. He called Equity Trust to inquire why his documents were not
+showing up as having been received, and was told that the documents were likely going through
+the recording process and had not yet been received back from the county clerk; what he was
+told was not inconsistent with the responsibility of recording the mortgage being his. Tr. 127374, 1341-42.
+The DOIs for each of his three investments represented that the underlying promissory
+note was secured by a second position mortgage on real property. Div. Ex. 751 at 82, 90, 128.
+Equity Trust sent Gatto letters reminding him that “[i]f your investment is backed by collateral
+and/or is being recorded, please verify with your investment company or the person responsible
+for securing your collateral that they have performed accordingly to protect your interest.” Resp.
+Ex. 200 at 11, 20, 29. Gatto admitted that he had not verified with Poulson that his collateral on
+26
+
+Gatto has a bachelor’s degree in aerospace engineering from Penn State University and a
+master’s degree in physics from New Mexico Institute of Mining and Technology. Tr. 1256.
+21
+
+any of the properties, in the form of the second mortgage, had been recorded. Tr. 1307-08, 131114. Based on his earlier conversation with Equity Trust, he believed that his documents were
+already in the process of being recorded. Tr. 1273-74, 1343.
+Gatto also made three loans to Poulson without the involvement of Equity Trust and
+without using any assets from his IRA account. Tr. 1321. The first loan was around March
+2008, about a year before Gatto invested with Poulson through Equity Trust. Tr. 1323. The two
+other loans occurred after his investment through Equity Trust in March 2009. Tr. 1323-24.
+Glenn Savary has a bachelor’s degree in chemistry, and has worked for the New Jersey
+Department of Environmental Protection for around twenty years. Tr. 1100. He first met
+Poulson at meetings of the South Jersey Investors group, which he frequently attended. Tr.
+1066, 1102. Poulson was president of the South Jersey Investors group and frequently
+moderated and introduced guests at these meetings. Tr. 1105-06. After Poulson’s term as
+president ended, he split off and created Poulson Russo, and Savary also attended meetings
+organized by that company. Tr. 1106-07.
+In April 2009, Savary attended Poulson Russo’s “4 Day Live Interactive Liquidation
+Extravaganza.” Tr. 1069, 1108. He spoke to Berlovan at the event, though only on “very
+general questions” because at that time, he was not interested in SDIRAs. Tr. 1072. In
+November 2009, after hearing Poulson’s pitch for investments made with “private money,”
+Savary decided to invest $20,000 with Poulson for the purchase of distressed real estate. Tr.
+1115-16. This initial transaction did not involve Equity Trust or IRA funds. Tr. 1113, 1115.
+Savary received a promissory note and mortgage from Poulson. Tr. 1118. Savary did not
+perform an appraisal or title report on the property securing his investment. Tr. 1120-21. The
+promissory note was for a six-month period, but when it expired, Savary agreed to extend it,
+relying on verbal promises from Poulson. Tr. 1119-20. The lack of paperwork did not bother
+Savary because he trusted Poulson. Tr. 1120.
+In early 2010, Savary and his wife decided to invest further with Poulson, rolling over
+$40,000 from her 401(k) into a SDIRA. Tr. 1073-76, 1121-22. At Poulson’s recommendation,
+they chose Equity Trust to be their custodian. Tr. 1074. Savary only glanced over the
+disclosures in the DOI that described Equity Trust’s limited role. Tr. 1133; Resp. Ex. 214 at 5;
+see also Tr. 1079-80; Div. Ex. 743 at 62. The investment was secured by a second position
+mortgage on real property, but Savary did not conduct a title search on the property. Tr. 107778, 1123, 1130-31; Div. Ex. 743 at 61; Resp. Ex. 214 at 4. In reality, by November of that year,
+there were five unrecorded mortgages, totaling over $200,000, on the property. Tr. 1098.
+A few days after submitting the DOI form, Mrs. Savary received a letter from Equity
+Trust requesting her to remit the original promissory note and recorded mortgage to Equity Trust
+within sixty days of receipt of the letter. Tr. 1080; Div. Ex. 743 at 67. Savary thought this was a
+formality, because they never had the promissory note or recorded mortgage, so he asked
+Poulson to remit the documents. Tr. 1081-84, 1139-40. In fact, Savary did not see the
+promissory note or mortgage until months after the DOI form had been submitted. Tr. 1087-88,
+1090; Div. Ex. 743 at 44, 48. The letter also noted that “[i]f your investment is backed by
+collateral and/or is being recorded, please verify with your investment company or the person
+
+22
+
+responsible for securing your collateral that they have performed accordingly.” Div. Ex. 743 at
+67; Resp. Ex. 214 at 10. Savary did not specifically speak to Poulson about this, but assumed
+that he knew “what he had to do.” Tr. 1144. There were no further letters from Equity Trust,
+and Savary assumed the issues had been resolved. Tr. 1142-43.
+In the September 30, 2010, quarterly account statement the asset description stated
+“AWAITING RECEIPT: PROMISSORY NOTE.” Div. Ex. 744 at 3. Savary does not recall
+reading this, and admitted that he probably glanced only at the first page of the account
+statement. Tr. 1086-87. The March 31, 2011, quarterly statement stated that Equity Trust had
+received the original promissory note but was still awaiting receipt of the recorded mortgage.
+Div. Ex. 744 at 11; Tr. 1095-96.
+D. Equity Trust’s review process
+1. Formation of Account Review Policy
+The South Dakota Division of Banking conducted examinations of Equity Trust as of
+June 30, 2007, December 31, 2009, December 31, 2010, and December 31, 2013, and the
+Reports of Examination are in evidence as Division Exhibits 594, 595, 596, and 597,
+respectively. Each report stated that Equity Trust was “fundamentally sound. Only moderate
+weaknesses are present and are well within management’s capabilities and willingness to correct.
+Fiduciary activities are conducted in substantial compliance with laws and regulations. Overall
+risk management practices are satisfactory relative to the institution’s size and complexity.
+There are no material supervisory concerns.” Div. Ex. 594 at 2; Div. Ex. 595 at 3; Div. Ex. 596
+at 3; Div. Ex. 597 at 5.27 Each report also stated “[m]anagement remains satisfactory.” Div. Ex.
+594 at 2; Div. Ex. 595 at 3; Div. Ex. 596 at 4; Div. Ex. 597 at 6.
+The reports also contained recommendations for improvement, and Scott Kelly, who
+conducted the examinations, testified that Equity Trust’s audit and review procedures improved
+on each examination. Tr. 1157, 1162, 1167. The 2007 report noted that Equity Trust’s audit
+program contained only one employee and recommended that Equity Trust develop a “risk rating
+assessment to assist in the internal audit function” and “thoroughly evaluate the need for
+additional staffing within the internal audit program.” Div. Ex. 594 at 5. The 2009 report,
+following the acquisition of Sterling Trust Company, noted that management had added auditing
+staff since the previous examination but that the current staffing level of three individuals might
+not be adequate in view of the volume of accounts and risks associated with alternative account
+holdings. Div. Ex. 595 at 7. The 2010 report noted six full-time internal auditors and seven fulltime compliance personnel but stated that the increased staffing level might not be adequate in
+view of the volume of accounts, the complexities of two operations centers, and the risks
+associated with accounts holding alternative investments. Div. Ex. 596 at 4. The 2013 report
+noted that operations and administration had been consolidated in the Ohio location, that the
+27
+
+The third sentence of the quoted language from the latest, December 31, 2013, examination
+reads: “Activities are conducted in substantial compliance with applicable laws, regulations, and
+principles.” Div. Ex. 597 at 5.
+
+23
+
+inherent risk of administering alternative assets remained, and encouraged management to assess
+the adequacy of internal audit and compliance staffing, currently seven full-time internal auditors
+and six full-time compliance personnel. Div. Ex. 597 at 8.
+In 2009, Equity Trust began to create and implement an investment review procedure.28
+Tr. 695-96. The procedure was reduced to writing and approved by the Equity Trust board on
+May 27, 2010. Div. Ex. 53 at 1. The policy outlined four types of reviews conducted by
+compliance staff. A primary review was to be conducted for certain investments, such as
+unsecured notes. Tr. 697; Div. Ex. 53 at 3. An administrative review was to be conducted for
+certain client investments, such as notes with interest rates over 20 percent or unsecured notes
+over $50,000. Tr. 696; Div. Ex. 53 at 4. A secondary review was to be conducted as to a
+particular investment when the number of clients exceeded twenty, or the dollar amount
+exceeded $1 million, and a tertiary review was to be conducted when those amounts reached 75
+investors or $5 million. Tr. 696-97; Div. Ex. 53 at 5-9. Had these audit procedures existed in
+2007, they would have highlighted deficiencies with the Poulson accounts; Dea regretted Equity
+Trust was not organized or equipped to perform this level of audit then. Tr. 724. However, he
+also stated that the intent of the review process is “not about the detection of fraud,” but rather
+“the management of risk to Equity Trust.” Tr. 1581.
+During the primary review, if Equity Trust reviewed a promissory note that indicated that
+it was secured, but did not receive the security instrument, the documents would be sent to the
+operations team to resolve the deficiency. Tr. 697-99. The operations team would discuss the
+issues with the customer, and depending on the customer’s intent, Equity Trust might release the
+customer’s funds pending receipt of the missing document. Tr. 698-99. In a secondary review,
+the audit and compliance teams review and compile documents and then draft a summary, which
+is then presented to the governance, risk and compliance committee (GRC) for review. Tr. 158182.
+Equity Trust had a special procedure spreadsheet for its internal use, memorializing
+instructions for dealing with specified clients and investment sponsors or issuers. Tr. 701-02,
+704; Div. Ex. 444. As of February 15, 2010, City Capital appeared on the special procedure
+spreadsheet, with the notation “We accept notes secured by company with the promissory note
+only. No security agreement is necessary.” Tr. 704; Div. Ex. 444 at 4-5.
+2. Investigation of Taylor Notes
+Equity Trust began its secondary review of City Capital on September 10, 2009; the
+review was concluded on January 13, 2010, and Taylor was informed on that date that further
+investments were not administratively feasible. Tr. 1579-88; Resp. Ex. 50 at 1, 3. This was one
+28
+
+Part of the reason for this was the increase in the size of the company due to the acquisition of
+Sterling Trust Company. Tr. 695-96. No other SDIRA custodian was performing these types of
+reviews. Tr. 972. Desich and Dea testified that this initiative was purely voluntary, to better
+understand the account holdings and the possible financial, legal, or reputational risk to the
+company. Tr. 725, 973. Whether or not the initiative was partly inspired by the
+recommendations of the Division of Banking is immaterial to the issues in this proceeding.
+24
+
+of the first secondary reviews that Equity Trust conducted, and Dea was personally involved. Tr.
+1580-82. Batt and Marsh knew of the secondary review at the time of the New Birth event. Div.
+Ex. 344 at 1.
+The review uncovered some issues. By late October, Equity Trust’s compliance director
+Sandra Sarudis was concerned that the Taylor notes that were represented in DOIs as being
+secured were either unsecured or were missing documentation showing that they were actually
+secured. Div. Ex. 374 at 1. She communicated this to Marsh and Batt. Id. Batt then advised
+Taylor and Dixon that DOIs should indicate that notes are unsecured or, if secured, explain what
+they are secured by. Div. Ex. 27.
+By January 2010, Sarudis and the compliance staff determined that the Taylor notes were
+unsecured. Div. Ex. 410 at 1; Resp. Ex. 50; Tr. 1583. By January 22, 2010, Equity Trust
+changed the designation in its system of the “secured” Taylor notes to “unsecured.” Div. Ex.
+434 at 1 (“The City Capital notes previously entered as secured have been updated to reflect
+unsecured promissory note.”29). This change was disclosed to customers in their quarterly
+account statements (and not otherwise); their affected assets, previously described as “secured”
+were now described as “unsecured.” Tr. 745-46; see, e.g., Div. Ex. 731 at 2, 4, 6 (reflecting this
+change in Sims’s account statements). Unless the customers saw this and called to inquire about
+it, no further explanation was provided. Tr. 745-46. Sims called Equity Trust to inquire about
+this change, but was given the runaround. Tr. 1411-12.
+During the review, Equity Trust also discovered that numerous Taylor notes had matured
+but were unpaid. Tr. 1586; Div. Ex. 410; Div. Ex. 519 at 2. In fact, by September 2009, fifteen
+Taylor notes were in this category. Div. Ex. 40 at 33. Batt and Equity Trust’s in-house legal
+counsel, Tim Khuman, spoke with Taylor as to why investors were not being repaid. Resp. Ex.
+50 at 2; Div. Ex. 410; Tr. 1583-84. Equity Trust was told that the notes had either been paid or
+(the vast majority) extended, to benefit from compound interest. Div. Ex. 410.
+Equity Trust’s review also involved checking online to see if Taylor or City Capital were
+subject to litigation or administrative decisions, had been accused of securities violations, or had
+otherwise been in the news. Resp. Ex. 50 at 1-2. With the exception of one case in Pennsylvania
+against City Capital and Taylor, from which Taylor was dismissed, researchers found no other
+mentions to cause them worry. Id. at 1-2. In fact, given Taylor’s reputation in the marketplace,
+many of his mentions on LexisNexis were very positive. Tr. 1586. Dea reviewed City Capital’s
+recent audited financial statements contained in its Forms 10-K and found troubling signs,
+including negative net worth, rapid money loss, insufficient controls, and a going-concern
+statement. Tr. 756-57, 1585-86.
+On December 29, 2009, City Capital was placed on “administrative hold” status. Div.
+Ex. 519 at 2. The reasons were Equity Trust’s concern with the number of matured unpaid
+29
+
+A January 18, 2010, email refers to reclassification of notes “classified as ‘Secured by
+Other.’” Div. Ex. 434 at 1. “Other” was a mistake. As found above, Taylor investors’ DOIs for
+“secured” notes indicated that they were secured by collateral designated as “Company” – City
+Capital, Resilient, or another Taylor company.
+25
+
+promissory notes and City Capital’s poor financial condition as disclosed in its Commission
+filings. Id.; Answer at 5-6; Tr. 773. The hold blocked Equity Trust’s system from processing
+City Capital transactions without a supervisor override. Tr. 1584.
+After a GRC meeting on January 19, 2010, City Capital’s status was changed from
+“administrative hold” to “Do Not Process (DNP).” Div. Ex. 519 at 2; Tr. 755. This meant that
+Equity Trust would no longer accept investments for City Capital. Tr. 763. Taylor was
+informed of this decision in a phone conversation with Sarudis, Dea, and others in January 2010.
+Div. Ex. 36 at 96-98; Tr. 1587-88. The reason given to Taylor was that Equity Trust was
+uncomfortable with the amount of “concentration” or “exposure” it had to City Capital. Div. Ex.
+36 at 97-99; Tr. 1587-88. Taylor thought this was a pretext, and he and Wendy Connor
+perceived an insinuation of wrongdoing at City Capital. Div. Ex. 36 at 98-101. Dea denies
+having suspected fraud at that time, however. Tr. 1589.
+Transactions after City Capital’s Placement on the DNP List
+Even after the Taylor notes were placed on the DNP list, Equity Trust was still willing to
+do business with Taylor, as long as the investment was not in new City Capital notes. Div. Ex.
+418. For instance, Equity Trust considered a proposed investment in Resilient (but emphatically
+rejected a proposed investment in gambling machines). Div. Exs. 425, 435, 441. Sarudis
+tentatively advised Taylor that Equity Trust would consider investments in other assets, such as
+rental properties. Div. Ex. 449.
+Equity Trust agreed to allow, on a case-by-case basis, existing City Capital notes to be
+extended and replaced. Tr. 763-64. The record does not show who made the decision to allow
+existing notes to be extended and replaced. Tr. 764, 893, 1631. In May 2010, an Equity Trust
+customer attempted to renew her City Capital note. Div. Ex. 477. Because City Capital was
+then on the DNP list, Equity Trust declined the transaction and informed the client that “her
+paperwork was not processed because it was not feasible to do so based on a recent decision.”
+Id. Dixon requested that Equity Trust process the renewal, stating that “the last conversation
+between the CEO of Equity Trust and our CEO ended with, we would be able to do renewals for
+existing clients but no new client notes could be processed.” Id. Equity Trust staffers,
+seemingly unaware of this arrangement, then requested advice from Bartlett. Div. Ex. 480; Tr.
+895-96. Bartlett confirmed that a promissory note modification or replacement could be
+processed. Div. Ex. 479 at 1.
+From February 2010 onward, Equity Trust processed eighteen renewals, extensions, or
+conversions of City Capital notes. Div. Ex. 40 at 33. At the same time, Equity Trust learned of
+at least two clients who claimed that their City Capital notes had not been paid. In mid-March
+2010, Batt received and forwarded to Sarudis a letter from an attorney that had been sent to City
+Capital, threatening a lawsuit due to unpaid City Capital notes amounting to $216,000. Div. Ex.
+461. Similarly, in June 2010, Bartlett was forwarded a letter from an attorney directed to Equity
+Trust and dated March 26, 2010, concerning his client’s funds that were held in unpaid and
+overdue City Capital notes and requesting that Equity Trust’s counsel contact him. Div. Ex. 485.
+
+26
+
+3. Review of Poulson Notes
+Equity Trust began its secondary review of the Poulson notes in June 2010. Div. Ex. 256.
+By at least November 2010, Equity Trust had discovered issues with at least twenty-five
+investment accounts. Div. Ex. 209 at 2-3; Div. Ex. 256 at 3-4. The issues included twenty-four
+accounts missing recorded mortgages, ten accounts missing executed promissory notes, and ten
+accounts with notes that had already matured but without evidence of payment or extension.
+Div. Ex. 209 at 2-3.
+Poulson was not contacted with specifics regarding the missing documents until
+November 30, 2010, when Mary Juristy from Equity Trust emailed him a list of the accounts
+“detailing names and documents we are missing.” Div. Ex. 209; Tr. 538-39. Juristy emailed
+Poulson the list again on December 8, 2010. Div. Ex. 212. Juristy suggested to Poulson that he
+overnight the documents to her. Div. Ex. 213. Then, on December 30, 2010, Juristy again
+emailed, requesting the documentation, and Poulson replied that he was “in the process of
+putting together the paperwork” and that he expected “to send you at least a portion of the
+paperwork by the middle or end of this upcoming week.” Div. Ex. 217 at 1. In reality, Poulson
+did not have any of the requested documents, and feared that his Ponzi scheme would be
+uncovered. Tr. 539-40.
+On January 17, 2011, Poulson again emailed Juristy, apologizing for failing to send the
+requested documentation but promising that “the envelope containing your documents [will be]
+mailed tomorrow.” Div. Ex. 224. On February 1, 2011, Juristy informed Poulson that she had
+received his package. Div. Ex. 226. Poulson replied, informing Juristy that some of the
+documents had been re-created “from scratch as I had never received certain original signed
+documents back from” Equity Trust. Id. In fact, Poulson had sent Juristy only a portion of the
+requested documents, “primarily promissory notes and extensions of promissory notes”; “[t]here
+might have been a couple” of recorded mortgages. Tr. 545. Poulson never heard from Juristy or
+anyone at Equity Trust regarding these documents again. Tr. 544-45.
+Equity Trust processed its last new Poulson customer in May 2011. Div. Ex. 41 at 10,
+Row 43. Only one customer extended Poulson notes after that date; the customer extended two
+investments in January 2012. Id. at 11-12, Rows 3, 9.30 In July 2011, Equity Trust conducted a
+secondary re-review of the Poulson notes. Div. Ex. 256 at 2. Out of thirty-three Poulson
+investments, twenty-five had “inadequate documentation on file to support investment.” Id.
+During the secondary re-review, Juristy noted that Poulson had “13 matured notes, not collected
+that came due this year” and “numerous missing documents for current investments.” Div. Ex.
+245 at 1-2. She noted that “I did speak with Randy last year and emailed him the list of missing
+items, he said he would be glad to provide. But it appears we did not receive anything.” Id. at 1.
+As of September 20, 2011, the review recommended that Poulson’s investments be placed on
+hold due to “term violations (13 matured notes as per audit date, not collected. Also missing
+30
+
+There is no evidence in the record concerning whether or not Equity Trust advised the
+customer of Poulson’s status with Equity Trust. Therefore, in light of the Division’s burden of
+proof, it is found that Equity Trust did not fail to communicate Poulson’s status to the customer.
+
+27
+
+numerous documents for current notes.)” Div. Ex. 256 at 2; Tr. 1591-92. On November 17,
+2011, the GRC placed Poulson on hold. Div. Ex. 256 at 2; Tr. 1592-93. Six days later, the U.S.
+Attorney’s Office for the District of New Jersey mailed Equity Trust a grand jury subpoena,
+requesting information regarding Poulson. Div. Ex. 248. Poulson was placed on the DNP list on
+October 25, 2012. Div. Ex. 578 at 28.
+E. Expert Testimony31
+William Campbell Ries, a shareholder in the Pittsburgh, Pennsylvania, law firm Tucker
+Arensberg, P.C., gave evidence for the Division in an expert report.32 Div. Ex. 39. His practice
+includes representing both individual and institutional clients, such as banks and other financial
+institutions, on fiduciary matters. Id. at 3. He opined that, under Section 408 of the Internal
+Revenue Code and South Dakota law, custodians like Equity Trust are considered to be acting in
+a fiduciary capacity and are subject to certain fiduciary duties. Id. at 6-7. He enumerated,
+without attribution to any law or other source, a number of specific duties, such as ensuring that
+deeds and mortgages are properly prepared and recorded, and periodically reviewing assets for
+default. Id. at 9-10. He also opined that deficiencies in the Taylor and Poulson documents were
+red flags that a reasonable custodian should have investigated and that Equity Trust’s activities in
+its business relationships with Taylor and Poulson were inappropriate and outside the activities
+of a passive custodian. Id. at 14-19.
+Terry N. Prendergast, a partner in the Sioux Falls, South Dakota, law firm Murphy,
+Goldammer & Prendergast, LLP, testified for Respondent. Tr. 1516-60; Resp. Exs. 222, 223.
+His practice mostly involves South Dakota trusts and trust companies, and, since 2010, he has
+served on the Governor of South Dakota’s Task Force on Trust Administration Review and
+Reform. Resp. Ex. 222 at 1-2. He was accepted as an expert in the duties of a SDIRA custodian
+under South Dakota law. Tr. 1515-16. Prendergast opined that, unless specifically created by a
+custodial agreement, SDIRA custodians have no duty under South Dakota law to review or
+modify any direction from a customer, citing Chapters 55-1B and 55-2 of the South Dakota
+Codified Laws (SDCL). Resp. Ex. 222 at 14-19. Thus, he opined, Equity Trust had no duty to
+perform investment or suitability reviews; inquiries; investigations; to obtain documents
+reflecting an investment, except those provided by the customer; or to notify a customer of
+matured and unpaid promissory notes. Id. at 15. Prendergast argued that Ries cited standards
+applicable to national banks but ignored the controlling SDCL 55-1B, which differentiates
+between “full service” trustees with “traditional” fiduciary rules and entities like Equity Trust,
+with fiduciary duties created only by customer contract. Resp. Ex. 223 at 1-2. He reiterated that
+under South Dakota law Equity Trust’s only duties to its customers were defined by the customer
+contracts. Id. at 2-3.
+
+31
+
+To the extent that the expert’s evidence does not lead to findings of fact, it will be summarized
+here and referred to as appropriate in the Conclusions of Law section of this Initial Decision.
+32
+
+Respondent did not cross examine Ries. Tr. 337. Instead, it submitted a rebuttal expert report
+of Terry N. Prendergast. Resp. Ex. 223; Tr. 1514.
+
+28
+
+Tom E. Simmons, an assistant professor at the University of South Dakota School of
+Law, who teaches Trusts and Wills and previously practiced in estate planning and probate, gave
+evidence for the Division in an expert report.33 Div. Ex. 836. Simmons opined that, contrary to
+Prendergast’s testimony, SDCL 55-1B did not apply because Equity Trust’s custodial agreement
+does not refer to it and, instead, states that it “is subject to all applicable federal laws and
+regulations and shall be governed by and construed under the applicable laws of the State of
+Ohio.” Id. at 2-3. Also, Simmons opined that Equity Trust violated the terms of the custodial
+agreement by not acting as a passive custodian, and was therefore not protected by the language
+of the agreement or SDCL 55-1B. Id. at 4-5.
+Kurt Carlson, Ph.D., a professor at Georgetown University’s McDonough School of
+Business, testified for Equity Trust. Tr. 1455-504; Resp. Ex. 224. He was accepted as an expert
+in consumer choice. Tr. 1502. He opined that investors were motivated to invest with Taylor
+and Poulson due to their “strong brands,” that they became aware of Equity Trust after they had
+begun to favor investing with Taylor or Poulson, and that the presence of Equity Trust negatively
+affected their willingness to invest because requiring an investor to create an account with a
+custodian adds to the complexity of the investment. Resp. Ex. 224 at 14-20.
+Jennifer Golbeck, Ph.D., a professor in the College of Information Studies at the
+University of Maryland, testified for Equity Trust concerning the landing page. Tr. 1652-68;
+Resp. Ex. 248. She reviewed archived pages of City Capital’s website and another site
+associated with Taylor, www.iracashflow.com, and found no reference to Equity Trust. Resp.
+Ex. 248 at 4-5. However, the City Capital website was archived only once in 2009. Tr. 1660.
+III. CONCLUSIONS OF LAW
+The OIP charges that Equity Trust was a cause of Taylor’s and Poulson’s violations of
+Sections 17(a)(2) and 17(a)(3) of the Securities Act. Respondent states, and the Division does
+not dispute, that this is the first proceeding that the Division or the Commission has brought
+against a non-registrant SDIRA custodian. As discussed below, it is concluded that the charges
+against Equity Trust are unproven.
+A. Antifraud Provisions
+Sections 17(a)(2) and 17(a)(3) of the Securities Act makes it unlawful “in the offer or
+sale of” securities, by jurisdictional means, respectively to: obtain money or property by means
+of any untrue statement of a material fact or any omission to state a material fact necessary to
+make the statement made not misleading (17(a)(2)); or engage in any transaction, practice, or
+course of business which operates or would operate as a fraud or deceit upon the purchaser
+(17(a)(3)).
+Material misrepresentations and omissions violate Securities Act Section 17(a). The
+standard of materiality is whether or not a reasonable investor or prospective investor would
+33
+
+Respondent did not cross examine Simmons. Tr. 337.
+
+29
+
+have considered the information important in deciding whether or not to invest. See Basic Inc. v.
+Levinson, 485 U.S. 224, 231-32, 240 (1988); TSC Indus., Inc. v. Northway, Inc., 426 U.S. 438,
+449 (1976); SEC v. Steadman, 967 F.2d 636, 643 (D.C. Cir. 1992).
+1. Scienter
+Scienter34 is not required to establish a violation of Section 17(a)(2) or 17(a)(3) of the
+Securities Act; a showing of negligence is adequate. See Aaron v. SEC, 446 U.S. 680, 697
+(1980); SEC v. Steadman, 967 F.2d at 643 & n.5; Steadman v. SEC, 603 F.2d 1126, 1132-34 (5th
+Cir. 1979), aff’d on other grounds, 450 U.S. 91 (1981); Byron G. Borgardt, Securities Act
+Release No. 8274, 2003 SEC LEXIS 2048, at *37-38 (Aug. 25, 2003). Negligence is the failure
+to exercise reasonable care. IFG Network Secs., Inc., Exchange Act Release No. 54127, 2006
+SEC LEXIS 1600, at *37 (July 11, 2006).
+2. “Causing” Liability
+For “causing” liability, three elements must be established: (1) a primary violation; (2)
+an act or omission by the respondent that was a cause of the violation; and (3) the respondent
+knew, or should have known, that his conduct would contribute to the violation. Robert M.
+Fuller, Exchange Act Release No. 48406, 2003 SEC LEXIS 2041, at *13-14 (Aug. 25, 2003),
+pet. for review denied, 95 F. App’x 361 (D.C. Cir. 2004). Negligence is sufficient to establish
+liability for causing a primary violation that does not require scienter. See KPMG Peat Marwick
+LLP, Exchange Act Release No. 43862, 2001 SEC LEXIS 98, at *82 (Jan. 19, 2001), pet. for
+review denied, 289 F.3d 109 (D.C. Cir. 2002).
+Equity Trust argues that Taylor’s and Poulson’s primary violations were criminal mail
+and wire fraud, which require a mental state of scienter, such that any secondary violation also
+requires scienter and that Equity Trust did not have scienter. However, Equity Trust was not
+charged in this proceeding with causing Taylor’s and Poulson’s mail and wire fraud or with
+causing violations of Securities Act Section 17(a)(1), which also requires scienter. Rather,
+Equity Trust was charged with causing their violations of Securities Act Sections 17(a)(2) and
+17(a)(3), which do not require scienter. The evidence in this proceeding shows that Taylor and
+Poulson violated those sections, as discussed below, and, in any event, the Commission has made
+34
+
+Scienter is required to establish violations of Securities Act Section 17(a)(1). Aaron v. SEC,
+446 U.S. 680, 695-97 (1980). It is “a mental state embracing intent to deceive, manipulate, or
+defraud.” Aaron, 446 U.S. at 686 n.5; Ernst & Ernst v. Hochfelder, 425 U.S. 185, 193 n.12
+(1976); SEC v. Steadman, 967 F.2d 636, 641 & n.3 (D.C. Cir. 1992). Recklessness can satisfy
+the scienter requirement. See SEC v. Steadman, 967 F.2d at 641-42; David Disner, Exchange
+Act Release No. 38234, 1997 SEC LEXIS 258, at *15 & n.20 (Feb. 4, 1997). Reckless conduct
+is “conduct which is ‘highly unreasonable’ and which represents ‘an extreme departure from the
+standards of ordinary care . . . to the extent that the danger was either known to the defendant or
+so obvious that the defendant must have been aware of it.’” Rolf v. Blyth, Eastman Dillon & Co.,
+Inc., 570 F.2d 38, 47 (2d Cir. 1978) (quoting Sanders v. John Nuveen & Co., 554 F.2d 790, 793
+(7th Cir. 1977)).
+
+30
+
+clear that the same conduct can violate Section 17(a)(1), which does require scienter, and
+Sections 17(a)(2) and 17(a)(3), which do not. Anthony Fields, CPA, Securities Act Release No.
+9727, 2015 SEC LEXIS 662, at *35-42 (Feb. 20, 2015).
+B. Violations
+Respondent argues that the “investments” at issue were not securities and also that it had
+no duties to the investors beyond administrative functions.
+The Taylor and Poulson notes were securities within the meaning of the Securities Act.
+“[U]nless the context otherwise requires[,]” a security is any “note, stock, . . . or, in general, any
+interest or instrument commonly known as a ‘security’[.]” 15 U.S.C. § 77b(a)(1) (emphasis
+added). A note is presumed to be a security. Id.; Reves v. Ernst & Young, 494 U.S. 56, 65
+(1990). However, the presumption is not irrebutable. Reves, 494 U.S. at 65. Thus, to determine
+whether a note is a security, the four-part “family resemblance” test articulated in Reves, 494
+U.S. at 63-67, is applied. Under this test the Taylor and Poulson notes were securities. Both
+fraudsters’ claimed purpose was to raise money to finance substantial investments; each one
+offered his notes to a large number of people in targeted audiences; the purchasers bought the
+notes in order to earn a profit in the form of interest; and there was an absence of another
+regulatory scheme that would render the application of the Securities Act unnecessary.
+1. Primary Violations
+For the purpose of this Initial Decision only, it is concluded that Taylor and Poulson each
+violated Securities Act Sections 17(a)(2) and 17(a)(3). Specifically, Taylor told investors that
+their funds would be used to acquire real estate or a specific business, often centered on socially
+conscious community development or housing, when in fact the primary use of the funds was for
+marketing expenses, general overhead, payroll, and servicing old debt. These misrepresentations
+were clearly material and Taylor also engaged in a course of business that operated as a fraud on
+the purchasers of his notes. His proven misconduct with reference to Equity Trust customers
+extended until at least November 2009, when Equity Trust processed the customers Taylor
+recruited at the New Birth event. Taylor’s state of mind met or exceeded the negligence standard
+of those sections. Poulson told investors that their funds would be used to purchase, maintain,
+and improve specific residential properties. Instead, the funds were commingled with other
+Equity Capital funds, used to pay Poulson’s personal expenses, and used to repay other investors.
+These misrepresentations were clearly material and Poulson also engaged in a course of business
+that operated as a fraud on the purchasers of his notes. His proven misconduct with reference to
+Equity Trust customers extended until at least May 2011 when Equity Trust processed the last
+new Poulson customer. The schemes might have continued indefinitely had Taylor and Poulson
+continued to find new investors. Equity Trust’s involvement with their investments might also
+have continued indefinitely absent its reviews of the sponsors and placing holds on new
+investments.
+
+31
+
+2. Act or Omission
+Respondent argues that its account-opening, investment processing, record-keeping, and
+marketing activities were unrelated to Taylor’s and Poulson’s misrepresentations and misuse of
+funds, and thus, Respondent’s conduct did not “cause” their primary violation. To the contrary,
+Respondent’s services to its customers facilitated the receipt and retention of investor funds by
+the fraudsters, making their frauds successful. This included affirmatively deciding to allow
+customers to extend and replace notes after Equity Trust had stopped accepting new City Capital
+investments because of its poor financial condition and non-payment of notes that matured. Had
+these customers known that Equity Trust had stopped taking new City Capital investments, they
+might have decided not to extend their notes and possibly taken some action that would mitigate
+their losses. Further, in the case of Dorio, Batt actually joined in a conference call with Dorio
+and her then financial adviser to persuade her to switch her funds from that adviser’s investment
+to an investment with Taylor at Equity Trust.
+3. Knew or Should Have Known
+This element of the charge that Equity Trust caused violations of Securities Act Sections
+17(a)(2) and 17(a)(3) is unproven. Taylor appeared to be a legitimate businessman when Equity
+Trust started processing investments in his companies. Equity Trust eventually became aware
+that City Capital notes were not being paid on maturity35 and that its audited financial statements
+showed a negative net worth with mounting current liabilities consisting mostly of notes payable.
+It had this knowledge when it allowed investors with existing notes to extend and replace them
+after it had placed City Capital on the Do Not Process list and had barred new City Capital
+investments from being custodied at Equity Trust. Yet knowing that City Capital was financially
+pressed and losing money is not the same as knowing that Taylor was engaged in fraud. Indeed,
+had Equity Trust complied with all of the duties that the Division argues that a SDIRA custodian
+should follow, it still would not have had knowledge of Taylor’s fraud. At bottom, unless Equity
+Trust assumed the role of an investigator, it is unclear how it would have known of the fraud.
+Poulson also appeared to be a legitimate businessman when Equity Trust started
+processing investments he sponsored. Eventually Equity Trust became wary as a result of his
+actions after being asked about missing documents. Poulson stalled on answering Equity Trust’s
+request for information and eventually was only partially responsive, furnishing documents that
+he “recreate[d] from scratch.” Equity Trust placed a hold on Poulson investments in November
+2011 after realizing this. It processed its last new Poulson customer in May 2011, two months
+before it commenced the secondary re-review.36 Again, had Equity Trust complied with all of
+the duties that the Division argues that a SDIRA custodian should follow, it still would not have
+had knowledge of Poulson’s fraud. A few days after the hold, the U.S. Attorney’s Office for the
+35
+
+Taylor’s explanation in late 2009 that many investors chose to extend their notes to benefit
+from compound interest was plausible at the time.
+36
+
+Equity Trust processed two extensions for one customer in January 2012, but the
+circumstances are unclear.
+
+32
+
+District of New Jersey sent Equity Trust a grand jury subpoena requesting information about
+Poulson in connection with an investigation relating to violations of several criminal laws. Thus,
+by the time Equity Trust knew or should have known that its conduct would contribute to a
+primary violation by Poulson, it had stopped the conduct.
+4. Negligence Standard of Care Applicable to “Knew or Should Have Known”
+A negligence standard is applied to determine whether the Respondent “knew or should
+have known” that its acts or omissions “would contribute to [Taylor’s or Poulson’s] violation.”
+The Division concedes that the standard of care is ultimately reasonable prudence. It states that
+the Commission has not established a standard of care for IRA custodians. This is literally true
+since the Commission is not authorized to regulate a custodian such as Equity Trust that is not a
+broker-dealer or investment adviser or an issuer. The Division propounds a standard of care for
+SDIRA custodians, based on the testimony of its expert witness, listing a number of specific
+duties.37 However, Equity Trust’s knowledge of whether its conduct contributed to the
+37
+
+The Division argues that reliance on its expert’s opinion is essential to establish the standard of
+care, citing several cases, which are inapposite, in which defendants were charged with primary
+violations of the antifraud and other provisions: (1) Thomas R. Delaney, Initial Decision Release
+No. 755, 2015 WL 1223971, at *44 (A.L.J. Mar. 18, 2015) (citing Vernazza v. SEC, 327 F.3d
+851, 861-62 (9th Cir. 2003), in which the court upheld the exclusion of expert testimony,
+observing that “expert testimony as to industry practice is relevant to show the standard of care
+as to a recklessness inquiry” while stating that the standard is ultimately one of “reasonable
+prudence.”). The Division’s expert testimony, however, did not address current industry practice
+but rather aspirational best practices. (2) United States v. Russo, 74 F.3d 1383, 1395 (2d Cir.
+1996) (rejecting appellants’ argument that district court improperly admitted expert testimony,
+stating that the trial court has broad discretion which will not be disturbed unless its ruling was
+manifestly erroneous and that in complex cases involving the securities industry, expert
+testimony may help a jury understand unfamiliar terms and concepts but must not usurp the roles
+of judge and jury by offering legal conclusions.). To the extent that the Division’s experts
+illuminated unfamiliar terms and concepts, their evidence has been accepted. (3) SEC v. Badian,
+No. 06-cv-2621, 2010 U.S. Dist. LEXIS 123990, at *8-9 (S.D.N.Y. Nov. 19, 2010) (denying a
+motion for summary judgment, stating that the Commission’s allegation that the defendants did
+not respond to red flags requires “proof through expert testimony. The types of factual situations
+that constitute red flags . . . are outside of the lay jury’s experience and observation. . . . The
+problematic implications of [defendants’] dual registration are sufficiently technical that the
+resolution of the SEC’s claims in this regard requires special knowledge or skill. A lay jury will
+not be familiar with the industry-accepted level of scrutiny for dually-registered brokerage
+professionals with supervisory responsibilities not will it be able to discern, based solely on its
+ordinary experience, whether [defendants] breached the relevant standard.”). The undersigned is
+not, however, a lay jury unfamiliar with the industry-accepted level of scrutiny for duallyregistered brokerage professionals. Although Equity Trust is not a registrant, it could be subject
+to the duties of an investment adviser if acting as an investment adviser. See Teicher v. SEC, 177
+F.3d 1016, 1017-19 (D.C. Cir. 1999) (holding that the Commission has authority to sanction
+investment advisers, whether registered or unregistered); Section 202(11) of the Investment
+Advisers Act of 1940 (defining “Investment Adviser”). (4) SEC v. Guenthner, 395 F. Supp. 2d
+33
+
+fraudsters’ violations would not have been advanced if it had complied with all the proposed
+duties; therefore, any failure to comply cannot show that Equity Trust knew or should have
+known that its acts or omissions would contribute to Taylor’s and Poulson’s violations. Further,
+while the Division’s standard of care may be desirable policy and might mitigate many types of
+harm to customers, it is essentially made up of whole cloth and does not purport to represent or
+to improve on industry practice or reference industry practice at all. Indeed, the unrebutted
+evidence shows that no other SDIRA custodian was performing the level of review of customer
+accounts that Equity Trust pioneered. Additionally, the fact that using the Division’s standard
+would require custodians to charge much higher fees than did Equity Trust, is in itself an
+indication that Equity Trust was not offering extensive services beyond record-keeping.
+The most convincing statement of the Commission’s view of standards applicable to IRA
+custodians such as Equity Trust is found in its September 2011 Investor Alert: Self-Directed
+IRAs and the Risk of Fraud, available at http://www.sec.gov/investor/alerts/sdira.pdf. Although
+the Investor Alert was issued after the Taylor and Poulson investors made their investments,
+there is no reason to believe that there were more stringent standards of care applicable before
+2011. The Investor Alert states, “Investors should understand that the custodians and trustees of
+self-directed IRAs may have limited duties to investors, and that the custodians and trustees for
+these accounts will generally not evaluate the quality or legitimacy of an investment and its
+promoters.” Id. at 1 (emphasis in original). It notes that the risks of private investment
+opportunities that custodians of SDIRAs might allow can include the risk of fraud as well as a
+lack of disclosure and liquidity. Id. It summarizes the standard of care applicable to Equity
+Trust:
+Self-directed IRA custodians are responsible only for holding and administering
+the assets in a self-directed IRA. Self-directed IRA custodians generally do not
+evaluate the quality or legitimacy of any investment in the self-directed IRA or its
+promoters. Furthermore, most custodial agreements between a self-directed IRA
+custodian and an investor explicitly state that the self-directed IRA custodian has
+no responsibility for investment performance.
+Id. at 2.
+This standard is consistent with the North American Securities Administrators Association’s
+December 2014 Informed Investor Advisory: Third-Party Custodians of Self-Directed IRAs and
+other Qualified Programs, available at http://www.nasaa.org/33698/informed-investor-advisorythird-party-custodians-self-directed-iras-qualified-programs/, which states:
+
+835, 847 (D. Neb. 2005) (dismissing fraud charges based on alleged accounting irregularities,
+stating that whether the defendants “complied with GAAP is a question that requires technical,
+and specialized knowledge. The standards of conduct . . . is [sic] not within the court’s general
+knowledge and experience.”) Such expert testimony, however, is based on Generally Accepted
+Accounting Principles established by the standards-setting Financial Accounting Standards
+Board.
+
+34
+
+the third-party custodian[’s] . . . sole obligation is to track and report to the IRS
+the contributions to and distributions from the account in order to maintain the
+tax-deferred status of the IRA. . . . The third-party custodian is merely the keeper
+of the deposits to and distributions from the account. The third-party custodian
+bills the investor for its record keeping services. The custodian does NOT hold the
+investment funds or assets.
+5. Additional Arguments Related to Equity Trust’s “Acts or Omissions”
+The Division makes a number of arguments directed to inculpating Equity Trust in
+Taylor’s and Poulson’s wrongdoing that are “acts or omissions” but are not relevant to the “knew
+or should have known” element of causing. While Equity Trust’s actions may have been
+undesirable and even inconsistent with Equity Trust’s representations to its customers, they do
+not bear on whether Equity Trust knew or should have known of Taylor’s or Poulson’s
+violations.
+The Division argues that, contrary to representations in its Custodial Agreement and DOI,
+it was promoting Taylor’s and Poulson’s investments38 and for that reason it cannot rely on the
+provisions in those documents such as the one that warns the customer in bold typeface: It is not
+our responsibility to review the prudence, merits, viability, or suitability of any investment
+directed by you . . . We shall be under no obligation or duty to investigate, analyze,
+monitor, verify title to, or otherwise evaluate or perform due diligence for any investment
+directed by you. Further, the Division argues that, contrary to Equity Trust’s representations, it
+provided customer account information to City Capital; that it engaged in sloppy record keeping,
+such as accepting “secured by company” Taylor notes without a separate security agreement and
+then reclassifying them as “unsecured”; and that it disbursed funds to Poulson investments
+without executed promissory notes or recorded mortgages.
+The record shows, however, that it was Taylor who promoted Equity Trust, not vice
+versa. This was illustrated by the facts at the New Birth event and by others who were drawn to
+invest with Taylor by contact with Taylor.39 Once Taylor selected Equity Trust as his preferred
+SDIRA custodian, it did not constitute promotion for Equity Trust to provide City Capital with
+copies of his forms to open accounts and fund investments and to advise City Capital personnel
+38
+
+The Division also argues that Equity Trust was promoting SDIRAs as a desirable investment
+vehicle and that this was inconsistent with its representations in the custodial agreement and
+elsewhere that it was a passive custodian that did not recommend any investment. This was not
+inconsistent – the whole point of SDIRAs was that the investor would make his own investment
+decisions. Whether or not SDIRAs should be legal or are wise investment vehicles, they are
+legal, and Equity Trust’s promotion of its own business model was not inconsistent with its
+representations that it is a passive custodian.
+39
+
+The allegation in the OIP, at ¶ II.4., that “Equity Trust knew that Taylor made false statements
+about Equity Trust to an audience of thousands” is an exaggerated reference to Taylor’s pointing
+out Batt in the audience and referring to him as his “personal banker.”
+
+35
+
+on how to fill them out for efficient processing. Nor was the landing page more than a
+convenience for persons who decided to invest with Taylor. Nonetheless, Batt’s efforts to
+intervene with Dorio and her financial advisor, who he perceived to be a roadblock to
+transferring the Dorio/Wallace funds to Equity Trust for investment with Taylor, went beyond
+administrative assistance to facilitate a transfer from one custodian to another and constituted a
+recommendation to invest.40
+The record also shows that Poulson promoted Equity Trust, not vice versa. This is
+underscored by the fact that Gatto and Savary invested with Poulson before their SDIRA
+investments through Equity Trust. Indeed, Gatto had sufficient confidence in Poulson that he
+invested non-IRA funds with him after his investment through Equity Trust.
+Equity Trust’s providing customer account balances to City Capital was inconsistent with
+its written representations to the customers (although consistent with its unwritten internal policy
+to require PINs before sharing account balances and with its written policy to provide nonpublic
+information to facilitate service authorized by the customer). However, all the Taylor witnesses
+opened their Equity Trust accounts for the specific purpose of investing with Taylor, and most
+actually provided their account opening applications, which included not only PINs, but also
+Social Security numbers, dates of birth, and other personal information, and DOIs to City Capital
+to file with Equity Trust rather than sending them directly to Equity Trust. Thus they had
+provided their PINs to City Capital along with their other information. In any event, providing
+customer account balances to City Capital was not evidence that Equity Trust knew or should
+have known that its conduct would contribute to Taylor’s violation.
+The Division cites two cases in support of its argument that Equity Trust’s alleged
+promotional activity vitiates each customer’s Custodial Agreement such that the reiterated
+warnings that the account holder was solely responsible for investment decisions and that Equity
+Trust was a passive custodian, was not a fiduciary, and had no duties or responsibilities with
+respect to selecting or monitoring the investments were inapplicable. Mid-Ohio Sec. Corp. v.
+Estate of Burns, 790 F. Supp. 2d 1263 (D. Nev. 2011); and Bentley v. Equity Trust Co., 2015
+Ohio App. LEXIS 4613 (Oh. Ct. App. Nov. 16, 2015). In the Burns case, the court, noting that
+the court’s review of an arbitration award is highly deferential, declined to vacate a FINRA
+arbitration award, which Mid-Ohio challenged on grounds that the claimant, the beneficiary of a
+SDIRA, lacked standing and that the arbitration panel misapplied a FINRA time limit rule. MidOhio Sec. Corp., 790 F. Supp. 2d at 1271-72. This ruling on procedural grounds does not
+support the Division’s position. In the Bentley case, the court ruled that the trial court erred
+when it granted summary judgment in favor of Equity Trust in a suit brought by a group of
+Equity Trust clients who had been defrauded by Robert Langguth on the basis that they were
+barred from bringing a common law tort claim by the provisions in the custodial agreement.
+40
+
+Batt’s efforts to persuade Dorio to invest with Taylor and to disregard Wheeler’s advice
+potentially fall within the definition of “investment adviser” contained in Section 202(11) of the
+Advisers Act: “any person who, for compensation, engages in the business of advising others, . .
+. as to the advisability of investing in, purchasing, or selling securities.” Neither Batt nor Equity
+Trust has been charged with violating the Advisers Act, however.
+
+36
+
+Bentley, 2015 Ohio App. LEXIS 4613, at *8-10. Again, whether or not Equity Trust’s
+representations to customers that it is a passive custodian and that they are solely responsible for
+investment decisions can shield it from liability to those customers because of sloppy record
+keeping, putative promotion of investments, or provision of PINs to an investment sponsor, is
+not relevant to whether Equity Trust is liable for a secondary violation in an enforcement charge.
+The record shows that Equity Trust notified Poulson investors of missing documentation,
+which was the customers’ obligation to furnish. Thus the fact of missing documentation in itself
+did not indicate that Equity Trust knew or should have known that its conduct would contribute
+to Poulson’s fraud. However, it processed the last new Poulson investment shortly after it
+received Poulson’s replies, which proved to be defective, to its questions to him concerning
+missing documents and before it commenced a secondary re-review as a result of which a hold
+was placed on new Poulson investments.41 Shortly after the hold, it received a subpoena in a
+criminal investigation of Poulson, clearly a red flag. Thus, even if Equity Trust suspected
+Poulson of fraud, rather than merely of promoting a business that sustained losses, by the time
+Equity Trust knew or should have known that its conduct might be a cause of Poulson’s violation
+it had stopped processing new investments.
+IV. ULTIMATE CONCLUSIONS
+It is concluded that Equity Trust was not a cause of Ephren Taylor’s or Randy Poulson’s
+violations of Sections 17(a)(2) and 17(a)(3) of the Securities Act. Thus, this proceeding will be
+dismissed.
+V. RECORD CERTIFICATION
+Pursuant to Rule 351(b) of the Commission’s Rules of Practice, 17 C.F.R. § 201.351(b),
+it is certified that the record includes the items set forth in the corrected record index issued by
+the Secretary of the Commission on June 20, 2016.42
+VI. ORDER
+IT IS ORDERED that this administrative proceeding IS DISMISSED.
+
+41
+
+The Division points out that Equity Trust did not place Poulson on the DNP list until October
+2012. However, he was placed on hold in November 2011, which prevented processing
+investments without a supervisor override, and, in fact, the last new investment had been
+processed months earlier.
+42
+
+The corrected record index implements changes ordered on June 15, 2016. See Equity Trust
+Co., Admin. Proc. Rulings Release No. 3922, 2016 SEC LEXIS 2125 (A.L.J. June 15, 2016).
+Additionally, as requested by the Division and with the consent of Respondent, Division Exhibits
+862 and 863, consisting of the final judgments entered against Poulson and Taylor, respectively,
+are admitted into evidence.
+
+37
+
+This Initial Decision shall become effective in accordance with and subject to the
+provisions of Rule 360 of the Commission’s Rules of Practice, 17 C.F.R. § 201.360. Pursuant to
+that Rule, a party may file a petition for review of this Initial Decision within twenty-one days
+after service of the Initial Decision. A party may also file a motion to correct a manifest error of
+fact within ten days of the Initial Decision, pursuant to Rule 111 of the Commission’s Rules of
+Practice, 17 C.F.R. § 201.111. If a motion to correct a manifest error of fact is filed by a party,
+then a party shall have twenty-one days to file a petition for review from the date of the
+undersigned’s order resolving such motion to correct manifest error of fact. The Initial Decision
+will not become final until the Commission enters an order of finality. The Commission will
+enter an order of finality unless a party files a petition for review or motion to correct manifest
+error of fact or the Commission determines on its own initiative to review the Initial Decision as
+to a party. If any of these events occur, the Initial Decision shall not become final as to that
+party.
+_______________________________
+Carol Fox Foelak
+Administrative Law Judge
+
+38
+
+

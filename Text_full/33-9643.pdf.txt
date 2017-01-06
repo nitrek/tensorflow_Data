@@ -1,0 +1,2225 @@
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Part 230
+[Release No. 33-9643; File No. S7-09-14]
+RIN 3235-AL41
+Treatment of Certain Communications Involving Security-Based Swaps That May Be
+Purchased Only By Eligible Contract Participants
+AGENCY: Securities and Exchange Commission.
+ACTION: Proposed rule.
+SUMMARY: We are proposing a rule under the Securities Act of 1933 to provide that certain
+communications involving security-based swaps that may be purchased only by eligible contract
+participants will not be deemed for purposes of Section 5 of the Securities Act to constitute
+offers of such security-based swaps or any guarantees of such security-based swaps that are
+securities. Under the proposed rule, the publication or distribution of price quotes relating to
+security-based swaps that may be purchased only by persons who are eligible contract
+participants and are traded or processed on or through a facility that either is registered as a
+national securities exchange or as a security-based swap execution facility, or is exempt from
+registration as a security-based swap execution facility pursuant to a rule, regulation, or order of
+the Commission, would not be deemed to constitute an offer, an offer to sell, or a solicitation of
+an offer to buy or purchase such security-based swaps or any guarantees of such security-based
+swaps that are securities for purposes of Section 5 of the Securities Act.
+DATES: Comments should be received on or before November 10, 2014.
+
+ADDRESSES: Comments may be submitted by any of the following methods:
+Electronic Comments:
+
+•
+
+Use the Commission’s Internet comment form
+(http://www.sec.gov/rules/proposed.shtml);
+
+•
+
+Send an e-mail to rule-comments@sec.gov. Please include File Number S7-09-14 on the
+subject line; or
+
+•
+
+Use the Federal eRulemaking Portal (http://www.regulations.gov). Follow the
+instructions for submitting comments.
+
+Paper Comments:
+•
+
+Send paper comments to Kevin M. O’Neill, Deputy Secretary, Securities and Exchange
+Commission, 100 F Street, NE, Washington, DC 20549-1090.
+All submissions should refer to File Number S7-09-14. This file number should be
+
+included on the subject line if e-mail is used. To help us process and review your comments
+more efficiently, please use only one method. We will post all comments on the Commission’s
+Internet website (http://www.sec.gov/rules/proposed.shtml). Comments also are available for
+website viewing and printing in the Commission’s Public Reference Room, 100 F Street, NE,
+Washington, DC 20549, on official business days between the hours of 10:00 a.m. and 3:00 p.m.
+All comments received will be posted without change; we do not edit personal identifying
+information from submissions. You should submit only information that you wish to make
+available publicly.
+FOR FURTHER INFORMATION CONTACT: Andrew Schoeffler, Special Counsel, Office
+of Capital Markets Trends, Division of Corporation Finance, at (202) 551-3860, U.S. Securities
+and Exchange Commission, 100 F Street, NE, Washington, DC 20549-3628.
+
+2
+
+SUPPLEMENTARY INFORMATION: We are proposing Rule 135d under the Securities
+Act of 1933 (“Securities Act”). 1
+I.
+
+BACKGROUND
+On July 21, 2010, the President signed the Dodd-Frank Wall Street Reform and
+
+Consumer Protection Act (“Dodd-Frank Act”) 2 into law. Title VII of the Dodd-Frank Act
+(“Title VII”) provides the Securities and Exchange Commission (“SEC” or the “Commission”)
+and the Commodity Futures Trading Commission (“CFTC”) with the authority to regulate overthe-counter derivatives. Under Title VII, the CFTC regulates “swaps,” the SEC regulates
+“security-based swaps,” and the CFTC and SEC jointly regulate “mixed swaps.” 3
+Title VII amended the Securities Act and the Securities Exchange Act of 1934
+(“Exchange Act”) 4 to include “security-based swaps” in the definition of “security” for purposes
+of those statutes. 5 As a result, “security-based swaps” are subject to the provisions of the
+
+1
+
+15 U.S.C. 77a et seq.
+
+2
+
+Pub. L. No. 111-203, 124 Stat. 1376 (2010).
+
+3
+
+Section 712(d) of the Dodd-Frank Act provides that the SEC and the CFTC, in consultation with
+the Board of Governors of the Federal Reserve System, shall jointly further define the terms
+“swap,” “security-based swap,” “swap dealer,” “security-based swap dealer,” “major swap
+participant,” “major security-based swap participant,” “eligible contract participant,” and
+“security-based swap agreement.” These terms are defined in Sections 721 and 761 of the DoddFrank Act and, with respect to the term “eligible contract participant,” in Section 1a(18) of the
+Commodity Exchange Act [7 U.S.C. 1a(18)], as re-designated and amended by Section 721 of the
+Dodd-Frank Act. The SEC and the CFTC adopted final rules further defining these terms. See
+Further Definition of “Swap Dealer,” “Security-Based Swap Dealer,” “Major Swap Participant,”
+“Major Security-Based Swap Participant” and “Eligible Contract Participant”, Release No. 3466868 (Apr. 27, 2012), 77 FR 30596 (May 23, 2012), and Further Definition of “Swap,”
+“Security-Based Swap,” and “Security-Based Swap Agreement”; Mixed Swaps; Security-Based
+Swap Agreement Recordkeeping, Release No. 33-9338 (Jul. 18, 2012), 77 FR 48208 (Aug. 13,
+2012) (“Product Definitions Adopting Release”).
+
+4
+
+15 U.S.C. 78a et seq.
+
+5
+
+See Sections 761(a)(2) and 768(a)(1) of the Dodd-Frank Act (amending Section 3(a)(10) of the
+Exchange Act [15 U.S.C. 78c(a)(10)] and Section 2(a)(1) of the Securities Act [15 U.S.C.
+77b(a)(1)], respectively).
+
+3
+
+Securities Act and the Exchange Act and the rules and regulations thereunder applicable to
+securities. The Securities Act requires that any offer and sale of a security must either be
+registered under the Securities Act or be made pursuant to an exemption from registration. 6 As a
+result, counterparties entering into security-based swap transactions need either to rely on an
+available exemption from the registration requirements of the Securities Act or register such
+transactions. Title VII amended the Securities Act to require that security-based swap
+transactions involving persons who are not eligible contract participants 7 must be registered
+under the Securities Act. 8
+Transactions in security-based swaps historically have occurred through bilateral trades
+in the over-the-counter market. 9 Currently, security-based swap dealers can locate counterparties
+
+6
+
+See 15 U.S.C. 77e.
+
+7
+
+The term “eligible contract participant” is defined in Section 1a(18) of the Commodity Exchange
+Act [7 U.S.C. 1a(18)]. The definition of the term “eligible contract participant” in the Securities
+Act refers to the definition of “eligible contract participant” in the Commodity Exchange Act.
+See Section 5(e) of the Securities Act [15 U.S.C. 77e(e)]. The eligible contract participant
+definition includes several categories of persons: financial institutions; insurance companies;
+investment companies; commodity pools; business entities, such as corporations, partnerships,
+and trusts; employee benefit plans; government entities, such as the United States, a State or local
+municipality, a foreign government, a multinational or supranational government entity, or an
+instrumentality, agency or department of such entities; market professionals, such as broker
+dealers, futures commission merchants, floor brokers, and investment advisors; and natural
+persons with a specified dollar amount invested on a discretionary basis. The SEC and the CFTC
+adopted final rules further defining the term “eligible contract participant.” See footnote 3 above.
+
+8
+
+See Section 768(b) of the Dodd-Frank Act (adding new Section 5(d) of the Securities Act [15
+U.S.C. 77e(d)]) (Notwithstanding the provisions of section 3 or 4, unless a registration statement
+meeting the requirements of section 10(a) is in effect as to a security-based swap, it shall be
+unlawful for any person, directly or indirectly, to make use of any means or instruments of
+transportation or communication in interstate commerce or of the mails to offer to sell, offer to
+buy or purchase or sell a security-based swap to any person who is not an eligible contract
+participant as defined in section 1a(18) of the Commodity Exchange Act (7 U.S.C. 1a(18)).)).
+Section 105(c)(1) of the Jumpstart Our Business Startups Act (the “JOBS Act”) redesignated
+paragraph (d) of Section 5 of the Securities Act as paragraph (e). See Pub. L. No. 112-106, 126
+Stat. 306 (2012).
+
+9
+
+See letter from Kenneth E. Bentsen, Jr., Executive Vice President, Public Policy and Advocacy,
+The Securities Industry and Financial Markets Association (“SIFMA”), and Robert Pickel, Chief
+
+4
+
+for transactions in security-based swaps by using various methods, including electronic trading
+platforms. 10 Security-based swap dealers may solicit transactions in security-based swaps from
+their institutional client base via phone calls, email, and in-person meetings. Clients sometimes
+contact security-based swap dealers who are well known in the market to request a quote for a
+particular transaction. In addition, security-based swap dealers may opt to locate counterparties
+by engaging the services of an inter-dealer broker. According to a commenter, security-based
+swap dealers also disseminate trading interest in security-based swaps by sending messages via
+on-line information services such as Bloomberg. 11 These electronic messages are sent only to
+accounts with whom security-based swap dealers and brokers have pre-existing relationships. 12
+Security-based swap dealers also may communicate pricing information or quotes for securitybased swaps through electronic trading platforms that require pre-clearance for access and are
+accessible only to approved customers. These platforms include single-dealer request for quote
+platforms, aggregator-type platforms, multi-dealer request for quote platforms, limit order book
+systems, and electronic brokering platforms. 13 Certain of these platforms may become security-
+
+Executive Officer, International Swaps and Derivatives Association (“ISDA”), dated Apr. 20,
+2012 (“SIFMA/ISDA Letter”). The SIFMA/ISDA letter was submitted in response to the request
+for comment in Exemptions for Security-Based Swaps, Release No. 33-9231 (Jul. 1, 2011), 76
+FR 40605 (Jul. 11, 2011) (“Interim Final Exemptions Adopting Release”). In considering
+whether the exemptions adopted in the Interim Final Exemptions Adopting Release were
+necessary or appropriate, the Commission requested information about how security-based swaps
+are currently transacted and will be transacted following the full implementation of Title VII. In
+response to the request for comment, the SIFMA/ISDA Letter provided a description of how the
+security-based swaps market functions and how it may function following the full implementation
+of Title VII. See SIFMA/ISDA Letter.
+10
+
+See SIFMA/ISDA Letter.
+
+11
+
+Id.
+
+12
+
+Id.
+
+13
+
+Id.
+
+5
+
+based swap execution facilities (“security-based SEFs”) 14 upon the full implementation of Title
+VII, but the particular characteristics of trading platforms that security-based SEFs will be
+permitted to operate will not be known until we adopt final rules implementing the statutory
+provisions of Title VII governing the registration and regulation of security-based SEFs. 15
+Title VII has added a requirement that security-based swaps be traded on regulated
+trading platforms or exchanges in certain situations. Title VII contains a mandatory clearing
+provision that requires security-based swap transactions to be submitted for clearing to a clearing
+agency if such security-based swap is one that the Commission has determined is required to be
+cleared, unless an exception from mandatory clearing applies (“mandatory clearing
+requirement”). 16 This section of Title VII further provides that for security-based swaps that are
+subject to the mandatory clearing requirement, transactions in such security-based swaps must be
+executed on an exchange or on a registered or exempt security-based SEF, unless no exchange or
+security-based SEF makes such security-based swap available for trading (“mandatory trade
+execution requirement”). 17 If a security-based swap transaction is not subject to the mandatory
+clearing requirement, the transaction may still be cleared on a voluntary basis by a clearing
+agency if the clearing agency has rules that permit it to clear the security-based swap. 18
+
+14
+
+See Section 761 of the Dodd-Frank Act (adding Section 3(a)(77) of the Exchange Act [15 U.S.C.
+78c(a)(77)] (defining the term “security-based swap execution facility”)), and Registration and
+Regulation of Security-Based Swap Execution Facilities, Release No. 34-63825 (Feb. 2, 2011) 76
+FR 10948 (Feb. 28, 2011) (“Security-Based SEF Proposing Release”).
+
+15
+
+See Security-Based SEF Proposing Release.
+
+16
+
+See Section 763(a) of the Dodd-Frank Act (adding Section 3C of the Exchange Act [15 U.S.C.
+78c-3]).
+
+17
+
+Id.
+
+18
+
+See Exemptions for Security-Based Swaps Issued By Certain Clearing Agencies, Release No. 339308 (Mar. 30, 2012), 77 FR 20536 (Apr. 5, 2012) (“Cleared SBS Exemptions Adopting
+Release”).
+
+6
+
+Security-based swap transactions, whether or not subsequently cleared, may be executed on a
+security-based SEF. 19
+Any facility for trading or processing security-based swaps, including some of the
+electronic trading platforms currently used by security-based swap dealers to disseminate quotes
+to their clients, must be registered as a security-based SEF or as a national securities exchange. 20
+Once registered, a security-based SEF may make security-based swaps available for trading and
+facilitate trade processing of security-based swaps. We believe that security-based SEFs, as well
+as exchanges that post or trade security-based swaps, should help to provide greater transparency
+and a more competitive environment for the trading of security-based swaps by providing venues
+for multiple parties to execute trades in security-based swaps and also by serving as conduits for
+information regarding trading interest in security-based swaps. 21 While security-based swap
+transactions currently are effected through the over-the-counter market, rather than on regulated
+markets, with the full implementation of Title VII, such transactions will occur both through
+regulated markets, such as registered or exempt security-based SEFs and national securities
+exchanges, and through over-the-counter transactions under certain circumstances.
+Title VII amends the Exchange Act to add various new statutory provisions to govern the
+regulation of security-based SEFs, including provisions relating to who may access such trading
+platforms (known as an “impartial access requirement”) and the availability of bid, offer, or other
+19
+
+Id.
+
+20
+
+See Section 763(c) of the Dodd-Frank Act (adding Section 3D(a)(1) of the Exchange Act [15
+U.S.C. 78c-4(a)(1)]). We view this requirement as applying only to a facility that meets the
+definition of “security-based swap execution facility” in Section 3(a)(77) of the Exchange Act.
+Under the Dodd-Frank Act, security-based swaps that that are not subject to the mandatory trade
+execution requirement would not have to be traded on a registered security-based SEF and could
+continue to be traded in the over-the-counter market for security-based swaps. See SecurityBased SEF Proposing Release.
+
+21
+
+See Security-Based SEF Proposing Release.
+
+7
+
+price information regarding security-based swaps. 22 The impartial access requirement would
+require a security-based SEF to establish objective standards for granting impartial access to
+trading on the security-based SEF. The proposed rules for regulating security-based SEFs would
+impose an affirmative requirement for security-based SEFs to admit as participants all eligible
+persons that meet those standards for becoming a participant. 23 Further, the proposed rules for
+regulating security-based SEFs would require security-based SEFs to provide at least a basic
+functionality to allow any participant on a security-based SEF the ability to make and display
+executable bids or offers accessible to all other participants on the security-based SEF, if the
+participant chooses to do so. 24 Consequently, registered security-based SEFs may be unable to
+limit the number or types of persons that have access to quotes on their trading platforms. For
+example, following the full implementation of Title VII, the rules of security-based SEFs and
+national securities exchanges may require the publication or distribution of quotes for security-
+
+22
+
+See Section 763 of the Dodd-Frank Act (adding Sections 3C and 3D of the Exchange Act [15
+U.S.C. 78c-3 and 78c-4]). We have proposed rules to implement the statutory provisions
+regarding the regulation of security-based SEFs. See Security-Based SEF Proposing Release. To
+be registered as a security-based SEF a trading platform must comply with certain enumerated
+core principles, one of which is that a security-based SEF must provide market participants with
+impartial access to become participants in the security-based SEF. See Section 3D(d) of the
+Exchange Act [15 U.S.C. 78c-4(d)]. We have proposed rules to implement the impartial access
+requirement that would set forth the categories of persons that would be permitted to have direct
+access to trading on a security-based SEF as a participant and also the terms and conditions that
+the security-based SEF would need to adopt for granting such access. See Security-Based SEF
+Proposing Release. The impartial access requirement is analogous to the fair access requirement
+for national securities exchanges under Section 6(b)(2) of the Exchange Act, which also imposes
+an affirmative duty to admit qualified broker-dealers as members. See 15 U.S.C. 78f(b)(2)
+(“[T]he rules of the exchange [must] provide that any registered broker or dealer or natural person
+associated with a registered broker or dealer may become a member of such exchange…”).
+
+23
+
+See Security-Based SEF Proposing Release. This proposed requirement is in contrast to the
+current structure of security-based swap trading platforms, as noted above, in which the trading
+platform operators and the security-based swap dealers have discretion over authorizing
+participants to access the platform and to see quotes for security-based swaps from the securitybased swap dealers.
+
+24
+
+See Security-Based SEF Proposing Release.
+
+8
+
+based swaps to be available to all participants in these platforms. As is the case today,
+participants in these platforms may be able to further disseminate such quotes, including through
+on-line information services, without restriction depending on the particular rules of these
+platforms. As a result, such quotes may be available to any person on an unrestricted basis.
+The operation of security-based SEFs and national securities exchanges that post bids,
+offers, or prices or that operate as trading platforms for security-based swaps, whether currently
+or following full implementation of Title VII, could affect the availability of exemptions from
+the registration requirements of the Securities Act for security-based swaps whose quotes are
+publicly available on or through such trading platforms or national securities exchanges. 25
+Currently, quote or price information on security-based swaps on or through trading platforms
+used by security-based swap dealers may be available to the dealers’ clients or others at the
+dealer’s discretion. Certain of these trading platforms, as well as others, may become registered
+security-based SEFs, which may affect the platform’s ability to limit participant access to the
+trading platforms and, therefore, may enable a variety of individuals or entities to view quotes on
+such platforms.
+We have previously taken action with respect to security-based swap transactions under
+the Securities Act, the Exchange Act, and the Trust Indenture Act of 1939 (“Trust Indenture
+Act”) 26 while we sought input on the ways in which security-based swaps were transacted prior
+to the enactment of Title VII and could be transacted following the full implementation of Title
+VII, including through the use of trading platforms for security-based swaps. In July 2011, as a
+
+25
+
+See, e.g., Section 4(a)(2) of the Securities Act (formerly Section 4(2)) exempts transactions by an
+issuer not involving any public offering from the registration requirements of Section 5 of the
+Securities Act. 15 U.S.C. 77d(a)(2).
+
+26
+
+15 U.S.C. 77aaa et seq.
+
+9
+
+result of security-based swaps being included in the definition of “security” under the Securities
+Act and the Exchange Act and thereby becoming subject to the provisions of those statutes and
+the rules and regulations thereunder applicable to securities, we adopted interim final rules to
+provide exemptions under the Securities Act, the Exchange Act, and the Trust Indenture Act for
+those security-based swaps that prior to July 16, 2011 (“Title VII effective date”) 27 were
+“security-based swap agreements” and are defined as “securities” under the Securities Act and
+the Exchange Act as of the Title VII effective date due solely to the provisions of Title VII
+(collectively, the “interim final exemptions”). 28 The interim final exemptions exempt offers and
+sales of security-based swap agreements that became security-based swaps on the Title VII
+effective date from all provisions of the Securities Act, other than the Section 17(a) anti-fraud
+provisions, as well as from the Exchange Act registration requirements and from the provisions
+
+27
+
+The provisions of Title VII generally were effective on July 16, 2011 (360 days after enactment
+of the Dodd-Frank Act), unless a provision requires a rulemaking. If a Title VII provision
+requires a rulemaking, it will go into effect not less than 60 days after publication of the related
+final rule or on July 16, 2011, whichever is later. See Section 774 of the Dodd-Frank Act.
+
+28
+
+See Rule 240 under the Securities Act [17 CFR 230.240], Rules 12a-11 and Rule 12h-1(i) under
+the Exchange Act [17 CFR 240.12a-11 and 17 CFR 240.12h-1], and Rule 4d-12 under the Trust
+Indenture Act of 1939 (“Trust Indenture Act”) [17 CFR 260.4d-12]. See also Interim Final
+Exemptions Adopting Release. The category of security-based swaps covered by the interim
+final exemptions involves those that would have been defined as “security-based swap
+agreements” prior to the enactment of Title VII. See Section 2A of the Securities Act [15 U.S.C.
+77b(b)-1)] and Section 3A of the Exchange Act [15 U.S.C. 78c-1], each as in effect prior to the
+Title VII effective date. For example, the vast majority of security-based swap transactions
+involve single-name credit default swaps, which would have been “security-based swap
+agreements” prior to the Title VII effective date. In contrast, the definition of “security-based
+swap agreement” did not include security-based swaps that are based on or reference only loans
+and indexes only of loans. The Division of Corporation Finance issued a no-action letter that
+addressed the availability of the interim final exemptions to offers and sales of security-based
+swaps that are based on or reference only loans or indexes only of loans. See Cleary Gottlieb
+Steen & Hamilton LLP (Jul. 15, 2011). This no-action letter will remain in effect for so long as
+the interim final exemptions remain in effect.
+
+10
+
+of the Trust Indenture Act, provided certain conditions are met. 29 We adopted amendments to
+the interim final exemptions to extend the expiration dates in the interim final exemptions to
+February 11, 2017. 30 If we adopt rules under this proposal, we may determine to alter the
+expiration dates in the interim final exemptions as part of that rulemaking, including possibly
+shortening the expiration dates in the interim final exemptions. 31
+We adopted the interim final exemptions because, among other things, we were
+concerned about disrupting the operation of the security-based swaps market while we evaluated
+the implications for security-based swaps under the Securities Act and the Exchange Act as a
+result of the inclusion of the term “security-based swap” in the definition of “security” for
+purposes of those statutes. 32
+At the time of adoption of the interim final exemptions in July 2011, we requested
+comment on various aspects of the interim final exemptions. 33 In response to the request for
+
+29
+
+The security-based swap that is exempt must be a security-based swap agreement (as defined
+prior to the Title VII effective date) and entered into between eligible contract participants (as
+defined prior to the Title VII effective date). See Rule 240 under the Securities Act [17 CFR
+230.240]. See also Interim Final Exemptions Adopting Release.
+
+30
+
+See Extension of Exemptions for Security-Based Swaps, Release No. 33-9545 (Feb. 5, 2014), 79
+FR 7570 (Feb. 10, 2014).
+
+31
+
+We are requesting comment on whether to shorten or further extend the expiration dates in the
+interim final exemptions.
+
+32
+
+Id. Prior to the Title VII effective date, security-based swap agreements that became securitybased swaps on the Title VII effective date were outside the scope of the federal securities laws,
+other than the anti-fraud and certain other provisions. See Section 2A of the Securities Act [15
+U.S.C. 77b(b)-1)] and Section 3A of the Exchange Act [15 U.S.C. 78c-1], each as in effect prior
+to the Title VII effective date. Some market participants were concerned that because of the
+different types of trading platforms being used to effect transactions in security-based swaps there
+could be questions regarding the availability of exemptions under the Securities Act and the
+Exchange Act.
+
+33
+
+See Interim Final Exemptions Adopting Release. The Commission also requested comment on
+certain of these matters in an earlier proposing release regarding exemptions for security-based
+swap transactions involving an eligible clearing agency. See Exemptions For Security-Based
+
+11
+
+comment, commenters expressed concerns regarding the availability of exemptions from the
+registration requirements of the Securities Act, including the exemption in Section 4(a)(2), for
+security-based swap transactions entered into solely between eligible contract participants due to
+the operation of certain trading platforms and the publication or distribution of other information
+regarding security-based swaps. 34 Commenters indicated that certain communications involving
+security-based swaps, such as the publication or distribution of price quotes, may be available on
+or through trading platforms on an unrestricted basis following the full implementation of Title
+VII. 35 They were concerned that this unrestricted access could affect the availability of
+exemptions from the registration requirements of the Securities Act, such as the exemption in
+Section 4(a)(2), for such security-based swap transactions. 36 As we understand, currently such
+communications generally are not available on the trading platforms on an unrestricted basis
+because the trading platform operators and the security-based swap dealers have discretion over
+authorizing participants to access trading platforms and to see quotes for security-based swaps
+from the security-based swap dealers using such trading platforms. 37
+
+Swaps Issued By Certain Clearing Agencies, Release No. 33-9222 (Jun. 9, 2011), 76 FR 34920
+(Jun. 15, 2011) (“Cleared SBS Exemptions Proposing Release”).
+34
+
+See SIFMA/ISDA Letter and letter from Kenneth E. Bentsen, Jr., Executive Vice President,
+Public Policy and Advocacy, SIFMA, dated Dec. 21, 2012 (“SIFMA Letter”). See also letter
+from Richard M. Whiting, Executive Director and General Counsel, Financial Services
+Roundtable, Robert Pickel, Chief Executive Officer, ISDA, and Kenneth E. Bentsen, Jr.,
+Executive Vice President, Public Policy and Advocacy, SIFMA, dated Jan. 31, 2012
+(“FSR/ISDA/SIFMA Letter”), and letter from Scott Pintoff, General Counsel, GFI Group Inc.,
+dated Jul. 25, 2011 (“GFI Letter”). The FSR/ISDA/SIFMA Letter and GFI Letter were submitted
+in response to our request for comment in the Cleared SBS Exemptions Proposing Release.
+
+35
+
+Id.
+
+36
+
+Id.
+
+37
+
+See SIFMA/ISDA Letter.
+
+12
+
+The publication or distribution of price quotes for security-based swaps that are traded or
+processed on or through trading platforms could be viewed as offers of those security-based
+swaps within the meaning of Section 2(3) of the Securities Act, 38 and such communications
+would require compliance with the registration provisions of Section 5 of the Securities Act
+unless there is an available exemption from such registration requirements. Further, such
+communications also may be considered offers to persons who are not eligible contract
+participants, even if such persons are not permitted to purchase the security-based swaps. Under
+Section 5(e) of the Securities Act, it is unlawful to make offers or sales of security-based swaps
+to persons who are not eligible contract participants unless the security-based swaps are
+registered under the Securities Act. 39
+The rule proposed in this release is intended to further the goal of Title VII to bring the
+trading of security-based swaps onto regulated trading platforms and avoid unintended
+consequences arising from the operation of security-based swap trading platforms, including
+security-based SEFs and national securities exchanges, following the full implementation of Title
+VII by permitting market participants to effect security-based swap transactions without concern
+that price quotes on trading platforms made with respect to such security-based swap
+transactions may implicate the registration requirements of the Securities Act. If there are no
+Securities Act exemptions available with respect to a security-based swap transaction because
+the publication or distribution of price quotes for the security-based swaps that are traded or
+processed on or through trading platforms is viewed as an offer of such security-based swap,
+including to persons who are not eligible contract participants, the required registration of such
+38
+
+See 15 U.S.C. 77b(3).
+
+39
+
+See footnote 8 above and accompanying text.
+
+13
+
+transactions could impede the operation of, and the trading of security-based swaps on or
+through, these trading platforms. This, in turn, could potentially impede price discovery of
+security-based swap transactions. Accordingly, we believe that the rule proposed in this release
+is necessary to enable market participants to effect security-based swap transactions with eligible
+contract participants in reliance on available exemptions from the registration requirements of
+the Securities Act and avoid potential Securities Act violations for unregistered offers to persons
+who are not eligible contract participants, and to assure that there are not unintended
+consequences for the operation of security-based swap trading platforms following the full
+implementation of Title VII.
+In proposing this rule, we have considered comment letters received to date on the
+interim final exemptions, including comment letters we received in response to the request for
+comment in an earlier proposing release regarding exemptions for security-based swap
+transactions involving an eligible clearing agency. 40 As noted above, some commenters
+expressed concerns regarding the availability of exemptions from the registration requirements
+of the Securities Act arising from the publication or distribution of price quotes for securitybased swaps that are traded on or processed on or through trading platforms. Some commenters
+also expressed concern about the effect on the availability of Securities Act exemptions arising
+from other published communications that they characterized as research, 41 but the comment
+letters did not provide detail regarding the types of research materials that are distributed, the
+manner in which such research materials are distributed, or the basis for characterizing such
+
+40
+
+See footnote 34 above and accompanying text.
+
+41
+
+See SIFMA/ISDA Letter and SIFMA Letter. These communications are discussed further below
+in Section II in the discussion of the comments the Commission has received on the interim final
+exemptions.
+
+14
+
+communications as research. We are requesting further comment regarding these matters. In
+addition, while some commenters suggested broader exemptions for security-based swap
+transactions entered into solely between eligible contract participants under the Securities Act,
+the Exchange Act, and the Trust Indenture Act, they did not provide any specific examples of
+why broader exemptions are necessary. Thus, at this time, we are proposing a Securities Act rule
+that is tailored to address commenters’ identified concerns regarding the publication or
+distribution of price quotes arising from the operation of trading platforms, rather than broader
+exemptions under the Securities Act, the Exchange Act, or the Trust Indenture Act. We are
+requesting comment on whether or not we should take a different approach.
+II.
+
+DISCUSSION OF THE PROPOSED RULE
+We are proposing Rule 135d under the Securities Act to provide that certain
+
+communications involving security-based swaps that may be purchased only by eligible contract
+participants will not be deemed for purposes of Section 5 of the Securities Act to constitute
+offers of such security-based swaps or any guarantees of such security-based swaps that are
+securities. Under the proposed rule, the publication or distribution of price quotes (“SBS price
+quotes”) relating to security-based swaps 42 that may be purchased only by persons who are
+eligible contract participants and are traded or processed on or through a facility that either is
+
+42
+
+The term “security-based swap” includes mixed swaps. A mixed swap is defined as a securitybased swap that also is based on the value of 1 or more interest or other rates, currencies,
+commodities, instruments of indebtedness, indices, quantitative measures, other financial or
+economic interest or property of any kind (other than a single security or a narrow-based security
+index), or the occurrence, non-occurrence, or the extent of the occurrence of an event or
+contingency associated with a potential financial, economic, or commercial consequence (other
+than the occurrence, non-occurrence, or extent of the occurrence of an event relating to a single
+issuer of a security or the issuers of securities in a narrow-based security index, provided that
+such event directly affects the financial statements, financial condition, or financial obligations of
+the issuer). See Section 3(a)(68)(D) of the Exchange Act [15 U.S.C. 78c(a)(68)(D)]. See also
+Section IV of the Product Definitions Adopting Release.
+
+15
+
+registered as a national securities exchange or as a security-based SEF, or is exempt from
+registration as a security-based SEF pursuant to a rule, regulation, or order of the Commission
+(an “eligible trading platform”), would not be deemed to constitute an offer, an offer to sell, or a
+solicitation of an offer to buy or purchase such security-based swaps or any guarantees of such
+security-based swaps that are securities for purposes of Section 5 of the Securities Act.
+The publication or distribution of SBS price quotes otherwise could be considered offers
+of those securities within the meaning of Sections 2(3) and 5 of the Securities Act, including to
+persons who are not eligible contract participants, if the SBS price quotes are available on an
+unrestricted basis. If considered offers, the publication or distribution of SBS price quotes may
+affect the availability of exemptions from the registration requirements of the Securities Act,
+including the exemption in Section 4(a)(2), and may be offers of security-based swaps to noneligible contract participants. The proposed rule would allow such communications to be made
+without being considered to be an offer for purposes of Section 5 of the Securities Act.
+The proposed rule would apply to the initial publication or distribution of the SBS price
+quotes on eligible trading platforms, as well as any subsequent republication or redistribution of
+the SBS price quotes on or through mediums other than eligible trading platforms, including online information services. It is possible that participants in eligible trading platforms that receive
+SBS price quotes could further disseminate the SBS price quotes without restriction. Because
+we do not believe that the SBS price quotes should be considered offers for purposes of Section
+5 of the Securities Act under the conditions in the proposed rule, we do not believe that the
+treatment of such SBS price quotes under the proposed rule should depend on who publishes or
+distributes the SBS price quotes or where the SBS price quotes are published or distributed, so
+
+16
+
+long as only persons who are eligible contract participants may purchase the securities that are
+the subject of the SBS price quotes.
+The proposed rule would apply to the publication or distribution of price quotes of
+security-based swaps, including any guarantees of such security-based swaps that are securities.
+Security-based swaps may be guaranteed to provide protection against a counterparty’s default.
+A guarantee of a security is itself a security for purposes of the Securities Act. 43 As a result, the
+publication or distribution of SBS price quotes also may be viewed as offers of any guarantees of
+the security-based swaps that are the subject of the SBS price quotes. We believe that the
+proposed rule should apply with respect to any guarantee of a security-based swap provided as
+part of the security-based swap transaction. Because we believe that a guarantee of a securitybased swap is part of the security-based swap transaction, the proposed rule also would deem the
+publication or distribution of SBS price quotes to not constitute an offer, an offer to sell, or a
+solicitation of an offer to buy or purchase any guarantees of the security-based swaps that are the
+subject of the SBS price quotes.
+The proposed rule would apply with respect to SBS price quotes, which could take a
+number of forms depending on the type of trading platform model, including indicative quotes,
+executable quotes, bids and offers, and other pricing information and other types of quote
+information that may develop in the future. We are not proposing to define the specific type of
+SBS price quotes with respect to which the proposed rule would apply because we do not want to
+limit the types of trading platform models that currently or may in the future exist. 44 This
+
+43
+
+See Section 2(a)(1) of the Securities Act [15 U.S.C. 77b(a)(1)].
+
+44
+
+According to commenters, the five trading platforms models discussed below represent broadly
+the various types of models for the trading of security-based swaps in existence today. See
+SIFMA/ISDA Letter. These examples may not represent every single method in existence today,
+
+17
+
+approach is intended to allow flexibility in the proposed rule as organized markets for the trading
+of security-based swaps continue to develop, including following the full implementation of Title
+VII.
+The security-based swaps market currently is characterized by bilateral negotiation in the
+over-the-counter market, is largely decentralized, and many instruments are not standardized. 45
+The lack of uniform rules concerning the trading of security-based swaps and the one-to-one
+nature of trade negotiation in the security-based swaps market has resulted in the formation of
+distinct types of venues for the trading of these securities, such as single-dealer request for quote
+platforms, aggregator-type platforms, multi-dealer request for quote platforms, limit order book
+systems, and electronic brokering platforms. According to commenters, a single-dealer request
+for quote platform is a trading platform on which a security-based swap dealer may post quotes
+for security-based swaps transactions in various asset classes that the security-based swap dealer
+is willing to trade. 46 These trading platforms currently require pre-clearance for access and are
+accessible exclusively by the security-based swap dealers’ approved customers. When a
+customer wishes to effect a security-based swap transaction, the customer requests a quote, the
+security-based swap dealer provides one, and if the customer accepts the security-based swap
+dealer’s quote, the transaction is executed electronically. 47
+and the discussion below is intended to give an overview of the models without providing the
+nuances of each particular type. As noted above, certain of these trading platforms may become
+security-based SEFs following the full implementation of Title VII, but the particular
+characteristics of trading platforms that security-based SEFs will be permitted to operate will not
+be known until we adopt final rules implementing the statutory provisions of Title VII governing
+the registration and regulation of security-based SEFs. See footnote 15 above and accompanying
+text.
+45
+
+See SIFMA/ISDA Letter.
+
+46
+
+Id.
+
+47
+
+Id.
+
+18
+
+Commenters describe an aggregator-type platform as a trading platform that combines
+two or more single-dealer request for quote platforms. 48 In these trading platforms, both the
+aggregator and the security-based swap dealers currently must authorize participants to access
+the platform and see quotes from the security-based swap dealers. Although a participant can
+simultaneously view quotes from multiple security-based swap dealers, the participant can
+request a quote from only one security-based swap dealer at a time. 49
+Further, commenters describe a multi-dealer request for quote platform as a trading
+platform on which participants can request a quote for a security-based swap transaction from
+multiple security-based swap dealers at the same time. 50 The security-based swap dealers then
+send quotes back to the participant, which the participant may choose to accept and execute.
+Participants currently must be authorized by both the system operator and the security-based
+swap dealers in order to request quotes from security-based swap dealers through a multiple
+dealer request for quote platform. 51
+According to commenters, a limit order book system is a trading platform on which firm
+bids and offers are posted, on an anonymous basis, for all participants in the platform to see, and
+bids and offers are then matched on price-time priority and other established parameters and
+trades are executed accordingly. 52 The identities of the parties currently are withheld until a
+transaction occurs. The bid and offers in a limit order book system are firm and all participants
+48
+
+Id.
+
+49
+
+Id.
+
+50
+
+Id.
+
+51
+
+Id.
+
+52
+
+Id. We understand that limit order book systems are not yet in operation for the trading of
+security-based swaps in the United States but exist for the trading of security-based swaps in
+Europe. Id.
+
+19
+
+in the platform currently can view these bids and offers before placing their own bids and
+offers. 53
+Finally, commenters described an electronic brokering platform as a trading platform on
+which bids and offers are displayed. 54 All participants in the platform currently can enter bids
+and offers, and observe others entering bids and offers. Unlike exchanges, security-based swap
+electronic brokering platforms do not automatically match bids and offers in order to execute
+trades. 55 Typically, once a buyer and seller express interest in a trade at the price posted on the
+electronic trading platform, an inter-dealer broker would assist them in negotiating a final trade
+over the telephone. 56
+The proposed rule addresses price quotes relating to security-based swaps that are traded
+or processed on or through registered or exempt security-based SEFs and national securities
+exchanges because the Title VII provisions applicable to these entities, as well as existing
+requirements applicable to national securities exchanges, require them to make their trading
+platforms available or price quotes on their platforms available to all participants without
+limitation. The proposed rule is intended to avoid unintended consequences for the operation of
+these trading platforms following the full implementation of Title VII and to allow market
+participants to continue to effect security-based swap transactions, including on or through these
+trading platforms, in reliance on available exemptions from the registration requirements of the
+Securities Act.
+
+53
+
+See SIFMA/ISDA Letter.
+
+54
+
+Id.
+
+55
+
+Id.
+
+56
+
+Id.
+
+20
+
+The proposed rule covers price quotes for security-based swaps and any guarantees of
+such security-based swaps that may be purchased only by persons who are eligible contract
+participants,. 57 We believe that the publication or distribution of price quotes for security-based
+swaps that may only be purchased by eligible contract participants should not be considered
+offers of such security-based swaps or any guarantees of such security-based swaps that are
+securities, including to persons who are not eligible contract participants, for purposes of Section
+5 of the Securities Act. The proposed rule is designed to permit security-based swap transactions
+between eligible contract participants to continue to be able to rely on available exemptions from
+the registration requirements of the Securities Act without unintended consequences for the
+operation of security-based SEFs and national securities exchanges that post or trade securitybased swaps following the full implementation of Title VII. Security-based swaps that are not
+registered under the Securities Act are permitted to be sold only to eligible contract participants,
+and therefore we are limiting the proposed rule to the publication or distribution of price quotes
+for security-based swaps that may be purchased only by eligible contract participants. 58 The
+exemptions from the registration requirements of Section 5 of the Securities Act set forth in
+
+57
+
+These proposed provisions are intended to identify the types of security-based swaps for which
+the publication or distribution of SBS price quotes would not be deemed under the proposed rule
+to be offers for purposes of Section 5 of the Securities Act. Any transaction in security-based
+swaps that are the subject of such SBS price quotes would have to be effected in compliance with
+the Securities Act and nothing relating to such transactions would affect whether such SBS price
+quotes when published or distributed were offers of such security-based swaps.
+
+58
+
+See footnote 8 above and accompanying text. A comment letter submitted in connection with the
+SBS Cleared Exemptions Proposing Release suggested a simplified disclosure and registration
+scheme for those security-based swaps transactions involving clearing agencies that may involve
+persons who are not eligible contract participants. See letter from Bruce Bolander, Gibson, Dunn
+& Crutcher LLP, dated Aug. 22, 2011. Commission staff is evaluating the feasibility of a
+simplified disclosure and registration scheme for security-based swaps issued by registered or
+exempt clearing agencies that may be offered and sold to persons who are not eligible contract
+participants.
+
+21
+
+Sections 3 and 4 of the Securities Act are not available for security-based swap transactions that
+involve persons who are not eligible contract participants. 59
+We note that all security-based swap transactions entered into solely between eligible
+contract participants will be subject to the comprehensive regulatory regime of Title VII once it
+has been fully implemented, including security-based swap transaction reporting requirements,
+trade acknowledgments and verification, and business conduct standards. 60 In particular, the
+business conduct standards generally require, among other things, disclosure by security-based
+swap dealers and major security-based swap participants to counterparties of (i) the material
+risks and characteristics of the security-based swap, and certain clearing rights, (ii) the material
+incentives or conflicts of interest that a security-based swap dealer or major security-based swap
+participant may have in connection with the security-based swap, and (iii) the daily mark of the
+security-based swap. 61 The proposed business conduct rules, if adopted as proposed, also would
+require security-based swap dealers and major security-based swap participants to verify that a
+counterparty meets the eligibility requirements of an eligible contract participant. 62 The Title
+VII regulatory regime will apply to security-based swaps transactions regardless of whether SBS
+price quotes relating to such transactions are available on an unrestricted basis. As a result of the
+other regulatory provisions of Title VII applicable to security-based swap transactions, we do not
+59
+
+See footnote 8 above and accompanying text.
+
+60
+
+See, e.g., Regulation SBSR – Reporting and Dissemination of Security-Based Swap Information,
+Release No. 63346 (Nov. 19, 2010), 75 FR 75207 (Dec. 2, 2010); Trade Acknowledgment and
+Verification of Security-Based Swap Transactions, Release No. 34-63727 (Jan. 14, 2011), 76 FR
+3859 (Jan. 21, 2011); and Business Conduct Standards for Security-Based Swap Dealers and
+Major Security-Based Swap Participants, Release No. 34-64766 (Jun. 29, 2011), 76 FR 42396
+(Jul. 18, 2011) (“Business Conduct Standards Proposing Release”).
+
+61
+
+See Section 15F(h)(3)(B) of the Exchange Act [15 U.S.C. 78o-10(h)(3)(B)]. See also Business
+Conduct Standards Proposing Release.
+
+62
+
+See Section 15F(h)(3)(A) of the Exchange Act [15 U.S.C. 78o-10(h)(3)(A)]. See also Business
+Conduct Standards Proposing Release.
+
+22
+
+believe that our approach in the proposed rule is inconsistent with the protection of investors.
+While these Title VII protections apply to security-based swap transactions with any participant,
+there are additional protections provided to non-eligible contract participants. In particular, noneligible contract participants may only purchase security-based swaps that are subject to an
+effective registration statement. 63
+We note that although the proposed rule provides that the publication or distribution of
+SBS price quotes would not be deemed to be an offer for purposes of Section 5 of the Securities
+Act, the proposed rule would not otherwise affect the provisions of any exemptions from the
+registration requirements of the Securities Act. As a result, market participants would still need
+to make a determination as to whether an exemption from the registration provisions of the
+Securities Act is available with respect to a security-based swap transaction, including whether
+such transaction complies with any applicable conditions of the exemption. Finally, we note that
+because the proposed rule relates solely to the treatment of certain communications involving
+SBS price quotes as offers for purposes of Section 5 of the Securities Act, the proposed rule does
+not limit in any way the scope or applicability of the antifraud or other provisions of the federal
+securities laws, including Section 17(a) of the Securities Act, relating to both oral and written
+material misstatements and omissions in the offer and sale of securities, including security-based
+swaps. 64
+The proposed rule would apply to any communication of SBS quotes for security-based
+swap transactions effected bilaterally in the over-the-counter market or on or through eligible
+trading platforms, whether or not subsequently cleared in transactions involving an eligible
+63
+
+See footnote 8 above and accompanying text.
+
+64
+
+See 15 U.S.C. 77q(a).
+
+23
+
+clearing agency. 65 Following the full implementation of Title VII, security-based swap
+transactions will be effected either in the over-the-counter market or on eligible trading
+platforms, either voluntarily or because the transaction is subject to the mandatory trade
+execution requirement. 66 These transactions subsequently may be cleared in transactions
+involving an eligible clearing agency, either voluntarily or because the security-based swap is
+subject to the mandatory clearing requirement. 67 Regardless of whether these transactions
+subsequently are cleared in transactions involving an eligible clearing agency, the proposed rule
+is needed so that the publication or distribution of SBS price quotes will not cause unintended
+consequences for the operation of eligible trading platforms and the ability of market participants
+to rely on available exemptions from the registration requirements of the Securities Act, or
+require that such transactions be registered under the Securities Act because they are viewed as
+offers to non-eligible contract participants.
+We believe that the proposed rule is a measured response to commenters’ concerns and is
+necessary or appropriate in the public interest. One of the goals of Title VII is to bring the
+trading of security-based swaps onto regulated trading platforms, such as security-based SEFs
+and national securities exchanges. The Title VII provisions applicable to security-based SEFs
+and national securities exchanges, as well as existing requirements applicable to national
+
+65
+
+For security-based swap transactions involving an eligible clearing agency, the exemptions we
+adopted under the Securities Act, the Exchange Act, and the Trust Indenture Act would continue
+to be available. See Rule 239 under the Securities Act [17 CFR 230.239], Rules 12a-10 and 12h1(h) under the Exchange Act [17 CFR 240.12a-10 and 240.12h-1(h)], and Rule 4d-11 under the
+Trust Indenture Act of 1939 [17 CFR 260.4d-11]. See also Cleared SBS Exemptions Adopting
+Release. These exemptions do not apply to security-based swap transactions not involving an
+eligible clearing agency, even if the security-based swaps subsequently are cleared in transactions
+involving an eligible clearing agency. Id.
+
+66
+
+See footnote 17 above and accompanying text.
+
+67
+
+See footnote 16 above and accompanying text.
+
+24
+
+securities exchanges, require these trading platforms to make their platforms available or price
+quotes on their platforms available to all participants without limitation. If the publication or
+distribution of SBS price quotes is unrestricted, no Securities Act exemptions may be available
+with respect to transactions in the security-based swaps that are the subject of the SBS price
+quotes because such communications may be viewed as an offer of those security-based swaps,
+including to persons who are not eligible contract participants. The required registration of such
+transactions could have unintended consequences affecting the operation of and the trading of
+security-based swaps on or through these trading platforms, as well as the ability of market
+participants to effect security-based swap transactions bilaterally or on or through these trading
+platforms. For example, security-based swap dealers may not engage in security-based swap
+transactions if the dissemination of price quotes for security-based swaps on these trading
+platforms could jeopardize the availability of exemptions from the registration requirements of
+the Securities Act. Such action could affect the number of price quotes for and the liquidity of
+certain types of security-based swaps, which could have a detrimental effect on the liquidity and
+price discovery of security-based swap transactions. Accordingly, we believe the proposed rule
+is needed so that the publication or distribution of SBS price quotes will not cause unintended
+consequences for the operation of eligible trading platforms, affect the ability of market
+participants to rely on available exemptions from the registration requirements of the Securities
+Act, or require that such transactions be registered under the Securities Act because they are
+viewed as offers to non-eligible contract participants.
+We also believe that the proposed rule is consistent with the protection of investors. The
+proposed rule covers price quotes for security-based swaps and any guarantees of such securitybased swaps that may be purchased only by persons who are eligible contract participants. Title
+
+25
+
+VII provides that security-based swaps not registered under the Securities Act can only be sold to
+eligible contract participants. 68 In addition, the proposed rule relates solely to the treatment of
+certain communications involving SBS price quotes as offers for purposes of Section 5 of the
+Securities Act and would preserve the other protections of the federal securities laws, including
+our ability to pursue an antifraud action in the offer and sale of the securities under Section 17(a)
+of the Securities Act. Treating the publication or distribution of SBS price quotes as not being
+offers would not harm non-eligible contract participants because they will not be able to
+purchase such security-based swaps. The additional protections of the federal securities laws
+requiring the registration of offers and sales of security-based swaps that non-eligible contract
+participants may purchase would continue to apply to security-based swap transactions involving
+non-eligible contract participants.
+Further, as a result of the regulatory provisions of Title VII applicable to security-based
+swap transactions, security-based swap transactions entered into solely between eligible contract
+participants would be subject to the comprehensive regulatory regime of Title VII once it has
+been fully implemented, regardless of whether SBS price quotes relating to such security-based
+swap transactions are available on an unrestricted basis. The proposed rule also would enable
+security-based swap dealers to disseminate price quotes for security-based swaps on eligible
+trading platforms on an unrestricted basis without concern that such dissemination could
+jeopardize the availability of exemptions from the registration requirements of the Securities Act.
+Unrestricted access to these price quotes on eligible trading platforms would provide increased
+market transparency by providing all investors with the same information on the pricing of
+security-based swap transactions. Therefore, based on the foregoing, we believe that the
+68
+
+See footnote 8 above.
+
+26
+
+proposed rule is necessary or appropriate in the public interest, and consistent with the protection
+of investors.
+We received three comment letters regarding the interim final exemptions. 69 One
+commenter opposed any exemptions for security-based swaps, including the interim final
+exemptions, but did not provide any explanation for the reason. 70 The other two commenters
+supported the interim final exemptions and stated their view that the interim final exemptions
+were necessary and appropriate steps to prevent disruption of the security-based swaps market
+and to ensure the orderly implementation of Title VII. 71 These commenters stated that securitybased swap dealers may publish or distribute reports that they characterize as research that may
+be broadly disseminated and could be available on an unrestricted basis, which these commenters
+believed could affect the availability of exemptions from the registration requirements of the
+Securities Act for transactions involving the security-based swaps that are the subject of such
+reports. 72 These commenters also provided an overview of the security-based swaps market as it
+functions today and how it may function following the full implementation of Title VII. 73 These
+commenters indicated that the security-based swaps market currently functions as an ongoing
+series of bilateral trades between eligible contract participants. 74 Participants in the securitybased swaps market primarily consist of security-based swap dealers, banks, large corporations,
+69
+
+See SIFMA/ISDA Letter, SIFMA Letter, and letter from Tom Nappi, dated Jul. 14, 2011 (“Nappi
+Letter”).
+
+70
+
+See Nappi Letter.
+
+71
+
+See SIFMA/ISDA Letter and SIFMA Letter.
+
+72
+
+Id. SIFMA believes that these communications would be within the definition of “research
+report” contained in Rules 137(e), 138(d), and 139(d) under the Securities Act but would not
+satisfy the terms of those safe harbor provisions because of the nature of the security-based swap
+transactions. See SIFMA Letter.
+
+73
+
+See SIFMA/ISDA Letter.
+
+74
+
+Id.
+
+27
+
+insurance companies, asset managers, hedge funds, and other investment vehicles. 75 Although
+individuals can qualify as eligible contract participants, 76 these commenters indicated that the
+security-based swaps market is institutional in nature and in practice only a small number of
+participants are natural persons (generally high net worth individuals). 77
+As discussed above, some commenters expressed concerns regarding the availability of
+exemptions from the registration requirements of the Securities Act for security-based swap
+transactions entered into solely between eligible contract participants due to the operation of
+security-based swap trading platforms and the publication or distribution of other information
+regarding security-based swaps. 78 Based on these commenters’ concerns regarding the
+availability of exemptions from the registration requirements of the Securities Act, these
+commenters requested that we adopt permanent relief from the registration requirements of
+Section 5 of the Securities Act for offers and sales of security-based swaps 79 solely between
+
+75
+
+See footnote 7 above for a discussion of the eligible contract participant definition.
+
+76
+
+An individual can qualify as an eligible contract participants if such individual has amounts
+invested on a discretionary basis, the aggregate of which is in excess of (i) $10,000,000 or (ii)
+$5,000,000, provided such individual also enters into the agreement, contract, or transaction in
+order to manage the risk associated with an asset owned or liability incurred, or reasonably likely
+to be owned or incurred, by such individual. See Section 1a(18)(A)(xi) of the Commodity
+Exchange Act.
+
+77
+
+See SIFMA/ISDA Letter.
+
+78
+
+See SIFMA/ISDA Letter and SIFMA Letter. For example, these commenters stated, “In light of
+the nature of the [security-based swaps] market discussed above, we request that the Commission
+provide for relief from the Securities Act registration requirement. Although we believe the
+sophisticated nature of [ECPs] in the [security-based swaps] market and the usual manner in
+which transactions in this market are conducted today, and will in the future be conducted on
+[security-based SEFs], qualify these transactions for the section 4[(a)](2) exemption from
+registration under the Securities Act for any transaction by an issuer ‘not involving any public
+offering,’ there may be questions as to whether the full range of [security-based swaps]
+transactions, as described above, qualify for this exemption.” See SIFMA/ISDA Letter.
+
+79
+
+The category of security-based swaps that would be covered by this request for relief is broader in
+some ways than the category of security-based swaps covered by the interim final exemptions.
+As noted in footnote 28 above, the interim final exemptions apply to security-based swaps that
+
+28
+
+eligible contract participants. 80 They believed that this relief is needed to avoid market
+disruption that could result from market participants having to determine whether exemptions
+from the registration requirements of the Securities Act are available due to the unrestricted
+availability of certain communications on security-based swap trading platforms following the
+full implementation of Title VII. Further, these commenters also requested relief under the
+Exchange Act for offers and sales of security-based swaps solely between eligible contract
+participants. They were concerned that ambiguity regarding the definition of a “class” as applied
+to security-based swaps could raise concerns regarding the registration requirements of Section
+12(g) of the Exchange Act. 81 Finally, these commenters requested relief from Section 304(d) of
+the Trust Indenture Act for security-based swaps entered into solely between eligible contract
+participants. They believed that the protections of the Trust Indenture Act are not necessary in
+the context of such transactions because such transactions involve contracts between two
+counterparties who are capable of enforcing obligations under the security-based swaps
+directly. 82
+Although not submitted in connection with the interim final exemptions, we received two
+comment letters from four commenters regarding the proposed exemptions for security-based
+swap transactions involving an eligible clearing agency discussing issues arising with respect to
+were defined as “security-based swap agreements” prior to the Title VII effective date. That
+definition of “security-based swap agreement” did not include security-based swaps that are
+based on or reference only loans and indexes only of loans. See footnote 28 above.
+80
+
+See SIFMA/ISDA Letter and SIFMA Letter. These commenters limited their request for relief to
+security-based swap transactions not involving an eligible clearing agency. Id. As noted above,
+we adopted exemptions under the Securities Act, the Exchange Act, and the Trust Indenture Act
+for security-based swap transactions involving an eligible clearing agency. See footnote 65
+above.
+
+81
+
+See SIFMA/ISDA Letter.
+
+82
+
+Id.
+
+29
+
+security-based swap transactions not involving an eligible clearing agency. 83 One commenter
+suggested that we provide permanent exemptions under the Securities Act, the Exchange Act,
+and the Trust Indenture Act for security-based swap transactions entered into between eligible
+contract participants and effected through any trading platform similar to the proposed
+exemptions for security-based swap transactions involving an eligible clearing agency. 84 The
+other commenters suggested that we provide exemptions under Section 12(g) of the Exchange
+Act and the Trust Indenture Act for security-based swap transactions entered into solely between
+eligible contract participants similar to the proposed exemptions for security-based swap
+transactions involving an eligible clearing agency. 85
+Commenters have requested broad exemptions under the Securities Act, the Exchange
+Act, and the Trust Indenture Act for security-based swap transactions not involving an eligible
+clearing agency that are entered into solely between eligible contract participants. We are not
+proposing such exemptions because commenters’ primary concern appears to relate to the impact
+of certain communications involving security-based swaps made on or through trading platforms
+on the availability of exemptions from the registration requirements of the Securities Act, such as
+the exemption in Section 4(a)(2). We believe that the proposed rule under the Securities Act is
+appropriately tailored to address commenters’ identified concerns regarding the availability of
+
+83
+
+See FSR/ISDA/SIFMA Letter and GFI Letter. These letters were submitted in response to our
+request for comment in the Cleared SBS Exemptions Proposing Release.
+
+84
+
+See GFI Letter. This commenter did not provide any explanation as to why such exemption was
+needed, including how security-based swap trading platforms operate, that would enable us to
+evaluate whether relief is necessary or appropriate. See Cleared SBS Exemptions Adopting
+Release.
+
+85
+
+See FSR/ISDA/SIFMA Letter. These commenters requested relief under the Exchange Act and
+the Trust Indenture Act, but did not request relief under the Securities Act. However, two of
+these commenters subsequently submitted the SIFMA/ISDA Letter to request relief under the
+Securities Act. See footnote 80 above and accompanying text.
+
+30
+
+exemptions from the registration requirements of the Securities Act for offers and sales of
+security-based swaps solely between eligible contract participants. Therefore, we are not
+proposing a broad-based Securities Act exemption at this time.
+With respect to the commenters that raised concerns regarding the effect of publication of
+communications regarding security-based swaps that they characterized as research, one of these
+commenters noted that security-based swap dealers and their affiliates produce these
+communications generally about credit default swaps and provide them to their existing and
+prospective clients. 86 This commenter stated that such written communications are prepared
+either by fundamental credit analysts, who may use credit default swaps as one expression of a
+particular issuer’s credit risk in comparison to the outstanding debt securities of that issuer or
+another issuer, or credit strategists, who may also use credit default swaps to compare relative
+credit risk between different issuers. 87 This commenter also stated that these written
+communications may contain statements that could theoretically be construed as offers to sell the
+security-based swaps mentioned in such reports within the meaning of Section 2(3) of the
+Securities Act. 88
+Although we are not proposing to include these other written communications involving
+security-based swaps within the scope of the proposed rule, we are considering whether a
+broader exclusion from the definition of offer than simply for SBS price quotes would be
+appropriate as part of this rulemaking. A commenter requested broader relief for security-based
+swap communications, but it did not provide us with sufficient information to understand why a
+
+86
+
+See SIFMA Letter.
+
+87
+
+Id.
+
+88
+
+Id.
+
+31
+
+broader treatment would be necessary. For example, the commenter only addressed one type of
+security-based swap – credit default swaps. The commenter also did not provide sufficient
+information about the types and contents of such communications, the distribution methods and
+restrictions for such communications, or the basis for characterizing such communications as
+research in order for us to evaluate the appropriate treatment of such communications. Further,
+the commenter did not explain whether security-based swap dealers engage in security-based
+swap transactions with their existing or prospective clients who receive or access such
+communications. In this regard, we note that the examples of such communications provided by
+the commenter appear to include buy/sell recommendations with respect to certain securitybased swaps. 89 If the security-based swap dealers are entering into transactions involving such
+security-based swaps, such communications may be issuer offering materials rather than
+research. In order for us to analyze whether a broader exclusion from the definition of offer than
+simply for SBS price quotes would be appropriate as part of this rulemaking, we believe that we
+need additional information about such communications. We are requesting additional comment
+below regarding such communications.
+We also do not believe that a broad-based exemption from Section 12(g) of the Exchange
+Act is needed at this time. Commenters have identified two scenarios that could raise questions
+regarding whether a type of security-based swap would be a “class” for purposes of Section
+
+89
+
+Id. Commenters provided the following examples: “We continue to recommend buying
+[XYZCo] 5-year [credit default swaps] vs. selling [ABCCo] 5 year [credit default swaps]”;
+“Market technicals could drive spreads tighter from here but we would consider buying
+protection in the low 300 bps area”; “We’d recommend buying [JKLCo]sub [credit default
+swaps] at 267bp and selling [TUVCo] sub at 215bp, paying 52bp”; and “We’d also recommend
+buying [JKLCo] senior [credit default swaps] versus [TUVCo] senior, paying just 11bp.” Id.
+
+32
+
+12(g). 90 The scenarios identified by commenters are based on several assumptions regarding
+how the security-based swaps market will develop following the full implementation of Title
+VII. Given that Title VII has not been fully implemented and we do not know how the securitybased swaps market will develop following the full implementation of Title VII, we do not
+believe that there is sufficient information at this time to propose a broad-based exemption from
+Section 12(g) of the Exchange Act. In addition, it is not clear why the protections of the
+Exchange Act, including periodic reporting and information about the security-based swap on an
+ongoing basis would not be needed, especially given the counterparty risk involved in securitybased swap transactions and the risks relating to the security-based swap itself. Moreover,
+issuers of security-based swaps that are security-based swap dealers or major security-based
+swap participants or their affiliates are likely to be subject to the reporting requirements of the
+Exchange Act and would be able to satisfy their periodic reporting obligations even if securitybased swaps became subject to such reporting requirements. 91
+Finally, we do not believe that a broad-based exemption from Section 304(d) of the Trust
+Indenture Act is needed at this time. Commenters based their request for relief under the Trust
+90
+
+Commenters identified two scenarios involving “security-based swaps that would be similar to
+one another as a result of the standardized ISDA documentation that may set the majority of
+terms of the security-based swap. First, although a type of security-based swap may be cleared
+by a derivatives clearing agency generally, a particular security-based swap would not be cleared
+in the event that one of the counterparties to the security-based swap qualifies for, and elects to
+take advantage of, the end user exception to mandatory clearing. Second, it is theoretically
+possible that the Commission could designate a security-based swap for mandatory clearing
+because of its level of standardization, but the security-based swap may not be cleared because
+there is not a clearing agency that is willing to accept the security-based swap for clearing.” See
+FSR/ISDA/SIFMA Letter.
+
+91
+
+For an issuer of security-based swaps that is not subject to the reporting requirements of the
+Exchange Act, the JOBS Act’s increase in the threshold number of record holders triggering
+registration of a class of equity security under Section 12(g) of the Exchange Act to 2,000 persons
+or 500 persons who are not accredited investors at the end of the relevant fiscal year reduces the
+likelihood of such issuer triggering such registration requirements. See Section 12(g)(1)(A) of
+the Exchange Act [15 U.S.C. 78l(g)(1)(A)].
+
+33
+
+Indenture Act on the rationale we provided in the Interim Final Exemptions Adopting Release to
+support our determination to adopt an interim final rule providing an exemption from Section
+304(d) of the Trust Indenture Act. However, we note that the Trust Indenture Act provides an
+exemption for any security offered and sold in a transaction that is exempt from the registration
+requirements of the Securities Act under Section 4 of the Securities Act, such as the exemption
+set forth in Section 4(a)(2) of the Securities Act. 92 As a result, unregistered security-based swap
+transactions effected in reliance on the exemption in Section 4(a)(2) of the Securities Act
+generally are exempt from the indenture qualification provisions of the Trust Indenture.
+Moreover, the broad exemptions requested by commenters would result in all securitybased swap transactions entered into solely between eligible contract participants being exempt
+from most provisions of the Securities Act, the Exchange Act, and the Trust Indenture Act. Title
+VII included security-based swaps in the definition of “security” under the Securities Act and the
+Exchange Act, thereby making security-based swap transactions subject to the provisions of the
+Securities Act and the Exchange Act, including the rules and regulations thereunder, applicable
+to “securities.” Further, no other derivative securities that are traded in the over-the-counter
+market, including derivative securities that are entered into bilaterally and then subsequently
+cleared, have broad-based exemptions from those provisions. 93 We currently are not persuaded
+that we should treat security-based swaps differently from other derivative securities.
+Request for Comment
+
+92
+
+See Section 304 of the Trust Indenture Act [15 U.S.C. 77ddd].
+
+93
+
+Unlike other derivative securities, Title VII amended Section 5 of the Securities Act to prohibit
+offers or sales of security-based swaps to persons who are not eligible contract participants unless
+the security-based swaps are registered under the Securities Act. See footnote 8 above.
+
+34
+
+1. Should we provide that the publication or distribution of SBS price quotes will not be
+deemed to constitute an offer, an offer to sell, or a solicitation of an offer to buy or
+purchase the security-based swaps that are the subject of the SBS price quotes or any
+guarantees of such security-based swaps that are securities for purposes of Section 5 of
+the Securities Act? Why or why not? Should we take a different approach?
+2. The proposed rule would apply to the initial publication or distribution of SBS price
+quotes on eligible trading platforms, as well as any subsequent republication or
+redistribution of the SBS price quotes on or through mediums other than eligible trading
+platforms, including on-line information services. Should the proposed rule cover the
+subsequent dissemination of SBS price quotes on mediums other than eligible trading
+platforms or by any participant through any means? Or should the proposed rule be
+limited in any way with respect to such subsequent dissemination? Why or why not?
+3. The proposed rule would apply to the security-based swaps that are the subject of the
+SBS price quotes and any guarantees of such security-based swaps that are securities.
+Should the proposed rule apply to guarantees of such security-based swaps? Why or why
+not? Are there other securities that are part of a security-based swap transaction to which
+the proposed rule also should apply?
+4. What types of price quotes for security-based swaps are disseminated on or through
+eligible trading platforms and how are they disseminated? Would the proposed rule
+facilitate the dissemination of quotes for security-based swaps on eligible trading
+platforms? Would the proposed rule need to be modified in any way to facilitate the
+dissemination of such quotes? How do eligible trading platform participants receive or
+gain access to such quotes?
+
+35
+
+5. The proposed rule covers price quotes for security-based swaps and any guarantees of
+such security-based swaps that may be purchased only by persons who are eligible
+contract participants. This proposed provision is intended to identify the types of
+security-based swaps for which the publication or distribution of SBS price quotes would
+not be deemed under the proposed rule to be offers for purposes of Section 5 of the
+Securities Act. Is this identifying characteristic appropriate? Why or why not? Do we
+need to provide more specificity about this identifying characteristic? Are there
+additional or different identifying characteristics that we should consider? If so, why?
+6. The proposed rule addresses price quotes relating to security-based swaps that are traded
+or processed on or through security-based SEFs and national securities exchanges.
+Should the types of trading platforms covered by the proposed rule be limited to securitybased SEFs and national securities exchanges? Why or why not? Are there other
+security-based swap trading platforms that should be covered by the proposed rule? If so,
+why? For example, will security-based swaps, such as mixed swaps, be traded or
+processed on or through swap execution facilities that are not registered either as a
+national securities exchange or as a security-based swap execution facility, or are not
+exempt from such registration?
+7. Are price quotes for security-based swaps initially published or distributed through
+mediums other than eligible trading platforms? For example, we understand that
+currently some security-based swap dealers disseminate price quotes for security-based
+swaps by sending messages via Bloomberg. If so, how are those price quotes
+disseminated through these other mediums? How do market participants receive or gain
+access to those price quotes? Are those price quotes available on an unrestricted basis?
+
+36
+
+Should the proposed rule also apply to those price quotes or similar communications?
+Why or why not?
+8. The proposed rule would apply to SBS price quotes. Should the proposed rule apply to
+these types of communications? Why or why not? We are not proposing to include a
+definition of SBS price quotes in order to allow flexibility in the proposed rule as trading
+platforms for the trading of security-based swaps continue to develop. Should we define
+these types of communications? If so, how?
+9. (a) Should we specify that other types of written communications, such as
+communications that have been called research, regarding security-based swaps,
+would not be considered offers for purposes of Section 5 of the Securities Act? If so,
+why? Please describe in detail what other types of communications should be
+covered by the rule. What characteristics do such communications have that would
+distinguish them from being offers of the security-based swaps that are discussed in
+such communications? If we should not treat such communications as offers for
+purposes of Section 5 of the Securities Act, what conditions should apply to the use of
+such communications?
+(b) What specific types of information, opinions, and recommendations are included in
+such communications regarding the security-based swaps and the underlying
+reference issuers and/or securities? Do such communications include strategies for
+buying or selling security-based swaps? Are such communications related to
+industries, entities, or particular offerings of security-based swaps? Do such
+communications involve security-based swaps other than credit default swaps? Do
+such communications include information, opinions, or recommendations with
+
+37
+
+respect to securities other than security-based swaps or an analysis of securities other
+than security-based swaps? Are such communications similar to or different from the
+research reports contemplated by Rules 137, 138 and 139 of the Securities Act?
+Please explain in detail. If different or if such communications regarding the
+security-based swaps and the underlying reference issuers and/or securities do not
+satisfy the conditions of Rules 137, 138 or 139 of the Securities Act, please explain in
+detail why such communications should be treated differently from other
+communications under the Securities Act.
+(c) With respect to communications that some commenters call research, what is the
+basis for characterizing those communications as research? Do security-based swap
+dealers enter into transactions involving the security-based swaps that are the subject
+of the communications they publish or distribute? If so, why would the securitybased swap dealers not be the issuers of such security-based swaps for purposes of the
+Securities Act? If security-based swap dealers are the issuers of such security-based
+swaps, why should the offering communications contained in those communications
+not be considered issuer offering materials?
+(d) How are the communications disseminated and to whom are they made available?
+Are there any restrictions on who may access these communications? Can noneligible contract participants access these communications?
+(e) Should we consider alternative approaches to address the commenters’ concerns
+regarding the use of communications that the commenters characterize as research?
+For example, should we consider a rule that would provide as follows: A securitybased swap dealer’s publication or distribution of a written communication that
+
+38
+
+includes information, opinions, or recommendations with respect to security-based
+swaps or an analysis of security-based swaps would be considered for purposes of
+Section 5 of the Securities Act not to constitute an offer of such security-based swaps
+or any guarantees of such security-based swaps that are securities if such written
+communication (i) does not include strategies for buying or selling security-based
+swaps and (ii) is included in an issuer-specific or industry research report that also
+includes information, opinions, or recommendations with respect to or an analysis of
+different types of securities other than only security-based swaps? Are there other
+alternative approaches that we should consider that may address the commenters’
+concerns regarding the effect that the publication or distribution of the
+communication may have on the availability of an exemption from the registration
+requirements of the Securities Act? If so, please provide detailed explanations.
+10. Are there other types of communications involving security-based swaps to which the
+proposed rule also should apply? If so, explain in detail the types of communications,
+how are they disseminated, who publishes or distributes the communications, whether
+any person enters into a security-based swap transaction as a result of such
+communication, and why the proposed rule should apply.
+11. We are not proposing broad-based exemptions under the Securities Act, the Exchange
+Act, and the Trust Indenture Act for security-based swap transactions entered into solely
+between eligible contract participants. Rather, to address commenters concerns regarding
+the availability of exemptions from the registration requirements of the Securities Act, we
+are proposing a rule under the Securities Act to provide that certain communications
+involving SBS price quotes would not be deemed to constitute offers of the security-
+
+39
+
+based swaps that are the subject of the SBS price quotes or any guarantees of such
+security-based swaps that are securities. Would the proposed rule address commenters’
+concerns regarding the availability of exemptions from the registration requirements of
+the Securities Act? Why or why not? Should we take a different approach such as
+providing a broad-based exemption as suggested by some commenters? Would the
+broad-based exemptions requested by commenters be necessary or appropriate if the
+proposed rule were adopted? Would such a broad-based exemption materially affect the
+type and level of disclosures available to eligible contract participants entering into
+security-based swap transactions? Are there any other impediments arising from the
+application of the registration provisions of the Securities Act and the Exchange Act and
+the provisions of the Trust Indenture Act to security-based swap transactions following
+the expiration or withdrawal of the interim final exemptions? How should we address
+those impediments and what are the economic implications? Would it be appropriate, in
+light of the inclusion of security-based swaps in the definition of security, to treat
+security-based swaps differently, including with respect to disclosures, from other
+derivative securities traded in the over-the-counter market, which do not have broadbased exemptions under the Securities Act, the Exchange Act, and the Trust Indenture
+Act?
+12. Which counterparty in a non-cleared security-based swap transaction should be
+considered to have the obligation to comply with the registration requirements of the
+Exchange Act applicable to classes of securities? Should we address this issue at this
+time? Why or why not?
+
+40
+
+13. If we adopt the rule under this proposal, we may also determine to alter the expiration
+dates in the interim final exemptions as part of that rulemaking. If we make such a
+determination, should we consider whether to shorten or further extend beyond the
+effective date of the rule that we may adopt under this proposal the expiration dates of the
+exemptions in the interim final exemptions? If so, why?
+III.
+
+GENERAL REQUEST FOR COMMENT
+We request and encourage any interested person to submit comments regarding the
+
+proposed rule, specific issues discussed in this release, and other matters that may have an effect
+on the proposed rule. With regard to any comments, we note that such comments are of
+particular assistance to our rulemaking initiative if accompanied by supporting data and analysis
+of the issues addressed in those comments.
+IV.
+
+ECONOMIC ANALYSIS
+We are proposing a rule under the Securities Act to provide that certain communications
+
+involving security-based swaps that may be purchased only by eligible contract participants
+would not be deemed for purposes of Section 5 of the Securities Act to constitute offers of such
+security-based swaps or any guarantees of such security-based swaps that are securities. Under
+the proposed rule, the publication or distribution of SBS price quotes related to securities-based
+swaps that may be purchased only by persons who are eligible contract participants and are
+traded or processed on or through a trading system or platform that is registered either as a
+national securities exchange or a security-based SEF, or is exempt from registration as a
+security-based SEF, would not be deemed to constitute an offer, an offer to sell, or a solicitation
+of an offer to buy or purchase the security-based swaps that are the subject of the SBS price
+
+41
+
+quotes or any guarantees of such security-based swaps that are securities for purposes of Section
+5 of the Securities Act.
+We are sensitive to the economic consequences and effects, including costs and benefits,
+of our rules. The discussion below addresses the potential economic consequences and effects of
+the proposed rule and alternatives, including the costs and benefits, as well as the potential
+effects on efficiency, competition, and capital formation. 94
+The proposed rule does not itself establish the scope or nature of the substantive
+requirements that will be imposed on security-based swaps following the full implementation of
+Title VII or their related costs and benefits. We anticipate that the rules implementing the
+substantive requirements under Title VII, including the requirements relating to the registration
+and regulation of security-based SEFs and external business conduct standards for security-based
+swap dealers and major security-based swap participants, will be subject to their own economic
+analysis, 95 and we have not yet adopted final rules that would fully implement Title VII and
+subject security-based swaps to such substantive requirements. The costs and benefits described
+below therefore are those that may arise in connection with the proposed rule.
+A.
+
+Baseline
+
+To assess the economic impact of the proposed rule, we are using as our baseline the
+regulation of security-based swaps as it exists at the time of this proposal, taking into account
+applicable rules adopted by the Commission, including interim final exemptions affecting
+security-based swaps under the Securities Act and the Exchange Act. Our analysis incorporates
+94
+
+Section 2(b) of the Securities Act requires that the Commission, when engaging in rulemaking
+that requires it to consider whether an action is necessary or appropriate in the public interest, to
+also consider whether the action will promote efficiency, competition, and capital formation. 15
+U.S.C. 77b(b). We have integrated our consideration of these issues into this economic analysis.
+
+95
+
+See footnotes 15 and 60 above and accompanying text.
+
+42
+
+the statutory and regulatory provisions that currently govern security-based swaps under the
+federal securities laws.
+As part of the economic analysis of the cross-border adopting release, we provided an
+extensive description of the current security-based swaps market, including a detailed analysis of
+the participants in the security-based swaps market and the levels of security-based swap trading
+activity. 96 While the proposing release here addresses only a narrow piece of the security-based
+swaps market, and we discuss the specific baseline for this proposal below, we note that the
+additional information about the overall security-based swaps market in the cross-border
+adopting release may provide additional context for the discussion below. In particular, we
+noted in the cross-border adopting release that the participation in one significant part of the
+security-based swaps market – single-name credit default swaps – entailed thousands of
+counterparties to transactions, but with much of the activity concentrated among a relatively
+small number of dealer entities. The notional size of the single-name credit default swaps market
+is in the trillions of dollars annually, corresponding to hundreds of thousands of individual
+transactions, and with approximately 80% of transactions between dealers. Among the nondealer market participants, private funds are the largest constituent group followed by DoddFrank Act-defined special entities and investment companies registered under the Investment
+Company Act of 1940. More broadly, the analysis shows that although the dollar volume of
+transactions in security-based swaps market is large, it does not span a large set of market
+participants as compared to other securities markets.
+
+96
+
+See Application of “Security-Based Swap Dealer” and “Major Security-Based Swap Participant”
+Definitions to Cross-Border Security-Based Swap Activities, Release No. 34-72472 (June 25,
+2014), 79 FR 47277 (Aug. 12, 2014) (“Cross-Border Adopting Release”).
+
+43
+
+Prior to the enactment of Title VII, certain security-based swaps – specifically those
+security-based swaps that are within the definition of “security-based swap agreement” as in
+effect prior to the Title VII effective date – were outside the scope of the federal securities laws,
+other than the anti-fraud and certain other provisions. 97 Up until that time, transactions involving
+these types of security-based swaps were effected without concerns about complying with the
+registration requirements of the Securities Act and the Exchange Act, or the indenture provisions
+of the Trust Indenture Act.
+Title VII amended the Securities Act and the Exchange Act to include “security-based
+swaps” in the definition of “security” for purposes of those statutes. 98 As a result, on the Title
+VII effective date “security-based swaps” became subject to the provisions of the Securities Act
+and the Exchange Act and the rules thereunder applicable to “securities.” The Securities Act
+requires that any offer and sale of a security must be either registered under the Securities Act or
+made pursuant to an exemption from registration. 99 As a result, market participants entering into
+security-based swap transactions must either be able to rely on an available exemption from the
+registration requirements of the Securities Act or register such transactions under the Securities
+Act. In addition, certain provisions of the Exchange Act relating to the registration of classes of
+securities and the indenture qualification provisions of the Trust Indenture Act also may apply to
+certain types of security-based swaps. The provisions of Section 12 of the Exchange Act,
+97
+
+See Section 2A of the Securities Act [15 U.S.C. 77b(b)-1)] and Section 3A of the Exchange Act
+[15 U.S.C. 78c-1], each as in effect prior to the Title VII effective date. The definition of
+“security-based swap agreement” included the definition of “swap agreement,” which required
+that the agreement, contract or transaction be “subject to individual negotiation” and be between
+eligible contract participants.
+
+98
+
+See Sections 761(a)(2) and 768(a)(1) of the Dodd-Frank Act (amending Section 3(a)(10) of the
+Exchange Act [15 U.S.C. 78c(a)(10)] and Section 2(a)(1) of the Securities Act [15 U.S.C.
+77b(a)(1)], respectively).
+
+99
+
+See Section 5 of the Securities Act [15 U.S.C. 77e].
+
+44
+
+without an exemption, require that security-based swaps be registered before a transaction could
+be effected on a national securities exchange. 100 In addition, registration of a class of securitybased swaps under Section 12(g) of the Exchange Act could be required if the security-based
+swap is considered an equity security and held of record by either 2,000 persons or 500 persons
+who are not accredited investors at the end of the relevant fiscal year. 101 Further, without an
+exemption, the Trust Indenture Act could require qualification of an indenture for security-based
+swaps considered to be debt. 102
+As noted above, 103 we adopted interim final exemptions that provide exemptions under
+the Securities Act, the Exchange Act, and the Trust Indenture Act for those security-based swaps
+that would have been defined as “security-based swap agreements” prior to the Title VII
+effective date provided certain conditions are met. The interim final exemptions exempt offers
+and sales of security-based swap agreements that became security-based swaps on the Title VII
+effective date from all provisions of the Securities Act, other than the Section 17(a) anti-fraud
+provisions, as well as from the Exchange Act registration requirements and from the provisions
+of the Trust Indenture Act, provided that the transactions are entered into solely between eligible
+contract participants. Currently, certain market participants may rely on the interim final
+exemptions to continue to enter into security-based swap transactions as they did prior to the
+Title VII effective date without concern they would have to comply with the provisions of the
+
+100
+
+See Section 12(a) of the Exchange Act [15 U.S.C. 78l(a)].
+
+101
+
+See Section 12(g)(1)(A) of the Exchange Act [15 U.S.C. 78l(g)(1)(A)].
+
+102
+
+See 15 U.S.C. 77aaa et seq.
+
+103
+
+See footnote 28 above and accompanying text. See also footnote 30 above and accompanying
+text.
+
+45
+
+Securities Act, the registration provisions of the Exchange Act applicable to a class of securitybased swaps, or the indenture provisions of the Trust Indenture Act.
+The interim final exemptions are not available, however, for transactions involving all
+security-based swaps. The security-based swaps covered by the interim final exemptions are
+only those that would have been “security-based swap agreements” prior to the Title VII
+effective date, which is a narrower category of security-based swaps than under Title VII. 104 In
+addition, the persons who may enter into security-based swaps covered by the interim final
+exemptions may be different from those entering into “security-based swap agreements” prior to
+the Title VII effective date because the definition of “eligible contract participant” under Title
+VII is narrower than the pre-Title VII definition. 105 Any security-based swap transaction that
+cannot rely on the interim final exemptions would have to rely on another available exemption
+from the registration requirements of the Securities Act, such as the exemption in Section
+4(a)(2), or would have to be registered under the Securities Act. However, no Securities Act
+exemptions are available with respect to security-based swap transactions involving persons who
+are not eligible contract participants because Title VII amended the Securities Act to require that
+all offers and sales of security-based swaps to non-eligible contract participants must be
+registered under the Securities Act. 106
+104
+
+See Section 3(a)(68) of the Exchange Act for the definition of “security-based swap.” 15 U.S.C.
+78c(a)(68). See footnote 28 above regarding the definition of “security-based swap agreement.”
+
+105
+
+The amendments to the definition of “eligible contract participant” increased the dollar threshold
+for certain persons and, with respect to natural persons, replaced a “total assets” test with an
+“amounts invested on a discretionary basis” test. See Section 1a(12) of the Commodity Exchange
+Act [7 U.S.C. 1a(12)], as in effect prior to the Title VII effective date, and Section 1(a)(18) of the
+Commodity Exchange Act, as re-designated and amended by Section 721 of the Dodd-Frank Act.
+The definition of the term “eligible contract participant” in the Securities Act and in the Exchange
+Act refers to the definition of “eligible contract participant” in the Commodity Exchange Act.
+See footnote 7 above.
+
+106
+
+See footnote 8 above and accompanying text.
+
+46
+
+The interim final exemptions are self-executing and as such are available without any
+action by the Commission or its staff. As a result, market participants must make their own
+determinations as to whether such exemptions are available with respect to a particular securitybased swap transaction. Given that such exemptions are self-executing, we do not have any data
+or other quantifiable information regarding the use of such exemptions, including which market
+participants are effecting transactions in reliance on such exemptions or the number of
+transactions effected in reliance on such exemptions.
+We adopted the interim final exemptions because, among other things, we were
+concerned about disrupting the operation of the security-based swaps market while we evaluated
+the implications for security-based swaps under the Securities Act and the Exchange Act as a
+result of the inclusion of the term “security-based swap” in the definition of “security” for
+purposes of those statutes. 107 At the time of the adoption of the interim final exemptions, we
+requested comment on various aspects of the interim final exemptions. In response, commenters
+raised concerns regarding the effect that certain communications involving security-based swaps,
+such as the publication or distribution of SBS price quotes, that may be available on or through
+trading platforms on an unrestricted basis, could have on the availability of exemptions under the
+Securities Act, including the exemption in Section 4(a)(2). 108 We subsequently extended the
+expiration date of the interim final exemptions to February 11, 2017. 109
+If we do not adopt the proposed rule or take other action, the interim final rules will
+expire on February 11, 2017, and the baseline at that stage would be different from the current
+
+107
+
+See footnote 32 above and accompanying text.
+
+108
+
+See footnote 34 above and accompanying text.
+
+109
+
+See footnote 30 above and accompanying text.
+
+47
+
+baseline. Rather than attempt to define an additional, speculative, baseline for that scenario, we
+have addressed and analyzed it in the discussion of alternatives below.
+B.
+
+Analysis of the Proposed Rule
+
+We have considered the comments we received and engaged in an initial evaluation of
+the implications for security-based swaps as securities under the Securities Act and the Exchange
+Act. Based on these actions, we are proposing a rule under the Securities Act so that market
+participants may effect security-based swap transactions with eligible contract participants in
+reliance on available exemptions from the registration requirements of the Securities Act and
+avoid potential Securities Act violations for unregistered offers to persons who are not eligible
+contract participants, and so that there are not unintended consequences for the operation of
+security-based swap trading platforms following the full implementation of Title VII. Under the
+proposed rule, certain communications involving security-based swaps would not be considered
+“offers” for purposes of Section 5 of the Securities Act. However, unlike the current interim
+final exemptions, the proposed rule is not itself an exemption from the registration requirements
+of the Securities Act; the proposed rule would deem certain communications as not constituting
+offers. As a result, while the types of communications covered by the proposed rule would not
+be considered offers, market participants engaging in any security-based swap transaction would
+have to either satisfy the conditions of existing exemptions under the Securities Act, such as the
+exemption in Section 4(a)(2), or register such transactions under the Securities Act.
+The proposed rule would apply to all security-based swaps and not only those defined as
+“security-based swap agreements.” As we previously noted, security-based swaps are transacted
+through hundreds of thousands of individual transactions annually, but because the available
+registration exemptions are self-executing, we do not know what fraction of market participants
+that engage in these transactions currently rely on the interim final exemptions when entering
+48
+
+into security-based swap transactions as opposed to other exemptions from registration under the
+Securities Act, such as the exemption in Section 4(a)(2). 110 For transactions involving securitybased swaps that do not satisfy the conditions of the interim final exemptions, the proposed rule
+would assist market participants in evaluating how they should analyze certain communications
+that may affect their transactions. In particular, market participants would be able to conduct
+their analysis regarding the availability of exemptions from the registration requirements of the
+Securities Act without concern that certain communications would impact the availability of
+such exemptions.
+The proposed rule would be self-executing in that the publication or distribution of SBS
+price quotes would be treated as not constituting an offer to buy or purchase the security-based
+swaps that are the subject of the SBS price quotes or any guarantees of such security-based
+swaps that are securities for purposes of Section 5 of the Securities Act without any action by the
+Commission or its staff. Because the proposed rule would be self-executing, the only cost of
+being able to rely on the proposed rule would be to determine its applicability. In addition, the
+proposed rule would not create any new filing, reporting, recordkeeping, or disclosure reporting
+requirements for any market participants.
+Treating the types of communications covered by the proposed rule as not constituting
+offers would have minimal economic consequences or effects on the ability of market
+
+110
+
+Given that these exemptions, including the exemption in Section 4(a)(2) of the Securities Act are
+self-executing, we do not have any data or other quantifiable information regarding the number of
+market participants that may be effecting security-based swap transactions in reliance on these
+exemptions, including the exemption in Section 4(a)(2). However, we believe that a significant
+portion of market participants engaging in these transactions are eligible to rely on the interim
+final exemptions because the vast majority of security-based swap transactions involve singlename credit default swaps, which would have been “security-based swap agreements” prior to the
+Title VII effective date. See footnotes 103 and 104 above and accompanying text.
+
+49
+
+participants to enter into security-based swap transactions compared with the baseline. 111 For
+example, as compared to the baseline, the proposed rule would not affect the ability of market
+participants to enter into security-based swap transactions in reliance on available exemptions
+under the Securities Act, such as the exemption in Section 4(a)(2). While the interim final
+exemptions have limited conditions, 112 which differ from the conditions of the exemption under
+Section 4(a)(2) (including with respect to the communications that are the subject of the
+proposed rule), some security-based swap transactions engaged in after the Title VII effective
+date may have been effected in reliance on Section 4(a)(2) rather than the interim final
+exemptions. Further, the protections that currently exist under the interim final exemptions and
+under Section 4(a)(2) would still apply. For example, the interim final exemptions do not apply
+to the antifraud provisions of the federal securities laws, including Section 17(a) of the Securities
+Act.
+The proposed rule would not impose new requirements on market participants. Further,
+because the proposed rule would be available with respect to any security-based swap transaction
+involving an eligible contract participant, we do not believe that the proposed rule would impair
+competition between the different types of trading venues and methods that differ in their level
+and existence of public SBS price quotes. Moreover, we believe that the proposed rule would
+further the goal of Title VII to bring the trading of security-based swaps onto regulated trading
+
+111
+
+The economic consequences and effects of the proposed rule are deemed minimal because of the
+baseline, which takes into account the interim final exemptions and the fact that Title VII has not
+been fully implemented. Once the interim final rules expire or otherwise terminate, the economic
+consequences and effects of the proposed rule would be as discussed under “Alternatives
+Considered” below.
+
+112
+
+See footnotes 104 and 105 above and accompanying text. In that regard we note, for example,
+that security-based swaps based on single loans would not be within the definition of “securitybased swap agreement” in effect prior to the Title VII effective date.
+
+50
+
+platforms, which should help further the objective of greater transparency and a more
+competitive environment for the trading of security-based swaps. As a result, we believe that
+increased transparency and competitiveness in the security-based swaps market could help lower
+transactions costs associated with market participant hedging (risk mitigating) strategies and
+thereby lower the cost of capital and facilitate the capital formation process.
+We believe that the costs associated with providing that the publication or distribution of
+SBS price quotes are not deemed to be offers to persons who are not eligible contract participants
+are minimal. The proposed rule would not impose additional costs on market participants to
+determine the eligible contract participant status of a person. 113 In addition, persons who are not
+eligible contract participants would not be permitted to purchase any security-based swaps whose
+price quotes are within the scope of the proposed rule and the Securities Act registration
+requirements would continue to apply to security-based swaps transactions involving such noneligible contract participants. As a result of these limitations, the exclusion of the SBS price
+quotes from being deemed offers should not increase the potential for unlawful sales of securitybased swaps to non-eligible contract participants.
+We recognize that a consequence of the proposed rule may be that fewer offers and sales
+of security-based swaps may be registered under the Securities Act (with the consequent
+unavailability of certain remedies) to the extent that parties enter into such transactions in
+reliance on exemptions that may not otherwise be available if the publication or distribution of
+SBS price quotes were considered to be an offer for purposes of Section 5 of the Securities Act.
+113
+
+The determination of whether a person is an eligible contract participant is part of the proposed
+Title VII business conduct rules that, if adopted as proposed, would require that security-based
+swap dealers and major security-based swap participants verify the eligible contract participant
+eligibility of their security-based swap counterparties. See footnote 62 above and accompanying
+text.
+
+51
+
+A registration statement or prospectus supplement covering the offer and sale of the securities in
+security-based swap transactions may provide certain information about the market participants,
+the security-based swap contract terms, and the identification of the particular reference
+securities, issuers, or loans underlying the security-based swaps. Further, while an investor
+would be able to pursue an antifraud action in connection with the purchase and sale of the
+securities in these security-based swap transactions under Section 10(b) of the Exchange Act, an
+investor would not be able to pursue civil remedies under Section 11 or 12(a)(2) of the Securities
+Act because the offer and sale of the securities in these security-based swap transactions would
+not be registered under the Securities Act. In addition, an investor may be limited in its ability to
+pursue civil remedies under Section 12(a)(1) of the Securities Act because the publication or
+distribution of quotes for security-based swaps would not be deemed to be an offer for purposes
+of Section 5 of the Securities Act. We could still pursue an antifraud action in the offer and sale
+of the securities in these security-based swap transactions under Section 17(a) of the Securities
+Act.
+We note, however, that although the proposed rule would mean that a registration
+statement under the Securities Act may not be required for these transactions, the business
+conduct standards provisions of the Dodd-Frank Act would, among other things, require, upon
+implementation, that certain disclosures be made to certain eligible contract participants. 114
+Those would include (i) the material risks and characteristics of the security-based swap, and
+certain clearing rights, (ii) the material incentives or conflicts of interest that a security-based
+swap dealer or major security-based swap participant may have in connection with the security-
+
+114
+
+See footnote 61 above and accompanying text.
+
+52
+
+based swap, and (iii) the daily mark of the security-based swap. 115 The Commission has
+proposed rules to implement the business conduct standards provisions of the Dodd-Frank
+Act. 116 For instance, under the proposed business conduct standards rules, the required
+disclosure of the daily mark would consist of, for a cleared security-based swap, providing
+counterparties with the daily end-of-day settlement price received by the security-based swap
+dealer or major security-based swap participant from the appropriate clearing agency, and, for an
+uncleared security-based swap, the midpoint between the bid and offer prices for a particular
+security-based swap, or the calculated equivalent of the midpoint as of the close of business. 117
+While the information proposed to be conveyed in the daily mark is not equivalent to that in a
+registration statement, we believe it could provide a counterparty with a useful and meaningful
+reference point against which to assess, among other things, the calculation of variation margin
+for a security-based swap or portfolio of security-based swaps, and otherwise inform the
+counterparty’s understanding of its financial relationship with the security-based swap dealer or
+major security-based swap participant. Moreover, because under the proposed business conduct
+standards rules security-based swap dealers and major security-based swap participants would be
+required to provide the same valuation to all of their counterparties, and because counterparties
+could interact with multiple security-based swap dealers and major security-based swap
+participants, counterparties would have greater confidence of equal treatment as they would have
+the ability to observe when valuations differ among security-based swap dealers and major
+security-based swap participants.
+
+115
+
+Id.
+
+116
+
+See Business Conduct Standards Proposing Release.
+
+117
+
+Id.
+
+53
+
+As noted above, to the extent that a security-based swap transaction does not meet the
+conditions of the interim final exemptions, the counterparties to such transaction likely are
+effecting the transaction in reliance on an available exemption from the registration requirements
+of the Securities Act, such as the exemption set forth in Section 4(a)(2). The proposed rule
+would benefit these counterparties because they could conduct their analysis regarding the
+availability of an exemption from the registration requirements of the Securities Act without
+concern that the publication or distribution of SBS price quotes for the security-based swap that
+is the subject of the transaction may compromise the availability of an exemption. The proposed
+rule also would benefit these counterparties by providing that the publication or distribution of
+SBS price quotes would not be deemed to be an offer of the security-based swaps that are the
+subject of such SBS price quotes to persons who are not eligible contract participants. As noted
+above, no exemptions from the registration requirements of the Securities Act are available with
+respect to offers of security-based swaps to persons who are not eligible contract participants.
+As a result, without the proposed rule, these counterparties would be required to register the
+transaction and incur the costs associated with such registration if the publication or distribution
+of SBS price quotes were viewed as offers of the related security-based swaps to persons who are
+not eligible contract participants.
+C.
+
+Alternatives Considered
+1.
+
+Alternative of Not Proposing a Rule at This Time
+
+One alternative to the proposed rule that we considered was to take no action at this time
+to address issues arising under the Securities Act for certain communications involving securitybased swaps. This alternative would affect all security-based swap transactions, including those
+currently relying on the interim final exemptions. At this time, all security-based swap
+transactions either have to be registered under the Securities Act or rely on another available
+54
+
+exemption from registration, such as the exemption in Section 4(a)(2) or the interim final
+exemptions to the extent available. If we take no action at this time with respect to the treatment
+of certain communications involving security-based swaps, the publication or distribution of SBS
+price quotes could be deemed to constitute an offer, an offer to sell, or a solicitation of an offer to
+buy or purchase the security-based swaps that are the subject of such communications or any
+guarantees of such security-based swaps that are securities for purposes of Section 5 of the
+Securities Act, including to persons who are not eligible contract participants. If considered
+offers, such communications could affect the availability of exemptions from the registration
+requirements of the Securities Act for transactions involving the security-based swaps that are
+the subject of such communications or any guarantees of such security-based swaps that are
+securities. If no Securities Act exemptions are available with respect to a security-based swap
+transaction because such communications are viewed as an offer of the security-based swaps that
+are the subject of such communications, including to persons who are not eligible contract
+participants, such transactions would have to be registered under the Securities Act. The
+economic consequences and effects of not proposing a rule under the Securities Act addressing
+the treatment of SBS price quotes are discussed below.
+We believe that taking no action could disrupt and impose unnecessary costs on this
+segment of the security-based swaps market because it would mean that uncertainty may remain
+as to whether certain communications involving SBS price quotes would be deemed to be offers
+for purposes of Section 5 of the Securities Act. If considered offers, these communications could
+affect the availability of exemptions under the Securities Act, including the exemption in Section
+4(a)(2). The proposed rule would allow SBS price quotes to be published or distributed without
+the risk that such communications would be considered offers for purposes of Section 5 of the
+
+55
+
+Securities Act. Without the proposed rule, the risk that the communications would be deemed
+offers might lead some market participants either to not engage in these security-based swap
+transactions, which could impede the market, or to register the offer and sale of the securitybased swap transactions, which could increase costs for market participants.
+We believe the proposed rule would facilitate capital formation and promote efficiency
+by lowering the costs of security-based swap transactions relative to what would be required
+without the proposed rule in the event the interim final exemptions expire. Without the proposed
+rule and following the expiration of the interim final exemptions, we believe that the operation of
+the registration provisions of the Securities Act could have unintended consequences for the
+operation of security-based swap trading platforms and the ability of market participants to enter
+into these security-based swap transactions in reliance on available exemptions from the
+registration requirements of the Securities Act following the full implementation of Title VII.
+Following the expiration of the interim final exemptions, we anticipate that the proposed rule
+would facilitate a more efficient market place for these security-based swap transactions.
+Without the proposed rule, a market participant may choose not to continue to participate
+in these types of transactions if compliance with the registration requirements of the Securities
+Act is required. This could curtail the use of trading platforms and venues that make use of
+broad communications methods that involve the public dissemination of SBS price quotes. As
+noted above, one of the goals of Title VII is to bring the trading of security-based swaps onto
+regulated trading platforms. The Securities Act registration costs could limit the incentive for
+market participants to engage in security-based swaps transactions on regulated trading platforms
+if the dissemination of price quotes for security-based swaps could jeopardize the availability of
+exemptions from the registration requirements of the Securities Act, including the exemption in
+
+56
+
+Section 4(a)(2). In response to the lack of an available exemption from registration, some
+market participants may also seek to restructure their operations to minimize their transactions
+in, or contact with, the United States in an effort to avoid having to register these transactions
+under the Securities Act. If market participants were to determine not to engage in securitybased swap transactions due to the lack of an available exemption from registration, or to
+restructure their operations and thus avoid U.S. exposure because of the lack of such an
+exemption, such actions could affect the number of price quotes for, and the liquidity of, certain
+types of security-based swaps, which could have a detrimental effect on the liquidity and price
+discovery of security-based swap transactions. This effect would be inconsistent with the
+increased transparency tenets central to Title VII.
+If market participants continue to engage in these security-based swap transactions
+without the proposed rule and register these transactions under the Securities Act, costs would be
+associated with such registration. Additionally, there is unlikely to be a commensurate benefit to
+registration given that the investors typically in greater need of the investor protections provided
+by registration are likely not to be eligible contract participants, and therefore ineligible to
+purchase any security-based swaps whose price quotes are within the scope of the proposed rule.
+While the use of a shelf registration statement may be available to some participants and would
+lessen the costs of registration compared to the costs for participants who were not able to use a
+shelf registration statement, there would be costs in either scenario. 118 Certain market
+
+118
+
+Certain market participants could reduce the registration burden by using the Form S-3
+registration statement for their securities offerings. We previously have estimated that 50 or
+fewer entities ultimately may have to register with us as security-based swap dealers. See CrossBorder Adopting Release. These entities (or their affiliates) are likely to be seasoned or wellknown seasoned issuers that are eligible to use the Form S-3 registration statement for their
+securities offerings. In particular, these entities (or their affiliates) are likely to have a Form S-3
+shelf registration statement that is effective under the Securities Act. A shelf registration
+
+57
+
+participants that are unable to register an offering under the Securities Act using a shelf
+registration statement may be at a competitive disadvantage because they would not be able to
+realize the reduced costs of shelf registration.
+2.
+
+Other Alternatives
+
+Although at this time we are not proposing to include within the scope of the proposed
+rule certain other communications involving security-based swaps that commenters have
+indicated are included in research reports, we are considering whether a broader exclusion from
+the definition of offer than simply for SBS price quotes would be appropriate as part of this
+rulemaking. Currently, we do not have sufficient information to evaluate the appropriate
+treatment of such communications. For example, commenters did not define or explain the
+contours of what would constitute “research” and why an exclusion for such communications is
+necessary. We are concerned that if it were defined or applied too broadly, it would include
+information indistinguishable from traditional issuer offering materials and may not be the
+appropriate subject of an exclusion from the definition of offer. As with any other
+communication that may be an offer of securities subject to Section 5 of the Securities Act, we
+would evaluate a research report within the security-based swaps market as we would evaluate
+statement covers the offer and sale of securities that are not necessarily to be sold in a single
+offering immediately upon effectiveness; instead, the securities are typically sold in a number of
+“takedowns” over a period of time or on a continuous basis. A shelf registration statement allows
+issuers to conduct multiple types and amounts of securities offerings using the same registration
+statement. If these entities (or their affiliates) are required to register the offer and sale of the
+securities in security-based swap transactions, they would likely use their shelf registration
+statements for the offerings. For takedowns off their shelf registration statements, an entity (or its
+affiliate) would file a prospectus supplement under the Securities Act that contains the specific
+terms of the offering. As a result of the shelf registration procedure, these entities (including their
+affiliates) would incur lower costs relating to the takedown for each security-based swap
+transaction than they would otherwise incur if they had to use a non-shelf registration statement
+for the security-based swap transactions. While the use of a shelf registration statement would
+reduce the registration burden for qualifying market participants, it may not be available to all
+market participants.
+
+58
+
+research reports in similar securities markets, including privately offered equity, debt, security
+options, or other security derivatives. Therefore, we are requesting additional comment
+regarding such communications. Based on the information we receive, we may or may not take
+action with respect to such communications under the Securities Act.
+We are asking a number of questions regarding the treatment of communications
+involving security-based swaps contained in research reports. Among the questions we are
+asking is whether we should we consider a rule that would provide as follows: A security-based
+swap dealer’s publication or distribution of a written communication that includes information,
+opinions, or recommendations with respect to security-based swaps or an analysis of securitybased swaps would be considered for purposes of Section 5 of the Securities Act not to constitute
+an offer of such security-based swaps or any guarantees of such security-based swaps that are
+securities if such written communication (i) does not include strategies for buying or selling
+security-based swaps and (ii) is included in an issuer-specific or industry research report that also
+includes information, opinions, or recommendations with respect to or an analysis of different
+types of securities other than only security-based swaps?
+If we determine to treat certain communications involving security-based swaps
+considered to be research reports as not constituting offers, there could be economic
+consequences and effects, including effects on efficiency, competition, and capital formation.
+Some of these consequences and effects would be the same as discussed above with respect to
+the treatment of SBS price quotes under the proposed rule. For example, under the baseline,
+these communications are not taken into account in determining the availability of an exemption
+from Securities Act registration for those security-based swap transactions satisfying the
+conditions of the interim final rules. Further, upon expiration of the interim final rules, such
+
+59
+
+communications would have to be analyzed to determine if they constituted an offer of securitybased swaps and, if so, whether the registration requirements of the Securities Act were
+implicated or if there was an available exemption from such requirements. If such
+communications constituted offers of security-based swaps, it may affect the availability of
+exemptions from the registration requirements of the Securities Act, and the dealer or its affiliate
+may not be able to use such communications to find customers to act as counterparties in
+security-based swap transactions with the dealer or its affiliate to the extent it seeks to rely on
+such exemptions. As a result, treating such communications as not constituting offers may
+promote efficiency by assisting dealers and their affiliates in finding customers and also by
+assisting investors in engaging in potential transactions.
+However, we note that research by dealers or their affiliates on security-based swaps
+could be used by their clients to enter into transactions with them that differ from other types of
+securities transactions. In particular, and unlike an equity or debt security, a security-based swap
+could entail an ongoing financial commitment (economic exposure) between the dealer (or its
+affiliate making the recommendation) and the client, who must be an eligible contract
+participant, whereby a client loss could result in a dealer gain of equal measure. The dealer (or
+its affiliate) would, at least initially, take the opposite economic exposure as the client who is
+otherwise informed on their transaction decision by the dealer or its affiliate’s research. In these
+instances, when the recommending entity also takes the opposite economic exposure of the client
+who is basing their investment decision on the recommendation, the research may not be
+considered independent.
+We have requested comment regarding the costs, benefits and effects of such
+communications, including whether and how many security-based swap transactions are entered
+
+60
+
+into as a result of such communications, and whether such transactions are entered into with the
+entity publishing the research reports or its affiliate.
+D.
+
+Request for Comment
+
+We request comment on all aspects of this economic analysis, including the costs and
+benefits associated with the proposed rule. We also request comment on the potential effects the
+proposed rule may have on efficiency, competition, and capital formation. We seek estimates of
+these costs, benefits, and effects, as well as any costs, benefits, and effects not already identified
+herein. Commenters should provide analysis and empirical data to support their views on the
+costs, benefits, and effects associated with the proposed rule.
+We also request comment on all aspects of our discussion regarding the number of
+entities that may be required to register as security-based swap dealers and their ability to use the
+shelf registration procedure to register the offer and sale of securities in a security-based swap
+transaction, including the costs of such registration.
+Finally, we request comment on all aspects of our discussion regarding the possible
+approach with respect to certain communications involving security-based swaps that
+commenters have indicated are included in research reports, including the potential costs and
+benefits of such approach and the potential effects such approach may have on efficiency,
+competition, and capital formation. In particular, would the economic consequences and effects
+of such a rule, as well as the potential effects of such a rule on efficiency, competition, and
+capital formation, be similar to those discussed above with respect to the treatment of SBS price
+quotes under the proposed rule? If not, how would they differ and why? We seek estimates of
+these costs, benefits, and effects, as well as any costs, benefits, and effects not already identified
+
+61
+
+herein. Commenters should provide analysis and empirical data to support their views on the
+costs, benefits, and effects associated with such approach.
+V.
+
+PAPERWORK REDUCTION ACT
+The proposed rule would do not impose any new “collections of information” within the
+
+meaning of the Paperwork Reduction Act of 1995 (“PRA”), 119 nor would it create any new
+filing, reporting, recordkeeping, or disclosure reporting requirements. Accordingly, we are not
+submitting the proposed rule to the Office of Management and Budget for review in accordance
+with the PRA. 120 We request comment on whether our conclusion that there are no collections
+of information is correct.
+VI.
+
+CONSIDERATION OF IMPACT ON THE ECONOMY
+Under the Small Business Regulatory Enforcement Fairness Act of 1996, 121 a rule is
+
+considered “major” where, if adopted, it results or is likely to result in: (i) an annual effect on
+the economy of $100 million or more (either in the form of an increase or a decrease); (ii) a
+major increase in costs or prices for consumers or individual industries; or (iii) significant
+adverse effect on competition, investment, or innovation. We request comment on the potential
+impact of the proposed rule on the economy on an annual basis, any potential increase in costs or
+prices for consumers or individual industries, and any potential effect on competition,
+investment, or innovation. Commenters are requested to provide empirical data and other factual
+support for their view to the extent possible.
+VII.
+
+REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+119
+
+44 U.S.C. 3501 et seq.
+
+120
+
+44 U.S.C. 3507(d) and 5 CFR 1320.11.
+
+121
+
+Pub. L. No. 104-121, 110 Stat. 857 (1996) (codified in various sections of 5 U.S.C., 15 U.S.C.
+and as a note to 5 U.S.C. 601).
+
+62
+
+The Regulatory Flexibility Act (“RFA”) 122 requires the Commission, in promulgating
+rules, to consider the impact of those rules on small entities. Section 603(a) 123 of the
+Administrative Procedure Act, 124 as amended by the RFA, generally requires the Commission to
+undertake a regulatory flexibility analysis of all proposed rules to determine the impact of such
+rulemaking on “small entities.” Section 605(b) of the RFA states that this requirement shall not
+apply to any proposed rule which, if adopted, would not have a significant economic impact on a
+substantial number of small entities. 125
+We are proposing a rule under the Securities Act to provide that certain communications
+involving security-based swaps that may be purchased only by eligible contract participants
+would not be deemed for purposes of Section 5 of the Securities Act to constitute offers of such
+security-based swaps or any guarantees of such security-based swaps that are securities. Under
+the proposed rule, the publication or distribution of price quotes relating to security-based swaps
+that may be purchased only by persons who are eligible contract participants and are traded or
+processed on or through a facility that either is registered as a national securities exchange or as a
+security-based swap execution facility, or is exempt from registration as a security-based swap
+execution facility pursuant to a rule, regulation, or order of the Commission, would not be
+deemed to constitute an offer, an offer to sell, or a solicitation of an offer to buy or purchase such
+security-based swaps or any guarantees of such security-based swaps that are securities for
+purposes of Section 5 of the Securities Act.
+
+122
+
+5 U.S.C. 601 et seq.
+
+123
+
+5 U.S.C. 603(a).
+
+124
+
+5 U.S.C. 551 et seq.
+
+125
+
+See 5 U.S.C. 605(b).
+
+63
+
+For purposes of the RFA, under our rules, an issuer, other than an investment company, is
+a “small business” or “small organization” if it has total assets of $5 million or less as of the end
+of its most recent fiscal year and is engaged or proposing to engage in an offering of securities
+which does not exceed $5 million. 126 Based on our understanding of the security-based swaps
+market, including our existing information about participants in the security-based swaps market,
+we believe that the proposed rule would apply to few, if any, small entities. 127 For this reason,
+we do not believe that the proposed rule would have a significant economic impact on a
+substantial number of small entities. We encourage written comments regarding this
+certification.
+VIII. STATUTORY AUTHORITY AND TEXT OF THE PROPOSED RULE
+The rule described in this release is being proposed under the authority set forth in
+Sections 5, 19, and 28 of the Securities Act.
+List of Subjects in 17 CFR Part 230
+Reporting and recordkeeping requirements, Securities.
+126
+
+See Rule 157 under the Securities Act [17 CFR 230.157].
+
+127
+
+As noted above, we previously have estimated that 50 or fewer entities ultimately may have to
+register with us as security-based swap dealers. See footnote 118 above and accompanying text.
+We believe that these entities generally would be major banks or other large financial market
+participants, which would not be small entities for purposes of the RFA. See Cross-Border
+Adopting Release. These entities account for the vast majority of the transactions in the securitybased swaps market as measured on a notional basis. For example, according to an analysis
+regarding the market for single-name credit default swaps performed by our Division of
+Economic and Risk Analysis (then Division of Risk, Strategy, and Financial Innovation), these
+entities account for approximately 94 percent of the transactions in the single-name credit default
+swaps market as measured on a notional basis. See Information regarding activities and positions
+of participants in the single-name credit default swap market (Mar. 15, 2012), which is available
+at http://www.sec.gov/comments/s7-39-10/s73910-154.pdf. According to data published by the
+Bank for International Settlements, single-name credit default swaps comprise approximately 94
+percent of the total security-based swaps market as measured on a notional basis. See
+Semiannual OTC derivatives statistics at end-June 2012, Table 19: Amounts outstanding of overthe-counter (OTC) derivatives, which is available at
+http://www.bis.org/statistics/otcder/dt1920a.pdf.
+
+64
+
+TEXT OF THE PROPOSED RULE
+For the reasons set out above, we are proposing to amend Title 17, Chapter II of the Code
+of Federal Regulations as follows:
+PART 230 – GENERAL RULES AND REGULATIONS, SECURITIES ACT OF 1933
+1.
+
+The authority citation for Part 230 continues to read, in part, as follows:
+
+Authority: 15 U.S.C. 77b, 77b note, 77c, 77d, 77d note, 77f, 77g, 77h, 77j, 77r, 77s, 77z3, 77sss, 78c, 78d, 78j, 78l, 78m, 78n, 78o, 78o-7 note, 78t, 78w, 78ll(d), 78mm, 80a-8, 80a-24,
+80a-28, 80a-29, 80a-30, and 80a-37, and Pub. L. 112-106, sec. 201(a), 126 Stat. 313 (2012),
+unless otherwise noted.
+*****
+2.
+
+Section 230.135d is added to read as follows:
+
+§ 230.135d Certain communications involving security-based swaps.
+For the purposes only of Section 5 of the Act (15 U.S.C. 77e), the publication or
+distribution of quotes relating to security-based swaps that may be purchased only by persons
+who are eligible contract participants (as defined in Section 1a(18) of the Commodity Exchange
+Act (7 U.S.C. 1a(18))) and are traded or processed on or through a trading system or platform
+that either is registered as a national securities exchange under Section 6(a) of the Securities
+Exchange Act of 1934 (15 U.S.C. 78f(a)) or as a security-based swap execution facility under
+Section 3D(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c-4(a)), or is exempt from
+registration as a security-based swap execution facility under Section 3D(a) of the Securities
+
+65
+
+Exchange Act of 1934 pursuant to a rule, regulation, or order of the Commission, shall not be
+deemed to constitute an offer, an offer to sell, or a solicitation of an offer to buy or purchase such
+security-based swaps or any guarantees of such security-based swap that are securities.
+By the Commission.
+
+Kevin M. O’Neill
+Deputy Secretary
+September 8, 2014
+
+66
+
+

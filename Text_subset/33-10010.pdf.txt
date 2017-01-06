@@ -1,0 +1,752 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10010 / January 31, 2016
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 77001 / January 31, 2016
+ADMINISTRATIVE PROCEEDING
+File No. 3-17077
+In the Matter of
+Barclays Capital Inc.
+Respondent.
+
+ORDER INSTITUTING ADMINISTRATIVE
+AND CEASE-AND-DESIST PROCEEDINGS,
+PURSUANT TO SECTION 8A OF THE
+SECURITIES ACT OF 1933 AND SECTIONS
+15(b) AND 21C OF THE SECURITIES
+EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING REMEDIAL
+SANCTIONS AND A CEASE- AND-DESIST
+ORDER
+I.
+
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that public administrative and cease-and-desist proceedings be, and hereby are,
+instituted pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”) and Sections 15(b)
+and 21C of the Securities Exchange Act of 1934 (“Exchange Act”) against Barclays Capital Inc.
+(“Barclays” or “Respondent”).
+II.
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) that the Commission has determined to accept. Respondent admits the
+facts set forth in Section IV. below, acknowledges that its conduct violated the federal securities
+laws, admits the Commission’s jurisdiction over it and the subject matter of these proceedings, and
+consents to the entry of this Order Instituting Administrative and Cease-and-Desist Proceedings
+Pursuant to Section 8A of the Securities Act and Sections 15(b) and 21C of the Exchange Act,
+Making Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order (“Order”), as
+set forth below.
+
+III.
+On the basis of this Order and Respondent’s Offer, the Commission finds that:
+Summary
+1.
+Off-exchange trading of NMS stocks1 has increased significantly in recent years.
+Off-exchange trading can offer many benefits to market participants, but also highlights the
+necessity of transparency between the entities that operate off-exchange venues and their clients.
+Barclays is the owner and operator of Barclays LX (“LX”), an alternative trading system (“ATS”) 2
+that operates as a “dark pool.”3 LX accepts, matches, and executes orders from clients (subscribers
+that access LX through Barclays’ trading algorithms or order router only) and direct subscribers
+(subscribers that access LX directly, or in combination with Barclays’ algorithms and/or order
+router) (collectively, “LX subscribers” or “subscribers”) to buy and sell NMS stocks. As of May
+2014, LX was the nation’s second largest NMS stock ATS.
+From December 2011 through June 2014 (the “relevant period”), Barclays
+2.
+violated the federal securities laws and regulations arising from its operation and marketing of
+LX as set forth in Section V. below. In particular, Barclays made materially misleading
+statements and omitted to state certain material facts necessary to make statements made not
+1
+
+“In general, the term ‘NMS security’ refers to exchange-listed equity securities and standardized options, but does
+not include exchange-listed debt securities, securities futures, or open-end mutual funds, which are not currently
+reported pursuant to an effective transaction reporting plan.” SEC, Responses to Frequently Asked Questions
+Concerning Large Trader Reporting (Aug. 21, 2014), www.sec.gov/divisions/marketreg/large-trader-faqs.htm; see
+Rule 600(b)(46) of Regulation NMS, 17 C.F.R. § 242.600(b)(46). The term “NMS stock” means any NMS security
+other than an option. Rule 600(b)(47) of Regulation NMS, 17 C.F.R. 242.600(b)(47).
+2
+
+Rule 300(a) of Regulation ATS promulgated under the Exchange Act provides that an ATS is “any organization,
+association, person, group of persons, or system: (1) [t]hat constitutes, maintains, or provides a market place or
+facilities for bringing together purchasers and sellers of securities or for otherwise performing with respect to
+securities the functions commonly performed by a stock exchange within the meaning of [Exchange Act Rule 3b-16];
+and (2) [t]hat does not: (i) [s]et rules governing the conduct of subscribers other than the conduct of subscribers’
+trading on such [ATS]; or (ii) [d]iscipline subscribers other than by exclusion from trading.” Regulation ATS, Rule
+300(a), 17 C.F.R. § 242.300(a). Rule 301(a) of Regulation ATS provides that an ATS must comply with Rule 301(b)
+of Regulation ATS, unless the ATS is registered as a national securities exchange or qualifies for another enumerated
+exclusion. During the relevant period, Barclays was not registered as a national securities exchange and did not
+qualify for an enumerated exclusion. Therefore, it was required to comply with Regulation ATS, including Rule
+301(b) thereunder, to benefit from the exemption from the definition of “exchange” provided by Rule 3a1-1(a)(2)
+under the Exchange Act.
+3
+
+Dark pools are a subset of ATSs that, as a general matter, “offer trading services to institutional investors and others
+that seek to execute large trading interest in a manner that will minimize the movement of prices against the trading
+interest and thereby reduce trading costs.” Exch. Act Rel. No. 61358 (Jan. 21, 2010), 75 FR 3593, 3599 (“Concept
+Release on Equity Market Structure”). More specifically, dark pools “are ATSs that . . . do not provide their bestpriced orders for inclusion in the consolidated quotation data,” which is in contrast to another subset of ATSs,
+electronic communication networks (“ECNs”). Id. An ECN’s key characteristic is that it “provides its best-priced
+orders for inclusion in the consolidated quotation data,” making its trading services more analogous to those of
+registered exchanges. Concept Release on Equity Market Structure, 75 FR at 3599.
+
+2
+
+misleading concerning a) the operation of an LX product feature called Liquidity Profiling,
+which Barclays described as a “powerful tool to proactively monitor LX” and as a
+“sophisticated surveillance framework that protects clients from predatory trading” and b) the
+market data feeds that it used in LX. In addition, Barclays violated the federal securities laws
+and regulations related to its market access and its operation of LX, including by failing to
+establish adequate safeguards and procedures to protect subscribers’ confidential trading
+information, and to adopt and implement adequate procedures to ensure that such safeguards
+and procedures are followed.
+3.
+In December 2011, Barclays developed a product called Liquidity Profiling to
+differentiate it from other dark pool operators. Barclays designed Liquidity Profiling to
+categorize LX subscribers and their order flow into various “buckets” numbered 0 through 5 (0
+representing the most aggressive order flow, and 5 representing the least aggressive order flow), and
+then to allow LX subscribers to block trading with other subscribers that were assigned to certain
+categories. For example, an LX subscriber that did not want to trade with other subscribers that
+Liquidity Profiling rated as most aggressive could choose not to interact with LX subscribers that
+were rated as type 0 or 1.
+In addition to providing LX subscribers with the ability to avoid interaction with
+4.
+subscribers that were assigned to certain categories, Barclays marketed Liquidity Profiling as a
+“sophisticated surveillance framework that protects clients from predatory trading,” and that
+“utilizes robust visualization tools [referencing Figure 2 below] that synthesize and graph large
+amounts of data and allow the Barclays ATS team to continuously police the trading activity in
+LX.”
+
+3
+
+Barclays also claimed that it ran “surveillance reports every week to make sure
+5.
+that there is no toxic flow in [LX’s] book.”
+6.
+In fact, from December 2011 through June 2014, Barclays did not “continuously
+police” LX for predatory trading through the use of “visualization tools” as depicted above.
+Nor did Barclays generally run surveillance reports on a weekly basis during the relevant
+period to ensure that there was no “toxic flow in [LX’s] book.”
+7.
+Barclays also failed to disclose adequately its practice of overriding the
+Liquidity Profiling tool’s categorization of subscribers (hereinafter, “Overrides”). During the
+relevant period, the majority of these Overrides moved LX subscribers from less aggressive buckets
+to more aggressive buckets. However, at times during the relevant period, Barclays overrode the
+Liquidity Profiling tool’s categorizations of certain LX subscribers (including its own market
+making desk) by manually moving these subscribers from the most aggressive buckets (e.g., 0 and
+1) to the least aggressive buckets (e.g., 4 and 5). Barclays overrode these subscribers’
+categorizations to increase the likelihood that these subscribers’ orders would be executed in LX.
+This likelihood increased because being categorized in buckets 4 and 5 resulted in these subscribers
+interacting with all flow in LX, even orders placed by subscribers that chose not to interact with
+subscribers assigned to the most aggressive Liquidity Profiling subscriber categories. As a result,
+the subscribers that elected to block trading against the aggressive LX subscribers still
+interacted with aggressive LX subscribers whose categorizations had been overridden even
+4
+
+though they had specifically opted not to trade with subscribers that engaged in this level of
+aggressive trading.
+8.
+In addition, from October 2012 through May 2014, Barclays distributed a
+PowerPoint presentation (“Pitchbook”) concerning LX that contained a bubble scatter plot
+chart that purported to represent the “top 100 participants” in LX and to show the size and
+“aggressiveness” of each subscriber’s order flow. The size of each bubble corresponded to the
+size of each subscriber’s order flow at a static point in time, and placement of each bubble on
+the chart corresponded to the aggressiveness of that subscriber’s trading flow. In October
+2012, however, Barclays removed from this chart the bubble that corresponded to its largest
+subscriber with aggressive trading characteristics (“Subscriber 1”), and then continued to use
+this same chart in its marketing material through May 2014.
+Although in October 2012 Barclays removed from the chart the bubble
+9.
+corresponding to Subscriber 1, Barclays continued to include a footnote in the Pitchbook
+stating: “This chart represents the top 100 participants in LX (~86% of total flow). The
+analysis spans more than 11.3 million trades.” Moreover, in April 2014, Barclays amended the
+footnote to then state that the source of the data for the chart, which still did not include the
+bubble that corresponded to Subscriber 1, was Barclays data from 2014.
+Barclays also at times misrepresented the type and number of market data feeds
+10.
+that it used to calculate the National Best Bid and Offer (“NBBO”) in LX. Barclays used the
+NBBO to determine the price of pegged orders in the ATS and as a basis for certain
+compliance decisions.
+11.
+Market data feeds—and trading latencies potentially created by the use of
+particular market data feeds—have been a major focus in the securities industry over the past
+few years. Debate has ensued over the possibility that certain high frequency traders gain
+advantages by using faster, direct feeds from exchanges while some trading venues, including
+some dark pools, use slower feeds from the Securities Information Processors (“SIPs”) for
+pricing pegged orders within the venues and as a basis for certain compliance decisions.
+12.
+Barclays misrepresented that it used more direct feeds than it actually did.
+During the relevant period, Barclays calculated the NBBO in LX using a combination of data
+from 1) SIPs and 2) direct feeds from only the BATS, ARCA, and NASDAQ exchanges. At
+no time during the relevant period did LX subscribe to a direct market data feed from the New
+York Stock Exchange (“NYSE”).
+13.
+However, Barclays responded to a question from an LX subscriber about which
+data feeds it used to construct its NBBO in LX by saying, “Combination of SIP (for regional
+venues) and direct feeds (for major exchanges).”
+14.
+Additionally, on April 9, 2014, in response to LX subscriber inquiries generated
+by the publication of Michael Lewis’s book, Flash Boys, Barclays sent a marketing piece by
+5
+
+email to LX subscribers that said that Barclays “utilize[s] direct feeds from exchanges to deter
+latency arbitrage.” This piece omitted any reference to Barclays’ use of the SIPs.
+As a result of the materially misleading statements and omissions of fact
+15.
+described above, Barclays violated Section 17(a)(2) of the Securities Act, an antifraud
+provision of the federal securities laws.
+16.
+Barclays also violated Exchange Act Section 15(c)(3) and Rules 15c3-5(c)(1)(i)
+and 15c3-5(b) thereunder by failing to have the necessary risk management controls and
+supervisory procedures in place related to its market access. Specifically, Barclays did not
+have controls reasonably designed to prevent the entry of orders that exceeded the pre-set
+credit and capital thresholds Barclays had in place.
+17.
+Barclays also violated provisions of Regulation ATS. Barclays violated Rule
+301(b)(2) by failing to file, at least 20 days before it implemented a material change, an
+amendment on Form ATS4 that disclosed Barclays’ Override process. Barclays also violated
+Rule 301(b)(10), which requires that an ATS “establish adequate safeguards and procedures to
+protect subscribers’ confidential trading information,” including “[l]imiting access to the
+confidential trading information of subscribers to those employees of the alternative trading
+system who are operating the system or responsible for its compliance with these or any other
+applicable rules.”
+18.
+During the relevant period, certain Barclays personnel who did not operate LX and
+were not responsible for compliance had the ability to access confidential subscriber trading
+information if they knew the relevant computer language and had the ability to navigate through
+Barclays computer systems. As such, Barclays violated Rule 301(b)(10) by not having adequate
+safeguards and procedures to protect subscribers’ confidential trading information, including by
+limiting access to confidential trading information of subscribers to those employees of the ATS
+who were operating the system or responsible for compliance, or by not implementing adequate
+oversight procedures to ensure that the safeguards and procedures established pursuant to Rule
+301(b)(10)(i) were followed.
+IV.
+Respondent
+19.
+Barclays Capital Inc. is a broker-dealer registered under the Exchange Act and is a
+Connecticut corporation with its principal office located in New York, New York. Barclays is an
+indirect wholly owned subsidiary of Barclays Bank Plc. Since 2008, Barclays has operated LX, an
+ATS that operates pursuant to Regulation ATS. As of May 2014, LX was the second-largest ATS
+(as measured by daily average trading volume in NMS stocks) in the United States.
+4
+
+Filed with the Commission pursuant to Rule 301(b)(2) of Regulation ATS, a Form ATS is a confidential document
+that an ATS uses to notify the Commission of its operations.
+
+6
+
+FACTS
+A. Barclays’ Liquidity Profiling
+20.
+In late 2011, Barclays developed and implemented a product feature for LX called
+Liquidity Profiling. From December 2011 through June 2014, Barclays described Liquidity
+Profiling as a “powerful tool to proactively monitor LX” and as a “sophisticated surveillance
+framework that protects clients from predatory trading.” Liquidity Profiling could be used only by
+LX subscribers permitted by Barclays to trade in LX. These LX subscribers included institutional
+investors, broker-dealers, electronic liquidity providers (“ELPs”), and Barclays’ internal desks.
+High frequency trading firms would be included in the ELP classification.
+21.
+Prior to the implementation of Liquidity Profiling, Barclays allowed LX subscribers
+to block their interactions with certain categories of other subscribers based on static classifications
+of LX subscribers by type, such as institutional, broker-dealer, ELP, or internal. Subscribers that did
+not want to trade with a certain type of LX subscriber could ask Barclays to block interactions with
+those LX subscriber types.
+22.
+Barclays designed Liquidity Profiling to measure trading based on the manner in
+which LX subscribers traded, rather than by static classifications of LX subscribers by type.
+Specifically, Barclays designed Liquidity Profiling to analyze LX subscribers’ order flow and
+segment it into various “categories” numbered 0 through 5 (0 representing the most aggressive flow,
+and 5 representing the least aggressive flow). Barclays designed Liquidity Profiling to then allow
+LX subscribers to block trading with other subscribers that were assigned to certain categories,
+rather than with certain client types. For example, an LX subscriber that did not want to trade with
+other subscribers that Liquidity Profiling rated as most aggressive could choose not to interact with
+LX subscribers that were rated as type 0 or 1. Barclays also continued to offer LX subscribers the
+option to block trading based on traditional LX subscriber types, as well as the option to block
+trading with specific counterparties.
+23.
+Barclays designed Liquidity Profiling to use various metrics to assess the
+aggressiveness of LX subscribers’ trading activity in LX. The primary metrics used included:
+1-Second Take Alpha (which Barclays defined as the movement of the mid-quote from the
+time of the trade to one second later, normalized by the size of the spread) and Normalized
+Order Size (which Barclays defined as the average LX subscriber order size in LX, normalized
+by the average execution size in the market, for an individual security).
+24.
+Beginning in early 2012 and throughout the relevant period, Barclays distributed
+marketing material or otherwise communicated to current and prospective LX subscribers that
+it used Liquidity Profiling to review LX subscriber behavior.
+25.
+In particular, Barclays distributed a two-page marketing piece titled: “LX
+Liquidity Profiling: Protecting clients in the dark” (hereinafter, “Tear Sheet”). The Tear Sheet
+stated that “Liquidity Profiling is a sophisticated surveillance framework that protects clients
+7
+
+from predatory trading” and “utilizes robust visualization tools . . . to continuously police the
+trading activity in LX.” The Tear Sheet also included a graphical depiction [see supra Figure
+2] of one of the aforementioned visualization tools used by “the Barclays ATS team to identify
+predatory behavior.” The graphic’s caption stated that it was an example of a visualization tool
+identifying a “latency arbitrage” strategy.
+26.
+In addition to the Tear Sheet, Barclays also conveyed the following to current
+and prospective LX subscribers in response to LX subscriber questionnaires or as proactive
+marketing: “Client behavior is reviewed on a weekly basis, allowing the Barclays ATS team to
+quickly identify aggressive behavior and take corrective action with clients who exhibit
+opportunistic behavior,” and “Barclays runs surveillance reports every week to make sure that
+there is no toxic flow in the book.”
+27.
+Barclays did not use such visualization tools to monitor for latency arbitrage on
+a regular basis. Barclays also did not run such surveillance reports every week during the
+relevant period.
+B. Barclays’ Liquidity Profiling Overrides
+28.
+As described above, Barclays designed Liquidity Profiling to evaluate the nature
+of its LX subscribers’ trading. In particular, Barclays designed Liquidity Profiling to analyze
+LX subscribers’ order flow and segment it into various “buckets” numbered 0 through 5 (0
+representing the most aggressive order flow, and 5 representing the least aggressive order flow).
+Liquidity Profiling would then allow LX subscribers to block trading with other subscribers
+that were assigned to certain categories.
+29.
+During the relevant period, Barclays assigned certain LX subscribers to more
+aggressive or less aggressive buckets than they should have been assigned (“Overrides”) based
+solely on the objective application of the Liquidity Profiling metrics described above. While
+the majority of these Overrides moved LX subscribers from less aggressive categories to more
+aggressive categories, Barclays at times also moved LX subscribers from more aggressive
+categories to less aggressive categories.
+30.
+Because Barclays applied Overrides to move certain subscribers from more
+aggressive categories to less aggressive categories, certain LX subscribers interacted with other
+LX subscribers in the most aggressive categories (namely, the 0 and 1 buckets) despite electing
+not to do so.
+31.
+The subscribers that Barclays re-assigned to less aggressive categories included
+a Barclays market making desk. At times in 2012 and 2013, Liquidity Profiling rated this
+Barclays market making desk as engaging in type 0 or 2 trading, two of the more “aggressive”
+Liquidity Profiling subscriber categories. Barclays, however, overrode this categorization and
+instead recategorized that desk as type 4, one of the least aggressive Liquidity Profiling
+subscriber categories. As a result, at times in 2012 and 2013, the Barclays market making desk
+was allowed to trade with LX subscribers that specifically opted not to trade against other
+8
+
+subscribers that Liquidity Profiling labeled as type 0 or 2.
+32.
+At times during the relevant period, Barclays also overrode its Liquidity
+Profiling categorizations with respect to the categorization of the trading activity of two
+institutional subscribers. Liquidity Profiling rated these subscribers as engaging in type 0 or 1
+trading, the most “aggressive” Liquidity Profiling trader categories. Barclays, however,
+overrode these categorizations and instead recategorized them as type 2 or 4 subscribers.
+Because of Barclays’ recategorization of these subscribers, they were allowed to trade with LX
+subscribers that specifically opted not to trade against other subscribers that the Liquidity
+Profiling tool had labeled as type 0 or 1.
+33.
+At times during the relevant period, Barclays also overrode its Liquidity
+Profiling subscriber categorizations with respect to numerous institutions that traded through a
+direct connection to LX if, in addition to the direct connection to LX, they also accessed LX by
+using Barclays’ algorithms (trading activity from Barclays’ algorithms generally would have
+been categorized as type 4 or 5 based on an objective application of the Liquidity Profiling
+metrics). Liquidity Profiling rated these subscribers as engaging in type 0, 1, 2, or 3 trading,
+the more “aggressive” Liquidity Profiling subscriber categories. Barclays, however, overrode
+these categorizations and instead recategorized them as type 4 or 5 subscribers, the least
+aggressive Liquidity Profiling subscriber categories. As a result, these subscribers were
+allowed to trade with certain other LX subscribers that specifically opted not to trade against
+subscribers that the Liquidity Profiling tool had labeled as type 0, 1, 2, or 3.
+34.
+During the relevant period, Barclays provided some subscribers with “LX 20day Client Summary” reports. These reports contained the following footnote disclosure:
+“Barclays reserves the right as operators of LX to override the profile of any participant.”
+Neither these reports, nor any other material disseminated to LX subscribers, defined what it
+meant to “override the profile of [a] participant” or specifically disclosed that Barclays applied
+Overrides that allowed aggressive subscribers to trade against other LX subscribers that had
+specifically requested not to interact with LX subscribers that engaged in aggressive trading
+activity. Neither these reports, nor any other material disseminated to prospective or current
+subscribers, likewise specifically disclosed that Barclays at times applied an Override to its
+own internal market making desk.
+C. Barclays’ Liquidity Landscape Chart
+35.
+Beginning in December 2011 and throughout the relevant period, LX employees
+prepared and distributed PowerPoint presentations (“Pitchbooks”) to market LX and Barclays’
+electronic trading capabilities to current and prospective LX subscribers.
+36.
+LX employees updated and revised certain pages in the Pitchbooks on a
+monthly basis. The cover page of the Pitchbooks stated the month and year of the Pitchbook
+(for example, “July 2013”).
+37.
+
+The December 2011 Pitchbook contained a slide that stated “New LX®
+9
+
+Liquidity Profiling.” The slide contained a graph titled “Modified Take % vs. 1-Second Alpha
+(spreads).” The chart (hereinafter, “bubble chart”) depicted subscribers with a bubble, and the
+size of each bubble corresponded to the size of each subscriber’s order flow at a static point in
+time. The x-axis of the bubble chart represented modified take percentage, and the y-axis of
+the graph represented “one second alpha.”
+38.
+The bubble chart in the December 2011 Pitchbook contained data for the flow in
+LX as of December 2011. The slide contained a footnote that stated: “This chart represents
+the top 100 participants in LX (~86% of total flow). The analysis spans more than 11.3 million
+trades.”
+39.
+The largest bubble in the December 2011 bubble chart represented the largest
+LX subscriber (“Subscriber 1”). Subscriber 1’s location in the top right quadrant of the bubble
+chart demonstrated that its order flow made it one of the most aggressive subscribers in LX and
+that it benefitted from post-trade price movements.
+40.
+From December 2011 to September 2012, Barclays updated the month and year
+on the cover of the Pitchbook on a monthly basis. Nonetheless, during this time, Barclays did
+not update the bubble chart on a monthly basis in its Pitchbooks. Rather, Barclays used the
+version of the bubble chart contained in the December 2011 Pitchbook, which had been created
+based on data from December 2011. During this time, Barclays also never modified the
+footnote on the slide containing the bubble chart that stated: “This chart represents the top 100
+participants in LX (~86% of total flow). The analysis spans more than 11.3 million trades.”
+41.
+In or about October 2012, Barclays inserted a new version of the bubble chart
+into the Pitchbook that did not include the bubble corresponding to Subscriber 1. At this time,
+Subscriber 1 was the largest subscriber to LX with aggressive trading characteristics based on
+Liquidity Profiling’s metrics, and Barclays did not revise the bubble chart to reflect that it had
+removed Subscriber 1. Apart from the absence of the bubble corresponding to Subscriber 1,
+the bubble chart was identical to the bubble chart that appeared in the December 2011
+Pitchbook.
+42.
+Even though Barclays removed the bubble representing Subscriber 1 from the
+bubble chart, it did not modify the footnote on the slide stating: “This chart represents the top
+100 participants in LX (~86% of total flow). The analysis spans more than 11.3 million
+trades.”
+43.
+From October 2012 through March 2014, Barclays continued to update certain
+pages in the Pitchbook on a monthly basis, and continued to update the month and year on the
+cover of the document. During this time, the Pitchbook used the version of the bubble chart
+that omitted Subscriber 1 and that otherwise was based on data from December 2011.
+44.
+In April 2014, Barclays employees modified the footnote on the slide containing
+the bubble chart to say: “Note: This chart represents the top 100 clients in LX (~86% of total
+10
+
+flow). The analysis spans more than 12 million trades. Source: Barclays Data, 2014.”
+45.
+The bubble chart in the April 2014 version of the Pitchbook (which also
+appeared in the Pitchbooks from October 2012 through March 2014) did not represent the flow
+for the “top 100 clients in LX” as of April 2014 because it omitted a bubble corresponding to
+Subscriber 1’s order flow. The source for the data in the April 2014 Pitchbook was also not
+2014 data but instead data from December 2011.
+D. Barclays’ Use of Market Data Feeds
+46.
+The National Best Bid and Offer (“NBBO”) is the highest bid (or purchase)
+price and the lowest ask (or sale) price for a security in the national market system (“NMS”).
+Regulation NMS requires trading centers to have and enforce policies and procedures
+reasonably designed to prevent executions at prices that are inferior to prices that are displayed
+and available at another market center. See Rule 611(a) of Regulation NMS, 17 CFR §
+242.611(a). During the relevant period, Barclays calculated the NBBO in LX using a
+combination of data from 1) Securities Information Processors (“SIPs”) and 2) direct feeds
+from the BATS, ARCA, and NASDAQ exchanges.
+47.
+At no time during the relevant period did LX subscribe to a direct market data
+feed from the New York Stock Exchange (“NYSE”).
+48.
+Yet in July 2013, Barclays responded to the following question by a subscriber:
+“Does the pool utilize the SIP for the NBBO, direct feeds to construct an NBBO or some
+combination (for Reg NMS compliance purposes)?” by saying, “Combination of SIP (for
+regional venues) and direct feeds (for major exchanges).”
+49.
+On April 9, 2014, Barclays sent LX subscribers a marketing piece that stated in
+relevant part: “We protect clients in our dark pool. We utilize direct data feeds from
+exchanges to deter latency arbitrage.” Barclays did not mention its use of the SIP to calculate
+the NBBO for LX or its lack of use of the NYSE direct feed in this document.
+E. Barclays’ Pre-Set Credit Thresholds
+50.
+Barclays had one primary control in place during the relevant period that it used
+to monitor client orders and executions. This control was a proprietary developed system
+called NICON. During the relevant period, Barclays assigned credit thresholds to clients,
+including LX subscribers. NICON sent email messages to Barclays’ service desk when
+percentages of the client’s overall credit threshold had been reached (e.g., at 33%, 50%, 66%,
+and 80% of the client’s overall threshold).
+51.
+NICON, however, did not have the functionality to prevent the entry of orders
+that would exceed pre-set credit thresholds by rejecting them, and Barclays did not have any
+other control in place that did so.
+11
+
+52.
+Barclays also allowed sales traders to enter orders using a placeholder acronym,
+OMNI, that was not tied to any specific client. This practice resulted in Barclays not crediting
+certain customer orders against their respective thresholds.
+F. Barclays’ Pre-Set Capital Thresholds
+53.
+Although Barclays did have a firm-wide capital threshold, Barclays did not have
+controls in place that would prevent the entry of orders that would exceed the threshold.
+54.
+In addition to not having controls, Barclays did not include all relevant orders in
+its capital threshold calculation, including orders by its own market making desk and two of its
+proprietary trading desks.
+G. Barclays’ Amendments to Form ATS and Protection of Confidential Client
+Information
+55.
+Barclays instituted Overrides throughout the relevant period without amending
+its Form ATS to include information about these material changes to LX’s operation.
+56.
+Barclays employees assigned to the “Electronic Trading” and “All” user groups
+had the ability to view orders and executions the day after these orders and executions occurred
+in LX, if they knew the relevant computer language and had the ability to navigate through
+Barclays’ computer systems. As such, Barclays did not limit the access to confidential trading
+information of LX subscribers to those employees of the ATS who operated the system or were
+responsible for its compliance.
+H. Barclays’ Remedial Efforts
+57.
+In response to the findings of a December 2013 internal audit, Barclays took steps
+to limit access to confidential trading information of LX subscribers to only those employees of
+the ATS who operated the system or were responsible for its compliance.
+58.
+In further response to the findings of the internal audit and regulatory
+investigations, Barclays updated certain of its processes concerning Liquidity Profiling
+reviews. Among other changes, Liquidity Profiling reviews of subscribers that route directly to
+LX are now conducted on a monthly basis. In addition, Overrides no longer move subscribers
+from more aggressive to more passive categories; they can only move subscribers from more
+passive to more aggressive categories.
+59.
+As of October 2014, LX began utilizing a third-party vendor for the purposes of
+determining the current NBBO. This third-party vendor calculates the current NBBO based on
+direct data feeds from all protected venues under Regulation NMS.
+60.
+Barclays has taken steps to improve its Market Access Rule compliance,
+including, among other changes, by disabling use of the OMNI acronym.
+12
+
+61.
+Barclays has filed an amended Form ATS with the Commission, which provides
+updated and detailed information on the functionality of LX, including, among other information,
+the Override process.
+62.
+Barclays has engaged an independent third-party consultant (“third-party
+consultant”) to conduct a comprehensive review of its policies, procedures, practices and
+compliance related to its operation of LX, its Market Access Rule compliance, and its
+compliance with certain requirements of Regulation ATS.
+V.
+VIOLATIONS
+63.
+
+As a result of the conduct described above, Barclays willfully5 violated:
+
+a. Section 17(a)(2) of the Securities Act, which prohibits, directly or indirectly, in the
+offer or sale of securities, obtaining money or property by means of any untrue
+statement of a material fact or any omission to state a material fact necessary in
+order to make the statements made, in light of the circumstances under which they
+were made, not misleading;
+b. Section 15(c)(3) of the Exchange Act and Rules 15c3-5(b) and 15c3-5(c)(i)
+thereunder, which require the risk management controls and supervisory
+procedures of a broker or dealer with or providing market access to be reasonably
+designed to prevent the entry of orders that exceed appropriate pre-set credit or
+capital thresholds in the aggregate for each customer and the broker or dealer by
+rejecting orders if such orders would exceed the applicable credit or capital
+thresholds;
+c. Rule 301(b)(2) of Regulation ATS, which requires an ATS to file an initial
+operation report on Form ATS at least 20 days prior to commencing operation as
+an alternative trading system and to file an amendment on Form ATS at least 20
+days prior to implementing a material change to the operation of the ATS, within
+30 days after the end of a quarter when information contained in an initial
+operation report filed on Form ATS becomes inaccurate, and promptly upon
+discovering that an initial operation report filed on Form ATS or an amendment on
+Form ATS was inaccurate when filed; and
+
+5
+
+A willful violation of the securities laws means merely “that the person charged with the duty knows what he is
+doing.” Wonsover v. SEC, 205 F.3d 408, 414 (D.C. Cir. 2000) (quoting Hughes v. SEC, 174 F.2d 969, 977 (D.C. Cir.
+1949). There is no requirement that the actor “also be aware that he is violating one of the Rules or Acts.” Id.
+(quoting Gearhart & Otis, Inc. v. SEC, 348 F.2d 798, 803 (D.C. Cir. 1965).
+
+13
+
+d. Rule 301(b)(10) of Regulation ATS, which requires an ATS to establish adequate
+safeguards and procedures to protect subscribers’ confidential trading information
+and to adopt and implement adequate oversight procedures to ensure that the
+safeguards and procedures for protecting subscribers’ confidential trading
+information are followed.
+REMEDIAL EFFORTS
+64.
+In determining to accept the Offer, the Commission considered remedial acts
+promptly undertaken by Respondent and cooperation afforded the Commission staff.
+UNDERTAKINGS
+65.
+
+Respondent has undertaken to do the following:
+a) With the assistance of the aforementioned third-party consultant, conduct a review
+
+of its policies, procedures, practices and compliance related to the following and
+have the third-party consultant prepare a written report (the “Report”) that includes
+an evaluation of the following:
+i.
+
+The process by which the Respondent creates, approves, and disseminates
+(including how, to whom, and the tracking of such) marketing material,
+including written presentations and other sales materials concerning LX;
+
+ii.
+
+Respondent’s risk management controls and supervisory procedures pertaining
+to Respondent’s financial exposure that could arise as a result of its market
+access, including, but not limited to, its credit and capital thresholds and the
+prevention of both the entry of orders that would exceed such thresholds;
+
+iii.
+
+Respondent’s reporting on its Form ATS of material changes to the operation
+of LX; and
+
+iv.
+
+Respondent’s safeguards and procedures to protect ATS subscribers’
+confidential trading information, including how the ATS limits access to the
+confidential trading information of subscribers to those employees of the ATS
+who are operating the system or responsible for its compliance with applicable
+rules (and, in particular, how the ATS maintains adequate safeguards and
+procedures in regards to employees or business units of the Respondent outside
+of the ATS from accessing ATS subscribers’ confidential trading information);
+and Respondent’s oversight procedures for ensuring that the safeguards and
+procedures for protecting subscribers’ confidential trading information are
+followed.6
+
+6
+
+To the extent that the third-party consultant engages the services of any other consultant(s) to assist with its work,
+the third-party consultant shall have complete independence and discretion over the retention and work of any such
+consultant(s).
+
+14
+
+b) Require the third-party consultant within ninety (90) days of the issuance of this
+Order, unless otherwise extended by Commission staff and/or Office of the
+Attorney General of the State of New York (“NYAG”) for good cause, to provide
+Respondent, Commission staff, and NYAG with an estimate of the time needed to
+complete the review, to prepare the Report and to provide a proposed deadline for
+the Report, subject to the approval of Commission staff and/or NYAG.
+c) Require the third-party consultant to issue the Report by the approved deadline and
+to provide the Report simultaneously to Commission staff, NYAG and Respondent.
+d) Submit to Commission staff, NYAG and the third-party consultant, within thirty
+(30) days of the third-party consultant’s issuance of the Report, the date by which
+Respondent will adopt and implement any recommendations in the Report, subject
+to Items 65.d.i-iii below and subject to the approval of Commission staff and
+NYAG.
+i.
+As to any recommendation that Respondent considers to be, in whole or in
+part, unduly burdensome or impractical, Respondent may submit in writing
+to the third-party consultant, Commission staff and NYAG a proposed
+alternative reasonably designed to accomplish the same objectives, within
+sixty (60) days of receiving the Report. Respondent shall then attempt in
+good faith to reach an agreement with the third-party consultant relating to
+each disputed recommendation and request that the third-party consultant
+reasonably evaluate any alternative proposed by Respondent. If, upon
+evaluating Respondent’s proposal, the third-party consultant determines
+that the suggested alternative is reasonably designed to accomplish the
+same objectives as the recommendations in question, then the third-party
+consultant shall approve the suggested alternative and make the
+recommendations. If the third-party consultant determines that the
+suggested alternative is not reasonably designed to accomplish the same
+objectives, the third-party consultant shall reject or revise Respondent’s
+proposal. The third-party consultant shall inform Respondent of the thirdparty consultant’s final determination concerning any recommendation
+that Respondent considers to be unduly burdensome or impractical within
+twenty-one (21) days after the conclusion of the discussion and evaluation
+by Respondent and the third-party consultant.
+ii. In the event that Respondent and the third-party consultant are unable to
+agree on an alternative proposal, Respondent shall accept the third-party
+consultant’s recommendation(s).
+iii. Within thirty (30) days after final agreement is reached on any disputed
+recommendation, Respondent shall submit to the third-party consultant,
+Commission staff and NYAG the date by which Respondent will adopt and
+implement the agreed-upon recommendation, subject to the approval of
+Commission staff and NYAG.
+15
+
+e) Adopt and implement, on the timetable set forth by Respondent in accordance with
+Item 65.d, the recommendations in the Report. Respondent shall notify the thirdparty consultant, Commission staff and NYAG when the recommendations have
+been implemented.
+f) Require the third-party consultant to certify, in writing, to Respondent,
+Commission staff, and NYAG that Respondent has implemented the agreed-upon
+recommendations for which the third-party consultant was responsible. The thirdparty consultant’s certification shall be received within sixty (60) days after
+Respondent has notified the third-party consultant that the recommendations have
+been implemented.
+g) Within one hundred and eighty (180) days from the date of the applicable
+certification described in Item 65.f above, require the third-party consultant to have
+completed a review of Respondent’s policies, procedures, and practices described
+above and submit a final written report (“Final Report”) to Respondent,
+Commission staff, and NYAG. The Final Report shall describe the review made of
+Respondent’s policies, procedures, and practices and describe how Respondent is
+implementing, enforcing, and auditing the enforcement and implementation of any
+recommendations by the third-party consultant. The Final Report shall include an
+opinion of the third-party consultant on whether the revised policies, procedures,
+and practices and their implementation and enforcement by Respondent and
+Respondent’s auditing of the implementation and enforcement of those policies,
+procedures, and practices are reasonably designed to ensure compliance with the
+federal securities laws.
+h) Respondent may apply to Commission staff and/or NYAG for an extension of the
+deadlines described above before their expiration and, upon a showing of good
+cause by Respondent, Commission staff and/or NYAG may, in its sole discretion,
+grant such extensions for whatever time period it deems appropriate.
+i) Respondent shall certify, in writing, compliance with the undertakings set forth
+above. The certification shall identify the undertakings, provide written evidence
+of compliance in the form of a narrative, and be supported by exhibits sufficient to
+demonstrate compliance. The Commission staff and NYAG may make reasonable
+requests for further evidence of compliance, and Respondent agrees to provide such
+evidence. The certification and supporting material shall be submitted to (i) James
+A. Scoggins, Assistant Director, Market Abuse Unit, Division of Enforcement,
+Securities and Exchange Commission, with a copy to the Office of Chief Counsel
+of the Enforcement Division, and (ii) John D. Castiglione, Assistant Attorney
+General, Investor Protection Bureau, Office of the New York State Attorney
+General, no later than sixty (60) days from the date of the completion of the
+undertakings.
+
+16
+
+j) Respondent shall require the third-party consultant to enter into an agreement that
+provides that for the period of engagement and for a period of two years from
+completion of the engagement, the third-party consultant shall not enter into any
+employment, consultant, attorney-client, auditing or other professional relationship
+with Respondent, or any of its present or former affiliates, directors, officers,
+employees, or agents acting in their capacity. The agreement will also provide that
+the third-party consultant will require that any firm with which he/she is currently
+affiliated or of which he/she is currently a member shall not, without prior written
+consent of Commission staff and the NYAG, enter into any employment,
+consultant, attorney-client, auditing or other professional relationship with
+Respondent, or any of its present or former affiliates, directors, officers,
+employees, or agents acting in their capacity as such for the period of the
+engagement and for a period of two years after the engagement.
+k) To ensure the independence of the third-party consultant, Respondent shall not
+have the authority to terminate the third-party consultant without prior written
+approval of the NYAG and the Commission staff, and shall compensate the thirdparty consultant and persons engaged to assist the third-party consultant for
+services rendered pursuant to the Order at their reasonable and customary rates.
+VI.
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondents’ Offers.
+Accordingly, pursuant to Section 8A of the Securities Act and Sections 15(b) and 21C of
+the Exchange Act, it is hereby ORDERED that:
+A. Barclays shall cease and desist from committing or causing any violations and any future
+violations of Section 17(a)(2) of the Securities Act, Section 15(c)(3) of the Exchange Act
+and Rules 15c3-5(b) and 15c3-5(c)(i), and Rules 301(b)(2) and 301(b)(10) of Regulation
+ATS.
+B. Barclays is censured.
+C. Barclays shall, within ten (10) days of the entry of this Order, pay a civil money penalty in
+the amount of $35,000,000 to the Securities and Exchange Commission for transfer to the
+general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If
+timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. §3717.
+Payment must be made in one of the following ways: (1) Respondent may transmit
+payment electronically to the Commission, which will provide detailed ACH
+transfer/Fedwire instructions upon request; (2) Respondent may make direct payment from
+a bank account via Pay.gov through the SEC website at
+http://www.sec.gov/about/offices/ofm.htm; or (3) Respondent may pay by certified check,
+17
+
+bank cashier’s check, or United States postal money order, made payable to the Securities
+and Exchange Commission and hand-delivered or mailed to:
+Enterprise Services Center
+Accounts Receivable Branch
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+Payments by check or money order must be accompanied by a cover letter identifying Barclays as
+a Respondent in these proceedings, and the file number of these proceedings; a copy of the cover
+letter and check or money order must be sent to Joseph G. Sansone, Co-Chief, Market Abuse Unit,
+Division of Enforcement, Securities and Exchange Commission, Brookfield Place, 200 Vesey
+Street, Suite 400, New York, NY 10281, or to Robert Cohen, Co-Chief, Market Abuse Unit,
+Division of Enforcement, Securities and Exchange Commission, 100 F Street, NE, Washington,
+DC 20549.
+D. Respondent Barclays shall comply with the Undertakings enumerated above.
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+18
+
+

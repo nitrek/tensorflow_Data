@@ -1,0 +1,2869 @@
+Corrected to Conform to the Federal Register Version
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Parts 230 and 240
+[Release No. 33-10075; 34-77757; File No. S7-12-14]
+RIN 3235-AL40
+Changes to Exchange Act Registration Requirements to Implement Title V and
+Title VI of the JOBS Act
+AGENCY: Securities and Exchange Commission.
+ACTION: Final rule.
+SUMMARY: We are amending our rules in light of the statutory changes made by Title
+V and Title VI of the Jumpstart Our Business Startups Act (the “JOBS Act”) and Title
+LXXXV of the Fixing America’s Surface Transportation Act (the “FAST Act”). The
+amendments revise our rules to reflect the new, higher thresholds for registration,
+termination of registration and suspension of reporting that were set forth in the JOBS
+Act and the FAST Act. In addition, the amendments revise the definition of “held of
+record” in Rule 12g5-1 under the Securities Exchange Act of 1934 (the “Exchange Act”),
+in accordance with the JOBS Act, to exclude certain securities held by persons who
+received them pursuant to employee compensation plans and establish a non-exclusive
+safe harbor for determining whether securities are “held of record” for purposes of
+registration under Exchange Act Section 12(g).
+DATES: Effective [insert date 30 days after publication in the Federal Register].
+FOR FURTHER INFORMATION CONTACT: Steven G. Hearne, Senior Special
+Counsel, at (202) 551-3430, or Anne Krauskopf, Senior Special Counsel, at (202) 5513500, Division of Corporation Finance, Securities and Exchange Commission, 100 F
+
+Street, NE, Washington, DC 20549.
+SUPPLEMENTARY INFORMATION: We are adopting amendments to Rules 3b-4, 1
+12g-1, 2 12g-2, 3 12g-3, 4 12g-4, 5 12g5-1, 6 and 12h-3 7 under the Exchange Act 8 and
+amendments to Rule 405 9 under the Securities Act of 1933 (the “Securities Act”). 10
+TABLE OF CONTENTS
+I.
+
+INTRODUCTION
+
+II.
+
+AMENDMENTS RELATING TO EXCHANGE ACT REPORTING
+THRESHOLDS
+A.
+Application of the Increased Thresholds for Registration and Reporting
+Obligations
+B.
+Application of the Increased Threshold for Accredited Investors
+
+III.
+
+AMENDMENTS TO EXCHANGE ACT RULE 12g5-1
+A.
+Statutory Requirement and Definition of “Employee Compensation Plan”
+B.
+Definition of “Held of Record”
+C.
+Non-exclusive Safe Harbor for Determining Holders of Record
+D.
+Foreign Private Issuers
+
+IV.
+
+ECONOMIC ANALYSIS
+A.
+Baseline
+B.
+Analysis of the Rules
+
+V.
+
+PAPERWORK REDUCTION ACT
+
+1
+
+17 CFR 240.3b-4.
+
+2
+
+17 CFR 240.12g-1.
+
+3
+
+17 CFR 240.12g-2.
+
+4
+
+17 CFR 240.12g-3.
+
+5
+
+17 CFR 240.12g-4.
+
+6
+
+17 CFR 240.12g5-1.
+
+7
+
+17 CFR 240.12h-3.
+
+8
+
+15 U.S.C. 78a et seq.
+
+9
+
+17 CFR 230.405.
+
+10
+
+15 U.S.C. 77a et seq.
+
+2
+
+VI.
+
+FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
+A.
+Need for, and Objectives of, the Action
+B.
+Significant Issues Raised by Public Comment
+C.
+Small Entities Subject to the Rule Amendments
+D.
+Reporting, Recordkeeping and Other Compliance Requirements
+E.
+Agency Action to Minimize Effect on Small Entities
+
+VII.
+
+STATUTORY AUTHORITY AND TEXT OF RULE AMENDMENTS
+
+I.
+
+INTRODUCTION
+On December 17, 2014, we proposed amendments 11 to implement Title V and
+
+Title VI of the JOBS Act. 12 The JOBS Act amended Sections 12(g) 13 and 15(d) 14 of the
+Exchange Act to adjust the thresholds for registration, termination of registration and
+suspension of reporting. 15 Specifically, Section 501 of the JOBS Act 16 amended Section
+12(g)(1) of the Exchange Act 17 to require an issuer to register a class of equity securities
+(other than exempted securities) within 120 days after its fiscal year-end if, on the last
+day of its fiscal year, the issuer has total assets of more than $10 million and the class of
+equity securities is “held of record” by either (i) 2,000 persons, or (ii) 500 persons who
+are not accredited investors. Section 601 of the JOBS Act 18 further amended Exchange
+Act Section 12(g)(1) to require an issuer that is a bank or a bank holding company, as
+
+11
+
+Changes to Exchange Act Registration Requirements to Implement Title V and Title VI of the
+JOBS Act, Release No. 33-9693 (Dec. 17, 2014) [79 FR 78343 (Dec. 30, 2014)] (the “Proposing
+Release”).
+
+12
+
+Pub. L. No. 112-106, 126 Stat. 306 (Apr. 5, 2012).
+
+13
+
+15 U.S.C. 78l(g).
+
+14
+
+15 U.S.C. 78o(d).
+
+15
+
+The changes to Exchange Act Sections 12(g)(1), 12(g)(4) and 15(d)(1) were effective upon
+enactment of the JOBS Act and do not require any Commission action.
+
+16
+
+Sec. 501, 126 Stat. at 325.
+
+17
+
+15 U.S.C. 78l(g)(1).
+
+18
+
+Sec. 601, 126 Stat. at 326.
+
+3
+
+defined in Section 2 of the Bank Holding Company Act of 1956, 19 to register a class of
+equity securities (other than exempted securities) within 120 days after the last day of its
+first fiscal year ended after the effective date of the JOBS Act, on which the issuer has
+total assets of more than $10 million and the class of equity securities is “held of record”
+by 2,000 or more persons. Section 601 of the JOBS Act also amended Exchange Act
+Section 12(g)(4) 20 and Exchange Act Section 15(d)(1) 21 to enable an issuer that is a bank
+or a bank holding company to terminate the registration of a class of securities under
+Section 12(g) or suspend reporting under Section 15(d)(1) if that class is held of record
+by less than 1,200 persons. 22 For other issuers, the threshold in Section 12(g)(4) for
+termination of registration and in Section 15(d)(1) for suspension of reporting remained
+at 300. 23 In addition, Section 502 of the JOBS Act 24 amended Exchange Act Section
+12(g)(5) 25 to exclude from the definition of “held of record,” for the purposes of
+determining whether an issuer is required to register a class of equity securities, securities
+that are held by persons who received them pursuant to an “employee compensation
+plan” in transactions exempted from the registration requirements of Section 5 of the
+Securities Act. 26 Section 503 of the JOBS Act 27 directed the Commission to revise the
+definition of “held of record” pursuant to Exchange Act Section 12(g)(5) to implement
+
+19
+
+12 U.S.C. 1841.
+
+20
+
+15 U.S.C. 78l(g)(4).
+
+21
+
+15 U.S.C. 78o(d)(1).
+
+22
+
+See supra note 18.
+
+23
+
+See 15 U.S.C. 78l(g)(4) and 15 U.S.C. 78o(d)(1).
+
+24
+
+Sec. 502, 126 Stat. at 326.
+
+25
+
+15 U.S.C. 78l(g)(5).
+
+26
+
+15 U.S.C. 77e.
+
+27
+
+Sec. 503, 126 Stat. at 326.
+
+4
+
+the amendment made by Section 502 of the JOBS Act, and to create a safe harbor for
+issuers when determining whether holders received their securities pursuant to an
+“employee compensation plan” in a transaction exempted from the registration
+requirements of Section 5 of the Securities Act.
+Subsequent to our proposal, Section 85001 of the FAST Act 28 adjusted the
+Exchange Act thresholds for registration, termination of registration and suspension of
+reporting for savings and loan holding companies, as defined in Section 10 of the Home
+Owners’ Loan Act, 29 so that they would be the same as the thresholds for banks and bank
+holding companies. This change also was effective upon enactment.
+In connection with the amendments made by Title V and Title VI of the JOBS
+Act and Title LXXXV of the FAST Act, we are amending our rules to reflect the new,
+higher registration, termination of registration and suspension of reporting thresholds
+under amended Exchange Act Sections 12(g)(1), 12(g)(4) and 15(d)(1). We are also
+amending Exchange Act Rule 12g5-1 to reflect the amendment to Exchange Act Section
+12(g)(5) and to establish a non-exclusive safe harbor that issuers may follow when
+determining if securities held by persons who received them pursuant to an employee
+compensation plan in transactions exempted from the registration requirements of Section
+5 of the Securities Act may be excluded when determining whether they are required to
+register under Exchange Act Section 12(g)(1).
+The comment period for the proposed amendments closed on March 2, 2015. We
+received 11 comment letters on the Proposing Release, which generally supported the
+
+28
+
+Pub. L. No. 114-94 (Dec. 4, 2015).
+
+29
+
+12 U.S.C. 1461.
+
+5
+
+proposals. 30 We have reviewed and considered all of these comments. We are adopting
+the amendments substantially as proposed, and discuss these amendments and any
+modifications or clarifications in detail below.
+II.
+
+AMENDMENTS RELATING TO EXCHANGE ACT REPORTING
+THRESHOLDS
+A.
+
+Application of the Increased Thresholds for Registration and
+Reporting Obligations
+
+Sections 501 and 601 of the JOBS Act amended the Exchange Act to raise the
+total assets and held of record thresholds under which issuers are required to register or
+permitted to terminate registration or suspend reporting pursuant to Section 12(g) and
+15(d) of the Exchange Act. Section 85001 of the FAST Act further amended these
+provisions to apply the new statutory thresholds for banks and bank holding companies to
+savings and loan holding companies.
+1.
+
+Proposed Rule Amendments
+
+To harmonize our rules with the statutory changes made to Exchange Act
+Sections 12(g)(1), 12(g)(4) and 15(d), we proposed amendments to Exchange Act Rules
+12g-1, 12g-2, 12g-3, 12g-4 and 12h-3, the rules that govern the mechanics relating to
+registration, termination of registration under Section 12(g) and suspension of reporting
+obligations under Section 15(d). These rules generally reflected the holder of record
+statutory thresholds in Sections 12(g) and 15(d) prior to the enactment of the JOBS Act. 31
+
+30
+
+We also considered pre-proposal comment letters when formulating the proposed amendments.
+Pre-proposal comment letters received on Title V of the JOBS Act are available at
+http://www.sec.gov/comments/jobs-title-v/jobs-title-v.shtml and on Title VI of the JOBS Act at
+http://www.sec.gov/comments/jobs-title-vi/jobs-title-vi.shtml.
+
+31
+
+Prior to adoption of the JOBS Act, the Commission used its general exemptive authority to
+provide for a $10 million asset threshold by rule. JOBS Act Section 501 amended Exchange Act
+Section 12(g)(1) to raise the statutory threshold from $1 million to $10 million to match the
+threshold previously provided in Exchange Act Rule 12g-1.
+
+6
+
+We proposed to revise Rule 12g-1 to reflect the asset and holder of record
+thresholds established by Titles V and VI of the JOBS Act relating to the requirement to
+register a class of equity securities under the Exchange Act. 32 Similarly, we proposed to
+revise Exchange Act Rules 12g-2 33 and 12g-3 34 to reflect the holders of record thresholds
+in the Exchange Act, as amended by the JOBS Act, for terminating registration and
+suspending reporting for banks and bank holding companies. In addition, we proposed to
+amend Exchange Act Rules 12g-4 and 12h-3, the rules which permit issuers to
+immediately suspend their duty to file periodic and current reports, to reflect the new
+thresholds in Sections 12(g) and 15(d) enacted by the JOBS Act for banks and bank
+holding companies.
+In light of the fact that savings and loan holding companies provide similar
+services to banks and bank holding companies and are generally subject to similar bank
+regulatory and supervision requirements, we also proposed to use our general exemptive
+authority to apply the same registration thresholds applicable to banks and bank holding
+companies to savings and loan holding companies and to revise our rules accordingly.
+As noted above, subsequent to this proposal, the FAST Act amended the Exchange Act to
+
+32
+
+We also proposed to remove the reference to an automated inter-dealer quotation system since the
+NASDAQ Stock Market is now registered as a securities exchange with the Commission. See In
+the Matter of the Application of the Nasdaq Stock Market LLC for Registration as a National
+Securities Exchange; Findings, Opinion and Order of the Commission, Release No. 34-53128
+(Jan. 13, 2006) [71 FR 3550 (Jan. 23, 2006)].
+
+33
+
+Rule 12g-2 addresses securities deemed to be registered pursuant to Section 12(g)(1) upon
+termination of certain exemptions.
+
+34
+
+Rule 12g-3 addresses the threshold for the registration of securities of successor issuers under
+Section 12(b) or Section 12(g).
+
+7
+
+apply the new statutory thresholds for banks and bank holding companies to savings and
+loan holding companies. 35
+Because the new statutory threshold for banks, savings and loan holding
+companies and bank holding companies is not reflected in our existing rules, such
+institutions seeking to rely on the new 1,200 holder of record threshold to terminate
+registration and suspend reporting are not able to rely on the existing procedural
+accommodations in our rules to do so immediately. Without the proposed amendments, a
+bank, savings and loan holding company or bank holding company is required to wait 90
+days after filing a certification with the Commission that the number of its holders of
+record is less than 1,200 persons to terminate its Section 12(g) registration and cease
+filing reports required by Exchange Act Section 13(a), 36 rather than being able to suspend
+its Section 13(a) reporting obligations immediately upon the filing of a Form 15 37 in
+reliance on the rule. Similarly, without the proposed amendments, banks, savings and
+loan holding companies or bank holding companies may not rely on Rule 12h-3 to
+immediately suspend their Section 15(d) reporting obligations using the new higher
+statutory threshold during a fiscal year. Rather, Section 15(d)(1) provides for suspending
+a Section 15(d) obligation only at the beginning of a fiscal year.
+2.
+
+Comments on Proposed Rule Amendments
+
+35
+
+Because of the FAST Act amendment to the Exchange Act, the Commission no longer needs to
+adopt changes relating to those thresholds using its general exemptive authority.
+
+36
+
+15 U.S.C. 78m(a).
+
+37
+
+17 CFR 249.323.
+
+8
+
+We received comments on the proposed amendments from two commenters. 38
+These commenters supported the amendments as proposed. One commenter further
+agreed with our determination not to propose amendments to our rules relating to
+Exchange Act registration that extend substantially beyond the changes contemplated by
+the JOBS Act. 39 Several commenters also expressed support for our proposal to treat
+savings and loan holding companies similar to banks and bank holding companies for
+purposes of Exchange Act registration. 40
+3.
+
+Final Rule Amendments
+
+After considering the comments, we are adopting the proposed amendments to
+Exchange Act Rules 12g-1, 12g-2, 12g-3, 12g-4 and 12h-3 to reflect the statutory
+changes made by the JOBS Act and the FAST Act. As amended, Rule 12g-1 provides
+that an issuer is not required to register a class of equity securities pursuant to Section
+12(g)(1) if on the last day of its most recent fiscal year:
+•
+
+the issuer had total assets not exceeding $10 million; or
+
+•
+
+the class of equity securities was held of record by fewer than 2,000 persons or
+500 persons who are not accredited investors (as such term is defined in Securities
+Act Rule 501(a)), 41 determined as of such day rather than at the time of the sale of
+the securities; or
+
+38
+
+See letters from American Bankers Association (Feb. 27, 2015) (“American Bankers”) and
+American Bar Association (Apr. 10, 2015) (“ABA”).
+
+39
+
+See letter from ABA.
+
+40
+
+See letters from American Bankers, ABA and Independent Community Bankers Association (Feb.
+27, 2015) (“ICBA”).
+
+41
+
+17 CFR 230.501(a).
+
+9
+
+•
+
+in the case of a bank; a savings and loan holding company, as such term is defined
+in section 10 of the Home Owners’ Loan Act; or a bank holding company, as such
+term is defined in Section 2 of the Bank Holding Company Act of 1956, the class
+of equity securities was held of record by fewer than 2,000 persons. 42
+As revised, Rule 12g-2, which addresses securities deemed to be registered
+
+pursuant to Section 12(g)(1) upon termination of the exemption pursuant to Section
+12(g)(2)(A) or (B) 43 and establishes a 300-person threshold for such a class of securities
+to be registered under Section 12(g), provides a 1,200-person registration threshold for a
+bank, a savings and loan holding company, as such term is defined in section 10 of the
+Home Owners’ Loan Act, or bank holding company, as defined in Section 2 of the Bank
+Holding Company Act of 1956.
+Revised Rule 12g-3, which addresses the 300-person threshold for the registration
+of securities of successor issuers under Section 12(b) or Section 12(g), similarly provides
+a 1,200-person registration threshold for a bank, a savings and loan holding company, as
+such term is defined in Section 10 of the Home Owners’ Loan Act, or bank holding
+company, as defined in Section 2 of the Bank Holding Company Act of 1956.
+
+42
+
+As observed by one commenter, Section 501 of the JOBS Act amended Section 12(g)(1) of the
+Exchange Act to require an issuer to register a class of equity securities (other than exempted
+securities) if, on the last day of its fiscal year, the issuer has total assets of more than $10 million
+and the class of equity securities is “held of record by either 2,000 persons, or 500 persons who
+are not accredited investors.” See letter from Keith P. Bishop (Mar. 1, 2016). We read this
+language to provide that an issuer is not required to register under Section 12(g) if the issuer has
+fewer than 2,000 persons, or 500 persons who are not accredited investors that hold of record. An
+issuer with more than 2,000 persons, or 500 persons who are not accredited investors, that hold of
+record has necessarily met the threshold and would be required to register pursuant to Section
+12(g)(1)(A).
+
+43
+
+Section 12(g)(2)(A) [15 U.S.C. 78l(g)(2)(A)] provides an exemption from Section 12(g)
+registration while the class of securities is listed and registered on a national securities exchange
+under Exchange Act Section 12(b) [15 U.S.C. 78l(b)]. Section 12(g)(2)(B) [15 U.S.C.
+78l(g)(2)(B)] provides an exemption for securities issued by registered investment companies.
+
+10
+
+Revised Rule 12g-4(a) provides that termination of registration under Section
+12(g) shall take effect in 90 days, or such shorter period as the Commission determines,
+after the issuer certifies on Form 15 that the class of securities is held of record by fewer
+than 300 persons, 1,200 persons in the case of a bank, a savings and loan holding
+company, as such term is defined in section 10 of the Home Owners’ Loan Act, or a bank
+holding company, as defined in Section 2 of the Bank Holding Company Act of 1956, or
+500 persons where the total assets of the issuer have not exceeded $10 million on the last
+day of each of the preceding three years. As a result of the changes to Rule 12g-4(a),
+banks, savings and loan holding companies and bank holding companies will be able to
+terminate registration of a class of securities and suspend immediately their duty to file
+current and periodic reports upon filing a certification on Form 15 at the 1,200 person
+threshold.
+Finally, revised Rule 12h-3 provides that the duty to file current and periodic
+reports under Section 13(a) pursuant to Section 15(d) for that class of securities is
+suspended immediately upon the filing of a certification on Form 15, provided that the
+issuer has fewer than 300 holders of record, 500 holders of record where the issuer’s total
+assets have not exceeded $10 million on the last day of each of the preceding three years,
+or in the case of a bank, a savings and loan holding company, as such term is defined in
+Section 10 of the Home Owners’ Loan Act, or bank holding company, as defined in
+Section 2 of the Bank Holding Company Act of 1956, 1,200 holders of record; the issuer
+has filed its Section 13(a) reports for the most recent three completed fiscal years, and for
+the portion of the year immediately preceding the date of filing the Form 15 or the period
+since the issuer became subject to the reporting obligation; and a registration statement
+
+11
+
+has not become effective or was required to be updated pursuant to Exchange Act Section
+10(a)(3) 44 during the fiscal year. 45
+B.
+
+Application of the Increased Threshold for Accredited Investors
+
+Section 501 of the JOBS Act amended Exchange Act Section 12(g)(1) to increase
+the threshold that triggers registration by an issuer other than a bank or bank holding
+company to total assets exceeding $10 million and a class of equity securities (other than
+an exempted security) held of record by either 2,000 persons or 500 persons who are not
+accredited investors (as such term is defined by the Commission). 46 To rely on the new,
+higher threshold established by the JOBS Act, an issuer will need to be able to determine
+which of its record holders are accredited investors. A number of pre-proposal
+commenters pointed to potential compliance concerns with respect to identifying
+accredited investors and recommended ways to facilitate issuers’ use of the increased
+threshold for holders of record that are accredited investors. 47
+1.
+
+Proposed Rule Amendment
+
+We proposed to amend Rule 12g-1 to make clear that the definition of “accredited
+investor” in Securities Act Rule 501(a) applies in making determinations under Exchange
+Act Section 12(g)(1) and that the “accredited investor” determination must be made as of
+
+44
+
+15 U.S.C. 78j(a)(3).
+
+45
+
+The automatic statutory suspension of an issuer’s Section 15(d) reporting obligation also is not
+available as to any fiscal year in which the issuer’s Securities Act registration statement becomes
+effective or is required to be updated pursuant to Section 10(a)(3) of the Securities Act.
+
+46
+
+The statutory amendment was effective upon enactment of the JOBS Act and does not require any
+Commission action. While this change primarily affects issuers that have never had a reporting
+obligation under the Exchange Act, issuers that have terminated registration will need to monitor
+the accredited investor status of their holders of record as of the last day of each fiscal year.
+
+47
+
+See, e.g., letters from New York City Bar Association (June 6, 2012) (“NYCBA”), the Business
+Law Section of the American Bar Association (June 26, 2013) (“ABA Pre-Proposal”) and Foley &
+Lardner (May 24, 2012) (“Foley”).
+
+12
+
+the last day of the fiscal year rather than at the time of the sale of the securities. 48 In
+proposing to use the Rule 501(a) definition, we stated our belief that applying the familiar
+concepts of the accredited investor definition in Rule 501(a) to the registration threshold
+in Section 12(g)(1) would facilitate compliance for issuers. 49 We also noted our concern
+that reliance on information previously provided by security holders in connection with
+the purchase or transfer of securities for an indefinite period into the future could result in
+the use of outdated information that may no longer be reliable. 50
+2.
+
+Comments on Proposed Rule Amendment
+
+We received comments on the proposed approach from five commenters. 51 Four
+commenters supported the use of the Securities Act Rule 501(a) definition. 52 Two of
+these commenters requested that the Commission provide guidance on how to establish a
+reasonable belief of accredited investor status. 53 A number of commenters supported
+establishing a safe harbor for the accredited investor determination that permits an issuer
+to rely on previously obtained information relating to accredited investor status. 54 These
+
+48
+
+Securities Act Rule 501(a) otherwise defines “accredited investor” as being determined at the time
+of the sale of the securities.
+
+49
+
+See Proposing Release at Section II.C.
+
+50
+
+Id.
+
+51
+
+See letters from ABA, Alternative & Direct Investment Securities Association (Mar. 2, 2015)
+(“ADISA”), Investment Program Association (Mar. 2, 2015) (“IPA”), Securities Arbitration
+Clinic, Cardozo Law School (Mar. 2, 2015) (“Cardozo”) and Managed Funds Association (Mar. 2,
+2015) (“MFA”).
+
+52
+
+See letters from ABA, ADISA, Cardozo and MFA.
+
+53
+
+See letters from ABA and ADISA. ABA recommended that the Commission provide guidance by
+rule or in the text of the release.
+
+54
+
+See letters from ADISA, Milken Institute Center for Financial Markets (Mar. 2, 2015) (“CFM”),
+Cleary, Gottlieb, Steen & Hamilton LLP (Feb. 27, 2015) (“Cleary”) and IPA. CFM suggested that
+a safe harbor would create certainty and predictability for issuers and investors. IPA
+recommended a safe harbor as an alternative to determination at time of the last sale and proposed
+that securities sold prior to the effective date of any rule should not be subject to reaffirmation of
+accredited investor status.
+
+13
+
+commenters recommended various safe harbors that permit issuers to rely on:
+information obtained at the time securities were initially or most recently sold to that
+person; 55 an annual self-certification or affirmation; 56 and determinations made by certain
+third parties. 57 Another commenter provided a more limited recommendation that the
+Commission permit reliance on accredited investor status determinations made in
+offerings during the three months prior to fiscal year-end or on self-certification by
+investors if the offering occurred more than three months but less than twelve months
+prior to fiscal year-end. 58
+One commenter opposed a formal safe harbor out of concern it would become a
+de facto minimum standard and recommended instead that the Commission provide
+additional guidance. 59 Specifically, this commenter recommended that:
+•
+
+an issuer should be able to rely on information previously provided by investors
+as indicative of their current accredited investor status, when there is a reasonable
+basis for doing so;
+
+•
+
+an annual confirmation should only be necessary if there was reason to believe
+that an investor’s status had changed;
+
+•
+
+an issuer should be able to rely on certification from certain third parties; and
+
+55
+
+See letters from ADISA and CFM.
+
+56
+
+See letters from ADISA and IPA. CFM further recommended allowing an issuer to assume that
+an investor’s status has not changed and to query investors “as needed” via a written
+communication.
+
+57
+
+See letters from ADISA, Cleary and IPA. These commenters recommended permitting reliance
+on information from registered broker-dealers, registered investment advisers, licensed attorneys,
+or certified public accountants.
+
+58
+
+See letter from Cleary.
+
+59
+
+See letter from ABA.
+
+14
+
+•
+
+an issuer should not be subject to enforcement if the basis was reasonable at the
+time the conclusion was reached. 60
+One commenter recommended that the Commission issue a separate rule or safe
+
+harbor with respect to private investment funds. 61 The commenter noted that private
+investment funds that rely on the exemption in Investment Company Act Section
+3(c)(7) 62 (“3(c)(7) Funds”) may have an unlimited number of investors that are “qualified
+purchasers,” a significantly higher standard than “accredited investors.” The commenter
+recommended a rule that permits 3(c)(7) Funds to continue to rely on their initial
+determination of a record holder’s qualified purchaser and accredited investor status on a
+going forward basis without requiring additional annual diligence. In the alternative, the
+commenter recommended that the Commission provide a non-exclusive safe harbor that
+permits 3(c)(7) Funds to send an annual negative consent letter to record holders asking
+them to inform the issuer if their accredited investor status has changed and permits
+treatment of a non-response as confirmation of status.
+Two commenters expressed concern about the timing of the determination and
+opposed requiring determination as of the last day of the fiscal year. 63 One of these
+
+60
+
+See letter from ABA. See also letter from IPA advocating against annual recertification, which
+noted that any future adjustments to the definition of accredited investor could affect an issuer’s
+number of accredited investors. This could cause issuers to be required to register despite an
+issuer’s efforts to sell only to an appropriately limited number of accredited and non-accredited
+investors at the time of the offer and sale. ABA recommended a presumption that a person
+continues to be an accredited investor under the revised definition to address concerns relating to
+future adjustments to the definition of accredited investor.
+
+61
+
+See letter from MFA.
+
+62
+
+15 U.S.C. 80a-3(c)(7).
+
+63
+
+See letters from ADISA and IPA. ADISA recommended permitting issuers to rely on information
+available at the time they made a judgment, rather than requiring issuers to update information as
+of the end of the fiscal year. IPA recommended that accredited investor status be determined at
+the time of last sale, not annually, and expressed concern regarding the administrative and
+reporting costs of determinations required as of the last day of the fiscal year.
+
+15
+
+commenters claimed that annual reconfirmation will be costly, will provide little investor
+protection and may cause issuers to sell to fewer investors. 64 This commenter
+recommended only requiring yearly recertification if there is a ready market for the
+securities and the securities are freely tradable. 65
+3.
+
+Final Rule Amendment
+
+After considering the comments, we are adopting an amendment to Rule 12g-1 as
+proposed, providing that the term “accredited investor” for purposes of Section 12(g)(1)
+is as defined in Securities Act Rule 501(a). 66 Consistent with the proposal, the
+“accredited investor” determination for these purposes must be made as of the last day of
+the issuer’s most recent fiscal year rather than at the time of the sale of the securities.
+Commenters supported use of the Securities Act Rule 501(a) definition. 67 Rule 501(a)
+provides that an accredited investor is any person who comes within one or more of the
+categories of investors specified therein, or whom the issuer reasonably believes comes
+within any such category. Whether the issuer has a reasonable belief depends on the
+particular facts and circumstances surrounding the determination. Under amended Rule
+12g-1, an issuer will need to determine, based on facts and circumstances, whether prior
+
+64
+
+See letter from IPA. IPA cited an estimate of ongoing reporting costs under the Exchange Act of
+$650,000 annually. This commenter additionally noted that becoming an Exchange Act reporting
+company may be contrary to an issuer’s business plan and against investors’ economic interests.
+
+65
+
+See letter from IPA. IPA suggested that most affected investors will not hold freely tradable
+securities, muting the benefits of public company reporting for those investors.
+
+66
+
+Consideration of the use of the “accredited investor” definition in this context is distinct from
+other efforts to consider the definition. In December 2015, the staff issued a report addressing the
+“accredited investor” definition and providing certain recommendations for our consideration. See
+Report on the Review of the Definition of Accredited Investor (Dec. 18, 2015), available at
+https://www.sec.gov/corpfin/reportspubs/special-studies/review-definition-of-accredited-investor12-18-2015.pdf.
+
+67
+
+See letters from ABA, ADISA, Cardozo and MFA.
+
+16
+
+information provides a basis for a reasonable belief that the security holder continues to
+be an accredited investor as of the last day of the fiscal year. 68
+Although some commenters requested that the Commission provide guidance on
+making the accredited investor determination in the Section 12(g) context or establish a
+safe harbor relating to the determination, 69 we have decided against doing so. Our rules
+do not currently provide a safe harbor for the reasonable belief determination made under
+Rule 501(a) for exempt offerings and we do not believe that the determinations required
+for Section 12(g) present a more compelling case for having such a safe harbor.
+Additionally, as one commenter noted, a safe harbor could become a de facto minimum
+standard. 70 We believe that requiring issuers to consider their particular facts and
+circumstances in establishing a reasonable basis for their determination provides issuers
+with appropriate flexibility for making the determination. 71
+As adopted, the accredited investor determination under Rule 12g-1 must be made
+as of the last day of the issuer’s most recent fiscal year rather than at the time of the sale
+of the securities. Several commenters recommended that the Commission adopt rules
+providing that the determination need not be made at year-end. 72 We believe that a fiscal
+
+68
+
+If after the issuer has made its determination as of the end of the fiscal year, it is subsequently
+determined that an investor did not, in fact, come within one of the accredited investor categories,
+the issuer may rely on that determination for that fiscal year if it had a reasonable belief at the time
+the determination was made.
+
+69
+
+See letters from ABA, ADISA, CFM, Cleary and MFA.
+
+70
+
+See letter from ABA.
+
+71
+
+One commenter requested that the Commission establish a separate safe harbor or rule with
+respect to private investment funds. See letter from MFA. We are declining to provide specific
+relief to private investment funds for reasons similar to those discussed for issuers generally. We
+believe that a standard where issuers, including private investment funds, consider their particular
+facts and circumstances in establishing a reasonable basis for believing that a security holder is an
+accredited investor is the most appropriate standard to apply at this time.
+
+72
+
+See letters from ADISA and IPA.
+
+17
+
+year-end determination date is appropriate because the Section 12(g)(1) requirement to
+register is triggered if the issuer meets the specified asset and held of record thresholds at
+the end of its fiscal year.
+Other commenters recommended permitting an issuer to rely on previously
+obtained information relating to accredited investor status. 73 We continue to be
+concerned that permitting issuers to rely solely on previously obtained information,
+which in some cases could be years or decades old, could result in the use of outdated and
+unreliable information when making the determination. One commenter suggested that
+we permit issuers to rely on accredited investor determinations made in offerings during
+the three months prior to fiscal year-end or on self-certification by investors if the
+offering occurred more than three months but less than twelve months prior to fiscal yearend. 74 While such information could provide a reasonable basis for making a
+determination about accredited investor status as of the end of the fiscal year, for the
+reasons set forth above, we believe that issuers should consider their particular facts and
+circumstances before reaching such a conclusion and that the “reasonable belief”
+standard under Rule 501(a) provides issuers with a familiar context and appropriate
+flexibility in making such a determination.
+III.
+
+AMENDMENTS TO EXCHANGE ACT RULE 12g5-1
+A.
+
+Statutory Requirement and Definition of “Employee Compensation
+Plan”
+
+Exchange Act Section 12(g)(5), as amended by Section 502 of the JOBS Act,
+provides that the definition of “held of record” shall not include securities held by
+
+73
+
+See letters from ABA, CFM, Cleary and MFA.
+
+74
+
+See letter from Cleary.
+
+18
+
+persons who received them pursuant to an “employee compensation plan” in transactions
+exempted from the registration requirements of Section 5 of the Securities Act. By its
+express terms, this new statutory exclusion applies solely for purposes of determining
+whether an issuer is required to register a class of equity securities under the Exchange
+Act and does not apply to a determination of whether such registration may be terminated
+or suspended. 75 The provision, which is substantially broader than the Commission’s
+existing rules exempting compensatory employee stock options from Section 12(g)
+registration, 76 does not define the term “employee compensation plan.”
+Section 503 of the JOBS Act instructs the Commission to amend the definition of
+“held of record” to implement the amendment in Section 502 and to adopt a safe harbor
+that issuers can use when determining whether holders of their securities received them
+pursuant to an employee compensation plan in transactions exempted from the
+registration requirements of Section 5 of the Securities Act.
+1.
+
+Proposed Rule Amendment
+
+We did not propose to define the term “employee compensation plan.” Instead,
+we proposed to revise the definition of “held of record” and to additionally establish a
+non-exclusive safe harbor that relies on the current definition of “compensatory benefit
+plan” in Rule 701 and the conditions in Rule 701(c).
+
+75
+
+The statutory exclusion in Section 12(g)(5) specifically refers to Exchange Act Section 12(g)(1),
+which relates to when an issuer must register its securities with the Commission.
+
+76
+
+Exchange Act Rule 12h-1(f) [17 CFR 240.12h-1(f)] provides non-reporting issuers with an
+exemption from Section 12(g) registration for stock options issued under written compensatory
+stock option plans under certain conditions. Exchange Act Rule 12h-1(g) [17 CFR 240.12h-1(g)]
+provides reporting issuers a similar exemption for such stock options. The exemptions provide
+specific eligibility requirements and are limited to options issued pursuant to a written
+compensatory stock option plan. See Exemption of Compensatory Stock Options from
+Registration Under Section 12(g) of the Securities Exchange Act of 1934, Release No. 34-56887
+(Dec. 3, 2007) [72 FR 69554 (Dec. 7, 2007)].
+
+19
+
+2.
+
+Comments on Proposed Rule Amendment
+
+We received comments from two commenters generally supportive of the
+proposed amendment. 77 One of those commenters specifically supported our
+determination not to create a new definition of the term “employee compensation plan.” 78
+This commenter suggested that application in a Section 12(g) context of the familiar
+concepts applied by an issuer in connection with its exempt issuances of compensatory
+equity securities under Securities Act Rule 701 would facilitate compliance by
+streamlining the issuer’s learning curve and simplifying recordkeeping.
+3.
+
+Final Rule Amendment
+
+After considering the comments, we are adopting an amendment to Rule 12g5-1
+to revise the definition of “held of record,” and establish a non-exclusive safe harbor. By
+not defining the term “employee compensation plan,” and providing for a non-exclusive
+safe harbor, we believe issuers will have appropriate flexibility to make a principlesbased determination about securities received as employee compensation when
+determining their holders of record under Section 12(g)(5), as well as the added certainty
+of a safe harbor. We further believe that developing a new definition for “employee
+compensation plan” could result in needless complexity and create potential conflicts
+with the current definitions of “compensatory benefit plan” and “employee benefit
+plan.” 79 Finally, we note that by conditioning the new exclusion from “held of record”
+upon the securities being received pursuant to an employee compensation plan in
+77
+
+See letters from ABA and ADISA.
+
+78
+
+See letter from ABA.
+
+79
+
+See Rule 701 – Exempt Offerings Pursuant to Compensatory Arrangements, Release No. 33-7645
+(Feb. 25, 1999) [64 FR 11095 (Mar. 8, 1999)] (the “1999 Rule 701 Release”), and Registration of
+Securities on Form S-8, Release No. 33-7646 (Feb. 25, 1999) [64 FR 11103 (Mar. 8, 1999)] (the
+“1999 Form S-8 Release”).
+
+20
+
+transactions exempted from the registration requirements of Section 5 of the Securities
+Act, Section 502 of the JOBS Act uses Securities Act concepts to identify persons that an
+issuer may exclude from its determination of the number of holders of record under
+Section 12(g)(1) of the Exchange Act. Because this provision of the JOBS Act includes
+concepts from both the Securities Act and Exchange Act, 80 we believe that it will
+facilitate compliance if the terminology used in the new safe harbor in Exchange Act
+Rule 12g5-1(a)(8)(ii) is consistent with the terminology used in our Securities Act rules.
+B.
+
+Definition of “Held of Record”
+
+Section 503 of the JOBS Act directed the Commission to revise the definition of
+“held of record” pursuant to Section 12(g)(5) to provide that securities held by persons
+who received them pursuant to an employee compensation plan in transactions exempted
+from the registration requirements of Section 5 of the Securities Act may be excluded
+when calculating the number of holders of record of a class of equity securities for
+purposes of determining the issuer’s registration obligation under Section 12(g)(1). We
+received pre-proposal comments addressing issues about the scope of the definition. One
+commenter recommended that securities issued in a subsequent transaction (including a
+business combination) that is exempt from, or otherwise is not subject to, the registration
+requirements of Section 5 to eligible employees, former employees and other covered
+persons in exchange for securities covered by the Section 12(g)(5) compensatory plan
+securities carve-out also should be excluded. 81 The same commenter further
+80
+
+This provision of the JOBS Act relies on concepts from both the Securities Act and the Exchange
+Act by establishing that certain securities received pursuant to an employee compensation plan in
+transactions exempted from the registration requirements of Section 5 of the Securities Act may be
+excluded when determining whether an issuer is required to register under Section 12(g) of the
+Exchange Act.
+
+81
+
+See letter from ABA Pre-Proposal.
+
+21
+
+recommended that securities issued in unregistered transactions based on the “no sale”
+theory 82 should be included within the definition of “transactions exempt from Section
+5.”
+1.
+
+Proposed Rule Amendment
+
+We proposed to amend the definition of “held of record” to provide that when
+determining whether an issuer is required to register a class of equity securities with the
+Commission pursuant to Exchange Act Section 12(g)(1) an issuer may exclude securities
+that are either:
+•
+
+held by persons who received the securities pursuant to an employee
+compensation plan in transactions exempt from the registration requirements of
+Section 5 of the Securities Act;
+
+•
+
+held by persons who received the securities pursuant to an employee
+compensation plan in transactions that did not involve a sale within the meaning
+of Section 2(a)(3) of the Securities Act; or
+
+•
+
+held by persons eligible to receive securities from the issuer pursuant to Securities
+Act Rule 701(c) who received the securities in a transaction exempt from the
+registration requirements of Section 5 of the Securities Act in exchange for
+securities excludable under proposed Rule 12g5-1(a)(7).
+
+82
+
+The “no sale” theory relates to the issuance of compensatory grants made by employers to broad
+groups of employees pursuant to broad-based stock bonus plans without Securities Act registration
+under the theory that the awards are not an offer or sale of securities under Section 2(a)(3) of the
+Securities Act [15 U.S.C. 77b(a)(3)]. See Employee Benefit Plans; Interpretations of Statute,
+Release No. 33-6188 (Feb. 1, 1980) [45 FR 8960 (Feb. 11, 1980)] at Section II.A.5.d; Employee
+Benefit Plans, Release No. 33-6281 (Jan. 15, 1981) [46 FR 8446 (Jan. 27, 1981)] at Section III.
+Many issuers rely on the “no sale” theory when making such awards to employees where no
+consideration – and hence no “value” – is received by the issuer in return. The staff has not
+objected to these issuances in a series of no-action letters. See, e.g., no-action letter to Verint
+Systems Inc. (May 24, 2007).
+
+22
+
+Section 502 of the JOBS Act refers specifically to “transactions exempted” from
+the Securities Act Section 5 registration requirements. A number of issuers, however,
+issue securities to employees without Securities Act registration on the basis that the
+issuance is not a sale under Section 2(a)(3) of the Securities Act and therefore does not
+trigger the registration requirement of Securities Act Section 5, which applies only to the
+offer and sale of securities. 83 While securities issued to employees in transactions that do
+not involve a sale under Section 2(a)(3) are not technically “transactions exempted from
+the registration requirements of section 5,” they are similar to other compensatory
+issuances to employees in exempt transactions in that the issuer provides the awards to
+employees for a compensatory purpose. We therefore proposed to exclude such “no sale”
+issuances from the definition of “held of record” in Rule 12g5-1 for purposes of
+determining an issuer’s obligation to register a class of securities under the Exchange
+Act.
+Additionally, we proposed to permit an issuer to exclude securities of holders who
+are persons eligible to receive securities from the issuer pursuant to Rule 701(c) and who
+acquired the securities in exchange for securities excludable under the proposed
+definition. The proposed exclusion was intended to facilitate the ability of an issuer to
+conduct restructurings, business combinations and similar transactions that are exempt
+from Securities Act registration so that if the securities being surrendered in such a
+transaction would not have been counted under the proposed definition of “held of
+record,” the securities issued in the exchange also would not be counted under this
+
+83
+
+See id.
+
+23
+
+definition. 84 The securities issued in the exchange would be deemed to have a
+compensatory purpose because they would replace other securities previously issued
+pursuant to an employee compensation plan. We believed such an approach would be
+consistent with the intent of Section 502 of the JOBS Act and would provide issuers with
+appropriate flexibility to conduct certain business combinations and similar transactions.
+2.
+
+Comments on Proposed Rule Amendment
+
+We received comments on the proposed amendment from two commenters, both
+generally supporting the amendment. 85 One commenter supported the proposed
+amendment to the definition of “held of record” to implement JOBS Act Section 503, but
+recommended that the Commission clarify and extend the scope of the proposed
+exclusion for securities received in exchange for excludable securities. 86 The commenter
+recommended that the Commission revise the exclusion for employee compensation plan
+securities acquired through a business combination to encompass securities that are
+“exempt from, or not subject to, the registration requirements of Section 5 of the
+Securities Act.” The commenter noted that the proposed language, if construed literally,
+may not apply to exempt securities under Section 3 of the Securities Act, such as
+securities issued under Section 3(a)(9) (in connection with exchange offers), Regulation
+A or Rule 504 or 505 of Regulation D, because those exemptions are securities-based
+rather than transaction-based. Finally, the commenter noted that business combinations
+do not always involve an exchange and suggested additional clarification that the rule
+84
+
+As proposed and consistent with Rule 701(c), securities held of record by former employees
+would be excluded when determining the securities held of record only if the employees were
+employed by or providing services to the surviving issuer at the time the exchange securities were
+offered.
+
+85
+
+See letters from ABA and ADISA.
+
+86
+
+See letter from ABA.
+
+24
+
+would apply to securities received “in exchange for, in substitution for or upon
+conversion or exercise of” the original securities.
+This commenter additionally recommended that the Commission expand the
+exclusion for securities issued in business combinations and similar transactions that
+replace securities previously issued pursuant to an employee compensation plan to
+include former employees, directors, general partners, trustees, officers, or consultants
+and advisors who were employed by, or providing services to, a predecessor of the issuer
+or a company acquired in a business combination. The commenter expressed concern
+that denying the exclusion to former employees could inhibit issuers from entering into
+business combination transactions.
+3.
+
+Final Rule Amendment
+
+After considering the comments, we are adopting Exchange Act Rule 12g51(a)(8)(i) with the clarifications and changes detailed below. 87 We are amending the
+definition of “held of record” to provide that when determining whether an issuer is
+required to register a class of equity securities with the Commission pursuant to
+Exchange Act Section 12(g)(1) an issuer may exclude securities that are:
+•
+
+held by persons who received the securities pursuant to an employee
+compensation plan in transactions exempt from, or not subject to, the registration
+requirements of Section 5 of the Securities Act; or
+
+87
+
+As part of the amendments to Regulation A, we adopted a new Exchange Act Rule 12g5-1(a)(7)
+providing a conditional exemption to the definition of “held of record” for securities issued in Tier
+2 Regulation A offerings. Amendments to Regulation A, Rel. No. 33-9741 (Mar. 25, 2015) [80
+FR 21805 (Apr. 20, 2015)]. We proposed to use Rule 12g5-1(a)(7) for the exemption and safe
+harbor under the definition of “held of record” for certain employee compensation plan securities
+in the Proposing Release. Because Rule 12g5-1(a)(7) has been adopted in relation to Regulation
+A, we are adopting the proposed exemption and safe harbor as Exchange Act Rule 12g5-1(a)(8).
+
+25
+
+•
+
+held by persons who received the securities in a transaction exempt from, or not
+subject to, the registration requirements of Section 5 of the Securities Act from
+this issuer, a predecessor of the issuer or an acquired company in substitution or
+exchange for excludable securities under Exchange Act Rule 12g5-1(a)(8)(i)(A),
+as long as the persons were eligible to receive securities pursuant to Rule 701(c)
+at the time the excludable securities were originally issued to them.
+Consistent with one commenter’s suggestion, 88 we are revising the language in
+
+new Exchange Act Rule 12g5-1(a)(8)(i)(A) to encompass securities received in
+transactions exempt from, or not subject to, the registration requirements of Section 5.
+Such transactions include transactions that did not involve a sale of securities within the
+meaning of Section 2(a)(3) of the Securities Act, as well as transactions involving exempt
+securities, such as sales of securities made pursuant to Section 3 of the Securities Act. As
+we indicated in the Proposing Release, while securities issued to employees in
+transactions that do not involve a sale under Section 2(a)(3) are not technically
+“transactions exempted from the registration requirements of Section 5,” they are similar
+to other compensatory issuances to employees in exempt transactions in that the issuer
+provides the awards to employees for a compensatory purpose. We believe it is
+consistent with the statutory relief to also exclude from the definition of “held of record”
+in Rule 12g5-1 exempt securities issued to employees pursuant to an employee
+compensation plan. These exempt securities are similarly issued to employees for
+compensatory purposes and their issuance does not require registration under the
+Securities Act.
+
+88
+
+See letter from ABA.
+
+26
+
+We are adopting new Exchange Act Rule 12g5-1(a)(8)(i)(B) to provide relief in
+the context of business combinations. We are clarifying and expanding the proposed
+relief to encompass securities held by former employees of the issuer or its predecessors.
+In response to a commenter’s concern that the term “in exchange for” is not broad
+enough to capture all of the ways in which a person may receive new securities in place
+of existing securities held prior to a business combination, we have revised the language
+by using the phrase “in substitution or exchange for” to cover various methods of how
+those securities may be received in place of the existing securities, such as upon
+conversion or exercise of such securities. In response to a commenter’s concerns, 89 we
+are revising proposed Rule 12g5-1(a)(8)(i)(B) to also permit securities to be excluded if
+they were received by former employees in an exempt transaction in substitution or
+exchange for excludable securities, where the former employees were eligible under Rule
+701(c) to receive the original securities at the time of issuance. Under the exemption as
+proposed, securities received in such an exchange by former employees of an issuer and
+employees of an acquired issuer or the target company in a business combination would
+not have been excludable. Requiring issuers to count those securities for Exchange Act
+registration purposes could, as the commenter noted, inhibit issuers from entering into
+economically beneficial business combinations. Such former employees of the issuer,
+and employees of a predecessor of the issuer or an acquired company, will have received
+the original securities pursuant to an employee compensation plan in a transaction exempt
+from, or not subject to, the registration requirements of Section 5 of the Securities Act.
+We therefore believe it is appropriate to exclude the securities received by these former
+
+89
+
+Id.
+
+27
+
+employees 90 in such an exchange when determining whether an issuer is required to
+register under Section 12(g)(1).
+C.
+
+Non-exclusive Safe Harbor for Determining Holders of Record
+
+Section 503 of the JOBS Act directed the Commission to establish a safe harbor
+in Rule 12g5-1 that issuers can rely on when determining if securities held by persons
+who received them pursuant to an employee compensation plan in transactions exempted
+from the registration requirements of Section 5 of the Securities Act may be excluded
+when calculating the number of holders of record of a class of equity securities for
+purposes of determining the issuer’s registration obligation under Section 12(g)(1). One
+pre-proposal commenter recommended that the Commission expressly provide a nonexclusive safe harbor akin to the Securities Act Rule 506 safe harbor under Securities Act
+Section 4(a)(2). 91 This commenter recommended that the safe harbor provide that an
+issuer may treat an issuance of securities as exempt from Securities Act registration for
+purposes of Section 12(g)(5) if that issuer had a reasonable belief that the exemption was
+available at the time the securities were issued. 92
+1.
+
+Proposed Rule Amendment
+
+We proposed a non-exclusive safe harbor that would provide that a person will be
+deemed to have received the securities pursuant to an employee compensation plan if
+
+90
+
+Rule 701(c) provides appropriate limitations on who may qualify as an employee, former
+employee, or permitted family member transferee. See discussion in Section III.C.3.a.
+
+91
+
+See letter from ABA Pre-Proposal recommending that the Commission provide “that the safe
+harbor(s) is not the exclusive means by which an issuer may comply with the ‘compensatory plan
+carve-out’ provisions of Section 12(g)(5).” This commenter suggested that “failure to satisfy all
+conditions to reliance on the safe harbor(s) should not preclude reliance on the statutory carve-out
+itself.”
+
+92
+
+See letter from ABA Pre-Proposal.
+
+28
+
+such person received them pursuant to a compensatory benefit plan in transactions that
+met the conditions of Securities Act Rule 701(c).
+2.
+
+Comments on Proposed Rule Amendment
+
+We received comments on the proposed amendment from two commenters, both
+generally supporting the amendment. 93 One commenter, while generally supportive of
+the rule and safe harbor, expressed concern that an issuer’s ability to rely on the safe
+harbor was conditioned on the issuer’s ability to demonstrate compliance with all of the
+express requirements of an exemption, placing undue emphasis on technical aspects of
+the exemption that should not serve as the basis for determining whether an issuer should
+be required to register under Section 12(g). 94 This commenter suggested that Section 503
+of the JOBS Act should be read to mandate that the safe harbor provide certainty with
+respect to the exempt offering condition of JOBS Act Section 502 and that if the safe
+harbor requires an issuer to establish annually that each issuance of exempt equity
+securities satisfied an available Securities Act exemption, then the safe harbor would
+impose a significant ongoing burden on the issuer. The commenter recommended
+revising the safe harbor so that, solely for purposes of Exchange Act Section 12(g), the
+original issuance would be deemed to have satisfied the Securities Act exemption
+condition if the conditions of Securities Act Rule 701(c) are satisfied at the end of the
+fiscal year. 95
+Two commenters made recommendations that the Commission provide more
+guidance on the application of Securities Act Rule 701(c), or modify the application of
+93
+
+See letters from ABA and ADISA.
+
+94
+
+See letter from ABA.
+
+95
+
+Id.
+
+29
+
+Rule 701(c) in the Section 12(g) context. 96 One commenter recommended that there be
+no limit on the categories of persons who may receive securities pursuant to an employee
+compensation plan for purposes of the safe harbor. 97 Another commenter recommended
+expanding the provisions of Securities Act Rule 701(c) to exempt any consultants and
+advisors, instead of maintaining the limitation in Rule 701(c) to consultants and advisors
+who are natural persons. 98 This commenter also recommended that the Commission
+explicitly provide that Rule 701(c) extends to family members who acquire equity
+securities initially issued pursuant to a compensatory benefit plan from an employee (or
+former employee) by gift or domestic relations order, or upon an employee’s death or
+disability, as well as to the executor or guardian of the employee, former employee, or
+family member who acquires the securities upon such person’s death or disability.
+3.
+
+Final Rule Amendment and Interpretation
+
+After considering the comments, we are adopting the proposed amendment to
+Exchange Act Rule 12g5-1(a)(8) with the additions and clarifications detailed below. We
+are adopting a non-exclusive safe harbor. 99 The safe harbor provides that:
+•
+
+an issuer may deem a person to have received the securities pursuant to an
+employee compensation plan if such plan and the person who received the
+securities pursuant to the plan met the plan and participant conditions of
+Securities Act Rule 701(c); and
+
+96
+
+See letters from ABA and ADISA.
+
+97
+
+See letter from ADISA.
+
+98
+
+See letter from ABA.
+
+99
+
+Failure to satisfy all of the conditions of the non-exclusive safe harbor would not preclude reliance
+on Section 12(g)(5) or other provisions of the rule.
+
+30
+
+•
+
+an issuer may, solely for the purposes of Section 12(g), deem the securities to
+have been issued in a transaction exempt from, or not subject to, the registration
+requirements of Section 5 of the Securities Act if the issuer had a reasonable
+belief at the time of the issuance that the securities were issued in such a
+transaction.
+a.
+
+Employee Compensation Plan
+
+We believe that using the conditions of Rule 701(c) to structure the employee
+compensation plan safe harbor for the determination that a person received the securities
+pursuant to an employee compensation plan allows issuers to apply well understood
+principles of an existing Securities Act exemption to the new Exchange Act registration
+determination created by the JOBS Act. We believe application in a Section 12(g)
+context of the familiar concepts applied in connection with the issuance of compensatory
+equity securities under Securities Act Rule 701 will facilitate compliance and simplify
+recordkeeping.
+Rule 701 exempts from Securities Act registration offers and sales of securities
+pursuant to certain compensatory benefit plans and contracts relating to compensation.
+Rule 701(c) limits this exemption to offers and sales of securities under a written
+compensatory benefit plan established by the issuer, its parents, its majority-owned
+subsidiaries or majority-owned subsidiaries of the issuer’s parent, for the participation of
+their employees, directors, general partners, trustees, officers, or consultants and
+advisors. 100 Rule 701(c)(1) sets forth special requirements for consultants and advisors 101
+and Rule 701(c)(3) defines eligible family members. 102
+100
+
+Securities Act Rule 701(c) exempts offers and sales of securities (including plan interests and
+guarantees pursuant to Rule 701(d)(2)(ii)) under a written compensatory benefit plan (or written
+
+31
+
+The safe harbor we are adopting today is available for the plan participants
+enumerated in Rule 701(c), including employees, directors, general partners, trustees,
+officers and certain consultants and advisors. 103 The safe harbor also is available for
+
+compensation contract) established by the issuer, its parents, its majority-owned subsidiaries or
+majority-owned subsidiaries of the issuer’s parent, for the participation of their employees,
+directors, general partners, trustees (where the issuer is a business trust), officers, or consultants
+and advisors, and their family members who acquire such securities from such persons through
+gifts or domestic relations orders. This section exempts offers and sales to former employees,
+directors, general partners, trustees, officers, consultants and advisors only if such persons were
+employed by or providing services to the issuer at the time the securities were offered. In
+addition, the term “employee” includes insurance agents who are exclusive agents of the issuer, its
+subsidiaries or parents, or who derive more than 50% of their annual income from those entities.
+As explained in the 1999 Rule 701 Release at Section II.D, Rule 701 is also available to persons
+with a de facto employment relationship with the issuer. Such a relationship would exist where a
+person not employed by the issuer provides the issuer services that traditionally are performed by
+an employee and the compensation paid for those services is the primary source of the person’s
+earned income.
+101
+
+The Commission adopted amendments to Form S-8 and the Rule 405 definition of “employee
+benefit plan” that made Form S-8 available for the issuance of securities to consultants or advisors
+only if: they are natural persons; they provide bona fide services to the registrant; and the services
+are not in connection with the offer or sale of securities in a capital-raising transaction, and do not
+directly or indirectly promote or maintain a market for the registrant’s securities. See 1999 Form
+S-8 Release and 1999 Rule 701 Release. Rule 701(c)(1) applies the same limitations regarding
+consultants and advisors as those provided in Form S-8 and the Rule 405 definition of “employee
+benefit plan.”
+
+102
+
+Rule 701 is available for the exercise of employee benefit plan options by an employee’s family
+member who has acquired the options from the employee through a gift or a domestic relations
+order. As defined in Exchange Act Rule 701(c)(3) [17 CFR 230.701(c)(3)], for this purpose,
+“family member” includes any child, stepchild, grandchild, parent, stepparent, grandparent,
+spouse, former spouse, sibling, niece, nephew, mother-in-law, father-in-law, son-in-law, daughterin-law, brother-in-law, or sister-in-law, including adoptive relationships, any person sharing the
+employee’s household (other than a tenant or employee), a trust in which these persons have more
+than 50% of the beneficial interest, a foundation in which these persons (or the employee) control
+the management of assets, and any other entity in which these persons (or the employee) own
+more than 50% of the voting interests.
+
+103
+
+Unlike traditional employees, consultants and advisors typically provide their services to multiple
+clients rather than to the same issuer on a dedicated basis. This distinction may cause them to be
+less likely to hold the securities they receive as compensation and more likely to sell them. As a
+result the Commission limited the consultants and advisors eligible to rely on the exemption. See
+1999 Rule 701 Release at Section II.D. We believe that in light of the Rule 701 restrictions
+applicable to consultants and advisors, the compensatory nature of the transactions justifies
+treating consultants and advisors who are eligible to receive securities in compensatory
+transactions that satisfy the conditions of Rule 701(c) as persons who receive securities pursuant
+to an employee compensation plan for purposes of the Rule 12g5-1 safe harbor. Furthermore,
+since the securities would no longer be eligible for the exclusion under the safe harbor following
+their transfer, we believe the potential for abuse would be limited. However, in spite of one
+commenter’s recommendation (see letter from ABA), we see no reason to expand the scope of
+eligible consultants and advisors under Section 12(g) or Rule 701, which the Commission
+narrowed in 1999 in order to address abuses in the use of Form S-8 and Rule 701. See
+
+32
+
+permitted family member transferees with respect to securities issued pursuant to a plan
+that are acquired by gift or domestic relations order from plan participants, or such
+securities acquired by permitted family member transferees in connection with options
+transferred to them by the plan participant through gifts or domestic relations orders. 104
+Because the safe harbor is limited to holders who are persons specified in Rule 701(c),
+once these persons subsequently transfer the securities to holders not specified in Rule
+701(c), whether or not for value, the securities must be counted as held of record by the
+transferee for purposes of determining whether the issuer is subject to the registration and
+reporting requirements of Exchange Act Section 12(g)(1).
+An issuer may rely on the safe harbor when determining the holders of securities
+issued in reliance on Securities Act Rule 701, as well as holders of securities issued in
+transactions otherwise exempted from, or not subject to, the registration requirements of
+the Securities Act that satisfy the conditions of Rule 701(c), even if all the other
+conditions of Rule 701, such as issuer eligibility in Rule 701(b)(1), the volume
+limitations in Rule 701(d) or the disclosure delivery provisions in Rule 701(e), are not
+met. Thus, the safe harbor is available for holders of securities received in other
+employee compensation plan transactions exempted from, or not subject to, the
+registration requirements of Section 5 of the Securities Act, such as securities issued in
+
+Registration of Securities on Form S-8, Release No. 33-7646 (Feb. 25, 1999) [64 FR 11103 (Mar.
+8, 1999)]; Rule 701 – Exempt Offerings Pursuant to Compensatory Arrangements, Release No.
+33-7645 (Feb 25, 1999) [64 FR 11095 (Mar. 8, 1999)].
+104
+
+See Rule 701- Exempt Offerings Pursuant to Compensatory Arrangements, Release No. 33-7511
+(Feb. 27, 1998) [63 FR 10785 (Mar. 5, 1998)] at Section III.E.4. Including family member
+transferees in the safe harbor is consistent with the approach in Rule 701(c), which provides an
+exemption to family member transferees in connection with stock options because of their
+common economic interest and the non-capital raising nature of the transactions.
+
+33
+
+reliance on Securities Act Section 4(a)(2), Regulation A, Regulation D, or Regulation S
+under the Securities Act, that also meet the conditions of Rule 701(c).
+b.
+
+Securities Issued in Exempt Transactions
+
+In response to comments, we are adding a provision to the safe harbor relating to
+the determination that the securities were issued in a transaction exempt from, or not
+subject to, the registration requirements of Section 5 of the Securities Act. The addition
+to the safe harbor provides that, solely for purposes of Section 12(g) of the Exchange Act,
+an issuer may deem securities to have been exempt from, or not subject to, the
+registration requirements of Section 5 of the Securities Act if the issuer had a reasonable
+belief at the time of issuance that the securities were issued in a transaction that was
+exempt from, or not subject to, the registration requirements of Section 5.
+While one commenter recommended that the safe harbor should deem the
+securities qualified for the Securities Act exemption if the conditions of Securities Act
+Rule 701(c) were met as of the end of the fiscal year, 105 we believe that such a safe
+harbor would go too far and negate the requirement that the securities have been issued in
+a transaction exempt from, or not subject to, the registration requirements of Section 5 of
+the Securities Act at the time of issuance. Instead, the safe harbor provides issuers with
+relief from the burden of establishing that earlier issuances of securities satisfied an
+appropriate exemption on an annual basis provided it had a reasonable belief that it had
+complied with the appropriate registration requirements or the conditions of an applicable
+exemption at the time of issuance.
+
+105
+
+See letter from ABA.
+
+34
+
+c.
+
+Interpretative Guidance Relating to Acquisitions by Family Members
+
+One commenter recommended that the Commission provide guidance regarding
+the application of Rule 701 to certain equity securities initially issued pursuant to a
+compensatory benefit plan acquired from an employee (or former employee) by gift or
+domestic relations order, or upon an employee’s (or former employee’s) death or
+disability. 106 In light of the nature of such transactions, family members (as defined in
+Rule 701(c)) who receive the equity securities as a result of the employee’s (or former
+employee’s) gift, domestic relations order, or death are also considered as persons who
+received “the securities pursuant to an employee compensation plan” for purposes of
+Rule 12g5-1(a)(8). 107
+D.
+
+Foreign Private Issuers
+
+1.
+
+Proposed Rule Amendments
+
+While “foreign private issuers” 108 would be able to rely on Exchange Act Rule
+12g5-1(a)(8) when making their determination of the number of U.S. resident holders
+under Exchange Act Rule 12g3-2(a), we proposed to amend Exchange Act Rule 3b-4 to
+clarify that securities held by employees must continue to be counted for the purpose of
+determining the percentage of the issuer’s outstanding securities held by U.S. residents,
+
+106
+
+See letter from ABA.
+
+107
+
+In general we understand that guardians or members of a committee for incompetent former
+employees, or similar persons duly authorized by law to administer the assets of former employees
+would administer the assets for the benefit of the former employee and title would not have
+transferred to these agents. In such circumstances, the securities would meet the conditions of
+Rule 701(c) for purposes of determining the holders of record.
+
+108
+
+See Exchange Act Rule 3b-4(c) [17 CFR 240.3b-4(c)]. A foreign private issuer is any foreign
+issuer other than a foreign government, except for an issuer that (1) has more than 50% of its
+outstanding voting securities held of record by U.S. residents and (2) any of the following: (i) a
+majority of its officers and directors are citizens or residents of the United States; (ii) more than
+50% of its assets are located in the United States; or (iii) its business is principally administered in
+the United States.
+
+35
+
+and thus for determining whether an issuer qualifies as a foreign private issuer. We also
+proposed to amend the definition of “foreign private issuer” under Securities Act Rule
+405 to reinsert an omitted instruction but with a proposed revision, identical to that
+proposed under Exchange Act Rule 3b-4, clarifying that securities held by employees
+must continue to be counted for the purposes of determining the percentage of the
+issuer’s outstanding securities held by U.S. residents and foreign private issuer status
+under the Securities Act. 109
+2.
+
+Comments on Proposed Rule Amendments
+
+We received comments on the proposed amendments from one commenter, who
+supported the proposed amendments relating to foreign private issuers. 110
+3.
+
+Final Rule Amendments
+
+After considering the comments, we are adopting the amendments substantially as
+proposed. Under the rules we are adopting, foreign private issuers may rely on Rule
+12g5-1(a)(8) when making their determination of the number of U.S. resident holders
+under Exchange Act Rule 12g3-2(a). 111 Under Rule 12g3-2(a), foreign private issuers
+that meet the asset and shareholder threshold for registration under Section 12(g) are
+exempt from registering any class of securities under that section if the class of securities
+is held by fewer than 300 holders resident in the United States. 112 For purposes of
+determining whether this threshold is met, Rule 12g3-2(a)(1) specifies that the method
+shall be as provided in Exchange Act Rule 12g5-1, except that securities held of record
+109
+
+17 CFR 230.405. The definition of “foreign private issuer” under the Securities Act is intended to
+be the same as the definition under Exchange Act Rule 3b-4.
+
+110
+
+See letter from ABA.
+
+111
+
+17 CFR 240.12g3-2(a)
+
+112
+
+Id.
+
+36
+
+by brokers, dealers, banks and nominees for the accounts of customers resident in the
+United States shall be counted as held by the number of separate accounts for which the
+securities are held. 113 Because the rule directs issuers to the definition of “held of record”
+in Rule 12g5-1, the statutory changes to Section 12(g)(5) as well as the amendment to
+Rule 12g5-1 adopted today also apply to the determination of a foreign private issuer’s
+U.S. resident holders for the purposes of the Rule 12g3-2(a) analysis. 114
+IV.
+
+ECONOMIC ANALYSIS
+Title V and Title VI of the JOBS Act increased the registration thresholds for
+
+issuers, amended the definition of “held of record” to exclude securities issued pursuant
+to employee compensation plans and increased the thresholds for termination of
+registration and suspension of reporting under the Exchange Act for banks and bank
+holding companies. The FAST Act similarly increased the thresholds for registration,
+termination of registration and suspension of reporting under the Exchange Act for
+savings and loan holding companies. The Commission is adopting amendments to
+implement Title V and Title VI of the JOBS Act and Title LXXXV of the FAST Act.
+In adopting rules or amendments, we are mindful of the costs imposed by and the
+113
+
+The amendment to Rule 12g5-1 is limited to determinations under Section 12(g). The definition of
+“foreign private issuer” in Exchange Act Rule 3b-4 contains a cross-reference to Rule 12g3-2(a) for
+purposes of calculating record ownership in determining whether more than 50% of an issuer’s
+outstanding voting securities are directly or indirectly held by residents of the United States. In
+contrast to the approach in Rule 12g3-2(a), Rule 3b-4 clarifies that securities held by employees must
+continue to be counted for the purpose of determining the percentage of the issuer’s outstanding
+securities held by U.S. residents, and thus for determining whether an issuer qualifies as a foreign
+private issuer. See Instruction to paragraph (c)(1) of Rule 3b-4. We are revising the Instruction to
+paragraph (c)(1)A.2. from the proposal to clarify that all of Rule 12g5-1(a)(8) does not apply for
+purposes of making a determination under Rule 405 as to foreign private issuer status.
+
+114
+
+The definition of “foreign private issuer” under the Securities Act, which is found in Securities
+Act Rule 405, is the same as the definition under Exchange Act Rule 3b-4. We are similarly
+amending the foreign private issuer definition under Rule 405 to reinsert an omitted instruction
+with an identical revision to that in Rule 3b-4, clarifying that securities held by employees must
+continue to be counted for the purposes of determining the percentage of the issuer’s outstanding
+securities held by U.S. residents and foreign private issuer status under the Securities Act.
+
+37
+
+benefits obtained from our rules. The discussion below attempts to address the economic
+effects of the amendments, including the likely costs and benefits of the amendments as
+well as the effect of the amendments on efficiency, competition and capital formation. 115
+Some of the costs and benefits stem from the statutory mandates of Title V and Title VI
+of the JOBS Act and Title LXXXV of the FAST Act, while others are affected by the
+discretion we exercise in revising our rules to reflect this mandate. For purposes of this
+economic analysis, we address the benefits and costs resulting from the mandatory
+statutory provisions and our exercise of discretion together because the two types of costs
+and benefits are not readily separable. We also analyze the benefits and costs of
+significant alternatives to the amendments that were suggested by commenters and that
+we considered on our own accord.
+A.
+
+Baseline
+
+The baseline for our economic analysis of the amendments, including the baseline
+for our consideration of the effects on efficiency, competition and capital formation, is
+the state of the market as well as market practices prior to enactment of the JOBS Act and
+the FAST Act. Prior to the JOBS Act, issuers were required to register a class of their
+equity securities with the Commission upon reaching 500 holders of record and total
+assets of $10 million 116 and were allowed to terminate registration or suspend the duty to
+
+115
+
+Section 23(a)(2) of the Exchange Act [17 U.S.C. 78w(a)(2)] requires the Commission, when
+making rules under the Exchange Act, to consider the impact that the rules would have on
+competition, and prohibits the Commission from adopting any rule that would impose a burden on
+competition not necessary or appropriate in furtherance of the Exchange Act. 15 U.S.C. 78w(a).
+Further, Section 2(b) of the Securities Act [15 U.S.C. 77b(b)] and Section 3(f) of the Exchange
+Act [17 U.S.C. 78c(f)] require the Commission, when engaging in rulemaking where it is required
+to consider or determine whether an action is necessary or appropriate in the public interest, to
+consider, in addition to the protection of investors, whether the action will promote efficiency,
+competition and capital formation.
+
+116
+
+See supra note 31.
+
+38
+
+file periodic and current reports with the Commission when the number of holders of
+record had fallen below 300, or below 500 and total assets had not exceeded $10 million
+on the last day of each of the issuer’s three most recent fiscal years. In addition,
+Exchange Act Rules 12h-1(f) and 12h-1(g) permitted issuers to exclude stock options
+issued under written compensatory benefit plans under certain conditions from the
+registration requirements of Section 12(g).
+The JOBS Act raised the thresholds at which an issuer is required to register a
+class of equity securities with the Commission pursuant to Section 12(g) and provided
+that persons holding certain employee compensation plan securities need not be counted
+when determining whether an issuer is required to register. The JOBS Act also raised the
+thresholds at which an issuer that is either a bank or a bank holding company is permitted
+to terminate registration or suspend reporting obligations with the Commission. These
+statutory changes were effective immediately upon signing of the JOBS Act. As a result,
+some banks and bank holding companies were newly eligible to terminate registration or
+suspend reporting. As of December 31, 2015, we estimate that approximately 103 such
+institutions have elected to do so. 117 We estimate that there are approximately 486 banks
+and bank holding companies that currently report to the Commission, 118 of which some
+may be eligible to terminate registration under the JOBS Act but have elected to continue
+reporting.
+Subsequent to the JOBS Act, the FAST Act raised the thresholds at which savings
+
+117
+
+The Commission staff derived this estimate of the number of banks and bank holding companies
+that have elected to terminate registration or suspend reporting by analyzing Form 15 filings on
+EDGAR.
+
+118
+
+The Commission staff derived this estimate by analyzing annual filings submitted to the
+Commission as of December 31, 2015 for the most recently completed fiscal year.
+
+39
+
+and loan holding companies are required to register and permitted to terminate
+registration or suspend reporting obligations to the same thresholds as apply to banks and
+bank holding companies. These statutory changes were effective immediately upon
+signing of the FAST Act. We estimate that, as of December 31, 2015, there are
+approximately 64 savings and loan holding companies that currently report to the
+Commission, approximately 28 of which are eligible to terminate registration or suspend
+reporting under the amendments. 119
+We are amending specified Exchange Act rules to reflect the new, higher
+threshold for banks, savings and loan holding companies and bank holding companies
+under Section 12(g)(4) and Section 15(d)(1). For those banks, savings and loan holding
+companies and bank holding companies that are eligible to terminate registration under
+Section 12(g), the amendments will provide the same procedural accommodations
+available to other issuers under current rules by permitting these institutions to suspend
+their reporting obligations immediately upon the filing of a certification on Form 15 with
+the Commission.
+In addition, the amendments apply the definition of “accredited investor” in
+Securities Act Rule 501(a) in making determinations under Exchange Act Section
+12(g)(1), revise the definition of “held of record” in Rule 12g5-1, and establish a nonexclusive safe harbor for issuers to rely on when determining whether securities were
+received pursuant to an employee compensation plan in transactions exempt from, or not
+subject to, the registration requirements of Section 5 of the Securities Act. The nonexclusive safe harbor, as adopted, permits an issuer to rely on the definition of
+119
+
+Id. We note, however, that 25 of these 28 savings and loan holding companies are listed on a
+national securities exchange and required to report under Section 12(b) of the Exchange Act. In
+order to cease reporting, these issuers would be required to delist from the exchange.
+
+40
+
+“compensatory benefit plan” in Securities Act Rule 701 and the conditions in Securities
+Act Rule 701(c) in determining whether a person has received securities pursuant to an
+employee compensation plan. It also permits an issuer to rely on a reasonable belief at
+the time of issuance that the securities were issued in a transaction exempt from, or not
+subject to, the registration requirements of Section 5.
+We considered alternative definitions of “employee compensation plan.” We also
+considered whether to provide additional guidance with respect to the determination of
+accredited investor status when establishing the number of holders of record. These
+decisions may affect how a non-reporting issuer counts its holders of record for the
+purpose of the registration thresholds under the Exchange Act; hence, they could affect
+whether an issuer becomes subject to Exchange Act reporting. However, due to limited
+availability of shareholder information on these non-reporting issuers, we are unable to
+quantify the number of non-reporting issuers that might be affected by these decisions.
+B.
+
+Analysis of the Amendments
+
+The amendments will affect reporting issuers generally, and banks, bank holding
+companies and savings and loan holding companies specifically, as well as non-reporting
+issuers, employees and other investors. We analyze the costs and benefits associated
+with the amendments below.
+1.
+
+Increased regulatory thresholds for banks, savings and loan
+holding companies and bank holding companies
+
+As discussed above, the JOBS Act and the FAST Act amended Sections 12(g) and
+15(d) of the Exchange Act to raise the thresholds at which banks, savings and loan
+holding companies and bank holding companies may terminate registration or suspend
+their obligations to file reports with the Commission from 300 to 1,200 holders of
+
+41
+
+record. 120 However, without the amendments being adopted today, banks, savings and
+loan holding companies and bank holding companies that want to use the higher
+thresholds must wait 90 days after filing a certification with the Commission that the
+number of holders of record is less than 1,200 persons to terminate their Section 12(g)
+registration and cease filing reports required by Section 13(a) and must wait until the first
+day of the fiscal year to suspend any Section 15(d) reporting obligations. For other
+issuers, our existing rules afford procedural accommodations that allow them to suspend
+their reporting obligations immediately upon the filing of a certification on Form 15.
+To make these procedural accommodations applicable to banks, savings and loan
+holding companies and bank holding companies, as proposed, the amendments revise
+Exchange Act Rules 12g-2, 12g-3, 12g-4 and 12h-3 to reflect the 1,200 holders of record
+threshold for banks, savings and loan holding companies and bank holding companies.
+This will permit banks, savings and loan holding companies and bank holding companies
+to rely on these rules to cease reporting during a fiscal year, rather than wait the 90 days
+or until the end of the reporting year prescribed under the Exchange Act. This will
+reduce issuer compliance and reporting costs during the fiscal year the issuer ceases
+reporting 121 and may lessen potential confusion that could arise from the differences in
+the thresholds contained in the statute and our existing rules. At the same time, extending
+these procedural accommodations could accelerate the loss of investor access to current
+information about the issuer. We note, however that this effect is likely mitigated by the
+non-SEC regulatory disclosure requirements that will continue to apply to regulated
+120
+
+For other issuers, the threshold in Section 12(g)(4) for termination of registration and in Section
+15(d)(1) for suspension of reporting remains at 300 holders of record.
+
+121
+
+See letter from ABA indicating that these costs could be especially onerous for financially
+distressed firms and from ICBA.
+
+42
+
+banks, savings and loan holding companies and bank holding companies after adoption of
+today’s amendments.
+We believe that the amendments adopted under this rule will not have a
+significant impact on competition. To the extent that savings pursuant to lower
+compliance and reporting costs could possibly be used to increase institutions’ lending
+activities, the amendments may lead to higher levels of investment and capital formation
+in the economy.
+As stated above, we estimate that there are approximately 550 banks, savings and
+loan holding companies and bank holding companies that currently report with the
+Commission. Many of these reporting issuers have more than 1,200 holders of record
+and are not eligible to cease reporting under the new higher thresholds. However,
+approximately 192 of these reporting banks, savings and loan holding companies and
+bank holding companies have between 300 and 1,199 holders of record and may be
+eligible to cease reporting. Many of these banks and bank holding companies have likely
+been eligible to deregister or suspend reporting since the adoption of the JOBS Act, but
+have chosen to continue as reporting issuers. One explanation for why many of these
+issuers have chosen not to deregister is that most (143) are also listed on national
+securities exchanges and if they chose to deregister or suspend reporting under the
+Exchange Act, they would have to give up their national exchange listing. 122 While a
+higher percentage of savings and loan holding companies have become eligible to
+terminate their registration or suspend reporting under the FAST Act, approximately 50
+of 64 reporting savings and loan holding companies are registered pursuant to Section
+122
+
+Listing on a national securities exchange triggers current and periodic Exchange Act reporting
+requirements under Section 12(b).
+
+43
+
+12(b). Based on staff research, most of the newly eligible savings and loan holding
+companies (approximately 25 of the 28) would have to delist from a national securities
+exchange to cease reporting under the Exchange Act.
+We believe that the likelihood of large numbers of eligible banks, savings and
+loan holding companies and bank holding companies terminating registration or
+suspending reporting based on the new higher thresholds in future years is low. While a
+relatively larger number of banks and bank holding companies (69) relied on the new
+thresholds to exit Exchange Act reporting immediately after the adoption of the JOBS
+Act in 2012, the numbers of such issuers relying on the new thresholds to exit
+substantially decreased over the subsequent three years (18 in 2013, 7 in 2014 and 6 in
+2015). 123 As banks and bank holding companies remain subject to other regulatory
+reporting requirements, 124 many have chosen to continue reporting, and bear ongoing
+reporting costs, even though they are eligible to cease reporting under Section 12(g) of
+the Exchange Act. We expect to see a similar trend with respect to the deregistrations of
+savings and loan holding companies.
+In deciding whether to terminate registration or suspend their reporting
+obligations, we anticipate that banks, savings and loan holding companies and bank
+holding companies will weigh the benefits of being a public company against the burden
+of additional disclosure costs. Commonly cited benefits of being a public company
+
+123
+
+The Commission staff derived this estimate by analyzing Form 15 filings submitted to the
+Commission. These numbers indicate that approximately 4%, 1% and 1% of the reporting bank
+and bank holding companies deregistered during 2013, 2014 and 2015, respectively.
+
+124
+
+The Board of Governors of the Federal Reserve System is responsible for the consolidated
+supervision of bank holding companies and savings and loan holding companies and requires
+those entities to provide data relating to capitalization, liquidity, and risk management as well as
+periodic financial reports in order for the Board of Governors to analyze the overall financial
+condition of those entities to ensure safe and sound operations.
+
+44
+
+include the ability to obtain a lower cost of capital for investment and growth, increased
+liquidity through a broader shareholder base, and greater ability to finance acquisitions
+and offer equity-based incentive contracts. 125 Commonly cited costs of being a public
+company include the need to comply with increased regulations and regulatory
+supervision, including requirements for independent audits, 126 disclosure of information
+to competitors, loss of control and ownership dilution. 127
+2.
+
+Use of the term “accredited investor” in Exchange Act Section 12(g)
+
+Section 501 of the JOBS Act raises the number of holders of record at which an
+issuer is required to register a class of equity securities under the Exchange Act from 500
+persons to 2,000 persons or 500 persons who are not accredited investors. In order for an
+issuer to rely on the new, higher threshold established by the JOBS Act, the issuer must
+
+125
+
+See J. Brau, Why Do Firms Go Public?, Oxford Handbook of Entrepreneurial Finance (2010)
+(providing a general discussion of the different rationales for firms to go public); U.Celikyurt, M.
+Sevilir, and A. Shivdasani, Going Public to Acquire? The Acquisition Motive in IPOs, J. FIN.
+ECON. (2010) (arguing that firms go public so as to facilitate acquisitions); M. Pagano, F.
+Panetta, and L. Zingales, Why Do Companies Go Public? An Empirical Analysis, J. FIN. (1998)
+(showing that initial public offerings are generally followed by lower cost of credit and increased
+turnover in control); T. Chemmanur and P. Fulghieri, A Theory of the Going Public Decision,
+REV. FIN.STUD. (1999) (arguing that going public broadens the ownership base of the firm); R.
+Rosen, S. Smart and C. Zutter, Why Do Firms Go Public? Evidence From the Banking Industry,
+Working Paper (2005) (finding that banks that go public are more likely to grow faster, earn
+higher profits, employ more leverage and become acquirers when compared to their non-reporting
+counterparts), available at http://papers.ssrn.com/sol3/papers.cfm?abstract_id=686473.
+
+126
+
+See letter from IPA. IPA cited an estimate of ongoing reporting costs under the Exchange Act of
+$650,000 annually. This commenter additionally noted that becoming an Exchange Act reporting
+company may be contrary to an issuer’s business plan and against investors’ economic interests.
+See also letter from ABA positing that once the initial cost of implementing reporting procedures
+are undertaken, the ongoing costs of reporting are not a significant burden on capital formation
+and job creation.
+
+127
+
+See J. Brau and S. Fawcett, Initial Public Offerings: An Analysis of Theory and Practice, J. FIN.
+(2006) (reporting based on a survey of CFOs that “desire to maintain decision-making control,”
+“disclosing information to competitors,” “SEC reporting requirements” and “to avoid ownership
+dilution” are among the top five reasons why firms choose to stay private); J. Farre-Mensa, Why
+Are Most Firms Privately Held?, Working paper, Harvard University (2011) (documenting that
+firms in industries with high disclosure costs (i.e., where it is easier for competitors to appropriate
+a firm’s intellectual property) tend to remain private), available at
+http://www.cemfi.es/ftp/pdf/papers/wshop/Farre-Mensa_JobMarketPaper.pdf.
+
+45
+
+make accredited investor determinations if it has more than 500 holders of record.
+We are amending Exchange Act Rule 12g-1 to clarify that the definition of
+“accredited investor” in Securities Act Rule 501(a) applies when making determinations
+under Exchange Act Section 12(g)(1) and that such determination must be made as of the
+last day of the fiscal year rather than at the time of sale of the securities. Under Rule
+501(a), an accredited investor is any person who comes within one or more of the
+categories of investors specified therein, or who the issuer reasonably believes comes
+within any such category. Many issuers and investors are familiar with the Rule 501(a)
+definition as it is a central component for private offerings conducted under Securities
+Act Rule 506 of Regulation D. 128 Consequently, the amendment should facilitate
+compliance. 129 Developing an alternative definition for purposes of Section 12(g)(1)
+could impose costs on issuers and investors by requiring them to familiarize themselves
+with, and apply, a new and different standard. 130 Due to limitations in available data, we
+are unable to estimate how many issuers will be impacted by using the Rule 501(a)
+definition of “accredited investor.”
+Requiring issuers to make the accredited investor determination at the end of the
+fiscal year rather than at the time of sale of securities will ensure that the information is
+timely and consistent with issuers’ facts and circumstances at the end of each year.
+Permitting an issuer to rely on an ongoing basis on information previously obtained
+relating to accredited investors status, such as allowing reliance on information obtained
+
+128
+
+The Rule 501(a) definition is also used in connection with other unregistered offerings, for
+example for offerings conducted pursuant to amended Regulation A or the recently adopted
+Regulation Crowdfunding.
+
+129
+
+See letter from ABA.
+
+130
+
+Id.
+
+46
+
+by the issuer at the time the securities were initially issued to the investor or at the time
+the securities were most recently issued to the investor, would likely be less costly than
+requiring the issuer to establish a reasonable belief that the investor is an accredited
+investor. This, however, could also lead to reliance on outdated information, potentially
+causing issuers with more than 500 non-accredited investors to fail to register, thereby
+leaving investors in those issuers with less information and protection under the federal
+securities laws.
+Not providing specific guidance or rules on how to establish a reasonable belief of
+a security holder’s status as an accredited investor for purposes of determining holders of
+record could result in some uncertainty and possibly higher costs for issuers. We believe,
+however, that the “reasonable belief” standard under Rule 501(a) provides issuers with
+appropriate flexibility to use the method that works best, given their individual
+circumstances, to determine the accredited investor status of their shareholders. We also
+believe that this standard may help to mitigate some of the concerns relating to higher
+costs under the adopted provision by allowing issuers to rely on previous/other
+determinations if they have a reasonable belief that the security holder continues to be or
+is an accredited investor. We also note that many issuers are familiar with and routinely
+use the “reasonable belief” standard without such guidance when making private
+offerings in reliance on Regulation D.
+Some commenters recommended that the Commission address potential
+compliance issues related to the accredited investor threshold by providing a safe harbor
+for determining accredited investor status. 131 A safe harbor could increase efficiency by
+
+131
+
+See letters from ABA, Foley and NYCBA. See also letters from ADISA, CFM, Cleary and IPA.
+
+47
+
+providing issuers with a prescribed process to determine and update the accredited
+investor status of their investors. For example, a safe harbor that permits an issuer to rely
+on an annual affirmation of accredited investor status by the investor, other information
+obtained by the issuer or on a combination of a certification and other information may
+be less costly than requiring an issuer to establish a reasonable basis for its determination
+through other means. Similarly, a safe harbor with specified time limits on the permitted
+use of the information 132 or conditioned upon the issuer not having information that the
+previously obtained information was incorrect, unreliable or had changed could address
+some of the concerns related to higher costs or outdated information. Another alternative
+would be a safe harbor that permits an issuer to rely on a third-party certification for
+determining the accredited investor status of investors. 133
+Despite the benefits described above, providing a specific method (or methods)
+under a safe harbor could become a de facto minimum standard which we believe would
+reduce the flexibility available to issuers for determining accredited investor status. 134
+Moreover, at-least for some issuers, a prescribed method may be less accurate and more
+burdensome than alternate non-prescribed methods in establishing the accredited status of
+investors. For example, a safe harbor providing for annual certification could be costly
+
+132
+
+See letter from Cleary suggesting a safe harbor permitting accredited investor status
+determinations made in offerings during the three months prior to fiscal year-end or on selfcertifications by investors if the offering occurred more than three months but less than twelve
+months prior to fiscal year-end.
+
+133
+
+See letter from IPA suggesting that relying upon third parties might allow issuers to reduce the
+cost of compliance for accredited investor determinations. We do not have adequate information
+about third-party certification providers and the characteristics of this industry to assess this
+alternative in terms of reliability and cost of the provided certification services. To the extent that
+reputational concerns would incentivize third-party certification providers to perform reliable and
+updated due diligence, third-party certification could potentially provide accurate information at a
+cost that economies of scale may lessen.
+
+134
+
+See letter from ABA.
+
+48
+
+and have adverse impacts on small issuers and their investors, 135 discouraging accredited
+investors from investing in their securities, and leading to lower levels of investment. 136
+3.
+
+Definition of “held of record” and safe harbor for employee
+compensation plan securities
+
+Section 12(g)(5), as amended by Section 502 of the JOBS Act, excludes from the
+definition of “held of record” securities held by persons who received them pursuant to
+an employee compensation plan in transactions exempted from the registration
+requirements of Section 5 of the Securities Act for purposes of determining whether an
+issuer is required to register a class of security pursuant to Section 12(g)(1). 137 Section
+503 of the JOBS Act directs the Commission to adopt a safe harbor that issuers can use
+when making their holder of record determinations.
+We believe that, by making it easier for non-reporting companies that issue
+securities to their employees to remain below the registration and reporting thresholds in
+the Exchange Act, the statutory changes will benefit issuers by allowing them to better
+control how and when they become subject to reporting requirements, while continuing
+to use securities to compensate employees. 138 These changes could be particularly
+beneficial for smaller or cash-constrained issuers that could more easily issue securities to
+their employees as a form of compensation without being subject to Exchange Act
+reporting requirements and the associated compliance costs.
+However, investors in these issuers, including employees, may be adversely
+affected by a delay in the potential registration of a class of securities and the associated
+135
+
+See letter from IPA.
+
+136
+
+See letter from CFM.
+
+137
+
+Prior to the JOBS Act, employees who obtained securities under an issuer’s employee
+compensation plan were not excluded from the shareholders of record calculation.
+
+138
+
+See letter from ABA.
+
+49
+
+reporting because they otherwise might benefit from the information provided through
+such reporting. As a result, the amendments to the definition of “held of record” and the
+non-exclusive safe harbor being adopted today could have an impact on the potential
+costs and benefits of Exchange Act registration for affected issuers and their investors by
+affecting areas such as the ease of relying upon the statutory exemption under Section
+12(g), the number of non-reporting companies able to forestall registration, and the
+amount of information available to investors in those issuers’ securities, with effects, for
+example, on price efficiency and liquidity. We further discuss the economic impact of
+specific aspects of these amendments below.
+Instead of establishing a new definition for the term “employee compensation
+plan,” we are amending the definition of “held of record” to permit an issuer to exclude
+securities held by persons who received them pursuant to an employee compensation plan
+in transactions exempted from, or not subject to, the registration requirements of Section
+5 of the Securities Act and adopting a safe harbor providing that this condition will be
+satisfied if the securities were received pursuant to a compensatory benefit plan in
+transactions that meet the conditions of Rule 701(c). By not creating a new definition
+and relying on familiar concepts, the amendments should facilitate compliance and
+simplify recordkeeping by issuers. 139
+In a change from the proposal, we are revising the amendments to the definition
+of “held of record” to make clear that, in addition to securities issued to employees in
+transactions exempted from the registration requirements of Securities Act Section 5
+(such as securities issued in a Rule 506 offering) or those issued to employees in
+
+139
+
+See letter from ABA.
+
+50
+
+transactions that did not involve a sale of securities within the meaning of Securities Act
+Section 2(a)(3), the amended definition also will permit issuers to exclude exempt
+securities issued to employees pursuant to Securities Act Section 3 (such as securities
+issued in a Regulation A or Rule 504 offering). The amendment will provide consistency
+in treatment of securities received pursuant to employee compensation plans in primary
+transactions that are exempt from Section 5 registration requirements or not subject to
+Section 5 registration requirements. 140 This could lower issuer costs and facilitate
+compliance. At the same time, such an expanded definition of “held of record” could
+reduce the number of holders of record of an issuer and potentially allow the issuers to
+delay or avoid Exchange Act reporting.
+The amendments will permit issuers to exclude securities held by former
+employees who received the securities in a transaction exempt from, or not subject to, the
+registration requirements of Securities Act Section 5 in substitution or exchange for
+securities excludable under the proposed definition of held of record, as long as the
+former employees were eligible, at the time of issuance, to receive the original excludable
+securities. Relative to the proposal, the amended definition will also include such
+securities held by former employees who were employed by or providing services to a
+predecessor or an acquired company. By providing uniform treatment for all securities
+issued in exempt transactions, such provisions could lower issuer costs and facilitate
+compliance. Permitting exclusion of securities received by former employees and
+covered persons and securities exchanged or substituted for such original excludable
+securities also is likely to remove disincentives for issuers to engage in value-enhancing
+
+140
+
+Id.
+
+51
+
+business combinations or other similar transactions, 141 which will benefit issuers and
+their investors. In this way, the amendments may also lead to a more efficient allocation
+of resources amongst firms that could improve growth prospects over the longer run.
+As proposed, the amendments establish a non-exclusive safe harbor that issuers
+can rely on when determining whether holders of securities received pursuant to an
+employee compensation plan may be excluded. Consistent with the proposal, the safe
+harbor being adopted relies on the conditions in existing Rule 701(c). Relying on an
+existing standard that is already understood by market participants will make it easier for
+issuers to avail themselves of this safe harbor than if we proposed a new alternative
+standard. While generally broad in application, the conditions in Rule 701(c) impose
+certain limitations, such as requiring that securities be sold under a compensatory benefit
+plan, that the plan be written, that the plan be established by the issuer or certain specified
+related entities and that participation be limited to employees and certain other specified
+persons. Although we are unable to quantify the impact of adopting this safe harbor, as
+we cannot reliably predict the number of issuers that would rely on it, we can
+qualitatively assess its impact. A safe harbor that applies the familiar concepts of
+existing Rule 701(c) should create efficiencies in its application and avoid conflicts with
+existing rules, which could reduce costs, especially for smaller issuers. 142
+In a change from the proposal, the safe harbor also includes a reasonable belief
+standard. The inclusion of such a standard will obviate the need for issuers to re-establish
+that earlier issuances satisfied an appropriate exemption at the time of issuance. This
+
+141
+
+Id.
+
+142
+
+See letter from ABA which states that Rule 701 is the primary exemption relied upon by smaller
+and other non-reporting issuers for such transactions.
+
+52
+
+should provide greater regulatory certainty, leading to lower compliance burdens for
+issuers. 143 Similarly, the interpretative guidance set forth in this release regarding
+transfers to family members of such exempt securities through the employee’s death,
+disability or domestic relations order provides greater regulatory certainty with respect to
+specific circumstances that are unexpected or out of control of the issuer, which will
+benefit issuers intending to use equity compensation. 144
+Finally, as proposed, the amendments also provide that foreign private issuers will
+be able to rely on the adopted safe harbor when making their determination of the number
+of U.S. resident holders under Exchange Act Rule 12g3-2(a). While we are unable to
+quantify the number of foreign private issuers that will be impacted due to limitations in
+the available data, the amendments may allow some foreign private issuers to delay
+registering with and reporting to the Commission. The cost and benefit tradeoffs of
+Exchange Act registration for foreign private issuers will be analogous to the ones
+discussed above for domestic issuers. Additionally, the flexibility accorded by the
+amendments will benefit the U.S.-based employees of foreign private issuers by putting
+them on equal footing with employees in domestic private companies. 145
+V.
+
+PAPERWORK REDUCTION ACT
+Certain provisions of our disclosure rules and forms applicable to issuers contain
+
+“collection of information” requirements within the meaning of the Paperwork Reduction
+Act of 1995 (“PRA”). 146 The hours and costs associated with preparing and filing forms
+
+143
+
+Id.
+
+144
+
+Id.
+
+145
+
+Id.
+
+146
+
+44 U.S.C. 3501 et seq.
+
+53
+
+and retaining records constitute reporting and cost burdens imposed by the collection of
+information requirements. An agency may not conduct or sponsor, and a person is not
+required to respond to, a collection of information requirement unless it displays a
+currently valid Office of Management and Budget (“OMB”) control number.
+Compliance with the information collections is mandatory. Responses to the information
+collections are not kept confidential and there is no mandatory retention period for the
+collections of information.
+The amendments adopted today do not alter the disclosure requirements set forth
+in our rules and forms; however, the JOBS Act and FAST Act amendments to Exchange
+Act Sections 12(g) and 15(d) and the amendments to our rules to reflect those statutory
+amendments are expected to insubstantially decrease the number of filings made pursuant
+to these rules and forms. Exchange Act Rules 12g-1, 12g-2, 12g-3, 12g-4 and 12h-3 set
+forth when an issuer’s securities are required to be registered and the procedures for a
+registrant to terminate its registration or suspend its duty to file reports. The amendments
+provide thresholds that issuers may rely on when determining their registration and
+reporting obligations. 147 Exchange Act Section 12(g)(5) and the amendment to Exchange
+Act Rule 12g5-1 also exclude securities received pursuant to certain employee
+compensation plans from the determination of when an issuer is required to initially
+register with the Commission. These changes will reduce the number of registrants
+required to initially register a class of securities with the Commission as well as
+accelerate the ability of some registrants to cease filing after they have crossed below the
+statutory thresholds. For purposes of the PRA, as discussed below, we estimate that the
+
+147
+
+We also are amending Rule 12g-1 to reflect the new higher thresholds in Section 12(g)(1).
+
+54
+
+amendments will not substantially reduce the number of filings received, nor will they
+affect the incremental burden or cost per filing.
+The titles for the affected collections of information are:
+(1) “Form 10” (OMB Control No. 3235-0064); 148
+(2) “Form 20-F” (OMB Control No. 3235-0288); 149
+(3) “Form 40-F” (OMB Control No. 3235-0381); 150
+(4) “Form 10-K” (OMB Control No. 3235-0063); 151
+(5) “Form 10-Q” (OMB Control No. 3235-0070); 152
+(6) “Form 8-K” (OMB Control No. 3235-0060); 153
+(7) “Schedule 14A” (OMB Control No. 3235-0059); 154
+(8) “Schedule 14C” (OMB Control No. 3235-0057); 155 and
+(9) “Form 15” (OMB Control No. 3235-0167);
+The forms were adopted under the Exchange Act and the Securities Act and set forth the
+disclosure requirements for periodic, current and other reports required to be filed by
+issuers registered with the Commission.
+We estimate that there are approximately 579 Exchange Act registrants that are
+bank holding companies or savings and loan holding companies. We estimate that
+approximately 100 bank holding companies have filed Forms 15 to terminate or suspend
+148
+
+17 CFR 249.10.
+
+149
+
+17 CFR 249.220f.
+
+150
+
+17 CFR 249.240f.
+
+151
+
+17 CFR 249.310.
+
+152
+
+17 CFR 249.308a.
+
+153
+
+17 CFR 249.308.
+
+154
+
+17 CFR 240.14a-101.
+
+155
+
+17 CFR 240.14c-101.
+
+55
+
+their reporting obligations under the Exchange Act based on the statutory changes in the
+JOBS Act. 156 To put these numbers in context, the current PRA estimate for the number
+of annual reports on Form 10-K filed annually is 8,137. Moreover, for certain changes,
+such as the amendments to the definition of “held of record” in Rule 12g5-1, we do not
+have access to data to support a reliable estimate of the number of issuers that will not be
+required to file reports based on the JOBS Act amendments and our implementation of
+those amendments.
+As explained in the Proposing Release, because the rule amendments are not
+expected to substantially impact the overall burden estimates associated with our rules
+and forms and in light of the limitations on available data, we have not submitted revised
+burden estimates for these collections of information to OMB for review in accordance
+with the PRA and its implementing regulations. 157 However, as we periodically update
+our PRA estimates in accordance with applicable regulations, we will make any
+necessary adjustments to reflect the actual number of filings received, including
+adjustments to reflect any reduction in filings arising from today’s amendments.
+VI.
+
+FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
+This Final Regulatory Flexibility Act Analysis has been prepared in accordance
+
+with 5 U.S.C. 604. This analysis relates to the amendments to Securities Act Rule 405
+and Exchange Act Rules 3b-4, 12g-1, 12g-2, 12g-3, 12g-4, 12g5-1, and 12h-3.
+156
+
+After the JOBS Act became effective, there was an increase in the number of termination and
+suspension of registrations by bank holding companies. We do not anticipate a similar rate of
+deregistration for bank holding companies after revising our rules to reflect the new, higher
+deregistration threshold. As the FAST Act was only recently enacted, we do not have data on the
+number of savings and loan holding companies seeking to deregister. However, we do not expect
+the rate of deregistration for savings and loan holding companies to be as high as for bank holding
+companies, as many of the newly eligible savings and loan holding companies (20 of 26) would
+have to give up an exchange listing in order to terminate registration and suspend reporting.
+
+157
+
+44 U.S.C. 3507(d); 5 CFR 1320.11.
+
+56
+
+A.
+
+Need for, and Objectives of, the Action
+
+The primary reason for, and objective of, the proposed amendments is to
+implement Title V and Title VI of the JOBS Act and Title LXXXV of the FAST Act.
+The JOBS Act directs the Commission to issue rules to implement the statutory changes
+and specifically charges the Commission with amending the definition of “held of
+record” and establishing a safe harbor for the determination relating to “employee
+compensation plan” securities. The amendments adopted today revise existing rules to
+reflect the new, higher Exchange Act registration, termination of registration and
+suspension of reporting thresholds for banks, savings and loan holding companies and
+bank holding companies, apply the definition of “accredited investor” in Securities Act
+Rule 501(a) in making determinations under Exchange Act Section 12(g)(1), revise the
+definition of “held of record” to exclude certain securities held by persons who received
+them pursuant to employee compensation plans, and establish a non-exclusive safe harbor
+for issuers to follow when determining whether those securities are “held of record.”
+Additionally, revising the definition and providing a non-exclusive safe harbor to issuers
+relating to the determination of securities “held of record” will assist issuers in
+determining which holders of record they are required to count under the registration
+requirements of Exchange Act Section 12(g).
+B.
+
+Significant Issues Raised by Public Comment
+
+In the Proposing Release, we requested comment on all aspects of the Initial
+Regulatory Flexibility Act (“IRFA”), including the number of small entities that would
+be affected by the proposed amendments, the nature of the impact, how to quantify the
+number of small entities that would be affected and how to quantify the impact of the
+proposed amendments. We did not receive comments specifically addressing the IRFA.
+57
+
+We did, however, receive comments from members of the public on matters that could
+potentially impact small entities. Several commenters recommended a safe harbor for the
+establishment of a reasonable belief of accredited investor status. 158 In contrast, one
+commenter opposed such a safe harbor out of concern that it would become a de facto
+minimum standard. 159 Commenters also sought additional guidance or revisions to the
+proposed amendment to Rule 12g5-1 and Securities Act Rule 701. 160
+C.
+
+Small Entities Subject to the Rule Amendments
+
+Exchange Act Rule 0-10(a) 161 defines an entity, other than an investment
+company, to be a “small business” or “small organization” if it had total assets of $5
+million or less on the last day of its most recent fiscal year. For purposes of the
+Regulatory Flexibility Act, an investment company is a small entity if it, together with
+other investment companies in the same group of related investment companies, has net
+assets of $50 million or less as of the end of its most recent fiscal year. 162 We estimate
+that there are approximately 841 issuers that file with the Commission, other than
+investment companies, that may be considered small entities. 163
+The rule amendments establishing the use of the Securities Act Rule 501(a)
+definition of “accredited investor” under Exchange Act Section 12(g)(1) and revising the
+definition of “held of record” to exclude certain securities and establish a non-exclusive
+
+158
+
+See letters from ADISA, CFM, Cleary, IPA. One commenter recommended a safe harbor for the
+determination specifically for private investment funds.
+
+159
+
+See letter from ABA.
+
+160
+
+See letters from ABA and ADISA.
+
+161
+
+17 CFR 240.0-10(a).
+
+162
+
+17 CFR 270.0-10(a).
+
+163
+
+The staff estimate is based on a review of Form 10-K, 20-F, 40-F filings (from EDGAR XBRL)
+with fiscal periods ending between January 31, 2015-January 31, 2016.
+
+58
+
+safe harbor may affect small issuers relying on the revised rules and safe harbor to
+determine the number of holders of record. While an issuer is not required to register a
+class of equity securities pursuant to Section 12(g) of the Exchange Act until the issuer’s
+total assets exceed $10 million, a small business or small organization may rely on the
+rules when determining to whom to issue securities and whether to compensate
+employees with securities. By providing guidance on the meaning of the term
+“accredited investor” in the Exchange Act context, the rule amendments may facilitate
+private offerings and the ability of an issuer to determine their registration and reporting
+obligations. By excluding certain employee compensation securities from the definition
+of “held of record,” the rule amendments may facilitate the use of equity compensation
+by small issuers, thereby helping them to preserve cash and giving them greater ability to
+determine when the Exchange Act Section 12(g) registration obligation would be
+triggered.
+We cannot reliably estimate the number of small entities affected by these rule
+amendments. By definition, such entities are not yet subject to Section 12(g) registration
+and reporting requirements, which are triggered by the issuer having total assets
+exceeding $10 million as of the last day of its fiscal year. We do not otherwise have
+information about the number of shareholders at small entities, including those who have
+received securities as a result of employee compensation plans.
+D.
+
+Reporting, Recordkeeping and Other Compliance Requirements
+The amendments’ use of the Securities Act Rule 501(a) definition of “accredited
+
+investor” and the definition of “held of record” will assist an issuer in determining the
+number of holders of record. In order for an issuer to rely on the safe harbor, the
+securities must be issued in a transaction exempt from, or not subject to, the registration
+59
+
+requirements of Securities Act Section 5 and satisfy the requirements of Securities Act
+Rule 701(c), which includes the requirement that the securities be offered or sold under a
+written compensatory benefit plan or written compensation contract. In addition, issuers
+seeking to rely upon the safe harbor may need to maintain records to help establish their
+compliance with the conditions of the safe harbor.
+The rule amendments affecting banks, bank holding companies and savings and
+loan holding companies do not create any new reporting, recordkeeping or other
+compliance requirements for those entities. The rule amendments raise the thresholds
+relating to registration for those entities and therefore reduce their compliance burdens.
+E.
+
+Agency Action to Minimize Effect on Small Entities
+
+The Regulatory Flexibility Act directs us to consider significant alternatives that
+would accomplish the stated objective of our proposals, while minimizing any significant
+adverse impact on small entities. In connection with the rule amendments, we considered the
+following alternatives: (1) the establishment of differing compliance or reporting
+
+requirements or timetables that take into account the resources available to small entities;
+(2) the clarification, consolidation or simplification of compliance and reporting
+requirements under the rule for small entities; (3) the use of performance rather than
+design standards; and (4) an exemption from coverage of the rules, or any part of the
+rules, for small entities.
+We are applying the current definition of “accredited investor” in Securities Act
+Rule 501(a) in making determinations under Exchange Act Rule 12g-1(b)(1).
+Alternatively, we could have developed a new definition of “accredited investor” for
+purposes of Section 12(g)(1); however, given the prevalence of the use of Regulation D
+for exempt offerings, many issuers are familiar with and rely upon the definition in Rule
+
+60
+
+501(a). The increased registration threshold established by the JOBS Act is intended to
+permit issuers, including small entities, to defer Exchange Act registration until issuers
+have a larger shareholder base. Because proposed Rule 12g-1(b)(1) is intended to
+facilitate an issuer’s ability to make the determination of when it is required to register,
+we believe use of the familiar performance standard in Rule 501(a) definition of
+“accredited investor” will further this regulatory objective for all issuers, including small
+entities.
+We determined not to propose or adopt a safe harbor for the determination of
+accredited investor status. Requiring issuers to consider their particular facts and
+circumstances to establish a reasonable basis for their determination will provide issuers
+with flexibility in making the determination and diminish concerns that the information
+relied upon could be unreliable. Additionally, some standards that might be included in a
+safe harbor could, as one commenter noted, result in establishing a de facto minimum
+standard for the determination. 164 This could shift the standard from a performance
+standard to a design standard which would provide issuers with less flexibility when
+making the determination.
+The revised definition of “held of record” and related safe harbor apply to all
+issuers, including small entities, that choose to exclude securities held by persons who
+received them pursuant to employee compensation plans in transactions exempt from, or
+not subject to, the registration requirements of Securities Act Section 5. The amendment
+and safe harbor help define the contours of an exemption from registration for issuers that
+might otherwise cross the Section 12(g) registration thresholds.
+
+164
+
+See letter from ABA.
+
+61
+
+The amendments are intended to permit issuers, including small entities, to
+exclude certain securities from the “held of record” determination and to assist issuers in
+making that determination by clarifying and simplifying requirements for all entities.
+Establishing different compliance or reporting requirements relating to employee
+compensation plan securities or accredited investor determinations for small entities
+could complicate the rules and make them more difficult to apply as those issuers grow,
+cease to be small entities, and are required to determine whether they must register with
+the Commission. With respect to the use of performance standards rather than design
+standards, we note that the holder of record threshold is a statutorily created design
+standard, requiring issuers to register if their holders of record coupled with their total
+assets cross certain thresholds. As we are modifying the definition of “held of record”
+and clarifying the determination of “accredited investor” under this statutory design
+standard, we did not evaluate whether a performance standard would be more useful.
+VII.
+
+STATUTORY AUTHORITY AND TEXT OF RULE AMENDMENTS
+The amendments contained in this release are being adopted under the authority
+
+set forth in Section 19 of the Securities Act, as amended, Sections 3(b), 12(g), 12(h),
+15(d) and 23(a) of the Exchange Act, as amended, and Section 503 and Section 602 of
+the JOBS Act.
+List of Subjects in 17 CFR Parts 230 and 240
+Reporting and recordkeeping requirements, Securities.
+TEXT OF THE AMENDMENTS
+For the reasons set out above, the Commission amends Title 17, chapter II of the
+Code of Federal Regulations as follows:
+
+62
+
+PART 230 - GENERAL RULES AND REGULATIONS, SECURITIES ACT OF
+1933
+1.
+
+The authority citation for part 230 continues to read, in part, as follows:
+
+Authority: 15 U.S.C. 77b, 77b note, 77c, 77d, 77d note, 77f, 77g, 77h, 77j, 77r, 77s, 77z3, 77sss, 78c, 78d, 78j, 78l, 78m, 78n, 78o, 78o-7 note, 78t, 78w, 78ll(d), 78mm, 80a-8,
+80a-24, 80a-28, 80a-29, 80a-30, and 80a-37, and Pub. L. 112-106, sec. 201(a), sec. 401,
+126 Stat. 313 (2012), unless otherwise noted.
+*
+
+*
+
+2.
+
+*
+
+*
+
+*
+
+Amend § 230.405 by adding a Note to paragraph (1) of the definition of “Foreign
+
+private issuer” to read as follows:
+§ 230.405 Definitions of terms.
+*
+
+*
+
+*
+
+*
+
+*
+
+Foreign private issuer. (1) *
+
+*
+
+*
+
+NOTE TO PARAGRAPH (1) OF THE DEFINITION OF Foreign private issuer: To determine the
+percentage of outstanding voting securities held by U.S. residents:
+A. Use the method of calculating record ownership in § 240.12g3-2(a) of this
+chapter, except that:
+(1) The inquiry as to the amount of shares represented by accounts of customers
+resident in the United States may be limited to brokers, dealers, banks and other
+nominees located in:
+(i) The United States,
+(ii) The issuer’s jurisdiction of incorporation, and
+(iii) The jurisdiction that is the primary trading market for the issuer’s voting
+securities, if different than the issuer’s jurisdiction of incorporation; and
+
+63
+
+(2) Notwithstanding § 240.12g5-1(a)(8) of this chapter, the issuer shall not
+exclude securities held by persons who received the securities pursuant to an employee
+compensation plan.
+B. If, after reasonable inquiry, the issuer is unable to obtain information about the
+amount of shares represented by accounts of customers resident in the United States, the
+issuer may assume, for purposes of this definition, that the customers are residents of the
+jurisdiction in which the nominee has its principal place of business.
+C. Count shares of voting securities beneficially owned by residents of the United
+States as reported on reports of beneficial ownership provided to the issuer or filed
+publicly and based on information otherwise provided to the issuer.
+*
+
+*
+
+*
+
+*
+
+*
+
+PART 240 - GENERAL RULES AND REGULATIONS, SECURITIES
+EXCHANGE ACT OF 1934
+3.
+
+The general authority citation for part 240 is revised to read as follows:
+
+Authority: 15 U.S.C. 77c, 77d, 77g, 77j, 77s, 77z-2, 77z-3, 77eee, 77ggg, 77nnn, 77sss,
+77ttt, 78c, 78c-3, 78c-5, 78d, 78e, 78f, 78g, 78i, 78j, 78j-1, 78k, 78k-1, 78l, 78m, 78n,
+78n-1, 78o, 78o-4, 78o-10, 78p, 78q, 78q-1, 78s, 78u-5, 78w, 78x, 78ll, 78mm, 80a-20,
+80a-23, 80a-29, 80a-37, 80b-3, 80b-4, 80b-11, 7201 et seq., and 8302; 7 U.S.C.
+2(c)(2)(E); 12 U.S.C. 5221(e)(3); 18 U.S.C. 1350; Pub. L. 111-203, 939A, 124 Stat. 1376
+(2010); and Pub. L. No. 112-106, sec. 503 and 602, 126 Stat. 326 (2012), unless
+otherwise noted.
+*
+
+*
+
+*
+
+*
+
+*
+
+64
+
+4.
+
+Amend § 240.3b-4 by redesignating the Instruction to paragraph (c)(1) as Note to
+
+paragraph (c)(1) , and revising newly redesignated Note to paragraph (c)(1) to read as
+follows:
+§ 240.3b-4 Definition of “foreign government,” “foreign issuer” and “foreign private
+issuer”.
+*
+
+*
+
+*
+(c) *
+
+*
+
+*
+*
+
+*
+
+NOTE TO PARAGRAPH (c)(1): To determine the percentage of outstanding
+voting securities held by U.S. residents:
+A. Use the method of calculating record ownership in § 240.12g3-2(a), except
+that:
+(1) Your inquiry as to the amount of shares represented by accounts of customers
+resident in the United States may be limited to brokers, dealers, banks and other
+nominees located in:
+(i) The United States,
+(ii) Your jurisdiction of incorporation, and
+(iii) The jurisdiction that is the primary trading market for your voting securities,
+if different than your jurisdiction of incorporation; and
+(2) Notwithstanding § 240.12g5-1(a)(8) of this chapter, you shall not exclude
+securities held by persons who received the securities pursuant to an employee
+compensation plan.
+B. If, after reasonable inquiry, you are unable to obtain information about the
+amount of shares represented by accounts of customers resident in the United States, you
+
+65
+
+may assume, for purposes of this definition, that the customers are residents of the
+jurisdiction in which the nominee has its principal place of business.
+C. Count shares of voting securities beneficially owned by residents of the United
+States as reported on reports of beneficial ownership provided to you or filed publicly and
+based on information otherwise provided to you.
+*
+5.
+
+*
+
+*
+
+*
+
+*
+
+Revise § 240.12g-1 to read as follows:
+
+§ 240.12g-1 Registration of securities; Exemption from section 12(g).
+An issuer is not required to register a class of equity securities pursuant to section
+12(g)(1) of the Act (15 U.S.C. 78l(g)(1)) if on the last day of its most recent fiscal year:
+(a) The issuer had total assets not exceeding $10 million; or
+(b) (1) The class of equity securities was held of record by fewer than 2,000
+persons or 500 persons who are not accredited investors (as such term is defined in §
+230.501(a) of this chapter, determined as of such day rather than at the time of the sale of
+the securities); or
+(2) The class of equity securities was held of record by fewer than 2,000 persons
+in the case of a bank; a savings and loan holding company, as such term is defined in
+section 10 of the Home Owners’ Loan Act (12 U.S.C. 1461); or a bank holding company,
+as such term is defined in section 2 of the Bank Holding Company Act of 1956 (12
+U.S.C. 1841).
+
+66
+
+6.
+
+Revise § 240.12g-2 to read as follows:
+
+§ 240.12g-2 Securities deemed to be registered pursuant to section 12(g)(1) upon
+termination of exemption pursuant to section 12(g)(2)(A) or (B).
+Any class of securities that would have been required to be registered pursuant to
+section 12(g)(1) of the Act (15 U.S.C. 78l(g)(1)) except for the fact that it was exempt
+from such registration by section 12(g)(2)(A) of the Act (15 U.S.C. 78l(g)(2)(A)) because
+it was listed and registered on a national securities exchange, or by section 12(g)(2)(B) of
+the Act (15 U.S.C. 78l(g)(2)(B)) because it was issued by an investment company
+registered pursuant to section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a8), shall upon the termination of the listing and registration of such class or the
+termination of the registration of such company and without the filing of an additional
+registration statement be deemed to be registered pursuant to section 12(g)(1) of the Act
+if at the time of such termination:
+(a) The issuer of such class of securities has elected to be regulated as a business
+development company pursuant to sections 55 through 65 of the Investment Company
+Act of 1940 (15 U.S.C. 80a-54 through 64) and such election has not been withdrawn; or
+(b) Securities of the class are not exempt from such registration pursuant to
+section 12 of the Act (15 U.S.C. 78l) or rules thereunder and all securities of such class
+are held of record by 300 or more persons, or 1,200 or more persons in the case of a
+bank; a savings and loan holding company, as such term is defined in section 10 of the
+Home Owners’ Loan Act (12 U.S.C. 1461); or a bank holding company, as such term is
+defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
+
+67
+
+7.
+
+Amend § 240.12g-3 by revising paragraphs (a)(2), (b)(2), and (c)(2) to read as
+
+follows:
+§240.12g-3 Registration of securities of successor issuers under section 12(b) or
+12(g).
+(a)
+
+*
+
+*
+
+*
+
+(2) All securities of such class are held of record by fewer than 300 persons, or
+1,200 persons in the case of a bank; a savings and loan holding company, as such term is
+defined in section 10 of the Home Owners’ Loan Act (12 U.S.C. 1461); or a bank holding
+company, as such term is defined in section 2 of the Bank Holding Company Act of 1956
+(12 U.S.C. 1841).
+*
+
+*
+
+(b)
+
+* * *
+*
+
+*
+
+*
+
+(2) All securities of such class are held of record by fewer than 300 persons, or
+1,200 persons in the case of a bank; a savings and loan holding company, as such term is
+defined in section 10 of the Home Owners’ Loan Act (12 U.S.C. 1461); or a bank holding
+company, as such term is defined in section 2 of the Bank Holding Company Act of 1956
+(12 U.S.C. 1841).
+*
+(c)
+
+*
+
+*
+*
+
+*
+*
+
+*
+*
+
+(2) All securities of such class are held of record by fewer than 300 persons, or
+1,200 persons in the case of a bank; a savings and loan holding company, as such term is
+defined in section 10 of the Home Owners’ Loan Act (12 U.S.C. 1461); or a bank holding
+company, as such term is defined in section 2 of the Bank Holding Company Act of 1956
+(12 U.S.C. 1841).
+
+68
+
+*
+
+*
+
+8.
+
+*
+
+*
+
+*
+
+Amend § 240.12g-4 by revising paragraph (a) to read as follows:
+
+§ 240.12g-4 Certifications of termination of registration under section 12(g).
+(a) Termination of registration of a class of securities under section 12(g) of the
+Act (15 U.S.C. 78l(g)) shall take effect 90 days, or such shorter period as the
+Commission may determine, after the issuer certifies to the Commission on Form 15 (§
+249.323 of this chapter) that the class of securities is held of record by:
+(1) Fewer than 300 persons, or in the case of a bank; a savings and loan holding
+company, as such term is defined in section 10 of the Home Owners’ Loan Act (12
+U.S.C. 1461); or a bank holding company, as such term is defined in section 2 of the
+Bank Holding Company Act of 1956 (12 U.S.C. 1841), 1,200 persons; or
+(2) Fewer than 500 persons, where the total assets of the issuer have not exceeded
+$10 million on the last day of each of the issuer’s most recent three fiscal years.
+*
+9.
+
+*
+
+*
+
+*
+
+*
+
+Amend § 240.12g5-1 by adding paragraph (a)(8) to read as follows:
+
+§ 240.12g5-1 Definition of securities “held of record”.
+(a)
+
+*
+
+*
+
+*
+
+(8)(i) For purposes of determining whether an issuer is required to register a class
+of equity securities with the Commission pursuant to section 12(g)(1) of the Act (15
+U.S.C. 78l(g)(1)), an issuer may exclude securities:
+(A) Held by persons who received the securities pursuant to an employee
+compensation plan in transactions exempt from, or not subject to, the registration
+requirements of section 5 of the Securities Act of 1933 (15 U.S.C. 77e); and
+
+69
+
+(B) Held by persons who received the securities in a transaction exempt from, or
+not subject to, the registration requirements of section 5 of the Securities Act (15 U.S.C.
+77e) from the issuer, a predecessor of the issuer or an acquired company in substitution or
+exchange for excludable securities under paragraph (a)(8)(i)(A) of this section, as long as
+the persons were eligible to receive securities pursuant to § 230.701(c) of this chapter at
+the time the excludable securities were originally issued to them.
+(ii) As a non-exclusive safe harbor under this paragraph (a)(8):
+(A) An issuer may deem a person to have received the securities pursuant to an
+employee compensation plan if such plan and the person who received the securities
+pursuant to the plan met the plan and participant conditions of § 230.701(c) of this
+chapter; and
+(B) An issuer may, solely for the purposes of Section 12(g) of the Act (15 U.S.C.
+78l(g)(1)), deem the securities to have been issued in a transaction exempt from, or not
+subject to, the registration requirements of Section 5 of the Securities Act (15 U.S.C. 77e)
+if the issuer had a reasonable belief at the time of the issuance that the securities were
+issued in such a transaction.
+*
+10.
+
+*
+
+*
+
+*
+
+*
+
+Amend § 240.12h-3 by revising paragraph (b)(1) to read as follows:
+
+§ 240.12h-3 Suspension of duty to file reports under section 15(d).
+*
+
+*
+
+*
+
+*
+
+*
+
+(b)
+
+*
+
+*
+
+*
+
+(1) Any class of securities, other than any class of asset-backed securities, held of
+record by:
+
+70
+
+(i) Fewer than 300 persons, or in the case of a bank; a savings and loan holding
+company, as such term is defined in section 10 of the Home Owners’ Loan Act (12
+U.S.C. 1461); or a bank holding company, as such term is defined in section 2 of the
+Bank Holding Company Act of 1956 (12 U.S.C. 1841), 1,200 persons; or
+(ii) Fewer than 500 persons, where the total assets of the issuer have not exceeded
+$10 million on the last day of each of the issuer's three most recent fiscal years; and
+*
+
+*
+
+*
+
+*
+
+*
+
+By the Commission.
+
+May 3, 2016
+
+Brent J. Fields
+Secretary
+
+71
+
+

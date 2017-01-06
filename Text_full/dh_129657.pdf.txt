@@ -1,0 +1,13367 @@
+Human Resource Management
+Policies and Employee Health
+and Well­being in the NHS
+Is there a link? A Hierarchical Linear Modelling
+Analysis
+
+Lul Admasachew
+Anna Topakas
+Jeremy Dawson
+Aston Business School, Aston University
+
+Contents
+Executive Summary.......................................................................................................................................................4
+
+1.
+
+Introduction...........................................................................................................................................................6
+
+
+2.	
+
+Health and Well-being: Definition and Outcomes ................................................................................................6
+
+
+The Definition of Health and Well-being ..................................................................................................................7
+
+The Definition of Health and Well-being at the Workplace ......................................................................................7
+
+What are the Antecedents and Consequences of Poor Health and Well-being at work? ...........................................8
+
+Health and Well-being in the NHS ..........................................................................................................................10
+
+3. Research Design ......................................................................................................................................................12
+
+Aim and Objective of the Study ..............................................................................................................................12
+
+The Conceptualisation of the Research Objectives..................................................................................................12
+
+Research Method and Source of Data......................................................................................................................14
+
+4.	
+
+Results and Discussion .......................................................................................................................................16
+
+
+Does the HRM Policy of the NHS Predict Employee Health and Well-being and Presenteeism? ..........................17
+
+Does the HRM Policy of the NHS Predict Supervisor’s Interest for the Health and Well-being of Employees? ...22
+
+Does Employee Health and Well-being, Supervisor Interest for Health and Well-being and Presenteeism Predict 
+
+Job Satisfaction, Intention to Leave, Work-related Stress and Injury rate? .............................................................23
+
+5.	
+
+Conclusion ............................................................................................................................................................1
+
+
+Appendix 1: Correlation Matrix of HRM variables.................................................................................................28
+
+Appendix 2: HRM Practices of the NHS as predictors of Health & Well-being .....................................................30
+
+Appendix 2A: The case of appraisal and teamwork ...............................................................................................30
+
+Appendix 2B: The case of satisfaction with quality of work; role makes a difference; feeling valued by
+
+colleagues; and having interesting job.....................................................................................................................33
+
+Appendix 2C: The case of job design; work pressure; feeling valued; and Supervisor Support .............................36
+
+Appendix 3: HRM Practices of the NHS as predictors of Health in the last 4 weeks .............................................39
+
+Appendix 3A: The case of appraisal and teamwork ...............................................................................................39
+
+Appendix 3B: The case of satisfaction with quality of work; role makes a difference; feeling valued by
+
+colleagues; and having interesting job.....................................................................................................................42
+
+Appendix 3C: The case of job design; work pressure; feeling valued by colleagues; and Supervisor Support ......45
+
+Appendix 4: HRM Practices of the NHS as predictors of Presenteeism .................................................................47
+
+Appendix 4A: The case of appraisal and teamwork ...............................................................................................47
+
+Appendix 4B: The case of satisfaction with quality of work; role makes a difference; feeling valued by colleagues
+
+and having an interesting job ...................................................................................................................................49
+
+Appendix 4C: The case of job design; work pressure and Supervisor Support .......................................................51
+
+
+2
+
+Appendix 5: HRM Practices of the NHS as predictors of A Construct of Presenteeism: Coming to Work Whilst
+
+Unwell .....................................................................................................................................................................53
+
+Appendix 5A: The case of appraisal and teamwork ................................................................................................53
+
+Appendix 5B: The case of satisfaction with quality of work; role makes a difference; feeling valued by colleagues
+
+and having an interesting job ...................................................................................................................................55
+
+Appendix 5C: The case of job design; work pressure; and Supervisor Support ......................................................57
+
+Appendix 6: HRM Practices of the NHS as predictors of Supervisor interest in health..........................................60
+
+Appendix 6A: The case of appraisal and teamwork ...............................................................................................60
+
+Appendix 6B: The case of satisfaction with quality of work; role makes a difference; feeling valued by
+
+colleagues; and having interesting job.....................................................................................................................63
+
+Appendix 6C: The case of job design; work pressure; feeling valued; and Supervisor Support .............................66
+
+Appendix 7: Does Employee Health and Well-being, Presenteeism, Health and well-being in the last 4 weeks, 
+
+Working while feeling unwell and Supervisor interest in health predict Job satisfaction, Intention to Leave, Injury
+
+Rate and Work-related stress ...................................................................................................................................68
+
+Appendix 7A: Job satisfaction as an outcome variable ...........................................................................................68
+
+Appendix 7B: Intention to leave as an outcome variable ........................................................................................70
+
+Appendix 7C: Injury rate as an outcome variable ...................................................................................................72
+
+Appendix 7D: Work-related stress as an outcome variable .....................................................................................74
+
+References ...................................................................................................................................................................77
+
+
+3
+
+Executive Summary
+¾ The main focus of this report is the health and well-being of staff working in the National
+Health Service (NHS) in England. We particularly looked at whether the health and wellbeing, presenteeism and supervisor interest for health and well-being are associated with
+Human Resource Management (HRM) practices of the NHS. Some of the HRM
+indicators we looked at include appraisal and well structured team work.
+¾	 We have also looked at the association between health and well-being, presenteeism and
+supervisor interest for health and well-being and four outcome variables namely job
+satisfaction, intention to leave, injury rate and work-related stress.
+¾	 In section 1 we describe how the overall report is laid out. In section 2 we discuss the
+research design which includes details of hierarchical linear modelling analysis; the
+research framework and details of variables we used from the 2009 NHS Staff Survey. In
+all of our analysis we used the characteristics of employees (e.g. ethnic background,
+gender, age and health status), job characteristics, economic status of employees and
+characteristics of organizations as control variables.
+¾	 In section 4, we discuss the research findings. The answer to the research question ‘Does
+the HRM policy of the NHS predict employee health and well-being, presenteeism and
+supervisor interest for health?’ is affirmative. Overall, feeling valued by colleagues is the
+strongest indicator of all four outcome variables.
+¾	 With the exception of work pressure, all of the HRM policy indicators are positively and
+significantly related with general health and well-being, health and well-being in the last
+four weeks and supervisor interest for health. Moreover, with the exception of work
+pressure, all of the HRM policy indicator variables are negatively and significantly
+related to presenteeism and its construct namely working while feeling unwell.
+¾	 Relative to the other two appraisal variables, quality of appraisal best predicts all four
+outcome variables mentioned above.
+¾	 Likewise, the finding for the one of our objectives: ‘Does employee health and wellbeing, presenteeism and supervisor interest for health and well-being predict work-related
+stress, injury rate, job satisfaction and intention to leave?’ is as follows. Job satisfaction is
+best predicted by supervisor interest for health. Intention to leave is best predicted by
+presenteeism due to pressure from supervisors. General health and well-being has the
+strongest negative relationship with injury rate and work-related stress. Presenteeism best
+4
+
+predicts work-related stress while its construct has the strongest positive relationship with
+injury rate. Section 5 concludes the study with a few recommendations.
+
+5
+
+1. Introduction
+1.1.	
+
+This report focuses on the link between Human Resource Management (HRM)
+policies and the health and well-being of the National Health Service (NHS) staff in
+England.
+
+1.2.	
+
+In section 2 we briefly highlight the definition of health and well-being and
+contextualise it within the workplace and the NHS respectively. We briefly touch on
+the benefits and antecedents of health and well-being at the workplace. Moreover, we
+discuss HRM policies that could enhance health and well-being.
+
+1.3.	
+
+In section 3 we present the Research Design which includes the aim of the study,
+source of data and methodology.
+
+1.4.	
+
+In sections 4, we present the link between human resource management (HRM)
+policies and health and well-being of NHS staff. This section has six subsections due
+to the different research question and themes we have attempted to address. Overall,
+the section provides answers to the following research questions.
+¾ Does HRM policy of the NHS predict employee health and well-being and
+presenteeism?
+¾ Does HRM policy of the NHS predict supervisor’s interest for the health of
+employees?’
+¾ Do employee health and well-being and presenteeism predict work-related stress,
+injury rate, job satisfaction and intention to leave?
+¾ Does supervisor’s interest for the health of employees predict work-related stress,
+injury rate, job satisfaction and intention to leave?
+
+1.5.	
+
+Section 5 wraps up the report with brief conclusion and recommendation. As this
+study is based on cross-sectional data, the findings cannot lead to inferences about
+causality. Instead, they lay the foundation for further research in the topic.
+
+2. Health and Well­being: Definition and Outcomes
+2.1.	
+
+In this section we conceptualise health and well-being in general and within the
+workplace and the NHS in particular.
+
+6
+
+2.2.	
+
+We believe this short review will
+provide a good rational for the research
+we have conducted herewith.
+
+Definitions of Health & Well­being and
+its Consequences
+1. Person-related dimension
+
+The Definition of Health and Well­being
+
+2.3.	
+
+2.4.
+
+The definitions and measures of health
+and well-being vary tremendously.	
+Health
+‘encompass[es]
+both
+physiological
+and
+psychological
+symptomology within a more medical
+context’ (Danna and Griffin, 1999, pg.
+364). 
+
+
+1.a. Physical symptomatology and
+epidemiological rates of physical
+illnesses and diseases.
+1.b. Mental, psychological, or emotional
+aspects of workers as indicated by
+emotional states and epidemiological
+rates of mental illnesses and diseases
+2. Societal dimension (e.g. the consequences
+of alcohol abuse). 
+
+Source: (Danna and Griffin, 1999)
+
+
+2.5.	
+
+The World Health Organization provides a broader definition of health as a ‘state of
+complete physical, mental, and social well-being and not merely the absence of
+disease or infirmity’ (World Health Organization, 1998).
+
+2.6.	
+
+Danna and Griffin (1999) view well-being as concept that covers a broader range of
+variables as compared to health. Well-being measures need to be context-free and
+encompass both life- and work-related experiences.
+
+2.7.	
+
+Overall, well-being is a broad concept that encompasses aspects of the ‘whole person’
+(Warr, 1990). It is often as a continuous construct ranging from feeling good to bad.
+
+The Definition of Health and Well­being at the Workplace
+
+2.8.	
+
+Health and well-being at work is a widely researched topic and several, seemingly
+disjointed bodies of literature exist under a wide range of topic areas(Danna and
+Griffin, 1999).
+
+2.9.	
+
+In general there are certain commonalities in the existing measures of health and
+well-being in that they focus on two specifics aspects; person-related and societal
+dimensions. The person-related measures tend to address physical and emotional
+factors relating to overall health and well-being. The details of this perspective will be
+uncovered in the following paragraphs and the box below depicts the summary of this
+concept (Danna and Griffin, 1999).
+
+7
+
+2.10.
+ Although well-being is
+generally viewed as a
+continuum between feeling
+good or bad, Warr (1999)
+suggests that it well-being
+can be conceptualised as a
+three-dimensional construct,
+with
+subdimensions
+referring
+to
+displeasure/pleasure,
+anxiety/comfort
+and
+depression/enthusiasm.
+
+Work­related antecedents of health and well­being
+¾ Health and safety and other perils 
+¾ Relationships at work (with supervisor and
+colleagues)
+¾ Role in organisation (ability to make a difference;
+job satisfaction)
+¾ Career development (availability  of training; good
+quality appraisal and personal development plan)
+¾ Work‐life balance 
+¾ Organisational climate (e.g. job design and work
+pressure)
+¾
+Others
+Source: Adopted from Danna and Griffin, 1999
+
+What are the Antecedents and Consequences of Poor Health and Well­being at work?
+
+2.11.	 Poor health and well-being at work leads to increased absenteeism and can have
+adverse effects on significant individual, organizational, economic and societal
+consequences (Boorman, 2009).
+2.12.	 Indeed, the exposure to work-related hazards varies across occupations and industries
+(Hassan et al., 2009). Encouraging evidence indicates that there is a marked decrease
+in work-related injuries in industrialised countries, due to a general change in the
+nature of jobs. Nevertheless, policy makers and workers are increasingly concerned
+with improving the quality of jobs overall. (Hassan et al., 2009).
+2.13.	 Employees’ overall well-being will be affected by factors such as physical security,
+the extent to which their position is socially valued and the extent to which they are
+given opportunities to use their skills in their job (Hassan et al., 2009). However, jobspecific well-being is not influenced only by these key job-features. Factors at the
+individual level, such as demographic variables or personality, will also have an
+effect on employees’ wellbeing (Warr, 1999).
+2.14.	 Hassan and his colleagues have reported measurable degrees and effects of workrelated injuries. They report that ‘during 2007/08 an estimated 2.1 million people
+suffered from an illness that they believed was caused or made worse by their current
+or past work; 229 workers suffered fatal injuries at work; and 299,000 self-reported
+injuries occurred… 34 million working days were lost overall (1.4 days per worker),
+
+8
+
+28 million due to work-related ill-health and 6 million due to workplace injury’
+(Hassan et al., 2009, pg. 7).
+2.15.	 The Health and Safety Executive (2009) estimates the annual costs to individuals of
+workplace accidents and work-related ill-health to be between £10.1 and £14.7 billion
+in Great Britain. These costs include loss of income, extra expenditure of dealing with
+injury or ill-health, subjective costs of pain, grief and suffering (Pathak, 2008).
+2.16.	 Likewise, in 2000/2001 alone, the cost of work-related injury and ill health for
+individuals was estimated to be between 10.1 and 14.7 billion. The cost for employers
+was between 3.9 and 7.8 billion; and to society 20 to 31.8 billion (Health and Safety
+Executive, 2004).
+2.17.	 Hassan and colleagues (2009) have demonstrated the antecedents and consequences
+of health and well-being at work and their interlinked nature (see figure 1 below).
+The figure clearly demonstrates that health at work cannot be understood only in
+terms of work-related antecedents. The relationships between health and work are not
+uni-factorial: the deterioration of workers’ health may be caused by work and nonwork-related factors.
+2.18.	 The authors describe health at work in terms of physical, physiological, mental and
+psychological ailments and wellbeing in the workplace as work/job-related
+satisfaction. There is lifestyle and work related antecedents of health and well-being
+which are also interlinked.
+
+9
+
+Figure 1: A conceptual framework of health and well-being at work
+
+Source: Hassan et al. (2009) adopted from Danna and Griffin (1999).
+
+2.19.	 The work-related antecedents are divided into two separate strands. The first
+antecedent stems from the work setting (e.g. health and safety hazards and other
+perils). The second one is occupational stresses which include factors intrinsic to the
+job; role in organization; relationships at work; career development; organizational
+structure and climate; home/work interface and other factors.
+2.20.	 The individual consequences of health and wellbeing in the workplace include
+physical, psychological and behavioral consequences.
+The organizational
+consequences include health insurance costs, compensable disorders/lawsuits,
+productivity decline, increased risk of injury, absenteeism as well as presenteeism.
+Social exclusion, anti-social behaviours, high unemployment rates and payments for
+unemployment benefits are some of the societal consequences of poor health and
+well-being at work.
+
+Health and Well­being in the NHS
+
+2.21.	 In line with other organizations, healthcare providers are focusing on selecting and
+employing managerial policies and practices that will optimise productivity and
+organizational effectiveness (West et al., 2006). Light stipulates that ‘[h]ealth care is
+10
+
+a template on which different stakeholders project their values, ambitions, fears and
+institutional reforms’ (2001 ,pg. 1168).
+
+2.22.	 The NHS employs a large number of employees over a wide range of professions,
+including nurses, allied health professionals, doctors, catering etc. (Pearson et al.,
+2004).
+2.23.	 The Department of Health and NHS organizations have a long-term goal of
+promoting and improving employees’ health and wellbeing in the NHS (Boorman,
+2009).
+2.24.	 Indeed, the Boorman review (2009) recommends that all NHS organizations provide
+staff health and well-being services that focus on both work and non-work factors that
+are linked to ill-health, are in accordance to wider public health policies and
+initiatives, and are viewed as a motivating factor for working in the.
+2.25.	 The review has identified the crucial importance of NHS staff health and well-being
+in terms of several outcomes, such as the capacity of staff to deliver improvements in
+patient care, as outlined in the NHS Constitution. Thus, the NHS is crucial to the
+delivery of the improvements in patient care envisaged in the NHS Constitution.
+2.26.	 The review also recommends that all NHS leaders and managers are developed and
+equipped to recognize the link between staff health and well-being and organizational
+performance. Additionally, it is recommended that managers are evaluated on the
+positive or negative impact they have on employee health and well-being.
+2.27.	 Due to the large number of organizations in the NHS (450) there are evident
+inconsistencies in the extent to which they support staff and promote their health and
+well-being at work. Compared to public sector figures, the NHS in England appears
+to have a higher number of working days lost per staff per year, as well as longer
+individual sickness absences. (Hassan et al., 2009).
+2.28.	 On the whole, it is recognized that the NHS faces major challenges recruiting,
+motivating and retaining employees in the current unstable period that is
+characterized by growth and significant changes (Pearson et al., 2004).
+
+11
+
+3. Research Design
+Aim and Objective of the Study
+
+3.1.	
+
+This report focuses on the link between HRM policies and the health and well-being
+of the NHS staff.
+
+3.2.	
+
+The particular objective of this analysis is to investigate the relationship between the
+predictor and outcome variables amongst the overall NHS staff as well as across the
+390 trusts. The specific research questions are:
+¾ Does HRM policy of the NHS predict employee health and well-being and
+presenteeism?
+¾ Does HRM policy of the NHS predict supervisor’s interest for the health and
+well-being of employees?’
+¾ Does employee health and well-being and presenteeism predict work-related
+stress, injury rate, job satisfaction and intention to leave?
+¾ Does supervisor’s interest for the health of employees predict work-related stress,
+injury rate, job satisfaction and intention to leave?
+
+3.3.	
+
+We believe the specific research questions laid out above would enable us to
+understand the association between HRM policies and employee health and wellbeing; HRM policies and supervisor interest for health and well-being and wellbeing; employee health and well-being and its association with work-related stress,
+injury rate and organisational outcomes (i.e. job satisfaction and intention to leave).
+The last two research questions laid out in the paragraph above will enable us to
+understand whether supervisor’s interest for the health of employees predict health
+outcomes such as work-related stress and injury rate as well as job satisfaction and
+intention to leave.
+
+The Conceptualisation of the Research Objectives
+
+3.4.	
+
+In figure 2 below, we present the research framework we have followed while
+conducting the analysis.
+
+3.5.	
+
+We have adopted this framework from Hassan et al. (2009) in the bid to achieve our
+research objectives and have logical themes.
+
+3.6.	
+
+We are not in any way generalising that some of the HRM variables we have
+incorporated in the analysis are interlinked. However, within the sample we are
+12
+
+investigating, this type of scenario has unfolded in only a few cases (See appendix 1
+for detail). Conceptually however, we expect that HRM policies to be interlinked
+somehow. For instance, working in a well structured team and being valued by
+colleagues normally go hand in hand. The same principle applies for work pressure
+and supervisor support. We expect these two to be correlated negatively but our
+results show that the correlation is not strong (See appendix 1).
+3.7.	
+
+In order to answer the question ‘Does HRM policy of the NHS predict employee
+health and well-being and presenteeism?’ we analysed appraisal, team work and
+work-related factors as predictors of employee health and well-being presenteeism.
+The outcome variables we have looked at are general health and well-being, health
+and well-being in the last 4 weeks, presenteeism as well as working while feeling
+unwell. Figure 2 illustrates the analysis described thus far. Arrow A demonstrates the
+direction of the prediction.
+
+3.8.	
+
+In order to answer the question ‘Does HRM policy of the NHS predict supervisor
+interest for health?’ we analysed appraisal, team work and work-related factors as
+predictors of employee health and well-being. The outcome variables we have looked
+at are general health and well-being, health and well-being in the last 4 weeks,
+presenteeism as well as working while feeling unwell. Figure 2 illustrates the analysis
+described thus far. Arrow C demonstrates the direction of the prediction.
+
+3.9.	
+
+In order to answer the question ‘Does employee health and well-being and
+presenteeism predict work-related stress, injury rate, job satisfaction and intention to
+leave?’ we analysed health and well-being variables as predictors of work-related
+stress, injury rate, job satisfaction and intention to leave. Figure 2 illustrates the
+analysis described herewith. Arrow B demonstrates the direction of the prediction.
+
+3.10.	 In order to answer the question ‘Does supervisor interest for health and well-being
+and well-being and presenteeism predict work-related stress, injury rate, job
+satisfaction and intention to leave?’ we analysed supervisor interest for health and
+well-being and well-being as predictor of work-related stress and injury rate. Figure 2
+illustrates the analysis described. Arrow D demonstrates the direction of the
+prediction.
+
+13
+
+Figure 2: The Research Framework
+Health and Well-being
+HRM practices in the NHS
+Appraisal
+
+A
+
+General Health and
+wellbeing
+
+B
+
+General Health and
+wellbeing in the last 4
+weeks
+
+Well structured team work
+Work-related factors
+
+1. Work-related stress
+
+Presenteeism
+
+Satisfied with quality of work
+
+Health-related
+Outcome
+
+2. Injury rate
+
+Working while feeling
+unwell (One construct of
+presenteeism)
+
+Role makes a difference
+Feel Valued by colleagues
+
+Organisational outcome
+
+Have interesting job
+
+1. Job satisfaction
+
+Job design
+
+C
+Work Pressure
+Supervisor Support
+
+2. Intention to leave
+Supervisor interest
+for health and
+wellbeing
+
+D
+
+Note: The arrows indicate the direction of prediction
+
+Research Method and Source of Data
+
+3.11.	 We analyzed the 2009 NHS Staff Survey which includes over 150,000 staff across all
+English NHS trusts.
+3.12.	 We conducted hierarchical linear modelling in which the health and well-being
+variables and its constructs were used either as predictors or outcome variables (see
+figure 2). This was an individual level analysis whereby the sample was also
+clustered within 390 trusts.
+3.13.	 In instances where the outcome variable is dichotomous/binary, we conducted logistic
+multilevel modelling.
+3.14.	 We conducted all of the analysis in SPSS, except for the logistic multilevel models.
+For these models, we used a statistical package called STATA.
+
+14
+
+3.15.	 HRM practices of the NHS we have incorporated in our analysis are indicated in
+above figure 2. Here, we would like to give a little bit more detail about the HRM
+variables. These variables have been used only as predictors:
+i.	
+
+Three appraisal variables
+¾
+¾
+¾
+
+‘% having appraisal in the last 12 months’
+
+‘% having a well-structured appraisal in the last 12 months’
+
+‘% agreeing personal development plan (PDP) in the last 12 months’ 
+
+
+ii.	
+
+Well-structured team work
+
+iii.	
+
+Seven work related key scores which are listed below. Indeed, one can see that some of these
+factors are indirectly related to work related factors. For instance, feeling valued by
+colleagues can be a result of each individual employee’s effort and the predisposition to think
+positively as well as the result of effective team work, job design, role clarity and supervisory
+support.
+¾
+¾
+¾
+¾
+¾
+¾
+¾
+
+Satisfied with quality of work
+
+Role makes a difference 
+
+Feel valued by colleagues
+
+Have interesting job 
+
+Job design 
+
+Work Pressure
+
+Supervisor Support 
+
+
+3.16.	 The health and well-being indicators in these models are listed below. The variables
+listed in (i) and (ii) below have been used both as outcome and predictor variables.
+The last two have only been used as outcome variables.
+i.	
+
+Health and well-being and health and well-being in the last 4 weeks
+
+ii.	
+
+Presenteeism and working while feeling unwell - which is one of the constructs of
+presenteeism.
+
+iii.	
+
+Work-related stress
+
+iv.	
+
+Injury rate
+
+3.17.	 Supervisor interest for health and well-being, job satisfaction and intention to leave
+are also included in our analysis.
+3.18.	 The control variables included in all of the multilevel models are listed below.
+i.	
+
+Characteristics of employees: Ethnic background, gender, age and health status
+
+ii.	
+
+Job characteristics and economic status: Job tenure, hours worked (i.e. full-time vs. parttime) managerial status and Occupational group (i.e. Nurses, Central Functions &
+15
+
+Administrative staff, Allied Health Professionals (AHPs), Clinical, Scientific &
+
+Technical Support, Medical/ Dental, Management, Paramedic & Ambulance Services and 
+
+Social Care Services. 
+
+iii.	
+
+Characteristics of organization: Size of trust, location of trust (i.e. London vs. other
+regions of the UK) and trust type (i.e. Acute, Primary Care Trusts (PCTs), Mental Health
+and Ambulance).
+
+4. Results and Discussion
+4.1.	
+
+The 2009 NHS staff survey is a rich data set which consists of 156,951 respondents,
+20% of which are male respondents.
+
+4.2.	
+
+The great majority of the respondents (i.e. 98.5%) are between the ages of 21 and 65.
+Overall, the white ethnic group is the majority (87%) and from this ‘British White’
+makes up 83%.
+
+4.3.	
+
+Only about 13% of the respondents are ethnic minorities, Indians and Black Africans
+being the largest groups (3.2% and 2.7% respectively).
+
+4.4.	
+
+The diverse professions of the NHS staff are regrouped into eight major occupational
+groups (see table 1 below). The table shows that staffs working in central functions
+and administration are highly represented in the sample, closely being followed by
+nurses.
+
+Table 1: The Occupational Groups of NHS Staff
+
+4.5.
+
+Frequency
+
+Percent
+
+Allied Health Professionals
+Central functions & Administration
+Clinical, scientific & Technical support
+
+24160
+45297
+16646
+
+16.0
+29.9
+11.0
+
+Medical Dental
+Nurses
+Paramedic & ambulance services
+Social care services
+Management
+Total
+Missing value
+Grand Total
+
+8202
+43371
+3237
+1288
+9153
+151354
+5597
+156951
+
+5.4
+28.7
+2.1
+0.9
+6.0
+100.0
+
+Cumulative
+Percent
+16.0
+45.9
+56.9
+62.3
+91.0
+93.1
+94.0
+100.0
+
+In the next few sections, we will discuss the results of the multilevel and logistic
+hierarchical linear modelling. The analysis is presented in line with the research
+
+16
+
+framework we have described above (see figure 2). We believe that the thematic
+arrangement of the sections will make it easy to follow for the reader.
+4.6.	
+
+We present the full details of these 
+
+analyses in the appendices. 
+
+
+Does the HRM Policy of the NHS Predict Employee
+Health and Well­being and Presenteeism?
+
+Summary of Analysis
+¾	 With the exception of work pressure,
+all  of the HRM  policy indicator
+variables  are  positively  and
+significantly  related  with  general
+health  and  well‐being as  well as
+health and well‐being in the last four
+weeks. Work pressure has a negative
+and  significant relationship  with
+these outcome variables. 
+¾ With the exception of work pressure,
+all  of	 the HRM  policy indicator
+variables  are
+negatively  and 
+significantly related to presenteeism
+and  its construct  namely working
+while feeling  unwell.  Work pressure
+has a positive  and  significant
+relationship with  these  outcome
+variables.
+¾ Relative  to  the other  two appraisal
+variables,  quality  of appraisal  best
+predicts all  four  outcome variables
+mentioned above. 
+¾	 Overall, feeling valued by colleagues
+is  the  strongest  indicator of all four
+outcome  variables.  This  is  followed 
+
+by  satisfaction  with quality of  work,
+
+although  this is  not  an effective
+
+predictor of  the  presenteesim
+variable  best  predictor  is  quality
+appraisal 
+
+4.7.	
+
+In the first two columns of table 2
+below, we present the results of HRM
+practices of the NHS and their
+association with health and wellbeing variables.
+The last two
+columns refer to the association
+between
+HRM
+policies
+and
+presenteeism. The summary of these
+results are presented in the box at the
+right hand side of this page.
+
+4.8.	
+
+The table shows that all three
+appraisal indicators are positively and
+significantly related to general health
+and well-being as well as health and
+wellbeing in the last 4 weeks. We
+can see that relative to the other two
+appraisal variables, good quality
+appraisal best predicts general health
+and well-being as well as health and
+well-being in the last 4 weeks.
+
+4.9.	
+
+Positive and significant results were 
+
+obtained for ‘working in well-
+
+structured team’, confirming the fact
+
+that harmony and good working 
+
+relationships can enhance employees’ health and well-being. 
+
+
+4.10.	 All but one work-related factor have a positive relationship with general health and
+well-being as well as health and well-being in the last 4 weeks.
+4.11.	 Indeed, various factors are related to the health and well-being of workers: workrelated, lifestyle and socio-economic factors (Hassan et al., 2009). The negative
+association we observe between work pressure and the health and well-being
+17
+
+variables is what we might expect. As workers are subjected to increased levels of
+stress, their minds and bodies are stretched and they are less likely to make health
+lifestyle choices. As a result, their immune systems may become weaker, increasing
+the probability of contacting new disease (e.g. cold, musculoskeletal illness, repetitive
+strain injury and headache) or worsening a pre-existing illnesses.
+4.12.	 Table 2 indicates that feeling valued by colleagues is the strongest predictor of
+employees general health and well-being as well as their health and well-being in the
+last four weeks.
+4.13.	 We can see from the table that the association between supervisor support and these
+health and well-being variables is positive but not as strong when compared with the
+results with feeling valued by colleagues. This is perhaps because employees tend to
+relate and open up more to the colleagues they work most closely with, but to whom
+they do not report.
+4.14.	 Table 2 also demonstrates the association between HRM practices and presenteeism
+as well as one of its constructs, namely working while feeling unwell. The results are
+negative and significant across the board for all outputs except work pressure. Indeed
+this is what we normally expect. Amongst other factors, it is work pressure that
+makes people attend work when sickness absenteeism is justifiable (Hemp, 2004).
+4.15.	 On the whole, the odds ratios indicate that all three appraisal variables are negatively
+and significantly related to presenteeism and its construct. Again, quality appraisal
+strongly predicts presenteeism and its construct when compared with the other two
+appraisal variables.
+
+18
+
+Table 2: The association between HRM Practices Predicting Health & Well-being as well as Presenteeism in
+the NHS
+General health and
+Well-being
+
+Health in last 4
+weeks
+
+Estim.
+
+Estim.
+
+T value
+
+T value
+
+Presenteeism
+OR
+
+Z value
+
+0.821***
+
+-12.14
+
+Working while feeling
+unwell
+OR
+
+Z value
+
+‐3.94
+
+Had appraisal in the last 12
+months
+
+.072***
+
+15.901
+
+.121***
+
+17.019
+
+Good quality appraisal
+
+.172***
+
+39.462
+
+.317***
+
+46.869
+
+0.388***
+
+-50.83
+
+0.623***
+
+-35.41
+
+Agreed personal development
+plan
+
+.078***
+
+18.080
+
+.142***
+
+20.959
+
+0.781***
+
+-15.73
+
+0.946***
+
+-4.14
+
+Working in well structured team
+
+.109***
+
+26.478
+
+.172***
+
+26.765
+
+0.549***
+
+-37.91
+
+0,769***
+
+-20.73
+
+Satisfied with quality of work
+
+.267***
+
+53.198
+
+.476***
+
+62.074
+
+0.463***
+
+-46.24
+
+0.559***
+
+-35.48
+
+Role makes a difference
+
+.193***
+
+26.740
+
+.346***
+
+31.101
+
+0.577***
+
+-23.59
+
+0.767***
+
+-11.62
+
+Feel valued by colleagues
+
+.315***
+
+64.951
+
+.489***
+
+64.917
+
+0.294***
+
+-75.99
+
+0.542***
+
+-38.13
+
+Have interesting job
+
+.238***
+
+45.507
+
+.402***
+
+49.578
+
+-45.23
+
+0.648***
+
+-25.96
+
+Job design
+
+.172***
+
+87.188
+
+.294***
+
+96.446
+
+0.449***
+
+-99.98
+
+0.660***
+
+-62.18
+
+Work Pressure
+
+-.166***
+
+-81.431
+
+-.274***
+
+-86.791
+
+1.839***
+
+75.52
+
+1.662***
+
+70.75
+
+Supervisor Support
+
+.120***
+
+60.059
+
+.201***
+
+64.965
+
+0.478***
+
+-97.75
+
+0.741***
+
+-46.56
+
+0.451***
+
+0.947***
+
+*0.01<p<0.05 ;**0.001<p<0.01;***p<0.001: OR=odds ratio; Estim=beta coefficient; **The values highlighted in blue indicate
+which work-related factor is the strongest predictor of the outcome variable.
+
+4.16.	 Similar results were obtained for ‘working in well structured team’. Presenteeism and
+working in well structured team are negatively associated.
+4.17.	 Feeling valued by colleagues has the strongest negative association with
+presenteeism. Employees who are valued by their colleagues are perceived as citizens
+of the organisation whose health and well-being really matters. Therefore, the
+pressure they feel from colleagues to show up at work will not be high because
+priority would be that placed on their health and well-being.
+
+19
+
+Graph 1: Appraisal and Health & Well-being
+
+Graph 2: Other work-related factors (dichotomous) and Health & Well-being
+
+Graph 3: Other work-related factors and Health & Well-being
+
+20
+
+Graph 4: Appraisal and Presenteeism
+
+Graph 5: Other work-related factors (dichotomous) and Presenteeism
+
+Graph 6: Other work-related factors and Presenteeism
+
+21
+
+Does the HRM Policy of the NHS Predict Supervisor’s Interest for the Health and Well­being of
+Employees?
+
+4.18.	 In table 3 we present the 
+
+results of the association
+between HRM Practices
+
+and Supervisor interest
+for the Health of NHS
+staff. S
+	 upervisor interest
+is a crucial element for
+maintaining the health
+and
+well-being
+of
+employees. The summary
+of these results are
+presented in the box at the
+right hand side of this
+page.
+
+Summary of Analysis
+
+¾ With the exception of work pressure, all of the HRM
+policy indicator  variables  are  positively and
+significantly  related  with supervisor  interest  for
+health. Work pressure has a negative and significant
+relationship with this outcome variable. 
+¾ Relative to the other two appraisal variables, quality
+of  appraisal  best predicts  all four outcome variables
+mentioned above.
+¾ Overall,  feeling valued  by colleagues is  the strongest
+indicator of supervisor interest for health. 
+
+4.19.	 All of the variables listed in table 3 have a positive and significant relationship with
+supervisor interest for health with the exception of work pressure.
+4.20.	 All of the appraisal variables are positively and significantly linked with supervisor
+interest for health and well-being, quality of appraisal being the strongest predictor.
+When there is quality appraisal, employees would be more likely to discuss the
+antecedents of their health and well-being more openly.
+4.21.	 In the 2009 NHS staff survey, supervisor interest for health and well-being is
+captured by a question ‘My immediate manager takes a personal interest in my health
+and well-being’. Indeed, ‘interest’ could mean anything from enquiring about the
+health and well-being of an employee through an impersonal e-mail and the usual
+‘Are you alright?’ to discussing what is affecting an employees’ health and wellbeing at work or outside and finding a remedy for it. Line managers cannot always
+be doctors or counsellors and have the best the solution at their fingertips.
+Nonetheless, advising their employees what help is available when they are struggling
+with health and well-being issues is one area they should all be acquainted with.
+Moreover, it shows that they have interest in their employees’ health and well-being
+when they try to rectify issues such as bullying and harassment through their own best
+conducts as well as by discouraging employees who resort to these disruptive
+behaviours.
+
+Table 3: The association between HRM Practices and Supervisor interest for the Health of NHS staff
+
+Supervisor
+interest for
+health
+
+Had
+appraisal
+in the last
+12
+months
+
+Good
+quality
+appraisal
+
+Agreed
+personal
+development
+plan
+
+Working
+in well
+structured
+team
+
+Satisfied
+with
+quality of
+work
+
+Role
+makes a
+difference
+
+Feel
+valued by
+colleagues
+
+Have
+interesting
+job
+
+Estim.
+
+.266***
+
+.650***
+
+.323***
+
+.398***
+
+.477***
+
+.409***
+
+.773***
+
+.537***
+
+t
+
+42.173
+
+111.208
+
+52.815
+
+70.421
+
+69.473
+
+41.1
+
+118.49
+
+74.644
+
+Job
+design
+
+Work
+Pressure
+
+Supervisor
+Support
+
+.562***
+
+-.286***
+
+.704***
+
+236.528
+
+-101.706
+
+339.184
+
+*0.01<p<0.05 ;**0.001<p<0.01;***p<0.001: Estim=beta coefficient; **The values highlighted in blue indicate which work-related factor is the strongest predictor of the outcome
+variable.
+
+Does Employee Health and Well­being, Supervisor Interest for Health and Well­being and Presenteeism Predict Job Satisfaction, Intention to
+Leave, Work­related Stress and Injury rate?
+
+4.22.	 In table 4 below we present the findings from the analysis we have conducted by using general health and well-being,
+health and well-being in the last four months, supervisor interest for health and well-being, presenteeism and one of its
+constructs called ‘working while feeling unwell’ as predictors of four outcome variables.
+4.23.	 Two individual/organisational outcome variables are considered, namely job satisfaction and intention to leave. The other
+two outcome variables are the health indicators ‘work-related stress’ and ‘injury rate’.
+4.24.	 The results show that job satisfaction has a positive relationship with both general health and well-being and health and
+well-being in the last 4 weeks. When we look at presenteeism and its construct however, the relationship job satisfaction
+has with the construct of presenteeism is a positive one. This is a surprising result as we normally expect people who go to
+work despite ill health are more likely to feel dissatisfied with their jobs. Indeed, this presenteeism construct is
+
+general in nature as it only asks about 
+
+the presence of employees at work
+
+despite ill health1. It does not refer to
+
+‘pressure’ per se. Perhaps that is why we 
+
+observe this unexpected result.
+
+
+¾
+¾
+¾
+
+4.25.	 Overall, the results indicate
+supervisor interest for health
+predicts job satisfaction. 
+
+
+that
+
+best 
+
+¾
+
+Summary of Analysis
+Job satisfaction is best predicted by
+supervisor interest for health.
+Intention to leave is best predicted by
+presenteeism.
+General health and wellbeing has the
+strongest negative relationship with both
+injury rate and work-related stress.
+Presenteeism best predicts work-related
+stress while its construct has the strongest
+positive relationship with injury rate.
+
+4.26.	 On another level, we observe that
+
+intention to leave has a negative 
+
+association with general health and well-
+
+being as well as health and well-being in 
+
+the last 4 weeks. A similar relationship holds for supervisor interest for health.
+
+
+4.27.	 When we look at presenteeism and its construct, the relationship intention to leave
+has with the construct of presenteeism is negative. This is a surprising result as we
+normally expect people who tend to be present at work despite feeling unwell to be
+more likely to want to leave their jobs. One reason for this might be the fact that
+people who are motivated and engaged can go to work even when they are not well
+(e.g. careerism). We need to bear in mind that this presenteeism construct is a general
+question and does not refer to pressure stemming from colleagues and supervisors.
+4.28.	 Injury rate and work-related stress have a negative association with general health and
+well-being. This is indeed what we normally expect because as general health and
+well-being declines the susceptibility for injury increases. Employees who are unwell
+may lose their usual levels of concentration and vigour. The same holds for workrelated stress as indeed general health and well-being usually goes hand in hand with
+good mental health.
+4.29.	 Surprisingly, the association we observe between health and well-being within the
+last 4 weeks and injury rate as well as work-related stress is positive. This might be
+due to the fact that respondents might not really perceive the injuries and workrelated stress they experience in a short span of time (i.e. a month) as significant.
+4.30.	 Supervisor interest for health and well-being has a negative relationship with both
+injury rate and work-related stress. On the other hand, presenteeism and its construct
+have a positive relationship with both of these outcome variables.
+
+1
+
+The exact wording of the question is ‘In the last three months have you ever come to work despite not feeling well enough to perform your
+
+duties?’
+
+4.31.	 General health and well-being has the strongest negative association with both injury
+rate and work-related health.
+4.32.	 Presenteeism best predicts work-related stress while its construct has the strongest
+positive relationship with injury rate.
+Table 4: Health and Well-being and its outcomes
+Outcome
+variables
+below
+
+Job Satisfaction
+
+Intention to leave
+
+Injury rate
+
+Work-related stress
+
+Estim
+
+t
+
+Estim
+
+t
+
+OR
+
+Z
+
+OR
+
+Z
+
+Health and
+WellHealth in last
+4 weeks
+
+.181***
+
+95.571
+
+-.273***
+
+-97.191
+
+0.599***
+
+-.531
+
+0.349***
+
+-118.2
+
+.194***
+
+103.12
+
+-.287***
+
+103.156
+
+1.358***
+
+0.292
+
+1.934***
+
+110.49
+
+Supervisor
+interest for
+Presenteeism
+
+.422***
+
+270.78
+
+-.411***
+
+-155.853
+
+0.748***
+
+-38.11
+
+0.606***
+
+-81.98
+
+-.638***
+
+-136.539
+
+.764***
+
+107.16
+
+2.510***
+
+48.89
+
+4.041***
+
+91.45
+
+.306***
+
+73.208
+
+-.461***
+
+-74.227
+
+2.548***
+
+0.884
+
+3.841***
+
+1.314
+
+Working
+while feeling
+unwell
+
+*0.01<p<0.05 ;**0.001<p<0.01;***p<0.001: Estim=beta coefficient; **The values highlighted in blue indicate
+which predictor is the strongest predictor of the outcome variables.
+Graph 7: Health & Well-being and work-related stress Graph 8: Health & Well-being and job satisfaction
+
+Graph 9: Health & Well-being and intention to leave Graph 10: Health & Well-being and injury rate
+
+25
+
+Graph 11: Presenteeism and work-related stress
+
+Graph 12: Presenteeism and job satisfaction
+
+Graph 13: Presenteeism and intention to leave
+
+Graph 14: Presenteeism and injury rate
+
+26
+
+¾
+
+5. Conclusion
+
+Summary of the Concluding Remarks
+Before planning and implementing health and
+wellbeing enhancing policies, the HRM practices of the
+NHS should pay particular attention to variations of
+work culture that are prevalent among various
+occupational groups
+We recommend that such polices should be piloted
+extensively.
+Longitudinal and qualitative studies should be
+undertaken in order to broaden our understanding of the
+health and wellbeing of the NHS staff.
+
+5.1.	
+
+On the whole, we feel this
+¾
+research
+is
+informative
+especially in the NHS context.
+¾
+It
+supports
+what
+is
+recommended by the Boorman
+review (2009) especially in
+terms of exploring health and
+well-being and presenteeism in the NHS.
+
+5.2.	
+
+On the whole, the analysis we have conducted indicates that the HRM policies of the
+NHS are related to employees’ health and well-being, presenteeism and supervisor
+interest for health and well-being. For example, having appraisal and being able to
+work in a well structured team are associated with these outcome variables.
+
+5.3.	
+
+Moreover, we have observed that health and well-being, presenteeism and supervisor
+interest for health and well-being can predict job satisfaction and intention to leave
+which are by and large the indirect measures of productivity. Indeed, less productivity
+means a decline in patient care which is the one of the cores of the NHS pledges.
+
+5.3.1.	 In addition, we have observed that health and well-being, presenteeism and
+supervisor interest for health and well-being can predict injury rate and work-related
+stress. This implies that HRM policies which promote the health and well-being of
+NHS staff in one way or another can indeed curtail injury rate and work-related
+stress. Apart from the damage it brings to employees’ welfare, injury rates increase
+sickness absence, damage productivity and incur higher medical legal fees for the
+NHS.
+5.4.	
+
+The direction of causality cannot be inferred as this is a cross sectional study.
+Longitudinal and qualitative studies that explore the health and well-being of NHS
+staff and how these interlink with HRM policies are essential.
+
+5.5.	
+
+Studies that explore the meaning of some ambiguous terms are essential. For instance,
+supervisor interest for health and well-being can be ambiguous as the term ‘interest’
+can mean different things for different employees.
+
+27
+
+Appendix 1: Correlation Matrix of HRM variables.
+Had
+appraisal
+in the
+last 12
+months
+
+Good
+quality
+appraisal
+
+Agreed
+personal
+development
+plan
+
+Satisfied
+with
+quality
+of work
+
+Role
+makes a
+difference
+
+Feel
+valued by
+colleagues
+
+Have
+interesting
+job
+
+Job
+design
+
+Work
+Pressure
+
+Working
+in well
+structured
+team
+
+Supervisor
+Support
+
+1
+
+.321**
+
+.836**
+
+.037**
+
+.042**
+
+.100**
+
+.071**
+
+.175**
+
+-.014*
+
+.088**
+
+.146**
+
+Good quality
+appraisal
+
+.321**
+
+1
+
+.337**
+
+.145**
+
+.092**
+
+.151**
+
+.108**
+
+.343**
+
+-.155**
+
+.154**
+
+.304**
+
+Agreed
+personal
+development
+plan
+Satisfied
+with quality
+of work
+
+.836**
+
+.337**
+
+1
+
+.041**
+
+.059**
+
+.121**
+
+.104**
+
+.217**
+
+-.014*
+
+.115**
+
+.189**
+
+.037**
+
+.145**
+
+.041**
+
+1
+
+.334**
+
+.137**
+
+.112**
+
+.299**
+
+-.401**
+
+.085**
+
+.143**
+
+Role makes
+a difference
+
+.042**
+
+.092**
+
+.059**
+
+.334**
+
+1
+
+.195**
+
+.275**
+
+.205**
+
+-.053**
+
+.074**
+
+.120**
+
+Feel valued
+by
+colleagues
+Have
+interesting
+job
+
+.100**
+
+.151**
+
+.121**
+
+.137**
+
+.195**
+
+1
+
+.270**
+
+.368**
+
+-.042**
+
+.175**
+
+.290**
+
+.071**
+
+.108**
+
+.104**
+
+.112**
+
+.275**
+
+.270**
+
+1
+
+.208**
+
+.039**
+
+.095**
+
+.160**
+
+.175**
+
+.343**
+
+.217**
+
+.299**
+
+.205**
+
+.368**
+
+.208**
+
+1
+
+-.270**
+
+.302**
+
+.585**
+
+-.014*
+
+-.155**
+
+-.014*
+
+-.401**
+
+-.053**
+
+-.042**
+
+.039**
+
+-
+
+1
+
+-.078**
+
+-.160**
+
+-.078**
+
+1
+
+.226**
+
+-.160**
+
+.226**
+
+1
+
+Had
+appraisal in
+the last 12
+months
+
+Job design
+Work
+Pressure
+
+Working in
+well
+structured
+team
+Supervisor
+Support
+
+**
+
+.088
+
+.154
+
+.115
+
+.085
+
+.074
+
+.175
+
+.095
+
+.270
+.302**
+
+.146**
+
+.304**
+
+.189**
+
+.143**
+
+.120**
+
+.290**
+
+.160**
+
+.585**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+**
+
+*. Correlation is significant at the 0.05 level (2-tailed): **. Correlation is significant at the 0.01 level (2-tailed).:*** Cells highlighted in blue indicate moderate to strong correlation.
+
+29
+
+
+Appendix 2: HRM Practices of the NHS as predictors of Health & Well­being
+Appendix 2A: The case of appraisal and teamwork
+Appraisal in last 12
+months
+
+Quality appraisal
+
+Personal Development
+Plan
+
+Working in well
+structured team
+
+Estimate
+
+Estimate
+
+Estimate
+
+Estimate
+
+P
+
+p
+
+p
+
+p
+
+‐1.279
+
+0.000
+
+ ‐1.213
+
+0.000
+
+ ‐1.258
+
+0.000
+
+ ‐1.227
+
+0.000
+
+0.058
+
+0.000
+
+0.058
+
+0.000
+
+0.060
+
+0.000
+
+0.056
+
+0.000
+
+Age (16-20)
+
+‐0.424
+
+0.000
+
+ ‐0.418
+
+0.000
+
+ ‐0.420
+
+0.000
+
+ ‐0.431
+
+0.000
+
+Age (21-30)
+
+‐0.342
+
+0.000
+
+ ‐0.330
+
+0.000
+
+ ‐0.345
+
+0.000
+
+ ‐0.347
+
+0.000
+
+Age (31-40)
+
+‐0.313
+
+0.000
+
+ ‐0.300
+
+0.000
+
+ ‐0.317
+
+0.000
+
+ ‐0.321
+
+0.000
+
+Age (41-50)
+
+‐0.285
+
+0.000
+
+ ‐0.271
+
+0.000
+
+ ‐0.286
+
+0.000
+
+ ‐0.292
+
+0.000
+
+Age (51-65)
+
+‐0.223
+
+0.000
+
+ ‐0.210
+
+0.000
+
+ ‐0.223
+
+0.000
+
+ ‐0.231
+
+0.000
+
+Management Status (1=Yes,
+2=No)
+
+0.004
+
+0.341
+
+ ‐0.003
+
+0.582
+
+0.003
+
+0.496
+
+ ‐0.001
+
+0.812
+
+Tenure (<1 year)
+
+0.106
+
+0.000
+
+0.093
+
+0.000
+
+0.105
+
+0.000
+
+0.088
+
+0.000
+
+Tenure (1-2 years)
+
+0.023
+
+0.002
+
+0.011
+
+0.151
+
+0.023
+
+0.003
+
+0.022
+
+0.004
+
+Tenure (3-5 years)
+
+0.004
+
+0.561
+
+ ‐0.003
+
+0.609
+
+0.003
+
+0.674
+
+0.006
+
+0.404
+
+Tenure (6-10 years)
+
+‐0.011
+
+0.079
+
+ ‐0.013
+
+0.040
+
+ ‐0.012
+
+0.067
+
+ ‐0.007
+
+0.277
+
+Tenure (11-15 years)
+
+‐0.011
+
+0.143
+
+ ‐0.011
+
+0.144
+
+ ‐0.011
+
+0.137
+
+ ‐0.009
+
+0.246
+
+0.062
+
+0.000
+
+0.061
+
+0.000
+
+0.062
+
+0.000
+
+0.058
+
+0.000
+
+‐0.042
+
+0.000
+
+ ‐0.032
+
+0.001
+
+ ‐0.046
+
+0.000
+
+ ‐0.034
+
+0.001
+
+0.018
+
+0.045
+
+0.023
+
+0.012
+
+0.022
+
+0.022
+
+0.018
+
+0.052
+
+‐0.038
+
+0.000
+
+ ‐0.044
+
+0.000
+
+ ‐0.039
+
+0.000
+
+ ‐0.034
+
+0.002
+
+0.068
+
+0.000
+
+0.088
+
+0.000
+
+0.059
+
+0.000
+
+0.077
+
+0.000
+
+Nurses
+
+‐0.078
+
+0.000
+
+ ‐0.072
+
+0.000
+
+ ‐0.082
+
+0.000
+
+ ‐0.070
+
+0.000
+
+Paramedic & Ambulance
+Services
+
+‐0.064
+
+0.042
+
+ ‐0.047
+
+0.131
+
+ ‐0.070
+
+0.030
+
+ ‐0.051
+
+0.102
+
+Social Care Services
+
+‐0.030
+
+0.214
+
+ ‐0.030
+
+0.222
+
+ ‐0.037
+
+0.135
+
+ ‐0.023
+
+0.333
+
+Constant
+Gender
+
+Part-Time (<= 29 hours)
+AHP
+Central Functions & Admin
+Clinical, Scientific & Technical
+Support
+Medical/ Dental
+
+0.005
+
+0.500
+
+0.006
+
+0.445
+
+0.004
+
+0.616
+
+0.006
+
+0.396
+
+Acute Type
+
+‐0.018
+
+0.532
+
+ ‐0.019
+
+0.511
+
+ ‐0.019
+
+0.516
+
+ ‐0.023
+
+0.434
+
+PCT Type
+
+‐0.042
+
+0.152
+
+ ‐0.044
+
+0.127
+
+ ‐0.047
+
+0.117
+
+ ‐0.055
+
+0.061
+
+Mental Health Type
+
+‐0.062
+
+0.037
+
+ ‐0.067
+
+0.023
+
+ ‐0.064
+
+0.035
+
+ ‐0.068
+
+0.023
+
+Health Status (1=Good, 2=Poor)
+
+‐0.465
+
+0.000
+
+ ‐0.459
+
+0.000
+
+ ‐0.465
+
+0.000
+
+ ‐0.463
+
+0.000
+
+Ethn. White
+
+0.090
+
+0.000
+
+0.111
+
+0.000
+
+0.089
+
+0.000
+
+0.092
+
+0.000
+
+Ethn. Mixed
+
+0.000
+
+0.997
+
+0.018
+
+0.491
+
+0.007
+
+0.791
+
+ ‐0.010
+
+0.716
+
+Ethn. Asian
+
+‐0.038
+
+0.059
+
+ ‐0.039
+
+0.050
+
+ ‐0.035
+
+0.086
+
+ ‐0.044
+
+0.029
+
+Ethn. Black
+
+0.106
+
+0.000
+
+0.107
+
+0.000
+
+0.105
+
+0.000
+
+0.113
+
+0.000
+
+The name of predictor is
+indicated above
+
+0.072
+
+0.000
+
+0.172
+
+0.000
+
+0.078
+
+0.000
+
+0.109
+
+0.000
+
+Trust size
+
+0.002
+
+0.467
+
+0.003
+
+0.310
+
+0.002
+
+0.466
+
+0.003
+
+0.377
+
+London Location
+
+31
+
+32 
+
+
+Appendix 2B: The case of satisfaction with quality of work; role makes a
+difference; feeling valued by colleagues; and having interesting job
+Satisfied with
+quality of work
+Estimate
+
+P
+
+Role makes a
+difference
+Estimate
+
+p
+
+Feel valued by
+colleagues
+Estimate
+
+p
+
+Have an interesting
+job
+Estimate
+
+p
+
+‐1.265
+
+0.000
+
+ ‐1.298
+
+0.000
+
+ ‐1.225
+
+0.000
+
+ ‐1.278
+
+0.000
+
+0.056
+
+0.000
+
+0.054
+
+0.000
+
+0.059
+
+0.000
+
+0.061
+
+0.000
+
+Age (16-20)
+
+‐0.433
+
+0.000
+
+ ‐0.444
+
+0.000
+
+ ‐0.424
+
+0.000
+
+ ‐0.401
+
+0.000
+
+Age (21-30)
+
+‐0.318
+
+0.000
+
+ ‐0.327
+
+0.000
+
+ ‐0.336
+
+0.000
+
+ ‐0.318
+
+0.000
+
+Age (31-40)
+
+‐0.291
+
+0.000
+
+ ‐0.304
+
+0.000
+
+ ‐0.303
+
+0.000
+
+ ‐0.295
+
+0.000
+
+Age (41-50)
+
+‐0.258
+
+0.000
+
+ ‐0.274
+
+0.000
+
+ ‐0.270
+
+0.000
+
+ ‐0.265
+
+0.000
+
+Age (51-65)
+
+‐0.199
+
+0.000
+
+ ‐0.216
+
+0.000
+
+ ‐0.209
+
+0.000
+
+ ‐0.207
+
+0.000
+
+Management Status (1=Yes,
+2=No)
+
+0.012
+
+0.023
+
+0.004
+
+0.389
+
+ ‐0.017
+
+0.000
+
+ ‐0.010
+
+0.035
+
+Tenure (<1 year)
+
+0.083
+
+0.000
+
+0.091
+
+0.000
+
+0.095
+
+0.000
+
+0.087
+
+0.000
+
+Tenure (1-2 years)
+
+0.018
+
+0.028
+
+0.021
+
+0.008
+
+0.029
+
+0.000
+
+0.022
+
+0.004
+
+Tenure (3-5 years)
+
+0.002
+
+0.744
+
+0.002
+
+0.798
+
+0.012
+
+0.082
+
+0.004
+
+0.511
+
+Tenure (6-10 years)
+
+‐0.009
+
+0.183
+
+ ‐0.010
+
+0.132
+
+ ‐0.003
+
+0.597
+
+ ‐0.007
+
+0.221
+
+Tenure (11-15 years)
+
+‐0.005
+
+0.522
+
+ ‐0.007
+
+0.369
+
+ ‐0.003
+
+0.706
+
+ ‐0.008
+
+0.271
+
+Part-Time (<= 29 hours)
+
+0.059
+
+0.000
+
+0.060
+
+0.000
+
+0.054
+
+0.000
+
+0.066
+
+0.000
+
+AHP
+
+0.006
+
+0.625
+
+ ‐0.043
+
+0.000
+
+ ‐0.048
+
+0.000
+
+ ‐0.054
+
+0.000
+
+Central Functions & Admin
+
+0.022
+
+0.086
+
+0.011
+
+0.282
+
+0.023
+
+0.010
+
+0.044
+
+0.000
+
+‐0.029
+
+0.038
+
+ ‐0.044
+
+0.000
+
+ ‐0.025
+
+0.015
+
+ ‐0.037
+
+0.000
+
+0.111
+
+0.000
+
+0.070
+
+0.000
+
+0.052
+
+0.000
+
+0.055
+
+0.000
+
+Nurses
+
+‐0.032
+
+0.012
+
+ ‐0.082
+
+0.000
+
+ ‐0.084
+
+0.000
+
+ ‐0.092
+
+0.000
+
+Paramedic & Ambulance
+Services
+
+‐0.124
+
+0.003
+
+ ‐0.096
+
+0.010
+
+ ‐0.056
+
+0.066
+
+ ‐0.081
+
+0.009
+
+Social Care Services
+
+‐0.008
+
+0.769
+
+ ‐0.032
+
+0.201
+
+ ‐0.022
+
+0.338
+
+ ‐0.030
+
+0.199
+
+0.010
+
+0.198
+
+0.005
+
+0.509
+
+0.005
+
+0.456
+
+0.005
+
+0.483
+
+Constant
+Gender
+
+Clinical, Scientific &
+Technical Support
+Medical/ Dental
+
+London Location
+
+33
+
+Acute Type
+
+‐0.081
+
+0.040
+
+ ‐0.026
+
+0.460
+
+ ‐0.019
+
+0.503
+
+ ‐0.002
+
+0.947
+
+PCT Type
+
+‐0.103
+
+0.010
+
+ ‐0.048
+
+0.180
+
+ ‐0.052
+
+0.070
+
+ ‐0.024
+
+0.412
+
+Mental Health Type
+
+‐0.129
+
+0.001
+
+ ‐0.069
+
+0.055
+
+ ‐0.068
+
+0.019
+
+ ‐0.046
+
+0.119
+
+Health Status (1=Good,
+2=Poor)
+
+‐0.460
+
+0.000
+
+ ‐0.464
+
+0.000
+
+ ‐0.446
+
+0.000
+
+ ‐0.460
+
+0.000
+
+Ethn. White
+
+0.121
+
+0.000
+
+0.103
+
+0.000
+
+0.072
+
+0.000
+
+0.075
+
+0.000
+
+Ethn. Mixed
+
+0.020
+
+0.473
+
+0.003
+
+0.923
+
+ ‐0.011
+
+0.664
+
+ ‐0.018
+
+0.500
+
+Ethn. Asian
+
+‐0.044
+
+0.036
+
+ ‐0.036
+
+0.079
+
+ ‐0.047
+
+0.016
+
+ ‐0.043
+
+0.029
+
+Ethn. Black
+
+0.121
+
+0.000
+
+0.122
+
+0.000
+
+0.116
+
+0.000
+
+0.111
+
+0.000
+
+The name of predictor is
+indicated above
+
+0.267
+
+0.000
+
+0.193
+
+0.000
+
+0.315
+
+0.000
+
+0.238
+
+0.000
+
+Trust size
+
+0.004
+
+0.200
+
+0.003
+
+0.285
+
+0.003
+
+0.336
+
+0.003
+
+0.392
+
+34
+
+35 
+
+
+Appendix 2C: The case of job design; work pressure; feeling valued; and
+Supervisor Support
+Job Design
+
+Estimate
+
+p
+
+Work Pressure
+
+Estimate
+
+p
+
+Supervisor
+Support
+Estimate
+
+p
+
+‐1.340
+
+0.000
+
+ ‐1.399
+
+0.000
+
+ ‐1.320
+
+0.000
+
+0.063
+
+0.000
+
+0.050
+
+0.000
+
+0.058
+
+0.000
+
+Age (16-20)
+
+‐0.411
+
+0.000
+
+ ‐0.426
+
+0.000
+
+ ‐0.437
+
+0.000
+
+Age (21-30)
+
+‐0.306
+
+0.000
+
+ ‐0.286
+
+0.000
+
+ ‐0.340
+
+0.000
+
+Age (31-40)
+
+‐0.276
+
+0.000
+
+ ‐0.253
+
+0.000
+
+ ‐0.308
+
+0.000
+
+Age (41-50)
+
+‐0.247
+
+0.000
+
+ ‐0.220
+
+0.000
+
+ ‐0.273
+
+0.000
+
+Age (51-65)
+
+‐0.186
+
+0.000
+
+ ‐0.166
+
+0.000
+
+ ‐0.209
+
+0.000
+
+Management Status
+(1=Yes, 2=No)
+
+‐0.038
+
+0.000
+
+0.050
+
+0.000
+
+ ‐0.009
+
+0.051
+
+Tenure (<1 year)
+
+0.078
+
+0.000
+
+0.038
+
+0.000
+
+0.068
+
+0.000
+
+Tenure (1-2 years)
+
+0.019
+
+0.010
+
+ ‐0.002
+
+0.762
+
+0.011
+
+0.134
+
+Tenure (3-5 years)
+
+0.005
+
+0.474
+
+ ‐0.007
+
+0.263
+
+ ‐0.001
+
+0.869
+
+Tenure (6-10 years)
+
+‐0.007
+
+0.241
+
+ ‐0.013
+
+0.028
+
+ ‐0.012
+
+0.044
+
+Tenure (11-15 years)
+
+‐0.003
+
+0.676
+
+ ‐0.006
+
+0.368
+
+ ‐0.009
+
+0.193
+
+0.057
+
+0.000
+
+0.045
+
+0.000
+
+0.057
+
+0.000
+
+‐0.036
+
+0.000
+
+0.017
+
+0.074
+
+ ‐0.028
+
+0.003
+
+0.014
+
+0.105
+
+ ‐0.002
+
+0.781
+
+0.022
+
+0.013
+
+‐0.045
+
+0.000
+
+ ‐0.047
+
+0.000
+
+ ‐0.036
+
+0.001
+
+0.096
+
+0.000
+
+0.114
+
+0.000
+
+0.105
+
+0.000
+
+‐0.059
+
+0.000
+
+ ‐0.018
+
+0.044
+
+ ‐0.066
+
+0.000
+
+0.027
+
+0.365
+
+ ‐0.051
+
+0.091
+
+0.006
+
+0.835
+
+‐0.029
+
+0.211
+
+ ‐0.025
+
+0.293
+
+ ‐0.025
+
+0.281
+
+0.012
+
+0.084
+
+0.003
+
+0.654
+
+0.004
+
+0.563
+
+Constant
+Gender
+
+Part-Time (<= 29 hours)
+AHP
+Central Functions & Admin
+Clinical, Scientific &
+Technical Support
+Medical/ Dental
+Nurses
+Paramedic & Ambulance
+Services
+Social Care Services
+London Location
+
+36
+
+Acute Type
+
+‐0.049
+
+0.082
+
+ ‐0.027
+
+0.352
+
+ ‐0.008
+
+0.791
+
+PCT Type
+
+‐0.069
+
+0.014
+
+ ‐0.054
+
+0.062
+
+ ‐0.041
+
+0.159
+
+Mental Health Type
+
+‐0.093
+
+0.001
+
+ ‐0.082
+
+0.005
+
+ ‐0.068
+
+0.019
+
+Health Status (1=Good,
+2=Poor)
+
+‐0.435
+
+0.000
+
+ ‐0.446
+
+0.000
+
+ ‐0.455
+
+0.000
+
+Ethn. White
+
+0.119
+
+0.000
+
+0.124
+
+0.000
+
+0.093
+
+0.000
+
+Ethn. Mixed
+
+0.022
+
+0.395
+
+0.021
+
+0.413
+
+0.005
+
+0.852
+
+Ethn. Asian
+
+‐0.047
+
+0.015
+
+ ‐0.054
+
+0.005
+
+ ‐0.038
+
+0.053
+
+Ethn. Black
+
+0.114
+
+0.000
+
+0.098
+
+0.000
+
+0.114
+
+0.000
+
+The name of predictor is
+indicated above
+
+0.172
+
+0.000
+
+ ‐0.166
+
+0.000
+
+0.120
+
+0.000
+
+Trust size
+
+0.005
+
+0.075
+
+0.003
+
+0.424
+
+0.005
+
+0.122
+
+37
+
+38 
+
+
+Appendix 3: HRM Practices of the NHS as predictors of Health in the last 4
+weeks
+Appendix 3A: The case of appraisal and teamwork
+Appraisal in last 12
+months
+
+Quality appraisal
+
+Personal Development
+Plan
+
+Working in well
+structured team
+
+Estimate
+
+Estimate
+
+Estimate
+
+Estimate
+
+P
+
+p
+
+p
+
+p
+
+‐1.976
+
+0.000
+
+ ‐1.849
+
+0.000
+
+ ‐1.953
+
+0.000
+
+ ‐1.927
+
+0.000
+
+0.150
+
+0.000
+
+0.150
+
+0.000
+
+0.155
+
+0.000
+
+0.148
+
+0.000
+
+Age (16-20)
+
+‐0.807
+
+0.000
+
+ ‐0.789
+
+0.000
+
+ ‐0.799
+
+0.000
+
+ ‐0.793
+
+0.000
+
+Age (21-30)
+
+‐0.598
+
+0.000
+
+ ‐0.570
+
+0.000
+
+ ‐0.592
+
+0.000
+
+ ‐0.570
+
+0.000
+
+Age (31-40)
+
+‐0.532
+
+0.000
+
+ ‐0.500
+
+0.000
+
+ ‐0.526
+
+0.000
+
+ ‐0.510
+
+0.000
+
+Age (41-50)
+
+‐0.507
+
+0.000
+
+ ‐0.477
+
+0.000
+
+ ‐0.499
+
+0.000
+
+ ‐0.488
+
+0.000
+
+Age (51-65)
+
+‐0.428
+
+0.000
+
+ ‐0.399
+
+0.000
+
+ ‐0.419
+
+0.000
+
+ ‐0.409
+
+0.000
+
+Management Status (1=Yes,
+2=No)
+
+0.048
+
+0.000
+
+0.036
+
+0.000
+
+0.044
+
+0.000
+
+0.042
+
+0.000
+
+Tenure (<1 year)
+
+0.196
+
+0.000
+
+0.172
+
+0.000
+
+0.194
+
+0.000
+
+0.167
+
+0.000
+
+Tenure (1-2 years)
+
+0.077
+
+0.000
+
+0.053
+
+0.000
+
+0.075
+
+0.000
+
+0.075
+
+0.000
+
+Tenure (3-5 years)
+
+0.035
+
+0.001
+
+0.021
+
+0.050
+
+0.030
+
+0.005
+
+0.037
+
+0.000
+
+Tenure (6-10 years)
+
+0.019
+
+0.047
+
+0.014
+
+0.159
+
+0.020
+
+0.047
+
+0.022
+
+0.023
+
+Tenure (11-15 years)
+
+‐0.012
+
+0.311
+
+ ‐0.014
+
+0.236
+
+ ‐0.014
+
+0.221
+
+ ‐0.011
+
+0.321
+
+0.089
+
+0.000
+
+0.088
+
+0.000
+
+0.091
+
+0.000
+
+0.086
+
+0.000
+
+AHP
+
+‐0.044
+
+0.004
+
+ ‐0.029
+
+0.053
+
+ ‐0.054
+
+0.001
+
+ ‐0.032
+
+0.038
+
+Central Functions & Admin
+
+‐0.010
+
+0.508
+
+ ‐0.002
+
+0.896
+
+ ‐0.008
+
+0.601
+
+ ‐0.009
+
+0.527
+
+Clinical, Scientific & Technical
+Support
+
+‐0.022
+
+0.184
+
+ ‐0.033
+
+0.048
+
+ ‐0.033
+
+0.053
+
+ ‐0.015
+
+0.359
+
+0.142
+
+0.000
+
+0.175
+
+0.000
+
+0.123
+
+0.000
+
+0.154
+
+0.000
+
+Nurses
+
+‐0.024
+
+0.095
+
+ ‐0.015
+
+0.285
+
+ ‐0.035
+
+0.017
+
+ ‐0.013
+
+0.373
+
+Paramedic & Ambulance
+Services
+
+‐0.068
+
+0.164
+
+ ‐0.028
+
+0.562
+
+ ‐0.070
+
+0.159
+
+ ‐0.049
+
+0.319
+
+Constant
+Gender
+
+Part-Time (<= 29 hours)
+
+Medical/ Dental
+
+39
+
+‐0.070
+
+0.063
+
+ ‐0.067
+
+0.075
+
+ ‐0.078
+
+0.044
+
+ ‐0.072
+
+0.056
+
+0.011
+
+0.400
+
+0.012
+
+0.349
+
+0.008
+
+0.523
+
+0.012
+
+0.365
+
+Acute Type
+
+‐0.066
+
+0.167
+
+ ‐0.063
+
+0.186
+
+ ‐0.063
+
+0.197
+
+ ‐0.065
+
+0.169
+
+PCT Type
+
+‐0.160
+
+0.001
+
+ ‐0.161
+
+0.001
+
+ ‐0.163
+
+0.001
+
+ ‐0.176
+
+0.000
+
+Mental Health Type
+
+‐0.201
+
+0.000
+
+ ‐0.205
+
+0.000
+
+ ‐0.199
+
+0.000
+
+ ‐0.202
+
+0.000
+
+Health Status (1=Good, 2=Poor)
+
+‐0.711
+
+0.000
+
+ ‐0.698
+
+0.000
+
+ ‐0.711
+
+0.000
+
+ ‐0.709
+
+0.000
+
+Ethn. White
+
+‐0.080
+
+0.005
+
+ ‐0.049
+
+0.089
+
+ ‐0.077
+
+0.009
+
+ ‐0.083
+
+0.004
+
+Ethn. Mixed
+
+‐0.101
+
+0.014
+
+ ‐0.082
+
+0.045
+
+ ‐0.089
+
+0.033
+
+ ‐0.110
+
+0.007
+
+Ethn. Asian
+
+0.007
+
+0.815
+
+ ‐0.007
+
+0.818
+
+0.012
+
+0.695
+
+ ‐0.005
+
+0.879
+
+Ethn. Black
+
+0.206
+
+0.000
+
+0.198
+
+0.000
+
+0.207
+
+0.000
+
+0.210
+
+0.000
+
+The name of predictor is
+indicated above
+
+0.121
+
+0.000
+
+0.317
+
+0.000
+
+0.142
+
+0.000
+
+0.172
+
+0.000
+
+‐0.001
+
+0.887
+
+0.001
+
+0.875
+
+ ‐0.001
+
+0.848
+
+ ‐0.001
+
+0.790
+
+Social Care Services
+London Location
+
+Trust size
+
+40
+
+41 
+
+
+Appendix 3B: The case of satisfaction with quality of work; role makes a
+difference; feeling valued by colleagues; and having interesting job
+Satisfied with
+quality of work
+Estimat
+e
+
+Role makes a
+difference
+Estimat
+e
+
+P
+
+Feel valued by
+colleagues
+Estimat
+e
+
+p
+
+Have an
+interesting job
+Estimat
+e
+
+p
+
+p
+
+‐1.935
+
+0.000
+
+ ‐1.962
+
+0.000
+
+ ‐1.922
+
+0.000
+
+ ‐2.007
+
+0.000
+
+0.162
+
+0.000
+
+0.154
+
+0.000
+
+0.156
+
+0.000
+
+0.159
+
+0.000
+
+Age (16-20)
+
+‐0.808
+
+0.000
+
+ ‐0.803
+
+0.000
+
+ ‐0.757
+
+0.000
+
+ ‐0.720
+
+0.000
+
+Age (21-30)
+
+‐0.547
+
+0.000
+
+ ‐0.562
+
+0.000
+
+ ‐0.557
+
+0.000
+
+ ‐0.529
+
+0.000
+
+Age (31-40)
+
+‐0.481
+
+0.000
+
+ ‐0.504
+
+0.000
+
+ ‐0.486
+
+0.000
+
+ ‐0.473
+
+0.000
+
+Age (41-50)
+
+‐0.457
+
+0.000
+
+ ‐0.481
+
+0.000
+
+ ‐0.454
+
+0.000
+
+ ‐0.447
+
+0.000
+
+Age (51-65)
+
+‐0.389
+
+0.000
+
+ ‐0.409
+
+0.000
+
+ ‐0.377
+
+0.000
+
+ ‐0.374
+
+0.000
+
+Management Status (1=Yes,
+2=No)
+
+0.065
+
+0.000
+
+0.047
+
+0.000
+
+0.018
+
+0.014
+
+0.026
+
+0.000
+
+Tenure (<1 year)
+
+0.149
+
+0.000
+
+0.167
+
+0.000
+
+0.175
+
+0.000
+
+0.162
+
+0.000
+
+Tenure (1-2 years)
+
+0.061
+
+0.000
+
+0.072
+
+0.000
+
+0.084
+
+0.000
+
+0.074
+
+0.000
+
+Tenure (3-5 years)
+
+0.034
+
+0.003
+
+0.033
+
+0.003
+
+0.047
+
+0.000
+
+0.037
+
+0.000
+
+Tenure (6-10 years)
+
+0.014
+
+0.166
+
+0.016
+
+0.102
+
+0.027
+
+0.004
+
+0.020
+
+0.032
+
+Tenure (11-15 years)
+
+‐0.011
+
+0.360
+
+ ‐0.009
+
+0.444
+
+ ‐0.002
+
+0.873
+
+ ‐0.009
+
+0.419
+
+Part-Time (<= 29 hours)
+
+0.080
+
+0.000
+
+0.084
+
+0.000
+
+0.078
+
+0.000
+
+0.097
+
+0.000
+
+AHP
+
+0.034
+
+0.085
+
+ ‐0.061
+
+0.000
+
+ ‐0.056
+
+0.000
+
+ ‐0.067
+
+0.000
+
+Central Functions & Admin
+
+0.009
+
+0.644
+
+ ‐0.019
+
+0.253
+
+ ‐0.003
+
+0.840
+
+0.033
+
+0.018
+
+‐0.004
+
+0.840
+
+ ‐0.044
+
+0.013
+
+ ‐0.002
+
+0.921
+
+ ‐0.018
+
+0.277
+
+Medical/ Dental
+
+0.204
+
+0.000
+
+0.123
+
+0.000
+
+0.114
+
+0.000
+
+0.116
+
+0.000
+
+Nurses
+
+0.056
+
+0.004
+
+ ‐0.042
+
+0.009
+
+ ‐0.035
+
+0.012
+
+ ‐0.049
+
+0.001
+
+Paramedic & Ambulance
+Services
+
+‐0.171
+
+0.007
+
+ ‐0.153
+
+0.008
+
+ ‐0.047
+
+0.322
+
+ ‐0.081
+
+0.092
+
+Social Care Services
+
+‐0.004
+
+0.911
+
+ ‐0.067
+
+0.080
+
+ ‐0.058
+
+0.113
+
+ ‐0.072
+
+0.053
+
+Constant
+Gender
+
+Clinical, Scientific &
+Technical Support
+
+42
+
+0.017
+
+0.201
+
+0.007
+
+0.617
+
+0.010
+
+0.436
+
+0.010
+
+0.445
+
+Acute Type
+
+‐0.174
+
+0.005
+
+ ‐0.103
+
+0.069
+
+ ‐0.062
+
+0.177
+
+ ‐0.029
+
+0.539
+
+PCT Type
+
+‐0.266
+
+0.000
+
+ ‐0.198
+
+0.000
+
+ ‐0.174
+
+0.000
+
+ ‐0.124
+
+0.008
+
+Mental Health Type
+
+‐0.335
+
+0.000
+
+ ‐0.250
+
+0.000
+
+ ‐0.206
+
+0.000
+
+ ‐0.166
+
+0.001
+
+Health Status (1=Good,
+2=Poor)
+
+‐0.692
+
+0.000
+
+ ‐0.704
+
+0.000
+
+ ‐0.680
+
+0.000
+
+ ‐0.700
+
+0.000
+
+Ethn. White
+
+‐0.035
+
+0.241
+
+ ‐0.069
+
+0.020
+
+ ‐0.110
+
+0.000
+
+ ‐0.105
+
+0.000
+
+Ethn. Mixed
+
+‐0.042
+
+0.324
+
+ ‐0.098
+
+0.021
+
+ ‐0.109
+
+0.006
+
+ ‐0.119
+
+0.003
+
+Ethn. Asian
+
+‐0.003
+
+0.923
+
+0.010
+
+0.748
+
+ ‐0.004
+
+0.882
+
+0.003
+
+0.921
+
+Ethn. Black
+
+0.228
+
+0.000
+
+0.223
+
+0.000
+
+0.221
+
+0.000
+
+0.217
+
+0.000
+
+The name of predictor is
+indicated above
+
+0.476
+
+0.000
+
+0.346
+
+0.000
+
+0.489
+
+0.000
+
+0.402
+
+0.000
+
+Trust size
+
+0.002
+
+0.694
+
+ ‐0.001
+
+0.813
+
+ ‐0.001
+
+0.825
+
+ ‐0.002
+
+0.715
+
+London Location
+
+43
+
+44 
+
+
+Appendix 3C: The case of job design; work pressure; feeling valued by
+colleagues; and Supervisor Support
+Job Design
+
+Estimate
+
+p
+
+Work Pressure
+
+Estimate
+
+p
+
+Supervisor
+Support
+Estimate
+
+p
+
+‐2.098
+
+0.000
+
+ ‐2.196
+
+0.000
+
+ ‐2.055
+
+0.000
+
+0.163
+
+0.000
+
+0.142
+
+0.000
+
+0.153
+
+0.000
+
+Age (16-20)
+
+‐0.747
+
+0.000
+
+ ‐0.771
+
+0.000
+
+ ‐0.791
+
+0.000
+
+Age (21-30)
+
+‐0.510
+
+0.000
+
+ ‐0.479
+
+0.000
+
+ ‐0.577
+
+0.000
+
+Age (31-40)
+
+‐0.443
+
+0.000
+
+ ‐0.407
+
+0.000
+
+ ‐0.506
+
+0.000
+
+Age (41-50)
+
+‐0.417
+
+0.000
+
+ ‐0.377
+
+0.000
+
+ ‐0.473
+
+0.000
+
+Age (51-65)
+
+‐0.341
+
+0.000
+
+ ‐0.312
+
+0.000
+
+ ‐0.391
+
+0.000
+
+Management Status
+(1=Yes, 2=No)
+
+‐0.021
+
+0.003
+
+0.127
+
+0.000
+
+0.028
+
+0.000
+
+Tenure (<1 year)
+
+0.146
+
+0.000
+
+0.082
+
+0.000
+
+0.131
+
+0.000
+
+Tenure (1-2 years)
+
+0.068
+
+0.000
+
+0.034
+
+0.002
+
+0.055
+
+0.000
+
+Tenure (3-5 years)
+
+0.036
+
+0.000
+
+0.016
+
+0.109
+
+0.026
+
+0.013
+
+Tenure (6-10 years)
+
+0.022
+
+0.018
+
+0.012
+
+0.214
+
+0.013
+
+0.157
+
+Tenure (11-15 years)
+
+‐0.001
+
+0.898
+
+ ‐0.007
+
+0.523
+
+ ‐0.013
+
+0.261
+
+0.082
+
+0.000
+
+0.064
+
+0.000
+
+0.082
+
+0.000
+
+AHP
+
+‐0.037
+
+0.012
+
+0.051
+
+0.001
+
+ ‐0.025
+
+0.097
+
+Central Functions & Admin
+
+‐0.016
+
+0.259
+
+ ‐0.044
+
+0.002
+
+ ‐0.003
+
+0.838
+
+Clinical, Scientific &
+Technical Support
+
+‐0.032
+
+0.047
+
+ ‐0.033
+
+0.038
+
+ ‐0.017
+
+0.294
+
+Medical/ Dental
+
+0.186
+
+0.000
+
+0.216
+
+0.000
+
+0.203
+
+0.000
+
+Nurses
+
+0.007
+
+0.609
+
+0.075
+
+0.000
+
+ ‐0.006
+
+0.659
+
+Paramedic & Ambulance
+Services
+
+0.095
+
+0.043
+
+ ‐0.042
+
+0.376
+
+0.057
+
+0.235
+
+‐0.060
+
+0.096
+
+ ‐0.058
+
+0.111
+
+ ‐0.064
+
+0.080
+
+0.022
+
+0.067
+
+0.007
+
+0.563
+
+0.009
+
+0.486
+
+Constant
+Gender
+
+Part-Time (<= 29 hours)
+
+Social Care Services
+London Location
+
+45
+
+Acute Type
+
+‐0.115
+
+0.011
+
+ ‐0.077
+
+0.095
+
+ ‐0.044
+
+0.340
+
+PCT Type
+
+‐0.208
+
+0.000
+
+ ‐0.180
+
+0.000
+
+ ‐0.157
+
+0.001
+
+Mental Health Type
+
+‐0.253
+
+0.000
+
+ ‐0.233
+
+0.000
+
+ ‐0.210
+
+0.000
+
+Health Status (1=Good,
+2=Poor)
+
+‐0.659
+
+0.000
+
+ ‐0.678
+
+0.000
+
+ ‐0.693
+
+0.000
+
+Ethn. White
+
+‐0.036
+
+0.186
+
+ ‐0.026
+
+0.340
+
+ ‐0.079
+
+0.005
+
+Ethn. Mixed
+
+‐0.059
+
+0.133
+
+ ‐0.057
+
+0.145
+
+ ‐0.087
+
+0.030
+
+Ethn. Asian
+
+‐0.009
+
+0.760
+
+ ‐0.020
+
+0.508
+
+0.009
+
+0.762
+
+Ethn. Black
+
+0.217
+
+0.000
+
+0.193
+
+0.000
+
+0.218
+
+0.000
+
+The name of predictor is
+indicated above
+
+0.294
+
+0.000
+
+ ‐0.274
+
+0.000
+
+0.201
+
+0.000
+
+Trust size
+
+0.003
+
+0.552
+
+ ‐0.002
+
+0.726
+
+0.002
+
+0.720
+
+46
+
+Appendix 4: HRM Practices of the NHS as predictors of Presenteeism
+Appendix 4A: The case of appraisal and teamwork
+Had appraisal in the last
+12 months
+
+Good quality appraisal
+
+Agreed personal
+development plan
+
+Work in well structured
+team
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Gender
+
+0.780
+
+0.000
+
+0.711
+
+0.000
+
+0.711
+
+0.000
+
+0.780
+
+0.000
+
+Age (16-20)
+
+7.583
+
+0.000
+
+7.648
+
+0.000
+
+7.459
+
+0.000
+
+8.484
+
+0.000
+
+Age (21-30)
+
+6.433
+
+0.000
+
+6.406
+
+0.000
+
+6.571
+
+0.000
+
+7.297
+
+0.000
+
+Age (31-40)
+
+5.369
+
+0.000
+
+5.258
+
+0.000
+
+5.434
+
+0.000
+
+6.120
+
+0.000
+
+Age (41-50)
+
+4.357
+
+0.000
+
+4.257
+
+0.000
+
+4.391
+
+0.000
+
+5.039
+
+0.000
+
+Age (51-65)
+
+3.258
+
+0.000
+
+3.172
+
+0.000
+
+3.268
+
+0.000
+
+3.772
+
+0.000
+
+Managemen
+t Status
+(1=Yes)
+
+0.986
+
+0.423
+
+1.028
+
+0.116
+
+0.814
+
+0.562
+
+0.536
+
+0.133
+
+Tenure (<1
+year)
+
+0.496
+
+0.000
+
+0.507
+
+0.000
+
+0.491
+
+0.000
+
+0.536
+
+0.000
+
+Tenure (1-2
+years)
+
+0.808
+
+0.000
+
+0.863
+
+0.000
+
+0.804
+
+0.000
+
+0.813
+
+0.000
+
+Tenure (3-5
+years)
+
+0.938
+
+0.01
+
+0.975
+
+0.325
+
+0.933
+
+0.006
+
+0.938
+
+0.011
+
+Tenure (610 years)
+
+1.048
+
+0.036
+
+1.069
+
+0.003
+
+1.039
+
+0.093
+
+1.037
+
+0.111
+
+Tenure (1115 years)
+
+1.065
+
+0.017
+
+1.071
+
+0.01
+
+1.060
+
+0.031
+
+1.069
+
+0.013
+
+Part-Time
+(<= 29
+hours)
+
+0.810
+
+0.000
+
+0.801
+
+0.000
+
+0.814
+
+0.000
+
+0.817
+
+0.000
+
+AHP
+
+1.147
+
+0.000
+
+1.110
+
+0.008
+
+1.162
+
+0.000
+
+1.119
+
+0.004
+
+Central
+Functions &
+Admin
+
+1.054
+
+0.158
+
+1.024
+
+0.526
+
+1.036
+
+0.354
+
+1.054
+
+0.164
+
+Clinical,
+Scientific &
+Technical
+Support
+
+1.477
+
+0.000
+
+1.505
+
+0.000
+
+1.490
+
+0.000
+
+1.424
+
+0.000
+
+Medical/
+Dental
+
+1.056
+
+0.27
+
+0.970
+
+0.542
+
+1.088
+
+0.093
+
+1.013
+
+0.789
+
+Nurses
+
+1.627
+
+0.000
+
+1.602
+
+0.000
+
+1.657
+
+0.000
+
+1.563
+
+0.000
+
+Paramedic
+&
+Ambulance
+Services
+
+2.522
+
+0.000
+
+2.312
+
+0.000
+
+2.555
+
+0.000
+
+2.321
+
+0.000
+
+Social Care
+Services
+
+1.520
+
+0.000
+
+1.531
+
+0.000
+
+1.524
+
+0.000
+
+1.568
+
+0.000
+
+London
+Location
+
+1.091
+
+0.003
+
+1.092
+
+0.003
+
+1.093
+
+0.003
+
+1.091
+
+0.003
+
+Acute Trust
+
+1.305
+
+0.022
+
+1.334
+
+0.014
+
+1.316
+
+0.022
+
+1.332
+
+0.014
+
+47
+
+PCT
+
+0.877
+
+0.259
+
+0.892
+
+0.33
+
+0.887
+
+0.318
+
+0.949
+
+0.652
+
+Mental
+Health
+
+0.851
+
+0.172
+
+0.882
+
+0.294
+
+0.856
+
+0.202
+
+0.881
+
+0.283
+
+Health
+Status
+(1=Good)
+
+0.534
+
+0.000
+
+0.544
+
+0.000
+
+0.533
+
+0.000
+
+0.542
+
+0.000
+
+Ethn. White
+
+1.066
+
+0.34
+
+0.974
+
+0.701
+
+1.072
+
+0.306
+
+1.037
+
+0.583
+
+Ethn. Mixed
+
+1.290
+
+0.006
+
+1.187
+
+0.071
+
+1.298
+
+0.006
+
+1.326
+
+0.002
+
+Ethn. Asian
+
+0.925
+
+0.284
+
+0.961
+
+0.588
+
+0.924
+
+0.29
+
+0.946
+
+0.443
+
+Ethn. Black
+
+0.941
+
+0.419
+
+0.952
+
+0.525
+
+0.943
+
+0.45
+
+0.914
+
+0.237
+
+The
+predicting
+variable is
+highlighted
+above
+
+0.821
+
+0.000
+
+0.388
+
+0.000
+
+0.781
+
+0.000
+
+0.549
+
+0.000
+
+Trust size
+
+1.024
+
+0.052
+
+1.017
+
+0.166
+
+1.024
+
+0.056
+
+1.019
+
+0.117
+
+48
+
+Appendix 4B: The case of satisfaction with quality of work; role makes a
+difference; feeling valued by colleagues and having an interesting job
+
+Satisfied with quality of
+work
+
+Role makes a difference
+
+Feel valued by
+colleagues
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Gender
+
+0.711
+
+0.000
+
+0.779
+
+0.000
+
+0.755
+
+0.000
+
+0.763
+
+0.000
+
+Age (16-20)
+
+7.029
+
+0.000
+
+6.667
+
+0.000
+
+7.319
+
+0.000
+
+6.314
+
+0.000
+
+Age (21-30)
+
+5.974
+
+0.000
+
+5.867
+
+0.000
+
+6.581
+
+0.000
+
+5.820
+
+0.000
+
+Age (31-40)
+
+4.845
+
+0.000
+
+4.864
+
+0.000
+
+5.292
+
+0.000
+
+4.916
+
+0.000
+
+Age (41-50)
+
+3.829
+
+0.000
+
+3.942
+
+0.000
+
+4.207
+
+0.000
+
+3.996
+
+0.000
+
+Age (51-65)
+
+2.955
+
+0.000
+
+3.017
+
+0.000
+
+3.111
+
+0.000
+
+3.019
+
+0.000
+
+Managemen
+t Status
+(1=Yes)
+
+0.969
+
+0.085
+
+0.985
+
+0.4
+
+0.922
+
+0.000
+
+0.969
+
+0.068
+
+Tenure (<1
+year)
+
+0.521
+
+0.000
+
+0.517
+
+0.000
+
+0.495
+
+0.000
+
+0.526
+
+0.000
+
+Tenure (1-2
+years)
+
+0.782
+
+0.000
+
+0.798
+
+0.000
+
+0.775
+
+0.000
+
+0.811
+
+0.000
+
+Tenure (3-5
+years)
+
+0.930
+
+0.007
+
+0.941
+
+0.017
+
+0.902
+
+0.000
+
+0.939
+
+0.01
+
+Tenure (610 years)
+
+1.044
+
+0.068
+
+1.045
+
+0.056
+
+1.022
+
+0.338
+
+1.044
+
+0.053
+
+Tenure (1115 years)
+
+1.056
+
+0.048
+
+1.062
+
+0.026
+
+1.043
+
+0.11
+
+1.068
+
+0.012
+
+Part-Time
+(<= 29
+hours)
+
+0.816
+
+0.000
+
+1.058
+
+0.000
+
+0.816
+
+0.000
+
+0.790
+
+0.000
+
+AHP
+
+0.958
+
+0.387
+
+1.106
+
+0.016
+
+1.194
+
+0.000
+
+1.196
+
+0.000
+
+Central
+Functions &
+Admin
+
+1.057
+
+0.266
+
+1.058
+
+0.17
+
+1.022
+
+0.562
+
+0.946
+
+0.137
+
+Clinical,
+Scientific &
+Technical
+Support
+
+1.419
+
+0.000
+
+1.465
+
+0.000
+
+1.392
+
+0.000
+
+1.447
+
+0.000
+
+Medical/
+Dental
+
+0.906
+
+0.09
+
+1.023
+
+0.654
+
+1.145
+
+0.006
+
+1.107
+
+0.036
+
+Nurses
+
+1.382
+
+0.000
+
+1.591
+
+0.000
+
+1.710
+
+0.000
+
+1.711
+
+0.000
+
+Paramedic
+&
+Ambulance
+Services
+
+2.645
+
+0.000
+
+2.740
+
+0.000
+
+2.478
+
+0.000
+
+2.680
+
+0.000
+
+Social Care
+Services
+
+1.408
+
+0.001
+
+1.537
+
+0.000
+
+1.470
+
+0.000
+
+1.519
+
+0.000
+
+London
+Location
+
+1.082
+
+0.008
+
+1.085
+
+0.007
+
+1.096
+
+0.002
+
+1.087
+
+0.005
+
+Have an interesting job
+
+49
+
+Acute Trust
+
+1.424
+
+0.02
+
+1.380
+
+0.02
+
+1.323
+
+0.017
+
+1.243
+
+0.061
+
+PCT
+
+0.943
+
+0.699
+
+0.917
+
+0.531
+
+0.922
+
+0.489
+
+0.832
+
+0.113
+
+Mental
+Health
+
+0.934
+
+0.658
+
+0.905
+
+0.476
+
+0.886
+
+0.31
+
+0.824
+
+0.101
+
+Health
+Status
+(1=Good)
+
+0.541
+
+0.000
+
+0.530
+
+0.000
+
+0.564
+
+0.000
+
+0.541
+
+0.000
+
+Ethn. White
+
+1.007
+
+0.921
+
+1.073
+
+0.301
+
+1.158
+
+0.029
+
+1.132
+
+0.06
+
+Ethn. Mixed
+
+1.270
+
+0.014
+
+1.361
+
+0.001
+
+1.313
+
+0.004
+
+1.383
+
+0.000
+
+Ethn. Asian
+
+0.934
+
+0.363
+
+0.930
+
+0.327
+
+0.939
+
+0.39
+
+0.932
+
+0.326
+
+Ethn. Black
+
+0.957
+
+0.576
+
+0.956
+
+0.563
+
+0.885
+
+0.109
+
+0.925
+
+0.295
+
+The
+predicting
+variable is
+highlighted
+above
+
+0.463
+
+0.000
+
+0.577
+
+0.000
+
+0.294
+
+0.000
+
+0.451
+
+0.000
+
+Trust size
+
+1.025
+
+0.046
+
+1.023
+
+0.064
+
+1.025
+
+0.046
+
+1.025
+
+0.048
+
+50
+
+Appendix 4C: The case of job design; work pressure and Supervisor Support
+Job Design
+
+Work Pressure
+
+Supervisor Support
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Gender
+
+0.714
+
+0.000
+
+0.777
+
+0.000
+
+0.743
+
+0.000
+
+Age (16-20)
+
+7.386
+
+0.000
+
+7.875
+
+0.000
+
+8.335
+
+0.000
+
+Age (21-30)
+
+6.055
+
+0.000
+
+5.738
+
+0.000
+
+6.962
+
+0.000
+
+Age (31-40)
+
+4.831
+
+0.000
+
+4.641
+
+0.000
+
+5.483
+
+0.000
+
+Age (41-50)
+
+3.805
+
+0.000
+
+3.702
+
+0.000
+
+4.246
+
+0.000
+
+Age (51-65)
+
+2.797
+
+0.000
+
+2.818
+
+0.000
+
+3.069
+
+0.000
+
+Managemen
+t Status
+(1=Yes)
+
+0.838
+
+0.000
+
+0.833
+
+0.000
+
+1.084
+
+0.000
+
+Tenure (<1
+year)
+
+0.516
+
+0.000
+
+0.608
+
+0.000
+
+0.574
+
+0.000
+
+Tenure (1-2
+years)
+
+0.792
+
+0.000
+
+0.868
+
+0.000
+
+0.851
+
+0.000
+
+Tenure (3-5
+years)
+
+0.918
+
+0.001
+
+0.966
+
+0.168
+
+0.961
+
+0.124
+
+Tenure (610 years)
+
+1.032
+
+0.176
+
+1.059
+
+0.011
+
+1.064
+
+0.007
+
+Tenure (1115 years)
+
+1.044
+
+0.118
+
+1.056
+
+0.042
+
+1.080
+
+0.005
+
+Part-Time
+(<= 29
+hours)
+
+0.806
+
+0.000
+
+0.840
+
+0.000
+
+0.808
+
+0.000
+
+AHP
+
+1.207
+
+0.000
+
+0.930
+
+0.067
+
+1.083
+
+0.048
+
+Central
+Functions &
+Admin
+
+1.120
+
+0.004
+
+1.144
+
+0.000
+
+1.015
+
+0.697
+
+Clinical,
+Scientific &
+Technical
+Support
+
+1.648
+
+0.000
+
+1.536
+
+0.000
+
+1.469
+
+0.000
+
+Medical/
+Dental
+
+0.998
+
+0.964
+
+0.871
+
+0.006
+
+0.853
+
+0.002
+
+Nurses
+
+1.643
+
+0.000
+
+1.319
+
+0.000
+
+1.579
+
+0.000
+
+Paramedic
+&
+Ambulance
+Services
+
+2.006
+
+0.000
+
+2.502
+
+0.000
+
+1.680
+
+0.000
+
+Social Care
+Services
+
+1.618
+
+0.000
+
+1.484
+
+0.000
+
+1.513
+
+0.000
+
+London
+Location
+
+1.128
+
+0.000
+
+1.077
+
+0.01
+
+1.088
+
+0.004
+
+Acute Trust
+
+1.646
+
+0.000
+
+1.358
+
+0.008
+
+1.259
+
+0.053
+
+51
+
+PCT
+
+1.054
+
+0.663
+
+0.914
+
+0.437
+
+0.882
+
+0.293
+
+Mental
+Health
+
+1.033
+
+0.789
+
+0.925
+
+0.507
+
+0.906
+
+0.412
+
+Health
+Status
+(1=Good)
+
+0.582
+
+0.000
+
+0.554
+
+0.000
+
+0.548
+
+0.000
+
+Ethn. White
+
+0.897
+
+0.111
+
+0.911
+
+0.164
+
+1.040
+
+0.567
+
+Ethn. Mixed
+
+1.089
+
+0.374
+
+1.127
+
+0.201
+
+1.191
+
+0.068
+
+Ethn. Asian
+
+0.941
+
+0.413
+
+0.965
+
+0.625
+
+0.889
+
+0.115
+
+Ethn. Black
+
+0.880
+
+0.101
+
+0.941
+
+0.423
+
+0.863
+
+0.058
+
+The
+predicting
+variable is
+highlighted
+above
+
+0.449
+
+0.000
+
+1.839
+
+0.000
+
+0.478
+
+0.000
+
+Trust size
+
+1.017
+
+0.183
+
+1.027
+
+0.023
+
+1.012
+
+0.343
+
+52
+
+Appendix 5: HRM Practices of the NHS as predictors of A Construct of
+Presenteeism: Coming to Work Whilst Unwell
+Appendix 5A: The case of appraisal and teamwork
+Had appraisal in the last
+12 months
+Odds Ratio
+Gender
+
+0.706
+
+Age (16-20)
+
+4.637
+
+Age (21-30)
+
+3.892
+
+Age (31-40)
+
+3.282
+
+Age (41-50)
+
+2.836
+
+Age (51-65)
+
+2.129
+
+P Value
+0.000
+0.000
+
+Good quality appraisal
+Odds Ratio
+0.701
+4.556
+
+0.000
+
+3.848
+
+0.000
+
+3.206
+
+0.000
+
+2.769
+
+0.000
+
+2.077
+
+0.000
+
+P Value
+0.000
+
+Agreed personal
+development plan
+Odds Ratio
+0.701
+
+0.000
+
+4.478
+
+0.000
+
+3.884
+
+0.000
+
+3.271
+
+0.000
+
+2.807
+
+0.000
+
+2.103
+
+0.000
+
+P Value
+0.000
+
+Work in well structured
+team
+Odds Ratio
+0.702
+
+0.000
+
+4.656
+
+0.000
+
+3.849
+
+0.000
+
+3.247
+
+0.000
+
+2.832
+
+0.000
+
+2.125
+
+0.000
+
+P Value
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+
+Managemen
+t Status
+(1=Yes)
+1.175
+Tenure (<1
+year)
+
+1.208
+0.000
+
+1.174
+0.000
+
+0.600
+
+0.599
+0.000
+
+1.194
+0.000
+
+0.000
+
+0.603
+0.000
+
+0.611
+0.000
+
+0.000
+
+Tenure (1-2
+years)
+
+0.883
+
+Tenure (3-5
+years)
+
+0.945
+
+0.007
+
+0.965
+
+0.093
+
+0.947
+
+0.01
+
+0.941
+
+0.004
+
+Tenure (610 years)
+
+1.025
+
+0.199
+
+1.030
+
+0.125
+
+1.020
+
+0.298
+
+1.020
+
+0.313
+
+Tenure (1115 years)
+
+1.065
+
+0.006
+
+1.064
+
+0.007
+
+1.066
+
+0.005
+
+1.070
+
+0.003
+
+Part-Time
+(<= 29
+hours)
+
+0.709
+
+0.000
+
+0.704
+
+0.000
+
+0.709
+
+0.000
+
+0.710
+
+0.000
+
+AHP
+
+0.929
+
+0.014
+
+0.914
+
+0.003
+
+0.934
+
+0.026
+
+0.925
+
+0.01
+
+Central
+Functions &
+Admin
+
+0.930
+
+0.01
+
+0.912
+
+0.001
+
+0.929
+
+0.011
+
+0.927
+
+0.008
+
+0.684
+
+1.023
+
+0.493
+
+1.021
+
+0.531
+
+0.997
+
+Clinical,
+Scientific &
+Technical
+Support
+Medical/
+Dental
+Nurses
+Paramedic
+&
+Ambulance
+Services
+
+0.911
+
+1.013
+0.000
+
+0.000
+
+0.854
+1.136
+
+0.887
+
+0.000
+
+0.816
+0.000
+
+1.121
+
+0.885
+
+0.860
+0.000
+
+1.149
+
+0.916
+0.000
+
+0.837
+0.000
+
+1.121
+
+0.000
+
+1.336
+
+0.002
+
+1.229
+
+0.032
+
+1.346
+
+0.002
+
+1.285
+
+0.009
+
+Social Care
+Services
+
+1.018
+
+0.804
+
+1.022
+
+0.773
+
+1.032
+
+0.676
+
+1.011
+
+0.88
+
+London
+Location
+
+1.079
+
+0.001
+
+1.078
+
+0.001
+
+1.072
+
+0.002
+
+1.082
+
+0.000
+
+53
+
+Acute Trust
+
+1.054
+
+0.549
+
+1.051
+
+0.572
+
+1.060
+
+0.513
+
+1.074
+
+0.414
+
+PCT
+
+1.054
+
+0.55
+
+1.054
+
+0.551
+
+1.062
+
+0.503
+
+1.104
+
+0.256
+
+Mental
+Health
+
+1.095
+
+0.308
+
+1.113
+
+0.232
+
+1.098
+
+0.306
+
+1.125
+
+0.000
+
+0.000
+
+0.000
+
+0.183
+0.000
+
+Health
+Status
+(1=Good)
+0.470
+
+0.476
+0.000
+
+0.470
+0.000
+
+0.473
+0.000
+
+0.000
+
+Ethn. White
+
+1.298
+
+Ethn. Mixed
+
+1.811
+
+Ethn. Asian
+
+1.017
+
+0.779
+
+1.025
+
+0.677
+
+1.001
+
+0.986
+
+1.033
+
+0.588
+
+Ethn. Black
+
+1.231
+
+0.001
+
+1.228
+
+0.001
+
+1.224
+
+0.001
+
+1.227
+
+0.001
+
+The
+predicting
+variable is
+highlighted
+above
+
+0.947
+
+0.000
+
+0.623
+
+0.000
+
+0.946
+
+0.000
+
+0.769
+
+0.000
+
+Trust size
+
+1.023
+
+0.016
+
+1.018
+
+0.054
+
+1.022
+
+0.021
+
+1.021
+
+0.026
+
+1.225
+
+0.000
+
+1.744
+
+1.282
+
+0.000
+
+1.808
+
+1.287
+
+0.000
+
+1.873
+
+0.000
+
+54
+
+Appendix 5B: The case of satisfaction with quality of work; role makes a
+difference; feeling valued by colleagues and having an interesting job
+
+Satisfied with quality of
+work
+Odds Ratio
+P Value
+
+Role makes a difference
+Odds Ratio
+
+P Value
+
+Feel valued by
+colleagues
+Odds Ratio
+P Value
+
+Have an interesting job
+Odds Ratio
+
+P Value
+
+Gender
+
+0.723
+
+0.000
+
+0.719
+
+0.000
+
+0.698
+
+0.000
+
+0.697
+
+0.000
+
+Age (16-20)
+
+4.466
+
+0.000
+
+4.774
+
+0.000
+
+4.497
+
+0.000
+
+4.262
+
+0.000
+
+Age (21-30)
+
+3.720
+
+0.000
+
+3.763
+
+0.000
+
+3.803
+
+0.000
+
+3.607
+
+0.000
+
+Age (31-40)
+
+3.109
+
+0.000
+
+3.166
+
+0.000
+
+3.166
+
+0.000
+
+3.071
+
+0.000
+
+Age (41-50)
+
+2.692
+
+0.000
+
+2.751
+
+0.000
+
+2.712
+
+0.000
+
+2.647
+
+0.000
+
+Age (51-65)
+
+2.047
+
+0.000
+
+2.096
+
+0.000
+
+2.037
+
+0.000
+
+2.004
+
+0.000
+
+Managemen
+t Status
+(1=Yes)
+
+1.149
+
+0.000
+
+1.164
+
+0.000
+
+1.225
+
+0.000
+
+1.206
+
+0.000
+
+Tenure (<1
+year)
+
+0.605
+
+0.000
+
+0.591
+
+0.000
+
+0.598
+
+0.000
+
+0.611
+
+0.000
+
+Tenure (1-2
+years)
+
+0.890
+
+0.000
+
+0.876
+
+0.000
+
+0.873
+
+0.000
+
+0.886
+
+0.000
+
+Tenure (3-5
+years)
+
+0.946
+
+0.017
+
+0.946
+
+0.011
+
+0.932
+
+0.001
+
+0.944
+
+0.006
+
+Tenure (610 years)
+
+1.035
+
+0.103
+
+1.033
+
+0.109
+
+1.015
+
+0.421
+
+1.023
+
+0.23
+
+Tenure (1115 years)
+
+1.086
+
+0.001
+
+1.078
+
+0.002
+
+1.059
+
+0.012
+
+1.069
+
+0.003
+
+Part-Time
+(<= 29
+hours)
+
+0.708
+
+0.000
+
+0.707
+
+0.000
+
+0.712
+
+0.000
+
+0.699
+
+0.000
+
+AHP
+
+0.783
+
+0.000
+
+0.911
+
+0.005
+
+0.944
+
+0.052
+
+0.951
+
+0.091
+
+Central
+Functions &
+Admin
+
+0.868
+
+0.001
+
+0.939
+
+0.051
+
+0.917
+
+0.002
+
+0.884
+
+0.000
+
+Clinical,
+Scientific &
+Technical
+Support
+
+0.914
+
+0.04
+
+0.999
+
+0.976
+
+0.986
+
+0.657
+
+1.007
+
+0.82
+
+Medical/
+Dental
+
+0.735
+
+0.000
+
+0.844
+
+0.000
+
+0.886
+
+0.001
+
+0.876
+
+0.000
+
+Nurses
+
+0.957
+
+0.268
+
+1.115
+
+0.001
+
+1.154
+
+0.000
+
+1.165
+
+0.000
+
+Paramedic
+&
+Ambulance
+Services
+
+1.457
+
+0.003
+
+1.454
+
+0.001
+
+1.329
+
+0.003
+
+1.382
+
+0.001
+
+Social Care
+Services
+
+0.869
+
+0.083
+
+0.985
+
+0.838
+
+1.012
+
+0.875
+
+1.018
+
+0.809
+
+55
+
+London
+Location
+
+1.080
+
+0.001
+
+1.071
+
+0.002
+
+1.087
+
+0.000
+
+1.084
+
+0.000
+
+Acute Trust
+
+1.306
+
+0.022
+
+1.164
+
+0.146
+
+1.080
+
+0.373
+
+1.043
+
+0.626
+
+PCT
+
+1.318
+
+0.018
+
+1.170
+
+0.132
+
+1.100
+
+0.27
+
+1.041
+
+0.643
+
+Mental
+Health
+Health
+Status
+(1=Good)
+
+1.395
+
+0.005
+
+1.226
+
+0.053
+
+1.138
+
+0.14
+
+1.087
+
+0.341
+
+0.473
+
+0.000
+
+0.475
+
+0.000
+
+0.482
+
+0.000
+
+0.473
+
+0.000
+
+Ethn. White
+
+1.260
+
+0.000
+
+1.301
+
+0.000
+
+1.350
+
+0.000
+
+1.339
+
+0.000
+
+Ethn. Mixed
+
+1.772
+
+0.000
+
+1.834
+
+0.000
+
+1.840
+
+0.000
+
+1.864
+
+0.000
+
+Ethn. Asian
+
+0.971
+
+0.632
+
+0.992
+
+0.897
+
+1.026
+
+0.662
+
+1.020
+
+0.739
+
+Ethn. Black
+
+1.230
+
+0.002
+
+1.234
+
+0.001
+
+1.219
+
+0.001
+
+1.228
+
+0.001
+
+The
+predicting
+variable is
+highlighted
+above
+Trust size
+
+0.559
+
+0.000
+
+0.767
+
+0.000
+
+0.542
+
+0.000
+
+0.648
+
+0.000
+
+1.022
+
+0.021
+
+1.022
+
+0.019
+
+1.020
+
+0.032
+
+1.020
+
+0.031
+
+56
+
+Appendix 5C: The case of job design; work pressure; and Supervisor Support
+Job Design
+
+Work Pressure
+
+Supervisor Support
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Gender
+
+0.683
+
+0.000
+
+0.703
+
+0.000
+
+0.697
+
+0.000
+
+Age (16-20)
+
+4.437
+
+0.000
+
+4.709
+
+0.000
+
+4.572
+
+0.000
+
+Age (21-30)
+
+3.596
+
+0.000
+
+3.445
+
+0.000
+
+3.785
+
+0.000
+
+Age (31-40)
+
+3.009
+
+0.000
+
+2.814
+
+0.000
+
+3.155
+
+0.000
+
+Age (41-50)
+
+2.577
+
+0.000
+
+2.391
+
+0.000
+
+2.689
+
+0.000
+
+Age (51-65)
+
+1.930
+
+0.000
+
+1.824
+
+0.000
+
+2.002
+
+0.000
+
+Managemen
+t Status
+(1=Yes)
+
+1.312
+
+0.000
+
+1.036
+
+0.018
+
+1.216
+
+0.000
+
+Tenure (<1
+year)
+
+0.617
+
+0.000
+
+0.695
+
+0.000
+
+0.638
+
+0.000
+
+Tenure (1-2
+years)
+
+0.890
+
+0.000
+
+0.950
+
+0.028
+
+0.910
+
+0.000
+
+Tenure (3-5
+years)
+
+0.945
+
+0.007
+
+0.982
+
+0.391
+
+0.960
+
+0.051
+
+Tenure (610 years)
+
+1.021
+
+0.277
+
+1.040
+
+0.046
+
+1.034
+
+0.082
+
+Tenure (1115 years)
+
+1.061
+
+0.01
+
+1.068
+
+0.005
+
+1.076
+
+0.001
+
+Part-Time
+(<= 29
+hours)
+
+0.702
+
+0.000
+
+0.726
+
+0.000
+
+0.707
+
+0.000
+
+AHP
+
+0.920
+
+0.006
+
+0.789
+
+0.000
+
+0.904
+
+0.001
+
+Central
+Functions &
+Admin
+
+0.933
+
+0.016
+
+0.980
+
+0.473
+
+0.914
+
+0.001
+
+Clinical,
+Scientific &
+Technical
+Support
+
+1.023
+
+0.495
+
+1.029
+
+0.392
+
+1.000
+
+0.995
+
+Medical/
+Dental
+
+0.797
+
+0.000
+
+0.754
+
+0.000
+
+0.783
+
+0.000
+
+Nurses
+
+1.090
+
+0.003
+
+0.958
+
+0.137
+
+1.109
+
+0.000
+
+Paramedic
+&
+Ambulance
+Services
+
+1.085
+
+0.398
+
+1.297
+
+0.007
+
+1.102
+
+0.311
+
+Social Care
+Services
+
+1.013
+
+0.866
+
+1.005
+
+0.947
+
+1.017
+
+0.823
+
+London
+Location
+
+1.102
+
+0.000
+
+1.081
+
+0.001
+
+1.080
+
+0.000
+
+Acute Trust
+
+1.162
+
+0.09
+
+1.094
+
+0.316
+
+1.027
+
+0.76
+
+57
+
+PCT
+
+1.160
+
+0.094
+
+1.111
+
+0.239
+
+1.056
+
+0.532
+
+Mental
+Health
+
+1.224
+
+0.024
+
+1.190
+
+0.056
+
+1.123
+
+0.191
+
+Health
+Status
+(1=Good)
+
+0.490
+
+0.000
+
+0.480
+
+0.000
+
+0.477
+
+0.000
+
+Ethn. White
+
+1.218
+
+0.000
+
+1.173
+
+0.004
+
+1.284
+
+0.000
+
+Ethn. Mixed
+
+1.736
+
+0.000
+
+1.684
+
+0.000
+
+1.763
+
+0.000
+
+Ethn. Asian
+
+1.029
+
+0.631
+
+1.038
+
+0.534
+
+1.000
+
+0.994
+
+Ethn. Black
+
+1.225
+
+0.001
+
+1.258
+
+0.000
+
+1.207
+
+0.003
+
+The
+predicting
+variable is
+highlighted
+above
+
+0.660
+
+0.000
+
+1.622
+
+0.000
+
+0.741
+
+0.000
+
+Trust size
+
+1.015
+
+0.104
+
+1.023
+
+0.017
+
+1.015
+
+0.099
+
+58
+
+59 
+
+
+Appendix 6: HRM Practices of the NHS as predictors of Supervisor interest in
+health
+Appendix 6A: The case of appraisal and teamwork
+Had appraisal in the
+last 12 months
+Estimate
+Constant
+
+P
+
+Good quality
+appraisal
+Estimate
+
+p
+
+Agreed personal
+development plan
+Estimate
+
+p
+
+Work in well
+structured team
+Estimate
+
+p
+
+3.765
+
+0.000
+
+4.023
+
+0.000
+
+3.830
+
+0.000
+
+3.906
+
+0.000
+
+Gender
+
+‐0.086
+
+0.000
+
+ ‐0.088
+
+0.000
+
+ ‐0.078
+
+0.000
+
+ ‐0.091
+
+0.000
+
+Age (16-20)
+
+‐0.192
+
+0.000
+
+ ‐0.148
+
+0.003
+
+ ‐0.198
+
+0.000
+
+ ‐0.206
+
+0.000
+
+Age (21-30)
+
+‐0.233
+
+0.000
+
+ ‐0.175
+
+0.000
+
+ ‐0.262
+
+0.000
+
+ ‐0.206
+
+0.000
+
+Age (31-40)
+
+‐0.229
+
+0.000
+
+ ‐0.161
+
+0.000
+
+ ‐0.251
+
+0.000
+
+ ‐0.209
+
+0.000
+
+Age (41-50)
+
+‐0.274
+
+0.000
+
+ ‐0.209
+
+0.000
+
+ ‐0.292
+
+0.000
+
+ ‐0.258
+
+0.000
+
+Age (51-65)
+
+‐0.244
+
+0.000
+
+ ‐0.185
+
+0.000
+
+ ‐0.256
+
+0.000
+
+ ‐0.235
+
+0.000
+
+Management Status (1=Yes,
+2=No)
+
+0.061
+
+0.000
+
+0.033
+
+0.000
+
+0.055
+
+0.000
+
+0.038
+
+0.000
+
+Tenure (<1 year)
+
+0.282
+
+0.000
+
+0.227
+
+0.000
+
+0.285
+
+0.000
+
+0.191
+
+0.000
+
+Tenure (1-2 years)
+
+0.132
+
+0.000
+
+0.080
+
+0.000
+
+0.131
+
+0.000
+
+0.121
+
+0.000
+
+Tenure (3-5 years)
+
+0.076
+
+0.000
+
+0.045
+
+0.000
+
+0.075
+
+0.000
+
+0.075
+
+0.000
+
+Tenure (6-10 years)
+
+0.043
+
+0.000
+
+0.030
+
+0.000
+
+0.041
+
+0.000
+
+0.043
+
+0.000
+
+Tenure (11-15 years)
+
+0.016
+
+0.112
+
+0.014
+
+0.157
+
+0.016
+
+0.114
+
+0.014
+
+0.175
+
+Part-Time (<= 29 hours)
+
+0.028
+
+0.000
+
+0.026
+
+0.000
+
+0.028
+
+0.000
+
+0.013
+
+0.049
+
+AHP
+
+‐0.090
+
+0.000
+
+ ‐0.055
+
+0.000
+
+ ‐0.112
+
+0.000
+
+ ‐0.055
+
+0.000
+
+Central Functions & Admin
+
+‐0.064
+
+0.000
+
+ ‐0.047
+
+0.000
+
+ ‐0.056
+
+0.000
+
+ ‐0.057
+
+0.000
+
+Clinical, Scientific & Technical
+Support
+
+‐0.118
+
+0.000
+
+ ‐0.136
+
+0.000
+
+ ‐0.133
+
+0.000
+
+ ‐0.087
+
+0.000
+
+Medical/ Dental
+
+‐0.411
+
+0.000
+
+ ‐0.341
+
+0.000
+
+ ‐0.442
+
+0.000
+
+ ‐0.375
+
+0.000
+
+Nurses
+
+‐0.184
+
+0.000
+
+ ‐0.164
+
+0.000
+
+ ‐0.207
+
+0.000
+
+ ‐0.150
+
+0.000
+
+Paramedic & Ambulance
+Services
+
+‐0.694
+
+0.000
+
+ ‐0.623
+
+0.000
+
+ ‐0.682
+
+0.000
+
+ ‐0.634
+
+0.000
+
+60
+
+Social Care Services
+
+‐0.101
+
+0.003
+
+ ‐0.092
+
+0.005
+
+ ‐0.103
+
+0.003
+
+ ‐0.102
+
+0.002
+
+0.006
+
+0.653
+
+0.009
+
+0.430
+
+0.005
+
+0.666
+
+0.013
+
+0.275
+
+Acute Type
+
+‐0.010
+
+0.820
+
+ ‐0.011
+
+0.786
+
+0.012
+
+0.796
+
+ ‐0.008
+
+0.858
+
+PCT Type
+
+0.111
+
+0.012
+
+0.103
+
+0.012
+
+0.119
+
+0.008
+
+0.077
+
+0.072
+
+Mental Health Type
+
+0.154
+
+0.001
+
+0.134
+
+0.001
+
+0.171
+
+0.000
+
+0.155
+
+0.000
+
+Health Status (1=Good, 2=Poor)
+
+‐0.013
+
+0.100
+
+0.011
+
+0.157
+
+ ‐0.009
+
+0.279
+
+ ‐0.007
+
+0.401
+
+Ethn. White
+
+‐0.007
+
+0.788
+
+0.058
+
+0.019
+
+ ‐0.001
+
+0.963
+
+ ‐0.009
+
+0.731
+
+Ethn. Mixed
+
+‐0.057
+
+0.119
+
+ ‐0.013
+
+0.710
+
+ ‐0.053
+
+0.151
+
+ ‐0.067
+
+0.066
+
+Ethn. Asian
+
+0.064
+
+0.020
+
+0.039
+
+0.144
+
+0.072
+
+0.010
+
+0.042
+
+0.126
+
+Ethn. Black
+
+0.012
+
+0.689
+
+ ‐0.001
+
+0.980
+
+0.011
+
+0.711
+
+0.015
+
+0.609
+
+The name of predictor is
+indicated above
+
+0.266
+
+0.000
+
+0.650
+
+0.000
+
+0.323
+
+0.000
+
+0.398
+
+0.000
+
+‐0.016
+
+0.003
+
+ ‐0.014
+
+0.004
+
+ ‐0.018
+
+0.001
+
+ ‐0.016
+
+0.002
+
+London Location
+
+Trust size
+
+61
+
+62 
+
+
+Appendix 6B: The case of satisfaction with quality of work; role makes a
+difference; feeling valued by colleagues; and having interesting job
+Satisfied with
+quality of work
+Estimate
+
+P
+
+Role makes a
+difference
+Estimate
+
+p
+
+Feel valued by
+colleagues
+Estimate
+
+p
+
+Have an interesting
+job
+Estimate
+
+p
+
+3.696
+
+0.000
+
+3.698
+
+0.000
+
+3.838
+
+0.000
+
+3.716
+
+0.000
+
+Gender
+
+‐0.069
+
+0.000
+
+ ‐0.083
+
+0.000
+
+ ‐0.081
+
+0.000
+
+ ‐0.080
+
+0.000
+
+Age (16-20)
+
+‐0.212
+
+0.000
+
+ ‐0.196
+
+0.001
+
+ ‐0.164
+
+0.001
+
+ ‐0.105
+
+0.034
+
+Age (21-30)
+
+‐0.193
+
+0.000
+
+ ‐0.203
+
+0.000
+
+ ‐0.188
+
+0.000
+
+ ‐0.161
+
+0.000
+
+Age (31-40)
+
+‐0.192
+
+0.000
+
+ ‐0.207
+
+0.000
+
+ ‐0.175
+
+0.000
+
+ ‐0.170
+
+0.000
+
+Age (41-50)
+
+‐0.223
+
+0.000
+
+ ‐0.248
+
+0.000
+
+ ‐0.211
+
+0.000
+
+ ‐0.213
+
+0.000
+
+Age (51-65)
+
+‐0.204
+
+0.000
+
+ ‐0.228
+
+0.000
+
+ ‐0.186
+
+0.000
+
+ ‐0.193
+
+0.000
+
+Management Status
+(1=Yes, 2=No)
+
+0.090
+
+0.000
+
+0.073
+
+0.000
+
+0.022
+
+0.001
+
+0.042
+
+0.000
+
+Tenure (<1 year)
+
+0.202
+
+0.000
+
+0.209
+
+0.000
+
+0.223
+
+0.000
+
+0.204
+
+0.000
+
+Tenure (1-2 years)
+
+0.130
+
+0.000
+
+0.130
+
+0.000
+
+0.145
+
+0.000
+
+0.130
+
+0.000
+
+Tenure (3-5 years)
+
+0.076
+
+0.000
+
+0.071
+
+0.000
+
+0.091
+
+0.000
+
+0.075
+
+0.000
+
+Tenure (6-10 years)
+
+0.040
+
+0.000
+
+0.038
+
+0.000
+
+0.054
+
+0.000
+
+0.043
+
+0.000
+
+Tenure (11-15
+years)
+
+0.022
+
+0.044
+
+0.012
+
+0.257
+
+0.026
+
+0.007
+
+0.015
+
+0.141
+
+Part-Time (<= 29
+hours)
+
+0.024
+
+0.001
+
+0.021
+
+0.003
+
+0.006
+
+0.322
+
+0.033
+
+0.000
+
+AHP
+
+‐0.060
+
+0.001
+
+ ‐0.100
+
+0.000
+
+ ‐0.093
+
+0.000
+
+ ‐0.104
+
+0.000
+
+Central Functions &
+Admin
+
+‐0.121
+
+0.000
+
+ ‐0.081
+
+0.000
+
+ ‐0.052
+
+0.000
+
+ ‐0.006
+
+0.618
+
+Clinical, Scientific
+& Technical
+Support
+
+‐0.167
+
+0.000
+
+ ‐0.145
+
+0.000
+
+ ‐0.074
+
+0.000
+
+ ‐0.104
+
+0.000
+
+Medical/ Dental
+
+‐0.410
+
+0.000
+
+ ‐0.428
+
+0.000
+
+ ‐0.438
+
+0.000
+
+ ‐0.428
+
+0.000
+
+Nurses
+
+‐0.174
+
+0.000
+
+ ‐0.211
+
+0.000
+
+ ‐0.194
+
+0.000
+
+ ‐0.210
+
+0.000
+
+Paramedic &
+Ambulance
+Services
+
+‐0.764
+
+0.000
+
+ ‐0.764
+
+0.000
+
+ ‐0.666
+
+0.000
+
+ ‐0.736
+
+0.000
+
+Constant
+
+63
+
+Social Care
+Services
+
+‐0.123
+
+0.001
+
+ ‐0.121
+
+0.000
+
+ ‐0.076
+
+0.016
+
+ ‐0.101
+
+0.002
+
+London Location
+
+0.010
+
+0.433
+
+0.007
+
+0.585
+
+0.008
+
+0.474
+
+0.009
+
+0.482
+
+Acute Type
+
+0.009
+
+0.873
+
+ ‐0.002
+
+0.968
+
+0.000
+
+0.991
+
+0.034
+
+0.432
+
+PCT Type
+
+0.137
+
+0.017
+
+0.125
+
+0.017
+
+0.094
+
+0.023
+
+0.156
+
+0.000
+
+Mental Health Type
+
+0.178
+
+0.002
+
+0.169
+
+0.002
+
+0.147
+
+0.000
+
+0.196
+
+0.000
+
+‐0.008
+
+0.373
+
+ ‐0.024
+
+0.004
+
+0.032
+
+0.000
+
+ ‐0.003
+
+0.694
+
+Ethn. White
+
+0.034
+
+0.200
+
+0.003
+
+0.909
+
+ ‐0.058
+
+0.016
+
+ ‐0.049
+
+0.050
+
+Ethn. Mixed
+
+‐0.039
+
+0.313
+
+ ‐0.066
+
+0.080
+
+ ‐0.069
+
+0.047
+
+ ‐0.090
+
+0.011
+
+Ethn. Asian
+
+0.058
+
+0.042
+
+0.069
+
+0.015
+
+0.043
+
+0.098
+
+0.053
+
+0.051
+
+Ethn. Black
+
+0.023
+
+0.434
+
+0.025
+
+0.396
+
+0.027
+
+0.321
+
+0.015
+
+0.603
+
+The name of
+predictor is
+indicated above
+
+0.477
+
+0.000
+
+0.409
+
+0.000
+
+0.773
+
+0.000
+
+0.537
+
+0.000
+
+‐0.016
+
+0.005
+
+ ‐0.018
+
+0.002
+
+ ‐0.019
+
+0.000
+
+ ‐0.019
+
+0.000
+
+Health Status
+(1=Good, 2=Poor)
+
+Trust size
+
+64
+
+65 
+
+
+Appendix 6C: The case of job design; work pressure; feeling valued; and
+Supervisor Support
+Job Design
+
+Estimate
+
+p
+
+Work Pressure
+
+Estimate
+
+p
+
+Supervisor
+Support
+Estimate
+
+p
+
+3.521
+
+0.000
+
+3.482
+
+0.000
+
+3.597
+
+0.000
+
+Gender
+
+‐0.065
+
+0.000
+
+ ‐0.102
+
+0.000
+
+ ‐0.069
+
+0.000
+
+Age (16-20)
+
+‐0.106
+
+0.013
+
+ ‐0.193
+
+0.000
+
+ ‐0.207
+
+0.000
+
+Age (21-30)
+
+‐0.085
+
+0.002
+
+ ‐0.119
+
+0.000
+
+ ‐0.211
+
+0.000
+
+Age (31-40)
+
+‐0.076
+
+0.004
+
+ ‐0.107
+
+0.000
+
+ ‐0.180
+
+0.000
+
+Age (41-50)
+
+‐0.119
+
+0.000
+
+ ‐0.146
+
+0.000
+
+ ‐0.201
+
+0.000
+
+Age (51-65)
+
+‐0.097
+
+0.000
+
+ ‐0.133
+
+0.000
+
+ ‐0.160
+
+0.000
+
+Management Status
+(1=Yes, 2=No)
+
+‐0.068
+
+0.000
+
+0.153
+
+0.000
+
+ ‐0.013
+
+0.008
+
+Tenure (<1 year)
+
+0.169
+
+0.000
+
+0.125
+
+0.000
+
+0.082
+
+0.000
+
+Tenure (1-2 years)
+
+0.119
+
+0.000
+
+0.088
+
+0.000
+
+0.062
+
+0.000
+
+Tenure (3-5 years)
+
+0.074
+
+0.000
+
+0.056
+
+0.000
+
+0.043
+
+0.000
+
+Tenure (6-10 years)
+
+0.047
+
+0.000
+
+0.034
+
+0.000
+
+0.027
+
+0.000
+
+Tenure (11-15 years)
+
+0.027
+
+0.001
+
+0.015
+
+0.119
+
+0.010
+
+0.202
+
+Part-Time (<= 29 hours)
+
+0.012
+
+0.033
+
+ ‐0.004
+
+0.510
+
+0.008
+
+0.094
+
+AHP
+
+‐0.066
+
+0.000
+
+0.029
+
+0.027
+
+ ‐0.020
+
+0.046
+
+Central Functions & Admin
+
+‐0.073
+
+0.000
+
+ ‐0.101
+
+0.000
+
+ ‐0.021
+
+0.029
+
+Clinical, Scientific &
+Technical Support
+
+‐0.127
+
+0.000
+
+ ‐0.122
+
+0.000
+
+ ‐0.084
+
+0.000
+
+Medical/ Dental
+
+‐0.315
+
+0.000
+
+ ‐0.309
+
+0.000
+
+ ‐0.195
+
+0.000
+
+Nurses
+
+‐0.119
+
+0.000
+
+ ‐0.075
+
+0.000
+
+ ‐0.110
+
+0.000
+
+Paramedic & Ambulance
+Services
+
+‐0.376
+
+0.000
+
+ ‐0.680
+
+0.000
+
+ ‐0.231
+
+0.000
+
+Social Care Services
+
+‐0.090
+
+0.001
+
+ ‐0.094
+
+0.004
+
+ ‐0.071
+
+0.004
+
+0.030
+
+0.001
+
+0.006
+
+0.589
+
+ ‐0.001
+
+0.929
+
+Constant
+
+London Location
+
+66
+
+Acute Type
+
+‐0.092
+
+0.009
+
+ ‐0.009
+
+0.818
+
+0.045
+
+0.129
+
+PCT Type
+
+0.031
+
+0.374
+
+0.104
+
+0.012
+
+0.099
+
+0.001
+
+Mental Health Type
+
+0.065
+
+0.071
+
+0.136
+
+0.001
+
+0.096
+
+0.001
+
+Health Status (1=Good,
+2=Poor)
+
+0.080
+
+0.000
+
+0.015
+
+0.054
+
+0.052
+
+0.000
+
+Ethn. White
+
+0.077
+
+0.000
+
+0.049
+
+0.046
+
+ ‐0.013
+
+0.496
+
+Ethn. Mixed
+
+0.036
+
+0.239
+
+ ‐0.014
+
+0.693
+
+ ‐0.004
+
+0.878
+
+Ethn. Asian
+
+0.038
+
+0.102
+
+0.036
+
+0.179
+
+0.056
+
+0.006
+
+Ethn. Black
+
+0.028
+
+0.249
+
+ ‐0.001
+
+0.960
+
+0.033
+
+0.121
+
+The name of predictor is
+indicated above
+
+0.562
+
+0.000
+
+ ‐0.286
+
+0.000
+
+0.704
+
+0.000
+
+‐0.011
+
+0.007
+
+ ‐0.020
+
+0.000
+
+ ‐0.006
+
+0.069
+
+Trust size
+
+67
+
+Appendix 7: Does Employee Health and Wellbeing, Presenteeism, Health and well­being in the last 4 weeks,
+Working while feeling unwell and Supervisor interest in health predict Job satisfaction, Intention to Leave,
+Injury Rate and Work­related stress
+Appendix 7A: Job satisfaction as an outcome variable
+General health and
+well-being
+Estimate
+P
+Gender
+Age (16-20)
+Age (21-30)
+Age (31-40)
+Age (41-50)
+Age (51-65)
+Management Status
+(1=Yes)
+Tenure (<1 year)
+Tenure (1-2 years)
+Tenure (3-5 years)
+Tenure (6-10 years)
+Tenure (11-15 years)
+Part-Time (<= 29 hours)
+AHP
+Central Functions &
+Admin
+
+Presenteeism
+Estimate
+
+P
+
+Health and well-being
+in the last 4 weeks
+Estimate
+P
+
+Working while feeling
+unwell
+Estimate
+P
+
+Supervisor interest
+for health
+Estimate
+P
+
+‐0.050
+
+0.000
+
+ ‐0.062
+
+0.000
+
+ ‐0.062
+
+0.000
+
+ ‐0.062
+
+0.000
+
+0.002
+
+0.593
+
+‐0.168
+
+0.000
+
+ ‐0.131
+
+0.000
+
+ ‐0.139
+
+0.000
+
+ ‐0.160
+
+0.000
+
+ ‐0.179
+
+0.000
+
+‐0.183
+
+0.000
+
+ ‐0.140
+
+0.000
+
+ ‐0.170
+
+0.000
+
+ ‐0.166
+
+0.000
+
+ ‐0.171
+
+0.000
+
+‐0.187
+
+0.000
+
+ ‐0.158
+
+0.000
+
+ ‐0.177
+
+0.000
+
+ ‐0.176
+
+0.000
+
+ ‐0.168
+
+0.000
+
+‐0.188
+
+0.000
+
+ ‐0.180
+
+0.000
+
+ ‐0.176
+
+0.000
+
+ ‐0.186
+
+0.000
+
+ ‐0.145
+
+0.000
+
+‐0.176
+
+0.000
+
+ ‐0.177
+
+0.000
+
+ ‐0.162
+
+0.000
+
+ ‐0.176
+
+0.000
+
+ ‐0.129
+
+0.000
+
+0.133
+
+0.000
+
+0.127
+
+0.000
+
+0.126
+
+0.000
+
+0.141
+
+0.000
+
+0.104
+
+0.000
+
+0.134
+
+0.000
+
+0.099
+
+0.000
+
+0.128
+
+0.000
+
+0.123
+
+0.000
+
+0.068
+
+0.000
+
+0.045
+
+0.000
+
+0.034
+
+0.000
+
+0.038
+
+0.000
+
+0.043
+
+0.000
+
+ ‐0.003
+
+0.555
+
+0.010
+
+0.098
+
+0.007
+
+0.280
+
+0.006
+
+0.364
+
+0.008
+
+0.240
+
+ ‐0.020
+
+0.000
+
+‐0.014
+
+0.016
+
+ ‐0.009
+
+0.120
+
+ ‐0.018
+
+0.001
+
+ ‐0.015
+
+0.011
+
+ ‐0.032
+
+0.000
+
+‐0.018
+
+0.009
+
+ ‐0.008
+
+0.264
+
+ ‐0.017
+
+0.010
+
+ ‐0.012
+
+0.107
+
+ ‐0.024
+
+0.000
+
+0.025
+
+0.000
+
+0.019
+
+0.000
+
+0.025
+
+0.000
+
+0.016
+
+0.001
+
+0.031
+
+0.000
+
+‐0.075
+
+0.000
+
+ ‐0.072
+
+0.000
+
+ ‐0.078
+
+0.000
+
+ ‐0.082
+
+0.000
+
+ ‐0.059
+
+0.000
+
+‐0.070
+
+0.000
+
+ ‐0.059
+
+0.000
+
+ ‐0.065
+
+0.000
+
+ ‐0.065
+
+0.000
+
+ ‐0.040
+
+0.000
+
+Clinical, Scientific &
+Technical Support
+Medical/ Dental
+Nurses
+Paramedic &
+Ambulance Services
+Social Care Services
+London Location
+Acute Trust
+PCT
+Mental Health
+Health Status (1=Good)
+Ethn. White
+Ethn. Mixed
+Ethn. Asian
+Ethn. Black
+The predicting variable
+is highlighted above
+Trust size
+
+‐0.115
+
+0.000
+
+ ‐0.096
+
+0.000
+
+ ‐0.121
+
+0.000
+
+ ‐0.128
+
+0.000
+
+ ‐0.081
+
+0.000
+
+‐0.111
+
+0.000
+
+ ‐0.093
+
+0.000
+
+ ‐0.118
+
+0.000
+
+ ‐0.100
+
+0.000
+
+0.057
+
+0.000
+
+‐0.138
+
+0.000
+
+ ‐0.110
+
+0.000
+
+ ‐0.153
+
+0.000
+
+ ‐0.146
+
+0.000
+
+ ‐0.087
+
+0.000
+
+‐0.436
+
+0.000
+
+ ‐0.332
+
+0.000
+
+ ‐0.440
+
+0.000
+
+ ‐0.418
+
+0.000
+
+ ‐0.165
+
+0.000
+
+‐0.102
+
+0.000
+
+ ‐0.071
+
+0.002
+
+ ‐0.103
+
+0.000
+
+ ‐0.108
+
+0.000
+
+ ‐0.070
+
+0.000
+
+0.006
+
+0.529
+
+0.003
+
+0.720
+
+0.005
+
+0.569
+
+0.006
+
+0.580
+
+0.002
+
+0.759
+
+0.017
+
+0.591
+
+0.047
+
+0.125
+
+0.023
+
+0.455
+
+0.021
+
+0.515
+
+0.008
+
+0.744
+
+0.099
+
+0.002
+
+0.085
+
+0.006
+
+0.116
+
+0.000
+
+0.100
+
+0.002
+
+0.035
+
+0.159
+
+0.111
+
+0.001
+
+0.095
+
+0.003
+
+0.131
+
+0.000
+
+0.113
+
+0.001
+
+0.026
+
+0.305
+
+‐0.028
+
+0.000
+
+ ‐0.068
+
+0.000
+
+ ‐0.023
+
+0.000
+
+ ‐0.091
+
+0.000
+
+ ‐0.132
+
+0.000
+
+0.032
+
+0.061
+
+0.047
+
+0.006
+
+0.066
+
+0.000
+
+0.061
+
+0.001
+
+0.054
+
+0.000
+
+‐0.037
+
+0.124
+
+ ‐0.036
+
+0.147
+
+ ‐0.025
+
+0.298
+
+ ‐0.016
+
+0.529
+
+ ‐0.021
+
+0.288
+
+0.060
+
+0.001
+
+0.030
+
+0.105
+
+0.051
+
+0.005
+
+0.040
+
+0.039
+
+0.023
+
+0.140
+
+‐0.025
+
+0.192
+
+ ‐0.021
+
+0.284
+
+ ‐0.032
+
+0.088
+
+0.003
+
+0.890
+
+ ‐0.008
+
+0.619
+
+0.181
+
+0.000
+
+ ‐0.638
+
+0.000
+
+0.194
+
+0.000
+
+0.306
+
+0.000
+
+0.422
+
+0.000
+
+‐0.014
+
+0.001
+
+ ‐0.011
+
+0.008
+
+ ‐0.013
+
+0.002
+
+ ‐0.012
+
+0.007
+
+ ‐0.005
+
+0.102
+
+69
+
+Appendix 7B: Intention to leave as an outcome variable
+General health and
+well-being
+Estimate
+P
+Gender
+Age (16-20)
+Age (21-30)
+Age (31-40)
+Age (41-50)
+Age (51-65)
+Management Status
+(1=Yes)
+Tenure (<1 year)
+Tenure (1-2 years)
+Tenure (3-5 years)
+Tenure (6-10 years)
+Tenure (11-15 years)
+Part-Time (<= 29 hours)
+AHP
+Central Functions &
+Admin
+Clinical, Scientific &
+Technical Support
+Medical/ Dental
+Nurses
+
+Presenteeism
+Estimate
+
+P
+
+Health and well-being
+in the last 4 weeks
+Estimate
+P
+
+Working while feeling
+unwell
+Estimate
+P
+
+Supervisor interest
+for health
+Estimate
+P
+
+0.127
+
+0.000
+
+0.135
+
+0.000
+
+0.143
+
+0.000
+
+0.143
+
+0.000
+
+0.069
+
+0.000
+
+0.478
+
+0.000
+
+0.483
+
+0.000
+
+0.434
+
+0.000
+
+0.488
+
+0.000
+
+0.545
+
+0.000
+
+0.577
+
+0.000
+
+0.557
+
+0.000
+
+0.556
+
+0.000
+
+0.570
+
+0.000
+
+0.612
+
+0.000
+
+0.505
+
+0.000
+
+0.498
+
+0.000
+
+0.487
+
+0.000
+
+0.505
+
+0.000
+
+0.529
+
+0.000
+
+0.473
+
+0.000
+
+0.488
+
+0.000
+
+0.452
+
+0.000
+
+0.485
+
+0.000
+
+0.471
+
+0.000
+
+0.337
+
+0.000
+
+0.359
+
+0.000
+
+0.312
+
+0.000
+
+0.352
+
+0.000
+
+0.322
+
+0.000
+
+‐0.040
+
+0.000
+
+ ‐0.032
+
+0.000
+
+ ‐0.029
+
+0.000
+
+ ‐0.050
+
+0.000
+
+ ‐0.012
+
+0.052
+
+‐0.212
+
+0.000
+
+ ‐0.179
+
+0.000
+
+ ‐0.205
+
+0.000
+
+ ‐0.197
+
+0.000
+
+ ‐0.161
+
+0.000
+
+‐0.013
+
+0.191
+
+0.001
+
+0.953
+
+ ‐0.005
+
+0.634
+
+ ‐0.010
+
+0.345
+
+0.029
+
+0.003
+
+0.051
+
+0.000
+
+0.057
+
+0.000
+
+0.056
+
+0.000
+
+0.055
+
+0.000
+
+0.077
+
+0.000
+
+0.083
+
+0.000
+
+0.082
+
+0.000
+
+0.090
+
+0.000
+
+0.088
+
+0.000
+
+0.101
+
+0.000
+
+0.068
+
+0.000
+
+0.062
+
+0.000
+
+0.066
+
+0.000
+
+0.065
+
+0.000
+
+0.074
+
+0.000
+
+‐0.066
+
+0.000
+
+ ‐0.066
+
+0.000
+
+ ‐0.066
+
+0.000
+
+ ‐0.054
+
+0.000
+
+ ‐0.080
+
+0.000
+
+‐0.076
+
+0.000
+
+ ‐0.072
+
+0.000
+
+ ‐0.072
+
+0.000
+
+ ‐0.062
+
+0.000
+
+ ‐0.086
+
+0.000
+
+‐0.067
+
+0.000
+
+ ‐0.073
+
+0.000
+
+ ‐0.076
+
+0.000
+
+ ‐0.067
+
+0.000
+
+ ‐0.098
+
+0.000
+
+‐0.157
+
+0.000
+
+ ‐0.172
+
+0.000
+
+ ‐0.147
+
+0.000
+
+ ‐0.137
+
+0.000
+
+ ‐0.183
+
+0.000
+
+‐0.238
+
+0.000
+
+ ‐0.268
+
+0.000
+
+ ‐0.228
+
+0.000
+
+ ‐0.255
+
+0.000
+
+ ‐0.411
+
+0.000
+
+0.021
+
+0.093
+
+ ‐0.001
+
+0.922
+
+0.043
+
+0.001
+
+0.037
+
+0.006
+
+ ‐0.018
+
+0.138
+
+70
+
+Paramedic &
+Ambulance Services
+Social Care Services
+London Location
+Acute Trust
+PCT
+Mental Health
+Health Status (1=Good)
+Ethn. White
+Ethn. Mixed
+Ethn. Asian
+Ethn. Black
+The predicting variable
+is highlighted above
+Trust size
+
+‐0.064
+
+0.135
+
+ ‐0.182
+
+0.000
+
+ ‐0.063
+
+0.138
+
+ ‐0.084
+
+0.063
+
+ ‐0.324
+
+0.000
+
+‐0.061
+
+0.065
+
+ ‐0.075
+
+0.034
+
+ ‐0.062
+
+0.060
+
+ ‐0.043
+
+0.230
+
+ ‐0.088
+
+0.005
+
+‐0.106
+
+0.000
+
+ ‐0.100
+
+0.000
+
+ ‐0.106
+
+0.000
+
+ ‐0.106
+
+0.000
+
+ ‐0.104
+
+0.000
+
+0.069
+
+0.158
+
+0.030
+
+0.555
+
+0.054
+
+0.259
+
+0.062
+
+0.224
+
+0.072
+
+0.115
+
+0.111
+
+0.024
+
+0.124
+
+0.014
+
+0.081
+
+0.094
+
+0.107
+
+0.038
+
+0.169
+
+0.000
+
+0.075
+
+0.135
+
+0.100
+
+0.054
+
+0.044
+
+0.378
+
+0.078
+
+0.139
+
+0.159
+
+0.001
+
+‐0.019
+
+0.020
+
+0.064
+
+0.000
+
+ ‐0.024
+
+0.002
+
+0.077
+
+0.000
+
+0.141
+
+0.000
+
+‐0.032
+
+0.207
+
+ ‐0.068
+
+0.010
+
+ ‐0.083
+
+0.001
+
+ ‐0.086
+
+0.001
+
+ ‐0.069
+
+0.004
+
+0.051
+
+0.153
+
+0.027
+
+0.465
+
+0.023
+
+0.523
+
+ ‐0.002
+
+0.965
+
+0.025
+
+0.466
+
+‐0.099
+
+0.000
+
+ ‐0.071
+
+0.012
+
+ ‐0.086
+
+0.001
+
+ ‐0.082
+
+0.005
+
+ ‐0.064
+
+0.012
+
+‐0.007
+
+0.807
+
+ ‐0.028
+
+0.342
+
+0.005
+
+0.866
+
+ ‐0.056
+
+0.060
+
+ ‐0.040
+
+0.137
+
+‐0.273
+
+0.000
+
+0.764
+
+0.000
+
+ ‐0.287
+
+0.000
+
+ ‐0.461
+
+0.000
+
+ ‐0.411
+
+0.000
+
+‐0.002
+
+0.744
+
+ ‐0.006
+
+0.377
+
+ ‐0.004
+
+0.536
+
+ ‐0.006
+
+0.420
+
+ ‐0.012
+
+0.069
+
+71
+
+Appendix 7C: Injury rate as an outcome variable
+General health and wellbeing
+
+Presenteeism
+
+Health and well-being in
+the last 4 weeks
+
+Working while feeling
+unwell
+
+Supervisor interest for
+health
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Gender
+
+0.978
+
+0.328
+
+0.997
+
+0.9
+
+0.994
+
+0.808
+
+1.016
+
+0.511
+
+0.925
+
+0.001
+
+Age (16-20)
+
+1.709
+
+0.001
+
+1.661
+
+0.003
+
+1.709
+
+0.001
+
+1.670
+
+0.002
+
+2.025
+
+0.000
+
+Age (21-30)
+
+1.591
+
+0.000
+
+1.534
+
+0.001
+
+1.621
+
+0.000
+
+1.559
+
+0.000
+
+1.798
+
+0.000
+
+Age (31-40)
+
+1.300
+
+0.021
+
+1.276
+
+0.049
+
+1.330
+
+0.012
+
+1.301
+
+0.034
+
+1.444
+
+0.001
+
+Age (41-50)
+
+1.295
+
+0.022
+
+1.318
+
+0.025
+
+1.318
+
+0.014
+
+1.330
+
+0.021
+
+1.410
+
+0.002
+
+Age (51-65)
+
+1.364
+
+0.006
+
+1.405
+
+0.006
+
+1.373
+
+0.005
+
+1.432
+
+0.004
+
+1.447
+
+0.001
+
+Managemen
+t Status
+(1=Yes)
+
+0.747
+
+0.000
+
+0.757
+
+0.000
+
+0.761
+
+0.000
+
+0.731
+
+0.000
+
+0.773
+
+0.000
+
+Tenure (<1
+year)
+
+0.751
+
+0.000
+
+0.803
+
+0.000
+
+0.752
+
+0.000
+
+0.793
+
+0.000
+
+0.774
+
+0.000
+
+Tenure (1-2
+years)
+
+1.101
+
+0.002
+
+1.138
+
+0.000
+
+1.109
+
+0.001
+
+1.114
+
+0.001
+
+1.144
+
+0.000
+
+Tenure (3-5
+years)
+
+1.115
+
+0.000
+
+1.138
+
+0.000
+
+1.124
+
+0.000
+
+1.125
+
+0.000
+
+1.145
+
+0.000
+
+Tenure (610 years)
+
+1.150
+
+0.000
+
+1.152
+
+0.000
+
+1.160
+
+0.000
+
+1.158
+
+0.000
+
+1.178
+
+0.000
+
+Tenure (1115 years)
+
+1.157
+
+0.000
+
+1.154
+
+0.000
+
+1.155
+
+0.000
+
+1.149
+
+0.000
+
+1.173
+
+0.000
+
+Part-Time
+(<= 29
+hours)
+
+0.824
+
+0.000
+
+0.845
+
+0.000
+
+0.822
+
+0.000
+
+0.863
+
+0.000
+
+0.808
+
+0.000
+
+AHP
+
+2.244
+
+0.000
+
+2.301
+
+0.000
+
+2.248
+
+0.000
+
+2.336
+
+0.000
+
+2.217
+
+0.000
+
+Central
+Functions &
+Admin
+
+1.745
+
+0.000
+
+1.776
+
+0.000
+
+1.720
+
+0.000
+
+1.773
+
+0.000
+
+1.694
+
+0.000
+
+72
+
+Clinical,
+Scientific &
+Technical
+Support
+
+3.917
+
+0.000
+
+3.991
+
+0.000
+
+3.939
+
+0.000
+
+4.115
+
+0.000
+
+3.854
+
+0.000
+
+Medical/
+Dental
+
+2.208
+
+0.000
+
+2.162
+
+0.000
+
+2.208
+
+0.000
+
+2.186
+
+0.000
+
+1.862
+
+0.000
+
+Nurses
+
+2.851
+
+0.000
+
+2.849
+
+0.000
+
+2.953
+
+0.000
+
+2.967
+
+0.000
+
+2.795
+
+0.000
+
+Paramedic
+&
+Ambulance
+Services
+
+11.123
+
+0.000
+
+10.096
+
+0.000
+
+11.157
+
+0.000
+
+10.852
+
+0.000
+
+9.380
+
+0.000
+
+Social Care
+Services
+
+2.531
+
+0.000
+
+2.435
+
+0.000
+
+2.494
+
+0.000
+
+2.599
+
+0.000
+
+2.487
+
+0.000
+
+London
+Location
+
+1.040
+
+0.206
+
+1.047
+
+0.139
+
+1.040
+
+0.213
+
+1.041
+
+0.208
+
+1.041
+
+0.184
+
+Acute Trust
+
+1.343
+
+0.032
+
+1.295
+
+0.067
+
+1.328
+
+0.038
+
+1.324
+
+0.045
+
+1.393
+
+0.016
+
+PCT
+
+0.870
+
+0.313
+
+0.912
+
+0.514
+
+0.848
+
+0.23
+
+0.861
+
+0.286
+
+0.949
+
+0.706
+
+Mental
+Health
+
+0.572
+
+0.000
+
+0.604
+
+0.000
+
+0.558
+
+0.000
+
+0.568
+
+0.000
+
+0.643
+
+0.002
+
+Health
+Status
+(1=Good)
+
+0.648
+
+0.000
+
+0.567
+
+0.000
+
+0.625
+
+0.000
+
+0.574
+
+0.000
+
+0.509
+
+0.000
+
+Ethn. White
+
+0.823
+
+0.005
+
+0.776
+
+0.000
+
+0.752
+
+0.000
+
+0.745
+
+0.000
+
+0.778
+
+0.000
+
+Ethn. Mixed
+
+1.147
+
+0.165
+
+1.099
+
+0.355
+
+1.107
+
+0.295
+
+1.063
+
+0.543
+
+1.136
+
+0.191
+
+Ethn. Asian
+
+0.842
+
+0.024
+
+0.866
+
+0.069
+
+0.856
+
+0.039
+
+0.866
+
+0.066
+
+0.884
+
+0.102
+
+Ethn. Black
+
+0.820
+
+0.013
+
+0.793
+
+0.005
+
+0.820
+
+0.012
+
+0.760
+
+0.001
+
+0.769
+
+0.001
+
+The
+predicting
+variable is
+highlighted
+above
+
+0.599
+
+0.000
+
+2.510
+
+0.000
+
+1.358
+
+0.000
+
+2.548
+
+0.000
+
+0.748
+
+0.000
+
+Trust size
+
+1.037
+
+0.004
+
+1.031
+
+0.015
+
+1.034
+
+0.007
+
+1.028
+
+0.029
+
+1.028
+
+0.022
+
+73
+
+Appendix 7D: Work­related stress as an outcome variable
+General Health and
+well-being
+
+Presenteeism
+
+Health and well-being in
+the last 4 weeks
+
+Working while feeling
+unwell
+
+Supervisor interest for
+health
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Odds Ratio
+
+P Value
+
+Gender
+
+0.869
+
+0.000
+
+0.879
+
+0.000
+
+0.901
+
+0.000
+
+0.911
+
+0.000
+
+0.788
+
+0.000
+
+Age (16-20)
+
+1.980
+
+0.000
+
+2.108
+
+0.000
+
+1.880
+
+0.000
+
+2.122
+
+0.000
+
+2.944
+
+0.000
+
+Age (21-30)
+
+2.177
+
+0.000
+
+2.061
+
+0.000
+
+2.126
+
+0.000
+
+2.069
+
+0.000
+
+2.789
+
+0.000
+
+Age (31-40)
+
+2.185
+
+0.000
+
+2.133
+
+0.000
+
+2.161
+
+0.000
+
+2.126
+
+0.000
+
+2.716
+
+0.000
+
+Age (41-50)
+
+2.356
+
+0.000
+
+2.384
+
+0.000
+
+2.299
+
+0.000
+
+2.326
+
+0.000
+
+2.762
+
+0.000
+
+Age (51-65)
+
+2.429
+
+0.000
+
+2.448
+
+0.000
+
+2.342
+
+0.000
+
+2.427
+
+0.000
+
+2.689
+
+0.000
+
+Managemen
+t Status
+(1=Yes)
+
+1.241
+
+0.000
+
+1.238
+
+0.000
+
+1.271
+
+0.000
+
+1.172
+
+0.000
+
+1.265
+
+0.000
+
+Tenure (<1
+year)
+
+0.471
+
+0.000
+
+0.512
+
+0.000
+
+0.482
+
+0.000
+
+0.503
+
+0.000
+
+0.502
+
+0.000
+
+Tenure (1-2
+years)
+
+0.715
+
+0.000
+
+0.744
+
+0.000
+
+0.736
+
+0.000
+
+0.730
+
+0.000
+
+0.765
+
+0.000
+
+Tenure (3-5
+years)
+
+0.872
+
+0.000
+
+0.879
+
+0.000
+
+0.891
+
+0.000
+
+0.880
+
+0.000
+
+0.911
+
+0.000
+
+Tenure (610 years)
+
+0.975
+
+0.201
+
+0.971
+
+0.143
+
+0.996
+
+0.829
+
+0.977
+
+0.234
+
+1.005
+
+0.794
+
+Tenure (1115 years)
+
+0.991
+
+0.695
+
+0.985
+
+0.533
+
+0.992
+
+0.714
+
+0.981
+
+0.4
+
+1.005
+
+0.831
+
+Part-Time
+(<= 29
+hours)
+
+0.673
+
+0.000
+
+0.680
+
+0.000
+
+0.677
+
+0.000
+
+0.715
+
+0.000
+
+0.657
+
+0.000
+
+AHP
+
+1.156
+
+0.000
+
+1.188
+
+0.000
+
+1.172
+
+0.000
+
+1.229
+
+0.000
+
+1.158
+
+0.000
+
+Central
+Functions &
+Admin
+
+0.886
+
+0.000
+
+0.888
+
+0.000
+
+0.866
+
+0.000
+
+0.910
+
+0.002
+
+0.855
+
+0.000
+
+74
+
+Clinical,
+Scientific &
+Technical
+Support
+
+0.856
+
+0.000
+
+0.852
+
+0.000
+
+0.890
+
+0.001
+
+0.940
+
+0.08
+
+0.864
+
+0.000
+
+Medical/
+Dental
+
+1.112
+
+0.009
+
+1.030
+
+0.47
+
+1.128
+
+0.003
+
+1.070
+
+0.098
+
+0.837
+
+0.000
+
+Nurses
+
+1.205
+
+0.000
+
+1.182
+
+0.000
+
+1.295
+
+0.000
+
+1.277
+
+0.000
+
+1.191
+
+0.000
+
+Paramedic
+&
+Ambulance
+Services
+
+1.404
+
+0.002
+
+1.131
+
+0.257
+
+1.431
+
+0.001
+
+1.307
+
+0.012
+
+1.033
+
+0.756
+
+Social Care
+Services
+
+1.009
+
+0.911
+
+0.994
+
+0.945
+
+1.025
+
+0.746
+
+1.090
+
+0.272
+
+1.013
+
+0.861
+
+London
+Location
+
+1.090
+
+0
+
+1.088
+
+0.001
+
+1.089
+
+0
+
+1.085
+
+0.001
+
+1.081
+
+0.001
+
+Acute Trust
+
+1.102
+
+0.343
+
+1.008
+
+0.938
+
+1.068
+
+0.516
+
+1.034
+
+0.741
+
+1.113
+
+0.283
+
+PCT
+
+1.206
+
+0.069
+
+1.261
+
+0.026
+
+1.116
+
+0.278
+
+1.156
+
+0.155
+
+1.318
+
+0.006
+
+Mental
+Health
+
+1.243
+
+0.037
+
+1.309
+
+0.011
+
+1.139
+
+0.201
+
+1.188
+
+0.095
+
+1.417
+
+0.001
+
+Health
+Status
+(1=Good)
+
+0.780
+
+0.000
+
+0.575
+
+0.000
+
+0.755
+
+0.000
+
+0.595
+
+0.000
+
+0.494
+
+0.000
+
+Ethn. White
+
+0.990
+
+0.863
+
+0.912
+
+0.123
+
+0.840
+
+0.003
+
+0.849
+
+0.006
+
+0.899
+
+0.062
+
+Ethn. Mixed
+
+1.089
+
+0.311
+
+1.056
+
+0.524
+
+1.019
+
+0.816
+
+0.955
+
+0.584
+
+1.061
+
+0.461
+
+Ethn. Asian
+
+0.785
+
+0.000
+
+0.873
+
+0.037
+
+0.844
+
+0.007
+
+0.849
+
+0.011
+
+0.874
+
+0.029
+
+Ethn. Black
+
+0.810
+
+0.002
+
+0.768
+
+0.000
+
+0.838
+
+0.007
+
+0.707
+
+0.000
+
+0.738
+
+0.000
+
+The
+predicting
+variable is
+highlighted
+above
+
+0.349
+
+0.000
+
+4.041
+
+0.000
+
+1.934
+
+0.000
+
+3.841
+
+0.000
+
+0.606
+
+0.000
+
+Trust size
+
+1.023
+
+0.027
+
+1.013
+
+0.261
+
+1.017
+
+0.088
+
+1.013
+
+0.212
+
+1.007
+
+0.508
+
+75
+
+76
+
+
+References
+Boorman.S. (2009). NHS Health and Well-being. Final Report.
+
+Danna, K. and Griffin, R. W. ‘Health and Wellbeing in the Workplace: A Review and Synthesis of the
+Literature,’ Journal of Management, Vol. 25, No. 3, 1999, pp. 357–384.
+
+Health and Safety Executive, 2004. Managing Sickness Absence in the Public Sector: A Joint Review by the
+Ministerial Task Force for Health, Safety and Productivity and the Cabinet Office,[London]: [Department for
+Work and Pensions].
+
+Emmanuel Hassan, Christopher Austin, Claire Celia, Emma Disley, Priscillia Hunt, Sonja Marjanovic, Ala’a
+Shehabi, Lidia Villalba-Van-Dijk, Christian Van Stolk, August 2009. Health and Wellbeing at Work in the
+United Kingdom. DH. The Work Foundation, 21 Palmer Street, London.
+
+Health and Safety Executive, 2009. ‘Interim Update of the Costs to Britain of Workplace Accidents and
+Work-Related Ill-health’, note by HSE’s Economic Advisers Unit, 2004a. As of July 31, 2009: http://www.hmtreasury.gov.uk/d/5(1).pdf
+
+Hemp, P. 2004, ‘Presenteeism: at work – but out of it’’, Harvard Business Review, pp. 49-58.
+
+Kmietowic. Z. 2003. NHS aims to increase number of ethnic minority staff in management. News
+roundup. BMJ ;327:889 (18 October), doi:10.1136/bmj.327.7420.889
+
+Light. D.W. 2001. Managed competition, governmentality and institutional response in the United Kingdom.
+Social Science & Medicine. Volume 52, Issue 8, Pages 1167-1181.
+
+Pathak, M. 2008. The Costs to Employers in Britain of Workplace Injuries and Work-related Ill-health in
+2005/06, Health and Safety Executive Discussion Paper Series, No. 2:
+http://www.hse.gov.uk/economics/research/injuryill0506.pdf
+
+Pearson, R. Reilly, P and Robinson, D. 2004. Recruiting and developing an effective workforce in the British
+NHS. J Health Serv Res Policy Vol 9 Suppl 1
+
+Shahandeh, B. 1985. Drug and alcohol abuse in the workplace: Consequences and countermeasures.
+International. Labour Review, 124: 207–223.
+
+Warr, P. 1990. The measurement of well-being and other aspects of mental health. Journal of Occupational
+Psychology, 63: 193–210.
+Warr, P. 1999. ‘Wellbeing and the Workplace,’ in D. Kahneman, E. Diener, and N. Schwarz (eds.),Wellbeing:
+Foundations of Hedonic Psychology, New York: Russell Sage Foundation.
+
+West, M., Guthrie, JP., Dawson, AF and Carter, M (2006). Reducing patient mortality in hospitals: The role of
+human resource management. Journal of Organizational Behaviour. 27, 983–1002 (2006).
+
+World Health Organization. 1998. Definition of Health [Online]. Available:
+http://www.who.ch/aboutwho/definition.htm.
+
+78
+
+

@@ -1,0 +1,177 @@
+MEMORANDUM
+TO:
+
+Equity Market Structure Advisory Committee (EMSAC)
+
+FROM:
+
+EMSAC Customer Issues Subcommittee
+
+DATE:
+
+July 25, 2016
+
+SUBJECT:
+
+Recommendations Relating to Customer Issues
+
+The Customer Issues Subcommittee was formed to consider initiatives to protect investor
+interests and promote investor confidence. The Subcommittee is charged with making
+recommendations to the full Committee that would support more granular information to
+investors and enhance transparency. Topics include issues around meaningful execution
+quality and review of order routing disclosures (Rules 605 and 606), payment for order
+flow, as well as processes to educate retail customers on order types and market
+volatility.
+The primary focus of the Customer Issues Subcommittee has revolved around four topics:
+(1) understanding the retail investor perspective on equity market structure, (2) use of
+stop order types by retail customers, (3) review of execution quality statistics from a
+retail perspective, and (4) payment for order flow.
+We note that with respect to the use of stop orders, FINRA has already issued Regulatory
+Notice 16-19 relating to the use of stop orders in periods of extreme market volatility.
+The guidance provided is consistent with the Subcommittee’s recommendations
+presented in the April 2016 Customer Issues Subcommittee Status Report. With respect
+to payment for order flow, the subcommittee has not come to any specific
+recommendations. Discussions spanned several topics including prohibiting the use of
+payment for order flow, managing conflicts of interest and opportunities for enhancing
+existing or requiring new disclosures. The subcommittee notes that the Commission has
+recently released a proposal on order handling disclosures including new disclosures
+related to payment for order flow. The subcommittee believes comment on these
+disclosures is appropriate.
+As part of its deliberations, the Subcommittee considered input from market participants
+including retail broker dealers, industry groups and members of the SEC’s Investor
+Advisory Committee. Statistical information reviewed by the subcommittee demonstrates
+that retail execution quality has improved over the last several years. While the
+Commission’s recent order handling proposal recognizes the need to modernize Rule 606
+disclosures in light of changes to market structure, the Subcommittee recommends
+additional modifications to Rule 605 and Rule 606 related to retail order flow as outlined
+
+1
+
+below. 1 Additionally, the subcommittee recommends that the Commission perform
+surveys in order to benchmark and monitor investor confidence as described below.
+Recommendation #1 – Benchmark and monitor investor confidence in U.S. equities
+market structure.
+• The SEC should always have an informed and current view of the state of
+individual investor confidence in our equity markets. The SEC should
+periodically sponsor or conduct surveys of individual investors to establish
+benchmarks and trends over time for investor confidence in the U.S. equities
+markets.
+• Existing academic and industry studies on confidence, stock market participation
+levels and investor trust in the markets should inform the SEC’s view.
+Partnerships and coordination of efforts to extend and enhance the knowledge of
+these issues should be considered and undertaken.
+• The SEC should use the survey information and other indications to examine
+views on market structure, disclosures and volatility and the implications of these
+views on investor behavior, asset allocation decisions, readiness for retirement,
+and perceptions on the advisability of and risk associated with investing in
+equities.
+• Results of the surveys and the SEC’s understanding of individual investor
+perceptions and behaviors should be used to inform rule-making and educational
+efforts. Testing the usability, clarity, and effectiveness of disclosures on a
+representative sample of individual investors, including those recommended
+below, should be undertaken prior to implementation and revised in response to
+the testing results. In addition, disclosures or investor educational materials to
+improve investors’ understanding of different business models and market
+structure should also be tested and revised if needed.
+Recommendation #2 – Modify Rule 605 and Rule 606 to provide meaningful
+execution quality and order handling disclosures from a retail perspective.
+•
+
+Improve the accessibility of Rule 605 and 606 reports
+o Leverage the SEC’s existing Market Structure Data and Analysis website as a
+central repository Rule 605 and 606 reports.
+o Incorporate Rule 605 and 606 data into the SEC’s Data Visualization Tool.
+
+•
+
+Expand the scope of Rule 605 by requiring every broker-dealer to report with an
+exemption for broker dealers with de minimis order flow, aligning scope of Rule
+605 reporting with Rule 606.
+o Today, Rule 605 requires market centers 2 to publish reports. Broker-dealers
+who route order flow to other execution venues only produce Rule 606
+reports.
+
+1
+
+Recommendations will be updated to reflect the SEC’s recently issued proposal on order handling
+disclosures after the Subcommittee reviews the proposal.
+
+2
+
+o While there would be compliance and implementation costs, the use of third
+party vendors may mitigate some of these concerns.
+o By having all broker dealers provide Rule 605 data, there would be an
+opportunity for market participants, academics and the press to evaluate these
+statistics in a consistent manner.
+•
+
+To further improve standardization and the consistency of reporting, the SEC
+could consider centralizing report creation in an unbiased and trusted source such
+as FINRA.
+
+•
+
+For market data driven calculations in Rule 605 and Rule 606, require that
+calculations to be based on either SIP or proprietary feeds depending on what
+feeds were used for routing and execution. Include disclosure identifying type of
+market data used in report.
+
+•
+
+Modify Rule 605 to reflect changes in market structure since the rule was initially
+adopted:
+o Include odd-lots
+o Segregate Immediate or Cancel (IOC) orders
+o Include the following new data elements: “quoted spread 3” and “enhanced
+liquidity4”
+o Expand execution time buckets to include more granular measurements
+including: less than 50 milliseconds, 50 milliseconds – 500 milliseconds; 500
+milliseconds to 1 second
+o Revise FAQs regarding methodology to assign an NBBO for orders received
+in the same second as a quote change such that all firms reference the NBBO
+from the closest millisecond prior to the receipt of a covered order.
+
+•
+
+Expand the scope of Rule 606 reporters to include exchanges and ATSs that route
+orders.
+
+•
+
+Modify Rule 606 enhancements to reflect changes in market structure since the rule
+was initially adopted:
+o Instead of dividing data by listing markets, divide by S&P 500 and Other
+NMS equities
+o Include a new section for OTC Equity Data
+o Segregate data currently in the “Other” category with separate columns for
+market open/close orders and stop/stop on quote orders. Based on order
+attributes, odd lots would fall into the market, limit, market open/close,
+stop/stop on quote, or other category
+
+2
+
+As defined by Regulation NMS, market center means any exchange market maker, OTC market maker,
+alternative trading system, national securities exchange, or national securities association.
+3
+Quoted spread would be the prevailing National Best Bid or Offer (“NBBO”) at the time a market center
+receives an order.
+4
+Enhanced Liquidity would indicate for the proportion of shares greater than the available shares displayed
+at NBBO that were executed at or better than the NBBO.
+
+3
+
+o
+o
+o
+o
+
+Segregate marketable limit orders from non-marketable limit orders
+Consistently identify routing destinations across Rule 606 reporters
+Include plain English descriptions, definitions and FAQs
+Include execution quality statistics by routing destination, e.g., effective
+spread /quoted spread.
+
+4
+
+

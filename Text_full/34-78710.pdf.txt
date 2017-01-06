@@ -1,0 +1,1671 @@
+SECURITIES AND EXCHANGE COMMISSION
+Release No. 34-78710; File No. 601-01
+August 29, 2016
+Euroclear Bank SA/NV; Notice of Filing of Application to Modify an Existing Exemption from
+Clearing Agency Registration
+I.
+
+Introduction
+On May 9, 2016, Euroclear Bank SA/NV (“EB”) filed with the Securities and Exchange
+
+Commission (“Commission”) an application on Form CA-1 requesting to modify an existing
+exemption1 (“Existing Exemption”) from clearing agency registration (“Modification
+Application”) 2 pursuant to Section 17A 3 of the Securities Exchange Act of 1934 (“Exchange
+Act”) and Rule 17Ab2-1 thereunder. 4 Subject to certain limitations and conditions, the Existing
+Exemption enables EB as operator of the Euroclear System 5 to perform the functions of a
+1
+
+See Self-Regulatory Organizations; Morgan Guaranty Trust Company of New York,
+Brussels Office, as Operator of the Euroclear System; Order Approving Application for
+Exemption From Registration as a Clearing Agency, Exchange Act Release No. 39643 (Feb. 11,
+1998), 63 FR 8232 (Feb. 18, 1998) (“Original Exemption Order”); and Self-Regulatory
+Organizations; Morgan Guaranty Trust Company, Brussels Office, as Operator of the Euroclear
+System and Euroclear Bank, S.A.; Order Approving Application to Modify an Existing
+Exemption From Clearing Agency Registration, Exchange Act Release No. 43775 (Dec. 28,
+2000), 66 FR 819 (Jan. 4, 2001) (“2001 Exemption Modification Order”) (together the Existing
+Exemption).
+2
+
+The descriptions set forth in this notice regarding the structure and operations of EB have
+been largely derived from information contained in EB’s amended Form CA-1 application and
+publicly available sources. The redacted Modification Application and non-confidential exhibits
+thereto are available on the Commission’s website.
+3
+
+15 U.S.C. 78q-1.
+
+4
+
+17 CFR 240.17Ab2-1.
+
+5
+
+“Euroclear System” means the securities settlement system that has been operated by EB
+or its predecessor since 1968 and the assets, means, and rights related to such services. All
+services performed by EB that relate to securities settlement and custody are part of the
+Euroclear System. See Modification Application, Exhibit S-1 at 1.
+
+1
+
+clearing agency with respect to transactions involving certain U.S. government securities (“U.S.
+Government Securities”) 6 for its U.S. participants (“U.S. Participants”) 7 without registering as a
+clearing agency (“U.S. Government Securities Clearing Agency Activities”). 8
+In the Modification Application, EB has requested that the Commission broaden the
+Existing Exemption to permit EB to perform certain additional clearing agency services (such as
+certain central securities depository (“CSD”) services 9 and collateral management services) for
+its U.S. Participants using equity securities issued by U.S. Issuers 10 (“U.S. Equity Securities”) 11
+
+6
+
+As used herein, the term “U.S. Government Securities” has the same meaning as the term
+“eligible U.S. government securities” used in the Existing Exemption, which consists of
+government securities described in Section 3(a)(42) of the Exchange Act, except that it does not
+include any (i) foreign-targeted U.S. government or agency securities or (ii) securities issued or
+guaranteed by the International Bank for Reconstruction and Development (i.e., the World Bank)
+or any other similar international organization, and that are (i) Fedwire-eligible U.S. government
+securities, (ii) mortgage-backed pass through securities that are guaranteed by the Government
+National Mortgage Association (“GNMA”), and (iii) any collateralized mortgage obligation
+whose underlying securities are Fedwire-eligible U.S. government securities or GNMA
+guaranteed mortgage-backed pass through securities and which are depository eligible securities.
+For reference purposes, Fedwire is a large-value transfer system operated by the Board of
+Governors of the Federal Reserve System that supports the electronic transfer of funds and of
+book-entry securities. See Original Exemption Order, supra note 1, at 8239.
+7
+
+As used herein, the term “U.S. Participant” refers to any Euroclear System participant
+having a U.S. residence, based upon the location of its executive office or principal place of
+business, including, without limitation, (i) a U.S. bank (as defined by Section 3(a)(6) of the
+Exchange Act), (ii) a foreign branch of a U.S. bank or U.S.-registered broker-dealer, and (iii) any
+broker-dealer registered as such with the Commission, even if such broker-dealer does not have a
+U.S. residence.
+8
+
+See Original Exemption Order, supra note 1, at 8232.
+
+9
+
+As used herein, the term “CSD services” has the meaning set forth in 17 CFR 240.17Ad22(a)(2). The Commission notes that it has proposed to move this definition to 17 CFR
+240.17Ad-22(a)(3). See Exchange Act Release No. 34-71699 (Mar. 12, 2014), 79 FR 16865,
+16970 (Mar. 26, 2014), corrected at 79 FR 29507, 29612 (May 22, 2014).
+10
+
+As used herein, the term “U.S. Issuer” refers to an issuer organized or incorporated under
+the laws of any state of the United States, territory thereof, or the District of Columbia.
+
+2
+
+to fulfill certain collateral obligations. Those additional clearing agency services, referred to
+herein as the “U.S. Equities Clearing Agency Activities,” specifically consist of the following:
+(a) the provision of clearing agency services (such as certain CSD
+services and collateral management services) in relation to U.S.
+Participants’ use and reuse of U.S. Equity Securities issued by U.S.
+Issuers in support of collateral obligations utilizing the collateral
+management services provided by EB in relation to any securities
+or cash account held at EB that is used to receive collateral
+(“Collateral Accounts”) 12 in connection with the services described
+in (b) below and in connection with receipt and delivery from other
+Euroclear System participants that are users of such collateral
+management services provided by EB; and
+(b) solely for the purpose of implementing the services described
+in (a) above, the provision of certain clearing agency services for
+U.S. Participants’ receipt and delivery of U.S. Equity Securities in
+relation to collateral management services through accounts held at
+EB that are linked to EB’s account held at DTC. 13
+EB would create the Collateral Accounts for use in the provision of the U.S. Equities Clearing
+Agency Activities, and for use in connection with a joint venture between Euroclear SA/NV
+(“ESA”), the parent company of EB, and The Depository Trust and Clearing Corporation
+(“DTCC”), called DTCC-Euroclear Global Collateral Ltd. (“DEGCL”). As further described
+
+11
+
+As used herein, the term “U.S. Equity Securities” refers to an instrument that represents a
+direct ownership in a company, such as a stock, share, certificate of interest, or participation in
+any profit sharing agreement, preorganization certificate of subscription, voting trust certificate
+or certificate of deposit for an equity security, limited partnership interest, interest in a joint
+venture or certificate of interest in a business trust. However, the term “U.S. Equity Securities”
+does not include interests in structured finance vehicles such as limited partnerships, business
+trusts, or similar arrangements that have no independent operations and are used solely as special
+purpose financing vehicles. See Modification Application, Exhibit S-1 at 2.
+12
+
+See Modification Application, Exhibit S-1 at 10–15. The use of the term Collateral
+Accounts herein includes both IMS Linked Accounts and EB’s collateral management services.
+For a description of the IMS Linked Accounts, see Modification Application, Exhibit S-1 at 10–
+11.
+13
+
+See Modification Application, Exhibit S-1 at 40.
+
+3
+
+herein, DEGCL would provide an inventory management service (“JV-IMS”) to facilitate,
+among other things, the repositioning and crediting of assets, including U.S. Equity Securities,
+throughout the EB infrastructure that would be used to provide the collateral management
+services.
+EB requests that it be permitted to provide the U.S. Equities Clearing Agency Activities
+without registering as a clearing agency and subject to the applicable conditions specified below.
+In addition, EB requests that it be permitted to continue providing the U.S. Government
+Securities Clearing Agency Activities without registering as a clearing agency and under
+substantially the same conditions as those set forth in the Existing Exemption.
+The Commission is publishing this notice to solicit comments from interested persons on
+the Modification Application. The Commission will consider any comments it receives in
+making its determination whether to approve the Modification Application.
+II.
+
+Background
+A.
+
+EB Organization and Legal Framework
+
+EB is a limited liability company organized under the laws of Belgium and also is
+authorized in Belgium as a Belgian credit institution. EB is an international CSD and a global
+provider of clearance, settlement, collateral management, and related services. In particular, EB
+provides its participants with a means of acquiring, holding, transferring, and pledging security
+entitlements by electronic book-entry on its records outside of the United States, either free of
+payment or against payment, in multiple currencies. 14 EB is headquartered in Brussels, Belgium,
+
+14
+
+See Modification Application, Exhibit S-1 at 3.
+
+4
+
+with a secondary office in Braine l’Alleund, Belgium, branch offices in Wanchai, Hong Kong
+and Krakow, Poland, and a representative office in New York City. 15
+EB is part of a group of companies that serve as market infrastructures by offering
+clearing agency services to the domestic markets in Belgium, Netherlands, France, England,
+Ireland, Sweden, and Finland (collectively with EB, the “Euroclear Group”). 16 Entities in the
+Euroclear Group are subsidiaries of ESA, a Belgian limited liability company. 17 Control and
+direction of the Euroclear Group strategic decisions are vested in ESA. ESA provides common
+services to EB and other affiliated companies of the Euroclear Group. 18 ESA maintains
+intercompany agreements with EB that set forth respective services and obligations. 19
+As previously noted, all services performed by EB that relate to securities settlement and
+custody are part of the Euroclear System, which is designated as a securities settlement system
+under the Belgian Settlement Finality Act. 20 According to EB, Belgian law provides for robust
+asset protection rights for assets deposited in the Euroclear System and for the protection of the
+holding of assets on the books of EB. 21 Furthermore, EB represents that Belgian law and EB’s
+15
+
+See Modification Application, Exhibit I-1.
+
+16
+
+In 2015, the Euroclear Group had assets under custody of €27.5 trillion, turnover
+equivalent to €674.7 trillion, and a settlement volume of 190.7 million netted transactions.
+Euroclear Group’s collateral management platform, the Collateral Highway, processed
+collateralized transactions in 2015 for an amount of €1.068 trillion on a daily basis. See
+Modification Application, Exhibit S-1 at 3.
+17
+
+See Modification Application, Exhibit A-2.
+
+18
+
+See Modification Application, Exhibit S-1 at 3.
+
+19
+
+Id.
+
+20
+
+See Modification Application, Exhibit K-5 at 22.
+
+21
+
+See Modification Application, Exhibit S-1 at 35.
+
+5
+
+arrangements provide a high degree of certainty with regards to finality of transfers on EB’s
+books, the holding of collateral in accounts, the contractual framework of participants in the
+Euroclear System, and default procedures. 22
+To utilize the Euroclear System, EB participants enter into a contractual relationship with
+EB to open and maintain securities and cash accounts at EB. 23 EB participants agree that their
+rights to assets held in the Euroclear System are defined and governed by Belgian law. 24 EB
+states that under Belgian law, it is generally the beneficiary of a statutory lien on assets in
+accounts held at EB to secure any claim it has against EB participants arising in connection with
+the clearance or the settlement of transactions through, or in connection with, the Euroclear
+System, including claims resulting from loans or advances. 25
+B.
+
+Regulatory Oversight of EB and ESA
+
+EB represents that it is subject to consolidated supervision by the National Bank of
+Belgium (“NBB”) and the Belgian Financial Services Market Authority (“FSMA”). 26 EB also
+represents that NBB supervises ESA, due to its status as an authorized holding company of a
+
+22
+
+See Modification Application, Exhibit S-1 at 35.
+
+23
+
+See Modification Application, Exhibit J.
+
+24
+
+Specifically, EB represents that EB participants’ rights in securities held in the Euroclear
+System are defined and governed by Belgian Royal Decree No. 62 dated Nov. 10, 1967 on the
+Deposit of Fungible Financial Instruments and the Settlement of Transactions involving such
+Instruments or similar Belgian legislation. EB states that the applicable Belgian law is
+effectively similar to securities entitlements under Revised Article 8 of the Uniform Commercial
+Code. See Modification Application, Exhibit S-1 at 36.
+25
+
+See Modification Application, Exhibit E-5 at 34.
+
+26
+
+See Modification Application, Exhibit S-1 at 19.
+
+6
+
+regulated credit institution (i.e., EB) and as an institution assimilated to a securities settlement
+system (i.e., the Euroclear System). 27
+According to EB, the NBB exercises its supervision over EB and ESA on a consolidated
+basis. 28 Specifically, the NBB has prudential supervision and oversight over EB as a licensed
+credit institution operating in Belgium. Furthermore, the NBB supervises EB in its role as
+operator of the Euroclear System and as a recognized CSD. EB states that the NBB is required
+to ensure: (1) that EB’s clearance, settlement, and payment systems operate properly; (2) that
+those systems are efficient and sound; and (3) that EB meets the obligations applicable to credit
+institutions under applicable European law, as adopted into Belgian law. 29 EB represents that the
+NBB has the authority to order EB to limit, suspend, or stop activities if EB does not comply
+with the regulatory requirements of its various authorizations. 30 EB also states that the NBB
+assesses EB under the Principles for Financial Market Infrastructures (“PFMI”) and considers
+best practices where appropriate. 31
+
+27
+
+See Modification Application, Exhibit S-1 at 20. According to EB, pursuant to Article
+20, § 2 of the Belgian Royal Decree of September 26, 2005, institutions assimilated to a
+settlement institution may not have shareholdings in commercial companies without the prior
+approval of the NBB, unless the shareholding is taken in companies whose activities consist, in
+whole or in part, in the activities which a settlement institution or an institution assimilated
+thereto may carry out.
+28
+
+Id. In addition, EB is submitted to the Regulation 575/2013 of 26 June 2013 on
+prudential requirements for credit institutions and investment firms (CRR) IV and Regulation
+909/2014 of 23 July 2014 on improving securities settlement in the European Union and on
+central securities depositaries (CSDR). See Modification Application, Exhibit K-5 at 16.
+29
+
+See Modification Application, Exhibit S-1 at 20.
+
+30
+
+Id.
+
+31
+
+See Modification Application, Exhibit S-1 at 20. The PFMI are standards applicable to
+financial market infrastructures, such as CSDs and securities settlement systems. Committee on
+Payment and Settlement Systems (now the Committee on Payment and Market Infrastructure)
+
+7
+
+EB further represents that the FSMA regulates EB for the purposes of compliance with
+investor protection rules and rules on the operation, integrity, and transparency of the Belgian
+financial markets. 32 These include requirements relating to conflicts of interest with clients,
+customer protection in case of insolvencies, and enforcement of conduct requirements.
+C.
+
+EB’s Existing Exemption
+
+The Commission originally granted the Existing Exemption in 1998 to EB’s predecessor,
+Morgan Guaranty Trust Company of New York, Brussels Office (“MGT-Brussels”), as operator
+of the Euroclear System (the Original Exemption Order). 33 Before EB replaced MGT-Brussels
+as the operator of the Euroclear System, the Commission approved a modification to the Original
+Exemption Order to reflect the change in control of the Euroclear System from MGT-Brussels to
+EB (the 2001 Exemption Modification Order). 34 Under the Existing Exemption, EB may only
+provide the U.S. Government Securities Clearing Agency Activities to U.S. Participants. 35
+Under the terms of the Existing Exemption, the Commission placed a limit on the volume
+of transactions in U.S. Government Securities conducted by U.S. Participants that can be settled
+through the Euroclear System. Specifically, the average daily volume of U.S. Government
+Securities settled through the Euroclear System for U.S. Participants may not exceed five percent
+and Technical Committee of the International Organization of Securities Commissions,
+Principles for financial market infrastructures (Apr. 16, 2012), available at
+http://www.bis.org/publ/cpss101a.pdf.
+32
+
+See Modification Application, Exhibit S-1 at 20–21.
+
+33
+
+See supra note 1.
+
+34
+
+The change in control of the Euroclear System from MGT-Brussels to EB has been the
+only modification of the exemption. See supra note 1. The 2001 Exemption Modification Order
+was the last time the Commission modified the Existing Exemption.
+35
+
+See Original Exemption Order, supra note 1, at 8239.
+
+8
+
+of the total average daily dollar value of the aggregate volume in U.S. Government Securities. 36
+To facilitate the monitoring of compliance with the volume limit and the impact of EB’s
+operations on the U.S. Government Securities market under the Existing Exemption, EB is
+required to provide the Commission with quarterly reports, calculated on a twelve-month rolling
+basis, of (i) the average daily volume of transactions in eligible U.S. Government Securities for
+U.S. Participants that are subject to the volume limit and (ii) the average daily volume of
+transactions in eligible U.S. Government Securities for all Euroclear System participants,
+whether or not subject to the volume limit.37
+EB is also required to notify the Commission regarding material adverse changes in any
+account maintained in the Euroclear System for U.S. Participants. 38 In addition, EB is required
+to respond to Commission requests for information regarding any U.S. Participant about whom
+the Commission has financial solvency concerns, including, for example, a settlement default by
+a U.S. Participant. 39 The Commission also required the execution of a satisfactory memorandum
+
+36
+
+See id. at 8239.
+
+37
+
+See Original Exemption Order, supra note 1, at 8240. EB’s non-U.S. participants are not
+subject to any restrictions under the Existing Exemption.
+38
+
+For purposes of the Original Exemption Order, the term “material adverse changes”
+included (i) the termination of any U.S. Participant; (ii) the liquidation of any securities collateral
+pledged by a U.S. Participant to secure an extension of credit made through the Euroclear
+System; (iii) the institution of any proceedings to have a U.S. Participant declared insolvent or
+bankrupt; or (iv) the disruption or failure in whole or in part in the operations of the Euroclear
+System either at its regular operating location or at its contingency center. See Original
+Exemption Order, supra note 1, at 8240, n.78.
+39
+
+See Original Exemption Order, supra note 1, at 8240.
+
+9
+
+of understanding with the Belgian banking and securities regulator (currently the NBB) to
+facilitate the provision of information by EB to the Commission.40
+D.
+
+EB Collateral Management Services
+
+EB participants are able to utilize various clearance and settlement services through the
+Euroclear System. 41 Among those services are the EB collateral management services (“EBCMS”), which provide a framework for exchanging collateral to fulfill bilateral obligations
+between counterparties. 42 Parties to bilateral arrangements that require the posting of collateral
+by one party (“Collateral Giver”) in favor of the other party (“Collateral Taker”) may use the
+EB-CMS to secure credit exposures arising under such bilateral arrangements. The terms of
+such bilateral arrangements and related collateral needs (including the credit exposure, collateral
+requirements, and collateral terms) are negotiated and agreed between the parties independently
+of EB. After such arrangements are agreed, the parties then enter into an agreement with EB to
+provide the collateral management services.
+EB states that its non-U.S. participants use the EB-CMS to meet collateral obligations
+with a variety of assets, including U.S. Government Securities and U.S. Equity Securities. 43 EB
+also represents that U.S. Participants currently use the EB-CMS to meet collateral obligations
+with a wide variety of assets including U.S. Government Securities but not U.S. Equity
+
+40
+
+See 2001 Exemption Modification Order, supra note 1, at 821; see also Understanding
+Regarding an Application of Euroclear Bank for an Exemption Under U.S. Federal Securities
+Laws (January, 30, 2001) available at
+https://www.nbb.be/doc/cp/nl/aboutcbfa/mou/pdf/mou_2001-01-30_euroclearbank.pdf.
+41
+
+See Modification Application, Ex. J.
+
+42
+
+See Modification Application, Ex. S-1 at 3.
+
+43
+
+See Modification Application, Exhibit S-1 at 34.
+
+10
+
+Securities, 44 as the Existing Exemption prohibits EB from allowing U.S. Participants to hold
+U.S. Equity Securities in an account held at EB for any purpose. EB states that as part of its
+contractual documentation with its participants, it prohibits any U.S. Participant from holding
+U.S. Equity Securities in accounts held at EB for any purpose (“Current Equities
+Restrictions”). 45 EB represents that automated systems protocols and control procedures are
+implemented in the Euroclear System to enforce the Current Equities Restrictions. The systems
+protocols consist of coded validation rules that are part of EB’s fully automated and standard
+processes that run prior to the settlement of any securities movement to or from an account held
+at EB. 46
+III.
+
+EB’s Proposed Infrastructure
+As introduced earlier and discussed further below, EB has requested that the Commission
+
+broaden the Existing Exemption to allow it to provide collateral management services to its U.S.
+Participants using U.S. Equity Securities. Under the Existing Exemption, EB may already offer
+the EB-CMS for U.S. Government Securities to both U.S. Participants and non-U.S. participants,
+but EB may only offer the EB-CMS for U.S. Equity Securities to its non-U.S. participants. EB
+has made the request to broaden its exempt clearing agency activities for the purpose of assisting
+its participants’ compliance with new regulations described below scheduled to take effect in the
+near future that will significantly affect the use of collateral. In connection with its request, EB
+44
+
+Id.
+
+45
+
+EB’s customer contracts provide that: “Due to restrictions imposed on Euroclear Bank
+by the United States Securities and Exchange Commission (S.E.C.) following SEC Rule 17Ab21, equities, ETFs and REITs issued by companies incorporated in a state or territory of the
+United States can be held in Euroclear Bank by non-US Participants only.” See Modification
+Application, Exhibit S-1 at 6.
+46
+
+Id.
+
+11
+
+is taking preparatory measures to create the infrastructure to accommodate the U.S. Equities
+Clearing Agency Activities. For example, as further described below, DEGCL was formed in
+part to facilitate a U.S. Participant’s repositioning of assets in the U.S. Participant’s account held
+at The Depository Trust Company (“DTC”) to create a credit for those assets in the U.S.
+Participant’s Collateral Account held at EB for use in the EB-CMS.
+A.
+
+New Collateral Regulations
+
+According to the Modification Application, new and enhanced regulatory requirements
+(“New Collateral Regulations”) are leading counterparties to derivative and financing
+transactions to seek streamlined margin processing and increased efficiency in the availability
+and deployment of collateral. 47 These New Collateral Regulations are expected to be
+implemented in the European Union in the near future. 48 EB states that the regulatory changes
+include new restrictions on eligible collateral, requiring the use of highly liquid assets, prescribed
+haircuts, and segregation requirements, as well as a prohibition on rehypothecation for initial
+margin. EB believes that when fully implemented, the New Collateral Regulations will result in
+increased capital requirements, mandatory central clearing of more derivative transactions, and
+new margining rules for bilateral trades, which will increase demand for high quality collateral.
+EB projects that the requirement for more transactions and exposures to be collateralized
+globally will result in a significant increase in the number of required collateral movements
+47
+
+See Modification Application, Exhibit S-1 at 6.
+
+48
+
+Id.; see also letter from Gabriel Bernardino, Chair of the Joint Committee of the
+European Supervisory Authorities to Lord Jonathan Hill, EU Commissioner for Financial
+Stability, Financial Services and Capital Markets Union European Commission (June 30, 2016)
+(regarding the delayed adoption of the Joint draft Regulatory Technical Standards on risk
+mitigation techniques for non-centrally cleared OTC derivatives), available at
+https://eiopa.europa.eu/Publications/Joint%20Committee/ESAs%202016%2050%20%28ESAs_j
+oint_letter%20to%20the%20Commission%20on%20delayed%20adoption.pdf.
+
+12
+
+between market participants, which will have implications for counterparty credit risk, funding
+and capital charges, and reputational and operational risk.
+EB also represents that these regulatory changes include requirements for initial margin
+for counterparties to certain derivative and financing transactions, as well as a reduction or
+removal of unsecured thresholds for variation margin. EB expects that these new initial margin
+requirements will significantly increase the amount of collateral required to support a number of
+derivative and financing transactions. In addition, EB represents that it is expected that the
+removal or reduction of unsecured thresholds for variation margin will mean any changes in
+underlying transaction valuations may trigger increased margin calls, requiring market
+participants to hold additional collateral available for posting.
+EB represents that the New Collateral Regulations therefore are expected to greatly
+increase the complexity of collateral management and create new competition for collateral. 49
+Industry research cited by EB indicates that as these regulatory changes take effect, the volume
+of required collateral movements will increase and the number of collateral settlement fails and
+associated costs are likely to rise proportionally. 50
+
+49
+
+EB states that collateral movements will need to be tracked and applied against a growing
+number and type of credit support documentation, while segregation rules will multiply the
+number of collateral accounts needed and correspondingly increase the complexity of accurately
+processing collateral movements across account types, fragmented central clearing and collateral
+delivery channels. See Modification Application, Exhibit S-1 at 7; see also Implications of
+Collateral Settlement Fails: An Industry Perspective on Bilateral OTC Derivatives (Feb. 2016),
+available at http://www.imas.org.sg/uploads/media/2016/03/03/
+1046_Implications_of_Collateral_Settlement_Fails_FINAL.pdf (“Implications of Collateral
+Settlement Fails”); Collateral Management in Europe: Searching for Central Intelligence (May
+2015), available at https://www.euroclear.com/dam/Brochures/Euroclear-CollateralManagement-Aite-Paper.pdf; The Economics of Collateral (Dec. 2013), available at
+http://dtcc.com/~/media/Files/Downloads/WhitePapers/LSE%20Report.ashx.
+50
+
+See, e.g., Implications of Collateral Settlement Fails, supra note 49, at 5.
+
+13
+
+B.
+
+DEGCL
+
+DEGCL was formed to help market participants comply with the New Collateral
+Regulations, and will offer global information, recordkeeping, and processing services for
+derivatives collateral movements and other types of financing transactions. 51 ESA and DTCC
+formed the joint venture in 2014, and DEGCL is authorized as a service company by the
+Financial Conduct Authority (“FCA”) in the United Kingdom. 52 EB represents that DEGCL
+seeks to provide services to its users, including buy-side and sell-side financial institutions, in
+meeting their risk management and regulatory requirements for the holding and exchange of
+collateral as required by the New Collateral Regulations. 53 These services will be offered to
+users located primarily in Europe and the U.S. 54 In particular, DEGCL would provide the JVIMS to help facilitate the U.S. Equities Clearing Agency Activities. 55
+1.
+
+DEGCL JV-IMS
+
+EB represents that the JV-IMS would provide an automated mechanism for an entity that
+is both a participant of EB and DTC (“JV-IMS User”) 56 to receive recommendations on how to
+reposition assets in the JV-IMS User’s account held at DTC, including U.S. Equity Securities,
+for subsequent crediting of those assets to its Collateral Accounts within the EB-CMS (and for
+
+51
+
+See Modification Application, Exhibit S-1 at 3.
+
+52
+
+DEGCL’s reference number as an authorized service company is 686269. See FCA
+Financial Services Register, available at https://www.fca.org.uk/register.
+53
+
+See Modification Application, Exhibit S-1 at 7.
+
+54
+
+See id.
+
+55
+
+See Modification Application, Exhibit S-1 at 8.
+
+56
+
+See id.
+
+14
+
+the return of such assets to the JV-IMS User’s account held at DTC). To facilitate the JV-IMS,
+EB will become a participant at DTC, subject to approval by DTC, its standard membership
+requirements and certain heightened requirements for a non-U.S. entity. 57
+Prior to initial use, a JV-IMS User will set parameters that specify which types of assets
+in its account held at DTC (and in what amounts) it will make available for the JV-IMS,
+including any limits or criteria on those assets (such as ratings). 58 The JV-IMS User will then
+transfer assets that meet the parameters to a sub-account held at DTC that is designated for, and
+dedicated to, the JV-IMS. (See Step 1 of Chart 1 below.) The JV-IMS will then monitor that
+information and independently verify that the assets identified by the JV-IMS User meet its own
+parameters, as well as the EB eligibility requirements (such as an accepted CUSIP number). If
+so, the JV-IMS will prepare and submit to EB free of payment delivery instructions (which EB
+will in turn submit to DTC on the JV-IMS User’s behalf) to transfer the assets identified by the
+JV-IMS User in its designated sub-account held at DTC to EB’s account held at DTC. 59 (See
+Step 2 of Chart 1 below.) The JV-IMS will also prepare and submit instructions to EB to credit
+such transferred assets from EB’s account held at DTC to the relevant JV-IMS User’s Collateral
+Accounts. (See Step 2a of Chart 1 below.)
+
+57
+
+EB has signed a DTC Participant’s Agreement pursuant to which it agreed that the DTC
+rules shall be a part of the terms and conditions of every contract or transaction that EB may
+make or have with DTC. See id.; see also DTC Policy Statements on the Admission of
+Participants (June 2013).
+58
+
+See Modification Application, Exhibit S-1 at 8.
+
+59
+
+This process is subject to DTC rules governing EB’s role in repositioning assets. See
+Self-Regulatory Organizations; The Depository Trust Company; Order Approving Proposed
+Rule Change to Establish a Link with Euroclear, Exchange Act Release No. 78358 (July 19,
+2016), 81 FR 48482 (July 25, 2016) (DTC-2016-004) (“DTC EB Link Rule”).
+
+15
+
+Additionally, the JV-IMS would facilitate the automated return of such assets to the JVIMS User’s account held at DTC when necessary to meet other settlement obligations and for
+corporate actions by preparing and submitting to EB (for eventual forwarding by EB to DTC)
+free of payment delivery instructions to transfer such assets from EB’s account held at DTC to
+the relevant JV-IMS User’s sub-account held at DTC. Finally, the JV-IMS would report to the
+JV-IMS User all settlement instructions generated via the JV-IMS, the status of the generated
+settlement instructions, and other relevant information in regards to such settlement instructions.
+All of the foregoing would be subject to the DTC rules regarding a link with EB that was
+approved by the Commission in July 2016. 60
+C.
+
+EB Collateral Accounts
+
+After the JV-IMS User’s assets are credited to EB’s account held at DTC via the JV-IMS
+processes described above, the assets would then be credited to the Collateral Accounts for the
+relevant EB participant. 61 As stated above, EB’s internal protocols would structure these
+Collateral Accounts to only allow U.S. Participants: (1) to take receipt of U.S. Equity Securities
+credited to the account via the JV-IMS process described immediately above; (2) to deliver U.S.
+Equity Securities out of the Collateral Accounts for mobilization as collateral through the EBCMS infrastructure and to receive U.S. Equity Securities into the Collateral Accounts mobilized
+from other participants of the EB-CMS; and (3) to deliver U.S. Equity Securities back to the
+relevant JV-IMS User’s sub-account at DTC. (See Step 3 of Chart 1 below.) EB represents that
+
+60
+
+See id.
+
+61
+
+All settlement activity related to the JV-IMS that occurs on the books of DTC is
+governed exclusively by DTC procedures. All activity related to the use of assets that occurs on
+the books of EB is governed exclusively by the EB contractual framework. See Modification
+Application, Exhibit S-1 at 9.
+
+16
+
+these transfer and use restrictions on Collateral Accounts would prevent a U.S. Participant’s U.S.
+Equity Securities held in Collateral Accounts from being used for any other purposes in the
+Euroclear System, such as normal settlement activity, except under certain circumstances
+involving the default of a Collateral Giver. 62
+Currently, non-U.S. JV-IMS Users may move U.S. Equity Securities from DTC to EB by
+transferring the securities to an account held at DTC for EB’s custodian. If the Modification
+Application is approved, non-U.S. JV-IMS Users may transfer U.S. Equity Securities to either
+EB’s account held at DTC or an account held at DTC for EB’s custodian.
+If a JV-IMS User defaults, either a Collateral Taker or a Collateral Giver can notify EB
+of a default under their bilateral transaction. EB’s operations staff would then initiate a process
+to override the regular controls that govern use of U.S. Equity Securities as collateral and instead
+would instruct DTC to debit those securities from EB’s DTC Account and to credit them to the
+account held at DTC for EB’s custodian, while still being credited to the Collateral Taker’s
+account at EB. 63
+In the Modification Application, EB proposes to amend the Current Equities
+Restrictions 64 to permit the use by U.S. Participants of U.S. Equity Securities subject to the
+transfer and use restrictions described above. In all other circumstances, the Current Equities
+Restrictions would otherwise remain applicable.
+
+62
+
+See Modification Application, Exhibit S-1 at 11.
+
+63
+
+Id.
+
+64
+
+See supra Section II.D.
+
+17
+
+Chart 1
+IV.
+
+The Modification Application
+The Modification Application requests that the Commission do the following: (i)
+
+continue the Existing Exemption under substantially similar conditions except as otherwise
+specified herein, (ii) broaden the Existing Exemption to allow EB to provide the U.S. Equities
+Clearing Agency Activities under new conditions applicable to those activities, and (iii) apply
+conditions to EB that are largely harmonized between the U.S. Government Securities Clearing
+Agency Activities and U.S. Equity Clearing Agency Activities (collectively, the “Clearing
+Agency Activities”).
+A.
+
+Continue the Existing Exemption on Substantially Similar Conditions Specific to
+U.S. Government Securities Clearing Agency Activities
+
+EB specifically requests that the Commission continue the Existing Exemption to
+conduct the U.S. Government Securities Clearing Agency Activities without: (i) requiring EB to
+register as a clearing agency with the Commission; (ii) changing the definition of the terms U.S.
+
+18
+
+Government Securities or U.S. Participants, as set forth in the Existing Exemption; or (iii)
+changing the conditions set forth in the Existing Exemption with regards to the U.S. Government
+Securities Clearing Agency Activities, listed below:
+(a) Volume Limit. The average daily volume of transactions in
+eligible U.S. Government Securities for U.S. Participants
+processed through EB as operator of the Euroclear System may not
+exceed five percent of the total average daily dollar value of the
+aggregate volume in eligible U.S. Government Securities.
+(b) Commission Access to Information regarding U.S. Government
+Securities Clearing Agency Activities. EB will continue to provide
+the Commission with quarterly reports, calculated on a twelvemonth rolling basis, of (a) the average daily volume of transactions
+in eligible U.S. Government Securities for U.S. Participants that
+are subject to the volume limit as described in Section IV.C.2 of
+the Original Exemption Order and (b) the average daily volume of
+transactions in eligible government securities for all Euroclear
+System participants, whether or not subject to the volume limit as
+described in Section IV.C.2 of the Original Exemption Order. 65
+EB also requests that the following conditions of the Existing Exemption with regards to
+the U.S. Government Securities Clearing Agency Activities be replaced and superseded by the
+corresponding conditions set forth in Part VI.D. below that are applicable to the Clearing Agency
+Activities:
+(a) the obligations in Section IV.C.3 of the Original Exemption
+Order to provide disclosure documents to the Commission;
+(b) the obligations in Section IV.C.3 of the Original Exemption
+Order to file with the Commission amendments to its application
+for exemption on Form CA-1; and
+(c) the obligations in Section IV.C.3 of the Original Exemption
+Order to notify the Commission regarding material adverse
+changes in any account maintained by Euroclear for its U.S.
+Participants and to respond to a Commission request for
+
+65
+
+See Modification Application, Exhibit S-1 at 39.
+
+19
+
+information about any U.S. Participant about whom the
+Commission has financial solvency concerns. 66
+B.
+
+Modify the Existing Exemption to Permit EB to Perform U.S. Equities Clearing
+Agency Activities Subject to Additional Conditions
+
+EB requests that the Commission permit EB to provide, without registering as a clearing
+agency with the Commission, the U.S. Equities Clearing Agency Activities. As described in the
+Modification Application, EB’s provision of U.S. Equities Clearing Agency Activities would
+entail activities such as custody and safekeeping, 67 settlement, 68 and asset servicing 69 on behalf
+of U.S. Participants with respect to U.S. Equity Securities. For example, EB would maintain
+securities accounts on its books, 70 provide safekeeping of and recordkeeping for those securities
+accounts, 71 settle instructions by participants, 72 and provide recordkeeping and reporting in real
+time on the status of settlement to participants. 73 EB would also process corporate actions as
+part of its asset servicing business for any U.S. Equity Securities that remain in EB’s account
+held at DTC on the record date. 74
+
+66
+
+See id.
+
+67
+
+See Modification Application, Exhibit S-1 at 4.
+
+68
+
+See Modification Application, Exhibit S-1 at 5.
+
+69
+
+See Modification Application, Exhibit S-1 at J-3.
+
+70
+
+See Modification Application, Exhibit S-1 at 2.
+
+71
+
+See Modification Application, Exhibit K-5 at 80–81.
+
+72
+
+See Modification Application, Exhibit K-5 at 76, 83.
+
+73
+
+See Modification Application, Exhibit K-5 at 76.
+
+74
+
+See Modification Application, Exhibit J-3.
+
+20
+
+The EB-CMS would be offered to U.S. Participants in support of their obligations under
+security-based swap transactions, securities lending transactions, and repurchase agreements,
+among other transactions. 75 The EB-CMS would independently verify that the collateral
+proposed and provided by the Collateral Giver meets the terms reported by the counterparties for
+the duration of the collateral obligation. 76 EB would do this by calculating the exchange of value
+necessary to meet the collateral obligation information entered in by the users of the EB-CMS,
+including by making value determinations, such as marking to market the value of the collateral
+based on reference data. 77 Also, EB would generate instructions and communicate the
+instructions to EB’s settlement processing infrastructure to transfer collateral among the
+Collateral Accounts. 78
+V.
+
+Applicable Statutory Standards
+A.
+
+Section 17A of the Exchange Act
+
+Section 17A of the Exchange Act directs the Commission to facilitate the establishment
+of (i) a national system for the prompt and accurate clearance and settlement of securities
+75
+
+See, e.g., Modification Application, Exhibit P-2 (describing necessary revisions to its
+Operating Procedures related to collateral services, derivatives services, loan services,
+repurchase services, and securities lending services arising out of the proposed U.S. Equities
+Clearing Agency Activities).
+76
+
+See Modification Application, Exhibit J-3.
+
+77
+
+See Modification Application, Exhibit K-5 at 60 (referencing obtaining the market value
+of a security. The EB-CMS system does not apply any further haircuts or adjustments once the
+market value is obtained from third party data providers); see also Euroclear plc, Risk
+Management at Euroclear: Including Pillar 3 Disclosure 2012 – Euroclear plc, at 43 (2012)
+(“Securities for which Euroclear Bank does not obtain external quotations regularly can also be
+valued according to the price associated with securities transactions in the Euroclear system, or
+according to theoretical models.”), available at
+https://www.euroclear.com/dam/Brochures/Pillar3_2012.pdf.
+78
+
+See Modification Application, Exhibit J-3.
+
+21
+
+transactions and (ii) linked or coordinated facilities for clearance and settlement of securities
+transactions. 79 In facilitating the establishment of the national clearance and settlement system,
+the Commission must have due regard for the public interest, the protection of investors, the
+safeguarding of securities and funds, and maintenance of fair competition among brokers and
+dealers, clearing agencies, and transfer agents. 80 Section 17A(b)(1) of the Exchange Act requires
+all clearing agencies to register with the Commission. 81 It also states that, upon the
+Commission’s motion or upon a clearing agency’s application, the Commission may
+conditionally or unconditionally exempt a clearing agency from any provision of Section 17A of
+the Exchange Act or the rules or regulations thereunder if the Commission finds that such
+exemption is consistent with the public interest, the protection of investors, and the purposes of
+Section 17A of the Exchange Act, including the prompt and accurate clearance and settlement of
+securities and funds.
+The Commission notes that the proposed Clearing Agency Activities would be the only
+clearing agency activities EB would perform under an exemption order. 82 For example, EB
+proposes to continue the U.S. Government Securities Clearing Agency Activities on substantially
+the same basis as under the Existing Exemption. For the purposes of the U.S. Equities Clearing
+Agency Activities, EB is not proposing to act as a CSD for the issuance of new U.S. Equity
+79
+
+See 15 U.S.C. 78q-1(a)(2); see also Report of the Senate Committee on Banking,
+Housing & Urban Affairs, S. Rep. No. 94-75, at 4 (1975) (stating that “[t]he Committee believes
+the banking and security industries must move quickly toward the establishment of a fully
+integrated national system for the prompt and accurate processing and settlement of securities
+transactions”).
+80
+
+See 15 U.S.C. 78q-1(a)(2)(A).
+
+81
+
+See 15 U.S.C. 78q-1(b) and 17 CFR 240.17Ab2-1.
+
+82
+
+See 15 U.S.C. 78c(a)(23). For example, EB will not act as a central counterparty.
+
+22
+
+Securities, nor is it seeking to facilitate the settlement of purchase and sale transactions in U.S.
+Equity Securities; its limited role would be to facilitate use by U.S. Participants of U.S. Equity
+Securities via the EB-CMS. EB also is not proposing to operate as a self-regulatory organization
+similar to registered clearing agencies or perform other clearing agency functions such as acting
+as a central counterparty, netting transactions or comparing trade execution information.
+The Commission notes that it has previously found an exemption from clearing agency
+registration to be an appropriate response in instances where an entity has engaged in a limited
+scope of clearing agency activity. For example, the Commission has previously concluded that
+entities providing only matching services could obtain an exemption from registration as a
+clearing agency. 83 Additionally, and similar to the approach taken under the Existing Exemption
+for EB, the Commission has also previously granted an exemption from registration as a clearing
+agency to another entity that was performing clearance, settlement, and collateral management
+services for certain U.S. government securities. 84
+When the Commission approved the Original Exemption Order and the 2001 Exemption
+Modification Order, it stated that granting either exemptions from portions of Section 17A of the
+Exchange Act or from registration requires substantial compliance with Section 17A of the
+Exchange Act and the rules and regulations thereunder based on a review of the standards in
+
+83
+
+See, e.g., Interpretation: Confirmation and Affirmation of Securities Trades; Matching,
+Exchange Act Release No. 39829 (Apr. 6, 1998), 63 FR 17943 (Apr. 13, 1998); Bloomberg STP
+LLC; SS&C Technologies, Inc.; Order of the Commission Approving Applications for an
+Exemption From Registration as a Clearing Agency; Notice, Exchange Act Release No. 3476514 (Nov. 24, 2015), 80 FR 75388 (Dec. 1, 2015).
+84
+
+See, e.g., Self-Regulatory Organizations; Cedel Bank; Order Approving Application for
+Exemption From Registration as a Clearing Agency, Exchange Act Release No. 38328 (Feb. 24,
+1997), 62 FR 9225 (Feb. 28, 1997).
+
+23
+
+place. 85 The Existing Exemption therefore reflected an approach whereby certain determinations
+were made regarding the then-current rules and structure of EB, as identified in Section
+17A(b)(3)(A) through (I) of the Exchange Act. In the Modification Application, EB has
+represented that it continues to meet the standards previously applied when the Commission
+approved the Existing Exemption 86 and, for the purposes of its consideration of the Modification
+Application, the Commission is taking those representations into account. 87 In light of its
+experience with EB under the Existing Exemption since 1998, as well as its past practice of
+otherwise exempting from registration certain clearing agencies that perform a limited range of
+clearing agency services, the Commission preliminarily believes that granting EB an exemption
+from registration for the Clearing Agency Activities would be appropriate. Therefore, in
+evaluating the Modification Application, the Commission considers whether exempting EB from
+clearing agency registration to perform the Clearing Agency Activities satisfies the requirements
+of an exemption from registration under Section 17A(b)(1) of the Exchange Act, which is
+consistency with the public interest, the protection of investors and the purposes of Section 17A
+of the Exchange Act, including the prompt and accurate clearance and settlement of securities
+and funds.
+B.
+
+Consistency of the Modification Application with Section 17A of the Exchange
+Act
+
+The objectives and findings described in Section 17A of the Exchange Act include
+
+85
+
+See Original Exemption Order, supra note 1, at 8235; 2001 Exemption Modification
+Order, supra note 1, at 820.
+86
+
+See Modification Application, Exhibit S-1 at 13.
+
+87
+
+The Commission also notes that it has no basis to believe that EB has not operated within
+and otherwise performed in accordance with the terms and conditions of the Existing Exemption.
+
+24
+
+developing uniform standards and procedures for clearance and settlement, employing new data
+processing and communication techniques that promote more efficient, effective, and safe
+clearance and settlement of securities transactions, and reducing the physical movement of
+securities in the control of a clearing agency or for which a clearing agency has custody. The
+findings in Section 17A of the Exchange Act also state that the implementation of linked systems
+and uniform standards would reduce unnecessary costs and increase the protection of investors
+and persons facilitating transactions by and acting on behalf of investors.
+1.
+
+Facilitating the Establishment of Linked or Coordinated Facilities for the
+Settlement of Transactions
+
+In adopting Section 17A of the Exchange Act, Congress found that the linking of
+settlement facilities and the development of uniform standards and procedures for settlement will
+reduce unnecessary costs and increase the protection of investors, 88 and directed the Commission
+to use its authority to facilitate the establishment of linked or coordinated facilities for settlement
+of transactions in securities. 89 The Commission preliminarily believes that the Modification
+Application would facilitate the establishment of linked or coordinated facilities for the
+settlement of securities transactions because, as previously described, the U.S. Equities Clearing
+Agency Activities are effectuated via the linking of settlement facilities between DTC, a
+registered clearing agency, and EB, a clearing agency currently exempt from registration. The
+Commission also preliminarily believes that the linking and coordination of these two settlement
+facilities will establish uniform standards and procedures that will enable entities that are
+
+88
+
+See 15 U.S.C. 78q-1(a)(1)(D).
+
+89
+
+See 15 U.S.C. 78q-1(a)(2)(A)(ii).
+
+25
+
+members of both DTC and EB to position U.S. securities in Europe for use as collateral in a
+manner that will reduce unnecessary costs and increase the protection of investors.
+EB states that, in providing the U.S. Equities Clearing Agency Activities, they are in a
+unique position as a “neutral, inter-operable, venue-agnostic utility” to source and mobilize
+collateral across geographical borders and time zones. 90 According to EB, this efficiency would
+extend to EB’s role in both delivering and holding collateral, each of which would otherwise
+require fragmented, bespoke arrangements among U.S. Participants and their counterparties if
+conducted on a bilateral basis. The Commission preliminarily believes that the Modification
+Application could generate certain new efficiencies, such as those that come from using a
+common platform among multiple participants that can enter into a central, standardized service
+relationship with EB, rather than entering into multiple relationships with various trading
+counterparties. 91 This transition to a uniform, unitary set of collateral management procedures
+through the EB-CMS would also allow U.S. Participants to mobilize a wider range of assets in
+support of fulfilling the collateral obligations underlying a variety of securities transactions, such
+as security-based swap transactions. The Commission therefore preliminarily believes that the
+U.S. Equities Clearing Agency Activities would be consistent with the efficiency objectives of
+Section 17A of the Exchange Act because they could potentially lead to a lower risk of
+90
+
+See Modification Application, Exhibit K-5 at 7.
+
+91
+
+See generally Rodney Garratt & Peter Zimmerman, Does Central Clearing Reduce
+Counterparty Risk in Realistic Financial Networks?, Federal Reserve Bank of New York Staff
+Report No. 717 (Mar. 2015), available at
+https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr717.pdf (discussing
+core-periphery networks, and the related assumptions that links to core nodes are desirable, while
+links to peripheral nodes are not, because agents may prefer to deal with larger players who they
+are more likely to have existing relationships with; exposures to larger players may be easier to
+monitor; and economies of scale may mean that these larger players offer more attractive trading
+terms).
+
+26
+
+operational errors that could in turn minimize delivery failures by U.S. Participants (i.e., a failure
+of a Collateral Giver to deliver or return the required amount and type of collateral to the
+Collateral Taker on time and in the correct location) by using a uniform, unitary set of collateral
+management procedures. 92 The Commission also believes that fewer operational errors would
+help U.S. Participants maintain accurate records, which could help protect investors. The
+Commission preliminarily believes that these enhancements to collateral delivery mechanisms
+also could lower the cost of U.S. Participants to manage collateral in support of their transactions
+with counterparties that are also EB participants.
+The Commission notes that, as an alternative to the linked and coordinated approach
+reflected in the Modification Application, U.S. Participants could instead decide to effectuate
+settlement and collateral management of certain securities transactions by using the services of
+various market intermediaries, such as custodians, as well as relying upon internal collateral
+management and back office functions. The Commission preliminarily believes that the
+Modification Application could reduce fragmentation of contractual and operational
+relationships that U.S. Participants must maintain across multiple entities by instead channeling
+such activity into the standardized procedural framework of the linked and coordinated services
+provided by DTC and EB through the JV-IMS and the EB-CMS. The Commission also notes
+that, notwithstanding a U.S. Participant’s potential use of the JV-IMS and the EB-CMS, the U.S.
+Equity Securities would remain immobilized at DTC, and subject to the protections applicable to
+DTC as a registered clearing agency, such as DTC risk management controls, including its
+Collateral Monitor and Net Debit Cap. 93 Accordingly, the Commission preliminarily believes
+92
+
+See Modification Application, Exhibit S-1 at 16–17.
+
+93
+
+See DTC EB Link Rule, supra note 59.
+
+27
+
+that the Modification Application is consistent with the requirements of linked or coordinated
+facilities, in that it could reduce costs to U.S. Participants and increase the protection of investors
+and persons facilitating transactions by and acting on behalf of investors.
+Finally, as discussed below, the Modification Application includes specific reporting
+conditions on the aggregate movements of U.S. Equity Securities into and out of the EB-CMS,
+which would not be available in an easily obtainable format if arrangements were conducted on a
+fragmented bilateral basis, which the Commission preliminarily believes will maximize
+transparency into these exempted clearing agency activities. The Commission preliminarily
+believes that the potential for linking and standardizing certain clearing agency services
+contemplated by the Modification Application could, in addition to yielding risk and operational
+efficiencies for U.S. Participants, also afford the Commission the ability, through the reporting
+conditions described below, to observe and more closely monitor clearing agency activity in
+these areas in a manner that is relatively more efficient than instances where the Commission
+only has fragmented visibility into a series of bilateral transactions across a series of
+intermediaries. As the Commission has stated previously, the ability to see the collective activity
+of various market participants increases transparency by providing information to regulators. 94
+2.
+
+Safeguarding Securities and Funds Related to the Settlement of Securities
+Transactions
+
+Congress also found that the safeguarding of securities and funds related to the settlement
+of securities transactions is necessary for the protection of investors, 95 and directed the
+94
+
+See, e.g., Standards for Covered Clearing Agencies, Exchange Act Release No. 71699
+(Mar. 12, 2014), 79 FR 29508, 29511 (May 22, 2014) (discussing such benefits of intermediation
+as increases in transparency by making information on market activity and exposures—both
+prices and quantities—available to regulators and the public).
+95
+
+See 15 U.S.C. 78q-1(a)(1)(A).
+
+28
+
+Commission to have due regard for the safeguarding of securities and funds in the use of its
+authority under Section 17A of the Exchange Act. 96 EB represents that it has appropriate rules,
+procedures and controls to safeguard the rights of the securities issuers and holders and prevent
+unauthorized creation or deletion of securities. 97 According to EB, the creation of securities
+positions is only performed upon receipt of securities to be credited to client accounts. Removal
+of these securities positions is generally performed upon final maturity or in the context of a
+corporate event (e.g., an exchange). Both creation and deletion are generally processed without
+manual intervention at EB upon client instruction and depository confirmation. Movements in
+client accounts are reported on a daily basis to clients. 98
+EB represents that these procedures and controls are regularly reviewed by EB’s internal
+audit department and by its external auditor. The results of this review are made available to
+clients and authorities via the yearly ISAE (International Standard on Assurance Engagements)
+3402 report, which would be provided to the Commission under the proposed condition in Part
+IV.C7. 99 In addition, each year, the external auditor reports its findings on EB’s internal controls
+regarding the safekeeping of clients’ assets to the Belgian authorities. 100 As previously
+mentioned, EB is supervised by the NBB, as well as under the investor protection mandate of the
+Belgian FSMA.
+
+96
+
+See 15 U.S.C. 78q-1(a)(2)(A).
+
+97
+
+See Modification Application, Exhibit K-5 at 80.
+
+98
+
+See Modification Application, Exhibit K-5 at 81.
+
+99
+
+Id.
+
+100
+
+Id.
+
+29
+
+According to EB, it operates under the Euroclear Group’s enterprise risk management
+framework, which includes several features, such as: (i) risk tolerance levels defined annually by
+the board of directors of EB, consistent with available capital, and risk tolerance levels set by the
+management annually with the objective to keep the risk profile low and stable; (ii)
+implementation of an internal capital adequacy assessment process, expressed in capital
+requirements over a one-year horizon and an analysis of the potential capital requirements over a
+five-year time horizon; (iii) comprehensive policies that set out how the internal control system
+supports repeatability of results; (iv) an active risk register, high-level control objectives and
+more detailed control objectives to identify, track and mitigate risks; (v) responsibility for risk
+control at all levels that is clearly assigned, including strong escalation and crises procedures that
+are regularly tested; (vi) risk management and audit functions that are separate and independent
+and report directly to the Euroclear Group CEO; (vii) review of quarterly audit and risk reports
+by the EB and ESA management committees and boards of directors (including the audit
+committees); and (viii) risk management controls that identify and address six distinct categories
+of risk (credit risk, liquidity risk, operational risk, market risk, business risk and strategic risk). 101
+EB also notes that the U.S. Equity Securities that would be available within the EB-CMS would
+be transferred only by book-entry on the books of EB and would remain deposited at DTC
+(either directly or indirectly). 102
+The Commission has previously codified its guidance on safeguarding of funds and
+securities, requiring registered clearing agencies to develop and maintain plans to assure the
+safeguarding of securities and funds, the integrity of the automated data processing systems, the
+101
+
+See Modification Application, Exhibit S-1 at 26–27.
+
+102
+
+See Modification Application, Exhibit S-1 at 37.
+
+30
+
+recovery of securities, funds, or data under a variety of loss or destruction scenarios, and finally
+to have business continuity plans that allow for timely recovery of operations and ensure the
+fulfillment of a registered clearing agency’s obligations. 103 The Commission also has previously
+stated its belief that the immobilization and dematerialization of securities and their transfer by
+book entry results in reduced costs and risks associated with securities settlements and custody
+by removing the need to hold and transfer many, if not most, physical certificates. 104 The
+Commission preliminary believes that the Modification Application is consistent with these
+expressed goals because transfers will take place via book entry at EB. Accordingly, the
+Commission preliminarily believes that EB has the ability to safeguard funds and securities
+consistent with the requirements of the Exchange Act.
+3.
+
+Prompt and Accurate Settlement of Securities Transactions
+
+As noted above, Congress found that the prompt and accurate clearance and settlement of
+securities transactions is necessary for the protection of investors, 105 and that inefficient
+procedures for settlement imposed unnecessary costs on investors. 106 EB states that the
+Euroclear System is a Model 1 delivery vs. payment (“DVP”) system, which means instructions
+are settled between clients on a trade by trade (gross) basis, with finality of the transfer of
+securities from the seller to the buyer occurring at the same time as the finality of transfer of
+funds from the buyer to the seller. 107 EB also states that the Euroclear System controls the
+103
+
+See 12 CFR 240.17Ad-22(d)(4).
+
+104
+
+Id. at 66253.
+
+105
+
+See 15 U.S.C. 78q-1(a)(1)(A).
+
+106
+
+See 15 U.S.C. 78q-1(a)(1)(B).
+
+107
+
+See Modification Application, Exhibit K-5 at 7.
+
+31
+
+availability of the cash and securities before executing instructions (i.e., positioning), so that if
+the cash and/or the securities are not available, the technical and contractual frameworks would
+not allow the transaction to be settled. 108 EB offers real-time settlement from around 01:30 to
+19:00 Brussels time to cover multiple time zones. 109
+The Commission preliminarily believes that approval of the Modification Application
+would promote the prompt and accurate clearance and settlement of securities transactions and
+the protection of investors because EB’s settlement process is consistent with prior Commission
+observations regarding DVP systems. In particular, the Commission has previously stated that
+DVP reduces the risk that a party would lose some or its entire principal because payment is
+made only if securities are delivered. 110 The Commission also believes that a DVP method
+reduces the potential that delivery of the security is not appropriately matched with payment for
+a security. Therefore, the Commission believes the use of a DVP method promotes the clearing
+agency’s ability to facilitate prompt and accurate clearance and settlement. 111
+4.
+
+Maintenance of Fair Competition among Market Participants
+
+Section 17A of the Exchange Act also directs the Commission to have due regard for the
+maintenance of fair competition in the use of its authority under Section 17A of the Exchange
+Act. 112 EB states that approving the Modification Application may improve competition among
+
+108
+
+See Modification Application, Exhibit K-5 at 83.
+
+109
+
+See Modification Application, Exhibit K-5 at 127.
+
+110
+
+See Clearing Agency Standards, Exchange Act Release No. 68080 (Oct. 22, 2012), 77 FR
+66220, 66256 (Nov. 2, 2012).
+111
+
+Id.
+
+112
+
+See 15 U.S.C. 78q-1(a)(2)(A).
+
+32
+
+market participants offering collateral management services, but does not expect it to have any
+impact on the current competitive landscape for provision of settlement of transactions in U.S.
+Equity Securities for U.S. Participants. 113 EB notes that U.S. Participants already use the EBCMS today for U.S. Government Securities, but are disadvantaged compared to non-U.S.
+participants in the range of collateral that they are able to mobilize to meet their collateral
+obligations in that they are currently unable to use U.S. Equity Securities within the EB-CMS.
+As a result, EB’s proposed service would reduce the disparity between U.S. and non-U.S.
+participants. EB also states that U.S. Participants currently have, and would continue to have the
+option of providing U.S. Equity Securities as collateral by using the services of a market
+intermediary that is not regulated by the Commission as a clearing agency (typically a bank) or
+by making bilateral collateral management arrangements and undertaking collateral management
+activities themselves. 114 Accordingly, the Commission preliminarily believes that the
+Modification Application is consistent with Section 17A of the Exchange Act because the
+Modification Application should facilitate fair competition between U.S. and non-U.S.
+participants, and would not prevent U.S. Participants from using other comparable services that
+may be available.
+C.
+
+Proposed Conditions
+
+EB represents in its Form CA-1 that it would comply with a series of conditions, as
+described further below, which are designed to establish an appropriately robust regulatory
+framework over the limited range of Clearing Agency Activities EB proposes to offer. These
+conditions are set forth in three sections: (A) continuation of two existing conditions applicable
+113
+
+See Modification Application, Exhibit S-1 at 21.
+
+114
+
+See Modification Application, Exhibit S-1 at 22.
+
+33
+
+to the U.S. Government Securities Clearing Agency Activities, (B) operational risk conditions
+applicable to the Clearing Agency Activities, and (C) additional conditions applicable to the
+Clearing Agency Activities.
+With respect to Section B, the Commission preliminarily believes that the conditions
+constitute a robust framework of operational conditions to be applied to those EB systems that
+facilitate the Clearing Agency Activities. Under the Existing Exemption, EB was not subject to
+the Commission’s Automated Review Policy. 115 As a result, EB does not meet the definition of
+SCI entity as set forth in Rule 1000 of Regulation SCI, and is therefore not subject to the
+Commission’s Regulation Systems Compliance and Integrity (“Regulation SCI”). 116 The
+Commission preliminarily believes that it is appropriate to apply operational conditions that
+would require EB to have sufficiently resilient systems to support the limited services upon
+which U.S. Participants may rely.
+The proposed conditions in Part VI.C are tailored to the operations of the Clearing
+Agency Activities and seek to address the same policy concerns that were addressed by
+Regulation SCI, specifically the reduction of the occurrence of systems issues, the improvement
+of resiliency of systems, and the enhancement of the Commission’s oversight and enforcement of
+technology infrastructure. The Commission believes that resiliency conditions are warranted
+because an operational disruption at EB could impact U.S. Participants. The Commission
+understands that EB would use the same set of collateral management applications and core
+settlement processing infrastructure housed in the Euroclear System for the U.S. Equities
+115
+
+See Exchange Act Release Nos. 27445 (Nov. 16, 1989), 54 FR 48703 (Nov. 24, 1989),
+and 29185 (May 9, 1991), 56 FR 22490 (May 15, 1991).
+116
+
+See Regulation Systems, Compliance and Integrity, Exchange Act Release No. 73639
+(Nov. 19, 2015), 79 FR 72252 (Dec. 5, 2014).
+
+34
+
+Clearing Agency Activities as it uses for the U.S. Government Securities Clearing Agency
+Activities, so the operational conditions would apply across both distinct sets of activities.
+Several of the proposed conditions in Part VI.D are reformulations of general disclosure
+and notification conditions that apply generally to EB’s operations in performing the U.S.
+Government Securities Clearing Agency Activities, as previously applied under the Existing
+Exemption. Specifically, conditions D.3, D.5 and D.7 are taken from the Original Exemption
+Order and would be applied to the Clearing Agency Activities. Likewise, the conditions would
+continue to require EB to (i) respond to Commission requests for information concerning
+financial solvency concerns of U.S. Participants and (ii) file amendments to its application for
+exemption on Form CA-1 if it makes any material change to the Clearing Agency Activities to
+allow the Commission to perform ongoing monitoring of any future modified order.
+Additionally, the Commission preliminarily believes that the routine provision of certain
+information by EB would be appropriate to facilitate the monitoring of the impact of EB’s
+expanded, but still limited, Clearing Agency Activities on the national clearance and settlement
+system. The conditions would expand the reporting conditions as a result. Under the Original
+Exemption Order, the Commission required EB to provide to the Commission any disclosure
+documents provided to Euroclear System participants, such as any amendments to the terms and
+conditions governing the service, any changes to the operating procedures of the Euroclear
+System, the annual shareholder report, and the annual internal controls report. 117 Under
+proposed condition D.2, EB would be required to notify the Commission of any material changes
+to any service agreement between it and any other entity that is performing Clearing Agency
+Activities. Under proposed condition D.4, EB would provide the Commission an annual report
+117
+
+See Original Exemption Order, supra note 1, at 8240.
+
+35
+
+that would describe material changes that do not otherwise necessitate the filing of an
+amendment of the Form CA-1. The annual report would further require a description of the
+functioning of EB’s monitoring its own compliance and the compliance of third-party service
+providers with conditions of any modified order. Finally, the annual report would require a
+description of the management of any conflicts of interest between EB and an affiliated or thirdparty service provider. The Commission preliminarily believes the notification and annual
+reporting conditions would facilitate the general monitoring of the Clearing Agency Activities,
+and in particular, the contractual and operational relationships between EB and ESA, as well as
+between EB and DTCC. ESA and DTCC, through the Euroclear System and DEGCL,
+respectively, could play instrumental roles in the EB-CMS, and the Commission preliminarily
+believes that ongoing updates on these relationships are appropriate to allow the Commission the
+ability to assess EB’s reliance on affiliates to perform clearing agency functions related to the
+Clearing Agency Activities.
+The Commission also preliminarily believes that the new recordkeeping and examination
+conditions would help the Commission assess EB’s compliance with the conditions of any future
+modified order. Under conditions C.8 and D.5, EB would be required to keep records of
+documents relating to compliance with the operational conditions and records pertaining to the
+Clearing Agency Activities covered within the scope of the modified exemption. Under
+condition D.6, EB would be required to respond to information requests and to allow on-site
+inspections of facilities, records, and personnel for the purpose of reviewing the Clearing Agency
+Activities’ operations and compliance with the federal securities laws and any future modified
+order issued by the Commission. The recordkeeping and examination conditions should
+facilitate periodic review of EB’s adherence to the conditions. Finally, under condition D.1, EB
+
+36
+
+would be required to provide annual audited financial statements prepared by competent
+independent audit personnel, to assist the Commission’s monitoring of EB’s ongoing condition.
+VI.
+
+Conditions to Exemption from Clearing Agency Registration
+As mentioned above, EB represents in its Form CA-1 that it would comply with all of the
+
+conditions described below. EB believes that these conditions are consistent with the public
+interest, the protection of investors, and the purposes of Section 17A of the Exchange Act.
+The following set of conditions, which would replace and supersede all conditions set forth in the
+Existing Exemption, to read as follows:
+A.
+
+Continuation of Existing Conditions Applicable to the U.S. Government
+Securities Clearing Agency Activities
+
+(1) The average daily volume of eligible U.S. Government Securities processed for U.S.
+Participants through EB as operator of the Euroclear System may not exceed five percent of the
+total average daily dollar value of the aggregate volume in eligible U.S. Government Securities.
+(2) EB will provide the Commission with quarterly reports, calculated on a twelve-month
+rolling basis, of (a) the average daily volume of transactions in eligible U.S. Government
+Securities for U.S. Participants that are subject to the volume limit and (b) the average daily
+volume of transactions in eligible U.S. Government Securities for all Euroclear System
+participants.
+B.
+
+Condition Applicable to the U.S. Equities Clearing Agency Activities
+
+EB shall provide to the Commission or its designee quarterly reports, calculated on a
+twelve-month rolling basis, of (1) the average daily value of U.S. Equity Securities that are held
+in Collateral Accounts at EB for U.S. Participants and a break-down of the general types of EB
+collateral agreements in respect of which such value is given as collateral, (2) the average daily
+value of U.S. Equity Securities that are held in EB’s account at DTC relating to inventory
+
+37
+
+management services, and (3) the total value, and a break-down of the general types of EB
+collateral agreements in respect of which such value is given as collateral, of U.S. Equity
+Securities that are transferred from Collateral Accounts of U.S. Participants at EB to other
+Securities Clearance Accounts at EB (other than IMS-Linked Accounts) pursuant to a liquidation
+of such collateral.
+C.
+
+Operational Risk Conditions Applicable to Clearing Agency Activities
+
+(1) EB shall demonstrate to the Commission or its designee prior to commencing the U.S.
+Equities Clearing Agency Activities that EB maintains written policies and procedures
+applicable to those systems that support or are integrally related to the Clearing Agency
+Activities (the “Systems”) that, on an ongoing basis, are reasonably designed to:
+(a) establish a robust operational risk-management framework applicable to the Systems
+with appropriate systems, policies, procedures, and controls to identify, monitor, and manage
+operational risks;
+(b) clearly define the roles and responsibilities of EB personnel for addressing operational
+risk (e.g., identify a senior manager responsible for compliance with the operational conditions
+applicable to the Systems);
+(c) review operational policies, procedures, and controls applicable to the Systems;
+(d) audit the Systems, and test the Systems periodically and at implementation of
+significant changes;
+(e) clearly define operational reliability objectives for the Systems;
+(f) ensure that the Systems have scalable capacity adequate to handle increasing stress
+volumes and achieve the Systems service-level objectives;
+
+38
+
+(g) establish comprehensive physical and information security policies that address all
+potential vulnerabilities and threats to the Systems;
+(h) establish a business continuity plan for the Systems that addresses events posing a
+significant risk of disrupting the Systems’ operations, including events that could cause a widescale or major disruption in the provision of the Clearing Agency Activities;
+(i) incorporate the use of a secondary site in EB’s business continuity plan that is
+designed to ensure that the Systems can resume operations within two hours following disruptive
+events; and
+(j) regularly test or otherwise validate EB’s business continuity plans; and identify,
+monitor, and manage the risks that key participants, other financial market infrastructures, and
+service and utility providers might pose to the Systems’ operations in relation to the Clearing
+Agency Activities.
+(2) For purposes of condition C.1, such policies and procedures shall be consistent with
+current information technology industry standards, which shall be comprised of information
+technology practices that are widely available to information technology professionals in the
+financial sector and issued by a widely recognized organization. EB shall inform the
+Commission or its designee of the information technology industry standards that EB has chosen
+to use, affirm that choice on an annual basis, and provide advance notice of the use of different
+standards as soon as practicable.
+(3) EB shall provide the Commission or its designee with an annual update on the status
+of the items set forth in condition C.1.
+(4) EB shall establish, implement, maintain, and enforce written policies and procedures
+reasonably designed to ensure that the Systems operate on an ongoing basis in a manner that
+
+39
+
+complies with the conditions applicable to the Systems and with EB’s rules and governing
+documents applicable to the Clearing Agency Activities.
+(5)(a) Upon EB having a reasonable basis to conclude that a disruption, compliance issue,
+or intrusion of the Systems that impacts, or is reasonably likely to impact, the Clearing Agency
+Activities has occurred (a “Systems Event”), EB shall:
+(i) take appropriate corrective action, which shall include, at a minimum, devoting
+adequate resources to remedy the Systems Event as soon as reasonably practical;
+(ii) notify the Commission or its designee of such Systems Event within 24 hours after
+occurrence;
+(iii) until such time as a Systems Event is resolved and EB’s investigation of the Systems
+Event is closed, provide updates pertaining to such Systems Event to the Commission or its
+designee on a regular basis;
+(iv) within 48 hours after the occurrence of a Systems Event or where EB reasonably
+determines that such deadline cannot be met and so notifies the Commission or its designee,
+promptly thereafter, submit an interim written notification pertaining to such Systems Event to
+the Commission or its designee containing: (A) a detailed description of: the relevant discovery
+and duration times, detection, root cause and remedial actions taken or planned regarding the
+Systems Event (to the extent known at report time); EB’s assessment of the entities (including
+types of market participants) and EB services affected by the Systems Event; EB’s assessment of
+the impact of the Systems Event on the Participants; and any other pertinent information known
+by the EB about the Systems Event; and (B) a copy of any information disseminated to EB’s
+U.S. Participants in accordance with EB’s notification practices regarding the Systems Event;
+
+40
+
+(v) within ten business days after the occurrence of a Systems Event, or where EB
+reasonably determines that such deadline cannot be met and so notifies the Commission or its
+designee, promptly thereafter, submit a written final report regarding the matters covered in the
+interim report required under (iii) above to the Commission or its designee; and
+(vi) for Systems Events characterized as “Bronze level” events (i.e., a Systems Event in
+which the incident is clearly understood, almost immediately under control, involves only one
+business unit and/or entity, and is resolved within a few hours), in lieu of the reporting in (i)
+through (v) above, provide on a quarterly basis an aggregated list of Bronze level events.
+(b) As used herein: (i) a “disruption” means an event in the Systems that disrupts, or
+significantly degrades, the normal operation of the Systems in relation to the Clearing Agency
+Activities; (ii) a “compliance issue” means an event at EB that has caused any System to operate
+in a manner that does not comply with the applicable conditions or EB’s rules and governing
+documents applicable to the Clearing Agency Activities; and (iii) an “intrusion” means any
+unauthorized entry into the Systems in relation to the Clearing Agency Activities.
+(6) EB shall, within 30 calendar days after the end of each quarter, submit to the
+Commission or its designee a report describing completed, ongoing, and planned material
+changes to the Systems that support or are related to the Clearing Agency Activities during the
+prior, current, and subsequent calendar quarters, including the dates or expected dates of
+commencement and completion. EB shall establish reasonable written criteria for identifying a
+change to the Systems as material and report such changes in accordance with such criteria.
+(7) EB shall provide the Commission or its designee with: (a) annually, the audited
+control report made available to EB’s Participants prepared in accordance with internationally
+accepted standards for assurance reports on controls at a service organization (such as the
+
+41
+
+International Standard on Assurance Engagements (ISAE) Standard No. 3402); (b) annually,
+copies of those portions of any annual control report provided by EB to its primary Belgian
+regulator that describes controls applicable to the Systems as used to support or in relation to the
+Clearing Agency Activities; and (c) copies of agendas, reports and presentation materials relating
+to the capacity, integrity, resiliency, availability, and security or compliance of the Systems that
+are provided by EB or its primary Belgian regulator to any committee of regulators that
+implements the memorandum of understanding among regulators of Euroclear Group’s CSD
+entities that provides for the coordinated and common oversight and supervision of the Euroclear
+Group.
+(8) EB shall make, keep, and preserve at least one copy of all documents relating to its
+compliance with the operational risk conditions; keep all such documents for a period of not less
+than five years, the first two years in an easily accessible place (which may be located in the
+European Union); and upon request of the Commission, promptly furnish to the possession of the
+Commission or its designee copies of any such documents.
+D.
+
+Additional Conditions Applicable to the Clearing Agency Activities
+
+(1) EB shall provide to the Commission or its designee its annual audited financial
+statements prepared by competent independent audit personnel.
+(2) EB shall notify the Commission or its designee of any material changes to any service
+agreement between EB and any other entity that is performing Clearing Agency Activities on
+behalf of EB if such changes are reasonably expected to materially affect the Clearing Agency
+Activities.
+(3) EB will notify the Commission or its designee (a) promptly following termination of
+any U.S. Participant as a participant in the Euroclear System, (b) promptly following the
+
+42
+
+liquidation by EB of any securities collateral pledged by a U.S. Participant to EB to secure an
+extension of credit made through the Euroclear System, and (c) promptly following EB
+becoming aware of the institution of any proceedings to have a U.S. Participant declared
+insolvent or bankrupt, and will respond to Commission requests for information about any U.S.
+Participant about whom the Commission has financial solvency concerns, including, for
+example, a settlement default by a U.S. Participant.
+(4) EB shall annually provide to the Commission or its designee a report describing: (a)
+material changes to the representations made by EB in support of the approval of this Order that
+would not otherwise require amendment of EB’s application for exemption on Form CA-1 in
+accordance with these conditions; (b) the functioning of EB’s policies and procedures for
+monitoring its own compliance with the conditions of this order regarding the Clearing Agency
+Activities (and the compliance of any affiliated or third-party service provider referred to in
+condition D.2); and (c) the management by EB of any conflicts of interest of such affiliated or
+third-party service provider that EB becomes aware have arisen since the prior report with
+respect to the performance of the Clearing Agency Activities.
+(5) EB shall keep records relating to the Clearing Agency Activities regarding settlement
+details, account details, service agreements, and service notices sent to U.S. Participants
+pertaining to the operation of the Clearing Agency Activities and retain such records for a period
+of not less than five years, the first two years in an easily accessible place (which may be located
+in the European Union).
+(6) EB shall respond to and require its service providers to respond to a request from the
+Commission for additional information relating to the Clearing Agency Activities and provide
+access to the Commission or its designee to conduct on-site inspections of all facilities (including
+
+43
+
+automated systems and systems environment), records, and personnel related to the Clearing
+Agency Activities. The request for information shall be made and the inspections shall be
+conducted solely for the purpose of reviewing the Clearing Agency Activities’ operations and
+compliance with the federal securities laws and the terms and conditions in any order exempting
+EB from registration as a clearing agency with regard to the Clearing Agency Activities.
+(7) EB shall file with the Commission amendments to its application for exemption on
+Form CA-1 if it makes any material change to the Clearing Agency Activities or any change
+materially affecting the Clearing Agency Activities as summarized in the relevant exemption
+order, EB’s amended Form CA-1 or in any subsequently filed amendments to its Form CA-1 that
+would make such previously provided information incomplete or inaccurate.
+VII.
+
+Solicitation of Comments
+Interested persons are invited to submit written data, views, and arguments concerning
+
+the foregoing, including whether the proposed exemption is consistent with the public interest,
+the protection of investors, and the purposes of Section 17A of the Exchange Act. To the extent
+possible, commenters are requested to provide empirical data and other factual support for their
+views. In addition, the Commission seeks comment generally on the following issues:
+1.
+
+Would the Modification Application, if approved, achieve the underlying policy
+
+objectives of the Exchange Act? Why or why not? In particular, please address whether
+granting an exemption from registration does or does not further the goals of promoting investor
+protection and the integrity of the securities markets.
+2.
+
+Are the proposed conditions to the Modification Application sufficient to promote
+
+the purposes of Section 17A of the Exchange Act and to allow the Commission to adequately
+
+44
+
+monitor the effects of EB’s Clearing Agency Activities on the national system for the clearance
+and settlement of securities transactions? Why or why not?
+3.
+
+EB has represented that its provision of the U.S. Equities Clearing Agency
+
+Activities would benefit U.S. Participants by providing a service to efficiently satisfy the New
+Collateral Regulations. Will the provision of the U.S. Equities Clearing Agency Activities
+provide those or other benefits? Will providing the service lead to lower costs, or higher costs,
+for U.S. Participants or other segments of the U.S. securities markets? What other benefits
+would U.S. Participants or other U.S. persons receive from these services?
+4.
+
+Are there other providers of collateral management or related post-trade
+
+processing services that may be placed at a competitive advantage as a result of EB’s account at
+DTC and the creation of DEGCL?
+5.
+
+Similar to the volume limits placed on the U.S. Government Securities Clearing
+
+Agency Activities, should there be a volume limit on the U.S. Equities Clearing Agency
+Activities? If so, what should be the volume limit and why?
+6.
+
+Are there potential issues or concerns that the Commission should consider? For
+
+example, differences between U.S. and Belgian law or other possible effects of the proposed
+Modification Application on the U.S. securities markets and investors.
+Comments may be submitted by any of the following methods:
+Electronic comments:
+•
+
+Use the Commission’s Internet comment form
+(http://www.sec.gov/rules/proposed.shtml); or
+
+•
+
+Send an e-mail to rule-comments@sec.gov. Please include File Number 601-01 on the
+subject line; or
+
+45
+
+Paper comments:
+•
+
+Send paper comments to Brent J. Fields, Secretary, Securities and Exchange
+Commission, 100 F Street, N.E., Washington, DC 20549-1090. All submissions should
+refer to File Number 601-01.
+To help us process and review your comments more efficiently, please use only one
+
+method. The Commission will post all comments on the Commission’s Internet website
+(http://www.sec.gov/rules/other.shtml).
+Copies of the submission, all subsequent amendments, all written statements with respect
+to the application that are filed with the Commission, and all written communications relating to
+the application between the Commission and any person, other than those that may be withheld
+from the public in accordance with the provisions of 5 U.S.C. 552, will be available for website
+viewing and printing in the Commission’s Public Reference Section, 100 F Street, NE,
+Washington, DC 20549 on official business days between the hours of 10:00 a.m. and 3:00 p.m.
+
+46
+
+All comments received will be posted without change; the Commission does not edit personal
+identifying information from submissions. You should submit only information that you wish to
+make available publicly. All submissions should refer to File Number 601-01 and should be
+submitted on or before [INSERT DATE 30 DAYS FROM THE DATE OF PUBLICATION IN
+THE FEDERAL REGISTER].
+For the Commission by the Division of Trading and Markets, pursuant to delegated
+authority. 118
+Robert W. Errett
+Deputy Secretary
+
+118
+
+17 CFR 200.30-3(a)(16).
+
+47
+
+

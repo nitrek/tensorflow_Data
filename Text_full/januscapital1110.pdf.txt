@@ -1,0 +1,1250 @@
+No. 09-525
+
+In the Supreme Court of the United States
+JANUS CAPITAL GROUP, INC., ET AL., PETITIONERS
+v.
+FIRST DERIVATIVE TRADERS
+ON WRIT OF CERTIORARI
+
+TO THE UNITED STATES COURT OF APPEALS
+
+FOR THE FOURTH CIRCUIT
+
+
+BRIEF FOR THE UNITED STATES
+
+AS AMICUS CURIAE SUPPORTING RESPONDENT
+
+
+DAVID M. BECKER
+General Counsel
+MARK D. CAHN
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+JOHN W. AVERY
+Senior Litigation Counsel
+Securities and Exchange
+Commission
+Washington, D.C. 20549
+
+NEAL KUMAR KATYAL
+Acting Solicitor General
+Counsel of Record
+MALCOLM L. STEWART
+Deputy Solicitor General
+CURTIS E. GANNON
+Assistant to the Solicitor
+General
+Department of Justice
+Washington, D.C. 20530-0001
+SupremeCtBriefs@usdoj.gov
+(202) 514-2217
+
+QUESTIONS PRESENTED
+
+1. Whether an investment adviser to mutual funds
+“ma[d]e” misleading statements for purposes of liability
+under Section 10(b) of the Securities Exchange Act of
+1934, 15 U.S.C. 78j(b), and SEC Rule 10b-5, 17 C.F.R.
+240.10b-5, by participating in the drafting and dissemination of misleading prospectuses of mutual funds it
+managed.
+2. Whether misleading statements in a mutual
+fund’s prospectuses must be explicitly attributed to the
+mutual fund’s investment adviser in order to establish
+the reliance element of a private Section 10(b) action
+against the adviser.
+
+(I)
+
+
+TABLE OF CONTENTS
+
+Page
+
+Interest of the United States . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+Summary of argument . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8 
+
+Argument:
+
+I.	 Respondent’s complaint adequately alleges that the
+
+investment adviser “made” statements that
+
+appeared in the prospectuses of the mutual funds it
+
+managed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 
+
+A.	 Rule 10b-5 encompasses untrue statements
+
+that are created by someone other than the
+
+nominal speaker . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 
+
+B.	 Respondent’s allegations adequately state a
+
+claim of primary, not secondary, liability
+
+under Section 10(b) . . . . . . . . . . . . . . . . . . . . . . . . . . 17 
+
+1. As an investment adviser exercising day-
+
+to-day management over a mutual fund,
+
+JCM should not be considered a “secondary actor” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 
+
+2. The nature of the claim in this case is for a
+
+primary violation of Section 10(b) . . . . . . . . . . . 21 
+
+3. Government suits for aiding-and-abetting
+
+liability would be an inadequate substitute
+
+for primary liability under Section 10(b) . . . . . 23 
+
+II. A maker of material misrepresentations can be liable
+
+in a private action under Section 10(b) even when the
+
+misrepresentations are not directly attributed to the
+
+maker . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 
+
+A.	 Reliance does not require material misrepresentations to be directly attributed to the
+
+defendant . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26 
+
+
+(III)
+
+IV
+
+Table of Contents—Continued:	
+
+Page
+
+B.	 Even if attribution were necessary to establish reliance, the statements here were
+
+adequately attributed to the investment
+
+adviser . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31 
+
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33 
+
+TABLE OF AUTHORITIES
+
+Cases:
+Affco Invs. 2001 LLC v. Proskauer Rose, L.L.P., No.
+
+09-20734, 2010 WL 4226685 (5th Cir. Oct. 27, 2010) . . . 31
+
+Auer v. Robbins, 519 U.S. 452 (1997) . . . . . . . . . . . . . . . 8, 14 
+
+Basic Inc. v. Levinson, 485 U.S. 224 (1988) . . . . 3, 11, 27, 28 
+
+Burks v. Lasker, 441 U.S. 471 (1979) . . . . . . . . . . . . . . . . 4, 18 
+
+Central Bank of Denver, N.A. v. First Interstate
+
+Bank of Denver, N.A., 511 U.S. 164
+
+(1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 17, 19, 21, 22, 31 
+
+Cooper v. Pickett, 137 F.3d 616 (9th Cir. 1997) . . . . . . 16, 23 
+
+Dura Pharms., Inc. v. Broudo, 544 U.S. 336 (2005) . . . . . . 3 
+
+Federal Express Corp. v. Holowecki, 552 U.S. 389
+
+(2008) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 17 
+
+Geman v. SEC, 334 F.3d 1183 (10th Cir. 2003) . . . . . . . . . 26 
+
+Graham v. SEC, 222 F.3d 994 (D.C. Cir. 2000) . . . . . . . . . 24 
+
+Herman & MacLean v. Huddleston, 459 U.S. 375
+
+(1983) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+
+Jones v. Harris Assocs. L.P., 130 S. Ct. 1418
+
+(2010) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 18, 19 
+
+Klein v. Boyd, Nos. 97-1143 & 97-1261, 1998 WL
+
+55245 (3d Cir. Mar. 9, 1998) . . . . . . . . . . . . . . . . . . . . . . . 13 
+
+
+V
+
+Cases–Continued:
+
+Page
+
+McConville v. SEC, 465 F.3d 780 (2006), cert. denied,
+
+552 U.S. 811 (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 20 
+
+Musick, Peeler & Garrett v. Employers Ins. of
+
+Wausau, 508 U.S. 286 (1993) . . . . . . . . . . . . . . . . . . . . . . 26 
+
+Navarre Corp. Sec. Litig., In re, 299 F.3d 735 (8th
+
+Cir. 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 
+
+Novak v. Kasaks, 216 F.3d 300 (2d Cir. 2000) . . . . . . . . . . 16 
+
+Pacific Inv. Mgmt. Co. LLC (PIMCO) v. Mayer
+
+Brown LLP, 603 F.3d 144 (2d Cir. 2010) . . . . . . . . . 13, 31 
+
+Robert W. Armstrong, III, In re, Rel. No. 34-51920,
+
+2005 WL 1498425 (SEC June 24, 2005) . . . . . . . . . . . . . 13 
+
+Scholastic Corp. Sec. Litig., In re, 252 F.3d 63
+
+(2d Cir.), cert. denied, 534 U.S. 1071 (2001) . . . . . . . . . . 20 
+
+SEC v. DiBella, 587 F.3d 553 (2d Cir. 2009) . . . . . . . . . . . . 24 
+
+SEC v. Tambone, 597 F.3d 436 (1st Cir. 2010) . . . . . . . . . 14 
+
+SEC v. Wolfson, 539 F.3d 1249 (10th Cir. 2008) . . . . . . . . . 20 
+
+SEC v. Zandford, 535 U.S. 813 (2002) . . . . . . . . . . . . . . 14, 21 
+
+Steadman Sec. Corp., In re, 46 S.E.C. 896 (1977),
+
+vacated and remanded on other grounds by
+
+Steadman v. SEC, 603 F.2d 1126 (5th Cir. 1979),
+
+aff ’d, 450 U.S. 91 (1981) . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+
+Stoneridge Inv. Partners, LLC v. Scientific-Atlanta,
+
+Inc., 552 U.S. 148 (2008) . . . . . . . . . . . . . . . . . . . . . passim
+
+Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S.
+
+308 (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 24 
+
+United States v. Haddy, 134 F.3d 542 (3d Cir.),
+
+cert. denied, 525 U.S. 827 (1998) . . . . . . . . . . . . . . . . . . . 26 
+
+Wood v. Allen, 130 S. Ct. 841 (2010) . . . . . . . . . . . . . . . . . . 27 
+
+
+VI
+
+Case–Continued:
+
+Page
+
+Ziemba v. Cascade Int’l, Inc., 256 F.3d 1194 (11th Cir.
+
+2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31 
+
+Statutes, regulation and rule:
+Investment Company Act of 1940, 15 U.S.C. 80a-49 . . . . . 18 
+
+Private Securities Litigation Reform Act of 1995,
+
+Pub. L. No. 104-67, 109 Stat. 737 . . . . . . . . . . . . . . . . . . . 3 
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a et seq.:
+
+15 U.S.C. 78j(b) (§ 10(b)) . . . . . . . . . . . . . 2, 8, 9, 11, 15, 16 
+
+15 U.S.C. 78r(a) (§ 18(a)) . . . . . . . . . . . . . . . . . . . . . . . . . 16 
+
+15 U.S.C. 78t(a) (§ 20(a)) . . . . . . . . . . . . . . . . . . . . . . . . . . 8 
+
+15 U.S.C. 78t(e) (§ 20(e)) . . . . . . . . . . . . . . . . . . . . . . 10, 23 
+
+15 U.S.C. 78u(d)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 5 
+
+15 U.S.C. 78u(d)(3)(A) . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 3 
+
+15 U.S.C. 78bb(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+
+15 U.S.C. 78ff . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+
+17 C.F.R. 240.10b-5 (SEC Rule 10b-5) . . . . . . . . . . . passim
+
+Fed. R. Civ. P. 9(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 
+
+Miscellaneous:
+H.R. Rep. No. 369, 104th Cong., 1st Sess. (1995) . . . . . . . 24 
+
+1 Shorter Oxford English Dictionary (6th ed. 2007) . . . . 14 
+
+S. Rep. No. 184, 91st Cong., 1st Sess. (1969) . . . . . . . . . 4, 18 
+
+Short Selling in Connection with a Public Offering,
+
+72 Fed. Reg. 45,094 (2007) . . . . . . . . . . . . . . . . . . . . . . . . 18 
+
+Webster’s New International Dictionary (2d ed.
+
+1958) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+
+
+In the Supreme Court of the United States
+
+No. 09-525
+
+JANUS CAPITAL GROUP, INC., ET AL., PETITIONERS
+
+v.
+
+FIRST DERIVATIVE TRADERS
+ON WRIT OF CERTIORARI
+
+TO THE UNITED STATES COURT OF APPEALS
+
+FOR THE FOURTH CIRCUIT
+
+
+BRIEF FOR THE UNITED STATES
+
+AS AMICUS CURIAE SUPPORTING RESPONDENT
+
+
+INTEREST OF THE UNITED STATES
+
+
+The United States, through the Department of Justice and the Securities and Exchange Commission (SEC
+or Commission), administers and enforces the federal
+securities laws. This case involves one of those laws,
+Section 10(b) of the Securities Exchange Act of 1934
+(Exchange Act or Act), 15 U.S.C. 78j(b), and its implied
+private right of action. At the Court’s invitation, the
+United States filed a brief at the petition stage of this
+case.
+STATEMENT
+
+1. This case is a private action filed pursuant to Section 10(b) of the Exchange Act, and SEC Rule 10b-5, 17
+C.F.R. 240.10b-5. Under Section 10(b), it is
+(1)
+
+2
+
+unlawful for any person, directly or indirectly, by the
+use of any means or instrumentality of interstate
+commerce or of the mails, or of any facility of any
+national securities exchange—
+* * * * *
+[t]o use or employ, in connection with the purchase or sale of any security * * * , any manipulative or deceptive device or contrivance in contravention of such rules and regulations as the Commission
+may prescribe as necessary or appropriate in the
+public interest or for the protection of investors.
+15 U.S.C. 78j(b).
+Pursuant to Section 10(b), the Commission has promulgated Rule 10b-5, which makes it
+unlawful for any person, directly or indirectly, by the
+use of any means or instrumentality of interstate
+commerce, or of the mails or of any facility of any
+national securities exchange,
+(a) To employ any device, scheme, or artifice
+to defraud,
+(b) To make any untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in the
+light of the circumstances under which they were
+made, not misleading, or
+(c) To engage in any act, practice, or course of
+business which operates or would operate as a
+fraud or deceit upon any person,
+in connection with the purchase or sale of any security.
+17 C.F.R. 240.10b-5.
+
+3
+
+The United States is authorized to bring criminal
+actions to punish violations of Section 10(b), see 15
+U.S.C. 78ff, and the Commission is authorized to bring
+civil enforcement actions to prevent and penalize violations of that provision, see 15 U.S.C. 78u(d)(1) (suits for
+injunctive relief ); 15 U.S.C. 78u(d)(3)(A) (suits for civil
+penalties). This Court has also inferred the existence of
+a private right of action to enforce Section 10(b) from
+“the words of the statute and its implementing regulation.” Stoneridge Inv. Partners, LLC v. ScientificAtlanta, Inc., 552 U.S. 148, 157 (2008). When Congress
+enacted the Private Securities Litigation Reform Act of
+1995, Pub. L. No. 104-67, 109 Stat. 737, it “accepted the
+§ 10(b) private cause of action as then defined but chose
+to extend it no further.” Stoneridge, 552 U.S. at 166.
+The Court has described the elements of a Section
+10(b) private action as follows:
+In a typical § 10(b) private action a plaintiff must
+prove (1) a material misrepresentation or omission
+by the defendant; (2) scienter; (3) a connection between the misrepresentation or omission and the
+purchase or sale of a security; (4) reliance upon the
+misrepresentation or omission; (5) economic loss; and
+(6) loss causation.
+Stoneridge, 552 U.S. at 157 (citing Dura Pharms., Inc.
+v. Broudo, 544 U.S. 336, 341-342 (2005)). With respect
+to the reliance element, this Court has held that a rebuttable presumption of reliance can be supported by
+the fraud-on-the-market theory, under which the market
+price of a stock reflects “most publicly available information,” including “any public material misrepresentations.” Basic Inc. v. Levinson, 485 U.S. 224, 242, 247
+(1988); see Stoneridge, 552 U.S. at 159.
+
+4
+
+2. This case involves alleged misrepresentations and
+omissions in prospectuses issued by several mutual
+funds. As this Court recently reiterated, mutual funds
+differ significantly from typical operating companies.
+Jones v. Harris Assocs. L.P., 130 S. Ct. 1418, 1422
+(2010). The Court in Jones explained that a “mutual
+fund is a pool of assets, consisting primarily of [a] portfolio [of ] securities, and belonging to the individual investors holding shares in the fund.” Ibid. (quoting
+Burks v. Lasker, 441 U.S. 471, 480 (1979)). It noted that
+“[a] separate entity called an investment adviser [typically] creates the mutual fund, which may have no employees of its own.” Ibid. (citations omitted). “The adviser selects the fund’s directors, manages the fund’s
+investments, and provides other services.” Ibid. (citing
+Burks, 441 U.S. at 481). “Because of the relationship
+between a mutual fund and its investment adviser, the
+fund often ‘ “cannot, as a practical matter sever its relationship with the adviser.” ’ ” Ibid. (quoting Burks, 441
+U.S. at 481, in turn quoting S. Rep. No. 184, 91st Cong.,
+1st Sess. 5 (1969)).
+3. Petitioner Janus Capital Group Inc. ( JCG) is a
+publicly traded asset-management firm that sponsors a
+family of mutual funds known as the Janus Funds. Petitioner Janus Capital Management LLC ( JCM), a
+wholly-owned subsidiary of JCG, is the investment adviser to the Janus Funds. Pet. ii; Pet. App. 59a.
+Respondent, the lead plaintiff in this putative class
+action, alleges that JCG and JCM violated Section 10(b)
+and Rule 10b-5 by making false statements about the
+manner in which the Janus Funds would be operated.
+More specifically, respondent alleges that the prospectuses of several of the Janus Funds “created the misleading impression that [JCG and JCM] would imple-
+
+5
+
+ment measures to curb market timing in the Janus
+Funds,” when in fact “secret arrangements with several
+hedge funds” permitted “market timing transactions,”
+to the alleged detriment of long-term investors in the
+Funds.1 Pet. App. 60a-61a. The suit is brought on behalf of shareholders of JCG. Id. at 59a. The complaint
+alleges that class members purchased shares of JCG’s
+stock at inflated prices between 2000 and the public revelation in 2003 of the market-timing arrangements, after
+which many investors withdrew from the Janus Funds
+and the price of JCG’s stock fell dramatically. Id. at
+59a, 61a-63a.
+The operative complaint alleges that JCM, in its capacity as investment adviser to the Janus Funds, is “responsible for the day-to-day management of [the] investment portfolio and other business affairs of the funds.”2
+Pet. App. 65a. Thus, although “each mutual fund is in
+fact its own company,” the complaint alleges that “as a
+practical matter the management company runs [each
+fund].” Id. at 71a. The complaint alleges that prospectuses for several of the Janus Funds stated that the
+Funds were not intended for market timing and that
+measures had been put in place to deter such activities.
+Id. at 72a-80a. The complaint alleges that the “policy
+1
+
+The term “market timing” refers to “the practice of rapidly trading
+in and out of a mutual fund to take advantage of inefficiencies in the
+way the fund values its shares.” Pet. App. 5a-6a. “Market timing has
+the potential to harm other fund investors by diluting the value of
+shares, increasing transaction costs, reducing investment opportunities
+for the fund, and producing negative tax consequences.” Id. at 6a-7a.
+2
+Because the case comes to this Court on an appeal from the district
+court’s order granting petitioner’s motion to dismiss, the complaint’s
+factual allegations must be taken as true. See Tellabs, Inc. v. Makor
+Issues & Rights, Ltd., 551 U.S. 308, 322 (2007).
+
+6
+
+against market timers” common to all of those Funds
+was written and represented by “Janus” (referring collectively to JCG and JCM). Id. at 59a, 69a. The complaint also alleges that JCM disseminated the Funds’
+prospectuses to potential investors, and that JCG made
+prospectuses available on its website. Id. at 71a-72a.
+4. The district court granted petitioners’ motion to
+dismiss the complaint. Pet. App. 42a-53a. With respect
+to petitioner JCG, the court concluded that the complaint contained no allegations that JCG “actually made
+or prepared the prospectuses, let alone that any statements contained therein were directly attributable to
+it.” Id. at 46a. With respect to petitioner JCM, the
+court did not determine “whether JCM made the alleged
+misstatements,” id. at 50a n.5, because it held that a
+mutual fund’s investment adviser owes no duty to shareholders of its parent company when they have not purchased shares of the mutual fund, id. at 49a-53a.
+5. The court of appeals reversed. Pet. App. 1a-41a.
+As relevant here, the court held that respondent had
+adequately alleged that (a) petitioners had “made” the
+allegedly misleading statements, and (b) the statements
+at issue were properly “attributable” to petitioner JCM.
+a. Recognizing that “a plaintiff must plead with particularity” under Rule 9(b) of the Federal Rules of Civil
+Procedure, Pet. App. 17a, the court of appeals summarized respondent’s allegations as follows:
+Specifically, the complaint alleges that [petitioners]
+“wrote and represented [their] policy against market
+timers,” and “publicly issued false and misleading
+statements.” The complaint also alleges that [petitioners] “represented that [their] mutual funds were
+designed to be long-term investments for ‘buy and
+hold’ investors and were therefore favored invest-
+
+7
+
+ment vehicles for retirement plans.” According to
+the complaint, [petitioners] made these representations by “caus[ing] mutual fund prospectuses to be
+issued for Janus mutual funds and ma[king] them
+available to the investing public,” through filings
+with the SEC and dissemination on a joint Janus
+website.
+Id. at 17a-18a (some brackets in original; quoting passages now reprinted at Pet. App. 69a, 109a, 60a, and 60a,
+respectively). The court concluded that those “statements, taken together, allege that JCG and JCM, by
+participating in the writing and dissemination of the
+prospectuses, made the misleading statements contained in the documents.” Id. at 18a.
+b. The court of appeals observed that the plaintiff in
+a private Section 10(b) suit “must allege that it relied on
+the defendant’s false or misleading statement.” Pet.
+App. 15a. Recognizing that this case “arises in the limited context of fraud-on-the-market,” the court of appeals declined to “establish an attribution standard
+for all reliance inquiries.” Id. at 23a. For purposes of
+“fraud-on-the-market reliance,” however, it held that
+“the public attribution element of the reliance inquiry”
+could be established by proving “that interested investors * * * would attribute the allegedly misleading
+statement to the defendant.” Id . at 23a, 24a.
+The court of appeals concluded that respondent’s
+allegations satisfied that requirement. Pet. App. 27a31a. The court emphasized respondent’s allegations that
+JCM, as the investment adviser to the Janus Funds, is
+responsible for “day-to-day management” and, “as a
+practical matter,” runs each of the funds. Id. at 27a.
+The court noted that “JCM is listed as investment adviser to the funds in the prospectuses and the state-
+
+8
+
+ments of additional information for each of the Janus
+funds, and its duties are detailed in these documents.”
+Id. at 28a. Under these circumstances, the court
+“conclude[d], at the Rule 12(b)(6) stage, that * * * interested investors would infer that JCM played a role in
+preparing or approving the content of the Janus fund
+prospectuses, particularly the content pertaining to the
+funds’ policies affecting the purchase or sale of shares.”
+Id. at 31a.3
+SUMMARY OF ARGUMENT
+
+I. A. Rule 10b-5(b) makes it unlawful for “any person, directly or indirectly” to “make any untrue statement of a material fact * * * in connection with the
+purchase or sale of any security.” 17 C.F.R. 240.10b-5.
+The Commission has construed the term “make” as providing for primary liability when a person “creates” a
+misrepresentation either by writing or speaking it, providing false or misleading information for another to put
+into it, or allowing it to be attributed to him. Under
+Auer v. Robbins, 519 U.S. 452, 461 (1997), the Commission’s construction of its own rule is entitled to controlling weight.
+Consistent with the ordinary meaning of the term
+“make,” someone who creates or writes statements contained in a written document can be described as the
+“maker” of those statements. That description is espe3
+
+The court of appeals also held that the allegations against JCM’s
+parent company, JCG, were insufficient to state a claim of primary
+liability under Section 10(b), but that respondent had adequately pleaded a claim of control-person liability against JCG under Section 20(a) of
+the Exchange Act, 15 U.S.C. 78t(a). Pet. App. 32a-40a. Petitioners do
+not challenge that aspect of the court of appeals’ decision, except to the
+extent it assumes there is a valid Section 10(b) claim against JCM. Pet.
+Br. 7 n.2.
+
+9
+
+cially appropriate in the context of Rule 10b-5, because
+it (like Section 10(b)) applies to those who act “directly
+or indirectly.” Petitioners concede (Pet. Br. 38 n.7) that
+an issuer can speak “indirectly” by using an analyst as
+a conduit to the market. It follows that someone else
+can make a statement indirectly by creating it and having it appear in a prospectus formally issued in the name
+of another entity.
+B. Under the Commission’s reading of Rule 10b-5,
+JCM “wrote and represented,” and therefore “made,”
+misleading statements in the Funds’ prospectuses. But
+even if the word “make” is given a more limited meaning
+of “communicate,” respondent has adequately alleged a
+claim of primary liability.
+1. Petitioners contend that a mutual fund’s investment adviser should be considered a “secondary actor”
+that cannot be held liable for statements in a prospectus.
+But the allegation that JCM exercised day-to-day management over the Funds’ business activities is plausible
+because it is consistent with mutual-fund-industry practice. An investment adviser’s managerial role makes it
+essentially a corporate insider, and distinguishes it from
+a true secondary actor like an accountant, lawyer, or
+bank.
+Petitioners do not argue that individual officers and
+employees are categorically immune from Rule 10b-5
+liability for misrepresentations that they cause to be
+disseminated in their employers’ names. There is thus
+no “bright-line distinction between issuers and nonissuers” (Pet. Br. 20) for purposes of Section 10(b) liability. If an individual can be held liable for playing a sufficient practical role in the drafting and dissemination of
+statements issued in his employer’s name, the same rule
+
+10
+
+should apply to an entity (like JCM) that is allegedly
+responsible for the Funds’ day-to-day management.
+2. Section 10(b)’s private right of action “does not
+extend to aiders and abettors,” but it “continues to cover
+secondary actors who commit primary violations.”
+Stoneridge Inv. Partners, LLC v. Scientific-Atlanta,
+Inc., 552 U.S. 148, 158, 166 (2008). Even if JCM is considered a “secondary actor,” respondent’s allegations
+adequately advance a claim of primary liability, based on
+JCM’s own misrepresentations, and not a secondaryliability claim that JCM merely aided a fraud spearheaded by the Funds.
+The Court need not decide when an outside accountant or lawyer may be subject to Rule 10b-5 liability
+based on its involvement in creating or disseminating a
+statement in a client’s name. Although JCM was subject
+to oversight by the Funds’ trustees, it allegedly performed the “insider” functions that corporate officers
+and employees ordinarily would, rather than the advisory role typically associated with outside service providers. Thus, JCM can be held liable for its own statements to the market, made “directly or indirectly”
+through the prospectuses of the Funds over which it
+exercised managerial control.
+3. Petitioners suggest that a categorical limitation
+on Section 10(b) liability for secondary actors is consistent with the statute authorizing the Commission (but
+not a private party) to bring an action against someone
+who substantially assists another person’s violation of
+the Exchange Act. See 15 U.S.C. 78t(e). But such an
+action requires the Commission to prove that there was
+an underlying primary violation. Here, if the Funds’
+trustees were (as seems likely) unaware of the misleading nature of JCM’s conduct, the Funds likely lacked
+
+11
+
+scienter, which would mean that there was no underlying fraud for the investment adviser to aid and abet.
+II. A. Petitioners contend that, even if JCM “made”
+untrue statements, respondent cannot satisfy the reliance element of a Section 10(b) private action because
+those statements were not expressly attributed to JCM
+at the time. But one may rely upon a statement without
+knowing who made it (or while having a false impression
+about who made it). To establish reliance through the
+fraud-on-the-market presumption, a plaintiff must show
+that a misrepresentation was material and communicated to the public, but it need not show that the defendant was known to have made the statement at the time.
+Basic Inc. v. Levinson, 485 U.S. 224, 246-247 (1988).
+Petitioners’ attribution requirement would have the perverse effect of insulating a defendant from suit precisely
+because it was successful in concealing its identity as the
+maker of false statements.
+Stoneridge does not suggest that attribution is a prerequisite for the fraud-on-the-market presumption. In
+Stoneridge, the defendants had no role in the drafting or
+publication of allegedly misleading financial statements,
+but had simply engaged in potentially “deceptive conduct” that was unknown to the public. 552 U.S. at 159,
+161. Here, respondent alleges that JCM used its managerial control over the Funds to make false statements
+that were publicly disclosed.
+B. Even if the reliance element of a Section 10(b)
+private action required contemporaneous public identification of the person who “made” a statement, express
+attribution should not be required when the statement’s
+actual maker is so closely tied to the entity in whose
+name the statement is made that reasonable investors
+would have inferred the actual maker’s responsibility.
+
+12
+
+In light of the close relationship between investment
+advisers and their mutual funds, investors would naturally infer that statements in a fund’s prospectus bear
+the imprimatur of the fund’s adviser.
+ARGUMENT
+
+As the court of appeals correctly held, respondent’s
+complaint adequately alleges both that JCM made material, untrue statements, and that respondent and other
+members of the putative class relied to their detriment
+on those statements. Although petitioners characterize
+JCM as a mere “service provider” to the Janus Funds,
+respondent alleges that JCM was responsible for the
+Funds’ day-to-day management, and that allegation is
+consistent with standard practice in the mutual-fund
+industry. Under those circumstances, an investment
+adviser can properly be said to have “made” statements
+issued in the names of the funds it manages. And, contrary to petitioners’ contention, nothing in this Court’s
+precedents suggests that either the reliance element of
+a Section 10(b) private suit, or the presumption of reliance that applies when material misstatements are communicated to the public, depends on the express attribution of those misstatements to the defendant.
+I.	 RESPONDENT’S COMPLAINT ADEQUATELY ALLEGES
+THAT THE INVESTMENT ADVISER “MADE” STATEMENTS THAT APPEARED IN THE PROSPECTUSES OF
+THE MUTUAL FUNDS IT MANAGED
+A.	 Rule 10b-5 Encompasses Untrue Statements That Are
+Created By Someone Other Than The Nominal Speaker
+
+Rule 10b-5(b) makes it unlawful for “any person, directly or indirectly” to “make any untrue statement of a
+material fact * * * in connection with the purchase or
+
+13
+
+sale of any security.” 17 C.F.R. 240.10b-5. Since 1998,
+the SEC, which promulgated the rule, has understood it
+to impose primary liability “when a person, acting alone
+or with others, creates a misrepresentation * * *
+—assuming, of course, that he or she acts with the requisite scienter.” SEC Amicus Br. at 17, Klein v. Boyd,
+Nos. 97-1143 & 97-1261 (3d Cir. filed Apr. 1998), http://
+www.sec.gov/pdf/klein.pdf.4 In 2005, the Commission
+adopted that interpretation of Rule 10b-5(b) in the context of a formal adjudication. See In re Robert W. Armstrong, III, Rel. No. 34-51920, 2005 WL 1498425, *7
+( June 24, 2005) (“A person can be primarily liable under
+Section 10(b) and Rule 10b-5 for directly or indirectly
+making an untrue statement of fact if that person, acting
+alone or with others, creates a false statement that
+reaches investors.”). In an amicus brief filed in 2009,
+the Commission again reiterated its view that “a person
+makes a false or misleading statement and thus can be
+liable as a primary violator of Rule 10b-5 when that person creates the statement,” which occurs when “the
+statement is written or spoken by him, or if he provides
+the false or misleading information that another person
+then puts into the statement, or if he allows the statement to be attributed to him.” SEC Amicus Br. at 7,
+Pacific Inv. Mgmt. Co. LLC (PIMCO) v. Mayer Brown
+LLP, 603 F.3d 144 (2d Cir. 2010) (No. 09-1619-cv) (SEC
+PIMCO Br.).
+1. The Commission’s interpretation of the term
+“make” in Rule 10b-5—having been adopted in the
+agency’s briefs and in a formal adjudication—is “con4
+
+The Commission’s amicus brief in Klein was filed after the Third
+Circuit vacated a panel decision and granted rehearing en banc, see
+Klein v. Boyd, Nos. 97-1143 and 97-1261, 1998 WL 55245 (Mar. 9, 1998).
+The parties settled the case before the en banc court issued a decision.
+
+14
+
+trolling” as long as it is not “plainly erroneous or inconsistent with the regulation.” Auer v. Robbins, 519 U.S.
+452, 461 (1997) (citations and internal quotation marks
+omitted); accord Federal Express Corp. v. Holowecki,
+552 U.S. 389, 397 (2008) (deferring to the interpretation
+of an EEOC regulation advanced in an amicus brief); cf.
+SEC v. Zandford, 535 U.S. 813, 819-820 (2002) (according Chevron deference to an SEC interpretation of the
+“text of § 10(b)” adopted in a “formal adjudication”).
+2. For purposes of the question presented here, the
+most salient feature of the Commission’s interpretation
+is the conclusion that one can “make” a statement by
+“creat[ing]” or “writ[ing]” it, even if the statement’s creator is not expressly identified. That conclusion is fully
+consistent with the ordinary meaning of the term
+“make.” See, e.g., 1 Shorter Oxford English Dictionary
+1682 (6th ed. 2007) (def. I.1.c, transitive verb: “Compose,
+write as the author (a book, a poem, verses, etc.
+* * * ); draw up (a legal document, esp. one’s will)”;
+def. I.2, transitive verb: “Cause the material or physical
+existence of; produce by action, bring about * * * ;
+create or take part in the creation of (a sound recording,
+film, etc.)”); Webster’s New International Dictionary
+1485 (2d ed. 1958) (def. III.17: “To cause to exist, appear, or occur”); see also SEC v. Tambone, 597 F.3d 436,
+443 (1st Cir. 2010) (en banc) (referring to “several common and representative dictionary definitions of ‘make,’
+which include ‘create [or] cause’; ‘compose’; and ‘cause
+(something) to exist’ ”) (citations omitted).5
+5
+
+Petitioners cite (Br. 37) Tambone as rejecting the SEC’s construction of “make.” The court in Tambone made clear, however, that allegations like the ones here would be covered by its view of the term’s ordinary meaning. The court rejected only the proposition that “one can
+‘make’ a statement * * * created entirely by others.” 597 F.3d at 443.
+
+15
+
+Petitioners acknowledge (Br. 40) that “ ‘make’ can
+sometimes mean ‘create.’ ” They suggest, however, that
+the word will not bear that meaning in the context of the
+phrase “make any untrue statement,” because, they say
+(Br. 41), “when the President delivers a speech, we say
+that he made the speech—but it would stretch ordinary
+usage too far to say that the President’s speechwriters
+made the speech.” That analogy is doubly flawed.
+Whereas the phrase “make a speech” generally refers to
+oral delivery by a single person at a discrete point in
+time, the Funds’ prospectuses were written documents
+disseminated through a variety of methods. The prospectuses, moreover, were issued in the names of artificial persons (the Janus Funds) who by definition can act
+only through (and at the direction of ) others. In the
+context of such a written document, those who actually
+drafted the statements contained in the document can
+naturally be described as their “maker.”
+3. Reading the word “make” to apply to the acts of
+someone who “creates” an untrue statement that is then
+transmitted to the market by another person or entity is
+especially appropriate in the context of Rule 10b-5(b).
+Both the statute and the rule encompass “any person”
+who engages “directly or indirectly” in the proscribed
+conduct. 15 U.S.C. 78j(b) (emphasis added); 17 C.F.R.
+240.10b-5 (emphasis added). Petitioners’ reading—
+under which “the issuer is the only one covered by Section 10(b)” in a case involving a prospectus (Br. 37-38)—
+would deprive the word “indirectly” of practical effect,
+by preventing an issuer from serving as a conduit for
+another’s statements.6
+6
+
+Petitioners half-heartedly suggest (Br. 38 n.7) that the phrase “directly or indirectly” applies only to “the jurisdictional nexus” in the
+
+16
+
+Indeed, petitioners acknowledge that an issuer “may
+speak to the market * * * indirectly * * * by providing information to analysts ‘with the intent that the analysts communicate those statements to the market.’ ”
+Pet. Br. 38 n.7 (quoting In re Navarre Corp. Sec. Litig.,
+299 F.3d 735, 743 (8th Cir. 2002)); see also, e.g., Novak
+v. Kasaks, 216 F.3d 300, 314-315 (2d Cir. 2000); Cooper
+v. Pickett, 137 F.3d 616, 624 (9th Cir. 1997). That sensible concession, however, fatally undercuts petitioners’
+contention that Section 10(b) applies in a more limited
+fashion to “prospectus-liability case[s].” Pet. Br. 15, 37.
+If an issuer can “indirectly * * * make” an untrue
+statement by using an analyst as a conduit, other persons can likewise indirectly make an untrue statement
+through an issuer.7 The SEC’s construction of Rule
+10b-5(b) as reaching such indirect statements—even
+when they appear in a prospectus formally issued in the
+statute and rule. In both provisions, however, “directly” and “indirectly” are adverbs that modify the verbs that follow the intervening jurisdictional nexus, which is a self-contained prepositional phrase. Thus, in
+Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A.,
+511 U.S. 164 (1994), the Court read the phrase “directly or indirectly”
+to modify the substantive activities Section 10(b) proscribes, rather
+than the jurisdictional nexus. Id. at 176 (rejecting aiding-and-abetting
+liability in part because it would “extend[] beyond” the statute’s reference to those “who engage, even indirectly, in a proscribed activity”).
+7
+For the same reasons, there is no tension between the Commission’s construction of the rule and the text of Section 10(b). While petitioners claim that the issuer is “the only one” using or employing anything in a prospectus, Br. 37, the statute applies to those who use “any
+manipulative or deceptive device or contrivance” “directly or indirectly.” The phrase “directly or indirectly” also distinguishes Section
+10(b) from Section 18(a) of the Exchange Act. As petitioners note (Br.
+38-39), Section 18(a) refers to persons who “shall make or cause to be
+made” certain statements, 15 U.S.C. 78r(a), but it does not use the
+phrase “directly or indirectly.”
+
+17
+
+name of an entity other than their creator—is not
+“plainly erroneous or inconsistent with the regulation,”
+and it is therefore entitled to deference from this Court.
+Holowecki, 552 U.S. at 397 (quotation marks omitted).
+B.	 Respondent’s Allegations Adequately State A Claim Of
+Primary, Not Secondary, Liability Under Section 10(b)
+1.	 As an investment adviser exercising day-to-day management over a mutual fund, JCM should not be considered a “secondary actor”
+
+For the foregoing reasons, JCM’s alleged role in the
+drafting of the Janus Funds’ prospectuses is a sufficient
+basis for concluding that JCM “made” the alleged misstatements contained therein. But even if the word
+“make” in Rule 10b-5(b) is given the more limited meaning of “communicate,” the complaint adequately alleges
+that JCM engaged in that proscribed conduct.
+a. Respondent alleges that JCM, in its role as the
+investment adviser to the Janus Funds, “is responsible
+for the day-to-day management of * * * [the] business
+affairs of the funds.” Pet. App. 65a. Respondent further
+alleges that, “[w]hile each mutual fund is in fact its own
+company, as a practical matter the management company runs [each fund].” Id. at 71a.
+Those allegations are eminently plausible in light of
+mutual-fund-industry practice. Unlike a typical secondary actor such as “a lawyer, accountant, or bank,” Central Bank of Denver, N.A. v. First Interstate Bank of
+Denver, N.A., 511 U.S. 164, 191 (1994), an investment
+adviser’s unique and close relationship with a mutual
+fund makes it essentially a corporate insider. As the
+Commission has explained: “[T]he term ‘investment adviser’ is to some extent a misnomer” because “[t]he socalled ‘adviser’ is no mere consultant. He is the fund’s
+
+18
+
+manager. Hence the investment adviser almost always
+controls the fund.” In re Steadman Sec. Corp., 46
+S.E.C. 896, 920 n.81 (1977) (Steadman) (citations omitted), vacated and remanded on other grounds by Steadman v. SEC, 603 F.2d 1126 (5th Cir. 1979), aff ’d, 450
+U.S. 91 (1981); see Short Selling in Connection With a
+Public Offering, 72 Fed. Reg. 45,100 n.71 (2007) (quoting Steadman). See also Jones v. Harris Assocs. L.P.,
+130 S. Ct. 1418, 1422 (2010) (it is “typical” for an investment adviser to “create[] the mutual fund,” “select[] the
+fund’s directors, manage[] the fund’s investments, and
+provide[] other services”); Resp. Br. 21, 39-40.
+In disputing the insider status of advisers like JCM,
+petitioners argue (Br. 22) that “[t]his Court has heretofore emphasized the statutorily required independence
+between funds and their adviser.” But the relevant statutory provisions simply ensure that a fund’s board of
+directors can “supply an independent check on [the investment adviser’s] management.” Burks v. Lasker, 441
+U.S. 471, 484 (1979) (quoting S. Rep. No. 184, 91st
+Cong., 1st Sess. 32 (1969)). The board’s oversight role
+does not change the fact that the adviser continues to
+provide the management.8
+b. The Court has explained that, so long as “the requirements for primary liability under Rule 10b-5 are
+8
+
+Moreover, Congress specifically declared that, with exceptions inapplicable here, “the rights and remedies provided by [the Exchange
+Act]”—including Section 10(b)—“shall be in addition to any and all
+other rights and remedies that may exist at law or in equity,” 15 U.S.C.
+78bb(a), and that “nothing in [the Investment Company Act of 1940]
+shall affect” the “liabilities of any person under [the Exchange Act and
+other securities laws],” 15 U.S.C. 80a-49. Cf. Herman & MacLean v.
+Huddleston, 459 U.S. 375, 382 (1983) (noting that “§ 10(b) is a ‘catchall’
+antifraud provision” that may apply even when a more specific provision of the securities laws does not) (citation omitted).
+
+19
+
+met,” any “person or entity” who “makes a material misstatement * * * on which a purchaser or seller of securities relies may be liable as a primary violator.” Central Bank, 511 U.S. at 191. Petitioners argue at length
+(Br. 15-29) that JCM should be regarded as a run-of-themill outside service provider to the Funds. Whatever
+the merits of creating categorical restrictions on primary liability for true secondary actors—such as an accountant, lawyer, or bank (to use the list in Central
+Bank, 511 U.S. at 191)—such restrictions should not
+apply to those who are actually responsible for an issuer’s statements. Thus, they should not apply to an
+investment adviser like JCM, given respondent’s plausible allegations that JCM is “responsible for the [issuer’s] day-to-day management,” and “as a practical
+matter * * * runs [the issuer].” Pet. App. 65a, 71a.
+Petitioners contend that, in a case involving statements in a prospectus, “the universe of primary actors
+is limited to the issuer and certain of its employees.”
+Pet. Br. 15 (emphasis added); see id. at 19, 22. Petitioners never say which employees might be held liable—
+perhaps because, in light of the functions typically performed by investment advisers, a mutual fund “may
+have no employees of its own.” Jones, 130 S. Ct. at 1422.
+Nevertheless, courts of appeals have repeatedly (and
+correctly) recognized that individual employees or officers can be liable under Section 10(b) for “mak[ing]”
+statements that are issued in the name of a company
+rather than in the names of the individuals themselves.9
+9
+
+For example, the Seventh Circuit held in McConville v. SEC, 465
+F.3d 780 (2006), cert. denied, 552 U.S. 811 (2007), that a corporate official who had “substantial involvement in drafting the financial statements” in the company’s SEC filing could be primarily liable under
+Section 10(b), even though “she did not sign or physically file the [docu-
+
+20
+
+Petitioners understandably decline to argue that individual officers and employees are categorically immune from Rule 10b-5 liability for false or misleading
+statements that they cause to be disseminated in their
+employers’ names. Petitioners’ recognition that such
+individuals can be liable under Rule 10b-5, however, cannot be reconciled with a “bright-line distinction between
+issuers and non-issuers” (Br. 20), or with the contention
+(ibid.) that JCM cannot be held liable regardless of “the
+nature and extent of [its] duties.” The justification for
+imposing Rule 10b-5 liability on individual employees for
+statements released in their companies’ names is not
+that the employees are themselves “issuers” of securities. No less than JCM and the Funds it manages, an
+individual sued in his personal capacity and the company
+that employs him are distinct legal entities. Rather,
+ment].” Id. at 786-787. The court rejected the official’s argument that
+her “participation in creating the corporate misstatements cannot form
+the basis for Rule 10b-5 liability.” Id. at 786. The issue, the court concluded, was whether she “caused [the company] to make material misstatements to the investing public.” Id. at 787. The Second Circuit held
+in In re Scholastic Corp. Sec. Litig., 252 F.3d 63, cert. denied, 534 U.S.
+1071 (2001), that a corporate official could be primarily liable for the
+corporation’s false statements, over his objection that the misrepresentations were not “attributable to him,” because he “was involved in the
+drafting, producing, reviewing and/or disseminating of the false and
+misleading statements issued by” the corporation. Id. at 75-76. And
+the Tenth Circuit held in SEC v. Wolfson, 539 F.3d 1249 (2008), that a
+non-employee consultant could be primarily liable under Section 10(b)
+for misstatements in SEC filings that he prepared, even though the
+filings “were issued in [the company’s] name” and he “did not sign, certify, or physically file [them].” Id. at 1261. The court explained that
+“[t]he relevant question is only whether [the defendant] can fairly be
+said to have caused [the company] to make the relevant statements, and
+whether he knew or should have known that the statements would
+reach investors.” Ibid.
+
+21
+
+courts have recognized (see note 9, supra) that an employee who plays a sufficient practical role in the drafting and dissemination of statements issued in the company’s name can thereby “make” the statements (“directly or indirectly”) within the meaning of Rule 10b5(b). Given respondent’s allegation that JCM “is responsible for the day-to-day management of * * *
+[the] business affairs of the funds,” Pet. App. 65a, the
+same rule should apply here. A contrary approach
+would conflict with this Court’s admonition “that the
+statute should be construed not technically and restrictively, but flexibly to effectuate its remedial purposes.”
+Zandford, 535 U.S. at 819 (quotation marks omitted).10
+2.	 The nature of the claim in this case is for a primary
+violation of Section 10(b)
+
+Even if JCM is considered a “secondary actor,” it
+would not be immune from liability here, since “the implied right of action in § 10(b) continues to cover secondary actors who commit primary violations.” Stoneridge,
+552 U.S. at 166 (citing Central Bank, 511 U.S. at 191).
+Petitioners focus (Br. 34-35) on the court of appeals’
+10
+
+Petitioners further contend (Br. 20) that a “bright-line distinction
+between issuers and non-issuers also serves the critical goal of fostering
+‘certainty and predictability.’ ” As explained above, however, petitioners do not actually argue that only issuers can be held liable for statements made in prospectuses, but rather concede that at least some of
+the issuer’s employees can be liable as well. See Pet. Br. 15, 19, 22. The
+determination whether a particular employee is liable for a particular
+false statement necessarily entails an inquiry into the nature and degree of the individual’s responsibility for the drafting and issuance of
+the statement. Although such inquiries do not lend themselves to
+bright-line rules, any imprecision is an acceptable price for ensuring
+that employees are adequately deterred from perpetrating frauds in
+their companies’ names.
+
+22
+
+characterization of respondent’s complaint as alleging
+that petitioners “helped draft the misleading prospectuses.” Pet. App. 17a, 18a (emphasis added). On that
+basis, they contend (Br. 34-36) that the court of appeals
+disregarded this Court’s holding that “[t]he § 10(b) implied private right of action does not extend to aiders
+and abettors.” Stoneridge, 552 U.S. at 158; see Central
+Bank, 511 U.S. at 191. That argument is misconceived.
+Notwithstanding the court of appeals’ word choice,
+respondent’s allegations adequately state a claim of primary liability, based on JCM’s own misrepresentations,
+and not a secondary-liability claim that JCM merely
+aided a fraud spearheaded by the Funds. Thus, respondent alleges that petitioners “wrote and represented
+[their] policy against market timers,” Pet. App. 69a; that
+they “publicly issu[ed] false and misleading statements”
+regarding that policy, id. at 109a; that petitioners “represented that [their] mutual funds were designed to be
+long-term investments for ‘buy and hold’ investors,” id.
+at 60a; and that petitioners “caused mutual fund prospectuses to be issued for Janus mutual funds and made
+them available to the investing public, which created the
+misleading impression that [petitioners] would implement measures to curb market timing in the Janus
+Funds,” ibid . As the court of appeals correctly concluded, “[t]hese statements, taken together, allege that
+[petitioners], by participating in the writing and dissemination of the prospectuses, made the misleading statements contained in the documents.” Id. at 18a.
+If an outside accountant or lawyer is sufficiently involved in creating or disseminating a statement issued
+in its client’s name, that individual may be said to have
+“made” the statement (at least “indirectly”) and may be
+subject to Rule 10b-5 liability on that basis. See SEC
+
+23
+
+PIMCO Br. at 7. The Court need not address that issue,
+however, in order to rule for respondent here. According to respondent’s complaint, JCM perpetrated the
+alleged fraud by exercising its “responsib[ility] for the
+day-to-day management of * * * the [F]unds.” Pet.
+App. 65a. Although JCM (like the corporate officers
+who would more typically manage a company’s operations) was subject to oversight by the Funds’ trustees,
+JCM is alleged to have performed the “insider” functions that corporate officers and employees would ordinarily perform, not the advisory role typically associated
+with outside service providers. If JCM created statements for the Funds’ prospectuses that misled investors
+about how the Funds combated market timing, it can be
+held liable for its own “direct[] or indirect[]” statements
+to the market. As courts have recognized in the context
+of conduits and publicly unidentified corporate employees, such cases involve primary liability, not aiding-andabetting liability, because the defendant is being held
+liable for its own conduct—not for merely assisting
+someone else. See, e.g., Cooper, 137 F.3d at 624; see also
+note 9, supra (citing cases involving employees and consultants).
+3.	 Government suits for aiding-and-abetting liability
+would be an inadequate substitute for primary liability under Section 10(b)
+
+As petitioners point out (Br. 27-28), the Commission
+is authorized to bring actions against any person who
+substantially assists another person in violating the Exchange Act. Section 20(e) of the Exchange Act, 15
+U.S.C. 78t(e). That authority cannot substitute, however, for a suit that charges a primary violation against
+JCM for its own false statements.
+
+24
+
+As a general matter, “[t]his Court has long recognized that meritorious private actions to enforce federal
+antifraud securities laws are an essential supplement to
+criminal prosecutions and civil enforcement actions.”
+Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S.
+308, 313 (2007); see H.R. Rep. No. 369, 104th Cong., 1st
+Sess. 31 (1995) (“Private securities litigation is an indispensable tool with which defrauded investors can recover their losses without having to rely upon government action. Such private lawsuits promote public and
+global confidence in our capital markets.”). The Commission’s authority to bring enforcement actions does not
+(and is not intended to) obviate the need for the remedial and deterrent benefits that private suits provide.
+Moreover, if the Court were to hold that the conduct
+alleged in respondent’s complaint gives rise only to secondary liability, the government’s additional powers to
+pursue a suit for aiding-and-abetting would likely be
+inapplicable. In order to establish secondary liability
+under an aiding-and-abetting theory, the Commission
+must prove that there was an underlying primary violation by the person the defendant is alleged to have aided
+and abetted. See, e.g., SEC v. DiBella, 587 F.3d 553, 566
+(2d Cir. 2009); Graham v. SEC, 222 F.3d 994, 1000 (D.C.
+Cir. 2000). Here, respondent alleges that petitioners
+“wrote and represented [their own] policy against market timers,” that the fund prospectuses recited that policy, and that the prospectuses failed to disclose that petitioners “and [their] subsidiaries had, for years, entered
+into secret arrangements to allow several hedge funds
+to engage in market timing transactions.” Pet. App. 69a,
+72a. If those allegations are true, the Funds’ trustees
+may well have been unaware of the allegedly “secret”
+arrangements (which would have been implemented by
+
+25
+
+the Funds’ day-to-day manager, JCM, and would have
+made the prospectus statements misleading). And if the
+Funds (who are not named as defendants in this suit)
+were unaware that the prospectuses were false and misleading, they likely lacked the scienter necessary to
+make them primary violators.
+Under petitioners’ theory, investment advisers who
+cause false statements to be included in prospectuses
+without their funds’ knowledge—and, more generally,
+outside service providers who dupe their clients into
+unknowingly including false statements in company disclosures—would escape Section 10(b) liability altogether. Such wrongdoers would not be primary violators because their false statements were issued in the
+name of another, and they would not be liable as aiders
+and abettors because the Commission would be unable
+to identify any primary violation they had assisted.
+There is no reason to believe that Congress intended
+that untoward result.
+II.	 A MAKER OF MATERIAL MISREPRESENTATIONS CAN
+BE LIABLE IN A PRIVATE ACTION UNDER SECTION
+10(b) EVEN WHEN THE MISREPRESENTATIONS ARE
+NOT DIRECTLY ATTRIBUTED TO THE MAKER
+
+In the alternative, petitioners contend (Br. 44) that
+“[e]ven if * * * the operative complaint adequately
+alleges that JCM ‘made’ the challenged statements,”
+respondent has failed to plead “the reliance element” of
+a private action under Section 10(b), because the statements at issue here “were not expressly attributed to
+JCM at the time they were made in the Janus Funds’
+prospectuses.” Contrary to petitioners’ contention, a
+Section 10(b) plaintiff can establish the reliance element
+of a private cause of action—either through individual-
+
+26
+
+ized proof or through the “fraud on the market” presumption—without showing that the relevant false
+statements were attributed to the defendant at the time
+they were made.11 But even if proof of attribution were
+necessary to establish reliance, respondent’s allegations
+would be sufficient to survive a motion to dismiss, since
+the market would reasonably attribute statements about
+market timing in the Funds’ prospectuses to JCM, in
+light of its role as the Funds’ investment adviser with
+responsibilities for the Funds’ day-to-day management.
+A.	 Reliance Does Not Require Material Misrepresentations
+To Be Directly Attributed To The Defendant
+
+As petitioners observe, a private plaintiff in a Section
+10(b) action “must plead both ‘a material misrepresentation * * * by the defendant’ and ‘reliance upon the misrepresentation.’ ” Pet. Br. 44 (quoting Stoneridge, 552
+U.S. at 157). To establish reliance through the fraud-onthe-market presumption, as respondent seeks to do
+here, a private plaintiff must show that a material misrepresentation was communicated to the public. Contrary to petitioners’ contention, however, a plaintiff can
+satisfy both those requirements—i.e., can demonstrate
+that a misrepresentation was publicly disseminated and
+that the defendant was in fact its maker—without prov11
+
+Unlike petitioners’ first question—about the scope of the term
+“make” under Rule 10b-5—their second question pertains only to private actions, because it turns on reliance, which is not an element in a
+criminal prosecution or in a civil-enforcement action brought by the
+SEC. See, e.g., Geman v. SEC, 334 F.3d 1183, 1191 (10th Cir. 2003);
+United States v. Haddy, 134 F.3d 542, 549-551 (3d Cir.), cert. denied,
+525 U.S. 827 (1998); see also Musick, Peeler & Garrett v. Employers
+Ins. of Wausau, 508 U.S. 286, 295 (1993) (including “a reliance requirement” in an enumeration of the “elements or aspects of the 10b-5 apparatus unique to a private liability arrangement”).
+
+27
+
+ing that the defendant was known to have made the
+statement at the time it was issued. That is especially so
+when, as here, a statement is valued by the market because it is material and appears in a prospectus.12
+1. Nothing in this Court’s articulations of the fraudon-the-market presumption suggests that the presumption depends on contemporaneous public knowledge of
+the identity of a public statement’s author. When the
+Court recognized the fraud-on-the-market presumption
+in Basic Inc. v. Levinson, 485 U.S. 224 (1988), it explained that “the market price of shares traded on welldeveloped markets reflects all publicly available information, and, hence, any material misrepresentations.”
+Id. at 246. The Court concluded that “[b]ecause most
+publicly available information is reflected in market
+price, an investor’s reliance on any public material misrepresentations * * * may be presumed for purposes
+of a Rule 10b-5 action.” Id. at 247.
+In identifying the prerequisites to invocation of the
+fraud-on-the-market presumption, the Court in Basic
+thus stated that the information must be “material” and
+“public,” but it did not suggest that the information
+must have been known (at the time it was communicated) to come from the defendant. Nor does petitioners’ proposed additional requirement follow logically
+12
+
+Petitioners also argue briefly (Br. 45 n.10) that, because respondent
+owned shares of JCG instead of shares of the Funds, it cannot establish
+a third element of a Section 10(b) action: that there is a “connection
+between the [alleged] misrepresentation * * * and the purchase or
+sale of a security.” Stoneridge, 552 U.S. at 157. That issue, however,
+which was not decided by the court of appeals, is beyond the scope of
+the questions on which this Court granted certiorari. Cf. Wood v. Allen,
+130 S. Ct. 841, 851 (2010) (noting that a question may be “related to” or
+“complementary to” the question presented without being “fairly included in” it) (internal quotation marks omitted).
+
+28
+
+from the rationale that underlies the fraud-on-themarket presumption. At least as a general matter, the
+reasonableness of presuming that material, publicly
+available misstatements about a company are reflected
+in its share price does not depend on the perceived identity of a statement’s maker.
+2. As petitioners point out (Br. 51), “the market necessarily places a value on the source of information.”
+Cases may occasionally arise in which a defendant can
+show that, although a statement about a company was
+communicated to the public, the market disregarded the
+statement in light of the perceived identity of the speaker. The fraud-on-the-market presumption is rebuttable,
+and such a showing would be one way of severing “the
+link between the alleged misrepresentation and * * *
+the [share] price.” Basic, 485 U.S. at 248.13
+Petitioners, however, can make no such showing
+here. They contend (Br. 51) that “an issuer’s statements
+about its own operations * * * have more value to analysts than a service provider’s statements.” The alleged
+false statements at issue in this case, however, to the
+effect that the Janus Funds had policies in place to prevent market timing, were statements about the Funds’
+“own operations.” If (as petitioners suggest) the market
+would attach greater weight to such statements when
+13
+
+Contemporaneous attribution may also be relevant to proving that
+a particular entity “made” an alleged misstatement. Thus, even if an
+entity’s role in drafting misleading documents is otherwise insufficient
+to support primary liability, the entity may properly be said to “make”
+the false statements if it authorizes the documents to be circulated
+under its own name. See p. 13, supra (quoting SEC PIMCO Br.). In
+this case, however, JCM’s role in the drafting and dissemination of the
+Funds’ prospectuses was sufficient to support primary liability even
+though the prospectuses were not expressly attributed to it.
+
+29
+
+they were perceived to emanate from the Funds’ own
+employees, then the absence of express attribution to
+JCM would give the statements more credibility, not
+less. It therefore makes no sense to treat the absence of
+such attribution as a ground for declining to presume
+reliance.
+3. As explained below (pp. 31-32, infra), reasonable
+investors would have attributed to JCM the statements
+made in the Funds’ prospectuses. In other circumstances, however, wrongdoers might seek to defraud
+investors by concealing their own responsibility for the
+false statements they draft and disseminate. A particularly deleterious consequence of petitioners’ theory is
+that it would insulate from any private Section 10(b) suit
+a defendant who concealed not only the truth about a
+material fact but also its identity as the statement’s
+maker. Such frauds would normally operate, moreover,
+by creating the false impression that the relevant statements were made by persons having greater credibility
+than the actual maker. It would be especially perverse
+to treat the absence of attribution to the defendant as a
+ground for declining to presume reliance when the defendant falsely attributed the statements to another in
+order to make them more believable.
+4. Contrary to petitioners’ contention (Br. 47-49),
+this Court’s decision in Stoneridge does not suggest that
+contemporaneous attribution of a false statement to the
+defendant is a prerequisite to invocation of the fraud-onthe-market presumption. The Court stated that “reliance is presumed” when a material statement “become[s] public” because “public information is reflected
+in the market price of the security,” which makes it possible to “assume[] that an investor who buys or sells
+stock at the market price relies upon the statement.”
+
+30
+
+552 U.S. at 159. As in Basic, the Court stressed the public and material nature of the information, but it said
+nothing about the public’s knowledge of the source of a
+public statement.
+The Court in Stoneridge distinguished between the
+defendants’ “deceptive conduct” (i.e., their participation
+in transactions that facilitated a third party’s effort to
+mislead its auditor) on the one hand, and “public statements” (concerning the third party’s finances) on the
+other. 552 U.S. at 160-161; see id. at 154-155. The
+Court concluded that the defendants’ conduct was unknown to the public and therefore could not have been
+relied upon by the market. Id. at 159, 161. In further
+holding that the defendant could not be found liable
+based on the public statements at issue, the Court observed that the defendants had “no role in preparing or
+disseminating [the issuer’s false] financial statements.”
+Id. at 155; see id. at 161.
+The bases on which the Court rejected the Section
+10(b) claims in Stoneridge have no application here.
+Respondent does not claim to have relied (or contend
+that this Court should presume market reliance) on financial transactions that were not disclosed to the public. And unlike in Stoneridge, where the Court took as
+given that the defendants had no role in the drafting or
+publication of the allegedly misleading financial statements, respondent alleges that JCM controlled the creation and dissemination of the misleading prospectuses
+as one aspect of its general control over the Funds’ affairs.
+
+31
+
+B.	 Even If Attribution Were Necessary To Establish Reliance, The Statements Here Were Adequately Attributed
+To The Investment Adviser
+
+Even if the reliance element of a private Section
+10(b) action required contemporaneous public identification of the person who “made” the relevant statements,
+express attribution should not be required when a statement’s actual maker is so closely tied to the entity in
+whose name the statement is made that reasonable investors would have inferred the actual maker’s responsibility. Excepting corporate insiders and investment advisers from any direct- or express-attribution requirement would be consistent with the approach taken by
+courts that have generally required attribution in private Section 10(b) cases. See PIMCO, 603 F.3d at 148
+n.1, 158 n.6 (exempting “corporate insiders” and parties
+who are “employed by the issuing firm”)14; see also Affco
+Invs. 2001 LLC v. Proskauer Rose, L.L.P., No. 09-20734,
+2010 WL 4226685, at *6-*9 (5th Cir. Oct. 27, 2010) (following PIMCO; requiring attribution for secondary actor’s statements); Ziemba v. Cascade Int’l, Inc., 256
+F.3d 1194, 1205 (11th Cir. 2001) (stating that attribution
+requirement applies to “a secondary actor, such as a law
+firm or accounting firm”). Such an exception would also
+account for the policy concerns raised by petitioners’
+amici about the threat that private suits may pose to
+true “secondary actors,” like “lawyer[s], accountant[s],
+or bank[s].” Central Bank, 511 U.S. at 191.
+14
+
+In PIMCO, the Second Circuit did not apply its attribution requirement to “claims against corporate insiders,” and it noted that “investors
+rely on the role corporate executives play in issuing public statements.”
+603 F.3d at 158 n.6. The same is true of investors in mutual funds, who
+expect that virtually everything about a fund is determined by the identity and practices of its investment adviser.
+
+32
+
+An investment adviser typically exercises a degree of
+control over a mutual fund that is at least equivalent to
+that exercised by internal management in other corporations. When the investing public is aware of the relationship between an investment adviser and a mutual
+fund, investors would naturally infer that statements in
+the fund’s prospectus bear the imprimatur of the fund’s
+investment adviser. Requiring such statements to be
+formally attributed to the investment adviser would allow advisers to avoid Section 10(b) liability simply by
+declining to state explicitly what the investing public
+already knows. Given the complaint’s allegations that
+JCM performed the “day-to-day management” functions
+typically associated with investment advisers (Pet. App.
+59a, 65a; see also Pet. Br. App. 2a (investment advisory
+agreement authorizing JCM to perform “the management and administrative services necessary for the operation of ” one of the Funds)), the court of appeals correctly concluded that reasonable investors would have
+attributed to JCM the prospectuses’ statements about
+how the Funds dealt with market timing.
+
+33
+CONCLUSION
+
+The judgment of the court of appeals should be affirmed.
+Respectfully submitted.
+DAVID M. BECKER
+General Counsel
+MARK D. CAHN
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+JOHN W. AVERY
+Senior Litigation Counsel
+Securities and Exchange
+Commission
+
+NOVEMBER 2010
+
+NEAL KUMAR KATYAL
+Acting Solicitor General
+MALCOLM L. STEWART
+Deputy Solicitor General
+CURTIS E. GANNON
+Assistant to the Solicitor
+General
+
+

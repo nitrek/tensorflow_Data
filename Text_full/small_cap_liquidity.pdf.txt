@@ -1,0 +1,12890 @@
+A characterization of market quality for small capitalization US equities
+Charles Collver 1
+
+September 2014
+
+This paper characterizes some aspects of market quality for small and mid capitalization stocks during
+2013. First, it tabulates some widely-used summary market quality measures such as quoted and
+effective spreads and trading volume. Then it describes the aggregate displayed depth of the limit order
+book for these stocks.
+Introduction
+During 2013, US-listed, US-domiciled small cap stocks with capitalizations below $1 Billion were much
+less liquid than stocks with capitalizations between $1 Billion and $5 Billion. Small cap stocks had larger
+quoted and effective spreads and traded much lower volumes than mid cap stocks. They also showed
+lower depth at the inside quotes and beyond. Liquidity improved with market capitalization: the
+smallest stocks with capitalizations below $100 Million exhibited the least liquidity and mid cap stocks
+with capitalizations between $2 Billion and $5 Billion exhibited the greatest liquidity.
+
+The Jumpstart Our Business Startups Act (“JOBS Act”) of 2012 directed the SEC to study how
+decimalization affected the liquidity and trading of small capitalization companies. 2 Among other
+contributions, the resulting July 2012 Decimalization Report summarized academic literature on the
+impact of decimalization on small and mid cap stock liquidity. 3 The Decimalization Report suggested a
+public roundtable to collect recommendations on a pilot program to generate more data on the impact
+of decimalization on liquidity. Many participants in the Decimalization Roundtable expressed support for
+a pilot program to study the impact of wider tick sizes on small cap stock liquidity. 4 On June 24, 2014 the
+SEC issued an order (the “Tick Size Pilot Order”) directing US equity exchanges and the Financial Industry
+Regulatory Authority to act jointly to develop and file a tick size pilot plan. 5
+An increased minimum quoted price increment will have a direct mechanical impact on two aspects of
+liquidity: quoted spread and the distribution of order book depth. In 2013, more than 41% of small
+capitalization stocks (with market capitalization less than $1 Billion and price at least $2) had mean daily
+quoted spreads of 4.5 cents or less. Nearly one-third of these (or 14% of the total sample of small cap
+1
+
+This memorandum was prepared for the Division of Trading and Markets (TM). It was reviewed by Gregg Berman
+(TM), Mark Donohue (TM), Dan Gray (TM) and Amy Edwards, Austin Gerig, Hans Heidle, and Abby Kim, Division of
+Economic and Risk Analysis. The U.S. Securities and Exchange Commission, as a matter of policy, disclaims
+responsibility for any private publication or statement of any of its employees. The views expressed herein are
+those of the author and do not necessarily reflect the views of the Commission or of the author’s colleagues upon
+the staff of the Commission.
+2
+See SEC Release No. 34-42360 (January 28, 2000), File No. 4-430 for some history of the switch to decimal pricing
+in US equities.
+3
+See Report to Congress on Decimalization (July 2012).
+4
+See SEC Decimalization Roundtable, February 5, 2013.
+5
+See Order Directing the Exchanges and the Financial Industry Regulatory Authority To Submit a Tick Size Pilot
+Plan, Release No. 34-72460, (June 24, 2014).
+
+1
+
+stocks) had mean daily quoted spreads of 1.5 cents or less. On the other side of the spectrum, 25% had
+mean daily quoted spreads of 15 cents or more. Given the data reveal small capitalization stocks exhibit
+a very wide range of quoted spreads, it might be expected that changes in minimum tick sizes could
+affect one set of small capitalization stocks differently than another set.
+This study provides some empirical evidence on the state of the limit order book for small and mid
+capitalization stocks during 2013, a full year of results for the period preceding the proposed pilot
+study. 6 This paper begins by presenting quoted and effective spreads and dollar trade volume. Then it
+characterizes the aggregate depth of the limit order book on US exchanges.
+Sample
+The sample period includes every trading day in 2013. I source the list of US-listed, US-domiciled
+corporate stock tickers from the Center for Research in Security Prices (CRSP) daily stock database.
+Stocks are included in the daily sample if the closing price measured by CRSP is greater than or equal to
+$2.00 and the market capitalization is less than $5 Billion. 7 On average, there are 2814 stocks in the
+sample during a typical trading day in 2013.
+Methods
+The basic unit of analysis is the ticker-day. I compute spreads from the intra-daily MIDAS trade and
+quote (SIP) files. This data is similar to the commercially available TAQ data with one important
+difference: timestamps are in microseconds instead of milliseconds. Quoted spread is the difference
+between the best ask price and best bid price. Relative quoted spread is the quoted spread scaled by the
+bid-ask midpoint. Effective spread is twice the absolute value of the difference between the trade price
+and the prevailing bid-ask midpoint. Relative effective spread is the effective spread scaled by the quote
+midpoint. Quoted spreads are duration-weighted and effective spreads are dollar value weighted. If the
+quoted spread is less than or equal to zero (i.e., the market is crossed or locked), the data point is
+excluded from the computation. If a trade occurs while a quoted spread results in a locked or crossed
+market for that ticker, the effective spread is dropped. I also filter the first five minutes of each day to
+avoid some of the irregularities associated with the opening auctions. I compute dollar volume for each
+ticker-day from the MIDAS trade and quote files, but without filtering the first five minutes of the
+trading day.
+I compute depth from twelve of the thirteen MIDAS direct exchange feeds. 8 For each ticker and day, I
+cumulate depth at the bid price and 49 one-penny increments below the bid price at the end of each
+one-minute interval from 9:30 am to 4:00 pm (1:00 pm on shortened trading days: July 3, November 29
+and December 24). I cumulate depth at the ask price and 49 one-penny increments above the ask price
+6
+
+The purpose of this study is to characterize market quality for small capitalization stocks during 2013 and
+compare this market quality to that of mid capitalization stocks. The study does not evaluate any proposed market
+structure reforms. Nor does it advocate a position on any proposed reforms.
+7
+All of the intervals in this study are closed on (include) the left endpoint and open on (exclude) the right
+endpoint.
+8
+The CBSX feed is restricted to top-of-book data.
+
+2
+
+for the same one-minute intervals. There are a total of 390 equally spaced intra-daily depth snapshots in
+a typical trading day (210 on shortened trading days). Using the intraday snapshots, I compute the daily
+average depth in shares and dollars (price*size) at each 0.5 cent increment and each 1 basis point
+increment from the bid-ask midpoint for each ticker. The four resultant average daily limit order books –
+shares/penny, shares/basis point, dollars/penny and dollars/basis point – form the basis for all of the
+order book summary statistics. I also compute daily average shares per penny away from the best bid
+and ask in a similar manner. 9
+This paper characterizes the market quality of small capitalization stocks. It also provides empirical
+analysis on mid cap stocks as a comparison to small cap stocks. However, liquidity tends to vary by price
+as well as capitalization. To ease exposition and facilitate comparisons stocks are split into six
+capitalization groups: less than $100 Million, $100 Million to $250 Million, $250 Million to $500 Million,
+$500 Million to $1 Billion, $1 Billion to $2 Billion, and $2 Billion to $5 Billion. Each of these capitalization
+groups are then split into five price ranges: $2.00 - $5.99, $6.00 - $9.99, $10.00 - $19.99, $20.00 - $39.99
+and $40 or more. 10 Table 1 provides the daily average number of ticker symbols in each capitalizationprice bin. The Tick Size Pilot Order mandates including stocks with market capitalizations of $5 Billion or
+less and prices of $2 or more. On average, 15.2% of US-listed, US-domiciled corporate stocks had market
+capitalizations greater than $5 Billion. Another 7.9% of stocks had prices below $2. In contrast, 31.4% of
+stocks with capitalization below $100 Million were also priced below $2. The Tick Size Pilot Order also
+mandates excluding stocks with average daily volume of shares traded (ADV) in excess of one million.
+Table 1 also shows the daily average number of ticker symbols in the sample with ADV less than 1
+million shares (i.e., symbols that could potentially be included in the pilot). As expected, higher-priced
+and larger stocks tend to be more likely to trade more than one million shares per day. 11
+
+9
+
+In contrast to the SIP-based sample utilized to compute spreads, this sample excludes off-exchange activity but
+includes on-exchange odd lot orders and trades.
+10
+The choice of price and capitalization bins results from balancing multiple tradeoffs between meaningful
+comparisons, adequate sample size and sensible demarcations.
+11
+The bins with a low percentage of tickers with ADV less than one million (i.e., subsets of stocks that would not be
+included in the proposed pilot) tend to have few ticker symbols. The purpose of this study is to describe the
+liquidity and trading environment for typical small capitalization stocks and compare this liquidity to that of typical
+mid cap stocks. The relatively few ticker-days with ADV greater than one million shares are included in the current
+sample.
+
+3
+
+Table 1: Sample Description
+
+Daily Average Number of Ticker Symbols
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+284
+115
+122
+27
+2
+
+100 - 250
+145
+109
+148
+50
+14
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+61
+30
+10
+7
+79
+51
+24
+12
+175
+143
+92
+60
+99
+166
+176
+159
+28
+64
+134
+227
+
+Percentage of Daily Average Ticker Symbols with ADV < 1 Million Shares
+Cap $ Million
+<100
+100 - 250 250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+2 - 5.99
+98.9
+93.8
+74.1
+37.6
+20.9
+0.1
+6 - 9.99
+99.8
+98.8
+94.3
+74.2
+30.8
+5.3
+Price $
+10 - 19.99
+99.8
+99.4
+98.1
+90.9
+67.0
+29.0
+20 - 39.99
+100.0
+99.9
+99.5
+97.9
+90.7
+64.3
+≥ 40
+100.0
+100.0
+99.9
+99.4
+97.4
+90.3
+Results and Analysis
+The purpose of this study is to characterize market quality for small and mid cap stocks in 2013. To
+provide a thorough view of liquidity across stocks with various prices and market capitalizations this
+study includes a large number of stocks. The main body of this study highlights a few characteristics of
+the tabulated data while also providing methods for the reader to formulate additional interpretations.
+Many of the results presented in this study are subsets of larger output datasets. For the curious and the
+thorough, these datasets are provided in an Appendix and are available in electronic format at
+http://www.sec.gov/marketstructure/research/small_cap_liquidity_appendix.xlsx. The ensuing analysis
+begins with some examples of average daily limit order books followed by a presentation of quoted and
+effective spreads along with trade volume. The analysis concludes with an examination of displayed
+order book depth.
+Cumulative Order Book Depth Examples
+Figure 1 provides some anonymized examples of average cumulative depth in shares per penny away
+from the quote midpoint for four corporate stocks on August 13, 2013:
+• Stock A is a liquid large capitalization stock with a market capitalization of approximately $246
+Billion and a closing price of $24.20. It traded over 28 million shares and had an average quoted
+spread of one cent on August 13. The chart shows substantial depth available outside of the
+best bid and offer.
+• Stock B is a small capitalization stock with a market cap of $350.7 Million and a closing price of
+$3.04. It traded over 2 million shares and had an average quoted spread of one cent on August
+13. This chart, too, shows substantial depth available outside of the best bid and offer.
+
+4
+
+•
+
+•
+
+Stock C had a market cap of $115.4 Million and closed at $8.90. It traded 20,568 shares and had
+an average quoted spread of $0.042 on August 13. This stock has little incremental depth
+available on the bid side. Cumulative depth improves by about 400 shares at the average ask
+plus one cent. Average cumulative depth does not improve again until 8 cents above the
+midpoint.
+Stock D had a market capitalization of $536.2 Million and a closing price of $32.52. It traded
+15,779 shares and had an average quoted spread of $0.193. While the average depth inside the
+average quoted spread is low (as expected), cumulative depth increases somewhat at prices
+away from the best bid and offer. However, cumulative depth at increments twice the quoted
+half spread is only 2 to 3 times the depth available at the best bid and offer.
+
+Stock A is a very liquid large capitalization stock. Stock B, though a small capitalization stock, displays
+many of the features of a liquid large cap stock: substantial trading activity, a one cent spread and
+considerable depth away from the best bid and offer. It is one of the few small cap stocks that would not
+meet the 1 million share ADV requirement for potential inclusion in the pilot. Stock C is a small
+capitalization stock with an average quoted spread less than five cents. While the average quoted
+spread would necessarily widen if included in one of the pilot test groups, it is not clear if cumulative
+depth on the coarser grid would change. Occasionally, quoted spreads in Stock D are smaller than
+average. But Stock D tends to have 200 or fewer shares available at spreads less than 15 cents.
+
+5
+
+Figure 1: Examples of Mean Cumulative Depth of the Order Book on August 13, 2013
+
+Spreads and Volume
+Standard measures of liquidity include quoted and effective spreads and dollar trading volume. During
+2013, the sample of stocks with market capitalizations less than $1 Billion had much larger spreads than
+mid cap stocks with market capitalizations ranging from $1 to $5 Billion, and, the smallest stocks have
+exceptionally large spreads. Table 2 provides mean and median quoted spread in cents and relative
+quoted spread in percent for the thirty capitalization-price bins. Average and median quoted spreads
+decline monotonically with capitalization for each price range and rise monotonically with price within
+each capitalization bin. Relative spreads exhibit a similar pattern. Exceptions occur when the spreads
+appear to be constrained by the minimum price increment. Capitalization-price bins where the median
+duration-weighted quoted spread is close to the minimum price increment are marked with a bold
+outline. 12 Median quoted spreads range from 6.22 to 113.52 cents for the smallest stocks and from 1.00
+to 5.77 cents for stocks with capitalizations between $2 Billion and $5 Billion. Median relative quoted
+
+12
+
+These are also the bins of stocks most likely to have traded more than 1 million shares per day. See Table 1.
+
+6
+
+spreads range from 1.749% to 2.641% for the smallest stocks and from 0.066% to 0.237% for stocks with
+capitalizations between $2 Billion and $5 Billion.
+Table 2: Quoted Spread
+
+Mean Quoted Spread (cents)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+9.81
+21.26
+40.54
+85.22
+134.63
+
+100 - 250
+2.43
+6.31
+15.15
+36.34
+113.23
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+1.50
+1.10
+1.04
+1.00
+2.89
+1.47
+1.10
+1.02
+6.60
+3.40
+1.79
+1.25
+16.14
+8.50
+4.61
+2.38
+72.87
+32.19
+17.49
+17.40
+
+100 - 250
+1.56
+4.33
+10.51
+24.85
+66.72
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+1.10
+1.00
+1.00
+1.00
+2.02
+1.19
+1.01
+1.00
+4.78
+2.49
+1.40
+1.03
+12.72
+6.45
+3.84
+1.99
+37.61
+20.50
+9.65
+5.77
+
+100 - 250
+0.616
+0.798
+1.033
+1.353
+1.704
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+0.361
+0.271
+0.258
+0.247
+0.359
+0.181
+0.141
+0.130
+0.441
+0.221
+0.117
+0.081
+0.591
+0.303
+0.154
+0.079
+0.966
+0.440
+0.232
+0.124
+
+Median Quoted Spread (cents)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+6.22
+14.36
+28.61
+64.26
+113.52
+
+Mean Relative Quoted Spread (%)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+2.593
+2.718
+2.828
+3.435
+2.099
+
+Median Relative Quoted Spread (%)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+1.749
+1.867
+2.079
+2.641
+1.823
+
+100 - 250
+0.460
+0.558
+0.727
+0.984
+1.226
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+0.292
+0.234
+0.208
+0.237
+0.254
+0.155
+0.135
+0.128
+0.332
+0.166
+0.099
+0.070
+0.492
+0.231
+0.132
+0.066
+0.706
+0.374
+0.178
+0.097
+
+7
+
+Figure 2 provides some insight into the distribution of quoted spread for stocks within a capitalizationprice bin by showing the percentage of ticker-days with mean quoted spreads less than or equal to some
+particular prices. 13 As expected, high-priced stocks tend to show the least liquidity by this measure:
+within a particular capitalization bin and fixed quoted spread, the percentage of ticker-days increases as
+price declines. 14 Smallest stocks show the least liquidity. For example, 94.2% of all ticker-days in the $2
+Billion to $5 Billion capitalization - $10 to $19.99 price bin have quoted spreads less than or equal to 2
+cents. This percentage is only 72.9% for the same price levels in the $1 Billion to $2 Billion bin, 34.9% in
+the $500 Million to $1 Billion bin, 7.2% in the $250 Million to $500 Million bin, 1.9% in the $100 Million
+to $250 Million bin, and 0.3% in the < $100 Million bin. A similar pattern is apparent for other price
+range bins and quoted spread levels: the percentage of ticker-days with quoted spreads less than some
+fixed amount declines as capitalization declines while holding stock price range constant. This pattern
+breaks down somewhat as the percentage of ticker-days reaches the maximum of 100%.
+Figure 2: Percentage of Ticker-Days with Mean Quoted Spread less than or equal to ‘x’ cents
+
+Additional supporting tables, including tables of quoted spread, relative quoted spread, effective spread, and
+relative effective spread are included in Appendix Table 1. This table contains results for several more spreads in
+addition to those displayed in Figure 2.
+14
+Appendix Table 1 Panel C shows this monotonic relation between percentage of ticker days and price does not
+hold for relative quoted spreads.
+13
+
+8
+
+Figure 2 and the accompanying Appendix Table 1 also provide more direct evidence on current
+minimum tick size constraints. On average, 52 ticker-days (1.9% of the sample) have a mean quoted
+spread less than or equal to 1 cent. These stocks are constrained the full day. Another 478 ticker-days
+(15.1% of the sample) have mean quoted spreads less than or equal to 1.5 cents. These stocks are
+constrained at least part of the day. However, these results reflect the activity of a variety of stocks over
+a full year. Table 3 shows the number of tickers that were fully and partially constrained for at least one
+day and the number of tickers that were constrained for more than half of the days in 2013. Twenty-five
+tickers were fully constrained by the 1 penny minimum price increment for at least half of the days in
+2013. A total of 361 unique tickers were fully constrained for at least one day. Exactly 327 tickers were
+either fully or partially (more than half of a day) constrained for at least half of the days in 2013. A total
+of 1,534 unique tickers were either fully or partially constrained for at least one day. 15
+
+15
+
+Stocks can migrate from one capitalization-price bin to another over the course of a full year. The count of
+unique tickers is less than the count of ticker-days that were constrained for at least one day.
+
+9
+
+Table 3: Summary of Constrained Ticker-Days
+
+Fully Constrained For At Least 1 (127) Days
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+42
+8
+6
+0
+0
+
+100 - 250
+67
+8
+7
+1
+0
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+67 (1)
+55 (5)
+35 (3)
+13 (7)
+9
+22 (1)
+39 (1)
+27 (6)
+7
+11
+21
+42 (1)
+3
+9
+10
+8
+1
+0
+1
+8
+
+Fully or Partially Constrained For At least 1 (127) Days
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+299 (2)
+27
+16
+1
+0
+
+100 - 250
+321 (48)
+116
+33
+2
+0
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+185 (36)
+91 (24)
+40 (5)
+13 (7)
+193 (8)
+160 (26)
+78 (24)
+34 (10)
+121
+225 (9)
+191 (41)
+129 (51)
+10
+35
+103 (1)
+225 (34)
+2
+4
+2 (1)
+47
+
+Figure 3 shows the behavior of mean quoted spreads for stocks priced from $10.00 to $19.99 over the
+entire year. While quoted spreads exhibit some variability over time, the averages in Table 2 are a good
+representation of their overall time series behavior. The chart portrays vast differences in average
+quoted spread across size ranges with the smallest stocks in the sample exhibiting the least liquidity and
+the largest stocks exhibiting the most liquidity. The chart also shows that the monotonic relation
+between average size and average spreads for 2013 is not violated on any day of the sample – the time
+series plots of daily averages for each size bin never cross.
+
+10
+
+Figure 3: Quoted Spread for Stocks Priced $10.00 to $19.99
+
+Table 4 provides mean and median effective spread in cents and relative effective spread in percent.
+Average and median effective spreads also tend to decline monotonically with capitalization for each
+price range and rise monotonically with price within each capitalization bin. A similar pattern occurs
+with relative effective spreads with the same exceptions apparent in relative quoted spreads. Median
+effective spreads range from 3.99 to 56.00 cents for the smallest stocks and from 0.88 to 3.15 cents for
+stocks in the $2 to $5 Billion capitalization range. Median relative effective spreads range from 0.922%
+to 1.235% for the smallest stocks and from 0.045% to 0.210% for stocks in the $2 to $5 Billion
+capitalization range. The last two panels of Table 4 show the ratio of effective to quoted spread in
+percent. In general, the effective spread is closer to the quoted spread in lower priced stocks.
+
+11
+
+Table 4: Effective Spread
+
+Mean Effective Spread (cents)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+6.32
+12.03
+21.07
+43.28
+76.83
+
+100 - 250
+1.84
+4.09
+9.15
+22.85
+57.63
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+1.23
+0.99
+0.95
+0.90
+1.91
+1.16
+1.00
+0.95
+3.98
+2.12
+1.32
+1.13
+9.39
+4.78
+2.65
+1.69
+38.30
+18.61
+9.93
+10.78
+
+100 - 250
+1.20
+2.74
+6.41
+14.37
+33.50
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+0.97
+0.91
+0.91
+0.88
+1.30
+0.98
+0.92
+0.91
+2.69
+1.46
+1.08
+0.96
+7.29
+3.47
+2.08
+1.29
+19.89
+10.84
+5.12
+3.15
+
+100 - 250
+0.477
+0.521
+0.625
+0.800
+0.910
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+0.301
+0.244
+0.235
+0.221
+0.237
+0.144
+0.127
+0.121
+0.267
+0.139
+0.088
+0.074
+0.344
+0.170
+0.089
+0.056
+0.514
+0.251
+0.129
+0.072
+
+100 - 250
+0.370
+0.359
+0.448
+0.566
+0.640
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+0.247
+0.210
+0.192
+0.210
+0.167
+0.125
+0.120
+0.116
+0.187
+0.099
+0.076
+0.064
+0.278
+0.125
+0.072
+0.045
+0.370
+0.202
+0.095
+0.054
+
+Median Effective Spread (cents)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+3.99
+7.91
+13.29
+29.76
+56.00
+
+Mean Relative Effective Spread (%)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+1.708
+1.553
+1.499
+1.762
+1.238
+
+Median Relative Effective Spread (%)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+1.135
+1.024
+0.992
+1.235
+1.033
+
+12
+
+Table 4: Effective Spread (continued)
+
+Mean ES/QS Cents (%)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+76.1
+67.6
+62.7
+59.2
+63.9
+
+100 - 250
+81.4
+69.7
+65.4
+65.4
+54.9
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+86.6
+91.2
+92.1
+89.8
+71.5
+83.4
+91.9
+93.8
+62.3
+67.2
+80.6
+95.1
+59.5
+57.9
+60.7
+75.1
+56.8
+58.1
+56.7
+59.9
+
+<100
+76.8
+70.3
+66.9
+64.5
+64.2
+
+100 - 250
+80.7
+66.8
+63.3
+61.7
+54.7
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+86.7
+89.4
+90.3
+88.0
+68.2
+82.1
+89.0
+89.8
+58.9
+61.8
+77.1
+89.7
+57.4
+54.7
+55.5
+66.4
+57.0
+56.0
+53.7
+54.5
+
+Median ES/QS Cents (%)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+Figure 4 shows the distribution of effective spreads for each capitalization-price bin. The percentage of
+ticker-days with mean effective spreads less than or equal to some fixed amount tends to decline with
+price and increase with capitalization. General exceptions include stocks with market capitalizations
+below $500 Million and prices above $40, and the 1 - 3 cent columns for stocks with capitalizations
+below $100 Million.
+Figure 4: Percentage of Ticker-Days with Mean Effective Spread less than or equal to ‘x’ cents
+
+13
+
+Smaller capitalization stocks tend to trade lower dollar volumes than larger capitalization stocks. Table 5
+shows the average and median daily trading volume for each capitalization-price bin. Most stocks in the
+< $100 Million capitalization bin trade less than $25,000 during a typical trading day in 2013. Median
+daily dollar volume traded ranges from $9,000 to $25,000 for the smallest stocks and from $13,599,000
+to $20,577,000 for stocks in the $2 to $5 Billion capitalization range. 16 Median dollar volume traded
+increases when moving from the smallest to largest stocks in the sample. The increase is most
+substantial when moving from stocks with market capitalizations below $100 Million to stocks with
+market capitalizations ranging from $100 Million to $250 Million.
+
+16
+
+On average, approximately 30% of the stocks in the $2 Billion to $5 Billion capitalization range trade more than 1
+million shares on a typical day.
+
+14
+
+Table 5: Dollar Volume
+
+Mean Dollar Volume ('000)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+128
+123
+98
+44
+64
+
+100 - 250
+593
+487
+454
+345
+339
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+1946
+5494
+14714
+28496
+1503
+4233
+12896
+26004
+1435
+3932
+9659
+24206
+1283
+3392
+8217
+20708
+1003
+3050
+8226
+19242
+
+100 - 250
+307
+209
+185
+178
+183
+
+Cap $ Million
+250 - 500 500 - 1000 1000 - 2000 2000 - 5000
+1126
+2955
+10344
+19872
+863
+2555
+7757
+20577
+761
+2413
+5828
+16754
+650
+2166
+5258
+14201
+573
+1696
+5353
+13559
+
+Median Dollar Volume ('000)
+
+Price $
+
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+<100
+25
+20
+11
+8
+25
+
+Aggregate Order Book Depth Characterization
+On average, the smallest capitalization stocks have much less displayed size at all levels of the order
+book when compared to larger capitalization stocks. Figure 5 depicts average cumulative order book
+depth for each of the six capitalization ranges. While the overall shapes of the graphs are similar, the
+change in scale clearly shows the increase in depth with increasing market capitalization. An analogous
+set of charts for price ranges shows much less variation in average depth across the five price bins.
+While depth does vary with price, the relationship between depth and price is most evident when
+conditioned on capitalization.
+
+15
+
+Figure 5: Cumulative Average Order Book Depth by Market Capitalization and Price
+
+Table 6 provides average cumulative order book depth in thousands of dollars. Small capitalization
+stocks exhibit much less depth than stocks in the $2 to $5 Billion capitalization range. The smallest
+stocks (< $100 Million capitalization) exhibit displayed depth on the order of 0.2 to 1.1 per cent of the
+depth for similarly priced stocks in the $2 to $5 Billion capitalization range. 17 Depth relative to stocks in
+the $2 to $5 Billion capitalization bin ranges from 0.4% to 4.1% for stocks in the $100 to $250 Million
+capitalization bin, from 4.7% to 11.1% for stocks in the $250 Million to $500 Million capitalization bin,
+from 13.1% to 20.1% for stocks in the $500 Million to $1 Billion capitalization bin, and from 20.6% to
+
+17
+
+Additional supporting data, including results for combinations of shares/penny, shares/basis point, dollar
+volume/penny and dollar volume/basis point are included in Appendix Tables 2 and 3. These tables contain several
+price points in addition to those displayed in Table 6.
+
+16
+
+44.1% for stocks in the $1 Billion to $2 Billion capitalization bin. High-priced stocks (stocks with prices
+$40 and above) exhibit especially low relative depth.
+Table 6: Cumulative Order Book Depth by Market Capitalization and Price
+Cumulative Depth in $ ('000)
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Pennies Away from the Midpoint
+2.5
+5
+10
+Price $ Ticker/Day -10
+-5
+-2.5
+-2
+-1
+1
+2
+21.6
+2 - 5.99
+282.0
+25.8
+14.3
+8.2
+6.3
+3.0
+2.0
+4.1
+5.6
+10.9
+3.0
+6.4
+13.6
+6 - 9.99
+113.9
+14.5
+6.9
+3.2
+2.3
+1.0
+1.0
+2.2
+10 - 19.99
+117.0
+9.2
+4.5
+1.9
+1.4
+0.6
+0.5
+1.4
+2.2
+4.7
+10.1
+1.2
+3.1
+20 - 39.99
+24.7
+2.1
+0.6
+0.2
+0.1
+0.1
+0.1
+0.3
+0.5
+0.1
+0.1
+0.1
+0.1
+0.1
+0.3
+0.7
+≥ 40
+1.5
+0.7
+0.3
+0.1
+56.7
+36.9
+27.0
+13.5
+10.1
+20.0
+27.9
+46.1
+79.5
+2 - 5.99
+144.6
+88.9
+6 - 9.99
+108.7
+33.9
+19.4
+10.8
+8.0
+3.3
+2.8
+6.3
+8.6
+18.0
+33.6
+2.2
+27.0
+9.3
+6.9
+3.6
+4.8
+6.7
+13.6
+10 - 19.99
+147.4
+27.9
+16.1
+4.4
+0.4
+1.1
+1.5
+4.0
+10.7
+20 - 39.99
+49.8
+10.1
+1.7
+1.2
+0.4
+0.1
+0.1
+0.1
+0.2
+0.2
+0.8
+2.7
+≥ 40
+13.6
+2.1
+0.6
+0.2
+115.5 196.4
+24.1
+46.8
+68.3
+206.9 127.9
+79.4
+55.5
+30.1
+2 - 5.99
+60.8
+11.5
+10.2
+20.2
+27.9
+49.7
+87.5
+6 - 9.99
+79.4
+86.9
+51.9
+30.3
+22.5
+26.9
+50.4
+29.4
+17.1
+13.0
+6.6
+5.4
+10.9
+14.4
+10 - 19.99
+175.1
+51.4
+98.8
+5.8
+2.5
+1.5
+3.4
+5.0
+11.5
+25.9
+20 - 39.99
+29.9
+15.2
+7.9
+4.5
+3.9
+3.0
+1.1
+0.5
+1.3
+1.9
+11.5
+≥ 40
+27.6
+16.3
+7.7
+138.6 207.2 344.6 548.7
+2 - 5.99
+29.5
+561.5 363.6 226.5 155.1
+78.5
+68.8
+59.3
+87.5
+154.9 259.2
+274.9 172.0 103.1
+70.6
+34.5
+28.6
+6 - 9.99
+51.0
+13.8
+29.4
+41.7
+79.3
+144.9
+143.5
+146.1
+84.9
+48.1
+35.3
+17.4
+10 - 19.99
+22.4
+15.5
+31.1
+65.6
+20 - 39.99
+166.1
+74.2
+39.7
+16.0
+7.2
+5.0
+11.2
+3.1
+1.6
+1.3
+4.5
+11.5
+30.2
+≥ 40
+63.2
+31.1
+12.7
+5.1
+3.6
+2 - 5.99
+9.9
+1212.9 770.4 473.1 313.0 151.8 154.1 310.4 465.5 756.4 1220.1
+65.2
+142.8 222.7 403.7 683.6
+6 - 9.99
+24.2
+680.4 400.7 221.3 141.3
+64.5
+10 - 19.99
+91.7
+361.1 208.9 112.8
+76.0
+35.7
+31.1
+68.4
+103.8 200.7 349.0
+172.8
+12.6
+28.1
+39.6
+78.4
+160.9
+20 - 39.99
+175.5
+88.6
+48.1
+35.0
+15.9
+≥ 40
+134.1
+65.0
+26.0
+10.9
+7.2
+2.5
+2.4
+6.4
+9.3
+24.0
+64.5
+2 - 5.99
+6.5
+3187.2 2149.9 1423.4 1011.7 550.8 481.2 931.2 1350.7 2119.8 3329.5
+6 - 9.99
+11.7
+1567.9 979.4 582.4 381.2 180.2 180.1 383.6 585.2 986.0 1589.4
+898.4 537.5 292.7 190.2
+87.9
+81.8
+180.0 282.1 568.2 954.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+438.8 223.7 113.8
+79.5
+37.5
+30.1
+65.0
+96.4
+206.2 417.3
+10.3
+23.5
+32.7
+71.3
+179.6
+≥ 40
+226.9
+187.2
+78.8
+38.4
+27.2
+11.9
+
+Another feature of Table 6 is the substantial depth available at prices away from the midpoint. For
+example, there is $66,700 available within 1 cent of the midpoint for stocks priced between $10 and
+$19.99 in the $1 Billion to $2 Billion capitalization bin. Within 2.5 cents, there is $216,700 available –
+more than three times the depth available at 1 cent. These averages represent the impact of both the
+increase in depth at prices away from the midpoint for stocks with low average spreads and the
+inclusion of additional stocks with wider bid-ask spreads in the averaging process.
+
+17
+
+Table 7 provides a view of limit order book depth in terms of multiples of the depth available at the best
+bid and ask prices. 18 The results portrayed in Table 7 further highlight the cumulative depth available at
+one or two cents away from the best bid and ask irrespective of the spread. For example, it answers the
+question: How far into the order book would a trader have to go to obtain twice the depth available at
+the best price? The average depth available at the best ask price in the smallest stocks with prices
+between $10 and $19.99 is 664 shares. On average, 1.8 times more shares are available at the ask and
+the ask plus one cent and more than twice as many shares are available at the three best (lowest) ask
+prices than at the best ask alone. Cells outlined in bold represent the fewest cents away from the best
+(inside) prices at which at least twice the amount of inside shares are available. 19 In most cases, the
+three best prices are required to double the depth at the best price. The smallest stocks show the least
+increase in cumulative depth away from the best prices. The cumulative depth available within 2 cents
+of the best prices ranges from 1.2 to 3.0 times the depth available at the best bid and offer for the
+smallest stocks, and, from 2.1 to 3.8 times the inside depth for stocks in the $2 Billion to $5 Billion
+capitalization bin.
+
+18
+
+Appendix Table 4 provides results for several more price points and for median depth in addition to mean depth.
+There are five cases in Table 7 where a doubling of the inside depth occurs at the bid minus 9 cents or the ask
+plus 9 cents and another two cases where a doubling does not occur within 9 cents of the best prices. In these
+cases, Appendix Table 4A provides a more precise estimate of the average minimum number of cents away from
+the best prices required to double the inside depth.
+19
+
+18
+
+Table 7: Cumulative Order Book Depth by Multiple of BBO Depth
+
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+Shares
+Multiple of Best Ask Size at Ask + 'x'
+Multiple of Best Bid Size at Bid - 'x'
+9
+4
+3
+2
+1
+Bid
+Ask
+1
+2
+3
+4
+9
+8.6
+4.4
+3.6
+2.8
+2.0
+1792
+1499
+2.2
+3.0
+3.7
+4.4
+8.2
+5.5
+3.2
+2.8
+2.3
+1.7
+911
+929
+2.2
+2.6
+3.1
+3.5
+5.8
+3.9
+2.3
+2.1
+1.9
+1.6
+592
+664
+1.8
+2.2
+2.5
+2.7
+4.3
+2.7
+1.9
+1.8
+1.6
+1.4
+301
+410
+1.5
+1.7
+1.8
+2.0
+2.8
+1.5
+1.3
+1.3
+1.2
+1.2
+217
+248
+1.2
+1.3
+1.4
+1.5
+1.7
+9.7
+5.1
+4.1
+3.0
+2.0
+5511
+3849
+1.9
+2.9
+3.9
+4.9
+9.5
+6.5
+3.6
+2.9
+2.3
+1.7
+889
+1005
+1.7
+2.3
+2.9
+3.5
+6.6
+4.5
+2.6
+2.3
+1.9
+1.5
+704
+688
+1.6
+2.0
+2.3
+2.7
+4.6
+3.1
+2.1
+1.9
+1.7
+1.4
+283
+327
+1.5
+1.8
+2.0
+2.2
+3.3
+2.3
+1.7
+1.6
+1.5
+1.3
+176
+200
+1.3
+1.4
+1.6
+1.6
+2.1
+10.2
+5.7
+4.5
+3.2
+2.1
+8197
+6725
+2.0
+3.2
+4.4
+5.6
+10.4
+8.4
+4.6
+3.6
+2.7
+1.8
+1850
+1648
+1.8
+2.7
+3.6
+4.6
+8.5
+6.1
+3.3
+2.7
+2.1
+1.6
+855
+767
+1.6
+2.1
+2.7
+3.3
+6.2
+4.1
+2.4
+2.1
+1.8
+1.5
+371
+361
+1.5
+1.8
+2.1
+2.4
+4.0
+2.7
+1.9
+1.7
+1.6
+1.3
+227
+213
+1.3
+1.5
+1.7
+1.8
+2.6
+9.8
+5.8
+4.6
+3.3
+2.1
+18271 18576 2.1
+3.3
+4.6
+5.8
+9.8
+10.9
+6.1
+4.8
+3.3
+2.1
+5395
+4302
+2.1
+3.4
+4.8
+6.2
+11.0
+9.2
+4.8
+3.7
+2.7
+1.8
+1482
+1227
+1.8
+2.7
+3.8
+5.0
+9.6
+6.2
+3.0
+2.5
+2.0
+1.5
+588
+507
+1.5
+2.0
+2.5
+3.0
+6.2
+3.6
+2.2
+1.9
+1.7
+1.4
+250
+259
+1.4
+1.7
+1.9
+2.1
+3.5
+9.6
+5.7
+4.6
+3.3
+2.1
+40151 40769 2.1
+3.3
+4.5
+5.6
+9.5
+11.8
+6.8
+5.2
+3.6
+2.3
+8433
+8523
+2.3
+3.6
+5.2
+6.8
+11.8
+12.3
+6.6
+4.9
+3.4
+2.1
+2672
+2376
+2.1
+3.4
+5.1
+6.8
+12.5
+9.6
+4.3
+3.3
+2.4
+1.7
+849
+730
+1.7
+2.4
+3.3
+4.4
+9.7
+5.5
+2.6
+2.2
+1.8
+1.4
+307
+316
+1.4
+1.8
+2.2
+2.6
+5.5
+7.5
+4.8
+3.9
+3.0
+2.0 117703 120836 2.0
+2.9
+3.9
+4.7
+7.6
+9.6
+5.8
+4.7
+3.4
+2.2
+22738 22702 2.2
+3.4
+4.7
+5.9
+9.8
+12.9
+7.3
+5.5
+3.7
+2.3
+5689
+5555
+2.3
+3.8
+5.6
+8.2
+14.0
+14.4
+6.4
+4.6
+3.1
+2.0
+1491
+1225
+2.0
+3.2
+4.8
+6.7
+14.6
+8.6
+3.5
+2.7
+2.1
+1.6
+460
+444
+1.6
+2.1
+2.7
+3.5
+8.7
+
+Distribution of Depth
+Many small capitalization stocks exhibit very little depth at 1, 2 and 5 cents away from the midpoint.
+While Table 6 provides average dollar depth for particular combinations of capitalization and price,
+Figure 6 provides some insight into the distribution of depth for stocks within a capitalization-price bin.
+Figure 6 shows the percentage of ticker-days in a capitalization-price bin with less than $5,000 displayed
+liquidity within various increments away from the midpoint. 20,21
+20
+
+The median price for stocks in the CRSP database with SHRCD equal to 10 or 11 is between $16 and $17. Five
+thousand dollars is approximately 300 shares at the median stock price.
+21
+Appendix Tables 5 and 6 contain several more price points for both dollar volume/penny and dollar
+volume/basis point and four distinct dollar volumes: $5,000, $10,000, $20,000, and $50,000.
+
+19
+
+The current minimum price quote increment (MPI) in US stocks priced above $1 is one cent. 22 On the
+bottom axis, x=0.5 cents from the midpoint is consistent with the smallest spread possible with a 1
+penny MPI. Similarly, x=1.0 cent from the midpoint is consistent with the smallest quoted spread for a 2
+penny MPI, and x=2.5 cents from the midpoint maps to the smallest spread for a 5 penny MPI. For the
+smallest stocks priced from $10 to $19.99, 99.0% of the ticker-days had less than $5,000 displayed
+within 0.5 cents of the midpoint. On the < $100 Million panel of Figure 6, this is represented by the leftmost middle (purple) bar. 23 Liquidity improves dramatically with capitalization. Nearly 95.0% of tickerdays for $100 Million to $250 Million capitalization stocks within the same price range ($10 - $19.99)
+have displayed liquidity of less than $5,000. The percentages are 82.0% for $250 Million to $500 Million
+capitalization stocks, 43.6% for $500 Million to $1 Billion capitalization stocks, 10.8% for $1 Billion to $2
+Billion capitalization stocks, and 2.2% for $2 Billion to $5 Billion capitalization stocks. Similar patterns of
+increasing liquidity with capitalization are apparent in other price ranges and for other price increments.
+Figure 6: Percentage of Ticker-Days with less than $5,000 within ‘x’ cents of the Midpoint
+
+22
+
+Currently, orders priced at $1.00 or above must be priced in penny increments and orders for prices below $1.00
+can be priced in $0.0001 increments.
+23
+See Panel A of Appendix Table 5.
+
+20
+
+Another feature of Figure 6 is the relationship between the percentage of ticker-days with less than
+$5,000 displayed liquidity and the distance away from the spread midpoint when compared across
+capitalization bins. The average improvement in displayed liquidity at prices further away from the
+midpoint increases with market capitalization. Larger stocks experience proportionately fewer days with
+less than $5,000 displayed liquidity at prices away from the midpoint than do smaller stocks. Again, for
+the smallest stocks priced between $10 and $19.99, the percentage of ticker-days with less than $5,000
+displayed liquidity declines from 99.0% to 97.9% (a 1.1% decline) when the increment is doubled from
+0.5 to 1 cent, and to 94.4% (a 4.6% decline) when the increment is 2 cents. Moving up in capitalization
+for the same price range shows the decline is from 82.0% to 65.2% (a 20.5% decline) and then 36.1%
+(56% decline) for ticker-days in the $250 Million to $500 Million capitalization bin. The pattern is from
+10.8% to 3.7% (65%) and then 0.9% (over 91%) when moving from 0.5 to 1 and 2 cent increments for
+ticker-days in the $1 Billion to $2 Billion capitalization bin. This pattern of increasingly improving average
+liquidity away from the midpoint for relatively larger stocks is apparent throughout Figure 6 (and
+Appendix Tables 5 and 6).
+Conclusion
+This study characterizes the extent of displayed liquidity for small capitalization stocks during 2013. The
+smallest stocks with market capitalization less than $100 Million are exceptionally illiquid relative to
+larger stocks with capitalizations between $1 Billion and $5 Billion. They have wider quoted and
+effective spreads and trade lower dollar volumes. These measures tend to improve monotonically with
+market cap. The smallest stocks exhibit much less depth on average than stocks in larger capitalization
+ranges. Depth increases at prices just a few cents away from the midpoint, suggesting that there is more
+to liquidity than the size posted at the inside spread. But this increase in depth is more apparent in
+larger stocks. The distributions of many of these market quality measures confirm the anecdotal
+evidence portrayed in the example order books shown in Figure 1: there is substantial variation in
+liquidity measures among individual stocks within a specific capitalization-price category. These
+measures can be monitored for changes in the levels of the metrics or for differential impacts on various
+capitalization and price categories.
+21
+
+Appendix
+List of Tables
+Appendix Table 1: Spread Distributions
+Panel A: Mean quoted spread
+Panel B: Mean effective spread
+Panel C: Mean relative quoted spread
+Panel D: Mean relative effective spread
+Appendix Table 2: Aggregate Limit Order Book Depth by Pennies
+Panel A: Cumulative bid depth in shares by cents away from the midpoint
+Panel B: Cumulative ask depth in shares by cents away from the midpoint
+Panel C: Cumulative bid depth in $ (‘000) by cents away from the midpoint
+Panel D: Cumulative ask depth in $ (‘000) by cents away from the midpoint
+Appendix Table 3: Aggregate Limit Order Book Depth by Percent
+Panel A: Cumulative bid depth in shares by basis points away from the midpoint
+Panel B: Cumulative ask depth in shares by basis points away from the midpoint
+Panel C: Cumulative bid depth in $ (‘000) by basis points away from the midpoint
+Panel D: Cumulative ask depth in $ (‘000) by basis points away from the midpoint
+Appendix Table 4: Aggregate Limit Order Book Depth by Pennies from the BBO
+Panel A: Mean
+Panel B: Median
+Appendix Table 5: Distribution of Cumulative Depth by Pennies
+Panel A: Less than $5,000
+Panel B: Less than $10,000
+Panel C: Less than $20,000
+Panel D: Less than $50,000
+Appendix Table 6: Distribution of Cumulative Depth by Percent
+Panel A: Less than $5,000
+Panel B: Less than $10,000
+Panel C: Less than $20,000
+Panel D: Less than $50,000
+Note: Tables available in Excel format at
+http://www.sec.gov/marketstructure/research/small_cap_liquidity_appendix.xlsx.
+
+22
+
+Appendix Table 1: Spread Distributions
+Panel A: Mean quoted spread
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+284.0
+6 - 9.99
+115.4
+10 - 19.99
+122.0
+20 - 39.99
+27.6
+≥ 40
+1.8
+2 - 5.99
+145.0
+6 - 9.99
+108.9
+10 - 19.99
+147.7
+20 - 39.99
+50.3
+≥ 40
+14.0
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.2
+20 - 39.99
+98.8
+≥ 40
+28.1
+2 - 5.99
+29.6
+6 - 9.99
+51.1
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.6
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.8
+20 - 39.99
+175.5
+≥ 40
+134.3
+2 - 5.99
+6.6
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+159.3
+≥ 40
+227.3
+
+1
+0.52
+0.17
+0.06
+0.00
+0.00
+2.14
+0.14
+0.26
+0.01
+0.00
+8.33
+0.60
+0.23
+0.04
+0.03
+33.47
+2.40
+0.45
+0.21
+0.00
+55.89
+11.43
+1.86
+0.36
+0.01
+93.89
+61.21
+6.42
+0.31
+0.12
+
+% of Ticker Days with Mean Quoted Spread less than or equal to 'x' cents
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+10
+15
+6.63
+12.84 18.63 23.77 28.54 33.32 37.44 41.43 68.28 81.27
+0.40
+0.88
+1.65
+2.79
+4.28
+6.18
+8.57
+11.11 34.77 51.99
+0.19
+0.32
+0.48
+0.74
+1.12
+1.56
+2.18
+3.08
+13.76 24.90
+0.03
+0.04
+0.04
+0.06
+0.06
+0.07
+0.10
+0.12
+1.15
+3.90
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.45
+47.25 64.62 74.96 81.51 86.04 89.06 91.00 92.44 97.79 99.00
+4.82
+12.67 21.32 30.25 38.33 45.55 52.37 58.36 85.59 93.61
+1.03
+1.85
+3.11
+4.89
+7.07
+9.65
+12.46 15.86 47.29 69.21
+0.04
+0.11
+0.20
+0.35
+0.51
+0.76
+1.01
+1.31
+8.40
+22.01
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.03
+0.71
+1.67
+79.81 90.61 94.16 95.96 96.83 97.27 97.54 97.79 99.12 99.64
+28.68 49.38 63.71 73.91 81.27 85.84 88.84 90.95 97.42 98.70
+2.32
+7.16
+14.75 23.21 31.82 39.51 46.48 52.71 83.96 93.72
+0.41
+0.70
+1.06
+1.77
+2.92
+4.36
+6.23
+8.31
+34.93 59.71
+0.23
+0.48
+0.79
+1.00
+1.13
+1.24
+1.31
+1.43
+3.39
+7.06
+95.08 97.88 98.71 99.10 99.36 99.54 99.73 99.80 99.97 99.99
+73.83 88.53 93.62 95.83 97.07 97.72 98.15 98.61 99.91 99.99
+17.50 34.94 50.21 62.57 71.76 78.47 83.27 86.83 95.85 98.44
+1.28
+2.30
+4.45
+8.10
+13.43 19.99 26.96 33.96 72.50 88.56
+0.51
+0.89
+1.21
+1.44
+1.71
+2.06
+2.33
+2.74
+14.15 32.32
+96.54 99.32 99.92 100.00 100.00 100.00 100.00 100.00 100.00 100.00
+96.10 98.64 99.30 99.46 99.48 99.48 99.48 99.57 100.00 100.00
+55.42 72.87 84.36 91.20 94.80 96.42 97.36 97.95 99.81 99.98
+4.46
+11.84 21.63 32.45 43.24 53.10 61.65 68.65 94.32 98.51
+0.52
+0.59
+0.87
+1.70
+3.15
+5.59
+8.82
+13.06 51.89 70.44
+100.00 100.00 100.00 100.00 100.00 100.00 100.00 100.00 100.00 100.00
+99.63 100.00 100.00 100.00 100.00 100.00 100.00 100.00 100.00 100.00
+89.41 94.22 96.39 97.62 98.32 98.73 99.04 99.23 99.79 99.90
+29.50 50.48 66.49 77.77 85.49 90.41 93.63 95.59 99.44 99.84
+1.16
+3.61
+8.07
+13.66 19.80 26.45 33.35 40.24 77.58 87.17
+
+20
+88.35
+64.62
+35.18
+8.90
+0.67
+99.39
+96.45
+81.32
+37.10
+3.64
+99.85
+99.32
+96.88
+74.79
+14.58
+100.00
+100.00
+99.30
+94.64
+48.53
+100.00
+100.00
+100.00
+99.59
+80.17
+100.00
+100.00
+99.97
+99.98
+91.50
+
+23
+
+Panel B: Mean effective spread
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+Ticker/Day
+284.0
+115.4
+122.0
+27.6
+1.8
+145.0
+108.9
+147.7
+50.3
+14.0
+60.8
+79.4
+175.2
+98.8
+28.1
+29.6
+51.1
+143.5
+166.1
+63.6
+9.9
+24.2
+91.8
+175.5
+134.3
+6.6
+11.7
+60.5
+159.3
+227.3
+
+0.5
+5.44
+10.96
+17.06
+22.15
+14.32
+0.25
+0.78
+1.29
+2.01
+9.94
+0.18
+0.31
+0.32
+0.46
+6.25
+0.04
+0.15
+0.08
+0.38
+2.95
+0.04
+0.07
+0.11
+0.01
+0.64
+0.12
+0.03
+0.03
+0.04
+0.01
+
+1
+8.40
+11.48
+17.38
+22.30
+14.32
+29.92
+4.03
+2.23
+2.08
+10.06
+59.27
+21.57
+2.72
+0.75
+6.53
+84.64
+54.75
+12.77
+1.53
+3.24
+85.74
+80.65
+37.10
+3.60
+1.03
+92.62
+84.61
+64.03
+17.18
+1.12
+
+% of Ticker Days with Mean Effective Spread less than or equal to 'x' cents
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+10
+15
+20
+17.34 25.58 32.62 39.12 44.85 50.22 54.78 59.08 82.49 91.13 95.16
+12.25 13.84 15.82 18.74 21.88 25.75 29.29 33.12 59.76 74.57 83.25
+17.65 18.20 18.80 19.68 20.71 22.02 23.24 25.08 41.29 54.40 64.33
+22.38 22.51 22.58 22.76 22.93 23.26 23.45 23.85 27.68 33.18 39.02
+14.32 14.32 14.32 14.32 14.32 14.32 14.32 14.32 14.54 15.88 18.34
+65.80 78.77 85.46 89.33 91.91 93.51 94.64 95.63 98.81 99.46 99.71
+19.55 33.22 45.03 54.67 62.34 68.46 73.14 77.17 93.56 97.35 98.72
+4.67
+7.96
+12.08 17.13 22.25 27.60 32.34 37.16 72.76 86.81 92.55
+2.22
+2.54
+2.90
+3.49
+4.29
+5.31
+6.62
+7.81
+29.58 52.58 67.41
+10.06 10.08 10.08 10.17 10.31 10.54 10.62 10.82 13.33 18.95 26.81
+90.10 94.71 96.08 96.88 97.32 97.69 98.00 98.28 99.52 99.84 99.93
+61.25 77.00 85.35 89.73 92.29 93.87 94.96 95.73 98.77 99.45 99.72
+16.80 32.72 45.85 55.78 63.35 69.23 73.93 77.68 94.39 97.88 98.91
+1.65
+3.77
+7.51
+11.57 15.85 20.38 25.31 29.87 67.82 85.45 92.98
+7.08
+7.58
+7.79
+8.03
+8.27
+8.57
+8.83
+9.20
+17.89 33.53 50.28
+96.73 98.46 98.93 99.20 99.46 99.52 99.60 99.68 99.92 99.96 99.96
+90.13 95.31 96.96 97.98 98.67 99.06 99.27 99.39 99.86 99.93 99.95
+52.20 72.18 81.79 87.03 89.85 91.70 93.06 94.11 98.48 99.39 99.70
+6.68
+17.31 30.20 41.27 50.47 57.82 63.75 68.86 92.04 97.12 98.81
+3.93
+4.54
+5.23
+6.21
+7.96
+10.33 13.01 15.91 45.68 67.82 80.70
+97.59 99.40 99.68 99.92 99.92 99.92 99.92 99.96 100.00 100.00 100.00
+97.18 98.58 98.98 99.18 99.51 99.57 99.66 99.69 99.92 99.97 99.98
+81.80 91.85 95.10 96.68 97.61 98.34 98.82 99.13 99.83 99.89 99.94
+25.41 46.95 63.01 73.83 81.14 85.88 89.30 91.73 98.84 99.69 99.86
+1.86
+5.09
+11.34 19.50 27.92 35.77 42.78 48.64 77.99 88.37 92.92
+98.97 99.46 99.76 99.88 99.94 99.94 99.94 99.94 100.00 100.00 100.00
+97.29 99.22 99.63 99.73 99.90 99.90 99.90 99.93 100.00 100.00 100.00
+91.97 95.95 97.46 98.27 98.63 98.91 99.06 99.25 99.83 99.94 99.96
+64.20 81.93 89.93 93.77 95.68 96.87 97.63 98.10 99.63 99.86 99.94
+9.23
+21.45 34.51 46.76 56.29 63.78 69.24 73.46 89.76 93.89 95.50
+
+24
+
+Panel C: Mean relative quoted spread
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+Ticker/Day
+284.0
+115.4
+122.0
+27.6
+1.8
+145.0
+108.9
+147.7
+50.3
+14.0
+60.8
+79.4
+175.2
+98.8
+28.1
+29.6
+51.1
+143.5
+166.1
+63.6
+9.9
+24.2
+91.8
+175.5
+134.3
+6.6
+11.7
+60.5
+159.3
+227.3
+
+2
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.04
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.46
+
+% of Ticker Days with Mean Relative Quoted Spread less than or equal to 'x' basis points
+3
+5
+7
+9
+11
+13
+15
+20
+25
+30
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.26
+0.59
+0.00
+0.00
+0.00
+0.00
+0.01
+0.10
+0.24
+0.43
+0.75
+1.20
+0.00
+0.00
+0.07
+0.13
+0.17
+0.25
+0.31
+0.48
+0.80
+1.41
+0.00
+0.00
+0.03
+0.04
+0.04
+0.06
+0.06
+0.09
+0.16
+0.35
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.22
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.31
+4.31
+11.11
+0.00
+0.00
+0.00
+0.00
+0.03
+0.19
+0.67
+4.20
+9.99
+16.72
+0.00
+0.01
+0.12
+0.56
+0.86
+1.15
+1.51
+2.95
+5.34
+9.05
+0.00
+0.02
+0.05
+0.13
+0.24
+0.36
+0.53
+1.18
+2.04
+3.37
+0.00
+0.00
+0.00
+0.00
+0.00
+0.03
+0.06
+0.31
+0.82
+1.21
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+7.47
+29.86 53.27
+0.00
+0.00
+0.00
+0.00
+0.12
+1.16
+5.49
+29.74 48.91 61.77
+0.00
+0.00
+0.22
+0.89
+1.72
+3.43
+6.44
+17.83 30.96 43.26
+0.00
+0.26
+0.54
+0.82
+1.18
+1.85
+2.93
+7.37
+13.26 20.55
+0.14
+0.51
+0.93
+1.17
+1.31
+1.52
+1.69
+2.54
+4.53
+7.42
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+25.99 58.36 71.98
+0.00
+0.00
+0.00
+0.00
+3.48
+20.04 44.36 80.46 89.64 93.74
+0.00
+0.00
+1.10
+6.56
+17.38 29.62 41.20 64.96 78.42 85.58
+0.01
+0.97
+1.42
+2.54
+5.25
+10.13 17.26 38.94 55.44 65.79
+0.49
+1.30
+1.82
+2.31
+2.88
+4.08
+5.94
+12.95 23.13 34.08
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+42.67 65.85 75.13
+0.00
+0.00
+0.00
+0.00
+12.48 44.07 72.40 96.77 98.66 99.35
+0.00
+0.00
+9.40
+35.41 61.80 75.55 84.04 93.56 96.56 97.87
+0.21
+2.07
+8.63
+20.01 34.29 48.61 60.86 80.48 89.26 93.52
+0.46
+0.65
+2.02
+6.62
+15.42 26.45 37.20 58.08 70.26 78.06
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+34.50 57.26 77.78
+0.00
+0.00
+0.00
+0.00
+12.34 55.60 87.35 100.00 100.00 100.00
+0.00
+0.03
+49.95 79.56 92.02 95.19 96.79 98.29 98.99 99.35
+0.54
+23.43 54.36 73.19 84.41 91.04 94.55 97.74 98.72 99.27
+0.94
+7.27
+23.39 43.49 59.62 70.63 78.29 88.40 92.58 95.08
+
+50
+5.97
+5.28
+5.29
+2.00
+0.89
+59.67
+43.34
+28.62
+13.23
+6.07
+91.46
+86.53
+73.97
+51.16
+27.42
+97.53
+97.80
+93.88
+88.44
+70.11
+97.11
+99.48
+99.58
+98.90
+94.09
+100.00
+100.00
+99.61
+99.89
+98.84
+
+100
+27.46
+24.57
+20.47
+11.95
+11.19
+90.08
+78.29
+68.01
+51.20
+35.62
+97.33
+96.61
+94.39
+88.64
+73.14
+99.68
+99.78
+98.73
+97.65
+96.11
+100.00
+100.00
+99.99
+99.98
+99.32
+100.00
+100.00
+99.93
+100.00
+99.86
+
+25
+
+Panel D: Mean relative effective spread
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+Ticker/Day
+284.0
+115.4
+122.0
+27.6
+1.8
+145.0
+108.9
+147.7
+50.3
+14.0
+60.8
+79.4
+175.2
+98.8
+28.1
+29.6
+51.1
+143.5
+166.1
+63.6
+9.9
+24.2
+91.8
+175.5
+134.3
+6.6
+11.7
+60.5
+159.3
+227.3
+
+1
+5.33
+10.93
+17.01
+22.14
+14.32
+0.07
+0.68
+1.25
+2.01
+9.94
+0.00
+0.14
+0.27
+0.46
+6.25
+0.00
+0.00
+0.02
+0.37
+2.95
+0.00
+0.00
+0.00
+0.00
+0.64
+0.00
+0.00
+0.00
+0.00
+0.03
+
+% of Ticker Days with Mean Relative Effective Spread less than or equal to 'x' basis points
+3
+5
+7
+9
+11
+13
+15
+20
+25
+30
+5.33
+5.34
+5.35
+5.37
+5.40
+5.42
+5.46
+5.72
+6.36
+7.43
+10.94 10.95 10.97 10.99 11.10 11.33 11.55 12.17 13.26 14.69
+17.05 17.10 17.28 17.44 17.66 17.86 18.07 18.86 20.01 21.50
+22.17 22.32 22.40 22.50 22.58 22.76 23.04 23.58 24.34 25.41
+14.32 14.32 14.32 14.32 14.32 14.32 14.54 14.54 15.66 16.78
+0.07
+0.08
+0.09
+0.13
+0.22
+0.40
+0.82
+6.01
+17.10 30.22
+0.69
+0.71
+0.79
+1.00
+1.66
+3.41
+6.93
+18.96 30.07 40.33
+1.27
+1.39
+1.60
+2.68
+3.86
+5.44
+7.49
+13.83 21.35 28.97
+2.03
+2.12
+2.30
+2.63
+3.02
+3.61
+4.40
+7.01
+10.93 16.09
+10.08 10.14 10.17 10.48 10.82 11.19 11.72 12.88 14.92 18.08
+0.00
+0.00
+0.01
+0.09
+0.28
+0.67
+2.35
+24.73 51.79 70.66
+0.15
+0.19
+0.39
+1.16
+6.03
+18.94 36.82 65.21 77.40 84.92
+0.29
+0.52
+1.90
+6.95
+15.74 26.08 35.49 53.97 66.10 74.53
+0.50
+1.04
+2.08
+4.55
+8.53
+12.84 17.59 30.56 43.53 54.78
+6.79
+7.62
+8.02
+8.54
+9.26
+10.41 12.02 17.95 26.35 36.11
+0.00
+0.00
+0.01
+0.03
+0.20
+0.62
+3.89
+42.86 67.99 81.02
+0.02
+0.08
+0.46
+3.39
+26.62 56.24 77.61 92.15 95.30 96.65
+0.06
+0.92
+12.53 37.57 60.31 72.43 79.64 88.02 91.54 93.52
+0.52
+2.79
+11.42 26.39 41.26 52.64 61.15 75.75 84.37 89.63
+4.09
+5.11
+7.24
+11.84 18.10 25.07 32.52 49.36 63.44 73.82
+0.00
+0.00
+0.00
+0.00
+0.00
+0.52
+4.86
+53.64 69.67 79.15
+0.00
+0.02
+0.31
+5.44
+34.79 64.87 88.64 97.36 98.51 98.84
+0.08
+2.41
+35.93 74.33 87.75 92.11 94.25 96.94 98.31 99.03
+0.67
+17.32 47.54 68.31 80.10 86.64 90.52 95.27 97.55 98.65
+1.42
+9.07
+28.07 46.56 59.77 68.83 75.14 85.53 91.70 94.89
+0.00
+0.00
+0.00
+0.00
+0.00
+0.85
+7.38
+45.64 68.77 89.71
+0.00
+0.00
+0.10
+3.52
+36.62 75.21 92.46 98.14 99.22 99.56
+0.03
+11.45 62.63 88.51 94.46 96.37 97.40 98.50 98.85 99.11
+6.71
+62.48 84.78 91.89 95.15 96.86 97.70 98.76 99.27 99.52
+9.12
+44.48 68.87 81.34 87.30 90.70 92.88 96.27 97.89 98.68
+
+50
+18.13
+24.15
+29.23
+29.61
+22.37
+76.94
+67.19
+56.27
+41.93
+37.06
+94.69
+94.44
+90.44
+82.77
+68.44
+98.18
+99.01
+97.36
+96.61
+93.12
+98.71
+99.66
+99.71
+99.73
+98.58
+99.76
+99.83
+99.69
+99.85
+99.61
+
+100
+44.82
+49.01
+50.34
+43.35
+48.99
+94.22
+89.69
+86.61
+79.67
+73.33
+98.03
+98.19
+98.05
+97.86
+92.58
+99.53
+99.78
+99.50
+99.52
+98.96
+99.92
+99.87
+99.90
+99.95
+99.70
+99.94
+99.97
+99.96
+99.97
+99.95
+
+26
+
+Appendix Table 2: Aggregate Limit Order Book Depth by Pennies
+Panel A: Cumulative bid depth in shares by cents away from the midpoint
+Cumulative Depth in Shares
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+-20
+-10
+2 - 5.99
+282.0
+15082
+8557
+6 - 9.99
+113.9
+3673
+1889
+10 - 19.99
+117.0
+1559
+742
+20 - 39.99
+24.7
+299
+90
+≥ 40
+1.5
+59
+16
+2 - 5.99
+144.6
+44081
+28650
+6 - 9.99
+108.7
+7688
+4535
+10 - 19.99
+147.4
+3623
+2170
+20 - 39.99
+49.8
+906
+425
+≥ 40
+13.6
+170
+48
+2 - 5.99
+60.8
+83924
+58090
+6 - 9.99
+79.4
+17723
+11847
+10 - 19.99
+175.1
+5995
+3757
+20 - 39.99
+98.8
+2120
+1211
+≥ 40
+27.6
+712
+375
+2 - 5.99
+205172 151020
+29.5
+6 - 9.99
+51.0
+48174
+35920
+10 - 19.99
+143.5
+15256
+10551
+20 - 39.99
+166.1
+4793
+2932
+≥ 40
+63.2
+1335
+630
+2 - 5.99
+9.9
+439459 316039
+6 - 9.99
+24.2
+119165 89515
+10 - 19.99
+91.7
+35530
+26091
+20 - 39.99
+175.5
+9720
+6281
+≥ 40
+134.1
+2845
+1320
+2 - 5.99
+6.5
+1138490 829323
+6 - 9.99
+11.7
+253006 199152
+10 - 19.99
+60.5
+76115
+59965
+20 - 39.99
+158.9
+22123
+15499
+≥ 40
+226.9
+6548
+3428
+
+-9
+7861
+1682
+656
+68
+8
+26892
+4180
+1986
+376
+38
+54782
+11081
+3493
+1100
+331
+144252
+34068
+9883
+2686
+550
+299718
+84743
+24608
+5754
+1142
+791768
+190047
+56997
+14305
+3000
+
+-8
+7096
+1503
+594
+57
+8
+24960
+3806
+1821
+328
+31
+50983
+10237
+3205
+985
+295
+136299
+31861
+9130
+2432
+476
+281260
+78858
+22856
+5186
+976
+749449
+178526
+53382
+13003
+2589
+
+-7
+6306
+1285
+507
+43
+7
+22845
+3412
+1644
+281
+24
+46697
+9289
+2882
+866
+259
+126800
+29278
+8270
+2155
+403
+259652
+71684
+20772
+4574
+818
+699423
+164056
+48814
+11526
+2186
+
+-6
+5509
+1092
+440
+34
+6
+20505
+3013
+1461
+235
+18
+41687
+8254
+2534
+746
+222
+114820
+26250
+7277
+1873
+331
+233135
+63078
+18248
+3915
+670
+636096
+146268
+43132
+9825
+1792
+
+Pennies Away from the Midpoint (Bid)
+-5
+-4.5
+-4
+-3.5
+-3
+4689
+4398
+3858
+3567
+2934
+905
+790
+692
+603
+517
+370
+312
+272
+226
+192
+26
+19
+16
+13
+11
+5
+2
+2
+2
+2
+17829
+17504
+14948
+14594
+11712
+2591
+2419
+2130
+1948
+1618
+1263
+1182
+1041
+969
+801
+188
+164
+139
+117
+94
+13
+10
+8
+6
+5
+35696
+35447
+29292
+29033
+22311
+7098
+6849
+5824
+5564
+4405
+2168
+2033
+1788
+1658
+1393
+625
+575
+495
+447
+369
+183
+167
+140
+125
+106
+99447
+99309
+82678
+82538
+63820
+22618
+22327
+18555
+18252
+13923
+6145
+5875
+4936
+4684
+3678
+1592
+1497
+1298
+1210
+990
+259
+231
+188
+164
+125
+200180 200033 163464 163300 123799
+52640
+52439
+41302
+41096
+29275
+15199
+11875
+11558
+14860
+8504
+3228
+3018
+2550
+2370
+1884
+534
+475
+403
+349
+276
+555691 555537 466202 466063 365579
+124125 124013 100094 99980
+73798
+35993
+35799
+28066
+27882
+19853
+7926
+7556
+5982
+5676
+4195
+1423
+1300
+1086
+981
+777
+
+-2.5
+2646
+435
+149
+9
+2
+11371
+1438
+733
+73
+4
+22073
+4170
+1270
+328
+95
+63690
+13663
+3467
+907
+106
+123652
+29096
+8251
+1731
+228
+365403
+73694
+19708
+3966
+686
+
+-2
+1993
+314
+103
+6
+1
+8187
+1062
+552
+51
+2
+15294
+3092
+970
+244
+74
+44534
+9327
+2535
+648
+74
+82395
+18544
+5541
+1259
+151
+257758
+48189
+12807
+2732
+487
+
+-1.5
+1727
+250
+78
+4
+1
+7861
+887
+500
+35
+2
+15075
+2863
+854
+212
+66
+44408
+9089
+2336
+577
+61
+82254
+18388
+5322
+1122
+114
+257599
+48096
+12682
+2537
+407
+
+-1
+958
+145
+44
+3
+1
+4065
+441
+286
+18
+1
+8171
+1584
+497
+107
+27
+23001
+4562
+1247
+292
+33
+40413
+8445
+2602
+577
+52
+138693
+22786
+5922
+1280
+212
+
+-0.5
+777
+103
+28
+2
+1
+3763
+305
+254
+12
+1
+7957
+1371
+414
+90
+21
+22889
+4355
+1085
+250
+26
+40274
+8324
+2424
+482
+33
+138527
+22699
+5821
+1123
+160
+
+27
+
+Panel B: Cumulative ask depth in shares by cents away from the midpoint
+Cumulative Depth in Shares
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+282.0
+6 - 9.99
+113.9
+10 - 19.99
+117.0
+20 - 39.99
+24.7
+≥ 40
+1.5
+2 - 5.99
+144.6
+6 - 9.99
+108.7
+10 - 19.99
+147.4
+20 - 39.99
+49.8
+≥ 40
+13.6
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.6
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.1
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+226.9
+
+0.5
+496
+69
+21
+3
+1
+2811
+243
+138
+9
+1
+6454
+1161
+317
+43
+8
+18831
+3492
+830
+162
+20
+40717
+8415
+2086
+367
+32
+124959
+22658
+5447
+896
+135
+
+1
+668
+134
+39
+5
+1
+3105
+379
+176
+18
+2
+6664
+1391
+408
+62
+13
+18952
+3695
+999
+205
+28
+40862
+8537
+2263
+464
+51
+125132
+22750
+5548
+1053
+187
+
+1.5
+1127
+232
+79
+8
+1
+5814
+663
+314
+32
+3
+12745
+2486
+697
+110
+24
+37549
+7423
+1918
+381
+51
+80604
+18522
+4748
+891
+95
+241541
+48291
+12055
+2097
+346
+
+2
+1353
+294
+108
+11
+1
+6130
+838
+378
+45
+4
+12960
+2731
+824
+142
+32
+37678
+7663
+2132
+455
+64
+80747
+18684
+4973
+1032
+134
+241697
+48390
+12182
+2297
+428
+
+2.5
+1841
+406
+168
+21
+2
+8641
+1147
+523
+65
+5
+19013
+3783
+1077
+205
+45
+55527
+11317
+3027
+624
+93
+119679
+29151
+7568
+1456
+194
+350269
+73795
+19038
+3451
+596
+
+3
+2088
+482
+206
+27
+2
+8973
+1353
+601
+83
+7
+19250
+4036
+1211
+247
+53
+55668
+11580
+3256
+709
+112
+119832
+29334
+7829
+1614
+243
+350412
+73904
+19188
+3690
+690
+
+Pennies Away from the Midpoint (Ask)
+3.5
+4
+4.5
+5
+2551
+2801
+3243
+3505
+562
+641
+730
+846
+238
+273
+312
+374
+31
+36
+41
+53
+2
+2
+2
+5
+11448
+11789
+14097
+14418
+1649
+1833
+2139
+2353
+737
+818
+956
+1049
+102
+120
+142
+167
+9
+11
+14
+18
+25563
+25824
+31653
+31906
+5133
+5413
+6418
+6686
+1456
+1598
+1836
+1984
+308
+355
+415
+468
+66
+75
+93
+104
+74006
+74152
+90266
+90416
+15636
+15941
+19625
+19922
+4225
+4498
+5464
+5754
+878
+969
+1134
+1233
+146
+170
+210
+238
+157368 157527 192124 192270
+41193
+41405
+52470
+52677
+10903
+11230
+14185
+14531
+2047
+2235
+2676
+2893
+306
+362
+431
+492
+453957 454111 548162 548310
+100121 100241 124074 124190
+27214
+27404
+35045
+38131
+5146
+5467
+7029
+7413
+873
+982
+1180
+1309
+
+6
+4207
+1029
+440
+64
+6
+16920
+2793
+1267
+216
+25
+37729
+7896
+2371
+582
+128
+105493
+23500
+6949
+1505
+311
+224335
+62905
+17480
+3570
+632
+636483
+146161
+46529
+9296
+1678
+
+7
+4898
+1209
+512
+76
+6
+19136
+3213
+1467
+267
+33
+42613
+9000
+2740
+696
+155
+117165
+26493
+7987
+1782
+387
+250942
+71300
+19903
+4216
+785
+706982
+163818
+52046
+10956
+2078
+
+8
+5583
+1416
+619
+94
+8
+21176
+3626
+1667
+327
+42
+46839
+9990
+3084
+815
+186
+126575
+29030
+8904
+2056
+466
+273166
+78314
+21900
+4811
+949
+764525
+178358
+56469
+12389
+2483
+
+9
+6215
+1586
+692
+106
+9
+23163
+4015
+1852
+380
+50
+50592
+10873
+3397
+928
+219
+134568
+31196
+9719
+2315
+542
+292459
+84134
+23572
+5357
+1121
+813271
+190180
+60743
+13650
+2892
+
+10
+6843
+1791
+803
+130
+14
+24990
+4408
+2057
+439
+61
+53958
+11689
+3685
+1039
+255
+141559
+33078
+10445
+2558
+622
+309434
+88916
+25041
+5874
+1304
+857960
+199846
+63721
+14806
+3314
+
+20
+12899
+3578
+1711
+395
+63
+41176
+7805
+3687
+1021
+202
+81571
+18435
+6225
+1989
+583
+197040
+46507
+15868
+4397
+1316
+450584
+121072
+34746
+9370
+2840
+1240580
+263009
+80443
+21277
+6353
+
+28
+
+Panel C: Cumulative bid depth in $ (‘000) by cents away from the midpoint
+Cumulative Depth in $ ('000)
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+282.0
+6 - 9.99
+113.9
+10 - 19.99
+117.0
+20 - 39.99
+24.7
+≥ 40
+1.5
+2 - 5.99
+144.6
+6 - 9.99
+108.7
+10 - 19.99
+147.4
+20 - 39.99
+49.8
+≥ 40
+13.6
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.6
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.1
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+226.9
+
+-20
+45.0
+27.9
+19.7
+6.9
+2.8
+134.2
+57.0
+47.0
+21.9
+7.9
+294.6
+130.6
+82.3
+53.0
+32.8
+759.8
+369.8
+211.7
+123.1
+67.1
+1656.1
+902.3
+493.8
+270.1
+143.3
+4313.3
+1985.5
+1141.8
+631.2
+365.2
+
+-10
+25.8
+14.5
+9.2
+2.1
+0.7
+88.9
+33.9
+27.9
+10.1
+2.1
+206.9
+86.9
+51.4
+29.9
+16.3
+561.5
+274.9
+146.1
+74.2
+31.1
+1212.9
+680.4
+361.1
+172.8
+65.0
+3187.2
+1567.9
+898.4
+438.8
+187.2
+
+-9
+23.7
+12.9
+8.1
+1.6
+0.4
+83.7
+31.2
+25.6
+8.9
+1.7
+195.4
+81.3
+47.7
+27.0
+14.2
+535.6
+260.4
+136.9
+67.7
+27.1
+1152.6
+644.2
+340.2
+157.8
+56.1
+3046.1
+1496.5
+853.8
+404.0
+164.0
+
+-8
+21.5
+11.5
+7.3
+1.3
+0.4
+77.9
+28.5
+23.4
+7.8
+1.4
+182.1
+75.0
+43.7
+24.1
+12.6
+505.1
+243.3
+126.3
+61.1
+23.4
+1083.0
+599.6
+315.6
+142.0
+47.9
+2885.8
+1406.3
+799.3
+366.6
+141.6
+
+-7
+19.1
+9.8
+6.2
+1.0
+0.3
+71.5
+25.6
+21.1
+6.6
+1.1
+167.0
+68.0
+39.2
+21.2
+11.0
+468.6
+223.3
+114.3
+54.0
+19.8
+1000.3
+545.3
+286.4
+125.2
+40.0
+2695.5
+1293.0
+730.5
+324.7
+119.8
+
+-6
+16.8
+8.4
+5.4
+0.8
+0.3
+64.6
+22.6
+18.7
+5.5
+0.8
+149.2
+60.4
+34.4
+18.2
+9.3
+422.7
+200.0
+100.6
+46.9
+16.2
+898.6
+480.0
+251.2
+107.2
+32.7
+2455.8
+1153.5
+644.9
+276.7
+98.6
+
+Pennies Away from the Midpoint (Bid)
+-5
+-4.5
+-4
+-3.5
+14.3
+13.4
+11.8
+10.9
+6.9
+6.0
+5.2
+4.5
+4.5
+3.8
+3.4
+2.9
+0.6
+0.4
+0.4
+0.3
+0.3
+0.1
+0.1
+0.1
+56.7
+55.5
+48.0
+46.7
+19.4
+18.1
+16.0
+14.6
+16.1
+15.1
+13.2
+12.3
+4.4
+3.8
+3.3
+2.7
+0.6
+0.4
+0.4
+0.3
+127.9
+126.8
+105.2
+104.0
+51.9
+50.0
+42.5
+40.5
+29.4
+27.5
+24.2
+22.4
+15.2
+13.9
+12.0
+10.8
+7.7
+6.9
+5.8
+5.2
+363.6
+363.0
+299.1
+298.4
+172.0
+169.6
+140.6
+138.1
+84.9
+81.1
+68.4
+64.8
+39.7
+37.3
+32.3
+30.0
+12.7
+11.3
+9.2
+8.0
+770.4
+769.7
+628.1
+627.4
+400.7
+399.1
+314.3
+312.6
+208.9
+203.7
+163.0
+158.2
+88.6
+82.9
+70.4
+65.4
+26.0
+23.0
+19.5
+16.8
+2149.9 2149.3 1808.5 1807.9
+979.4
+978.5
+790.3
+789.4
+537.5
+534.3
+418.1
+415.1
+223.7
+212.8
+169.9
+160.9
+78.8
+72.1
+60.5
+54.8
+
+-3
+9.1
+3.8
+2.4
+0.3
+0.1
+38.1
+12.2
+10.2
+2.2
+0.2
+80.4
+32.2
+18.8
+8.9
+4.4
+227.1
+105.2
+51.1
+24.6
+6.1
+473.7
+222.7
+116.7
+52.3
+13.3
+1424.1
+583.2
+295.1
+120.5
+43.4
+
+-2.5
+8.2
+3.2
+1.9
+0.2
+0.1
+36.9
+10.8
+9.3
+1.7
+0.2
+79.4
+30.3
+17.1
+7.9
+3.9
+226.5
+103.1
+48.1
+22.4
+5.1
+473.1
+221.3
+112.8
+48.1
+10.9
+1423.4
+582.4
+292.7
+113.8
+38.4
+
+-2
+6.3
+2.3
+1.4
+0.1
+0.1
+27.0
+8.0
+6.9
+1.2
+0.1
+55.5
+22.5
+13.0
+5.8
+3.0
+155.1
+70.6
+35.3
+16.0
+3.6
+313.0
+141.3
+76.0
+35.0
+7.2
+1011.7
+381.2
+190.2
+79.5
+27.2
+
+-1.5
+5.4
+1.8
+1.1
+0.1
+0.1
+25.8
+6.7
+6.3
+0.8
+0.1
+54.6
+20.7
+11.4
+5.0
+2.7
+154.5
+68.6
+32.4
+14.2
+2.9
+312.4
+140.1
+72.7
+31.2
+5.4
+1011.0
+380.5
+188.1
+73.7
+22.9
+
+-1
+3.0
+1.0
+0.6
+0.1
+0.1
+13.5
+3.3
+3.6
+0.4
+0.1
+30.1
+11.5
+6.6
+2.5
+1.1
+78.5
+34.5
+17.4
+7.2
+1.6
+151.8
+64.5
+35.7
+15.9
+2.5
+550.8
+180.2
+87.9
+37.5
+11.9
+
+-0.5
+2.5
+0.7
+0.4
+0.0
+0.1
+12.3
+2.3
+3.2
+0.3
+0.0
+29.1
+9.9
+5.5
+2.1
+0.9
+78.0
+32.8
+15.0
+6.2
+1.2
+151.2
+63.5
+32.9
+13.3
+1.6
+550.2
+179.5
+86.2
+32.8
+9.3
+
+29
+
+Panel D: Cumulative ask depth in $ (‘000) by cents away from the midpoint
+Cumulative Depth in $ ('000)
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+282.0
+6 - 9.99
+113.9
+10 - 19.99
+117.0
+20 - 39.99
+24.7
+≥ 40
+1.5
+2 - 5.99
+144.6
+6 - 9.99
+108.7
+10 - 19.99
+147.4
+20 - 39.99
+49.8
+≥ 40
+13.6
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.6
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.1
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+226.9
+
+0.5
+1.5
+0.5
+0.3
+0.1
+0.1
+9.0
+1.8
+1.7
+0.2
+0.0
+23.2
+8.4
+4.2
+1.0
+0.4
+68.3
+26.9
+11.3
+3.9
+1.0
+153.5
+64.3
+28.4
+9.9
+1.5
+480.5
+179.3
+80.1
+25.4
+7.6
+
+1
+2.0
+1.0
+0.5
+0.1
+0.1
+10.1
+2.8
+2.2
+0.4
+0.1
+24.1
+10.2
+5.4
+1.5
+0.5
+68.8
+28.6
+13.8
+5.0
+1.3
+154.1
+65.2
+31.1
+12.6
+2.4
+481.2
+180.1
+81.8
+30.1
+10.3
+
+1.5
+3.4
+1.7
+1.1
+0.2
+0.1
+18.8
+4.9
+4.0
+0.7
+0.1
+45.8
+18.3
+9.2
+2.6
+1.0
+138.0
+57.3
+26.3
+9.3
+2.4
+309.8
+141.5
+64.9
+24.2
+4.5
+930.6
+382.8
+178.0
+59.1
+19.0
+
+2
+4.1
+2.2
+1.4
+0.3
+0.1
+20.0
+6.3
+4.8
+1.1
+0.2
+46.8
+20.2
+10.9
+3.4
+1.3
+138.6
+59.3
+29.4
+11.2
+3.1
+310.4
+142.8
+68.4
+28.1
+6.4
+931.2
+383.6
+180.0
+65.0
+23.5
+
+2.5
+5.6
+3.0
+2.2
+0.5
+0.1
+27.9
+8.6
+6.7
+1.5
+0.2
+68.3
+27.9
+14.4
+5.0
+1.9
+207.2
+87.5
+41.7
+15.5
+4.5
+465.5
+222.7
+103.8
+39.6
+9.3
+1350.7
+585.2
+282.1
+96.4
+32.7
+
+3
+6.4
+3.6
+2.6
+0.6
+0.1
+29.1
+10.2
+7.8
+2.0
+0.3
+69.4
+29.9
+16.2
+6.0
+2.2
+207.8
+89.7
+45.0
+17.7
+5.4
+466.2
+224.1
+107.8
+44.0
+11.7
+1351.3
+586.1
+284.6
+103.5
+37.8
+
+Pennies Away from the Midpoint (Ask)
+3.5
+4
+4.5
+5
+6
+7.8
+8.6
+10.0
+10.9
+13.1
+4.2
+4.8
+5.5
+6.4
+7.8
+3.0
+3.5
+3.9
+4.7
+5.5
+0.7
+0.8
+1.0
+1.2
+1.5
+0.1
+0.1
+0.1
+0.3
+0.3
+36.6
+37.9
+44.9
+46.1
+54.0
+12.5
+13.9
+16.2
+18.0
+21.3
+9.5
+10.6
+12.4
+13.6
+16.5
+2.4
+2.9
+3.4
+4.0
+5.2
+0.4
+0.5
+0.6
+0.8
+1.1
+92.1
+93.2
+114.4
+115.5
+136.8
+37.9
+40.2
+47.6
+49.7
+58.8
+19.6
+21.5
+24.8
+26.9
+32.2
+7.5
+8.7
+10.2
+11.5
+14.3
+2.8
+3.2
+4.0
+4.5
+5.6
+279.4
+280.1
+343.9
+344.6
+404.4
+121.2
+123.7
+152.4
+154.9
+183.0
+58.1
+62.0
+75.1
+79.3
+95.9
+22.0
+24.4
+28.5
+31.1
+38.1
+7.0
+8.2
+10.1
+11.5
+15.0
+616.5
+617.3
+755.8
+756.4
+884.9
+315.1
+316.8
+402.1
+403.7
+482.6
+149.8
+154.8
+195.4
+200.7
+242.0
+55.6
+60.7
+72.5
+78.4
+96.7
+14.8
+17.6
+21.0
+24.0
+31.0
+1753.3 1754.0 2119.2 2119.8 2463.2
+794.5
+795.4
+985.1
+986.0
+1161.1
+405.0
+408.1
+523.4
+568.2
+694.3
+142.8
+152.3
+194.8
+206.2
+259.0
+47.8
+53.7
+64.3
+71.3
+91.0
+
+7
+15.3
+9.2
+6.4
+1.8
+0.3
+60.9
+24.5
+19.1
+6.4
+1.4
+154.8
+67.1
+37.3
+17.2
+6.8
+450.8
+206.6
+110.4
+45.2
+18.7
+990.3
+547.3
+276.1
+114.4
+38.6
+2737.1
+1301.7
+778.0
+306.0
+112.3
+
+8
+17.5
+10.8
+7.8
+2.2
+0.4
+67.4
+27.6
+21.8
+7.9
+1.8
+170.3
+74.6
+42.1
+20.2
+8.3
+488.4
+226.7
+123.3
+52.3
+22.5
+1078.1
+601.4
+304.4
+130.9
+46.8
+2962.3
+1417.6
+845.1
+347.0
+134.3
+
+9
+19.5
+12.1
+8.7
+2.5
+0.4
+73.7
+30.6
+24.3
+9.2
+2.2
+184.1
+81.3
+46.4
+23.1
+9.8
+520.5
+244.0
+134.7
+59.1
+26.3
+1154.0
+646.4
+328.1
+146.2
+55.4
+3154.4
+1511.9
+909.5
+383.4
+156.6
+
+10
+21.6
+13.6
+10.1
+3.1
+0.7
+79.5
+33.6
+27.0
+10.7
+2.7
+196.4
+87.5
+50.4
+25.9
+11.5
+548.7
+259.2
+144.9
+65.6
+30.2
+1220.1
+683.6
+349.0
+160.9
+64.5
+3329.5
+1589.4
+954.7
+417.3
+179.6
+
+20
+41.3
+27.5
+22.0
+9.2
+3.0
+132.5
+59.9
+49.0
+25.2
+9.4
+298.1
+139.8
+86.1
+50.5
+27.7
+770.8
+367.9
+221.2
+114.7
+65.5
+1763.9
+932.6
+488.1
+260.6
+144.0
+4843.2
+2095.6
+1210.2
+606.5
+354.4
+
+30
+
+Appendix Table 3: Aggregate Limit Order Book Depth by Percent
+Panel A: Cumulative bid depth in shares by basis points away from the midpoint
+Cumulative Depth in Shares
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+244.0
+6 - 9.99
+94.2
+10 - 19.99
+92.8
+20 - 39.99
+19.2
+≥ 40
+1.6
+2 - 5.99
+144.2
+6 - 9.99
+108.1
+10 - 19.99
+146.0
+20 - 39.99
+49.2
+≥ 40
+13.8
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.9
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.3
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+227.4
+
+-100
+3253
+1689
+1203
+471
+314
+11746
+3557
+2667
+1144
+582
+26139
+9587
+4615
+2566
+1462
+78083
+31038
+12591
+5825
+2732
+160475
+75742
+30582
+11748
+5534
+448110
+176115
+69525
+25633
+10736
+
+-80
+2667
+1329
+945
+347
+231
+9931
+2956
+2242
+903
+455
+21494
+8063
+3980
+2142
+1260
+65056
+26662
+11100
+4962
+2320
+127838
+63641
+27490
+10347
+4842
+376183
+152227
+64238
+23370
+9987
+
+-60
+1940
+973
+688
+224
+131
+7606
+2293
+1794
+661
+320
+16055
+6322
+3242
+1708
+985
+46204
+21298
+9269
+4072
+1847
+99181
+48459
+23330
+8796
+3908
+292031
+119318
+56588
+20740
+8740
+
+-40
+1292
+619
+417
+96
+54
+5454
+1580
+1290
+413
+174
+11387
+4364
+2315
+1219
+708
+32624
+14693
+6696
+3021
+1365
+61218
+31182
+16685
+6811
+2925
+197013
+77979
+42925
+16852
+6998
+
+-20
+620
+231
+166
+26
+11
+2804
+629
+652
+175
+40
+7055
+2003
+1250
+610
+343
+15949
+6617
+3391
+1597
+641
+37956
+13636
+7921
+3487
+1331
+137695
+41502
+20556
+9068
+3846
+
+Basis Points Away from the Midpoint (Bid)
+-15
+-10
+-9
+-8
+-7
+306
+157
+8
+3
+2
+172
+133
+125
+125
+78
+121
+77
+65
+62
+40
+16
+9
+8
+6
+6
+7
+2
+2
+2
+2
+1524
+420
+66
+10
+3
+428
+315
+307
+306
+236
+553
+316
+304
+293
+267
+116
+65
+51
+46
+30
+22
+10
+8
+6
+5
+5394
+742
+428
+66
+3
+1585
+1390
+1372
+1370
+1093
+977
+606
+570
+503
+452
+457
+306
+257
+232
+220
+247
+150
+133
+114
+108
+10860
+3431
+1856
+307
+7
+5101
+4389
+4356
+4353
+2441
+2613
+1741
+1409
+1297
+1181
+1241
+810
+720
+652
+610
+441
+253
+222
+195
+157
+21165
+11359
+6228
+930
+13
+8915
+8337
+8324
+8314
+6322
+5958
+3504
+3229
+2762
+2555
+2604
+1723
+1573
+1419
+1256
+900
+537
+471
+406
+349
+105483 40850
+11666
+1429
+20
+23610
+22704
+22699
+22682
+20289
+15104
+9904
+8846
+7011
+5918
+6395
+3962
+3564
+3203
+2920
+2700
+1603
+1428
+1236
+1093
+
+-6
+2
+28
+38
+4
+2
+3
+106
+261
+26
+4
+3
+313
+434
+181
+96
+7
+1732
+1144
+479
+132
+13
+3664
+2510
+1059
+277
+20
+13967
+5889
+2416
+911
+
+-5
+2
+6
+36
+4
+1
+3
+35
+258
+19
+3
+3
+87
+419
+118
+75
+7
+896
+1102
+338
+102
+13
+1192
+2454
+901
+223
+20
+2489
+5852
+2024
+758
+
+-4
+2
+1
+21
+2
+1
+3
+1
+226
+17
+2
+3
+1
+387
+102
+67
+7
+2
+964
+286
+77
+13
+5
+2029
+644
+147
+20
+9
+5201
+1605
+578
+
+-3
+2
+1
+17
+2
+1
+3
+1
+21
+12
+1
+3
+1
+109
+91
+28
+7
+2
+499
+258
+48
+13
+5
+748
+515
+110
+20
+9
+3438
+1211
+453
+
+-2
+2
+1
+0
+2
+1
+3
+1
+0
+7
+1
+3
+1
+1
+89
+27
+7
+2
+1
+249
+38
+13
+5
+3
+481
+54
+20
+9
+12
+1117
+266
+
+-1
+2
+1
+0
+1
+1
+3
+1
+0
+0
+1
+3
+1
+1
+1
+21
+7
+2
+1
+6
+26
+13
+5
+2
+55
+34
+20
+9
+3
+318
+167
+
+31
+
+Panel B: Cumulative ask depth in shares by basis points away from the midpoint
+Cumulative Depth in Shares
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+244.0
+6 - 9.99
+94.2
+10 - 19.99
+92.8
+20 - 39.99
+19.2
+≥ 40
+1.6
+2 - 5.99
+144.2
+6 - 9.99
+108.1
+10 - 19.99
+146.0
+20 - 39.99
+49.2
+≥ 40
+13.8
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.9
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.3
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+227.4
+
+1
+2
+1
+0
+0
+1
+3
+1
+0
+1
+1
+3
+2
+1
+1
+8
+6
+3
+1
+3
+21
+20
+5
+2
+34
+32
+32
+8
+3
+207
+141
+
+2
+2
+1
+0
+4
+1
+3
+1
+1
+7
+2
+3
+2
+1
+42
+13
+6
+3
+1
+161
+33
+20
+5
+3
+366
+53
+32
+8
+12
+891
+230
+
+3
+2
+1
+7
+4
+1
+3
+1
+19
+10
+2
+3
+2
+62
+45
+14
+6
+3
+337
+171
+43
+20
+5
+671
+401
+91
+32
+8
+3035
+984
+380
+
+4
+2
+1
+12
+5
+1
+3
+1
+114
+14
+3
+3
+2
+289
+57
+25
+6
+3
+709
+197
+64
+20
+5
+1703
+493
+130
+32
+8
+4808
+1257
+494
+
+5
+2
+6
+26
+7
+1
+3
+24
+141
+20
+4
+3
+87
+323
+70
+34
+6
+791
+848
+236
+84
+20
+1215
+2116
+678
+188
+32
+2542
+5478
+1576
+655
+
+Basis Points Away from the Midpoint (Ask)
+6
+7
+8
+9
+10
+2
+2
+3
+7
+59
+28
+63
+83
+83
+88
+28
+32
+56
+61
+74
+9
+11
+13
+15
+22
+2
+2
+2
+2
+3
+3
+3
+11
+66
+324
+74
+176
+244
+244
+254
+144
+153
+175
+188
+203
+25
+31
+40
+48
+57
+6
+7
+8
+11
+13
+3
+4
+70
+428
+743
+310
+886
+1159
+1162
+1182
+339
+359
+398
+444
+481
+92
+117
+131
+152
+185
+48
+56
+62
+75
+86
+6
+6
+312
+1844
+3443
+1571
+2264
+3490
+3492
+3525
+893
+931
+1037
+1161
+1372
+327
+413
+452
+507
+578
+113
+136
+171
+197
+227
+20
+20
+966
+6286
+11427
+3676
+6387
+8406
+8415
+8429
+2173
+2217
+2425
+2856
+3123
+836
+1006
+1164
+1293
+1449
+244
+307
+366
+428
+496
+32
+32
+1478
+11870
+24360
+13863
+20186
+22640
+22659
+22666
+5514
+5543
+6651
+8125
+9213
+1952
+2424
+2688
+3019
+3404
+801
+969
+1115
+1298
+1476
+
+15
+177
+154
+126
+38
+8
+1035
+367
+370
+103
+30
+4028
+1396
+818
+318
+154
+10960
+4153
+2218
+922
+412
+21488
+9013
+5407
+2266
+872
+91886
+23609
+14515
+5847
+2581
+
+20
+356
+232
+181
+58
+12
+1997
+513
+483
+158
+52
+5567
+1846
+1074
+458
+236
+15619
+5630
+2928
+1248
+620
+38452
+13773
+7249
+3140
+1318
+124217
+41536
+19883
+8516
+3731
+
+40
+844
+549
+433
+147
+52
+3937
+1310
+1074
+432
+192
+9375
+4003
+2118
+1050
+584
+28294
+12355
+6320
+2660
+1345
+61171
+31214
+15949
+6406
+2925
+180657
+78234
+45498
+16102
+6797
+
+60
+1305
+863
+705
+291
+145
+5658
+2060
+1639
+733
+348
+13655
+5962
+3108
+1562
+847
+41525
+18701
+9023
+3687
+1841
+97888
+48455
+22348
+8420
+3920
+275673
+119332
+60333
+19868
+8550
+
+80
+1849
+1201
+1004
+449
+281
+7598
+2734
+2135
+1024
+496
+18634
+7704
+3927
+2022
+1088
+57915
+24024
+11016
+4570
+2350
+125136
+63472
+26409
+10001
+4869
+361327
+152049
+67958
+22538
+9841
+
+100
+2329
+1550
+1310
+616
+402
+9090
+3366
+2629
+1301
+643
+22973
+9332
+4649
+2479
+1304
+70598
+28359
+12697
+5460
+2789
+155930
+75217
+29533
+11458
+5583
+435188
+175801
+73356
+24925
+10624
+
+32
+
+Panel C: Cumulative bid depth in $ (‘000) by basis points away from the midpoint
+Cumulative Depth in $ ('000)
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+244.0
+6 - 9.99
+94.2
+10 - 19.99
+92.8
+20 - 39.99
+19.2
+≥ 40
+1.6
+2 - 5.99
+144.2
+6 - 9.99
+108.1
+10 - 19.99
+146.0
+20 - 39.99
+49.2
+≥ 40
+13.8
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.9
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.3
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+227.4
+
+-100
+11
+13
+16
+11
+17
+41
+27
+36
+29
+31
+102
+71
+65
+66
+74
+306
+241
+178
+154
+142
+670
+584
+431
+334
+289
+1813
+1399
+1054
+743
+615
+
+-80
+9
+10
+12
+8
+13
+35
+23
+30
+23
+24
+83
+60
+56
+55
+64
+251
+207
+157
+131
+123
+537
+493
+388
+294
+255
+1529
+1213
+975
+677
+579
+
+-60
+7
+8
+9
+5
+7
+28
+18
+24
+16
+17
+63
+47
+46
+44
+50
+180
+165
+131
+107
+98
+409
+377
+330
+250
+207
+1187
+953
+863
+601
+513
+
+-40
+5
+5
+5
+2
+3
+20
+12
+17
+10
+9
+44
+32
+32
+31
+35
+123
+114
+96
+79
+73
+254
+242
+238
+193
+154
+821
+625
+661
+490
+412
+
+-20
+2
+2
+2
+1
+1
+10
+5
+9
+4
+2
+27
+15
+17
+15
+16
+62
+53
+49
+41
+34
+146
+109
+113
+100
+70
+548
+336
+318
+267
+230
+
+Basis Points Away from the Midpoint (Bid)
+-15
+-10
+-9
+-8
+-7
+1
+1
+0
+0
+0
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+2
+0
+0
+0
+3
+2
+2
+2
+2
+7
+4
+4
+4
+3
+3
+2
+1
+1
+1
+1
+0
+0
+0
+0
+22
+4
+2
+0
+0
+12
+10
+10
+10
+8
+14
+9
+8
+7
+6
+11
+8
+6
+6
+5
+11
+7
+6
+5
+5
+48
+18
+10
+2
+0
+40
+33
+33
+33
+21
+37
+25
+20
+19
+17
+32
+21
+18
+16
+15
+23
+13
+12
+10
+8
+100
+61
+35
+6
+0
+69
+64
+64
+63
+51
+84
+51
+46
+39
+35
+75
+50
+45
+41
+36
+47
+28
+24
+21
+18
+455
+211
+65
+8
+0
+188
+180
+180
+179
+164
+231
+154
+138
+108
+88
+190
+119
+107
+96
+87
+162
+97
+86
+75
+66
+
+-6
+0
+0
+1
+0
+0
+0
+1
+3
+1
+0
+0
+3
+6
+4
+4
+0
+16
+16
+12
+7
+0
+32
+34
+31
+14
+0
+119
+87
+74
+55
+
+-5
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+1
+6
+3
+3
+0
+9
+15
+9
+5
+0
+11
+34
+26
+11
+0
+24
+87
+62
+46
+
+-4
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+5
+2
+3
+0
+0
+14
+7
+4
+0
+0
+29
+19
+7
+0
+0
+80
+49
+35
+
+-3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+1
+0
+0
+8
+6
+2
+0
+0
+12
+14
+5
+0
+0
+57
+36
+27
+
+-2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+6
+2
+0
+0
+0
+13
+3
+0
+0
+0
+33
+16
+
+-1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+2
+2
+0
+0
+0
+11
+10
+
+33
+
+Panel D: Cumulative ask depth in $ (‘000) by basis points away from the midpoint
+Cumulative Depth in $ ('000)
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+244.0
+6 - 9.99
+94.2
+10 - 19.99
+92.8
+20 - 39.99
+19.2
+≥ 40
+1.6
+2 - 5.99
+144.2
+6 - 9.99
+108.1
+10 - 19.99
+146.0
+20 - 39.99
+49.2
+≥ 40
+13.8
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.9
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.3
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+227.4
+
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+2
+0
+0
+0
+7
+8
+
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+4
+2
+0
+0
+0
+10
+3
+0
+0
+0
+25
+14
+
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+5
+4
+2
+0
+0
+11
+11
+5
+0
+0
+51
+28
+23
+
+4
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+4
+1
+1
+0
+0
+10
+5
+3
+0
+0
+24
+14
+7
+0
+0
+73
+38
+29
+
+5
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+4
+2
+1
+0
+8
+12
+6
+4
+0
+12
+29
+19
+10
+0
+24
+81
+47
+39
+
+Basis Points Away from the Midpoint (Ask)
+6
+7
+8
+9
+10
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+1
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+1
+1
+2
+2
+2
+2
+2
+2
+3
+3
+1
+1
+1
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+2
+4
+3
+7
+8
+8
+9
+5
+5
+5
+6
+7
+2
+3
+3
+4
+5
+2
+2
+3
+3
+4
+0
+0
+2
+10
+18
+14
+19
+27
+27
+27
+12
+13
+15
+17
+20
+8
+10
+12
+13
+15
+6
+7
+9
+10
+12
+0
+0
+6
+35
+61
+32
+51
+64
+64
+64
+30
+31
+34
+41
+45
+24
+28
+33
+37
+41
+13
+16
+19
+22
+26
+0
+0
+9
+66
+129
+118
+164
+179
+179
+179
+81
+82
+103
+127
+143
+58
+71
+79
+89
+101
+48
+58
+67
+78
+88
+
+15
+1
+1
+2
+1
+0
+5
+3
+5
+3
+1
+17
+10
+11
+8
+7
+48
+33
+31
+24
+21
+101
+70
+76
+64
+46
+385
+189
+222
+172
+154
+
+20
+1
+2
+2
+1
+1
+7
+4
+7
+4
+2
+22
+14
+15
+12
+11
+61
+46
+42
+33
+32
+148
+110
+104
+89
+70
+479
+337
+308
+249
+222
+
+40
+3
+4
+6
+4
+3
+14
+10
+15
+11
+10
+37
+30
+30
+27
+30
+112
+98
+90
+70
+71
+255
+244
+229
+182
+156
+738
+629
+698
+467
+401
+
+60
+4
+7
+9
+7
+8
+20
+16
+22
+19
+18
+54
+45
+44
+41
+44
+169
+149
+128
+98
+98
+408
+379
+319
+239
+209
+1106
+959
+919
+576
+503
+
+80
+6
+9
+13
+11
+15
+27
+21
+29
+26
+26
+73
+58
+55
+53
+57
+235
+191
+157
+122
+124
+533
+496
+376
+285
+259
+1460
+1221
+1032
+654
+573
+
+100
+8
+12
+17
+15
+21
+32
+26
+36
+33
+34
+90
+71
+66
+65
+69
+290
+225
+180
+147
+146
+662
+586
+421
+328
+294
+1757
+1409
+1114
+725
+611
+
+34
+
+Appendix Table 4: Aggregate Limit Order Book Depth by Pennies from the BBO
+Panel A: Mean
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+24
+20.8
+11.3
+8.3
+5.1
+2.1
+21.2
+14.2
+9.8
+6.1
+3.5
+19.1
+16.6
+13.0
+8.6
+4.7
+15.7
+18.2
+17.1
+13.1
+7.1
+15.6
+17.6
+20.2
+18.3
+11.5
+11.6
+13.9
+18.5
+24.3
+18.3
+
+19
+16.9
+9.4
+6.9
+4.4
+1.9
+17.5
+11.7
+8.0
+5.1
+3.0
+16.3
+14.0
+10.7
+7.1
+4.0
+13.8
+16.1
+14.6
+10.8
+6.0
+13.9
+16.0
+18.0
+15.8
+9.9
+10.4
+12.8
+17.1
+21.7
+16.1
+
+Multiple of Best Bid Size at Bid Price Minus 'x' cents
+14
+9
+8
+7
+6
+5
+4
+3
+12.8 8.6 7.9 7.1 6.3 5.4 4.4 3.6
+7.5 5.5 5.2 4.8 4.4 4.0 3.2 2.8
+5.4 3.9 3.7 3.5 3.2 2.9 2.3 2.1
+3.6 2.7 2.6 2.5 2.3 2.1 1.9 1.8
+1.7 1.5 1.5 1.5 1.4 1.4 1.3 1.3
+13.5 9.7 8.9 8.0 7.1 6.1 5.1 4.1
+9.1 6.5 5.9 5.3 4.8 4.2 3.6 2.9
+6.2 4.5 4.1 3.8 3.4 3.0 2.6 2.3
+4.2 3.1 2.9 2.7 2.5 2.3 2.1 1.9
+2.7 2.3 2.2 2.1 2.0 1.9 1.7 1.6
+13.3 10.2 9.5 8.7 7.8 6.8 5.7 4.5
+11.2 8.4 7.7 7.0 6.2 5.4 4.6 3.6
+8.3 6.1 5.7 5.2 4.6 4.0 3.3 2.7
+5.6 4.1 3.8 3.4 3.1 2.8 2.4 2.1
+3.5 2.7 2.6 2.4 2.3 2.1 1.9 1.7
+11.9 9.8 9.2 8.6 7.9 7.0 5.8 4.6
+13.7 10.9 10.2 9.4 8.4 7.4 6.1 4.8
+12.0 9.2 8.5 7.8 6.9 5.9 4.8 3.7
+8.6 6.2 5.6 5.0 4.3 3.7 3.0 2.5
+5.0 3.6 3.3 3.0 2.8 2.5 2.2 1.9
+11.9 9.6 9.0 8.4 7.7 6.8 5.7 4.6
+14.1 11.8 11.1 10.3 9.3 8.2 6.8 5.2
+15.4 12.3 11.5 10.6 9.4 8.1 6.6 4.9
+13.0 9.6 8.6 7.6 6.6 5.5 4.3 3.3
+8.3 5.5 4.8 4.2 3.7 3.1 2.6 2.2
+8.9 7.5 7.1 6.7 6.2 5.6 4.8 3.9
+11.4 9.6 9.2 8.6 7.8 6.9 5.8 4.7
+15.3 12.9 12.2 11.3 10.2 8.9 7.3 5.5
+18.8 14.4 13.0 11.6 10.0 8.3 6.4 4.6
+13.3 8.6 7.5 6.4 5.4 4.4 3.5 2.7
+
+2
+2.8
+2.3
+1.9
+1.6
+1.2
+3.0
+2.3
+1.9
+1.7
+1.5
+3.2
+2.7
+2.1
+1.8
+1.6
+3.3
+3.3
+2.7
+2.0
+1.7
+3.3
+3.6
+3.4
+2.4
+1.8
+3.0
+3.4
+3.7
+3.1
+2.1
+
+Size in Shares
+1
+Bid
+Ask
+2.0 1792 1499
+1.7
+911
+929
+1.6
+592
+664
+1.4
+301
+410
+1.2
+217
+248
+2.0 5511 3849
+1.7
+889
+1005
+1.5
+704
+688
+1.4
+283
+327
+1.3
+176
+200
+2.1 8197 6725
+1.8 1850 1648
+1.6
+855
+767
+371
+361
+1.5
+1.3
+227
+213
+2.1 18271 18576
+2.1 5395 4302
+1.8 1482 1227
+1.5
+588
+507
+1.4
+250
+259
+2.1 40151 40769
+2.3 8433 8523
+2.1 2672 2376
+1.7
+849
+730
+1.4
+307
+316
+2.0 117703 120836
+2.2 22738 22702
+2.3 5689 5555
+2.0 1491 1225
+1.6
+460
+444
+
+1
+2.2
+2.2
+1.8
+1.5
+1.2
+1.9
+1.7
+1.6
+1.5
+1.3
+2.0
+1.8
+1.6
+1.5
+1.3
+2.1
+2.1
+1.8
+1.5
+1.4
+2.1
+2.3
+2.1
+1.7
+1.4
+2.0
+2.2
+2.3
+2.0
+1.6
+
+2
+3.0
+2.6
+2.2
+1.7
+1.3
+2.9
+2.3
+2.0
+1.8
+1.4
+3.2
+2.7
+2.1
+1.8
+1.5
+3.3
+3.4
+2.7
+2.0
+1.7
+3.3
+3.6
+3.4
+2.4
+1.8
+2.9
+3.4
+3.8
+3.2
+2.1
+
+Multiple of Best Ask Size at Ask Price Plus 'x' cents
+3
+4
+5
+6
+7
+8
+9
+14
+3.7 4.4 5.4 6.2 6.9 7.6 8.2 12.1
+3.1 3.5 4.3 4.8 5.2 5.5 5.8 7.8
+2.5 2.7 3.2 3.6 3.8 4.1 4.3 5.7
+1.8 2.0 2.2 2.4 2.5 2.7 2.8 3.7
+1.4 1.5 1.6 1.6 1.7 1.7 1.7 2.1
+3.9 4.9 5.9 6.9 7.8 8.6 9.5 13.6
+2.9 3.5 4.2 4.8 5.4 6.0 6.6 9.6
+2.3 2.7 3.2 3.6 4.0 4.3 4.6 6.5
+2.0 2.2 2.5 2.7 2.9 3.1 3.3 4.5
+1.6 1.6 1.8 1.9 2.0 2.1 2.1 2.6
+4.4 5.6 6.8 7.8 8.8 9.6 10.4 14.0
+3.6 4.6 5.5 6.3 7.1 7.8 8.5 11.6
+2.7 3.3 4.1 4.7 5.3 5.8 6.2 8.6
+2.1 2.4 2.8 3.1 3.4 3.7 4.0 5.6
+1.7 1.8 2.0 2.2 2.3 2.4 2.6 3.3
+4.6 5.8 7.0 7.9 8.6 9.2 9.8 12.1
+4.8 6.2 7.5 8.5 9.5 10.3 11.0 13.9
+3.8 5.0 6.2 7.2 8.1 8.9 9.6 12.7
+2.5 3.0 3.7 4.4 5.0 5.6 6.2 8.6
+1.9 2.1 2.5 2.7 3.0 3.2 3.5 4.8
+4.5 5.6 6.7 7.6 8.3 9.0 9.5 11.8
+5.2 6.8 8.2 9.3 10.3 11.1 11.8 14.2
+5.1 6.8 8.3 9.7 10.8 11.7 12.5 15.8
+3.3 4.4 5.6 6.7 7.7 8.7 9.7 13.2
+2.2 2.6 3.1 3.7 4.2 4.8 5.5 8.2
+3.9 4.7 5.6 6.2 6.7 7.2 7.6 9.4
+4.7 5.9 7.0 7.9 8.6 9.2 9.8 11.9
+5.6 8.2 10.0 11.3 12.3 13.3 14.0 16.5
+4.8 6.7 8.6 10.3 11.8 13.2 14.6 19.0
+2.7 3.5 4.5 5.5 6.5 7.6 8.7 13.3
+
+19
+16.0
+9.7
+6.9
+4.4
+2.5
+17.8
+12.5
+8.4
+5.6
+3.1
+17.4
+14.9
+11.1
+7.0
+3.9
+14.1
+16.4
+15.6
+10.8
+5.8
+14.0
+16.4
+18.6
+16.0
+9.8
+11.1
+13.5
+18.4
+21.9
+16.0
+
+24
+19.9
+11.6
+8.1
+5.2
+2.8
+21.8
+15.2
+10.3
+6.7
+3.6
+20.6
+17.7
+13.6
+8.5
+4.5
+16.0
+18.6
+18.4
+13.2
+6.9
+15.9
+18.2
+21.1
+18.6
+11.4
+12.6
+15.0
+20.1
+24.6
+18.1
+
+35
+
+Panel B: Median
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+24
+13.0
+6.4
+4.2
+2.8
+1.6
+16.7
+11.0
+7.2
+4.6
+2.9
+16.3
+14.4
+10.6
+6.4
+3.5
+14.2
+16.3
+15.4
+10.9
+5.1
+13.7
+15.9
+18.6
+16.9
+10.3
+11.1
+12.2
+17.2
+23.0
+17.0
+
+19
+10.4
+5.4
+3.5
+2.4
+1.4
+13.9
+9.0
+5.9
+3.9
+2.6
+14.1
+12.3
+8.9
+5.4
+3.0
+12.6
+14.6
+13.2
+9.3
+4.3
+12.4
+14.7
+16.6
+14.6
+8.9
+9.9
+11.4
+15.9
+20.5
+14.9
+
+Multiple of Best Bid Size at Bid Price Minus 'x' cents
+14
+9
+8
+7
+6
+5
+4
+3
+7.7 5.3 4.9 4.5 4.0 3.6 3.0 2.5
+4.2 3.1 2.9 2.7 2.6 2.3 1.9 1.7
+2.9 2.2 2.1 2.0 1.9 1.8 1.4 1.3
+2.0 1.6 1.5 1.5 1.4 1.4 1.2 1.1
+1.3 1.2 1.2 1.1 1.1 1.1 1.0 1.0
+10.7 7.9 7.3 6.6 6.0 5.2 4.4 3.6
+7.1 5.1 4.7 4.3 3.9 3.4 2.9 2.5
+4.6 3.4 3.2 3.0 2.7 2.5 2.2 1.9
+3.3 2.5 2.4 2.2 2.1 2.0 1.8 1.7
+2.3 2.0 1.9 1.8 1.8 1.7 1.5 1.4
+11.8 9.3 8.7 8.0 7.2 6.3 5.3 4.2
+9.7 7.3 6.8 6.2 5.5 4.9 4.1 3.3
+7.0 5.2 4.9 4.5 4.0 3.5 2.9 2.4
+4.4 3.3 3.1 2.8 2.6 2.4 2.1 1.9
+2.7 2.2 2.1 2.1 2.0 1.9 1.7 1.6
+10.9 9.1 8.6 8.1 7.4 6.6 5.5 4.4
+12.5 10.1 9.5 8.7 7.9 6.9 5.8 4.5
+10.7 8.3 7.7 7.1 6.3 5.4 4.4 3.4
+7.3 5.3 4.8 4.2 3.7 3.2 2.7 2.3
+3.7 2.9 2.7 2.6 2.4 2.2 2.0 1.8
+10.7 8.8 8.4 7.8 7.2 6.4 5.4 4.4
+13.2 11.2 10.6 9.8 8.9 7.8 6.4 5.0
+14.3 11.5 10.8 9.9 8.9 7.7 6.3 4.7
+12.0 8.9 8.0 7.0 6.0 5.0 3.9 3.0
+7.4 4.6 4.1 3.6 3.2 2.8 2.4 2.1
+8.5 7.2 6.8 6.5 6.0 5.4 4.7 3.9
+10.4 9.0 8.6 8.1 7.5 6.7 5.6 4.5
+14.4 12.2 11.6 10.8 9.8 8.6 7.0 5.4
+17.8 13.7 12.4 11.1 9.6 7.9 6.1 4.4
+12.4 7.7 6.7 5.7 4.7 3.9 3.1 2.5
+
+2
+2.0
+1.5
+1.2
+1.1
+1.0
+2.7
+2.0
+1.7
+1.5
+1.3
+3.1
+2.5
+2.0
+1.7
+1.5
+3.2
+3.2
+2.5
+1.9
+1.6
+3.2
+3.5
+3.3
+2.3
+1.7
+3.0
+3.3
+3.6
+2.9
+2.0
+
+Size in Shares
+1
+Bid
+Ask
+1.5
+770
+735
+1.3
+465
+490
+1.1
+319
+336
+1.0
+178
+197
+1.0
+148
+135
+1.8 1377 1359
+1.5
+536
+558
+1.4
+334
+360
+1.3
+223
+237
+1.2
+146
+158
+2.0 2824 2825
+1.8
+811
+862
+1.5
+411
+442
+1.4
+255
+273
+1.3
+164
+177
+2.1 10847 10852
+2.1 1965 1958
+1.8
+629
+640
+1.5
+331
+345
+1.4
+206
+220
+2.1 23064 22993
+2.2 6883 7012
+2.1 1300 1282
+1.6
+444
+453
+1.4
+275
+285
+2.0 101702 103209
+2.1 21860 21864
+2.3 3815 3820
+1.9
+741
+739
+1.5
+338
+346
+
+1
+1.5
+1.3
+1.1
+1.1
+1.0
+1.8
+1.5
+1.4
+1.3
+1.2
+2.0
+1.7
+1.5
+1.4
+1.3
+2.1
+2.1
+1.8
+1.5
+1.3
+2.1
+2.2
+2.1
+1.6
+1.4
+2.0
+2.1
+2.3
+1.9
+1.5
+
+2
+1.9
+1.5
+1.2
+1.1
+1.1
+2.5
+2.0
+1.6
+1.5
+1.3
+3.0
+2.5
+2.0
+1.7
+1.4
+3.2
+3.2
+2.5
+1.8
+1.6
+3.2
+3.5
+3.3
+2.3
+1.7
+2.9
+3.3
+3.7
+3.0
+2.0
+
+Multiple of Best Ask Size at Ask Price Plus 'x' cents
+3
+4
+5
+6
+7
+8
+9
+14
+2.4 2.8 3.3 3.7 4.1 4.5 4.9 7.0
+1.7 1.9 2.3 2.5 2.7 2.8 3.0 4.0
+1.3 1.4 1.7 1.8 1.9 2.0 2.1 2.7
+1.1 1.2 1.3 1.4 1.4 1.5 1.5 1.9
+1.1 1.1 1.2 1.2 1.2 1.2 1.2 1.4
+3.4 4.2 4.9 5.6 6.3 6.9 7.5 10.4
+2.4 2.9 3.4 3.8 4.2 4.6 5.0 7.0
+1.9 2.1 2.5 2.7 3.0 3.2 3.4 4.6
+1.6 1.8 2.0 2.1 2.2 2.4 2.5 3.3
+1.4 1.4 1.5 1.6 1.6 1.7 1.7 2.1
+4.1 5.2 6.2 7.1 7.9 8.6 9.2 11.8
+3.3 4.1 4.9 5.5 6.2 6.8 7.3 9.9
+2.4 2.9 3.5 4.0 4.4 4.8 5.2 7.0
+1.9 2.1 2.4 2.6 2.8 3.0 3.3 4.3
+1.5 1.6 1.8 1.9 2.0 2.1 2.2 2.5
+4.4 5.5 6.5 7.3 8.0 8.5 9.0 10.9
+4.6 5.9 7.0 8.0 8.8 9.6 10.2 12.7
+3.5 4.6 5.6 6.6 7.3 8.0 8.6 11.1
+2.2 2.6 3.2 3.7 4.2 4.8 5.3 7.3
+1.7 1.9 2.2 2.3 2.5 2.6 2.8 3.5
+4.3 5.3 6.2 7.0 7.6 8.2 8.7 10.7
+5.0 6.5 7.8 8.9 9.8 10.5 11.1 13.2
+4.9 6.5 7.9 9.1 10.2 11.0 11.7 14.7
+3.0 4.0 5.1 6.2 7.1 8.0 9.0 12.0
+2.0 2.3 2.8 3.2 3.6 4.1 4.6 7.2
+3.8 4.6 5.4 6.0 6.5 6.9 7.3 8.7
+4.5 5.7 6.7 7.5 8.1 8.7 9.1 10.8
+5.5 7.2 8.7 9.9 10.8 11.6 12.3 14.5
+4.5 6.4 8.2 9.9 11.4 12.7 14.0 18.0
+2.5 3.1 3.9 4.8 5.8 6.8 7.8 12.4
+
+19
+9.3
+5.0
+3.2
+2.2
+1.5
+13.6
+8.8
+5.8
+3.9
+2.4
+14.4
+12.6
+8.9
+5.4
+2.9
+12.5
+14.9
+13.8
+9.2
+4.1
+12.6
+14.9
+17.0
+14.6
+8.7
+10.3
+12.0
+16.1
+20.7
+14.9
+
+24
+11.8
+6.0
+3.8
+2.5
+1.7
+16.5
+10.7
+7.1
+4.6
+2.7
+16.7
+14.7
+10.7
+6.4
+3.3
+14.1
+16.7
+16.2
+10.9
+4.9
+14.1
+16.2
+19.2
+17.0
+10.1
+11.6
+13.0
+17.4
+23.2
+16.8
+
+36
+
+Appendix Table 5: Distribution of Cumulative Depth by Pennies
+Panel A: Less than $5,000
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+282.0
+6 - 9.99
+113.9
+10 - 19.99
+117.0
+20 - 39.99
+24.7
+≥ 40
+1.5
+2 - 5.99
+144.6
+6 - 9.99
+108.7
+10 - 19.99
+147.4
+20 - 39.99
+49.8
+≥ 40
+13.6
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.6
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.1
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+226.9
+
+0.5
+90.10
+97.87
+99.00
+99.55
+99.19
+44.71
+83.57
+94.97
+98.84
+99.65
+12.58
+46.35
+81.97
+96.29
+98.31
+2.94
+8.96
+43.59
+87.06
+97.14
+1.97
+0.95
+10.82
+57.65
+92.12
+0.00
+0.00
+2.20
+13.93
+68.61
+
+1
+82.82
+95.28
+97.95
+99.28
+99.19
+29.41
+70.26
+90.27
+97.75
+99.39
+6.63
+28.21
+65.15
+92.33
+97.67
+1.18
+4.24
+24.43
+72.18
+95.33
+0.80
+0.56
+3.74
+34.77
+80.07
+0.00
+0.00
+1.13
+4.56
+46.33
+
+% of Ticker-Days with less than $5,000 within 'x' cents of the midpoint
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+73.78
+66.42
+58.67
+53.04
+47.99
+43.79
+39.64
+35.61
+91.30
+86.47
+79.48
+74.82
+70.80
+66.73
+62.83
+57.72
+96.53
+94.41
+90.08
+87.78
+85.65
+83.36
+80.79
+76.34
+99.05
+98.66
+97.84
+97.28
+96.59
+96.11
+95.33
+93.64
+99.19
+99.19
+98.39
+98.39
+98.39
+98.39
+98.39
+97.04
+16.96
+11.65
+7.97
+6.06
+4.67
+3.73
+3.01
+2.42
+55.08
+43.43
+33.00
+25.95
+21.05
+17.27
+14.03
+11.35
+83.01
+75.16
+66.28
+59.25
+52.78
+46.78
+40.92
+35.22
+96.23
+94.29
+91.16
+88.34
+85.19
+82.03
+78.19
+73.49
+99.21
+98.89
+98.37
+98.05
+97.61
+97.03
+96.16
+95.14
+3.69
+2.47
+1.84
+1.53
+1.27
+1.04
+0.87
+0.74
+15.63
+9.67
+6.57
+4.95
+3.86
+3.15
+2.61
+2.17
+47.92
+36.12
+26.72
+20.58
+16.00
+12.56
+9.80
+7.59
+85.57
+78.32
+69.47
+61.38
+53.23
+46.20
+39.76
+34.38
+96.81
+95.88
+94.04
+92.32
+90.32
+88.34
+85.32
+81.73
+0.52
+0.26
+0.15
+0.09
+0.04
+0.03
+0.01
+0.01
+2.65
+2.02
+1.37
+0.87
+0.41
+0.22
+0.10
+0.05
+13.08
+8.39
+6.17
+5.01
+4.05
+3.30
+2.64
+2.09
+52.80
+39.66
+29.78
+22.78
+17.33
+13.16
+9.95
+7.59
+91.77
+86.58
+79.67
+72.87
+66.17
+59.84
+53.65
+47.74
+0.04
+0.04
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.49
+0.41
+0.21
+0.11
+0.03
+0.03
+0.02
+0.00
+1.62
+0.90
+0.47
+0.27
+0.13
+0.08
+0.03
+0.02
+17.79
+10.00
+5.90
+3.68
+2.38
+1.51
+0.95
+0.59
+63.32
+49.88
+39.56
+32.20
+26.75
+22.35
+18.86
+15.71
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.60
+0.41
+0.31
+0.23
+0.14
+0.10
+0.07
+0.04
+1.50
+0.68
+0.34
+0.20
+0.14
+0.09
+0.06
+0.03
+29.19
+20.51
+15.41
+11.98
+9.59
+8.02
+6.77
+5.86
+
+7.5
+22.74
+42.88
+64.78
+88.20
+95.70
+1.13
+5.08
+19.01
+54.00
+90.10
+0.35
+1.06
+2.91
+17.21
+64.35
+0.00
+0.00
+0.58
+2.74
+27.33
+0.00
+0.00
+0.00
+0.09
+7.80
+0.00
+0.00
+0.02
+0.00
+3.62
+
+10
+14.95
+32.19
+54.72
+80.90
+92.74
+0.63
+2.80
+11.08
+38.41
+82.64
+0.13
+0.57
+1.35
+8.78
+48.69
+0.00
+0.00
+0.27
+1.37
+16.75
+0.00
+0.00
+0.00
+0.01
+4.41
+0.00
+0.00
+0.01
+0.00
+2.72
+
+37
+
+Panel B: Less than $10,000
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+282.0
+6 - 9.99
+113.9
+10 - 19.99
+117.0
+20 - 39.99
+24.7
+≥ 40
+1.5
+2 - 5.99
+144.6
+6 - 9.99
+108.7
+10 - 19.99
+147.4
+20 - 39.99
+49.8
+≥ 40
+13.6
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.6
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.1
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+226.9
+
+0.5
+95.26
+98.99
+99.46
+99.73
+100.00
+64.15
+93.05
+97.54
+99.44
+99.94
+24.97
+64.72
+92.29
+98.23
+98.77
+6.22
+19.37
+62.57
+94.42
+98.09
+3.37
+2.24
+22.19
+75.32
+96.94
+0.00
+0.10
+3.96
+26.79
+82.02
+
+1
+92.00
+97.82
+98.88
+99.55
+100.00
+53.93
+86.17
+95.42
+98.84
+99.85
+16.80
+49.27
+82.90
+96.52
+98.39
+4.25
+9.96
+43.38
+87.13
+97.27
+2.37
+1.06
+10.08
+55.30
+91.08
+0.00
+0.00
+2.20
+11.55
+63.72
+
+% of Ticker-Days with less than $10,000 within 'x' cents of the midpoint
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+85.01
+79.73
+73.13
+68.16
+63.26
+58.99
+54.78
+50.72
+95.75
+93.12
+88.57
+85.13
+81.55
+78.14
+74.57
+70.29
+98.10
+97.00
+94.52
+93.00
+91.47
+89.75
+87.75
+84.41
+99.40
+99.31
+98.79
+98.52
+98.21
+97.86
+97.33
+96.28
+100.00 100.00 100.00 100.00 100.00 100.00 100.00
+98.92
+33.78
+26.57
+19.00
+15.07
+11.60
+9.45
+7.74
+6.43
+73.64
+64.26
+53.74
+45.94
+38.92
+33.26
+28.30
+24.25
+91.29
+86.62
+79.83
+74.21
+68.64
+63.14
+57.83
+52.32
+98.04
+97.09
+95.36
+93.81
+92.10
+90.05
+87.34
+84.23
+99.74
+99.50
+99.18
+98.89
+98.54
+98.25
+97.93
+97.47
+7.95
+5.94
+4.15
+3.21
+2.42
+1.97
+1.67
+1.46
+31.04
+22.41
+15.38
+11.52
+8.82
+7.09
+5.70
+4.78
+66.41
+54.10
+42.90
+34.77
+28.21
+23.23
+19.05
+15.66
+92.91
+88.32
+82.48
+76.28
+69.76
+63.06
+56.35
+49.82
+97.99
+97.46
+96.68
+95.69
+94.49
+93.19
+91.64
+89.80
+1.60
+1.10
+0.59
+0.43
+0.32
+0.20
+0.13
+0.08
+4.51
+3.47
+2.78
+2.37
+1.98
+1.56
+1.18
+0.89
+24.23
+15.94
+10.53
+7.94
+6.54
+5.63
+4.84
+4.14
+71.93
+57.54
+44.75
+36.09
+29.05
+23.51
+18.68
+14.93
+95.67
+93.12
+89.53
+84.68
+79.24
+73.43
+67.71
+62.27
+1.33
+0.64
+0.28
+0.08
+0.04
+0.04
+0.04
+0.04
+0.56
+0.51
+0.47
+0.39
+0.31
+0.18
+0.11
+0.07
+3.67
+2.02
+1.16
+0.72
+0.49
+0.29
+0.17
+0.11
+32.94
+20.47
+12.16
+7.93
+5.51
+3.77
+2.62
+1.91
+79.06
+66.26
+54.11
+44.69
+37.30
+31.71
+27.39
+23.50
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1.21
+0.77
+0.50
+0.42
+0.31
+0.25
+0.20
+0.16
+4.02
+1.82
+0.97
+0.55
+0.33
+0.22
+0.17
+0.12
+43.66
+30.71
+22.44
+17.54
+14.06
+11.56
+9.62
+8.25
+
+7.5
+35.40
+55.35
+74.21
+92.73
+98.66
+2.96
+11.46
+31.93
+68.41
+94.53
+0.74
+2.24
+6.27
+28.22
+77.69
+0.03
+0.08
+1.75
+5.23
+39.84
+0.00
+0.00
+0.00
+0.33
+12.16
+0.00
+0.00
+0.05
+0.01
+4.75
+
+10
+25.51
+43.74
+64.74
+87.83
+96.51
+1.64
+6.30
+19.56
+52.51
+89.57
+0.41
+1.27
+2.95
+16.25
+62.42
+0.00
+0.01
+0.62
+2.52
+25.11
+0.00
+0.00
+0.00
+0.10
+6.87
+0.00
+0.00
+0.03
+0.00
+3.43
+
+38
+
+Panel C: Less than $20,000
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+282.0
+6 - 9.99
+113.9
+10 - 19.99
+117.0
+20 - 39.99
+24.7
+≥ 40
+1.5
+2 - 5.99
+144.6
+6 - 9.99
+108.7
+147.4
+10 - 19.99
+20 - 39.99
+49.8
+≥ 40
+13.6
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.6
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.1
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+226.9
+
+0.5
+98.01
+99.48
+99.69
+99.89
+100.00
+82.05
+97.64
+98.63
+99.76
+100.00
+46.62
+84.20
+97.41
+99.04
+99.18
+10.70
+37.73
+80.53
+97.73
+98.57
+5.30
+5.73
+38.68
+88.46
+98.82
+0.00
+1.22
+8.00
+45.97
+91.84
+
+1
+97.16
+99.07
+99.48
+99.81
+100.00
+79.19
+95.99
+98.08
+99.42
+99.94
+42.14
+77.18
+95.10
+98.59
+98.87
+9.80
+29.35
+69.97
+95.94
+98.06
+4.66
+3.95
+27.47
+77.57
+97.29
+0.00
+0.41
+5.05
+27.58
+80.93
+
+% of Ticker-Days with less than $20,000 within 'x' cents of the midpoint
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+93.42
+91.06
+83.32
+79.35
+76.35
+72.82
+86.51
+69.78
+98.34
+97.37
+95.29
+93.48
+91.60
+89.48
+87.08
+84.37
+99.11
+98.57
+97.48
+96.65
+95.80
+94.90
+93.79
+91.85
+99.71
+99.58
+99.36
+99.26
+99.08
+99.44
+98.92
+98.34
+100.00 100.00 100.00 100.00 100.00 100.00 100.00
+99.46
+58.59
+52.90
+40.62
+35.82
+28.31
+24.82
+20.92
+18.61
+89.67
+85.14
+77.38
+72.11
+65.43
+60.07
+54.72
+50.37
+96.38
+94.59
+91.49
+88.46
+84.76
+81.44
+77.52
+73.68
+99.12
+98.68
+97.92
+97.32
+96.45
+95.66
+94.42
+92.93
+99.85
+99.85
+99.71
+99.56
+99.30
+99.01
+98.63
+98.34
+20.34
+16.86
+10.94
+8.93
+6.58
+5.59
+4.66
+4.14
+55.44
+47.44
+37.29
+31.41
+25.07
+21.59
+17.75
+15.34
+86.05
+78.29
+67.64
+59.58
+52.11
+46.17
+40.30
+35.70
+97.16
+95.48
+92.44
+89.28
+85.33
+81.37
+76.58
+71.96
+98.49
+98.33
+97.89
+97.54
+97.03
+96.28
+95.52
+94.60
+5.29
+4.34
+2.08
+1.65
+1.17
+0.91
+0.66
+0.51
+12.43
+8.71
+5.50
+4.56
+3.67
+3.30
+2.95
+2.71
+47.02
+35.12
+24.45
+18.64
+14.21
+11.55
+9.57
+8.21
+89.03
+80.39
+67.97
+57.30
+47.93
+40.97
+34.88
+29.97
+97.47
+96.62
+95.08
+92.92
+89.99
+86.39
+82.27
+77.79
+3.01
+2.57
+1.65
+1.25
+1.00
+0.68
+0.36
+0.24
+1.16
+0.44
+0.75
+0.56
+0.52
+0.51
+0.49
+0.47
+11.04
+0.86
+0.68
+6.61
+3.57
+2.41
+1.63
+1.16
+56.15
+19.29
+7.13
+5.47
+41.03
+27.62
+13.18
+9.51
+91.75
+83.42
+72.85
+62.90
+53.77
+46.13
+39.83
+34.80
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2.43
+1.71
+1.17
+0.83
+0.64
+0.52
+0.47
+0.42
+11.40
+5.79
+2.92
+1.84
+1.11
+0.76
+0.52
+0.33
+63.30
+47.93
+35.37
+27.22
+21.40
+17.65
+14.72
+12.46
+
+7.5
+54.86
+72.14
+84.99
+96.46
+99.46
+9.82
+32.08
+56.29
+84.16
+97.06
+1.87
+7.47
+19.26
+49.26
+88.35
+0.23
+1.53
+4.89
+13.67
+56.65
+0.04
+0.15
+0.12
+1.55
+19.70
+0.00
+0.00
+0.21
+0.09
+6.78
+
+10
+44.01
+61.23
+77.45
+93.63
+98.39
+5.99
+20.29
+41.49
+72.70
+94.64
+1.10
+4.25
+10.66
+32.84
+77.93
+0.11
+0.47
+3.08
+6.36
+39.62
+0.04
+0.03
+0.03
+0.42
+11.67
+0.00
+0.00
+0.09
+0.02
+4.57
+
+39
+
+Panel D: Less than $50,000
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+282.0
+6 - 9.99
+113.9
+10 - 19.99
+117.0
+20 - 39.99
+24.7
+≥ 40
+1.5
+2 - 5.99
+144.6
+6 - 9.99
+108.7
+147.4
+10 - 19.99
+20 - 39.99
+49.8
+≥ 40
+13.6
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.6
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.1
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+226.9
+
+0.5
+99.31
+99.70
+99.84
+99.97
+100.00
+95.62
+99.27
+99.21
+99.88
+100.00
+76.14
+96.80
+99.16
+99.51
+99.63
+23.93
+74.00
+94.84
+98.85
+99.29
+15.51
+20.02
+69.22
+96.88
+99.47
+0.00
+4.23
+19.74
+74.78
+98.21
+
+1
+99.21
+99.50
+99.74
+99.90
+100.00
+95.38
+98.99
+99.10
+99.75
+100.00
+75.59
+96.39
+99.00
+99.33
+99.31
+23.33
+71.67
+93.67
+98.71
+98.98
+15.39
+18.43
+64.64
+95.50
+99.32
+0.00
+3.75
+17.44
+65.91
+96.28
+
+% of Ticker-Days with less than $50,000 within 'x' cents of the midpoint
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+98.25
+97.84
+95.69
+93.90
+92.94
+91.07
+96.46
+89.95
+99.33
+99.15
+98.73
+98.32
+97.90
+97.44
+96.81
+96.08
+99.58
+99.46
+99.18
+98.86
+98.58
+98.31
+97.99
+97.48
+99.89
+99.84
+99.73
+99.68
+99.65
+99.74
+99.63
+99.50
+100.00 100.00 100.00 100.00 100.00 100.00 100.00 100.00
+85.09
+83.97
+74.04
+71.99
+63.01
+60.48
+53.53
+51.28
+97.90
+97.28
+95.06
+93.73
+90.94
+89.11
+86.14
+83.90
+98.72
+98.45
+97.77
+97.11
+96.10
+95.30
+94.07
+92.91
+99.63
+99.43
+99.18
+98.99
+98.84
+98.65
+98.43
+98.18
+99.97
+99.97
+99.91
+99.88
+99.88
+99.85
+99.80
+99.68
+50.88
+49.12
+34.33
+32.39
+24.38
+22.42
+18.14
+16.65
+86.45
+83.61
+72.07
+68.16
+59.39
+55.49
+49.09
+46.18
+97.77
+96.78
+93.90
+91.61
+86.76
+83.06
+77.68
+73.77
+99.05
+98.81
+98.30
+97.72
+96.79
+95.83
+94.71
+93.35
+99.12
+98.99
+98.78
+98.71
+98.52
+98.31
+98.00
+97.82
+11.34
+10.90
+8.51
+8.17
+6.26
+5.75
+4.19
+3.76
+39.52
+35.84
+24.23
+21.08
+13.90
+11.92
+8.97
+7.78
+80.44
+75.51
+64.12
+57.52
+46.65
+40.68
+33.88
+29.52
+97.95
+97.08
+94.43
+91.82
+86.81
+81.87
+75.44
+69.84
+98.35
+98.12
+97.74
+97.46
+96.90
+96.21
+95.20
+93.88
+6.71
+6.51
+4.34
+4.10
+3.46
+3.25
+2.85
+2.65
+6.52
+0.54
+5.78
+2.83
+2.01
+0.85
+0.65
+0.56
+37.56
+31.55
+20.28
+15.86
+10.56
+8.30
+5.79
+4.48
+86.50
+79.51
+67.78
+58.65
+47.72
+40.09
+32.51
+27.07
+98.74
+97.47
+94.58
+90.63
+85.07
+79.05
+72.18
+65.85
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1.35
+1.08
+0.17
+0.03
+0.00
+0.00
+0.00
+0.00
+8.10
+6.74
+4.13
+3.37
+2.24
+1.88
+1.58
+1.38
+40.04
+28.99
+17.50
+11.97
+7.57
+5.35
+3.68
+2.84
+88.11
+79.90
+68.40
+57.77
+47.16
+38.91
+32.23
+27.07
+
+7.5
+81.81
+91.43
+94.96
+99.10
+100.00
+35.30
+71.20
+85.40
+96.14
+98.84
+9.34
+30.90
+55.13
+84.15
+96.01
+1.67
+4.48
+15.11
+45.02
+83.89
+1.41
+0.51
+1.48
+10.66
+41.17
+0.00
+0.00
+0.62
+0.82
+13.64
+
+10
+74.61
+86.19
+92.11
+98.33
+100.00
+26.04
+60.18
+77.13
+92.97
+98.25
+6.39
+22.95
+42.96
+73.85
+93.02
+0.90
+3.44
+10.25
+30.75
+70.59
+0.72
+0.46
+0.84
+5.06
+27.15
+0.00
+0.00
+0.46
+0.27
+8.55
+
+40
+
+Appendix Table 6: Distribution of Cumulative Depth by Percent
+Panel A: Less than $5,000
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+Ticker/Day
+244.0
+94.2
+92.8
+19.2
+1.6
+144.2
+108.1
+146.0
+49.2
+13.8
+60.8
+79.4
+175.1
+98.8
+27.9
+29.5
+51.0
+143.5
+166.1
+63.2
+9.9
+24.2
+91.7
+175.5
+134.3
+6.5
+11.7
+60.5
+158.9
+227.4
+
+1
+99.97
+99.98
+99.96
+99.90
+99.26
+99.98
+100.00
+99.99
+99.94
+99.66
+99.99
+99.96
+99.99
+99.76
+98.31
+99.95
+99.97
+99.98
+99.31
+97.08
+99.76
+99.98
+99.97
+92.71
+91.64
+99.82
+99.73
+99.92
+75.18
+62.11
+
+2
+99.97
+99.98
+99.96
+99.42
+99.26
+99.98
+100.00
+99.99
+98.88
+99.43
+99.99
+99.96
+99.98
+96.40
+97.67
+99.95
+99.97
+99.89
+87.20
+94.82
+99.76
+99.98
+99.61
+57.73
+77.60
+99.82
+99.73
+98.84
+13.93
+34.92
+
+% of Ticker-Days with less than $5,000 within 'x' basis points of the midpoint
+6
+10
+3
+4
+5
+7
+8
+9
+99.97
+99.90
+99.68
+99.09
+99.97
+99.97
+99.97
+99.97
+98.85
+98.14
+97.44
+97.43
+97.22
+99.98
+99.98
+99.66
+98.69
+98.58
+98.29
+98.05
+97.51
+97.01
+99.65
+99.15
+98.10
+97.73
+99.40
+99.34
+99.07
+99.01
+98.72
+98.43
+98.76
+98.51
+98.51
+98.26
+98.01
+97.77
+99.01
+99.01
+99.98
+95.70
+90.54
+99.98
+99.98
+99.98
+99.98
+99.42
+88.56
+83.50
+83.48
+82.64
+100.00 100.00
+98.29
+94.32
+94.74
+94.13
+93.10
+91.56
+89.65
+87.76
+98.86
+96.40
+93.54
+92.34
+98.76
+98.09
+97.46
+96.94
+95.70
+94.97
+97.93
+99.34
+99.17
+98.76
+98.28
+97.50
+96.61
+95.81
+99.99
+99.99
+99.99
+99.97
+96.44
+80.95
+69.81
+99.99
+58.99
+46.35
+46.29
+43.80
+99.96
+99.96
+91.87
+76.36
+80.82
+77.36
+73.18
+67.08
+61.23
+55.96
+93.85
+85.92
+93.65
+90.96
+87.98
+82.73
+79.34
+75.09
+70.51
+95.82
+97.19
+96.16
+94.32
+92.41
+89.91
+87.32
+84.01
+80.43
+99.95
+99.95
+99.95
+99.95
+99.95
+94.07
+72.81
+58.62
+99.97
+99.97
+73.29
+41.13
+21.15
+8.97
+8.96
+7.88
+71.47
+50.68
+39.75
+32.28
+28.14
+21.87
+17.54
+14.79
+83.33
+73.75
+62.66
+52.69
+42.27
+36.27
+30.31
+25.54
+63.28
+55.88
+48.89
+42.60
+91.96
+86.73
+79.45
+71.35
+89.88
+62.23
+44.40
+99.76
+99.76
+99.76
+99.76
+99.76
+0.95
+99.98
+99.98
+77.44
+43.30
+15.60
+0.95
+0.95
+49.94
+19.13
+8.35
+5.36
+4.23
+2.90
+2.26
+1.73
+45.23
+30.08
+20.31
+13.73
+9.13
+6.61
+4.73
+3.49
+14.39
+11.24
+8.90
+61.25
+44.99
+32.78
+24.38
+18.56
+99.82
+99.82
+99.82
+99.82
+99.82
+94.18
+70.85
+61.21
+0.00
+0.00
+0.00
+99.73
+99.73
+85.15
+37.50
+7.78
+1.21
+1.13
+0.83
+0.64
+0.52
+33.05
+8.93
+1.68
+6.87
+3.16
+1.81
+1.17
+0.72
+0.55
+0.36
+0.26
+19.01
+10.67
+6.32
+4.15
+2.84
+2.00
+1.48
+1.12
+
+20
+91.74
+91.62
+89.40
+93.45
+92.06
+51.98
+61.15
+64.48
+74.82
+81.70
+14.85
+17.78
+22.24
+32.34
+43.69
+7.96
+2.87
+5.09
+5.66
+9.72
+9.32
+0.49
+0.23
+0.19
+1.73
+0.30
+0.00
+0.26
+0.01
+0.16
+
+35
+81.17
+76.16
+75.63
+82.77
+78.41
+23.53
+32.94
+36.09
+45.29
+46.91
+4.54
+5.71
+6.73
+9.25
+16.83
+0.89
+1.26
+1.77
+1.72
+1.55
+0.84
+0.13
+0.01
+0.00
+0.40
+0.00
+0.00
+0.05
+0.00
+0.01
+
+50
+69.98
+62.89
+62.45
+69.39
+57.82
+13.29
+19.03
+20.15
+24.59
+27.09
+2.91
+3.05
+2.74
+2.99
+7.51
+0.35
+0.33
+0.58
+0.69
+0.70
+0.12
+0.02
+0.00
+0.00
+0.20
+0.00
+0.00
+0.02
+0.00
+0.01
+
+41
+
+Panel B: Less than $10,000
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $ Ticker/Day
+2 - 5.99
+244.0
+6 - 9.99
+94.2
+10 - 19.99
+92.8
+20 - 39.99
+19.2
+≥ 40
+1.6
+2 - 5.99
+144.2
+6 - 9.99
+108.1
+10 - 19.99
+146.0
+20 - 39.99
+49.2
+≥ 40
+13.8
+2 - 5.99
+60.8
+6 - 9.99
+79.4
+10 - 19.99
+175.1
+20 - 39.99
+98.8
+≥ 40
+27.9
+2 - 5.99
+29.5
+6 - 9.99
+51.0
+10 - 19.99
+143.5
+20 - 39.99
+166.1
+≥ 40
+63.2
+2 - 5.99
+9.9
+6 - 9.99
+24.2
+10 - 19.99
+91.7
+20 - 39.99
+175.5
+≥ 40
+134.3
+2 - 5.99
+6.5
+6 - 9.99
+11.7
+10 - 19.99
+60.5
+20 - 39.99
+158.9
+≥ 40
+227.4
+
+1
+99.99
+99.99
+100.00
+99.94
+100.00
+99.99
+100.00
+100.00
+99.98
+99.94
+99.99
+99.99
+100.00
+99.88
+98.78
+99.99
+99.98
+99.99
+99.77
+98.07
+99.92
+100.00
+99.98
+96.75
+96.85
+99.88
+100.00
+99.98
+80.90
+78.40
+
+2
+99.99
+99.99
+100.00
+99.65
+100.00
+99.99
+100.00
+99.99
+99.47
+99.86
+99.99
+99.99
+100.00
+98.26
+98.39
+99.99
+99.98
+99.98
+94.52
+96.92
+99.92
+100.00
+99.80
+75.42
+90.15
+99.88
+100.00
+99.14
+26.78
+53.04
+
+% of Ticker-Days with less than $10,000 within 'x' basis points of the midpoint
+3
+4
+5
+6
+7
+8
+9
+10
+99.99
+99.99
+99.99
+99.99
+99.99
+99.97
+99.89
+99.56
+99.99
+99.99
+99.84
+99.38
+99.11
+98.78
+98.78
+98.65
+99.78
+99.56
+99.29
+99.23
+99.05
+98.92
+98.70
+98.41
+99.63
+99.57
+99.40
+99.38
+99.21
+99.15
+99.03
+98.80
+100.00 100.00 100.00 100.00 100.00 100.00 100.00 100.00
+99.99
+99.99
+99.99
+99.99
+99.99
+99.77
+98.19
+95.52
+100.00 100.00
+99.42
+97.82
+95.16
+93.02
+93.01
+92.54
+99.49
+98.20
+97.46
+97.23
+96.78
+96.08
+95.13
+94.20
+99.38
+98.92
+98.72
+98.33
+97.77
+97.45
+96.73
+96.11
+99.83
+99.74
+99.48
+99.17
+98.79
+98.74
+98.16
+97.82
+99.99
+99.99
+99.99
+99.99
+99.98
+97.57
+85.72
+76.70
+99.99
+99.99
+95.97
+87.00
+74.77
+64.74
+64.69
+63.03
+97.57
+94.03
+91.79
+90.01
+87.89
+84.41
+80.13
+75.71
+98.03
+97.08
+95.90
+94.37
+91.75
+89.60
+86.70
+83.48
+98.27
+97.68
+96.99
+96.07
+94.47
+93.18
+91.38
+89.06
+99.99
+99.99
+99.99
+99.99
+99.99
+95.00
+75.00
+61.13
+99.98
+99.98
+78.31
+49.23
+30.85
+19.39
+19.37
+17.19
+83.37
+68.40
+59.74
+53.19
+48.51
+40.31
+33.59
+28.62
+93.10
+88.58
+81.64
+73.97
+62.98
+55.69
+47.42
+41.00
+95.65
+93.42
+89.56
+84.40
+78.16
+71.80
+65.41
+58.82
+99.92
+99.92
+99.92
+99.92
+99.92
+90.84
+63.00
+44.76
+100.00 100.00
+78.19
+44.60
+16.94
+2.24
+2.24
+2.19
+59.81
+30.49
+18.22
+13.02
+10.95
+7.62
+5.62
+4.10
+66.31
+50.94
+38.65
+28.18
+19.75
+14.49
+10.59
+8.07
+79.18
+64.22
+49.84
+37.98
+29.58
+23.63
+19.07
+15.41
+99.88
+99.88
+99.88
+99.88
+99.88
+94.36
+71.09
+61.27
+100.00 100.00
+85.63
+37.94
+7.91
+0.10
+0.10
+0.10
+34.86
+10.78
+3.11
+2.41
+2.27
+1.68
+1.29
+1.08
+15.71
+8.26
+4.76
+3.05
+1.82
+1.31
+0.97
+0.70
+32.58
+19.64
+11.82
+7.55
+5.18
+3.74
+2.73
+2.11
+
+20
+96.17
+95.90
+94.04
+96.26
+96.03
+71.27
+79.37
+79.19
+85.54
+90.46
+25.89
+34.94
+38.55
+49.48
+57.84
+10.72
+5.54
+8.25
+11.05
+17.50
+10.65
+0.56
+0.72
+0.83
+2.69
+0.30
+0.00
+0.40
+0.06
+0.34
+
+35
+90.93
+86.96
+84.91
+89.30
+86.35
+46.34
+54.38
+53.52
+60.38
+61.07
+10.93
+14.37
+14.54
+17.90
+25.31
+2.61
+2.72
+3.82
+2.98
+2.72
+2.37
+0.43
+0.08
+0.04
+0.63
+0.00
+0.00
+0.16
+0.00
+0.07
+
+50
+84.23
+76.08
+73.66
+78.22
+69.23
+31.13
+36.62
+34.39
+38.14
+37.52
+6.06
+7.44
+6.24
+6.76
+11.09
+1.36
+1.82
+1.67
+1.27
+1.10
+1.49
+0.15
+0.00
+0.00
+0.30
+0.00
+0.00
+0.05
+0.00
+0.01
+
+42
+
+Panel C: Less than $20,000
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+Ticker/Day
+244.0
+94.2
+92.8
+19.2
+1.6
+144.2
+108.1
+146.0
+49.2
+13.8
+60.8
+79.4
+175.1
+98.8
+27.9
+29.5
+51.0
+143.5
+166.1
+63.2
+9.9
+24.2
+91.7
+175.5
+134.3
+6.5
+11.7
+60.5
+158.9
+227.4
+
+1
+100.00
+100.00
+100.00
+99.98
+100.00
+100.00
+100.00
+100.00
+99.99
+100.00
+100.00
+99.99
+100.00
+99.95
+99.19
+100.00
+99.99
+100.00
+99.94
+98.56
+99.92
+100.00
+99.99
+98.82
+98.81
+99.94
+100.00
+99.99
+87.99
+90.64
+
+2
+100.00
+100.00
+100.00
+99.86
+100.00
+100.00
+100.00
+99.99
+99.79
+99.94
+100.00
+99.99
+100.00
+99.05
+98.88
+100.00
+99.99
+100.00
+97.77
+97.87
+99.92
+100.00
+99.91
+88.55
+97.05
+99.94
+100.00
+99.42
+46.01
+73.84
+
+% of Ticker-Days with less than $20,000 within 'x' basis points of the midpoint
+3
+4
+5
+6
+7
+8
+9
+10
+100.00 100.00 100.00 100.00 100.00
+99.99
+99.98
+99.79
+100.00 100.00
+99.93
+99.66
+99.54
+99.37
+99.37
+99.28
+99.86
+99.77
+99.61
+99.58
+99.50
+99.47
+99.39
+99.24
+99.86
+99.81
+99.75
+99.73
+99.63
+99.61
+99.50
+99.42
+100.00 100.00 100.00 100.00 100.00 100.00 100.00 100.00
+100.00 100.00 100.00 100.00 100.00
+99.96
+99.48
+98.57
+100.00 100.00
+99.74
+99.22
+98.19
+97.62
+97.62
+97.51
+99.74
+98.97
+98.60
+98.56
+98.40
+98.24
+97.95
+97.71
+99.73
+99.44
+99.35
+99.18
+99.03
+98.74
+98.42
+98.21
+99.94
+99.86
+99.86
+99.71
+99.60
+99.54
+99.20
+98.76
+100.00 100.00 100.00 100.00 100.00
+98.79
+91.82
+86.29
+99.99
+99.99
+98.79
+95.68
+89.76
+84.22
+84.18
+83.63
+99.11
+97.84
+97.32
+96.87
+96.33
+95.28
+93.69
+91.85
+98.97
+98.64
+98.32
+97.77
+96.76
+96.07
+94.95
+93.53
+98.85
+98.39
+98.20
+97.71
+97.24
+96.66
+95.99
+95.07
+100.00 100.00 100.00 100.00 100.00
+95.71
+77.29
+63.66
+99.99
+99.99
+86.11
+64.30
+48.57
+37.76
+37.72
+36.09
+92.55
+84.29
+79.44
+76.47
+74.19
+67.89
+61.30
+55.22
+97.55
+96.43
+94.25
+90.83
+85.20
+80.31
+73.45
+66.52
+97.39
+96.52
+95.13
+92.93
+89.86
+86.11
+81.48
+76.53
+99.92
+99.92
+99.92
+99.92
+99.92
+91.76
+63.88
+45.88
+100.00 100.00
+79.27
+47.63
+20.58
+5.75
+5.73
+5.39
+72.22
+46.71
+35.71
+31.80
+29.05
+21.56
+16.55
+13.06
+84.43
+74.71
+64.44
+53.12
+41.74
+33.54
+26.15
+20.58
+92.52
+83.95
+71.91
+59.39
+48.09
+39.50
+32.41
+26.98
+99.94
+99.94
+99.94
+99.94
+99.94
+94.73
+71.39
+61.39
+100.00 100.00
+86.03
+39.53
+9.23
+1.22
+1.22
+1.18
+38.16
+14.80
+6.87
+5.88
+5.46
+3.84
+3.15
+2.66
+33.44
+21.48
+13.53
+8.61
+5.36
+3.99
+2.85
+2.09
+53.13
+36.00
+23.69
+15.50
+10.60
+7.50
+5.55
+4.26
+
+20
+98.45
+98.38
+97.10
+98.33
+98.51
+87.70
+92.76
+91.45
+93.52
+95.35
+49.38
+63.58
+65.50
+71.45
+74.82
+15.74
+14.76
+19.03
+24.27
+32.24
+12.41
+1.59
+2.32
+3.20
+5.15
+0.30
+0.00
+0.66
+0.26
+0.80
+
+35
+96.55
+94.44
+92.18
+94.48
+92.06
+73.41
+78.87
+75.50
+78.81
+76.73
+27.55
+35.94
+35.89
+37.54
+39.59
+6.79
+5.36
+7.79
+6.99
+6.43
+3.98
+0.56
+0.49
+0.36
+1.28
+0.00
+0.00
+0.37
+0.01
+0.23
+
+50
+93.85
+88.70
+85.52
+89.01
+82.63
+60.60
+63.97
+59.35
+60.93
+53.26
+16.58
+22.40
+20.13
+18.89
+19.84
+4.00
+3.30
+4.80
+3.09
+2.20
+3.21
+0.49
+0.12
+0.05
+0.51
+0.00
+0.00
+0.22
+0.00
+0.12
+
+43
+
+Panel D: Less than $50,000
+Cap $ Million
+< 100
+< 100
+< 100
+< 100
+< 100
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+100 - 250
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+250 - 500
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+500 - 1000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+1000 - 2000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+2000 - 5000
+
+Price $
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+2 - 5.99
+6 - 9.99
+10 - 19.99
+20 - 39.99
+≥ 40
+
+Ticker/Day
+244.0
+94.2
+92.8
+19.2
+1.6
+144.2
+108.1
+146.0
+49.2
+13.8
+60.8
+79.4
+175.1
+98.8
+27.9
+29.5
+51.0
+143.5
+166.1
+63.2
+9.9
+24.2
+91.7
+175.5
+134.3
+6.5
+11.7
+60.5
+158.9
+227.4
+
+1
+100.00
+100.00
+100.00
+100.00
+100.00
+100.00
+100.00
+100.00
+100.00
+100.00
+100.00
+99.99
+100.00
+99.99
+99.63
+100.00
+99.99
+100.00
+99.98
+99.28
+99.96
+100.00
+100.00
+99.65
+99.46
+99.94
+100.00
+100.00
+96.18
+98.13
+
+2
+100.00
+100.00
+100.00
+99.96
+100.00
+100.00
+100.00
+100.00
+99.91
+100.00
+100.00
+99.99
+100.00
+99.51
+99.32
+100.00
+99.99
+100.00
+98.86
+98.70
+99.96
+100.00
+100.00
+96.91
+99.31
+99.94
+100.00
+99.79
+74.90
+95.08
+
+% of Ticker-Days with less than $50,000 within 'x' basis points of the midpoint
+3
+4
+5
+6
+7
+8
+9
+10
+100.00 100.00 100.00 100.00 100.00 100.00 100.00
+99.85
+100.00 100.00
+99.97
+99.81
+99.73
+99.63
+99.63
+99.58
+99.91
+99.89
+99.80
+99.76
+99.73
+99.71
+99.69
+99.62
+99.96
+99.94
+99.88
+99.86
+99.86
+99.83
+99.77
+99.77
+100.00 100.00 100.00 100.00 100.00 100.00 100.00 100.00
+100.00 100.00 100.00 100.00 100.00 100.00
+99.94
+99.80
+100.00 100.00
+99.87
+99.71
+99.38
+99.27
+99.26
+99.21
+99.85
+99.36
+99.20
+99.20
+99.17
+99.13
+99.11
+99.04
+99.86
+99.75
+99.73
+99.64
+99.60
+99.42
+99.35
+99.21
+100.00
+99.97
+99.97
+99.91
+99.89
+99.89
+99.89
+99.83
+100.00 100.00 100.00 100.00 100.00
+99.78
+97.71
+96.01
+99.99
+99.99
+99.73
+99.31
+98.21
+96.82
+96.80
+96.76
+99.67
+99.20
+99.14
+99.10
+99.07
+98.96
+98.78
+98.60
+99.49
+99.33
+99.24
+99.15
+98.92
+98.81
+98.57
+98.38
+99.32
+99.12
+98.95
+98.74
+98.65
+98.52
+98.34
+98.13
+100.00 100.00 100.00 100.00 100.00
+97.68
+84.52
+73.30
+99.99
+99.99
+95.01
+87.61
+80.48
+74.01
+74.00
+73.67
+98.29
+95.97
+94.77
+94.56
+94.32
+92.78
+90.67
+88.34
+98.82
+98.72
+98.62
+98.33
+97.75
+97.23
+96.31
+95.06
+98.42
+97.99
+97.58
+97.21
+96.77
+95.95
+94.87
+93.54
+99.96
+99.96
+99.96
+99.96
+99.96
+93.69
+67.38
+49.50
+100.00 100.00
+83.94
+58.48
+34.71
+20.12
+20.02
+19.68
+88.73
+75.34
+68.59
+67.12
+65.89
+60.45
+54.47
+49.02
+96.51
+94.92
+92.06
+86.80
+80.57
+75.24
+68.93
+62.81
+98.87
+97.72
+95.19
+90.65
+84.55
+77.44
+69.83
+62.17
+99.94
+99.94
+99.94
+99.94
+99.94
+95.21
+71.88
+61.39
+100.00 100.00
+86.74
+42.27
+12.55
+4.23
+4.23
+4.23
+46.73
+25.63
+18.52
+17.82
+17.52
+13.81
+11.92
+10.78
+69.37
+58.60
+45.80
+34.72
+26.47
+20.49
+15.90
+12.43
+85.21
+71.14
+56.82
+44.31
+34.36
+26.50
+20.20
+15.49
+
+20
+99.39
+99.23
+99.03
+99.48
+100.00
+97.20
+98.45
+97.92
+98.22
+98.59
+79.16
+92.13
+93.58
+93.30
+92.36
+29.07
+48.35
+59.28
+66.43
+66.95
+17.56
+8.76
+14.11
+19.29
+18.55
+0.30
+1.86
+3.13
+2.00
+2.48
+
+35
+99.04
+98.43
+97.44
+98.66
+99.26
+94.05
+95.65
+93.96
+94.83
+94.92
+63.50
+75.21
+76.44
+77.97
+74.67
+12.67
+23.40
+27.16
+31.21
+32.35
+12.82
+2.75
+3.39
+4.41
+4.85
+0.00
+0.10
+0.95
+0.32
+0.84
+
+50
+98.59
+97.08
+95.24
+96.94
+95.53
+90.11
+90.77
+87.92
+89.03
+86.53
+47.66
+57.72
+58.38
+62.60
+54.57
+10.27
+11.90
+15.10
+17.67
+14.99
+11.49
+0.79
+1.49
+1.59
+2.27
+0.00
+0.00
+0.52
+0.07
+0.54
+
+44
+
+

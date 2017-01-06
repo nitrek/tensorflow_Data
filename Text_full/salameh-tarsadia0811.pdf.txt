@@ -1,0 +1,553 @@
+No. 11-55479
+UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+__________________________________________________________________
+TAMER SALAMEH, et al.,
+Plaintiffs-Appellants,
+v.
+TARSADIA HOTEL, et al.,
+Defendants-Appellees.
+__________________________________________________________________
+On Appeal from the United States District Court
+for the Southern District of California
+__________________________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE
+__________________________________________________________________
+MARK D. CAHN
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+RANDALL W. QUINN
+Assistant General Counsel
+WILLIAM K. SHIREY
+Senior Litigation Counsel
+Securities and Exchange Commission
+100 F Street, N.E.
+Washington, D.C. 20549
+(202) 551-5043 (Shirey)
+
+TABLE OF CONTENTS
+STATEMENT OF THE ISSUE ................................................................................. 1
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+AND SUMMARY OF ITS POSITION ..................................................................... 2
+STATEMENT OF THE CASE .................................................................................. 5
+A. FACTS ...............................................................................................................5
+B. DISTRICT COURT PROCEEDINGS........................................................................ 8
+ARGUMENT ...........................................................................................................10
+I. THE UNIT SALES AND RENTAL MANAGEMENT PROGRAM COMPRISE A SINGLE
+TRANSACTION FOR PURPOSES OF THE FEDERAL SECURITIES LAW. ................ 11
+II. CONTRARY TO THE DISTRICT COURT’S CONCLUSION, TARSADIA OFFERED
+AND SOLD INVESTMENT CONTRACTS. . .......................................................... 13
+CONCLUSION .......................................................................................................18
+
+i
+
+TABLE OF AUTHORITIES
+Cases
+
+Page
+
+In re Abbondante, 1934 Act Rel. No. 53055, 2006 WL 42393
+(Jan. 6, 2003) ..........................................................................................................15
+Bailey v. J.W.K. Properties, Inc., 904 F.2d 918 (4th Cir. 1990) ........................ 17-18
+In re Barkate, 57 S.E.C. 488 (April 8, 2004)...........................................................15
+Buie v. United States, 420 F.2d 1207 (5th Cir. 1969) ...............................................17
+Davis v. Metro Productions, Inc., 885 F.2d 515 (9th Cir. 1989) ..............................17
+Demarco v. LaPay, 2009 WL 3855704, No. 2:09-CV-190
+(D. Utah Nov. 17, 2009) ........................................................................................16
+Garcia v. Santa Maria Resort, Inc., 528 F. Supp.2d 1283
+S.D. Fla. 2007) ......................................................................................................16
+Hocking v. Dubois, 885 F.2d 1449 (9th Cir. 1989)............................................passim
+SEC v. Eurobond Exchange, Ltd., 13 F. 3d 1334 (9th Cir. 1993) ............................15
+SEC v. Glenn W. Turner Enters., 474 F.2d 476 (9th Cir. 1973) ...............................15
+SEC v. Rubera, 350 F.3d 1084 (9th Cir. 2003) ..................................................passim
+SEC v. W.J. Howey Co., 328 U.S. 293 (1946) ..................................................passim
+Tcherepnin v. Knight, 389 U.S. 332 (1967) .............................................................11
+Timmreck v. Munn, 433 F. Supp. 396, 401 (N.D. Ill. 1977) ...................................17
+Warfield v. Alaniz, 569 F.3d 1015 (9th Cir. 2009) ............................................. 14-15
+
+ii
+
+TABLE OF AUTHORITIES (CONTINUED)
+Commission Release
+
+Page
+
+Guidelines as to the Applicability of the Federal Securities Law to Offers
+and Sales of Condominiums or Units in a Real Estate Development,
+Securities Act Release No. 33-5347, 1973 WL 158443 (Jan. 4, 1973) ....... 2, 13-14
+Statutes and Rules
+Securities Act of 1933, 15 U.S.C. 77a, et seq.
+Section 2(1), 15 U.S.C. 77b(1) ......................................................................10
+Section 12(a)(2), 15 U.S.C. 77l(a)(2) .............................................................. 8
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+Section 3(a)(10), 15 U.S.C. 78c(a)(10) .........................................................10
+Section 10(b), 15 U.S.C. 78j(b) ....................................................................... 8
+Rules Under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.
+Rule 10b-5, 17 C.F.R. 240.10b-5 .................................................................... 8
+Federal Rules of Civil Procedure
+Rule 12(b)(6) ...................................................................................................8
+Miscellaneous
+S.E.C. No-Action Letter to MarcoPolo Hotel, Inc., 1987 WL 108553
+(Sept. 30, 1987) .......................................................................................................12
+S.E.C. No-Action Letter to Intrawest Corp., 2002 WL 31626919
+(Nov. 8, 2002) ........................................................................................................12
+
+iii
+
+No. 11-55479
+UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+__________________________________________________________________
+TAMER SALAMEH, et al.,
+Plaintiffs-Appellants,
+v.
+TARSADIA HOTEL, et al.,
+Defendants-Appellees.
+__________________________________________________________________
+On Appeal from the United States District Court
+for the Southern District of California
+__________________________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE
+__________________________________________________________________
+
+STATEMENT OF THE ISSUE
+Whether a series of related contracts offered by the defendants involving the
+sale and rental management of hotel rooms in a hotel that the defendants were
+constructing constituted investment contracts under the federal securities laws
+where, from the time the sales commenced, the purchasers had so little use or
+control of the rooms that they had no practical alternative but to rely on the
+
+defendants to rent the rooms and obtain profits, which were shared between the
+purchasers and the defendants.
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+AND SUMMARY OF ITS POSITION
+The Securities and Exchange Commission – the agency principally
+responsible for the administration of the federal securities laws – submits this brief
+as amicus curiae to address a question concerning the applicability of the securities
+laws to real-estate developments, an issue that has been of importance to the
+Commission for many decades. See generally Guidelines as to the Applicability of
+the Federal Securities Laws to Offers and Sales of Condominiums or Units in a
+Real Estate Development, Securities Act Release No. 33-5347, 1973 WL 158443
+(Jan. 4, 1973). The Commission believes that the district court, in determining that
+the hotel-room sales did not involve sales of investment contracts, failed to give
+effect to the economic and practical realities of the transactions as required by
+Supreme Court and Ninth Circuit precedent.
+The Commission is concerned that the district court’s holding on the
+investment contract issue, unless reversed, would seriously erode the investor
+protections of the securities laws. It would impermissibly allow a promoter to
+avoid the coverage of these laws by (1) artificially dividing a single investment
+transaction into ostensibly separate parts, and (2) including written disclaimers that
+falsely state that there is no investment expectation.
+2
+
+This case involves the offer and sale of hotel rooms, and related rentalmanagement agreements, in a large-scale luxury hotel venture that the defendants
+undertook to develop, construct, and operate in San Diego, California. Early
+during the hotel’s construction phase, the defendants sold the hotel rooms to the
+public, including the plaintiffs, by requiring that the purchasers execute two
+agreements that, collectively, denied the purchasers the effective use and control of
+the units and substantially reserved that control for the defendants. Approximately
+a year later but still prior to the hotel’s opening, the defendants offered a rental
+management arrangement whereby the defendants became the exclusive agent to
+manage, promote, and rent each room as part of the hotel. Plaintiffs brought suit
+against the hotel developer asserting that the hotel rooms and the rental
+management program, together, comprise an investment contract covered by the
+federal securities laws. The district court determined that the plaintiffs’
+“allegations do not sufficiently set forth facts indicating they were offered [the
+rooms and the rental management program] as part of a single package” (ER14), 1
+and that in the absence of this, the sale of the rooms did not standing alone
+constitute an investment contract.
+
+1
+
+“ER__” refers to the page number in the plaintiffs’ Excerpts of Record.
+3
+
+The Commission believes that the sale and rental program should be
+analyzed as a single package for purposes of the investment contract determination
+because:
+• the original sales agreements left the plaintiffs with so little use or
+control that it was obvious from the beginning that the defendants
+would exercise exclusive control to rent and operate the rooms;
+• the practical reality of the defendants’ plan to operate a functioning
+hotel made it obvious from the outset that these rooms would be
+necessary to serve as the hotel’s guest rooms; and
+• the hotel was under construction during this entire period, thereby
+making the time gap between the room sales and rental program
+inconsequential.
+Further, the district court erroneously relied on language in the sales agreements
+disclaiming any investment expectation, a consideration under the investment
+contract test. (ER14-15) The disclaimers should not be given any weight here
+because the economic and practical reality demonstrates that the transactions were
+investments.
+
+4
+
+STATEMENT OF THE CASE
+The factual allegations discussed below are based upon the plaintiffs’ second
+amended complaint and the written sales, operation, and rental agreements
+between the parties.
+A. FACTS
+Through several entities that they owned or controlled – including
+defendants Tarsadia Hotels and 5th Rock, LLC – defendants Tushar Patel, B.U.
+Patel, and Greg Casserly (collectively “Tarsadia”) developed, promoted and
+operated the Hard Rock Hotel San Diego (“Hotel”). (ER33-34, 43-44, 51, 56, 71)
+Tarsadia designed the Hotel to be a “world class” luxury hotel comprising 420
+hotel rooms and suites, as well as extensive space for shops, restaurants, and
+meeting events. (ER40, 43-44, 47-50)
+In May 2006, with construction of the Hotel underway, Tarsadia began to
+sell the hotel rooms and suites as “non-residential condominium units.” (ER89,
+254) The fact that the rooms were never intended for residential use is apparent
+given the absence of kitchens and a San Diego zoning restriction requiring that the
+rooms be sold for “non-residential” use and “at all times … be managed as part of
+the Hotel.” (ER39-40, 46)
+Tarsadia sold the vast majority of the rooms to purchasers for approximately
+$176 million, retaining ownership of only a small number of rooms. (ER36) The
+5
+
+Purchase Contract that purchasers were required to execute contained provisions
+stating that Tarsadia made no representations regarding the rental potential of the
+rooms and that the purchasers were not acquiring the rooms as investment
+opportunities. (ER100) For example, the Purchase Contract stated that the “buyer
+expressly acknowledges” that “buyer is purchasing the unit for its real estate value
+and not as an investment.” (ER370)
+Notwithstanding these provisions, other restrictions in documents that were
+coupled with the Purchase Contract were structured so that, as a practical matter,
+the purchasers were left with no use for the rooms except to allow Tarsadia to rent
+and operate them as the Hotel’s guest rooms. (ER50-51) At the time of each sale,
+Tarsadia required purchasers to agree to the terms of a “Master Association
+Declaration of Covenants, Conditions, Easements and Restrictions” that the
+Purchase Contract expressly incorporated. (ER383-384) This Declaration
+provided that purchasers could rent their rooms only under a program operated by
+Tarsadia or a “third party approved by” Tarsadia, and further provided that
+Tarsadia possesses “the exclusive right to show the Room Units to prospective
+Guests[] and to permit access thereto.” (ER44; Plaintiffs’ Motion for the Ninth
+Circuit Court of Appeals to Take Judicial Notice of Master Association
+Declaration of Covenants, Conditions, Easements and Restrictions, Ex. A, at 49
+¶10.2.3(i)(c))
+6
+
+Tarsadia additionally required room owners to execute at the time of each
+sale a Unit Maintenance and Operation Agreement that further restricted
+purchasers’ use and control of the rooms. (ER24, 374, 433; see also ER375, 384)
+The Unit Operations Agreement required that the rooms be maintained as “nonresidential”; that purchasers not occupy the rooms more than 28 days a year; that
+all room keys “be maintained by the Hotel,” and that purchasers “not copy, retain
+or distribute the keys or any copies thereof”; that the room “be managed as part of
+the Hotel,” including use of the Hotel’s housekeeping services, mini-bar rentals,
+telephone switchboard, and television cable system; and that purchasers pay a
+service fee of not less than $90 for each day that they or their guests occupy the
+room. (See, e.g., ER44, 47-48, 434-437)
+Approximately a year later in August 2007, with the Hotel’s opening still
+several months away, Tarsadia offered purchasers a Rental Management
+Agreement that authorized Tarsadia to serve as the “sole and exclusive authority to
+manage, operate, market and rent” a participating room. (ER 43, 254, 456)
+Among other things, the Rental Agreement authorized Tarsadia to set and adjust
+rental rates, and to apportion reservations among various units in the Hotel.
+(ER456-458) In return for these services, the Rental Agreement afforded Tarsadia
+a majority of each participating room’s gross revenue, with the room owner
+receiving any residual net revenue from their unit after other costs were deducted.
+7
+
+(ER 41-42, 462-463) The Rental Agreement did not provide for a pooling of
+revenue among the participating rooms. (ER465)
+B. DISTRICT COURT PROCEEDINGS
+The plaintiffs are a group of individuals and entities that acquired rooms in
+the Hard Rock Hotel from Tarsadia prior to the Hotel’s December 2007 opening.
+(ER10) They filed this proposed class action in the U.S. District Court for the
+Southern District of California on December 8, 2009, seeking to represent a class
+of all similarly situated purchasers. (ER29, 791) Their complaint alleges that
+Tarsadia’s sale of the rooms, coupled with the rental program, constitutes an
+investment contract under the federal securities laws and that, in offering and
+selling the investment contract, Tarsadia was liable under Section 12(a)(2) of the
+Securities Act, 15 U.S.C. 77l(a)(2), and violated Section 10(b) of the Exchange Act
+and Rule 10b-5 thereunder, 15 U.S.C. 78j(b) and 17 C.F.R. 240.10b-5, by making
+material misrepresentations and omissions. (ER28, 51, 72-73) The complaint
+alleged, among other things, that Tarsadia made material misrepresentations and
+omissions regarding the strength of the San Diego hotel market and the viability of
+the project. (ER48-50)
+Tarsadia moved to dismiss the complaint on the pleadings pursuant to
+Federal Rule of Civil Procedure 12(b)(6). On March 22, 2011, the district court
+ordered the case dismissed, holding (among other things) that the plaintiffs failed
+8
+
+to allege a plausible claim that the sales and rental program transactions constituted
+an investment contract. (ER13-16) The court concluded that the plaintiffs “have
+not sufficiently alleged facts” demonstrating “that the real estate sale and the rental
+agreement at issue here formed a single transaction, nor have they sufficiently
+alleged an expectation of profits from the efforts of others at the time they agreed
+to purchase” the rooms. (ER16)
+The district court relied on the “significant gap between the execution of the
+Purchase Contracts … and the execution of the Rental Management Agreements,”
+as well as the absence of “sufficient facts regarding the timing of when
+representations were [first] made relating to the Rental Management Agreement,”
+to conclude that the “allegations do not sufficiently set forth facts indicating [that]
+they were offered … as part of a single package.” (ER13-14) As the district court
+viewed it, the plaintiffs were offered two separate, temporally distinct
+opportunities – a property sale and subsequently a participation in a rental
+management program. (ER16)
+Concluding that these were two separate transactions, the court turned to the
+“plain language” of the Purchase Contract to find that the plaintiffs lacked a
+necessary condition for an investment contract – an expectation of profits from the
+efforts of others – when they acquired the rooms in 2006. (ER14-16) As the court
+explained, when the plaintiffs executed the Purchase Contract, the plaintiffs
+9
+
+“specifically represented [that] they were not purchasing the units for investment
+purposes and were not relying on any external representations regarding the rental
+value of the units.” (ER15) In the court’s view, “any expectation of profits from
+the efforts of others [that] they developed was a result of the Rental Management
+Agreement, which they entered months later[.]” (ER15) As a result, the district
+court concluded that when the plaintiffs entered the Purchase Contract, they did
+nothing more than enter a real estate transaction for property – not an investment
+contract covered by the securities laws.
+ARGUMENT
+Both the Securities Act and the Exchange Act define “security” as including
+an “investment contract.” See Section 2(1) of the Securities Act, 15 U.S.C. 77b(1);
+Section 3(a)(10) of the Securities Exchange Act, 15 U.S.C. 78c(a)(10). The
+Supreme Court in the seminal Howey case has in turn defined an investment
+contract as a contract, transaction, or scheme involving an investment of money in
+a common enterprise with an expectation of profits produced by the efforts of
+others. See SEC v. W.J. Howey Co., 328 U.S. 293, 298-99 (1946). This is a
+“flexible” concept that is “capable of adaptation to the meet the countless and
+variable schemes devised by those who seek the use of the money of others on the
+promise of profits.” Howey, 328 U.S. at 299. Furthermore, the existence of an
+investment contract turns on the economic and practical realities of the transaction
+10
+
+or scheme, and not the legal formulations or contract terminology the parties may
+use. See, e.g., id. at 300; SEC v. Rubera, 350 F.3d 1084, 1089-90 (9th Cir. 2003)
+(citing Tcherepnin v. Knight, 389 U.S. 332, 336 (1967)).
+I.
+
+THE UNIT SALES AND RENTAL MANAGEMENT PROGRAM COMPRISE A
+SINGLE TRANSACTION FOR PURPOSES OF THE FEDERAL SECURITIES LAWS.
+The district court misapplied the Howey test by treating the room sales and
+
+the rental program as separate transactions. The critical considerations for the
+district court were the “significant gap between execution of the Purchase
+Contracts … and execution of the Rental Management Agreements,” and the
+absence of “sufficient facts regarding the timing of when representations relating to
+the Rental Management Agreement were made[.]” The district court failed to
+appreciate the broader realities underlying the arrangements between the parties.
+Parties cannot escape the federal securities laws by artificially dividing a
+securities investment into a series of ostensibly discrete transactions. See, e.g.,
+SEC v. W.J. Howey Co., 328 U.S. 293, 295-96 (1946); SEC v. Rubera, 350 F.3d
+1084, 1091 (9th Cir. 2003). Courts must ascertain the “general ‘scheme’ of profit
+seeking activities” that was explicitly or implicitly offered to induce the purchase.
+See Hocking v. Dubois, 885 F.2d 1449, 1457-58 (9th Cir. 1989) (en banc). If the
+economic and practical realities indicate that multiple agreements in fact comprise
+a single transaction or package, they must be analyzed together to determine if they
+
+11
+
+constitute an investment contract. See, e.g., Howey, 328 U.S. at 300; Rubera, 350
+F.3d at 1091; Hocking, 885 F.2d at 1457-58.
+The room sales and rental management program plainly constituted a single
+transaction – an investment in a hotel enterprise. The Declaration of Covenants
+and the Unit Operations Agreement, both of which Tarsadia required plaintiffs to
+agree to at the time of sale, imposed conditions that effectively denied the plaintiffs
+meaningful use or control of the rooms, and reserved significant control for
+Tarsadia (as the Hotel operator). Among other things, these documents limited a
+purchaser’s personal use of the room to 28 days each year 2 and precluded the
+purchaser from retaining a room key; tied each room to the Hotel’s cleaning, linen,
+television, telephone, and mini-bar services; imposed a $90 daily minimum
+payment for each day the purchaser or his guest occupies the room; and restricted
+room rental to a rental program operated or approved by Tarsadia.
+More importantly, the economic reality of the Hotel venture itself further
+supports this analysis. Tarsadia’s stated purpose in undertaking the project –
+
+2
+
+The district court’s opinion stated that “the S.E.C. has previously issued a
+no-action letter stating [restrictions based on zoning requirements] will not
+transform a condominium into a security.” (ER11 (citing S.E.C. No-Action Letter
+to MarcoPolo Hotel, Inc., 1987 WL 108553 (Sept. 30, 1987), and S.E.C. NoAction Letter to Intrawest Corp., 2002 WL 31626919 (Nov. 8, 2002))). However,
+neither of the staff letters cited by the district court addresses the zoning issue;
+rather, both letters rest on the fact that, under the totality of the circumstances, the
+condominium units in question were arguably being offered and sold for personal
+use.
+12
+
+including entering into a license agreement with the Hard Rock Hotel chain
+(EA438-439) – was to operate a functioning, economically viable hotel. This
+would clearly prove impossible unless the vast majority of the rooms that Tarsadia
+was selling remained under Tarsadia’s rental and operational control. Cf. Hocking,
+885 F.2d at 1461 (“The commercial viability of a one-room hotel does not strongly
+argue for separate management.”).
+In light of these economic and practical realities that extend back to the time
+of the room sales, the fact that Tarsadia did not make the Rental Management
+Agreement available until a year after the room sales is of little or no consequence.
+This is particularly so given that the Hotel was still under construction throughout
+the entire period in question, and did not finally open until several months after
+Tarsadia formally offered the rental management program. Tarsadia’s ability to
+delay having the plaintiffs actually execute the Rental Management Agreement
+should not disguise the economic and practical reality here: Tarsadia’s operation
+of a rental management program was at all times here a necessary and essential
+component of the room sales, making the two a single transaction or package.
+II.
+
+CONTRARY TO THE DISTRICT COURT’S CONCLUSION, TARSADIA OFFERED
+AND SOLD INVESTMENT CONTRACTS.
+The securities laws’ potential applicability to sales of units in real estate
+
+developments for investment has long been recognized. In 1973, recognizing the
+importance of this issue, the Commission issued an interpretive release (which
+13
+
+remains operative) explaining that an investment contract exists when a developer
+such as Tarsadia offers units in a real estate venture in conjunction with “a rental or
+similar arrangement whereby the purchaser must hold his unit available for rental
+for any part of the year, must use an exclusive rental agent or is otherwise
+materially restricted in his occupancy or rental of his unit.” Guidelines as to the
+Applicability of the Federal Securities Laws to Offers and Sales of Condominiums
+or Units in a Real Estate Development, Securities Act Release No. 33-5347, 1973
+WL 158443, at *3 (Jan. 4, 1973) (emphasis added).3 This Court, applying the
+Howey test, has similarly recognized that condominium sales offered in
+conjunction with rent pooling or rental management agreements can constitute an
+investment contract. Hocking v. DuBois, 885 F.2d 1449, 1460 (9th Cir. 1989) (en
+banc).
+Under the Howey test, Tarsadia was offering and selling an investment
+contract. There is no dispute that each purchase required an investment of money
+that exposed the purchaser to a risk of financial loss. See Warfield v. Alaniz, 569
+F.3d 1015, 1021 (9th Cir. 2009) (stating an “investment of money” under the
+3
+
+The Purchase Contract (with Declaration of Covenants) and the Unit
+Operations Agreement offered in 2006, and the Rental Management Agreement
+offered in 2007, together comprise an investment contract under the Commission’s
+interpretive release. As discussed above, from the time the purchasers signed the
+Purchase Contract and Unit Operations Agreement, Tarsadia had materially
+restricted the plaintiffs’ occupancy and rental of the rooms, and effectively left
+them with no option but to rely on Tarsadia as the exclusive rental agent.
+14
+
+Howey test “requires that the investor commit his assets to the enterprise in such a
+manner as to subject himself to financial loss”) (internal quotation marks omitted).
+Under this Court’s precedent, it is also clear that a “common enterprise” exists
+because the Rental Management Agreement establishes a revenue-sharing
+arrangement for each participating room between Tarsadia and the unit owner. 4
+See SEC v. Eurobond Exchange, Ltd., 13 F.3d 1334, 1339 (9th Cir. 1993).
+It is also apparent that the plaintiffs were led to expect profits from the
+defendants’ efforts. This showing refers to profits from the “undeniably significant
+[efforts of others], those essential managerial efforts which affect the failure or
+success of the enterprise.” Rubera, 350 F.3d at 1091-92 (quoting SEC v. Glenn W.
+Turner Enters., 474 F.2d 476, 482 (9th Cir. 1973)). Moreover, this Court has held
+that the showing is established where the purchaser demonstrates a practical
+“inability to exercise meaningful powers of control or to find others to manage his
+investment,” notwithstanding any appearance of legal control that the parties’
+written agreements may suggest. Hocking, 885 F.2d at 1460. As discussed above,
+
+4
+
+Although the issue is not squarely presented by this case, the Commission
+had held that “common enterprise” is not a distinct requirement for an investment
+contract under Howey. In re Barkate, 57 S.E.C. 488, 495 n.13 (April 8, 2004). See
+also In re Abbondante, 1934 Act Rel. No. 53066, 2006 WL 42393, at *6 (Jan. 6,
+2006) (“an investment contract under Howey is a contract or scheme for the
+‘placing of capital or laying out of money in a way intended to secure income or
+profit from its employment”) (internal quotation marks omitted).
+
+15
+
+from the time of the room sales, the plaintiffs were precluded for all practical
+purposes from exercising any meaningful control over their rooms; Tarsadia had
+largely reserved such authority for itself. Moreover, the Rental Management
+Agreement expressly provided Tarsadia with “sole and exclusive authority to
+manage, operate, market and rent” the owner’s room.
+The district court, in concluding that the purchasers lacked an expectation of
+profits at the time they entered into the Purchase Contract, erroneously relied on
+disclaimers in the Purchase Contract that stated the purchasers were not acquiring
+the rooms “as an investment” and that Tarsadia had not “represented or offered the
+property as an investment opportunity.” 5 The district court placed dispositive
+weight on these representations and, in doing so, failed to fully consider
+the broader realities of the overall transaction. This was error because, as the
+Supreme Court has admonished, the economic reality of a transaction or scheme
+5
+
+The court cited two other district court decisions that the Commission
+believes placed undue emphasis on written disclaimers and representations in
+contravention of the economic analysis required by the Supreme Court. See, e.g.,
+Demarco v. LaPay, 2009 WL 3855704, No. 2:09-CV-190 (D. Utah Nov. 17,
+2009); Garcia v. Santa Maria Resort, Inc., 528 F. Supp. 2d 1283 (S.D. Fla. 2007).
+In Demarco, the court erroneously implies that boilerplate language in a written
+agreement can extinguish oral representations regarding the nature of the
+transaction that the purchasers were offered. Id. at *8. In Garcia, the court
+erroneously focused on the terms of the sales contract – which provided that the
+plaintiffs were purchasing the units for “personal use” and “with no expectation of
+investment potential” – without considering other aspects of the transaction that
+strongly suggested the existence of an investment contract. Id. at 1289; see also id.
+1292-93.
+16
+
+controls the investment contract analysis, irrespective of legal terminology or
+formalisms that may attempt to disguise it. See, e.g., Howey, 328 U.S. at 298-301.
+See also, e.g., Davis v. Metro Productions, Inc., 885 F.2d 515, 524-25 (9th Cir.
+1989) (“It is well established that courts look beyond contractual language to
+economic realities in determining whether a transaction is an investment
+contract.”). This is particularly so where, as here, the representations and
+disclaimers are false. See, e.g., Buie v. United States, 420 F.2d 1207, 1210 (5th Cir.
+1969) (stating that in determining whether an investment contract exists, a “court is
+not bound in a securities law case by boilerplate representations (such as obviously
+erroneous recitations that the purchaser was not relying on the sellers’ efforts)”);
+Timmreck v. Munn, 433 F. Supp. 396, 401 (N.D. Ill. 1977) (stating that “boilerplate
+disclaiming inducements to purchase land as an investment should not deter the
+court from considering all the evidence bearing upon the true nature of the
+purchase” and emphasized that “[t]his is particularly true where the boilerplate is
+likely to prove palpably false”).
+The danger with the district court’s approach lies in the fact that, were it
+allowed to stand, it could provide an easy mechanism for those seeking to avoid
+the protections that the securities laws afford investors. See Bailey v. J.W.K.
+Properties, Inc., 904 F.2d 918, 922 n.6 (4th Cir. 1990) (to “limit[] the examination
+to the contract itself would provide an easy loophole through which sellers could
+17
+
+circumvent federal securities laws”). It is essential, therefore, that written
+representations or warranties not trump the economic and practical realities of a
+transaction that otherwise qualifies as an investment contract.
+CONCLUSION
+For the foregoing reasons, the sales and rental management agreements that
+Tarsadia offered constituted investment contracts.
+Respectfully submitted,
+MARK D. CAHN
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+RANDALL W. QUINN
+Assistant General Counsel
+
+/s/ William K. Shirey
+WILLIAM K. SHIREY
+Senior Litigation Counsel
+Securities and Exchange Commission
+100 F St., N.E.
+Washington, D.C. 20549
+(202) 551-5043 (Shirey)
+August 2011
+
+18
+
+CERTIFICATE OF COMPLIANCE
+I certify that this brief complies with the type-volume limitations of Fed. R.
+App. P. 32(a)(7)(B) because it contains 3,907 words, excluding the parts exempted
+by Fed. R. App. P. 32(a)(7)(B)(iii).
+I also certify that this brief complies with the typeface requirements of Fed.
+R. App. P. 32(a)(5) and the type-style requirements of Fed. R. App. P. 32(a)(6)
+because it has been prepared in a proportionally spaced typeface using Microsoft
+Office Word in 14-Point Times New Roman.
+/s/ William K. Shirey
+WILLIAM K. SHIREY
+August 5, 2011
+
+CERTIFICATE OF SERVICE
+I hereby certify that I electronically filed the foregoing with the Clerk of the
+Court for the United States Court of Appeals for the Ninth Circuit by using the
+appellate CM/ECF system on August 5, 2011.
+I certify that all participants in the case are registered CM/ECF users and
+that service will be accomplished by the appellate CM/ECF system.
+/s/ William K. Shirey
+WILLIAM K. SHIREY
+August 5, 2011
+
+

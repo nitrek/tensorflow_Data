@@ -1,0 +1,1045 @@
+No. 04-55665
+__________________________________________
+UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+__________________________________________
+T. JEFFREY SIMPSON, on behalf of himself and
+all others similarly situated,
+Plaintiff,
+and,
+CALIFORNIA STATE TEACHERS’ RETIREMENT SYSTEM,
+Plaintiff - Appellant,
+v.
+HOMESTORE.COM, INC.; et al.,
+Defendants - Appellees.
+___________________________________________
+On Appeal from the United States District Court
+for the Central District of California
+____________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE, IN SUPPORT OF POSITIONS THAT FAVOR APPELLANT
+___________________________________________
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+KATHARINE B. GRESHAM
+Assistant General Counsel
+MICHAEL L. POST
+Senior Counsel
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C. 20549
+(202) 942-0921 (Post)
+
+TABLE OF CONTENTS
+PAGE
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION . . . . . . 1
+STATEMENT OF THE CASE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+A.
+
+Facts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+B.
+
+District Court Decision . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+I.
+
+THE DISTRICT COURT’S HOLDINGS, BASED ON
+UNWARRANTED DISTINCTIONS, WOULD UNDERMINE
+THE PURPOSE OF THE ANTIFRAUD PROVISIONS. . . . . . . . . . . . . . . 6
+
+II.
+
+THE DISTRICT COURT MADE SEVERAL LEGAL ERRORS IN
+ITS RESOLUTION OF THE CLAIMS AGAINST THE BUSINESS
+PARTNER DEFENDANTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+A.
+
+A defendant is not required to have a special relationship
+with the corporation of which the plaintiffs are shareholders to be primarily liable to them for securities fraud. . . . . . . . . 9
+
+B.
+
+Designing the fraudulent scheme is not required for
+a defendant to be primarily liable for employing a
+scheme to defraud . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+C.
+
+The district court erroneously analyzed the element of reliance . . . 12
+
+-i-
+
+TABLE OF CONTENTS (cont’d):
+III.
+
+PAGE
+
+THE APPROPRIATE TEST FOR PRIMARY LIABILITY
+FOR A SCHEME TO DEFRAUD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+A.
+
+Scope of the statute and rule . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+B.
+
+The appropriate test for conduct . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+C.
+
+1.
+
+Any person can be primarily liable under Section
+10(b) and Rule 10b-5(a) for engaging in a scheme
+to defraud, so long as he himself, directly or
+indirectly, engages in a manipulative or deceptive
+act as part of the scheme . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+2.
+
+Engaging in a transaction whose principal
+purpose and effect is to create a false appearance
+of corporate revenues constitutes a deceptive act
+that can support primary liability . . . . . . . . . . . . . . . . . . . . . 18
+
+The reliance requirement is satisfied where a plaintiff
+relies on a material deception flowing from a defendant’s
+deceptive act, even though the conduct of other participants in the fraudulent scheme may have been a
+subsequent link in the causal chain leading to the
+plaintiff’s securities transaction . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+ADDENDUM
+CERTIFICATE OF SERVICE
+CERTIFICATE OF COMPLIANCE
+
+-ii-
+
+TABLE OF AUTHORITIES
+CASES:
+
+PAGE
+
+Affiliated Ute Citizens v. United States, 406 U.S. 128 (1972) . . . . . . . . . . . . 9,14
+Bateman Eichler, Hill Richards, Inc. v. Berner, 472 U.S. 299 (1985) . . . . . . . . . 2
+Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723 (1975) . . . . . . . . . . . . . . 2
+Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A.,
+511 U.S. 164 (1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,9,13,18,21,
+passim
+Chemical Bank v. Arthur Andersen & Co., 726 F.2d 930 (2d Cir. 1984) . . . . . . 21
+Cooper v. Pickett, 137 F.3d 616 (9th Cir.1998) . . . . . . . . . . . . . . . . 4,10,16,18,22,
+passim
+In re Enron, 235 F. Supp.2d 549 (S.D. Tex. 2002) . . . . . . . . . . . . . . . . . . . . . . . 18
+In re Enron, 310 F. Supp.2d 819 (S.D. Tex. 2004) . . . . . . . . . . . . . . . . . . . . . . . 18
+Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976) . . . . . . . . . . . . . . . . . . . . 13,15
+GFL Advantage Fund, Ltd. v. Colkitt, 272 F.3d 189 (3d Cir. 2001) . . . . . . . . . 19
+Harris v. Union Elec. Co., 787 F.2d 355 (8th Cir. 1986) . . . . . . . . . . . . . . . . . . . 21
+Herman & MacLean v. Huddleston, 459 U.S. 375 (1983) . . . . . . . . . . . . . . . . . . 9
+Howard v. Everex Systems, Inc., 228 F.3d 1057 (9th Cir. 2000) . . . . . . . . . . . . 16
+In re Homestore.com, Inc., 252 F. Supp.2.d 1018 (C.D. Cal. 2003) . . . . . 4,5,6,10,
+passim
+J.I. Case Co. v. Borak, 377 U.S. 426 (1964) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+-iii-
+
+CASES (cont’d):
+
+PAGE
+
+In re Lernout & Hauspie Sec. Litig., 236 F. Supp.2d 161 (D. Mass. 2003) . 18,22
+Santa Fe Indus., Inc. v. Green, 430 U.S. 475 (1977) . . . . . . . . . . . . . . . . . . . . . . 14
+SEC v. Capital Gains Research Bureau, 375 U.S. 180 (1963) . . . . . . . . . . . . . . 14
+SEC v. Commonwealth Chem. Sec., Inc., 574 F.2d 90 (2d Cir. 1978) . . . . . . . . 19
+SEC v. Rana Research Inc., 8 F.3d 1358 (9th Cir. 1993) . . . . . . . . . . . . . . . . . . 21
+SEC v. U.S. Environmental, 155 F.3d 107 (2d Cir. 1998) . . . . . . . . . . . . . . . . . 11
+Schreiber v. Burlington Northern, Inc., 472 U.S. 1 (1985) . . . . . . . . . . . . . . . . . 19
+Scott v. Brown, Doering, McNab & Co., [1892] 2 Q.B. 724 (C.A.) . . . . . . . . . . 19
+Superintendent of Ins. v. Bankers Life & Cas. Co., 404 U.S. 6 (1971) . . . . 9,14,15
+United States v. Charnay, 537 F.2d 341 (9th Cir. 1976) . . . . . . . . . . . . . . . . . 9,14
+United States v. O’Hagan, 521 U.S. 642 (1997) . . . . . . . . . . . . . . . . . . . . 10,12,14
+United States v. Zandford, 535 U.S. 813 (2002) . . . . . . . . . . . . . . . . . . . . 10,13,14
+U.S. v. Russo, 74 F.3d 1383 (2d Cir. 1996) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Warshaw v. Xoma Corp., 137 F.3d 955 (9th Cir. 1996) . . . . . . . . . . . . . . . . . . . 22
+In re ZZZZ Best Sec. Litig., 864 F. Supp. 960 (Cal. 1994) . . . . . . . . . . . . . . 18,22
+
+-iv-
+
+STATUTES AND RULES:
+
+PAGE
+
+Securities Act of 1933, 15 U.S.C. 77a, et seq.:
+Section 17(a), 15 U.S.C. 77q(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13,16
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.:
+Section 9, 15 U.S.C. 78i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Section 10(b), 15 U.S.C. 78j(b) . . . . . . . . . . . . . . . . . . . . . . . . . . 9,12,13,16,
+passim
+Section 20(e), 15 U.S.C. U.S.C. 78t(e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+Rule under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.:
+Rule 10b-5, 17 C.F.R. 240.10b-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9,13,
+passim
+Rule 10b-5(a), 15 C.F.R. 240.10b-5(a) . . . . . . . . . . . . . . . . . . . . . . . . . . 13,
+passim
+Rule 10b-5(c), 15 C.F.R. 240.10b-5(c) . . . . . . . . . . . . . . . . . . . . . . . . 13,16
+
+-v-
+
+MISCELLANEOUS:
+
+PAGE
+
+Black’s Law Dictionary (3d ed. 1933) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Funk & Wagnalls, New Standard Dictionary of the English Language (1937) . 15
+Private Securities Litigation Reform Act of 1995, Pub. L. No. 104-67 . . . . . . . . 2
+The Random House Unabridged Dictionary of the English Language
+(2d ed. 1987) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Securities Litigation Reform, H.R. Rep. No. 369, 104th Cong.,
+1st Sess. 31 (1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Webster’s New International Dictionary (2d ed. 1934) . . . . . . . . . . . . . . . . . . . . 15
+37 Am. Jur.2d Fraud and Deceit § 38 (2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+-vi-
+
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+The Securities and Exchange Commission, the agency principally
+responsible for the administration and enforcement of the federal securities laws,
+submits this brief, amicus curiae, to address an important question concerning
+liability in private lawsuits, and possibly certain Commission actions, brought
+under the antifraud provisions of the federal securities laws:
+What is the appropriate test for finding a defendant to be a primary
+violator rather than an aider and abettor in a scheme to defraud under
+Rule 10b-5(a)?
+The question arises because the Supreme Court, in Central Bank of Denver, N.A.
+v. First Interstate Bank of Denver, N.A., 511 U.S. 164 (1994), held that private
+actions under Section 10(b) of the Securities Exchange Act of 1934, 15 U.S.C.
+78j(b), and Rule 10b-5 thereunder, 17 C.F.R. 240.10b-5, can only be brought
+against persons who are primary violators and not against those who aid and abet a
+primary violator.
+This case involves allegations that a corporation and several of its business
+partners engaged in a scheme to defraud investors by entering into transactions
+that were deceptive because their purpose and effect was to falsely inflate the
+corporation’s revenues. These allegations raise the question whether the business
+partners’ alleged conduct – engaging in such transactions – can make them
+primary violators. This situation has arisen in several recent cases involving
+schemes to inflate the revenues of internet companies, as well as other types of
+schemes to misrepresent the financial condition of publicly traded companies.
+
+Meritorious private actions under the federal securities laws serve an
+important role, both because they provide compensation for investors who have
+been harmed by violations of the securities laws and because, as the Supreme
+Court has repeatedly recognized, they “provide ‘a most effective weapon in the
+enforcement’ of the securities laws and are ‘a necessary supplement to
+Commission action.’” Bateman Eichler, Hill Richards, Inc. v. Berner, 472 U.S.
+299, 310 (1985) (quoting J.I. Case Co. v. Borak, 377 U.S. 426, 432 (1964)). See
+also Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723, 730 (1975).
+Congress, in adopting the Private Securities Litigation Reform Act of 1995, Pub.
+L. No. 104-67, reaffirmed that “[p]rivate securities litigation is an indispensable
+tool with which defrauded investors can recover their losses” and that private
+lawsuits “promote public and global confidence in our capital markets and help to
+deter wrongdoing and guarantee that corporate officers, auditors, directors,
+lawyers and others properly perform their jobs.” Conference Report on Securities
+Litigation Reform, H.R. Rep. No. 369, 104th Cong., 1st Sess. 31 (1995).
+The Commission has a further interest in this case, beyond its implications
+for private actions. Because Central Bank was a private action under the
+Exchange Act, the Supreme Court did not explicitly address either the
+Commission’s authority to bring actions against aiders and abettors or the
+availability of aiding and abetting liability under the Securities Act of 1933, 15
+U.S.C. 77a et seq. After Central Bank, Congress, in the Litigation Reform Act,
+reaffirmed the Commission’s authority to bring aiding and abetting actions under
+the Exchange Act. See Exchange Act Section 20(e), 15 U.S.C. 78t(e). The
+
+-2-
+
+Litigation Reform Act, however, does not give the Commission authority to
+proceed against aiders and abettors of violations of the Securities Act. Thus,
+assuming the Central Bank holding applies to the Commission, this Court’s
+resolution of the present case could have a bearing upon the Commission’s
+authority to proceed against violators of the antifraud provisions of the Securities
+Act.
+STATEMENT OF THE CASE
+A.
+
+Facts
+Homestore.com, Inc. was a leading internet provider of real estate listings
+
+and home purchasing and moving services whose stock plummeted when the
+company was forced to restate its revenues for 2000 and 2001 by approximately
+$190 million. The restatement was necessary because Homestore had inflated its
+revenues through a series of transactions whose purpose and effect was to create
+the false appearance of legitimate revenues, thus enabling Homestore to meet or
+exceed targets set by Wall Street analysts and maintain the high price of the
+company’s stock. The defendants include three companies – AOL Time Warner
+Inc., Cendant Corporation, and L90, Inc. – that were Homestore’s business
+partners in the transactions; two executives at AOL; and one at Cendant,
+collectively referred to by the district court as the business partner defendants.
+B.
+
+District Court Decision
+The district court dismissed the complaint against the business partner
+
+defendants for three reasons: (1) there was no precedent for holding an outside
+business partner to a corporation liable to that corporation’s shareholders for
+
+-3-
+
+securities fraud; (2) the primary architects of the scheme were the officers of
+Homestore, not the other companies that entered into the transactions with
+Homestore; and (3) Homestore’s shareholders were injured by their reliance on
+material misstatements and omissions made by Homestore about the revenues, not
+the transactions that created the revenues. See In re Homestore.com, Inc. Sec.
+Litig., 252 F. Supp.2d 1018, 1037-42 (C.D. Cal. 2003).
+The district court, citing this Court’s decision in Cooper v. Pickett, 137 F.3d
+616 (1998), acknowledged that a defendant may be held primarily liable for
+participating in a scheme to defraud after Central Bank. See id. at 1038. The
+court stated, however, that it was “unaware of any case since Central Bank that has
+ever held that outside business partners, no matter how involved they were in
+fraudulent transactions with a corporation, can be held liable in a private action
+brought by the shareholders of that company.” Id. “[I]n every post-Central Bank
+case cited to the Court where an ‘outsider’ has been held liable as a primary
+violator, that outsider had some type of special relationship with the corporation,
+i.e. accountant, auditor, etc.” Id. at 1039. The court noted that “these are exactly
+the types of ‘secondary actors’ the Supreme Court envisioned as potential ‘primary
+violators’ in Central Bank.” Id. 1/ The court reasoned that holding “a business
+1/ The Supreme Court stated in Central Bank:
+The absence of § 10(b) aiding and abetting liability does not
+mean that secondary actors in the securities markets are always
+free from liability under the securities Acts. Any person or
+entity, including a lawyer, accountant, or bank, who employs a
+manipulative device or makes a material misstatement (or
+omission) on which a purchaser or seller of securities relies
+may be liable as a primary violator under 10b-5, assuming all
+(continued...)
+-4-
+
+partner with no special relationship to the corporation” liable would “broaden the
+scope of the securities acts so as to haul into court anyone doing business with a
+publicly traded company.” Id. Thus, the court held that the plaintiffs’ claims
+against the business partner defendants were precluded as a matter of law, and that
+the court therefore did not need to address the sufficiency of the complaint as to
+them. Id. at 1042; id. at 1038 (“Central Bank precludes liability for ordinary
+business partners and third party corporations doing business with the primary
+violator as a matter of law.”). As to scheme liability in particular, the court stated
+that “[t]here is no indication that liability for participation in a scheme can extend
+beyond the corporate officers and those with a special relationship with the
+corporation.” Id. at 1040.
+With respect to a test for liability of participants in a scheme to defraud, the
+district court stated that although Cooper did not define the kind of scheme in
+which a group of defendants could be liable, “Central Bank requires a plaintiff to
+allege that each and every defendant committed its own independent primary
+violation.” 252 F. Supp.2d at 1040. In order to implement this “independent
+primary violation” requirement, the court held that “[t]hose who actually ‘employ’
+the scheme to defraud investors are primary violators, while those who merely
+participate in or facilitate the scheme are secondary violators.” Id. In this case,
+the court found that the officers of Homestore, who were the “primary architects of
+
+1/(...continued)
+of the requirements for primary liability under Rule 10b-5 are
+met.
+511 U.S. at 191.
+-5-
+
+the scheme” and “designed and carried [it] out,” had employed the scheme. Id.
+The court found that “other actors, such as AOL and its employees who actively
+participated in the *** scheme, did not ‘employ’ the scheme to defraud investors,
+and are therefore secondary violators.” Id.
+Finally, with respect to the reliance element in private actions, the district
+court found that the plaintiff “suffered damage through its reliance on false or
+misleading statements” about Homestore’s revenues, not on the “scheme itself.”
+Id. at 1041. Thus, the court viewed the scheme to generate false revenues as “one
+step removed from the injured party.” Id. Because the false statements were “the
+principal ‘wrong’ alleged,” the court reasoned, “it is appropriate to require
+defendants in this case to be connected in some material way to the drafting of the
+statements made to the investing public.” Id. This means that the plaintiffs could
+not state a claim against the business partner defendants, who the district court
+held were not involved in the making of the false statements concerning
+Homestore’s revenues, no matter how involved they were in the scheme to create
+those revenues. Id.
+ARGUMENT
+I.
+
+THE DISTRICT COURT’S HOLDINGS, BASED ON
+UNWARRANTED DISTINCTIONS, WOULD UNDERMINE THE
+PURPOSE OF THE ANTIFRAUD PROVISIONS.
+Not only are the district court’s holdings inconsistent with the language of
+
+Section 10(b) and Rule 10b-5 and the relevant case law (as explained below), but
+it bears emphasizing at the outset that the district court’s holdings would
+undermine the statutory intent to protect investors against fraud and to ensure
+
+-6-
+
+honest markets. These holdings, and the positions taken by the business partner
+defendants below, would permit wrongdoers to evade liability on the basis of
+meaningless distinctions.
+First, to require a special relationship with the corporation of which the
+plaintiffs are shareholders would allow a person who is not in such a relationship
+to accomplish the same fraud, with the same state of mind, and the same effect on
+investors as a person in such a relationship, and nonetheless escape liability.
+Wrongdoers could deliberately avoid having any such relationship arise, and
+effectively immunize their fraudulent conduct. Liability under Section 10(b)
+should be imposed on any person whose conduct comes within the proscriptions
+of the statute, regardless of the person’s relationship with the subject corporation.
+Second, to require a defendant to have designed the fraudulent scheme
+would have a similarly unwarranted impact. Where a wrongdoer, intending to
+deceive investors, engages in a deceptive act as part of a scheme to defraud, he can
+cause the same injury to investors, and the same deleterious effects on the markets,
+regardless of whether he designed the scheme. Wrongdoers could studiously
+avoid engaging in any design activity, and effectively immunize their conduct. An
+unlimited number of persons could join in a scheme where one schemer does all of
+the designing, and only that single schemer would be potentially liable. The
+district court’s test would also suggest that an unlimited number of schemers could
+simply mimic some prior, well-publicized scheme and escape liability – none
+having designed it. Liability should be available against any person who engages
+
+-7-
+
+in a deceptive act within the meaning of Section 10(b) as part of a scheme to
+defraud, regardless of who designed the scheme.
+Third, deceptive acts under Section 10(b) include conduct beyond the
+making of false statements or misleading omissions, for facts effectively can be
+misrepresented by action as well as words. For example, if an investment bank
+falsely states that a client company has sound credit, there is no dispute that it can
+be primarily liable. If the bank creates an off-balance-sheet sham entity that has
+the purpose and effect of hiding company debt, it has achieved the same
+deception, and liability should be equally available.
+Finally, the district court’s holding with respect to the reliance element in
+private actions would invite similar gamesmanship. The deception created by
+fraudulent activity frequently will be disseminated into the marketplace through
+some person’s making a false statement. If prior fraudulent activity, from which
+the making of that false statement flowed as a natural consequence, is not covered,
+large swaths of fraudulent activity could go unremedied. Groups of many
+schemers could deliberately arrange for one schemer to make the false statement
+on which the completion of their scheme depends. Under the district court’s rule,
+all of the other schemers could be insulated from liability as a matter of law. The
+reliance element should be viewed as satisfied whenever a plaintiff relies on a
+material deception flowing from a deceptive act, even though the conduct of other
+participants in the scheme may have been a subsequent link in the causal chain
+leading to the plaintiff’s securities transaction.
+
+-8-
+
+II.
+
+THE DISTRICT COURT MADE SEVERAL LEGAL ERRORS IN ITS
+RESOLUTION OF THE CLAIMS AGAINST THE BUSINESS
+PARTNER DEFENDANTS.
+A.
+
+A defendant is not required to have a special relationship with the
+corporation of which the plaintiffs are shareholders to be
+primarily liable to them for securities fraud.
+
+The district court ruled that a business partner with no special relationship
+to a company whose security is the subject of a securities fraud action cannot be
+liable as a primary violator. A proper analysis, however, should not focus upon
+whether there is such a relationship, but rather upon the conduct of the party
+alleged to have played a part in a fraudulent scheme.
+Nothing in the language of Section 10(b) or Rule 10b-5 suggests a
+requirement of any special relationship among alleged co-schemers. Section 10(b)
+makes it unlawful for “any person” to use or employ any manipulative or
+deceptive device. Rule 10b-5, likewise, makes it unlawful for “any person” to
+engage in fraudulent conduct. The Supreme Court has observed that the “repeated
+use of the word ‘any’” in the statute and rule is “obviously meant to be inclusive.”
+Affiliated Ute Citizens v. United States, 406 U.S. 128, 151 (1972). The Court has
+expressly recognized that while “[s]ome of the express causes of action [in the
+securities Acts] specify categories of defendants who may be liable; others (like
+§ 10(b)) state only that ‘any person’ who commits one of the prohibited acts may
+be held liable.” Central Bank, 511 U.S. at 179. 2/
+2/ See Herman & MacLean v. Huddleston, 459 U.S. 375, 382, 387 n.22 (1983);
+Superintendent of Ins. v. Bankers Life & Cas. Co., 404 U.S. 6, 10 (1971) (finding
+the “fact that the fraud was perpetrated by an officer of [the victim corporation]
+and his outside collaborators” to be “irrelevant” “[f]or § 10(b) bans the use of any
+deceptive device *** by ‘any person.’”). See also United States v. Charnay, 537
+(continued...)
+-9-
+
+Moreover, the district court’s holding automatically excluding all business
+partners from primary liability is inconsistent with the Supreme Court’s directive
+that Section 10(b) be construed “not technically and restrictively, but flexibly to
+effectuate its remedial purposes.’” United States v. Zandford, 535 U.S. 813, 819
+(2002). Pronouncements like the district court’s may appear to have the virtue of
+“bright-line” certainty and predictability, but may also have the unfortunate
+consequence of encouraging fraudulent schemes deliberately designed to evade
+liability through compliance with such mechanical distinctions.
+The district court supported its conclusion by misreading a passage in
+Central Bank in which the Court stressed that “[a]ny person or entity, including a
+lawyer, accountant, or bank, who employs a manipulative device or makes a
+material misstatement (or omission)” may be primarily liable under Rule 10b-5.
+The district court focused on the Supreme Court’s reference to lawyers,
+accountants, and banks, and gleaned a “special relationship” requirement. See 252
+F. Supp.2d at 1039. But the words “[a]ny person or entity,” and the introduction
+of the reference to those professional categories by the word “including,” show
+that the categories were given by way of illustration, not limitation. This Court
+stated in Cooper v. Pickett that a group of defendants can be liable for acting
+together to violate the securities laws, “as long as each defendant committed a
+manipulative or deceptive act in furtherance of the scheme.” 137 F.3d at 624.
+
+2/(...continued)
+F.2d 341, 349 (9th Cir. 1976) (“[T]he language of the Rule provides no basis for
+concluding that only ‘insiders’ are subject to its requirements.”).
+-10-
+
+That language did not in any way suggest a requirement that there be a special
+relationship among alleged co-schemers.
+Indeed, the district court’s standard further conflicts with Cooper v. Pickett
+by precluding liability even for a defendant who meets the requirement of
+committing a manipulative or deceptive act in furtherance of a scheme to defraud.
+This conflict is apparent in the district court’s statement that outside business
+partners cannot be held liable in a private action for securities fraud “no matter
+how involved they were in fraudulent transactions with a corporation.” In re
+Homestore, 252 F. Supp.2d at 1038.
+B.
+
+Designing the fraudulent scheme is not required for a defendant
+to be primarily liable for employing a scheme to defraud.
+
+The district court held that the primary violators in a scheme to defraud are
+the “primary architects” of the scheme who “designed and carried [it] out.” The
+“use or employ” language of Section 10(b), however, suggests no such
+requirement. The Second Circuit, in holding a defendant primarily liable for
+securities fraud, found it “of no relevance” that another individual “masterminded”
+the stock manipulation scheme at issue. SEC v. U.S. Environmental, 155 F.3d
+107, 112 (2d Cir. 1998). The district court’s requirement would lead to absurd
+results. As noted, a group of defendants could join in a scheme with a mastermind
+who designed it and then the group could implement the scheme without any
+further involvement of the mastermind. Under the district court’s test, no member
+of the group that implemented the scheme would be primarily liable because they
+had no part in designing it.
+
+-11-
+
+C.
+
+The district court erroneously analyzed the element of reliance.
+
+The district court concluded that the plaintiffs could not show reliance on
+the business partners’ conduct because they relied on Homestore’s
+misrepresentations about its revenue, not on the scheme to create the revenue. The
+court appears to have assumed that the scheme to defraud did not include the
+actual making of the false statements about Homestore. The court viewed the
+transactions to generate false revenues as the scheme in which the business partner
+defendants were involved (for which liability did not attach because there was no
+reliance), and the making of false statements as a separate wrong in which the
+business partner defendants were not involved (for which liability could attach
+because there was reliance). The type of scheme in which the business partners
+were allegedly involved – to artificially inflate the price at which a security is
+traded by disseminating false information into the marketplace – does not end
+before the false statements are made. Indeed, at one point in its opinion, the court
+recognized that “the scheme was not complete until the statement was made,” 252
+F. Supp.2d at 1041, but then failed to take this fact into account in its analysis.
+III.
+
+THE APPROPRIATE TEST FOR PRIMARY LIABILITY FOR A
+SCHEME TO DEFRAUD
+A.
+
+Scope of the statute and rule
+
+A principal purpose of Congress in enacting the Securities Exchange Act of
+1934 was to “insure honest securities markets and thereby promote investor
+confidence.” United States v. O’Hagan, 521 U.S. 642, 658 (1997). Section 10(b)
+of the Act explicitly delegated authority to the Commission to prescribe rules, “as
+necessary or appropriate in the public interest or for the protection of investors,”
+-12-
+
+making it “unlawful for any person, directly or indirectly,” to “use or employ, in
+connection with the purchase or sale of any security *** any manipulative or
+deceptive device or contrivance.” Section 10(b) (emphasis added). In 1942,
+consistently with the Act’s broad remedial purposes, the Commission implemented
+Section 10(b) through the promulgation of Rule 10b-5. See Zandford, 535 U.S. at
+819-20 (holding that Commission’s interpretation of Section 10(b) is entitled to
+deference if reasonable).
+Rule 10b-5 tracks the language of Section 10(b) in many respects,
+see Central Bank, 511 U.S. at 172 (“Rule 10b-5 *** casts the proscription in
+similar terms”), and closely tracks Congress’s own language in Section 17(a), the
+general antifraud provision of the Securities Act of 1933. As pertinent here, Rule
+10b-5(a) makes it unlawful for “any person,” “directly or indirectly,” to “employ
+any device, scheme, or artifice to defraud.” The Supreme Court has stated that
+“any manipulative or deceptive device or contrivance” in Section 10(b) includes a
+“scheme,” Ernst & Ernst v. Hochfelder, 425 U.S. 185, 199 n.20 (1976), and that
+Section 10(b) applies to “complex securities frauds” in which “there are likely to
+be multiple violators” Central Bank, 511 U.S. at 191. Rule 10b-5(c) makes it
+unlawful for “any person,” “directly or indirectly,” to “engage in any act, practice,
+or course of business which operates or would operate as a fraud or deceit upon
+any person ***.”
+It has long been accepted that Section 10(b), and Rule 10b-5(a) and (c)
+thereunder, cover conduct beyond the making of false statements and misleading
+omissions, which are covered by Rule 10b-5(b). The Supreme Court has stated
+
+-13-
+
+that Section 10(b) encompasses deceptive “practices,” Santa Fe Indus., Inc. v.
+Green, 430 U.S. 462, 475-76 (1977), deceptive “conduct,” id. at 475 n.15;
+O’Hagan, 521 U.S. 659, and deceptive “acts,” Central Bank, 511 U.S. at 173; see
+Bankers Life, 404 U.S. at 9. In the recent Zandford decision, where the Court
+considered a fraudulent scheme under Rule 10b-5(a) and a course of business that
+operated as a fraud under Rule 10b-5(c), the Court concluded: “Indeed, each time
+respondent ‘exercised his power of disposition [of his customers’ securities] for
+his own benefit,’ that conduct, ‘without more,’ was a fraud.” Zandford, 535 U.S.
+at 815 (emphasis added); see Affiliated Ute, 406 U.S. at 152 (noting that while
+Rule 10b-5(b) targets false statements or omissions, paragraphs (a) and (c) “are not
+so restricted”); Charnay, 537 F.2d at 350 (clauses (a) and (c) prohibit deceptive
+“practices”). As a whole, Rule 10b-5 implements all of the authority granted to
+the Commission in Section 10(b). See Zandford, 535 U.S. at 816 n.1 (“The scope
+of Rule 10b-5 is coextensive with the coverage of § 10(b) ***.”). Thus, if conduct
+is covered by Section 10(b), it is necessarily covered by Rule 10b-5.
+The Supreme Court has stated repeatedly that Section 10(b) should be
+construed “‘not technically and restrictively, but flexibly to effectuate its remedial
+purposes.’” Zandford, 535 U.S. at 819 (quoting SEC v. Capital Gains Research
+Bureau, 375 U.S. 180, 186 (1963)). See also Santa Fe Indus. v. Green, 430 U.S.
+462, 477 (1977) (“No doubt Congress meant to prohibit the full range of ingenious
+devices that might be used to manipulate securities prices.”); Affiliated Ute, 406
+U.S. at 151 (stating Section 10(b) and Rule 10b-5 “are broad and, by repeated use
+
+-14-
+
+of the word ‘any,’ are obviously meant to be inclusive”). The Supreme Court has
+explained:
+[We do not think] it sound to dismiss a complaint merely because the
+alleged scheme does not involve the type of fraud that is “usually associated
+with the sale or purchase of securities.” We believe that § 10 (b) and Rule
+10b-5 prohibit all fraudulent schemes in connection with the purchase or
+sale of securities, whether the artifices employed involve a garden type
+variety of fraud, or present a unique form of deception. Novel or atypical
+methods should not provide immunity from the securities laws.
+Bankers Life, 404 U.S. at 11 n.7 (citation omitted); see Hochfelder, 425 U.S. at
+203 (Section 10(b) is “a ‘catchall’ clause to enable the Commission ‘to deal with
+new manipulative (or cunning) devices.’”).
+Consideration of contemporaneous dictionary definitions of the plain
+language of Section 10(b) confirms its breadth. “Employ” is essentially a
+synonym for the verb “use,” derived from the Latin word for “engage.” Webster’s
+New International Dictionary 839 (2d ed. 1934). “Use” means “to engage in,” or
+“to put into operation.” Id. at 2806; see Funk & Wagnalls, New Standard
+Dictionary of the English Language 2622 (1937) (defining “use” as “[t]he act of
+using; employment, as of means or material for a purpose”). “Scheme” means “a
+plan or program of something to be done.” Webster’s New International
+Dictionary 2234. “Directly” means “without anything intervening; personally.”
+Webster’s New International Dictionary 738. The definitions for “indirectly”
+include “not directly,” and “in [a] roundabout or subtle manner.” Id. at 1267.
+
+-15-
+
+B.
+
+The appropriate test for conduct
+1.
+
+Any person can be primarily liable under Section 10(b) and
+Rule 10b-5(a) for engaging in a scheme to defraud, so long
+as he himself, directly or indirectly, engages in a
+manipulative or deceptive act as part of the scheme.
+
+The Commission urges the following test for determining when a person’s
+conduct as part of a scheme to defraud constitutes a primary violation:
+Any person who directly or indirectly engages in a manipulative or
+deceptive act as part of a scheme to defraud can be a primary violator
+of Section 10(b) and Rule 10b-5(a); any person who provides
+assistance to other participants in a scheme but does not himself
+engage in a manipulative or deceptive act can only be an aider and
+abettor.
+This test is consistent with this Court’s observation in Cooper v. Pickett that
+“Central Bank does not preclude liability based on allegations that a group of
+defendants acted together to violate the securities laws, as long as each defendant
+committed a manipulative or deceptive act in furtherance of the scheme.” 137
+F.3d at 624. 3/
+3/ Instead of the verb “commit” used in Cooper, the Commission’s test uses the
+verb “engage” because it is more naturally applicable to acts carried out in concert
+by multiple actors. Using the verb “engage” is consistent with the words of
+Section 10(b), the statutory structure, see Securities Act Section 17(a)(3), 15
+U.S.C. 77q(a)(3), the Commission’s Rule adopted in 1942, 17 C.F.R. 240.10b5(c), and the definitions given above: to “use or employ” a manipulative or
+deceptive device means to put the device into operation, and to engage in a
+manipulative or deceptive act has the same meaning. The test uses “as part of a
+scheme” instead of “in furtherance of a scheme,” which connotes assistance and
+thus suggests aiding and abetting.
+We do not believe that a test requiring that a defendant have “substantial
+participation” in a scheme would be appropriate in the context of a scheme to
+defraud under Rule 10b-5(a). This Court uses such a test for primary liability in
+false statement cases. Howard v. Everex Systems, Inc., 228 F.3d 1057, 1061 n.5
+(9th Cir. 2000) (primary liability found when secondary party had “substantial
+participation or intricate involvement” in preparation of fraudulent statements).
+(continued...)
+-16-
+
+It is essential that the test for primary liability provide a meaningful
+distinction between a primary violator and an aider and abettor; otherwise, there is
+a risk that primary liability would be extended to cover activity that should
+properly be viewed as only aiding and abetting. The Commission’s test, which
+requires that a particular defendant engage in a manipulative or deceptive act as
+part of the scheme, provides such a meaningful distinction, and is consistent with
+Section 10(b) and Central Bank. The Central Bank Court defined an aider and
+abettor as one whose conduct does not come within the proscriptions of Section
+10(b), but who assists another whose conduct is covered by Section 10(b). See
+511 U.S. at 184. The Court found aiding and abetting liability, so defined, to be
+precluded by the plain language of Section 10(b). See id. at 177. The Court
+stated: “We cannot amend the statute to create liability for acts that are not
+themselves manipulative or deceptive within the meaning of the statute.” Id. The
+test the Commission urges, by requiring that each defendant engage in a
+manipulative or deceptive act for primary liability to attach, ensures – by language
+taken from Section 10(b) itself – that only conduct covered by Section 10(b) is
+
+3/(...continued)
+That test, however, derives from the Rule 10b-5(b) context, which presents the
+special problem of interpreting the verb “make” in paragraph (b) of the Rule. This
+Court requires “significant participation” in the scenario where the defendant was
+not publicly identified with a false statement, and thus can only be considered as
+having “made” the statement if the defendant substantially participated in its
+drafting or editing. Rule 10b-5(a), however, uses the verb “employ,” which, as
+noted above, does not suggest a requirement that a person be involved in
+designing, planning, or otherwise creating a scheme.
+-17-
+
+sufficient for primary liability. 4/ Several district courts construing Section 10(b)
+and Rule 10b-5(a) are in accord with this approach and Cooper. 5/
+2.
+
+Engaging in a transaction whose principal purpose and
+effect is to create a false appearance of corporate revenues
+constitutes a deceptive act that can support primary
+liability.
+
+It is reasonable to construe Section 10(b) as encompassing, within the rubric
+of engaging in a deceptive act, engaging in a transaction whose principal purpose
+and effect is to create a false appearance of revenues. This rule follows from the
+well-established principle that facts can be misrepresented by conduct as well as
+
+4/ This Court made reference in Cooper v. Pickett to “direct[] participat[ion]” in a
+scheme. 137 F.3d at 624. We do not believe that direct conduct should be a
+requirement for primary scheme liability. Section 10(b) and Rule 10b-5 expressly
+cover “indirect” conduct. Thus, a defendant should be primarily liable where he
+either directly or indirectly engages in a manipulative or deceptive act as part of a
+scheme to defraud. See In re Lernout & Hauspie Sec. Litig., 236 F. Supp.2d 161,
+173 (D. Mass. 2003) (holding that any person can be primarily liable who
+participates in a scheme to defraud “by directly or indirectly employing a
+manipulative or deceptive device”).
+5/ See, e.g., In re Enron, 310 F. Supp.2d 819, 827-30 (S.D. Tex. 2004)
+(“reject[ing] the narrow construction of the statute [in] Homestore.com”); In re
+Lernout & Hauspie Sec. Litig., 236 F. Supp.2d at 173 (holding that any person can
+be primarily liable “who substantially participates in a manipulative or deceptive
+scheme by directly or indirectly employing a manipulative or deceptive device
+(like the creation or financing of a sham entity) intended to mislead investors
+****”); In re Enron, 235 F. Supp.2d 549, 592 (S.D. Texas 2002) (“If a plaintiff
+meets the requirements of pleading primary liability as to each defendant, i.e.,
+alleges with factual specificity (1) that each defendant made a material
+misstatement (or omission) or committed a manipulative or deceptive act in
+furtherance of the alleged scheme to defraud, (2) scienter, and (3) reliance, that
+plaintiff can plead a scheme to defraud and still satisfy Central Bank.”) (emphasis
+added); In re ZZZZ Best Sec. Litig., 864 F. Supp. 960, 969 (C.D. Cal. 1994)
+(Central Bank “makes clear that more than simply knowing assistance with the
+underlying fraudulent scheme is required;” “Plaintiffs must prove that
+[defendants] engaged in some form of deception that is prohibited by Rule
+10b-5.”).
+-18-
+
+words. 6/ If two companies together make a false statement about the revenues of
+one of them, both companies could be primarily liable for securities fraud. If they
+together achieve the same deception through conduct rather than words, the same
+result should obtain. See supra pp. 13-14 (explaining that Section 10(b) and Rule
+10b-5 cover conduct beyond the making of false statements and misleading
+omissions).
+This rule is also consistent with Section 10(b)’s coverage of market
+manipulation, which typically involves conduct that creates a false appearance of
+trading activity. See United States v. Russo, 74 F.3d 1383, 1391 (2d Cir. 1996)
+(holding trading scheme which “create[d] a false impression” of demand for the
+subject stock constituted market manipulation under Section 10(b) and Rule 10b5). 7/
+*****
+6/ A legal dictionary in use at the time of Section 10(b)’s enactment defined
+“deception” as follows: “The act of deceiving; intentional misleading by
+falsehood spoken or acted.” See Black’s Law Dictionary 529 (3d ed. 1933)
+(emphasis added). See also The Random House Unabridged Dictionary of the
+English Language 516 (2d ed. 1987) (“deceive *** 1. to mislead by a false
+appearance or statement”) (emphasis added); 37 Am. Jur.2d Fraud and Deceit § 38
+(2004) (“[F]raud may consist of *** the creation of a false impression by words or
+acts ***.”). “I can see no substantial distinction between false rumours and false
+and fictitious acts.” Scott v. Brown, Doering, McNab & Co., [1892] 2 Q.B. 724,
+730 (C.A.) (recognizing that manipulation can occur without the dissemination of
+false statements) (quoted approvingly in Schreiber v. Burlington Northern, Inc.,
+472 U.S. 1, 7 n.4 (1985)).
+7/ See also GFL Advantage Fund, Ltd. v. Colkitt, 272 F.3d 189, 204 (3d Cir.
+2001) (holding trading activity that “created a false impression of market activity”
+can violate Section 10(b)); SEC v. Commonwealth Chem. Sec., Inc., 574 F.2d 90,
+(2d Cir. 1978) (Friendly, J.) (finding violation in case of “large-scale
+manipulation” where defendant created phony nominee accounts to “create a false
+appearance” that a large number of securities had been sold); cf. Section 9 of the
+Exchange Act, 15 U.S.C. 78i.
+-19-
+
+Consideration of hypothetical scenarios confirms that the above approach
+would appropriately distinguish between conduct to which primary liability should
+attach and mere aiding and abetting. For example, a bank that makes a loan, even
+knowing that the borrower will use the proceeds to commit securities fraud, is at
+most an aider and abettor. The bank itself has not engaged in any manipulative or
+deceptive act because there is nothing manipulative or deceptive about the bank’s
+making of the loan. Likewise, if an investment bank provides services to arrange
+financing for a client, knowing the client will use the proceeds to commit
+securities fraud, then it is at most an aider and abettor. If, however, the investment
+bank engages in the creation of a sham entity as part of the services to arrange the
+financing, the investment bank may be a primary violator if it acted with scienter.
+The investment bank itself engaged in a deceptive act.
+In the context of the overstatement of revenues, if a third party enters into a
+legitimate transaction with a corporation, knowing that the corporation will
+overstate the revenue generated by the transaction, the third party is at most an
+aider and abettor. There is nothing deceptive about the third party entering into
+the legitimate transaction. If, however, the third party engages with the
+corporation in a transaction whose principal purpose and effect is to create a false
+appearance of revenues, intending to deceive investors in the corporation’s stock,
+it may be a primary violator.
+Similarly, if a third party enters into a sale-of-goods transaction with a
+corporation where the terms include a legitimate option on the part of the third
+party (the buyer) to return the goods for a full refund, knowing that the corporation
+
+-20-
+
+will misrepresent the transaction as a final sale, the third party is at most an aider
+and abettor. If, however, the parties to the transaction have a side oral agreement
+that no goods will be delivered and no money will be paid, and the corporation
+falsely reflects revenue from the transaction, the third party could be a primary
+violator.
+C.
+
+The reliance requirement is satisfied where a plaintiff relies on a
+material deception flowing from a defendant’s deceptive act, even
+though the conduct of other participants in the fraudulent scheme
+may have been a subsequent link in the causal chain leading to
+the plaintiff’s securities transaction.
+
+The Supreme Court in Central Bank stressed the importance of the reliance
+requirement in distinguishing primary liability from aiding and abetting liability.
+8/ 511 U.S. at 180 (“Were we to allow the aiding and abetting action proposed in
+this case, the defendant could be liable without any showing that the plaintiff
+relied upon the aider and abettor’s statements or actions.”). The Court, however,
+had no occasion in that case to address the reliance requirement in the context of a
+scheme to defraud under Rule 10b-5(a).
+Reliance in securities fraud cases is a form of transaction causation, which
+is established where the plaintiff’s reliance on the defendant’s fraudulent conduct
+caused the plaintiff to engage in his securities transaction. See Harris v. Union
+Elec. Co., 787 F.2d 355, 366 (8th Cir. 1986); Chemical Bank v. Arthur Andersen
+& Co., 726 F.2d 930, 943 n.23 (2d Cir. 1984). Nothing in the rules of causation
+suggests that only the final act in a scheme to defraud meets the causation
+requirement. Indeed, in Cooper v. Pickett, this Court held a maker of false
+8/ Reliance is an element in private actions, but is not required in Commission
+actions. See SEC v. Rana Research Inc., 8 F.3d 1358, 1363-64 (9th Cir. 1993).
+-21-
+
+statements primarily liable, although the deceptive information flowed into the
+marketplace through the intervening conduct of subsequent speakers. 137 F.3d
+624-25; see In re Lernout & Hauspie Sec. Litig., 236 F. Supp.2d at 173 (holding a
+person who employs a deceptive device as part of a fraudulent scheme may be
+primarily liable “even if a material misstatement by another person creates the
+nexus between the scheme and the securities market”). Cooper’s holding
+implicitly recognized that subsequent conduct that does not break the causal chain
+can include another party’s making of false statements. See also In re ZZZZ Best,
+864 F. Supp. at 973. Although reliance on the acts of defendants who do not
+themselves disseminate information to the securities market may be indirect,
+liability in these circumstances is fully consistent with Section 10(b) and Rule
+10b-5’s explicit coverage of deceptions accomplished “directly or indirectly.”
+See supra pp. 12, 13.
+Thus, a prior deceptive act, from which the making of the false statements
+follows as a natural consequence, can constitute a sufficient step in the causal
+chain to support a finding of reliance. Certainly where the making of the false
+statements by one participant in the scheme is an objective of the scheme, the
+making of the statements should not be viewed as breaking the chain of causation.
+See Warshaw v. Xoma Corp., 137 F.3d 955, 959 (9th Cir. 1996) (If “Xoma
+intentionally used these third parties to disseminate false information to the
+investing public,” it “cannot escape liability simply because it carried out its
+alleged fraud through the public statements of third parties.”). Another example of
+subsequent conduct that should not break the causal chain would be an outside
+
+-22-
+
+auditor’s failure to detect another person’s deceptive act – or even the auditor’s
+fraudulent certification of financial statements as part of the scheme. A person
+should not be able to escape liability simply because his deceptive act also
+deceived the outside auditor – or because the outside auditor also engaged in the
+fraudulent scheme.
+
+-23-
+
+CONCLUSION
+For the foregoing reasons, the Court should hold that any person who has
+the requisite scienter can be liable as a primary violator of Section 10(b) of the
+Securities Exchange Act of 1934 and Rule 10b-5(a) thereunder when he, directly
+or indirectly, engages in a manipulative or deceptive act as part of a scheme to
+defraud; that engaging in a transaction whose principal purpose and effect is to
+create a false appearance of revenues constitutes such a deceptive act; and that the
+reliance requirement in private actions is satisfied where a plaintiff relies on a
+material deception flowing from a deceptive act, even though the conduct of other
+participants in the scheme may have been a subsequent link in the causal chain
+leading to the plaintiff’s securities transaction.
+
+Respectfully submitted,
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+KATHARINE B. GRESHAM
+Assistant General Counsel
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+MICHAEL L. POST
+Senior Counsel
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C. 20549-0606
+(202) 942-0921 (Post)
+
+October 2004
+
+-24-
+
+ADDENDUM
+
+TABLE OF CONTENTS
+Page
+Section 17(a) of the Securities Act of 1933,
+15 U.S.C. 77q(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A1
+Section 10(b) of the Exchange Act of 1934,
+15 U.S.C. 78j(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A1
+Rule 10b-5, 17 C.F.R. 240.10b-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A1
+
+FRAUDULENT INTERSTATE TRANSACTIONS
+Section 17. [77q] (a) Use of interstate commerce for purpose of fraud or deceit--It shall
+be unlawful for any person in the offer or sale of any securities or any security-based swap
+agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) by the use of any means
+or instruments of transportation or communication in interstate commerce or by use of the mails,
+directly or indirectly–
+(1) to employ any device, scheme, or artifice to defraud, or
+(2) to obtain money or property by means of any untrue statement of a material fact or any
+omission to state a material fact necessary in order to make the statements made, in light of the
+circumstances under which they were made, not misleading; or
+(3) to engage in any transaction, practice, or course of business which operates or would
+operate as a fraud or deceit upon the purchaser. * * * *
+MANIPULATIVE AND DECEPTIVE DEVICES
+Section 10. [78j] It shall be unlawful for any person, directly or indirectly, by the use of
+any means or instrumentality of interstate commerce or of the mails, or of any facility of any
+national securities exchange-- * * *
+(b) To use or employ, in connection with the purchase or sale of any security registered
+on a national securities exchange or any security not so registered, or any securities-based swap
+agreement (as defined in section 206B of the Gramm-Leach-Bliley Act), any manipulative or
+deceptive device or contrivance in contravention of such rules and regulations as the
+Commission may prescribe as necessary or appropriate in the public interest or for the protection
+of investors. * * * *
+EMPLOYMENT OF MANIPULATIVE AND DECEPTIVE DEVICES
+17 C.F.R. 240.10b-5
+It shall be unlawful for any person, directly or indirectly, by the use of any means or
+instrumentality of interstate commerce, or of the mails or of any facility of any national securities
+exchange,
+(a) To employ any device, scheme, or artifice to defraud,
+(b) To make any untrue statement of a material fact or to omit to state a material fact
+necessary in order to make the statements made, in the light of the circumstances under which
+they were made, not misleading, or
+(c) To engage in any act, practice, or course of business which operates or would operate
+as a fraud or deceit upon any person, in connection with the purchase or sale of any security.
+
+A1
+
+CERTIFICATE OF SERVICE
+I hereby certify that, on this day, I caused an original and four copies of the
+Motion of the Securities and Exchange Commission for Leave to File Amicus
+Curiae Brief Out of Time, and the original and fifteen copies of the foregoing brief
+to be sent by overnight delivery to
+Cathy Catterson
+Clerk of Court
+U.S. Court of Appeals for the Ninth Circuit
+95 Seventh Street
+San Francisco, CA 94103-1526
+and a copy of the Commission’s motion and two copies of the foregoing brief to
+be sent by overnight delivery to
+John B. Quinn, Esq.
+Quinn Emanuel Urquhart
+Oliver & Hedges
+865 South Figueroa Street
+Los Angeles, CA 90017
+
+Samuel Kadet, Esq.
+Skadden, Arps, Slate, Meagher
+& Flom
+Four Times Square
+New York, NY 10036
+
+F. Whitten Peters, Esq.
+Williams & Connolly
+725 - 12th Street, NW
+Washington, DC 20005
+
+Edward S. Nathan, Esq.
+Stern Greenberg & Kilcullen
+75 Livingston Avenue
+Roseland, NJ 07068
+
+Michael C. Tu, Esq.
+Orrick Herrington & Sutcliffe
+777 S. Figueroa Street
+Los Angeles, CA 90017
+
+Belinda Lee
+Lathan & Watkins
+633 W. Fifth Street, Suite 4000
+Los Angeles, CA 90071-2007
+
+Roger C. Spaeder, Esq.
+Zuckerman Spaeder Goldstein
+Taylor & Kolker
+1201 Connecticut Ave., NW
+Suite 1200
+Washington, D.C. 20036
+
+Paul D. Murphy, Esq.
+Murphy Rosen & Cohen
+100 Wilshire Boulevard
+Suite 700
+Santa Monica, CA 90401
+
+Everett C. (Kip) Johnson, Jr., Esq. Eric A. Isaacson
+Latham & Watkins
+Lerach Coughlin Stoia Geller
+555 Eleventh Street, N.W.
+Rudman & Robbins
+Suite 1000
+401 ‘B’ Street
+Washington, DC 200004-1304
+San Diego, CA 92101
+
+Nancy L. Fineman, Esq,
+Cotchett Pitre Simon &
+McCarthy
+840 Malcolm Road
+San Francisco, CA 94010
+
+October 21, 2004
+
+_______________________________
+Michael L. Post
+Securities and Exchange Commission
+450 Fifth St., N.W.
+Washington, D.C. 20549-0606
+(202) 942-0921
+
+CERTIFICATE OF COMPLIANCE
+Pursuant to Fed. R. App. P. 32(a)(7)(C) and Circuit Rule 32-1
+For Case Number 04-55665
+I hereby certify that pursuant to Fed. R. App. P. 32(a)(7)(C) and Ninth
+Circuit Rule 32-1, the attached answering brief is proportionately spaced, has a
+typeface of 14 points or more, and contains 6,655 words.
+
+_______________________________
+Michael L. Post
+Securities and Exchange Commission
+450 Fifth St., N.W.
+Washington, D.C. 20549-0606
+(202) 942-0921
+October 21, 2004
+
+

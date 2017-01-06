@@ -1,0 +1,777 @@
+No. 06-1571
+___________________________________________________
+UNITED STATES COURT OF APPEALS
+FOR THE FIRST CIRCUIT
+___________________________________________________
+SECURITIES AND EXCHANGE COMMISSION,
+Plaintiff-Appellee,
+v.
+PATRICIA B. ROCKLAGE, WILLIAM M. BEAVER, and
+DAVID G. JONES,
+Defendants-Appellants.
+___________________________________________________
+On Appeal from the United States District Court
+for the District of Massachusetts
+___________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, APPELLEE
+___________________________________________________
+BRIAN G. CARTWRIGHT
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+RANDALL W. QUINN
+Assistant General Counsel
+JEFFREY TAO
+Senior Counsel
+Securities and Exchange Commission
+100 F St. N.E.
+Washington, D.C. 20549-8010
+202-551-5198 (Quinn)
+
+TABLE OF CONTENTS
+PAGE
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+ISSUES PRESENTED FOR REVIEW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+STATEMENT OF THE CASE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+A.
+
+Nature of the case . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+B.
+
+Facts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+C.
+
+Proceedings in the district court . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+SUMMARY OF ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+THE COMMISSION’S COMPLAINT STATES A CLAIM AGAINST
+APPELLANTS FOR INSIDER TRADING LIABILITY . . . . . . . . . . . . . . . . . . 10
+A.
+
+The Complaint States a Claim Against Rocklage for Insider
+Trading Liability under the Misappropriation Theory . . . . . . . . . . 10
+
+B.
+
+Alternatively, the Complaint States a Claim Against Rocklage as a
+Temporary Insider under the Classical Theory of Insider Trading . 22
+
+CONCLUSION
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+CERTIFICATE OF SERVICE
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+-i-
+
+TABLE OF AUTHORITIES
+CASES
+
+PAGE
+
+Carroll v. Xerox Corp.,
+294 F.3d 231 (1st Cir. 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Cook v. Hanover Ins. Co.,
+32 Mass. App. Ct. 555, 592 N.E.2d 773 (1992) . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Dirks v. SEC,
+463 U.S. 646 (1983) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7,22,24
+passim
+Lewis v. Lewis,
+370 Mass. 619, 351 N.E.2d 526 (1976) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Santa Fe Indus. v. Green,
+430 U.S. 462 (1977) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19,20
+SEC v. Sargent,
+229 F.3d 68 (1st Cir. 2000) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11,25
+SEC v. SG Ltd.,
+265 F.3d 42 (1st Cir. 2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10,25
+SEC v. W.J. Howey Co.,
+328 U.S. 293 (1946) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+SEC v. Yun,
+327 F.3d 1263 (11th Cir. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11,12
+United States v. Chestman,
+947 F.2d 551 (2d Cir. 1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+United States v. Kim,
+184 F. Supp. 2d 1006 (N.D. Cal. 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+-ii-
+
+CASES (cont’d):
+
+PAGE
+
+United States v. O’Hagan,
+521 U.S. 642 (1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7,8,11
+passim
+Yamaha Motor Corp. v. Calhoun,
+516 U.S. 199 (1996) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+STATUTES AND RULES:
+Securities Act of 1933, 15 U.S.C. 77a, et seq.:
+Section 17(a), 15 U.S.C. 77q(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.:
+Section 10(b), 15 U.S.C. 78(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3,7,15
+passim
+28 U.S.C. 1292(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3,8,10
+
+Rules Under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.:
+Rule 10b-5, 17 C.F.R. 240.10b-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3,7,19
+Rule 10b5-2(b), 17 C.F.R. 240.10b5-2(b) . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Rule 10b5-2(b)(1), 17 C.F.R. 240.10b5-2(b)(1) . . . . . . . . . . . . . . . . . . . . 12
+Rule 10b5-2(b)(2), 17 C.F.R. 240.10b5-2(b)(2) . . . . . . . . . . . . . . . . . . . . 12
+Rule 10b5-2(b)(3), 17 C.F.R. 240.10b5-2(b)(3) . . . . . . . . . . . . . . . . . . . . 11
+
+Federal Rule of Civil Procedure:
+Rule 9(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+-iii-
+
+MISCELLANEOUS:
+
+PAGE
+
+Mass. Gen. L. Ch. 233, Section 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Selective Disclosure and Insider Trading, Rel. 33-7881 (Aug. 24, 2000),
+2000 WL 1201556 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Randall W. Quinn, “The Misappropriation Theory of Insider Trading in the
+Supreme Court: A (Brief) Response to the (Many) Critics of United States v.
+O’Hagan,” 8 Fordham J. Corp. & Fin. L. 865 (2003) . . . . . . . . . . . . . . . . . . . . . 21
+
+-iv-
+
+No. 06-1571
+___________________________________________________
+UNITED STATES COURT OF APPEALS
+FOR THE FIRST CIRCUIT
+___________________________________________________
+SECURITIES AND EXCHANGE COMMISSION,
+Plaintiff-Appellee,
+v.
+PATRICIA B. ROCKLAGE, WILLIAM M. BEAVER, and
+DAVID G. JONES,
+Defendants-Appellants.
+___________________________________________________
+On Appeal from the United States District Court
+for the District of Massachusetts
+___________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, APPELLEE
+___________________________________________________
+ISSUES PRESENTED FOR REVIEW
+The complaint filed by the Securities and Exchange Commission alleged
+that defendant Rocklage, the wife of the CEO of Cubist, Inc., had an agreement to
+tip defendant Beaver, her brother, if she learned negative information about
+Cubist, so that Beaver could sell his stock. A. 9. 1 Rocklage’s husband did not
+know of this agreement, and reasonably expected his wife to keep any non-public
+
+1
+
+“A.” refers to the Appendix; “Br.” refers to the joint brief filed by
+defendants-appellants Rocklage, Beaver, and Jones.
+-1-
+
+information he told her about Cubist confidential. A. 12-13. On the afternoon of
+December 31, 2001, Rocklage’s husband told her material non-public information
+about Cubist. Id. That evening, New Year’s Eve, Rocklage told her husband that
+she would tip her brother, and she did so over his objection prior to 10:02 a.m. on
+January 2, 2002. A. 14. Her brother tipped a close friend, defendant Jones. A.
+14-15. At approximately 10:02 a.m. on January 2, 2002, Beaver sold all his Cubist
+stock, and the next day, Jones sold all his Cubist stock. Beaver and Jones thereby
+avoided losses of approximately $233,000. Id.
+The issues presented are:
+1. Whether the Commission’s complaint states a claim against Rocklage
+under the misappropriation theory of insider trading where – although prior to
+acting on inside information, Rocklage disclosed her intentions to the source of
+that information – her disclosure served no useful purpose under the
+circumstances.
+2. Whether, in the alternative, the Commission’s complaint states a claim
+against Rocklage as a “temporary insider” of Cubist under the classical theory of
+insider trading.
+
+-2-
+
+STATEMENT OF THE CASE
+A.
+
+Nature of the case
+
+The Commission filed a complaint on January 12, 2005, alleging that
+defendants engaged in insider trading in violation of Section 17(a) of the
+Securities Act, 15 U.S.C. 77q(a), and Section 10(b) and Rule 10b-5 of the
+Securities Exchange Act, 15 U.S.C. 78j(b) and 17 C.F.R. 240.10b-5.
+A. 9-20. In a memorandum and order dated August 23, 2005, the district court
+denied defendants’ motions to dismiss. A. 21-43. On December 14, 2005, the
+district court denied defendants’ motions for reconsideration and granted their
+motions for certification of its August 23, 2005 order pursuant to 28 U.S.C.
+1292(b). A. 44-51. On April 4, 2006, this Court granted defendants’ petition for
+permission to appeal. A. 52.
+B.
+
+Facts
+
+The following statement is drawn from the factual allegations in the
+Commission’s complaint, which are taken as true for purposes of this appeal.
+Scott Rocklage, at all relevant times, was the Chairman of the Board and
+CEO of Cubist, a biotechnology company whose common stock trades principally
+on the Nasdaq National Market System. A. 9,12.
+
+-3-
+
+In 2001, Cubist’s leading drug candidate was an antibiotic named Cidecin.
+In September 2001, Cubist began a clinical trial on the effectiveness of Cidecin.
+On Friday, December 28, 2001, individuals at Cubist learned that the trial results
+were negative. Scott Rocklage, who was out of the office that day, first learned of
+the negative results when he returned to the office on Monday, December 31. A.
+12.
+On the afternoon of December 31, Scott Rocklage spoke by telephone to his
+wife, defendant Patricia Rocklage, who was in a limousine on her way home from
+the airport. During that call, Scott Rocklage told her that Cubist would be making
+a public announcement concerning the trial results and that, until then, the results
+were nonpublic. When Patricia Rocklage asked how this news would affect
+Cubist’s stock price, her husband told her that the stock price would drop
+significantly. Unbeknownst to her husband, Patricia Rocklage had a pre-existing
+understanding with her brother, defendant William M. Beaver, that if she ever
+became aware of bad news about Cubist that might affect its stock price, she
+would signal him to sell his stock with “a wink and a nod.” A. 12-13.
+At the time Scott Rocklage conveyed this information to his wife, he had a
+reasonable expectation that he could communicate information to her about Cubist
+and that she would keep it confidential. From the time that Scott Rocklage joined
+-4-
+
+Cubist in 1994, he had routinely communicated material nonpublic information
+concerning Cubist to her and she had always kept such information confidential.
+In addition, prior to initially telling Patricia Rocklage about the trial results, Scott
+Rocklage specifically instructed her not to react to what he was about to tell her
+and not to talk about the results in front of the limousine driver. Patricia Rocklage
+agreed to these instructions. In so doing, Patricia Rocklage understood, before her
+husband told her the confidential information, that her husband expected that she
+would not disclose the information to anyone. A. 13.
+On the evening of December 31, Patricia Rocklage told her husband that she
+intended to signal her brother to sell his Cubist stock. Scott Rocklage responded
+by urging her not to do so. Nonetheless, Patricia Rocklage said that she intended
+to warn her brother about the results. A. 14.
+Prior to 10:02 a.m. the next business day, January 2, 2002, Patricia
+Rocklage spoke to Beaver by telephone and induced him to sell his Cubist stock
+by saying, in effect, “[a]s far as Cubist is concerned, I’m giving you a wink and a
+nod.” In doing so, Patricia Rocklage was providing a gift of confidential
+information to a relative and thereby intended to benefit personally from the
+disclosure. A. 14.
+
+-5-
+
+Given their pre-existing understanding, Beaver correctly interpreted Patricia
+Rocklage’s statement to mean that she knew negative nonpublic information about
+Cubist that was going to affect its stock price and that she was encouraging him to
+sell the company’s stock. A. 14.
+After receiving the signal from Patricia Rocklage, Beaver sold all 5,583
+shares of Cubist stock he owned or controlled for approximately $196,000.
+Beaver executed the sale at approximately 10:02 a.m. on January 2, 2002, the first
+possible trading day after receiving the tip. A. 14.
+Beaver also told his close friend and neighbor, Jones, the negative news
+about Cubist. In so doing, Beaver was providing a gift of confidential information
+to a close friend and intended to personally benefit from the disclosure. At that
+time, Jones knew that Beaver’s brother-in-law was Scott Rocklage, Cubist’s
+Chairman and CEO. On the morning of January 3, 2002, after Beaver told Jones
+the news about Cubist, Jones sold all 7,500 Cubist shares he owned for
+approximately $262,000. A. 14-15.
+On January 16, 2002, after the market closed, Cubist publicly announced the
+negative Cidecin trial results. Following the announcement, Cubist’s stock price
+dropped 46%. By selling when they did, Beaver had avoided a loss of $99,527
+and Jones had avoided a loss of $133,222. A. 15.
+-6-
+
+C.
+
+Proceedings in the district court
+
+In a memorandum and order filed August 23, 2005, the district court denied
+defendants’ motions to dismiss for failure to state a claim. With respect to
+Rocklage’s motion, the court stated that the misappropriation theory of liability for
+insider trading under Section 10(b) and Rule 10b-5 “extends liability to outsiders
+who have no fiduciary duty to shareholders, but who are otherwise entrusted with
+confidential information and then tip or trade on that information.” A. 25, citing
+United States v. O’Hagan, 521 U.S. 642, 652 (1997). The court rejected
+Rocklage’s argument that her disclosure to her husband that she intended to tip her
+brother negated the deception required under the misappropriation theory, holding
+that, “[o]n the alleged facts of this case * * * Rocklage’s disclosure to her husband
+did not remove the deceptive device from Rocklage’s conduct and accordingly
+does not insulate her from liability under [the] misappropriation theory.” A. 32. 2
+The court denied Beaver’s and Jones’ motions to dismiss on the ground that
+“to the extent that Rocklage is ultimately found liable, that liability attaches to
+downstream tippees if they knew or should have known of Rocklage’s breach of
+2
+
+Although not needing to reach the issue, the court expressed its
+disagreement with the Commission’s alternative argument that, under the classical
+theory of insider trading, which requires a breach of duty owed to the company
+whose shares are traded (see Dirks v. SEC, 463 U.S. 646 (1983)), Rocklage could
+be liable as a “temporary insider” of Cubist. A. 35-37.
+-7-
+
+duty. Whether they knew or should have known * * * is * * * a question of fact,
+the existence of which precludes dismissal on this motion.” A. 38-39. The court
+also rejected Jones’ argument that the Commission’s complaint failed to allege
+fraud with particularity as required by Fed. R. Civ. P. 9(b). A. 39-43.
+On December 14, 2005, the district court denied defendants’ motions for
+reconsideration. A. 44-47. The court also certified for interlocutory appeal
+pursuant to 28 U.S.C. 1292(b) its order denying defendants’ motions to dismiss.
+A. 47-51.
+SUMMARY OF ARGUMENT
+The Commission’s complaint states a claim against Rocklage for insider
+trading under the misappropriation theory. There is no merit to appellants’
+argument that Patricia Rocklage, the misappropriator, did not owe a duty of
+confidentiality to the source of the information, her husband. The duty is wellestablished under Commission Rule 10b5-2(b).
+In addition, there is no merit to appellants’ main argument that the
+complaint does not allege deception in connection with a securities transaction as
+required by United States v. O’Hagan, 521 U.S. 642 (1997). Rocklage deceived
+her husband, the CEO of Cubist, Inc., prior to receiving material non-public
+information from him by failing to disclose her pre-existing agreement to tell her
+-8-
+
+brother any negative information she learned about Cubist so that her brother
+could sell Cubist stock. Rocklage’s subsequent disclosure to her husband, after he
+told her the information, but before she tipped her brother, does not negate the
+deception required under the misappropriation theory because the disclosure
+served no useful purpose. Rocklage’s husband apparently had no remedy under
+state law against his wife. Even if a potential remedy existed, it is not reasonable
+to expect that he would risk marital discord by suing his wife. And even if
+Rocklage’s husband were willing to sue his wife, her disclosure to him on New
+Year’s Eve, followed by her tip to her brother prior to 10:02 a.m. the next business
+day, did not give her husband a reasonable opportunity to prevent the information
+from being used.
+Alternatively, the complaint states a claim against Rocklage under the
+classical theory of insider trading as a “temporary insider” of Cubist. A
+“temporary insider” is a person who temporarily becomes a fiduciary of a
+corporation. Rocklage, in view of her prior practice of maintaining in confidence
+information her husband told her about Cubist, and of the corporate purpose such
+disclosures served in allowing her husband, Cubist’s CEO, to harmonize the
+demands of his professional and personal life, and thereby perform better as the
+leader of his company, temporarily became a fiduciary of Cubist.
+-9-
+
+ARGUMENT
+THE COMMISSION’S COMPLAINT STATES A CLAIM AGAINST
+APPELLANTS FOR INSIDER TRADING LIABILITY
+Standard of review. Dismissal for failure to state a claim is reviewed de
+novo. The reviewing court accepts as true the well-pleaded factual allegations of
+the complaint, draws all reasonable inferences in the plaintiff’s favor, and
+determines whether the complaint, so read, sets forth facts sufficient to justify
+judgment for the plaintiff on any applicable legal theory. SEC v. SG Ltd., 265
+F.3d 42, 46 (1st Cir. 2001)(citing authorities). This Court can affirm an order
+denying a motion to dismiss on any basis supported by the record. See, e.g.,
+Carroll v. Xerox Corp. 294 F.3d 231, 241 (1st Cir. 2002). The scope of review is
+not limited to the controlling question of law that the district court identified when
+it certified its order for interlocutory appeal pursuant to 28 U.S.C. 1292(b).
+Yamaha Motor Corp. v. Calhoun, 516 U.S. 199, 205 (1996)(the court of appeals
+“may address any issue fairly included within the certified order”).
+A.
+
+The Complaint States a Claim Against Rocklage for Insider
+Trading Liability under the Misappropriation Theory.
+
+Under the misappropriation theory of insider trading liability, the
+Commission is required to prove that Rocklage, who tipped her brother but did not
+trade herself, communicated, with scienter, material non-public information in
+-10-
+
+breach of her duty to the source of the information. See SEC v. Sargent, 229 F.3d
+68, 74-75 (1st Cir. 2000)(citing O’Hagan, 521 U.S. at 652); see also SEC v. Yun,
+327 F.3d 1263, 1269-1270 (11th Cir. 2003). In addition, the misappropriation
+theory requires “deceptive use of information * * * ‘in connection with the
+purchase or sale of [a] security.’” O’Hagan, 521 U.S. at 655-656. Some courts
+also require that the tipper in a misappropriation case receive a personal benefit,
+which can include making a gift to a relative or friend. See Yun, 327 F.3d at 1280.
+The complaint alleges facts satisfying all these elements.
+Rocklage challenges only two of these elements – duty to source, and
+deceptive use of information.
+1. With respect to duty, Rocklage asserts (Br. 15 n.5) that a “significant
+threshold question exists whether the spousal relationship may give rise here to the
+type of duty triggering liability under the misappropriation theory.” No such
+question exists. Under Rule 10b5-2(b)(3), 17 C.F.R. 240.10b5-2(b)(3), a duty
+exists “[w]henever a person receives or obtains material nonpublic information
+from his or her spouse” (subject to a defense not relevant at this stage of the
+proceedings). The complaint alleges that Rocklage received the information from
+her spouse. This establishes the required duty.
+
+-11-
+
+In addition, the complaint alleges facts that establish a duty under Rule
+10b5-2(b)(1), since Rocklage agreed to maintain the information in confidence
+(see A. 13), and under Rule 10b5-2(b)(2), 17 C.F.R. 240.10b5-2(b)(2), since there
+was a pattern or practice of sharing information about Cubist between Scott and
+Patricia Rocklage and a reasonable expectation that the information would be kept
+confidential. See A. 13.
+Moreover, even absent the rule, the case law supports finding a duty here.
+See Yun, 327 F.3d at 1272-73 (a duty sufficient to support liability under the
+misappropriation theory exists between spouses having a past practice of sharing
+confidences). Appellants’ reliance (Br. 15 n.5) on United States v. Chestman, 947
+F.2d 551 (2d Cir. 1991), and United States v. Kim, 184 F. Supp. 2d 1006 (N.D.
+Cal. 2002), is misplaced. Chestman recognized that “repeated disclosure of
+business secrets between family members” may suffice to establish the “functional
+equivalent of a fiduciary relationship.” 947 F.2d at 569. Kim did not involve
+spouses, but rather members of a private club.
+2. Appellants’ main argument (Br. 12-21) is that the complaint does not
+sufficiently allege the deception in connection with a securities transaction
+required by United States v. O’Hagan, 521 U.S. 642 (1997). This argument fails
+also. Rocklage deceived her husband prior to receiving the information by failing
+-12-
+
+to disclose her pre-existing agreement to tell her brother any negative information
+she learned about Cubist so that he could sell Cubist stock. Appellants argue (Br.
+15-16) that Rocklage’s disclosure to her husband after he told her the information,
+but before she tipped her brother, “plac[es] her outside the reach of the
+misappropriation theory.” Appellant’s view of the scope of the misappropriation
+theory as applied to this case is wrong. It is a reasonable inference from the
+allegations in the complaint that Patricia Rocklage’s disclosure – made to her
+husband on New Year’s Eve – served no useful purpose because her husband did
+not have a meaningful opportunity to prevent the information from being used.
+Disclosure that is useless should not be held to be sufficient to negate deception.
+Rocklage’s disclosure to her husband served no useful purpose for several
+reasons. First, it appears that Massachusetts law has not provided a cause of
+action by one spouse against the other spouse for breach of duty in this context.
+Although a possible cause of action might be based on tortious breach of duty, or
+on breach of an implied contract, we are not aware of any Massachusetts case on
+point. Moreover, such a lawsuit would necessarily involve testimony by Scott
+Rocklage and Patricia Rocklage about their private conversations. Massachusetts
+law recognizes a policy against allowing such testimony. See Mass. Gen. L. Ch.
+233, Section 20 (subject to certain exceptions, including cases arising out of a
+-13-
+
+contract, “neither husband nor wife shall testify as to private conversations with
+the other”). In addition, although Massachusetts has abrogated interspousal
+immunity under tort law in some circumstances, (see Lewis v. Lewis, 370 Mass.
+619, 351 N.E.2d 526 (1976)), such immunity still exists where the conduct at issue
+touches upon “the privileged or consensual aspects of married life.” Cook v.
+Hanover Ins. Co., 32 Mass. App. Ct. 555, 558, 592 N.E. 2d 773, 775
+(1992)(citation omitted).
+Even assuming arguendo that a cause of action did exist, it is not
+reasonable to expect that Scott Rocklage would have risked disrupting the marital
+relationship in order to protect confidential business information. The context of
+this case is starkly different from the hypothetical situation contemplated by
+O’Hagan, which involved principal-agent relationships in a business context. In
+that setting, it is reasonable to expect the principal to take vigorous legal action to
+protect information from being used without consent. Here, in contrast, Scott
+Rocklage urged his wife not to tip her brother, but took no further steps to stop
+her. Had he attempted to do so, he may have jeopardized the harmony of a
+marriage in which confidential information had been discussed and kept secret in
+the past.
+
+-14-
+
+Furthermore, even if Scott Rocklage was able, and willing, to take legal
+action against his wife, the timing of Patricia Rocklage’s disclosure would have
+made such action extremely difficult. Rocklage told her husband on New Year’s
+Eve that she would tip her brother. She then tipped her brother prior to 10:02 a.m.
+on January 2. While it may not have been impossible to seek and obtain
+emergency relief on New Year’s Day in these circumstances (assuming a cause of
+action existed), there hardly was a reasonable opportunity to protect the
+information.
+Nothing in the Supreme Court’s opinion in O’Hagan requires this Court to
+adopt the position urged by appellants. Appellants rely on the following statement
+in O’Hagan: “if the fiduciary discloses to the source that he plans to trade on the
+nonpublic information, there is no ‘deceptive device’ and thus no Section 10(b)
+violation.” Br. 12, quoting id. at 655 (emphasis added in appellants’ brief).
+However, the Supreme Court stated, when it first mentioned disclosure as a
+potential defense to liability, that “full disclosure forecloses liability under the
+misappropriaton theory.” 521 U.S. at 655 (emphasis added). Although in
+subsequent places in the opinion, the Court simply says “disclosure” rather than
+repeating “full disclosure,” nothing in the opinion indicates that the Court
+
+-15-
+
+intended any difference in meaning. Thus, the critical question is the meaning of
+“full disclosure.”
+O’Hagan did not address under what circumstances disclosure would negate
+deception, since in that case the misappropriator made no disclosure prior to
+trading. 3 However, the Supreme Court could not have meant to create a broad
+loophole for evading insider trading prohibitions by allowing disclosure that
+serves no useful purpose to negate deception. For example, if O’Hagan had told
+his law firm and its client of his intent to use information belonging to them fifteen
+seconds before trading, under appellants’ view, he would have escaped liability
+under the misappropriation theory, even though the law firm and its client would
+not have had any effective means of protecting the information. Allowing such a
+loophole would undermine investor confidence and honest securities markets,
+contrary to a central purpose of the Exchange Act. See O’Hagan, 521 U.S. at 658659 (emphasis added):
+an animating purpose of the Exchange Act [is] to insure honest
+securities markets and thereby promote investor confidence * * *.
+Although informational disparity is inevitable in the securities
+markets, investors likely would hesitate to venture their capital in a
+3
+
+The defendant, James O’Hagan, breached a duty to his law firm (of which
+he was a partner) and the firm’s client by trading based on material non-public
+information related to the client’s planned acquisition of another company.
+O’Hagan, 521 U.S. at 647.
+-16-
+
+market where trading based on misappropriated nonpublic
+information is unchecked by law. An investor’s informational
+disadvantage vis-a-vis a misappropriator * * *stems from
+contrivance, not luck; it is a disadvantage that cannot be overcome
+with research or skill.
+Under appellants’ view, persons who obtain an informational advantage by
+deceptively gaining access to material non-public information, but then make
+some disclosure under circumstances that, as in this case, do not allow the source
+of the information a meaningful chance to protect the information, would be able
+to trade “unchecked” by the misappropriation theory. That cannot be a plausible
+interpretation of O’Hagan. Appellants even suggest that it is difficult to connect
+the investor protection purpose of the statute to the misappropriation theory. (Br.
+20, citation omitted.) The passage from O’Hagan quoted above squarely rejects
+that contention.
+To comport with the policies identified in O’Hagan, “full disclosure”
+should be interpreted to mean disclosure that serves a useful purpose. Disclosure
+serves a useful purpose where the source of material non-public information
+reasonably could be expected to, and reasonably could, prevent the unauthorized
+use of the information for securities trading. Such an interpretation would
+minimize the potential damage to the securities markets and to honest investors
+caused by persons who deceive others into conveying material non-public
+-17-
+
+information, and then seek to escape liability by making a disclosure that serves no
+useful purpose. 4
+Moreover, the Supreme Court recognized the importance of the source of
+information having a meaningful opportunity to prevent the information from
+being used without consent. The Court stated (id. at 652) that a misappropriator
+defrauds the principal of the “exclusive use” of the information. This concern
+over the source’s right to protect information is reflected in a response made by
+the O’Hagan majority to a dissenter’s statement that persons trading in the market
+are equally harmed when a misappropriator makes full disclosure as they are in a
+case where no such disclosure is made. 521 U.S. at 689-690 (Thomas, J.,
+dissenting). The Court, after acknowledging that the misappropriation theory “is
+only a partial antidote to the problems it was designed to alleviate,” pointed out
+that “once a disloyal agent discloses his imminent breach of duty, his principal
+may seek appropriate equitable relief under state law.” 521 U.S. at 659 n.9. See
+
+4
+
+In a different context, the Commission has stated that disclosure made at
+the last minute may not be effective disclosure. See Selective Disclosure and
+Insider Trading, Rel. 33-7881 (Aug. 24, 2000), 2000 WL 1201556, at *17 (“[I]f
+an issuer typically discloses its quarterly earnings results in regularly disseminated
+press releases, we might view skeptically an issuer’s claim that a last minute
+webcast of quarterly results, made at the same time as an otherwise selective
+disclosure of that information, provided effective broad, non-exclusionary public
+disclosure of the information.”).
+-18-
+
+also id. at 655 (“[I]f the fiduciary discloses to the source that he plans to trade on
+the nonpublic information, there is no ‘deceptive device’ and thus no Section
+10(b) violation–although the fiduciary-turned-trader may remain liable under state
+law for breach of a duty of loyalty.”). This suggests that the Court contemplated
+that the source of the information would reasonably be expected to, and
+reasonably could, prevent the information from being used for securities trading
+without the source’s consent. 5
+This interpretation of O’Hagan is consistent with the Supreme Court’s
+decision in Santa Fe Indus. v. Green, 430 U.S. 462, 474 (1977), holding that no
+deception exists where there is disclosure of all material facts. In Santa Fe,
+minority shareholders brought an action under Section 10(b) and Rule 10b-5
+objecting to the terms of a merger. The Court found no deception on the part of
+the majority shareholders, who “fairly presented” information about the merger to
+the minority shareholders in time for the minority shareholders to “either accept
+the price offered or reject it and seek an appraisal” in state court. Id. at 474. The
+
+5
+
+Appellants argue (Br. 19-20) that “the Supreme Court mentioned state law
+relief simply to indicate * * * that other avenues might be available to address
+conduct left uncovered by its statutorily-compelled rule that disclosure to the
+source precludes insider trading liability.” Appellants’ contention should be
+rejected as contrary to the policies underlying the misappropriation theory
+recognized by O’Hagan, as discussed above.
+-19-
+
+disclosure in Santa Fe thus allowed the minority shareholders to pursue a remedy
+to protect their interests. Id. at 474 & n.14. Here, in contrast, Rocklage’s
+disclosure to her husband that she intended to tip her brother did not provide her
+husband with a meaningful opportunity to protect his interest in preventing use of
+the information.
+Appellants’ reliance (Br. 12-13) on statements made by the government at
+the O’Hagan oral argument is misplaced. Appellants assert (Br. 12) that
+“[n]otably, the United States itself advocated in O’Hagan for adoption of the
+relevant limitation on liability under the misappropriation theory.” There is no
+basis for appellants’ suggestion that the Commission’s position in this case is
+inconsistent with the government’s argument in O’Hagan. The import of the
+portion of the oral argument quoted by appellants (Br. 13) is simply the obvious
+point that deception is required under the misappropraiton theory. The colloquy
+quoted by appellants (Br. 13) concerns the following hypothetical question from
+the Court: “suppose [O’Hagan] * * * told his superiors in the law firm that he was
+going to use this information.” The Deputy Solicitor General responded that
+O’Hagan would not have deceived his employer, and that a violation of Section
+10(b) requires deception. The hypothetical question did not involve a situation
+
+-20-
+
+such as in this case where, although some disclosure was made, the disclosure did
+not serve a useful purpose.
+Appellants also incorrectly rely (Br. 16-17) on a law review article titled
+“The Misappropriation Theory of Insider Trading in the Supreme Court: A (Brief)
+Response to the (Many) Critics of United States v. O’Hagan,” 8 Fordham J. Corp.
+& Fin. L. 865 (2003). The article, consistent with the position taken by the
+Commission in this case, states that “[d]eception cannot exist if there is full
+disclosure by the misappropriator or consent by the source or owner of the
+information.” Id. at 893-894 (emphasis added). The article does not address the
+situation presented in this case involving disclosure made to a spouse at the last
+minute, much less suggest that such disclosure is “full disclosure.” 6
+In sum, Rocklage’s disclosure, which on the facts alleged in this case served
+no useful purpose, was not the “full disclosure” contemplated by O’Hagan as
+sufficient to negate deception.
+
+6
+
+Although appellants point out (Br. 16 n.7) that the article’s author “is the
+SEC’s attorney of record in this case and was Assistant General Counsel of the
+SEC at the time the article was published,” they omit that the article states that it
+“expresses the author’s views and does not necessarily reflect the views of the
+Commission, or other members of the staff.” Id. at 865.
+-21-
+
+B.
+
+Alternatively, the Complaint States a Claim Against Rocklage as
+a Temporary Insider under the Classical Theory of Insider
+Trading.
+
+Under the classical theory of insider trading, a company’s insiders are
+liable if they trade, or tip others who trade, their own corporation’s securities on
+the basis of material, non-public information. See O’Hagan, 521 U.S. at 651-652;
+Sargent, 229 F.3d at 77. 7 The concept of ‘insider’ is not limited to a company’s
+officers, directors or permanent employees, but also includes “attorneys,
+accountants, consultants, and others who temporarily become fiduciaries of a
+corporation.” O’Hagan, 521 U.S. at 652, citing Dirks, 463 U.S. at 655 n.14.
+The complaint states a claim against Rocklage as a temporary insider.
+Rocklage and her husband had a past practice of discussing confidential business
+information. As a matter of common sense, it can be valuable to a company for its
+CEO to be able to discuss such information with his or her spouse. By sharing
+company developments with their spouses, CEOs are better able to harmonize the
+demands of their professional and personal lives. Further, a company reasonably
+would expect that a CEO would engage in such discussions. Thus, such disclosure
+
+7
+
+A personal benefit to the tipper is required in a case under the classical
+theory. See Dirks, 463 U.S. at 663. There is no dispute that the complaint
+sufficiently alleges personal benefit.
+-22-
+
+serves a corporate purpose, and the recipient of such information should be viewed
+as a temporary insider.
+Appellants do not directly address this argument, which the Commission
+made below. Their only mention of this issue is to state (Br. 4 n.3) that “the
+District Court reasoned (correctly) that Rocklage did not meet the requirements for
+‘temporary insider’ status * * * because the SEC had not alleged that the relevant
+conversations with her husband were ‘solely for corporate purposes’ and because
+there was no case law recognizing close relatives as temporary insiders.”
+The district court’s dicta expressing disagreement with the Commission’s
+temporary insider theory (see A. 35-36) incorrectly relied on the phrase “solely for
+corporate purposes.”8 From the perspective of the company, the disclosure was
+solely for a corporate purpose – the purpose of helping the company’s CEO
+harmonize the demands of his professional and personal life, and thereby perform
+better as the leader of his company. It is not relevant that, from Scott Rocklage’s
+perspective, the disclosure may have had the dual purpose of benefitting both his
+professional and his personal life.
+8
+
+The district court did correctly note that no case has found a spouse to be
+a temporary insider based solely on marriage to a corporate official. A. 35. On
+the other hand, no case has stated that the spouse of a CEO, who receives
+confidential corporate information from the CEO, should not be viewed as a
+temporary insider.
+-23-
+
+Even if the disclosure is viewed as having a dual purpose from the
+company’s perspective, the phrase “solely for corporate purposes” should be
+construed broadly. It is true that the Supreme Court, when it first articulated the
+temporary insider principle, stated that temporary insider status exists where a
+person “[h]as entered into a special confidential relationship in the conduct of the
+business of the enterprise and [is] given access to information solely for corporate
+purposes. Dirks, 463 U.S. at 646 n.14)(emphasis added). However, O’Hagan did
+not use the phrase “solely for corporate purposes,” but stated that temporary
+insiders are those who temporarily become fiduciaries of a corporation. 521 U.S.
+at 652. Rocklage, in view of her prior practice of maintaining in confidence
+information her husband told her about Cubist, and of the corporate purpose such
+disclosures served, did temporarily become a fiduciary of the company.
+The Supreme Court’s use of the word “solely” in Dirks should not be read
+so restrictively as to preclude temporary insider status on the facts alleged in this
+case. In an analogous context, the courts of appeals have rejected a narrow
+reading of language used by the Supreme Court. SEC v. W.J. Howey Co., 328 U.S.
+293, 298-299 (1946), in interpreting the term “investment contract” used in the
+statutory definition of a security, held that an investment contract was a “contract,
+transaction, or scheme whereby a person invests his money in a common
+-24-
+
+enterprise and is led to expect profits solely from the efforts of the promoter or a
+third party” (emphasis added). The courts of appeals have uniformly interpreted
+“solely” flexibly to avoid creating a loophole for promoters of investment schemes
+to evade regulation. See, e.g., SG Ltd., 265 F.3d at 55 (citing cases).
+Finally, assuming that Rocklage is a temporary insider, her disclosure to her
+husband would not negate her deceptive conduct under the classical theory. Even
+though her husband is Cubist’s Chairman and CEO, Rocklage’s duty under this
+theory is owed to the Cubist shareholders, and Rocklage did not disclose anything
+to them. 9
+
+9
+
+Even if the complaint against Rocklage were dismissed, the complaint
+would still state a claim against Beaver and Jones as tippees of Rocklage. The
+district court’s dicta stating that “a tippee’s liability” is “derivative of and
+dependent upon the liability of the tipper” is incorrect. A. 49 (emphasis added).
+Tippee liability exists where there is a breach of duty by the tipper and the tippee
+knows or should know that there has been a breach. See, e.g., Dirks, 463 U.S. at
+659-660; Sargent, 229 F.3d at 77. Rocklage breached a duty of confidentiality
+owed to her husband by using information he told her in confidence without his
+consent. Her disclosure does not cure her breach of duty. See O’Hagan, 521 U.S.
+at 665. In addition, the complaint sufficiently alleges that Beaver and Jones knew
+or were reckless in not knowing that there had been a breach of duty. A. 13-15.
+Thus, Beaver and Jones may be liable whether or not Rocklage herself is liable.
+-25-
+
+CONCLUSION
+For the foregoing reasons, the order of the district court should be affirmed.
+Respectfully submitted,
+BRIAN G. CARTWRIGHT
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+___________________
+RANDALL W. QUINN
+Assistant General Counsel
+JEFFREY TAO
+Senior Counsel
+
+Securities and Exchange Commission
+100 F St. N.E.
+Washington, D.C. 20549-8010
+202-551-5198 (Quinn)
+
+June 2006
+
+-26-
+
+CERTIFICATE OF SERVICE
+I hereby certify that on June ___, 2006, I caused two copies of this brief to
+be served by overnight delivery on counsel for appellants, addressed as follows:
+David H. Erichsen
+Peter Spaeth
+Pratik A. Shah
+Wilmer Cutler Pickering Hale and Dorr LLP
+60 State Street
+Boston, MA 02109
+David E. Marder
+Benjamin D. Stevenson
+Robins, Kaplan Miller & Ciresi LLP
+800 Boylston Street
+Boston, MA 02199
+Brian E. Whiteley
+Scibelli, Whiteley and Stanganelli, LLP
+50 Federal Street, 5th Floor
+Boston, MA 02110
+_________________
+
+-27-
+
+

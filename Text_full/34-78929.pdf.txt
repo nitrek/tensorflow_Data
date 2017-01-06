@@ -1,0 +1,1108 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 78929 / September 26, 2016
+INVESTMENT ADVISERS ACT OF 1940
+Release No. 4536 / September 26, 2016
+ADMINISTRATIVE PROCEEDING
+File No. 3-17573
+ORDER INSTITUTING ADMINISTRATIVE
+AND CEASE-AND-DESIST PROCEEDINGS
+PURSUANT TO SECTIONS 15(b) AND 21C
+OF THE SECURITIES EXCHANGE ACT OF
+1934 AND SECTION 203(e) OF THE
+INVESTMENT ADVISERS ACT OF 1940,
+MAKING FINDINGS, AND IMPOSING
+REMEDIAL SANCTIONS AND A
+CEASE-AND-DESIST ORDER
+
+In the Matter of
+Merrill Lynch, Pierce, Fenner &
+Smith Incorporated,
+Respondent.
+
+I.
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that public administrative and cease-and-desist proceedings be, and hereby are,
+instituted pursuant to Sections 15(b) and 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”) and Section 203(e) of the Investment Advisers Act of 1940 (“Advisers Act”) against Merrill
+Lynch, Pierce, Fenner & Smith Incorporated (“Merrill Lynch” or “Respondent”).
+II.
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”), which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Instituting Administrative and
+Cease-and-Desist Proceedings Pursuant to Sections 15(b) and 21C of the Securities Exchange Act
+of 1934 and Section 203(e) of the Investment Advisers Act of 1940, Making Findings, and
+Imposing Remedial Sanctions and a Cease-and-Desist Order (“Order”), as set forth below.
+
+III.
+On the basis of this Order and Respondent’s Offer, the Commission finds that:
+SUMMARY
+1.
+This matter concerns violations by Merrill Lynch of Section 15(c)(3) of the
+Exchange Act and Exchange Act Rule 15c3-5 (“Market Access Rule” or “Rule”).1 Among other
+things, the Market Access Rule requires broker-dealers that have access to trading in securities
+directly on an exchange or alternative trading system to establish risk management controls that
+are reasonably designed to prevent the entry of erroneous orders and to prevent the entry of orders
+that would exceed appropriate credit or capital thresholds. During the period from July 14, 2011,
+the initial compliance date of the Rule, through December 2014 (the “relevant period”), Merrill
+Lynch violated the Market Access Rule by failing to establish, document, and maintain a system of
+risk management controls and supervisory procedures reasonably designed to manage the
+financial, regulatory, and other risks of its market access activity. In particular, Merrill Lynch
+failed to establish pre-trade risk management controls reasonably designed to prevent the entry of
+erroneous orders, to establish pre-trade risk management controls reasonably designed to prevent
+the entry of orders that would exceed pre-set credit or capital limits for several of its trading desks,
+to establish required controls and procedures for fixed income securities, to review adequately the
+effectiveness of its risk management controls and supervisory procedures required by the Market
+Access Rule, particularly for preventing the entry of erroneous orders, and to comply with the
+Rule’s CEO certification requirements.
+2.
+During the relevant period, Merrill Lynch’s Rule 15c3-5 erroneous order controls
+for most of its order flow consisted primarily of single order maximum share quantity and
+maximum notional value controls, which prevented orders that exceeded specific limits from
+entering the market. But because the thresholds were set at such high levels, the controls were not
+reasonably designed to prevent erroneous orders from entering the market, and Merrill Lynch
+lacked other controls reasonably designed to prevent erroneous orders. For example, although
+Merrill Lynch had some risk management controls within its trading systems that could analyze
+orders for potential market impact on a security-by-security basis, Merrill Lynch did not apply such
+a control to many channels of its order flow. With many orders only subject to the unreasonably
+high share quantity and notional value limit controls, it was all but inevitable that Merrill Lynch
+would send erroneous orders to the market, as in fact occurred.
+3.
+The gaps in Merrill Lynch’s Rule 15c3-5 erroneous order controls allowed
+numerous erroneous orders to enter the marketplace after July 2011, harming the integrity of
+trading on the securities markets. A number of erroneous orders that Merrill Lynch sent to the
+market during the relevant period caused abrupt increases and decreases in the prices of stocks and
+exchange-traded funds -- usually within seconds of the executions of the orders. Certain erroneous
+orders that Merrill Lynch sent to the marketplace during the relevant period resulted in short-term
+price swings of ten percent or more in the affected securities within seconds of the executions of the
+1
+
+In November 2010, the Commission adopted the Market Access Rule. 17 C.F.R. § 240.15c3-5.
+
+2
+
+orders, including two instances in which Merrill Lynch’s erroneous orders drove stock prices down
+by approximately ninety-nine percent within two seconds of the orders.2 Sudden stock price
+movements such as those caused by erroneous orders that Merrill Lynch sent to the market are
+commonly referred to “mini-flash crashes,” and such events undermine investor confidence in the
+markets.
+4.
+The trading aberrations caused by erroneous orders that Merrill Lynch sent to the
+market during the relevant period should have alerted Merrill Lynch that its financial risk
+management controls were not reasonably designed to prevent the entry of erroneous orders and
+caused Merrill Lynch to take timely remedial action. But Merrill Lynch did not begin to address
+the ineffectiveness of its financial risk management controls for erroneous orders until May 2013,
+after Merrill Lynch sent erroneous orders to the market that were quickly followed by a 99%
+decline in the stock price (see Paragraph 28 below) and after Commission staff had contacted
+Merrill Lynch.
+5.
+During the relevant period, Merrill Lynch also violated the Market Access Rule by:
+(1) failing to establish controls that were reasonably designed to prevent the entry of orders that
+would exceed pre-set credit or capital limits for any of the trading desks associated with two of its
+primary trading units until long after the deadline set by the Rule for establishing such controls,3
+(2) failing to establish any controls and supervisory procedures that were reasonably designed to
+prevent the entry of erroneous orders or orders that would exceed capital limits for fixed income
+securities for seven months after the Rule’s compliance date; (3) failing to review adequately the
+effectiveness of its risk management controls and supervisory procedures for preventing the entry
+of erroneous orders; and (4) failing to comply with the Market Access Rule with regard to annual
+CEO certifications for 2013 and 2014.
+RESPONDENT
+6.
+Merrill Lynch, a Delaware corporation with its principal offices in New York, New
+York, is registered with the Commission as a broker-dealer pursuant to Section 15 of the Exchange
+Act and as an investment adviser pursuant to Section 203 of the Investment Advisers Act of 1940.
+Merrill Lynch is a member of various self-regulatory organizations, including the Financial
+Industry Regulatory Authority (“FINRA”), and various exchanges, including the New York Stock
+Exchange (“NYSE”). Merrill Lynch engages in securities brokerage for retail and institutional
+customers and is a wholly-owned indirect subsidiary of Bank of America Corporation. Bank of
+
+2
+
+For all but one of these trading incidents, Clearly Erroneous Execution (“CEE”) petitions were filed with the
+relevant exchange(s), and, in most instances, as part of that resolution process, the erroneous orders were canceled.
+The exchanges generally allow a trade to be broken when the execution price is greater than a certain percentage away
+from the security’s “reference price.” See, e.g. NASDAQ Rule 11890.
+3
+
+The initial compliance date for the Market Access Rule was July 14, 2011. The compliance date was extended by
+the Commission until November 30, 2011, for (1) the requirement to implement risk management controls and
+supervisory procedures reasonably designed to prevent the entry of orders that would exceed appropriate pre-set credit
+or capital thresholds, and (2) all of the requirements of the Market Access Rule for fixed income securities.
+
+3
+
+America Corporation is a Delaware corporation, whose common stock is registered with the
+Commission pursuant to Section 12(b) of the Exchange Act and trades on the NYSE.
+FACTS
+A.
+
+Introduction
+
+7.
+Merrill Lynch is one of the world’s largest securities brokerage firms with more
+than 18,000 financial advisors and $2.4 trillion in client assets. As a member of various
+exchanges and a subscriber to alternative trading systems (“ATSs”), Merrill Lynch trades equities,
+options, fixed income securities, and exchange-traded funds, both for its own accounts and as an
+agent for its customers. During the relevant period, Merrill Lynch’s average daily trading volume
+exceeded 2 million equity security trades.
+B.
+
+Merrill Lynch’s Equity Trading Channels and Systems
+
+8.
+During the relevant period, equity trade orders that Merrill Lynch sent to the market
+originated from one of five business units at Merrill Lynch. Traders assigned to trading desks
+within the five business units, and often Merrill Lynch clients themselves, could access one or
+more of Merrill Lynch’s order entry systems. These order entry systems directed orders to the
+market through one or more internal Merrill Lynch trading channels. Most orders originating
+from the firm’s cash equities and derivative businesses, as well from certain channels used by
+Merrill Lynch’s electronic trading clients, were sent to the market through an internal Merrill
+Lynch trading platform called the Electronic Trading Technology Stack (“ETTS”). The ETTS
+included an order management system, an algorithmic engine, and a smart order router that sent
+orders or portions of orders to the market.
+C.
+
+Merrill Lynch’s Rule 15c3-5 Erroneous Order Controls
+
+9.
+In response to the Market Access Rule, Merrill Lynch determined that all equity
+order flow would be subject to four erroneous order controls: (1) single order quantity limits; (2)
+single order notional value limits; (3) controls based on the limit price assigned to limit orders; and
+(4) a duplicate order check. These erroneous order controls operated as hard blocks, rejecting
+orders that exceeded specified amounts and thereby preventing the orders from reaching the
+market.
+10.
+Certain Merrill Lynch trading channels had other types of risk management
+controls in place prior to the Market Access Rule. Merrill Lynch, however, did not implement all
+of those controls across all equity order flow as part of its response to the Market Access Rule.
+For example, Merrill Lynch’s algorithmic engine in the ETTS could perform an average daily
+volume (“ADV”) check on orders it received, pausing an order that exceeded a pre-determined
+percentage of the stock’s average daily volume, and then requiring desk personnel to take manual
+action to send that order to the market. Similarly, many retail orders were subject to a risk
+management control that assessed share quantity, notional value, and liquidity, as well as potential
+market impact, to determine whether to send an order to a market maker or to an internal Merrill
+Lynch algorithm that, in turn, would send the order or a portion of the order to the market based on
+the prevailing price of the stock.
+4
+
+11.
+Although the ADV control described above, and other controls that analyzed orders
+for potential market impact existed at Merrill Lynch prior to the July 2011 compliance date of the
+Market Access Rule, Merrill Lynch decided not to include such trading controls in every trading
+channel as part of its implementation effort for compliance with Rule 15c3-5.
+D.
+
+Merrill Lynch Established Unreasonably High Triggering Thresholds for its Rule
+15c3-5 Erroneous Order Controls
+
+12.
+After Merrill Lynch had determined that all equity orders routed to the market
+under Merrill Lynch’s market participant identifiers would be subject to the four erroneous order
+controls identified in paragraph 9, above, senior-level managers from each of the business units
+established the threshold settings for these controls in their respective business units. In an effort
+to comply with the Market Access Rule, Merrill Lynch also added a centralized pre-trade software
+application, known as “Sidecar,” to the ETTS. Sidecar applied the four erroneous order controls
+to all orders that were sent through the ETTS (other than those from the cash equities business
+unit).4
+13.
+Many of the thresholds selected by the senior managers of the business units were
+set at such high levels that they rendered the controls ineffective. For example, as of the July
+2011 compliance date of the Market Access Rule, most orders originating in the institutional cash
+equities business unit were subject to a standard single order notional value hard block of
+$250,000,000 and a single order quantity hard block that ranged from 5,000,000 shares to
+25,000,000 shares, depending on the particular trading strategy or market venue selected for an
+order.5 In addition, many, but not all, orders from the cash equities desk also were subject to hard
+and soft blocks that imposed different single order quantity and notional value limits in the order
+entry systems.6 Many of these additional limits, however, also were set at very high amounts.
+14.
+Similarly, orders from the institutional derivatives business unit routed through
+Sidecar were subject to a notional value hard block of $250,000,000 and an order quantity hard
+block of 10,000,000 shares. These orders also were subject to hard and soft blocks in order entry
+systems. Although the limits varied by trading desk and order entry system (and sometimes even
+by trader), the derivatives order entry system blocks generally were lower than the Sidecar limits
+by 10-20% for single order quantity and by 40% for notional value limits, which still resulted in
+very high thresholds that rendered the controls ineffective. The default limits for the soft blocks
+were even lower than the limits for the hard blocks, but also were set at very high numerical levels
+that rendered the controls ineffective.
+
+4
+
+Orders from the cash equities business also were subject to the four erroneous order controls, but those controls were
+located in an order management system accessed by cash equities traders, rather than in Sidecar.
+5
+
+In June 2013, after the SEC staff’s investigation had begun, Merrill Lynch reduced the maximum quantity limit for
+two of its trading strategies within the cash equities business from 25 million shares to 50,000 shares.
+6
+
+Soft blocks alert a trader when a specified order size threshold is exceeded, which the trader can then override.
+
+5
+
+15.
+Equity orders transmitted through Merrill’s electronic trading channels by Merrill
+Lynch clients were subject to share and notional value limits established on a client specific basis
+based on a risk matrix, with single share limit amounts ranging from 10,000 to 25,000,000 shares
+and a related notional value limit ranging from $100,000 to $150,000,000, respectively.
+E.
+
+Merrill Lynch Erroneous Trades Caused Numerous Market Aberrations
+
+16.
+Merrill Lynch’s lack of reasonably designed erroneous order controls allowed
+numerous erroneous orders to reach the market after July 2011, in some instances causing the
+prices of the affected stocks to fluctuate dramatically. Merrill Lynch’s controls were ineffective
+in preventing these orders from reaching the market, in part because the single order limits to
+prevent erroneous orders for many of Merrill Lynch’s trading channels had been set at such high
+levels. Examples of market incidents that resulted from erroneous orders that Merrill Lynch sent
+to the market during the relevant period are summarized in paragraphs 17 – 31 below, and details
+from each incident are reflected in the attached Exhibit A.
+17.
+On September 19, 2012, the price of Tyco International Ltd. common stock
+(symbol “TYC”) rose by approximately 4% in less than 2 seconds, after a Merrill Lynch trader
+inadvertently sent an institutional customer order to buy 200,000 shares of TYC to the market for
+immediate execution rather than to be executed over the course of the day, as the customer had
+instructed. Merrill Lynch’s designated Market Access Rule financial risk management controls,
+which at that time consisted of a single order quantity threshold of 5 million shares, a single order
+notional value of $250 million, and no price limit controls for market orders, failed to prevent the
+erroneous order from reaching the market. Merrill Lynch had additional legacy order entry
+controls designed to block orders that exceeded share and notional value limits in place, but the
+TYC order was well below the thresholds that Merrill Lynch had set for those blocks as well.
+18.
+On November 7, 2012, the price of Diageo plc American Depository Receipts
+(symbol “DEO”) rose by approximately 14% in less than 2 seconds, after a Merrill Lynch financial
+advisor inadvertently sent a market order on behalf of multiple clients to buy 115,500 shares of
+DEO, when intending to submit a market order for only a portion of that order—500 shares of the
+larger 115,500 share order. Merrill Lynch’s designated Market Access Rule financial risk
+management controls, which at that time consisted of a single order quantity threshold of 5 million
+shares, a single order notional value of $250 million, and no price limit controls for market orders,
+failed to prevent the erroneous order from reaching the market. Merrill Lynch had additional
+legacy order entry controls designed to block orders that exceeded share and notional value limits
+in place, but the DEO order was well below the thresholds that Merrill Lynch had set for those
+blocks as well. The order was approximately 30% of the average daily volume in DEO over the
+trailing 20-day period.
+19.
+On November 27, 2012, the price of Wisdom Tree LargeCap Growth Fund
+exchange-traded fund (former symbol “ROI”) fell by approximately 9% in less than 30 seconds,
+after a Merrill Lynch financial advisor sent a market order to sell 19,662 shares of ROI when the
+advisor had intended to enter a limit price for the order. Merrill Lynch’s designated Market
+Access Rule financial risk management controls, which at that time consisted of a single order
+quantity threshold of 25,000 shares, failed to prevent the erroneous order from reaching the
+
+6
+
+market. The order was approximately 775% of the average daily volume in ROI over the trailing
+20-day period.
+20.
+On December 5, 2012, the price of SPDR Barclay Emerging Markets Local Bond
+exchange-traded fund (symbol “EBND”) rose by approximately 9%, after a Merrill Lynch trader
+inadvertently sent duplicate market orders to buy 50,000 shares of EBND. Merrill Lynch’s
+designated Market Access Rule financial risk management controls, which at that time consisted
+of a single order quantity threshold of 2 million shares, a single order notional value of $250
+million, and no price limit controls for market orders, failed to prevent the erroneous order from
+reaching the market. Merrill Lynch had additional legacy order entry controls designed to block
+orders that exceeded share and notional value limits in place, but the EBND orders were well
+below the thresholds that Merrill Lynch had set for those blocks as well. The order was
+approximately 28% of the average daily trading volume in EBND over the trailing 20-day period.
+21.
+On January 2, 2013, the price of Granite Construction Incorporated common stock
+(symbol “GVA”) fell by approximately 13% in less than 2 seconds, after a Merrill Lynch client
+entered an order to sell 50,900 shares of GVA at the market when the client had intended to include
+a limit price with the order. Merrill Lynch’s designated Market Access Rule financial risk
+management controls, which at that time consisted of a single order quantity threshold of 500,000
+shares, a single order notional value of $25 million, and no price limit controls for market orders,
+failed to prevent the erroneous order from reaching the market. The order was approximately
+18% of the average daily trading volume in GVA over the trailing 20-day period. The following
+graph reflects the rapid price decline in GVA on the morning of January 2, 2013, from over $34 to
+less than $31:
+
+7
+
+22.
+On January 18, 2013, the price of PPG Industries, Inc. common stock (symbol
+“PPG”) fell by approximately 10% in less than 2 seconds, after a Merrill Lynch institutional trader
+inadvertently entered an order to sell 300,000 shares of PPG at the market (to hedge a customer
+swap order), when intending to enter the sell order as a market on close order. Merrill Lynch’s
+designated Market Access Rule financial risk management controls, which at that time consisted
+of a single order quantity threshold of 5 million shares, a single order notional value of $250
+million, and no price limit controls for market orders, failed to prevent the erroneous order from
+reaching the market. The order was approximately 11% of the average daily trading volume in
+PPG over the trailing 20-day period.
+23.
+On February 1, 2013, the price of Parcira Pharmaceuticals, Inc. common stock
+(symbol “PCRX”) fell by approximately 13% in less than a second, after a Merrill Lynch
+institutional trader entered a principal market order to sell short 43,813 shares of PCRX stock
+instead of sending the order to Merrill Lynch’s algorithm for execution over the last thirty-minutes
+of the trading day, as intended. Merrill Lynch’s financial risk management controls, which at that
+time consisted of a single order quantity threshold of 10 million shares, a single order notional
+value of $250 million, and no price limit controls for market orders, failed to prevent the erroneous
+order from reaching the market. Merrill Lynch had additional legacy order entry controls
+designed to block orders that exceeded share and notional value limits in place, but the PCRX
+orders were well below the thresholds that Merrill Lynch had set for those blocks as well. The
+order was approximately 12% of the average daily trading volume in PCRX over the trailing
+20-day period. The following graph reflects the rapid price decline in PCRX on the afternoon of
+February 1, 2013, from nearly $21 to just over $18 in less than one second:
+
+24.
+On March 8, 2013, the price of Anixter International, Inc. common stock (symbol
+“AXE”) fell by approximately 12% in less than a second, after a Merrill Lynch institutional trader
+erroneously entered a market order to sell short 91,524 shares of AXE stock as part of a principal
+hedge instead of sending the order to a Merrill Lynch algorithm for execution over the last
+thirty-minutes of the trading day, as had been intended. Merrill Lynch’s Rule 15c3-5 financial
+8
+
+risk management controls, which at that time consisted of a single order quantity threshold of 10
+million shares, a single order notional value of $250 million, and no price limit controls for market
+orders, failed to prevent the erroneous order from reaching the market. Merrill Lynch had
+additional legacy order entry controls designed to block orders that exceeded share and notional
+value limits in place, but the AXE orders were well below the thresholds that Merrill Lynch had set
+for those blocks as well. The order was approximately 17% of the average daily trading volume
+in AXE over the trailing 20-day period.
+25.
+On April 22, 2013, the price of Google Inc. common stock (symbol “GOOG”) fell
+by approximately 3% in less than a second, after a Merrill Lynch institutional trader entered an
+order to sell 50,070 shares of GOOG at the market (to hedge a customer swap order), after the
+client had incorrectly submitted an order to sell on swap 50,070 shares instead of 5,700 shares.
+Merrill Lynch’s financial risk management controls, which at that time consisted of a single order
+quantity threshold of 10 million shares, a single order notional value of $100 million, and no price
+limit controls for market orders, failed to prevent the erroneous order from reaching the market.
+26.
+On April 25, 2013, the price of Qualys, Inc. common stock (symbol “QLYS”) fell
+by more than 99% in less than 2 seconds, after a Merrill Lynch trader erroneously entered an
+institutional customer order to sell 381,020 shares of QLYS using a Merrill Lynch algorithm
+intended for a different order, which, in turn, routed the order using an algorithm that executes
+orders immediately and exhausts liquidity at each price level until an order is complete. At that
+time, Merrill Lynch’s financial risk management controls consisted of a single order quantity
+threshold of 5 million shares, a single order notional value of $250 million, and no price limit
+controls for market orders, failed to prevent the erroneous order from reaching the market. The
+order was approximately 483% of the average daily trading volume in QLYS over the trailing
+20-day period. The following graph demonstrates the rapid decline in QLYS’s price on the
+morning of April 25, 2013, from over $11.00 to $0.00 in just one second:
+
+9
+
+27.
+On May 14, 2013, the price of Bonanza Creek Energy Inc. common stock (symbol
+“BCEI”) rose by approximately 19% in less than 2 seconds, after a Merrill Lynch institutional
+trader, intending to route a 75,000 share buy order to a Merrill Lynch position trader for handling,
+instead routed the order to an algorithm that began executing the order immediately. The order
+was not blocked from reaching the market by Merrill Lynch’s 15c3-5 financial risk management
+controls, which at that time consisted of a single order quantity threshold of 25 million shares, a
+single order notional value of $500 million, and no price limit controls for market orders. The
+order was approximately 15% of the average daily trading volume in BCEI over the trailing 20-day
+period.
+28.
+On May 17, 2013, the price of Anadarko Petroleum Corporation common stock
+(symbol “APC”) dropped by more than 99% in less than a second, due to erroneous orders that
+Merrill Lynch sent to the market. Specifically, on May 17, 2013, a Merrill Lynch institutional
+trader entered a principal market order to sell 400,000 shares of APC in the last minute of regular
+market trading. Within seconds, the trader became concerned that a portion of the order was not
+being executed and entered a new market order to sell an additional 150,000 shares of APC
+without canceling the first order. Consequently, the trader sent more shares than intended to the
+market; and the price of APC stock then plunged, falling dramatically before rebounding. The
+orders were not blocked by Merrill Lynch’s Rule 15c3-5 financial risk management controls,
+which at that time consisted of a single order quantity threshold of 10 million shares, a single order
+notional value of $250 million, and no price limit controls for market orders. Merrill Lynch had
+additional legacy order entry controls designed to block orders that exceeded share and notional
+value limits in place, but the APC orders were well below the thresholds that Merrill Lynch had set
+for those blocks as well. The following graph demonstrates the trade prices in APC during the
+final second of the trading day on May 17, 2013, as execution prices dropped from over $90.00 to
+just $0.01:
+
+10
+
+29.
+On June 11, 2013, the price of Prologis Inc. common stock (symbol “PLD”) rose by
+approximately 21% in less than a second, after a Merrill Lynch institutional trader inadvertently
+sent a customer order to buy 72,000 shares of PLD to the market for immediate execution rather
+than to be executed over the course of the day, as the customer had instructed. At the time of the
+order, Merrill Lynch’s Rule 15c3-5 financial risk management controls consisted of a single order
+quantity threshold of 5 million shares and a single order notional value of $250 million.
+30.
+On June 18, 2013, the price of Ares Commercial Real Estate Corporation common
+stock (symbol “ACRE”) rose by approximately 22% in less than a second, as a result of erroneous
+orders that Merrill Lynch sent to the market. Specifically, on June 18, 2013, a Merrill Lynch sales
+trader entered an order to buy 61,022 shares of ACRE on behalf of a customer, using an algorithm
+to fill the order, but neglected to enter a limit price to the order as was intended. Merrill Lynch’s
+Rule 15c3-5 financial risk management controls, which at the time consisted of a single order
+quantity threshold of 25 million shares, a single order notional value of $500 million, and no price
+limit controls for market orders, failed to prevent the erroneous order from reaching the market.
+The order was approximately 120% of the average daily volume in ACRE over the trailing 20-day
+period.
+31.
+On June 17, 2014, the price of Zebra Technologies Corporation common stock
+(symbol “ZBRA”) rose by approximately 11% in less than a minute, after a Merrill Lynch
+customer inadvertently sent a market order to buy 1,006,020 shares of ZBRA using a Merrill
+Lynch trading algorithm, instead of sending the order in smaller pieces to various alternative
+trading systems as was intended. The order size triggered an alert within Merrill Lynch’s trading
+systems, which paused the order for trader review. A Merrill Lynch trader then attempted to
+contact the customer by telephone to confirm the trade instructions, but when he could not reach
+the customer the trader submitted the order for execution. The buy order then began executing in
+the marketplace, causing the share price of ZBRA stock to rise by ten percent, which triggered a
+new alert within Merrill’s trading systems. The trader saw the alert and again attempted to
+contact the customer. After the customer did not respond, the trader permitted the order to
+continue executing. Merrill Lynch’s Rule 15c3-5 financial risk management controls for that
+customer, which at the time consisted of a single order quantity threshold of 25 million shares, a
+single order notional value of $150 million, and no price limit controls for market orders, failed to
+prevent the erroneous order from reaching the market. The order was approximately 217% of the
+average daily volume in ZBRA over the trailing 20-day period.
+F.
+
+Merrill Lynch Failed to Establish Timely the Capital/Credit Thresholds and Related
+Controls
+
+32.
+On June 27, 2011, the Commission extended from July 14, 2011, to November 30,
+2011, the deadline for brokers and dealers to establish risk management controls and supervisory
+procedures to prevent the entry of orders that would exceed appropriate pre-set credit and capital
+limits. Merrill Lynch failed to meet the November 2011 deadline to establish risk management
+controls to prevent the entry of orders that would exceed appropriate pre-set credit and capital
+
+11
+
+limits for all of its trading desks within its institutional cash equities and derivative businesses.7
+Merrill Lynch’s core cash desk within the institutional cash equites business failed to establish
+such risk management controls until February 2012, while the portfolio desk failed to establish
+those controls until March 2012. None of the trading desks associated with the institutional
+derivatives business established risk management controls that were reasonably designed to
+prevent orders that would exceed pre-set capital limits until May 2012.
+G.
+
+Merrill Lynch Failed to Implement Timely the Market Access Rule for Fixed Income
+Securities
+
+33.
+On June 27, 2011, the Commission also extended from July 14, 2011, to November
+30, 2011, the deadline within which brokers and dealers were required to implement all aspects of
+the Market Access Rule with regard to fixed income securities. Merrill Lynch, however, failed to
+establish controls that were reasonably designed to prevent orders that would exceed pre-set
+capital-based thresholds or implement controls that were reasonably designed to prevent the entry
+of erroneous orders for fixed income securities until June 30, 2012.8 Merrill Lynch did not put in
+place erroneous order limits for all systems associated with fixed income securities until April 30,
+2012, and did not implement all capital and erroneous order controls associated with fixed income
+securities into the relevant systems until June 30, 2012. Furthermore, Merrill Lynch did not
+establish written supervisory procedures applicable to fixed income securities to monitor
+compliance with the Market Access Rule until July 2012.
+H.
+
+Merrill Lynch Failed to Review Adequately the Effectiveness of its Controls and
+Procedures Required by the Market Access Rule
+
+34.
+Merrill Lynch conducted periodic, including annual reviews of its risk management
+controls pursuant to written supervisory procedures. During its periodic reviews, Merrill Lynch
+verified that the controls and procedures that were in place functioned as expected. However, the
+reviews did not consider whether the high thresholds for Merrill Lynch’s erroneous order controls,
+detailed above, were effective, and therefore reasonably designed to prevent the entry of erroneous
+orders. In addition, Merrill Lynch made no adjustments to the design or settings of the controls
+despite being aware of weaknesses revealed by erroneous orders it sent that caused severe price
+swings in the affected securities. Merrill Lynch did not respond to red flags or consider whether
+the repeated failure to prevent erroneous orders revealed shortcomings in its system of controls.
+Merrill Lynch did not review adequately the effectiveness of its risk management controls and
+procedures with regard to erroneous orders until May 2013, following the erroneous orders
+described in Paragraph 28 above and after Commission staff had contacted Merrill Lynch.
+
+7
+
+Merrill Lynch identified this failure during its 2012 annual review of its compliance with the Market Access Rule.
+
+8
+
+Merrill Lynch also identified this failure during its 2012 annual review of its compliance with the Market Access
+Rule.
+
+12
+
+I.
+
+Merrill Lynch’s 2013 and 2014 CEO Market Access Rule Certifications
+
+35.
+In June 2013, following the incident involving Anadarko Petroleum (discussed
+above) and after the staff’s investigation had begun, Merrill Lynch’s co-CEOs signed the 2013
+Market Access Rule certification. The 2013 certification was limited in that it asserted that, in
+light of regulatory inquiries, it did not extend to the firm’s controls to prevent the entry of
+erroneous orders.
+36.
+Merrill Lynch did not conduct its CEO certification process on an annual basis in
+2014. One of Merrill Lynch’s co-CEOs did not sign Merrill Lynch’s 2014 Market Access Rule
+certification until November 2014, while the other co-CEO signed the certification in December
+2014. These certifications occurred more than seventeen months after the firm’s 2013
+certification process, which, as discussed above, did not comply with Rule 15c3-5’s requirement
+for such certifications.
+J.
+
+Merrill Lynch’s Enhancements to its Financial Risk Management Controls
+
+37.
+In May 2013, after Merrill Lynch had become aware of the Commission staff’s
+investigation regarding its market access controls, Merrill Lynch began making enhancements to
+its financial risk management controls for the prevention of the entry of erroneous orders. In June
+2013, Merrill Lynch significantly lowered the quantity and notional value limits in many of its
+trading channels. By September 2013, Merrill Lynch had added financial risk management
+controls to a number of its trading channels.
+LEGAL ANALYSIS
+A.
+
+Market Access Rule: Section 15(c)(3) of the Exchange Act and Rule 15c3-5
+
+38.
+Section 15(c)(3) of the Exchange Act prohibits a broker or dealer from effecting
+any securities transaction in contravention of the rules and regulations the Commission prescribes
+as necessary or appropriate in the public interest, or for the protection of investors, to provide
+safeguards with respect to the financial responsibility and related practices of broker-dealers.
+Rule 15c3-5 requires broker-dealers with access to trading securities directly on an exchange or
+ATS, including those providing sponsored or direct market access to customers or other persons,
+to implement specific risk management controls and supervisory procedures to manage financial,
+regulatory, and other relevant risks. Merrill Lynch violated Section 15(c)(3) and Exchange Act
+Rule 15c3-5, as described below.
+B.
+
+Credit and Capital Thresholds
+
+39.
+Exchange Act Rule 15c3-5(b) requires that a broker or dealer with market access
+establish, document, and maintain a system of risk management controls and supervisory
+procedures reasonably designed to manage the financial, regulatory, and other risks of its market
+access activity. Exchange Act Rule 15c3-5(c)(1)(i) requires that a broker’s or dealer’s risk
+management controls be reasonably designed to limit systematically the financial exposure of the
+broker or dealer by, among other things, preventing the entry of orders that would exceed
+appropriate pre-set credit or capital thresholds in the aggregate for each customer and the broker or
+dealer, and, where appropriate, more finely tuned by sector, security, or otherwise. Merrill Lynch
+13
+
+violated Rule 15c3-5(b) and (c)(1)(i) by failing to establish controls that were reasonably designed
+to prevent the entry of orders that would exceed such limits for several of its trading desks for
+months after the compliance date of the Market Access Rule. Specifically, Merrill Lynch’s core
+cash desk within its cash equities business failed to establish an aggregate capital credit threshold
+and related controls until February 2012, and its portfolio desk failed to implement a capital/credit
+threshold and related controls until March 2012. Moreover, none of the trading desks associated
+with Merrill Lynch’s derivatives business unit established aggregate capital limits and related
+controls until May 2012.
+C.
+
+Erroneous Order Controls
+
+40.
+Exchange Act Rule 15c3-5(c)(1)(ii) requires that a broker’s or dealer’s risk
+management controls be reasonably designed to limit systematically the financial exposure of the
+broker or dealer by, among other things, preventing the entry of erroneous orders that exceed
+appropriate price or size parameters on an order-by-order basis or over a short period of time, or
+that indicate duplicative orders. Merrill Lynch violated Rule 15c3-5(b) and (c)(1)(ii) by failing to
+have controls that were reasonably designed to prevent the entry of erroneous orders. The limits
+that Merrill Lynch established to prevent erroneous orders in many of its trading channels were set
+at such high levels that they failed to prevent many erroneous orders from reaching the market.
+These unreasonably high limits, along with the lack of other controls in many of Merrill Lynch’s
+trading channels, resulted in Merrill Lynch sending erroneous orders to the market. In a number
+of instances, the erroneous orders sent to the market by Merrill Lynch abruptly caused the prices of
+the affected stocks to fluctuate dramatically, thereby harming the integrity of trading on the
+securities markets.
+D.
+
+Fixed Income Securities
+
+41.
+Merrill Lynch failed until seven months after the November 30, 2011, Market
+Access Rule compliance date for fixed income securities, to implement controls that were
+reasonably designed to prevent orders that would exceed pre-set capital-based thresholds or the
+entry of erroneous orders. Merrill Lynch violated Rule 15c3-5(b), (c)(1)(i), and (c)(1)(ii) because
+the firm did not complete the process of establishing capital and erroneous order controls for fixed
+income securities until June 30, 2012, and did not establish written supervisory procedures to
+monitor compliance with the Market Access Rule with regard to fixed income securities until July
+2012.
+E.
+
+Regular Reviews
+
+42.
+Exchange Act Rule 15c3-5(e) requires that a broker or dealer providing market
+access establish, document, and maintain a system for regularly reviewing the effectiveness of the
+risk management controls and supervisory procedures required by Rule 15c3-5(b) and (c) and for
+promptly addressing any issues. Rule 15c3-5(e)(1) requires that the broker or dealer review, no
+less frequently than annually, the business activity of the broker or dealer in connection with
+market access to assure the overall effectiveness of such risk management controls and
+supervisory procedures. Rule 15c3-5(c)(1)(ii) requires controls reasonably designed to
+“[p]revent the entry of erroneous orders, by rejecting orders that exceed appropriate price or size
+parameters, on an order-by-order basis or over a short period of time, or that indicate duplicative
+14
+
+orders.” The Final Rule Release states: “Rule 15c3-5 is designed to ensure that broker-dealers
+appropriately control the risks associated with market access, so as not to jeopardize their own
+financial condition, that of other market participants, the integrity of trading on the securities
+markets, and the stability of the financial system.”9 The Final Rule Release further states that,
+specifically with respect to Rule 15c3-5(c)(1), that “pre-trade controls should protect
+broker-dealers providing market access, as well as their customers and other market participants,
+by blocking orders that do not comply with applicable risk management controls from being
+routed to a securities market” and that an example of such a control would be, “a systemic,
+pre-trade control reasonably designed to reject orders that are not reasonably related to the quoted
+price of the security [that] would help prevent erroneously-entered orders from reaching the
+market.”10
+43.
+Merrill Lynch violated the requirement of Rule 15c3-5(e) that it regularly review
+the effectiveness of the risk management controls and supervisory procedures required by Rule
+15c3-5(b) and (c) and promptly address any issues. Instead of evaluating whether its controls
+were reasonably designed to prevent the entry of erroneous orders, Merrill Lynch improperly
+limited its reviews to consideration of whether the controls in place operated, as intended, to limit
+only franchise-level risk for Merrill Lynch. As a result, Merrill Lynch did not evaluate whether
+its controls operated effectively to prevent the entry of erroneous orders. Merrill Lynch failed to
+incorporate into its review the risk that arose from the entry of erroneous orders. The extremely
+high limits in Merrill Lynch’s erroneous trade controls allowed erroneous orders to enter the
+market on several notable occasions thereby revealing the weaknesses of these controls. Merrill
+Lynch failed, as part of its review, to identify and promptly address the obvious issues regarding
+the effectiveness of its erroneous order controls.
+F.
+
+CEO Certifications
+
+44.
+Exchange Act Rule 15c3-5(e)(2) requires the Chief Executive Officer (or
+equivalent officer) of a broker-dealer providing market access to certify annually that its risk
+management controls and supervisory procedures comply with the Market Access Rule. Merrill
+Lynch violated Rule15c3-5(e)(2) because the firm’s 2013 certification expressly did not cover risk
+management controls and supervisory procedures to prevent the entry of erroneous orders, and the
+firm’s 2014 certification was not timely. In adopting the Market Access Rule, the Commission
+emphasized the importance of the annual CEO certification, stating that it was “critical” that a
+broker-dealer “review and certify the efficacy of its controls and procedures at regular intervals.”11
+45.
+In June 2013, Merrill Lynch’s co-CEOs signed the 2013 market access
+certification, which, as noted above, specified that the certification did not cover Rule 15c3-5’s
+requirements for controls to prevent the entry of erroneous orders. Neither the language of
+9
+
+Risk Management Controls for Brokers or Dealers with Market Access, 75 Fed. Reg. 69791, 69792 (Nov. 15, 2010)
+(“Final Rule Release”).
+10
+
+Id. at 69801, 69802.
+
+11
+
+Id. at 69811.
+
+15
+
+Market Access Rule itself nor the Rule’s adopting release contemplates such a limitation on the
+required certification. Indeed, Rule 15c3-5(e)(2) requires the CEO or an equivalent officer of a
+broker or dealer to certify regarding the broker’s or dealer’s market access controls and procedures
+to prevent the entry of erroneous orders.12
+46.
+Merrill Lynch’s CEO certification for 2014 did not satisfy the Rule’s requirement
+that such certifications be made on an annual basis. One of Merrill Lynch’s co-CEOs signed the
+2014 market access certification in November 2014, more than seventeen months after the prior
+year certification was signed. The other co-CEO signed the certification in December 2014.
+47.
+Based on the foregoing, the Commission finds that Merrill Lynch willfully13
+violated Section 15(c)(3) of the Exchange Act and Rule 15c3-5(b), (c)(1)(i), (c)(1)(ii), and (e)
+thereunder.
+REMEDIAL EFFORTS
+48.
+In determining to accept the Offer, the Commission considered remedial acts
+undertaken by Merrill Lynch.
+IV.
+In view of the foregoing, the Commission deems it necessary and appropriate in the public
+interest, and for the protection of investors, to impose the sanctions agreed to in Respondent’s
+Offer.
+Accordingly, pursuant to Sections 15(b) and 21C of the Exchange Act and Section 203(e)
+of the Advisers Act, it is hereby ORDERED that:
+A.
+Respondent Merrill Lynch cease and desist from committing or causing any
+violations and any future violations of Section 15(c)(3) of the Exchange Act and Rule 15c3-5
+thereunder.
+B.
+
+Respondent Merrill Lynch is censured.
+
+C.
+Respondent Merrill Lynch shall, within ten (10) days of the entry of this Order, pay
+a civil money penalty in the amount of $12,500,000 ($12.5 million) to the Securities and Exchange
+Commission for transfer to the general fund of the United States Treasury, subject to Exchange
+
+12
+
+See also In the Matter of Knight Capital Americas LLC, Exchange Act Release No. 70694 (Oct. 16, 2013) (Knight
+Capital Americas LLC violated subsection (e)(2) of Rule 15c3-5 when the certification signed by Knight’s CEO did
+not state that Knight’s controls and supervisory procedures complied with those provisions of the rule but instead
+stated that Knight had in place “processes” to comply with the rule).
+13
+
+A willful violation of the securities laws means merely “‘that the person charged with the duty knows what he is
+doing.’” Wonsover v. SEC, 205 F.3d 408, 414 (D.C. Cir. 2000) (quoting Hughes v. SEC, 174 F.2d 969, 977 (D.C. Cir.
+1949)). There is no requirement that the actor “‘also be aware that he is violating one of the Rules or Acts.’” Id.
+(quoting Gearhart & Otis, Inc. v. SEC, 348 F.2d 798, 803 (D.C. Cir. 1965)).
+
+16
+
+Act Section 21F(g)(3). If timely payment is not made, additional interest shall accrue pursuant to
+31 U.S.C. § 3717.
+D.
+Such payment must be made in one of the following ways: (1) Respondent Merrill
+Lynch may transmit payment electronically to the Commission, which will provide detailed ACH
+transfer/Fedwire instructions upon request; (2) Respondent may make direct payment from a bank
+account via Pay.gov through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or (3)
+Respondent may pay by certified check, bank cashier’s check, or United States postal money order
+made payable to the Securities and Exchange Commission and hand-delivered or mailed to:
+Enterprise Services Center
+Accounts Receivable Branch
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+Payments by check or money order must be accompanied by a cover letter identifying Merrill
+Lynch as a Respondent in these proceedings and the file number of these proceedings; a copy of
+the cover letter and check or money order must be sent to Antonia Chion, Associate Director,
+Division of Enforcement, Securities and Exchange Commission, 100 F Street, N.E., Washington,
+DC 20549.
+Amounts ordered to be paid as civil money penalties pursuant to this Order shall be treated as
+penalties paid to the government for all purposes, including all tax purposes. To preserve the
+deterrent effect of the civil penalty, Respondent agrees that in any Related Investor Action, it shall
+not argue that it is entitled to, nor shall it benefit by, offset or reduction of any award of
+compensatory damages by the amount of any part of Respondent’s payment of a civil penalty in
+this action (“Penalty Offset”). If the court in any Related Investor Action grants such a Penalty
+Offset, Respondent agrees that it shall, within 30 days after entry of a final order granting the
+Penalty Offset, notify the Commission’s counsel in this action and pay the amount of the Penalty
+Offset to the Securities and Exchange Commission. Such a payment shall not be deemed an
+additional civil penalty and shall not be deemed to change the amount of the civil penalty imposed
+in this proceeding. For purposes of this paragraph, a “Related Investor Action” means a private
+damages action brought against Respondent by or on behalf of one or more investors based on
+substantially the same facts as alleged in the Order instituted by the Commission in this
+proceeding.
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+17
+
+Exhibit A: Stock Price and Volume Change
+
+Start of Trading Event
+through Height/Depth
+of Event
+
+Price Preceding
+Event
+
+Price at
+Height/Depth of
+Event
+
+Approximate
+Price %
+Change
+
+Number of
+Shares
+Traded by
+Merrill
+Lynch
+
+Approximate
+% of Average
+Daily Volume
+(Preceding 20
+Days)
+
+Stock (Ticker Symbol)
+
+Date of Trading
+Event
+
+Tyco International Ltd. (TYC)
+
+9/19/2012
+
+10:18:38 a.m. 10:18:39 a.m.
+
+$54.85
+
+$56.90
+
+4%
+
+200,000
+
+5%
+
+11/7/2012
+
+3:45:47 p.m. - 3:45:49
+p.m.
+
+$115.02
+
+$132.10
+
+14%
+
+115,500
+
+29%
+
+Wisdom Tree LargeCap
+Growth Fund (ROI)
+
+11/27/2012
+
+9:30:00 a.m. - 9:30:29
+a.m.
+
+$39.48
+
+$35.97
+
+-9%
+
+19,662
+
+775%
+
+SPDR Barclay Emerging
+Markets Local Bond (EBND)
+
+12/5/2012
+
+9:24:34 - 9:24:34 a.m.
+
+$32.29*
+
+$35.11
+
+9%
+
+50,000
+
+28%
+
+Granite Construction, Inc.
+(GVA)
+
+1/2/2013
+
+11:45:56 a.m. 11:45:57 a.m.
+
+$34.45
+
+$30.12
+
+-13%
+
+48,600
+
+18%
+
+PPG Industries, Inc. (PPG)
+
+1/18/2013
+
+3:00:50 p.m. - 3:00:51
+p.m.
+
+$141.99
+
+$127.25
+
+-10%
+
+300,000
+
+10%
+
+Parcira Pharmaceuticals
+(PCRX)
+
+2/1/2013
+
+3:38:17 p.m. - 3:38:18
+p.m.
+
+$20.97
+
+$18.18
+
+-13%
+
+43,813
+
+11%
+
+Anixter International, Inc.
+(AXE)
+
+3/8/2013
+
+11:48:51 a.m. 11:48:52 a.m.
+
+$69.76
+
+$60.90
+
+-12%
+
+91,524
+
+16%
+
+Google, Inc. (GOOG)
+
+4/22/2013
+
+9:37:11 a.m. - 9:37:12
+a.m.
+
+$795.93
+
+$775.00
+
+-3%
+
+50,070
+
+2%
+
+Diageo PLC (DEO)
+
+Price Preceding
+Event
+
+Price at
+Height/Depth of
+Event
+
+Approximate
+Price %
+Change
+
+Number of
+Shares
+Traded by
+Merrill
+Lynch
+
+Approximate
+% of Average
+Daily Volume
+(Preceding 20
+Days)
+
+$11.13
+
+$0.00
+
+-99%
+
+381,020
+
+483%
+
+Stock (Ticker Symbol)
+
+Date of Trading
+Event
+
+Qualys, Inc. (QLYS)
+
+4/25/2013
+
+Start of Trading Event
+through Height/Depth
+of Event
+9:35:38 a.m. - 9:35:39
+a.m.
+
+Bonanza Creek Energy (BCEI)
+
+5/14/2013
+
+3:40:05 p.m. - 3:40:06
+p.m.
+
+$37.66
+
+$44.91
+
+19%
+
+75,700
+
+15%
+
+Anadarko Petroluem Corp.
+(APC)
+
+3:59:59 p.m. - 3:59:59
+p.m.
+
+$90.24
+
+$0.01
+
+-99%
+
+203,320
+
+6%
+
+5/17/2013
+
+$46.14
+
+21%
+
+72,000
+
+2%
+
+6/11/2013
+
+9:11:48 a.m. - 9:11:48
+a.m.
+
+$38.03
+
+Prologis, Inc. (PLD)
+Ares Commerical Real Estate
+Corporation (ACRE)
+
+3:58:53 p.m. - 3:58:54
+p.m.
+
+$15.18
+
+$18.65
+
+22%
+
+61,022
+
+120%
+
+6/18/2013
+
+Zebra Technologies Corp.
+(ZBRA)
+
+15:59:03 p.m. –
+15:59:51 p.m.
+
+$78.42
+
+$87.75
+
+11%
+
+1,006,020
+
+217%
+
+6/17/2014
+
+* The first trade of the day was involved in the event. The price preceding the event is the prior day's closing price.
+
+2
+
+

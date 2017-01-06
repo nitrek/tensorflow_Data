@@ -1,0 +1,243 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10103 / June 23, 2016
+ADMINISTRATIVE PROCEEDING
+File No. 3-17314
+_____________________________________
+In the Matter of
+:
+:
+MERRILL LYNCH, PIERCE,
+:
+FENNER & SMITH INCORPORATED, :
+:
+:
+Respondent.
+:
+:
+
+ORDER INSTITUTING CEASE AND
+DESIST PROCEEDINGS PURSUANT TO
+SECTION 8A OF THE SECURITIES
+ACT OF 1933, MAKING FINDINGS AND
+IMPOSING A CEASE AND DESIST
+ORDER
+
+I.
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in
+the public interest that cease-and-desist proceedings be, and hereby are, instituted pursuant to
+Section 8A of the Securities Act of 1933 (“Securities Act”) against Merrill Lynch, Pierce, Fenner
+& Smith Incorporated (“Merrill Lynch” or “Respondent”).
+II.
+In anticipation of the institution of these proceedings, Merrill Lynch has submitted an
+Offer of Settlement (“Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Merrill Lynch consents to the entry of this Order Instituting
+Cease-and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933, Making
+Findings and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+III.
+On the basis of this Order and Merrill Lynch’s Offer, the Commission finds1 that:
+
+1
+
+The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on
+any other person or entity in this or any other proceeding.
+
+Summary
+1.
+These proceedings involve Merrill Lynch’s failure to adequately disclose
+certain fixed costs in a proprietary volatility index linked to structured notes known as Strategic
+Return Notes (“SRNs”) of Bank of America Corporation (“BAC”). Merrill Lynch offered and
+sold approximately $150 million of these volatility notes to approximately 4,000 retail investor
+accounts in 2010 and 2011. The disclosures made it appear as if the volatility product had
+relatively low fixed costs. The offering materials emphasized that investors would be subject to
+a 2% sales commission and a 0.75% annual fee. The offering materials failed to adequately
+disclose a third fixed, regularly occurring cost included in its proprietary volatility index known as
+the “Execution Factor” (distinct from “holding” or “decay” costs associated with daily
+calculation of the underlying index which are variable and depend upon market conditions). As
+a result, the disclosures in the offering materials of the fixed costs associated with the SRNs were
+materially misleading.
+Respondent
+2.
+Merrill Lynch, Pierce, Fenner & Smith Incorporated (“Merrill Lynch”) is a
+registered broker-dealer headquartered in New York, New York. Merrill Lynch is an indirect,
+wholly-owned subsidiary of BAC.
+Facts
+Strategic Return Notes
+3.
+Volatility products are complex financial instruments marketed and sold to both
+retail and institutional clients; this case arises from Merrill Lynch’s retail sales of SRNs, which
+were the first structured volatility product offered and sold to retail investors by BAC through
+Merrill Lynch. A number of other large financial institutions marketed similar volatility products
+during the same time period.
+4.
+Between October 2010 and July 2011, BAC offered and sold approximately $150
+million in SRNs linked to the Investable Volatility Index (“VOL” or “Index”). The public
+offering price was $10 per unit and the underwriting discount was $0.20. Underwriting fees to
+Merrill Lynch were approximately $3 million.
+5.
+Merrill Lynch was principally responsible for preparation of BAC’s offering
+documents. These included the following prospectuses in registration statements filed with the
+Commission by BAC: a Prospectus dated April 20, 2009; a Medium Term Notes, Series L,
+Prospectus Supplement dated April 21, 2009; nine Final Pricing Supplements for offerings issued
+on October 4, 2010, November 8, 2010, December 3, 2010, December 31, 2010, February 7, 2011,
+March 7, 2011, April 4, 2011, May 9, 2011 and July 5, 2011 (collectively the “Pricing Supps”);
+and a fact sheet entitled “Investible Volatility Index” that was filed with the Commission as a free
+writing prospectus (together with Pricing Supps, Offering Documents).
+
+2
+
+6.
+The SRNs had a five-year term and permitted earlier redemption as specified in
+the Pricing Supps. The SRNs paid no interest. Investors were entitled to a cash payment at
+maturity or during specified redemption periods dependent upon the level of the VOL.
+7.
+According to the Pricing Supps, the VOL “provides a measure of market volatility
+in the equity markets” and “is designed to measure the return of an investment in the forward
+implied volatility of the S&P 500 index for a three-month period with a mid-point approximately
+five months in the future.” The VOL does so by reference to publicly available levels of implied
+volatility on the S&P 500 index and uses those levels to calculate levels of forward implied
+volatility over different intervals of time. The VOL then treated those levels of forward implied
+volatility like assets that were bought and sold as part of a hypothetical portfolio. The hypothetical
+portfolio is rebalanced every business day to maintain a constant exposure to the specified forward
+implied volatility. In the daily rebalancing process, a fixed cost known as the “Execution Factor” is
+applied to each synthetic purchase of forward implied volatility as part of the Index calculation.
+Relevant Statements
+8.
+The Cover Page and Key Features sections of the retail Pricing Supps disclosed
+certain fixed costs associated with the SRNs. The Cover Page represented that “Return [will be]
+reduced by a 2% sales charge and an Index Adjustment Factor that will accrue daily at the rate of
+0.75% per annum.” T he Key Features section of the Pricing Supps represented that the “SRNs
+provide a positive return for investors if the level of the [Index], adjusted as described below,
+increases by at least the sum of (i) approximately 2% and (ii) the accrued Index Adjustment Factor
+. . . the level of the Index will be reduced by the Index Adjustment Factor of 0.75% per annum . .
+.” The Key Features section further represented that the Index Adjustment Factor would lower
+the level of the VOL by 3.67% over the five year term of the note.
+9.
+In addition, the Key Features section of the retail Pricing Supps represented that, as
+a result of the cumulative and combined effects of the sales charge and Index Adjustment Factor,
+“in order for you to receive at least the $10 Original Offering Price per unit on the maturity date,
+the level of the Index must increase by more than 5.93% from the Starting Value.” The fixed
+costs represented by the 2% sales charge and the 0.75% Index Adjustment Factor were described
+multiple times in the Pricing Supps, in narrative language which explained the amount of each
+fixed cost, what it was multiplied against and how often it applied.
+Execution Factor
+10.
+Merrill Lynch did not adequately include in the Offering Documents an additional
+regularly occurring fixed cost, known as the “Execution Factor,” that was included in the Index. The
+Execution Factor increased by 1.5% the cost, or level, of each unit of forward implied volatility being
+purchased as part of that day’s rebalancing. Because the hypothetical portfolio completely turned
+over each quarter, the Execution Factor imposed a cost of 1.5% on the Index each quarter. The Index
+also included a feature called the Index Multiplier which increased the daily Index calculation by
+120% including the effect of the Execution Factor.
+11.
+The Pricing Supps included a 4-page narrative or description of the VOL. The
+Execution Factor was not mentioned in that narrative description of the Index.
+
+3
+
+12.
+Under the heading “[t]he method by which the Index is calculated includes
+features which may reduce the amount payable on the SRNs,” the Risk Factors section of the
+Pricing Supps provided in relevant part: “The methodology of the Index includes an ‘Execution
+Factor’ that is designed to reflect the transaction costs that would be incurred in attempting to
+implement an investment strategy that replicates the Index. The Execution Factor has the effect
+of reducing the actual level of the Index on any given Index Business Day.” Because the forward
+implied volatility levels from which the Index is calculated do not themselves account for
+transaction costs, the Pricing Supps stated that the Execution Factor was intended to represent
+the transaction costs that would be incurred by an investor pursuing a strategy that replicates the
+Index.
+13.
+Annex A to the Pricing Supps included a complex six-step mathematical formula
+used to calculate the level of the VOL. The following description of the Execution Factor was
+provided at step four of the Index calculation: “The Execution Factor is equal to 1.015 and is
+designed to reflect the transaction costs that would be incurred in implementing a strategy that
+replicates the Index. The Execution Factor is only applied to the equation where n1 or n2 is to be
+increased from the level n1 t-1 or n2 t-1, respectively.” A sample Annex A is attached hereto.
+14.
+A reasonable retail investor would have considered it important to the total mix of
+information available when purchasing the SRNs that the Execution Factor imposed a transaction
+cost of 1.5% of the Index value each quarter, accruing on a daily basis. Merrill Lynch’s failure to
+adequately include the Execution Factor rendered the cost disclosures relating to the fixed 2% sales
+charge and 0.75% Index Adjustment Factor materially misleading.
+Merrill Lynch’s Negligence
+15.
+As an issuer of securities, BAC had a duty to disclose all material information
+necessary to make statements contained in the retail Pricing Supps, in light of the circumstances
+under which they were made, not misleading. BAC delegated to Merrill Lynch principal
+responsibility for drafting and reviewing the retail Pricing Supps. Within Merrill Lynch, primary
+responsibility for drafting and reviewing the retail Pricing Supps was spread among different groups
+(as supplemented by outside counsel). Merrill Lynch failed to have in place an effective policy,
+procedure or internal communication process to provide reasonable assurances that the
+individuals with primary responsibility for drafting, reviewing and approving the retail Pricing
+Supps prepared disclosures for BAC regarding the Execution Factor that were not materially
+misleading in light of the disclosure of other fixed, regularly occurring costs.
+*
+
+*
+
+*
+
+16.
+As a result of the negligent conduct described above, Merrill Lynch violated
+Section 17(a)(2) of the Securities Act which prohibits obtaining money or property by means of
+material misstatements and omissions in the offer or sale of securities.
+
+4
+
+IV.
+In view of the foregoing, the Commission deems it appropriate and in the public interest
+to impose the sanctions agreed to in Merrill Lynch’s Offer.
+Accordingly, pursuant to Section 8A of the Securities Act, it is hereby ORDERED that:
+A.
+Merrill Lynch cease and desist from committing or causing any violations and any
+future violations of Section 17(a)(2) of the Securities Act.
+B.
+Merrill Lynch shall, within ten (10) days of the entry of this Order, pay a civil
+monetary penalty in the amount of $10 million to the Securities and Exchange Commission for
+transfer to the general fund of United States Treasury in accordance with Exchange Act Section
+21F(g)(3). If timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C.
+3717. Payment to the Commission must be made in one of the following ways:
+i.
+
+Merrill Lynch may transmit payment electronically to the Commission,
+which will provide detailed ACH transfer/Fedwire instructions upon
+request;
+
+ii.
+
+Merrill Lynch may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+iii.
+
+Merrill Lynch may pay by certified check, bank cashier’s check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+Enterprise Services Center
+Accounts Receivable Branch
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments must be accompanied by a cover letter identifying BAC as a Respondent in
+these proceedings and the file number of these proceedings. Proof of payment must be sent to
+Reid A. Muoio, Deputy Chief, Complex Financial Instruments Unit, Division of Enforcement,
+Securities and Exchange Commission, 100 F St. NE, Washington, DC 20549.
+By the Commission.
+Brent J. Fields
+Secretary
+
+5
+
+6
+
+7
+
+8
+
+

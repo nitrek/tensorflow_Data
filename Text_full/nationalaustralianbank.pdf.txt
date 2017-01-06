@@ -1,0 +1,1048 @@
+07-0583-cv
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+________________________________________________
+ROBERT MORRISON, individually and on behalf of all others similarly situated,
+RUSSELL LESLIE OWEN, BRIAN SILVERLOCK,
+and GERALDINE SILVERLOCK,
+Plaintiffs-Appellants,
+MARIA KENNEDY, HARVARD B. KOLM, and NORMAN HAUGE,
+Plaintiffs,
+-vNATIONAL AUSTRALIA BANK LTD., HOMESIDE LENDING INC.,
+FRANK CICUTTO, HUGH HARRIS, KEVIN RACE, and W. BLAKE WILSON,
+Defendants-Appellees.
+________________________________________________
+On Appeal from the United States District Court
+for the Southern District of New York
+________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION
+AS AMICUS CURIAE, IN RESPONSE TO THE COURT’S REQUEST
+________________________________________________
+BRIAN G. CARTWRIGHT
+General Counsel
+ANDREW N. VOLLMER
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+MARK PENNINGTON
+Assistant General Counsel
+WILLIAM K. SHIREY
+Senior Counsel
+Securities and Exchange Commission
+100 F St., N.E.
+Washington, D.C. 20549-8010
+(202) 551-5043 (Shirey)
+
+TABLE OF CONTENTS
+PAGE
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+STATEMENT OF THE ISSUES ADDRESSED . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+BACKGROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+A.
+
+B.
+
+General Background as to the Transnational Reach
+of the Antifraud Provisions of the Securities Laws. . . . . . . . . . . . . . 4
+1.
+
+Cases Involving Transnational Securities
+Frauds Are Becoming More Prevalent and
+Raise Difficult Questions Concerning the
+Application of the Antifraud Provisions of
+the Securities Laws. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+2.
+
+Courts Have Developed a Conduct Test and
+an Effects Test for Resolving Questions of
+the Transnational Application of the Antifraud
+Provisions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+3.
+
+Plaintiffs Rely Solely on the Conduct Test. . . . . . . . . . . . . . . 8
+
+This Litigation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+1.
+
+The Allegations in the Complaint . . . . . . . . . . . . . . . . . . . . . 11
+
+2.
+
+The District Court’s Order Dismissing the Case . . . . . . . . . . 13
+
+ANALYSIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+i
+
+TABLE OF CONTENTS (Continued)
+PAGE
+I.
+
+The Second Circuit’s Case Law Relating to the Conduct Test
+Has Proven Difficult to Apply. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+A.
+
+Overview of the Relevant Second Circuit Case Law.
+
+. . . . . . . . . . 15
+
+B.
+
+The Second Circuit’s Decisions Do Not Provide a
+Clear Answer to the Correct Resolution of the
+Jurisdictional Issue in this Case. . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+II.
+
+Adoption of the Commission’s Proposed Articulation
+of the Conduct Test Would Bring Needed Clarity and
+Would Shift the Inquiry from a Case-By-Case Analysis
+that Turns on “Very Fine Distinctions.” . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+III.
+
+Under the Commission’s Proposed Articulation of the
+Conduct Test, the Antifraud Provisions Would Apply Here. . . . . . . . . . . 29
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+CERTIFICATE OF COMPLIANCE
+CERTIFICATE OF SERVICE
+
+ii
+
+TABLE OF AUTHORITIES
+CASES
+
+PAGE
+
+AVC Nederland B.V. v. Atrium Investment Partnership, 740 F.2d 148
+(2d Cir. 1984) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Alfadda v. Fenn, 935 F.2d 475 (2d Cir. 1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+In re Alstom SA Sec. Litigation, 406 F. Supp. 2d 346 (S.D.N.Y. 2005) . . . . 2, 3, 5
+passim
+Basic Inc. v. Levinson, 485 U.S. 224 (1988) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+In re Bayer AG Sec. Litig., 2004 WL 2189357 (S.D.N.Y. Sept. 30, 2004) . . . . . . 5
+Bersch v. Drexel Firestone, Inc., 519 F.2d 974 (2d Cir. 1975) . . . . . . . . . 4, 14, 15
+passim
+Continental Grain (Australia) Pty. Ltd. v. Pacific Oilseeds, Inc.,
+592 F.2d 409 (8th Cir. 1979) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Europe and Overseas Commodity Traders, S.A. v. Banque Paribas
+London, 147 F.3d 118 (2d Cir. 1998) . . . . . . . . . . . . . . . . . . . . . . . . . 7, 8, 20
+passim
+F. Hoffmann-La Roche Ltd. v. Empagran S.A., 542 U.S. 155 (2004) . . . . . . 27-28
+Froese v. Staff, 2003 WL 21523979 (S.D.N.Y. July 7, 2003) . . . . . . . . . . . . . 5, 15
+In re Gaming Lottery Sec. Litigation, 58 F. Supp. 2d 62 (S.D.N.Y. 1999) . . . 5, 15
+Grunenthal GmbH v. Hotz, 712 F.2d 421 (9th Cir. 1983) . . . . . . . . . . . . . . . . 9, 24
+IIT v. Cornfeld, 619 F.2d 909 (2d Cir. 1980) . . . . . . . . . . . . . . . . . . . . . . 15, 18, 19
+
+iii
+
+TABLE OF AUTHORITIES (Continued)
+PAGE
+ITT v. Vencap, Ltd., 519 F.2d 1001 (2d Cir. 1975) . . . . . . . . . . . . . . . . . . . 4, 8, 17
+passim
+Itoba Ltd v. LEP Group PLC, 54 F.3d 118 (2d Cir. 1995) . . . . . . . . . . . . . . 6, 7, 20
+Kauthar SDN BHD v. Sternberg, 149 F.3d 659 (7th Cir. 1998) . . . . . . . . . . 7, 8, 9
+passim
+Leasco Data Processing Equipment Corp. v. Maxwell, 468 F.2d 1326
+(2d Cir. 1972) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+North South Finance Corp. v. Al-Turk, 100 F.3d 1046 (2d Cir. 1996) . . . . . . . . 21
+Psimenos v. E.F. Hutton & Co., 722 F.2d 1041 (2d Cir. 1983) . . . . . . . . . . 7, 9, 19
+passim
+Robinson v. TCI/US West Communications Inc., 117 F.3d 900 (5th Cir. 1997) . 9
+Royal Dutch/Shell Transport Sec. Litigation, 380 F. Supp. 2d 334 (D.N.J. 2005) 5
+SEC v. Berger, 322 F.3d 187 (2d Cir. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . 3, 4, 14
+passim
+SEC v. Kasser, 548 F.2d 109 (3d Cir. 1977) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 9
+Schoenbaum v. Firstbrook, 405 F.2d 200, rev'd on the merits,
+405 F.2d 215 (2d Cir. 1968) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Stoneridge Investment Partners, LLC v. Scientific-Atlanta, Inc.,
+128 S. Ct. 761 (2008) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Zoelsch v. Arthur Anderson & Co., 824 F.2d 27 (D.C. Cir. 1987) . . . . . . . . 6-7, 8
+passim
+
+iv
+
+TABLE OF AUTHORITIES (Continued)
+PAGE
+STATUTES AND RULE
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+Section 10(b), 15 U.S.C. § 10(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Section 21(a)(1), 15 U.S.C. § 78u(a)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Rule 10b-5 under the Securities Exchange Act of 1934, 17 C.F.R. 240.10b-5 . . 10
+MISCELLANEOUS
+John C. Coffee, Jr., Foreign Issuers Fear Global Class Actions,
+The National Law Journal (June 14, 2007) . . . . . . . . . . . . . . . . . . . . . . . . 29
+Restatement (Third) of Foreign Relations Law § 416, cmt. A (1987) . . . . . . . . . 28
+
+v
+
+No. 07-0583-cv
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+________________________________________________
+ROBERT MORRISON, individually and on behalf of all others similarly situated,
+RUSSELL LESLIE OWEN, BRIAN SILVERLOCK,
+and GERALDINE SILVERLOCK,
+Plaintiffs-Appellants,
+MARIA KENNEDY, HARVARD B. KOLM, and NORMAN HAUGE,
+Plaintiffs,
+-vNATIONAL AUSTRALIA BANK LTD., HOMESIDE LENDING INC.,
+FRANK CICUTTO, HUGH HARRIS, KEVIN RACE, and W. BLAKE WILSON,
+Defendants-Appellees.
+________________________________________________
+On Appeal from the United States District Court
+for the Southern District of New York
+________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION
+AS AMICUS CURIAE, IN RESPONSE TO THE COURT’S REQUEST
+________________________________________________
+INTRODUCTION
+The Securities and Exchange Commission submits this brief amicus curiae
+in response to the Court’s invitation to offer “the views of the [Commission] on
+both the broader questions posed by this case and the case itself” as to whether
+
+1
+
+antifraud provisions of the United States securities laws apply to the alleged
+transnational fraud. This case involves foreign purchasers who bought a foreign
+issuer’s securities on a foreign exchange, but where significant aspects of the
+fraudulent conduct occurred in the United States.
+The Commission believes that this Court should expressly set forth the
+following standard to assess whether the antifraud provisions apply to
+transnational securities-fraud cases:
+The antifraud provisions of the securities laws apply to
+transnational frauds that result exclusively or principally
+in overseas losses if the conduct in the United States is
+material to the fraud’s success and forms a substantial
+component of the fraudulent scheme.
+That formulation is reflective of the Second Circuit’s present approach and it
+provides an overall conceptual framework to guide lower courts as these confront
+jurisdictional issues in future transnational securities fraud cases.
+This Court’s case law can be read to set forth a series of “diverse
+formulations” of the applicable legal standard. In re Alstom SA Sec. Litig., 406 F.
+Supp. 2d 346, 373-74 (S.D.N.Y. 2005). For example, in the view of one district
+court, there has been an “apparent shift in emphasis from a test of strict causation”
+– one where the domestic conduct must be the immediate cause of the overseas
+investors’ losses – “to one of materiality of the domestic acts.” Id. This has
+2
+
+created a “tension” in the case law, id., and, as a result, district courts have largely
+resorted to engaging in a case-by-case comparison of the specific fact patterns to
+those of existing Circuit precedent. As the district court here explained, “[t]he
+complexity of th[is] required analysis means that individual cases are decided on
+very fine distinctions.” (SPA-9 (2006 WL 3844465) (“This analytical
+undertaking is complicated by the commercial realities that imbue modern
+international securities transactions.”)).
+The Commission believes that this Court could bring greater clarity to this
+area by adopting the proposed formulation. Furthermore, because this
+jurisdictional test would also be applied to Commission actions, see SEC v.
+Berger, 322 F.3d 187, 193-94 (2d Cir. 2003), we believe that the proposed
+standard would help preserve the Commission’s ability to bring an enforcement
+action involving future transnational frauds such as the one alleged in this case.
+Finally, the Commission believes that, applying that standard to the
+allegations in plaintiffs’ complaint, material and substantial conduct in furtherance
+of the alleged fraud occurred in the United States so as to support application of
+the antifraud provisions (at least with respect to enforcement actions brought by
+
+3
+
+the Commission or private actions brought by named foreign plaintiffs). 1
+STATEMENT OF THE ISSUES ADDRESSED
+1.
+
+Do the antifraud provisions of the securities laws extend to transnational
+frauds that result exclusively or principally in overseas losses if the conduct
+in the United States is material to the fraud’s success and forms a substantial
+part of the alleged fraud ?
+
+2.
+
+Do the plaintiffs’ allegations satisfy this standard?
+BACKGROUND
+A.
+
+General Background as to the Transnational Reach of the
+Antifraud Provisions of the Securities Laws.
+1.
+
+Cases Involving Transnational Securities Frauds Are
+Becoming More Prevalent and Raise Difficult Questions
+Concerning the Application of the Antifraud Provisions of
+the Securities Laws.
+
+This appeal involves the question of whether Congress, in the exercise of its
+
+1
+
+This Court has suggested on several occasions, based on additional policy
+considerations unique to class actions, that a more jurisdictionally restrictive
+standard may be warranted in the class-action context. See ITT v. Vencap, Ltd.,
+519 F.2d 1001, 1018 n.31 (2d Cir. 1975); see, e.g., SEC v. Berger, 322 F.3d 187,
+195 (2d Cir. 2003); Bersch v. Drexel Firestone, Inc., 519 F.2d 974, 987 (2d Cir.
+1975). The Commission does not take a position on what, if any, additional
+showing should be required for class actions. In this brief, therefore, we are only
+discussing the application of the conduct test as it would apply to Commission
+enforcement actions and private suits by named foreign plaintiffs.
+4
+
+legislative or prescriptive jurisdiction, intended the antifraud provisions of the
+securities laws to apply to securities frauds that take place in part in the United
+States and in part overseas, but that principally or exclusively result in losses to
+overseas investors. These types of suits have become more prevalent in recent
+years. See, e.g., Royal Dutch/Shell Transp. Sec. Litig., 380 F. Supp. 2d 334
+(D.N.J. 2005); In re Bayer AG Sec. Litig., 2004 WL 2190357 (S.D.N.Y. Sept. 30,
+2004); Froese v. Staff, 2003 WL 21523979 (S.D.N.Y. July 7, 2003); In re Gaming
+Lottery Sec. Litig., 58 F. Supp. 2d 62 (S.D.N.Y. 1999).
+To apply our securities laws to these transnational securities frauds
+necessarily involves some extraterritorial application of United States laws
+because, by definition, not all of the fraudulent conduct occurs in the United
+States, nor are all the wrongdoers or victims necessarily in the United States. See,
+e.g., In re Alstom SA Sec. Litig., 406 F. Supp. 2d 346, 380 (S.D.N.Y. 2005)
+(describing transnational securities frauds). The issue becomes, therefore, how
+and where to draw the line with respect to application of the antifraud provisions
+of the United States securities laws.
+Complicating this inquiry are the commercial realities associated with
+modern international securities trading. Often these transactions
+involve multiple components, participants and events centered in
+several countries. The executives and directors of the company
+answerable for the wrongdoing may be headquartered in one country.
+5
+
+The false representations may be contained in securities disclosure
+statements registered or in public announcements published in
+various other nations. The lawyers, accountants and underwriters
+who prepared the prospectuses and related documents may have
+coordinated their drafting activities and structuring of the transaction
+in yet a different jurisdiction. The marketing of the investments may
+take place in exchanges around the world. Hence, the conduct
+constituting the charged fraud causing the asserted financial losses is
+rarely a single act readily traceable in its entirety to a discrete time
+and place. Rather, more commonly, the alleged misdeeds may
+comprise but one aspect of a scheme on a larger scale, a link in a
+transactional chain forming a continuum that spreads out to multiple
+jurisdictions. Identifying where the charged fraud starts and where it
+culminates, and what comprises the numerous material points and
+participants in the transactions in between, inevitably presents
+formidable challenges.
+Id. at 372 (footnote omitted).
+2.
+
+Courts Have Developed a Conduct Test and an Effects Test
+for Resolving Questions of the Transnational Application of
+the Antifraud Provisions.
+
+The text of the securities laws is silent as to the transnational reach of these
+laws. See Itoba Ltd v. LEP Group PLC, 54 F.3d 118, 121 (2d Cir. 1995). In 1934,
+“Congress did not consider how far American courts should have jurisdiction to
+decide cases involving predominantly foreign securities transactions with some
+link to the United States. The web of international connections in the securities
+markets was then not nearly as extensive or complex as it has become.” Zoelsch
+
+6
+
+v. Arthur Anderson & Co., 824 F.2d 27, 30 (D.C. Cir. 1987). In the absence of
+clear Congressional guidance, the courts have attempted “[t]o discern ‘whether
+Congress would have wished the precious resources of the United States courts
+and law enforcement agencies to be devoted to’” such transnational securities
+transactions. Europe and Overseas Commodity Traders, S.A. v. Banque Paribas
+London, 147 F.3d 118, 125 (2d Cir. 1998). As courts have acknowledged, this
+inquiry has largely been guided by “policy considerations and the court’s best
+judgment.” Kauthar SDN BHD v. Sternberg, 149 F.3d 659, 664 (7th Cir. 1998).
+Two tests have emerged to determine the reach of the antifraud provisions:
+the effects test and the conduct test. See Alfadda v. Fenn, 935 F.2d 475, 478 (2d
+Cir. 1991); Itoba Ltd., 54 F.3d at 121-22. Satisfaction of either test alone, or an
+“admixture or combination of the two,” affords jurisdiction. Itoba Ltd., 54 F.3d at
+122. The effects test centers its inquiry on whether domestic investors or markets
+are affected as a result of actions occurring outside of the United States. Banque
+Paribas, 147 F.3d at 125. See also Psimenos v. E.F. Hutton & Co., 722 F.2d 1041,
+1045 (2d Cir. 1983). By contrast, the conduct test focuses “on the nature of [the]
+conduct within the United States as it relates to carrying out the alleged fraudulent
+scheme,” Psimenos, 722 F.2d at 1045, on the theory that “Congress would not
+want the United States to become a base for fraudulent activity harming foreign
+7
+
+investors.” Banque Paribas, 147 F.3d at 125. A related purpose underlying the
+conduct test is ensuring international reciprocity; by extending our securities laws
+to prohibit fraudulent conduct here that injures overseas investors, the United
+States can reasonably expect other countries’ laws to offer comparable protection
+to prevent fraudulent conduct overseas that is directed towards our investors. See
+IIT v. Vencap, Ltd., 519 F.2d 1001, 1017 (2d Cir. 1975). See also SEC v. Kasser,
+548 F.2d 109, 116 (3d Cir. 1977).
+3.
+
+Plaintiffs Rely Solely on the Conduct Test.
+
+The parties agree that this case only implicates the conduct test. “The
+chronic difficulty with [that test] has been describing, in sufficiently precise terms,
+the sort of conduct occurring in the United States that ought to be adequate to
+trigger American regulation of the transaction.” Kauthar, 149 F.3d at 665.
+“Indeed, the circuits that have confronted the matter have articulated a number of
+methodologies.” Id.
+The District of Columbia Circuit, for example, has advanced the most
+restrictive approach, requiring that the domestic conduct at issue must itself
+constitute a securities violation. Zoelsch v. Arthur Anderson & Co., 824 F.2d 27,
+31 (D.C. Cir. 1987) (“[J]urisdiction will lie in American courts where the domestic
+conduct comprises all the elements of a defendant’s conduct necessary to establish
+8
+
+[a violation of the antifraud provisions].”). The other courts of appeals that have
+considered the issue have, instead, required that the conduct in the United States
+needs to be a material to the overseas’ investors losses, but have not required that
+all the elements of the violation occur in the United States. 2 See, e.g., Kauthar,
+149 F.3d at 666 (7th Cir.) (domestic conduct must be “material” and “substantial”);
+Robinson v. TCI/US West Communications Inc., 117 F.3d 900, 905 & n.10 (5th
+Cir. 1997) (same); Grunenthal GmbH v. Hotz, 712 F.2d 421, 425 (9th Cir. 1983)
+(domestic conduct be “material” and “significant” to the furtherance of the
+scheme); Continental Grain (Australia) Pty. Ltd. v. Pacific Oilseeds, Inc., 592 F.2d
+409, 421 (8th Cir. 1979) (same); Psimenos v. E.F. Hutton & Co., Inc., 722 F.2d
+1041, 1045 (2d Cir. 1983) (domestic conduct must be “material” and
+“substantial”); SEC v. Kasser, 548 F.2d 109, 114, 115 (3d Cir. 1977) (“some
+activity” in the United States that is “essential to the plan to defraud”). 3
+2
+
+To the extent that any distinction can be discerned among the Circuits that
+require materiality, it has been asserted that the Third, Eighth, and Ninth Circuits
+require “some lesser quantum of conduct” than the Second, Fifth, and Seventh
+Circuits. Kauthar, 149 F.3d at 666. See also Psimenos, 722 F.2d at 1046 n.6.
+Recognizing that this Court is bound by prior precedent, in this brief we do not
+address the standards followed by other Courts of Appeals.
+3
+
+Notably, the District of Columbia Circuit in Zoelsch appeared to believe it
+was applying this Court’s test. Compare Zoelsch, 824 F.2d at 31 (“The Second
+Circuit’s rule seems to be that jurisdiction will lie in American courts where the
+(continued...)
+9
+
+As discussed below, the Second Circuit’s decisions have developed the law
+on a case-by-case basis without explicitly articulating the generally applicable
+standard. As a result, there has been uncertainty in the district courts. See, e.g., In
+re Alstom SA Sec. Litig., 406 F. Supp. 2d 346, 372-76 (S.D.N.Y. 2005). For that
+reason, the Commission recommends that this Court adopt the standard that we
+propose.
+B.
+
+This Litigation
+
+This is a class action on behalf of non-U.S. shareholders of National
+Australia Bank who purchased stock between April 1, 1999, and September 3,
+2001. 4 The complaint alleges that the defendants violated section 10(b) of the
+Exchange Act and Rule 10b-5. As explained below, the complaint alleges that the
+defendants made false and misleading statements overseas to the class members
+concerning the operations of a United States subsidiary, but that the fraudulent
+3
+
+(...continued)
+domestic conduct comprises all the elements of a defendant’s conduct necessary to
+establish a violation [of the antifraud provisons].”), with Kauthar, 149 F.3d at 665
+n.10 (“We share the reservations of the Fifth Circuit as to whether the District of
+Columbia Circuit accurately portrayed the Second Circuit’s jurisprudence.”).
+4
+
+As originally styled, this class action included United States residents who
+purchased ADR interests (see infra note 5) in defendant NAB during the class
+period. In the same order in which jurisdiction was held lacking as to the foreign
+class members’ claims, the district court dismissed the lead domestic plaintiff
+because he did not suffer a loss during the statutory look-back period.
+10
+
+scheme was hatched in the United States and the fraudulent data was generated
+here. The complaint further alleges that the false and misleading statements
+artificially inflated the prices of NAB’s securities trading overseas and eventually
+caused losses to the class members.
+1.
+
+The Allegations in the Complaint
+
+Defendant NAB is organized under the laws of Australia and is
+headquartered in Melbourne, Australia, and its ordinary shares (the Australian
+equivalent of common stock) trade on the Australian securities exchanges. A very
+limited number of NAB’s American Depository Receipts (representing less than
+1.1% of NAB’s ordinary shares) traded on the New York Stock Exchange, but
+none of the class members remaining in this suit are alleged to have purchased
+these instruments. 5
+At all relevant times, HomeSide Lending, Inc., located in Jacksonville,
+Florida, was a wholly-owned subsidiary of NAB. HomeSide was a mortgage
+service provider and its principal source of income was the fees that it generated
+
+5
+
+An ADR is a negotiable certificate issued by a United States depository
+bank that represents a specified number of shares of a foreign security that have
+been deposited with a foreign branch of the depository.
+11
+
+for servicing mortgages. 6 The present value of those fees was calculated using an
+internal valuation model, and was booked by NAB on its balance sheet as an asset
+called Mortgage Servicing Rights.
+The allegations of securities fraud in this suit stem from the calculation of
+HomeSide’s MSR. In order to calculate the present value of the MSR, HomeSide
+employed valuation models and software systems that sought to account for the
+various economic forces that impact prepayment rates by factoring in projected
+future interest rates and other projected future economic conditions. The
+complaint alleges that between 1998 and 2001, HomeSide, under the direction of
+its three principal executive officers (defendants Hugh Harris, Kevin Race, and W.
+Blake Wilson), had been deliberately overvaluing HomeSide’s MSR by modifying
+the various economic assumptions used to produce the MSR valuations,
+purportedly overestimating the present value of the MSR by hundreds of millions
+of dollars.
+The complaint further alleges that this overvaluation scheme was hatched by
+the HomeSide defendants in the United States and that the fraudulent
+overvaluations were also generated in the United States and then transmitted to
+6
+
+In addition to HomeSide, NAB owned other operations in the United States,
+including Michigan National Bank. NAB’s United States operations accounted
+for not more than 13% of its assets at all times relevant to this suit.
+12
+
+Australia for incorporation into NAB’s financials. Although not initially a
+knowing party to the fraud, the NAB defendants (i.e., NAB and its CEO, Frank
+Cicutto) are alleged to have learned in July 2000 that the HomeSide defendants
+were manipulating the MSR valuation model. Nonetheless, the NAB defendants
+proceeded to release this fraudulent information to investors in Australia through
+NAB’s annual reports, as well as in press releases that asserted HomeSide’s
+profitability and its contribution to NAB’s overall profitability. 7
+In July 2001, and then again in September 2001, NAB announced that it
+would book an approximately $2.1 billion writedown stemming from the
+overvaluation of HomeSide’s MSR. Following the September writedown, NAB’s
+ordinary shares fell by nearly 13% on the Australian market.
+2.
+
+The District Court’s Order Dismissing the Case
+
+On October 25, 2006, the district court dismissed the claims of the foreign
+plaintiffs, holding that the antifraud provisions of the securities laws do not reach
+
+7
+
+NAB also purportedly included the false information in filings with the
+Commission with respect to the ADRs. The parties agree that these filings do not
+form a part of the jurisdictional inquiry in this class action suit because none of the
+overseas class members relied on these filings. The HomeSide defendants are also
+alleged to have made several exaggerated statements in the United States, but here
+again, the parties appear to agree that these statements were not relied upon by the
+overseas class members, and thus these statements are not relevant to the
+jurisdictional inquiry.
+13
+
+the foreign plaintiffs’ claims. 8 The district court applied the conduct test to the
+allegations, comparing the conduct at issue here with the conduct at issue in two
+earlier Second Circuit decisions that reached opposite conclusions about
+jurisdiction: Bersch v. Drexel Firestone, Inc., 519 F.2d 974, 985 (2d Cir. 1975),
+which rejected jurisdiction, and SEC v. Berger, 322 F.3d 187, 193 (2d Cir. 2003),
+which upheld jurisdiction. The district court reasoned that, “[o]n balance, it is the
+foreign acts – not any domestic acts – that ‘directly caused’ the alleged harm
+here,” and thus held that jurisdiction is lacking with respect to the overseas class
+members’ claims.
+ANALYSIS
+I.
+
+The Second Circuit’s Case Law Relating to the Conduct Test Has
+Proven Difficult to Apply.
+A review of a number of this Court’s cases applying the conduct test reveals
+
+both the factors to which the court has looked, and the uncertainties of applying
+
+8
+
+It is assumed for purposes of resolving the subject matter jurisdiction issue
+that the complaint states a cause of action, but there is a dispute between the
+parties as to whether the conduct of the Florida subsidiary and the other American
+defendants amounts to only aiding and abetting the violation allegedly committed
+by the parent bank, in which case the subsidiary could be liable in an action
+brought by the Commission but not in one for damages brought by a private party.
+See Stoneridge Investment Partners, LLC v. Scientific-Atlanta, Inc., 128 S. Ct.
+761 (2008). We do not address that issue.
+14
+
+those factors to specific fact patterns. This Court itself has cautioned that “‘the
+presence or absence of any single factor which was considered significant in other
+cases dealing with the question of federal jurisdiction in transnational securities
+cases is not necessarily dispositive’ in future cases.” IIT v. Cornfeld, 619 F.2d
+909, 918 (2d Cir. 1980).
+Moreover, district courts in the Second Circuit have had difficultly
+understanding and applying the case law. Compare Froese v. Staff, 2003 WL
+21523979 (S.D.N.Y. July 7, 2003) with In re Gaming Lottery Secur. Litig., 58 F.
+Supp. 2d 62 (S.D.N.Y. 1999). One district court, after examining the case law
+beginning with Bersch, has asserted that this difficulty arises from an “apparent
+shift in emphasis from a test of strict causation to one of materiality of the
+domestic acts.” In re Alstom SA Sec. Litig., 406 F. Supp. 2d 346, 373 (S.D.N.Y.
+2005).
+A.
+•
+
+Overview of the Relevant Second Circuit Case Law.
+
+Bersch – jurisdiction should be exercised only when United States conduct
+
+“directly” causes investors’ losses, not when the conduct is merely preparatory or
+is relatively small in comparison to the conduct abroad. Bersch v. Drexel
+Firestone Inc., was a class action in which certain conduct in connection with
+offerings of securities of a foreign issuer took place in the United States, including
+15
+
+such activities as meetings of various participants in the offering, drafting of parts
+of offering documents, and retention of and consultation with accountants. 519
+F.2d 974, 985 n.24 (2d Cir. 1975) (Friendly, J.) (listing activities). 9 Nevertheless,
+the Court considered the transaction to be “predominantly foreign,” 519 F.2d at
+985, in that the issuer was foreign, all the offering documents were finalized
+overseas, and the offers and sales occurred there. 519 F.2d at 987. This Court
+concluded that a United States court should not exercise jurisdiction over claims
+brought by foreign plaintiffs when the underwriting related to a foreign issuer
+clearly identified with a foreign country and the fraud was committed overseas. If
+there was fraud, this Court explained, it “was committed by placing the allegedly
+false and misleading prospectus in the purchasers’ hands,” and the “final
+prospectus emanated from a foreign source.” Id. The Bersch Court saw no reason
+to extend United States jurisdiction to “cases where the United States activities are
+merely preparatory or take the form of culpable nonfeasance and are relatively
+small in comparison to those abroad.” Thus, the antifraud provisions of the
+
+9
+
+Prior to this case, Bersch has been the only transnational securities-fraud
+class action involving foreign class members that this Court (or any court of
+appeals) has considered. Although the Bersch Court set forth the additional policy
+considerations that might come into play in an transnational securities-fraud class
+action, the court did not purport to apply any form of heightened standard in
+deciding the case. See supra note 1.
+16
+
+securities laws do not apply “to losses from sales of securities to foreigners outside
+the United States unless acts (or culpable failures to act) within the United States
+directly caused such losses.” Id. at 993.
+•
+
+Vencap – Congress did not intend for the United States to be used as a base
+
+for manufacturing fraudulent devices. In IIT v. Vencap, Ltd., handed down the
+same day as Bersch, a Luxembourg investment trust brought suit alleging fraud,
+conversion and corporate waste by a Bahamian corporation and various individual
+defendants. 519 F.2d 1001 (2d Cir. 1975) (Friendly, J.). The course of dealings
+was complex, the precise nature of plaintiff’s allegations was unclear, and the
+district court’s findings so deficient that the case was remanded for further
+explanations, so this Court did not reach a definite holding on whether jurisdiction
+was permissible. But the Vencap Court did lay out the broad principles under
+which United States conduct injuring overseas investors could fall within the
+ambit of the antifraud provisions. The Court reasoned that Congress did not
+intend “to allow the United States to be used as a base for manufacturing
+fraudulent security devices for export, even when these are peddled only to
+foreigners,” observing that the United States would “surely look askance if one of
+our neighbors stood by silently and permitted misrepresented securities to be
+poured into the United States.” Id. at 1017. Echoing the holding in Bersch, the
+17
+
+Court cautioned that its ruling that jurisdiction might be found on the ground that
+the United States should not be used as a base for manufacturing fraud was
+“limited to the perpetration of fraudulent acts themselves and does not extend to
+mere preparatory activities or the failure to prevent fraudulent acts where the bulk
+of the activity was performed in foreign countries.” Id. at 1018.
+•
+
+Cornfeld – whether injury was “directly” caused by United States activity
+
+depends on how much (or how little) was done overseas. As relevant to our
+discussion here, IIT v. Cornfeld, involved debentures that were offered and sold
+almost entirely overseas. 619 F.2d 909 (2d Cir. 1980) (Friendly, J.). Defendants
+urged that jurisdiction was therefore wanting under Bersch because the conduct in
+the United States did not directly cause plaintiffs’ alleged injuries. This Court
+rejected that argument as taking the holding of Bersch out of context.
+Specifically, in contrast to the offering in Bersch, the overseas offering in
+Cornfeld was in essence an offering of securities of an American issuer that was
+closely coordinated with a United States offering of securities in the same issuer.
+As a result, the important efforts in making the offering – including the location of
+the underwriters, the drafting of the prospectuses, and all of the accounting work –
+occurred in the United States, and little of importance happened overseas. In other
+words, “[d]etermination whether American activities ‘directly’ caused losses to
+18
+
+foreigners depends not only on how much was done in the United States but also
+on how much (here how little) was done abroad.” Id. at 920-21.
+•
+
+Psimenos – losses are “directly” caused by United States conduct when
+
+defendant engages in substantial conduct that is material to the completion of the
+fraud here. Psimenos v. E.F. Hutton & Co., was a private action brought under
+the Commodity Exchange Act, but the court applied cases construing subject
+matter jurisdiction under the antifraud provisions of the securities laws. 722 F.2d
+1041, 1044 (2d Cir. 1983). Plaintiff was a Greek national who opened an account
+at defendant’s Athens office, and most of the fraudulent representations that gave
+rise to the cause of action were made there. However, plaintiff’s commodity
+transactions were executed on American markets. After reviewing its prior
+decisions, this Court concluded that defendant’s activities in the United States in
+furtherance of the fraudulent scheme were “material” and “substantial enough to
+establish subject matter jurisdiction.” 722 F.2d at 1046. And the court
+characterized Bersch as being concerned that the United States entertain suits by
+aliens “only where conduct material to the completion of the fraud occurred in the
+United States.” Id.
+•
+
+Berger – losses are directly caused by United States conduct when a
+
+fraudulent scheme is masterminded and implemented here. The defendant in SEC
+19
+
+v. Berger was a resident of New York who operated an investment company
+organized under the laws of the British Virgin Islands that was held almost
+entirely by foreigners. 322 F.2d 187 (2d Cir. 2003). As part of a scheme to hide
+fund losses, the defendant sent false account data to the fund administrator in
+Bermuda, who used that data to generate inaccurate account statements that were
+mailed to investors. Relying on Bersch, defendant claimed that his conduct in the
+United States was merely preparatory because the final steps of preparing the
+statements and delivering them to investors took place overseas. The court
+disagreed finding that material and substantial conduct occurred in the United
+States for jurisdiction to lie, because defendant “masterminded and implemented”
+the fraudulent scheme from the United States – “the fraudulent conduct was
+carried out entirely” by defendant in New York. The foreign conduct in the case
+– preparation and mailing of statements from Bermuda – “was not itself
+fraudulent” because the fund administrator was merely following defendant’s
+instructions, which provided a means for defendant “to distribute false information
+that he had already fraudulently concocted in the United States.”
+10
+
+10
+
+Additional Second Circuit cases involving the extraterritorial reach of the
+antifraud provisions include: Europe and Overseas Commodity Traders v. Banque
+Paribas London, 147 F.3d 118 (2d Cir. 1998); Itoba Ltd. v. LEP Group PLC, 54
+F.3d 118 (2d Cir. 1995); AVC Nederland B.V. v. Atrium Inv. Partnership, 740
+(continued...)
+20
+
+B.
+
+The Second Circuit’s Decisions Do Not Provide a Clear Answer to
+the Correct Resolution of the Jurisdictional Issue in this Case.
+
+This Court’s previous cases identify a number of potentially relevant
+questions, but they do not afford clear answers. For example, under these
+circumstances, should the domestic conduct be considered “merely preparatory,”
+given that more conduct that was integral to the fraud occurred in the United
+States than occurred in Bersch, and the conduct reached a greater degree of
+completion, but the scheme could not be completed until the information was
+incorporated into the issuer’s statements in Australia and distributed to investors
+there? Or should the conduct be considered sufficiently “substantial” and
+“material to the completion of the fraud” that it “directly” caused the injury? Was
+the overall scheme masterminded and implemented here or in Australia, given that
+it required the concurrence of wrongdoers in both places, and how should this
+issue be assessed under this Court’s existing case law?
+In addition to not pointing clearly to the answers to these questions, the
+existing Second Circuit case law may not provide an optimal decisional
+
+10
+
+(...continued)
+F.2d 148, 154 (2d Cir. 1984); Leasco Data Processing Equipment Corp. v.
+Maxwell, 468 F.2d 1326 (2d Cir. 1972) (Friendly, J.); Schoenbaum v. Firstbrook,
+405 F.2d 200, rev’d on the merits, 405 F.2d 215 (2d Cir. 1968) (Friendly, J.). See
+also North South Finance Corp. v. Al-Turk, 100 F.3d 1046 (2d Cir. 1996).
+21
+
+framework for addressing future cases because the existing decisions have been
+decided on a case-by-case basis, without prioritizing the factors or arranging them
+in a unified test. In other words, while this may be a close case under the Second
+Circuit case law, it perhaps appears a harder case than it has to be as a result of the
+way this Circuit’s law has developed. Therefore, the Commission believes that
+this Court should set forth an explicit test that both addresses the concerns
+reflected in the Circuit’s decisions and offers more uniformity of analysis and
+predictability of results.
+II.
+
+Adoption of the Commission’s Proposed Articulation of the Conduct
+Test Would Bring Needed Clarity and Would Shift the Inquiry from a
+Case-By-Case Analysis that Turns on “Very Fine Distinctions.”
+The Commission recommends adoption of the following formulation of the
+
+conduct test:
+The antifraud provisions of the securities laws apply to
+transnational frauds that result exclusively or principally
+in overseas losses if the conduct in the United States is
+material to the fraud’s success and forms a substantial
+component of the fraudulent scheme.
+The test we propose describes when an injury is considered to be sufficiently
+“directly” caused by United States conduct to support jurisdiction, reflecting the
+fact that in Berger this Court upheld jurisdiction even though the last event in
+
+22
+
+effectuating the fraudulent scheme did not occur in this country.
+Furthermore, the formulation we recommend builds on the existing
+approach of this Circuit, but brings it together in a unified standard that will
+provide greater guidance to lower courts in resolving future cases. In Psimenos,
+the Court stated that domestic conduct must be “material to the completion of the
+fraud,” 722 F.2d at 1046, and must have been “substantial acts in furtherance of
+the fraud,” id. at 1045. Likewise, in Berger, the Court stated that the domestic
+conduct must “materially relate[] to the fraud” and must constitute “substantial
+acts in furtherance of the fraud.” 322 F.3d at 193. See also Kauthar SDN BHD v.
+Sternberg, 149 F.3d 659, 667 (7th Cir. 1998) (expressly adopting the Second
+Circuit’s conduct test; stating: “antifraud provisions of the securities laws [apply]
+when the conduct occurring in the United States directly causes the plaintiff’s
+alleged loss in that the conduct forms a substantial part of the alleged fraud and is
+material to its success.” (emphasis added)).
+The materiality inquiry would ensure that the domestic conduct was an
+integral – not incidental or ancillary – link in the chain of events in the
+transnational fraud leading to the overseas investors’ losses. 11 Cf. Psimenos, 722
+11
+
+The use of the term “materiality” for the jurisdictional inquiry under the
+conduct test should not be confused with the different concept of “materiality” as
+(continued...)
+23
+
+F.2d at 1046 (“conduct material to the completion of the fraud” is more than “mere
+preparatory activities, and conduct far removed from the consummation of the
+fraud”). If the domestic conduct is deemed material, then the analysis would turn
+to whether, under the totality of the circumstances, the domestic conduct was
+substantial in relation to the entire fraud. The substantiality showing would
+generally be satisfied by demonstrating that a sufficient quantum of conduct
+occurred in the United States to reasonably warrant application of the antifraud
+provisions in light of the competing policy concerns identified by this Circuit. Cf.
+Bersch, 519 F.2d at 987 (domestic conduct “relatively small in comparison to
+[conduct] abroad”). However, even limited conduct in the United States would
+satisfy the substantiality showing where the particular domestic conduct was
+highly significant to the fraud, such as, for example, where the conduct in question
+involves communicating the misrepresentations to foreign investors in or from the
+United States, cf., Gruenthal v. Hotz, 712 F.2d 421 (9th Cir. 1983), masterminding
+the scheme here, or using the United States as a base to consummate schemes
+concocted abroad, cf. Psimenos, 722 F.2d at 1047.
+We believe this standard is consistent with the Court’s prior cases. Those
+11
+
+(...continued)
+an element of a fraud violation. See Basic Inc. v. Levinson, 485 U.S. 224, 231-32
+(1988).
+24
+
+cases have indicated the result of the test’s application to certain fact patterns, so it
+will not be necessary to apply the standard anew when those patterns recur. For
+instance, it is clear that jurisdiction exists when misrepresentations are made in
+this country. See Bersch, 519 F.2d at 986-87 (contrasting the facts of that case
+with the paradigmatic example of a gun fired from one country into another).
+Jurisdiction is appropriate when the mastermind of a fraudulent scheme is
+operating from the United States. See Berger, 322 F.3d at 195. And jurisdiction
+lies when the transaction that consummates the fraud occurs on United States
+markets. See Psimenos, 722 F.2d at 1046.
+In our view, the standard appropriately accommodates the policy concerns
+that underlie this Circuit’s case law. This proposed standard would enable the
+courts to address situations in which the United States is being used as a base for
+fraudulent international securities schemes, while at the same time, it would allow
+our courts to avoid “adjudicating disputes which have little in the way of a
+significant connection to the United States.” Kauthar, 149 F.3d at 667.
+Moreover, adoption of this standard would help address at least two key
+uncertainties that appear to surround the district courts’ application of the Second
+Circuit’s existing case law. First, the proposed standard makes clear that the
+“direct cause” of the foreign investors’ loss includes more than simply last action
+25
+
+in the fraudulent chain (contrary to the defendants’ argument). 12 Thus, for
+example, jurisdiction may lie in cases where the fraudulent statements are mailed
+from outside the United States, assuming that the domestic conduct was otherwise
+material to the fraud’s success and a substantial part (either in a qualitative or
+quantitative sense) of the overall securities fraud.
+Second, the Commission’s proposed articulation reduces the uncertainty
+about determining whether conduct is “merely preparatory,” a standard which
+seems to call for relatively fine distinctions about what constitutes preparatory
+while offering little guidance as to how those distinctions should be made.
+Instead, the proposed standard makes the inquiry more general by focusing on
+whether a material and substantial portion of the fraud occurred in the United
+States. In this way, it affords needed flexibility for courts to address the
+“numerous combinations and permutations of, for example, the parties and the
+types, places, timing and effects of relevant conduct that typically bear upon a
+determination of whether an American court may properly exercise jurisdiction to
+consider the merits of what are essentially foreign disputes.” In re Alstom SA Sec.
+12
+
+We have attempted in our proposed formulation to build on the language of
+the existing Circuit case law, but we note that continued use of the term “directly”
+in articulating the conduct standard as it is presently applied in this Circuit may
+introduce unnecessary confusion into the analysis by suggesting a last-action
+requirement.
+26
+
+Litig., 406 F. Supp. 2d at 371.
+To be sure, this standard will not provide absolute clarity, and indeed no
+standard likely would short of the District of Columbia Circuit’s requirement that
+the antifraud provisions only apply where all of the elements of the securities
+fraud violation occurred in the United States. See supra pages 8-9. In our view,
+however, the approach of the District of Columbia Circuit would simply allow too
+much transnational fraudulent conduct to escape the reach of the antifraud
+provisions, thereby possibly permitting the United States to serve as a base for the
+exportation of securities fraud schemes. By making clear that the proper focus is
+whether a material and substantial portion of the fraudulent conduct occurred here,
+the Commission’s proposed standard would help move the focus away from
+drawing the “very fine distinctions” that district courts are currently left to make
+under existing Second Circuit case law and would provide a clearer test for
+addressing the transnational issue.
+The defendants and amici argue that the antifraud provisions should be
+construed to have limited transnational application in order to preserve
+international comity. In making their comity argument, defendants and amici rely
+heavily on a recent Supreme Court decision delineating the transnational
+application of the antitrust laws. F. Hoffmann-La Roche Ltd. v. Empagran S.A.,
+27
+
+542 U.S. 155, 164 (2004). The Commission believes that application of that case
+in this context is not appropriate because the comity concerns raised by the
+application of United States antitrust laws overseas are generally more serious
+than those raised by application of the securities antifraud provisions. See
+RESTATEMENT (THIRD) OF FOREIGN RELATIONS LAW § 416, Note 3 (1987) (“In
+contrast to regulation under the antitrust laws, which not infrequently involved
+prohibition of conduct which another state favored or required, ... United States
+securities regulation ... has not resulted in state-to-state conflict.”). This is
+particularly so in the context of prohibiting securities fraud where the potential for
+conflict is less, as opposed to administrative or other regulatory requirements. 13
+The Commission also believes that the proposed standard sufficiently
+addresses the amici’s concern that an over-extension of the United States
+securities laws to foreign corporations whose shares trade overseas may
+discourage their investment in the United States. This concern must be balanced
+against the principle that the United States should not be used as a base for
+engaging in fraudulent conduct that may injure foreign investors. The
+13
+
+Both this Circuit and the Restatement (Third) of Foreign Relations Law
+recognize that the antifraud provisions of the securities laws should be applied
+broadly to transnational conduct. See Europe and Overseas Commodity Traders,
+S.A. v. Banque Paribas London, 147 F.3d 118, 125 (2d Cir. 1998); RESTATEMENT
+(THIRD) OF FOREIGN RELATIONS LAW § 416, cmt. A (1987).
+28
+
+Commission believes that the standard proposed here strikes this balance
+appropriately by affording jurisdiction only where the conduct in the United States
+constitutes a substantial portion of the fraud that is material to the success of the
+scheme.
+Finally, the amici’s concerns are largely with the potential economic effects
+of class actions, 14 not with Commission enforcement actions or named foreign
+plaintiffs’ suits. As a result, to the extent that the Court is persuaded by the amici,
+it would be more appropriate to address those issues by developing a heightened
+jurisdictional standard for class actions, see supra note 1. To be sure, Commission
+enforcement actions might be thought to pose a threat of similar magnitude to
+foreign companies through possible disgorgement awards and civil penalties, but
+any actual threat to comity that materializes could be accommodated by the
+Commission as it decides whether to issue a formal order of private investigation,
+see Securities Exchange Act § 21(a)(1), 15 U.S.C. § 78u(a)(1), initiate litigation,
+or accept a settlement.
+
+14
+
+Some of the literature refers to these suits as “F-Cubed” class actions. See,
+e.g., JOHN C. COFFEE, JR., Foreign Issuers Fear Global Class Actions, THE
+NATIONAL LAW JOURNAL (June 14, 2007).
+29
+
+III.
+
+Under the Commission’s Proposed Articulation of the Conduct Test,
+the Antifraud Provisions Would Apply Here.
+The Commission believes that the defendants’ domestic conduct was both
+
+material to the scheme’s success and a substantial part of the alleged fraud.
+Based on the allegations in the complaint, the Commission believes that the
+defendants’ conduct in the United States was material to the successful completion
+of the fraud. The information that made the statements in Australia false was
+generated in the United States with the expectation that it would be distributed to
+foreign investors. Without this domestic misconduct, there would have been no
+fraudulent release of information in Australia nor a resulting inflation of NAB’s
+stock. Thus, the domestic conduct was an integral link in the chain of events
+leading to the overseas investors’ losses.
+Likewise, the HomeSide defendants are alleged to have conceived the
+scheme in Florida. See, e.g., Vencap,519 F.2d at 1017-18 (allegations suggested
+scheme conceived in New York); Berger, 322 F.3d at 194-94 (evidence
+demonstrated scheme conceived in New York). The HomeSide defendants then
+took numerous significant steps in the United States to perpetrate that scheme by
+manipulating the assumptions in HomeSide’s MSR valuation modes, generating
+the fraudulent valuations using those models, and then transmitting the fraudulent
+
+30
+
+valuations to NAB’s headquarters in Australia with the knowledge that this
+information would be incorporated in the parent’s financials. In our view, this
+domestic conduct was a substantial part of this transnational fraud. 15
+
+15
+
+As previously stated, see supra notes 4, 5 & 7, defendant NAB made filings
+with the Commission containing the allegedly fraudulent information and the
+company’s ADRs traded on an American exchange. This conduct in the United
+States alone would have afforded the Commission jurisdiction to bring an
+enforcement action. In this brief, however, we assume the only relevant conduct is
+that alleged by the plaintiffs as a basis for jurisdiction over the foreign class
+members’ claims.
+31
+
+CONCLUSION
+In the Commission’s view, at least in the context of Commission
+enforcement actions and suits by named foreign plaintiffs, the antifraud provisions
+of the securities laws apply to transnational securities frauds that principally or
+exclusively result in losses to overseas investors so long as the domestic conduct
+was both material to the scheme’s success and a substantial part of the alleged
+fraud. Furthermore, the Commission believes that the allegations in this case
+satisfy this proposed standard.
+Respectfully submitted,
+ANDREW N. VOLLMER
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+MARK PENNINGTON
+Assistant General Counsel
+____________________
+WILLIAM K. SHIREY
+Senior Counsel
+Securities and Exchange Commission
+100 F St., N.E.
+Washington, D.C. 20549-8010
+(202) 551-5043 (Shirey)
+September 17, 2008
+32
+
+CERTIFICATE OF COMPLIANCE
+1.
+
+This brief complies with the type-volume limitation of Fed. R.
+
+Approximately P. 32(a)(7)(B), because: this brief contains 7,000 words, excluding
+the parts of the brief exempted by Fed. R. App. P. 32(a)(7)(B)(iii).
+2.
+
+This brief complies with the typeface requirements of Fed. R.
+
+Approximately P. 32(a)(5) and the type-style requirements of Fed. R.
+Approximately P. 32(a)(6) because: this brief has been prepared in proportionally
+spaced typeface using WordPerfect 11 in 14 point Times New Roman type.
+
+_________________
+William K. Shirey
+
+CERTIFICATE OF SERVICE
+I hereby certify that on this 17th day of September, 2008, I caused
+ten copies of the BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION AS AMICUS CURIAE, IN RESPONSE TO THE COURT’S
+REQUEST, to be served, via Federal Express overnight delivery, on the Clerk for
+the United States Court of Appeals for the Second Circuit. Pursuant to agreement
+with the various counsel, I caused an electronic pdf of the brief to be transmitted
+to the following email addresses:
+JAMES JOHNSON: Jjohnson@labaton.com
+LABATON SUCHAROW & & RUDOFF LLP
+(representing Plaintiffs)
+GEORGE CONWAY: GTConway@WLRK.com
+WACHTELL, LIPTON, ROSEN & KATZ
+(representing Defendants National Australia Bank and Frank Cicutto)
+ALI M. STOEPPELWERTH: Ali.Stoeppelwerth@WilmerHale.com
+WILMER CUTLER PICERKING HALE AND DORR LLP
+(representing amicus curiae Washington Legal Foundation)
+GIOVANNI PREZIOSO: Gprezioso@cgsh.com
+CLEARY GOTTLIEB STEEN & HAMILTON LLP
+(representing amici curiae The Securities Industry and Financial Markets
+Association, The Chamber of Commerce of the United States, The United
+States Council for International Business, and The Association Française
+Des Enterprises Privées)
+RICHARD A. OLDERMAN: Rolderman@wc.com
+WILLIAMS & CONNOLLY LLP
+(representing amicus curiae The Association of Corporate Counsel)
+
+_____________________
+William K. Shirey
+
+

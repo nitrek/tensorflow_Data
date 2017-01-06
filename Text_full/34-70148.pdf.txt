@@ -1,0 +1,399 @@
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 70148 / August 8, 2013
+Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934:
+Eurex Deutschland
+I.
+
+Introduction
+
+The United States Securities and Exchange Commission (“Commission”) deems it
+appropriate and in the public interest to issue this Report of Investigation (“Report”) pursuant to
+Section 21(a) of the Securities Exchange Act 1 (“Exchange Act”) to highlight the risks that
+exchanges and investment professionals undertake when they operate without the appropriate
+compliance measures in place to monitor the composition of indices on which financial
+instruments are offered to ensure that they are in compliance with the federal securities laws.
+Exchanges and investment professionals should take the appropriate steps to verify that they are
+in compliance with the federal securities laws, which could include establishing policies and
+procedures to appropriately monitor the composition of indices on which futures are based to
+determine if they are offering security futures products. This Report also serves to highlight
+analogous situations involving swaps, and reminds investment professionals who engage in swap
+transactions of their responsibility to ascertain the characteristics of such swaps to ensure that,
+for those that are securities, the investment professional is appropriately offering the securities to
+persons in the United States, and otherwise complying with all applicable federal securities law
+requirements.
+Eurex, a foreign derivatives exchange headquartered in Frankfurt, Germany, self-reported
+to the Commission and Commodity Futures Trading Commission (“CFTC”) staff that it had been
+offering and selling contracts to persons in the U.S. on a non-narrow based index that had shifted
+to security futures on a narrow-based security index for approximately 18 months without
+complying with the applicable registration requirements prescribed by the federal securities
+laws. 2 The Division of Enforcement has investigated whether Eurex violated the federal
+securities laws by effecting transactions in the U.S. in security futures contracts that were not
+listed on a national securities exchange or a national securities association, and whether Eurex
+improperly offered and sold the security futures contracts while there was no registration
+
+1
+
+Section 21(a) of the Exchange Act authorizes the Commission to investigate violations of the federal securities
+laws and, in its discretion, to “publish information concerning any such violations.” Eurex Deutschland (“Eurex”)
+has consented to the issuance of this Report without admitting or denying any of the statements or conclusions
+herein. This Report does not constitute an adjudication of any fact or issue addressed herein. In addition, the
+statements and conclusions in this Report do not represent determinations by the Commission with respect to any
+persons or entities other than Eurex.
+
+2
+
+Eurex self-reported the conduct to the Commission and CFTC staff on October 21, 2011 after discovering the
+issue.
+
+statement in effect or where there was no available exemption from registration under the
+Securities Act of 1933 (“Securities Act”). 3
+II.
+
+Facts
+A.
+
+Structure and Organization of Eurex Deutschland
+
+Eurex is a derivatives exchange located in Frankfurt, Germany, which lists futures
+contracts and options on futures based on interest rates, volatility indexes, broad-based security
+indexes, inflation rates, and commodities. Eurex is operated by Eurex Frankfurt AG and clears
+its transactions through Eurex Clearing AG, a wholly-owned subsidiary of Eurex Frankfurt AG.
+Eurex is regulated and subject to market surveillance by German regulatory agencies, including
+the Exchange Supervisory Authority in the State of Hesse, where Eurex is located, and by the
+German Federal Financial Supervisory Agency (Bundesanstalt für Finanzdienstleistungsaufsicht)
+(the “BaFin”).
+Eurex operates through an all-electronic trading platform, with members connected to
+Eurex via a dedicated communications network from hundreds of locations worldwide. Firms
+located in the United States who are members of Eurex have been able to access Eurex’s trading
+platform directly from trading terminals in the United States since 1996 with respect to futures
+and options on futures contracts under conditions set forth by the CFTC.
+Eurex membership is offered to financial institutions, financial services institutions and
+credit institutions across the world, provided certain conditions are met. Eurex does not offer
+membership to individuals. Persons in the United States may obtain direct market access to
+Eurex through a U.S. financial institution 4 that is a Eurex member, with respect to futures and
+options on futures contracts under conditions set forth by the CFTC. Persons in the United
+States also may send orders to Eurex through international Eurex members who are futures
+commission merchants (“FCMs”) or exempt from FCM registration. 5
+B.
+
+The EURO STOXX Banks Index
+
+Eurex initially offered futures on the EURO STOXX Banks Index (“Index”) for trading
+on March 19, 2001. On April 2, 2002, the staff of the CFTC issued a no-action letter in
+connection with Eurex’s request to offer and sell futures on the Index in the U.S. from Eurex
+3
+
+The Commission notes that, although the registration issues highlighted in this Report relate to Eurex, a foreign
+exchange, similar issues could arise if a U.S. futures exchange were to offer or sell security futures on a broad-based
+index that shifted to a narrow-based index.
+4
+
+To the extent a financial institution effected transactions in the United States through Eurex in futures on the
+EURO STOXX Banks Index once the futures on the Index became a security futures product, the financial
+institution would have needed to ensure that it was registered with the Commission as a broker-dealer or otherwise
+could rely on a specific exclusion or exemption from registration.
+5
+
+A futures commission merchant is an individual who, or organization that, solicits or accepts orders to buy or sell
+futures contracts or options on futures contracts and accepts money or other assets from customers in connection
+with such orders. An FCM must be registered with the CFTC.
+
+terminals located in the United States, 6 based in part on the fact that Eurex represented that the
+Index was a broad-based security index. 7
+According to Eurex, as of October 10, 2001, the Index consisted of stocks from 44 issuers
+in ten European countries, including Italy, Greece, Spain, Germany, Belgium, France, Ireland,
+Portugal, Austria, and the Netherlands. Eurex represented to the CFTC staff in its request for noaction relief that, as of October 10, 2001, no single stock in the Index represented more than
+10.7% of the Index, and the five most heavily weighted stocks in the Index represented 48.3% of
+the Index. The CFTC staff concluded that the Index complied with the relevant sections of the
+CEA, including that it was a broad-based security index, and determined that it would not
+recommend an enforcement action if futures contracts based on the Index were offered or sold in
+the United States. 8 As a future on a broad-based security index, the future was subject to the
+exclusive jurisdiction of the CFTC. According to Eurex, from at least April 2, 2002 through
+October 21, 2011, Eurex offered and sold security futures on the Index in the U.S. through direct
+market access and other methods.
+C.
+
+Discovery of the Conduct Leading to the Self-Report
+
+In September 2011, the CFTC adopted new procedures requiring markets with existing
+CFTC no-action letters to certify that they remained in compliance with the guidance set forth in
+those no-action letters. In connection with CFTC’s new procedures, Eurex conducted a review
+of the Index and discovered that the Index no longer qualified as a broad-based security index.
+In fact, Eurex discovered that the Index had not been a broad-based security index for
+approximately eighteen months.
+Eurex’s review revealed that the Index first assumed a characteristic that would, but for
+the statutory tolerance and grace periods, render it a narrow-based security index in January
+2010, because the five highest weighted component securities in the Index exceeded 60% of the
+Index’s weighting. Following a three month grace period, the Index transitioned from a broadbased to a narrow-based security index, and futures on the Index became subject to joint CFTC
+and Commission jurisdiction. Further, futures on the Index became subject to registration and
+regulatory requirements under the federal securities laws with which Eurex did not comply. 9
+6
+
+CFTC Staff Letter No. 02-38 (April 2, 2002).
+
+7
+
+Section 1a(35) of the Commodity Exchange Act (“CEA”) and Section 3(a)(55)(B) of the Exchange Act.
+
+8
+
+CFTC Staff Letter No. 02-38 (April 2, 2002).
+
+9
+
+In this regard, the Commission notes that Congress provided in the definition of the term “narrow-based security
+index” in both the CEA and the Exchange Act for a tolerance period ensuring that, under certain conditions, a
+futures contract on a security index traded on a designated contract market (“DCM”) may continue to trade, even
+when the index temporarily assumes characteristics that would render it a narrow-based security index under the
+statutory definition. See CEA section 1a(35)(B)(iii), 7 U.S.C. 1a(35)(B)(iii); section 3(a)(55)(C)(iii) of the
+Exchange Act, 15 U.S.C. 78c(a)(55)(C)(iii). In general, an index is subject to this tolerance period, and therefore is
+not a narrow-based security index, if: (i) a futures contract on the index traded on a DCM for at least 30 days as a
+futures contract on a broad-based security index before the index assumed the characteristics of a narrow-based
+security index; and (ii) the index does not retain the characteristics of a narrow-based security index for more than
+45 business days over 3 consecutive calendar months. Pursuant to these statutory provisions, if the index becomes
+
+From on or about April 2010 through October 2011, after the Index transitioned to a
+narrow-based security index, Eurex sold 6 million future contracts worldwide on the Index
+through approximately 79 foreign-based intermediaries and direct market access trading
+terminals in the United States. During the same period of time, other orders were facilitated
+through omnibus customer accounts carried by foreign-based intermediaries on behalf of persons
+in the U.S. Eurex allowed persons to directly access its market using means or instrumentalities
+of interstate commerce to effect transactions in security futures through trading terminals located
+in the U.S. This practice resulted in the sale of approximately 120,000 security futures to
+persons in the U.S.
+Based on its investigation, the staff has determined that Eurex did not comply with the
+federal securities laws by effecting transactions in the U.S. in security futures: (1) that were not
+listed on a national securities exchange or national securities association; 10 and (2) without
+registering as a national securities exchange. 11 In addition, Eurex offered and sold security
+futures in the U.S without registering the transactions and without having a valid exemption from
+registration for the transactions as required by Section 5 of the Securities Act. 12
+However, due, in part, to its substantial cooperation and remedial efforts, the Commission
+is not bringing an enforcement action against Eurex. Eurex self-reported the findings of its
+review to the Commission and CFTC staff on October 21, 2011, and has been in continuous and
+close contact with the staff, providing updates and documents on a voluntary basis to the staff.
+Eurex also obtained additional information from its customers and has been cooperative in
+providing documents and information to the BaFin for production to the staff.
+III.
+
+The Relevant Provisions of the Federal Securities Laws
+
+We wish to highlight the relevant provisions of the Exchange Act and Securities Act that
+were at issue in this investigation. Enforcement actions infrequently involve the application of
+the Securities Act and Exchange Act to derivative contracts and other less-traditional financial
+instruments, and an expanded discussion of the relevant provisions in this investigation may
+assist exchanges and investment professionals in determining whether they are appropriately
+offering securities to persons in the United States.
+A. Section 6(h)(1) of the Exchange Act
+
+narrow-based for more than 45 business days over 3 consecutive calendar months, the index is excluded from the
+definition of the term “narrow-based security index” for the following 3 calendar months as a grace period.
+10
+
+Section 6(h)(1) of the Exchange Act states that “it shall be unlawful for any person to effect transactions in
+security futures products that are not listed on a national securities exchange or a national securities association
+registered pursuant to section 15A(a).”
+
+11
+
+Section 5 of the Exchange Act.
+
+12
+
+Section 5 of the Securities Act.
+
+Section 6(h)(1) of the Exchange Act prohibits any person from effecting any transaction
+in security futures products that are not listed on a national securities exchange registered
+pursuant to Section 6 of the Exchange Act or a national securities association registered pursuant
+to Section 15A of the Exchange Act. It is important that a security futures product be traded on a
+national securities exchange pursuant to Section 6(h) of the Exchange Act to ensure that the
+product meets a national securities exchange’s listing standards and that the trading of the
+product is subject to both such exchange’s and the Commission’s oversight. Section 3(a)(55)(A)
+of the Exchange Act defines a security future to mean a contract of sale for future delivery of a
+single security or of a narrow-based security index, including any interest therein or based on the
+value thereof, except an exempted security under Section 3(a)(12).
+More specifically, Section 3(a)(55)(B) provides that a “narrow-based security index” is
+an index:
+i. that has 9 or fewer component securities;
+ii. in which a component security comprises no more than 30 percent of the index’s
+weighting;
+iii. in which the five highest weighted component securities in the aggregate
+comprise more than 60 percent of the index’s weighting; or
+iv. in which the lowest weighted component securities comprising, in the aggregate,
+25 percent of the index’s weighting have an aggregate dollar value of average
+daily trading volume of less than $50 million (or in the case of an index with 15
+or more component securities, $30 million), except that if there are two or more
+securities with equal weighting that could be included in the calculation of the
+lowest weighted component securities comprising, in the aggregate, 25 percent
+of the index’s weighting, such securities shall be ranked from lowest to highest
+dollar value of average daily trading volume and shall be included in the
+calculation based on their ranking starting with the lowest ranked security.
+Based on the information obtained during the investigation, the staff has determined that
+Eurex did not comply with Section 6(h)(1) of the Exchange Act when Eurex effected
+transactions in the U.S. in security futures products that were not listed on a national securities
+exchange or a national securities association. According to Eurex, as of June 2009, the five
+highest weighted component securities in the Index, in the aggregate, comprised more than 60
+percent of the Index’s weighting. By April 2010, after the expiration of the applicable tolerance
+period and grace period, the Index transitioned to a narrow-based security index and futures on
+
+the Index became security futures, 13 subject to registration and regulatory requirements with
+which Eurex did not comply. 14
+B. Section 5 of the Exchange Act
+Section 5 of the Exchange Act makes it unlawful for any broker, dealer, or exchange to
+effect any transaction in a security, or to report any such transaction, unless such exchange is
+registered as a national securities exchange under Section 6 of the Exchange Act or is exempted
+from such registration. Section 3(a)(1) of the Exchange Act defines an “exchange” to mean “any
+organization, association, or group of persons...which constitutes, maintains, or provides a
+market place or facilities for bringing together purchasers and sellers of securities....” The
+Commission has stated that “an exchange or contract market would be required to register under
+Section 5 of the Exchange Act if it provides direct electronic access to persons located in the
+U.S.” 15 An entity’s registration as a national securities exchange pursuant to the requirements of
+Section 5 of the Exchange Act is important because a national securities exchange acts as a selfregulatory organization responsible for overseeing trading on its market and its members’
+compliance with applicable statutory and regulatory provisions. Further, as a national securities
+exchange, it is subject to Commission oversight of, among others, its rules, disciplinary actions,
+and books and records.
+Eurex regularly and consistently offered and sold security futures on the Index in the U.S.
+through direct market access. Eurex should have registered as a national securities exchange
+with, or been exempted from such registration by, the Commission before providing direct
+market access to effect transactions in security futures products on the Index to persons in the
+U.S. Accordingly, Eurex did not comply with Section 5 of the Exchange Act.
+C. Section 5 of the Securities Act
+Section 5(a) of the Securities Act provides that, unless a registration statement is in effect
+as to a security, it is unlawful for any person, directly or indirectly, to engage in the unregistered
+offer or sale of securities in interstate commerce. Section 5(c) of the Securities Act provides a
+similar prohibition against offers to sell, or offers to buy, unless a registration statement has been
+
+13
+
+As noted in footnote 9 above, the CEA and the Exchange Act provide for a grace period within which a futures
+contract on a broad-based security index may continue to trade, even when the index temporarily assumes
+characteristics that would render it a narrow-based security index under the statutory definition. See CEA section
+1a(35)(B)(iii), 7 U.S.C. 1a(35)(B)(iii); section 3(a)(55)(C)(iii) of the Exchange Act, 15 U.S.C. 78c(a)(55)(C)(iii). In
+this instance, the Index assumed the characteristics of a narrow-based security index in June 2009, and later
+transitioned to a narrow-based security index after the expiration of the applicable grace period. See id.
+14
+
+Persons effecting transactions in security futures for persons or accounts in the U.S. are required to register with
+the Commission as a broker-dealer pursuant to the process set forth under Section 15(b) of the Exchange Act. To
+the extent Eurex or any other person facilitated or effected transactions in security futures for persons or accounts in
+the U.S., unless an exemption or exclusion were applicable, registration as a broker-dealer would have been
+required.
+15
+
+Securities Exchange Act Release No. 60194 (June 30, 2009), 74 FR 32200 (July 7, 2009).
+
+filed. Thus, both Sections 5(a) and 5(c) of the Securities Act prohibit the unregistered offer or
+sale of securities in interstate commerce, unless the offerings are exempt.
+The Securities Act includes a statutory exemption in Section 3(a)(14) from all provisions
+of the Securities Act, other than Section 17(a) anti-fraud provisions, for security futures that are
+cleared by a U.S.-registered or exempt clearing agency and traded on a national securities
+exchange. 16 The statutory exemption for security futures was not available for the particular
+security futures involved because the conditions of the exemption were not met – the security
+futures were not traded on a national securities exchange and cleared by a U.S.-registered or
+exempt clearing agency. As a result, Eurex was required to comply with Section 5 of the
+Securities Act with respect to the offer and sale of the security futures. Based on the information
+obtained by the staff, Eurex did not comply with Section 5 of the Securities Act. The contracts
+on the Index were securities from the time the Index transitioned from a broad-based index to a
+narrow-based index. Eurex offered and sold the securities to customers through means of
+interstate commerce without registration or a valid exemption from registration.
+Because Eurex was not able to rely on the statutory exemption for security futures and
+did not register the security futures at issue under the Securities Act, certain disclosures under the
+Securities Act were not available to investors. For example, if Eurex had registered the security
+futures at issue under the Securities Act, it would have filed a registration statement with the
+Commission covering the offer and sale of the security futures that would disclose to investors
+information about the security futures and about the clearing agency that is the issuer of the
+security futures. Moreover, investors would have been entitled to the protections of Section 11
+and Section 12(a)(2) of the Securities Act with respect to the disclosures contained in the
+registration statement and other offering materials.
+IV.
+
+Discussion
+
+The Commission is issuing this Report, and foregoing an enforcement action against
+Eurex, in part, because of its substantial and timely cooperation and prompt remediation efforts.
+On October 21, 2011, Eurex self-reported to the Commission and CFTC staff that it had been
+offering and selling contracts in the U.S. on a non-narrow based index that had shifted to security
+futures on a narrow-based security index for approximately 18 months without complying with
+the applicable registration requirements prescribed by the federal securities laws. Immediately
+on discovering the issue, Eurex ceased offering and selling the security futures on the Index in
+the United States and sent a notice informing Eurex members of the change in status of the
+futures on the Index.
+Up until the discovery that the Index had become a narrow-based security index, Eurex
+had no policies and procedures in place to monitor compliance of the futures on its indices with
+the conditions of the CFTC no-action letter or the requirements of the federal securities laws
+applicable to security futures. Eurex has since implemented comprehensive policies and
+procedures that now require monthly, and in some instances daily, compliance monitoring of
+indices on which it offers futures contracts in the U.S. Specifically, if through monthly
+16
+
+Section 3(a)(14) of the Securities Act.
+
+monitoring Eurex staff determines that the Index is on the verge of becoming a narrow-based
+security index, the procedures require that Eurex staff will commence monitoring on a daily
+basis. 17
+In issuing this Report, we observe that Eurex’s failure to comply with the federal
+securities laws could have been prevented if Eurex had adequate internal controls to ensure
+compliance with the provisions of the federal securities laws governing security futures. Up
+until its discovery that the Index had become a narrow-based index, Eurex did not regularly
+monitor the composition of the Index or otherwise verify that the Index was not a narrow-based
+security index while it was offering and selling security futures contracts in the U.S. for
+approximately eighteen months. Exchanges and investment professionals should take the
+appropriate steps to verify that they are in compliance with the federal securities laws, which
+could include establishing policies and procedures to appropriately monitor the composition of
+indices on which futures are based to determine if they are offering security futures products.
+In addition, we note that Title VII of the Dodd-Frank Wall Street Reform and Consumer
+Protection Act gives the Commission jurisdiction over security-based swaps by including them
+in the definition of security under the Securities Act and the Exchange Act and the CFTC
+jurisdiction over swaps (collectively, “Title VII Instruments”). The test for whether an
+agreement, contract, or transaction is a swap or a security-based swap also uses the definition of
+narrow-based security index in Section 1a(35) of the CEA and Section 3(a)(55)(B) of the
+Exchange Act. 18 However, while futures (including security futures) sold in the United States
+are listed on exchanges where the exchange’s requirements often require a review of whether the
+future is on a single-stock security, narrow-based security index, or broad-based security index,
+such is not the case with bilaterally negotiated swaps and security-based swaps that are entered
+into solely with eligible contract participants (“ECPs”). Unlike futures, swaps and securitybased swaps may be sold over-the-counter solely with ECPs, where the characteristics must be
+vetted by the counterparties to the transaction based on the statutory and rule-based definitions of
+narrow-based security index. 19
+As such, anyone entering into Title VII Instruments based on an index should carefully
+consider the characteristics of the instrument to determine whether it is a security-based swap.
+The investment professional will need to make this determination before offering to enter into
+17
+
+Eurex’s newly-implemented policy for monitoring an index’s status states monitoring shall switch from a
+“monthly” to a “daily” basis if any index: (1) has 10 component securities; (2) has a component security that
+comprises more than 25% of the index’s weighting; (3) has five highest weighted component securities that in the
+aggregate comprise more than 55% of the index’s weighting; or (4) has the lowest weighted component securities
+comprising, in the aggregate, 25% of the index’s weighting that has an aggregate dollar value of average daily
+trading volume of less than $55,000,000 (or in the case of an index with 15 or more component securities,
+$35,000,000).
+
+18
+
+See Further Definition of “Swap,” “Security-Based Swap,” and “Security-Based Swap Agreement;” Mixed
+Swaps; Security-Based Swap Agreement Recordkeeping, Exchange Act Release No. 67453 (July 18, 2012), 77 Fed.
+Reg. 48208 (Aug. 13, 2012).
+19
+
+Where there is an offer and sale to a non-ECP of a security-based swap, the transaction must be registered under
+the Securities Act and traded on a national securities exchange.
+
+the transaction in order to determine whether the federal securities laws apply. Failure to do so
+could put a party at risk of violating Section 5 of the Securities Act for offering and selling
+securities in unregistered transactions without a valid exemption, or other applicable provisions
+of the Exchange Act relating to security-based swaps.
+V.
+
+Conclusion
+
+When offering financial instruments based on indices, exchanges and investment
+professionals should take the appropriate steps to verify that they are in compliance with the
+federal securities laws, which could include establishing policies and procedures to appropriately
+monitor the composition of indices on which futures are based to determine if they are offering
+security futures products. In analogous situations involving security-based swaps, investment
+professionals who engage in swap transactions similarly are responsible for ascertaining the
+characteristics of such swaps to ensure that, if such swaps are security-based swaps, the
+investment professional is appropriately offering the securities to persons in the United States,
+and meeting all registration and other requirements associated with those securities.
+By the Commission.
+
+

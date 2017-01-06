@@ -1,0 +1,137 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ADMINISTRATIVE PROCEEDINGS RULINGS
+Release No. 3627/February 19, 2016
+ADMINISTRATIVE PROCEEDING
+File No. 3-16978
+
+In the Matter of
+BEHRUZ AFSHAR,
+SHAHRYAR AFSHAR,
+RICHARD F. KENNY, IV,
+FINELINE TRADING GROUP LLC, AND
+MAKINO CAPITAL LLC
+
+ORDER GRANTING IN PART
+RESPONDENTS’ MOTION FOR
+ADDITIONAL DISCOVERY
+AND ISSUANCE OF
+SUBPOENAS
+
+On December 3, 2015, the Securities and Exchange Commission issued an order
+instituting administrative and cease-and-desist proceedings (OIP) against Respondents. The
+hearing is scheduled to commence in Chicago on May 4, 2016.
+On February 8, 2016, Respondents filed a Motion for Additional Discovery and Issuance
+of Subpoenas (Motion). The Division of Enforcement filed an Objection to the Motion
+(Objection) on February 12, 2016, Respondents filed a Reply (Reply) on February 18, 2016, and
+the Motion is now ripe for decision.
+A party may request the issuance of a subpoena requiring the production of documentary
+or other tangible evidence. 17 C.F.R. § 201.232. However, a subpoena may be quashed “[i]f
+compliance with the subpoena would be unreasonable, oppressive or unduly burdensome.” 17
+C.F.R. § 201.232(e)(2). Also, I may sua sponte refuse to issue a subpoena, or modify it, if the
+“subpoena or any of its terms is unreasonable, oppressive, excessive in scope, or unduly
+burdensome.” 17 C.F.R. § 201.232(b).
+Additional Discovery
+The OIP alleges, in part, as follows. Between May 2011 and December 2012,
+Respondents placed All-Or-None (AON) orders – undisplayed orders that must be executed in
+their entirety or not at all – in options on the Nasdaq OMX PHLX exchange (PHLX), and then
+placed smaller, displayed orders for the same option series and at the same price, but on the
+opposite side of the market. OIP at 3. The smaller orders were not bona fide, but were placed to
+alter the options’ best bid and offer prices by “one penny” for the purpose of “spoofing” other
+market participants into submitting orders at the altered prices, which would then execute against
+
+the AON orders. Id. at 3, 12. The smaller orders were canceled after the AON orders were
+filled, and the strategy was repeated on the opposite side of the market to close out the position.
+Id. at 12. Respondents were motivated to execute this scheme because at the relevant time,
+PHLX paid “rebates” for orders that provided liquidity, such as AON orders, but did not penalize
+orders which were cancelled, such as the smaller orders. Id. at 13, 15. PHLX paid over
+$225,000 in rebates to Lightspeed Trading, LLC, Respondents’ broker. Id. at 3, 13.
+Respondents request “documents containing the specific trade data that constitutes the
+alleged ‘spoofing’ scheme as alleged in the OIP.” Motion at 2. Respondents do not request a
+subpoena for such documents, however, nor is the Division required to present a “roadmap” to
+its case. See Motion at 1-2; John Thomas Capital Mgmt. Grp. LLC, Securities Act of 1933
+Release No. 9492, 2013 WL 6384275, at *6 (Dec. 6, 2013). Alternatively, Respondents request
+identification of the specific dates on which the alleged spoofing occurred. Motion at 2.
+Although I agree with Respondents that this request could have been presented as a motion for
+more definite statement, Respondents did not timely file such a motion. See 17 C.F.R. §
+201.220(d) (any motion for more definite statement must be filed with a respondent’s Answer);
+Reply at 2. It is therefore unclear whether I have the authority to grant the relief Respondents
+seek.
+Nonetheless, the Division’s response to the Motion was needlessly coy. Its position may
+be that all trading activity between May 2011 and December 2012 involving “AON orders on the
+PHLX, accompanied by smaller orders on the opposite side of the market at the same price and
+in the same options series” constituted spoofing. Objection at 2. On the other hand, certain other
+actions may have been necessary elements of the alleged scheme, including one-penny price
+differentials and cancelation of the smaller orders after the AON orders were filled. I am a bit
+surprised that the Division’s position on these issues was not conveyed to the Respondents
+during the investigation.
+In any event, I see no prejudice to the Division in stating, simply and clearly, what it
+contends constituted unlawful spoofing. Accordingly, I encourage the parties to confer in an
+effort to resolve this issue. Respondents’ request for additional discovery is therefore DENIED
+WITHOUT PREJUDICE. If Respondents renew their request for additional discovery, they
+should identify with particularity what authority I have to grant their request, and they should
+describe the pertinent communications, if any, they have had with the Division.
+Subpoenas
+The OIP also alleges, in part, as follows. Certain options exchanges distinguished
+between “professionals” (high-volume traders) and “customers” (low-volume traders), and, as to
+customers, prioritized trade execution, charged lower fees, and gave higher rebates. OIP at 2.
+The dividing line between professionals and customers was an average of 390 orders per day, or
+the number of orders a person would place in one day if one order were entered every minute
+from market open to market close. Id. at 2, 6. More precisely, a “customer priority” order was
+an order for the account of a non-broker-dealer, where the non-broker-dealer’s orders in the
+aggregate fall below the 390-order average daily threshold for each calendar month in a quarter.
+
+2
+
+Id. at 6. Whether an order was customer priority for a particular quarter was determined by the
+broker, in this case, Lightspeed, by analyzing orders from the previous quarter. Id. at 6-7.
+According to the OIP, Respondents Fineline and Makino had separate accounts at
+Lightspeed, but Respondent Behruz Afshar had an interest in both companies, and the individual
+Respondents divided the two companies’ trading profits among themselves. OIP at 7-8.
+Lightspeed therefore should have determined whether Fineline and Makino had customer
+priority by aggregating orders in the two companies’ accounts. See id. at 6-7. However, “[t]o
+avoid account aggregation, the [individual Respondents] misrepresented to Lightspeed that
+Fineline and Makino did not share common ownership.” Id. at 7. The individual Respondents
+then placed orders in only one company’s Lightspeed account during each quarter, while the
+second company’s account lay dormant, so that each quarter one company’s account would
+exceed the 390-order threshold and the other’s would not. Id. The next quarter orders were
+placed only in the account of the second (customer priority) company, while the account of the
+first (now-“professional” designated) company would lay dormant, so that it would revert to
+customer priority the following quarter. Id. By alternating use of the two company’s accounts,
+without full disclosure to Lightspeed, the individual Respondents were consistently afforded
+customer priority when they should not have been, thereby obtaining over $2 million in
+transaction fees wrongly avoided and higher rebates wrongly received between October 2010
+and December 2012. Id. at 2-3.
+Respondents request subpoenas seeking three categories of information: (1) from the
+various exchanges, information relating to the drafting, passing, interpretation, and enforcement
+of the “390-Order Rule”; (2) from the Commission, all comment letters relating to the 390-Order
+Rule; and (3) from Lightspeed, documents relating to Lightspeed’s compliance with the 390Order Rule. See Motion at 2-3. The Division takes no position on the proposed subpoena to
+Lightspeed, and although it is quite broad in scope, I will issue it.
+The Division argues that the OIP’s allegations “do not involve an undisclosed
+‘interpretation’ of any exchange’s customer priority rule,” and that the documents sought from
+the exchanges are unlikely to be relevant. Objection at 4 n.1. I agree, and find that the proposed
+subpoenas to the exchanges are unreasonable and excessive in scope. See 17 C.F.R. §
+201.232(b). Respondents seek “[a]ny and all documents relating” to each exchange’s version of
+the Rule, including documents relating to the rulemaking process, comments, previous drafts,
+interpretive guidance, and enforcement guidelines. Motion at Ex. A. The relevance of almost all
+such documents, which pertain to third parties’ thoughts on the 390-Order Rule, is not apparent
+from the Motion. Correspondence between Respondents and the various exchanges about the
+390-Order Rule may be relevant, however, because it may shed light on Respondents’
+understanding of the Rule, and I would entertain a request for narrowly tailored subpoenas
+seeking such documents.
+
+3
+
+As for the proposed subpoena to the Commission, Respondents suggest that the parties
+may be able to resolve the matter themselves. See Reply at 3. I encourage them to do so, and I
+will therefore not issue the subpoena at this time.
+SO ORDERED.
+______________________
+Cameron Elliot
+Administrative Law Judge
+
+4
+
+

@@ -1,0 +1,1729 @@
+Corrected to conform to Federal Register Version
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Part 240
+Release No. 34-69964; File No. S7-30-11
+RIN 3235-AL19
+Retail Foreign Exchange Transactions
+AGENCY: Securities and Exchange Commission.
+ACTION: Final rule.
+SUMMARY: The Commission is adopting a rule to permit a registered broker-dealer to engage
+in a retail forex business, provided that the broker-dealer complies with the Securities Exchange
+Act of 1934, the rules and regulations thereunder, and the rules of the self-regulatory
+organization(s) of which the broker-dealer is a member insofar as they are applicable to retail
+forex transactions. The Commission is adopting Rule 15b12-1 substantially in the form
+previously adopted as an interim final temporary rule and is providing that the rule will expire on
+July 31, 2016.
+DATES: This rule is effective from July 16, 2013 through July 31, 2016.
+FOR FURTHER INFORMATION CONTACT: Catherine Moore, Senior Special Counsel;
+Shaheen Haji Zuver, Special Counsel; or Stephen J. Benham, Attorney-Adviser, at (202) 5515550 or Division of Trading and Markets, Securities and Exchange Commission, 100 F Street,
+NE, Washington, DC 20549-7010.
+SUPPLEMENTARY INFORMATION: The Commission is adopting Rule 15b12-1 under the
+Exchange Act, to permit a registered broker or dealer (“broker-dealer”) to engage in retail forex
+
+transactions, as such transactions are defined below. Unless the Commission acts further, the
+rule will expire and no longer be effective on July 31, 2016.
+I.
+
+BACKGROUND
+A.
+
+Retail Foreign Exchange
+
+The foreign currency exchange (“forex”) market is a large and liquid market used by
+banks, insurance companies, large corporations, and other large financial institutions to trade in
+risks associated with fluctuations in foreign currency rates. In recent years, a secondary offexchange market for forex has developed for retail customers. 1 Many customers may view forex
+as a possible investment opportunity or portfolio risk management strategy. However, the
+Commission, its staff, 2 and other regulatory authorities 3 have cautioned investors that the forex
+market poses risks for retail customers.
+The regulatory oversight of the retail forex market has developed primarily through a
+series of amendments to the Commodity Exchange Act (“CEA”). 4 Transactions commonly
+referred to as “retail forex transactions” are foreign exchange transactions with persons who are
+
+1
+
+See, e.g., FINRA Regulatory Notice 08-66 (Retail Foreign Currency Exchange)
+(November 2008) available at:
+http://www.finra.org/web/groups/industry/@ip/@reg/@notice/documents/notices/p11736
+2.pdf (“FINRA Forex Notice”).
+
+2
+
+See Investor Bulletin: Foreign Currency Exchange (Forex) Trading for Individual
+Investors (July 2011), available at http://www.sec.gov/investor/alerts/forextrading.pdf
+(“Forex Bulletin”). See also Retail Foreign Exchange Transactions, Exchange Act
+Release No. 64874 (July 13, 2011), 76 FR 41676 (July 15, 2011) (“2011 Interim Rule
+Release”) at 41677 (noting that media reports have highlighted potential abuses).
+
+3
+
+See, e.g., Press Release, Commodities Futures Trading Commission (“CFTC”), CFTC
+Releases Final Rules Regarding Retail Forex Transactions (Aug. 30, 2010) (available at
+http://www.cftc.gov/PressRoom/PressReleases/pr5883-10.html?dbk) (noting that retail
+forex is the largest area of retail fraud that the CFTC oversees).
+
+4
+
+See Regulation of Off-Exchange Retail Foreign Exchange Transactions and
+Intermediaries, 75 FR 3282 (Jan. 20, 2010) (“CFTC Proposing Release”) for a detailed
+discussion by the CFTC of the amendments to the CEA regarding retail forex.
+2
+
+retail customers (persons who are not eligible contract participants (“ECPs”) as defined in the
+CEA) and that settle on a T+3 or greater timeline. 5 Significantly, certain types of transactions
+are not ‘‘retail forex transactions” under the CEA, even where one of the counterparties is a
+person that is not an ECP. These transactions include: (i) “spot forex transactions” where one
+currency is bought for another and the two currencies are exchanged within two days; (ii)
+forward contracts that create an enforceable obligation to make or take delivery, provided that
+each counterparty has the ability to deliver and accept delivery in connection with its line of
+business; and (iii) options that are executed or traded on a national securities exchange registered
+pursuant to section 6(a) of the Exchange Act. 6 In addition, and as discussed in more detail
+below, conversion trades – trades in which a foreign exchange transaction facilitates the
+settlement of a foreign security transaction – are spot forex transactions and, therefore, are
+outside the scope of the CEA prohibition and this rulemaking. 7
+Only certain regulated entities may act as counterparty to foreign exchange transactions. 8
+These approved entities include Futures Commission Merchants (“FCMs”), Retail Foreign
+Exchange Dealers (“RFEDs”) registered with the CFTC, banks, and insurance companies, as
+well as broker-dealers registered with the Commission.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”)
+further amended the CEA to limit potential abuses in the retail forex market by prohibiting retail
+forex transactions as of July 16, 2011, in the absence of a rulemaking permitting retail forex
+5
+
+See 7 U.S.C. 2(c)(2)(B)(i).
+
+6
+
+See 7 U.S.C. 2(c)(2)(B)(i)(I).
+
+7
+
+See Further Definition of “Swap,” “Security-Based Swap,” and “Security/Based Swap
+Agreement”; Mixed Swaps; Security/Based Swap Agreement Recordkeeping; Final Rule,
+Exchange Act Release No. 67453 (July 18, 2012), 77 FR 48207 (Aug. 13, 2012)
+(“Products Definitions Release”).
+
+8
+
+7 U.S.C. 2(c)(2)(B)(i).
+3
+
+transactions by the relevant Federal regulatory agency. The prohibition in the CEA applies to
+retail forex transactions with registered broker-dealers, and the Commission adopted an Interim
+Final Temporary Rule on July 13, 2011 (“Interim Rule”), to allow retail forex transactions with
+broker-dealers under terms and conditions prescribed by the Commission. 9
+B.
+
+Amendments to the Commodity Exchange Act
+
+As amended by the Dodd-Frank Act, 10 the CEA provides that a person for which there is
+a Federal regulatory agency, 11 including a broker-dealer registered under section 15(b) (except
+pursuant to paragraph (11) thereof) or 15C of the Exchange Act, 12 shall not enter into, or offer to
+enter into, a transaction described in section 2(c)(2)(B)(i)(I) of the CEA with a person who is not
+an ECP, 13 except pursuant to a rule or regulation of a Federal regulatory agency allowing the
+
+9
+
+See 2011 Interim Rule Release. See also Extension of Interim Final Temporary Rule on
+Retail Foreign Exchange Transactions, Exchange Act Release No. 67405 (July 11, 2012),
+77 FR 41671 (July 16, 2012) (“2012 Extension Release”).
+
+10
+
+7 U.S.C. 2(c)(2)(E).
+
+11
+
+7 U.S.C. 2(c)(2)(E)(i), as amended by § 742(c) of the Dodd-Frank Act, defines a “Federal
+regulatory agency” to mean the CFTC, the Securities and Exchange Commission, an
+appropriate Federal banking agency (as defined in section 3(q) of the Federal Deposit
+Insurance Act (12 U.S.C. 1813(q))), the National Credit Union Association, and the Farm
+Credit Administration.
+
+12
+
+7 U.S.C. 2(c)(2)(B)(i)(II).
+
+13
+
+“Eligible contract participant” is defined in CEA section 1a(18), as re-designated and
+amended by section 721 of the Dodd-Frank Act. See Public Law 111-203, § 721
+(amending CEA section 1a). The CEA’s definition of ECP generally comprises regulated
+persons; entities that meet a specified total asset test (e.g., a corporation, partnership,
+proprietorship, organization, trust, or other entity with total assets exceeding $10 million
+subject to certain restrictions) or an alternative monetary test coupled with a nonmonetary component (e.g., a corporation, partnership, proprietorship, organization, trust,
+or other entity with a net worth in excess of $1 million and enters into an agreement,
+contract, or transaction in connection with the conduct of the entity’s business or to
+manage the risk associated with an asset or liability owned or incurred or reasonably
+likely to be owned or incurred by the entity in the conduct of the entity’s business);
+certain employee benefit plans, the investment decisions of which are made by one of
+four enumerated types of regulated entities; and certain governmental entities and
+individuals that meet defined thresholds. The Commission and the CFTC adopted rules
+4
+
+transaction under such terms and conditions as the Federal regulatory agency shall prescribe
+(“retail forex rule”). 14 An individual can qualify as an ECP if the individual has aggregate
+amounts invested on a discretionary basis of more than $10 million or more than $5 million if
+such individual enters into the transaction in order to manage the risk associated with an asset
+owned or liability incurred, or reasonably likely to be owned or incurred by such individual. 15
+Transactions described in CEA section 2(c)(2)(B)(i)(I) include “an agreement, contract, or
+transaction in foreign currency that ... is a contract of sale of a commodity for future delivery (or
+an option on such a contract) or an option (other than an option executed or traded on a national
+securities exchange registered pursuant to section 6(a) of the Securities Exchange Act of 1934
+(15 U.S.C. 78f(a)).” 16 A Federal regulatory agency’s retail forex rule must treat all agreements,
+contracts, and transactions in foreign currency described in CEA section 2(c)(2)(B)(i)(I) and all
+agreements, contracts, and transactions in foreign currency that are functionally or economically
+similar to agreements, contracts, or transactions described in CEA section 2(c)(2)(B)(i)(I),
+under the CEA that further define “eligible contract participant” with respect to
+transactions with major swap participants, swap dealers, major security-based swap
+participants, security-based swap dealers, and commodity pools. See Exchange Act
+Release No. 66868 (Apr. 27, 2012), 77 FR 30596 (May 23, 2012).
+14
+
+7 U.S.C. 2(c)(2)(E)(ii)(I). As used in this release, “retail forex rule” refers to any rule
+proposed or adopted by a Federal regulatory agency pursuant to section 742(c)(2) of the
+Dodd-Frank Act. On September 10, 2010, the CFTC adopted a retail forex rule for
+persons subject to its jurisdiction. See Regulation of Off-Exchange Retail Foreign
+Exchange Transactions and Intermediaries, 75 FR 55410 (September 10, 2010) (“CFTC
+Final Rule”). The CFTC had proposed its rules regarding retail forex transactions prior to
+the enactment of the Dodd-Frank Act. See CFTC Proposing Release. The Federal
+Deposit Insurance Corporation (“FDIC”), the Office of the Comptroller of the Currency
+(“OCC”), and the Board of Governors of the Federal Reserve System (“Board”) have
+adopted similar rules. See Retail Foreign Exchange Transactions, 76 FR 40779 (July 12,
+2011) (“FDIC Final Rule”); Retail Foreign Exchange Transactions, 76 FR 41375 (July
+14, 2011) (“OCC Final Rule”); and Retail Foreign Exchange Transactions, 78 FR 21019
+(April 9, 2013) (“Board Final Rule”).
+
+15
+
+7 U.S.C. 1a(18)(A)(xi).
+
+16
+
+7 U.S.C. 2(c)(2)(B)(i)(I).
+5
+
+similarly. 17 Any retail forex rule also must prescribe appropriate requirements with respect to
+disclosure, recordkeeping, capital and margin, reporting, business conduct, and documentation,
+and may include such other standards or requirements as the Federal regulatory agency
+determines to be necessary. 18
+This amendment to the CEA took effect on July 16, 2011. 19 As of that date, brokerdealers, including broker-dealers also registered with the CFTC as FCMs (“BD-FCMs”), 20 for
+which the Commission is the Federal regulatory agency could no longer engage in retail forex
+transactions except pursuant to a rule adopted by the Commission. 21
+C.
+
+The Interim Rule
+
+On July 13, 2011, the Commission adopted the Interim Rule (Rule 15b12-1T), which
+allows a registered broker-dealer to continue to engage in, or enter into, a retail forex business
+until July 16, 2012, provided that the broker-dealer complies with the Exchange Act, the rules
+and regulations thereunder, and the rules of the self-regulatory organization(s) (“SRO”) of which
+the broker-dealer is a member, insofar as they are applicable to retail forex transactions. 22 The
+Interim Rule was designed to provide an opportunity for the public to submit comments
+17
+
+7 U.S.C. 2(c)(2)(E)(iii)(II).
+
+18
+
+7 U.S.C. 2(c)(2)(E)(iii)(I).
+
+19
+
+See Public Law 111-203, § 754.
+
+20
+
+See 7 U.S.C. 2(c)(2)(B)(i)(II)(cc), 2(c)(2)(C)(i)(I)(aa) and 2(c)(2)(E). Congress expressly
+provided that the CFTC has jurisdiction over an FCM’s retail foreign exchange activities
+only if the FCM is not also a registered broker-dealer.
+
+21
+
+See 7 U.S.C. 2(c)(2)(B)(i)(II) and 7 U.S.C. 2(c)(2)(E)(ii)(I). This prohibition does not
+apply to (1) forex transactions with a customer who qualifies as an ECP, or (2)
+transactions that are spot forex contracts or forward forex contracts irrespective of
+whether the customer is an ECP. However, consistent with other Federal regulatory
+agencies’ retail forex rules, Rule 15b12-1 applies to “rolling spot” transactions in foreign
+currency by broker-dealers. See section II.A. below for a description of rolling spot
+transactions.
+
+22
+
+See 2011 Interim Rule Release.
+6
+
+regarding broker-dealer practices in this area, which would inform the Commission’s
+consideration of what additional rules may be necessary to address investor protection concerns,
+including abusive sales practices, volatility, and riskiness of the forex market as they affected the
+regulatory treatment of retail forex transactions by broker-dealers. We explained at the time that
+our action was also intended to preserve potentially beneficial market activity that, for example,
+may serve to minimize a retail customer’s exposure to the risk of changes in foreign currency
+rates in connection with the customer’s purchase or sale of a security. We also described
+potentially abusive practices, such as lack of disclosure about fees and forex pricing and
+insufficient capital or margin requirements, and requested comment on these practices and
+whether there are any steps we should take to seek to prevent them in the 2011 Interim Rule
+Release. 23 In July 2012, the Commission extended the Interim Rule to July 16, 2013. 24
+D.
+
+Interpretation regarding “Conversion Trades”
+
+The Interim Rule was intended, in part, to address concerns that broker-dealers would be
+precluded from entering into foreign exchange transactions on behalf of retail customers in order
+to facilitate the customer’s purchase or sale of a security listed on a foreign exchange and
+denominated in a foreign currency (“conversion trades”). 25 Subsequent to the initial adoption
+
+23
+
+See 2011 Interim Rule Release at 41684. The Commission’s Office of Investor
+Education and Advocacy published an Investor Bulletin providing information about
+retail forex investing, including information about the risks involved in that type of
+trading. See Forex Bulletin. The CFTC and the North American Securities
+Administrators Association also have published an alert regarding risks of fraud in
+foreign exchange markets. See Foreign Exchange Currency Fraud: CFTC/NASAA
+Investor Alert, available at
+http://www.cftc.gov/ConsumerProtection/FraudAwarenessPrevention/ForeignCurrencyTr
+ading/cftcnasaaforexalert.
+
+24
+
+See 2012 Extension Release.
+
+25
+
+See Memorandum from P. Georgia Bullitt, Morgan Lewis, on Pershing LLC – Proposed
+Relief regarding transactions in Retail Foreign Exchange to James Brigagliano et al.
+7
+
+and most recent extension of the Interim Rule, in August 2012, the CFTC issued an
+interpretation in a joint rulemaking with the Commission that conversion trades are not a form of
+retail forex transaction subject to the prohibition under the CEA. 26 Under this interpretation,
+broker-dealers are permitted to engage in conversion trades without a rulemaking by the
+Commission and the level of broker-dealer foreign exchange activity subject to the prohibition in
+section 2(c)(2)(E)(ii)(I) of the CEA (and this rulemaking) is significantly reduced.
+Although the CFTC interpretation excludes conversion trades from the definition of retail
+forex, hedging and speculative trading in foreign currency (other than bona fide spot
+transactions 27) are still within the scope of the definition. Broker-dealers, including BD-FCMs,
+are therefore prohibited from engaging in such trades absent a Commission rule.
+
+(June 17, 2011) (available at http://www.sec.gov/comments/other/otherinitiatives/otherinitiatives-56.pdf).
+26
+
+See Products Definitions Release. For purposes of the interpretation, a conversion trade
+is a transaction for the purchase or sale of an amount of foreign currency equal to the
+price of a foreign security with respect to which (i) the security and related foreign
+currency transactions are executed contemporaneously in order to effect delivery by the
+relevant securities settlement deadline and (ii) the actual delivery of both the foreign
+currency and securities occurs by the deadline.
+
+27
+
+See Products Definitions Release at 48257. The Commission and the CFTC consider a
+foreign exchange transaction that is entered into solely to effect the purchase or sale of a
+foreign security to be a bona fide spot transaction where certain conditions are met.
+8
+
+E.
+
+Comments
+
+The Commission received 20 comments on the Interim Rule. 28 Sixteen comment letters
+were received on the Interim Rule after it was adopted in 2011. Four comment letters (from only
+two commenters) were received following the extension of the Interim Rule in 2012. To provide
+a broad overview of both investor and industry reaction to the Interim Rule, all of the comments
+received are addressed below.
+Nine commenters asked the Commission to preserve their ability to engage in retail forex
+transactions. 29 Another group of commenters urged the Commission to adopt a final rule based
+on the approach followed in the Interim Rule. 30 These commenters maintained that it is in the
+
+28
+
+The comments are available at http://www.sec.gov/comments/s7-30-11/s73011.shtml.
+
+29
+
+See email comments from Raul Gonzalez, dated July 17, 2011, James Peck, dated July
+17, 2011, Bob Flowers, dated July 17, 2011, James M. Beatty, dated July 17, 2011,
+Angela Li, dated July 17, 2011, Mark A. McDonnell, dated July 21, 2011, Mark Smith,
+dated July 23, 2011, John Baur, dated July 27, 2011, and Ronald Covington, dated
+October 23, 2011.
+
+30
+
+See Letter from Kenneth E. Bentsen, Jr., Executive Vice President Public Policy and
+Advocacy, SIFMA and Robert Pickel, Executive Vice Chairman, ISDA, to Elizabeth
+Murphy, Secretary, Commission, dated October 17, 2011 (“SIFMA/ISDA Letter”). See
+also Memorandum from SIFMA and ISDA to Marc Menchel, Gary Goldsholle, Matthew
+Vitek, Rudy Verra, Glen Garofalo, FINRA, dated February 23, 2012. These commenters
+requested that the Commission clarify that the Commission’s rule, together with FINRA
+regulation, would exclusively govern the retail foreign exchange activity of all brokerdealers, including BD-FCMs. The Commission notes that the rule being adopted, Rule
+15b12-1, by its terms applies in the context of retail forex transactions but does not alter
+the requirement to comply with applicable Commission rules or other rules in other
+contexts. These commenters also requested that the Commission, in consultation with the
+CFTC, provide a safe-harbor to broker-dealers that would apply in the event that the
+status of a customer that is a natural person (including their investment vehicles and
+family offices) changes from that of a retail customer when a foreign exchange
+transaction is first entered into with the broker-dealer, including a BD-FCM, to that of an
+ECP, because of fluctuations in net assets, a change in market prices or other factors.
+However, given that interpretations regarding what constitutes a retail forex transaction
+are under the CEA and therefore subject to the jurisdiction of the CFTC and not the
+Commission, these commenters may wish to consider addressing this request to the
+CFTC.
+9
+
+best interest of retail customers to have the opportunity to conduct forex activity as part of their
+broader investing activity, through their broker-dealers, with the assistance of personnel with
+forex expertise.
+One group of commenters limited their comments to conversion trades and, as discussed
+above, asked the CFTC and other Federal regulatory agencies (including the Commission), to
+take the view that conversion trades are not prohibited for purposes of section 2(c) of the CEA. 31
+As noted above, the CFTC has issued an interpretation that conversion trades are not retail forex
+transactions subject to the prohibition under the CEA.
+One commenter stated that the Commission should rescind the rule and allow the
+statutory ban to take effect or, in the alternative, limit the scope of the rule to a narrowly defined
+class of forex transactions, specifically hedging and the facilitation of settlement of foreign
+securities. 32 The commenter further stated that in initially adopting the Interim Rule, the
+Commission did not provide notice of and opportunity for comment on the rule, and did not
+include a concrete assessment or quantification of the need for the relief granted by the rule. As
+discussed throughout this release, the Commission does not believe it would be appropriate at
+31
+
+See Letter from Phoebe A. Papageorgiou, Senior Counsel, American Bankers
+Association and James Kemp, Managing Director, Global Foreign Exchange Division, to
+Thomas J. Curry, Comptroller, OCC, Robert E. Feldman, Executive Secretary, FDIC,
+Jennifer J. Johnson, Secretary, the Board, David Stanwick, Secretary, CFTC, and
+Elizabeth Murphy, Secretary, Commission, dated April 18, 2012 (“ABA/GFMA Letter”).
+See also SIFMA/ISDA Letter. SIFMA and ISDA requested that the Commission amend
+the definition of “retail forex business” in section (a) of Rule 15b12-1T in order to make
+clear that conversion trade transactions would be permitted under the Interim Rule, which
+is no longer necessary as a result of the CFTC’s interpretation.
+
+32
+
+See Letter from Dennis M. Kelleher, President and CEO, and Stephen W. Hall, Securities
+Specialist, Better Markets, Inc. to Elizabeth Murphy, Secretary, Commission, dated
+September 12, 2011 (“Better Markets Letter”). We understand the commenter’s
+reference to transactions entered into to facilitate the settlement of foreign securities to
+mean the conversion trades discussed above that are no longer subject to the statutory
+prohibition.
+10
+
+this time to ban retail forex transactions or otherwise limit the scope of permissible transactions
+by broker-dealers. Such a ban or limitation may prohibit legitimate activities such as hedging or
+other transactions and, among other factors discussed below, the Commission has not obtained
+sufficient information to indicate that such restrictions are warranted. In addition, the final rule
+we are adopting today is being adopted after notice and comment in response to the 2011 Interim
+Rule Release and the 2012 Extension Release.
+Three comment letters provided the Commission with data on retail forex activity. One
+of the commenters provided data, based on a sampling of five broker-dealers for an unknown
+year, showing that those members engaged in $550 million per month (principal) of over-thecounter currency forwards, currency options and rolling spot transactions with non-ECPs and
+$1.2 billion per month of conversion trades. 33
+The second comment letter provided data on the returns of retail forex accounts at certain
+FCMs and RFEDs, and offered suggestions for additional disclosure and business conduct
+requirements (such as suitability standards), and identified areas concerning regulation and
+market activities in the context of retail forex transactions that the commenter believed warrants
+further monitoring. 34 We agree with the commenter’s suggestion that further monitoring of retail
+forex transactions is warranted. While the Commission has determined to adopt Rule 15b12-1
+for the reasons discussed throughout this release, we believe it is appropriate to give additional
+consideration to the suggestions provided by the commenter. We are including in Rule 15b12-1
+33
+
+See Letter from Kenneth E. Bentsen, Jr., Executive Vice President Public Policy and
+Advocacy, SIFMA, dated July 10, 2012 (“SIFMA Letter”).
+
+34
+
+See Letter from Justin Hughes, CFA and Managing Member, Philadelphia Financial
+Management of San Francisco to Elizabeth Murphy, Secretary, Commission, dated
+August 2, 2011 (“Philadelphia Financial Letter”). The commenter’s suggestions for
+additional regulation included limiting the product to only accredited investors,
+establishing order handling rules as well as limiting leverage and account churning.
+11
+
+a provision providing that the rule will expire on July 31, 2016 to permit additional time for the
+Commission to assess the market for retail forex (including recent regulatory developments
+discussed below) and potentially develop more targeted rules for retail forex or to consider any
+rules that an SRO may propose regarding its members’ retail forex activities. The commenter
+also suggested that currency exchange-traded funds (“currency ETFs”) would provide an
+alternative means for effectively hedging against currency risk. 35
+A third comment letter from a representative of another commenter provided 2010 data
+from a small sampling of large broker-dealers with an estimated notional value of foreign
+exchange conversion trades of $13.55 billion and an estimated notional value of foreign
+exchange non-conversion trades of $1.43 billion, although these values included transactions
+with both ECPs and non-ECPs. 36
+Following the extension of the Interim Rule in July 2012, the Commission received four
+additional comment letters from two commenters. 37 One commenter requested that brokerdealers be allowed to continue to engage in, or enter into, a retail forex business. This
+commenter argued that broker-dealers should be permitted to conduct retail forex to offer their
+retail clients a full suite of investment options and to facilitate hedging of transactions in foreign
+
+35
+
+See Philadelphia Financial Letter. See also Better Markets Letter. See also supra section
+III.E. for a discussion of potential alternatives to retail forex transactions, including
+currency exchange traded products (“ETPs”).
+
+36
+
+See letter from P. Georgia Bullitt, Michael A. Piracci and F. Mindy Lo, Morgan Lewis to
+Joseph Furey, Bonnie L. Gauch and Adam Yonce, Commission, dated July 28, 2011
+(“Morgan Lewis Letter”). This commenter provided data from five large-broker dealers,
+but, only some of the broker-dealers provided information for every type of transaction
+cited in the letter.
+
+37
+
+See email comments from Ernest J. Guevara III, dated November 16, 2012 (this comment
+does not appear to be related to the Interim Rule), and Brad Georges of Greeneye
+Management, dated December 19, 2012 (“Greeneye Comment Email”) February 28,
+2013 (“Second Greeneye Comment Email”), and April 17, 2013.
+12
+
+stocks. 38 This commenter also noted that broker-dealers have risk management and customer
+suitability practices in place to monitor their activities not only in stocks but also in options and
+stated that retail forex activities should be able to be conducted within broker-dealers and subject
+to regulatory oversight by the Commission. In a separate communication, this commenter
+reiterated that the Commission should allow active trading and hedging of spot forex under the
+same guidelines as active trading of stocks and options. 39 The commenter asserted that brokers
+should be able to set their own margins, taking into account the currency, the client, and the
+market conditions. 40
+As noted above, and as discussed in more detail below, the Commission believes it is
+appropriate at this time to allow broker-dealers to continue engaging in retail forex transactions
+subject to existing restrictions under Commission and FINRA rules while any additional
+requirements for retail forex are considered in order to retain existing options for retail investors
+to access the foreign exchange markets. This approach is consistent with the approach contained
+in the Interim Rule and with the recommendations of most commenters; however, the
+Commission is adopting Rule 15b12-1 with a provision providing that the rule will expire on
+July 31, 2016. This provides an additional opportunity for the Commission to assess the market
+for retail forex and determine whether to issue more targeted rules for retail forex, to consider
+any rules that an SRO may develop regarding its members’ retail forex activities, to consider
+whether to take action to extend the rule, or have the rule expire.
+To that end, Commission staff will consult with FINRA periodically to discuss and obtain
+additional information about the retail forex marketplace, such as information regarding new
+38
+
+See Greeneye Comment Email.
+
+39
+
+See Second Greeneye Comment Email.
+
+40
+
+See id.
+13
+
+FINRA member applications identifying retail forex business and any rules that FINRA may
+consider regarding its members’ retail forex activities. Commission staff will also periodically
+consult with other regulatory agencies, including the CFTC and banking regulators, to discuss
+the retail forex marketplace and identify potential areas and instances of abuse, as well as the
+ways that retail investors have benefited or been harmed. In addition, the Commission will
+consider any relevant information obtained during standard broker-dealer examinations.
+II.
+
+DISCUSSION
+Taking into consideration all of the comments received, the Commission believes it is
+
+appropriate at this time to allow broker-dealers to continue to engage in retail forex transactions
+subject to existing requirements under Commission and FINRA rules while any additional
+requirements for retail forex are considered in order to retain existing options for retail investors
+to access the foreign exchange markets.
+The Commission is adopting Rule 15b12-1 with the same terms and conditions as the
+Interim Rule in order to permit broker-dealers to continue to engage in a retail forex business
+under the framework of the Exchange Act for the time period specified in the rule. The final rule
+requires that broker-dealers comply with existing obligations under the Exchange Act, the rules
+and regulations thereunder, and the rules of the SRO of which the broker-dealer is a member. 41
+As discussed in more detail below, the final rule meets the requirements in Section 2(c)(2)(E)(iii)
+of the CEA that the rule treat all agreements, contracts, and transactions in foreign currency
+described in CEA section 2(c)(2)(B)(i)(I) and all agreements, contracts, and transactions in
+foreign currency that are functionally or economically similar to agreements, contracts, or
+41
+
+Broker-dealers engaging in conversion trades are not subject to the rule as a result of the
+CFTC’s interpretation to exclude conversion trades from retail forex, but they remain
+subject to the Commission’s antifraud authority, including Section 10(b) and Rule 10b-5,
+under the Exchange Act when engaging in these trades.
+14
+
+transactions described in CEA section 2(c)(2)(B)(i)(I), similarly, and that the rule prescribes
+appropriate requirements with respect to disclosure, recordkeeping, capital and margin,
+reporting, business conduct, and documentation by requiring that broker-dealers engaged in a
+retail forex business comply with the Exchange Act, the rules and regulations thereunder, and the
+rules of the SRO of which the broker-dealer is a member. 42
+The CFTC’s interpretation regarding conversion trades that was issued following the
+extension of the Interim Rule has significantly narrowed the scope of retail forex transactions
+subject to a Commission rule. While we have only limited information on the level of retail
+forex activity conducted by broker-dealers, we received information from one commenter
+asserting that, based on a sampling of a small number of large broker-dealers, a substantial
+majority of foreign exchange transactions engaged in by these broker-dealers are conversion
+trades. 43 Given the clarification regarding the exclusion of conversion trades from the scope of
+retail forex transactions, we believe that the scope of transactions that are currently considered to
+be retail forex transactions, and thus subject to the Commission’s rule, is much more limited than
+what the Commission anticipated in the Interim Rule.
+Conversion trades were the focus of many of the comments received on the Interim Rule
+and the CFTC’s interpretation was not issued until after the Commission had extended the
+interim temporary final rule. Given the recent modified scope of retail forex transactions to
+exclude conversion trades and the limited comments received on issues related to non-conversion
+trades, we believe it is appropriate to provide additional time for the Commission to focus its
+review on the current scope of activities that are included in retail forex transactions prior to
+considering any tailored rules for broker-dealers engaging in a retail forex business.
+42
+
+7 U.S.C. 2(c)(2)(E)(iii).
+
+43
+
+See Morgan Lewis letter.
+15
+
+The CFTC has also adopted rules that contain requirements specific to retail forex
+transactions including disclosure requirements, net capital requirements and haircut deductions
+depending on the currency pair, security deposit requirements and profitability reporting. 44
+Moreover, other regulatory agencies 45 have also adopted rules that are similar to the CFTC’s
+rule, including the Board which very recently adopted final rules related to retail forex
+transactions. 46 These new requirements may have an impact on the how the retail forex market
+functions. The rule the Commission is adopting today differs from the rules adopted by the
+CFTC and other regulatory agencies as it does not contain the specific requirements tailored to
+the retail forex transactions referenced above. While the Commission has determined to adopt
+Rule 15b12-1 for the reasons discussed throughout this release including the relatively limited
+level of retail forex activity engaged in by broker-dealers and the existing framework of legal
+obligations, including SRO rules applicable to broker-dealers, the Commission anticipates the
+three-year sunset provision will provide it with additional time to assess further the market for
+retail forex (including any changes based on recent regulatory actions) and consider whether to
+develop more targeted rules for retail forex, to consider any rules that an SRO may develop
+regarding its members’ retail forex activities, to consider whether to take action to extend the
+rule, or have the rule expire.
+With respect to SRO rules, the Commission notes that FINRA has previously proposed a
+rule to establish leverage limitations with respect to retail forex 47 and that the National Futures
+
+44
+
+See CFTC Final Rule.
+
+45
+
+See FDIC Final Rule, OCC Final Rule, and Board Final Rule.
+
+46
+
+See Board Final Rule.
+
+47
+
+FINRA proposed a rule in 2009 to establish a leverage limitation for retail forex. See
+Notice of Filing of Proposed Rule Change as Modified by Amendment No. 2 to Adopt
+FINRA Rule 2380 to Limit the Leverage Ratio Offered by Broker-Dealers for Certain
+16
+
+Association (NFA) has in place rules governing retail forex activities. 48 The Commission
+understands that FINRA plans to continue to consider rules related to retail forex transactions
+taking into account the regulatory framework developed by other regulators. The Commission
+expects to evaluate possible future actions during the sunset period in light of developments in
+the retail forex market, as well as the Commission’s and SROs’ experiences with retail forex
+activity pursuant to this rule.
+The Commission has previously cautioned investors about risks in the foreign exchange
+market generally, and highlighted certain key risks for investors, including the lack of a central
+marketplace for retail forex, uncertainty about transaction costs, and the possibility for investors
+to lose more than their original investment. 49 Commission staff also has cautioned investors that
+many forex traders employ leverage as a means of amplifying their returns and higher leverage,
+in the form of a small margin requirement, can result in large losses if prices move in an
+unfavorable direction. 50 The Commission stated in the 2011 Interim Rule Release that
+insufficient capital or margin requirements could result in costs to the market associated with the
+
+Forex Transactions, Exchange Act Release No. 61090 (Dec. 1, 2009), 74 FR 64776 (Dec.
+8, 2009).
+48
+
+See e.g. NFA Compliance Rule 2-36. Requirements for Forex Transactions, NFA
+Compliance Rule 2-39. Soliciting, Introducing, or Managing Off-Exchange Retail Forex
+Transactions or Account, and NFA Financial Requirement Section 11. Forex Dealer
+Member Financial Requirements. The NFA rules that are relevant to retail forex
+transactions can be found at http://www.nfa.futures.org/NFA-compliance/NFA-futurescommission-merchants/forex.HTML.
+
+49
+
+See 2011 Interim Rule Release at 41677, noting media reports of potentially abusive
+practices and concerns expressed by other regulators with respect to the retail forex
+practices of the entities they regulate. See also Forex Bulletin. Commission staff also
+cautioned investors that there had been allegations of fraud by the Commission and the
+CFTC in cases involving foreign exchange investment schemes. Id.
+
+50
+
+See Forex Bulletin.
+17
+
+inefficient provision of retail forex services. 51 Although no instances of abuse with respect to
+retail forex involving broker-dealers were raised in the comment letters, 52 the Commission
+remains concerned about risks in the retail forex market and the potential harm to investors if
+abusive practices, including misleading advertising or sales practices, are employed. 53 We are,
+however, mindful that retail forex transactions may be used for hedging and gaining direct
+exposures to the foreign currency markets, which may be appropriate for retail investors through
+broker-dealers with the protections available to investors under existing Commission and SRO
+oversight. We are also sensitive to the fact that the statutory prohibition applies to BD-FCMs in
+the absence of Commission rules but does not apply to FCMs that are not dually registered and
+are permitted to engage in retail forex transactions pursuant to the CFTC’s rules. Accordingly,
+the failure to adopt a rule permitting BD-FCMs to continue to conduct retail forex could affect
+investors who have an account at a BD-FCM and would need to open a new account with a
+different intermediary in order to continue to conduct retail forex transactions.
+The sunset provision for the expiration of the rule is designed to provide the Commission
+with a reasonable period of time to consider further whether additional requirements for brokerdealers engaging in a retail forex business may be appropriate while avoiding any disruption or
+unintended consequences to broker-dealers and their customers if the statutory prohibition were
+to go into effect. The Commission believes that a three-year sunset, as opposed to a shorter
+period, is appropriate because a shorter time frame may fail to provide adequate time to reflect
+51
+
+See 2011 Interim Rule Release at 41684.
+
+52
+
+The Better Markets Letter and Philadelphia Financial Letter refer generally to widespread
+abuses in the retail forex market, but do not cite specific instances of abuse involving
+intermediaries that are broker-dealers. See Better Markets Letter and Philadelphia
+Financial Letter.
+
+53
+
+The Commission encourages any person who is aware of abusive practices or other
+misconduct in the retail forex market to report those activities to the Commission.
+18
+
+on any developments in the retail forex market and then engage in any subsequent steps involved
+in any rulemaking process, such as the proposal and adoption of new rules before the expiration
+of Rule 15b12-1. Moreover, a longer time period may be unnecessary because the Commission
+should have sufficient time to consider and take any action prior to the expiration of the sunset
+provision. As an alternative, the Commission could adopt a final rule without a sunset provision
+or allow the temporary rule to lapse without adopting any final rule. 54 We believe, however, that
+in light of the CFTC’s interpretation regarding conversion trades in the context of the retail forex
+market, as well as comments received both in support of and against final Commission rules to
+permit broker-dealers to engage in retail forex transactions, the arguments raised warrant further
+consideration. Although one commenter argued that Congress intended the ban on retail forex to
+go into effect, 55 we note that Congress specifically authorized the Commission and other Federal
+regulatory agencies to permit their regulated entities to engage in retail forex transactions by
+taking regulatory action the agencies determined was appropriate. 56 Furthermore, in addition to
+the Commission’s Interim Rule, the CFTC and bank regulatory agencies have all adopted final
+rules to permit their regulated entities to engage in retail forex transactions. 57 The Commission
+will also consider any new information obtained with respect to the retail forex market, including
+54
+
+One commenter stated that exchange listed currency ETFs, which as exchange-traded
+products are outside the scope of retail forex, provide an alternative to retail forex for
+hedging purposes and could give investors a greater return at a lower cost. See
+Philadelphia Financial Letter. See also the discussion of ETFs in the Economic Analysis
+section of this release. Other commenters, however, argue that investors should be
+allowed to engage in retail forex transactions with broker-dealers and that the current
+regulatory framework offers sufficient protections. See Greeneye Comment Email and
+SIFMA/ISDA Letter.
+
+55
+
+See Better Markets Letter. Another commenter argued that retail forex transactions are
+essentially gambling and should be regulated and taxed as such. See Philadelphia
+Financial Letter.
+
+56
+
+7 U.S.C. 2(c)(2)(E)(ii)(I) and (iii)(I).
+
+57
+
+See supra note 14. See also supra note 45.
+19
+
+any evidence of abusive practices or misconduct by BD-FCMs, prior to the expiration of the
+sunset period to determine whether additional limitations or action may be warranted. Any new
+requirements could be imposed either through Commission or SRO rules.
+The rule we are adopting today, Rule 15b12-1, has the same terms and conditions as the
+Interim Rule that was adopted in 2011 and extended in 2012, except with respect to the
+expiration date of the rule as specified in paragraph (d) of the rule. Broker-dealers will continue
+to be required to comply with existing Exchange Act and SRO rules as they are applicable to
+retail forex transactions. We believe that the same reasons behind the adoption of the Interim
+Rule in 2011 and its extension in 2012 and discussed throughout this release continue to apply to
+the retail forex rule we are adopting today. 58
+A.
+
+Rule 15b12-1(a): Definitions
+
+Rule 15b12-1(a) sets forth the definitions used in the rule, 59 which have not changed
+since the Commission adopted the Interim Rule in 2011. 60 Many of the definitions have the
+same meaning as in the Exchange Act. 61 These terms and definitions were selected because their
+meanings are readily understood in the industry. Other terms, such as “retail forex business” and
+“retail forex transaction,” are substantially similar to terms in the OCC, FDIC, and Board final
+rules. 62
+
+58
+
+See 2011 Interim Rule Release at 41678 for a discussion of the rationale for adoption of
+the Interim Rule. See also 2012 Extension Release.
+
+59
+
+Rule 15b12-1(a).
+
+60
+
+See 2011 Interim Rule Release at 41678-79 for a discussion of these definitions.
+
+61
+
+These include the definition of broker, dealer, person, registered broker or dealer, and
+self-regulatory organization. See 2011 Interim Rule Release at 41677.
+
+62
+
+See 2011 Interim Rule Release at 41677-78 for a discussion of these definitions.
+20
+
+As we noted in the 2011 Interim Rule Release, the definition of retail forex transaction is
+based on the CEA and incorporates the terms described in CEA sections 2(c)(2)(B) and
+2(c)(2)(C). 63 In addition, the definition is substantially the same as the definitions in the FDIC
+Final Rule, the OCC Final Rule, and the Board Final Rule. 64 Further, we noted in the 2011
+Interim Rule Release that the definition of retail forex transaction has at least two important
+features. First, certain transactions in foreign currency are excluded from the definition,
+including spot transactions, contracts of sale that create an enforceable obligation to deliver
+between a buyer and seller that have the ability to deliver and accept delivery, respectively, in
+connection with their line of business, and forex transactions executed or traded on an exchange
+or designated contract market. 65 As we discussed previously, the exclusion for spot transactions
+was significantly expanded after the CFTC issued an interpretation, following the Commission’s
+extension of the Interim Rule, that conversion trades are considered to be spot transactions and
+are therefore outside the scope of retail forex. 66
+The second important feature of the definition is that a “rolling spot” forex transaction
+(also known as a Zelener contract), 67 is not excluded from the definition as a spot transaction.
+Although a rolling spot forex transaction normally requires delivery of currency within two days,
+in practice these contracts are indefinitely renewed every other day and no currency is actually
+
+63
+
+7 U.S.C. 2(c)(2)(B) and 7 U.S.C. 2(c)(2)(C).
+
+64
+
+See FDIC Final Rule at 40781, OCC Final Rule at 41376-41377, and Board Final Rule at
+21020-21021.
+
+65
+
+See 2011 Interim Rule Release at 41678-79.
+
+66
+
+See supra note 27.
+
+67
+
+See CFTC v. Zelener, 373 F.3d 861 (7th Cir. 2004); see also CFTC v. Erskine, 512 F.3d
+309 (6th Cir. 2008) (discussing Zelener contracts).
+21
+
+delivered until one party affirmatively closes out the position. 68 The Commission believes that a
+contract with a retail customer for a rolling spot forex transaction is economically more similar
+to a retail forex future, as described in CEA section 2(c)(2)(B)(i)(I), than a spot forex contract. 69
+This interpretation is consistent with the approach of other Federal regulatory agencies acting
+pursuant to section 742 of the Dodd-Frank Act to treat all agreements, contracts, and transactions
+in foreign currency described in CEA section 2(c)(2)(B)(i)(I) and all agreements, contracts, and
+transactions in foreign currency that are functionally or economically similar to agreements,
+contracts, or transactions described in CEA section 2(c)(2)(B)(i)(I), similarly. 70
+The Commission received comments from two groups of commenters on the definitions
+included in section (a) suggesting that the Commission amend terms to clarify that conversion
+trades should not be regulated. 71 As discussed above, these comments both requested changes
+that are no longer necessary in light of the CFTC’s interpretation regarding conversion trades. 72
+B.
+
+Rule 15b12-1(b): Broker-dealers Engaged in a Retail Forex Business
+
+Rule 15b12-1(b) requires that a broker-dealer comply with the Exchange Act, the rules
+and regulations thereunder, and the rules of the SROs of which the broker-dealer is a member,
+insofar as they are applicable to retail forex transactions. 73 These include rules related to the
+requirements of rules and regulations for retail forex in Section 2(c)(E)(iii)(I) of the CEA, 74
+68
+
+See 2011 Interim Rule Release, note 34, at 41679. See also CFTC Proposing Release at
+3284-3285 for a discussion of Zelener contracts and the CFTC’s regulation of these
+contracts.
+
+69
+
+See 2011 Interim Rule Release at 41679.
+
+70
+
+See supra note 14.
+
+71
+
+See SIFMA/ISDA Letter and ABA/GFMA Letter.
+
+72
+
+See supra note 31.
+
+73
+
+Rule 15b12-1(b).
+
+74
+
+7 U.S.C. 2(c)(2)(iii)(I).
+22
+
+including but not limited to rules for disclosure, recordkeeping (or documentation), capital and
+margin, reporting, and business conduct. 75 The Commission initially adopted this section (b) in
+the same form in 2011 and the rationale for our adoption of this section has not changed.
+Provided below are examples of obligations also discussed in the 2011 Interim Rule
+Release, including certain SRO requirements, relating to disclosure, recordkeeping (or
+documentation), capital and margin, reporting, and business conduct that are applicable to
+broker-dealers’ retail forex transactions.
+Disclosure Requirements
+Broker-dealers that engage in a retail forex business must comply with the disclosure
+requirements in NASD Rule 2210. 76 NASD Rule 2210 requires all communications with the
+public by members of FINRA – including forex-related communications – to be based on
+principles of fair dealing and good faith, to be fair and balanced, and to provide a sound basis for
+evaluating the facts regarding the market generally and a customer’s specific transaction. 77
+NASD Rule 2210 further prohibits broker-dealers from making “any false, exaggerated,
+unwarranted, or misleading statement or claim in any communication with the public.”
+Recordkeeping Requirements
+Exchange Act Rules 17a-3 and 17a-4 require a broker-dealer to make, keep current, and
+preserve records regarding its business. For example, Exchange Act Rule 17a-3(a)(2) requires a
+broker-dealer to make and keep current a general ledger, which provides details relating to all
+
+75
+
+See 2011 Interim Rule Release at 41679-81 for a discussion of some of the Exchange Act
+and SRO rules that are applicable to broker-dealer retail forex transactions.
+
+76
+
+See FINRA Forex Notice.
+
+77
+
+See id.
+23
+
+assets, liabilities, income and expense and capital accounts, which could include entries related
+to retail forex.
+Net Capital and Margin Requirements
+Each broker-dealer must comply with Exchange Act Rule 15c3-1, which prescribes
+minimum regulatory net capital requirements for broker-dealers. The Commission notes that,
+under Exchange Act Rule 15c3-1(c)(2)(iv), any unsecured receivable arising from a retail forex
+transaction must be deducted when computing the broker-dealer’s net capital. 78 The provisions
+of the net capital rule dealing with contractual commitment charges under Rule 15c3-1(c)(2)(viii)
+also apply to commitments with respect to foreign currency. Generally, broker-dealer margin
+requirements are set by Regulation T 79 and SRO rules. 80
+Reporting Requirements
+A broker-dealer is required to file with the Commission periodic financial and operational
+reports (e.g., annual audited financial statements and periodic FOCUS Reports), as prescribed by
+Exchange Act Rule 17a-5, that may include relevant information regarding a broker-dealer’s
+retail forex business, if any. 81 In addition, FINRA has advised its member firms that a broker-
+
+78
+
+17 CFR 240.15c3-1(c)(2)(iv).
+
+79
+
+12 CFR 220.
+
+80
+
+See supra note 47.
+
+81
+
+Retail forex data may factor into a broker-dealer’s financial reports; however, the
+presentation of such data on these reports would be aggregated with other financial data
+associated with the broker-dealer’s activities and would not be specifically identified as
+relating to retail forex. See, e.g., Form X-17A-5, 17 CFR 249.617. In addition, FINRA
+Rule 4524 requires broker-dealers to file supplemental FOCUS information, including
+information about commissions attributable to foreign exchange products in the
+supplemental statement of income (“SSOI”) and information about the gross amount of
+all foreign exchange forward transactions in the supplemental schedule for derivatives
+and other off-balance sheet items (“OBS”). See Exchange Act Release No. 66364
+(February 9, 2012), 77 FR 8938 (February 15, 2012), and Exchange Act Release No.
+24
+
+dealer’s expansion of its business to include retail forex transactions constitutes a material
+change in business operations pursuant to NASD Rule 1017(a), and a broker-dealer must first
+apply for and receive approval from FINRA to conduct this activity. 82 Additionally, Exchange
+Act Rule 17a-8 requires a broker-dealer to report to the U.S. Treasury Department’s Financial
+Crimes Enforcement Network certain enumerated types of transactions, including suspicious
+transactions in foreign currencies and foreign currency futures and options. 83
+Business Conduct Requirements
+In the course of complying with certain Exchange Act requirements, rules and regulations
+thereunder, and SRO rules relating to business conduct, broker-dealers must address their retail
+forex business. 84 For example, FINRA Rule 2010 (formerly NASD Rule 2110), which requires
+broker-dealers, in the conduct of their business, to observe high standards of commercial honor
+and just and equitable principles of trade, applies to all of a broker-dealer’s business, including
+
+68832 (February 5, 2013), 78 FR 9754 (February 11, 2013) (Commission orders
+approving the SSOI and OBS, respectively).
+82
+
+See FINRA Forex Notice.
+
+83
+
+See Exchange Act Release No. 18321 (Dec. 10, 1981); 46 FR 61454 (Dec. 17, 1981); see
+also FINRA Rule 3310 (formerly NASD Rule 3011) (requiring FINRA member firms to
+establish and implement policies and procedures that can be reasonably expected to
+detect and cause the reporting of suspicious transactions). As FINRA noted, “FINRA
+member firms engaging in retail forex activities should ensure their Anti-Money
+Laundering Program addresses the risks associated with the business and includes
+procedures for monitoring, detecting, and reporting suspicious transactions associated
+with their retail forex activities.” See FINRA Forex Notice.
+
+84
+
+The suitability requirement under FINRA Rule 2111 requires, in part, that a broker-dealer
+or associated person “have a reasonable basis to believe that a recommended transaction
+or investment strategy involving a security or securities is suitable for the customer,
+based on the information obtained through the reasonable diligence of the [firm] or
+associated person to ascertain the customer’s investment profile.” This requirement
+would generally not apply in the context of a retail forex transaction unless it is part of a
+recommended investment strategy that also involves a security.
+25
+
+its retail forex business. 85 FINRA has stated that to comply with FINRA Rule 2010, a member
+firm must adequately disclose to its retail customers that the firm is acting as a counterparty to a
+transaction, the risks associated with forex trading, and the risks and terms of leveraged
+trading. 86 Broker-dealers also need to address retail forex transactions in connection with the
+customer reserve bank account requirements under Exchange Act Rule 15c3-3. In calculating
+what amount, if any, a broker-dealer must deposit on behalf of its customers in a reserve bank
+account pursuant to Exchange Act Rule 15c3-3(e), the broker-dealer must use the formula set
+forth in Exchange Act Rule 15c3-3a.
+As we noted in the Interim Rule Release, these examples are not inclusive of all
+regulatory requirements administered by the Commission that must be complied with by a
+broker-dealer engaging in a retail forex business. 87 The Commission does not intend to suggest
+that other provisions, rules and regulations, including antifraud provisions and SRO rules, may
+not apply to broker-dealers’ retail forex business.
+While the Commission did not receive any comments that directly addressed Rule 15b121(b), it received comments that set forth recommendations for potential regulations that could
+apply to broker-dealers’ retail forex businesses. 88 As discussed above, the Commission believes
+it is appropriate to give additional consideration to the recommendations provided by all of the
+commenters and is adopting the rule to permit additional time for the Commission to assess the
+market for retail forex and potentially develop more targeted rules for retail forex and to consider
+any rules that an SRO may propose regarding its members’ retail forex activities.
+85
+
+See FINRA Forex Notice.
+
+86
+
+Id.
+
+87
+
+See 2011 Interim Rule Release at 41681.
+
+88
+
+See Philadelphia Financial Letter and Second Greeneye Comment Email. See also supra
+note 34.
+26
+
+C.
+
+Rule 15b12-1(c): Broker-dealers Deemed to be Acting Pursuant to a
+Commission Rule
+
+Rule 15b12-1(c) provides that any registered broker or dealer that engages in a retail
+forex business in compliance with paragraph (b) of the rule on or after the effective date of the
+rule will be deemed, until the expiration date specified in paragraph (d) of the rule, to be acting
+pursuant to a rule or regulation described in CEA section 2(c)(2)(E)(ii)(I), as amended by section
+742 of the Dodd-Frank Act. 89 The Commission adopted this section (c) in the same form in
+2011 and did not receive any comments that addressed this section.
+D.
+
+Rule 15b12-1(d): Expiration
+
+Rule 15b12-1(d) contains the expiration date of the rule. 90 The Commission is revising
+this paragraph of the rule to extend the expiration date to July 31, 2016. As discussed above, this
+revision to paragraph (d) will allow the rule to continue to apply while the Commission considers
+whether any additional requirements are necessary with respect to broker-dealer’s retail forex
+activities. The Commission will also consider other possible alternative actions, including
+whether Rule 15b12-1 should be proposed, without a sunset provision, in its current form. The
+Commission will also consider whether the rule should be allowed to expire without further
+Commission action after the effective period ends.
+III.
+
+ECONOMIC ANALYSIS
+A.
+
+Introduction
+
+Section 3(f) of the Exchange Act requires the Commission to consider or determine
+whether an action is necessary or appropriate in the public interest, and to consider, in addition to
+the protection of investors, whether the action would promote efficiency, competition, and
+89
+
+Rule 15b12-1(c).
+
+90
+
+Rule 15b12-1(d).
+27
+
+capital formation whenever it engages in rulemaking under the Exchange Act. 91 In addition,
+Section 23(a)(2) of the Exchange Act requires the Commission, when making rules under the
+Exchange Act, to consider the impact such rules would have on competition. 92 Section 23(a)(2)
+of the Exchange Act prohibits the Commission from adopting any rule that would impose a
+burden on competition not necessary or appropriate to further the purposes of the Exchange
+Act. 93
+Many of the benefits and costs discussed below are difficult to quantify. For example,
+we believe that a key benefit to the adoption of Rule 15b12-1 is the prevention of inefficient
+disruptions in retail customers’ access to foreign exchange markets. However, in the absence of
+current data on investor participation in the retail forex market, the magnitude of these
+inefficiencies is difficult to estimate. Specifically, if the alternative to conducting retail forex
+through a broker is to open an account with an FCM, then an estimate of the aggregate costs
+associated with the necessary account transfers would likely require information about the
+number of customer accounts that would be affected and the notional value of retail forex
+activity in those accounts.
+Similarly, as discussed below, we recognize that investors who choose to use exchangetraded products to hedge currency risk will face the risk that a hedging instrument does not
+perfectly replicate the exposure to be hedged. While we might be able to estimate the quantity of
+basis risk for a particular position, a measure of the economic significance of this basis risk
+across the investor base to which a prohibition on retail forex would apply requires information
+about the foreign currency exposures that retail customers might seek to hedge. Although one
+91
+
+See 15 U.S.C. 78c(f).
+
+92
+
+See 15 U.S.C. 78w(a)(2).
+
+93
+
+See id.
+28
+
+comment letter provided some data on the scope of the market, 94 the Commission does not have
+sufficient data about retail forex participation to produce precise estimates of the aggregate
+economic effects of adopting Rule 15b12-1 and possible alternatives to this rulemaking. As a
+result, much of the discussion on costs and benefits that follows is qualitative in nature.
+However, where possible, the Commission has attempted to quantify some economic effects.
+We understand that under the current regulatory regime, retail customers typically enter
+into foreign exchange transactions with broker-dealers for a number of reasons. Industry
+participants have informed us that the most common foreign exchange transactions are
+conversion trades, in which a currency trade is made in connection with a foreign securities
+transaction. These are excluded from the scope of retail forex transactions and thus from the
+Commission’s rule as discussed above. 95 Based on data one commenter provided from a small
+sampling of larger broker-dealers, in terms of notional amount, foreign exchange conversion
+trades would account for approximately 90% of foreign exchange transactions conducted
+through broker-dealers, and 99% of all broker-dealer customer accounts are involved in
+conversion trades, though not all trades within an account may be conversion trades. 96
+
+94
+
+See Morgan Lewis Letter which provides some estimate on the overall scope of the retail
+forex market. See also supra section I.E. for a discussion of this comment letter.
+
+95
+
+See Morgan Lewis Letter. As explained above, the ABA/GFMA Letter requested from
+the CFTC an interpretation that excluded conversion trades from the prohibition under
+CEA section 2.
+
+96
+
+See Morgan Lewis Letter, which provided data from five large-broker dealers, but, only
+some of the broker-dealers provided information for every type of transaction that is cited
+in the letter. The data included a sampling of five large broker-dealer firms for forex data
+during the calendar year 2010 (or in one firm’s case, June 2010 through June 2011)
+showing that the estimated aggregate notional value of conversion trades for the firms
+that provided data for the year was $13.55 billion while the estimated aggregate notional
+value of non-conversion trades was $1.43 billion. The data also showed that the
+estimated annual number of accounts involved in conversion trades for the time period
+was 17,600 and the number of non-conversion accounts was 187. See id.
+29
+
+Commenters have also conveyed to us that retail customers often enter into forex transactions
+with broker-dealers as part of a hedging strategy. For instance, retail customers may engage in
+forex transactions through broker-dealers in order to hedge currency risk in securities or in a
+portfolio held in the customer’s brokerage account. They may also engage in these transactions
+in order to obtain exposure to foreign markets as part of their overall investment strategy. 97
+Congress prohibited the retail forex transactions described in CEA section 2(c) except
+pursuant to rules adopted by the relevant Federal regulatory agencies allowing the transactions.
+As we noted in the 2011 Interim Rule Release, some of these transactions, such as hedging
+transactions may be beneficial to investors as they provide a mechanism for mitigating risks. 98
+At the same time, the Commission is aware of potentially abusive practices that can occur in the
+retail forex market. Such practices may include, for example, misleading or lack of disclosure
+about fees and forex pricing, or misleading advertising directed to retail investors. 99
+As discussed above, on April 18, 2012, a group of commenters asked the CFTC to take
+the view that forex transactions that are solely incidental to, and are initiated for the sole purpose
+of, permitting a client to complete a transaction in a foreign security, through conversion trades
+would not be subject to the retail forex prohibition under section 2 of the CEA. 100 In August
+2012, the CFTC issued an interpretation in a joint rulemaking with the Commission that clarifies
+that conversion trades are not retail forex transactions subject to the prohibition under the CEA.
+This interpretation permits broker-dealers to engage in conversion trades without a rulemaking
+
+97
+
+SIFMA/ISDA Letter at 4, Annex A at 1 – 2.
+
+98
+
+See 2011 Interim Rule Release at 41684.
+
+99
+
+See id.
+
+100
+
+See ABA/GFMA Letter.
+30
+
+by the Commission. It also significantly reduces the level of broker-dealer foreign exchange
+activity that is subject to the prohibition in section 2(c) of the CEA and thus to the final rule. 101
+Although the CFTC interpretation excludes conversion trades from the definition of retail
+forex, hedging and speculative trading in foreign currency (other than bona fide spot
+transactions) continue to fall within the scope of the definition. Broker-dealers and BD-FCMs
+are therefore prohibited from engaging in such retail forex activities absent a Commission rule
+allowing them to do so.
+Adopting Rule 15b12-1 will maintain the regulatory framework that currently exists for
+broker-dealers under the Interim Rule, and will not create new regulatory obligations.
+Furthermore, the rule will preserve the ability of broker-dealers to provide, among other services,
+hedging to retail customers while the Commission considers what further steps to take, if any.
+The Commission previously considered and discussed its economic analysis of Rule
+15b12-1T. 102 When the Commission initially adopted the Interim Rule in 2011, we solicited
+comment on the economic analysis and received one comment that addressed the economic
+analysis. 103 We adopted Rule 15b12-1T on an interim final basis to allow the existing regulatory
+framework for retail forex transactions to continue for a defined period, to avoid potentially
+unintended consequences from broker-dealers immediately discontinuing their retail forex
+business, and to provide the Commission time to consider the appropriate regulatory framework
+
+101
+
+This is in contrast to the estimated level of broker-dealer foreign exchange activity that
+was understood to exist when the Commission initially acted to adopt the Interim Rule in
+2011 and when it extended the Interim Rule in 2012.
+
+102
+
+For a detailed description of the costs and benefits of Rule 15b12-1T, see 2011 Interim
+Rule Release at 41684.
+
+103
+
+See Better Markets Letter.
+31
+
+regarding retail forex transactions. 104 Furthermore, parties who commented on the rule asked the
+Commission to preserve the ability of investors to engage in retail forex transactions through
+their broker-dealers. 105 In July 2012, the Commission extended the effective date of the Interim
+Rule to July 16, 2013 and received four comments (from two commenters) on the extension,
+none of which addressed the economic analysis in the 2012 Extension Release. 106
+B.
+
+Economic Baseline
+
+The baseline for our economic analysis of the rule is the state of the retail forex market in
+existence today after the adoption of the Interim Rule and its extension, in which broker-dealers
+and BD-FCMs are permitted to conduct retail forex transactions in compliance with the existing
+federal securities laws and the rules of an SRO of which the broker-dealer or BD-FCM is a
+member. As is indicated in the discussion of economic effects and potential alternatives that
+follows, estimates of the economic impacts of this rule crucially depend on current participation
+in retail forex, both aggregate notional amounts and risk exposures to different foreign
+currencies. Broker-dealers are not required to report the foreign currency exposure of their retail
+clients and commenters did not provide data on the foreign currency exposure of their retail
+clients. Accordingly, the Commission only has limited data on the level of participation in the
+retail forex market. However, we have some information regarding the current size of the retail
+forex market and the use of foreign exchange instruments by retail investors from comment
+
+104
+
+See 2011 Interim Rule Release at 41683. As noted above, as of the time the Commission
+adopted the Interim Rule and extended it, the CFTC had not issued its interpretation that
+conversation trades were not retail forex transactions.
+
+105
+
+Fourteen of sixteen commenters were in favor of the rule and supported the ability of
+broker-dealers to conduct retail forex transactions. See, e.g. SIFMA/ISDA Letter.
+
+106
+
+See supra note 37.
+32
+
+letters and other research. 107 In attempting to evaluate and confirm the estimates of the size of
+the broker-dealer retail forex market, which as noted above included conversion trades that now
+are excluded from the definition of retail forex, the Commission also looked at information from
+the Bank of International Settlements (BIS). This information indicates a recent increase in retail
+participation in forex markets. 108 Though BIS did not separately compute statistics for the subset
+of activity defined as retail forex by the CEA, nevertheless this may provide an indication of a
+general trend spanning both retail forex and foreign exchange transactions by retail customers
+that falls outside the definition of retail forex.
+In addition, as mentioned above, one commenter provided data on participation in forex
+markets taken from a small sampling of large broker-dealers. According to this commenter, in
+terms of notional amount, foreign exchange conversion trades account for approximately 90% of
+all foreign exchange transactions (including transactions with both ECPs and non-ECPs)
+conducted by these broker-dealers. 109 This supports the premise that a large portion of foreign
+exchange activity flowing through broker-dealers falls outside of the scope of retail forex.
+Further, 99% of all broker-dealer customer accounts in this sample were involved in conversion
+trades. However, not all foreign exchange transactions engaged in by retail customers were
+conversion trades. The same commenter estimated transactions with a notional value of $550
+million per month in currency forwards, options and rolling spot with non-ECPs. 110
+Accordingly, while conversion trades might comprise the bulk of foreign exchange transactions
+107
+
+See e.g. Morgan Lewis Letter and Philadelphia Financial Letter.
+
+108
+
+See King, Michael and Dagfinn Rime. “The $4 trillion question: what explains FX
+growth since the 2007 survey?” BIS Quarterly Review, December, 2010 (attributing
+increased foreign exchange turnover to retail investor participation, facilitated by
+electronic execution platforms).
+
+109
+
+See SIFMA Letter.
+
+110
+
+See id.
+33
+
+engaged in by retail investors, their participation in other forms of foreign exchange transactions
+that fall within the scope of retail forex may be significant.
+C.
+
+Benefits
+
+Rule 15b12-1 is designed to preserve retail customers’ access to the forex markets
+through broker-dealers and thus promote efficiency by, for example, permitting retail customers
+to continue to enter into forex transactions in connection with trades in foreign securities, as part
+of their brokerage activities until such time as Rule 15b12-1 expires by its terms or the
+Commission takes further regulatory action in this area. In the absence of Rule 15b12-1, brokerdealers would be required to exit certain types of retail forex business, which could require retail
+customers to engage in forex transactions through an FCM that is not dually registered as a
+broker-dealer or other service provider which could be economically inefficient. 111 In particular,
+to the extent that access to the forex markets through broker-dealers provides hedging
+opportunities for foreign investments, economic benefits may accrue to retail customers.
+Furthermore, by continuing to preserve a channel for broker-dealers’ retail customers to access
+forex transactions through broker-dealers, the adoption of the final rule will continue to prevent
+any loss of competition in the retail forex market that could result if broker-dealers or BD-FCMs
+were required to exit the business. Adopting the rule also avoids potentially unintended
+consequences from broker-dealers immediately discontinuing their retail forex business,
+including costs or inefficiencies that may result if retail customers have to open new accounts
+
+111
+
+Establishing an account with an FCM may not bear a monetary cost, however, a deposit
+of several thousand dollars is frequently required to maintain an open account. A
+customer could experience increased costs from maintaining separate deposit minimums
+for securities and commodities accounts. In addition, other costs may also apply, such as
+resources associated with transferring accounts.
+34
+
+with FCMs that are not BD-FCMs or with other entities in order to trade in retail forex or seek to
+trade in products that may perform as substitutes to retail forex, such as currency ETPs.
+The adoption of the rule would not necessarily promote competition between brokerdealers and the other regulated intermediaries because broker-dealers would continue to offer
+retail forex services under Rule 15b12-1 which imposes requirements that already apply to
+broker-dealers under the existing regulatory regime, while other regulated entities were required
+to comply with new rules applicable to them. Further, all broker-dealers engaging in a retail
+forex business must comply with the final rule; therefore, competition among broker-dealers
+would most likely not be affected by adoption of the rule.
+Adopting Rule 15b12-1 will impose no new burden on competition and should maintain
+competition among intermediaries. Under Rule 15b12-1T, regulatory requirements for brokerdealers operating in the retail forex market would remain unchanged. As a result, retail
+customers would continue to be able to choose between hedging their own portfolios of foreign
+securities in a securities account or relying on other intermediaries or products for hedging.
+Similarly, since the rule preserves the existing regulatory structure, the Commission does not
+expect that adopting the rule will result in any impact on efficiency or impairment of the capital
+formation process.
+D.
+
+Costs
+
+Because Rule 15b12-1 preserves the regulatory regime that had been in place prior to the
+effective date of Section 742(c) of the Dodd-Frank Act, the adoption of the rule imposes no new
+regulatory burdens beyond those that already existed for broker-dealers. The Commission
+recognizes that broker-dealers will face regulatory costs and requirements associated with
+operating in the retail forex market, but these are not new costs or requirements imposed by the
+
+35
+
+rule. 112 As discussed above, the Commission is aware of potentially abusive practices that may
+occur in the retail forex market. 113 To the extent that such practices occur after adoption of this
+rule retail customers may bear the costs associated with these abuses. 114 The Commission notes
+that due to the CFTC’s interpretation of the definition of retail forex, 115 the scope of retail forex
+transactions has narrowed significantly after the Commission adopted and extended the Interim
+Rule. As noted above, while the Commission only has limited information about the size of the
+retail forex market, we believe the scope of the retail forex market is much smaller than
+anticipated when the Commission adopted and extended the Interim Rule and that the number of
+transactions currently engaged in by broker-dealers, and therefore covered by a Commission
+retail forex rule, is much more limited. 116 The Commission believes, on balance, that the
+potential market disruption that may occur if the Commission does not adopt Rule 15b12-1
+justifies the cost of maintaining the current regulatory regime while the Commission considers,
+during the time period set in the rule, whether further regulatory action is warranted.
+
+112
+
+These costs include costs related to disclosure, recordkeeping and documentation, capital
+and margin, reporting, and business conduct. A broker-dealer that currently engages in
+forex transactions with retail customers, for example, incurs costs associated with
+establishing, maintaining, and implementing policies and procedures to comply with
+regulatory requirements; preparing disclosure documents; establishing and maintaining
+forex-related business records; and preparing filings with the Commission, which may
+include legal and accounting fees. See, e.g., 2011 Interim Rule Release at 41684.
+
+113
+
+See 2011 Interim Rule Release at 41684.
+
+114
+
+See Forex Bulletin.
+
+115
+
+See supra note 26 and note 27.
+
+116
+
+See, e.g., Morgan Lewis Letter and SIFMA Letter. As noted by commenters and
+discussed above, most forex activity engaged in by retail customers is conversion trades
+and would no longer be subject to a Commission rule on retail forex.
+36
+
+E. Alternatives Considered
+The Commission considered certain alternatives to adopting Rule 15b12-1. One
+alternative would be to allow Rule 15b12-1T to expire without adopting a final rule, and
+therefore preclude broker-dealers from engaging in a retail forex business, although they could
+continue to enter into conversion trades. A benefit of this alternative could be that certain abuses
+Congress sought to address through the prohibition in Section 742 of the Dodd-Frank Act could
+be addressed through a complete prohibition. The cost of this alternative would be that an
+outright prohibition on retail forex activity would interfere with certain business activities
+conducted by broker-dealers that are potentially beneficial for their customers, including hedging
+activities. 117
+A retail investor seeking to hedge currency risks in a portfolio would have to choose
+between alternative means of doing so. Trading in currency futures is one such alternative, but
+under this approach, retail customers of broker-dealers would be required to open an account
+with a FCM that is not dually registered as a broker-dealer. Moreover, mark-to-market margin
+requirements associated with futures contracts would expose hedging customers to additional
+cash flow risk. While shifting to services provided by a different intermediary would impose
+additional costs, retail customers could, however, potentially benefit from the protection of rules
+to which those intermediaries are subject.
+In comment letters responding to the solicitation of comment in the 2011 Interim Rule
+Release, one commenter suggested another way for retail investors to obtain currency exposure
+is through ETPs. 118 Another commenter suggested that the Commission had not thoroughly
+
+117
+
+See 2011 Interim Rule Release at 41684.
+
+118
+
+See Philadelphia Financial Letter. See also Better Markets Letter. As described above,
+the commenters referred to using currency ETFs. In the discussion here, the term ETPs is
+37
+
+analyzed the extent to which other products or trading strategies represent substitutes for retail
+forex. 119
+In response to the commenters’ concerns, we noted in the 2012 Extension Release that
+currency ETPs are generally designed to provide broad exposure to exchange rate movements. 120
+In this regard, the Commission notes that factors such as accrued interest or sponsor fees may
+cause an ETP to deviate from its benchmark. We also note that a market participant who uses
+ETPs as a hedging tool could face risks from executing hedges on an exchange that may be
+markedly different from the execution risk associated with transacting through a brokerdealer. 121 As such, and consistent with statements in the 2012 Extension Release, it does not
+appear that currency exchange-traded funds will necessarily function as effectively in mitigating
+the currency risk of particular securities transactions as retail forex. 122
+In the 2012 Extension Release, the Commission solicited specific comment on currency
+ETFs, including on the concerns raised in the comment letters received in response to the 2011
+Interim Rule Release, 123 the benefits and costs to retail customers of using currency ETFs as a
+substitute for retail forex, and on the use of currency ETFs to hedge currency risk. 124 The
+Commission did not receive any comments in response to this solicitation of comment regarding
+used to encompass a broader range of potential instruments (including ETFs) that may be
+used to gain exposure to forex.
+119
+
+See Better Markets Letter.
+
+120
+
+See 2012 Extension Release at 41675.
+
+121
+
+See, e.g., Kostovetsky, Leonard. “Index mutual funds and exchange-traded funds.” The
+Journal of Portfolio Management 29.4 (2003), while comparing ETFs to index funds, the
+author describes the different sources of tracking error incurred by ETF investors,
+including management fees and transaction costs in the form of bid-ask spreads.
+
+122
+
+Id.
+
+123
+
+See supra note 118.
+
+124
+
+See 2012 Extension Release at 41674.
+38
+
+currency ETFs, and the Commission continues to believe that ETPs represent an imperfect
+substitute for retail forex. In evaluating further the concerns expressed, however, Commission
+staff supplemented the analysis regarding the additional risks that investors who use ETPs as
+hedging instruments may have to bear discussed in the 2012 Extension Release and above.
+Specifically, staff attempted to estimate the basis risk borne by an investor using an ETP
+to hedge EURUSD exposure. 125 While, on an annual basis, the average difference between ETP
+returns and EURUSD spot returns is small, the volatility of these differences from day-to-day is
+high, approximately 0.50% at a daily frequency. This volatility is indicative of the additional
+risk associated with hedging using ETPs, particularly for short holding periods or frequent
+rebalancing. Under Rule 15b12-1, the same investor could consider using a forward contract for
+EURUSD in her brokerage account. While the average difference in daily returns is higher in
+this case than with an ETP, due to the interest rate differential between Europe and the United
+States, the volatility of these differences is much lower, less than one basis point at a daily
+frequency. 126
+
+125
+
+Commission staff chose EURUSD for its analysis due to ready availability of data on
+ETPs, equity indices and foreign exchange rates related to the Euro area, and because an
+ETP tracking EURUSD was more liquid than ETPs tracking other currencies during the
+sample period. As a result of the additional liquidity, Commission staff expects this ETP
+to result in less exposure to basis risk with respect to EURUSD than other ETPs in the
+same family constructed to track other currency pairs.
+
+126
+
+Calculated based on data from Daily/Monthly U.S. Stock Files © 2012 Center for
+Research in Security Prices (CRSP), The University of Chicago Booth School of
+Business, and Thomson Reuters Datastream. To compute these statistics, Commission
+staff used daily WM Spot closing prices, short-term interest rates and prices for the
+CurrencyShares Euro ETN (ARCA: FXE) from 9/4/2007-12/31/2012 obtained from
+Datastream (interest rates and exchange rates) and CRSP (ETN returns). With these data,
+staff computed daily returns to (i) a EURUSD forward contract; and (ii) to the
+CurrencyShares Euro ETN. To compute the additional risk faced by a EURUSD hedger
+using each of these instruments, staff produced time series of the differences in daily
+returns and computed the average and standard deviations of these series.
+39
+
+Finally, we note that if market participants prefer to transact in ETPs in order to obtain
+currency exposure, they may do so regardless of whether the Commission has or has not adopted
+rules for retail forex. In this regard, while the Commission continues to believe that ETPs have
+their own attendant risks, during the time Rule 15b12-1 is in place until its expiration date, the
+Commission will continue to evaluate the retail forex market, including alternative means of
+hedging currency risk and the availability of substitutes to retail forex. As such, as discussed
+throughout the release, the Commission believes that it is appropriate to allow broker dealers to
+continue engaging in retail forex transaction subject to existing requirements during that time.
+If, as an alternative to the final rule, the Commission allowed the Interim Rule to expire,
+investors with international portfolios who are restricted from retail forex may choose to leave
+currency exposures unhedged. The risk of a portfolio of foreign securities that is not hedged,
+with returns computed in U.S. dollar terms, comprises (i) the risk of the underlying securities in
+local currency; (ii) the risk of the local currency relative to the U.S. dollar; and (iii) the
+correlation between the underlying security returns in local currency and currency returns.
+Allowing investors to hedge currency exposures removes components (ii) and (iii), leaving
+investors to bear only the risk associated with the underlying securities. 127
+Further, inefficiencies stemming from an inability to pursue currency hedging strategies
+in international portfolios, or higher costs of doing so, could cause investors to reduce their
+allocation to international investments. In the limit, investors may respond by exiting
+
+127
+
+Based on data from Thomson Reuters Datastream, Commission staff used monthly
+returns for the period 9/4/2007-12/31/2012 to estimate the annualized risk and return for
+(i) the MSCI Europe index, unhedged in USD and (ii) the MSCI Europe index, hedged to
+USD. Staff chose these indices to simplify the computation of portfolio returns for
+various hedge ratios. Based solely on point estimates, partially-hedged portfolios offered
+higher total return per unit of risk.
+40
+
+international markets. The resulting lack of diversification could represent a reduction in
+portfolio efficiency. 128
+The Commission also considered adopting Rule 15b12-1 without a sunset provision.
+While the direct costs and benefits of this alternative would be similar to those applicable under
+the rule being adopted (as it would simply continue the existing regulatory requirements for
+broker-dealers engaging in retail forex transactions), it nevertheless could limit the
+Commission’s ability to fully consider, prior to issuing permanent rules, potential changes to the
+retail forex market; in part changes resulting from actions by other regulators that have recently
+adopted rules relating to retail forex that impose different requirements on market intermediaries
+than those the Commission imposes on broker-dealers under Rule 15b12-1. The Commission
+anticipates that it will reconsider the rule prior to its expiration in light of developments in the
+retail forex market during that time, as well as the Commission’s and SROs’ experiences with
+retail forex trading pursuant to this Rule.
+F.
+
+Conclusion
+
+The adoption of Rule 15b12-1 will not change the regulatory requirements for brokerdealers operating in the retail forex market. Similarly, the rule does not alter the existing
+regulatory structure. To the extent that potentially abusive practices continue in the retail forex
+market, the market will continue to bear the costs associated with any such abuses and the
+resultant inefficient provision of services across the market. The rule will continue to allow
+retail customers access to hedging transactions and other forex transactions through brokerdealers, without the need to shift business and open new accounts at other market intermediaries.
+128
+
+See, e.g., French, Kenneth R. and James M. Poterba. “Investor Diversification and
+International Equity Markets,” American Economic Review, Vol. 81, No. 2, 1991, noting
+that large variation in expected returns across countries is required to justify lack of
+diversification in a mean-variance optimization setting.
+41
+
+If the Commission or an SRO imposes any additional burdens on retail forex transactions the
+new burdens will be considered in conjunction with those new rules.
+IV.
+
+OTHER MATTERS
+The Administrative Procedure Act generally requires that an agency publish a substantive
+
+rule in the Federal Register 30 days before it becomes effective. 129 This requirement, however,
+does not apply if the agency finds good cause for making the rule effective sooner. 130 The
+Commission notes that Rule 15b12-1 does not impose any new regulatory requirements on
+broker-dealers and that the rule is identical in substance to the Interim Rule, which requires that
+broker-dealers comply with existing Commission and SRO rules as they are applicable to retail
+forex transactions. A 30-day effective date is therefore not necessary for broker-dealers to
+prepare to comply with the rule. Furthermore, broker-dealers are currently permitted to engage
+in a retail forex business under the Interim Rule. A gap in the effective dates of the Interim Rule
+and the final rule would cause the statutory prohibition to go into effect for a short period of time
+and could potentially create disruption and unintended consequences to broker-dealers and their
+customers. 131 For these reasons, 132 the Commission finds that there is good cause for making the
+rule effective earlier than 30 days after publication in the Federal Register.
+V.
+
+PAPERWORK REDUCTION ACT
+The Commission notes that Rule 15b12-1 does not impose any new “collection of
+
+information” requirements within the meaning of the Paperwork Reduction Act of 1995
+129
+
+See 5 U.S.C. 553(d).
+
+130
+
+Id. at 553(d)(3).
+
+131
+
+See, generally, the discussion in section III.C. regarding the effect on retail customers if
+broker-dealers are not permitted to engage in retail forex transactions.
+
+132
+
+The Commission also notes that, as discussed above, there have been some recent
+developments related to retail forex transactions, including the adoption in April 2013 of
+final rules by the Federal Reserve. See Board Final Rule (effective May 13, 2013).
+42
+
+(“PRA”), 133 nor does it create any new filing, reporting, recordkeeping, or disclosure reporting
+requirements for broker-dealers that are or plan to be engaged in a retail forex business.
+Accordingly, the Commission did not submit the rule to the Office of Management and Budget
+for review in accordance with the PRA.
+In the 2011 Interim Rule Release and the 2012 Extension Release, the Commission
+requested comment on its conclusion that there are no collections of information in connection
+with the Interim Rule. 134 The Commission received no comments relating to the PRA analysis in
+the 2011 Interim Rule Release or the 2012 Extension Release.
+VI.
+
+REGULATORY FLEXIBILITY ACT CERTIFICATION
+In the 2011 Interim Rule Release, the Commission certified that pursuant to 5 U.S.C.
+
+605(b) the Interim Rule, which is substantively the same as Rule 15b12-1 (with the exception of
+the sunset date), will not have a significant economic impact on a substantial number of small
+entities. The Commission received no comments on the certification included in the 2011
+Interim Rule Release. The Commission also made this certification in the 2012 Extension
+Release and the Commission received no comments on that certification. Like the Interim Rule,
+Rule 15b12-1 applies to broker-dealers that may engage in retail forex transactions. However,
+the rule does not impose new regulatory obligations, costs, or burdens on such broker-dealers.
+While the rule applies to broker-dealers that may be small businesses, any costs or regulatory
+burdens incurred as a result of the rule are the same as those incurred by small broker-dealers
+prior to the effective date of section 742 of the Dodd-Frank Act. Broker-dealers have already
+incurred those costs and regulatory burdens through establishing compliance with the rules
+adopted by the Commission under the Exchange Act applicable to broker-dealers, as well as
+133
+
+44 U.S.C. 3501 et seq.
+
+134
+
+See 2011 Interim Rule Release at 41683-84.
+43
+
+relevant SRO rules. Further, the rule does not change the burdens on small broker-dealers
+relative to large broker-dealers. Accordingly, the rule will not have a significant economic
+impact on a substantial number of small entities.
+VII.
+
+STATUTORY AUTHORITY AND TEXT OF RULE AND AMENDMENT
+Pursuant to section 2(c)(2) of the Commodity Exchange Act, as well as the Exchange Act
+
+as amended, the Commission is adopting Exchange Act Rule 15b12-1.
+List of Subjects in 17 CFR Part 240
+Brokers, Consumer protection, Currency, Reporting and recordkeeping requirements. In
+accordance with the foregoing, the Securities and Exchange Commission is amending Title 17,
+chapter II, of the Code of Federal Regulations as follows:
+TEXT OF THE RULE AND AMENDMENT
+PART 240 – GENERAL RULES AND REGULATIONS, SECURITIES EXCHANGE
+ACT OF 1934
+1.
+
+The general authority citation for Part 240 is revised to read as follows:
+Authority:
+
+15 U.S.C. 77c, 77d, 77g, 77j, 77s, 77z-2, 77z-3, 77eee, 77ggg, 77nnn,
+
+77sss, 77ttt, 78c, 78c-3, 78c-5, 78d, 78e, 78f, 78g, 78i, 78j, 78j-1, 78k, 78k-1, 78l, 78m, 78n,
+78n-1, 78o, 78o-4, 78o-10, 78p, 78q, 78q-1, 78s, 78u-5, 78w, 78x, 78ll, 78mm, 80a-20, 80a-23,
+80a-29, 80a-37, 80b-3, 80b-4, 80b-11, 7201 et. seq., and 8302; 7 U.S.C. 2(c)(2)(E); 12 U.S.C.
+5221(e)(3); 18 U.S.C. 1350; and Pub. L. 111-203, 939A, 124 Stat. 1376, (2010), unless
+otherwise noted.
+*
+2.
+
+*
+
+*
+
+*
+
+*
+
+Add § 240.15b12-1 to read as follows:
+
+§ 240.15b12-1 Brokers or dealers engaged in a retail forex business.
+
+44
+
+(a) Definitions. In addition to the definitions in this section, the following terms have the
+same meaning as in the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.): “broker,”
+“dealer,” “person,” “registered broker or dealer,” and “self-regulatory organization.”
+(1) Act means the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).
+(2) Retail forex business means engaging in one or more retail forex transactions with the
+intent to derive income from those transactions, either directly or indirectly.
+(3) Retail forex transaction means any account, agreement, contract or transaction in
+foreign currency that is offered or entered into by a broker or dealer with a person that is not an
+eligible contract participant as defined in section 1a(18) of the Commodity Exchange Act (7
+U.S.C. 1a(18)) and that is:
+(i) A contract of sale of a commodity for future delivery or an option on such a contract;
+(ii) An option, other than an option executed or traded on a national securities exchange
+registered pursuant to section 6(a) of the Act (15 U.S.C. 78(f)(a)); or
+(iii) Offered, or entered into, on a leveraged or margined basis, or financed by a broker or
+dealer or any person acting in concert with the broker or dealer on a similar basis, other than:
+(A) A security that is not a security futures product as defined in section 1a(47) of the
+Commodity Exchange Act (7 U.S.C. 1a(47)); or
+(B) A contract of sale that:
+(1) Results in actual delivery within two days; or
+(2) Creates an enforceable obligation to deliver between a seller and buyer that have the
+ability to deliver and accept delivery, respectively, in connection with their line of business.
+(b) Any registered broker or dealer may engage in a retail forex business provided that
+such broker or dealer complies with the Act, the rules and regulations thereunder, and the rules
+
+45
+
+of the self-regulatory organization(s) of which the broker or dealer is a member, including, but
+not limited to, the disclosure, recordkeeping, capital and margin, reporting, business conduct, and
+documentation requirements, insofar as they are applicable to retail forex transactions.
+(c) Any registered broker or dealer that is engaged in a retail forex business in
+compliance with paragraph (b) of this section on or after the effective date of this section shall be
+deemed to be acting pursuant to a rule or regulation described in section 2(c)(2)(E)(ii)(I) of the
+Commodity Exchange Act (7 U.S.C. 2(c)(2)(E)(ii)(I)).
+(d) This section shall expire and no longer be effective on July 31, 2016.
+
+By the Commission.
+
+Jill M. Peterson
+Assistant Secretary
+
+Dated July 11, 2013
+
+46
+
+

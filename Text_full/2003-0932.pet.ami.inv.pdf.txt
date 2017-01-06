@@ -1,0 +1,786 @@
+No. 03-932
+
+In the Supreme Court of the United States
+DURA PHARMACEUTICALS, INC., ET AL., PETITIONERS
+v.
+MICHAEL BROUDO, ET AL.
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE
+
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+ERIC SUMMERGRAD
+Deputy Solicitor
+ALLAN A. CAPUTE
+Special Counsel
+to the Solicitor
+Securities and Exchange
+Commission
+Washington, D.C. 20549
+
+THEODORE B. OLSON
+Solicitor General
+Counsel of Record
+THOMAS G. HUNGAR
+Deputy Solicitor General
+DAN HIMMELFARB
+Assistant to the Solicitor
+General
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514–2217
+
+QUESTION PRESENTED
+Whether a securities fraud plaintiff invoking the fraud-onthe-market theory must demonstrate loss causation by
+pleading and proving a causal connection between the alleged fraud and the investment’s subsequent decline in price.
+
+(I)
+
+TABLE OF CONTENTS
+Page
+Statement ........................................................................................
+Discussion ........................................................................................
+A. The court of appeals’ decision conflicts with
+decisions of other courts of appeals .............................
+B. The court of appeals’ decision is incorrect .................
+C. The question presented is one of recurring
+importance ........................................................................
+D. This case is a suitable vehicle for resolving
+the circuit conflict ...........................................................
+Conclusion .......................................................................................
+
+1
+5
+6
+9
+13
+15
+19
+
+TABLE OF AUTHORITIES
+Cases:
+Basic Inc. v. Levinson, 485 U.S. 224 (1988) ...................... 5, 9,
+10, 11, 15
+Bastian v. Petren Res. Corp., 892 F.2d 680 (7th Cir.),
+cert. denied, 496 U.S. 906 (1990) ......................................... 8, 10
+Bateman, Eichler, Hill Richards, Inc. v. Berner,
+472 U.S. 299 (1985) ................................................................
+14
+Binder v. Gillespie, 184 F.3d 1059 (9th Cir. 1999),
+cert. denied, 528 U.S. 1154 (2000) .................................
+3, 4, 10
+Blue Chip Stamps v. Manor Drug Stores, 421
+U.S. 723 (1975) ........................................................................
+15
+Central Bank of Denver, N.A. v. First Interstate
+Bank of Denver, N.A., 511 U.S. 164 (1994) ...................... 14, 15
+Control Data Corp. Secs. Lit., In re, 933 F.2d 616
+(8th Cir.), cert. denied, 502 U.S. 967 (1991) ......................
+9
+Emergent Capital Inv. Mgmt., LLC v. Stonepath
+Group, Inc., 343 F.3d 189 (2d Cir. 2003) ........................... 7, 11
+Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976) ...........
+15
+Gebhardt v. ConAgra Foods, Inc., 335 F.3d 824
+(8th Cir. 2003) ...................................................................
+8, 9, 13
+
+(III)
+
+IV
+Cases—Continued:
+
+Page
+
+Goldberg v. Household Bank, F.S.B., 890 F.2d 965
+(7th Cir. 1989) .........................................................................
+13
+J.I. Case Co. v. Borak, 377 U.S. 426 (1964) .......................
+14
+Knapp v. Ernst & Whinney, 90 F.3d 1431 (9th
+Cir. 1996), cert. denied, 519 U.S. 1112 (1997) ...............
+5, 6, 7
+Lampf, Pleva, Lipkind, Prupis & Petigrow v.
+Gilbertson, 501 US. 350 (1991) ...........................................
+15
+Peil v. Speiser, 806 F.2d 1154 (3d Cir. 1986) .....................
+11
+Robbins v. Koger Props., Inc., 116 F.3d 1441
+(11th Cir. 1997) .................................................................
+5, 6, 11
+Roots P’Ship v. Lands End, Inc., 965 F.2d 1411
+(7th Cir. 1992) .........................................................................
+8
+Santa Fe Indus., Inc. v. Green, 430 U.S. 462 (1977) ........
+15
+Semerenko v. Cendant Corp., 223 F.3d 165
+(3d Cir. 2000), cert. denied, 531 U.S. 1149 (2001) .......
+5, 7, 11
+Suez-Equity Investors, L.P. v. Toronto-Dominion
+Bank, 250 F.3d 87 (2d Cir. 2001) ..................................
+7, 8, 11
+Virginia Military Inst. v. United States, 508 U.S.
+946 (1993) .................................................................................
+16
+Statutes, regulation, and rule:
+Securities Exchange Act of 1934, 15 U.S.C. 78a et seq.:
+§ 10(b), 15 U.S.C. 78j(b) ........................................................
+3
+§ 20(a), 15 U.S.C. 78t(a) ........................................................
+3
+§ 21D(b)(4), 15 U.S.C. 78u-4(b)(4) ...................................
+10, 14
+Private Securities Litigation Reform Act of 1995,
+Pub. L. No. 104-67, 109 Stat. 737 ........................................
+10
+17 C.F.R. 240.10b-5 .........................................
+3, 6, 10, 12, 14, 15
+Fed. R. Civ. P. 23(c)(4)(B) .......................................................
+18
+Miscellaneous:
+H.R. Conf. Rep. No. 369, 104th Cong., 2d Sess. (1995) ......
+Elaine Buckberg et al., Recent Trends in Securities
+Class Action Litigation: 2003 Update, 5 Class Action
+Litig. Rep. 304 (2004) ........................................................
+
+12
+
+16
+
+V
+Miscellaneous—Continued:
+
+Page
+
+Cornerstone Research, Securities Class Action Case
+Filings—2003: A Year in Review (2004), available at
+http://securities.stanford.edu/clearinghouse_research/
+2003_YIR/2003051104.pdf .................................................. 13-14
+Robert L. Stern et al., Supreme Court Practice
+(8th ed. 2002) ..........................................................................
+15
+
+In the Supreme Court of the United States
+No. 03-932
+DURA PHARMACEUTICALS, INC., ET AL., PETITIONERS
+v.
+MICHAEL BROUDO, ET AL.
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE
+
+This brief is submitted in response to the order of this
+Court inviting the Solicitor General to express the views of
+the United States. Because the court of appeals decided an
+important question of federal securities law incorrectly and
+in a manner that conflicts with decisions of other courts of
+appeals, and because this case is a suitable vehicle for
+resolving the conflict, the position of the United States is
+that the petition for a writ of certiorari should be granted.
+STATEMENT
+1. a. Petitioner Dura Pharmaceuticals, Inc. (Dura) developed and marketed products for the treatment of allergies,
+asthma, and other respiratory conditions. Pet. App. 2a n.1.
+In 1995, it began developing a delivery device for asthma
+drugs called Albuterol Spiros. Id. at 19a-20a. The following
+year, it began selling a respiratory antibiotic called Ceclor
+CD. Id. at 41a. In an April 15, 1997, press release
+
+(1)
+
+2
+announcing better-than-expected results for the first quarter of 1997, Dura stated that “strong progress” had been
+made in selling Ceclor CD, and that “[p]atient dosing” had
+been completed for the Albuterol Spiros clinical trials that
+were necessary before a new drug application (NDA) could
+be submitted to the Food and Drug Administration (FDA).
+Id. at 3a. Dura filed the NDA for Albuterol Spiros in
+November 1997. Id. at 4a.
+On February 24, 1998, Dura announced that, for a number
+of reasons, including slower than expected sales of Ceclor
+CD, it was anticipating lower revenues and earnings per
+share in 1998 than had previously been forecast. The next
+day, the price of Dura stock dropped to $20 3/4 from $39 1/8,
+a 47% one-day loss. The February 24 announcement did not
+mention Albuterol Spiros. Pet. App. 5a, 7a, 40a.
+Dura’s business declined throughout the remainder of
+1998. Pet. App. 5a. In November 1998, Dura announced that
+the FDA had decided not to approve Albuterol Spiros, “due
+to electro-mechanical reliability issues and chemistry, manufacturing, and control concerns.” Ibid. Although the complaint in this case does not allege any decline in Dura’s stock
+price after the November 1998 disclosure, it is a fact that,
+following the announcement, the price of Dura stock dropped
+from $12 3/8 to $9 3/4. Pet. 3 n.4; Pet. C.A. Supp. E.R. Tab
+79, Exh. L. Within twelve trading days, however, the stock
+was again selling at nearly $12 1/2. Ibid.
+b. Respondents, shareholders who purchased Dura stock
+between April 15, 1997, and February 24, 1998, filed several
+securities-fraud class actions against Dura and a number of
+its senior officers and/or directors, who are also petitioners
+here. After the complaints were consolidated and amended,
+the district court dismissed the resulting complaint without
+prejudice. Respondents then filed a second consolidated
+amended complaint (complaint). The complaint alleged that
+petitioners made false and misleading statements about
+
+3
+Dura’s performance during the class period, and thereby
+violated Section 10(b) of the Securities Exchange Act of 1934
+(Exchange Act), 15 U.S.C. 78j(b), and Rule 10b-5
+thereunder, 17 C.F.R. 240.10b-5, as well as Section 20(a) of
+the Exchange Act, 15 U.S.C. 78t(a), the “controlling person”
+provision. Pet. App. 2a, 5a-6a, 18a-19a.
+According to the complaint, petitioners made misrepresentations concerning a number of different aspects of
+Dura’s business, only two of which are still at issue: sales of
+Ceclor CD and the development of Albuterol Spiros. Respondents alleged that petitioners deliberately misled the
+investing public into believing that Ceclor CD was selling
+better than it in fact was and that the prospects for
+Albuterol Spiros were better than they in fact were. Pet.
+App. 2a-3a, 6a-7a, 12a, 27a, 34a-39a, 41a-44a.
+2. The district court granted petitioners’ motion to dismiss. Pet. App. 18a-51a. It held that the allegations concerning Ceclor CD did not satisfy the pleading requirements
+for securities-fraud claims, because they did not adequately
+demonstrate that the challenged statements were made with
+scienter. Id. at 45a-47a. It held that the allegations
+concerning Albuterol Spiros failed to state a claim under
+Rule 10b-5, because they did not satisfy the element of loss
+causation, which means that “the misrepresentations or
+omissions caused the harm.” Id. at 39a-40a (quoting Binder
+v. Gillespie, 184 F.3d 1059, 1065 (9th Cir. 1999), cert. denied,
+528 U.S. 1154 (2000)). And it ordered that the dismissal be
+with prejudice, because respondents had already had an
+opportunity to amend the complaint to satisfy the applicable
+pleading requirements. Id. at 51a.
+In holding that the Albuterol Spiros allegations did not
+satisfy the element of loss causation, the district court relied
+on the facts that Dura’s announcement on February 24, 1998,
+did not “contain[] any negative information about Albuterol
+Spiros”; that “Dura did not announce that the FDA would
+
+4
+not approve Albuterol Spiros until nine months later, in
+November 1998”; and that the complaint therefore “does not
+contain any allegations that the FDA’s non-approval had any
+relationship to the February price drop.” Pet. App. 40a.
+Rather than having a connection with “the alleged misrepresentations and omissions regarding Albuterol Spiros,” the
+district court said, “the decline in Dura’s stock price” on February 24 “was the result of an expected revenue shortfall.”
+Ibid.
+3. The court of appeals reversed and remanded for
+further proceedings. Pet. App. 1a-17a. With respect to the
+Ceclor CD allegations, the court of appeals held that,
+although the district court correctly concluded that each
+allegation of scienter was insufficient standing alone, it failed
+to determine whether the allegations were sufficient when
+considered collectively. Pet. App. 11a-14a. The court also
+held that, contrary to the conclusion of the district court, the
+Albuterol Spiros allegations did satisfy the element of loss
+causation. Id. at 8a-11a. And the court held that respondents should have been granted leave to amend their complaint. Id. at 15a-16a & n.6. The court declined petitioners’
+invitation to affirm on alternative grounds not addressed by
+the district court. Id. at 16a.
+In holding that respondents had adequately alleged loss
+causation, the court of appeals noted that that element is
+satisfied if the plaintiff shows that “the misrepresentation
+touches upon the reasons for the investment’s decline in
+value.” Pet. App. 8a (quoting Binder, 184 F.3d at 1066).
+While acknowledging the ambiguity of the phrase “touches
+upon,” the court followed prior decisions of the Ninth Circuit
+holding that a plaintiff in a fraud-on-the-market case1
+
+1 Under the fraud-on-the-market theory, an investor’s reliance on a
+“public material misrepresentation[]” is presumed, because “most publicly
+
+5
+establishes loss causation if he shows that “the price on the
+date of purchase was inflated because of the misrepresentation.” Id. at 9a (quoting Knapp v. Ernst & Whinney, 90
+F.3d 1431, 1438 (9th Cir. 1996), cert. denied, 519 U.S. 1112
+(1997)). “[I]t is not necessary,” the court said, “that a disclosure and subsequent drop in the market price of the stock
+have actually occurred,” because “the injury occurs at the
+time of the transaction,” which is the time at which “damages are to be measured.” Ibid. The court thus held that, to
+satisfy the element of loss causation, a plaintiff need not
+plead “a stock price drop following a corrective disclosure or
+otherwise”; he need only plead “that the price at the time of
+purchase was overstated and sufficient identification of the
+cause.” Ibid. The court concluded that the complaint
+satisfied this requirement, because it alleged that “the price
+of the stock was overvalued in part due to the misrepresentations * * * that the development and testing of the
+Albuterol Spiros device were proceeding satisfactorily and
+that FDA approval of the device was imminent.” Id. at 10a11a.
+The court acknowledged that the Third and Eleventh
+Circuits apply a different standard of loss causation. Those
+circuits, the court said, “do require demonstration of a corrective disclosure followed by a stock price drop.” Pet. App.
+9a-10a n.4 (citing Semerenko v. Cendant Corp., 223 F.3d 165,
+185 (3d Cir. 2000), cert. denied, 531 U.S. 1149 (2001), and
+Robbins v. Koger Props., Inc., 116 F.3d 1441, 1448 (11th Cir.
+1997)).
+DISCUSSION
+The petition for a writ of certiorari should be granted.
+There is an acknowledged circuit conflict regarding the
+
+available information is reflected in market price.” Basic Inc. v. Levinson,
+485 U.S. 224, 247 (1988).
+
+6
+nature and scope of the plaintiff ’s burden to plead and prove
+loss causation in a fraud-on-the-market case under Rule 10b5; the court of appeals decided that question incorrectly; the
+question is one of recurring importance; and this case is a
+suitable vehicle for resolving it.
+A. The Court Of Appeals’ Decision Conflicts With Decisions Of Other Courts Of Appeals
+
+1. Quoting its decision in Knapp v. Ernst & Whinney, 90
+F.3d 1431, 1438 (9th Cir. 1996), cert. denied, 519 U.S. 1112
+(1997), the court of appeals held that, “[i]n a fraud-on-themarket case, plaintiffs establish loss causation if they have
+shown that the price on the date of purchase was inflated
+because of the misrepresentation.” Pet. App. 9a. The court
+also held that “it is not necessary that a disclosure and subsequent drop in the market price of the stock have actually
+occurred.” Ibid. Acknowledging that its decision conflicts
+with decisions of the Third and Eleventh Circuits, however,
+the court stated that those courts “do require demonstration
+of a corrective disclosure followed by a stock price drop to be
+alleged in the complaint.” Id. at 9a-10a n.4.
+The Eleventh Circuit case cited by the court of appeals,
+Robbins v. Koger Props., Inc., 116 F.3d 1441 (1997), held that
+“proof that a plaintiff purchased securities at an artificially
+inflated price, without more,” does not “satisf[y] the loss
+causation requirement,” and it explicitly rejected the Ninth
+Circuit’s contrary decision in Knapp. Id. at 1448. The
+Eleventh Circuit instead concluded that there must be
+“proof of a causal connection between the misrepresentation
+and the investment’s subsequent decline in value.” Ibid.
+Applying that principle, it reversed a jury verdict for the
+plaintiffs, because, while there may have been sufficient evidence that the defendant’s misrepresentations artificially
+inflated the price of the stock, there was no evidence of any
+
+7
+connection between the misrepresentations and a decline in
+the stock’s price. Ibid.
+The Third Circuit case cited by the court below, Semerenko v. Cendant Corp., 223 F.3d 165 (2000), cert. denied, 531
+U.S. 1149 (2001), followed the Eleventh Circuit’s decision in
+Robbins. Id. at 185. Applying the principle that loss causation requires “the value of the security * * * [to] actually
+decline as a result of an alleged misrepresentation,” the
+Third Circuit reversed the dismissal of a complaint because
+the plaintiffs alleged that they had purchased stock “at a
+price that was inflated due to the alleged misrepresentations” and had “suffered a loss when the truth was made
+known and the price of [the] stock returned to its true
+value.” Ibid.
+2. The court of appeals’ decision is also inconsistent with
+decisions of the Second and Seventh Circuits. As support for
+its holding that loss causation requires only that the misrepresentations inflated the purchase price, the Ninth Circuit
+cited (Pet. App. 9a) the Second Circuit’s decision in Suez
+Equity Investors, L.P. v. Toronto-Dominion Bank, 250 F.3d
+87 (2001). But in a case decided about a month after the
+decision in this case, the Second Circuit made clear that it
+rejects the Ninth Circuit’s standard. Clarifying its decision
+in Suez Equity Investors, the Second Circuit held in Emergent Capital Investment Management, LLC v. Stonepath
+Group, Inc., 343 F.3d 189 (2003), that a mere allegation that
+fraudulent omissions “ ‘induced a disparity between the price
+plaintiff paid for the * * * shares and their true investment
+quality’” at the time of purchase “cannot satisfy the loss
+causation pleading requirement.” Id. at 198. Instead, the
+court said, loss causation “require[s] that securities fraud
+plaintiffs demonstrate a causal connection between the content of the alleged misstatements or omissions and ‘the harm
+actually suffered.’ ” Id. at 199 (quoting Suez Equity, 250
+F.3d at 96). The court concluded that that standard was
+
+8
+satisfied in the case before it, because the complaint adequately alleged a causal connection between the omissions
+and “the decline in [the] stock value.” Id. at 197.
+Insofar as it rejects the view that loss causation requires a
+connection between the fraud and a decline in the investment’s value, the Ninth Circuit’s decision is also inconsistent
+with the Seventh Circuit’s decision in Bastian v. Petren
+Resources Corp., 892 F.2d 680 (Posner, J.), cert. denied, 496
+U.S. 906 (1990). That case held that loss causation requires
+an allegation that, “if the facts had been as represented by
+the defendants[,] the value of the [investment] * * * would
+not have declined,” id. at 682, or, put differently, that “but
+for the circumstances that the fraud concealed, the investment that [the plaintiffs] were induced by the fraud to make
+would not have lost its value,” id. at 683. In Bastian, the
+Seventh Circuit affirmed the dismissal of a complaint alleging that the defendants’ fraudulent statements had induced
+the plaintiffs to invest in oil and gas limited partnerships
+that ultimately became worthless, because the complaint did
+not allege that “the plaintiffs’ loss was due to the defendants’
+fraud” rather than (for example) “the unexpected drop in oil
+prices.” Id. at 684. While Bastian, like Emergent Capital,
+was not a fraud-on-the-market case, the Seventh Circuit has
+since made clear that the loss-causation standard applied in
+that case “applies equally to fraud-on-the-market cases [and]
+to direct reliance cases.” Roots P’ship v. Lands’ End, Inc.,
+965 F.2d 1411, 1419 (1992).
+3. In addition to citing its own decision in Knapp and the
+Second Circuit’s decision in Suez Equity Investors as
+support for its loss-causation standard, the court of appeals
+cited (Pet. App. 9a) the Eighth Circuit’s decision in Gebhardt
+v. ConAgra Foods, Inc., 335 F.3d 824 (2003). Petitioners and
+their amicus (SIA Br. 3) agree that the Eighth Circuit is
+aligned with the Ninth Circuit, in that it “appears to accept
+the artificial price inflation theory in interpreting loss causa-
+
+9
+tion.” Pet. 13. But the Eighth Circuit’s position on this issue
+is less than clear. It is true that both of the Eighth Circuit
+decisions cited by petitioners (ibid.), including Gebhardt, can
+be read to say that loss causation, like reliance, see Basic
+Inc. v. Levinson, 485 U.S. 224, 241-249 (1988), should be presumed in a fraud-on-the-market case. See Gebhardt, 335
+F.3d at 831; In re Control Data Corp. Secs. Lit., 933 F.2d
+616, 618-621 (8th Cir.), cert. denied, 502 U.S. 967 (1991). But
+each of those decisions also includes language suggesting
+agreement with the majority view. See Gebhardt, 335 F.3d
+at 831 (plaintiffs “demonstrated loss causation” by pleading
+that “a decline in the value of their stock” was caused by
+“the company’s misbehavior”); In re Control Data Secs. Lit.,
+933 F.2d at 621 (“The class presented evidence of a sufficient
+‘causal nexus’ between [the defendant’s] improper accounting and the drop in [its] stock price, so that a reasonable jury
+could find causation.”).
+4. Respondents correctly identify Ninth Circuit decisions
+that are consistent with the majority view. Br. in Opp. 8-10.
+All of those decisions, however, predate the decision in this
+case. Moreover, there are other Ninth Circuit decisions,
+followed by the court of appeals here (Pet. App. 9a), that
+disagree with the majority view on loss causation, and the
+Ninth Circuit denied, without dissent, a petition for
+rehearing en banc (id. at 52a-53a) in which petitioners asked
+the court to resolve what they characterized as an intracircuit conflict (Pet. for Panel Reh’g and Reh’g En Banc 6-9).
+Under these circumstances, it is reasonable to conclude that
+the decision below will be viewed as the law of the Ninth
+Circuit on loss causation both by future panels and by district courts.
+B. The Court Of Appeals’ Decision Is Incorrect
+
+1. In a Rule 10b-5 action brought by a private party, the
+plaintiff must prove that he suffered an injury that was
+
+10
+caused by the defendant’s misrepresentations. As the court
+of appeals correctly recognized, the causation requirement
+encompasses both transaction causation—“that the violations in question caused the plaintiff to engage in the
+transaction”—and loss causation—“that the misrepresentations or omissions caused the harm.” Pet. App. 8a (quoting
+Binder v. Gillespie, 184 F.3d 1059, 1065 (9th Cir. 1999), cert.
+denied, 528 U.S. 1154 (2000)). Loss causation had long been a
+judicially inferred element of a Rule 10b-5 claim, see
+Bastian, 892 F.2d at 683-685, and for nearly a decade it has
+been a statutory element by virtue of the Private Securities
+Litigation Reform Act of 1995 (PSLRA), Pub. L. No. 104-67,
+109 Stat. 737. As amended by the PSLRA, the Exchange
+Act, in a provision titled “Loss causation,” requires a
+plaintiff in a private action to prove that “the [challenged]
+act or omission of the defendant * * * caused the loss for
+which the plaintiff seeks to recover damages.” 15 U.S.C.
+78u-4(b)(4). Under the court of appeals’ view of loss causation, an investor’s loss in a fraud-on-the-market case “occurs
+at the time of the transaction,” when he is harmed by paying
+too much for the security, and a causal link exists because
+the defendant’s misrepresentation inflated the price. Pet.
+App. 9a. That holding is incorrect.
+A material misrepresentation that reflects an unduly favorable view of a company, when disseminated to the investing public, will typically raise the price of the company’s
+stock, because the price of a security traded in an efficient
+market ordinarily reflects all publicly available information.
+See Basic Inc. v. Levinson, 485 U.S. at 241-249. The
+artificial inflation will not be reduced or eliminated until the
+market price reflects the true facts that had been concealed
+by the fraud. This will most commonly occur when the truth
+is revealed in whole or in part through a corrective disclosure. That, however, is not the only way the fraud may be
+
+11
+revealed. Events may also effectively disclose the truth.
+See, e.g., Suez Equity, 250 F.3d at 93-94.
+Because “the cost of the alleged misrepresentation” will
+be “incorporated into the value of the security” until that
+time, the investor who purchased the security will be able to
+recoup part or all of his overpayment “by reselling the
+security at the inflated price.” Semerenko, 223 F.3d at 185.
+For that reason, it cannot be said that an investor in a fraudon-the-market case who purchases a security at an inflated
+price has suffered any loss at the time of purchase, much less
+one caused by the defendant’s misrepresentation. See
+Robbins, 116 F.3d at 1448. Measuring the loss in such a case
+as of the time of purchase, and not requiring any allegation
+of a subsequent loss of value attributable to the fraud, would
+grant a windfall to investors who sold before the reduction
+or elimination of the artificial inflation, because they would
+recover the portion of the purchase price attributable to the
+fraud on resale, and then would be entitled to recover that
+same amount again in damages.
+The court of appeals’ decision is also erroneous because it
+renders loss causation effectively indistinguishable from
+transaction causation, as both the Second Circuit and the
+Eleventh Circuit have observed. See Emergent Capital, 343
+F.3d at 198; Robbins, 116 F.3d at 1448. Under the Ninth
+Circuit’s approach, transaction causation requires a showing
+that a material misrepresentation caused the plaintiff to
+purchase the stock, while loss causation requires a showing
+that the misrepresentation caused the stock to be purchased
+at an inflated price. Pet. App. 8a-9a. But since a fundamental premise of the fraud-on-the-market theory is that the dissemination of a material misrepresentation “typically affects
+the price of the stock,” Peil v. Speiser, 806 F.2d 1154, 1161
+(3d Cir. 1986), quoted in Basic Inc. v. Levinson, 485 U.S. at
+244, proof that the plaintiff purchased stock in an efficient
+market after the defendant made a material misrepresenta-
+
+12
+tion will, in the Ninth Circuit, establish transaction causation
+and loss causation simultaneously. Such a result is difficult
+to reconcile with the well-established principle that transaction causation and loss causation are distinct elements of a
+Rule 10b-5 cause of action.
+Though it was not relied upon by the court below, there is
+arguably some support for the Ninth Circuit’s standard in
+the legislative history of the PSLRA. The section of the
+Conference Report that discusses the applicable loss-causation provision states that a plaintiff must plead and prove
+that the misrepresentation “actually caused the loss incurred
+by the plaintiff,” and then says the following: “For example,
+the plaintiff would have to prove that the price at which the
+plaintiff bought the stock was artificially inflated as the
+result of the misstatement or omission.” H.R. Conf. Rep.
+No. 369, 104th Cong., 2d Sess. 41 (1995). That “example,” if
+construed to be an exhaustive description of the plaintiff’s
+burden, would be essentially identical to the Ninth Circuit’s
+standard. But the entire discussion of the loss-causation
+provision in the Conference Report is only two sentences
+long, and the Report does not elaborate on the “example” it
+provides or explain whether additional items of proof would
+also be required. For those reasons, and because of the flaws
+in the Ninth Circuit’s standard identified above, it is not
+likely that this lone sentence in the PSLRA’s legislative
+history reflects a considered congressional judgment regarding how loss causation is to be established in a Rule 10b-5
+case. A contrary conclusion would be particularly unwarranted in view of the PSLRA’s purpose, which was to impose stricter requirements on plaintiffs in private securitiesfraud actions.
+2. As formulated by petitioners, and by the courts in the
+cases on which petitioners rely, the loss-causation standard
+requires a decline in the stock’s price. That formulation may
+simply reflect the fact that, as in most securities-fraud cases,
+
+13
+there was in fact a decline in price in this case and the others
+that petitioners cite. A decline in price may not be a
+necessary condition for loss causation, however, because the
+inflation attributable to fraud could be reduced or eliminated
+even if there were a net increase in price. That could happen, for example, if the company corrected the false
+information and at the same time issued unrelated positive
+information. Thus, while it is ordinarily a decline in the price
+of stock that harms investors, they can also be harmed “[i]f a
+stock does not appreciate as it would have absent the
+fraudulent conduct,” Gebhardt, 335 F.3d at 831-832, so that
+their profit is smaller than it would otherwise have been. As
+Judge Easterbrook has observed, “a firm that lies about
+some assets cannot defeat liability by showing that other
+parts of its business did better than expected, counterbalancing the loss.” Goldberg v. Household Bank, F.S.B.,
+890 F.2d 965, 966 (7th Cir. 1989).
+C. The Question Presented Is One Of Recurring
+Importance
+
+The question presented in the petition does not directly
+affect the government’s ability to enforce the federal securities laws, because loss causation is not an element of a
+securities-fraud case in a criminal prosecution or civil enforcement action brought, respectively, by the Department
+of Justice or the Securities and Exchange Commission. The
+issue is nevertheless one of recurring importance.
+What a plaintiff must plead and prove to establish loss
+causation in a fraud-on-the-market case is a recurring
+question because of the large number of securities-fraud
+class actions that are filed in federal court. According
+to one study, an average of approximately 190 such cases
+were filed annually between 1996 and 2003. See Cornerstone Research, Securities Class Action Case Filings—
+2003: A Year in Review 3 Exh. 2 (2004), available at ht tp:
+
+14
+// se curit ie s.sta nford.e du/ cl ea ringhouse_ re sea rch/20 03 _YIR/
+2003051104.pdf. A large plurality of those cases—an average
+of 51 per year—were filed in the Ninth Circuit. Id. at 13
+Exh. 12. Because loss causation is an essential element of a
+private plaintiff ’s Rule 10b-5 claim, see 15 U.S.C. 78u-4(b)(4),
+and because the overwhelming majority of securities-fraud
+class actions allege a violation of Rule 10b-5, see Cornerstone
+Research, supra, at 15, 16 Exh. 14, the pleading requirements for loss causation will be relevant in a large number of
+cases, about a quarter of which arise in the Ninth Circuit.
+The court of appeals’ decision could affect the outcome of any
+one of those cases in which the plaintiffs’ sole allegation of
+loss causation is that the price of the stock they purchased
+was inflated by the defendants’ fraud.
+The question presented in the petition is also an important
+one. As this Court “repeatedly ha[s] emphasized,” private
+securities-fraud actions are a “necessary supplement” to
+criminal and civil enforcement actions. Bateman, Eichler,
+Hill Richards, Inc. v. Berner, 472 U.S. 299, 310 (1985) (quoting J.I. Case Co. v. Borak, 377 U.S. 426, 432 (1964)). The
+principal reason the government brings such enforcement
+cases is to ensure the integrity of the securities markets, and
+thereby protect the investing public. Those objects,
+however, are likely to be hindered rather than furthered by
+permitting private securities-fraud suits to proceed past the
+pleading stage without any allegation that the plaintiffs
+suffered a loss attributable to the fraud. By requiring
+issuers of securities to expend time and resources litigating,
+and in most cases settling, such lawsuits, the Ninth Circuit’s
+decision is more likely to harm than to aid “the intended
+beneficiaries” of Rule 10b-5. Central Bank of Denver, N.A.
+v. First Interstate Bank of Denver, N.A., 511 U.S. 164, 189
+(1994).
+
+15
+D. This Case Is A Suitable Vehicle For Resolving The
+Circuit Conflict
+
+1. Because the court of appeals reversed the district
+court’s dismissal of the complaint and remanded for further
+proceedings, its decision is interlocutory. While this Court
+ordinarily does not grant certiorari to review interlocutory
+decisions, that is not an invariable rule. Indeed, in many of
+this Court’s leading decisions on Rule 10b-5, certiorari was
+granted after the court of appeals had reversed either the
+dismissal of the complaint or a grant of summary judgment
+for the defendants.2 In those cases, the interlocutory posture of the case may have been thought to be no obstacle to
+review because the court of appeals had “decided an important issue, otherwise worthy of review, and Supreme
+Court intervention [could] serve to hasten or finally resolve
+the litigation.” Robert L. Stern et al., Supreme Court
+Practice § 4.18, at 260 (8th ed. 2002). That is equally true
+here.
+A related reason for not applying the general rule against
+review of interlocutory decisions in a case of this type is that
+a large proportion of securities-fraud class actions are effectively decided at the pleading stage. If a motion to dismiss is
+granted and affirmed on appeal, the defendants will prevail.
+But if a motion to dismiss is denied, or if it is granted but
+reversed on appeal, the costs of pre-trial litigation, combined
+with the risks of a substantial damages award, will in most
+cases lead the defendants to settle. According to a recent
+study, “[f]ully 80 percent of federal securities class action
+2
+
+See Central Bank of Denver, 511 U.S. at 168-169 (aiding and abetting); Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S.
+350, 353-354 (1991) (statute of limitations); Basic Inc. v. Levinson, 485 U.S.
+at 228-229 (materiality and reliance); Santa Fe Indus., Inc. v. Green, 430
+U.S. 462, 468-470 (1977) (breach of fiduciary duty); Ernst & Ernst v.
+Hochfelder, 425 U.S. 185, 191-193 (1976) (scienter); Blue Chip Stamps v.
+Manor Drug Stores, 421 U.S. 723, 727 (1975) (purchase or sale).
+
+16
+lawsuits end in settlement.” Elaine Buckberg et al., Recent
+Trends in Securities Class Action Litigation: 2003 Update,
+5 Class Action Litig. Rep. 304, 305 (2004). Because of the
+probability of settlement, this is not likely to be a case in
+which petitioners could “rais[e] the same issue[] in a later
+petition, after final judgment has been rendered.” Virginia
+Military Inst. v. United States, 508 U.S. 946 (1993) (Scalia,
+J., respecting denial of certiorari).
+2. If the Court does grant certiorari and resolves the
+loss-causation issue, it is possible that the case will
+ultimately be decided on some other ground, because there
+are issues unrelated to loss causation that the court of
+appeals directed the district court to address on remand.
+One of those issues is whether the totality of respondents’
+allegations are adequate to show that petitioners made
+knowingly false statements concerning Ceclor CD. Pet. App.
+14a. The other is whether any of the allegations concerning
+either Ceclor CD or Albuterol Spiros are subject to dismissal
+for reasons the district court has not yet considered. Id. at
+16a. Thus, even if this Court reversed the judgment of the
+court of appeals, the case would still proceed, albeit in a more
+limited form, if, on remand, the district court found that the
+allegations concerning Ceclor CD are sufficient and rejected
+respondents’ alternative arguments for dismissal. And even
+if this Court affirmed the judgment of the court of appeals,
+the complaint would still be dismissed if, on remand, the
+district court found that the Ceclor CD allegations are not
+sufficient and found merit in respondents’ alternative arguments for dismissal of the Albuterol Spiros allegations. But
+the mere possibility that the parties that won in this Court
+would lose on some other ground in the lower courts should
+not be an obstacle to certiorari, particularly since the court
+of appeals has given no indication of how any of the pending
+issues should be resolved. See id. at 14a n.5 (expressing “no
+opinion” on whether allegations concerning Ceclor CD “in
+
+17
+totum rise to the level necessary for scienter”); id. at 16a
+(stating that “it would be improper” for court of appeals to
+decide issues not addressed by district court).
+3. Respondents contend that the facts of this case satisfy
+not only the loss-causation standard applied by the court of
+appeals but also the one that petitioners advocate, and that
+the choice of standards will thus have no effect on the
+outcome. Br. in Opp. 4-6. They argue that, even if there
+must be “a drop in a security’s price upon disclosure of the
+truth,” that is what happened here, because Dura announced
+in November 1998 that the FDA would not approve
+Albuterol Spiros and the price of its stock declined the next
+day. Id. at 5. That, however, is not the allegation of loss
+causation in the complaint. Consistent with the standard
+ultimately endorsed by the court of appeals, the complaint
+alleges simply that respondents “were damaged” because,
+“[i]n reliance on the integrity of the market, they paid
+artificially inflated prices for Dura securities.” Resp. C.A.
+E.R. Tab 72, at 85 (¶ 179). See Resp. C.A. Br. 18 (arguing
+that this allegation satisfies element of loss causation); Mem.
+of Points & Authorities in Opp. to Mot. to Dismiss 40 (same).
+Insofar as there are any allegations of a corrective disclosure
+followed by a decline in the stock price, moreover, those
+allegations relate to the February 1998 announcement concerning Ceclor CD. Resp. C.A. E.R. Tab 72, at 17 (¶ 32), 6162 (¶ 134). Thus, if respondents wish to rely upon the
+November 1998 corrective disclosure and price decline, they
+will have to amend their complaint, as they implicitly acknowledged in the court of appeals. See Pet. C.A. Br. 21
+(“[I]f plaintiffs were required to plead a stock drop upon a
+corrective disclosure, the district court should have permitted them to do so in an amended complaint.”).
+If the Court granted certiorari and reversed the court of
+appeals’ judgment, it is possible that respondents would
+request, and that the courts below would grant, leave to
+
+18
+amend the complaint to include an allegation of loss causation based on the November 1998 disclosure concerning
+Albuterol Spiros and the subsequent decline in price. But it
+is also possible that leave to amend on that ground would not
+be sought, or that, if it were, it would be denied, because
+amending the complaint to satisfy the majority view on loss
+causation might require more fundamental amendments.
+For example, alleging one loss in February 1998 and a
+second loss in November 1998 would create two categories of
+class members: those who sold their stock between February and November (and could recover only for the first loss),
+and those who held it through November (and could recover
+for both). That, in turn, might require the creation of
+subclasses, see Fed. R. Civ. P. 23(c)(4)(B), and might raise
+questions about the standing of some or all of the proposed
+class representatives. While these considerations might not
+in the end foreclose an amendment of the complaint that
+would satisfy the loss-causation standard advocated by the
+United States, there is sufficient doubt about that issue that
+the possibility of amendment should not be a ground for
+denying certiorari.
+4. A final reason to grant certiorari, rather than await
+another case that presents the same question, is that there
+might not be such a case suitable for certiorari review for
+some time. If certiorari were denied here, defendants in
+future Rule 10b-5 cases in the Ninth Circuit would be unable
+to seek dismissal of a complaint that alleged loss causation on
+the sole basis of an artificially inflated purchase price, and if
+there were such a motion it would be denied. Since the
+denial of a motion to dismiss is ordinarily not appealable, and
+since most securities-fraud class actions settle before trial,
+the Ninth Circuit might not have an opportunity to address
+this question again for some time. And while review by this
+Court could be sought in a case in which some other court of
+appeals affirmed the dismissal of a complaint that did not
+
+19
+satisfy the loss-causation standard followed by the majority
+of the courts of appeals, petitioners’ amicus may well be
+correct that many class-action counsel would be reluctant to
+seek certiorari in such a case because of the risk of affirmance, which would make that standard applicable nationwide. See SIA Br. 6.
+CONCLUSION
+The petition for a writ of certiorari should be granted.
+Respectfully submitted.
+
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+ERIC SUMMERGRAD
+Deputy Solicitor
+ALLAN A. CAPUTE
+Special Counsel
+to the Solicitor
+Securities and Exchange
+Commission
+MAY 2004
+
+THEODORE B. OLSON
+Solicitor General
+THOMAS G. HUNGAR
+Deputy Solicitor General
+DAN HIMMELFARB
+Assistant to the Solicitor
+General
+
+

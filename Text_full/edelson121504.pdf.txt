@@ -1,0 +1,808 @@
+UNITED STATES COURT OF APPEALS
+FOR THE SEVENTH CIRCUIT
+______________________________________________________
+No. 04-1299
+______________________________________________________
+HARRY EDELSON,
+Plaintiff-Appellant,
+v.
+RAYMOND K.F. CH’IEN, PETER YIP HAK YUNG,
+ASIA PACIFIC ONLINE LTD., AND CHINADOTCOM
+CORPORATION,
+Defendants-Appellees.
+______________________________________________________
+On Appeal from the United States District Court
+for the Northern District of Illinois
+______________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, AMICUS CURIAE, IN SUPPORT OF THE
+PLAINTIFF - APPELLANT ON THE ISSUES ADDRESSED
+______________________________________________________
+GIOVANNI P. PREZIOSO
+General Counsel
+ERIC SUMMERGRAD
+Deputy Solicitor
+ALLAN A. CAPUTE
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+Washington, D.C. 20549-0606
+(202) 942-0837 (Capute)
+
+TABLE OF CONTENTS
+PAGE
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+BACKGROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+A.
+
+Section 13(d) of the Exchange Act . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+B.
+
+Facts Alleged in the Complaint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+C.
+
+Proceedings Below . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+I.
+
+THE PLAINTIFF HAS STANDING TO ASSERT A
+PRIVATE ACTION UNDER SECTION 13(D). . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+II.
+
+SECTION 13(D) DOES NOT APPLY ONLY TO
+TENDER OFFERS OR CONTESTS FOR CONTROL
+OF AN ISSUER. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+CERTIFICATE OF SERVICE
+CERTIFICATE OF COMPLAINCE
+
+-i-
+
+TABLE OF AUTHORITIES
+CASES
+
+PAGE
+
+Bath Ind., Inc. v. Blot, 427 F.2d 97 (7th Cir. 1970) . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Chevron Corp. v. Pennzoil Co., 974 F.2d 1156 (9th Cir. 1992) . . . . . . . . . . . . . . . . . . . . 17
+Chromalloy America Corp. v. Sun Chemical Corp., 611 F.2d 240 (8th Cir. 1979) . . . . . . 20
+Dan River, Inc. v. Unitex Limited, 624 F.2d 1216 (4th Cir. 1980) . . . . . . . . . . . . . . . . . 18
+Florida Commercial Banks v. Culverhouse, 772 F.2d 1513 (11th Cir. 1985) . . . . . . . . . . . 17
+GAF Corp. v. Milstein, 453 F.2d 709 (2d Cir. 1971) . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Gearhart Ind. Inc. v. Smith International, Inc., 741 F.2d 707 (5th Cir. 1984) . . . . . . 17, 21
+General Aircraft Corp. v. Lampert, 556 F.2d 90 (1st Cir. 1977) . . . . . . . . . . . . . . . 20, 21
+Indiana National Corp. v. Rich, 712 F.2d 1180 (7th Cir. 1983) . . . . . . . . . . . . . 2, 10, 17
+Mallet v. Wis,. Div. of Vocational Rehab., 130 F.3d 1245 (7th Cir. 1997) . . . . . . . . . . . 10
+Mates v. N. America Vaccine, Inc., 53 F. Supp. 2d 814 (D. Md. 1999) . . . . . . . 8, 11, 17
+Nowling v. Aero Service International, Inc., 752 F. Supp. 1304 (E.D. La. 1990) . . 8, 11, 18
+Piper v. Chris-Craft Industries, Inc., 430 U.S. 1 (1977) . . . . . . . . . . . . . . . . . . . . . . . . 2, 14
+Rondeau v. Mosinee Paper Corp., 422 U.S. 49 (1975) . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Treadway Companies, Inc. v. Care Corp., 638 F.2d 357 (2d Cir. 1980) . . . . . . . . . . . . . . 20
+
+-ii-
+
+STATUTES AND RULES
+
+PAGE
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+Section 13(d), 15 U.S.C. 78m(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1, 2, 3
+Section 13(d)(5), 15 U.S.C. 78m(d)(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Section 14(e), 15 U.S.C. 78n(e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Rules under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.
+Rule 13d-1(b)(1)(i), 17 C.F.R. 240.13d-1(b)(1)(i) . . . . . . . . . . . . . . . . . . . . . . . 4
+Rule 13d-1(c)(1), 17 C.F.R. 240.13d-1(c)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Schedule 13D, 17 C.F.R. 240.13d-102 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Schedule 13G, 17 C.F.R. 240.13d-102 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+MISCELLANEOUS
+Amendments to Beneficial Ownership Reporting Requirements,
+Release No. 34-39538, 63 F.R. 2854 (Jan. 16, 1998) . . . . . . . . . . . . . . . . . 5, 22
+Full Disclosure of Corporate Equity Ownership and in
+Corporate Takeover Bids: Hearings Before the
+Subcommittee on Securities of the Committee on
+Banking and Currency, 90th Cong. 16, 33 (1967) . . . . . . . . . . . . . . . . . . . . . . . 20
+Security Holder Director Nominations, Release No. 34-48626,
+68 F.R. 60784 (Oct. 23, 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+V Louis Loss & Joel Seligman, Securities Regulation (3rd ed. 1990) . . . . . . . . . . . 15, 20
+113 Cong. Rec. 854 (1967) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+H.R. Rep. No. 1711, 90th Cong., 2d Sess. 4, reprinted in
+1968 U.S.C.C.A.N. 2811 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 20
+S. Rep. No. 550, 90th Cong., 1st Sess. 4 (1967) . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 20
+
+-iii-
+
+UNITED STATES COURT OF APPEALS
+FOR THE SEVENTH CIRCUIT
+______________________________________________________
+No. 04-1299
+______________________________________________________
+HARRY EDELSON,
+Plaintiff-Appellant,
+v.
+RAYMOND K.F. CH’IEN, PETER YIP HAK YUNG,
+ASIA PACIFIC ONLINE LTD., AND CHINADOTCOM
+CORPORATION,
+Defendants-Appellees.
+______________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, AMICUS CURIAE, IN SUPPORT OF THE
+PLAINTIFF - APPELLANT ON THE ISSUES ADDRESSED
+______________________________________________________
+The Securities and Exchange Commission submits this brief as amicus curiae in
+response to the Court’s request for the Commission’s views. The Commission
+addresses here two important issues: shareholder rights to assert private rights of
+action under Section 13(d) of the Securities Exchange Act of 1934, 15 U.S.C. 78m(d),
+and whether Section 13(d) applies outside the context of a change in control
+transaction.
+
+BACKGROUND
+A.
+
+Section 13(d) of the Exchange Act
+Section 13(d) was adopted as part of the Williams Act in 1968. As an
+
+amendment to the Exchange Act, the Williams Act was passed in response to a
+growing use of cash tender offers as a means of gaining control of corporations. See
+Piper v. Chris-Craft Industries, Inc., 430 U.S. 1, 22 (1977). “Whereas corporate
+acquisitions by proxy solicitations or by exchange of offers of securities were subject
+to registration and disclosure requirements at that time, see [Exchange Act Section
+14(e), 15 U.S.C. 78n(e)], tender offers or acquisitions of substantial amounts of stock
+having a potential for control were not subject to similar requirements.” Indiana Nat’l
+Corp. v. Rich, 712 F.2d 1180, 1183 (7th Cir. 1983). The Williams Act was intended to
+fill this regulatory void. As stated by Senator Williams:
+This legislation will close a significant gap in investor protection under
+the Federal securities laws by requiring the disclosure of pertinent
+information to stockholders when persons seek to obtain control of a
+corporation by cash tender offer or through open market or privately
+negotiated purchases of securities.
+113 Cong. Rec. 854 (1967). See also S. Rep. No. 550, 90th Cong., 1st Sess. 4 (1967);
+H.R. Rep. No. 1711, 90th Cong., 2d Sess. 4, reprinted in 1968 U.S.C.C.A.N. 2811,
+2814.
+Section 13(d) was intended to alert shareholders of a large accumulation of
+stock by a party that might potentially affect the company’s control. Accordingly,
+-2-
+
+Section 13(d) requires that “[a]ny person who” acquires “the beneficial ownership of
+more than 5 per centum” of any class of equity securities required to be registered
+under Section 12 of the Exchange Act, “shall within ten days after such acquisition”
+send the issuer and the Commission a statement containing certain information
+including, “if the purpose of the purchases or prospective purchases is to acquire
+control of the business of the issuer,” “any plans or proposals” which the person may
+have to liquidate the issuer, sell its assets or merge it with any other business, or “to
+make any other major change to the business or corporate structure.”
+A person acquiring five percent of a class of stock may fulfil his or her
+obligations under Section 13(d) by filing either a Schedule 13D or Schedule 13G, 17
+C.F.R. 240.13d-102. Schedule 13G is a shorter, less burdensome form originally
+adopted for use by institutional investors (including banks, investment companies,
+pension benefit plans, and the like) who purchase securities in the ordinary course of
+business “and not with the purpose nor with the effect of changing or influencing the
+control of the issuer.” Rule 13d-1(b)(1)(i), 17 C.F.R. 240.13d-1(b)(1)(i). In 1998, the
+Commission expanded use of Schedule 13G to include individual investors who are
+“passive investors.” At that time the Commission stressed that “[p]ersons unable or
+unwilling to certify that they do not have a disqualifying purpose or effect because,
+for example, the possibility exists that they may seek to exercise or influence control,
+would be ineligible to file Schedule 13G and would be required to file a Schedule
+-3-
+
+13D.” Amendments to Beneficial Ownership Reporting Requirements, Release No. 34-39538,
+63 F.R. 2854, 2854-56 (Jan. 16, 1998). See Rule 13d-1(c)(1), 17 C.F.R. 240.13d-1(c)(1).
+Schedule 13D requires, among other things, disclosure of “any plan or proposal”
+which the five percent holder might have concerning “[a]ny change in the present
+board of directors or management of the issuer.” Schedule 13D, Item 4.
+B.
+
+Facts Alleged in the Complaint 1/
+The plaintiff, Harry Edelson, a former director and a shareholder of defendant
+
+Chinadotcom (the “issuer”), 2/ a Cayman Islands company based in Hong Kong,
+brought this action seeking injunctive relief under Section 13(d) and damages under
+common law. 3/ Defendants are Peter Yip Hak Yung, the CEO of Chinadotcom,
+Raymond K.F. Ch’ien, Executive Chairman of the company’s board, Asia Pacific
+Online Limited (“APOL”)4/ and Chinadotcom. The action arises from the failure to
+reelect to Chinadotcom’s board plaintiff Edelson and fellow board member J. Carter
+
+1/
+
+Citations to the complaint will generally be to the initial complaint, “Complaint
+__,” and to the Amended Complaint, “Am. Complaint __.” As discussed
+below, the district court dismissed the Section 13(d) claim in both complaints.
+
+2/
+
+Chinadotcom’s common stock is traded on NASDAQ (Complaint ¶10; Am.
+Complaint ¶11).
+
+3/
+
+Edelson’s claim for damages alleges that defendants’ tortiously interfered with
+a prospective business advantage.
+
+4/
+
+APOL is a Cayman Island’s corporation owned by Yip’s spouse and a trust
+established for the benefit of Yip’s children. APOL is alleged to be controlled
+by Yip (Plaintiff-Appellant’s Brief p. 15; Compliant ¶9; Am. Complaint ¶10).
+-4-
+
+Beese. 5/ Until their removal, Edelson and Beese were the only independent, nonmanagement United States based directors serving on the board of Chinadotcom and
+were two of the three members of the board’s audit committee. At the time of his
+removal from the board, the plaintiff personally owned approximately 480,000 shares
+of Chinadotcom stock, with vested options to acquire approximately 185,000
+additional shares. He also beneficially owned approximately 165,000 more
+Chinadotcom shares through affiliated funds (Complaint ¶6; Am. Complaint ¶7; Brief
+p. 11 n.6).
+Edelson and Beese openly disagreed with Yip and Ch’ien concerning the
+governance of Chinadotcom. In particular, Edelson alleges that he questioned the
+motives of Yip and Ch’ien in connection with a company-sponsored stock
+repurchase program. Yip had acquired 4.3 million shares of Chinadotcom in a
+private transaction at a price of $2.50 per share. Following Yip’s purchase, it is
+alleged that in the Spring of 2003 Yip argued forcefully in favor of the companysponsored buy back of Chinadotcom stock at $3.75 per share and that Edelson and
+Beese forcefully opposed the move (Complaint ¶¶17-23; Am. Complaint ¶¶18-25).
+Edelson was not reelected to Chinadotcom’s board during the election of
+directors conducted at the company’s Annual General Meeting on June 17, 2003.
+
+5/
+
+The Honorable J. Carter Beese served as a member of the Commission from
+1992 to 1994. He is not party to this action.
+-5-
+
+The complaint alleges that Edelson’s failure to be reelected was the result of a plan
+formulated by Yip and Ch’ien to oppose the reelection of Edelson and Beese to the
+board. In order to accomplish this objective, Yip and Ch’ien allegedly concealed their
+opposition to the reelection of Edelson and Beese by purporting to concur with the
+board’s recommendation to the shareholders that Edelson and Beese be reelected to
+the board (Compliant ¶¶24-25; Amended Complaint ¶¶25-26). Then, during the
+election, Yip and Ch’ien voted their shares to defeat the reelection of Edelson and
+Beese to the board (Complaint ¶¶24-26; Am. Complaint ¶¶25-27).6/ The shares
+voted by Yip constituted 83 percent of the shares voted to defeat Beese and 58
+percent of the shares voted to defeat the plaintiff (Plaintiff-Appellant’s Brief pp. 1617; Complaint ¶28; Am. Complaint ¶29).
+C.
+
+Proceedings Below
+On October 15, 2003, Edelson filed this action against Yip, Ch’ien, APOL, and
+
+Chinadotcom. Edelson seeks an order declaring the June 2003 election null and void
+and ordering a new election in which he is to participate, with the cost of the election
+borne by Yip, Ch’ien, and APOL (Complaint pp. 15-16; Am. Complaint pp. 18-19).
+Edelson contends that Yip violated Section 13(d) because he did not disclose his plan
+
+6/
+
+The shares beneficially owned by Yip and voted by him to defeat Edelson’s
+reelection constituted approximately 19 percent of the outstanding shares of
+the company. These shares included 16,135,686 shares owned by APOL.
+(Plaintff-Appellant’s Brief p. 15; Complaint ¶9; Am. Complaint ¶10).
+-6-
+
+to influence the control of Chinadotcom by voting his stock to change the
+composition of the Chinadotcom’s existing board (Complaint ¶30; Am. Complaint
+¶31). Specifically, Edelson notes that when Yip purchased the 4.3 million shares on
+behalf of APOL on January 14, 2003, he filed a Schedule 13G short-form as a passive
+investor, and, as required for Schedule 13G filers, Yip certified on the Schedule 13G
+that the APOL shares beneficially owned by him were “not held for the purpose of
+or with the effect of changing or influencing the control of the issuer of the
+securities.” Edelson contends that once Yip decided to vote against Edelson and
+Beese, Yip could no longer make such a certification and was required to then file a
+Schedule 13D and comply with that form’s requirement that he disclose any “plans or
+proposals” to make “[a]ny change in the present board of directors” (Complaint ¶30;
+Am. Complaint ¶31).
+Edelson contends that had Yip made the required Section 13(d) disclosure,
+shareholders, including Edelson, would have been alerted to the alleged plan to oust
+him from the board and could have waged a proxy contest to maintain his position
+on the board (Complaint ¶34; Am. Complaint ¶36). As a result of Yip’s concealment
+of his plans, Edelson argues, Chinadotcom’s shareholders were effectively
+disenfranchised because they were led to believe the election was uncontested.
+The plaintiff filed a motion for a preliminary injunction at a time when Yip and
+Ch’ien had yet to be served, and the sole defendant before the court was
+-7-
+
+Chinadotcom. 7/ Chinadotcom argued that Edelson cannot show his entitlement to
+preliminary injunctive relief because he cannot demonstrate that he is likely to prevail
+on the merits. It noted that Edelson’s complaint fails to allege any misconduct by
+Chinadotcom, but states only that Chinadotcom was named as a defendant “in order
+to assure a complete adjudication of this issue, and so that a binding and effective
+injunctive relief may be granted” (Defendant’s Opposition to Plaintiff’s Motion for
+Preliminary Injunction, p. 6 (citing Complaint ¶37)). Since Chinadotcom committed
+no violation of Section 13(d), defendant argued that the plaintiff may not seek
+injunctive relief from Chinadotcom.
+Chinadotcom also argued that Edelson cannot succeed on the merits because
+he lacks standing to bring a private action under Section 13(d). Specifically,
+defendant noted that at the time of the alleged wrongdoing, Edelson was a member
+of the board of Chinadotcom and that “[c]ourts have specifically held that exdirectors do not have standing to assert a Section 13(d) claim” (Defendant’s
+Opposition to Plaintiff’s Motion for Preliminary Injunction, p. 7 (Citing Mates v. N.
+Am. Vaccine, Inc., 53 F. Supp. 2d 814 (D. Md. 1999) and Nowling v. Aero Srvc. Int’l. Inc.,
+752 F. Supp. 1304 (E.D. La. 1990))).
+
+7/
+
+Both Yip and Ch’ien were served after adjudication of this matter. Neither is a
+party to this appeal.
+-8-
+
+Finally, defendant argued (see Defendant’s Opposition to Plaintiff’s Motion for
+Preliminary Injunction, p. 8) that Section 13(d) is inapplicable in the context of this
+case because, in the defendant’s view, the vote to oust Edelson did not take place
+within the context of a contest for the control of Chinadotcom, and does not apply
+to a vote to change directors. Defendant argued:
+On this question, case law explaining the purpose behind
+Section 13(d), the text of the statute and the implementing
+rules, and recent amendments proposed by the SEC [8/]
+
+8/
+
+The release to which the defendant refers as supporting its position that voting
+to remove a director does not implicate a control purpose is Security Holder
+Director Nominations, Release No. 34-48626, 68 F.R. 60784, 60805 (Oct. 23,
+2003), which states in pertinent part:
+We believe that formation of a security holder group solely
+for the purpose of nominating a director pursuant to
+proposed Exchange Act Rule 14a-11, the nomination of a
+director, soliciting activities in connection with such a
+nominee, or having a nominee elected as a director under
+the proposed procedure, should not be viewed as having a
+purpose or effect of changing or influencing control of the
+company. We therefore believe that beneficial owners who
+engage in these activities should be permitted to report on
+Exchange Act Schedule 13G, rather than Exchange Act
+Schedule 13D.
+The basis for the Commission’s statement was that security holder or security
+holder group compliance with detailed conditions that were part of the
+proposed rule would preclude use of the proposed director nominating
+procedure to nominate a director if the nominating person or group intended
+to change or influence control of the company. The proposed rule has not
+been adopted by the Commission, and the Commission can express no
+opinion has to whether or not the proposed rule will be adopted.
+-9-
+
+are clear: the fact that a shareholder intends to vote its
+shares in favor or against a director does not mean that the
+shareholder has “the purpose or effect of changing or
+influencing the control of the issuer of the securities.”
+(Defendant’s Opposition to Plaintiff’s Motion for Preliminary Injunction, p. 8.)
+The district court dismissed Edelson’s Section 13(d) claim, holding that
+Edelson did not have standing to bring a private action under Section 13(d). 9/ See
+Edelson v. Ch’ien, et al., No. 03 C 7320, 2004 WL 422674, at *5-6 (N.D. Ill. Jan. 28,
+2004). At the outset, the district court noted that “[t]he threshold inquiry for an
+implied right of action * * * is to determine whether Congress intended to provide
+one ‘in light of the statute’s language, structure, and legislative history.’” 2004 WL
+422674, at *4 (quoting Mallet v. Wis,. Div. of Vocational Rehab., 130 F.3d 1245, 1249 (7th
+Cir. 1997)). The district court noted that in Indiana Nat’l Corp. v. Rich, 712 F.2d 1180,
+1183 (7th Cir. 1983), this Court observed that the legislative history of Section 13(d)
+reveals that “‘the purpose of the Williams Act was to insure that public shareholders
+facing a tender offer or the acquisition by a third party of a large block of shares
+possibly involving a contest for control be armed with adequate information about
+the qualifications and intentions of the party making the offer or acquiring the
+shares.’” 2004 WL 422674, at *4 (quoting Indiana Nat’l. Corp. v. Rich, 712 F.2d at 1183).
+
+9/
+
+The court granted Edelson’s motion to amend his compliant, but then also
+dismissed the Section 13(d) claim contained in the amended complaint.
+-10-
+
+Relying on two district court cases Mates v. N. Am. Vaccine, Inc., supra, and
+Nowling v. Aero Srvc. Int”l, supra, the district court held that Section 13(d) “was
+intended to protect the investing public and not * * * ‘ex-board members who want
+to get back at their previous co-fiduciaries for disagreements or squabbles lost along
+the way’” 2004 WL 422674 at *5 (quoting Nowling, 752 F. Supp. at 1313). The court
+reasoned that, unlike “unsuspecting investors,” well-informed members of a
+corporate board are able to protect themselves because they have access to relevant
+information not available to investors. Id. While recognizing that Edelson complains
+that Yip and Ch’ien concealed their intention to vote against him, the district court
+found that Edelson’s complaint, nevertheless, “falls short of showing that he is a
+member of the class that Section 13(d) was intended to protect.” 2004 WL 422674,
+at *5.
+The court also found that the injuries that Edelson alleges to have suffered
+indicate that he brought his claim in the capacity of a former member of the board
+and not as a shareholder. The court noted that, of the four injuries alleged by
+Edelson, only one – his claim to have been disenfranchised by the defendant because
+he and the other shareholders were unaware that the election would be contested –
+related to his role as a shareholder. But the district court was not persuaded by this
+alleged injury:
+
+-11-
+
+Although plaintiff claims to have been disenfranchised, he does not
+claim that his votes were not cast and counted. His injury, therefore,
+appears to be more appropriately viewed as an injury to a former
+director and not to a shareholder.
+2004 WL 422674, at *5.
+Having dismissed Edelson’s complaint on this ground, the court declined to
+rule on whether Section 13(d) only applies to tender offers or contests for control of
+a company, whether Chinadotcom violated Section 13(d), and whether Chinadotcom
+was a proper defendant. Nor did the court need to address the proper form of any
+injunctive or other relief.
+ARGUMENT
+The issues presented on appeal include: (1) whether Edelson has standing to
+bring a private action under Section 13(d); (2) whether Section 13(d) is applicable, as
+defendant argues, only to tender offers or contests for the control of an issuer; (3)
+whether Yip violated Section 13(d) by not disclosing his intention to vote against the
+reelection of Edelson and Beese to the board; (4) whether Chinadotcom is a proper
+party; and (5) the proper form of injunctive relief.
+This brief does not address all five issues. The district court only addressed
+Edelson’s standing to assert a private right of action under Section 13(d). This brief
+addresses that issue and the issue whether Section 13(d) applies in a non-tender offer
+context. The fourth and fifth issues listed above – whether Chinadotcom is a proper
+
+-12-
+
+party and the proper form of injunctive relief – are questions of jurisprudence that
+are not within the Commission’s substantive area of expertise. 10/ The Commission
+believes that the third issue requires further factual determination. As discussed
+below, should the Court otherwise rule for the plaintiff, the Commission
+recommends that the case be sent back to the district court for development of the
+record on the alleged Section 13(d) violation.
+I.
+
+THE PLAINTIFF HAS STANDING TO ASSERT A PRIVATE ACTION UNDER
+SECTION 13(D).
+The district court erred in finding that Edelson did not have standing to assert
+
+a private right of action under Section 13(d). The district court focused on Edelson’s
+position as former board member and concluded that he was not within the class that
+Section 13(d) was enacted to protect. The court paid little attention to Edelson’s
+status as owner of hundreds of thousands of Chinadotcom shares.
+The parties do not contest that the purpose of Section 13(d) is to protect
+shareholders, nor that Section 13(d) confers a private right of action for injunctive
+
+10/
+
+While the Commission does not address the question of whether
+Chinadotcom, which did not violate Section 13(d), is a proper party, the
+Commission believes that the Court should proceed with caution should it
+address this issue. Specifically, the Commission believes that in some Section
+13(d) cases an issuer may be a necessary party in order to effectuate proper and
+full relief. In this case, for example, if it were to be determined that a Section
+13(d) violation required a new election, it is difficult to see how that could be
+accomplished without an order directed at the issuer running the election.
+-13-
+
+relief in favor of shareholders. 11/ Yet, even though Edelson is the beneficial owner
+of hundreds of thousands of shares of Chinadotcom stock, the district court held that
+he was not entitled to seek injunctive relief under Section 13(d). 12/ In reaching its
+conclusion, the court reasoned that all but one of the injuries Edelson alleges concern
+his capacity as a member of the board, as opposed to his capacity as a shareholder.
+
+11/
+
+The Supreme Court has recognized that the purpose of the Williams Act was
+to protect shareholders. See Piper v. Chris-Craft Ind., Inc., 430 U.S. 1, 33-34
+(1977); Rondeau v. Mosinee Paper Corp., 422 U.S. 49, 58 (1975). As the leading
+securities treatise has noted: “The theme of investor protection was
+emphasized * * * by Senator Williams on the day the measure was passed by
+the Senate,” when he stated:
+[The federal securities laws] provide protections for
+millions of American investors by requiring full disclosure
+of information in connection with the public offering and
+trading of securities. These laws have worked well in
+providing the public with adequate information on which
+to base intelligent investment decisions.
+There are, however, some areas still remaining where the
+full disclosure is necessary for investor protection but not
+required by present law. One such area is the purchase by
+direct acquisition or by tender offers of substantial blocks
+of securities of publicly held companies.
+S. 510 * * * provides for investor protection in these
+areas.
+V Louis Loss & Joel Seligman, Securities Regulation 2165 (3rd ed. 1990), quoting
+113 Cong. Rec. 24664 (emphasis added in Loss).
+
+12/
+
+There is no suggestion that Edelson acquired his shares solely to create
+standing.
+-14-
+
+Specifically, the court found that only one of Edelson’s allegations “relates to his role
+as a shareholder: Edelson claims to have been disenfranchised by Defendants
+because he, and other shareholders, did not know the election was contested.” 2004
+WL 422674, at *5. 13/
+Even if it accepted, however, that part of the relief Edelson seeks is as a
+director, so long he is in part seeking relief as a shareholder, he has standing to sue
+under Section 13(d). 14/ If the substantive charge in the complaint is taken as true,
+Edelson, in his capacity as a shareholder, was illegally kept in the dark about the
+change in control plans of shareholders who were required to disclose those plans
+under Section 13(d). The solidifying of management’s hold over a company, to the
+exclusion of dissenting voices, is the kind of event that Section 13(d)’s disclosure
+requirement was intended to reveal to shareholders, see Bath Ind., Inc. v. Blot, 427 F.2d
+97, 109 (7th Cir. 1970), and Schedule 13D expressly requires the disclosure of any
+plan to change the composition of corporate boards. See Schedule 13D, Item 4.
+
+13/
+
+The other alleged injuries include: (1) his “illegal and improper removal” from
+the company’s board; (2) his preclusion “from having a full and fair
+opportunity to solicit proxies in favor of his retention on the * * * Board;” and
+(3) his preclusion “from serving as a director of Chinadotcom,” thereby
+preventing him “from attempting to exercise influence on the policies and
+direction of the company.” Id. at *5, n.6.
+
+14/
+
+As noted, Edelson seeks an order to have the old election declared null and
+void and to require the holding of a new election.
+-15-
+
+The district court dismissed this interest, on the view that disclosure of Yip
+and Ch’ien’s alleged plans to vote against Edelson and Beese would not have changed
+Edelson’s own vote. He voted for himself in any event. However, Edelson alleges
+that had he known of the defendants’ plans, he would have waged a proxy contest,
+informed the other shareholders of his concerns about management, and sought to
+have more shareholders vote in the election. A shareholder’s interest in corporate
+suffrage is not limited to his or her own vote. The right of a shareholder to contest
+an election for directors certainly is a fundamental part of corporate suffrage. In
+seeking to have an opportunity to assert that right, Edelson is asserting a claim that
+any shareholder could assert.
+That the shareholder is also a director does not change the analysis. 15/ There
+is no justification in the text of Section 13(d), its legislative history, or the rules
+promulgated under it to deny a shareholder a private right of action simply because
+he or she also is or was a member of the board. 16/ In holding otherwise, the district
+
+15/
+
+The Commission takes no position on the standing of dissenting board
+members who are not also shareholders. The views of the Commission
+expressed here are further limited to the right of a plaintiff to assert an implied
+private right of action for injunctive relief because Edelson does not seek
+damages under Section 13(d).
+
+16/
+
+Should the Court rule that plaintiff has standing to assert an implied private
+right of action under Section 13(d), it need not address the proper form of
+injunctive relief that plaintiff may obtain since that determination is best made
+after a full inquiry and determination of the facts.
+-16-
+
+court stated the legislative history of Section 13(d) shows that it was intended to
+protect “unsuspecting investors,” as opposed to “well-informed members of
+management who can adequately protect their own interests.” 2004 WL 422674, at
+*5 (quoting Mates v. N. Am. Vaccine, Inc., 53 F. Supp. 2d at 825). The district court
+reasoned that “[b]y his own account, Edelson was an active member of the
+Chinadotcom board of directors. In that role, he was privy to meetings that were not
+attended by common shareholders.”
+This argument is contradicted by the undisputed allegations in the complaint.
+Edelson did not know about Yip and Ch’ien’s alleged plans. He was as ignorant as
+any other Chinadotcom shareholder (other than Yip and Ch’ien themselves) of any
+secret plans that Yip and Ch’ien may have had to vote against Edelson and Beese.
+The complaint alleges that the two defendants disingenuously purported to go along
+with the board’s recommendation that the two directors be voted in again, and
+concealed their contrary plan from not just outside shareholders, but also from the
+board. Indeed, it is typical that corporate insiders, absent required Schedule 13D
+disclosures, are ignorant of the plans of Section 13(d) filers. For this reason, the
+Seventh Circuit and other courts of appeals have held that the issuer itself may sue,
+on behalf of shareholders, to obtain injunctive relief under Section 13(d). See Indiana
+Nat’l. Corp. v. Rich, 712 F.2d at 1185-86. Accord, Chevron Corp. v. Pennzoil Co., 974 F.2d
+1156, 1158 (9th Cir. 1992); Florida Commercial Banks v. Culverhouse, 772 F.2d 1513,
+-17-
+
+1517-19 (11th Cir. 1885); Gearhart Ind. Inc. v. Smith International, Inc., 741 F.2d 707, 71415 (5th Cir. 1984); Dan River, Inc. v. Unitex Limited, 624 F.2d 1216, 1224 (4th Cir.
+1980).
+The district court’s opinion relies on two other trial court opinions in reaching
+its conclusion that Edelson’s status as a former board member removes him from the
+class that the Williams Act was intended to protect. See Mates v. N. Am. Vaccine. Inc.,
+supra. and Nowling v. Aero Serv. International, Inc., 752 F. Supp. 1304 (E.D. La. 1990).
+But these cases are far removed from the circumstances presented in this appeal. The
+former board member who filed the claim in Mates was found to have had knowledge
+of the very matters that the defendants were alleged to have failed to disclose under
+Section 13(d). 53 F. Supp. 2d at 825. In Nowling, the plaintiff was found to have had
+access to the information that the defendant is alleged to have failed to disclose while
+the plaintiff was serving as CEO of the issuer. 752 F. Supp. at 1313. Here, however,
+the defendant Chinadotcom does not dispute (and cannot for purposes of a motion
+to dismiss) that Edelson was unaware of the defendants’ alleged plan to vote against
+him and Beese.
+II.
+
+SECTION 13(D) DOES NOT APPLY ONLY TO TENDER OFFERS OR
+CONTESTS FOR CONTROL OF AN ISSUER.
+The defendant argues that Section 13(d) is inapplicable to this case because the
+
+provision only applies to tender offers or contests for control of the issuer. “There
+
+-18-
+
+is,” defendant argues, “no allegation that APOL,” whose shares were beneficially
+owned by Yip, “was in the process of acquiring shares as part of an effort to change
+or take over control of Chinadotcom” nor any allegation that Yip and APOL were
+“planning to make a tender offer to Chinadotcom’s shareholders.” (DefendantAppellee’s Brief, p. 24).
+While the increase in cash tender offers was the genesis of the Williams Act,
+defendant’s assertion that Section 13(d) only applies to tender offers or contests for
+control of the issuer is nonsense. The Williams Act’s coverage is very broad. The
+statute itself is broadly written and contains no restriction of its coverage to
+accumulations of stock made as part of a tender offer. Under Section 13(d)(1) “[a]ny
+person” who, after acquiring a class of securities registered under Section 12, “is
+directly or indirectly the beneficial owner of more than 5 per centum of such class
+shall” make certain disclosures. As the Commission’s then Chairman informed
+Congress:
+The Bill before you deals with stock acquisitions in three
+specific contexts: first, the acquisition by means of a cash
+tender offer of more that [5 percent] of any class of stock
+of a publicly held company; second, other acquisitions by
+any person or group of more than [5 percent] of any class
+of stock of a publicly held company; and third, the
+repurchase by a corporation of its own outstanding shares.
+Full Disclosure of Corporate Equity Ownership and in Corporate Takeover Bids: Hearings Before
+the Subcommittee on Securities of the Committee on Banking and Currency, 90th Cong. 1st Sess.
+-19-
+
+16, 33 (1967) (remarks of Commission Chairman Manuel Cohen) (quoted in General
+Aircraft Corp. v. Lampert, 556 F.2d 90, 94 (1st Cir. 1977)). See also S. Rep. No. 550, 90
+th Cong., 1st Sess. 4 (1967) (“Under this bill, the material facts concerning the
+identity, background, and plans of the person or group making a tender offer or
+acquiring a substantial amount of securities would be disclosed.”) (emphasis added);
+H.R. Rep. 1711, 90th Cong. 2d Sess. 4 (1968) (same). Thus “[t]he disclosures
+required of ‘any person’ by §13(d) * * * apply regardless of whether a tender offer or
+any other effort to change or influence control is contemplated or pursued.” V Loss
+& Seligman, Securities Regulation 2176. See also Chromalloy Am. Corp. v. Sun Chem. Corp.,
+611 F.2d 240, 245 (8th Cir. 1979) (“[A] securities purchaser is required to disclose the
+purpose of the purchase * * * regardless of whether the underlying purpose is to
+acquire control of the issuer.”). 17/
+
+17/
+
+Some courts have stated that Section 13(d) is concerned with the rapid
+accumulation of securities. “Section 13(d) is concerned with the second type
+of stock acquisition, requiring after-the-fact disclosure of substantial open
+market accumulations of securities within a relatively short period of time.”
+General Aircraft Corp. v. Lampert, 556 F.2d at 94 (referring to remarks of Chairman
+Cohen as quoted above). See also H.R. Rep. No. 1711, 90th Cong., 2d Sess. 4,
+reprinted in 1968 U.S.C.C.A.N. 2811, 2814. “The goal of §13(d) ‘is to alert the
+market place to every large, rapid aggregation or accumulation of securities, regardless of
+the technique employed, which might represent a potential shift in corporate
+control.’” Treadway Companies, Inc. v. Care Corp., 638 F.2d 357, 380 (2d Cir. 1980)
+(quoting GAF Corp. v. Milstein, 453 F.2d at 717) (emphasis added). See also
+Gearhart Ind. Inc. v. Smith International, Inc., 741 F.2d 707, 715 (5th Cir.
+1984)(same). But nothing in Section 13(d) limits its coverage to rapid
+accumulations. While this may have been the typical scenario with which the
+-20-
+
+The statute, moreover, expressly requires disclosure even where there is no
+control-purpose or contest for control. The statute requires “any person” who
+accumulates 5 percent of a class of stock of an issuer to make the appropriate filings
+and include the disclosure required by the form. While the statute gives the
+Commission authority to promulgate rules permitting less detailed disclosures in
+circumstances where it appears to the Commission that the securities were acquired
+“in the ordinary course of business and were not acquired for the purpose of and do
+not have the effect of changing or influencing the control of the issuer,” Section
+13(d)(5), 15 U.S.C. 78m(d)(5), such persons still must make the appropriate filings
+and comply with the item disclosure requirements under the form.
+The Rules adopted by the Commission under Section 13(d) also make clear
+that the disclosure requirements of the provision extend beyond the tender offer
+context. In addition to long-form Schedule 13D, which reflects the disclosure
+required by Section 13(d)(1), the Commission has adopted short-form Schedule 13G
+for passive investors who “[have] not acquired the securities with any purpose, or
+with the effect of, changing or influencing the control of the issuer.” Rule 13d-
+
+section was concerned, it requires filing and disclosure, subject to certain
+exceptions not applicable here, whenever and however the 5 percent threshold
+is crossed. Material changes in the facts set forth in the disclosure schedules,
+such as the acquisition or disposition of one percent or more of the subject
+security, must also be reported in an amended filing irrespective of whether
+such changes occur in the context of a tender offer or control contest.
+-21-
+
+1(c)(1). If a person cannot certify that the acquisition was made without the purpose
+nor the effect of influencing control or cannot continue to do so after filing a
+Schedule 13G, that person must file a Schedule 13D. See Rules 13d-1(c); 13d-1(e)(1).
+See also Amendments to Beneficial Ownership Reporting Requirements, Release No. 34-39538,
+63 F.R. at 2854-55. 18/
+Accordingly, the assertion that Section 13(d) applies only to tender offers is
+unsupportable and incorrect. 19/
+
+18/
+
+The Commission expresses no opinion as to whether the actions of Yip or
+Ch’ien violated the federal securities laws. Presumptively, however, Yip was
+not entitled to file a Schedule 13G on behalf of APOL, in his capacity as the
+beneficial owner of APOL’s Chinadotcom shares, because Yip was the CEO
+of Chinadotcom. As the CEO of the issuer it would have been difficult, if not
+impossible, for Yip to certify, as he did, that his beneficial ownership of a large
+block of shares in the issuer was “not held for the purpose of or with the effect of
+changing or influencing the control of the issuer of the securities and were not
+acquired and are not held in connection with or as a participant in any
+transaction having that purpose.” Schedule 13G, Item 10 (emphasis added).
+
+19/
+
+The Commission recommends that the case be sent back to the district court
+for development of the record on the alleged Section 13(d) violation. Facts in
+need of further development upon remand to the district court include: why
+Yip never filed a beneficial ownership report in his individual capacity during
+the relevant period; why Yip filed a Schedule 13G on behalf of APOL instead
+of a Schedule 13D; whether the alleged plan to vote plaintiff and Beese off the
+board existed; and whether Yip, Ch’ien or any other Chinadotcom security
+holders had an agreement to vote against Edelson and Beese and were
+therefore required to aggregate their beneficial ownership under Rule 13d-5(b)
+and report as a group.
+-22-
+
+CONCLUSION
+In accordance with the above, the Commission believes the ruling of the
+district court should be reversed and the case remanded for further proceedings.
+Respectfully submitted,
+GIOVANNI P. PREZIOSO
+General Counsel
+ERIC SUMMERGRAD
+Deputy Solicitor
+ALLAN A. CAPUTE
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+Washington, D.C. 20549-0606
+(202) 942-0837 (Capute)
+December 15, 2004
+
+-23-
+
+UNITED STATES COURT OF APPEALS
+FOR THE SEVENTH CIRCUIT
+____________________________________________________
+No. 04-1299
+____________________________________________________
+HARRY EDELSON,
+Plaintiff-Appellant,
+v.
+RAYMOND K.F. CH’IEN, PETER YIP HAK YUNG,
+ASIA PACIFIC ONLINE LTD., AND CHINADOTCOM
+CORPORATION,
+Defendants-Appellees.
+___________________________________________________________
+CERTIFICATE OF COMPLIANCE WITH FRAP 32(a)(7)(C)
+___________________________________________________________
+
+Pursuant to Federal Rule of Appellate Procedure 32(a)(7)(C), I certify that the
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION, AMICUS
+CURIAE, IN SUPPORT OF THE PLAINTIFF - APPELLANT ON THE ISSUES
+ADDRESSED, beginning with the title on the first page and ending with the names
+following the conclusion is in 14 point type and is 5867 words in length as counted
+by the WordPerfect word processing system.
+
+______________________
+Allan A. Capute
+
+UNITED STATES COURT OF APPEALS
+FOR THE SEVENTH CIRCUIT
+____________________________________________________
+No. 04-1299
+____________________________________________________
+HARRY EDELSON,
+Plaintiff-Appellant,
+v.
+RAYMOND K.F. CH’IEN, PETER YIP HAK YUNG,
+ASIA PACIFIC ONLINE LTD., AND CHINADOTCOM
+CORPORATION,
+Defendants-Appellees.
+___________________________________________________________
+CERTIFICATE OF SERVICE
+___________________________________________________________
+I, Allan A. Capute, am a member of the bars of Maryland and the District of
+Columbia, and I hereby certify that on 15th day of December, 2004, I caused to be served
+two copies of the BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, AMICUS CURIAE, IN SUPPORT OF THE PLAINTIFF APPELLANT ON THE ISSUES ADDRESSED to counsel for the parties at the address
+below, by overnight Federal Express:
+Thomas K. Cauley, Jr
+Andrew P. O’Brien
+Sidley Austin Brown & Wood
+Bank One Plaza
+10 South Dearborn Street
+Chicago, Illinois 60603
+
+Eric M. Fogel
+L. Andrew Brehm
+Suite 3800
+One Prudential Plaza
+130 E. Randolph Street
+Chicago, Illinois 60601
+
+Counsel for Defendant - Appellee
+
+Counsel for the Plaintiff - Appellant
+
+_______________________
+Allan A. Capute
+
+

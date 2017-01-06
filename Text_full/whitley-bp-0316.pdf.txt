@@ -1,0 +1,718 @@
+15-20282
+UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+____________________________________________________________________________________
+
+RALPH WHITLEY, Individually and on behalf of others similarly situated; FRANKIE
+RAMIREZ; DAVID HUMPHRIES; CHARIS MOULE; EDWARD F. MINEMAN; SYED
+ARSHADULLAH; JERRY T. MCGUIRE; MAUREEN S. RIELY; THOMAS P. SOESMAN,
+Plaintiffs-Appellees,
+v.
+BP, P.L.C.; ANTHONY HAYWARD; SAVINGS PLAN INVESTMENT OVERSIGHT
+COMMITTEE; RICHARD J. DORAZIL; COREY CORRENTI; MARVIN DAMSMA; JAMES
+DUPREE; PATRICK GOWER; JEANNE M. JOHNS; PATRICIA H. MILLER; STEPHEN J.
+RINEY; BRIAN D. SMITH; LORD JOHN BROWNE; STEPHANIE C. MOORE;
+BP CORPORATION NORTH AMERICA, INCORPORATED; BP AMERICA, INCORPORATED;
+LAMAR MCKAY; GREGORY T. WILLIAMSON; NEIL SHAW; THOMAS L. TAYLOR;
+BP CORPORATION NORTH AMERICA, INCORPORATED’S BOARD OF DIRECTORS;
+ROBERT A. MALONE,
+Defendants-Appellants.
+____________________________________________________________________________________
+
+On Appeal from United States District Court for the
+Southern District of Texas, No. 10-cv-4214
+____________________________________________________________________________________
+
+BRIEF FOR THE
+SECURITIES AND EXCHANGE COMMISSION
+AS AMICUS CURIAE IN SUPPORT OF PLAINTIFFS-APPELLEES
+____________________________________________________________________________________
+
+ANNE K. SMALL
+General Counsel
+
+JOHN W. AVERY
+Deputy Solicitor
+
+MICHAEL A. CONLEY
+Solicitor
+
+DAVID D. LISITZA
+Senior Litigation Counsel
+Securities and Exchange Commission
+100 F. Street, N.E.
+Washington, D.C. 20549-9040
+(202) 551-5015 (Lisitza)
+LisitzaD@SEC.gov
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES .................................................................................... ii
+STATEMENT OF INTEREST .................................................................................. 1
+SUMMARY OF ARGUMENT ................................................................................. 4
+ARGUMENT .............................................................................................................7
+A. An ESOP manager who is aware of the employer’s fraud would not
+violate the securities laws by making a corrective public disclosure. ............. 7
+B. An ESOP manager aware of the employer’s undisclosed fraud does not
+violate the securities laws by abstaining from both ESOP purchases
+and sales .........................................................................................................11
+C. DoL’s other measures are not inconsistent with the securities laws ............. 18
+CONCLUSION ........................................................................................................20
+
+i
+
+TABLE OF AUTHORITIES
+CASES
+Backman v. Polaroid Corp., 910 F.2d 10 (1st Cir. 1990)....................................8, 11
+Basic Inc. v. Levison, 485 U.S. 224 (1988) .............................................................11
+Berman v. Neo@Ogilvy LLC, 801 F.3d 145 (2d Cir. 2015) ..............................19, 20
+In re BP p.l.c., Sec. Litig., 843 F. Supp. 2d 712 (S.D.N.Y. 2015)............................. 3
+In re BP p.l.c. Sec. Litig., No. 10-MD-2185 (S.D. Tex.) ........................................... 3
+In re Burlington Coat Factory Sec. Litig., 114 F.3d 1410 (3d Cir. 1997)........... 8, 11
+Chiarella v. United States, 445 U.S. 222 (1980) ...............................................13, 16
+Dirks v. SEC, 463 U.S. 646 (1983) ......................................................................9, 10
+Fifth Third Bancorp v. Dudenhoeffer, 134 S.Ct. 2459 (2014) ............2, 3, 4, 7, 9, 13
+Finnerty v. Stiefel Laboratories, Inc., 756 F.3d 1310 (11th Cir. 2014)...............9, 16
+Fischer v. Philadelphia Elec. Co., 994 F.2d 130 (3d Cir. 1993) .............................11
+Martinez v. Schlumberger, Ltd., 338 F.3d 407 (5th Cir. 2003) ...............................11
+Matrixx Initiatives, Inc. v. Siracusano, 131 S.Ct. 1309 (2011) ...............................11
+Mullins v. Pfizer, Inc., 23 F.3d 663 (2d Cir. 1994) ..................................................11
+Randall v. Loftsgaarden, 478 U.S. 647 (1986) .......................................................... 5
+Rudolph v. Arthur Andersen & Co., 800 F.2d 1040 (11th Cir. 1986) .................8, 11
+SEC v. Capital Gains Research Bureau, Inc., 375 U.S. 180 (1963) ......................... 5
+SEC v. Stiefel Laboratories, Inc., No. 11-cv-24438 (S.D. Fla. filed
+Dec. 12, 2011)................................................................................................16
+ii
+
+SEC v. Texas Gulf Sulphur Co., 401 F.2d 833 (2d Cir. 1968).................................10
+TSC Indus., Inc. v. Northway, Inc., 426 U.S. 438 (1976) ........................................11
+United States v. Libera, 989 F.2d 596, 601 (2d Cir. 1993) .....................................10
+United States v. O’Hagan, 521 U.S. 642 (1997) .........................................12, 13, 16
+United States v. Rajaratnam, 719 F.3d 139 (2d Cir. 2013) .....................................12
+
+STATUTES AND RULES
+Securities Act of 1933, 15 U.S.C. 77a, et seq. ........................................................... 1
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+Section 10(b), 15 U.S.C. 78j(b) ...................................................10, 11, 12, 13
+Section 13, 15 U.S.C. 78m ............................................................................11
+Section 15(d), 15 U.S.C. 78o(d) ....................................................................11
+Section 21F, 15 U.S.C. 78u-6 ........................................................................19
+Rules under the Securities Exchange Act of 1934, 17 C.F.R. 240.0-1, et seq.
+Rule 10b-5, 17 C.F.R. 240.10b-5 ......................................................11, 12, 13
+Rule 10b5-1(b), 17 C.F.R. 240.10b5-1(b) .....................................................12
+Rule 10b5-1(c), 17 C.F.R. 240.10b5-1(c) ...................................13, 14, 15, 17
+Rule 12b-20, 17 C.F.R. 240.12b-20 ..............................................................18
+17 C.F.R. 240.21F-1, et seq. ..........................................................................19
+
+iii
+
+Regulation FD of the Exchange Act, 17 C.F.R. 243.100, et seq................. 5, 8
+17 C.F.R. 243.100(a) ............................................................................. 9
+17 C.F.R. 243.101(b) ............................................................................. 9
+17 C.F.R. 243.101(c) ............................................................................. 9
+17 C.F.R. 243.101(e) ...........................................................................10
+Regulation Blackout Trading Restriction, 17 C.F.R. 245.100, et seq. .......... 17
+17 C.F.R. 245.100(b)(1) ......................................................................17
+17 C.F.R. 245.104 ...............................................................................18
+17 C.F.R. 249.308, Item 5.04 “Temporary Suspension of Trading
+Under Registrant’s Employee Benefit Plans” ...............................................18
+Sarbanes-Oxley Act of 2002, Pub. L. No. 107-204, 116 Stat. 745 .....................6, 17
+18 U.S.C. 1514A ......................................................................................................19
+26 U.S.C. 401(k)(2)(B) ............................................................................................12
+28 U.S.C. 1292(b) ......................................................................................................3
+29 U.S.C. 1021(i) ...............................................................................................16, 17
+29 U.S.C. 1021(i)(2)(C)(i) .......................................................................................17
+29 U.S.C. 1021(i)(7)(B)(i) .......................................................................................17
+29 U.S.C. 1144(d) ....................................................................................................13
+Fed. R. App. P. 29(a) .................................................................................................1
+
+iv
+
+SEC RELEASES AND MATERIALS
+Selective Disclosure and Insider Trading, Release No. 34-43154,
+65 FR 51716-01 (Aug. 24, 2000) ............................................................10, 14
+Additional Form 8-K Disclosure Requirements and Acceleration of Filing
+Date, Release No. 34-49424, 69 FR 15594-01 (March 25, 2004) ................ 18
+SEC v. BP p.l.c., No. 12-cv-02774 (E.D. La.), Litigation Release No. 22531,
+2012 WL 5529425 (Nov. 15, 2012) ................................................................ 3
+Brief of the SEC as Amicus Curiae, Finnerty v. Stiefel Laboratories, Inc.,
+756 F.3d 1310 (11th Cir. 2014), 2013 WL 2903651 (June 5, 2013)............... 9
+Division of Corporation Finance Compliance and Disclosure Exchange Act
+Rule Interpretations, available at http://www.sec.gov/divisions/
+corpfin/guidance/exchangeactrules-interps.htm ......................................15, 17
+SEC Office of the Whistleblower, https://www.sec.gov/whistleblower ................. 13
+
+OTHER AUTHORITIES
+Final Rule Relating to Notice of Blackout Periods to Participants and
+Beneficiaries, 68 FR 3716-01, 2003 WL 158515 (Jan. 24, 2003) ................ 17
+Oral Argument Transcript, Fifth Third Bancorp v. Dudenhoeffer,
+134 S.Ct. 2459 (2014)......................................................................................2
+
+v
+
+STATEMENT OF INTEREST
+The Securities and Exchange Commission (“SEC” or “Commission”)
+submits this brief as amicus curiae pursuant to Fed. R. App. P. 29(a). Our brief is
+intended to supplement the amicus brief filed in the case by the Department of
+Labor (“DoL”) which sets forth alternative actions available to managers or
+administrators (collectively, “managers”) of an employee stock ownership plan
+(“ESOP”) who are aware that the employer’s publicly traded securities are
+materially overvalued due to an undisclosed fraud. As discussed in the DoL brief,
+these actions may satisfy a manager’s obligations under the Employee Retirement
+Income Security Act (“ERISA”) in such a situation. In this brief, the SEC, the
+agency responsible for the administration of the federal securities laws, explains
+that the alternatives DoL identifies, while not necessarily sufficient to satisfy the
+manager’s obligations under the federal securities laws, are not inconsistent with
+the federal securities laws or their objectives under certain circumstances. Publicly
+traded issuers like BP p.l.c. (“BP”) who offer a voluntary, contributory ESOP are
+required to register the ESOP’s offers and sales under the Securities Act of 1933
+(“Securities Act”), and their ESOP’s transactions are subject to the securities laws’
+antifraud provisions. Such plans are also subject to reporting requirements under
+the Securities Exchange Act of 1934 (“Exchange Act”).
+
+-1-
+
+In Fifth Third Bancorp v. Dudenhoeffer, 134 S.Ct. 2459 (2014), the Supreme
+Court indicated that the SEC’s views on this subject would be helpful. Fifth Third
+explained that lower courts “should consider the extent to which an ERISA-based
+obligation either to refrain on the basis of inside information from making a
+planned trade or to disclose inside information to the public could conflict with the
+complex insider trading and corporate disclosure requirements imposed by the
+federal securities laws or with the objectives of those laws,” and noted that the
+SEC’s views on these matters “may well be relevant.” Id. at 2473. At oral
+argument, Justice Breyer—who wrote the unanimous decision—stated that he
+“would like to know directly, not indirectly, what the SEC thinks.” Oral Argument
+Tr. at 46-47, Fifth Third.
+This case is a good opportunity for the SEC to provide its views about the
+consistency with the securities laws of the alternatives that DoL identifies as
+available to a plan manager in the circumstances alleged in the complaint, namely
+where the plan manager knows that the employer’s stock is overvalued because of
+material false statements or misleading omissions by the company. Here, plaintiffs
+are employees and participants in BP’s employee stock ownership plan who allege
+that the plan managers breached their ERISA duties by continuing to effect
+purchases of BP shares even though the plan managers were aware that the stock
+was artificially inflated by material misrepresentations or omissions. The
+
+-2-
+
+complaint alleges that before the explosion of BP’s Deepwater Horizon oil
+platform, the company misrepresented the risk of such an accident, and afterward
+that it made false and misleading statements concerning the accident’s magnitude.
+Defendants are managers of the ESOP who contend, among other things, that it
+was impossible for them to have taken any action that would satisfy their ERISA
+duties without violating the securities laws. 1
+Shortly after the Supreme Court decided Fifth Third, this Court remanded
+this case in light of that decision. Plaintiffs then moved to amend their complaint
+with respect to their ERISA claims. The district court granted plaintiffs’ motion
+and simultaneously certified for interlocutory appeal under 28 U.S.C. 1292(b) the
+question of what plausible factual allegations are required to satisfy Fifth Third’s
+pleading standard that the manager’s alternative actions not do “more harm than
+good.” 134 S.Ct. at 2473. Whether available alternative actions satisfy Fifth
+
+1
+
+The SEC filed a settled action alleging that BP executives publicly made
+misrepresentations and omissions in understating the magnitude of the Deepwater
+Horizon disaster, which is consistent with plaintiffs’ allegations in this ERISA
+matter. See SEC v. BP p.l.c., No. 12-cv-02774 (E.D. La.), Litigation Release
+No. 22531, 2012 WL 5529425 (Nov. 15, 2012). And in a separate private action
+under the securities laws, some of the BP investors’ claims regarding Deepwater
+Horizon survived a motion to dismiss, including claims that Anthony Hayward, the
+CEO of BP, violated his disclosure duties under the securities laws. See In re BP
+p.l.c., Sec. Litig., 843 F. Supp. 2d 712, 782-84 (S.D.N.Y. 2015). See also In re BP
+p.l.c. Sec. Litig., No. 10-MD-2185 (S.D. Tex.) (private securities actions
+transferred to multidistrict litigation). The SEC’s brief in this ERISA matter does
+not discuss those investor claims.
+
+-3-
+
+Third’s more good than harm standard is a question under ERISA (id.) that is
+addressed by DoL’s brief. But the answer also depends on the particulars of how
+those alternative actions can be taken in a manner that does not conflict with the
+securities laws, which is addressed in this brief.
+
+SUMMARY OF ARGUMENT
+The DoL amicus brief delineates several “alternative action[s]” (Fifth Third,
+134 S.Ct. at 2472) that an ESOP manager for a publicly traded issuer, who is aware
+that the issuer and/or its executives made misstatements or omissions that
+materially inflated the price of the issuer’s securities, could take to comply with
+ERISA. According to DoL’s amicus brief, the primary alternatives available to a
+plan manager in this situation are to disclose the fraud or to suspend ESOP
+transactions. Also, DoL explains, the ESOP manager may urge the persons
+responsible for the fraud to disclose the fraud or report the fraud to DoL and the
+SEC.
+As discussed below, while DoL’s proposed actions may not satisfy the
+ESOP manager’s own obligations under the securities laws, these alternatives can
+be implemented in a way that would not be inconsistent with the “complex insider
+trading and corporate disclosure requirements imposed by the federal securities
+laws or with the objectives of those laws.” Fifth Third, 134 S.Ct. at 2473. DoL’s
+proposed actions would ordinarily prompt public disclosure of the fraud, and the
+
+-4-
+
+securities laws are likewise intended to expose fraud and ensure full disclosure to
+all investors. See SEC v. Capital Gains Research Bureau, Inc., 375 U.S. 180, 18687 (1963); Randall v. Loftsgaarden, 478 U.S. 647, 664 (1986).
+Disclose the fraud. One DoL alternative is that an ESOP manager who is
+aware of the employer’s undisclosed fraud can satisfy ERISA’s obligations by
+disclosing the fraud. Under the securities laws, an ESOP manager who made or
+was responsible for misstatements or omissions constituting the fraud has a duty to
+make a disclosure that renders the prior statements not misleading. Under the
+securities laws, a manager who was not responsible for the fraud, but who knew
+about it, may nevertheless elect to disclose it if possible. Any such disclosure must
+be public; an ESOP manager of a publicly traded issuer cannot disclose the fraud
+solely to ESOP participants because that would either cause a violation of the
+selective disclosure rules under Regulation FD of the Exchange Act or it would
+constitute an illegal tip under the securities laws’ insider trading prohibitions.
+Suspend ESOP transactions. The other main alternative that DoL’s
+amicus brief identifies is for the ESOP manager to refrain from effecting both
+purchases and sales on behalf of plan participants. ERISA may require the ESOP
+manager to refrain from effecting purchases of additional shares of overvalued
+employer stock. To avoid violating the securities laws, a plan manager in such
+circumstances must concurrently refrain from effecting sales of shares on behalf of
+
+-5-
+
+plan participants in order to completely abstain from trading on the basis of inside
+information about the employer’s fraud. In the Sarbanes-Oxley Act of 2002,
+Congress formalized the mechanism to suspend both ESOP purchases and sales.
+Such a suspension of trading must be promptly and accurately disclosed in a
+Form 8-K—including the reason for the suspension.
+Other alternatives. DoL’s amicus brief proposes other measures that,
+while not required by the securities laws or independently sufficient to meet
+obligations under the securities laws, would not be inconsistent with the securities
+laws. The DoL amicus brief’s view that an ESOP manager could urge the persons
+responsible for the fraud to disclose it does not conflict with the securities laws and
+could lead others to fulfill the disclosure duty they already owe under the securities
+laws. Such an approach would not satisfy any independent obligation that the
+ESOP manager might have under the securities laws to correct misstatements or
+omissions for which the manager was responsible. Similarly, the DoL amicus
+brief’s view that the ESOP could report the fraud to DoL and/or the SEC would not
+conflict with the securities laws. Indeed, Congress has expressly provided
+incentives and protections for individuals who report possible violations to the
+SEC.
+
+-6-
+
+ARGUMENT
+According to DoL’s amicus brief, the ESOP manager who is aware that the
+employer’s publicly traded shares are materially overvalued due to an undisclosed
+fraud could: (a) disclose the fraud; (b) suspend ESOP transactions; and/or
+(c) take certain other actions, including urging the persons responsible for the fraud
+to disclose the fraud or reporting the fraud to DoL and the SEC. Below, the SEC
+explains that these actions available to the defendants under ERISA, while not
+necessarily sufficient to meet obligations under the securities laws, are not in
+themselves inconsistent under certain circumstances with the “insider trading and
+corporate disclosure requirement imposed by the federal securities laws or with the
+objectives of those laws.” Fifth Third, 134 S.Ct. at 2473. Indeed, these
+alternatives can be implemented in a way—e.g., public disclosure, and suspension
+of ESOP sales as well as purchases—that would be consistent with the securities
+laws.2
+A.
+
+An ESOP manager who is aware of the employer’s fraud would
+not violate the securities laws by making a corrective public
+disclosure.
+
+The DoL amicus brief explains that where the ESOP manager is aware that
+the employer’s securities are overvalued due to an undisclosed fraud, the ESOP
+2
+
+The SEC expresses no opinion as to the sequence in which an ESOP manager in
+such circumstances should implement the available actions in satisfying the
+manager’s obligations under ERISA.
+
+-7-
+
+manager could satisfy his obligations under ERISA by disclosing the fraud. This
+alternative is harmonious with securities law obligations. Under the securities
+laws, if the ESOP manager made, or was responsible for, the misstatements or
+omissions, the manager has a clear duty to make a public disclosure that renders
+the prior statements not misleading. See Backman v. Polaroid Corp., 910 F.2d 10,
+16-17 (1st Cir. 1990) (en banc); In re Burlington Coat Factory Sec. Litig., 114 F.3d
+1410, 1430-32 (3d Cir. 1997); Rudolph v. Arthur Andersen & Co., 800 F.2d 1040,
+1043 (11th Cir. 1986).
+If the ESOP manager did not make, and was not responsible for, the
+misstatements or omissions, the manager may nevertheless elect to disclose the
+fraud outside of the normal controls and procedures for financial reporting.
+Because the ESOP manager making such disclosure would be potentially subject to
+liability under the securities laws for such disclosure, the manager would be
+responsible for ensuring that his or her corrective disclosure is public as well as
+complete and accurate in all material respects.
+To satisfy the securities laws, any corrective disclosure must be public; an
+ESOP manager for a publicly traded employer cannot disclose the employer’s
+fraud solely to plan participants. Disclosure made exclusively to plan participants
+in such circumstances would cause the issuer to violate the selective disclosure
+rules under Regulation FD of the Exchange Act (17 C.F.R. 243.100, et seq.), if it is
+
+-8-
+
+considered to have been made by the “issuer, or any person acting on its behalf.”
+17 C.F.R. 243.100(a). Regulation FD governs selective disclosures made by
+persons who may be ESOP managers, including the “issuer” itself, and others
+“acting on behalf of an issuer,” such as a “senior official” or “other officer,
+employee, or agent” who regularly communicates with holders of the issuer’s
+securities. 17 C.F.R. 243.101(b), (c). Disclosure to the plan participants alone
+would be an improper selective disclosure because plan participants are “holder[s]
+of the issuer’s securities,” and it is “reasonably foreseeable” that they “will
+purchase or sell the issuer’s securities on the basis of the information.” 17 C.F.R.
+243.100(b)(1)(iv). Alternatively, if the disclosure to plan participants is not made
+by the issuer or person acting on its behalf, Regulation FD would not be implicated
+(17 C.F.R. 243.101(c)), but the disclosure nonetheless could operate as an unlawful
+tip of inside information if it was made in breach of the ESOP manager’s duty of
+trust or confidence to the issuer. See Dirks v. SEC, 463 U.S. 646, 659-61 (1983). 3
+
+3
+
+While the Fifth Third line of cases involve publicly traded corporations, in
+privately held or closely held corporations it might be possible to make a corrective
+disclosure solely to plan participants. Regulation FD does not apply to such
+issuers. See 17 C.F.R. 243.101(b). And that disclosure would not count as an
+illegal tip so long as plan participants sign confidentiality agreements and thereby
+become subject to liability under the federal securities laws should they disclose,
+tip, or trade on the information. See Brief of the SEC as Amicus Curiae, Finnerty
+v. Stiefel Laboratories, Inc., 756 F.3d 1310 (11th Cir. 2014), 2013 WL 2903651, at
+*23-*24 (June 5, 2013).
+
+-9-
+
+Disclosure is public where it is “effected by a public release through the
+appropriate public media, designed to achieve a broad dissemination to the
+investing public generally and without favoring any special person or group.”
+Dirks, 463 U.S. at 653 n.12; see also SEC v. Texas Gulf Sulphur Co., 401 F.2d 833,
+854 (2d Cir. 1968) (en banc) (“[I]nformation must have been effectively disclosed
+in a manner sufficient to insure its availability to the investing public.”).4
+Information can also be considered public for purposes of Exchange Act Section
+10(b), 15 U.S.C. 78j(b), where it is “fully impounded into the price of the
+particular stock.” United States v. Libera, 989 F.2d 596, 601 (2d Cir. 1993).
+The DoL amicus brief’s position regarding disclosure obligations under
+ERISA does not require disclosure of information to the public sooner than when
+
+4
+
+Regulation FD defines “public disclosure” as “filing with the Commission a
+Form 8-K disclosing that information,” or the issuer’s “disseminat[ion of] the
+information through another method (or combination of methods) of disclosure
+that is reasonably designed to provide broad, non-exclusionary distribution of the
+information to the public.” 17 C.F.R. 243.101(e). “As a general matter, acceptable
+methods of public disclosure for purposes of Regulation FD will include press
+releases distributed through a widely circulated news or wire service, or
+announcements made through press conferences or conference calls that interested
+members of the public may attend or listen to either in person, by telephonic
+transmission, or by other electronic transmission (including use of the Internet).
+The public must be given adequate notice of the conference or call and the means
+for accessing it.” Selective Disclosure and Insider Trading, Release No. 34-43154,
+65 FR 51716-01, at 51723-24 (Aug. 24, 2000).
+
+- 10 -
+
+federal securities laws would require disclosure.5 The securities law duty to make
+a corrective disclosure arises at the time that previous statements would be
+materially misleading absent correction. See Backman, 910 F.2d at 16-17;
+Burlington, 114 F.3d at 1430-32; Rudolph, 800 F.2d at 1043. The materiality
+standard under ERISA is essentially identical to the materiality standard under the
+securities laws. Indeed, when defining materiality, ERISA cases cite seminal
+securities cases.6
+B.
+
+An ESOP manager aware of the employer’s undisclosed fraud
+does not violate the securities laws by abstaining from both ESOP
+purchases and sales.
+
+Another principal measure DoL’s brief identifies as available to an ESOP
+manager who is aware the employer’s publicly traded securities are materially
+
+5
+
+The federal securities laws generally require publicly traded issuers to file
+reports at specific periodic intervals and after defined triggering events in a
+Form 8-K, see Exchange Act Sections 13 and 15(d), 15 U.S.C. 78m and 78o(d),
+rather than to file reports on a continuous basis. “Moreover, it bears emphasis that
+[Exchange Act] § 10(b) and Rule 10b-5(b) do not create an affirmative duty to
+disclose any and all material information.” Matrixx Initiatives, Inc. v. Siracusano,
+131 S.Ct. 1309, 1321-22 (2011). But disclosure is “required” under these
+provisions “‘to make ... statements made, in the light of the circumstances under
+which they were made, not misleading.’” Id. (quoting Exchange Act Rule
+10b-5(b), 17 C.F.R. 240.10b-5(b)).
+6
+
+See Martinez v. Schlumberger, Ltd., 338 F.3d 407, 425-28 (5th Cir. 2003)
+(discussing Basic Inc. v. Levison, 485 U.S. 224 (1988)); Mullins v. Pfizer, Inc., 23
+F.3d 663, 669 & n.4 (2d Cir. 1994) (same); Fischer v. Philadelphia Elec. Co., 994
+F.2d 130, 135 (3d Cir. 1993) (citing TSC Indus., Inc. v. Northway, Inc., 426 U.S.
+438 (1976)).
+
+- 11 -
+
+overvalued due to an undisclosed fraud is for the manager to suspend ESOP
+transactions. ERISA may require the plan manager to refrain from purchasing
+additional shares of overvalued employer stock on behalf of plan participants.
+While ERISA may be satisfied if the ESOP manager in these circumstances
+refrains from effecting purchases, the securities laws also require that the manager
+refrain from effecting sales,7 because an ESOP manager who effects trades—either
+purchases or sales—on the basis of material nonpublic information violates
+Exchange Act Section 10(b) and Rule 10b-5. 8 Persons who by virtue of their
+position have been entrusted with confidential corporate information—including
+an undisclosed fraud at the corporation—have a duty to disclose the information to
+the public before trading on the basis of it, or to abstain from trading on the basis
+
+7
+
+As DoL’s brief confirms, ESOPs for publicly traded companies engage in
+concurrent purchases and sales. Plan participants direct plan managers to purchase
+employer shares or an interest therein for their accounts. In addition to purchases,
+plan participants direct plan managers to sell employer shares or an interest therein
+due to participants’ death, retirement, resignation, and termination (see, e.g., 26
+U.S.C. 401(k)(2)(B)), or participants’ requests for diversification within the
+employer’s pension plan. In plans such as those at issue here, which involve an
+ESOP offered to employees by a publicly traded company, ESOP managers in the
+normal course buy and sell employer shares on the open market to accommodate
+participant transactions.
+8
+
+A person trades “on the basis” of inside information (United States v. O’Hagan,
+521 U.S. 642, 651-52 (1997)), where the person making the purchase or sale “was
+aware of the material nonpublic information when the person made the purchase or
+sale.” Exchange Act Rule 10b5-1(b), 17 C.F.R. 240.10b5-1(b); see also United
+States v. Rajaratnam, 719 F.3d 139, 158-60 (2d Cir. 2013).
+
+- 12 -
+
+of the information until it is publicly disclosed. See Chiarella v. United States, 445
+U.S. 222, 226-29 (1980); O’Hagan, 521 U.S. at 651-52.
+The Supreme Court in Fifth Third recognized that an ESOP manager who
+effects sales on the basis of the employer’s undisclosed fraud violates
+Section 10(b) and Rule 10b-5: “ERISA’s duty of prudence cannot require an
+ESOP fiduciary to perform an action—such as divesting the fund’s holdings of the
+employer’s stock on the basis of inside information—that would violate the
+securities laws.” Fifth Third, 134 S.Ct. at 2472-73 (citing O’Hagan). An ESOP
+manager cannot effect sales on the basis of an undisclosed fraud because those
+“trades in the securities of his corporation on the basis of material, nonpublic
+information” would “break the law.” Id. ERISA cannot require the ESOP
+manager to protect plan participants while defrauding other market participants
+because ERISA “cannot require an ESOP fiduciary to perform an action” that
+“would violate the securities laws.” Fifth Third, 134 S.Ct. at 2472; see also id. at
+2473 (quoting 29 U.S.C. 1144(d), “[n]othing in [ERISA] shall be construed to
+alter, amend, modify, invalidate, impair, or supersede any law of the United States
+... or any rule or regulation issued under any such law”).
+In defined circumstances, Rule 10b5-1(c) provides an affirmative defense to
+an insider trading charge where a trade is made pursuant to a binding contract or
+written plan adopted before a person became aware of the inside information. That
+
+- 13 -
+
+affirmative defense is available where “it is clear that the information was not a
+factor in the decision to trade,” including where persons “structure securities
+trading plans and strategies when they are not aware of material nonpublic
+information, and do not exercise any influence over the transaction once they do
+become aware of such information.” Selective Disclosure and Insider Trading, 65
+FR 51716-01, at 51716, 51728.
+An ESOP may function as a pre-authorized trading plan sufficient to provide
+an ESOP manager who is aware of the employer’s undisclosed fraud with an
+affirmative defense under Rule 10b5-1(c) to personal liability for an insider trading
+claim. The availability of that defense would depend on the particular plan’s
+language and whether trading was conducted as provided by the plan.9 Assuming
+that many or even most ESOPs could satisfy Rule 10b5-1(c), such a defense would
+become unavailable to an ESOP manager who deviates from such a plan by
+suspending ESOP purchases but not sales because the plan manager would thereby
+
+9
+
+Of course, if by its terms a particular ESOP does not meet the requirements of
+the affirmative defense, the ESOP managers for such a plan must abide by the
+“disclose or abstain” rule to avoid liability for insider trading.
+
+- 14 -
+
+be affirmatively exercising influence over how, when, or whether to effect trades
+on the basis of material nonpublic information. See Rule 10b5-1(c). 10
+If an ESOP manager who is aware of the employer’s undisclosed fraud were
+to affirmatively exercise influence to halt only purchases of overvalued employer
+stock for the benefit of plan participants, that plan manager would impermissibly
+be exercising influence to permit concurrent sales of overvalued stock to the extent
+sales were made to investors who are not plan participants. The plan manager who
+suspends only purchases would thereby revise the pre-authorized trading plan
+while aware of material nonpublic information. Should that plan manager still
+effect sales on behalf of plan participants by selling employer stock to investors in
+the open market, the plan manager would be unlawfully exercising influence to sell
+overvalued employer shares on the basis of inside information.11 That would
+constitute fraud in connection with the sale of securities. And it would violate the
+
+10
+
+While plan participants are also purchasers and sellers of securities, plan
+participants who make investment decisions regarding their ESOP while unaware
+of material nonpublic information can, if the other requirements are met, establish
+an affirmative defense under Exchange Act Rule 10b5-1(c). See Division of
+Corporation Finance Compliance and Disclosure Exchange Act Rule
+Interpretations, Questions 120.20 and 120.21, available at http://www.sec.gov/
+divisions/corpfin/guidance/exchangeactrules-interps.htm.
+
+11
+
+Where plan participants’ purchases are suspended the plan manager obviously
+cannot effect plan participants’ sales by matching those sales with an equivalent
+amount of other plan participants’ purchases, even if such matching were
+otherwise possible.
+
+- 15 -
+
+objectives of the insider trading prohibition if the ESOP manager were permitted to
+leverage his knowledge of the fraud to “tak[e] unfair advantage” of counterparties.
+Chiarella, 445 U.S. at 228-29; see also O’Hagan, 521 U.S. at 652 (insider trading
+prohibitions “address[] efforts to capitalize on nonpublic information through the
+purchase or sale of securities”).12 Thus, an ESOP manager cannot refrain only
+from purchasing additional shares of employer stock without violating the
+securities laws; but the plan manager can satisfy both regulatory regimes by
+suspending both purchases and sales by the ESOP. 13
+Congress has provided a formal mechanism for plan managers to suspend
+both ESOP purchases and sales, as DoL’s amicus brief confirms. See 29 U.S.C.
+
+12
+
+There have also been instances where the plan managers were aware of
+misrepresentations or omissions that caused employer securities to be undervalued,
+such as in Finnerty v. Stiefel Labs, where there was an undisclosed tender offer
+premium being offered to acquire the employer. 756 F.3d 1310, 1314-21 (11th
+Cir. 2014); see also SEC v. Stiefel Laboratories, Inc., No. 11-cv-24438 (S.D. Fla.
+filed Dec. 12, 2011). Under the securities laws, an ESOP manager cannot suspend
+only purchases where he is aware that a fraud is making employer securities
+overvalued, but suspend only sales where he is aware that a fraud is making
+employer securities undervalued. That would enable plan managers to ensure that
+plan participants systematically and unfairly profit from material nonpublic
+information in connection with the purchase and sale of securities.
+13
+
+A trading suspension would not satisfy any obligation the ESOP manager
+himself might have to correct misleading statements or omission for which he was
+responsible.
+
+- 16 -
+
+1021(i). 14 Plan managers can institute such a suspension in order to satisfy their
+duties under ERISA and/or the securities laws. See 29 U.S.C. 1021(i)(2)(C)(i)
+(ERISA), 1021(i)(7)(B)(i) (securities laws); see also 17 C.F.R. 245.100(b)(1) (SEC
+regulation noting that suspensions can apply to plan managers’ ability to
+“purchase, sell or otherwise acquire or transfer an interest” in a security). Thus an
+ESOP manager can satisfy his obligations under both ERISA and the securities
+laws simply by instituting a suspension of both purchases and sales.15
+The securities laws require such a suspension of ESOP transactions to be
+publicly disclosed. After Congress formalized this mechanism for suspending
+14
+
+The trading suspension provisions were promulgated as Section 306 of the
+Sarbanes-Oxley Act, Pub. L. No. 107-204, 116 Stat. 745. Pursuant to Section
+306(a), the SEC has adopted Regulation Blackout Trading Restriction regarding
+the prohibition of insider trading during trading suspensions. See 17 C.F.R.
+245.100, et seq. DoL administers Section 306(b), which concerns the notice
+requirement to plan participants under ERISA. See Final Rule Relating to Notice
+of Blackout Periods to Participants and Beneficiaries, 68 FR 3716-01, 2003 WL
+158515 (Jan. 24, 2003) (DoL rulemaking).
+15
+
+A plan manager who suspends ESOP transactions would lose any preauthorized trading defense because that suspension would be an affirmative
+exercise of influence over how, when, or whether to effect securities transactions.
+See Rule 10b5-1(c). But a manager’s proper suspension of both plan purchases
+and sales would constitute an abstention from trading sufficient to avoid insider
+trading liability. The pre-authorized trading defense may again become available
+after the suspension is properly lifted and the ESOP manager ceases such influence
+if the ESOP at that point satisfies all the requirements of Rule 10b5-1(c). See
+Division of Corporation Finance Compliance and Disclosure Exchange Act Rule
+Interpretations, Question 120.19 (explaining that the exercise of influence over
+trading would “terminate” the defense, and an entirely “new” defense would have
+to be established after the cessation of such influence).
+
+- 17 -
+
+ESOP trading, the SEC amended Form 8-K to require any “Temporary Suspension
+of Trading Under Registrant’s Employee Benefit Plans” to be disclosed within four
+business days. See 17 C.F.R. 249.308, Item 5.04; Additional Form 8-K Disclosure
+Requirements and Acceleration of Filing Date, Release No. 34-49424, 69 FR
+15594-01, at 15609, 15626 (March 25, 2004). A Form 8-K disclosure of an ESOP
+trading suspension must include the “reason or reasons for” the suspension.
+Regulation Blackout Trading Restriction Rule 104, 17 C.F.R. 245.104.
+Furthermore, any disclosure made in a report on Form 8-K must include all other
+material information, if any, that is necessary to make the required disclosure, in
+the light of the circumstances under which it is made, not misleading. See
+Exchange Act Rule 12b-20, 17 C.F.R. 240.12b-20. ESOP purchases and sales
+could resume after the fraud is fully and publicly disclosed. Accordingly,
+instituting an ESOP trading suspension is another step a plan manager could take
+in response to a fraud at the employer that is not inconsistent with the securities
+laws.
+C.
+
+DoL’s other measures are not inconsistent with the securities
+laws.
+
+DoL’s amicus brief identifies other actions that an ESOP manager in these
+circumstances could take, including urging those responsible for the fraud to
+disclose the fraud, or reporting possible violations to DoL and/or the SEC. While
+these actions may not be required by or independently sufficient to meet the
+- 18 -
+
+obligations of the securities laws, they would not be inconsistent with the securities
+laws.
+DoL’s amicus brief explains that, to satisfy ERISA, ESOP managers who are
+not responsible for the employer’s fraud, or who are unable to make a fraudrevealing disclosure that is public, could urge the issuer and other executives who
+are responsible for the fraud and are capable of making a corrective public
+disclosure to do so. Although such actions may not prove successful, and are not
+necessarily sufficient to satisfy a manager’s obligations under the securities laws, it
+would not be inconsistent with the securities laws’ objective of promoting full
+disclosure of fraud.
+Another alternative action DoL’s brief identifies is for an ESOP manager in
+these circumstances to report the fraud to DoL and/or the SEC. This is not
+inconsistent with the securities laws, as Congress in Exchange Act Section 21F
+provides incentives and protections, including anti-retaliation provisions, for
+individuals who report violations of the securities laws to the SEC. See 15 U.S.C.
+78u-6.16 And whistleblowing to the SEC under Section 21F is not inconsistent
+with whistleblowing under 18 U.S.C. 1514A, a statute administered by DoL. See
+
+16
+
+The SEC has issued regulations regarding these whistleblower provisions. See
+17 C.F.R. 240.21F-1, et seq. Tips regarding possible securities law violations can
+be electronically submitted to the SEC Office of the Whistleblower. See
+https://www.sec.gov/whistleblower.
+
+- 19 -
+
+Berman v. Neo@Ogilvy LLC, 801 F.3d 145 (2d Cir. 2015). But such reporting to
+federal agencies, by itself, would not constitute corrective public disclosure.
+
+CONCLUSION
+In answering the question of law the district court certified for interlocutory
+appeal, this Court should apply the legal interpretations set forth in this brief.
+Respectfully submitted,
+ANNE K. SMALL
+General Counsel
+MICHAEL A. CONLEY
+Solicitor
+JOHN W. AVERY
+Deputy Solicitor
+/s/ DAVID D. LISITZA
+DAVID D. LISITZA
+Senior Litigation Counsel
+Securities and Exchange Commission
+100 F. Street, N.E.
+Washington, D.C. 20549-9040
+(202) 551-5015 (Lisitza)
+LisitzaD@SEC.gov
+March 2016
+
+- 20 -
+
+CERTIFICATE OF SERVICE
+I certify that, on March 11, 2016, I electronically filed the SEC’s amicus
+curiae brief with the Clerk of the Court for the U.S. Court of Appeals for the Fifth
+Circuit using the CM/ECF system. I also certify that, on the same day, I caused the
+SEC’s amicus curiae brief to be served on counsel for the participants in the case
+through the CM/ECF system.
+
+/s/ David D. Lisitza
+David D. Lisitza
+Senior Litigation Counsel
+Securities and Exchange Commission
+100 F. Street, N.E.
+Washington, D.C. 20549-9040
+(202) 551-5015 (Lisitza)
+LisitzaD@SEC.gov
+
+

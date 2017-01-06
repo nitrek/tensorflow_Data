@@ -1,0 +1,846 @@
+UNITED STATES OF AMERICA
+before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 78093 / June 16, 2016
+Admin. Proc. File No. 3-16285
+
+In the Matter of the Application of
+ELECTRONIC TRANSACTION
+CLEARING, INC., KEVIN MURPHY, and
+HARVEY C. CLOYD, JR.
+for Review of Disciplinary Action Taken by
+CBOE
+
+OPINION OF THE COMMISSION
+NATIONAL SECURITIES EXCHANGE—REVIEW OF DISCIPLINARY
+PROCEEDING
+Grounds for Remedial Action
+Failure to Conduct an Independent Anti-Money Laundering Audit
+Failure to Close Out an Open Short Position
+Conduct Inconsistent with Just and Equitable Principles of Trade and
+Adherence to Law
+Broker-dealer and two of its officers appeal from a CBOE action finding that the firm
+failed to apply customer identification procedures to individuals trading in certain
+customer accounts, failed to apply the exchange’s margin rules to these traders, failed to
+implement effective surveillance tools for detecting suspicious trading activities of
+customers, failed to close out a fail-to-deliver, and failed to conduct an independent audit
+of member firm’s anti-money laundering program; and that one of the broker-dealer’s
+officers failed to adhere to applicable laws related to the firm’s audit violation. Held,
+CBOE’s findings of violations are set aside in part and sustained in part and CBOE’s
+assessment of sanctions are set aside and remanded.
+
+2
+APPEARANCES:
+Ivan P Harris, Allyson N. Ho, and Megan Braden, of Morgan, Lewis & Bockius LLP, for
+applicants.
+Andrew D. Spiwak and Kerry Ann P. Adler, of the Financial Industry Regulatory
+Authority, Inc., and Paul E. Greenwalt, of Schiff Hardin LLP, for CBOE.
+Appeal filed: November 21, 2014
+Last brief received: March 3, 2015
+
+Electronic Transaction Clearing, Inc. (“ETC”), a registered broker-dealer, Kevin Murphy
+(“Murphy”), ETC’s President and Chief Operations Officer, and Harvey C. Cloyd, Jr. (“Cloyd,”
+and, collectively with ETC and Murphy, “Applicants”), ETC’s Chief Executive Officer, appeal
+from a Chicago Board Options Exchange, Inc. (“CBOE”) disciplinary action.1 CBOE’s findings
+against Applicants center largely around the fact that ETC did not apply the Customer
+Identification Program (“CIP”) rule2 and CBOE’s margin requirements to individuals who
+entered trades in the accounts of two of ETC’s institutional customers—Esurge Trading Group,
+Ltd, (“Esurge”) and Vantage Point Securities, LLC (“Vantage Point”).3 The record, however,
+does not provide sufficient evidence to conclude that the individual traders were “customers” for
+purposes of those rules and thus subject to their terms. The record also provides insufficient
+evidence to find that, because ETC took part of its electronic monitoring system offline for
+several months in 2010, ETC’s overall approach for detecting suspicious trades was
+unreasonable and thus violated CBOE rules. We find, however, that ETC failed to close out a
+“fail-to-deliver” and to conduct an independent audit of its AML program. Because CBOE
+based its sanctions determination on Applicants’ aggregate violations, we set aside those
+sanctions and remand for reconsideration in light of the dismissed charges. Our findings are
+based on an independent review of the record.
+
+1
+
+ETC was a CBOE member between 2008 and 2013 and has been a FINRA member
+since 2009.
+2
+
+The CIP rule generally requires a broker-dealer to establish, document, and maintain
+procedures for identifying customers and verifying their identities. 31 C.F.R. § 1023.220.
+3
+
+CBOE found that ETC violated its rules by failing to (1) verify the identities of
+individuals who were entering trades in the accounts of certain institutional customers, (2) apply
+CBOE’s margin rules to those individual traders, (3) implement effective surveillance tools for
+detecting suspicious trading activities, (4) close out a “fail-to-deliver,” and (5) conduct an
+independent audit of ETC’s anti-money laundering (“AML”) program. CBOE further held that
+Murphy and Cloyd violated certain CBOE rules because of their role in ETC’s violations. For
+these violations, CBOE censured Applicants; jointly and severally fined Applicants $1,000,000;
+and barred Cloyd and Murphy for six months, in all capacities, from acting as CBOE Trading
+Permit Holder (“TPH”) and associating with any TPH or TPH organization.
+
+3
+I.
+
+Facts
+
+ETC provides high-volume equity execution and clearing services to other broker-dealers
+and non-broker-dealer proprietary trading firms. Cloyd, the firm’s CEO, has worked in the
+securities industry for almost 30 years. Before founding ETC in November 2007, Cloyd served
+in senior roles at various broker-dealers and as the chairman of the Ethics, Business, and
+Conduct Committee at the Pacific Stock Exchange. Murphy, the firm’s COO, also has worked in
+the securities industry for almost 30 years. Before joining ETC in December 2007, Murphy
+worked as a compliance consultant and as a national sales manager for a compliance firm. At
+ETC, Murphy first served as the President, Chief Operations Officer, Chief Compliance Officer,
+and the AML Compliance Officer. Those duties changed after the firm hired David DiCenso
+(“DiCenso”) to be the firm’s Chief Compliance Officer in December 2009 and, later, as the
+firm’s AML Compliance Officer.
+During the relevant time here in 2009 and 2010, ETC’s customers consisted of two main
+categories of firms. The first category was what Cloyd described at the hearing as “black
+boxes,” which were firms that use computer algorithms to generate trading orders. The second
+category consisted of proprietary trading firms – in this case, Esurge and Vantage Point. Esurge
+and Vantage Point held omnibus accounts with ETC and were the intermediaries between ETC
+and Esurge’s and Vantage Point’s multiple individual traders. The traders would enter trades on
+behalf of their respective firms through the firms’ Market Participant Identifiers (“MPIDs”).4
+The individual traders could enter trades, but had no control over the omnibus accounts.5 The
+record contains insufficient evidence to establish that the traders were trading on their own
+behalf and not proprietary traders acting on behalf of Esurge or Vantage Point, i.e., whether the
+traders were trading for their own accounts or those of Esurge or Vantage Point. This inquiry,
+and the lack of evidence on this point, is at the heart of our analysis below.
+II.
+
+Procedural History
+
+In June 2011, CBOE charged Applicants and DiCenso with multiple violations that
+allegedly occurred between December 2009 and July 2010. After holding a seven-day hearing,
+CBOE’s Business Conduct Committee (the “BCC”) issued an 81-page Amended Decision and
+Order on March 4, 2015. The BCC found, in part, that ETC had not applied the Commission’s
+CIP rule and margin requirements to individual traders who were executing trades on behalf of
+Esurge and Vantage Point. Because of this, the BCC found that ETC violated CBOE Rules 4.1
+(which requires compliance with just and equitable principles of trade),6 4.2 (which requires
+
+4
+
+MPIDs are codes that are used to report a market participant’s trades.
+
+5
+
+CBOE introduced documents to support that the traders may have been assigned buying
+power, but the record provides insufficient information to make that finding. The record also
+fails to establish that ETC was aware of the purported assignments.
+6
+
+CBOE Rule 4.1 states that “[n]o Trading Permit Holder shall engage in acts or practices
+inconsistent with just and equitable principles of trade.”
+
+4
+compliance with applicable laws),7 4.20 (which requires TPH organizations to develop and
+implement an AML compliance program), 12.3(j) (which imposes margin requirements for
+pattern day traders), and 12.4(i) (which imposes additional margin requirements for portfolio
+margin account customers when margin deficiencies arise). The BCC further found that, in
+violating CBOE Rule 4.2, Murphy failed to adequately supervise the conduct related to ETC’s
+CIP rule violation and that Murphy and Cloyd failed to adequately supervise by allowing the
+conduct related to ETC’s margin rule violations.
+The BCC also found that ETC violated CBOE Rules 4.1 and 4.2 for failing to maintain
+effective surveillance tools in 2010; CBOE Rules 4.1, 4.2, and 4.208 for failing to conduct an
+independent AML audit in 2009; and CBOE Rules 4.2 and Exchange Act Rule 204 of Regulation
+SHO9 for failing to timely close out a “fail-to-deliver.” Based on its findings of misconduct, the
+BCC censured Applicants; imposed a $1,000,000 joint and several fine against them; and
+imposed a six-month bar against both Cloyd and Murphy, in all capacities.10
+Applicants appealed that decision to CBOE’s Board of Directors (the “Board”), which
+affirmed the BCC Decision in its entirety by finding that the Board “could not conclude that any
+of the findings and conclusions of the BCC in this matter were clearly erroneous or that any of
+the sanction determinations by the BCC in this matter were arbitrary, capricious, or a clear abuse
+of discretion.” This appeal followed.
+
+7
+
+CBOE Rule 4.2 states that “[n]o Trading Permit Holder shall engage in conduct in
+violation of the Securities Exchange Act of 1934, as amended, rules or regulations thereunder,
+the Bylaws or the Rules of [CBOE] . . . insofar as they relate to the reporting or clearance of any
+[CBOE] transaction, or any written interpretation thereto.” Rule 4.2 adds that “[e]very Trading
+Permit Holder shall so supervise persons associated with the Trading Permit Holder as to assure
+compliance therewith.”
+8
+
+Rule 4.20 requires firms to provide for annual independent testing for AML compliance.
+CBOE’s Interpretation .01 to Rule 4.20 provides that such independent testing “may not be
+conducted by: (1) a person who performs the functions being tested, or (2) the designated
+[AML] compliance person, or (3) a person who reports to a person described in either (1) or (2)
+above.”
+9
+
+Rule 204 of Reg. SHO governs when a clearing broker-dealer (such as ETC) must deliver
+securities to a registered clearing agency for clearance and settlement. 17 C.F.R. § 242.204.
+10
+
+In reaching these conclusions, the BCC found that CBOE had not established that ETC,
+Cloyd, and Murphy committed other alleged violations and dismissed those charges against
+them. The BCC further found that CBOE had not established that DiCenso committed any of the
+violations alleged against him and dismissed those charges entirely.
+
+5
+III.
+
+Analysis
+
+We base our findings on an independent review of the record and apply the
+preponderance of the evidence standard for self-regulatory organization disciplinary actions.11
+Pursuant to Exchange Act Section 19(e)(1), we determine whether Applicants engaged in the
+conduct found by CBOE, whether that conduct violated the relevant provisions, and whether
+those provisions are, and were applied in a manner, consistent with the purposes of the Exchange
+Act.12
+A. Insufficient evidence of a CIP rule violation
+We first turn to CBOE’s finding that ETC violated the CIP rule by verifying the identities
+of only Esurge and Vantage Point, and not the identities of those firms’ underlying traders. In
+light of the lack of evidence in the record, we set CBOE’s finding aside.
+The CIP rule requires that a broker-dealer’s CIP “include risk-based procedures for
+verifying the identity of each customer to the extent reasonable and practicable,” and that such
+procedures “enable the broker-dealer to form a reasonable belief that it knows the true identity of
+each customer.”13 For purposes of the CIP rule, a “customer” is defined as “a person that opens
+a new account”14 and an “account” is defined as “a formal relationship with a broker-dealer
+established to effect transactions in securities, including, but not limited to, the purchase or sale
+of securities and securities loaned and borrowed activity, and to hold securities or other assets for
+safekeeping or as collateral.”15 In adopting the CIP rule, the Commission and the Department of
+the Treasury (“Treasury”) stated that “customer” means “the person identified as the
+accountholder.”16 Therefore, under the CIP rule, “a broker-dealer is not required to look through
+11
+
+See Richard G. Cody, Exchange Act Release No. 64565, 2011 WL 2098202, at *9 (May
+27, 2011) (citing Seaton v. SEC, 670 F.2d 309, 311 (D.C. Cir. 1982) (upholding preponderance
+of evidence standard in self-regulatory organization disciplinary proceeding)), aff'd, 693 F.3d
+251 (1st Cir. 2012).
+12
+
+15 U.S.C. § 78s(e)(1).
+
+13
+
+31 C.F.R. § 1023.220(a)(2).
+
+14
+
+Id. § 1023.100(d)(1).
+
+15
+
+Id. § 1023.100(a)(1).
+
+16
+
+Customer Identification Programs For Broker-Dealers, Exchange Act Release No.
+47752, 68 Fed. Reg. 25,113, 25,116 (May 9, 2003) (“CIP Release”). Section 326 of the Uniting
+and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct
+Terrorism Act of 2001 (“USA Patriot Act”) required the Secretary of the Treasury to jointly
+prescribe with the Commission a regulation that, at a minimum, required brokers or dealers to
+implement reasonable procedures to verify the identity of any person seeking to open an account,
+to the extent reasonable and practicable; to maintain records of the information used to verify the
+person's identity; and to determine whether the person appears on any lists of known or
+suspected terrorists or terrorist organizations provided to brokers or dealers by any government
+agency. See 31 U.S.C. § 5318(l).
+
+6
+a trust, or similar account to its beneficiaries, and is required only to verify the identity of the
+named accountholder.”17 And, “[s]imilarly, with respect to an omnibus account established by
+an intermediary, a broker-dealer is not required to look through the intermediary to the
+underlying beneficial owners, if the intermediary is identified as the account holder.”18
+The two ETC institutional customers at issue here, Esurge and Vantage Point, fit squarely
+within this definition of customer: both Esurge and Vantage Point established a formal
+relationship with ETC by opening new accounts to effect securities transactions. By comparison,
+the record does not provide sufficient evidence to find that Esurge’s and Vantage Point’s traders
+were “customers” for purposes of the CIP rule.
+CBOE puts forth a number of arguments for why ETC’s actions with regard to the traders
+violated the CIP rule. Although the traders were not listed as accountholders for the Esurge and
+Vantage Point accounts, CBOE argues that the traders effectively controlled Esurge’s and
+Vantage Point’s accounts by virtue of the traders’ ability to place trades in those accounts. The
+Commission and Treasury, however, rejected the idea that traders be treated as “customers” for
+purposes of the CIP rule simply because they can place trades in an account. In adopting the CIP
+rule, the Commission and Treasury explained that they initially considered defining “customer”
+to include persons who are “granted authority to effect transactions in an account” with a broker
+dealer.19 The Commission and Treasury did not, however, include that language in the final rule.
+As they explained, “requiring limited resources to be expended on verifying the identities of
+persons with authority over accounts could interfere with a broker-dealer's ability to focus on
+identifying customers and accounts that present a higher risk of not being properly identified.”20
+CBOE nevertheless argues that ETC, in light of certain “red flags” suggesting that the
+traders may have had a beneficial ownership interest in the account, had a duty under the CIP
+rule to investigate further into the true nature of the relationship between Esurge and Vantage
+Point and their traders. Specifically, CBOE points to Esurge’s and Vantage Point’s large number
+
+17
+
+CIP Release at 25116.
+
+18
+
+Id. Nevertheless, and as discussed infra notes 24 & 26 and accompanying text, the
+Commission and Treasury noted a broker-dealer may be required to obtain information about
+persons with control over an account under a limited provision of the CIP rule or other
+provisions of the Bank Secrecy Act (the "BSA"), 31 U.S.C. §§ 5311–5314 & 5316–5332, or the
+securities laws. CIP Release at 25116, n. 30. In addition, a firm may be required to treat as
+customers the sub-account holders of an omnibus account where (1) the sub-account holders
+effect securities transactions directly and without the intermediation of the omnibus account
+holder; and (2) the sub-account holders effect transactions for their own accounts, do not act on
+behalf of the omnibus account holder, and the sub-accounts are not proprietary accounts of the
+omnibus account holders. As discussed, there is insufficient evidence to establish that those
+conditions were met here.
+19
+20
+
+CIP Release at 25116.
+
+Id. (explaining why “the final rule does not include persons with authority over accounts
+in the definition of ‘customer,’” as was proposed).
+
+7
+of traders, the traders’ location overseas, the Esurge’s and Vantage Point’s relatively small
+trading deposits, and Esurge’s and Vantage Point’s high expected trading volume.21 CBOE also
+cites to evidence that some of the traders ended the day flat22 and that ETC monitored the
+individual traders for compliance purposes. This evidence, CBOE found, “should have indicated
+to ETC that it was extremely unlikely that [Esurge and Vantage Point] were actually proprietary
+trading firms” and that ETC should have suspected that the firms were, instead, “facilitating day
+trading.” CBOE concluded that, under the CIP rule, ETC should have undertaken additional
+steps to determine whether the traders may have had a beneficial ownership interest in the
+customers’ accounts, and were not engaging in proprietary trading on behalf of Esurge and
+Vantage Point.23
+We disagree. There is insufficient evidence on the record to conclude that the traders
+were anything other than authorized traders on Esurge’s and Vantage Point’s proprietary
+accounts, and therefore, insufficient evidence to conclude that ETC had any further obligation
+with respect to the traders under the CIP rule.
+Although, as CBOE points out, the CIP rule requires broker-dealers to “address situations
+where, based on the broker-dealer’s risk assessment of a new account . . . the broker-dealer will
+obtain information about individuals with authority or control over such account,” the rule
+specifies that this additional verification method “applies only when the broker-dealer cannot
+verify the customer’s true identity using [documentary and non-documentary] verification
+
+21
+
+According to ETC’s new customer approval forms, Vantage Point had 1,400 traders, who
+were expected to trade more than a billion shares a month, and Esurge had 500 traders, who were
+expected to trade 4.1 million shares per month.
+22
+
+A CBOE examiner testified at the hearing that, at least on select days, three Vantage
+Point traders were not carrying their trading positions over to the next day and testified that this
+suggested that the traders were day trading.
+23
+
+CBOE also cited an email DiCenso sent to ETC’s outside counsel asking about the extent
+to which ETC needed to investigate its customers’ foreign traders for AML purposes. CBOE
+contends that the email is evidence that ETC knew, or should have known, that the traders could
+have been customers. The record, however, does not contain the outside counsel’s response to
+the email, any evidence that DiCenso was asking specifically about ETC’s CIP obligations, nor
+any evidence that DiCenso was told that ETC needed to verify the identity of the individual
+traders for purposes of the CIP rule. Instead, the evidence suggests that DiCenso was
+endeavoring to ensure that ETC was complying with its regulatory obligations—a conclusion
+supported by CBOE’s dismissal of charges against DiCenso for his role in ETC’s CIP rule
+compliance. Additionally, we note that DiCenso’s question regarding the extent to which ETC
+needed to investigate its customers’ foreign traders for AML purposes is a broader question than
+whether or not the CIP rule applies to the foreign traders. As discussed below, ETC may have
+had obligations under other provisions of the BSA, such as the broader AML program rule or the
+requirement to report suspicious activity, but those issues are not before us.
+
+8
+methods.”24 Here, the record does not suggest that ETC failed to adequately verify the identities
+of its customers: Esurge and Vantage Point.
+Accordingly, based on the record before us, the preponderance of the evidence does not
+support a finding that ETC was obligated under the CIP rule to look through Esurge and Vantage
+Point to identify or verify the identity of the traders.25 Rather, the red flags which CBOE cites
+may raise questions about whether ETC met its obligations under other provisions of the BSA or
+the securities laws, as discussed further below.26 For example, the red flags suggest that ETC
+may not have understood the nature of and risks posed by Esurge’s and Vantage Point’s
+businesses or their relationship with their traders, and accordingly, that ETC may have had an
+obligation to determine whether the activity required a suspicious activity report (“SAR”).27
+However, CBOE did not charge ETC with such violations so those obligations are not at issue
+here.
+For similar reasons, we find that the record does not support CBOE’s alternate finding
+that, “irrespective” of whether the traders were customers for purposes of the CIP rule, there was
+still substantial evidence to support a finding that ETC violated just and equitable principles of
+trade (Rule 4.1). CBOE does not explain how ETC violated just and equitable principles of trade
+independently without an underlying CIP rule violation, and the record is not sufficiently
+developed to support that conclusion. There are some facts—such as Esurge’s and Vantage
+Point’s large number of foreign, high-volume traders that used personal (rather than firm) email
+accounts—that may have triggered other regulatory obligations for ETC, such as, but not limited
+to, filing SARs28 or determining whether the Office of Foreign Assets Control (“OFAC”) had
+24
+
+31 C.F.R. § 1023.220(a)(2)(ii)(C) (emphasis added).
+
+25
+
+We note that the legal analysis may have been different if the preponderance of the
+evidence in the record established that the traders were not proprietary traders trading for their
+firms, and were instead individual traders trading for themselves. See supra note 18 (discussing
+a broker-dealer’s CIP obligations with respect to certain intermediated accounts).
+26
+
+In adopting the CIP rule, the Commission and Treasury explained that while there is no
+general obligation under the CIP rule to look through the accountholder to identify and verify the
+underlying beneficial owners of the account, “the due diligence procedures required under other
+provisions of the BSA or the securities laws may require broker-dealers to look through to
+owners of certain types of accounts.” CIP Release at 25116, n.30. We note, however, that on
+May 11, 2016, FinCEN published a final rule under the BSA that includes “a new requirement to
+identify and verify the identity of beneficial owners of legal entity customers, subject to certain
+exclusions and exemptions.” Customer Due Diligence Requirements for Financial Institutions,
+81 Fed. Reg. 29397, 29398 (May 11, 2016).
+27
+
+See, e.g., Oppenheimer & Co. Inc., Exchange Act Release No. 74141, 2015 WL 331117,
+at *8 (Jan. 27, 2015) (settled order).
+28
+
+The BSA requires broker-dealers to file a SAR with FinCEN about a financial transaction
+that the broker-dealer knows, suspects or has reason to suspect involves funds derived from
+illegal activity as part of a plan to violate or evade Federal law, is designed, whether through
+structuring or other means, to evade BSA regulations, has no business or apparent lawful purpose
+(continued…)
+
+9
+subjected the traders to sanctions or restrictions on business activity.29 But CBOE does not
+allege that ETC violated those provisions, and the record contains insufficient evidence to
+conclude what steps ETC may or may not have taken to comply with these or other regulatory
+requirements.
+We thus set aside CBOE’s finding that ETC violated CBOE Rules 4.1, Rule 4.2, and 4.20
+for its alleged failure to verify the identities of the individual traders. For the same reasons, we
+set aside CBOE’s finding that Kevin Murphy (ETC’s president and COO) violated CBOE Rule
+4.2 for his role in ETC’s CIP rule compliance.
+B. Insufficient evidence of margin requirement violations
+We next turn to whether ETC violated CBOE rules by not imposing margin requirements
+on Esurge’s and Vantage Point’s individual traders. As with the CIP rule, the applicability of
+CBOE’s margin rules turn on whether the individual traders were “customers.” CBOE found
+that the individual traders were customers for margin purposes, but for reasons similar to those
+discussed above, we find that the record does not contain sufficient evidence to sustain this
+finding. 30
+(…continued)
+
+or is not the sort in which the particular customer would normally be expected to engage, or
+involves the use of the broker-dealer to facilitate criminal activity. See 31 C.F.R.
+§ 1023.320(a)(2); Amendment to the Bank Secrecy Act Regulations—Requirement that Brokers
+or Dealers in Securities Report Suspicious Transactions, 67 Fed. Reg. 44,048, 44,051 (July 1,
+2002). Exchange Act Rule 17a-8 requires broker-dealers to comply with the reporting,
+recordkeeping, and record retention rules adopted under the BSA. 17 C.F.R. § 240.17a-8.
+29
+
+OFAC is an office within Treasury that administers economic and trade sanctions based
+on U.S. foreign policy and national security goals. It publishes lists of countries and persons
+whose property is subject to blocking and with whom U.S. persons cannot conduct business.
+Although a strong OFAC compliance program consists of procedures similar to those contained
+in the CIP rule, OFAC's programs are separate and distinct from a broker-dealer’s AML
+obligations under the BSA. See, e.g., Opening Securities and Futures Accounts from an OFAC
+Perspective (Nov. 5, 2008), available at
+https://www.sec.gov/about/offices/ocie/aml/ofacaccounts110508.pdf.
+30
+
+While CBOE’s margin rules do not define the term customer, it is a defined term under
+the Board of Governors of the Federal Reserve System’s Regulation T, which regulates
+extensions of credit by broker-dealers. 12 CFR 220.2. A customer under Regulation T includes
+“(1) [a]ny person or persons acting jointly: (i) [t]o or for whom a creditor extends, arranges, or
+maintains any credit; or (ii) [w]ho would be considered a customer of the creditor according to
+the ordinary usage of the trade…” Id. See also FINRA Rule 4210(a)(3) (defining the term
+“customer” to include “any person for whom securities are purchased or sold or to whom
+securities are purchased or sold whether on a regular way, when issued, delayed or future
+delivery basis. It will also include any person for whom securities are held or carried and to or
+for whom a member extends, arranges or maintains any credit.”). Under the definition of
+customer under Regulation T, there was not sufficient evidence to conclude that ETC should
+(continued…)
+
+10
+CBOE Rule l2.3(j) requires member firms to impose a $25,000 minimum margin
+requirement on “pattern day traders,” which the rule defines as “any customer who executes four
+(4) or more day trades within five (5) business days” (emphasis added).31 CBOE rules do not
+define the term “customer,” but CBOE found that ETC should have treated the individual traders
+as customers because the firm was on notice that Esurge and Vantage Point were facilitating day
+trading by the individual traders. CBOE concedes it was unable to establish that the traders were
+engaged in their own independent day trading. Instead, CBOE points to the same red flags that
+CBOE found existed as to the alleged CIP rule violations, including evidence that some of the
+traders ended the day flat and that ETC monitored the individual traders for compliance
+purposes. This additional evidence does not establish by a preponderance of the evidence that
+the trader were day traders—closing out positions could be equally true of firm proprietary
+traders.
+We accordingly set aside CBOE’s finding that ETC violated CBOE Rules 4.1, 4.2,
+12.3(j), and 12.4(i) for its failure to impose margin requirements on the individual traders.32 For
+the same reasons, we also set aside CBOE’s finding that Murphy and Cloyd violated CBOE Rule
+4.2 by allegedly failing to supervise ETC’s compliance with CBOE’s margin requirements.
+C. Insufficient evidence that ETC acted unreasonably in implementing surveillance
+tools
+We also set aside CBOE’s finding that ETC inadequately surveilled for wash trades in
+2010. CBOE Rule 4.20(1) requires firms to “establish and implement policies and procedures
+that can be reasonably expected to detect and cause the reporting of” suspicious activity and
+transactions. CBOE guidance further recommends that its members implement procedures to
+review trading activity for potentially manipulative trading practices and advises that “[t]hese
+procedures may be implemented on a post-trade basis,” including “via exception reports and
+other post-trade reviews of documents showing trade activity.”33 Although ETC took part of its
+electronic monitoring system down for part of the year to update it, the record does not provide
+
+(…continued)
+
+have treated the individual traders as customers for margin purposes under CBOE’s margin rule,
+rather than ETC and Vantage Point.
+31
+
+The rule also states that “[t]he minimum equity required for the accounts of customers
+deemed to be pattern day traders shall be $25,000” (emphasis added).
+32
+
+CBOE further found violations related to CBOE’s portfolio margining rules, which
+provide an alternative margining methodology based on the net risk of eligible instruments in a
+customer’s account. See generally CBOE Rule 12.4. Because CBOE concedes that these
+violations also turn on the same analysis concerning whether the individual traders were
+“customers,” we set them aside for the reasons discussed above.
+33
+
+Supervisory Obligations of Members Providing Access to Exchange Systems, CBOE
+Regulatory Circular RG09-118 (Oct. 26, 2009).
+
+11
+sufficient evidence to establish that ETC violated CBOE’s rules in its overall approach to
+detecting wash sales and other potentially manipulative trades during the relevant time.34
+Before 2010, ETC monitored for manipulative trades by having certain ETC employees
+look at trading data in real time. This changed after DiCenso was hired as the firm’s chief
+compliance officer in late 2009. DiCenso designed and implemented two online monitoring
+tools. The first was a Wash Sale Report (“WSR”), which generated exception reports of when
+individual traders traded with him or herself. The second was a Trade Participation Report
+(“TPR”), which monitored for wash trades at the customer level (and thus generated exception
+reports of trading activity between different traders for the same ETC customer, different
+customers, and different MPIDs used by the same customer).
+ETC initially ran its TPR in an Excel-based format once every two weeks to check for
+wash trades at the customer level, but the system required extensive computer resources to run.
+As one ETC employee who helped DiCenso design the firm’s exception reports explained at the
+hearing, ETC’s server was “choking on that amount of data that needed to be processed” for the
+server to both run the TPR and handle all of the firm’s other daily functions. By late May 2010,
+ETC decided to fix this problem by making the TPR web-based, which would also give it more
+functionality.
+To implement the change, ETC stopped running the TPR in approximately June 2010.
+While the system was down, ETC used several other tools designed to prevent wash and
+manipulative trading, including implementing a self-trade prevention setting that removed
+traders’ ability to enter into two-sided markets (i.e., the ability to have a buy and sell order
+outstanding at the same time) and activating anti-wash or self-trade prevention modifiers that
+prevented customers from trading with themselves at exchanges that offered those features.
+On September 9, 2010, ETC implemented the newly designed TPR. Once the new
+system was online, ETC ran it regularly and used it to review all trades that occurred while the
+old system had been down. That review found no evidence of violative or manipulative
+activity.35
+
+34
+
+Wash sales are generally defined as fictitious trades where a trader sells securities
+contemporaneous with a purchase of the same securities, thus resulting in no change of
+beneficial ownership. See Cohen v. Stevanovich, 722 F. Supp. 2d 416, 426 (S.D.N.Y. 2010)
+(citing BLACK'S LAW DICTIONARY 1456 (9th ed. 2009)). Such trades may be effected for
+manipulative purposes and are prohibited by the federal securities laws’ anti-fraud provisions
+when they are intended to create a false or misleading appearance of trading activity. See 15
+U.S.C. § 78i(a)(1) (forbidding matched orders or wash sales conducted “[f]or the purpose of
+creating a false or misleading appearance of active trading” of a registered security on a national
+exchange); see also § 15 U.S.C. § 78j(b) (prohibiting the use of “manipulative or deceptive
+device[s] or contrivance[s] in contravention of” Commission rules); 17 C.F.R. § 240.10b–5(a)
+(prohibiting the use of fraudulent devices in securities transactions).
+35
+
+Although a firm’s compliance with its monitoring obligations does not turn on whether
+improper trading actually occurred, we note that CBOE produced no evidence here that ETC
+(continued…)
+
+12
+CBOE nevertheless found that, because the original TPR was down for three months,
+ETC failed to have effective risk procedures and surveillance tools in place. CBOE based this
+finding, in part, on DiCenso’s statement in his Wells Response that “the first generation of the
+pre-arranged trading report did not prove to be an effective tool, and required massive system
+resources to evaluate trading data.” During the hearing, DiCenso clarified that the TPR was an
+effective tool for monitoring for potentially manipulative activity, but that it had been inefficient,
+and thus taken offline, because of the computing resources that it required. In fact, the BCC
+itself cleared DiCenso of liability for his role in ETC’s monitoring of potentially manipulative
+trades—expressly finding that CBOE had not shown that DiCenso had failed to monitor for
+suspicious trading or had failed to allocate adequate resources to ETC’s risk monitoring program.
+Under all the circumstances, we do not find ETC's procedures regarding wash sale
+surveillance unreasonable during the relevant period.36 Although the TPR was taken down for
+three months, ETC attempted to account for this lapse by running a “look-back” at the missed
+trades once the TPR was back up. During the time the TPR was down, ETC also implemented
+other anti-manipulation tools. This limited record does not contain sufficient evidence to find
+that ETC’s surveillance measures were unreasonable in 2010. We accordingly set aside CBOE’s
+finding that ETC violated CBOE Rules 4.1 and 4.2 for allegedly failing to implement effective
+risk procedures and surveillance tools for detecting suspicious trading activity.
+D. ETC’s 2009 AML audit violated CBOE rules
+We affirm CBOE’s finding that ETC failed to conduct an independent audit of its AML
+program in 2009. CBOE Rule 4.20 requires member firms to perform annual independent audits
+of their AML programs, but prohibits having the audit performed by anyone who reports to the
+firm’s designated AML compliance person. That was what happened here: DiCenso audited
+ETC’s AML program in December 2009, when he reported to Murphy, who was ETC’s
+designated AML compliance person.
+Applicants do not dispute that ETC’s audit violated CBOE’s rules. They instead argue
+that the firm conducted its audit in good faith and that it would be unduly punitive to impose
+liability because ETC’s audit complied with FINRA's audit rules (which, Applicants claim, are
+unlike CBOE’s rules because they do not expressly prohibit auditing by someone who reports to
+a designated anti-money laundering compliance person). Applicants argue that CBOE’s
+determination was also unfair because ETC provided CBOE with its AML audit results, but
+(…continued)
+
+failed to detect any suspicious transactions. Nor does CBOE allege that improper trading
+occurred.
+36
+
+In its brief, CBOE makes various allegations about ETC’s use of real-time surveillance to
+detect potential wash sales and other suspicious trading activity in 2009, but because CBOE’s
+findings of violations are limited to what ETC did in 2010, the effectiveness of ETC’s
+surveillance in 2009 is not before us. And regarding ETC’s alleged activities in 2010, CBOE did
+not challenge, and the limited evidence in the record does not support an adverse finding
+regarding, the substance of ETC’s trading surveillance measures, such as how the WSR and TPR
+were designed or what kinds of potentially improper trades they monitored.
+
+13
+CBOE did not respond or object until CBOE filed this disciplinary action against them.37
+ETC’s various fairness arguments could be relevant to a sanctions analysis, but they do not
+change the fact that ETC had DiCenso audit the company’s AML program at the time that
+DiCenso reported to ETC’s designated AML compliance person.
+We accordingly find that ETC violated CBOE Rule 4.20 and, in doing so, violated CBOE
+Rules 4.1 and 4.2.38 Because Murphy caused ETC to engage DiCenso to perform the 2009 AML
+audit, and thus failed to ensure that the audit was conducted in accordance with CBOE rules, we
+also find that Murphy violated CBOE Rule 4.2.39
+E. ETC violated Rule 204 of Reg. SHO by failing timely to close out an open short
+position.
+We also affirm CBOE’s finding that ETC violated Rule 204 of Reg. SHO by failing to
+purchase or borrow securities within the necessary time to close out an open short position. Rule
+204 requires participants in a registered clearing agency to deliver equity securities to the
+registered clearing agency when delivery is due; in the case of a short sale, delivery is due within
+three settlement days (i.e., T+3). Failing to deliver a security to the relevant registered clearing
+agency on T+3 does not, by itself, violate Rule 204. Rather, absent an applicable exception,
+Rule 204 requires the participant with a fail-to-deliver position to “immediately close out its failto-deliver position by borrowing or purchasing securities” by “no later than the beginning of
+regular trading hours” on the following settlement day (i.e., T+4).40 ETC, a participant in
+National Securities Clearing Corporation (“NSCC”), a registered clearing agency, did not do that
+here.
+On May 25, 2010, an ETC customer sold short 300 shares of China North East Petroleum
+Holdings Limited (“NEP”). Later that day, NYSE Amex LLC halted trading in NEP because of
+that company’s failure to file an annual and quarterly report. ETC failed to deliver the 300 NEP
+shares to NSCC on T+3 and neither purchased nor borrowed NEP shares before the beginning of
+regular trading hours on T+4. Murphy testified that, despite the firm’s best efforts, the trading
+halt prevented ETC from purchasing or borrowing NEP stock within the required time frame.
+
+37
+
+We can find no evidence, however, that ETC informed CBOE of the key, disqualifying
+fact that DiCenso reported to Murphy at the time of the audit or that ETC requested permission
+from CBOE to depart from its rule.
+38
+
+As relevant to CBOE Rule 4.1, the Commission's “‘long-standing and judiciallyrecognized policy’” is that “a violation of another Commission or self-regulatory organization
+rule or regulation constitutes a violation of the rule prohibiting conduct inconsistent with just and
+equitable principles of trade.” Edward S. Brokaw, Exchange Act Release No. 70883, 2013
+WL 6044123, at *1 n.2 (Nov. 15, 2003) (quoting Stephen G. Gluckman, Exchange Act Release
+No. 41628, 1999 WL 507864, at *6 (July 20, 1999)). Rule 4.2 specifically requires that member
+firms comply with other CBOE rules.
+39
+
+CBOE Rule 4.2 prohibits TPHs from violating CBOE rules and further requires TPHs to
+supervise persons to ensure compliance with those rules. See supra note 7.
+40
+
+17 C.F.R. § 242.204.
+
+14
+The firm did not close out its fail-to-deliver position in NEP for more than a month, ultimately
+closing it on July 6, 2010.
+ETC does not dispute that it failed to purchase or borrow securities to close out its fail-todeliver position as required by Rule 204. Instead, the firm argues that it would be “unduly
+punitive” to affirm CBOE’s disciplinary action based on ETC’s “inability to close out a single
+short sale for 300 shares in a halted security—in a year where ETC successfully cleared and
+closed out almost 60 million short sales involving over 20 billion shares.” Although ETC’s
+arguments could be relevant to a sanctions analysis, they do not negate ETC’s failure to meet its
+obligations under Rule 204 of Reg. SHO. Because ETC violated Reg. SHO, we find that the
+firm also violated CBOE Rule 4.2.41
+F. Applicants have not demonstrated that CBOE’s proceedings were unfair.
+On appeal, Applicants argue that CBOE’s disciplinary proceedings were unfair and, as a
+result, its decision should be set aside. We do not find these arguments to be persuasive.
+Although Applicants allege various deficiencies, they fail to establish how those alleged
+deficiencies rendered the proceedings unfair.
+Applicants first argue that CBOE lacks certain procedural safeguards used by other
+regulators, such as employing professional hearing officers and requiring BCC members or its
+staff to rotate—the lack of which, Applicants argue, has resulted in the same BCC chairman
+serving in that role and participating in cases with the same CBOE staff for more than ten years.
+This, Applicants claim, has led to a “remarkable” success rate in disciplinary proceedings, which
+Applicants contend shows that CBOE has prevailed in every BCC decision (twenty-six
+decisions) and in every CBOE published decision (five decisions) since 1986. But generalized
+statistical evidence alone does not demonstrate that CBOE rendered an unfair judgment in this
+matter.42
+
+41
+
+CBOE additionally found that ETC’s violation of Rule 204 of Reg. SHO led to a
+violation of CBOE Rule 15.1, which requires TPHs to maintain accurate books and records. In
+neither its decision below nor in its brief to the Commission does CBOE support its findings.
+Notably, CBOE dismissed the other books and records-related charges (brought under Exchange
+Act Rules 17a-3 and 17a-4, 17 C.F.R. §§ 240.17a-3, 240.17a-4.) because the CBOE Office of
+Enforcement failed to present evidence of those alleged violations. We accordingly set aside
+CBOE’s finding that ETC violated Rule 15.1.
+42
+
+See, e.g., NLRB v. Pittsburg S.S. Co., 337 U.S. 656, 659–60 (1949) (rejecting claim that
+trial examiner was biased where the examiner consistently found the company’s witnesses to be
+untrustworthy and the union’s witnesses to be reliable by holding that “total rejection of an
+opposed view cannot of itself impugn the integrity of competence of a trier of fact”); S. Pac.
+Commc’n Co. v. AT&T, 740 F.2d 980, 995 (D.C. Cir. 1984) (holding that statistical onesidedness in rulings cannot, by itself, support an inference of judicial bias); In re IBM, 618 F.2d
+923, 930 (2d Cir. 1980) (explaining that “[i]t seems evident that statistics alone, no matter how
+computed, cannot establish extrajudicial bias”).
+
+15
+Applicants also cite three evidentiary decisions as evidence of unfairness: the BCC’s
+decision to allow the introduction of what Applicants claim was a privileged email between ETC
+and its outside counsel, the BCC’s refusal to require a CBOE investigator to produce her
+investigative notes, and the BCC’s denial of Applicants’ request for documents from an
+unrelated Commission investigation into CBOE. This recitation of adverse rulings is not
+evidence of unfairness. CBOE’s rules give the BCC broad discretion in ruling on the
+admissibility of evidence.43 We can find no evidence that the BCC’s evidentiary decisions were
+unreasonable or otherwise improper here. To the contrary, the record shows that the BCC
+carefully considered the parties’ evidentiary disputes after providing the opportunity for both
+sides to argue their positions through written submissions and/or oral presentation at the
+hearing.44 Moreover, by cherry picking three adverse evidentiary rulings, Applicants ignore the
+various times the BCC ruled in their favor, including its dismissal of multiple charges against
+them.
+Instead, Applicants assert that the BCC’s dismissal of charges against them is further
+evidence of unfairness, arguing that the dismissal highlights CBOE’s lack of a procedure for
+summary disposition. Without such a procedure, Applicants contend, “respondents can find
+themselves trapped in a lengthy, expensive, and uncertain disciplinary process on the basis of
+charges that even the CBOE staff recommends be dismissed—thereby giving the CBOE leverage
+to extract settlements regardless of the merits (or lack thereof) of the changes at issue.”
+Applicants do not claim or present any evidence that they were improperly pressured to enter
+into a settlement and thus subjected to an unfair proceeding.45
+Applicants also argue that CBOE’s proceedings were unfair because its rules do not
+expressly forbid ex parte communications between adjudicators and staff, but the absence of a
+specific prohibitory rule does not mean that CBOE allowed such communication to take place.
+CBOE has other internal structures and procedures to protect against improper communications,
+including separating its litigation and adjudicatory personnel.46 Applicants do not allege that ex
+
+43
+
+CBOE Rule 17.6(c) provides that the BCC “shall determine all questions concerning the
+admissibility of evidence and shall otherwise regulate the conduct of the hearing” and that
+“[f]ormal rules of evidence shall not apply.”
+44
+
+See, e.g., Michael Pino, Exchange Act Release No. 74903, 2015 WL 2125692, at *9
+(May 7, 2015) (finding that respondent had been provided with a fair proceeding where he “had
+an opportunity to testify on his own behalf, to call witnesses, and to cross-examine FINRA's
+witnesses”); Jason A. Craig, Exchange Act Release No. 59137, 2008 WL 5328784, at *6 (Dec.
+22, 2008) (same).
+45
+
+Cf. Kirlin Sec., Inc., Exchange Act Release No. 61135, 2009 WL 4731652, at *13 n.87
+(Dec. 10, 2009) (“As always, the burden of proving that an applicant engaged in conduct
+violating [FINRA rules] rests with FINRA; however, as we have stated previously, the applicant
+bears the burden of producing evidence to support his claimed defenses.”).
+46
+
+See, e.g., Scattered Corp., Exchange Act Release No. 40646, 1998 WL 774795, at *7
+(Nov. 9, 1998) (finding that separation between SRO’s adjudicatory and decisions-making
+functions “protect against ex parte communications between parties and those involved in the
+(continued…)
+
+16
+parte communications ever took place here.47 CBOE’s ex parte rules, as with the other
+procedures about which Applicants complain, were approved by the Commission as providing “a
+fair procedure for the disciplining of members and persons associated with members,” the
+standard to which we hold all disciplinary rules promulgated by self-regulatory organizations.48
+ETC agreed to abide by these rules when it became a CBOE member. We can find no evidence
+that CBOE failed to observe these or any other procedural rules when it conducted the
+proceedings against Applicants.
+IV.
+
+Sanctions
+
+Exchange Act Section 19(e)(2) directs us to sustain CBOE’s sanctions unless we find,
+having due regard for the public interest and the protection of investors, that the sanctions are
+excessive or oppressive or impose an unnecessary or inappropriate burden on competition.49
+Here, CBOE aggregated its sanctions for Applicants’ alleged violations, imposing a censure on
+each Applicant, jointly and severally fining Applicants $1,000,000, and suspending Cloyd and
+
+(…continued)
+
+decision-making process”); CBOE Rule 17.10(b) (stating that “[a]ny Director who participated
+in a matter before the Business Conduct or other Committee may not participate in any review of
+that matter by the Board”).
+47
+
+Cf. Salem Hosp. Corp. v. NLRB, 808 F.3d 59, 71 (D.C. Cir. 2015) (stating that “‘ex parte
+communications, even when undisclosed during agency proceedings, do not necessarily void an
+agency decision’” and that, for relief, “a party must show that ‘as a result of improper ex parte
+communications, the agency's decisionmaking process was irrevocably tainted’” (quoting Prof'l
+Air Traffic Controllers Org. v. FLRA, 685 F.2d 547, 564 (D.C. Cir. 1982)); Grolier Inc. v. FTC,
+615 F.2d 1215, 1221 (9th Cir. 1980) (stating that the burden of proof is on the party asserting
+that ex parte communications took place and that, “[w]here, as here, the court is presented with
+no evidence of actual involvement . . . the normal course of action would be to refuse to
+disqualify [the party alleged to have received the ex parte information]”).
+48
+
+See, e.g., Chicago Bd. Options Exch., Exchange Act Release No. 24252, 1987 WL
+755658, at *1 (Mar. 24, 1987) (approving change to CBOE Rule 17.4, which governs ex parte
+communications); 15 U.S.C. § 78f(b)(7) (requiring fair procedures in the event of “the
+prohibition or limitation by the [exchange or association] of any person with respect to access to
+services offered by the [exchange or association] or a member thereof”).
+49
+
+15 U.S.C. § 78s(e)(2).
+
+17
+Murphy each for six months. Because we are setting aside certain of the violations, we find it
+appropriate also to set aside and remand so that CBOE can reconsider its determinations
+regarding sanctions. We do not suggest any view as to the outcome of that reconsideration.
+An appropriate order will issue.50
+By the Commission (Chair WHITE and Commissioners STEIN and PIWOWAR).
+
+Brent J. Fields
+Secretary
+
+50
+
+We have considered all of the parties’ contentions. We have rejected or sustained them
+to the extent that they are inconsistent or in accord with the views expressed in this opinion.
+
+UNITED STATES OF AMERICA
+before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 78093 / June 16, 2016
+Admin. Proc. File No. 3-16285
+
+In the Matter of the Application of
+ELECTRONIC TRANSACTION
+CLEARING, INC., KEVIN MURPHY, and
+HARVEY C. CLOYD, JR.
+for Review of Disciplinary Action Taken by
+CBOE
+
+ORDER SUSTAINING REVIEW PROCEEDING IN PART, SETTING ASIDE REVIEW
+PROCEEDING IN PART, AND REMANDING REVIEW PROCEEDING IN PART
+On the basis of the Commission’s opinion issued this day, it is
+ORDERED that CBOE’s finding that Electronic Transaction Clearing, Inc., violated
+CBOE Rules 4.1, 4.2, and 4.20 by failing to implement an adequate anti-money laundering
+program is set aside; and it is further
+ORDERED that CBOE’s finding that Kevin Murphy violated CBOE Rule 4.2 by failing
+to supervise and implement a satisfactory AML program is set aside; and it is further
+ORDERED that CBOE’s finding that Electronic Transaction Clearing, Inc., violated
+CBOE Rules 4.1, 4.2, 12.3(j), and 12.4(i) by failing to impose CBOE’s margin and portfolio
+margin requirements properly is set aside; and it is further
+ORDERED that CBOE’s finding that Kevin Murphy and Harvey C. Cloyd, Jr., violated
+CBOE Rule 4.2 by allowing Electronic Transaction Clearing, Inc., not to impose day trading
+buying power and equity limits on individual traders is set aside; and it is further
+ORDERED that CBOE’s finding that that Electronic Transaction Clearing, Inc., violated
+CBOE Rules 4.1 and 4.2 by failing to implement effective risk procedures and surveillance tools
+for detecting suspicious trading activities is set aside; and it is further
+ORDERED that CBOE’s finding that Electronic Transaction Clearing, Inc., violated
+CBOE Rules 4.1, 4.2, and 4.20 by failing to perform an independent audit of the firm’s 2009
+anti-money laundering program is sustained; and it is further
+
+2
+ORDERED that CBOE’s finding that Kevin Murphy violated CBOE Rule 4.2 for his
+conduct related to the firm’s 2009 anti-money laundering audit is sustained; and it is further
+ORDERED that CBOE’s finding that Electronic Transaction Clearing, Inc., violated
+CBOE Rule 4.2 and Exchange Act Rule 204 of Reg. SHO for failing to timely close out a fail to
+deliver is sustained; and it is further
+ORDERED that CBOE’s finding that Electronic Transaction Clearing, Inc., violated
+CBOE Rule 15.1 is set aside; and it is further
+ORDERED that the sanctions imposed by CBOE against Harvey C. Cloyd are vacated;
+and it is further
+ORDERED that the proceeding is remanded to CBOE for reconsideration of sanctions
+against Electronic Transaction Clearing, Inc., and Kevin Murphy in accordance with this
+opinion.
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+

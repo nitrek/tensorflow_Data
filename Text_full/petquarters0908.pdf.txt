@@ -1,0 +1,1122 @@
+No. 08-2114
+___________________________________________
+UNITED STATES COURT OF APPEALS
+FOR THE EIGHTH CIRCUIT
+PET QUARTERS, INC., et al.,
+Plaintiffs-Appellants,
+v.
+DEPOSITORY TRUST AND CLEARING CORP., et al.
+Defendants-Appellees.
+______________________________________________
+On Appeal from the United States District Court
+for the Eastern District of Arkansas (Western Division)
+_______________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE, IN SUPPORT OF APPELLEE, URGING AFFIRMANCE
+ON ISSUE ADDRESSED
+______________________________________________
+BRIAN G. CARTWRIGHT
+General Counsel
+ANDREW N. VOLLMER
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+MARK PENNINGTON
+Assistant General Counsel
+Securities and Exchange Commission
+100 F Street, N.E.
+Washington, D.C. 20549-9010
+(202) 551-5189 (Pennington)
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iv
+INTEREST OF THE SECURITIES AND EXCHANGE
+COMMISSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+PLAINTIFFS’ ALLEGATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+BACKGROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+A.
+
+Section 17A of the Exchange Act directs the Commission to
+oversee the national clearance and settlement system in
+accordance with the public interest and the protection of
+investors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+B.
+
+The Commission has approved the stock borrow program
+as being in compliance with the requirements of the
+Exchange Act. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+ISSUE ADDRESSED BY THE COMMISSION . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+I.
+
+Plaintiffs’ case rests on an erroneous description of the legal regime
+governing how securities are held, settled and cleared. . . . . . . . . . . . . . . . 9
+A.
+
+The U.C.C. prescribes the terms under which the securities
+involved in this case are held . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+B.
+
+Clearance and settlement of the securities involved in this
+case are governed by NSCC’s Commission-approved rules,
+including the stock borrow program. . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+-i-
+
+TABLE OF CONTENTS (CONTINUED)
+Page
+
+C.
+
+II.
+
+1.
+
+The Continuous Net Settlement system reflects daily
+securities transactions by making net transfers among
+the broker-dealers’ securities accounts at DTC. . . . . . . . . . . 12
+
+2.
+
+At the option of the buyer, a buy-in may by used to
+satisfy delivery obligations when a seller fails to
+deliver securities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+3.
+
+When shares that have not been delivered are
+available to be borrowed, the stock borrow program
+provides that the shares are automatically borrowed by
+NSCC and delivered to buyers. . . . . . . . . . . . . . . . . . . . . . . . 16
+
+Plaintiffs incorrectly describe the operation of the U.C.C.
+and NSCC Rules. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+
+Plaintiffs’ state law challenges to the stock borrow program are
+preempted by the Exchange Act. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+A.
+
+State laws that conflict with federal regulatory regimes are
+preempted. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+B.
+
+Permitting state law liability for the conduct alleged in the
+complaint would conflict with the Exchange Act regulatory
+regime. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+1.
+
+Plaintiffs’ direct challenges are preempted. . . . . . . . . . . . . . . 22
+
+2.
+
+Plaintiffs’ so-called “misrepresentation” claims are also
+preempted. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+a.
+
+Apparently abandoned claims. . . . . . . . . . . . . . . . . . . 24
+
+b.
+
+The inefficiency claim. . . . . . . . . . . . . . . . . . . . . . . . . . 25
+-ii-
+
+TABLE OF CONTENTS (CONTINUED)
+Page
+c.
+III.
+
+The mis-accounting for lender shares claim. . . . . . . . . 27
+
+The Commission is vigorously exercising its regulatory responsibility
+to prevent abusive short selling, but it has not suggested that
+defendants or the clearing and settlement system are responsible for
+any such abuses. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+CERTIFICATE OF SERVICE
+CERTIFICATE OF COMPLIANCE
+ANTI-VIRUS CERTIFICATE
+
+-iii-
+
+TABLE OF AUTHORITIES
+Cases
+
+Page
+
+Bradford National Clearing Corp. v. SEC,
+590 F.2d 1085 (D.C. Cir. 1978) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 13
+Credit Suisse First Boston Corp. v. Grunwald,
+400 F.3d 1119 (9th Cir. 2005) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Crosby v. National Foreign Trade Council, 530 U.S. 363 (2000) . . . . . . . . . . . . 21
+Levy v. Ohl, 477 F.3d 988 (8th Cir. 2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Merrill Lynch, Pierce, Fenner & Smith v. Ware,
+414 U.S. 117 (1973) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Nanopierce Technologies, Inc. v. Depository Trust and Clearing Corp.,
+168 P.3d 73 (Nev. 2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 22, 24
+passim
+Savage v. Jones, 225 U.S. 501 (1912) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Whistler Investments, Inc. v. Depository Trust and Clearing Corp.,
+2008 WL 3876577 (9th Cir. Aug. 22, 2008) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+passim
+Commission Releases
+National Securities Clearing Corp.; Proposed Rule Change
+by Self-Regulatory Organization, SEC Rel. No. 34-16514,
+45 Fed. Reg. 5867 (Jan. 24, 1980) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+National Securities Clearing Corp.; Proposed Rule Change,
+SEC Rel. No. 34-17422, 46 Fed. Reg. 3104 (Jan. 13, 1981) . . . . . . . . . . . . . . . . 7
+In the Matter of the Full Registration as Clearing Agencies of
+The Depository Trust Co. et al., SEC Rel. No. 34-20221,
+48 Fed. Reg. 45167 (Oct. 3, 1983) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+-iv-
+
+TABLE OF AUTHORITES (CONTINUED)
+Commission Releases (Continued)
+
+Page
+
+Regulation SHO Proposing Release, SEC Rel. No. 34-48709,
+68 Fed. Reg. 62972 (Nov. 6, 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Short Sales, SEC Rel. No. 34-50103,
+69 Fed. Reg. 48008 (Aug. 6, 2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Amendments to Regulation SHO, SEC Rel. No. 34-5612,
+72 Fed. Reg. 45544 (Aug. 7, 2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Emergency Order, SEC Rel. No. 34-58166 (July 15, 2008),
+http://www.sec.gov/rules/other/2008/34-58166.pdf . . . . . . . . . . . . . . . . . . . . . . 30
+Statutes and Rules
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+Section 3(a)(23)(A), 15 U.S.C. 78c(a)(23)(A) . . . . . . . . . . . . . . . . . . . . . . . 5
+Section 3(a)(26), 15 U.S.C. 78c(a)(26) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Section 17A, 15 U.S.C. 78q-1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1, 3, 4
+passim
+Section 17A(a)(1), 15 U.S.C. 78q-1(a)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Section 17A(a)(2), 15 U.S.C. 78q-1(a)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Section 17A(b), 15 U.S.C. 78q-1(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Section 17A(b)(1), 15 U.S.C. 78q-1(b)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Section 17A(b)(3)(A), 15 U.S.C. 78q-1(b)(3)(A) . . . . . . . . . . . . . . . . . . . . . 5
+Section 17A(b)(3)(F), 15 U.S.C. 78q-1(b)(3)(F) . . . . . . . . . . . . . . . . . . 6, 26
+Section 17A(b)(3)(I), 15 U.S.C. 78q-1(b)(3)(I) . . . . . . . . . . . . . . . . . . . . . . 6
+Section 19(b), 15 U.S.C. 78s(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 8
+Section 19(b)(2), 15 U.S.C. 78s(b)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Section 19(b)(3), 15 U.S.C. 78s(b)(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 7
+
+-v-
+
+TABLE OF AUTHORITIES (CONTINUED)
+Statutes and Rules (Continued)
+
+Page
+
+Uniform Commercial Code
+Article 8-101 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Article 8-102(a)(9)(i) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Article 8-102(a)(14) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Article 8-102(a)(17) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Article 8-501, Comment 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Article 8-501, Comment 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Article 8-501(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Article 8-501(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10
+11
+11
+11
+11
+12
+11
+11
+
+Federal Rule of Evidence
+Rule 201 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Rules Under the National Securities Clearing Corporation
+Rule 11, Sec. 1(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 14
+Rule 11, Sec. 1(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Rule 11, Sec. 1(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Rule 11, Sec. 1(e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Rule 11, Sec. 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Rule 11, Sec. 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 15
+Rule 11, Sec. 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 15
+Rule 11, Sec. 7(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Rule 11-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Procedure VII(A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Procedure VII(C)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Procedure VII(C)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Procedure VII(C)(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Procedure VII(E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Procedure VII(J) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Procedure X(A)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+-vi-
+
+13
+14
+14
+15
+15
+16
+16
+
+TABLE OF AUTHORITIES (CONTINUED)
+Miscellaneous
+
+Page
+
+Responses to Frequently Asked Questions Regarding SHO,
+Question 7.1 (Jan. 3, 2005)
+www.sec.gov/divisions/marketreg/mrfaqregsho1204.htm . . . . . . . . . . . . . . 12, 17
+
+-vii-
+
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+The national clearance and settlement system for securities plays a crucial
+role in our nation’s capital markets. Congress requires clearing agencies to be
+registered with the Securities and Exchange Commission and subject to the
+Commission’s comprehensive oversight under Section 17A of the Securities
+Exchange Act of 1934, 15 U.S.C. 78q-1. National Securities Clearing Corporation
+(NSCC), one of the defendants in this case, provides clearing services for virtually
+all broker-to-broker equity and corporate debt trades in the United States, clearing
+over 20 million equity transactions on an average trading day, while defendant
+Depository Trust Company (DTC) plays an important role in that system as a
+depository for securities.
+Plaintiffs’ lawsuit threatens to disrupt or to impose substantial and
+unwarranted costs on this system by seeking damages under state law against
+registered clearing agencies for operation of the NSCC stock borrow program
+pursuant to Commission-approved rules. Plaintiffs allege that defendants are
+liable to them because the stock borrow program has facilitated manipulation of
+Pet Quarter’s stock by naked short sellers. Their complaint makes direct
+challenges to the program, alleging that operation of the program in accordance
+with the rules gives rise to damage claims, and also purported “misrepresentation”
+claims alleging that defendants have lied about the program’s operation. Both sets
+
+of claims actually challenge the Commission’s approval of the program, and both
+are therefore preempted by the Exchange Act.
+As the regulator charged by Congress with overseeing the registered
+clearing agencies and ensuring that the national clearance and settlement system
+functions efficiently, in the public interest and for the protection of investors, the
+Commission has a strong and direct interest in seeing that the threats created by
+plaintiffs’ lawsuit are ended by the affirmance of the district court’s dismissal.
+PLAINTIFFS’ ALLEGATIONS
+The gravamen of plaintiffs’ complaint is that the stock borrow program as
+operated by NSCC in accordance with Commission-approved rules facilitates
+stock manipulation by naked short sellers. Thus, they begin the Summary section
+of the complaint by asserting that the Stock borrow program was “purportedly
+created to address SHORT TERM delivery failures by sellers of securities in the
+stock market” but that the “end result of the program has been to create tens of
+millions of unissued and unregistered shares to be traded in the public market,”
+and that in some instances the program has “resulted in two or more shareholders
+who purchase shares in separate transactions owning the same shares.”
+Complaint, ¶2. After what purports to be a description of how the clearing system
+and the stock borrow program work (¶¶3-6), plaintiffs aver that in operating the
+-2-
+
+program, defendants have “permitted sellers to maintain open fail to deliver
+positions of tens of millions of shares for periods of a year and even longer and
+participated in a scheme to manipulate downward the price of the affected
+securities” (¶6). As harms, plaintiffs allege that defendants’ conduct
+has had the effect of creating millions of unregistered, illegal, free trading
+shares of the issuer, (1) artificially increasing the supply of an issuer’s
+shares in the marketplace; (2) driving down the price of the stock of the
+issuer; (3) decreasing the value of the shareholders’ holdings in an issuer’s
+stock; and (4) causing multiple owners who purchased shares in separate
+transactions to own the same shares. Complaint, ¶7.
+The balance of their complaint expands on these allegations that the
+program has harmful effects, concluding with sixteen claims for relief for injuries
+supposedly caused by defendants’ conduct (¶¶123-296).
+BACKGROUND
+A.
+
+Section 17A of the Exchange Act directs the Commission to
+oversee the national clearance and settlement system in
+accordance with the public interest and the protection of
+investors.
+
+Congress enacted Section 17A of the Exchange Act in 1975 as part of the
+legislative response to the paperwork crisis of the late 1960s and early 1970s. See
+generally In the Matter of the Full Registration as Clearing Agencies of The
+Depository Trust Co. et al., SEC Rel. No. 34-20221, 48 Fed. Reg. 45167, 45168
+(Oct. 3, 1983) (“Final Approval Order”); Bradford National Clearing Corp. v.
+-3-
+
+SEC, 590 F.2d 1085, 1090-94 (D.C. Cir. 1978). The statute is based on
+Congressional findings that the prompt and accurate clearance and settlement of
+securities “are necessary for the protection of investors;” that “[i]nefficient
+procedures for clearance and settlement impose unnecessary costs on investors;”
+that “[n]ew data processing and communications techniques create the opportunity
+for more efficient, effective, and safe procedures for clearance and settlement;”
+and that linking clearance and settlement facilities and developing uniform
+clearance and settlement standards and procedures “will reduce unnecessary costs
+and increase the protection of investors.” Section 17A(a)(1), 15 U.S.C. 78q1(a)(1).
+Congress directed the Commission, “having due regard for the public
+interest, the protection of investors, and the safeguarding of securities,” to
+“facilitate the establishment of a national system for the prompt and accurate
+clearance and settlement of transactions in securities” in accordance with the
+statutory findings and objectives. Section 17A(a)(2), 15 U.S.C. 78q-1(a)(2).
+Section 17A requires every clearing agency that acts in interstate commerce to be
+registered with the Commission. Section 17A(b), 15 U.S.C. 78q-1(b). 1
+1
+
+The term “clearing agency” includes entities like NSCC that act as an
+intermediary in making payments and deliveries in securities
+(continued...)
+-4-
+
+Registration may not be granted unless the Commission finds that both the
+clearing agency itself and the clearing agency’s rules meet specified statutory
+requirements (the “Requirements”). Section 17A(b)(1), 15 U.S.C. 78q-1(b)(1).
+Among the Requirements are that the clearing agency be so organized as,
+and have the capacity, to be able to facilitate the prompt and accurate clearance
+and settlement of securities transactions, safeguard securities and funds in its
+custody or control or for which it is responsible, comply with the provisions of the
+federal securities laws, enforce compliance by its participants with the rules of the
+clearing agency, and carry out the purposes of Section 17A. Section
+17A(b)(3)(A), 15 U.S.C. 78q-1(b)(3)(A). The clearing agency’s rules must be
+designed, inter alia, to promote the prompt and accurate clearance and settlement
+of securities transactions, to remove impediments to and perfect the mechanism of
+a national system for the prompt and accurate clearance and settlement of
+securities transactions, and, in general, to protect investors and the public interest.
+
+1
+
+(...continued)
+transactions, as well as securities depositories such as DTC that act as
+a custodian of securities in a system under which all deposited
+securities of a particular class or series of an issuer are treated as
+fungible and may be transferred, loaned, or pledged by bookkeeping
+entry without physical delivery of securities certificates. Section
+3(a)(23)(A) of the Exchange Act, 15 U.S.C. 78c(a)(23)(A).
+-5-
+
+Section 17A(b)(3)(F), 15 U.S.C. 78q-1(b)(3)(F). Also, the rules must not impose
+any burden on competition not necessary or appropriate in furtherance of the
+purposes of the Exchange Act. Section 17A(b)(3)(I), 15 U.S.C. 78q-1(b)(3)(I).
+Registered clearing agencies are self-regulatory organizations (SROs) under
+the Exchange Act. Section 3(a)(26), 15 U.S.C. 78c(a)(26). Therefore, changes to
+a clearing agency’s rules after registration may only be made pursuant to Section
+19(b) of the Exchange Act, 15 U.S.C. 78s(b). That section provides that no
+change may take effect unless approved by the Commission under Section
+19(b)(2), 15 U.S.C. 78s(b)(2), as being consistent with the Exchange Act, or
+unless permitted to take effect without prior approval pursuant to Section 19(b)(3),
+15 U.S.C. 78s(b)(3).
+B.
+
+The Commission has approved the stock borrow program as
+being in compliance with the Requirements of the Exchange Act.
+
+Defendants NSCC, DTC, and a number of other clearing agencies filed
+applications for registration with the Commission in 1976. Final Approval Order,
+48 Fed. Reg. at 45168-69. The Commission granted each of these agencies
+conditional registration. Id. It then undertook a thorough review of each clearing
+agency’s operations and rules to ensure that they met the statutory Requirements
+before granting full registration. Id. The Commission also published standards
+
+-6-
+
+(the “Standards”) to be used by its Division of Market Regulation (now Division
+of Trading and Markets) in reviewing and making recommendations concerning
+whether each clearing agency should be granted full registration. Id. at 45169.
+NSCC adopted the stock borrow program by rule changes that took effect
+pursuant to Section 19(b)(3) during the time when it was operating under the
+conditional registration. SEC Rel. No. 34-16514, 45 Fed. Reg. 5867 (Jan. 24,
+1980) (notice of filing of NSCC proposed rule change adopting as a one year pilot
+program procedures for borrowing securities to meet system needs); SEC Rel. No.
+34-17422, 46 Fed. Reg. 3104 (Jan. 13, 1981) (notice of filing of NSCC proposed
+rule change making pilot program permanent).
+The Commission granted NSCC’s application for full registration in 1983,
+nearly three years after the stock borrow program rules took effect. 48 Fed. Reg.
+at 45178. After describing its review of NSCC’s application and the extensive
+oversight it had exercised over NSCC during the pendency of that application, the
+Commission stated that it had determined “that NSCC’s by-laws, rules,
+procedures, and systems, as amended, are consistent with the Requirements and
+
+-7-
+
+the Standards,” and that accordingly, it “believe[d] that NSCC should be granted
+full registration.” Id. 2
+ISSUE ADDRESSED BY THE COMMISSION
+Whether plaintiffs’ state law damages claims against defendants for
+operating the stock borrow program in compliance with Commission-approved
+rules are preempted because they are inconsistent with, and stand as an obstacle to
+the accomplishment and execution of the full purposes and objectives of, the
+Exchange Act.
+
+2
+
+The Commission relied on each clearing agency’s application, as well
+as on the Commission’s continuous monitoring and oversight of the
+agencies, including its review of each proposed rule change filed with
+it. 48 Fed. Reg. at 45170-71. Specifically,
+in carrying out the Commission’s general oversight
+responsibilities, the Commission has reviewed, pursuant
+to Section 19(b) of the Act, each of the many proposed
+rule changes filed by the clearing agencies. Those rule
+changes have concerned most of the major services and
+systems of each clearing agency, all of the recent
+enhancements to clearing agency services, and all
+schedules of fees.
+48 Fed. Reg. at 45171.
+-8-
+
+ARGUMENT
+The complaint in this case is virtually identical to the complaints filed in
+several other cases. All of the earlier cases have by now been dismissed, and
+every court that has considered the complaint, including the Nevada supreme court
+and the Ninth Circuit Court of Appeals, has concluded that it is preempted because
+it conflicts with the Exchange Act. See Nanopierce Technologies, Inc. v.
+Depository Trust and Clearing Corp., 168 P.3d 73, 82-85 (Nev. 2007); Whistler
+Investments, Inc. v. Depository Trust and Clearing Corp., 2008 WL 3876577 (9th
+Cir. Aug. 22, 2008). We urge this Court to reach the same result. Before turning
+to the preemption argument, however, we explain that the complaint misdescribes
+the operation of the Uniform Commercial Code (U.C.C.) and the NSCC Rules of
+Operation.
+I.
+
+Plaintiffs’ case rests on an erroneous description of the legal regime
+governing how securities are held, settled and cleared.
+Plaintiffs seek to shield their erroneous description of the settlement and
+
+clearance system from scrutiny by asserting that the Court is bound by the
+allegations of their complaint (Br. 51-56), but they do not allege that defendants
+are acting inconsistently with either the U.C.C. or NSCC’s Rules. The content of
+the U.C.C. and NSCC’s Rules are matters of public record that may be ascertained
+
+-9-
+
+by judicial notice both at the district court and in this Court, and that may be
+considered on a motion to dismiss, see Levy v. Ohl, 477 F.3d 988, 991-92 (8th Cir.
+2007); Fed. R. Evid. 201. The interpretation of these provisions raises issues of
+law to be determined by a court, not questions of fact to be resolved by a factfinder
+in a trial. In other words, the Court may assume the truth of the well-pleaded facts
+alleged in the complaint for purposes of this appeal, but it should not also assume
+that plaintiffs’ misdescriptions of the applicable law are true. We therefore
+describe the relevant aspects of the Code and the Rules.
+A.
+
+The U.C.C. prescribes the terms under which the securities
+involved in this case are held.
+
+Article 8 of the U.C.C., “Investment Securities,” (U.C.C. 8-101) provides
+that securities may be held either (1) directly through possession of a certificate or
+entry on the issuer’s stock registry, or (2) indirectly, by acquisition of a “security
+entitlement,” which is a form of property interest created by the Code to reflect the
+fact that securities were increasingly being held through intermediaries such as
+broker-dealers. See generally Prefatory Note to Revised Article 8 (1994).3 In
+essence, a security entitlement is a contractual undertaking in which a securities
+
+3
+
+The Official Comments to each section of the U.C.C. cited
+infra provide further explanation of the meaning of the relevant
+provisions.
+-10-
+
+intermediary such as a clearing corporation, bank or broker-dealer agrees to treat
+the entitlement holder as being entitled to exercise the rights that comprise the
+security. See generally, U.C.C. 8-501, Comment 1. 4 Thus, instead of a certificate
+or an entry in the issuer’s stock registry, the holder of a security entitlement has
+contractual rights against an intermediary -- against DTC in the case of a brokerdealer, and against the broker-dealer in the case of broker-dealer’s customers.
+Transfers of security entitlements are made on the books of the intermediary (the
+books of DTC for broker-dealers, the books of broker-dealers for their customers)
+rather than through delivery of a certificate or an entry on the issuer’s registry.
+This arrangement facilitates efficient and safe transfers of large numbers of shares.
+The intermediary may credit an account with a security entitlement even
+though the intermediary does not itself hold the security. Section 8-501(c). For
+
+4
+
+“Security entitlement” is defined as “the rights and property interest
+of an entitlement holder” with respect to a security (and other types of
+financial assets) as specified in Part 5 of Article 8 (“Security
+Entitlements”). U.C.C. 8-102(a)(17) (definition of security
+entitlement), 8-102(a)(9)(i)(definition of financial asset as including a
+security). A security entitlement is created when an intermediary
+credits a security into the entitlement holder’s “securities account,”
+which is an account in which a security may be credited in
+accordance with an agreement under which the person maintaining
+the account undertakes to treat the entitlement holder as entitled to
+exercise the rights that comprise the security. U.C.C. 8-501(a); see
+also U.C.C. 8-102(a)(14)(definition of “securities intermediary”).
+-11-
+
+example, the U.C.C. commentary explains that it may do so when the seller of
+securities has failed to deliver them:
+It is . . . entirely possible that a securities intermediary might make entries in
+a customer’s account reflecting that customer’s acquisition of a certain
+security at a time when the securities intermediary did not itself happen to
+hold any units of that security. The person from whom the securities
+intermediary bought the security might have failed to deliver and it might
+have taken some time to clear up the problem . . .. U.C.C. 8-501, Official
+Comment 3 (Emphasis added)
+If an intermediary credits entitlements to customer accounts even though the
+intermediary does not hold the security, the result may be that the total number of
+securities entitlements credited to all customer accounts exceeds the number of
+shares issued by the issuer. See Responses to Frequently Asked Questions
+Regarding SHO, Question 7.1 (Jan. 3, 2005). 5
+B.
+
+Clearance and settlement of the securities involved in this case
+are governed by NSCC’s Commission-approved Rules, including
+the stock borrow program.
+1.
+
+The Continuous Net Settlement system reflects daily
+securities transactions by making net transfers among the
+broker-dealers’ securities accounts at DTC.
+
+The securities that are the subject of the complaint were deposited at DTC,
+either by DTC’s participants (broker-dealers and banks) or by the issuers of the
+
+5
+
+www.sec.gov/divisions/marketreg/mrfaqregsho1204.htm.
+-12-
+
+securities. These securities are registered on the books of the issuer in the name of
+DTC’s nominee, Cede & Co. Thus, Cede & Co. is the only entity that holds these
+securities directly, while the DTC participants hold only securities entitlements
+created when DTC credits the securities deposited with it to participants’ securities
+accounts. DTC reflects transactions among its participants by computerized bookentry changes in those accounts in the following manner.
+Trades in these securities clear through NSCC’s continuous net settlement
+system. See generally NSCC Rule 11, Sec. 1(a); Final Approval Order, 48 Fed.
+Reg. at 45170 n.32; Bradford, 590 F.2d at 1091 n.2. Under that system, NSCC
+becomes the contra-party to each purchase or sale of securities. NSCC assumes
+the obligation of each member that is receiving securities to receive and pay for
+those securities, and it assumes the obligation of each member that is delivering
+securities to make the delivery. Rule 11, Secs. 1(b), (c), (e); Procedure VII(A).
+NSCC is also assigned the receiving party’s right to receive securities and the
+delivering party’s right to receive payment. Id.
+The assumption of these obligations and the assignment of these rights by
+NSCC place it between the delivering member and the receiving member – the
+delivering member is obligated to deliver securities to NSCC; the receiving
+member is obligated to accept and pay for securities delivered by NSCC; and
+-13-
+
+NSCC is obligated to receive and pay for securities from the delivering member,
+and to deliver securities to the receiving member. Id.
+All member purchases and sales of a given security are netted daily based
+on the trade date, so that each member is required to deliver to NSCC or receives
+from NSCC only the difference between the total amount of each security that it
+bought and the total amount that it sold during the trading period. Procedure
+VII(C)(1). A member that owes NSCC securities is described in NSCC Rules as
+having a short position, a member that is entitled to receive securities from NSCC
+has a long position, and a member that is neither obligated to deliver nor entitled
+to receive securities has a flat position. Rule 11, Secs. 1(a), 2. 6
+For each member with a short position in a security at the close of business
+on settlement date, NSCC instructs DTC to deliver securities from the member’s
+account at DTC to NSCC’s account at DTC. Rule 11, Secs. 3, 4; Procedure
+VII(C)(2). NSCC then instructs DTC to deliver those securities from NSCC’s
+
+6
+
+“Short position” in this context means only that the member has an
+obligation to deliver securities to NSCC. It does not mean that the
+securities were sold short in the market.
+-14-
+
+account to the DTC accounts of members with long positions in the security. Rule
+11, Secs. 3, 4; Procedure VII(C)(3). 7
+2.
+
+At the option of the buyer, a buy-in may by used to satisfy
+delivery obligations when a seller fails to deliver securities.
+
+Sometimes, members do not have sufficient securities on deposit at DTC to
+meet their delivery obligation to NSCC on settlement date. Procedure VII(C)(3).
+Fails to deliver may be caused by reasons other than naked short selling. For
+example, human or mechanical errors or processing delays can result from
+transferring securities, thus causing a failure to deliver on a long sale within the
+normal three-day settlement period.
+When a delivery failure occurs, NSCC allocates the fails to members that
+are due to receive securities according to NSCC Rules (Procedure VII(E)). This
+allocation may cause the receiving member to whom the fail is allocated to have a
+long position, i.e., to be entitled to receive securities from NSCC. (The receiving
+member is not obligated to pay for the securities until their delivery.)
+A member that has failed to receive securities has two options: it may
+either maintain that position and wait for delivery to be made to it as securities are
+delivered to NSCC, or it may file a Notice of Intention to Buy-in with NSCC.
+7
+
+Details of the procedures for establishing each member’s position on
+settlement date are set forth in Rule 11-5.
+-15-
+
+Rule 11, Sec. 7(a), Procedure VII(J). In response to the filing of such a Notice,
+NSCC takes a series of steps to facilitate the buy-in, including, if necessary,
+executing the buy-in in the marketplace of its choice, through the agents of its
+choosing. (Typically it will instruct the buyer to make the purchase). Procedure
+X(A)(1). When a buy-in is executed, any financial loss incurred in the purchase is
+allocated in accordance with NSCC procedures to members with short positions in
+the security. Id.
+3.
+
+When shares of securities that have not been delivered are
+available to be borrowed, the stock borrow program
+provides that available shares are automatically borrowed
+by NSCC and delivered to buyers.
+
+The stock borrow program is operated by NSCC as an alternative to the
+buyer either waiting for the securities to be delivered by the seller or initiating a
+buy-in. The program is intended to improve the efficiency of the clearance and
+settlement system by increasing the likelihood that purchasers will receive
+delivery of their securities on settlement date even though insufficient securities
+have been delivered to NSCC on that day. See NSCC Rules, Addendum C. Under
+the applicable Rules, the program is automated and operates without the exercise
+of discretion by NSCC.
+
+-16-
+
+Members wishing to participate in the program as lenders notify NSCC of
+securities that they have on deposit with DTC that are available to be borrowed for
+delivery to receiving members. Id. NSCC will borrow those shares if it has
+unsatisfied delivery obligations on a particular settlement date. Id. Borrowed
+securities are transferred from the lending member’s account to an NSCC account
+at DTC, and are then used to satisfy delivery obligations to members with long
+positions that would otherwise fail to receive.
+The lending member is credited with the market value of the securities
+borrowed, and the long position in the member’s account will reflect the
+borrowing of the shares until those shares are returned, i.e., the account will reflect
+that the member is owed shares. Id. Borrowed stock is returned to the lender
+through normal allocation in the continuous net settlement system as securities
+become available. Id. Alternatively, the lender, like any other member with a
+long position, may initiate buy-in procedures by submitting a Notice of Intention
+to Buy-in. Until the securities are returned to it, the lending member cannot sell or
+re-lend them. See Responses to Frequently Asked Questions Regarding SHO (Jan.
+3, 2005). 8
+
+8
+
+www.sec.gov/divisions/marketreg/mrfaqregsho1204.htm.
+-17-
+
+C.
+
+Plaintiffs incorrectly describe the operation of the U.C.C. and
+NSCC Rules.
+
+The foregoing summary of the applicable U.C.C. provisions and NSCC
+Rules makes clear that plaintiffs’ description of the continuous net settlement
+system and the stock borrow program that are created by NSCC’s Rules is flawed
+in essential respects. Among their erroneous allegations are that (1) the stock
+borrow program is the only way that fails to deliver can be cured, (2) NSCC is at
+fault for “permitting” fails to deliver to remain open, and (3) the continuous net
+settlement system or the stock borrow program results in the creation of “phantom
+shares.”
+(1) A member that has failed to receive securities can obtain those
+securities through a buy-in, which will not involve the stock borrow program at
+all. Conversely, a member that receives securities from the stock borrow program
+will not have to initiate a buy-in, and will not be aware that the securities it
+receives are borrowed; rather, it will receive the borrowed shares from NSCC
+along with delivered shares..
+(2) NSCC’s job is to account for securities that are delivered into the
+system and to instruct DTC to make transfers among participants’ accounts to
+reflect those deliveries. It does not have the authority to require either delivery by
+
+-18-
+
+sellers that fail to deliver or buy-ins by buyers that have not received securities.
+Moreover, it has no mechanism for determining whether particular fails to deliver
+have occurred because of illegal naked short selling or for some legitimate reason,
+and it does not have any standards that would guide it in deciding whether a buyin should be made.
+(3) While the operation of the U.C.C. may result in more shares being
+credited to customer accounts in the form of security entitlements than have been
+issued, that fact is a recognized feature of the statutory scheme, arising from the
+fact that broker-dealers are permitted to credit accounts with security entitlements
+even though the firm is not holding an equivalent number of shares. In contrast, as
+operated under NSCC Rules, the continuous net settlement system and the stock
+borrow program do not result in more shares being credited to DTC participants’
+accounts than have been issued by the issuer and are being held by DTC.
+First of all, DTC (through its nominee) is shown on the issuer’s books as the
+record holder of the shares deposited with it, so DTC cannot hold more shares than
+the issuer has issued. DTC, in turn, credits its participants’ accounts with
+securities entitlements only up to the number of shares it has on deposit, so the
+total number of entitlements in those accounts also will not exceed the number of
+issued shares.
+-19-
+
+Next, as noted, the continuous net settlement system operated by NSCC is
+essentially an accounting system that records delivery and receive obligations
+among NSCC members. Under NSCC Rules, NSCC will not direct DTC to
+transfer more shares out of a selling member’s account than the member has in that
+account. Instead, NSCC will show the seller as owing delivery (i.e., having a
+short position) to the extent that the account has an insufficient number of shares
+to cover all deliveries required that day, and it will allocate the resulting fails to
+deliver to purchasing members, who will be shown as being owed delivery (i.e.,
+having long positions). As a result, there will not be more shares in NSCC
+members’ accounts at DTC than are issued.
+Finally, when shares are borrowed through the stock borrow program,
+NSCC will instruct DTC to transfer shares that are in a lender’s account to
+NSCC’s account, from where they will be transferred to buyers – a lender’s DTC
+account will be debited the lent shares, and the buyer’s DTC account will
+ultimately be credited with those shares. The seller will continue to have the same
+short position. All that the stock borrow program does is shift the consequences
+of the failure to deliver from a buyer that would otherwise be allocated a fail to
+receive to a lender that has indicated that it is willing to lend its shares and await
+delivery of replacement shares. This shift cannot possibly increase the number of
+-20-
+
+securities issued, any more than the buyer’s decision to either wait or initiate a
+buy-in can do so.
+II.
+
+Plaintiffs’ state law challenges to the stock borrow program are
+preempted by the Exchange Act.
+A.
+
+State laws that conflict with federal regulatory regimes are
+preempted.
+
+State laws are “naturally preempted to the extent of any conflict with a
+federal statute.” Crosby v. National Foreign Trade Council, 530 U.S. 363, 372
+(2000). A court will find conflict preemption “where it is impossible for a private
+party to comply with both state and federal law, and where under the
+circumstances of a particular case, the challenged state law stands as an obstacle to
+the accomplishment and execution of the full purposes and objectives of
+Congress.” Id. (internal citations, quotation marks, and brackets omitted). “What
+is a sufficient obstacle is a matter of judgment, to be informed by examining the
+federal statute as a whole and identifying its purpose and intended effects.” Id. at
+373. In Crosby (530 U.S. at 373), the Court quoted Savage v. Jones, 225 U.S. 501,
+533 (1912):
+For when the question is whether a Federal act overrides a state law,
+the entire scheme of the statute must of course be considered and that
+which needs must be implied is of no less force than that which is
+expressed. If the purpose of the act cannot otherwise be
+accomplished – if its operation within its chosen field else must be
+-21-
+
+frustrated and its provisions be refused their natural effect – the state
+law must yield to the regulation of Congress within the sphere of its
+delegated power.
+SRO rules that are approved by the Commission preempt conflicting state
+law. Credit Suisse First Boston Corp. v. Grunwald, 400 F.3d 1119, 1128 (9th Cir.
+2005), citing Merrill Lynch, Pierce, Fenner & Smith v. Ware, 414 U.S. 117, 127
+(1973).
+B.
+
+Permitting state law liability for the conduct alleged in the
+complaint would conflict with the Exchange Act regulatory
+regime.
+1.
+
+Plaintiffs’ direct challenges are preempted.
+
+Though one would scarcely know it from plaintiffs’ brief, which mentions
+them only in a footnote (Br. 18, n.16), eight of their sixteen claims for relief
+directly challenge the stock borrow program by alleging that the program’s
+operation in compliance with Commission-approved rules violates Arkansas law.
+Plaintiffs’ brief offer no defense of these claims, presumably because it is
+obviously inconsistent with the federal regulatory regime to award damages
+against persons engaged in conduct that has been approved under that regime. See
+Nanopierce, 168 P.3d at 84-85; Whistler, *6.
+
+-22-
+
+2.
+
+Plaintiffs’ so-called “misrepresentation” claims are also
+preempted.
+
+Plaintiffs stake their case in this Court entirely on so-called
+“misrepresentations” made by defendants, namely that (1) defendants claim that
+shares delivered through the stock borrow program are borrowed when the
+procedures created by NSCC Rules actually result in a purchase (Claims 1 and 5),
+(2) defendants claim that they efficiently clear and settle trades when in fact the
+clearance and settlement system is inefficient because fails to deliver may remain
+open for an extended period of time (Claims 2 and 6), (3) the way defendants
+account for borrowed shares misstates the number of shares held by lending
+members (Claims 3 and 7), and (4) defendants claim that if a buyer notifies NSCC
+of an intent to buy-in a failed to deliver security, NSCC will buy the shares when
+in fact it cures the fail to deliver with borrowed shares (Claims 4 and 8).
+Similarly to the way it handled the direct challenges, plaintiffs’ brief barely
+mentions the purchased-rather-than-borrowed claim or its mirror image, the
+borrowed-rather-than-bought-in claim (Br. 49-50), so perhaps they are abandoning
+those allegations as well. In any event, we will discuss first the apparently
+abandoned claims, then the efficient settlement claim and finally the misaccounting claim.
+
+-23-
+
+a. Apparently abandoned claims. With respect to the buyrather-than-borrow claim, it is hard to see how plaintiffs would have been injured
+even had all the misrepresentations alleged in the complaint occurred, but it is
+particularly difficult to understand how plaintiffs could have been injured by
+whether transactions carried out under the stock borrow program are called loans
+rather than sales – the way the program works is described in the rules, and the
+name by which the transaction is called cannot harm plaintiffs. Regardless, the
+claim is preempted because the Commission has approved the name “stock borrow
+program” as well as the description of the program in NSCC’s Rules as involving
+the borrowing of shares, so a state law finding that the program does not involve
+borrowing would be inconsistent with the Commission’s determination that it
+does. See Nanopierce, 168 P.3d at 83; Whistler, *5.
+The borrow-rather-than-buy-in claim is contrary to the applicable rules,
+under which borrowed shares are delivered to receiving members automatically, so
+there would be no reason to initiate a buy-in when the stock borrow program is
+employed. Even putting aside this substantial problem with the claim, the
+argument is simply that defendants committed fraud by acting in compliance with
+NSCC’s Rules. For the reasons we have discussed, that claim is preempted in
+
+-24-
+
+light of the Commission’s approval of those Rules. See Nanopierce, 168 P. 3d at
+82-83; Whistler, *6.
+b. The inefficiency claim.. The complaint accuses defendants
+of representing that “they efficiently clear and settle trades” when in fact they are
+“not clearing and settling trades that result in open fail to deliver positions,
+because these trades are processed through the Stock Borrow Program and
+therefore remain unsettled for extended periods of time.” ¶ 135. 9 It further alleges
+that plaintiffs are injured by defendants’ representations with regard to efficiency
+because “in fact” defendants “are not using the Stock Borrow Program to clear and
+settle trades efficiently but rather to mask inefficiencies in their clearance and
+settlement process by covering open fail to deliver positions with borrowed shares
+for extended periods of time.” ¶ 146.
+In order to prove their allegation that defendants falsely claimed that “they
+efficiently clear and settle trades” in order to “mask inefficiencies,” plaintiffs
+would first have to prove that defendants in fact do not “efficiently clear and settle
+9
+
+To buttress the inefficiency claim, plaintiffs allege that defendants
+have represented that they maintain an orderly flow of security and
+money balances, that members lend stock to cover temporary
+shortfalls in the continuous net settlement system, and that the
+securities loaned through the stock borrow program enable the NSCC
+to satisfy delivery obligations not filled through normal deliveries.
+¶136.
+-25-
+
+trades;” otherwise, there would be nothing to mask. Yet when the Commission
+approved the rules as being consistent with the statutory Requirements and the
+Commission-issued Standards, it thereby found that, among other things, the rules
+were designed to promote the prompt and accurate clearance and settlement of
+securities transactions, remove impediments to and perfect the mechanism of a
+national system for the prompt and accurate clearance and settlement of securities
+transactions, and, in general, to protect investors and the public interest. See
+Section 17A(b)(3)(F). Those findings are not consistent with a finding, which
+would be the essential premise of plaintiffs’ claim here, that the system is
+inefficient.
+Thus, plaintiffs seek to challenge the Exchange Act regulatory regime by
+asking a state court, applying state law, to determine that a system that the
+Commission has found to be efficient is not efficient, and then to find that
+defendants’ failure to disclose this “inefficiency” is a form of fraud, compensable
+in damages. If accepted, plaintiffs’ theory of liability could be used to challenge
+any aspect of the Commission-approved clearance and settlement system, or,
+presumably, and other aspect of the securities markets governed by Commissionapproved rules, and it would make uniform regulation impossible. That theory
+would therefore impermissibly stand as an obstacle to the accomplishment and
+-26-
+
+execution of the full purpose and objectives of Congress in creating the Exchange
+Act’s self-regulatory regime, and it is preempted. See Nanopierce, 168 P.3d at 8384; Whistler, *5. 10
+c.
+
+The mis-accounting for lender shares claim. Finally,
+
+the complaint alleges that the way the borrowed shares are accounted for in the
+“lending member’s” account creates a misleading impression as to how many
+shares the lender holds. This allegation rests on the erroneous premise, discussed
+above, that the lender’s account continues to show the loaned shares as being still
+
+10
+
+In their brief, plaintiffs seek to make a new argument that is not
+reflected in the allegations of the complaint. They now assert that
+defendants “misrepresented and misused the program so as to permit
+failures to deliver to remain uncured for months and even years” (Br.
+15), and that they have “have permitted sellers to maintain fail to
+deliver positions of millions of shares for weeks, months, and years”
+while affirmatively misrepresenting to the public that they “operate
+the stock borrow program ‘only to cover temporary’ shortfalls in the
+delivery of shares sold in securities transactions” (Br. 18). The
+alleged harm arises not from any misrepresentation, but purely from
+the alleged fact that fails are “permitted” to remain open longer than
+plaintiffs believe should happen. But we have seen that defendants
+have not “permitted” this to occur – they have neither the authority
+nor the responsibility to close out open fails to deliver. Rather, if
+fails persist it is because sellers have not delivered and buyers have
+not initiated buy-ins, presumably because they are content to await
+delivery. Neither of these causes is subject to defendants’ control. In
+short, even the “misrepresentation” advanced in the brief, like the one
+alleged in the complaint, is nothing but another attack on how the
+program approved by the Commission operates.
+-27-
+
+available in the account even after they have been borrowed. Putting that difficulty
+aside, the way in which borrowed shares are accounted for is established by the
+applicable NSCC Rules, and a state law finding that the Rules themselves are
+fraudulent is preempted. See Nanopierce, 168 P.3d at 84; Whistler, *5. 11
+
+11
+
+Here again, plaintiffs’ brief makes an argument not alleged in their
+complaint (Br. 16-17), namely that defendants have been hiding the
+fact that a buyer that receives borrowed shares may re-lend them
+before the borrowed shares have been returned to the original lender,
+and that the recipient of the re-lent shares may “likewise re-lend
+them.” They also accuse the Commission of having deliberately
+joined in this supposed deception by seeking to conceal the relevant
+facts from the courts in which it has filed amicus briefs (Br. 52-53).
+The fact that the recipient of borrowed shares may re-lend them is an
+obvious feature of the program because a buyer that receives
+borrowed shares (technically, whose DTC account is credited with a
+securities entitlement for those shares) has exactly the same rights as
+a buyer that receives shares delivered by a seller, and those rights
+include the rights to sell or lend the securities. (This aspect of the
+program does not create more shares because, as explained above, the
+shares are accounted for as being debited from the lender’s account.)
+Furthermore, whether a lender is lending borrowed shares or
+delivered shares, the manner in which NSCC accounts for those
+shares will be in accordance with the Commission-approved rules
+governing the stock borrow program, so that this claim is merely
+another impermissible attempt to hold that a federally approved
+program is a form of fraud under state law.
+-28-
+
+III.
+
+The Commission is vigorously exercising its regulatory responsibility to
+prevent abusive short selling, but it has not suggested that defendants
+or the clearing and settlement system are responsible for any such
+abuses.
+Plaintiffs claim that the Commission has only “now recognized” potential
+
+problems with naked short selling (Br.54), but this assertion ignores history. The
+Commission adopted Regulation SHO in 2004 to address concerns with possible
+manipulative naked short selling. See Regulation SHO Proposing Release, SEC
+Rel. No. 34-48709, 68 Fed. Reg. 62972, 62975-78 (Nov. 6, 2003) (discussing
+problems potentially caused by naked short selling); Short Sales, SEC Rel. No. 3450103, 69 Fed. Reg. 48008, 48009 (Aug. 6, 2004) (adopting Regulation SHO and
+explaining that certain provisions of Regulation SHO are designed to reduce short
+selling abuses); 48013 n.53 (noting that most commenters welcomed the
+regulation as a means to address naked short selling manipulation). Among other
+requirements, Regulation SHO (1) requires broker-dealers to locate securities that
+are available for borrowing prior to effecting a short sale in any equity security,
+and (2) requires clearing agency participants (such as broker-dealers) to close out
+fail to deliver positions by purchasing securities of like kind and quantity for
+securities that are identified by a formula established by the regulation as having a
+substantial amount of fails. Short Sales, 69 Fed. Reg. at 48014, 48016-17.
+
+-29-
+
+The Commission revisited the issue in 2007, when it amended Regulation
+SHO to eliminate so-called “grandfathering,” under which certain shares had not
+been covered by the close out requirement. See Amendments to Regulation SHO,
+SEC Rel. No. 34-56212, 72 Fed. Reg. 45544 (Aug. 7, 2007). And it recently
+adopted an emergency order temporarily requiring all persons to borrow or to
+arrange to borrow certain securities prior to effecting an order for a short sale of
+those securities. See Emergency Order, SEC Rel. No. 34-58166 (July 15, 2008). 12
+Thus, the Commission is not a latecomer to the effort to prevent abusive
+short selling. Rather, it has been and remains quite active in carrying out its
+regulatory responsibilities. However, in all of this, the Commission’s focus has
+been on establishing sufficient assurances that short sellers have located, arranged
+to borrow, or borrowed the shares they are selling in order to prevent market
+manipulation. The Commission has not identified any cause for concern in this
+regard with respect to defendants or the clearing and settlement system, much less
+with the stock borrow program.
+
+12
+
+www.sec.gov/rules/other/2008/34-58166.pdf
+-30-
+
+CONCLUSION
+For the foregoing reasons, the ruling of the district court that plaintiffs’
+claims are preempted should be affirmed.
+Respectfully submitted,
+BRIAN G. CARTWRIGHT
+General Counsel
+ANDREW N. VOLLMER
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+___________________________________
+MARK PENNINGTON
+Assistant General Counsel
+Securities and Exchange Commission
+100 F Street, N.E.
+Washington, D.C. 20549-9010
+(202) 551-5189 (Pennington)
+September 17, 2008
+
+-31-
+
+CERTIFICATE OF SERVICE
+I hereby certify that on September 17, 2008, I caused two copies of the brief
+amicus curiae of the Securities and Exchange Commission and a diskette
+containing a PDF version of the brief to be served on the following by overnight
+delivery.
+James W. Christian
+Sean Greenwood
+Scott R. Link
+CHRISTIAN, SMITH & JEWELL LLP
+2302 Fannin, Suite 500
+Houston, TX 77002
+(713) 659-7617
+Counsel for Plaintiff-Appellants
+John R. Knight
+32 Morningside Place, Suite 1006
+Memphis, TN 38104
+(901) 454-0188
+Counsel for Plaintiff-Appellants
+Rex A. Staples
+Stephen W. Hall
+Lesley M. Walker
+North American Securities
+Administrators Association, Inc.
+750 First St., NE, Suite 1140
+Washington, DC 20002
+(202) 737-0900
+Counsel for Amicus Curiae NASAA
+
+Scott K. Attaway
+David Federick
+KELLOGG, HUBER, HANSEN,
+TODD, EVANS & FIGEL, P.L.L.C.
+1615 M St., N.W., Suite 400
+Washington, DC 20036
+(202) 326-7900
+Counsel for Plaintiff-Appellants
+
+Gregg M. Mashberg
+Charles S. Sims
+Karen D. Coombs
+PROSKAUER ROSE LLP
+1585 Broadway
+New York, NY 10036
+(212) 969-3000
+(212) 969-2900 (facsimile)
+Counsel for Defendants-Appellees
+
+Peter G. Krumpe
+WILLIMS & ANDERSON PLC
+Twenty Second Floor
+111 Center St.
+Little Rock, AR 72201
+(501) 396-8431
+(501) 372-6453 (facsimile)
+Counsel for Defendants-Appellees
+
+I also caused 10 copies of the brief and a diskette containing a PDF version
+of the brief to be delivered to the Clerk of this Court:
+Michael E. Gans, Clerk of Court
+Thomas F. Eagleton Courthouse
+Room 24.329
+111 South 10th St.
+St. Louis, MO 63102
+________________________
+Mark Pennington
+
+CERTIFICATE OF COMPLIANCE
+In accordance with Federal Rule of Appellate Procedure 32(a)(7)(C) and
+Eighth Circuit Rule 28A(c), the undersigned certifies that this brief complies with
+the applicable type-volume limitations. Exclusive of the portions exempted by
+Federal Rule of Appellate Procedure 32(a)(7)(B)(iii), this brief contains 6,890
+words. This certificate was prepared in reliance on the word-count function of the
+word-processing system (Wordperfect 11) used to prepare this brief.
+_________________________
+Mark R. Pennington
+
+ANTI-VIRUS CERTIFICATE
+The diskette has been scanned for viruses and is virus free.
+________________________
+Mark Pennington
+
+

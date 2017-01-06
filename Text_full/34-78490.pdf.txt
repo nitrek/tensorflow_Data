@@ -1,0 +1,1744 @@
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 78490 / August 5, 2016
+Admin. Proc. File No. 3-15168
+In the Matter of
+JOHN J. AESOPH, CPA and
+DARREN M. BENNETT, CPA
+
+CORRECTED OPINION OF THE COMMISSION
+Rule 102(e) PROCEEDING
+Grounds for Remedial Action
+Improper Professional Conduct
+Certified public accountant serving as engagement partner engaged in improper
+professional conduct in the audit of the financial statements of a public company. Held, it is in
+the public interest to deny the accountant the privilege of appearing or practicing before the
+Commission with a right to apply for reinstatement after three years.
+Certified public accountant serving as senior manager engaged in improper professional
+conduct in the audit of the financial statements of a public company. Held, it is in the public
+interest to deny the accountant the privilege of appearing or practicing before the Commission
+with a right to apply for reinstatement after two years.
+APPEARANCES
+George B. Curtis and Monica K. Loseman of Gibson, Dunn & Crutcher LLP, for John J.
+Aesoph, CPA.
+Gary F. Bendinger, Kevin A. Burke, and Paul J. Zidlicky of Sidley Austin LLP for Darren
+M. Bennett, CPA.
+Nicholas Heinke and Gregory A. Kasper for the Division of Enforcement.
+Appeal filed:
+Last brief received:
+Oral argument:
+
+August 11, 2014
+November 2, 2015
+July 12, 2016
+
+2
+I.
+
+Introduction
+
+John J. Aesoph, CPA (“Aesoph”) and Darren M. Bennett, CPA (“Bennett”) (collectively,
+“Respondents”) appeal from an administrative law judge’s (“ALJ”) Initial Decision finding that
+they engaged in “improper professional conduct” during their service as the engagement partner
+and senior manager of KPMG, LLP’s audit of the 2008 financial statements of TierOne
+Corporation, a holding company for TierOne Bank (collectively, “TierOne” or the “Bank”), that
+resulted in KPMG’s issuing an unqualified audit opinion dated March 12, 2009. The ALJ found
+their conduct was negligent “improper professional conduct” under Commission Rule of Practice
+102(e) and Section 4C of the Securities Exchange Act of 1934: (1) a single instance of highly
+unreasonable conduct that resulted in a violation of Public Company Accounting Oversight
+Board (“PCAOB”) auditing standards in circumstances in which they knew, or should have
+known, that heightened scrutiny is warranted; and (2) repeated instances of unreasonable
+conduct, each resulting in a violation of PCAOB auditing standards, that indicate a lack of
+competence to practice before us. 1
+This case concerns TierOne’s loss estimates for impaired commercial real estate loans
+recorded in its allowance for loan and lease losses (“ALLL”) balance sheet reserve account. 2
+Those impairment losses drastically increased for TierOne in 2008 because of the sharp
+deterioration of the real estate market. The ALJ found that Respondents knew or should have
+known that their audit of the ALLL warranted heightened scrutiny because, among other things,
+the Office of Thrift Supervision (“OTS”) had increased TierOne’s capital requirements after
+finding, during a mid-2008 examination, that TierOne was in “deteriorating financial condition”
+because of its impaired loan losses. The ALJ found that Respondents knew that TierOne’s
+management had an incentive to intentionally misstate the ALLL to meet the increased capital
+requirements and prevent potential OTS enforcement action.
+The ALJ found that Respondents violated PCAOB auditing standards in three aspects of
+their audit of the ALLL: (1) the effectiveness of internal control over financial reporting;
+(2) substantive audit test work; and (3) post-audit procedures. On appeal, Respondents ask that
+we dismiss the charges against them and set aside the sanctions imposed—a one-year suspension
+on Aesoph and a six-month suspension on Bennett from appearing or practicing before us as
+accountants. The Division of Enforcement (“Division”) cross-appeals the sanctions imposed,
+contending that Aesoph should have received a three-year suspension and Bennett a two-year
+suspension.
+1
+
+John J. Aesoph, CPA, Initial Decision Release No. 624, 2014 WL 2915931, at *32 &
+n.38 (June 27, 2014). The Commission adopted Rule 102(e), 17 C.F.R. § 201.102(e), in its
+current form in 1998. Amendment to Rule 102(e) of the Commission’s Rules of Practice
+(“Amendment to Rule 102(e)”), Securities Act Release No. 7593, 1998 WL 729201 (Oct. 19,
+1998). The Rule’s language was later codified in Exchange Act Section 4C, 15 U.S.C. § 78d-3,
+with the passage of the Sarbanes Oxley Act in 2002. Because the Rule and the statute include
+the same provisions, for ease of reference we will refer to only Rule 102(e).
+2
+
+The ALLL also included TierOne’s losses on other types of impaired loans (e.g.,
+automobile loans) and probable losses on unimpaired loans.
+
+3
+Based on our independent review of the record, we find that Respondents engaged in
+“improper professional conduct” as defined by Rule 102(e)’s negligence-based standards, and
+that it is in the public interest to deny Respondents the privilege of appearing or practicing before
+us with a right for Aesoph to apply for reinstatement after three years and for Bennett to apply
+for reinstatement after two years.
+II.
+A.
+
+Background
+
+Many of TierOne’s risky loans became impaired by 2008 and required ALLL
+reserves.
+
+TierOne was a regional bank that, from 2002 to 2005, greatly increased its origination of
+high-risk construction and land-development loans by opening or acquiring nine loan production
+offices (“LPOs”) in Nevada, Arizona, Florida, North Carolina, and Colorado. 3 When the real
+estate market deteriorated in 2008, the Bank closed these nine LPOs and refocused its future
+lending activity on its historical market area of Iowa, Kansas, and Nebraska.
+But the high-risk loans remained on TierOne’s books. For those that were impaired (i.e.,
+for which it was probable TierOne would be unable to collect all amounts due), TierOne was
+required by Generally Accepted Accounting Principles (“GAAP”) to measure any impairment
+and recognize the resulting losses in its ALLL. 4 The ALLL had two components: losses on
+impaired loans for which TierOne was required to follow Financial Accounting Standards
+(“FAS”) No. 114, and probable losses on unimpaired loans for which TierOne was required to
+follow FAS No. 5. Only the FAS 114 portion of the ALLL is at issue in this case. 5
+B.
+
+TierOne’s process for recording losses on its impaired loans.
+
+TierOne management was responsible for estimating losses on impaired loans in
+conformance with FAS 114 at least quarterly. Its process for doing so proceeded by: (1) the
+Special Assets Executive preparing “FAS 114 templates” estimating FAS 114 losses on a loanby-loan basis; (2) the Controller reviewing and approving the templates; and (3) the Asset
+Classification Committee (“ACC”) performing a high-level review of the ALLL. 6 The Special
+Assets Executive, Controller, and all eleven members of the ACC were part of TierOne’s
+management team.
+
+3
+
+TierOne considered these loans to be high-risk, a characteristization which Respondents
+do not dispute and which we accept.
+
+4
+
+FAS 114. TierOne determined that all loans past-due ninety days or more were impaired.
+
+5
+
+Hereinafter, we refer to the commercial real estate loans that TierOne identified as
+impaired and therefore subject to loss measurement as “impaired loans” or “FAS 114 loans.”
+6
+
+Each FAS 114 template contained loans associated with an individual lending
+relationship or borrower, meaning that one template might include several loans for one
+borrower.
+
+4
+In general, TierOne determined whether a FAS 114 loss existed by subtracting the fair
+value of the collateral securing a loan (collateral value) from the loan’s book value. 7 Most
+impaired loans were collateral-dependent, and therefore any recovery of such a loan’s balance
+was by foreclosing on and selling the collateral. ALLL reserves were required if the collateral
+value was less than the loan’s book value.
+Appraisals were a key part of the process; management used them in estimating the
+current fair value of collateral on loans. But appraisals become stale over time following real
+estate market fluctuations. TierOne’s lending policy acknowledged that an appraisal might be
+valid for only a few months in a rapidly escalating or deteriorating market. If an appraisal
+became stale, TierOne’s policy required its management to estimate fair value by either
+obtaining a new appraisal or by adjusting the stale appraisal based on estimates from available
+market information concerning the collateral.
+KPMG organized impaired loans into “buckets”: (1) bucket-one for impaired loans in
+which the collateral value was lower than the book value, resulting in required reserves; and
+(2) bucket-two for impaired loans in which the collateral value exceeded the book value,
+resulting in no required reserves. 8 If the collateral value for a bucket-one loan continued to
+decline below book value from prior quarters, then additional ALLL reserves were required. If
+the collateral value for a bucket-two loan declined below book value, then the loan would
+become a bucket-one loan and require ALLL reserves.
+C.
+
+Before KPMG’s audit, OTS issued an examination report finding that TierOne was
+in “deteriorating financial condition” and that TierOne was not properly
+accounting for its ALLL.
+
+On October 8, 2008, OTS issued a report on its examination of TierOne that generally
+covered the eighteen month period ending on June 30, 2008. 9 OTS found that TierOne was in a
+“deteriorating financial condition” principally because of “poorly administered concentrations”
+of high-risk loans in “rapidly flagging” LPO markets. OTS criticized TierOne’s board and
+management for “exceptionally poor” performance and breaching their fiduciary duty to exercise
+the highest standard of care in the conduct, management, and oversight of bank affairs.
+OTS downgraded TierOne to a composite CAMELS rating of 4, designated for financial
+institutions that “pose a risk to the deposit insurance fund” because they present a distinct
+7
+
+The book value was the loan’s original value minus any charge-offs that occurred in prior
+periods. The collateral value was the estimated fair value of the collateral minus the selling costs
+(or estimated cost to foreclose) and discounted for the number of months projected to sell the
+collateral.
+8
+
+A third bucket, not relevant to our analysis, consisted of loans evaluated for impairment
+but eventually deemed unimpaired by TierOne.
+9
+
+OTS, TierOne’s primary federal regulator, conducted its examination of TierOne from
+June 2 to August 30, 2008. OTS has since been integrated with the Office of the Comptroller of
+the Currency.
+
+5
+possibility of failure if their “problems and weaknesses are not satisfactorily addressed and
+resolved.” 10 OTS also increased TierOne’s minimum core capital ratio from the standard 4% to
+8.5% and its minimum risk-based capital ratio from 8% to 11%. 11 OTS found that TierOne’s
+“ability to maintain appropriate capital and allowance levels depends greatly on management’s
+ability to successfully workout of the existing asset problems in Las Vegas and Florida, and
+preclude the development of significant problems in other markets that have shown signs of
+weakness, particularly Arizona, Minnesota, and the Carolinas.”
+As to the ALLL, OTS found that TierOne had failed to “satisfactorily monitor, assess,
+and respond timely” to the impact of the weakening LPO markets on the adequacy of the ALLL.
+OTS identified “unreserved losses ranging between $17.0 million and $22.0 million” as of
+March 31, 2008, but concluded that TierOne addressed the issue by recording an additional
+$28.4 million of loss provisions and $42.3 million of charge-offs during the quarter ended June
+30, 2008. 12 These provisions and charge-offs were not prospective; they applied to losses that
+existed prior to June 30, 2008.
+D.
+
+Market deterioration accelerated in the second-half of 2008.
+
+The real estate market deterioration that began during the period covered by the OTS
+report generally accelerated through the second-half of 2008. This was particularly true for three
+of the states that OTS considered to challenge TierOne’s ability to maintain appropriate capital
+and allowance levels: Nevada, Arizona, and Florida.
+Nevada properties comprised 56.7% of TierOne’s FAS 114 loans. All of the loans
+relevant to our discussion below were in Clark County (encompassing Las Vegas). Based on an
+index maintained by the National Association of Realtors (“NAR”), the median sales price of
+existing single-family homes in Clark County declined in 2008 by 8.4% and 6.7% in the first and
+second quarters, but by 10.4% and 13.5% in the third and fourth quarters. 13
+Arizona properties comprised 4.9% of TierOne’s FAS 114 loans. All of the loans
+relevant to our discussion below were in Maricopa and Pinal Counties (which are part of the
+greater Phoenix metropolitan area). Based on the NAR index, the median sales price of existing
+single-family homes in Maricopa County declined in 2008 by 6.5% and 9.7% in the first and
+10
+
+CAMELS is an acronym for the components of the OTS examination: Capital adequacy,
+Asset quality, Management, Earnings, Liquidity, and Sensitivity to market risk.
+11
+
+Bennett testified that he understood that OTS could take enforcement action against
+TierOne if the Bank failed to meet its capital requirements.
+12
+
+Increases to the ALLL were recognized as losses (provisions) through the income
+statement. If TierOne later confirmed the loss, it would charge off the loss amount from the loan
+balance (i.e., reduce the loan balance) and reduce the ALLL. An example of a loss-confirming
+event would be foreclosure on collateral property.
+13
+
+Two additional Nevada impaired loans not discussed below were in Nye County, which
+experienced market declines in 2008 similar to Clark County.
+
+6
+second quarters, but by 11.1% and 14.8% in the third and fourth quarters; and in Pinal County by
+6.2% and 9.4% in the first and second quarters, but by 10.7% and 14.5% in the third and fourth
+quarters. 14
+Florida properties comprised 4% of TierOne’s FAS 114 loans. All of the loans relevant
+to our discussion below were in St. Lucie County. Based on the NAR index, the median sales
+price of existing single-family homes in St. Lucie County declined in 2008 by 12.6% and 9.9%
+in the first and second quarters, but by 7.6% and 12% in the third and fourth quarters.
+Loans in the other three states that challenged TierOne’s ability to maintain appropriate
+capital and allowance levels—Minnesota, North Carolina, and South Carolina— accounted for
+about 11% of TierOne’s FAS 114 loans. Minnesota’s real estate market experienced modest
+declines in the second half of 2008, dropping by 2.7% in the third quarter and 8% in the fourth
+quarter. While the Carolina real estate markets also generally declined in 2008, the Division’s
+expert on economic analysis concluded that, in North Carolina, the declines “did not have major
+effects on the value of the collateral” and, in South Carolina, “market values did not materially
+change . . . in the areas where the collateral securing the . . . loans was located.”
+E.
+
+In planning the 2008 audit, Aesoph and Bennett identified the FAS 114 portion of
+the ALLL as presenting a high risk of material misstatement.
+
+Aesoph and Bennett began planning TierOne’s 2008 audit in October 2008. As the
+engagement partner, Aesoph had final authority over the planning, execution, and supervision of
+the audit, and he had full responsibility for KPMG’s audit opinion. As the senior manager,
+Bennett reported directly to Aesoph and was responsible for supervising the engagement team’s
+day-to-day work. He and Aesoph interacted on a near-daily basis about the audit. Bennett
+assisted Aesoph in all aspects of planning and performing the audit, including the design and test
+of controls and the design and implementation of substantive procedures. Aesoph reviewed and
+approved all significant audit work papers, including those regarding the FAS 114 loans, and
+Bennett reviewed and approved all of the audit work papers.
+In planning the audit, Aesoph and Bennett considered both the OTS report and the
+turmoil in the real estate market and determined that the FAS 114 portion of the ALLL presented
+a high risk of material misstatement because of the high risk that TierOne’s management would
+overvalue the collateral securing the FAS 114 loans. 15 The risk of potential collateral
+overvaluation was attributed to both the risk of fraud and the risk of unintentional error.
+
+14
+
+Two additional Arizona impaired loans not discussed below were in Mohave County,
+which experienced market declines in 2008 slightly less severe (27.1%) than Maricopa and Pinal
+Counties (more than 30%).
+15
+
+While KPMG determined that the ALLL as a whole (i.e., both the FAS 5 and 114
+portions) had a high audit risk, Respondents also recognized that the FAS 114 portion
+individually presented a high risk of material misstatement or material weakness in internal
+control.
+
+7
+Respondents understood that additional market-driven losses on TierOne’s FAS 114
+loans could make TierOne unable to meet OTS’ increased capital requirements. As a result,
+TierOne’s management had an incentive to intentionally understate those losses by overvaluing
+collateral. Respondents also understood that the FAS 114 portion of the ALLL had a high
+inherent risk of misstatement because it depended on managements’ subjective estimates of
+collateral value. This is because, as noted above, if TierOne did not obtain an updated appraisal
+on a FAS 114 loan but market conditions changed, its policy was to estimate fair value by
+adjusting the stale appraisal based on estimates from other market information.
+Aesoph and Bennett also understood that the size of the FAS 114 portion of the ALLL—
+about $16.4 million on $186 million in FAS 114 loans at year-end 2008—was quantitatively and
+qualitatively material to TierOne’s financial statements. Respondents had established a
+$1.9 million materiality threshold in planning the 2008 audit, 16 a threshold that could be
+surpassed by a change in estimated losses on a single FAS 114 loan. It was qualitatively material
+for two reasons. 17 Additional FAS 114 loan losses could threaten TierOne’s ability to meet its
+increased capital requirements; TierOne reported a year-end core capital ratio of 8.9%, which
+exceeded the required 8.5% ratio by $12.4 million, and a year-end risk-based capital ratio of
+11.6%, which exceeded the required 11% ratio by $15.8 million. TierOne reported “net interest
+income after provision for loan losses” of $2.9 million at year-end 2008, and an increase in FAS
+114 losses could readily result in the Bank reporting a loss.
+F.
+
+KPMG issued an unqualified opinion on TierOne’s 2008 consolidated
+financial statements, which it subsequently withdrew in 2010.
+
+On March 12, 2009, KPMG issued an audit report containing an unqualified opinion on
+TierOne’s consolidated financial statements and on the effectiveness of its internal control over
+financial reporting as of year-end 2008. KPMG’s audit report on the financial statements
+reflected in TierOne’s year-end 2008 annual reported (filed on Form 10-K), stated that TierOne’s
+consolidated financial statements “presented fairly, in all material respects, the financial position
+of TierOne . . . and the results of [its] operations and [its] cash flows . . . in conformity with”
+U.S. GAAP. KPMG also reported that TierOne “maintained, in all material respects, effective
+internal control over financial reporting as of December 31, 2008.”
+In April 2009, Respondents discovered two new appraisals for two bucket-one loans in
+Nevada that TierOne had received before KPMG issued its audit reports dated March 12, 2009.
+The new appraisals, received by TierOne in January and February 2009, resulted in an additional
+$3.6 million in FAS 114 loss provisions for the Bank’s first-quarter 2009 financial statements.
+
+16
+
+Respondents established the $1.9 million materiality threshold based on 4% of profit or
+loss before income taxes.
+17
+
+SEC Staff Accounting Bulletin No. 99 explains that “[q]ualitative factors may cause
+misstatements of quantitatively small amounts to be material,” including “whether the
+misstatement affects the registrant’s compliance with regulatory requirements.” Release No.
+SAB-99, 1999 WL 1123073, at *3-4 (Aug. 12, 1999).
+
+8
+Respondents did not perform any procedures to determine whether the new appraisals affected
+TierOne’s year-end 2008 financial statements.
+In early 2010, KPMG learned that TierOne had not disclosed to it an internal analysis by
+management from the first quarter of 2009 estimating additional potential loan loss reserves. As
+a result, in April 2010, KPMG resigned as TierOne’s independent auditor and withdrew its 2008
+audit opinion. TierOne's Form 8-K, filed with the Commission on April 23, 2010, stated that
+KPMG had advised the company that it could no longer rely on management’s representations;
+TierOne’s 2008 “financial statements contain material misstatements related to certain out of
+period adjustments for loan loss reserves”; and KPMG was withdrawing its internal control
+assessments relating to the company's 2008 financial statements due to “a material weakness in
+internal control over financial reporting related to the material misstatements.” OTS closed
+TierOne two months later.
+III.
+
+Respondents violated professional standards.
+
+The Division contends, and we agree, that Respondents violated PCAOB auditing
+standards in three specific areas related to the audit of the FAS 114 portion of the ALLL:
+(1) their audit of the effectiveness of internal control over financial reporting; (2) their
+substantive audit test work over the account; and (3) their post-audit procedures following the
+discovery of new appraisals in 2009.
+A.
+
+Applicable professional standards in general: auditors must exercise due
+professional care and obtain sufficient competent evidential matter.
+
+In performing an audit, auditors must adhere to “applicable professional standards,”
+which primarily refers to PCAOB auditing standards, the American Institute of CPAs
+(“AICPA”) Code of Professional Conduct, and Commission regulations. 18 PCAOB auditing
+standards require auditors, among other things, to exercise due professional care when
+conducting an audit and preparing an audit report, 19 and to obtain “[s]ufficient competent
+evidential matter . . . through inspection, observation, inquiries, and confirmations to afford a
+reasonable basis for an opinion regarding the financial statements under audit.” 20
+The exercise of due professional care requires auditors to maintain an attitude of
+professional skepticism, including “a questioning mind and a critical assessment of audit
+18
+
+Amendment to Rule 102(e), 1998 WL 729201, at *5. PCAOB auditing standards include
+(i) generally accepted auditing standards (“GAAS”), hereinafter cited as “AU § __”; and (ii)
+auditing standards issued by the PCAOB, hereinafter cited as “AS No. __.” See PCAOB Order
+Granting Approval of Proposed Rules to Implement the Reorganization of PCAOB Auditing
+Standards, Exchange Act Release No. 75935, 2015 WL 5450917, at *1 (Sept. 17, 2015).
+19
+
+AU §§ 150.02, 230.01; Wendy McNeeley, CPA, Exchange Act Release No. 68431, 2012
+WL 6457291, at *9 (Dec. 13, 2012).
+20
+
+AU § 150.02; Gregory M. Dearlove, CPA, Exchange Act Release No. 57244, 2008 WL
+281105, at *6 (Jan. 31, 2008), petition denied, 573 F.3d 801 (D.C. Cir. 2009).
+
+9
+evidence.” 21 It also requires auditors to “not be satisfied with less than persuasive evidence
+because of a belief that management is honest.” 22
+The process for obtaining sufficient competent evidential matter requires asking
+appropriate questions of management, but management representations “are not a substitute for
+the application of those auditing procedures necessary to afford a reasonable basis for an opinion
+regarding the financial statements under audit.” 23 If the auditor “remains in substantial doubt
+about any assertion of material significance, he or she must refrain from forming an opinion until
+he or she has obtained sufficient competent evidential matter to remove such substantial doubt,
+or the auditor must express a qualified opinion or a disclaimer of opinion.” 24
+When auditors conclude that there is high risk of material misstatement or fraud, the
+auditors must “increase their professional care and skepticism” by applying additional
+procedures or obtaining more reliable evidence. 25 For example, an auditor should consider
+“designing additional or different auditing procedures to obtain more reliable evidence” and
+“obtaining additional corroboration of management’s explanations or representations concerning
+material matters.” 26
+B.
+
+Respondents violated auditing standards in their evaluation of the effectiveness of
+TierOne’s internal control over financial reporting.
+
+The 2008 TierOne audit was an integrated audit, in which the auditor expresses “an
+opinion on the effectiveness of the company’s internal control over financial reporting.” 27 The
+Division alleges that Respondents “had no reasonable basis to conclude that TierOne maintained,
+in all material respects, effective internal control over financial reporting.” 28 The Division
+alleges that Respondents violated a PCAOB auditing standard concerning internal control, AS
+21
+
+AU §§ 230.07, 230.08; Dearlove, 2008 WL 281105, at *6.
+
+22
+
+AU § 230.09; McNeeley, 2012 WL 6457291, at *13.
+
+23
+
+AU § 333.02; McNeeley, 2012 WL 6457291, at *13.
+
+24
+
+AU § 326.25; Barry C. Scutillo, Exchange Act Release No. 48238, 2003 WL 21738818,
+at *6 (July 28, 2003), aff’d, 345 F.3d 722 (9th Cir. 2003).
+25
+
+Dearlove, 2008 WL 281105, at *6 (“Certain audit conditions require auditors to increase
+their professional care and skepticism, as when the audit presents a risk of material misstatement
+or fraud.”); see AU §§ 312.17, 316.46, 316.52.
+26
+
+AU §§ 316.46, 316.52; see also Dearlove, 2008 WL 281105, at *9 (when an audit
+presents a “much greater than normal risk,” the auditor should “expand the extent of procedures
+applied . . . or modify the nature of procedures to obtain more persuasive evidence” (quoting AU
+§ 312.17)).
+27
+
+AS No. 5 ¶ 3. An integrated audit is an audit of internal control that is integrated with an
+audit of the financial statements. AS No. 5 ¶¶ 1, 6.
+28
+
+John J. Aesoph, CPA, Exchange Act Release No. 68605, 2013 WL 98717, at *1 (Jan. 9,
+2013) (the “OIP”).
+
+10
+No. 5, and breached their duties to exercise due professional care and obtain sufficient competent
+evidential matter, by failing “to adequately identify and evaluate defects in the design and
+operating effectiveness of controls over collateral valuation that would have been important to
+the auditors’ conclusion about whether TierOne’s controls sufficiently addressed the assessed
+risk of misstatement.” 29 We agree.
+Under AS No. 5, if the auditor finds “there is a reasonable possibility that a material
+misstatement” in the company’s financial statements “will not be prevented or detected” (i.e.,
+that there is a material weakness in internal control), the auditor “must express an adverse
+opinion on the company’s internal control over financial reporting.” 30 To issue an unqualified
+opinion, the auditor must “obtain competent evidence that is sufficient to obtain reasonable
+assurance” that there are no material weaknesses. 31
+Not all controls are treated equally; those that address the highest risks of material
+misstatement are the most important to evaluate. 32 Risk assessment determines “the selection of
+controls to test, and the determination of the evidence necessary for a given control.” 33 The
+higher the risk, the more evidence needed. 34
+Respondents identified the risk of collateral overvaluation as a high risk of material
+misstatement and fraud. Effective controls concerning collateral overvaluation were especially
+important for TierOne in 2008. The Bank was in a “deteriorating financial condition” in the first
+half of the year as a result of its FAS 114 loan losses. And the accelerated market decline in the
+second half of the year made it very likely that losses would grow. In this environment,
+management had an incentive to understate its FAS 114 loan loss estimates, which effective
+controls would have helped prevent or detect.
+
+29
+
+OIP, 2013 WL 98717, at *1.
+
+30
+
+AS No. 5 ¶¶ 2, 3, 90, Appx. A ¶ A7. “A deficiency in design exists when (a) a control
+necessary to meet the control objective is missing or (b) an existing control is not properly
+designed so that, even if the control operates as designed, the control objective would not be
+met.” AS No. 5 Appx. A ¶ A3 (emphasis added). “A deficiency in operation exists when a
+properly designed control does not operate as designed, or when the person performing the
+control does not possess the necessary authority or competence to perform the control
+effectively.” Id. (emphasis added).
+31
+
+AS No. 5 ¶¶ 3, 87.
+
+32
+
+See AS No. 5 ¶¶ 10-11, 14, 39-41, 46.
+
+33
+
+AS No. 5 ¶ 10.
+
+34
+
+AS No. 5 ¶ 46. AS No. 5 states that some tests “produce greater evidence of the
+effectiveness of controls than other tests,” and it ranks the following tests in order from least to
+most evidence produced: “inquiry, observation, inspection of relevant documentation, and reperformance of a control.” Id. ¶ 50. As No. 5 notes that “[i]nquiry alone does not provide
+sufficient evidence to support a conclusion about the effectiveness of a control.” Id.
+
+11
+Respondents identified one control for the risk of collateral overvaluation: “Control Lot
+7-2” concerning appraisal review. Respondents also identified two controls for the related risk
+that the “ALLL is improperly valued”: (1) “Control Lot 12-2” concerning review and approval
+of the ALLL by the Controller and ACC; and (2) an unnumbered control concerning the review
+of impaired loans by the ACC. None of the identified controls, however, addressed TierOne’s
+use of current appraisals or adjustment of stale appraisals in measuring the impairment loss for
+the FAS 114 portion of the ALLL.
+Control Lot 7-2 required TierOne to obtain appraisals at loan origination. Respondents
+admitted at the hearing that the purpose of the control was not to determine whether appraisals
+for impaired loans were current when calculating the FAS 114 portion of the ALLL. The control
+also did not address the adjustment of stale appraisals for FAS 114 loans.
+The latter two controls required the Controller and the ACC to review the ALLL
+quarterly, and the ACC to review various reports about impaired loans twice quarterly. The
+Controller reviewed the ALLL calculation and the FAS 114 templates, and the ACC reviewed
+information for individual FAS 114 loans including appraisal dates, appraisal values, and total
+reserves. However, the design of both controls did not require that the Controller or ACC
+address whether appraisals were current or that the methodology applied for adjusting stale
+appraisals to estimate collateral values for individual FAS 114 loans was appropriate.
+To test the operating effectiveness of these two controls, the audit team (i) reviewed the
+ALLL calculation for two quarters and verified “that it is calculated in accordance with the
+approved methodology”; (ii) verified that the Controller and ACC reviewed the ALLL;
+(iii) reviewed the ACC meeting minutes “noting evidence of review [of the ALLL] by the
+signatures of those in attendance”; and (iv) “assessed the knowledge” of three TierOne
+employees. These tests produced no evidence that the controls addressed the risk of collateral
+overvaluation for individual FAS 114 loans from the use of stale appraisals. In addition, these
+two controls could not adequately address the high risk of material misstatement because that
+risk stemmed from management’s incentive to intentionally overvalue the collateral securing the
+FAS 114 loans. 35
+In conclusion, Respondents violated AS No. 5 and breached their duties to exercise due
+professional care and obtain sufficient competent evidential matter, when they issued an
+35
+
+Respondents contend that the law judge ignored the latter two controls. Respondents
+contend that their identification and testing of these “back end” controls, along with Control Lot
+7-2 on the “front end,” provided them with a sufficient basis to conclude that TierOne’s internal
+controls over the ALLL were designed properly and operated effectively at year-end. The ALJ
+in fact did consider these controls, and, in any event, we find that they did not adequately address
+the high risk of collateral overvaluation for the reasons discussed above.
+Bennett also contends that their audit conclusions were supported by their identification
+and testing of an additional “front end” control: Lot 7-1, designed to ensure that collateral
+securing the loans was properly recorded in the public record. As Aesoph admitted in testimony,
+Lot 7-1 did not address the risk of collateral overvaluation.
+
+12
+unqualified opinion that TierOne maintained effective internal control over financial reporting
+for year-end 2008 because they (i) identified management’s incentive to overvalue the collateral
+securing the FAS 114 loans as presenting a high risk of material misstatement, but (ii) identified
+no controls addressing that risk. 36
+C.
+
+Respondents violated auditing standards in their substantive audit
+of the FAS 114 portion of TierOne’s ALLL for year-end 2008.
+
+The Division alleges, and we agree, that Respondents violated AU §§ 328 and 342 (i.e.,
+the standards for auditing fair value measurements and accounting estimates), and failed to
+exercise due professional care or obtain sufficient competent evidential matter, in their
+evaluation of management’s collateral value estimates for the FAS 114 portion of the ALLL. 37
+Auditors are required by AU § 342 to evaluate, with an attitude of professional skepticism, the
+reasonableness of management estimates in the context of the financial statements taken as a
+whole. 38 The auditors’ objective is to obtain sufficient competent evidential matter to provide
+reasonable assurance that, among other things, the “estimates are reasonable in the
+circumstances.” 39
+AU § 328 sets forth audit procedures where management’s estimate involves fair value
+measurements. 40 Among other things, AU § 328 provides that: (1) when the fair value
+measurement such as an appraisal is dated prior to the financial reporting date, the auditor must
+“obtain evidence that management has taken into account the effect of events, transactions, and
+36
+
+Respondents contend that the Division’s accounting and audit expert, John E. Barron,
+agreed that the review of the FAS 114 templates by TierOne’s Controller was an effective
+internal control over the risk of collateral overvaluation. But Barron said no such thing; in
+response to a hypothetical question, he testified that if the Controller was “an independent party
+outside the process” of estimating impaired loan losses, his evaluation of the FAS 114 templates
+and supporting information for reasonableness “could be an effective control.” The Controller
+was a part of management and not outside the process of estimating impaired loan losses.
+37
+
+OIP, 2013 WL 98717, at *2.
+
+38
+
+AU § 342.04; Michael J. Marrie, CPA, Exchange Act Release No. 48246, 2003 WL
+21741785, at *10 (July 29, 2003), rev’d on other grounds, 374 F.3d 1196 (D.C. Cir. 2004).
+39
+
+AU § 342.07. In evaluating reasonableness, auditors “should obtain an understanding of
+how management developed the estimate” and then use one or more of the following three
+approaches: (i) “[r]eview and test the process used by management”; (ii) “[d]evelop an
+independent expectation of the estimate”; or (iii) “[r]eview subsequent events or transactions
+occurring prior to the date of the auditor’s report.” AU § 342.10. Respondents followed the first
+approach in evaluating the reasonableness of the ALLL, which the parties’ accounting and audit
+experts agreed was appropriate.
+40
+
+AU § 328.06 (noting that AU § 342 “provides guidance on auditing accounting estimates
+in general” and that AU § 328.06 “addresses considerations similar to those in section 342 as
+well as others in the specific context of fair value measurements”); AU §§ 328.23-.39 (setting
+forth audit procedures for testing an entity’s fair value measurements).
+
+13
+changes in circumstances occurring between the date of the [appraisal] and the reporting date”; 41
+and (2) when testing the fair value measurements, the auditor must “evaluate whether . . .
+[m]anagement’s assumptions are reasonable and reflect, or are not inconsistent with, market
+information.” 42
+We find that Respondents violated these auditing standards:
+1.
+Respondents failed to exercise due professional care when they reviewed and
+approved the memorandum that documented KPMG’s audit procedures for the FAS 114 loans.
+KPMG concluded in the memorandum that “market conditions have not materially deteriorated”
+since KPMG performed audit procedures earlier in the year, “and thus the year-end valuations
+appear reasonable.” 43 The market had in fact plummeted, as Respondents knew. Aesoph
+testified that the memorandum’s conclusion about market conditions “wasn’t consistent with
+what we were seeing during 2008,” and Bennett testified that the conclusion did not “make
+sense” to him.
+The memorandum also stated that KPMG considered appraisals to be current if they were
+issued “within the past twelve months,” and that if they were not current “KPMG inquired
+whether a discount was applied to the appraised value, and if not, KPMG inquired as to why
+TierOne didn’t think it was necessary or appropriate.” TierOne policies were, in fact,
+inconsistent with KPMG’s documented approach. TierOne stated in a memorandum on its
+fourth-quarter 2008 ALLL, that the Bank “trie[d] to . . . discount[]” Nevada appraisals that were
+“older than six months.” Also, Bennett testified that he knew that (i) TierOne’s lending policy
+provided that an appraisal may be valid for only a few months in a rapidly escalating or
+deteriorating market, and (ii) the Nevada and Arizona markets were “rapidly deteriorating” in
+2008. Nonetheless, there is no evidence on any inquiry being undertaken to determine why no
+discount was taken on numerous FAS 114 loans, as we detail below.
+
+41
+
+AU § 328.25.
+
+42
+
+AU § 328.26; see also AU § 328.29 (“Auditors pay particular attention to the significant
+assumptions underlying a valuation method and evaluate whether such assumptions are
+reasonable and reflect, or are not inconsistent with, market information.”); AU § 328.31 (“The
+auditor evaluates the source and reliability of evidence supporting management’s assumptions,
+including consideration of the assumptions in light of historical and market information.”); AU §
+328.34 (“The auditor considers the sensitivity of the valuation to changes in significant
+assumptions, including market conditions that may affect the value.”); AU § 328.36 (“To be
+reasonable, the assumptions on which the fair value measurements are based . . . need to be
+realistic and consistent with . . . [t]he general economic environment, the economic environment
+of the specific industry, . . . [and] [e]xisting market information . . . .”).
+43
+
+The memorandum was prepared by Beth Burke, who reported to Bennett. Both Aesoph
+and Bennett signed off on the memorandum.
+
+14
+2.
+Respondents simply accepted, without question, management’s estimates for loan
+collateral values. 44 They did so despite determining that there was a high risk of material
+misstatement due to management fraud with these estimates: a determination that required
+Respondents to “increase their professional care and skepticism.” In addition, not only did
+Respondents fail to obtain corroborating evidence for management’s estimates, they ignored
+evidence that those estimates were inconsistent with current market information.
+KPMG reviewed all fifty-four FAS 114 templates that TierOne prepared, and did not note
+any exceptions to TierOne’s fair value estimates on them. 45 Aesoph and Bennett both signed off
+on KPMG’s review. TierOne based the fair value estimates in the FAS 114 templates in many
+instances on undiscounted stale appraisals inconsistent with current market information and its
+own general policy to discount appraisals. For example, TierOne used undiscounted appraisals
+from (i) the first-half of 2008 to estimate fair value for 17 bucket-one and seven bucket-two
+loans in Nevada and Arizona; and (ii) the second-half of 2007 to estimate fair values for three
+bucket-one loans in Florida and seven bucket-two loans in Nevada and Arizona. 46 Respondents
+knew that the markets in these three states had dropped by over 30% in 2008 with double-digit
+declines in the second-half of the year as reflected in the NAR and Case-Shiller indices. 47
+Neither the templates nor KPMG’s other audit work papers document TierOne’s rationale or
+contain any supporting evidence for not discounting the appraisals for these loans. 48 And at the
+hearing, Bennett could not identify any loan-specific evidence or documented procedures that
+supported KPMG’s conclusion that TierOne’s fair value estimates for bucket-one loans in
+Nevada, Arizona, and Florida were reasonable as of year-end 2008.
+With respect to the Nevada estimates, Respondents contend that they relied on a
+conversation with TierOne’s Controller, David Kellogg, in which Kellogg explained that
+TierOne had recorded a 30% FAS 114 loss for Nevada loans in 2008, and that these losses were
+44
+
+Cf. McNeeley, 2012 WL 6457291, at *14 (finding that respondent failed to obtain
+sufficient competent evidential matter in her audit because she relied on “unsubstantiated
+management representations”); Dearlove, 2008 WL 281105, at *17 (Respondent’s
+“unquestioning acceptance of [management’s] proposed disclosure language was a clear . . .
+departure from the requirements of GAAS to apply greater than normal skepticism and
+additional audit procedures in order to corroborate management representations in a high risk
+environment.”).
+45
+
+Respondents contend that they were not responsible for evaluating the reasonableness of
+TierOne’s loan-by-loan collateral valuation decisions; only the reasonableness of the ALLL
+estimate as a whole. These evaluations were inseparable. Respondents could not properly
+evaluate the reasonableness of the ALLL estimate overall without evaluating a sufficient
+selection of the individual FAS 114 loan collateral estimates.
+46
+
+These thirty-four loans had a total net balance of $54.2 million.
+
+47
+
+The Case-Shiller Home Price Index is based on similar analysis as the NAR index.
+
+48
+
+The only exception being for an Arizona loan in bucket-two with an appraisal dated
+December 2007, for which KPMG noted on the FAS 114 template that the property sold in
+January 2009 “for close to appraised value.”
+
+15
+not inconsistent with the 33% market decline reported in the S&P/Case-Shiller Home Price
+Index for Nevada in 2008. Respondents claim that after this conversation, they corroborated
+Kellogg’s representations by confirming that TierOne recorded a 30% FAS 114 loss for Nevada
+and comparing that to the Case-Shiller index.
+Respondents did not document this conversation with Kellogg in the audit work papers,
+yet Bennett testified that it was an “important” procedure for their conclusion that TierOne’s
+FAS 114 estimates were reasonable. Auditors “must document the procedures performed,
+evidence obtained, and conclusions reached” as to “relevant financial statement assertions”; “if
+audit documentation does not exist for a particular procedure or conclusion related to a
+significant matter, it casts doubt as to whether the necessary work was done.” 49
+Even if the conversation did take place, Kellogg’s purported statements do not justify the
+conclusion that the FAS 114 loss for the Nevada loans was a reasonable estimate. 50 A
+substantial portion of the FAS 114 loan losses that TierOne reported for Nevada at year-end
+2008 actually related to prior years. Moreover, whatever the merit of Kellogg’s explanations,
+they do not make the Respondents’ conclusions about TierOne’s fair value estimates for loans in
+Arizona and Florida reasonable. For example, TierOne recorded a 15% FAS 114 loss for
+Arizona loans in 2008 but Arizona’s market dropped by over 34% in 2008 based on the
+S&P/Case Shiller Home Price Index for Phoenix.
+Respondents introduced analysis from their economic expert, Christopher M. James, who
+opined that the Case-Shiller and NAR indices did not reflect fair value in the second-half of 2008
+because they included distressed sales. But even accepting James’s analysis, if distressed sales
+were removed from the market indices, the indices still would have shown the real estate markets
+in Las Vegas and Phoenix suffered double-digit declines in 2008. Indeed, James calculated that
+without including distressed sales, Data Quick—a home price index similar to Case-Shiller and
+NAR—showed median home sale prices declining by 18% in Las Vegas and 19% in Phoenix in
+2008, and median condominium sale prices declining by 26% in Las Vegas and 18% in Phoenix
+in 2008.
+Respondents argue that TierOne’s FAS 114 loan loss estimates for 2008 were not
+inconsistent with market information because the Bank was required to follow FAS 157 in
+determining fair value, and in turbulent markets, FAS 157 prohibits the Bank from considering
+market information that includes forced transactions such as foreclosures. Respondents contend
+49
+
+AS No. 3 ¶ 6, App. A ¶ A10; cf. Rule 2-06 of Regulation S-X, 17 C.F.R. § 210.2-06
+(requiring that “the accountant shall retain records relevant to the audit or review, including
+workpapers and other documents that form the basis of the audit or review,” and defining
+workpapers as “documentation of auditing or review procedures applied, evidence obtained, and
+conclusions reached by the accountant in the audit or review engagement, as required by
+standards established or adopted by the Commission or by the [PCAOB]”).
+50
+
+McNeeley, 2012 WL 6457291, at *12 (“‘If a representation made by management is
+contradicted by other audit evidence,’ an auditor . . . ‘should investigate the circumstances, and
+consider the reliability of the representation made.’” (quoting AU § 333.04)).
+
+16
+that market indices (like the NAR and Case Shiller indices) and appraisals from the second-half
+of 2008 were not determinative of fair value under FAS 157 given the prevalence of
+foreclosures, and that it was reasonable for TierOne “to use appraisals obtained at a time when
+the market was relatively more stable. . . .”
+Tellingly, during the audit, Respondents and TierOne did not believe that FAS 157
+prohibited them from considering year-end market information such as appraisals and market
+indices. KPMG’s audit work papers do not mention that Respondents or TierOne did not
+consider market indices or appraisals from the second-half of 2008 to be determinative of fair
+value under FAS 157. Indeed, KPMG’s work paper on FAS 157 does not reference FAS 114 or
+the ALLL in its inventory of significant accounts and disclosures accounted for under that
+standard. This lack of documentation casts doubt on Respondents’ FAS 157 assertions. 51 In
+addition, Respondents concede that they relied on Kellogg’s consideration of the Case-Shiller
+index for Nevada at year-end; during the audit KPMG recommended that TierOne update
+appraisals to value the loans at year-end; TierOne used appraisals from the second-half of 2008
+to estimate fair value for three bucket-one loans in Florida, which Respondents found to be
+reasonable; TierOne used new appraisals from January and February 2009 to estimate fair value
+for two bucket-one loans in Nevada for its first-quarter 2009 financial statements, which
+Respondents found to be reasonable; and TierOne stated in a memorandum on its fourth-quarter
+2008 ALLL that it “trie[d] to estimate collateral value declines in [Nevada] real estate by
+discounting appraised values, which are older than six months.”
+FAS 157 did not give TierOne license to ignore market conditions in the second-half of
+2008. It is true that FAS 157 requires that the fair value determination assume an orderly and not
+a forced transaction. 52 But the Basis for Conclusions to FAS 157 states that “it would be
+reasonable to presume that a market participant . . . would undertake efforts necessary to become
+sufficiently knowledgeable about the asset . . . based on available information, including
+information obtained through usual and customary due diligence efforts, and would factor any
+related risk into the fair value measurement.” 53 Current appraisals and market indices are
+sources of available information that a market participant would consider.
+
+51
+
+AS No. 3, App. A ¶ A10.
+
+52
+
+FAS 157 ¶ 5 (“Fair value is the price that would be received to sell an asset . . . in an
+orderly transaction between market participants at the measurement date.”); id. ¶ 7 (“An orderly
+transaction . . . is not a forced transaction (for example, a forced liquidation or distress sale).”).
+53
+
+FAS 157 Appx. C ¶ C34 (emphasis added). On September, 30, 2008, Commission staff
+and the FASB staff issued a joint release reiterating that available market information should not
+be ignored. SEC Office of the Chief Accountant and FASB Staff Clarifications on Fair Value
+Accounting, Press Release No. 2008-234, 2008 WL 4411374 (Sept. 30, 2008) (“An orderly
+transaction is one that involves market participants that are willing to transact and allows for
+adequate exposure to the market. Distressed or forced liquidation sales are not orderly
+transactions, and thus the fact that a transaction is distressed or forced should be considered when
+weighing the available evidence.” (emphasis added)).
+
+17
+In light of the above, we find that Respondents failed to exercise due professional care or
+obtain sufficient competent evidential matter, and violated AU §§ 328 and 342, in their
+evaluation of TierOne’s fair value estimates for the FAS 114 portion of the ALLL.
+D.
+
+Respondents violated AU § 561 by applying no audit procedures when, after KPMG
+issued its 2008 audit opinion for TierOne, they discovered new appraisals that might
+have affected that opinion.
+
+The Division alleges, and we agree, that Respondents violated AU § 561, which requires
+that auditors perform additional audit procedures after issuing a report if “new information which
+may affect the report comes to [their] attention.”54 The Division alleges that Respondents
+discovered, shortly after KPMG issued its March 2009 audit report, two appraisals that pre-dated
+the opinion and that reflected approximately $3.6 million in additional probable losses under
+FAS 114.
+AU § 561 sets forth procedures that auditors should perform if, after issuing an audit
+report, they become “aware that facts may have existed at” the date of the report “which might
+have affected the report had [they] then been aware of such facts.” 55 First, if the information is
+“of such a nature and from such a source that [they] would have investigated it had it come to
+[their] attention during the course of [the] audit,” the auditors “should . . . undertake to determine
+whether the information is reliable and whether the facts existed at the date of [the] report.” 56
+“In this connection, the auditor[s] should discuss the matter with [their] client at whatever
+management levels [they] deem[] appropriate . . . .” 57 Second, if the information is both reliable
+and existed at the date of the auditors’ report, they “should take action” to “prevent future
+reliance on [the] report” if (i) the “report would have been affected if the information had been
+known to” the auditors; and (ii) they believe “there are persons currently relying or likely to rely
+on the financial statements who would attach importance to the information.” 58 Those actions
+include advising the client “to make appropriate disclosure of the newly discovered facts and
+
+54
+
+AU § 561.03.
+
+55
+
+AU § 561.01.
+
+56
+
+AU § 561.04. The terms set forth in the PCAOB auditing standards describe the degree
+of responsibility that the standards impose on auditors: (1) the “words ‘must,’ ‘shall,’ and ‘is
+required’ indicate unconditional responsibilities”; (2) the “word ‘should’ indicates
+responsibilities that are presumptively mandatory; the “auditor must comply with requirements
+of this type . . . unless the auditor demonstrates that alternative actions he or she followed in the
+circumstances were sufficient to achieve the objectives of the standard”; and (3) the “words
+‘may,’ ‘might,’ ‘could,’ and other terms and phrases describe actions and procedures that
+auditors have a responsibility to consider.” PCAOB Rule 3101.
+57
+
+Id.
+
+58
+
+AU §§ 561.05, 561.06.
+
+18
+their impact on the financial statements” such as by issuing revised financial statements
+accompanied by a new auditor’s report. 59
+AU § 561 sets forth its procedures “in general terms,” giving auditors some leeway over
+“the specific actions to be taken in a particular case.” 60 At a minimum, however, AU § 561
+requires auditors to perform some inquiry or other auditing procedures if, after the date of the
+audit report, “new information which may affect the report comes to [their] attention.” 61
+Respondents violated AU § 561 by performing no procedures when they discovered two
+new appraisals for two bucket-one loans in Nevada after KPMG issued its audit report on March
+12, 2009. TierOne received the appraisals in January and February 2009, but Respondents did
+not discover them until KPMG reviewed the Bank’s first-quarter 2009 financial statements in
+April 2009. The new appraisals resulted in about $3.6 million in additional FAS 114 loss
+provisions in the first-quarter 2009, split equally among the two loans. 62 One declined in fair
+value by 27%; the other by 36%. In comparison, the Nevada market declined at a monthly rate
+of between approximately 3% to 4% in January and February 2009 based on the S&P/CaseShiller Home Price Index for Las Vegas. 63
+Aesoph admitted that Respondents performed no procedures under AU § 561 upon
+discovering that TierOne had received the two new appraisals. 64 The two appraisals “existed at
+the date of” KPMG’s audit opinion on TierOne’s 2008 financial statements and, since TierOne
+regularly used such appraisals for measuring the fair value of collateral securing its FAS 114
+loans, Respondents should have undertaken to determine whether the information in the
+appraisals was reliable. At a minimum, Respondents should have inquired into whether the new
+appraisals might have affected TierOne’s year-end 2008 financial statements.
+59
+
+AU § 561.06.
+
+60
+
+AU § 561.02.
+
+61
+
+AU § 561.03 (“After the date of the report, the auditor has no obligation to make any
+further or continuing inquiry or perform any other auditing procedures . . . unless new
+information which may affect the report comes to his or her attention.” (emphasis added)).
+62
+
+After issuing the 2008 audit opinion, Respondents also discovered new appraisals that
+pre-dated the opinion for three lending relationships in North Carolina (showing a decrease in
+collateral value) and one lending relationship in Nebraska (showing an increase in collateral
+value). The net impact of these new appraisals and the two new appraisals discussed above for
+Nevada loans was about $4.2 million in FAS 114 loss provisions in TierOne’s interim financial
+statements for the first and second quarters of 2009. The Nebraska real estate market was
+relatively stable in 2008.
+63
+
+Bennett conceded in testimony that TierOne needed to consider any appraisal received
+after December 31, 2008, but prepared before the date of the financial statements, to assess
+whether the appraisal affected the Bank’s year-end fair value measurements.
+64
+
+Bennett testified that he does not recall discussions with anyone at TierOne as to whether
+the losses reflected in the new appraisals should have been recorded at year-end 2008.
+
+19
+The size of the FAS 114 losses suggest that the new appraisals may have affected
+KPMG’s audit opinion. $3.6 million is almost twice KPMG’s $1.9 million materiality threshold
+for the 2008 audit. It is also more than the $2.9 million in “net interest income after provision
+for loan losses” that TierOne reported at year-end 2008, and therefore might have changed that
+figure into a loss depending upon how much of the $3.6 million loss was attributed to 2008. 65
+Accordingly, we find that Respondents violated AU § 561.
+IV.
+
+Respondents engaged in “improper professional conduct.”
+
+Rule 102(e) permits us to censure or deny (either permanently or temporarily) the
+privilege of appearing or practicing before the Commission to persons found to have engaged in
+“improper professional conduct.” 66 Rule 102(e) has two alternative standards for determining
+whether an accountant has engaged in negligent “improper professional conduct”: (1) “a single
+instance of highly unreasonable conduct that results in a violation of applicable professional
+standards in circumstances in which an accountant knows, or should know, that heightened
+scrutiny is warranted”; or (2) “repeated instances of unreasonable conduct, each resulting in a
+violation of applicable professional standards, that indicate a lack of competence to practice
+before the Commission.” 67 We find that Respondents’ conduct satisfies both.
+A.
+
+Highly unreasonable conduct
+
+Highly unreasonable conduct “is an intermediate standard, higher than ordinary
+negligence but lower than the traditional definition of recklessness.” 68 This is an objective
+standard “measured by the degree of the departure from professional standards and not the intent
+of the accountant.” 69 There were numerous instances of highly unreasonable conduct: 70
+1.
+Respondents decision to issue an unqualified opinion that TierOne maintained
+effective internal control over financial reporting when they knew that management’s incentive
+65
+
+In light of the foregoing, we reject Respondents’ contention that a $3.6 million loss was
+insignificant in comparison to the $84 million loan loss provision and $93 million pretax loss
+reported in TierOne’s 2008 financial statements.
+66
+
+Rule 102(e), 17 C.F.R. § 201.102(e); 15 U.S.C. § 78d-3(a). As noted above, Exchange
+Act Section 4C codified the standards set forth in Rule 102(e). For ease of reference, we will
+refer to only Rule 102(e) in discussing whether Respondents engaged in “improper professional
+conduct.”
+67
+
+17 C.F.R. § 201.102(e)(1)(iv)(B).
+
+68
+
+Amendment to Rule 102(e), 1998 WL 729201, at *6.
+
+69
+
+Id. at *7.
+
+70
+
+The Division alleges that Respondents’ conduct consisted of a single instance of highly
+unreasonable conduct, and the law judge found that Respondents’ conduct “taken as a whole”
+constituted a single instance of highly unreasonable conduct. We find that Respondents’ conduct
+in any one of the three audit areas at issue satisfies the first negligence-based standard of
+Rule 102(e).
+
+20
+to overvalue the collateral securing the FAS 114 loans presented a high risk of material
+misstatement, and nonetheless identified no controls addressing that risk.
+2.
+Respondents’ decision not to question management’s fair value estimates based
+on undiscounted stale appraisals for many FAS 114 loans, in light of management’s incentive to
+misstate those estimates and the obvious inconsistencies between the stale appraisals and market
+conditions. Respondents relied largely on representations from the very people responsible for
+the estimates that they had determined presented a high risk of material misstatement due to
+fraud, and did so when those representations were at odds with market information that
+Respondents admittedly reviewed.
+3.
+Respondents’ conclusion that management’s fair value estimates were reasonable
+based on a finding that “market conditions have not materially deteriorated,” a conclusion
+Respondents admitted did not make sense. The market had in fact dropped drastically, as
+Respondents knew at the time.
+4.
+Respondents’ decision to ignore two new appraisals that they discovered after
+KPMG issued its 2008 audit opinion.71 Those appraisals were strong evidence that TierOne had
+additional, material FAS 114 losses in 2008 that were not included in its year-end financial
+statements. The two appraisals reflected $3.6 million in FAS 114 losses for two loans, an
+amount almost double KPMG’s materiality threshold and high enough to potentially turn into a
+loss TierOne’s year-end “net interest income after provision for loan losses.” These new
+appraisals also cast doubt on whether TierOne reasonably estimated the losses for dozens of
+other FAS 114 loans based on stale appraisals. AU § 561 required the application of at least
+some auditing procedures in response to this new information; Respondents did nothing.
+These audit failures were egregious violations of multiple auditing standards, including
+AS No. 5, AU §§ 328, 342, and 561, and the standards requiring that Respondents exercise due
+professional care and obtain sufficient competent evidential matter. We also find that
+Respondents’ highly unreasonable conduct that resulted in these violations was in circumstances
+in which Respondents knew or should have known that heightened scrutiny was warranted. 72
+
+71
+
+Bennett contends that the ALJ “did not rely upon the claimed violation of AU § 561 as
+support for [her] determination of ‘a single instance of highly unreasonable conduct’ or ‘repeated
+instances of unreasonable conduct,’” and that the Division did not appeal that decision. This
+contention lacks merit because the ALJ found that Respondents violated AU § 561, and in
+concluding that “Respondents’ course of conduct met the highly unreasonable conduct threshold,
+specifically referenced Respondents’ procedures in “evaluating the FAS 114 estimates,”
+procedures that necessarily include their treatment of post-audit evidence affecting the reliability
+of those estimates. Aesoph, 2014 WL 2915931, at *31-32 & n.38.
+72
+
+Heightened scrutiny is warranted “when matters are important or material, or when
+warning signals or other factors should alert an accountant” to a heightened risk. Amendment to
+Rule 102(e), 1998 WL 729201, at *8; James Thomas McCurdy, CPA, Exchange Act Release No.
+49182, 2004 WL 210606, at *8 (Feb. 4, 2004), aff’d, 396 F.3d 1258 (D.C. Cir. 2005).
+
+21
+Respondents admitted that they knew that the FAS 114 portion of the ALLL was material to
+TierOne’s financial statements and presented a high risk of material misstatement.
+Accordingly, we conclude that Respondents engaged in “improper professional conduct”
+within the meaning of the first negligence-based standard of Rule 102(e).
+B.
+
+Unreasonable conduct
+
+Alternatively, we find that Respondents engaged in repeated instances of unreasonable
+conduct, each resulting in a violation of PCAOB auditing standards, that indicate a lack of
+competence to practice before us. Because Respondents engaged in repeated instances of highly
+unreasonable conduct for the reasons discussed above, they more than satisfy the element of
+having engaged in repeated instances of unreasonable conduct. 73 Unreasonable conduct is a
+lower standard than highly unreasonable conduct, and signifies an ordinary or simple negligence
+standard. 74
+Respondents’ unreasonable conduct indicates a lack of competence to practice before us.
+When we adopted amendments to Rule 102(e) in 1998, we explained that if “an accountant fails
+to exercise reasonable care on more than one occasion, the Commission’s processes may be
+threatened,” and that “[m]ore than one violation of applicable professional standards ordinarily
+will indicate a lack of competence.” 75 We must “make a specific finding that the conduct
+indicates a lack of competence” because “two isolated violations of applicable professional
+standards . . . may not pose a threat to the Commission’s processes.” 76
+Respondents’ instances of unreasonable conduct were not isolated; they were sustained
+throughout the audit of the ALLL. We find that the recurrence of unreasonable conduct in so
+many audit areas concerning the ALLL demonstrates a lack of competence to practice before us.
+Compounding this finding is that Respondents’ repeated misconduct occurred in a high risk audit
+area, where auditors must increase their professional care and heighten their professional
+skepticism. Respondents’ conclusively demonstrated that they pose a threat to our processes by
+(1) relying on management’s representations when they knew management had a strong
+73
+
+Respondents contend that they cannot have engaged in “repeated instances of
+unreasonable conduct” because their alleged misconduct involved a single account: the ALLL.
+As we have stated previously, however, “Rule 102(e) looks to the number of instances of
+unreasonable conduct, not the number of accounts.” Kevin Hall, CPA, Exchange Act Release
+No. 61162, 2009 WL 4809215, at *7 (Dec. 14, 2009); cf. Amendment to Rule 102(e), 1998 WL
+729201, at *9 (“‘Repeated instances’ means more than once. The term ‘repeated’ may
+encompass as few as two separate instances of unreasonable conduct occurring within one audit,
+or separate instances of unreasonable conduct within different audits.”).
+74
+
+Amendment to Rule 102(e), 1998 WL 729201, at *6, 9.
+
+75
+
+Amendment to Rule 102(e), at *9. In contrast, we stated that highly unreasonable conduct
+when heightened scrutiny is warranted “conclusively demonstrates a lack of competence to
+practice before the Commission.” Id. at *2, 5.
+76
+
+Id. at *10.
+
+22
+incentive to lie, and in the face of evidence that market conditions contradicted those
+representations; (2) ignoring their responsibilities under AU § 561 when they discovered
+additional evidence contradicting management’s representations; and (3) issuing an unqualified
+opinion on the effectiveness of internal control when they identified collateral overvaluation as
+presenting a high risk of material misstatement but identified no adequate controls designed to
+address that risk. The number of PCAOB auditing standard violations in an area of high audit
+risk demonstrates a lack of competence to practice before us.
+Accordingly, Respondents engaged in “improper professional conduct” within the
+meaning of the second negligence-based standard of Rule 102(e).
+V.
+
+Sanctions
+
+When determining an appropriate sanction, “we are mindful of the remedial nature of
+Rule 102(e) and our purpose in promulgating the rule to ensure that the Commission’s ‘processes
+continue to be protected, and that the investing public continues to have confidence in the
+integrity of the financial reporting process.” 77 As we recognized in our release adopting the
+1998 amendments to Rule 102(e), “the Commission has limited resources” and therefore “must
+rely on the competence and independence of the auditors who certify, and the accountants who
+prepare, financial statements.” 78 Because of this, the Commission and the investing public must
+“rely heavily on accountants to assure corporate compliance with federal securities law and
+disclosure of accurate and reliable financial information.” 79
+Respondents’ conduct was egregious, highly unreasonable, and conclusively
+demonstrates that they lack competence to practice before us. 80 Respondents have failed to
+acknowledge the wrongful nature of their conduct or provide assurances against future
+violations. 81 Taken together, these facts lead us to conclude that there is a risk that Respondents
+
+77
+
+Dearlove, 2008 WL 281105, at *29 (quoting Amendment to Rule 102(e), 1998 WL
+729201, at *4).
+78
+
+Amendment to Rule 102(e), 1998 WL 729201, at *4.
+
+79
+
+Id.
+
+80
+
+As we have stated, “a negligent auditor can do just as much harm to the Commission’s
+processes as one who acts with an improper motive.” Amendment to Rule 102(e), 1998 WL
+729201, at *6. “A disciplinary matter involving highly unreasonable conduct is therefore not
+necessarily less egregious than one involving intentional or reckless conduct.” McNeeley, 2012
+WL 6457291, at *20.
+81
+
+Respondents contend that their due process rights are violated should we evaluate
+whether they recognize their wrongful conduct. “[D]ue process is not violated by giving a
+respondent a choice between recognizing the wrongfulness of his conduct, or refusing to do so
+and thereby risking more severe remedial action.” Seghers v. SEC, 548 F.3d 129, 136-37 (D.C.
+Cir. 2008).
+
+23
+will commit future violations. 82 We find that it is in the public interest to deny Respondents the
+privilege of appearing or practicing before us, with a right for Aesoph to apply for reinstatement
+after three years and for Bennett to apply for reinstatement after two years. 83 These remedies
+will also serve as a deterrent to Respondents and other auditors. 84
+Respondents’ various arguments do not undermine the need for these sanctions.
+Respondents blame TierOne for their audit failures, contending that it committed fraud directed
+precisely at the audit of FAS 114 loss estimates. 85 TierOne’s fraud, however, did not cause
+Respondents’ auditing standards violations; those violations resulted from Respondents’ failures
+to, among other things, obtain sufficient competent evidential matter or evaluate TierOne’s FAS
+114 loss estimates with professional skepticism, perform the inquiry required by AU § 561 after
+discovering new appraisals that might have affected KPMG’s audit opinion, and identify controls
+designed to address the risk of collateral overvaluation. 86
+82
+
+McNeeley, 2012 WL 6457291, at *18 (“As the D.C. Circuit has recognized, ‘the
+existence of a violation raises an inference that it will be repeated.’” (quoting Geiger v. SEC, 363
+F.3d 481, 489 (D.C. Cir. 2004))).
+83
+
+Bennett contends that he had been a senior manager for only one year at the time of the
+TierOne audit, and that at every step he “consulted with the engagement partner and the SEC
+concurring review partner, who assured him that they concurred with his judgments and believed
+his conduct complied with professional standards.” Although the record shows that Bennett had
+significant responsibility for TierOne’s year-end 2008 audit, including supervising the audit
+team’s day-to-day work, we acknowledge that he did not have final authority over the audit or
+experience comparable to that of Aesoph. We took this into consideration in giving Bennett a
+shorter period of time than Aesoph to apply for reinstatement.
+84
+
+Typically, if we decide that it is in the public interest to deny a person the privilege of
+appearing or practicing before us, we either impose a temporary suspension for up to twelve
+months or a bar with the right to apply for reinstatement after a period of years. Compare
+McNeeley, 2012 WL 6457291, at *20 (six-month suspension), and McCurdy, 2004 WL 210606,
+at *9 (one-year suspension), with Dearlove, 2008 WL 281105, at *31 (bar with right to apply for
+reinstatement after four years), and Scutillo, 2003 WL 21738818, at *17 (bar with right to apply
+for reinstatement after three years). We follow our usual practice here.
+85
+
+On November 6, 2015, a jury in federal district court found TierOne’s Chairman and
+CEO, Gilbert Lundstrom, guilty of conspiring with management to conceal TierOne’s true
+financial condition from shareholders, regulators, and KPMG. See Verdict, United States v.
+Lundstrom, No. 4:14-cr-03136 (D. Neb. Nov. 6, 2015). In 2014, TierOne’s President and COO,
+James Laphen, and CCO, Don Langford, pleaded guilty to the same charge in federal district
+court. See Plea Agreement, United States v. Laphen, No. 4:14-cr-03133-JMG-CRZ (D. Neb.
+Dec. 8, 2014); Plea Agreement, United States v. Langford, No. 4:14-cr-03103-JMG-CRZ (D.
+Neb. Sept. 9, 2014).
+86
+
+Cf. S.W. Hatfield, CPA, Exchange Act Release No. 69930, 2013 WL 3339647, at *24
+(July 3, 2013) (“Whether the companies withheld documents or made misrepresentations,
+however, did not relieve Applicants of their auditing responsibilities described in this opinion.”).
+
+24
+Respondents contend that the ALJ found their work in other audit areas to be at “the
+highest professional standards”; they significantly increased the hours they and the audit team
+spent on the 2008 audit over the prior year audit for TierOne; they are well-respected at KPMG
+as auditors, leaders, and mentors; they have unblemished disciplinary histories and continue to
+practice as auditors without any questions being raised as to their competence; and they have
+cooperated with the investigations by the Department of Justice and the Commission into
+TierOne’s management. Aesoph also contends that he played a substantial role in bringing
+TierOne’s fraud to light by “repeatedly confronting Bank management” when he became aware
+that it may have “deprived him of material information”; and then, after concluding that “KPMG
+could no longer rely on management’s representations,” informing TierOne in 2010 that KPMG
+was resigning as independent auditor and withdrawing its 2008 year-end audit opinion. We have
+considered these facts, but find that they do not outweigh our concerns that Respondents lack
+competence to practice before us and that significant sanctions are warranted.
+Aesoph further contends that there is no likelihood of future violations given the
+uniqueness of the situation in which Respondents conducted the 2008 audit, including the
+difficulty in applying FAS 157 in the midst of a recession. But our finding that there is a risk of
+future violations is based on, among other things, Respondents’ highly unreasonable conduct in
+violating auditing standards that are always applicable. Moreover, as discussed, FAS 157 has
+discernable parameters that did not permit TierOne to ignore market conditions, and
+Respondents’ misconduct was egregious, in part, because it was obvious that TierOne’s fair
+value estimates were inconsistent with market information.
+Respondents contend that sanctions would effectively end their careers. Bennett also
+contends that he “has not been able to audit public companies since” the institution of these
+proceedings, “so he effectively has been penalized already for an extended period.” We
+recognize that our imposition of sanctions could have collateral consequences, but such
+consequences are outweighed by our concern that “[a]n incompetent or unethical practitioner has
+the ability to inflict substantial damage to the Commission’s processes, and thus the investing
+public, and to the level of trust and confidence in our capital markets.” 87 “[W]here such
+individuals engage in professional misconduct which impairs the integrity of the Commission’s
+processes, the Commission has an obligation to respond through the application of” Rule
+102(e). 88
+Finally, Bennett contends that his purported conduct was “a far cry from the type of
+conduct that has resulted in the suspension of managers by the Commission” in five prior
+proceedings because, he claims, it was not egregious or recurrent. We disagree with Bennett’s
+assessment of his own conduct; as discussed above, it was egregious and highly unreasonable as
+to the three audit areas at issue. In any event, the appropriate sanction “depends on the facts and
+
+87
+
+McNeeley, 2012 WL 6457291, at *19 (quoting Steven Altman, Esq., Exchange Act
+Release No. 63306, 2010 WL 5092725, at *20 (Nov. 10, 2010), petition denied, 666 F.3d 1322
+(D.C. Cir. 2011)).
+88
+
+Id.
+
+25
+circumstances of each particular case and cannot be precisely determined by comparison with
+action take in other proceedings.” 89
+VI.
+A.
+
+Respondents’ Constitutional and Fairness Arguments
+
+Respondents were not denied the protections of the Administrative Procedure Act
+or due process.
+
+Respondents contend that the ALJ violated Section 556(d) of the Administrative
+Procedure Act (“APA”) and due process under the U.S. Constitution by not considering the
+whole record, including the opinions of their economic and accounting and auditing experts. 90
+Respondents also contend that the ALJ erred in admitting the report and testimony of the
+Division’s economic expert, Anjan V. Thakor, because he analyzed fair value using indices that
+included distressed sales, and because he is not a CPA or an accounting expert.
+These contentions are meritless. Respondents do not point to any specific piece of
+relevant evidence that the ALJ ignored, and our review of the record reveals none. In any event,
+the ALJ’s Initial Decision “ceased to have any force or effect once [Respondents] filed [their]
+petition for review.” 91 Our review is de novo and plenary as to evidentiary rulings, as well as to
+factual findings and legal conclusions; accordingly, we are not bound by the ALJ’s mode of
+analysis or the manner in which she weighed the evidence. For example, we have chosen to rely
+on the analysis from Respondents’ economic expert that market indices showed that the Las
+Vegas and Phoenix real estate markets dropping by double-digits in 2008 even after removing
+distressed sales. We have considered the whole record, including the expert opinions, and find
+that the preponderance of the evidence supports our conclusion that Respondents violated
+Rule 102(e) for the reasons discussed above. 92
+
+89
+
+Robert L. Burns, Advisers Act Release No. 3260, 2011 WL 3407859, at *11 n.52 (Aug.
+5, 2011 (quoting PAZ Sec., Inc., Exchange Act Release No. 57656, 2008 WL 1697153, at *9
+(Apr. 11, 2008)), petition denied, 566 F.3d 1172 (D.C. Cir. 2009))); see also Butz v. Glover
+Livestock Comm’n Co., Inc., 411 U.S. 182, 187 (1973) ("The employment of a sanction within
+the authority of an administrative agency is . . . not rendered invalid in a particular case because
+it is more severe than sanctions imposed in other cases.").
+90
+
+5 U.S.C. § 556(d) (“A sanction may not be imposed or rule or order issued except on
+consideration of the whole record or those parts thereof cited by a party and supported by and in
+accordance with the reliable, probative, and substantial evidence.”).
+91
+
+Dearlove, 2008 WL 281105, at *10 & n.42.
+
+92
+
+As to the parties’ economic experts, we find that both were qualified and that their
+opinions were relevant to this proceeding because they concerned, among other things, the
+economic conditions of the market during the time at issue. We therefore find that the ALJ did
+not err in admitting into evidence Thakor’s report and testimony.
+As to the parties’ experts on accounting and auditing, they reached opposite conclusions,
+with Respondents’ expert opining that Respondents complied with auditing standards and the
+
+26
+Respondents also make a series of due process arguments. Respondents contend that the
+loan files supported TierOne’s fair value estimates, that the Division did not prove its allegations
+because it obtained only about one-third of the loan files in its investigation, and that
+Respondents could not obtain the remaining loan files because TierOne no longer existed by the
+time Respondents could obtain discovery. We reject these arguments.
+Respondents were required under AS No. 3 to “document the procedures performed,
+evidence obtained, and conclusions reached” as to “relevant financial statement assertions.” 93
+The record contains all of KPMG’s audit work papers, which do not document TierOne’s
+rationale, or supporting evidence from any purported review of loan files, for not discounting
+stale appraisals in estimating fair value. This absence casts doubt on Respondents’ assertion that
+they contemporaneously obtained and reviewed loan files that would have supported TierOne’s
+fair value estimates. 94 Moreover, at the hearing, Bennett could not identify any loan-specific
+evidence which he believed existed but he did not have that could support the conclusion that
+TierOne’s fair value estimates were reasonable. 95
+We also reject Respondents related argument that the procedural limitations on discovery
+deprived Respondents of due process. The fact that different discovery mechanisms are
+available in federal district court does not establish a violation of due process. 96 In short, we find
+that Respondents have established neither a violation of due process nor any cognizable
+prejudice to their defense. 97
+
+Division’s expert opining that they did not so comply. But we need not defer to either expert.
+We set forth our judgment and the reasons supporting it above.
+93
+
+AS No. 3 ¶ 6 & App. A ¶ A10.
+
+94
+
+It is undisputed that the loan files actually obtained by the Division were turned over to
+Respondents when the Division made available its investigative file in compliance with Rule of
+Practice 230.
+95
+
+See Bernard E. Young, Exchange Act Release No. 774421, 2016 WL 1168564, at *20
+(March 24, 2016) (finding no prejudice to Respondent from being unable to access certain
+documents held by a receiver because he did not show how the documents “might have been
+relevant, or identified any categories of documents that were relevant to his defense which he did
+not have access to by virtue of the Division’s document production”), appeal docketed, No. 161149 (D.C. Cir. May 24, 2016).
+96
+
+Dearlove, 2008 WL 281105, at *37 (finding that the deadlines for the completion of
+administrative proceedings in Commission Rule of Practice 360(a), 17 C.F.R. § 201.360(a), did
+not violate due process); Young, 2016 WL 1168564, at *19 n.84 (noting it is well established that
+no due process violation results from failure to apply federal Rules of Evidence).
+97
+
+Kirlin Sec., Inc., Exchange Act Release No. 61135, 2009 WL 4731652, at *17 (Dec. 10,
+2009) (“Because Applicants have failed to establish what information they were denied and how
+that denial prejudiced their case, we reject Applicants’ argument that the proceedings against
+them were procedurally flawed.”).
+
+27
+B.
+
+Respondents’ Appointments Clause argument lacks merit.
+
+Respondents argue that ALJ Carol Fox Foelak—who presided over this matter and issued
+the Initial Decision—was not appointed in a manner consistent with the Appointments Clause of
+Article II of the Constitution. 98 We have rejected this claim before and, for the same reasons,
+again do so here. 99 Because the Commission’s ALJs are employees, not constitutional officers,
+their manner of appointment is not subject to the requirements of the Appointments Clause.
+We are unpersuaded by Respondents’ criticisms of our prior decisions. They point out
+that several federal district courts have concluded, in decisions that the Commission has
+appealed, that the Commission’s ALJs are inferior officers. 100 Those decisions decline to apply
+Landry v. FDIC, 101 in which the D.C. Circuit held that the FDIC’s ALJs were employees, and
+rely instead on Freytag v. Commissioner, 102 in which the Supreme Court held that a “special trial
+judge” of the Tax Court was an inferior officer. But as we have previously explained, we agree
+with Landry’s analysis and the distinctions that the D.C. Circuit identified between ALJs and the
+special trial judges at issue in Freytag. 103 Under Landry, the touchstone for determining whether
+adjudicators are inferior officers is the extent to which they have the power to issue “final
+decisions.” 104 Like the FDIC’s ALJs, the Commission’s ALJs conduct hearings, take testimony,
+98
+
+The Clause provides that the President “by and with the advice and consent of the Senate,
+shall appoint . . . Officers of the United States . . . but the Congress may by Law vest the
+Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts
+of Law, or in the Heads of Departments.” U.S. Const. art. II, § 2, cl. 2.
+99
+
+See, e.g., David F. Bandimere, Exchange Act Release No. 76308, 2015 WL 6575665, at
+*19 (Oct. 29, 2015), petition for review filed, No. 15-9586 (10th Cir. Dec. 22, 2015); Timbervest,
+LLC, Advisers Act Release No. 4197, 2015 WL 5472520, at *23-26 (Sept. 17, 2015), petition for
+review filed, No. 15-1416 (D.C. Cir. Nov. 13, 2015); Raymond J. Lucia Companies, Exchange
+Act Release No. 75837, 2015 WL 5172953, at *21-23 (Sept. 3, 2015), petition for review filed,
+No. 15-435 (D.C. Cir. Oct. 7, 2015).
+100
+
+See Gray Financial Group Inc. v. SEC, No. 15-cv-00492, ECF No. 56 (N.D. Ga. Aug. 4,
+2015) (appeal pending); Duka v. SEC, No. 15 Civ. 357(RMB)(SN), 2015 WL 4940057
+(S.D.N.Y. Aug. 3, 2015) (appeal pending); Hill v. SEC, No. 1:15–CV–1801–LMM, 2015 WL
+4307088 (N.D. Ga. June 8, 2015) (appeal pending).
+101
+
+204 F.3d 1125 (D.C. Cir. 2000).
+
+102
+
+501 U.S. 868 (1991).
+
+103
+
+See, e.g., Bandimere, 2015 WL 6575665, at *19, 21; Timbervest, LLC, 2015 WL
+5472520, at *24-26; Raymond J. Lucia Cos., 2015 WL 5172953, at *21-23.
+
+104
+
+204 F.3d at 1133-34. Respondents assert that the Commission has changed its views on
+this point, having previously taken the position in Free Enterprise Fund that members of the
+PCAOB were inferior officers even though they lacked authority to issue final decisions. See Br.
+for the United States, Free Enterprise Fund v. Public Co. Accounting Oversight Bd., 561 U.S.
+477 (2010) (No. 08-861), 2009 WL 3290435 (Oct. 13, 2009). Respondents misapprehend what
+was at issue in Free Enterprise Fund. There, it was “undisputed” that PCAOB Board members
+
+28
+rule on admissibility of evidence, and issue subpoenas. And just as the FDIC’s ALJs issue only
+“recommended decisions” that are not final decisions of the agency, our ALJs issue “initial
+decisions” that are likewise not final and subject to our de novo review. 105
+Respondents contend that we wrongly concluded in our prior decisions that our ALJs
+cannot issue final decisions in our administrative proceedings. Specifically, they claim that
+review of an ALJ’s initial decision “by the Commission is not mandatory or automatic.” We are
+not persuaded by this argument, which rests on a misunderstanding of our review process. Any
+respondent may petition for review of an ALJ’s initial decision, and it is “our ‘longstanding
+practice [to] grant[] virtually all petitions for review’”; indeed, we are unaware of any case in
+which a respondent’s timely filed petition for review has been denied. 106 Further, even if no
+respondent seeks review, we have the authority to review a decision on our own initiative. 107
+Respondents also assert that “where the parties choose not to file a petition for review,
+and the Commission does not [direct] review on its own initiative, the ALJ’s Initial Decision is
+‘deemed the action of the Commission.’” They rely on Section 4A(c) of the Exchange Act,
+which provides that if the Commission declines to review “delegated action,” then the action
+“shall, for all purposes, including appeal or review thereof, be deemed the action of the
+
+were inferior officers, so there was no occasion to address the distinction between mere
+employees and inferior officers. See id. at 29 n.8. Further, that case did not turn on the absence
+or presence of adjudicative finality, because PCAOB Board members performed “enforcement or
+policymaking functions.” Free Enterprise Fund, 561 U.S. at 507 n.10.
+105
+
+See, e.g., Bandimere, 2015 WL 6575665, at *20; Timbervest, LLC, 2015 WL 5472520, at
+*24; Raymond J. Lucia Cos., 2015 WL 5172953, at *22; accord George R. Jarkesy, Jr. v. SEC,
+803 F.3d 9, 12-13 (D.C. Cir. 2015) (“The Commission reviews ALJ decisions de novo, and it
+alone possesses the authority to issue a final order.”).
+106
+
+See, e.g., Bandimere, 2015 WL 6575665, at *20 (quoting Exchange Act Release No.
+35833, 1995 WL 368865, at *80-81 (June 9, 1995)). Respondents assert that Rule of Practice
+411 “set[s] forth criteria to be considered by the Commission” in entertaining petitions for
+review. That Rule merely recites general considerations that inform the exercise of our
+discretion. 17 C.F.R. § 201.411(b)(2). We have made clear that, “[u]nder these standards, the
+Commission grants a petition for review in virtually all cases.” 1995 WL 368865, at *80.
+107
+
+Rule of Practice 411(c), 17 C.F.R. § 201.411(c); see, e.g., Bandimere, 2015 WL 6575665,
+at *20; Timbervest, LLC, 2015 WL 5472520, at *24; Raymond J. Lucia Cos., 2015 WL 5172953,
+at *22. We have sua sponte ordered review on a number of occasions. See, e.g., MGSI Sec.,
+Inc., Exchange Act Release No. 42717, 2000 WL 462952, at *1 (Apr. 25, 2000) (“The
+Commission has determined to review the decision on its own initiative . . . .”); Robert I. Moses,
+Exchange Act Release No. 37795, 1996 WL 580130, at *1 (Oct. 8, 1996) (“On our own motion,
+we ordered a limited review of the [initial] decision . . . .”); accord Dian Min Ma, Exchange Act
+Release No. 74887, 2015 WL 2088438, at *1 (May 6, 2015); Michael Lee Mendenhall,
+Exchange Act Release No. 74532, 2015 WL 1247374, at *1 (Mar. 19, 2015); George C. Kern,
+Jr., Exchange Act Release No. 29356, 1991 WL 284804, at *1 (June 21, 1991).
+
+29
+Commission.”108 But this argument overlooks Rule of Practice 360(d), which was promulgated
+“pursuant to our general rulemaking authority under the securities laws.” 109 Regardless of
+whether review is sought or ordered, “[u]nder our rules, no initial decision becomes final simply
+‘on the lapse of time.’” 110 It is our issuance of a finality order that makes an ALJ’s decision final
+and effective. 111 As we have explained, the effect of Rule 360(d) is “that our ALJs’ initial
+decisions (like the FDIC’s ALJs’ recommended decisions) do not become the final and effective
+decision of the [Commission] without affirmative action on our part—specifically, our issuance
+of a finality order.” 112 Section 4A reserves to us the “right to exercise . . . review” over any
+initial decision as we deem fit, and Rule of Practice 360(d) is one element of how we have
+chosen to structure that process. 113 In sum, even when no party challenges an ALJ’s initial
+decision, we must determine whether to exercise our authority to sua sponte take up the matter or
+to issue a finality order.
+Turning to respondents’ next contention, we do not view the fact that we accord our ALJs
+deference in the context of demeanor-based credibility determinations to vest them with the type
+of authority that would qualify them as inferior officers. First, as we have repeatedly made clear,
+we do not accept such determinations “blindly,” and we will “disregard explicit determinations
+of credibility” when our de novo review of the record as a whole convinces us that a witness’s
+testimony is credible (or not) or that the weight of the evidence warrants a different finding as to
+the ultimate facts at issue. 114 Second, our practice in this regard is no different from the FDIC’s
+and so is not a basis for distinguishing or declining to follow Landry. 115 In Freytag, by contrast,
+108
+
+15 U.S.C. § 78d-1(c).
+
+109
+
+Raymond J. Lucia Cos., 2015 WL 5172953, at *21 n.109.
+
+110
+
+Id. at *21 (quoting Exchange Act Release No. 49412, 2004 WL 503739, at *12 (Mar. 12,
+2004)); see also Timbervest, LLC, 2015 WL 5472520, at *24.
+
+111
+
+See Rule of Practice 360(d)(2), 17 C.F.R. § 201.360(d)(2) (providing that “the
+Commission will issue an order that the decision has become final” and that an initial decision
+becomes final only “upon issuance of the order” by the Commission) (emphasis added).
+
+112
+
+Raymond J. Lucia Cos., 2015 WL 5172953, at *21 n.109. Respondents err in suggesting
+that the finality order merely “formaliz[es] the finality of the ALJ’s initial decision.” To the
+contrary, the finality order is what makes the decision final and effective.
+
+113
+
+15 U.S.C. § 78d-1(c).
+
+114
+
+Kenneth R. Ward, Exchange Act Release No. 47535, 2003 WL 1447865, at *10 (Mar. 19,
+2003), aff’d, 75 F. App’x 320 (5th Cir. 2003); accord Francis V. Lorenzo, Exchange Act Release
+No. 74836, 2015 WL 1927763, at *10 n.32 (Apr. 29, 2015), petition for review filed, No. 151202 (D.C. Cir. July 1, 2015); Irfan Mohammed Amanat, Exchange Act Release No. 54708,
+2006 WL 3199181, at *8 n.46 (Nov. 3, 2006), petition denied, 269 F. App’x 217 (3d Cir. 2008);
+see also Kay v. FCC, 396 F.3d 1184, 1189 (D.C. Cir. 2005) (“The law is settled that an agency is
+not required to adopt the credibility determinations of an administrative law judge.”).
+115
+
+Compare [Redacted] (Insured State Nonmember Bank), FDIC-82-73a, 1984 WL 273918,
+at *5 (June 18, 1984) (stating, “as a general rule,” that “the assessment of the credibility of
+witnesses” by the FDIC’s ALJs is given “deference” by the FDIC) with Ramon M. Candelaria,
+
+30
+the Tax Court was “required to defer” to the special trial judges’ factual and credibility findings
+“unless they were clearly erroneous.” 116
+Respondents assert that our “Rules also provide ALJs with authority to punish
+contemptuous conduct.” That authority is far more limited than that at the disposal of district
+court judges or judges on an Article I court; indeed, the Supreme Court has made clear that the
+absence of contempt powers generally distinguishes agency from court proceedings. 117 Our
+rules provide ALJs with authority to punish contemptuous conduct in only the following, limited
+ways: If a person engages in contemptuous conduct before the ALJ during any proceeding, the
+ALJ may “exclude that person from such hearing or conference, or any portion thereof” or
+“summarily suspend that person from representing others in the proceeding in which such
+conduct occurred for the duration, or any portion, of the proceeding.” 118 If there are deficiencies
+in a filing, a Commission ALJ “may reject, in whole or in part,” the filing, such filing “shall not
+be part of the record,” and the ALJ “may direct a party to cure any deficiencies.” 119 Finally, if a
+party fails to make a required filing or to cure a deficiency with a filing, then a Commission ALJ
+“may enter a default . . . , dismiss the case, decide the particular matter at issue against that
+person, or prohibit the introduction of evidence or exclude testimony concerning that matter.” 120
+Any such ruling would, of course, be subject to de novo Commission review. 121 In these
+respects, too, our ALJs are akin to the FDIC’s ALJs that Landry found to be “mere
+employees.” 122 By contrast, the Tax Court (and by extension the court’s special tax judges)
+
+FDIC-95-62e, 1997 WL 211341, at *3-4 (Mar. 11, 1997) (noting that the FDIC ALJ found
+respondent to be “entirely credible” but rejecting respondent’s testimony “in light of the entire
+record”).
+116
+
+Landry, 204 F.3d at 1133.
+
+117
+
+See ICC v. Brimson, 154 U.S. 447, 488-89 (1894), overruled on other grounds, Bloom v.
+Illinois, 391 U.S. 194 (1968)); Shasta Minerals & Chemical Co. v. SEC , 328 F.2d 285, 286
+(10th Cir.1964). The Commission itself, as distinguished from its ALJs, possesses a variety of
+other powers that in the aggregate endow Commissioners with significant authority under the
+laws of the United States, including the power to promulgate final rules (15 U.S.C. § 77s), to
+institute administrative proceedings (id. § 77h-1(a)), to bring suit in federal district court (id.
+§ 77t(b)), and to grant exemptions from otherwise applicable securities laws (id. § 77z-3).
+118
+
+Rule of Practice 180(a), 17 C.F.R. § 201.180(a).
+
+119
+
+Rule of Practice 180(b), 17 C.F.R. § 201.180(b).
+
+120
+
+Rule of Practice 180(c), 17 C.F.R. § 201.180(c).
+
+121
+
+An order excluding or summarily suspending a person is subject to Commission review
+on an expedited and interlocutory basis. Rule of Practice 180(a)(2), 17 C.F.R. § 201.180(a)(2).
+122
+
+See, e.g., First Bank of Jacksonville, FDIC-96-155b, 1998 WL 363852, at *11-12 (May
+26, 1998) (approving the FDIC ALJ’s imposition of a sanction precluding the respondent from
+offering certain evidence); 12 C.F.R. § 308.108.
+
+31
+exercised “a portion of the judicial power of the United States,” including the “authority to
+punish contempts by fine or imprisonment.” 123
+We do not agree with respondents’ contention that Landry is distinguishable. Instead, we
+adhere to our determination that the duties and powers of the Commission’s ALJs are
+comparable to those of the FDIC’s ALJs, and so continue to be guided by Landry in rejecting
+Respondents’ Appointments Clause claim.
+An appropriate order will issue. 124
+By the Commission (Chair WHITE and Commissioner STEIN); Commissioner
+PIWOWAR, concurring in part and dissenting in part.
+
+Brent J. Fields
+Secretary
+
+123
+124
+
+Freytag, 501 U.S. at 891.
+
+We have considered all of the parties’ contentions. We have rejected or sustained them
+to the extent that they are inconsistent or in accord with the views expressed in this opinion.
+
+1
+Commissioner PIWOWAR, concurring in part and dissenting in part:
+I concur with the opinion’s findings that the Respondents Aesoph and Bennett engaged in
+“improper professional conduct” as defined by Rule 102(e)’s negligence-based standards. 1
+However, I dissent from the imposition of a permanent denial of the privilege of appearing or
+practicing before the Commission as an accountant.
+As recognized by the U.S. Court of Appeals for the D.C. Circuit, “[t]he Commission may
+impose sanctions for a remedial purpose, but not for punishment” under Rule 102(e). 2 In her
+initial decision, the administrative law judge determined that Aesoph should be denied the
+privilege of appearing or practicing before the Commission for one year and Bennett should be
+denied for six months. 3 In reaching her decision, she considered the Steadman factors and the
+need for deterrence. 4 She noted as “praiseworthy factors” that the Respondents were highly
+regarded at their firm, recognized risks associated with the allowance for loan and lease losses,
+worked longer on the 2008 audit than on the previous audit, 5 and adequately conducted other
+areas of the audit. 6 Nonetheless, she concluded that these factors did not obviate the need for
+sanctions and she considered numerous other Commission precedents in reaching her decision. 7
+The Division of Enforcement (“Division”) requested that Aesoph be denied the privilege
+for three years and that Bennett be denied for two years. 8 At oral argument, I specifically asked
+counsel for the Division to clarify whether the Division was seeking a three-year and two-year
+suspension for Aesoph and Bennett, respectively, or whether he was seeking a bar with the right
+1
+
+With respect to the constitutional arguments raised by the Respondents regarding the
+Appointments Clause of the Constitution, I have previously expressed my views. See Dissenting
+Opinion of Commissioner Gallagher and Commissioner Piwowar, Raymond J. Lucia Companies,
+Inc. and Raymond J. Lucia, Sr. (Sept. 3, 2015), available at
+https://www.sec.gov/news/statement/dissenting-opinion-gallagher-piwowar.html.
+2
+
+McCurdy v. SEC, 396 F.3d 1258, 1264 (D.C. Cir. 2005) (citations omitted).
+
+3
+
+Joseph J. Aesoph, CPA, and Darren M. Bennett, CPA, Initial Decision Release No. 624
+(June 27, 2014), at 36, available at https://www.sec.gov/alj/aljdec/2014/id624cff.pdf (the “Initial
+Decision”).
+4
+
+Id.
+
+5
+
+Separately, I have concerns that the inspection process of the Public Company
+Accounting Oversight Board has resulted, and continues to result, in audits where significant
+efforts are undertaken by auditors to ensure that every “box” is checked off regardless of
+material effect, thereby making it more difficult for auditors, management, and audit committees
+to focus on the most critical areas of an issuer’s financial statements. In other words, there is
+more effort and less effectiveness.
+6
+
+Initial Decision at 37.
+
+7
+
+Id. at 37 n.40.
+
+8
+
+Id. at 36.
+
+2
+to apply for reinstatement after three years and two years. Counsel for the Division responded
+the former.
+By imposing a permanent bar with the right to apply for reinstatement after three years
+and two years, the majority of the Commission has imposed a punitive sanction that goes far
+beyond what the Division requested. There is a significant difference between a three-year and
+two-year suspension as compared to a bar with the right to apply for reinstatement after three
+years and two years. Under a suspension, the Respondents would be free to resume practicing or
+appearing before the Commission when the suspension ends. Under a bar with the right to apply
+for reinstatement, once the requisite time period has passed, Respondents will only be no longer
+prohibited from seeking reinstatement from the Commission. They must still file a petition with
+the Commission even to be considered for reinstatement. 9
+Petitions for accountant reinstatements are first evaluated by our Office of the Chief
+Accountant and, if satisfactory, are then recommended to the Commission for approval. 10 There
+are no deadlines for the Commission or its staff to complete this process. Pursuant to Rule
+102(e)(5) of our Rules of Practice, 11 the Commission may, but is not obligated, to reinstate a
+person “for good cause shown.” Based on my experience as Commissioner, the reinstatement
+process, even if successful, can take years to complete after the requisite time period has expired.
+Moreover, since there is no assurance that a petition for reinstatement will be granted by the
+Commission, the right to apply for reinstatement can be illusory. 12
+Given the record in this matter, I find no compelling reason for going beyond the
+Division’s request and imposing a permanent bar with a right to apply for reinstatement on the
+Respondents. The majority’s sole justification for this punitive sanction and resulting
+
+9
+
+A permanent bar with a right to apply for reinstatement after a period of time is harsher
+than an outright permanent bar. With an outright bar, an individual may petition the
+Commission at any time for reinstatement. With a right to apply for reinstatement, the individual
+must wait until the stated time period has elapsed before filing. Thus, to the extent that
+providing a right to apply for reinstatement after a certain period of time creates the appearance
+of moderation to an otherwise permanent bar, that perception is false.
+10
+
+The amount of time and resources (e.g., retention of counsel) needed to navigate the
+process may deter some individuals from even attempting to petition for reinstatement.
+11
+12
+
+17 C.F.R. 201.102(e).
+
+On its face, Rule 102(e)(5) does not address whether the presence, or absence, of a period
+before which a respondent has a right to apply for reinstatement in connection with a permanent
+bar should affect the “good cause” analysis. In light of such uncertainty, any respondent in a
+Commission enforcement action (including a settlement with the Commission) should be on
+notice of the possibility that, in consideration of a reinstatement petition, the inclusion of a right
+to apply for reinstatement period may have no effect on a future Commission’s decision as
+whether to grant reinstatement.
+
+3
+destruction of the Respondents’ professional careers is that it “follow[s] our usual practice.”
+This is not a sufficient justification under our rules and legal precedents. 13
+
+13
+
+See, e.g., Steadman v. SEC, 603 F.2d 1126, 1140 (“In our view, however, permanent
+exclusion from the industry is ‘without justification in fact’ unless the Commission specifically
+articulates compelling reasons for such a sanction.”).
+
+UNITED STATES OF AMERICA
+before the
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 78490 / August 5, 2016
+Admin. Proc. File No. 3-15168
+In the Matter of
+JOHN J. AESOPH, CPA and
+DARREN M. BENNETT, CPA
+
+ORDER IMPOSING REMEDIAL SANCTIONS
+On the basis of the Commission’s opinion issued this day, it is
+ORDERED that John J. Aesoph, CPA, be denied the privilege of appearing or practicing
+before the Commission as an accountant with the proviso that, after three years, he may apply to
+the Commission for reinstatement, upon an appropriate showing; and it is further
+ORDERED that Darren M. Bennett, CPA, be denied the privilege of appearing or
+practicing before the Commission as an accountant with the proviso that, after two years, he may
+apply to the Commission for reinstatement, upon an appropriate showing.
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+

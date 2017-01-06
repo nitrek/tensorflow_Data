@@ -1,0 +1,1703 @@
+No. 13-317
+
+In the Supreme Court of the United States
+
+HALLIBURTON CO., ET AL., PETITIONERS
+v.
+ERICA P. JOHN FUND, INC., FKA ARCHDIOCESE OF 
+
+MILWAUKEE SUPPORTING FUND, INC. 
+
+
+ON WRIT OF CERTIORARI 
+
+TO THE UNITED STATES COURT OF APPEALS 
+
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE 
+
+SUPPORTING RESPONDENT 
+
+
+ANNE K. SMALL
+General Counsel
+MICHAEL A. CONLEY
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+JEFFREY A. BERGER
+Senior Litigation Counsel
+Securities and Exchange
+Commission
+Washington, D.C. 20549
+
+DONALD B. VERRILLI, JR.
+Solicitor General 
+
+Counsel of Record
+
+MALCOLM L. STEWART
+Deputy Solicitor General
+NICOLE A. SAHARSKY
+Assistant to the Solicitor
+General
+Department of Justice
+Washington, D.C. 20530-0001
+SupremeCtBriefs@usdoj.gov
+(202) 514-2217
+
+QUESTIONS PRESENTED 
+
+
+1. Whether this Court should overrule the holding
+of Basic Inc. v. Levinson, 485 U.S. 224 (1988), that a
+plaintiff in a private action under Section 10(b) of the
+Securities Exchange Act of 1934, 15 U.S.C. 78j(b), and
+Rule 10b-5, 17 C.F.R. 240.10b-5, may invoke a rebuttable presumption of reliance based on the fraud-onthe-market theory.
+2. Whether, in such a case, a plaintiff that invokes
+the fraud-on-the-market presumption of reliance must
+prove that the alleged misrepresentation distorted the
+market price of the security in order for the suit to be
+maintained as a class action, and whether the district
+court must allow the defendant at class certification to
+present evidence of no such price impact.
+
+(I)
+
+
+TABLE OF CONTENTS
+
+
+Page
+Interest of the United States ........................................................1
+
+Statement .........................................................................................2 
+
+Summary of argument ...................................................................6 
+
+Argument:
+
+I. 	The fraud-on-the-market presumption is an 
+
+appropriate way for a plaintiff in a private 
+
+securities-fraud action to demonstrate reliance............7 
+
+A. The	 Basic Court properly recognized that a 
+
+private securities-fraud plaintiff may invoke 
+
+the fraud-on-the-market presumption to 
+
+establish reliance .......................................................7 
+
+B. 	 The fraud-on-the-market presumption is 
+
+consistent with congressional intent and 
+
+common-law fraud principles ..................................14
+
+C. 	 Congress has acquiesced in the fraud-on-the- 
+
+market presumption .................................................21
+
+D. Academic debate about the efficient-market
+
+hypothesis has not undercut the fraud-on-themarket presumption .................................................23
+
+E. Stare decisis principles counsel strongly in 
+
+favor of reaffirming Basic’s fraud-on-the- 
+
+market holding .........................................................26
+
+II. 	 When plaintiffs in a private securities-fraud 
+
+action invoke the fraud-on-the-market presumption, they need not prove, and defendants may 
+
+not rebut, price impact at the class-certification 
+
+stage ..................................................................................29
+
+Conclusion......................................................................................35
+
+Appendix — Statutory provisions ............................................ 1a 
+
+
+(III)
+
+
+IV
+
+TABLE OF AUTHORITIES
+
+
+Cases:
+
+Page
+
+
+Affiliated Ute Citizens v. United States, 
+
+406 U.S. 128 (1972) ............................................................... 12
+
+Amchem Prods., Inc. v. Windsor, 521 U.S. 591 (1997) ...... 29
+
+Amgen Inc. v. Connecticut Ret. Plans & Trust 
+
+Funds, 133 S. Ct. 1184 (2013) .................................... passim 
+
+Basic Inc. v. Levinson, 485 U.S. 224 (1988)................ passim 
+
+Bedford v. Bagshaw, (1859) 157 Eng. Rep. 951 (Exch.
+
+Div.) ........................................................................................ 17
+
+Blue Chip Stamps v. Manor Drug Stores, 
+
+421 U.S. 723 (1975) ............................................................. 2, 8
+
+Dura Pharms., Inc. v. Broudo, 544 U.S. 336 (2005) ....... 2, 10
+
+Eisen v. Carlisle & Jacquelin, 417 U.S. 156 (1974) ............ 33
+
+Erica P. John Fund, Inc. v. Halliburton Co.,
+
+131 S. Ct. 2179 (2011) ......................................... 3, 4, 5, 13, 30
+
+Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976) .............. 20
+
+Herman & MacLean v. Huddleston, 459 U.S. 375
+
+(1983) .............................................................................. 19
+
+Hydrogen Peroxide Antitrust Litig., 552 F.3d 305
+
+(3d Cir. 2008) ......................................................................... 29
+
+John R. Sand & Gravel Co. v. United States, 
+
+552 U.S. 130 (2008) ......................................................... 27, 28
+
+LTV Sec. Litig, In re, 88 F.R.D. 134 (N.D. Tex. 1980) ......... 8 
+
+Merrill Lynch, Pierce, Fenner & Smith Inc. v. 
+
+Dabit, 547 U.S. 71 (2006) ..................................................... 22
+
+Oscar Private Equity Invs. v. Allegiance Telecom,
+
+Inc., 487 F.3d 261 (5th Cir. 2007), abrogated by
+
+Erica P. John Fund, Inc. v. Halliburton Co.,
+
+131 S. Ct. 2179 (2011) ............................................................. 4
+
+Ottinger v. Bennett, 96 N.E. 1123 (N.Y. 1911) .................... 17
+
+Patterson v. McLean Credit Union, 491 U.S. 164 
+
+(1989) ...................................................................................... 26
+
+
+V
+
+Cases—Continued:
+
+Page
+
+
+Payne v. Tennessee, 501 U.S. 808 (1991)..............................26
+
+Polymedica Corp. Sec. Litig, In re, 432 F.3d 1 
+
+(1st Cir. 2005) ........................................................................24
+
+Rex v. DeBerenger, (1814) 105 Eng. Rep. 536 (K.B.) .........17
+
+Ridgley v. Keane, 119 N.Y. Supp. 451 (N.Y. App. Div. 
+
+1909) .......................................................................................17
+
+Schlanger v. Four-Phase Sys. Inc., 555 F. Supp. 535 
+
+(S.D.N.Y. 1982) .....................................................................10
+
+Schleicher v. Wendt, 618 F.3d 679 (7th Cir. 
+
+2010) ..................................................................... 24, 25, 30, 32
+
+Stainbank v. Fernley, (1839) 59 Eng. Rep. 473 (Ch.).........17
+
+Stoneridge Inv. Partners, LLC v. Scientific-Atlanta, 
+
+Inc., 552 U.S. 148 (2008) .................................................. 2, 22
+
+Tellabs, Inc. v. Makor Issues & Rights, Ltd., 
+
+551 U.S. 308 (2007) ...............................................................23
+
+Tucker v. Arthur Andersen & Co., 67 F.R.D. 468
+
+(S.D.N.Y. 1975) .....................................................................11
+
+United States v. Brown, 5 F. Supp. 81 (S.D.N.Y. 
+
+1933), aff ’d, 79 F.2d 321 (2d Cir.), cert. denied,
+
+296 U.S. 650 (1935) ...............................................................18
+
+Wal-Mart Stores, Inc. v. Dukes, 131 S. Ct. 2541
+
+(2011) ................................................................................ 29, 33
+
+Watson v. United States, 552 U.S. 74 (2007) .......................27
+
+Winter v. NRDC, 555 U.S. 7 (2008) ......................................28
+
+Statutes, regulation and rules:
+Private Securities Litigation Reform Act of 1995, 
+
+Pub. L. No. 104-67, 109 Stat. 737........................................21
+
+§ 101(b), 109 Stat. 743 (15 U.S.C. 78u-4):
+
+15 U.S.C. 78u-4(b)(1)-(2) .............................................21
+
+15 U.S.C. 78u-4(b)(3)(B) .............................................21
+
+
+VI 
+
+Statutes, regulation and rules—Continued:
+
+Page
+
+
+15 U.S.C. 78u-4(c) ........................................................ 21 
+
+§ 102(b), 109 Stat. 753 (15 U.S.C. 78u-5) ....................... 21
+
+Securities Act of 1933, ch. 38, § 11, 48 Stat. 82
+
+(15 U.S.C. 77k) ...................................................................... 16
+
+Securities Exchange Act of 1934, ch. 404, 48 Stat. 881 
+
+(15 U.S.C. 78a et seq.) ........................................................... 14
+
+§ 2(2)-(3), 48 Stat. 882 (15 U.S.C. 78b(2)-(3)) ................. 15 
+
+§ 9, 48 Stat. 889 (15 U.S.C. 78 i) ................................. 15, 20
+
+§ 9(a)(1)-(2), 48 Stat. 889 (15 U.S.C. 78 i(a)(1)-(2)) ........ 16
+
+§ 9(a)(4), 48 Stat. 889 (15 U.S.C. 78 i(a)(4)) .............. 16, 20
+
+§ 9(e), 48 Stat. 890 (15 U.S.C. 78 i(f )) .................. 16, 19, 20
+
+§ 10, 48 Stat. 891 (15 U.S.C. 78 j) ..................................... 20
+
+§ 10(b), 48 Stat. 891 (15 U.S.C. 78 j(b)) .................. passim 
+
+§ 18(a), 48 Stat. 897 (15 U.S.C. 78r(a)) ........................... 19
+
+Securities Litigation Uniform Standards Act of 1998, 
+
+Pub. L. No. 105-353, 112 Stat. 3227.................................... 21
+
+17 C.F.R. 240.10b-5(b) .................................................. 2, 16, 1a 
+
+Fed. R. Civ. P.:
+
+Rule 23 .............................................................. 10, 27, 34, 2a 
+
+Rule 23(a) ........................................................................... 29
+
+Rule 23(b) ........................................................................... 29
+
+Rule 23(b)(3) ............................................................ 4, 27, 29
+
+Miscellaneous:
+A.A. Berle, Jr.: 
+
+Liability for Stock Market Manipulation, 
+
+31 Colum. L. Rev. 264 (1931) ..................................... 17
+
+Stock Market Manipulation, 38 Colum. L. Rev. 
+
+393 (1938)............................................................... 18
+
+Barbara Black, Behavioral Economics and Investor 
+
+Protection, 44 Loy. U. Chi. L.J. 1493 (2013) ..................... 25
+
+
+VII 
+
+Miscellaneous—Continued:
+
+Page
+
+Christopher Branda, Jr., Note, Manipulation of the
+
+Stock Markets Under the Securities Laws, 
+
+99 U. Pa. L. Rev. 651 (1951) ................................................ 14
+
+Common Sense Legal Reform Act: Hearings before 
+
+the Subcomm. on Telecommunications and 
+
+Finance of the House Comm. on Commerce, 
+
+104th Cong., 1st Sess. (1995) ............................................... 22
+
+Bradford Cornell, Corporate Valuation: Tools for
+Effective Appraisal and Decision Making (1993) ........... 23
+
+Charles Amos Dice, The Stock Market (1928)..................... 14
+
+William O. Douglas, Protecting the Investor,
+23 Yale Rev. 522 (1934) ........................................................ 18
+
+William O. Douglas & George E. Bates, The Securities Act of 1933, 43 Yale L.J. 171 (1933) ............................ 17
+
+Sanford J. Grossman & Joseph E. Stiglitz, On the
+Impossibility of Informationally Efficient Markets, 70 Am. Econ. Rev. 393 (1980)..................................... 26
+
+H.R. 10, 104th Cong., 1st Sess. (1995) .................................. 22
+
+H.R. Conf. Rep. No. 369, 104th Cong., 1st Sess. 
+
+(1995) ...................................................................................... 21
+
+H.R. Rep. No. 85, 73d Cong., 1st Sess. (1933) ..................... 16
+
+H.R. Rep. No. 1383, 73d Cong., 2d Sess. (1934) ...... 14, 15, 16
+
+John Hanna, The Securities Exchange Act of 1934, 
+
+23 Cal. L. Rev. 1 (1934) ........................................................ 20
+
+Hearing on H.R. 7852 and H.R. 8720 before the 
+
+House Comm. on Interstate & Foreign Commerce, 
+
+73d Cong., 2d Sess. (1934) ................................................... 20
+
+S.S. Huebner, The Stock Market (rev. ed. 1934) ................. 18
+
+Donald C. Langevoort, Basic at Twenty: Rethinking 
+
+Fraud on the Market, 2009 Wis. L. Rev. 151 ............. 12, 25
+
+
+VIII 
+
+Miscellaneous—Continued:
+
+Page
+
+James Wm. Moore & Frank M. Wiseman,
+Market Manipulation and the Exchange Act,
+2 U. Chi. L. Rev. 46 (1934)................................................... 17
+
+William L. Prosser, Handbook of the Law of Torts
+(4th ed. 1971) ......................................................................... 12
+
+3 Restatement (Second) of Torts (1979) ......................... 12, 13
+
+S. Rep. No. 792, 73d Cong., 2d Sess. (1934) ......................... 14
+
+S. Rep. No. 1455, 73d Cong., 2d Sess. (1934) ................. 14, 15
+
+Robert J. Shiller, We’ll Share the Honors, and Agree 
+
+to Disagree, N.Y. Times (Oct. 27, 2013)............................. 25
+
+Steve Thel, The Original Conception of Section 10(b) 
+
+of the Securities Exchange Act, 42 Stan. L. Rev. 
+
+385 (1990) ............................................................................... 15
+
+Twentieth Century Fund,  Inc.:
+
+Stock Market Control (Evans Clark et al. eds., 
+
+1934) .............................................................................. 14
+
+The Security Markets (Alfred L. Bernheim & 
+
+Margaret Grant Schneider eds., 1935) ..................... 15
+
+
+In the Supreme Court of the United States
+
+No. 13-317
+HALLIBURTON CO., ET AL., PETITIONERS
+v.
+ERICA P. JOHN FUND, INC., FKA ARCHDIOCESE OF 
+
+MILWAUKEE SUPPORTING FUND, INC. 
+
+
+ON WRIT OF CERTIORARI 
+
+TO THE UNITED STATES COURT OF APPEALS 
+
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE 
+
+SUPPORTING RESPONDENT 
+
+
+INTEREST OF THE UNITED STATES 
+
+
+The United States, through the Department of Justice and the Securities and Exchange Commission
+(SEC), administers and enforces the federal securities
+laws. The Court’s disposition of this case will have a
+substantial impact on the ability of private plaintiffs to
+obtain relief for violations of those laws. In Basic Inc.
+v. Levinson, 485 U.S. 224 (1988), the case in which this
+Court first approved use of the fraud-on-the-market
+presumption of reliance in a private securities-fraud
+action, the SEC, represented by the Solicitor General,
+filed a brief as amicus curiae advocating that result.
+Because meritorious private securities-fraud actions,
+including class actions, are an essential supplement to
+criminal prosecutions and civil enforcement actions
+(1)
+
+2
+
+brought by the Department of Justice and the SEC,
+the United States has a substantial interest in this
+case.
+STATEMENT
+
+1. Section 10(b) of the Securities Exchange Act of
+1934 makes it unlawful for any person “[t]o use or
+employ, in connection with the purchase or sale of any
+security * * * [,] any manipulative or deceptive
+device or contrivance in contravention of ” rules promulgated by the SEC. 15 U.S.C. 78j(b). Under SEC
+Rule 10b-5, which implements Section 10(b), it is unlawful for any person, in connection with the purchase
+or sale of a security, “[t]o make any untrue statement
+of a material fact or to omit to state a material fact
+necessary in order to make the statements made, in
+the light of the circumstances under which they were
+made, not misleading.” 17 C.F.R. 240.10b-5(b). This
+Court has recognized a private right of action to enforce those provisions, see, e.g., Blue Chip Stamps v.
+Manor Drug Stores, 421 U.S. 723, 730 (1975), and
+Congress has “ratified th[at] implied right of action,”
+Stoneridge Inv. Partners, LLC v. Scientific-Atlanta,
+Inc., 552 U.S. 148, 165 (2008).
+In order to recover in a private suit under Section
+10(b) and Rule 10b-5(b), a plaintiff must prove: (1) a
+material misrepresentation or omission by the defendant; (2) that the defendant acted with scienter; (3)
+a connection between the misrepresentation or omission and the purchase or sale of a security; (4) the
+plaintiff ’s reliance upon the misrepresentation or
+omission; (5) economic loss; and (6) loss causation.
+Dura Pharms., Inc. v. Broudo, 544 U.S. 336, 341-342
+(2005).
+
+3
+
+Proof of reliance establishes the “requisite causal
+connection between a defendant’s misrepresentation
+and a plaintiff ’s injury.” Basic Inc. v. Levinson, 485
+U.S. 224, 243 (1988). The “traditional (and most direct) way a plaintiff can demonstrate reliance” on a
+misrepresentation is to show that he was aware of the
+false statement and purchased stock “based on that
+specific misrepresentation.” Erica P. John Fund, Inc.
+v. Halliburton Co., 131 S. Ct. 2179, 2185 (2011). In
+Basic, however, this Court recognized an alternative
+approach, known as the “fraud-on-the-market” presumption, to proving the reliance element of a private
+Section 10(b) claim. 485 U.S. at 241-247.
+That presumption rests on the understanding that
+“the market price of shares traded on well-developed
+markets reflects all publicly available information,”
+including “any material misrepresentations.” Basic,
+485 U.S. at 246. Because the market “transmits information to the investor in the processed form of a
+market price,” a court may presume that an investor
+relies on the public misstatements when he “buys or
+sells stock at the price set by the market.” Erica P.
+John Fund, 131 S. Ct. at 2185 (quoting Basic, 485 U.S.
+at 244, 247). A defendant may rebut the presumption
+through “[a]ny showing that severs the link between
+the alleged misrepresentation and either the price
+received (or paid) by the plaintiff, or his decision to
+trade at a fair market price.” Basic, 485 U.S. at 248.
+The fraud-on-the-market presumption is “a substantive doctrine of federal securities-fraud law that
+can be invoked by any Rule 10b-5 plaintiff. ” Amgen
+Inc. v. Connecticut Ret. Plans & Trust Funds, 133
+S. Ct. 1184, 1193 (2013). The presumption has “particular significance” for class plaintiffs, ibid., however,
+
+4
+
+because it allows the reliance element of a Section
+10(b) suit to be proved through evidence common to
+all class members, which increases the likelihood that
+“questions of law or fact common to class members
+[will] predominate” in the suit as a whole. Fed. R.
+Civ. P. 23(b)(3); see Erica P. John Fund, 131 S. Ct. at
+2184.
+2. Respondent is the lead plaintiff in a securitiesfraud class action against Halliburton Co. and one of
+its officers (petitioners in this Court). Pet. App. 2a-3a.
+Respondent alleges that petitioners attempted to
+inflate Halliburton’s stock price by downplaying the
+company’s estimated asbestos liabilities, overstating
+the revenue in its engineering and construction business, and overstating the benefits of a merger. Id. at
+3a, 33a. Respondent further alleges that, after it purchased stock in Halliburton, petitioners made corrective disclosures about these matters that caused Halliburton’s stock price to decline. Ibid. Respondent
+sought to certify a class of all persons who had purchased Halliburton common stock within a specified
+time period. Id. at 2a-3a.
+The district court initially denied the classcertification motion. Pet. App. 54a-99a. The court
+explained that petitioner had failed to prove loss causation, and that circuit precedent required a plaintiff
+to prove that element in order to invoke the fraud-onthe-market presumption. Id. at 57a, 98a (citing Oscar
+Private Equity Invs. v. Allegiance Telecom, Inc., 487
+F.3d 261, 265 (5th Cir. 2007)). The court of appeals
+affirmed, holding that proof of loss causation is necessary to certify a class relying on the fraud-on-themarket presumption. Id. at 32a-53a.
+
+5
+
+This Court reversed. See Erica P. John Fund, supra. The Court held that a class-action plaintiff who
+invokes the fraud-on-the-market presumption need
+not prove loss causation to obtain class certification
+because that element is not relevant to whether “reliance was capable of resolution on a common, classwide
+basis.” 131 S. Ct. at 2183-2184.
+3. On remand, the district court certified the class.
+Pet. App. 26a-31a. The court rejected petitioners’
+argument that respondent must show price impact to
+obtain class certification in a fraud-on-the-market
+case. Id. at 30a.
+Petitioners appealed. While their appeal was pending, this Court held in Amgen that a plaintiff relying
+on the fraud-on-the-market presumption need not
+prove materiality in order to obtain class certification.
+See 133 S. Ct. at 1193, 1195, 1197. The Court explained that “materiality can be proved through evidence common to the class,” and that a failure to
+prove materiality will “end the case for one and for
+all,” not leave a case in which individual questions of
+law and fact predominate over common ones. Id. at
+1195-1196.
+4. The court of appeals affirmed. Pet. App. 1a-22a.
+Relying on Amgen, the court explained that price
+impact—the “measure of the effect of a misrepresentation on a security’s price”—is “an objective inquiry”
+that relies upon evidence “common to the class.” Id.
+at 16a. The court further explained that there is no
+“risk that a later failure of proof on the common question of price impact will result in individual questions
+predominating” over common ones, because if class
+members cannot establish price impact, they cannot
+
+6
+
+prove loss causation and damages, essential elements
+of a securities-fraud claim. Id. at 17a-18a.
+SUMMARY OF ARGUMENT
+
+I. More than 25 years ago, this Court held in
+Basic Inc. v. Levinson, 485 U.S. 224 (1988), that a
+plaintiff in a private securities-fraud action may rely
+on the fraud-on-the-market presumption to establish
+reliance. That presumption rests on the commonsense premise that public, material information about
+a publicly-traded company affects the price of the
+company’s stock. The presumption also reflects the
+view that investors, in deciding whether to buy publicly-traded securities, may reasonably assume that the
+market price has not been tainted by material misinformation. Congress had precisely that understanding when it enacted the Securities Exchange Act of
+1934. Congress has ratified the private securitiesfraud cause of action, and it has consistently declined
+to disturb the fraud-on-the-market presumption.
+Petitioners identify no good reason to overrule
+Basic’s fraud-on-the-market holding. The fraud-onthe-market presumption has proved workable, and its
+essential premises remain sound. Academic debate
+about the efficient-market hypothesis has not undermined the presumption. Congress has declined to
+disturb the presumption but instead has taken it as
+given while enacting measures designed to curb potential abuses in private securities-fraud suits. The
+Court therefore should reject petitioners’ request to
+upset this settled and sensible presumption.
+II. If the plaintiff in a securities-fraud suit establishes that the defendant’s alleged misstatements
+were disseminated to the public, and that the relevant
+stock was traded on an efficient market, he need not
+
+7
+
+additionally prove price impact in order to obtain class
+certification. The question whether particular statements affected the market price of a publicly-traded
+stock will have the same answer for every class member. And if class members establish public dissemination and the efficiency of the market, but are ultimately unable to prove price impact, their claims will fail
+together because they will not be able to prove loss
+causation. Petitioners’ arguments are virtually indistinguishable from those that the Court rejected in
+Amgen Inc. v. Connecticut Retirement Plans & Trust
+Funds, 133 S. Ct. 1184 (2013). The judgment of the
+court of appeals should be affirmed.
+ARGUMENT
+I. 	 THE FRAUD-ON-THE-MARKET PRESUMPTION IS AN
+APPROPRIATE WAY FOR A PLAINTIFF IN A PRIVATE SECURITIES-FRAUD ACTION TO DEMONSTRATE RELIANCE
+A. The Basic Court Properly Recognized That A Private
+Securities-Fraud Plaintiff May Invoke The Fraud-OnThe-Market Presumption To Establish Reliance
+
+1. In Basic Inc. v. Levinson, 485 U.S. 224 (1988),
+the Court explained that the reliance element of a
+private Section 10(b) suit establishes “the requisite
+causal connection between a defendant’s misrepresentation and a plaintiff ’s injury.” Id. at 243. The Court
+further observed that there is “more than one way to
+demonstrate the causal connection.” Ibid. The Court
+explained that “[t]he modern securities markets, literally involving millions of shares changing hands daily,
+differ from the face-to-face transactions contemplated
+by early fraud cases, and our understanding of Rule
+10b-5’s reliance requirement must encompass those
+
+8
+
+differences.” Id. at 243-244 (footnote omitted); see
+Blue Chip Stamps v. Manor Drug Stores, 421 U.S.
+723, 744-745 (1975) (“[T]he typical fact situation in
+which the classic tort of misrepresentation and deceit
+evolved was light years away from the world of commercial transactions to which Rule 10b-5 is applicable.”).
+The plaintiffs in Basic alleged that the defendants
+had made public misstatements about a stock traded
+on a large, well-developed market. The Court held
+that, in such a suit, a plaintiff who did not personally
+read or hear the alleged misstatements may prove the
+reliance element of a Section 10(b) suit by showing
+that the market processed the misstatements into the
+market price at which he purchased the security. 485
+U.S. at 243, 247. The Court explained that, when an
+investor buys stock on a well-developed market, “the
+market is interposed between seller and buyer” and
+the market performs “the valuation process” for the
+investor. Id. at 244 (quoting In re LTV Sec. Litig., 88
+F.R.D. 134, 143 (N.D. Tex. 1980)). The Court held
+that, because material information about a security is
+accounted for in a market price, and because “[a]n
+investor who buys or sells stock at the price set by the
+market does so in reliance on the integrity of that
+price,” courts may presume that an investor who buys
+stock on a well-developed market indirectly relies on
+public, material misstatements made about that stock.
+Id. at 244, 247.
+2. The fraud-on-the-market presumption reflects
+two sound (and related) overarching premises about
+the operation of developed securities markets. The
+first is that material, publicly-disseminated information about stock traded on such a market generally
+
+9
+
+influences the stock’s price. See Basic, 485 U.S. at
+246 (stating that “[r]ecent empirical studies have
+tended to confirm Congress’ premise that the market
+price of shares traded on well-developed markets
+reflects all publicly available information, and, hence,
+any material misrepresentations”). When information
+about a company is released publicly, market professionals assess that information to determine whether
+and how it should influence their trading decisions.
+Id. at 244, 248. Thus, even when a stock purchaser is
+unaware of a particular public statement that is relevant to the stock’s value, that statement may appropriately be viewed as a legal cause of the market price
+the buyer pays to acquire the stock.
+Second, the decision in Basic reflects the additional
+premise that investors typically do, and reasonably
+may, rely on the integrity of the market price, even
+when they lack the time or expertise to scrutinize the
+raw materials that inform the judgments of market
+professionals. The Basic Court observed that requiring proof of individualized reliance “would place an
+unnecessarily unrealistic evidentiary burden on [a]
+plaintiff who has traded on an impersonal market.”
+485 U.S. at 245. An important (though largely implicit) premise of the Basic opinion is that an investor who
+buys stock in reliance on the integrity of the market
+price, without reading all material public statements
+about the company, is behaving reasonably and in a
+manner consistent with congressional intent. The
+Court viewed the fraud-on-the-market presumption as
+furthering Congress’s policies in enacting the 1934
+Act, because “Congress expressly relied on the premise that securities markets are affected by information” when it “enacted legislation to facilitate an
+
+10 
+
+investor’s reliance on the integrity of those markets.”
+Id. at 245-246. The Court further explained that “it is
+hard to imagine that there ever is a buyer or seller
+who does not rely on market integrity. Who would
+knowingly roll the dice in a crooked crap game?” Id.
+at 246-247 (quoting Schlanger v. Four-Phase Sys.
+Inc., 555 F. Supp. 535, 538 (S.D.N.Y. 1982)).
+That concept of reasonable reliance is particularly
+sound because the scienter element of a Section 10(b)
+action significantly limits the circumstances under
+which investors may recover for market losses. A
+person who invests in the stock market assumes the
+risk that his trades may be unsuccessful for any number of reasons. The investor does not, however, assume the risk that the market price at which he
+bought or sold a security was tainted by fraud. See
+Basic, 485 U.S. at 246-247; cf. Dura Pharms., Inc. v.
+Broudo, 544 U.S. 336, 345 (2005) (explaining that
+federal securities laws make private suits available,
+“not to provide investors with broad insurance against
+market losses, but to protect them against those economic losses that misrepresentations actually cause”).
+To put it another way: by treating as reasonable the
+ordinary investor’s reliance on the integrity of the
+market price, the Court in Basic determined that such
+investors are fit subjects of the law’s protections, even
+if they have not personally read or heard the misrepresentations that caused that price to be distorted. 1
+1
+
+Petitioners suggest (Br. 27) that the Court in Basic adopted
+the fraud-on-the-market presumption in order to cause common
+issues to predominate and thereby facilitate class actions. That
+suggestion is unfounded. The Basic Court was reviewing the
+class-certification decisions of the courts below, see 485 U.S. at
+230, and it accordingly discussed the relationship between various
+
+11 
+
+3. The Basic Court adopted a legal presumption,
+not a particular economic theory. The Court relied on
+the premises (described above) that “the market price
+of shares traded on well-developed markets reflects
+all publicly available information, and, hence, any
+material misrepresentations,” and that an investor
+who buys or sells stock generally “rel[ies] on the integrity of [the market] price.” 485 U.S. at 246, 247.
+But the Court did not purport to determine how
+quickly or how accurately markets process information. Instead, the Court recognized the existence
+of ongoing academic debate over such matters, but
+concluded that the debate did not call into question
+the two fundamental premises underlying the presumption. Id. at 246-247 & n.24, 248 n.28; see pp. 2425, infra. The Court also made clear that the defendant may rebut the presumption of reliance by showing
+that either or both of those premises are untrue in a
+particular case. 485 U.S. at 248-249. The mode of
+proof approved in Basic simply reflects the presump-
+
+methods of proving reliance and the requirements of Rule 23, see
+id. at 242. The Court’s rationales for adopting the fraud-on-themarket presumption, however, contain no reference to the desirability of encouraging class actions. See id. at 243-249. Petitioners
+rely primarily (Br. 27) on language in the Basic opinion that described the district court’s class-certification analysis. See 485
+U.S. at 242. But while the district court in Basic observed that the
+fraud-on-the-market presumption would have the practical effect
+of facilitating class actions, it agreed with a prior court that the
+“[j]ustification for the use of a presumption in open market transactions need not, and indeed should not, be premised on the bringing of the 10b-5 suit as a class action.” 86-279 Pet. App. at 129a
+(quoting Tucker v. Arthur Andersen & Co., 67 F.R.D. 468, 480
+(S.D.N.Y. 1975)).
+
+12 
+
+tive view that information affects market prices and
+that investors reasonably rely on those prices.
+The reliance element of a private Section 10(b)
+claim serves to establish “the causal connection” between the defendant’s misstatements and the plaintiff ’s injury. Basic, 485 U.S. at 243. That explanation
+accords with longstanding common-law principles. In
+tort actions generally, the plaintiff must prove a
+“causal connection between the wrongful conduct and
+the resulting damage.” William L. Prosser, Handbook
+of the Law of Torts 714 (4th ed. 1971). In cases involving fraudulent misrepresentations, that causal connection is established by showing that the misrepresentation “induce[d] * * * the plaintiff to act.” Ibid.;
+accord 3 Restatement (Second) of Torts § 546, cmt. a,
+at 102 (1979).
+Given the natural and well-recognized tendency of
+public material misrepresentations to affect the price
+of stocks traded on a developed market, the Court
+appropriately determined that either direct or indirect
+reliance could establish the requisite causal link.
+Basic, 485 U.S. at 243; see Affiliated Ute Citizens v.
+United States, 406 U.S. 128, 154 (1972) (considering
+whether there was a sufficient connection to “establish
+the requisite element of causation in fact”). The
+Court’s authority to define reliance in that way was
+particularly clear because, until the decision in Basic,
+the Court had not determined whether a private
+securities-fraud plaintiff must prove reliance at all.
+See Basic, 485 U.S. at 243 (resolving that uncertainty); cf. Donald C. Langevoort, Basic at Twenty: Rethinking Fraud on the Market, 2009 Wis. L. Rev. 151,
+157 (explaining that the Court in Basic could have
+reached the same result by holding “that causation
+
+13 
+
+was the only requirement, with reliance as one (but
+not necessarily the only) way of demonstrating a causal link between the lie and harm to the plaintiff  ”).2
+The fraud-on-the-market presumption does not apply to every private Section 10(b) suit, but only when
+the defendant is alleged to have “made public, material misrepresentations” about stock sold “in an impersonal, efficient market.” Basic, 485 U.S. at 248 (quoting court of appeals’ decision); see Erica P. John
+Fund, Inc. v. Halliburton Co., 131 S. Ct. 2179, 2185
+(2011) (explaining that plaintiff seeking to invoke the
+presumption must establish an efficient market and
+public statements). And even when those prerequisites are initially satisfied, defendants may disprove
+the asserted causal link between the alleged misrepresentations and any asserted injury to the plaintiff
+by showing (for example) that the stock’s price was
+not affected by the defendant’s statement or that the
+plaintiff “would have traded despite his knowing the
+statement was false.” Basic, 485 U.S. at 248; see id. at
+248-249 (providing other examples). The Basic presumption therefore sensibly reflects the realities of
+modern securities markets.
+
+2
+
+Indirect reliance is not limited to the cases identified in Basic.
+See 485 U.S. at 243. An individual may purchase stock based on
+the recommendation of his broker or a stock-tip newsletter.
+Under petitioners’ view, if the broker who made the recommendation was misled by the company’s misrepresentations, but the
+investor who bought the stock was unaware of those specific
+statements, the investor would be left without a remedy, even
+though he relied on the statements through the broker. Yet the
+common law has long recognized such concepts of indirect reliance.
+See 3 Restatement (Second) of Torts §§ 533, 534, at 72, 76.
+
+14 
+
+B. The Fraud-On-The-Market Presumption Is Consistent
+With Congressional Intent And Common-Law Fraud
+Principles
+
+1. The Securities Exchange Act of 1934, ch. 404,
+48 Stat. 881 (15 U.S.C. 78a et seq.), reflects Congress’s
+understanding that information affects stock prices in
+well-developed markets and that investors rely on the
+integrity of market prices. In the decades preceding
+the Act, false statements disseminated to the securities markets had undermined the integrity of prices
+and eroded investor confidence. See S. Rep. No. 1455,
+73d Cong., 2d Sess. 30-45 (1934) (Second Senate Report); see also, e.g., Christopher Branda, Jr., Note,
+Manipulation of the Stock Markets Under the Securities Laws, 99 U. Pa. L. Rev. 651, 665 (1951).
+A particular focus of Congress’s concern was the
+widespread manipulation of securities prices by
+groups of investors known as “pools.” Second Senate
+Report 30-31. Pool members engaged in concerted
+activity to raise the price of a stock, drum up interest
+in the company, then sell their stock at a profit. Id. at
+31; see Charles Amos Dice, The Stock Market 428-432
+(1928). To achieve their objectives, pools utilized an
+array of manipulative and deceptive devices, including
+disseminating false, positive information about the
+stock in order to entice buyers. Second Senate Report
+32, 41; S. Rep. No. 792, 73d Cong., 2d Sess. 8 (1934)
+(First Senate Report); H.R. Rep. No. 1383, 73d Cong.,
+2d Sess. 10-11 (1934) (House Report). The pools were
+able to profit at the expense of unwitting investors
+because the markets processed the false or misleading
+statements into (inflated) stock prices. See First
+Senate Report 8; Twentieth Century Fund, Inc., Stock
+Market Control 118 (Evans Clark et al. eds., 1934).
+
+15 
+
+Once the pool operators stopped manipulating the
+stock price, the price would drop, and “[t]he public
+[was] the loser.” Twentieth Century Fund, Inc., The
+Security Markets 502-503 (Alfred L. Bernheim &
+Margaret Grant Schneider eds., 1935).
+2. Congress enacted the 1934 Act to stop those
+manipulative practices, ensure price integrity, and
+restore the public’s faith in the Nation’s capital markets. See House Report 10-11. In particular, Congress sought to ensure that prices reflect the “free
+and honest balancing of investment demand with investment supply” rather than false information. Id. at
+10; see Second Senate Report 30 (“The true function of
+an exchange is to maintain an open market for securities, where supply and demand may freely meet at
+prices uninfluenced by manipulation and control.”).
+In describing the need for regulation, the 1934 Act
+observed that “the prices of securities” on the national
+exchanges and markets had been “susceptible to manipulation and control,” harming the national economy. § 2(2)-(3), 48 Stat. 882 (15 U.S.C. 78b(2)-(3)). Two
+provisions of the Act focused on preventing that manipulation: Section 9, which prohibited certain categories of manipulative practices, and Section 10(b),
+which prohibited the use, in connection with the purchase or sale of a security, of any other “manipulative
+or deceptive device or contrivance” made unlawful by
+SEC rules and regulations. §§ 9, 10(b), 48 Stat. 889891 (15 U.S.C. 78i, 78j(b)); see Steve Thel, The Original Conception of Section 10(b) of the Securities Exchange Act, 42 Stan. L. Rev. 385, 430 (1990).
+Section 9 prohibited a buyer or seller from making
+“false or misleading” statements to induce the purchase or sale of a security, and it provided a right of
+
+16 
+
+action to persons who “purchase[d] or s[old] a[] security at a price which was affected by such act or transaction,” Act § 9(a)(4) and (e), 48 Stat. 890 (now codified at 15 U.S.C. 78i(a)(4) and (f )).3 Those provisions
+reflected the same premises that underlie the fraudon-the-market presumption. Congress recognized in
+1934 that markets process information into a price,
+and that false information undermines the integrity of
+that price, to the detriment of investors who trade on
+the understanding that market prices reflect the free
+interplay of supply and demand. House Report 10-11.4
+And in Section 9(e), Congress created a private right
+of action through which investors who purchase stock
+at a price affected by a false statement may recover
+for that fraud.5
+3
+
+The prohibition imposed by Section 9(a)(4) applies only to persons who buy or sell (or offer to buy or sell) securities. See 15
+U.S.C. 78i(a)(4). By contrast, Section 10(b) and Rule 10b-5 prohibit all material misstatements made in connection with the purchase
+or sale of securities, see 15 U.S.C. 78j(b); 17 C.F.R. 240.10b-5(b),
+including misstatements made by persons who are neither purchasers nor sellers.
+4
+Section 9(a)(4) appeared alongside other provisions that prohibited transactions designed to give a false appearance of active
+trading, see, e.g., 15 U.S.C. 78i(a)(1)-(2), reflecting Congress’s
+understanding that false statements affect prices through the
+market mechanism in the same way that fictitious trades affect
+prices.
+5
+Congress also relied on the premise that markets process information into the price in Section 11 of the Securities Act of 1933,
+which permits any person who has acquired a security to sue for
+misrepresentations in a registration statement, see ch. 38, § 11, 48
+Stat. 82 (15 U.S.C. 77k), because even though these statements
+“may never actually have been seen by the prospective purchaser,”
+they “determine the market price of the security” on account of
+“their wide dissemination.” H.R. Rep. No. 85, 73d Cong. 1st Sess.
+
+17 
+
+3. These principles reflected in the 1934 Act had
+their origins in the common law. In an early fraud
+case involving market-traded securities, an English
+court held that false rumors of Napoleon’s death—
+circulated by those seeking to raise the price of securities issued by the British government—constituted “a
+fraud levelled against all the public” because the rumors affected market prices, harming those who purchased at a distorted price. Rex v. DeBerenger, (1814)
+105 Eng. Rep. 536 (K.B.) 537-538. Other English
+courts similarly found defendants liable for damages
+after they disseminated false information to the market in order to “induce the public to purchase their
+shares at a price which they were not justified to ask.”
+Stainbank v. Fernley, (1939) 59 Eng. Rep. 473 (Ch.)
+476-477; see Bedford v. Bagshaw, (1859) 157 Eng.
+Rep. 951 (Exch. Div.) 956.
+By the time of the 1934 Act, American courts and
+scholars had accepted these concepts. One contemporary scholar explained that, “where the effect of [a]
+statement was to create a false valuation or appraisal
+by the entire market, and the buyer relied upon the
+state of the market, he had, at second hand as it were,
+relied on the statement itself.” A.A. Berle, Jr., Liability for Stock Market Manipulation, 31 Colum. L. Rev.
+264, 269-270 (1931) (citing Ottinger v. Bennett, 96
+N.E. 1123 (N.Y. 1911) (per curiam), and Ridgley v.
+Keane, 119 N.Y. Supp. 451 (N.Y. App. Div. 1909)); see
+James Wm. Moore & Frank M. Wiseman, Market
+10 (1933); see William O. Douglas & George E. Bates, The Securities Act of 1933, 43 Yale. L.J. 171, 176 (1933) (plaintiff who “buys in
+the open market * * * may be as much affected by the concealed
+untruths or the omissions as if he had read and understood the
+registration statement”).
+
+18 
+
+Manipulation and the Exchange Act, 2 U. Chi. L.
+Rev. 46, 65-77 (1934) (citing cases); see also William O.
+Douglas, Protecting the Investor, 23 Yale Rev. 522,
+524 (1934) (explaining, in the context of registration
+statements, that “[t]he judgment of [market] experts
+will be reflected in the market price”). As one court
+held the year before the 1934 Act was enacted,
+“[w]hen an outsider, a member of the public, reads the
+price quotations of a stock listed on an exchange, he is
+justified in supposing that the quoted price is an appraisal of the value of that stock due to a series of
+actual sales between various persons dealing at arm’s
+length in a free and open market.” United States v.
+Brown, 5 F. Supp. 81, 85 (S.D.N.Y. 1933), aff ’d, 79
+F.2d 321 (2d Cir.), cert. denied, 296 U.S. 650 (1935).
+The court further explained that, if the market is
+manipulated to raise the price of a stock, “an outsider
+[who] buys in that market * * * obviously pays
+more * * * than he would have paid in a free and
+open market, and hence is a victim of unfair dealing by
+the insiders.” Ibid.
+When Congress enacted the 1934 Act, courts accepted that “[a] statement made in a public marketplace, though not directed to a specific buyer, nevertheless could reasonably be assumed to affect buyers”
+because “the market mechanism transmits representations widely” to investors through the price. A.A
+Berle, Jr., Stock Market Manipulation, 38 Colum. L.
+Rev. 393, 394 (1938); see S.S. Huebner, The Stock
+Market 38 (rev. ed. 1934). It thus was well-recognized
+that “securities markets are affected by information”
+(Basic, 485 U.S. at 246), and that spreading false information about a publicly-traded stock could seriously harm even those investors who were unaware of the
+
+19 
+
+specific statements used to manipulate markets. And
+while pre-1934 investors harmed by such misstatements could not necessarily recover through private
+suits, the 1934 Act was enacted to “rectify perceived
+deficiencies in the available common-law protections.”
+Herman & MacLean v. Huddleston, 459 U.S. 375,
+388-389 (1983).
+4. Petitioners contend (Br. 12-14) that, to ensure
+that the implied private right of action under Section
+10(b) furthers the purposes of the 1934 Congress, the
+Court should look to the express private right of action created by Section 18(a) of the Exchange Act.
+Under Section 18(a), a person who makes a false or
+misleading statement in “any application, report, or
+document” filed under the Act or an SEC rule or regulation is liable for damages caused to a person “who, in
+reliance upon such statement, shall have purchased or
+sold a security at a price which was affected by such
+statement.” 15 U.S.C. 78r(a). Petitioners state (Br.
+13) that Section 18(a) “expressly requires actual reliance,” and that the indirect reliance discussed in
+Basic therefore should be deemed insufficient in a
+Section 10(b) suit.
+Petitioners’ reliance on Section 18(a) is misplaced.
+Although Section 18(a) limits recovery to plaintiffs
+who buy or sell stock “in reliance upon” the defendant’s false or misleading statement, it does not specify
+the type of reliance required or state whether indirect
+reliance through the market price will suffice. 15
+U.S.C. 78r(a). The same argument that petitioners
+now put forward was advanced by the dissenting Justices in Basic, see 485 U.S. at 257-258 (White, J., concurring in part and dissenting in part), and it did not
+persuade the Court then.
+
+20 
+
+In any event, Section 9 of the 1934 Act provides a
+closer analogue to Section 10(b) than does Section
+18(a). Sections 9 and 10 were both designed to address the manipulation of securities prices. Section 9
+prohibited certain categories of manipulative practices, and Section 10(b) was a “catch-all” that authorized
+the SEC to prohibit any other manipulative or deceptive practices. Hearing on H.R. 7852 and H.R. 8720
+before the House Comm. on Interstate & Foreign
+Commerce, 73d Cong., 2d Sess. 115 (1934) (statement
+of Thomas Corcoran); see Ernst & Ernst v. Hochfelder, 425 U.S. 185, 203 (1976) (describing Section 10(b)
+“as a ‘catchall’ clause”). Congress thus ensured that
+“[t]he resourceful and unscrupulous traders who think
+up schemes not specifically condemned by section 9”
+would “find themselves at best only one jump ahead of
+the Commission.” John Hanna, The Securities Exchange Act of 1934, 23 Cal. L. Rev. 1, 17 (1934). Consistent with that understanding, this Court has interpreted Section 10(b) by reference to Section 9. See
+Ernst & Ernst, 425 U.S. at 201-206, 209 n.28.
+Section 9(a)(4) prohibited a buyer or seller from
+making “false or misleading” statements to induce the
+purchase or sale of a security, 15 U.S.C. 78i(a)(4), and
+Section 9(e) authorized “any person” who bought or
+sold stock “at a price which was affected by” a manipulative practice prohibited by Section 9 to sue for
+“damages sustained as a result.” 15 U.S.C. 78i(f ). An
+investor’s right to sue under Section 9(e) was not
+made contingent on proof that the investor subjectively relied upon, or even was aware of, the defendant’s
+false or misleading statements. That provision is
+instructive here for two related reasons. First, Section 9 reflects Congress’s understanding that material
+
+21 
+
+misstatements about a company, by affecting the
+market price at which the company’s stock is sold,
+may injure even investors who were unaware of those
+misstatements. See pp. 15-16, supra. Second, Congress viewed that causal chain between prohibited
+manipulation and ultimate economic loss as sufficient
+to justify liability in a private damages action, without
+requiring proof of direct reliance. The fraud-on-themarket presumption rests on the same principles.
+C. Congress 	Has Acquiesced In The Fraud-On-TheMarket Presumption
+
+In the 25 years since Basic, Congress has repeatedly acted to refine the Section 10(b) private right of
+action. The Private Securities Litigation Reform Act
+of 1995 (PSLRA), Pub. L. No. 104-67, 109 Stat. 737,
+imposed a variety of procedural and substantive limitations on securities-fraud litigation, including class
+actions. Congress “recognized that although private
+securities-fraud litigation furthers important publicpolicy interests,” such as “deterring wrongdoing and
+providing restitution to defrauded investors,” private
+lawsuits had “also been subject to abuse.” Amgen Inc.
+v. Connecticut Ret. Plans & Trust Funds, 133 S. Ct.
+1184, 1184, 1200 (2013) (citing H.R. Conf. Rep. No.
+369, 104th Cong., 1st Sess. 31-32 (1995)). Congress
+added a variety of new requirements for private actions, including heightened pleading requirements, 15
+U.S.C. 78u-4(b)(1)-(2); automatic stays of discovery
+pending resolution of motions to dismiss, 15 U.S.C.
+78u-4(b)(3)(B); safe harbors for forward-looking
+statements, 15 U.S.C. 78u-5; and mandatory sanctions
+for abusive litigation, 15 U.S.C. 78u-4(c). Congress
+subsequently “fortified the PSLRA” (Amgen, 133
+S. Ct. at 1200) in the Securities Litigation Uniform
+
+22 
+
+Standards Act of 1998, Pub. L. No. 105-353, 112 Stat.
+3227 (SLUSA), which prevents private securitiesfraud plaintiffs from avoiding the PSLRA’s requirements by proceeding under state law. See Merrill
+Lynch, Pierce, Fenner & Smith Inc. v. Dabit, 547 U.S.
+71, 81-83 (2006).
+In both the PSLRA and SLUSA, Congress refined
+the contours of the private right of action without
+modifying, curtailing, or eliminating the fraud-on-themarket presumption. Indeed, Congress specifically
+“rejected calls to undo the fraud-on-the-market presumption of classwide reliance endorsed in Basic.”
+Amgen, 133 S. Ct. at 1201. An early version of the
+legislation that became the PSLRA included a provision that would have overturned Basic’s fraud-on-themarket presumption by requiring a plaintiff to prove
+that he “had actual knowledge of and actually relied
+on” a false or misleading statement. H.R. 10, § 204,
+104th Cong., 1st Sess. (1995). Hearings were held on
+the bill, and multiple witnesses testified in support of
+eliminating the fraud-on-the-market presumption.
+See Common Sense Legal Reform Act: Hearings
+before the Subcomm. on Telecommunications & Finance of the House Comm. on Commerce, 104th
+Cong., 1st Sess., 92, 236-237, 251-252, 272 (1995).
+Rather than overturn the fraud-on-the-market presumption, however, Congress placed other, more
+narrowly-tailored limitations on the private cause of
+action to target specific abuses that it had observed
+post-Basic.
+“It is appropriate for [the Court] to assume that
+when [the PSLRA] was enacted, Congress accepted
+the § 10(b) private cause of action as then defined but
+chose to extend it no further.” Stoneridge Inv. Part-
+
+23 
+
+ners, LLC v. Scientific-Atlanta, 552 U.S. 148, 165-166
+(2008). Overruling Basic now would upset the careful
+balance Congress struck in the PSLRA and SLUSA,
+and it would radically alter the way in which private
+Section 10(b) suits are litigated. Meritorious private
+securities-fraud actions are “an essential supplement to
+criminal prosecutions and civil enforcement actions”
+brought by the Department of Justice and the SEC.
+Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S.
+308, 313 (2007). And while petitioners do not ask this
+Court to abrogate the private right of action altogether,
+a requirement that every private Section 10(b) plaintiff
+must prove direct, individualized reliance would substantially diminish the compensatory and deterrent effect of
+the private remedy. If that step is to be taken at all, it
+should be taken by Congress.
+D. Academic 	Debate About The Efficient-Market Hypothesis Has Not Undercut The Fraud-On-The-Market
+Presumption
+
+1. Petitioners’ primary contention (Br. 14-22) is
+that the Court should abandon the fraud-on-themarket presumption because of academic debate regarding the efficient-market hypothesis. That argument is mistaken.
+Both the fraud-on-the-market presumption and the
+efficient-market hypothesis rest on the uncontroversial premise that markets process publicly available
+information about a company into the company’s stock
+price. Compare Basic, 485 U.S. at 241-242, with, e.g.,
+Bradford Cornell, Corporate Valuation: Tools for
+Effective Appraisal and Decision Making 38-39
+(1993). The Court in Basic used that understanding
+as part of the rationale for a legal presumption, which
+plaintiffs must support with case-specific evidence,
+
+24 
+
+and which defendants may rebut. 485 U.S. at 242.
+Under the rubric of the efficient-market hypothesis,
+economists have treated that general understanding
+as a jumping-off point for academic debate about
+precisely how quickly markets process information
+into a price that accurately reflects the value of the
+security.
+Economists debate these questions in order to determine when investors can take advantage of arbitrage opportunities. The “weak” version of the efficient-market hypothesis is that “prices incorporate
+information in a way that prevents the historical pattern of prices from being used to predict changes in
+price,” so that “only someone with new information
+can make a trading profit.” Schleicher v. Wendt, 618
+F.3d 679, 684-685 (7th Cir. 2010) (Easterbrook, J.).
+The “semi-strong” version adds that “the value of new
+information is itself reflected in prices quickly after
+release, so that only the first recipient of this information (or someone with inside information) makes a
+profit.” Id. at 685. And the “strong” version adds that
+prices reflect private as well as public information, so
+that even an inside trader cannot outperform other
+investors, In re Polymedica Corp. Sec. Litig., 432
+F.3d 1, 10 n.16 (1st Cir. 2005), and “that the price set
+in this way is right,” in that it “accurately reflects the
+firm’s value.” Schleicher, 618 F.3d at 685.
+The Basic Court recognized that “economists and
+social scientists,” using “sophisticated statistical analysis” and “economic theory,” had debated the precise
+scope and contours of the efficient-market hypothesis.
+485 U.S. at 246-247 n.24, 248 n.28. The Court concluded, however, that it was not necessary to resolve that
+debate in order to approve the fraud-on-the-market
+
+25 
+
+presumption. Ibid. Rather, the Court found it sufficient that “market professionals generally consider
+most publicly announced material statements about
+companies, thereby affecting stock market prices.”
+Ibid. The Court accordingly made clear that it was
+not “adopt[ing] any particular theory of how quickly
+and completely publicly available information is reflected in market price.” Id. at 248 n.28.
+2. The soundness of the fraud-on-the-market presumption does not depend on whether, when prices
+react to information, they reach a “correct” value such
+that no trading strategy can beat the market. Barbara Black, Behavioral Economics and Investor Protection, 44 Loy. U. Chi. L.J. 1493, 1502-1504 (2013); see
+Schleicher, 618 F.3d at 685. Whatever the state of
+academic debate on that particular question, there is
+widespread agreement on the basic point that public
+disclosure of material information generally affects
+the prices of securities traded on efficient markets.
+See Schleicher, 618 F.3d at 685; see also Langevoort,
+2009 Wis. L. Rev. at 161-162. Even the most vocal
+critics of the efficient-market hypothesis do not dispute that markets generally process information into
+the stock’s price, and any challenge to that understanding would call into question the integrity of the
+entire market. E.g., Robert J. Shiller, We’ll Share the
+Honors, and Agree to Disagree, N.Y. Times, at BU6
+(Oct. 27, 2013) (“Of course, prices reflect available
+information.”).
+To be sure, the fraud-on-the-market presumption
+depends not only on the generally accepted empirical
+proposition that public material information affects
+prices, but also on the Basic Court’s further determination that this causal link is sufficient to justify a
+
+26 
+
+damages recovery in a private lawsuit. That determination in turn rested partly on the Basic Court’s view
+of proximate causation, and partly on its view that
+investors may reasonably rely on the integrity of the
+market price. Those aspects of the Basic Court’s
+analysis, however, clearly are conclusions of law, to
+which the current economic debate regarding the
+efficient-market hypothesis is altogether irrelevant.
+3. The Basic framework is flexible enough to accommodate criticisms of the presumption and to allow
+defendants to present evidence that markets may not
+process specific information for specific securities or
+at specific times. See Pet. Br. 16-22. No one believes
+that markets perfectly process information: if markets instantaneously processed all public information
+into a price, no investor would have an incentive to
+analyze that information. See Sanford J. Grossman &
+Joseph E. Stiglitz, On the Impossibility of Informationally Efficient Markets, 70 Am. Econ. Rev. 393,
+404-405 (1980). Nothing in Basic prevents a defendant from presenting evidence—at the classcertification or merits stage—that the market for a
+particular security did not adequately perform its
+information processing function at a particular time or
+for particular news. But petitioners declined to make
+such a challenge here. See J.A. 753.
+E. Stare Decisis Principles Counsel Strongly In Favor Of
+Reaffirming Basic’s Fraud-On-The-Market Holding
+
+Under the doctrine of stare decisis, the Court generally does not overrule one of its prior decisions
+absent a special justification. See, e.g., Payne v. Tennessee, 501 U.S. 808, 827 (1991). In the area of statutory interpretation, where the “legislative power is
+implicated,” Patterson v. McLean Credit Union, 491
+
+27 
+
+U.S. 164, 172-173 (1989), stare decisis “has special
+force, for Congress remains free to alter what [the
+Court has] done.” John R. Sand & Gravel Co. v.
+United States, 552 U.S. 130, 139 (2008) (internal quotation marks and citation omitted). And when such a
+precedent has stood for several decades, it “enhance[s] even the usual precedential force” that the
+Court accords to its prior interpretation of statutes.
+Watson v. United States, 552 U.S. 74, 82-83 (2007)
+(citation omitted).
+Principles of stare decisis apply with special force
+here. Basic has been the law for more than 25 years.
+During that period, Congress has ratified the implied
+cause of action recognized by this Court, while adjusting the contours of that cause of action to reflect particular concerns raised in fraud-on-the-market cases.
+Congress considered the option of overriding the
+presumption, and it declined to take that step.
+Petitioners contend (Br. 25-27) that Basic has been
+undermined by recent decisions of this Court construing the requirements for class certification under
+Federal Rule of Civil Procedure 23. That is incorrect.
+“[F]raud on the market is a substantive doctrine of
+federal securities-fraud law that can be invoked by”
+both individual and class plaintiffs. Amgen, 133 S. Ct.
+at 1193. Contrary to petitioners’ contention (Br. 25),
+nothing in Basic suggests that the court in a private
+Section 10(b) suit may presume that the requirements
+for class certification have been met. Rather, in determining whether “questions of law or fact common
+to class members predominate over any questions
+affecting only individual members,” Fed. R. Civ. P.
+23(b)(3), the court must consider what forms of proof
+will be sufficient to establish liability under the appli-
+
+28 
+
+cable substantive law. The fraud-on-the-market presumption increases the likelihood that common issues
+will predominate, but it does not relieve the plaintiff of
+the burden of establishing the prerequisites to class
+certification. Cf. note 1, supra.6
+The foundations of the fraud-on-the-market presumption are as solid today as they were in 1985, and, for that
+matter, in 1934. And it remains true that without the
+fraud-on-the-market presumption, private plaintiffs who
+trade on large, impersonal markets would face “unnecessarily unrealistic evidentiary burden[s]” that ignore
+market realities. Basic, 485 U.S. at 245. Petitioners
+therefore have not articulated the special justification
+that this Court requires before it will depart from a
+longstanding statutory-interpretation precedent. Overruling Basic would substantially diminish the compensatory and deterrent effect of the private Section
+10(b) right of action, and it could have a more general
+destabilizing effect as well, since “[t]o overturn a
+decision settling one * * * matter simply because
+[the Court] might believe that decision is no longer
+‘right’ would inevitably reflect a willingness to reconsider others.” John R. Sand & Gravel, 552 U.S. at
+139.
+
+6
+
+By way of analogy, a plaintiff who seeks a preliminary injunction must demonstrate his entitlement to that relief. See, e.g.,
+Winter v. NRDC, 555 U.S. 7, 20 (2008). In determining whether
+the plaintiff has established the requisite likelihood of success on
+the merits (see ibid.), however, a court must take into account the
+relevant substantive law, including any applicable presumptions.
+A court that found that the plaintiff was likely to prevail on the
+merits, based in part on the availability of a presumption useful to
+the plaintiff ’s case, would not impermissibly “presume” the plaintiff ’s entitlement to injunctive relief.
+
+29 
+
+II.	 WHEN PLAINTIFFS IN A PRIVATE SECURITIESFRAUD ACTION INVOKE THE FRAUD-ON-THEMARKET PRESUMPTION, THEY NEED NOT PROVE,
+AND DEFENDANTS MAY NOT REBUT, PRICE IMPACT AT THE CLASS-CERTIFICATION STAGE
+
+A. Under Federal Rule of Civil Procedure 23(a),
+the named plaintiff must show the familiar requirements of numerosity, commonality, typicality, and
+adequacy of representation. The party seeking certification also must establish that the proposed class fits
+into one of the categories described in Rule 23(b). See
+Wal-Mart Stores, Inc. v. Dukes, 131 S. Ct. 2541, 2551
+(2011).
+In this case, respondent has argued that class certification is appropriate under Rule 23(b)(3) because the
+suit is one in which “questions of law or fact common
+to class members predominate over any questions
+affecting only individual members.” Fed. R. Civ. P.
+23(b)(3); see Pet. App. 5a-6a. The predominance inquiry “tests whether proposed classes are sufficiently
+cohesive to warrant adjudication by representation.”
+Amchem Prods. Inc. v. Windsor, 521 U.S. 591, 623
+(1997). To satisfy Rule 23(b)(3), a plaintiff must establish that the elements of the cause of action are “capable of proof at trial through evidence that is common
+to the class rather than individual to its members.” In
+re Hydrogen Peroxide Antitrust Litig., 552 F.3d 305,
+311-312 (3d Cir. 2008).
+B. It is “common ground” that, to obtain class certification based on the fraud-on-the-market presumption, the plaintiff in a securities-fraud class action
+must prove (1) “that the alleged misstatements were
+publicly known”; (2) that “the stock traded in an efficient market”; and (3) that the class members’ trans-
+
+30 
+
+actions “took place between the time the misrepresentations were made and the time the truth was revealed.” Erica P. John Fund, 131 S. Ct. at 2185 (internal quotation marks and citation omitted); see
+Basic, 485 U.S. at 241-242.7 If the plaintiff establishes
+those facts, the element of reliance will be subject to
+common proof, whether or not the plaintiffs ultimately
+succeed on that or any other element of their claim.
+In this case, petitioners conceded that the market
+for Halliburton stock is efficient, Pet. App. 55a-56a,
+and they do not dispute that the alleged misstatements were made publicly and that class members
+purchased Halliburton stock during the relevant interval. Instead, they contend (Br. 49-53) that respondent must prove price impact at class certification
+in order to show that common issues predominate.
+Petitioners are mistaken.
+“ ‘Price impact’ simply refers to the effect of a misrepresentation on a stock price,” i.e., that a false or
+misleading statement has caused the stock price to be
+higher or lower than it would have been if the truth
+had been known. Erica P. John Fund, 131 S. Ct. at
+2187. A material misrepresentation may “propel the
+stock’s price upward” or simply “slow the rate of fall.”
+Schleicher, 618 F.3d at 683-684. Although price impact is not a freestanding element of a private securities-fraud claim, see, e.g., Amgen, 133 S. Ct. at 11911192, it is integrally related to the element of loss
+causation. Unless the alleged misstatements impacted
+7
+
+As the Court explained in Amgen, the last of those requirements “relates primarily to the Rule 23(a)(3) and (a)(4) inquiries
+into typicality and adequacy of representation,” rather than to the
+question of predominance under Rule 23(b)(3). 133 S. Ct. at 11981199.
+
+31 
+
+the stock price, the plaintiff will be unable to show
+that he relied on a distorted price and suffered losses
+when the truth came to light. See Pet. App. 13a-14a.
+For two reasons, however, proof of price impact is
+not a prerequisite to class certification. First, price
+impact “can be proved through evidence common to
+the class.” Amgen, 133 S. Ct. at 1195. Because the
+relevant “price” for this purpose is the market price of
+a publicly-traded security, the question whether any
+price impact occurred (and, if so, how great that impact was) will necessarily have the same answer for all
+class members. Pet. App. 16a. Second, there is no
+risk that a failure to prove price impact “will result in
+individual questions predominating.” Amgen, 133
+S. Ct. at 1196. If a class is certified and the factfinder
+ultimately concludes that petitioners’ alleged misrepresentations did not affect the price of Halliburton
+stock, all plaintiffs will lose on the merits because they
+will be unable to prove (at least) the element of loss
+causation. Thus, although price impact is not a freestanding element of a private Section 10(b) claim (Pet.
+Br. 51), a failure of proof on price impact will have the
+practical effect of “end[ing] the litigation and thus will
+never cause individual questions of reliance or anything else to overwhelm questions common to the
+class.” Amgen, 133 S. Ct. at 1196.
+Petitioners contend (Br. 51-52) that, although an
+eventual failure of proof on price impact would render
+the fraud-on-the-market presumption unavailable,
+individual plaintiffs might still retain viable claims. If
+that were so, certification of a class without a finding
+on price impact would create a risk that individual
+issues would later come to predominate. Petitioners
+do not explain, however, how a plaintiff who has
+
+32 
+
+proved publicity and an efficient market (fraud-onthe-market predicates that must be established at
+class certification and have been established in this
+case), but who is ultimately unable to prove price
+impact, could have any viable securities-fraud claim
+remaining. 8 That is especially true because, when a
+plaintiff has established an efficient market but cannot establish price impact, a likely inference is that
+the alleged misstatements are not material, see Pet.
+App. 18a n.10, and materiality need not be proved at
+class certification. Amgen, 133 S. Ct. at 1196.
+Accordingly, the individualized issues that “hypothetically might arise” if respondent cannot ultimately
+prove impact “are far more imaginative than real.”
+Amgen, 133 S. Ct. at 1197. If the defendant in a particular Section 10(b) suit identifies a plausible casespecific reason to view this chain of events as a reasonable possibility, the district court can take that
+danger into account in determining whether common
+issues predominate. But the bare possibility that such
+a case might someday arise does not justify a severely
+disproportionate requirement that plaintiffs in every
+securities-fraud class action must establish price impact at class certification. Petitioners “have approached this case as if class certification is proper
+only when the class is sure to prevail on the merits,”
+but Rule 23 does not require that showing; instead, it
+requires plaintiffs to establish that common issues
+predominate over individual ones. Schleicher, 618
+F.3d at 685.
+
+8
+
+The cases petitioners cite (Br. 52) address the entirely different situation of non-market (rather than open-market) transactions, where the fraud-on-the-market presumption does not apply.
+
+33 
+
+At bottom, petitioners’ argument on price impact is
+not meaningfully distinguishable from the arguments
+this Court rejected in Amgen. Price impact, like materiality, is an objective inquiry that “can be proved
+through evidence common to the class.” 133 S. Ct. at
+1195-1196. And failure of proof of price impact, like
+failure to prove materiality, “would end the case for
+one and for all,” rather than leaving claims “in which
+individual reliance issues could potentially predominate.” Id. at 1196.
+C. Just as a plaintiff in a private securities-fraud
+suit is not required to prove price impact at class
+certification, a defendant in such an action may not
+rebut price impact at the class-certification stage.
+The appropriate inquiry at class certification is
+whether the plaintiff has met the requirements of
+Rule 23, and a district court may “inquir[e] into the
+merits of a suit” only to the extent necessary “to determine the propriety of certification.” Wal-Mart, 131
+S. Ct. at 2552 n.6 (quoting Eisen v. Carlisle &
+Jacquelin, 417 U.S. 156, 177 (1974)). Proof that particular statements had no effect on the market price of
+Halliburton stock would not suggest that individualized issues will predominate over common ones. Instead, if a plaintiff has established market efficiency
+and publicity but cannot show price impact, all class
+members’ claims will fail.
+Petitioners contend (Br. 53-55) that they should be
+permitted to disprove price impact at class certification because such rebuttal evidence, if credited, would
+“erase[] any possibility that there could be classwide
+reliance via reliance on a distorted market price.” The
+Court in Amgen rejected a closely analogous argument. The defendants there argued that, even if a
+
+34 
+
+plaintiff proceeding under the fraud-on-the-market
+presumption was not required to prove materiality to
+certify a class, the defendants should be allowed to
+present rebuttal evidence on that issue. 133 S. Ct. at
+1203. The Court responded that, “just as a plaintiff
+class’s inability to prove materiality creates no risk
+that individual questions will predominate, so even a
+definitive rebuttal on the issue of materiality would
+not undermine the predominance of questions common
+to the class.” Id. at 1204. So too here, proof that the
+alleged misrepresentations did not impact the stock
+price would not cause “individual reliance questions to
+overwhelm questions common to the class” because all
+class members’ claims would “fail[] on their merits,
+thus bringing the litigation to a close.” Id. at 1196,
+1203-1204.
+In this case, as in Amgen, petitioners’ efforts to adjudicate the merits of respondent’s claim are “properly addressed at trial or in a ruling on a summaryjudgment motion.” Amgen, 133 S. Ct. at 1197. And
+petitioners’ various policy arguments (Br. 39-49) about
+the burdens imposed by class actions should be directed to Congress, because the federal courts “have
+no warrant to encumber securities-fraud litigation” by
+adding to the requirements imposed by Rule 23.
+Amgen, 133 S. Ct. at 1201-1202.
+
+35 
+
+CONCLUSION
+
+The judgment of the court of appeals should be affirmed.
+Respectfully submitted.
+ANNE K. SMALL
+General Counsel
+MICHAEL A. CONLEY
+Deputy General Counsel
+JACOB H. STILLMAN
+Solicitor
+JEFFREY A. BERGER
+Senior Litigation Counsel
+Securities and Exchange
+Commission
+
+FEBRUARY 2014
+
+DONALD B. VERRILLI, JR.
+Solicitor General
+MALCOLM L. STEWART
+Deputy Solicitor General
+NICOLE A. SAHARSKY
+Assistant to the Solicitor
+General
+
+APPENDIX
+
+
+1. 15 U.S.C. 78j provides, in pertinent part:
+Manipulative and deceptive devices
+
+It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of
+interstate commerce or of the mails, or of any facility
+of any national securities exchange—
+* * * * *
+(b) To use or employ, in connection with the
+purchase or sale of any security registered on a national securities exchange or any security not so
+registered, or any securities-based swap agreement1 any manipulative or deceptive device or contrivance in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the
+protection of investors.
+* * * * *
+2. 17 C.F.R. 240.10b-5 provides, in pertinent part:
+Employment of manipulative and deceptive devices.
+
+It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of
+interstate commerce, or of the mails or of any facility
+of any national securities exchange,
+*
+1
+
+*
+
+*
+
+*
+
+*
+
+So in original. Probably should be followed by a comma.
+
+(1a)
+
+2a
+(b) To make any untrue statement of a material
+fact or to omit to state a material fact necessary in order to make the statements made, in the light of the
+circumstances under which they were made, not misleading * * * .
+* * * * *
+3. Federal Rule of Civil Procedure 23 provides, in pertinent part:
+Class Actions
+(a) 	Prerequisites. One or more members of a class may
+
+sue or be sued as representative parties on behalf of
+all members only if:
+
+(1) 	 the class is so numerous that joinder of all
+
+members is impracticable;
+
+(2)	 there are questions of law or fact common to
+
+the class;
+
+(3)	 the claims or defenses of the representative
+
+parties are typical of the claims or defenses of
+the class; and
+
+(4)	 the representative parties will fairly and ade-
+
+quately protect the interests of the class.
+
+(b) 	 Types of Class Actions. A class action may be main-
+
+tained if Rule 23(a) is satisfied and if:
+
+(1)	 prosecuting separate actions by or against in-
+
+dividual class members would create a risk of:
+
+(A)	 inconsistent or varying adjudications with
+
+respect to individual class members that
+would establish incompatible standards of
+
+3a
+conduct for the party opposing the class;
+or
+(B)	 adjudications with respect to individual
+
+class members that, as a practical matter,
+would be dispositive of the interests of the
+other members not parties to the individual adjudications or would substantially
+impair or impede their ability to protect
+their interests;
+
+(2)	 the party opposing the class has acted or re-
+
+fused to act on grounds that apply generally to
+the class, so that final injunctive relief or corresponding declaratory relief is appropriate respecting the class as a whole; or
+
+(3)	 the court finds that the questions of law or fact
+
+common to class members predominate over
+any questions affecting only individual members, and that a class action is superior to other
+available methods for fairly and efficiently adjudicating the controversy. The matters pertinent to these findings include:
+(A)	 the class members= interests in individual-
+
+ly controlling the prosecution or defense of
+separate actions;
+
+(B)	 the extent and nature of any litigation
+
+concerning the controversy already begun
+by or against class members;
+
+(C)	 the desirability or undesirability of con-
+
+centrating the litigation of the claims in
+the particular forum; and
+
+4a
+(D) the likely difficulties in managing a class
+
+action.
+
+(c) 	 Certification Order; Notice to Class Members; Judgment; Issues Classes; Subclasses.
+(1)	 Certification Order.
+(A)	 Time to Issue.
+
+At an early practicable
+time after a person sues or is sued as a
+class representative, the court must determine by order whether to certify the
+action as a class action.
+
+(B)	 Defining the Class; Appointing Class
+
+Counsel. An order that certifies a class
+action must define the class and the class
+claims, issues, or defenses, and must appoint class counsel under Rule 23(g).
+
+(C)	 Altering or Amending the Order. An or-
+
+der that grants or denies class certification may be altered or amended before final judgment.
+
+(2)	 Notice.
+(A)	 For (b)(1) or (b)(2) Classes. For any class
+
+certified under Rule 23(b)(1) or (b)(2), the
+court may direct appropriate notice to the
+class.
+
+(B)	 For (b)(3) Classes. For any class certified
+
+under Rule 23(b)(3), the court must direct
+to class members the best notice that is
+practicable under the circumstances, including individual notice to all members
+who can be identified through reasonable
+effort. The notice must clearly and con-
+
+5a
+cisely state in plain, easily understood language:
+(i)	
+
+the nature of the action;
+
+(ii)	
+
+the definition of the class certified;
+
+(iii)	 the class claims, issues, or defenses;
+(iv)	
+
+that a class member may enter an
+appearance through an attorney if
+the member so desires;
+
+(v)	
+
+that the court will exclude from the
+class any member who requests exclusion;
+
+(vi)	
+
+the time and manner for requesting
+exclusion; and
+
+(vii)	 the binding effect of a class judg-
+
+ment on members under Rule
+23(c)(3).
+
+Whether or not favorable to the
+class, the judgment in a class action must:
+
+(3)	 Judgment.
+
+(A)	 for any class certified under Rule 23(b)(1)
+
+or (b)(2), include and describe those whom
+the court finds to be class members; and
+
+(B)	 for any class certified under Rule 23(b)(3),
+
+include and specify or describe those to
+whom the Rule 23(c)(2) notice was directed, who have not requested exclusion,
+and whom the court finds to be class
+members.
+
+(4)	 Particular Issues. When appropriate, an action
+
+may be brought or maintained as a class action
+with respect to particular issues.
+
+6a
+(5)	 Subclasses. When appropriate, a class may be
+
+divided into subclasses that are each treated as
+a class under this rule.
+* * * * *
+
+

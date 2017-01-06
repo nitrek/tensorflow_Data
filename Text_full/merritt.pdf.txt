@@ -1,0 +1,944 @@
+No. 03-7978
+_________________________
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+
+Michael M. Merritt, et al.,
+Plaintiffs-Appellants,
+v.
+Merrill Lynch & Co., et al.,
+Defendants-Appellees.
+
+On Appeal from the United States District Court
+for the Southern District of New York
+
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION, AMICUS CURIAE,
+IN SUPPORT OF APPELLANTS ON ISSUE ADDRESSED
+
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+MARK PENNINGTON
+Assistant General Counsel
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+CHRISTOPHER PAIK
+Special Counsel
+Securities and Exchange Commission
+450 5th St. N.W.
+Washington, D.C. 20549-0606
+(202) 942-0928 (Pennington)
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION . . . . . . . 1
+ISSUE ADDRESSED BY THE COMMISSION . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+THE DISTRICT COURT DECISION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+STANDARD OF REVIEW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+THE FACT THAT INFORMATION COULD BE DISCOVERED
+SOMEWHERE IN THE PUBLIC DOMAIN DOES NOT MEAN THAT
+IT CAN NEVER BE MATERIALLY MISLEADING TO OMIT THAT
+INFORMATION FROM A DISCLOSURE DOCUMENT OR OTHER
+STATEMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+A.
+
+Both this Court and the Commission have recognized that
+mere public availability of information is not an absolute
+defense to a claim for failing to disclose “material”
+information. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+1.
+
+This Court has rejected the argument that public
+availability of information automatically means
+that the omission of that information from a
+disclosure document can never be materially
+misleading. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+2.
+
+Relying on this Court’s decisions, the Commission
+has also rejected the contention that public availability
+is an absolute defense to liability for non-disclosure . . . . . . . 13
+
+-i-
+
+TABLE OF CONTENTS (CONTINUED)
+Page
+3.
+
+The increased availability of information on the
+internet, including the Commission’s electronic
+disclosure system, does not change the result in
+United Paperworkers and Richmark . . . . . . . . . . . . . . . . . . . . 15
+
+B.
+
+With respect to Section 11 liability, the district court’s
+“public availability” approach is inconsistent with the
+provisions governing securities registration . . . . . . . . . . . . . . . . . . . 22
+
+C.
+
+The decisions relied upon by the district court do not
+support its conclusion that public availability of
+omitted information is an automatic defense to
+liability for its omission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+
+-ii-
+
+TABLE OF AUTHORITIES
+Cases
+
+Page
+
+Basic v. Levinson, 485 U.S. 224 (1988) . . . . . . . . . . . . . . . . . . . . . . . 8, 10 n. 7, 24
+Central Bank of Denver v. First Interstate Bank of Denver,
+511 U.S. 164 (1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Dunn v. Borta, 2004 U.S. App. LEXIS 9734 (4 th Cir. May 19, 2004) . . . . . . . 2 n. 1
+Ganino v. Citizen Utilities Co., 228 F.3d 154 (2d Cir. 2000) . . . . . . . . . . . . . 13-14
+Gustafson v. Alloyd, Co., 513 U.S. 561 (1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Herman & Maclean v. Huddleston, , 459 U.S. 375 (1983) . . . . . . . . . . . . . . . . . . 23
+Kapps v. Torch Offshore, Inc., No. 03-30227 (5 th Cir.) . . . . . . . . . . . . . . . . . . 2 n. 1
+In re Keyspan Corp. Sec. Litigation, 2003 U.S. Dist. LEXIS
+20746 (E.D.N.Y. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16-17 & n. 10
+Klein v. Gen. Nutrition Cos., 186 F.3d 338 (3d Cir. 1999) . . . . . . . . . 27-28 & n. 17
+Koppel v. 4987 Corp., 167 F.3d 125 (2d Cir. 1999) . . . . . . . . . . . . . . . . . . . . . . . . 9
+In re Merrill Lynch & Co., Inc. Research Reports Securities
+Litigation, 272 F. Supp. 2d 243 (S.D.N.Y. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . 3
+In re Merrill Lynch & Co. , Inc. Research Reports Securities
+Litigation, 2003 U.S. Dist. LEXIS 14175 (S.D.N.Y. 2003) . . . . . . . . . . . . . . . . . 6
+Press v. Quick & Reilly, Inc., 218 F.3d 121 (2d Cir. 2000). . . . . . . . . . . . . . . . . . . 9
+
+-iii-
+
+TABLE OF AUTHORITIES (CONTINUED)
+Cases (Continued)
+
+Page
+
+In re Richmark, No. 03-9954, 2003 SEC LEXIS 2680 (Nov. 7, 2003),
+aff’d mem. Richmark Capital Corp. v. SEC, 2004 U.S. App.
+LEXIS 2158 (5 th Cir. Feb. 10, 2004) . . . . . . . . . . . . . . . . . . 6, 10 n. 17, 14- 15, 17
+Securities and Exchange Commission v. Zandford, 535 U.S. 813 (2002) . . . . . .6-7
+Seibert v. Sperry Rand Corp., 586 F.2d 949 (2d Cir. 1978) . . . . . . . . . . . . . . . . 27
+TSC Industries, Inc. v. Northway, 426 U.S. 438 (1976) . . . . . . . . . . . . . . . . . 8, 10
+United Paperworkers International Union v. International
+Paper Co., 985 F.2d 119 (2d Cir. 1993) . . . . . . . . . . . . . . . . . 10-13 & n. 7, 17, 29
+United States v. Mead Corp., 533 U.S. 218 (2001) . . . . . . . . . . . . . . . . . . . . . . . . . 7
+United States v. Zandford, 535 U.S. 813 (2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Wielgos v. Commonwealth Edison Co., 892 F.2d 509 (7 th Cir. 1989) . . . . . . 28-29
+Statutes and Rules
+Securities Act of 1933, 15 U.S.C. 77a, et seq.
+Section
+Section
+Section
+Section
+Section
+
+5, 15 U.S.C. 77e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+8(d), 15 U.S.C. 77h(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 n. 15
+11(a), 15 U.S.C. 77k(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 n. 3
+12(a)(2), 15 U.S.C. 77l(a)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 3
+24, 15 U.S.C. 77x . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et. seq.
+Section 10(b), 15 U.S.C. 78j(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 16
+
+-iv-
+
+TABLE OF AUTHORITIES (CONTINUED)
+Statutes and Rules (Continued)
+
+Page
+
+Investment Company Act of 1940, 15 U.S.C. 80a, et seq.
+Section 30(e), 15 U.S.C. 80a-29(e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Section 34, 15 U.S.C. 80a-33(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 & n. 5
+Rule Under the Securities Act of 1933
+Rule 411(a), 17 C.F.R. 230.441(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Rules Under the Securities Exchange Act of 1934
+Rule 6-10(c)(1), Regulation S-X, 17 C.F.R. 210.6-10(c)(1) . . . . . . . 19 n. 12
+Rule 10b-5, 17 C.F.R. 240.10b-5. . . . . . . . . . . . . . . . . . . . . . . . . . . 6 n. 6, 16
+Rule 14a-9, 17 C.F.R. 240.14a-9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 n. 8
+Regulation FD, 17 C.F.R. 243.10-243.103 . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Commission Releases
+SEC Rel. No. 33-6499, 1983 SEC LEXIS 315 (Nov. 17, 1983) . . . . . . . . . 26
+SEC Rel. No. 33-7881, 2000 SEC LEXIS 1672 (Aug. 15, 2000) . . . 21 n. 13
+SEC Rel. No. 33-8427, 2004 SEC LEXIS 1153 (June 7, 2004) . . . 21 & n. 5
+Commission Forms
+General Instructions to Form N1-A . . . . . . . . . . . . . . . . . . . . . . . . 25 & n. 16
+Form S-3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26 n. 16
+Miscellaneous
+H.R. Rep. 85, 73d Cong., 1 st Sess. (1933) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Susannah Fox, Older Americans and the Internet (March 25, 2004) . . . . . . . . . . 22
+-v-
+
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+The district court in this case held that the provisions of the securities laws
+under which plaintiffs seek relief “do not require disclosure of publicly available
+information,” and that therefore defendants’ alleged failure to disclose information
+that appeared in the public domain could not be the basis for claims under the these
+provisions, even though the omitted information was alleged to be necessary to
+make other statements made by defendants not materially misleading. The district
+court did not address whether the undisclosed information was actually known to
+investors, or whether it was so widely disseminated in sources other than the
+prospectus at issue that its omission was not materially misleading to investors.
+The Securities and Exchange Commission, the agency responsible for the
+administration and enforcement of the federal securities laws, submits this brief as
+amicus curiae to urge that, contrary to the conclusion of the district court, the mere
+fact that information could be discovered somewhere in the public domain does not
+mean that the omission of that information from a prospectus or other statement is
+never materially misleading.
+The district court’s ruling in this regard departed from this Court’s long
+established views, and is also contrary to authority of the Commission relying on
+those views. If accepted as a correct interpretation of the applicable law, the
+
+-1-
+
+district court’s ruling would create substantial gaps in the fundamental protections
+extended to investors by the securities laws, and particularly by the Securities
+Act’s registration and disclosure requirements, gaps that were not intended by
+Congress. Moreover, although this case is a private action, the principles
+enunciated by the district court and urged by the defendants could also restrict the
+disclosure obligations enforced by the Commission in its own proceedings. 1
+ISSUE ADDRESSED BY THE COMMISSION
+Whether it is an absolute defense to a claim under the federal securities laws
+for failure to disclose information that the information was “publicly available,”
+i.e., that the information could have been discovered somewhere in the public
+domain by an investor who knew of the need to look for it, and who had the
+resources to locate and the ability to analyze it, without regard to whether the
+information was sufficiently publicly disseminated in those other sources that the
+omission was not materially misleading.
+1
+
+The proposition that the failure to disclose “publicly available”
+information can never be actionable is not unique to this case; that
+position has increasingly been raised as a defense. For instance, the
+Fourth Circuit Court of Appeals recently rejected it as a defense to a
+claim under a state law that is similar to Section 12(a)(2) of the
+Securities Act of 1933, 15 U.S.C. 77l(a)(2). See Dunn v. Borta, 2004
+U.S. App. LEXIS 9734 (4 th Cir. May 19, 2004). And the Commission
+has submitted a brief urging its rejection in a case brought under
+Section 11 of the Securities Act, 15 U.S.C. 77k, Kapps v. Torch
+Offshore, Inc., No. 03-30227 (5 th Cir.), which is awaiting decision.
+-2-
+
+THE DISTRICT COURT’S DECISION
+Plaintiffs, investors in defendant Merrill Lynch Global Technology Fund,
+allege that defendants violated the federal securities laws by making statements
+without disclosing information necessary to prevent the statements from being
+materially misleading. See In re Merrill Lynch & Co., Inc. Research Reports
+Securities Litigation, 272 F. Supp.2d 243, 246 (S.D.N.Y. 2003). 2 The district
+court granted defendants’ motion to dismiss on a variety of grounds, of which we
+address only one – relating to public availability of undisclosed information as a
+defense to a claim for material omissions.
+The district court ruled that Sections 11 and 12(a)(2) of the Securities Act
+“do not require disclosure of publicly available information.” Id. at 249-50. 3
+2
+
+The other defendants are the Fund’s directors; its investment adviser;
+Merrill Lynch & Co. Inc., the corporate parent of the adviser; and
+Merrill Lynch, Pierce, Fenner & Smith Inc. (Merrill Lynch), a brokerdealer affiliate of the Fund. 272 F.2d at 247-48.
+
+3
+
+Section 11(a) of the Securities Act authorizes a private action when a
+registration statement “includes any untrue statement of a material fact
+or omits to state any material fact required to be stated therein or
+necessary to make the statements therein not misleading,” unless it is
+proved that at the time of acquisition, the person “knew of such
+untruth or omission.” Section 12(a)(2) provides for liability when a
+security is offered or sold “by means of a prospectus or oral
+communication, which includes an untrue statement of a material fact
+or omits to state a material fact necessary in order to make the
+statements, in light of the circumstances under which they were made,
+(continued...)
+-3-
+
+Therefore, the court held, the defendants could not be held liable under Sections 11
+and 12(a)(2) of the Securities Act “for failing to disclose that [Merrill Lynch]
+provided investment banking services to companies in the Fund’s portfolio if that
+information was already public.” Id. at 249. The information “was already public”
+at the time plaintiffs bought their shares because the complaint contained a
+spreadsheet representing that Merrill Lynch performed investment banking
+services for about a third of the companies whose securities were held by the Fund.
+Id. at 250. The information in the spreadsheet was obtained by examining public
+documents filed with the Commission, including Fund filings that disclosed the
+Fund’s holdings at specific points in time, together with Commission filings for the
+companies in which the Fund invested, which disclosed the underwriting
+relationship. Id.
+The district court also concluded that defendants did not have to disclose
+alleged inherent conflicts of interest arising from the fact that Merrill Lynch
+analysts issued research reports about issuers for which Merrill Lynch either
+provided investment banking services, or hoped to provide those services. Id. at
+250-52. The court stated that “the information regarding the alleged conflict of
+
+3
+
+(...continued)
+not misleading (the purchaser not knowing of such untruth or
+omission).”
+-4-
+
+interest was public knowledge, and had been for years,” citing a number of
+newspaper articles dating back to 1995. Id.
+Finally, the district court ruled that defendants did not have to disclose that
+Merrill Lynch analysts “may have held contrary views regarding the stocks rated”
+because that information also “was public knowledge.” Id. at 252 n.7. The court
+quoted a single newspaper article in which a Merrill Lynch analyst observed of a
+security that was being upgraded, “I think it’s dead money for a while, but I want
+to differentiate it from all the pieces of [expletive] we have buys on.”
+
+4
+
+The district court applied this same reasoning to plaintiffs’ claim under
+Section 34(b) of the Investment Company Act, 15 U.S.C. 80a-33(b), ruling that
+“[t]he alleged omissions are not material” because “the information allegedly
+withheld from the shareholders was a matter of public knowledge.” Id. at 261. 5
+Similarly, it dismissed plaintiffs’ Section 10(b) and Rule 10b-5 claim on the
+ground, among others, that plaintiff had “failed to allege any facts and their
+4
+
+The district court observed that plaintiffs may have abandoned this
+allegation, but ruled that it would in any event not be viable for the
+reason stated.
+
+5
+
+Section 34(b) makes it “unlawful for any person to make any untrue
+statement of a material fact in any registration statement, application,
+report, account, record or other document filed or transmitted pursuant
+to this title” or to “omit to state therein any fact necessary in order to
+prevent the statements made therein, in the light of the circumstances
+under which they were made, from being materially misleading.”
+-5-
+
+particulars giving rise to” a duty to disclose allegedly omitted information, citing
+the section of the opinion containing the rulings discussed above. Id. 6 In a
+subsequent ruling on a motion to amend the complaint, the district court stated that
+the fund purchasers’ “proposed amended complaint does not show that the
+information cited [in the district court’s ruling] was not publicly available.” In re
+Merrill Lynch & Co., Inc. Research Reports Securities Litigation, 2003 U.S. Dist.
+LEXIS 14175 at **10 (S.D.N.Y. 2003).
+STANDARD OF REVIEW
+The Commission’s interpretation of the securities laws in a formal
+adjudication, including its interpretation in In re Richmark Capital Corp., No. 039994, 2003 SEC LEXIS 2680 (Nov. 7, 2003), aff’d sub nom. Richmark Capital
+Corp. v. SEC, 2004 U.S. App. LEXIS 2158 (5 th Cir. Feb. 10, 2004), of when an
+omission is materially misleading, is entitled to Chevron deference, which is to say
+that the Commission’s reasonable interpretation controls unless Congress has
+clearly and unambiguously addressed the question at issue. See, e.g., SEC v.
+
+6
+
+Rule 10b-5(b) makes it unlawful for any person, in connection with
+the purchase or sale of any security, “to make any untrue statement of
+a material fact or to omit to state a material fact necessary in order to
+make the statements made, in the light of the circumstances under
+which they were made, not misleading.”
+-6-
+
+Zandford, 535 U.S. 813 (2002); United States v. Mead Corp., 533 U.S. 218, 22627 (2001).
+ARGUMENT
+The fact that information could be discovered somewhere in the
+public domain does not mean that it can never be materially
+misleading to omit that information from a disclosure document
+or other statement.
+A.
+
+Both this Court and the Commission have recognized that mere public
+availability of information is not an absolute defense to a claim for
+failing to disclose “material” information.
+
+The disclosure duties imposed by the federal securities laws, like all the
+substantive requirements of those laws, are embodied in the statutes and the
+regulations adopted thereunder, and issues about the scope of those duties must be
+resolved in accordance with the language of the applicable provisions. See, e.g.,
+Central Bank of Denver v. First Interstate Bank of Denver, 511 U.S. 164, 173
+(1994) (with respect to the issue of “the scope of conduct prohibited by §10(b), the
+text of the statute controls our decision”). Nothing in the language of the
+provisions relied on by plaintiffs in this case creates an absolute defense based on
+the fact that the information is “publicly available.” Rather, each provision
+prohibits the failure to disclose any information necessary to make the information
+that is disclosed not materially misleading.
+
+-7-
+
+A fact is “material” “if there is a substantial likelihood that a reasonable
+shareholder would consider it important” in making an investment decision. Basic
+Inc. v. Levinson, 485 U.S. 224, 231, 234 (1988), quoting TSC Industries, Inc. v.
+Northway, 426 U.S. 438, 449 (1976). For an omission to be material, “there must
+be a substantial likelihood that the disclosure of the omitted fact would have been
+viewed by the reasonable investor as having significantly altered the ‘total mix’ of
+information made available.” Id. at 231-32. In other words, the “role of the
+materiality requirement” is “to filter out essentially useless information that a
+reasonable investor would not consider significant, even as part of a larger ‘mix’ of
+factors to consider in making an investment decision.” Id. at 234. A materiality
+challenge may be resolved on the pleadings if the plaintiff failed sufficiently to
+allege that the omissions were material misleading, and summary judgment may be
+granted if reasonable minds cannot differ on the question of whether they were so;
+otherwise, the issue is for the trier of fact. See TSC Industries, 426 U.S. at 438.
+
+-8-
+
+1.
+
+This Court has rejected the argument that public availability of
+information automatically means that the omission of that
+information from a disclosure document can never be materially
+misleading.
+
+This Court has made it clear that in determining whether an omission is
+materially misleading, it looks beyond the simple fact that information might be
+available from some public source, if a shareholder knew to look for the
+information, and had the resources to obtain it and the ability to analyze it once
+obtained. Instead, it has long taken the view, with which the Commission agrees,
+that “the ‘total mix’ includes only information ‘reasonably available to the
+shareholders.’" Koppel v. 4987 Corp., 167 F.3d 125, 131, 132 (2d Cir. 1999),
+quoting United Paperworkers International Union v. International Paper Co., 985
+F.2d 1190, 1198 (2d Cir. 1993) (emphasis added); see also Press v. Quick &
+Reilly, Inc., 218 F.3d 121, 130 (2d Cir. 2000) (total mix of information includes
+information reasonably available to the shareholders).
+As the Court has explained, the “purpose of looking at the sum of all
+information ‘reasonably available’ is to enable a registrant to rely on a ‘reasonable
+belief that the other party already has access to the facts to excuse him from new
+disclosures which reasonably appear to be repetitive.’" Koppel, 167 F.3d at 132,
+citing Seibert v. Sperry Rand Corp., 586 F.2d 949, 952 (2d Cir. 1978). This
+approach strikes the correct balance between ensuring adequate disclosure, on the
+-9-
+
+one hand, and avoiding the repetition of information that will not be useful to
+investors because it is already available to them, on the other. Application of this
+principle, however, requires rejection of any bright line rules, and instead requires
+a case-specific analysis of whether publicly available information is so widely
+disseminated in other sources that its omission from defendant’s disclosure was not
+materially misleading.
+This Court reviewed and synthesized its prior decisions on when the public
+availability of information excuses further disclosure of that information in United
+Paperworkers International Union v. International Paper Co., 985 F.2d 1190 (2d
+Cir. 1993), which was quoted in Koppel, and which was also a principal decision
+relied on by the Commission in its Richmark decision, which we discuss below. 7
+The defendant company in United Paperworkers had included in its proxy
+statement a “rather glowing description” of its environmental policies, but it had
+not disclosed anything about its actual record of compliance with environmental
+
+7
+
+While United Paperworkers was a proxy case, the definition of
+“material” is the same in the general antifraud provisions as in the
+provisions governing proxy solicitation. See Basic, 485 U.S. at 23132 (Rule 10b-5), adopting definition of materiality from TSC Indus.,
+Inc. v. Northway, Inc., 426 U.S. 438, 449 (1976) (proxy solicitation);
+In re Richmark Capital Corp., supra (applying United Paperworkers to
+securities fraud claim).
+-10-
+
+laws. 8 The Court concluded that the statement was “misleading absent a
+description of the Company’s record of environmental derelictions or noncompliance.” 985 F.2d at 1198. Defendants claimed, however, that the proxy
+statement was not misleading when read in conjunction with other information that
+was publicly available, including the company’s 10-K Report, which had been
+filed with the Commission, as well as press reports of environmental claims made
+against the company. 985 F.2d at 1197.
+The Court agreed with the broad proposition that “[i]n considering a claim
+of material omission in violation of Rule 14a-9 * * * the court ordinarily should
+not consider the proxy statement alone,” and that the “total mix” of information
+included “other information reasonably available” to shareholders. 985 F.2d at
+1198; see also id. at 1199 (the “total mix” of information “may also include
+‘information already in the public domain and facts known or reasonably available
+to the shareholders.’”). However, the Court cautioned, “not every mixture with the
+true will neutralize the deceptive,” and even information actually sent to
+shareholders “need not be considered part of the total mix reasonably available to
+
+8
+
+Exchange Act Rule 14a-9 prohibits the inclusion in a proxy statement
+of any statement “which, at the time * * * it is made, is false or
+misleading with respect to any material fact, or which omits to state
+any material fact necessary in order to make the statements therein not
+false or misleading.” 17 C.F.R. 240.14a-9.
+-11-
+
+them if the true is buried in unrelated discussions.” 985 F.2d at 1198-99, citing,
+inter alia, Virginia Bancshares, Inc. v. Sandberg, 501 U.S. 1083, 1096 (1991). Nor
+does the mere fact that a company has filed documents containing relevant factual
+information with a regulatory agency mean that the company has made adequate
+disclosure – “Corporate documents that have not been distributed to the
+shareholders entitled to vote on the proposal should rarely be considered part of the
+total mix of information reasonably available to those shareholders.” 985 F.2d at
+1199.
+The Court explained that when the subject of the proxy solicitation “has
+been widely reported in readily available media, shareholders may be deemed to
+have constructive notice of the facts reported,” and a court should consider this in
+determining whether representations or omissions are materially misleading. Id.
+But “the mere presence in the media of sporadic news reports does not give
+shareholders sufficient notice” that statements sent directly to them by the
+company may be misleading, “and such reports should not be considered to be part
+of the total mix of information that would clarify or place in proper context” the
+company’s statements. Id.
+The Court ruled that the newspaper articles in this case were “few in
+number, narrow in focus, and remote in time,” so that they were “properly
+
+-12-
+
+considered not to be part of the information that was reasonably available to
+shareholders.” 985 F.2d at 1199. And, while the Form 10-K had been filed with
+the Commission, it had not been distributed to shareholders, and nothing in the
+proxy statement or annual report that was distributed to them would have put a
+“reasonable shareholder” on notice that “additional information” pertinent to the
+proxy issues was available in the Form 10-K. Thus, the information in the Form
+10-K also was not part of the total mix of information reasonably available. Id.
+The Court has provided additional guidance on when an omission is not
+material because the information is sufficiently disclosed in other places in its
+discussion of the “truth-on-the-market” defense to a fraud on the market claim
+under Rule 10b-5. See Ganino v. Citizen Utilities Co., 228 F.3d 154, 167-68 (2d
+Cir. 2000). The truth on the market defense asserts that “a misrepresentation is
+immaterial if the information is already known to the market because the
+misrepresentation cannot then defraud the market.” 228 F.3d at 167. Here again,
+as it had in United Paperworkers, the Court rejected the notion that mere public
+availability, without any consideration of the quality or nature of the disclosure, is
+sufficient to render a misrepresentation or omission immaterial. Rather, “the
+corrective information must be conveyed to the public with a degree of intensity
+
+-13-
+
+and credibility sufficient to counter-balance effectively any misleading information
+created by the alleged misstatements.” Id.
+2.
+
+Relying on this Court’s decisions, the Commission has also
+rejected the contention that public availability is an absolute
+defense to liability for non-disclosure.
+
+In an administrative decision handed down in November 2003, the
+Commission followed this Court’s decisional law holding that public availability
+is not sufficient to render an omission of information that would otherwise have to
+be disclosed immaterial unless the information was already known or reasonably
+available to investors. See In re Richmark Capital Corp., supra. The Commission
+also agreed with the Court that merely because information was filed with the
+Commission did not mean that it was reasonably available. 2003 SEC LEXIS
+2680 at *23-*24.
+One issue in Richmark was whether the respondent broker-dealer had
+committed securities fraud when it failed to disclose an agreement that gave it a
+financial incentive to recommend certain securities to its customers. Respondent
+urged in its defense that the existence of the agreement had been disclosed in a
+press release, which resulted in the agreement being mentioned briefly in the Wall
+Street Journal and in an online news service report. The Commission rejected the
+claim that this disclosure had been adequate, citing United Paperworkers, 985 F.2d
+
+-14-
+
+at 1199, for the proposition that "the mere presence in the media of sporadic news
+reports" does not make them part of the "total mix" of available information.
+The respondents also claimed that the agreement had been adequately
+disclosed in a registration statement filed by the other party to the agreement;
+respondents noted that this statement was "a public document." The Commission
+rejected this argument as well, observing that respondents’ customers were not
+informed of the registration statement's existence, much less furnished with copies,
+and that under the circumstances, the filing of this document with the Commission
+did not place it in the "total mix" of information reasonably available to investors.
+The Commission again cited United Paperworkers, this time for the proposition
+that merely filing a document with a regulatory agency does not place the
+document in the"total mix" of information reasonably available to investors when
+the document was not distributed to shareholders or called to their attention.
+3.
+
+The increased availability of information on the internet,
+including the Commission’s electronic disclosure system, does
+not change the result in United Paperworkers and Richmark.
+
+A recent district court decision has suggested that one aspect of the holding
+in United Paperworkers – that the mere fact that information is contained in a
+Commission filing does not mean it is part of the total mix of information available
+– is no longer valid because of the increased availability to the public through the
+
+-15-
+
+internet of filings on the Commission’s Electronic Data Gathering Analysis and
+Retrieval (“EDGAR”) system. See In re Keyspan Corp. Sec. Litig., 2003 U.S.
+Dist. LEXIS 20746 (E.D.N.Y. 2003). We believe the district court in that case was
+incorrect in disregarding this Court’s precedent.
+Keyspan involved, inter alia, a series of allegedly fraudulent omissions to
+disclose adverse information arising from the fact that a company that the
+defendant issuer had acquired was subject to regulation under the Public Utility
+Holding Company Act (PUHCA), 15 U.S.C. 79a et seq. 2003 U.S. Dist. LEXIS
+20746, *5-*25. 9 The district court ruled that Commission filings made by the
+issuer should be considered part of the total mix of information reasonably
+available to investors, and that those filings made the alleged omissions not
+materially misleading. Id. at *43 n.6. The court thought that it was not bound by
+United Paperworkers, inter alia, because EDGAR has now made such filings more
+readily available than they had been in 1993, when United Paperworkers was
+decided. Id. This reasoning, however, misconceives the basis for the ruling in
+
+9
+
+The case was brought under Section 10(b) and Rule 10b-5, and did
+not involve claims under Sections 11 or 12(a)(2) of the Securities Act.
+-16-
+
+United Paperworkers, which was also the basis for the Commission’s decision in
+Richmark). 10
+Neither United Paperworkers nor Richmark suggests that some difficulty
+with locating or obtaining the relevant information was fundamental to the
+decision’s holding that under the circumstances of each case, information that had
+been disclosed somewhere in the public domain was not part of the “total mix” of
+information available to investors. Rather, the reason was that the information
+should not be considered part of the total mix of available information, even
+though it could conceivably have been discovered by an investor who knew to look
+for it, because it had not been so widely distributed that it was not materially
+
+10
+
+The district court in Keyspan also sought to distinguish United
+Paperworkers on the ground that it involved affirmative
+misrepresentations rather than merely omissions to disclose. 2003
+U.S. Dist. LEXIS 20746, *43 n. 6. We do not agree with that
+characterization, given this Court’s express statements in United
+Paperworkers that the company’s “rather glowing description” of its
+environmental policies was “misleading absent a description of the
+company’s record of environmental derelictions or non-compliance,”
+and that “in considering a claim of material omission” (emphasis
+added) the court is not ordinarily limited to the proxy statement alone.
+985 F.2d at 1198. In any event, we do not see a distinction in this
+context between the failure to disclose information that corrects an
+affirmative misstatement and the failure to disclose information that
+renders statements made not misleading. Whatever difference there
+might be in these two situations, the relevant issue here is whether the
+omission of the information is materially misleading to investors.
+-17-
+
+misleading to omit it, nor had it been delivered to investors or called to their
+attention.
+Investors should no more be expected to know all the information on
+EDGAR, or discoverable on the internet, than they would be expected to know all
+the information that could be found somewhere in the Library of Congress.
+Indeed, as noted, both this Court and the Supreme Court have held that even
+disclosure in the same document is insufficient if the disclosure is not made in a
+way that adequately informs investors. It is therefore unrealistic to suggest that
+investors are to be held responsible for knowing the entire contents of enormous
+databases.
+To take only EDGAR, it includes filings from approximately 5100 registered
+investment companies and nearly 12,000 operating companies. These entities file
+over 100,000 documents each year. The average size of each document was
+calibrated at 75 pages of ASCII text in 1997 but has risen since that time. 11 This
+huge mass of information provides important disclosure to the securities markets
+for those who know that they need to look for specific information, and who have
+the training and capacity to obtain and digest it. The mere presence of this
+information in EDGAR, however, does not mean that every investor should be held
+11
+
+If the entire internet is included, the amount of potentially
+discoverable information increases even more.
+-18-
+
+to know all of it. In fact, there are companies that market their ability to analyze
+the information disclosed in EDGAR; the existence of these companies is evidence
+that investors cannot readily do all the necessary research for themselves, even
+though the information is available to them.
+For instance, as noted, the district court held that the fact that Merrill Lynch
+provided investment banking services for about a third of the companies held by
+the Fund was publicly available because an investor could have obtained a list of
+the Fund’s holding from Fund filings, and could then have discovered the identity
+of each company’s investment bank from the company’s filings. 12 The court
+observed that plaintiffs included such a list in their complaint, which demonstrated
+to the court that the information was publicly available. Plaintiffs explained in
+their brief in this Court that compiling the list was a substantial task that required
+the expenditure of $7000 to access the necessary computer software services, as
+well as 245 hours of professional and paraprofessional services to compile the
+information. Br. 31-32. And this was just one issue out of the indefinitely large
+number of issues that could confront an investor deciding whether to make a
+
+12
+
+We note that an investor could not have determined what the Fund’s
+actual holdings were at the time of his purchase of shares in the Fund
+because the disclosure was required to be made twice a year. Section
+30(e) of the Investment Company Act, 15 U.S.C. 80a-29(e); Rule 610(c)(1) of Regulation S-X, 17 C.F.R. 210.6-10(c)(1).
+-19-
+
+particular investment. The district court did not appear to consider whether
+information that requires this much effort to obtain should be considered part of the
+total mix of information reasonably available to investors.
+The Commission has determined that for certain specific types of disclosure,
+it is sufficient that disclosure is made through an internet accessible medium, such
+as in a Commission filing, or on an issuer’s webpage. For instance, Regulation
+FD, 17 C.F.R. 243.100-243.103, requires the prompt “public disclosure,” by
+issuers of securities and those acting on behalf issuers, of material, nonpublic
+information that is being, or has been disclosed, to certain industry professionals or
+to holders of the security under circumstances in which it is reasonably foreseeable
+that the person will purchase or sell the security on the basis of the information.
+The Regulation further provides that one of the ways that an issuer may make
+“public disclosure” of that information is by filing a Form 8-K containing that
+information, which would then be accessible on EDGAR. Thus, the Commission
+made the judgment that disclosure of this sort of information through a Form 8-K
+sufficiently achieves the objectives of the Rule, namely to remedy the
+consequences of selective disclosure of material, nonpublic information to persons
+who are likely to trade on it. 13
+13
+
+Thus, in the Adopting Release for the Rule, the Commission
+(continued...)
+-20-
+
+In an adopting release amending Form N-1A, the Commission also recently
+made a determination that specified internet disclosure satisfies a specific
+requirement to disclose information in a mutual fund registration statement. The
+amendments, among other things, require a mutual fund to disclose in its statement
+of additional information ("SAI") any "ongoing arrangements to make available
+information about the fund's portfolio securities to any person." SEC Rel. No. 338427, 2004 SEC LEXIS 1153 (June 7, 2004), at *46-* 47. The fund need not
+disclose such an ongoing arrangement in the SAI, however, if it timely "makes [the
+information about its portfolio securities] available on its website" and "discloses
+in its prospectus the availability of the information on its website." Id. at *51-*52.
+The Commission expressly cautioned, however, that “[e]xcept where specifically
+provided by Commission rule, making information accessible on a website is not
+necessarily adequate disclosure under the federal securities laws.” Id. at *53 n.60.
+These carefully tailored rules permitting disclosure obligations to be
+satisfied by EDGAR filing or internet disclosure in certain circumstances do not
+
+13
+
+(...continued)
+explained that Form 8-K disclosure was permissible public disclosure
+“for purposes of Regulation FD.” SEC Rel. No. 34-43154, 2000 SEC
+LEXIS 1672 (Aug. 15, 2000). It did not suggest that this disclosure
+would satisfy all other disclosure obligations required under the
+securities laws.
+-21-
+
+mean that any information that can be found in these sources automatically may be
+omitted from disclosure under all circumstances. 14
+B.
+
+With respect to Section 11 liability, the district court’s “public
+availability” approach is inconsistent with the provisions governing
+securities registration.
+
+One striking consequence of a rule that public availability of information
+always excuses further disclosure would be a serious disruption of the registration
+requirements of the Securities Act. Issuers and others who now have a duty to
+make disclosure in registered offerings could escape those obligations simply by
+showing that the omitted information could be found somewhere in the public
+domain. This result is plainly at odds with the Congressional purpose in enacting
+these requirements, including the Commission and express private right
+enforcement mechanisms contained in the Act.
+
+14
+
+We also note that, while the Commission has increasingly relied on
+internet availability to make certain types of disclosure, it is still not
+the case that all investors have access to the internet. As of March,
+2004, for instance, nearly 75% of Americans have access to the
+internet from home. Press Release, Nielsen/Netratings, Three Out of
+Four Americans Have Access to the Internet (March 18, 2004)
+(available at www.nielsen-netratings.com). And in a February 2004
+survey, only 22% of American aged 65 or older reported having
+access to the Internet. Susannah Fox, Older Americans and the
+Internet (March 25, 2004), issued by the Pew Internet & American
+Life Project, www.pewinternet.org.
+-22-
+
+“The primary innovation of the 1933 Act was the creation of federal duties –
+for the most part, registration and disclosure obligations – in connection with
+public offerings.” Gustafson v. Alloyd, Co., 513 U.S. 561, 571 (1995). The Act
+requires issuers that wish to sell their securities to the public to file a registration
+statement with the Commission that contains mandatory disclosures of material
+information, and to deliver a copy of a prospectus that is part of the registration
+statement to investors. See Section 5, 15 U.S.C. 77e . Congress intended that the
+registration statement would contain “the basic information by which the public is
+solicited” to buy offered securities. H. R. Rep. 85, 73d Cong., 1 st Sess. (1933), at
+9.
+The Act also creates remedies for failure to comply with the disclosure
+requirements governing the statutorily mandated registration statement, including
+Section 11, one of the express private remedies relied on by plaintiffs in this case,
+which was designed “to assure compliance with the disclosure provisions of the
+Act by imposing a stringent standard of liability on the parties who play a direct
+role in a registered offering.” Herman & MacLean v. Huddleston, 459 U.S. 375,
+382 (1983). A plaintiff who acquires a security issued pursuant to a registration
+statement need only show a material misstatement or prohibited omission to
+establish his prima facie case. Once he has done so, “[l]iability against the issuer
+
+-23-
+
+of a security is virtually absolute, even for innocent misstatements. Other
+defendants bear the burden of demonstrating due diligence.” Id. 15
+The requirements of the Act would be substantially thwarted if any
+information that could be discovered in any public source could be left out of the
+mandatory disclosure document on the ground that it is automatically not material.
+Some of the consequences of allowing that omission have been discussed above.
+In addition, we note that if information is not material, then not only may it be
+omitted from a registration statement without creating liability, but, in addition,
+false statements about the information would not create liability. See Basic, 485
+U.S. at 249 (Court rejects “the proposition that ‘information becomes material by
+virtue of a public statement denying it’”) (internal quotation marks omitted).
+Thus, under the logic of the district court’s reasoning, it would have been
+lawful, without regard to any other facts and circumstances, for defendants to have
+misstated facts, to have omitted facts required to be stated by statute or regulation,
+as well as to omit facts necessary to make the statements they did make not
+
+15
+
+In addition to the issuer, other possible defendants include every
+person who signed the registration statement, directors of the issuer,
+and the underwriter of the security.
+The Act also provides Commission-enforced remedies for material
+misstatements and omissions in a registration statement. See Section
+8(d), 15 U.S.C. 77h(d).
+-24-
+
+misleading, so long as they could show that an alert and diligent investor with
+sufficient knowledge could have found corrective or supplementary information in
+other sources. Furthermore, holding the investor responsible for knowing any
+information he could have found upon further investigation contradicts the express
+statutory provision in Section 11 that a plaintiff may recover unless it is proven
+that he “knew” of the untruth or omission.
+The flaw in the district court’s approach with respect to Securities Act
+disclosure and prospectus delivery requirements is also demonstrated in another
+way. Generally, information required to be included in a prospectus may not be
+incorporated by reference from other Commission filings or other documents.
+General Instruction D.1.(a) to Form N1-A (mutual funds); Securities Act Rule
+411(a), 17 C.F.R. 230.411(a) (all issuers). However, under some circumstances,
+the Commission does permit issuers that meet certain requirements to incorporate
+into the prospectus by reference specified information from other filings made by
+the issuer with the Commission. 16 In those instances, the Commission requires the
+16
+
+In the narrow circumstances when incorporation by reference of
+information in another document is permitted in a mutual fund
+prospectus, the Commission also requires actual delivery of the
+incorporated document. General Instruction to Form N-1A D.1.(a),
+Items 6(f) and 8(b). The Commission does permit mutual funds to
+incorporate by reference into their prospectuses an SAI, which they
+are not required to deliver to investors with the prospectus, but the
+(continued...)
+-25-
+
+prospectus to identify the document that is incorporated by reference and to
+explain to investors how they may obtain a copy of the incorporated documents.
+These detailed rules concerning what companies may rely on incorporation
+by reference, and the circumstances under which that incorporation is permitted,
+would be entirely displaced if any information in a Commission filing is deemed
+sufficiently disclosed to all investors that the failure to include that information in a
+prospectus can never be a material omission. Under that view, the entire contents
+of EDGAR (or perhaps the internet) would be deemed incorporated into each
+prospectus – indeed, into every statement made by anyone about the issuer’s
+16
+
+(...continued)
+information that may be incorporated from an SAI does not include
+any information that is required to be included in the prospectus.
+General Instruction to Form N-1A D.1(b). Moreover, the funds are
+required to inform investors of the existence and availability of the
+SAI in their prospectuses. Form N-1A, Item 1(b).
+Issuers that meet certain criteria – those that have timely filed required
+reports with the Commission and that are widely followed in the
+marketplace – may omit from their prospectuses information that is
+found in other Commission filings, but they are required to state that
+these other documents are incorporated by reference. Item 12(a) of
+Form S-3; see SEC Rel. No. 33-6499, 1983 SEC LEXIS 315(Nov. 17,
+1983), Section IV.B.1. They are also required to state that they will
+provide copies of any incorporated documents at no cost to any person
+to whom a prospectus is delivered, upon written or oral request. Item
+12(c) of Form S-3. In addition, they must disclose that materials filed
+with the Commission may be obtained from the Commission’s Public
+Reference Room and from EDGAR on the Commission’s website.
+See, e.g., Note to Item 12(c)(1) of Form S-3.
+-26-
+
+securities. The incorporation would not be by reference, however, as there would
+be no indication in the prospectus or other statement to that effect, but would arise
+merely from the fact that the curative information existed in the database. The
+severe adverse consequences for the disclosure and prospectus delivery purposes
+of the Securities Act are obvious.
+C.
+
+The decisions relied upon by the district court do not support its
+conclusion that public availability of omitted information is an
+automatic defense to liability for its omission.
+
+The district court cited three decisions in support of the conclusion that the
+relevant provisions of the securities laws “do not require disclosure of publicly
+available information.” One of those decisions was from this Court, Seibert v.
+Sperry Rand Corp., 586 F.2d 949, 952 (2d Cir. 1978), which was cited for the
+proposition that “there is no duty to disclose information to one who reasonably
+should already be aware of it.” Seibert was cited in United Paperworkers, 985 F.2d
+at 1199, and the proposition quoted is, of course, consistent with the views
+expressed by the Court in that decision. The second decision was Klein v. Gen.
+Nutrition Cos., 186 F.3d 338, 343 (3d Cir. 1999), which held that an omission is
+not material if the omitted information is “obvious.” Again, this decision appears
+
+-27-
+
+to be consistent with the rule followed by this Court, as information that is
+“obvious” would be either known or reasonably available to investors. 17
+The third decision cited by the district court is Wielgos v. Commonwealth
+Edison, Co., 892 F.2d 509 (7 th Cir. 1989), a case under Section 11 of the Securities
+Act. Certain remarks in Wielgos seem to be the genesis for the idea that there is
+never a duty to disclose information that is publicly available, and so it is necessary
+to take a close look at what the Seventh Circuit did, and what it did not, say in that
+case.
+The two issues in Wielgos concerned whether defendant’s disclosure
+complied with certain Commission regulations. 892 F.2d at 512. The court did not
+resolve either of those issues on the ground that an issuer can never have a duty to
+disclose information that is in the public domain. 892 F.2d at 517 (“Our case may
+be decided, however, without regard to materiality.”) Rather, it decided the case
+based on the application of the specific language of the governing regulations to
+the allegations in the complaint. 892 F.2d at 512-17. Before specifically
+addressing each issue before it, however, the Wielgos court offered its thumbnail
+view of the general way in which the securities disclosure regime works. See 892
+17
+
+The court in Klein stated that “A determination of ‘materiality’ takes
+into account considerations as to the * * * [information’s] availability
+in the public domain * * *. Federal securities laws do not require a
+company to state the obvious.” 186 F.3d at 342-43.
+-28-
+
+F.2d at 515, 517. The district court seems to have treated the Wielgos court’s dicta
+as laying down the absolute rule, not tied to any specific language of any of the
+relevant provisions, that the securities laws never require disclosure of any
+information that is publicly available.
+This reading of the case is erroneous. In stating, for instance, that issuers do
+not have to disclose hazards of a business that are “apparent to all serious observers
+and most casual ones,” the court was not asserting that any information that could
+be found anywhere in a public source could be omitted. Nor should the statement
+that “[i]t is pointless and costly to compel firms to reprint information already in
+the public domain” be read to mean that the omission of any conceivably
+discoverable information cannot be materially misleading. Rather, as this Court
+explained in United Paperworkers, 985 F.2d at 1199, whether information is
+considered to be in the “public domain” for these purposes turns on whether it is so
+widely disseminated that it is known or reasonably available to investors.
+
+-29-
+
+CONCLUSION
+For the foregoing reasons, this Court should rule in accordance with the
+legal principles urged in this brief.
+Respectfully submitted,
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+MARK PENNINGTON
+Assistant General Counsel
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+CHRISTOPHER PAIK
+Special Counsel
+Securities and Exchange Commission
+450 5th St. NW
+Washington, D.C. 20549-0606
+202-942-0928 (PENNINGTON)
+
+June 2004
+
+-30-
+
+

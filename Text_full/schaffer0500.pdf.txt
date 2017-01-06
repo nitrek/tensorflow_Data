@@ -1,0 +1,1473 @@
+UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+
+Barbara Schaffer, Derivatively
+On behalf of LaserSight Incorporated,
+Plaintiff,
+
+v.
+
+No. 99 Civ. 2821 (VM)
+
+CC Investments, LDC, et aI.,
+Defendants.
+
+MEMORANDUM OF THE SECURITIES AND
+
+EXCHANGE COMMISSION, AMICUS CURIAE
+
+DAVIDM. BECKER (DB-4904)
+General Counsel
+ERIC SUMMERGRAD (ES-3628)
+Deputy Solicitor
+
+Of Counsel
+MEYER EISENBERG (ME-5871)
+Deputy General Counsel '
+
+ALLAN A. CAPUTE (AC-3578)
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+450 Fifth Street,N.W.
+Washington, D.C. 20549-0606
+(202) 942-0837 (Capute)
+
+TABLE OF CONTENTS
+
+
+ii
+
+
+TABLE OF AUTHORITIES
+~
+
+BACKGROUND .,
+
+.. 3
+
+
+A.	
+
+The Regulatory Scheme of Section 16 and Rule 16a-l(a)(I) .. :':-
+
+3
+
+B.
+
+Facts
+
+6
+
+
+.ARGUl\1ENT
+1.	
+
+THE COMMISSION ACTED WITHIN ITS AUTHORITY IN
+
+ADOPTING RULE 16a-l(a)(1). .
+A.	
+
+The Commission Had the Power to Define "Beneficial
+
+Owner" Under Its Rulemaking and Definiti~nal Authority
+
+in Sections 3(b) and23(a) ofthe Exchange Act.
+I.	
+
+~ 9
+
+
+9
+
+
+10
+
+
+The Commission Had Authority to Promulgate Rule
+
+16a-l(a)(I) Under Section 3(b). .
+;
+
+12
+
+
+The Commission Did Not Need A Special Grant of
+
+Rulemaking Authority in Section 16(b) Itself.
+
+13
+
+
+Rule 16a-l(a)(1) Is Necessary or Appropriate to Carrying
+
+Out, and Is Consistent with the Provisions and Purposes of,
+
+Section 16(b)
+
+15
+
+
+3.	
+
+B.	
+
+9
+
+
+The Commission Had Authority to Promulgate Rule
+
+16a-l(a)(I) Under Section 23(a). .
+
+2.	
+
+ll.	
+
+'
+
+THE APPLICATION OF A GROUP CONCEPT OF BENEFICIAL
+
+OWNERSHIP UNDER SECTION 16 IS 'CONSISTENT WITH THE
+
+LEGISLATIVE HISTORY OF THAT PROVISION. .
+
+CONCLUSION	
+
+23
+
+29
+
+
+-1­
+
+TABLE OF AUTHORITIES
+
+Cases
+~
+
+Bateman Eichler, Hill Richards, Inc. v. Berner, 472 U.S. 299(1985)
+~
+
+CBI Inc. v. Horton, 682 F.2d 643 (7th Cir. 1982) .;
+
+2
+
+. . . . . . .. 20
+
+Chevron, U.S.A., Inc. v. Natural Resources Defense Council, Inc.,
+."
+467 U.S. 837 (1984) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 16, 17 .
+Continental Oil Co. v. Perlitz, 176 F. Supp. 219 (S.D. Tex. 1959)
+C.R.A. Realty Corp. v. Goodyear Tire & Rubber Co.,
+705 F. Supp. 972 (S.D.N.Y.), affd without opinion,
+888 F.2d 125 (2d Cir. 1989)
+
+10, 16
+
+~
+
+Falcon Trading v. SEC, 102 F.3d 579 (D.C. Cir. 1996)
+
+. 20
+9
+
+FDA v. Brown & Williams Tobacco Corporation, _ U.S. _,
+120 S. Ct. 1291 (2000)
+
+17
+
+Foremost-McKesson, Inc~ v. Provident Securities Co., 423 U.S. 232 (1976)
+GAP Corp. v. Milstein, 453 F.2d 709 (2d Cir. 1971)
+
+4,21
+18
+
+Gollust v. Mendell, 501 U.S. 115 (1991)
+
+4
+
+J.1. Case Co. v. Borak, 377 U.S. 426 (1964)
+
+~
+
+2
+
+Lerner v. Millenco, 23 F; Supp. 337(S.D.N.Y. 1998) ..... C • • • • • • • • • • • • • • • • • • • • 21
+Lockheed Aircraft Corp. v. Rathman, ·106 F. Supp. 810 (S~D. Cal. 1952)
+
+10
+
+Manessor Southwestern Railway Co. v. Morgan, 486 U.S. 330 (1988)
+
+28
+
+Meyer v. Chesapeake Ins. Co., Ltd., 877 F.2d 1154 (2d. Cir. 1989),
+cert denied, 493 U.S. 1021 (1990)
+
+21
+
+-11­
+
+TABLE OF AUTHORITIES (CONTINUED)
+Cases (Continued)
+Mendell v. Gollust, 793 F. Supp. 474 (S.D.N.Y.), affd without opinion,
+983 F.2d 1048 (1992)
+Morales v. Freund, 163 F.3d 763 (2d. Cir. 1999)
+
+4,20
+
+:
+
+21
+
+.
+
+'.
+
+Mourning v. Family Publications, Inc., 411 U.S. 356 (1973)
+
+....................• 16
+
+
+Nationsbank ofNorth Carolina v. Variable Annuity Life Ins. Co.,
+513 U.S. 251 (1995)
+
+16, 17
+
+NLRB v. Bell Aerospace Co., 416 U.S. 267 (1974)
+
+28
+~
+
+Reliance Electric Co. v. Emerson Electric Co., 404 U.S. 418 (1972) .. , ."
+Rothenberg v. Jacobs, [1989 Transfer Binder] Fed. Sec. L. Rep.
+(CCH) ~94,199 (S.D.N.Y. Jan. 11, 1989), affd. without opinion,
+888 F.2d 126 (2d Cir. 1989)
+Securities Industry Assoc. v. Board of Governors of the
+Federal Reserve System, 468 U.S. 207 (1984)
+Schaffer v. Soros, No. 92 Civ. 1233 (LMM), 1994 WL 381442
+(S~D.N~Y. July 20, 1994), vacated in part on other grounds, "
+1994 WL 592891 (S.D.N.Y. Oct. 31, 1994)
+StrauSs v. American Holdings, Inc., 902 F. Supp.475 (S.D.N.Y. 1995)
+" Strauss v. Kopp Investment Advisors Inc., [1999 Transfer Binder]
+Fed. Sec. L. Rep. (CCH) ~90,666, 1999 WL 787818 (S.D.N.Y.
+" Sept. 20, 1999)
+Thorpe v. Housing Authority of the City ofDurham,
+393 U.S. 268 (1969)
+
+-lll­
+
+;
+
+4
+
+20
+
+17
+
+5,22
+22
+
+21
+
+16
+
+TABLE OF AUTHORITIES (CONTINUED)
+Cases (Continued)
+~
+
+Touche Ross & Co., Inc. v. SEC, 609 F.2d 570 (2d Cir. 1979)
+
+United States v. Correll, 389 U.S. 299 (1967)
+
+~
+
+.:
+
+13, 15
+passim
+28
+
+'"
+
+Statutes and Rules
+. Securities Exchange Act of 1934, 15 U.S.C. 78a. et seq.
+Section 3(a)(9), 15 U.S.C. 78c(a)(9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . .. 27
+Section 3(a)(34), 15 U.S.C. 78c(a)(34) . . . • . . .. . .. .. . . . . . . .. . . . . . .. . . ... 11
+Se~tion 3(b), 15 U.S.C. 78c(b)
+9, 10, 12
+passim
+Section 10, 15 U.S.C. 78j
+27
+~ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 3,4
+Section 12, 15 U.S.C. 781
+Section 12(h), 15 U.S.C. 781(h)
+:................. 13
+Section 13(d), 15 U.S.C. 78m(d)
+~
+4,5,6
+passim
+Section 13(d)(3), 15 U.S.C. 78m(d)(3)
+2,5, 7
+passim
+Section 16, 15 U.S.C. 78p
+3,4, 11
+passim
+Section 16(a), 15 U.S.C. 78p(a)
+3,6, 14
+passim
+Section 16(b), 15 U.S.C. 78p(b) . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . .. 1,2,3
+passim
+Section 16(e), 15 U.S.C~ 78p(e)
+II'
+Section 23(a), 15 U.S.C. 78w(a)
+9, 10, 11
+passim
+
+-lV­
+
+TABLE OF AUTHORITIES (CONTINUED)
+Statutes and Rules (Continued)
+. Rules Under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.
+Rule 2(e), 17 C.F.R. 240.2(e)
+Rule 13d-3(a), 17 C.F.R. 240J3d-3(a)
+Rule 13d-5(b)(1), 17 C.F.R. 240.13d-5(b)(I)
+Rule 16a-l, 17 C.F.R. 240.16a;..1
+Rule 16a-l(a)(I), 17 C.F.R. 240.16a-l(a)(1)
+Rule 16a-l(a)(2), 17 C.F.R. 240. 16a-l(a)(2)
+
+; . . . . . . . . . . . .. 10, 13
+5, 7
+~':'
+5
+9
+;. 1,2,3
+passim
+6,8
+
+Federal Rules of Civil Procedure
+Rule 12(b)(6)
+
+8
+
+Miscellaneous
+112 Congo Rec. 19003 (August 11, 1966)
+
+26,27
+
+J. Seligman, The Transfonnation of Wall Street: A History ofthe
+Securities and Exchange Commission and Modem Corporate Finance,
+(rev'd ed. 1995)
+Morgan Stanley Group, Inc., SEC No-Action Letter,
+1991 WL 178730 (April 30, 1991)
+.Ownership Reports and Trading by Officers, Directors and Principal
+. Securities Holders, Exchange Act Release No. 288~9, .
+48 SEC Docket 234 (Feb: 21, 1991)
+P. Romeo and A. Dye, Section 16 Treatise and Reporting Guide,
+§4.02 .;
+'.'
+
+-v­
+
+25, 26
+
+19
+
+9
+
+22, 23
+
+TABLE OF AUTHORITIES (CONTINUED)
+Miscellaneous (Continued)
+~
+
+S. 2731, 89th Congress, 1st Session (1965)
+
+. . . .. 26
+
+S. Rep. No. 73-792 (1934) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . .. 24
+
+S. Rep: No. 94-75 (1975)
+13
+S. Rep. No. 93-14451 (1934)
+':'"
+25
+23
+S. Rep. No. 3420
+Service Merchandise Company, No-Action Letter,
+1988 WL 233569 (January 11, 1988)
+
+-Vl­
+
+15
+
+UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+
+Barbara Schaffer, Derivatively
+On behalf of LaserSight Incorporated,
+Plaintiff,
+'"
+
+v.
+
+No. 99 Civ. 2821 (VM)
+
+CC Investments, LDC,et aI.,
+.Defendants.
+
+MEMORANDUM OF THE SECURITIES AND
+EXCHANGE COMMISSION, AMICUS CURIAE
+By order dated February 15,2000, the Court invited the Commission to file an
+amicus curiae brief in this case, in which the defendants have moved to dismiss plaintiff's
+action brought under Section 16(b) ofthe Securities Exchange Act of 1934, 15 U.S.C.
+78p(b) ("the Exchange Act" or "the Act").
+The Court's order notes that defendants CC Investments, LDC ("eCI") and Castle
+Creek Partners, LLC ("Castle Creek") have argued that the Commission "exceeded the
+authority conferred on it by Congress when the Commission adopted its Rule 16a-l(a)(l)
+as such rule pertains to liability wider Section 16(b) ofthe Securities Exchange Act"
+(February 15,2000 Order, p. 1). This argument has been adopted by the other
+defendants. The Court's order continues:
+
+In view ofthe significance ofthis issue to the disposition-of
+the motions and ofthe vital interest the Commission has in
+any determination affecting the validity of its rules, the Court
+invites, sua sponte, the Commission to submit an amicus
+curiae brief limited to the application of SEC Rule 16a-l(a)(I)
+and the concept of"group" liability under Section 13(d)(3) of
+the Act to Section 16(b) ofthe Act * * *.
+
+"
+
+.
+
+'.
+
+(Order, p. 1).
+
+As the Court noted, the Commission has a strong interest in this issue. Although
+Section 16(b) ofthe Exchange Act is enforced in private actions, and not in Commission
+enforcement actions, the Commission, nevertheless, has an interest in assuring that proper
+private actions can be brought. As the Supreme Court has repeatedly recognized, such
+actions "provide 'a most effective weapon in the enforcement' ofthe securities laws and
+are 'a necessary supplement to Commission action. '" Bateman Eichler. Hill Richards.
+Inc. v. Berner, 472 U.S. 299, 310 (1985) (quoting].!. Case Co. v. Borak, 377 U.S. 426,
+432 (1964».
+Section 16(b) ofthe Exchange Act is intended to curb the abuse of inside
+information by officers, directors and beneficial owners of more than ten percent of an
+.issuer's registered equity securities. The rule at issue, by defining who is a beneficial
+owner of securities for purposes of Section 16(b), seeks to assure that the section is
+enforceable in private actions against the full range of shareholders to whom it should
+apply. Moreover, the rule also applies in determining beneficial ownership ofsecurities
+
+-2­
+: ..
+
+for purposes ofthe reporting requirement in Section I6(a) of the Exch~ge Act, IS.U.S.C.
+78p(a), a provision which the Commission does enforce.
+The Commission construes the Court's order as requesting its views only on the
+
+issue of the Commission's authority to promulgate Rule 16a-l(a)(l). AccQrdingly, this
+
+
+.
+
+'.
+
+
+brief is limited to that issue.
+BACKGROUND
+A.
+
+The Regulatoty Scheme of Section 16 and Rule 16a-I(a)Cl)
+
+Section 16 of the Act, 15 U.S.C. 78p, contains two provisions directed at curbing
+the misuse of inside information by corporate insiders. Under Section 16(a) ofthe Act, .
+15 U.S.C. 78p(a), those insiders - - who are identified as officers and directors ofan
+issuer of securities and also the "beneficial owner" of more than ten percent of any class
+. of registered equity securities of the issuer - - must report, at the time of registration ofthe
+securities under Section 12 ofthe Exchange Act or at the time the insider becomes an
+officer, director, or greater than ten percent benefiCial owner, the amount of all securities
+such insider beneficially owns.
+Section 16(b) ofthe Act provides that the issuer or a shareholder ofthe issuer may
+bring an action to recover short..swing profits (Le., profits from the purchase and sale of
+the issuer's equity securities within a period of less than six months) realized by an
+officer, director or "such beneficial owner" as identified in Section 16(a».
+
+-3­
+
+In enacting Section 16(b) "C()ngress recognized that insiders may have access to
+information about their corporations not available to the rest ofthe investing public."
+Foremost-McKesson, Inc. v. Provident Securities Co., 423 U.S. 232, 243 (1976). The
+provision was designed to "curb the evils of insider trading [by]
+
+* * * taking the profits
+
+out ofa class oftransactions in which the possibility of abuse was believed to be
+intolerably great." Reliance Electric Co. v. Emerson Electric Co., 404 U.S. 418, 422
+•(1972). Congress concluded that corporate officers, directors, and the beneficial owners
+of more than ten percent ofa class ofan issuer's registered equity securities may be
+presumed to have access to inside information. Reliance Electric Co. v. Emerson Electric
+Co., 404 U.S. at 424. See also Gollust v. Mendell, 501 U.S. 115, 121 (1991).
+Section 16 ofthe Act, however, contains no definition of beneficial owner. In
+order to bring clarity to the term "beneficial owner," in 1991 the Commission amended its
+definitional rule under the section, Rule 16a-l, to add a new Rule 16a-l(a)(I). For
+purposes of determining who is a beneficial owner of securities under Section 16, that
+rule adopts the definition of "beneficial owner" found in Sectioh 13(d) ofthe Exchange
+Act, 15.U .S~C. 78m(d), and the rules promulgated under that se~tion.
+Rule 16a-l(a)(I), provides, in pertinent part, that
+Solely for purposes of determining whether a person is a
+beneficial owner of more than ten percent of any class of
+equity securities registered pursuant to Section 12 ofthe Act,
+the term "beneficial owner" shall mean any person who is
+
+-4­
+
+"
+
+. deemed a beneficial owner pursuant to Section 13(d) ofthe
+Act and the rules thereunder * * * ."
+A beneficial owner under Section 13(d) includes "any person who, directly or indirectly,
+. through any contract, arrangement, understanding, relationship, or otherwise has or
+shares" "voting power" or "investment power." See Rule 13d-3(a), 17 C.F.R. 240.13d­
+'"
+
+3(a). Rule 13d-5(b)(l), 17 C.F.R. 240.13d-5(b)(l), provides that when such
+shareholders
+agree to act together for the purpose of acquiring, holding,
+voting or disposing of equity securities of an issuer, the group
+formed thereby shall be deemed to have acquired beneficial
+ownership, * * * as ofthe date of such agreement, of all
+equity securities ofthat issuer beneficially owned by any such
+persons.)
+Thus, if a defendant "even 'indirectly' 'shared' voting or investment power, including
+the power to direct the disposition of[an issuer's] shares, [he] must be found to be a
+beneficial owner" of all ofthe shares ofthe group. Schaffer v. Soros, No. 92 Civ. 1233
+(LMM), 1994 WL 381442 at *5 (S.D.N.Y. July 20, 1994), vacated in part on other
+
+grounds, 1994 WL 592891 (S.D.N.Y. Oct. 31, 1994).
+As applied under Section B(d), this means that where a gro~p holds more than 5%
+
+of an issuer's registered equity securities, the group must file a statement on Schedule
+)
+
+Rule 13d-5(b)(I) was promulgated, in part, under Section 13(d)(3) o~the
+Act, 15 U.S.C. 78m(d)(3), which provides that "[w]hen two or more
+persons act as a * * * group for the purpose of acquiring, holding, or
+disposing of securities of an issuer, such * * * group shall be deemed a
+'person' for the purposes ofthis subsection."
+
+-5­
+
+13D. As imported to Section 16, this means that where aSection 13(d) group holds more
+than ten percent of an issuer's equity securities, the members ofthe group are subject to
+·the reporting requirements of Section 16(a) and are liable under Section 16(b) for
+recovery of short-swing profits realized from transactions involving their shares.
+This does not mean, however, that each member ofthe group ne'cessarily is liable
+for short-swing profits realized from transactions involving the shares held by all
+members ofthe group. While Rule 16a-l(a)(l) uses the Section 13(d) standard for
+.
+
+purposes of determining whether a person has crossed the ten percent beneficial
+ownership threshold, Rule 16a-l(a)(2), 17 C.F.R. 240. 16a-l(a)(2), applies a "pecuniary
+interest" test for all other purposes of Section 16, including the determination ofthe
+shares from which the defendant may be held liable for short-swing profits. A person
+thus is liable only for profits realized on those shares in which he has a pecuniary
+interest. 2
+B.
+
+Facts
+
+The plaintiff, Barbara Schaffer, a shareholdet:, in LaserSight Incorporated
+("LaserSight"),brought this action on behalf ofLaserSight under Section 16(b) to recover
+short-swing profits against CCI, Castle Creek, Societe Generale, Shepherd Investments
+2
+
+Rule 16a-l(a)(2) provides, in pertinent part, that "[o]ther than for purposes
+of determining whether a person is a beneficial owner ofmore than ten
+. percent ofany class ofequity securities * * *, the term 'beneficial owner'
+shall mean any person who, directly or indirectly, * * * has or shares a
+direct or indirect pecuniary interest in the equity securities. * * *."
+
+-6­
+
+•
+
+International, Ltd. ("Shepherd Investments"), Stark International, arid two investment
+managers, Michael Roth and Brian Stark, who are alleged to have controlled the
+investment decisions of Shepherd Investments' and Stark International (Complaint at 1-3).
+The defendants purchased preferred stock that was convertible to common stock an4
+warrants to purchase common stock in LaserSight under a private plac~ment agreement.
+Thereafter, they are alleged to have bought and sold LaserSight securities within a period
+'. of less than six months.
+Schaffer alleges that, of the defendants, only CCI was individually a beneficial
+owner of more than ten percent ofLaserSight common stock (Complaint at 5). Schaffer
+alleges, however, that Castle Creek, Societe Generale, Shepherd Investments and Stark
+International are also liable for short-swing profits under' Rule 16a-l(a)(1) because they
+were members of a Section 13(d) group with CCI (Complaint at 4-5).
+Accordingly, although only CCI is alleged individually to have beneficially'owned
+more than ten percent ofLaserSight common stock, Schaffer employs the group concept
+ofbeneficia1 ownership of Section 13(d)(3) of the Exchange Act and Rule 13d-5(b)(I) to
+aggregate the shares ofcommon stock beneficially owned by Castle Creek, Societe
+Generale, Shepherd Investments, Stark International, Stark, and Roth with those of cel in
+order to reach the ten percent threshold for application of Section 16(b).
+Schaffer also alleges that Shepherd Investments and Stark International together
+beneficially owned more than ten percent ofLaserSight common stock and that they .
+
+-7­
+
+fonned a second Section 13(d) group, apart from the larger group that also includes CCI,
+Castle Creek, and Societe Generale (Complaint at 5). In a brief filed in support oftheir
+motion to dismiss, Shepherd Inves~ments and Stark International, whose investment
+decisions were controlled by Roth and Stark, concede that they "constitute a group under
+Section 16." They do contest, however, that they are members ofthe iarger group (Stark
+Defendants R.Br. at II n.3).3
+Schaffer seeks to recover a total of$7,091,975 in short-swing profits: $1,935,540
+from CCI; $721,600 from Societe Generale; and $4,434,835 from Shepherd Investments
+.and Stark International (Complaint at 13).4 Under Rule 16a-l(a)(2) the defendants are
+·liable for only their individual profits and not those of the other members of the group.
+Defendants moved to dismiss Schaffer's complaint for failure to state a claim
+pursuant to Fed. R. Civ. P. 12(b)(6). Among the arguments made by CCI and Castle
+Creek, and adopted by the other defendants, is their assertion that the Commission
+exceeded the authority delegated to it by Congress when it promulgated Rule 16a-l(a)(1).
+
+3	
+
+"_ Br. at _" refers to a brief of one ofthe parties in support or opposition
+to summary judgmentand the page number ofthe brief. "_ R.Br. _".
+refers to a reply brief filed by one ofthe defendants in response to
+plaintiffs brief in opposition to summary judgment.
+
+4
+
+Schaffer also seeks additional undetennined profits, if any, and
+prejudgment interest.
+
+-8­
+
+ARGUMENT,
+I.	
+
+TIIE COMMISSION ACTED WITHIN ITS AUTHORITY IN ADOPTING
+
+RULE 16a-l(a)(1).
+
+The Commission had the authority, under its rulemaking grant in Section 23(a) of
+
+the Exchange Act, 15 U.S.C. 78w(a) and under its definitional authori!y in Section 3(b),
+
+.'.
+
+ofthe Act, 15 U.S.C. 78c(b), to define the term "beneficial owner." The definition it
+. chose is necessary or appropriate to carrying out the purposes of Section 16(b), as
+required by Section 23(a), and is consistent with the provisions and purposes of Section
+16(b), as required by Section 3(b).
+A.	
+
+The Commission Had the Power to Define "Beneficial
+Owner" Under Its Rulemaking and Definitional Authority in
+Sections 3Cb) and 23(a) ofthe Exchange Act.
+
+The principal statutory authorities for applying the Section 13(d) defmition of
+beneficial owner to Section 16 are the Commission's authority to define terms under
+Section 3(b) of the Exchange Act and its general rulemaking authority under Section
+23(a) ofthe Act. The Commission relied on both ofthese provisions in adopting Rule
+16a-l. See Ownership Reports and Trading by Officers, Directors and Principal
+Securities Holders, Exchange Act Release No. 28869,48 SEC Docket 234,257 (Feb. iI,
+1991). As a general matter; courts have broadly construed the Commission's rulemaking
+authority under both ofthese provisions. See,·~ Falcon Trading v. SEC, 102 F.3d
+579, 582 (D.C. Cir. ·1996) (finding the Commission's quorum rule valid under
+
+-9­
+
+Section 23(a»; Touche Ross & Co., Inc. v. SEC, 609 F.2d 570, 581-82 (2d Cir. 1979)
+
+(finding fonner Rule 2(e) valid under Section 23(a»; Continental Oil Co. v. Pertitz, 176
+
+.'
+
+F. Supp. 219, 221, 227 (S.D. Tex. 1959) (finding a Section 16(b) rule promulgated
+
+...
+pUrSuant to Section 23(a) valid); Lockheed Aircraft Corp. v. Rathman, 106 F. Supp. 810,
+
+813-14 (S.D. Cal. 1952) (finding a Section 16(b) rule promulgated putsuant to Section
+
+
+3(b) valid).
+
+
+. I.
+
+. The Commission Had Authority to Promulgate
+
+Rule 16a-l(a)Cl) Under Section 23(a).
+
+
+The defendants argue that the CommIssion's general rulemaking authority under
+
+Section 23(a) does not empower it to adopt a rule under Section 16(b). They claim that
+
+the section only empowers the Commission to
+
+make such rules and regulations as may be necessary or
+
+appropriate to implement the provisions of [the Exchange
+
+Act]for which they are responsible orfor the execution ofthe
+functions vested in them by the [Exchange Act]. * * *.
+(omissions and italics in original) (CCI Br. at 24, quoting Section 23(a». The defendants
+assert that because the Commission is not empowered to enforce Section 16(b) it
+. therefore has no "responsibility" or "function vested in them" with respect to the section
+(other than the expressly conferred power to grant exemptions).
+
+.
+
+-10 ­
+
+This argument rests on a very selective and misleading editing of Section 23(a).
+The pertinent portion of Section 23(a) reads in full as follows:
+The Commission, the Board of Governors of the Federal
+Reserve System, and the other agencies enumerated in
+Section 3(a)(34) of this title shall each have power to make
+such rules and regulations as may be necessary or appropriate
+to implement the provisions ofthis title for which they ilre
+responsible or for the execution of the functions vested in
+them by this title, and may for such purposes classify persons,
+securities, transactions, statements, applications, reportS, and
+other matters within their respective jurisdictions, and
+prescribe greater, lesser, or different requirements for
+different classes thereof. * * *
+Read in context, it is clear that the terms "responsibility" and "functions" are used
+in Section 23(a) only to differentiate the scope ofthe Commission's power from that of
+the Federal Reserve Board and other agencies that share responsibility for administration
+of the Act. Under Section 23(a), the only substantive limitation placed on the
+Commission's general rulemaking power by Section 23(a) is that the Commission must
+not make a rule in an area delegated to another agency, and those rules must be
+"necessary or appropriate" to implement the Exchange Act. 5
+5
+
+Another part of Section 16 supports this interpretation. Section 16(e), 15
+U.S.C. 78p(e), provides that Section 16, including Section 16(b), does not
+apply to "foreign or domestic arbitrage transactions unless made in
+contravention of such rules and regulations as the Commission may adopt
+in order to carry out the purposes ofthis section." By exempting arbitrage.
+transactions "unless made in contravention of such rules and regulations as
+the Commission may adopt in order to carry out the purposes" of Section
+16, Congress necessarily recognized that the Commission has·the authority
+(continued...)
+
+-11­
+
+2.	
+
+The Commission Had Authority to Promulgate
+Rule 16a-l(a)(1) Under Section 3(b).
+
+The defendants similarly argue that the Commission's authority under Section 3(b)
+to defme terms contained within the Exchange Act is inapplicable to Section 16(b). They
+.quote Section 3(b) as limiting the Commission "as to matters within their * * *
+
+."
+
+jurisdiction, the power by rules and regulations to define technical, trade, accounting, and
+other terms used in [the Exchange ActJ* * * " (omissions in original) (CCI Br. at 24,
+quoting Section 3(b». The defendants then assert that "the application of [the beneficial'
+ownership] definition to Section 16(b) is not'a matter within their jurisdiction' * * * "
+(CCI Br. 24).
+Once again, the defendants selectively quote the section. The full text of Section
+3(b) provides:
+The Commission and the Board of Governors ofthe Federal
+Reserve System, as to matters within their respective
+jurisdictions, shall have power by rules and regulations to
+define technical, trade, accounting, and other terms used in
+this title, consistently with the provisions and purposes ofthis
+·title.6
+
+S(...continued)
+to make rules that would have the effect ofmaking Section 16(b) applicable
+to arbitrage transactions~ In other words, Congress contemplated that the
+Commission·has the power to make affirmative rules defming the reach of
+Section 16(b),not merely exemptive rules.
+6
+
+Section 3(b) was amended in 1975 to add the words "and other terms" in
+order "to broaden the authority ofthe Commission and the Board of
+(continued...)
+- 12­
+
+As with Section 23(a), the purported limitation is merely a means of distinguishing those
+areas under the Exchange Act in which the Commission may regulate from those in
+..,
+
+which other agencies have authority.
+3.
+
+The Commission Did Not Need A Special Grant of
+Rulemaking Authority in Section 16(b) Itself.
+
+. '.
+
+The defendants place significant weight on the fact that the text of Section 16(b)
+expressly provides the Commission only the authority to make rules exempting
+transactions from its operation, and does not expressly provide other rulemaking
+authority.? "[A]n express grant of authority is not necessary to sustain the validity ofthe
+challenged rule or regulation." Touche Ross & Co. v. SEC, 609 F.2d 570,580-81 (2d
+eire 1979) (finding fonner Rule 2(e), allowing the Commission to sanction attorneys and
+accountants whopractice before it, valid under Section 23(a». There was no reason to
+provide the Commission with special rulemaking authority in Section 16(b) itself, when it
+already had general rulemaking authority under Section 23(a) and definitional authority
+under Section 3(b).
+
+6(...continued)
+Governors ofthe Federal Reserve System to make clear that they may
+defme any tenn used in the Exchange Act, whether or not it is already
+defined in the title." S. Rep. No. 94-75, at 94 (1975)..
+7
+
+Section 12(h) ofthe Act, 15 U.S.C. 781(h), also authorizes the Commissiop,
+by rule or order, to exempt certain securities and any officer,director, or
+beneficial owner from Section 16, if the Commission finds such an
+exemption is "not inconsistentwith the public interestand/or protection of
+investors."
+
+- 13­
+
+There are many provisions in the Exchange Act that the Commission enforces and
+
+under which it may adopt rules, even under defendants' pinched reading, but which
+
+,..
+
+provide no special·grant of rulemaking authority. To take just the most pertinent
+example, the reporting provisions in Section 16(a) are enforced by the Commission, yet
+contain no express rulemaking authority. The defendants do not dispiite that the
+Commission had the power to adopt Rule 16a-l(a)(l) for the purpose of defining the term
+. "beneficial owner" in that section.
+Indeed, the fact that the Commission has the power to define the term "beneficial
+owner" for purposes of Section 16(a) necessarily means it has the power to do the same
+for Section 16(b). Section 16(b) specifies to whom it applies by referring back to Section
+16(a).8 Congress intended the tenn "beneficial owner" to have the same meaning in both
+subsections. It is inconceivable that the Commission could define the term for purposes
+
+8	
+
+Section 16(a) provides that "[e]veryperson who is directly or indirectly the
+beneficial owner of more than 10 per centuin of any class of any equity
+security * * * or who isa director or an officer ofthe issuer" shall report the
+amount of securities he owns to the Commission (emphasis added).
+Section 16(b) then refers back to Section 16(a) stating that "[f]or the
+purpose ofpreventing the unfair use of information which may have been .
+obtained by such beneficial owner, director, or officer by reason of his
+relationship to the issuer, any profit realized by him from any purchase or
+sale, * * * ofany equity security ofsuch issuer * * * within any period of
+less than six months * * * shall * * * be recoverable by the issuer· * * *."
+
+-14 ­
+
+of Section 16(a), but that the term, when incorporated by reference into Section l6(b),
+would somehow acquire a different meaning. 9
+B.	
+
+Rule 16a-l(a)(1) Is N~cessary or Appropriate to Carrying
+
+Out, and Is Consistent with the Provisions and Purposes of,
+
+Section l6(b).
+
+
+Once it is established that the Commission possesses the requisitc{authority to make
+rules under Section 16(b), the next question is whether Rule l6a-l(a)(1) is "consistent[]
+with the provisions and purposes" of the section, as required by Section 3(b) or
+"necessary or appropriate" to carrying out the purposes of Section l6(b), as required by
+Section 23(a).10
+
+9	
+
+Defendants also argue that the Commission "has recognized that its role
+with respect to Section 16(b) is extremely limited" (CCI Br. at 23). As
+support for this assertion defendants cite a no-action letter in which the staff
+wrote that "[b]ecause the Commission does not have enforcement power
+under Section l6(b) ofthe Securities Exchange of 1934, the Division [of
+Corporation Finance] can express no view outside the context ofthe
+exemptive rules promulgated by the Commission." Service Merchandise
+Company, No-Action Letter, 1988 WL 233569 (January 11, 1988).
+This misapprehends the context in which the sta,tement was made. A no­
+action request is a request that the staff stateit will not, on the facts as
+.represented by the requestor, recommend enforcement action. Since the ..
+Commission does not enforce Section 16(b), the staffobviously could not
+give a position regarding prospective enforcement action. However, the
+staff does issue interpretive letters addressing its rules under Section 16(b).
+None ofthis has anything to do with the Commission's rulemaking
+authority.
+
+10
+
+When itconstrued Section 23(a) in a different context in Touche Ross &
+.. Co. v. SEC, 609 F.2d 570,579 (2d Cir. 1979), the Second Circuit quoted
+(continued...)
+- 15­
+
+The first step in those inquiries'is whether the language of Section 16 is clear on its
+face, since "[i]fthe intent of Congress is clear, that is the end of the matter; for the court,
+as well as the agency, must give .effect to the unambiguously expressed intent of
+.Congress." Chevron. U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S.
+
+.".
+
+837,842-43 (1984).
+
+But Congress'intent in using the term "beneficial owner" is not clear. Section 16
+. does not purport to define the term "beneficial owner" and it is a term that plainly can
+have more than one meaning. Under these circumstances, where Congress "is silent or
+ambiguous with respect to the specific issue, the question for the court is whether the
+agency's answer is based on a permissible construction ofthe statute." Chevron, 467
+U.S. at 843.
+
+11
+
+See also Nationsbank ofNorth Carolina v. Variable Annuity Life Ins. Co.,
+
+IO(...contmued)
+. •
+the Supreme Court's guidance that "[w]here the empowering provision ofa
+statute states simply that the agency may 'make * * * such rules and
+regulations as may be necessary to carry out the provisions ofthe Act,' * *
+* the validity ofthe regulation promulgated thereunder will be sustained so
+long as it is 'reasonably related to the purposes ofthe enabling legislation.'"
+Mourning v. Family Publications, Inc., 411 U.S. 356, 369 (1973)
+.
+(omissions in original) (quoting Thorpe v. Housing Authority ofthe City of
+Durham, 393 U.S. 268, 280-81 (1969)). Thus, Rule 16a..;l(a)(l) is valid so
+long as it is "necessary or appropriate" to carry out the purposes ofSection
+16(b) or "reasonably related" to the purposes of Section 16(b).. See, e.g.,
+Continental Oil Co. v. Perlitz, 176 F.Supp. 219, 223-27(S.D. Tex. 1959).
+11
+
+"Deference under Chevron to an agency's construction of a statute that it
+administers is premised on the theory that a statute's ambiguity constitutes
+an implicit delegation from Congress to the agen~y to fill in the statutory
+(continued...)
+
+- 16­
+;
+
+..
+
+513 U.S. 251, 257 (1995). An agency's interpretation ofa statute'it administers is to be
+accorded substantial deference "whenever its interpretation provides a reasonable
+construction ofthe statutory language and is consistent with legislative intent." Securities
+Industty Assoc. v. Board of Govemors ofthe Federal Reserve
+
+Syst~m, 468
+
+U.S. 207,217
+
+(1984). See also Nationsbank v. Variable Annuity Life Ins. Co., 513 Q.S. at 256-57.
+Two things are readily apparent about Congress' intent when it enacted Section 16.
+The first is that Section 16 was intended to deter the misuse of inside information. The
+second is that Congress presumed that a person with an investment in more than ten
+percent ofthe equity securities of an issuer is likely to have access to inside information
+about the issuer and was determined to suppress the abuse of inside information by such
+large stockholders.
+The Commission had this Congressional intent in mind in 1991 when it adopted
+the definition of beneficial owner in Section 13(d) for purposes of determining ten
+percent beneficial owner status under Section 16(b). The Commission stated:
+
+1I(...continue
+. . d·)
+gaps." FDA v.Brown & Williamson Tobacco C01:poration, _ U.S. _, 120
+KCt. 1291, 1314 (2000). Where Congress is silent, the Supreme Court
+recently noted, only in "extraordinary cases" should a court hesitate before
+concluding that Congress intended such a delegation. Id. The Court found
+that Brown and Williamson, ~ was such an extraordinary case, in part,
+..	 because the regulation oftobacco was an especially politically sensitive
+area and because Congress had enacted several pieces of legislation
+regulating tobacco on its own, thereby, inthe Court's view, indicating its
+intent not to delegate regulation oftobacco to an administrative agency. Id.
+at 1315.
+-17 ­
+
+Section 16, as applied to ten percent holders, is intended to
+reach those persons who can be presumed to have access to
+inside information because they can influence or control the
+issuer as a result oftheir equity ownership. Section 13(d) of
+the Exchange Act specifically addresses such relationships.
+As proposed, the rules adopted today define ten percent
+holders under Section 16 as persons deemed ten percent
+holders under Section 13(d) ofthe Exchange Act and the rules
+thereunder. The Section 13(d) analysis * * * [is] importeo
+into the ten percent holder determination for Section 16
+purposes.
+• Ownership Reports and Trading by Officers, Directors and Principal Security Holders,
+Exchange Act Release No. 28869,48 SEC Docket 234,236 (Feb. 21, 1991).
+The objective of Section 13(d) is to provide notice ofthe rapid accumulation of
+securities in an issuer. Although filings are required regardless of whether the investors
+have a control purpose, Section 13(d) was adopted as part of the Williams Act and is
+intended to provide an early warning of accretions ofstock ownership that could
+potentially affect or influence control.
+
+See,~, GAF
+
+Com. v. Milstein, 453 F.2d 709,
+
+717 (2d Cir. 1971). Ifa group ofpersons that beneficially owns more than five percent of
+
+an issuer under Section 13(d) standards can be presumed to have the potential to influence
+corporate control, then it reasonably may also be concluded that a group that beneficially
+
+owns more than ten percent of an issuer may have access to inside information.
+Furthermore, ifan individual who owns more than ten percent of an issuer can be
+presumed to have access to inside information, that presumption can alsohold true for a
+
+- 18­
+
+group that owns more than ten percent of an issuer and is acting in concert for thepurpose
+of acquiring, holding, voting, or disposing ofsecurities of the issuer. 12
+The defendants suggest that a shareholder should be found to be a member of a
+Section l3(d) group only when the shareholder has a pecuniary interest in the shares of
+the group. That would be too narrow an approach. Where shareholders· act in concert for
+the purpose of acquiring, holding, voting, or disposing of securities, they can reasonably
+be expected to have collective voting strength which will give them presumptive access to
+inside information. This is so regardless of whether each member of the group has a
+economic interest in the securities of the other members.
+Nevertheless, the defendants express concern that a group member might be found
+liable for profits derived from the securities transactions ofanother member ofthe group,
+even though the group member had realized no gain on the transaction. This was a
+primary concern expressed in several pre-Rule 16a-l(a)(I) cases that rejected applying
+
+12	
+
+While such a presumption is appropriate, there are some, relatively rare,
+circumstances where it may be concluded that a Section l3(d) group does
+not in fact have access to inside information and its members should not be
+subject to Section 16(b). In these rare instances, which have involved
+. group membership that was·an involuntary condition to employment, where
+group members were numerous and individually rarely owned more than
+one percent of outstanding securities, the Commission staffhas provided
+interpretive relief stating its view that Section 16 does not apply. See, ~
+Morgan Stanley Group Inc., SEC No-Action Letter, 1991 WL 178730
+(April 30, 1991).
+-19 ­
+
+Section B(d) beneficial ownership concepts to Section 16.J3 These cases were primarily
+concerned that, since Section 16(b) provides for the recovery of short-swing profits,
+wholesale application ofthe Section 13(d) beneficial ownership concept to Section 16(b)
+
+•
+
+would mean that a member ofa group is liable for profits from transactions in securities
+in which he or she had no pecuniary interest.
+
+·0.
+
+This concern has been addressed in the rule. Rule 16a-l(a)(2) provides that a
+: person is not the beneficial owner of securities for purposes other than determining his
+status as a ten percent owner, unless he has a "pecuniary interest" in those securities.
+Rule 16a-l(a)(2) defines pecuniary interest as "the opportunity, directly or indirectly, to
+profit or share in any profit derived from a transaction in the subject securities."
+Accordingly, while a shareholder may be subject to suit under Section 16(b) because of
+his membership in a Section B(d) group, his liability in that suitis limited to the profits
+he directly or indirectly realized.
+
+13
+
+See Meyer v. Chesapeake Ins~ Co., Ltd., 877 F.2d 1154, 1162 (2d Cir.·
+1989), cert. denie<l49J U.s. 1021 (1990); CBI Inc. v. Horton, 682 F.2d
+643,646 (7th Cir. 1982); C.R.A. Realty Com. v. Goodyear Tire & Rubber
+Co., 705F.Supp. 972,976-77 (S.D.N.Y.), aff'd without opinion, 888 F.2d
+125 (2dCir. 1989); Rothenberg v. Jacobs, [1989 Transfer Binder] Fed. Sec.
+L. Rep. (CCH) '94,199 (S.D~N.Y. Jan. 11, 1989), aff'd. without opinion,
+888F.2d 126 (2d Cir. 1~89). See.also Mendell v. Gollust, 793 F. Supp.
+474,480-81 (S.D.N.Y.) (decision rendered after the·adoption ofthe rule
+concerning a transaction that took place prior to adoption); aff'd without
+opinion, 983 F.2d 1048 (1992).
+-20 ­
+
+,
+
+Thus, in a recent decision, Strauss v. Kopp Investment Advisors Inc., [1999
+Transfer Binder] Fed. Sec. L. Rep. (CCH) ~90,666, 1999 WL 787818 at *3 (S.D.N.Y.
+Sept. 30, 1999), the court held that Rule 16a-l met the concerns voiced by the defendants
+and inearlierpre-Ruledeci~ions. The court noted that it was
+mindful that the ultimate purpose of determining benefic'ial
+ownership within Section 13(d), which provides notice to the·
+marketplace ofpotential takeover control, differs from
+Section 16(b), which is intended to prevent and discourage
+insider trading. Meyer v. Chesapeake Ins. Co., 877 F.2d
+1154, 1162 (2d Cir. 1989). Likewise, the Court is cognizant
+that because Section 16(b) imposes strict, economic liability •
+- as opposed to the obligation to disclose information to the
+public imposed by Section 13 - - it should be construed
+narrowly. See Foremost-McKesson v. Provident Securities,
+423 U.S. 232, 251 (1975) ("In short, this statute imposes
+liability without fault within narrowly drawn limits.").
+Nevertheless, the court found "without merit" the argument that these differences made it
+.inappropriate to apply the Section B(d) group concept of beneficial ownership to Section
+16(b) because:
+the SEC clearly contemplated the impact of Section 13(d) .
+groups within the Section 16(b) [ten percent threshold]
+determination of beneficial ownership when it drafted the
+1991 Rule, since in those Rules each member of a "group" is
+required to also have a "pecuniary interest" in the equity at
+issue before imposin~ short-swing liability.14
+14
+
+Other cases from the Second Circuit and the Southern District ofNew York
+have applied Rule 16a-l(a)(I) within the group context while neither
+addressing nor takitig issue with the validity ofthe rule. See, ~Morales
+v. Freund, 163 F.3d 763, 766-67 (2d Cir. 1999); Lernerv. Millenco, 23F.
+(continued...)
+- 21 ­
+~.
+
+,
+
+.
+
+The defendants also argue that Rule 16a-l(a)(I) is inconsistent with Section 16(b)
+because it imports the "fuzzy," "subjective"concept of group beneficial ownership from
+Section B(d) into a strict liability provision (CCI Br. at 21): This argument assumes that
+the tenn "beneficial owner" had some obvious meaning that allowed for a clear
+detennination when Section 16(b) applies: In fact, Rule 16a-l provid~s greater clarity by
+defining the term and specifying criteria to be applied.
+Rule 16a-l was adopted as part ofa comprehensive effort by the Commission to
+overhaul the Section 16 rules to better adapt them to the complexities in the modem
+securities industry and to alleviate.uncertainties that had generated litigation. See
+generally Ownership Reports and Trading By Officers, Directors and Principal Security
+Holders, Exchange Act Release No. 28869, 48 SEC Docket at 234, 235. The
+Commission adopted the Section 13(d) definition of "beneficial owner" for Section 16
+purposes because there was an established body of Section 13(d) case law to guide
+investors with some measure ofcertainty. Defendants CCI and Castle Creek, after
+attacking the validity ofthe group concept as "fuzzy," concede this in their reply brief
+when they argue that the Section 13(d) case law must guide the district coUrt's decision
+bec'ause
+
+14(..•continU:ed)
+. Supp. 337, 344 (S.D.N.Y. 1998); StraUss v. American Holdings. Inc., 902 F.
+.Supp. 475, 479-80 (S.D.N~Y. 1995); Schaffer v. Boros, No. 92 Civ. 1233
+(LMM), 1994 WL381442 (S.D.N.Y. July 20, 1994), vacated in part on
+other grounds, 1994 WL 592891, (S.D.N.Y. Oct. 31, 1994).
+-22­
+
+When the SEC promulgated Rule 16a-l in 1991, the concept
+. ofa "group" under Rule 13d-5(b), and the prerequisites for
+
+finding such a "group," had a settled meaning, widely
+
+accepted in the federal courts. In adopting Rule· 16a-l, the
+
+SEC expressly incorporated that accepted meaning into
+
+§16(b). It dec.ded to do so only after extensive, deliberate
+
+consideration in a two-year public rule making proceeding.
+
+(emphasis added) (CCI R.Br. at 3). In a footnote to this statement, cel and Castle Creek
+quote a leading commentator on Section 16 who observed that
+It appears that a primary consideration from the
+
+Commission's perspective in adopting the Section .13(d)
+
+standards·was the convenience of using them under Section
+
+16. A mature body oflaw on the calculation of beneficial
+
+ownership already exists under Section 13(d), arid it is
+
+transportable to Section 16 without the lingering interpretive .
+
+uncertainties attendant to most newly adopted standards.
+
+(emphasis added) (eCI R~Br. at 3 n. 1, quoting P. Romeo and A. Dye, Section 16 Treatise
+and Reporting Guide, §4.02 at 4-13 (1994). Thus, the Commission acted, as the
+defendants concede, to adopt as certain a standard as possible for purposes ofthe
+reporting provision of Section 16(a) and the strict liability provision of Section 16(b).
+II.	
+
+TIIE APPLICATION OF A GROUP CONCEPT OF BENEFICIAL
+OWNERSHIP UNDER SECTION 16 IS CONSISTENT WITH THE
+LEGISLATIVE HISTORY OF THAT PROVISION.
+The legislative history of Section 16(b) supports the application of the concept of .
+
+group beneficial ownership to that provision. The Senate Report on the bill that
+eventually was largely enacted as the Exchange Act, S. 3420, elaborates on the need for
+the legislation, stating that the provision
+- 23­
+;'.".':"
+
+aims to protect the interest ofthe public by preventing'
+directors, officers, and principal stockholders of a corporation
+* * * from speculating in the stock on the basis of information
+that is not available to others.
+
+s. Rep. No. 73-792, 73d Cong., 2d Sess.
+
+9 (1934). Following a briefdescription of the
+
+reporting and short-swing profits recovery provisions of Section 16, ~e report continues
+
+...
+
+that
+Such a provision will render difficult or impossible the kind
+of transactions which were frequently described to the
+[Banking] Committee, where directors and large stockholders
+'participated in pools trading in the stock of theirowIi ,
+
+companies, with the benefit of advance information regarding
+
+an increase or resumption ofdividends in some cases, and the
+
+passing of dividends in others.
+
+After discussing one example involving a pool organized by the chairman of a company
+and another director, the Senate report goes on to describe that
+In another case, the president of a corporation testified that he
+and his brothers controlled the company with little over 10
+percent ofthe shares; that shortly before the company passed
+a dividend, they disposed oftheir holdings for upward of
+$ i 6,000,000' and later repurchased them for about $7,000,000,
+showing a profit ofapproximately $9,000,000 on the
+transaction.
+(emphasis added) S. Rep. No. 73-792, at 9.
+From the reports' descriptions ofthe problem Section 16 seeks to resolve,
+Congress plainly understood that the evils at which the section was directed could be
+effected by a group controlling a "little over 10 percent." Although the example is not
+
+- 24­
+
+".
+
+precisely the same as the typical situation contemplated under Section 16a-l(a)(l), since
+one member ofthe group was the president of the company who was already subject to
+Section 16(b) regardless of his holdings, it does suggest that access to inside infonnation
+can exist among members of a group. Moreover, the example is similar to the facts
+alleged here, where one member ofthe group was a greater than ten p~rcent owner, and
+thus independently an insider for Section 16 purposes.
+Each ofthe examples described in the report's discussion of Section 16 involved
+pools of shareholders where each shareholder appears to own his shares independently of
+the other members of the pooL Moreover, in its section entitled "Market Activities of
+Directors, Officers, and Principal Stockholders ofCorporations," the Stock Exchange
+Practices Report
+
+15
+
+describes several abuses of inside infonnation that all occurred at the
+
+·hands of pools of corporate officials or officials and principal shareholders who appear to
+have owned their securities independently ofone another. Even ifthese examples are not
+precisely the same as the situation where no group member is individually a greater than
+ten percent owner, it is a reasonable extension to apply Section 16to such groups.
+
+15
+
+S. Rep. No. 93-14551 at 55-68. This is a report on hearings held before the
+Senate Banking Committee from 1932 to 1934 which provided much ofthe
+legislative foundation for the Securities Exchange Act. See generally J. .
+Seligman, The Transfonnation of Wall Street: A History ofthe Securities
+and Exchange Commission and Modem Corporate Finance, Chapters 1 & 2
+(rev'd ed.1995).
+- 25­
+
+The defendants, nevertheless, declare that Congress intended otherwise.
+Specifically, the defendants state that
+".
+
+Indeed, Congress considered but rejected an amendment to
+Section 16(a) that would have applied the reporting provisions.
+ofthat subsection to any "group" of persons who held more
+than 5% ofa class ofregistered securities. S. 2731, 89th
+Congress, 1st Session (1965).
+'00
+
+(CCI Br. at 22 n.l 0). As far as we can determine, Senate bill 2731 was never "rejected~"
+as the defendants assert. Rather, it was simply abandoned and never acted upon. Senate
+bill 2731 was introduced by Senator Williams and the concept embodied in S. 2731 later
+became the Williams Act, after the Commission worked with Senator Williams to revise
+the legislation. The specific provision concerning groups in Senate bill 2731 became
+Section 13(d)(3) of the Exchange Act when the Williams Act became law. 16
+Moreover, the legislative history also reveals that Senate bill 2731 was abandoned·
+after the Commission sent a lengthy memorandum of its views on the bill to Congress.
+Calling the Commission's analysis "most helpful," Senator Williams introduced it into the
+Congressional Record "[s]ince lthink itwould prove most informative and useful to those
+active in the securities field." 112 Congo Rec. 19003 (August 11, 1966). In its
+memorandum the Commission wrote, in pertinent part, that the bill would
+
+16
+
+See Seligman, The Transformation of Wall Street, Chapter 8 at 431-32;
+Romeo and Dye, Section 16 §1.03 at 1-41.
+
+-26­
+~.
+
+.
+
+amend Section 16(a) ofthe [Exchange] Act to provide that the
+tenn person therein shall be deemed to include two or more
+persons acting as a partnership, limited partnership, syndicate,
+or other group fonned for the purpose of acquiring, holding,
+or disposing of securities of an issuer.
+112 Congo Rec. 19003. The Commission did not comment on this provision. Instead, it
+."
+
+recommended that the provision be deleted. Id. at 19004.
+The Commission did, however, comment upon what it described as a "like
+provision" ofthe bill that would have provided that two or more persons acting "as a
+partnership, limited partnership, syndicate, or other group
+
+* * * shall be deemed a
+
+'person' for the purposes of' Section 10 ofthe Exchange Act. Id at 19004. The
+Commission noted that "[t]his provision is in effect an amendment to or enlargement of
+the existing definition ofperson in Section 3(a)(9) of the ACt."I? Id. at 19004. The
+Commission thought that definitions ?ftenns used in the Act should be kept in one part
+ofthe Act. More importantly, the Commission thought the proposed expanded definition
+of person could be eliminated altogether because "[t]he tenn 'syndicate or other group'
+can be defined by the Commission, pursuant to its power under section 3(b) ofthe Act * *
+
+*." Id.
+
+In other words, the Commission, in essence, reported to Congress that no
+
+legislative action was needed to correct abuses by groups because the Commission
+
+17
+
+Section 3(a)(9) ofthe Exchange Act, 15 U.S.C. 78c(a)(9), defmes "person".
+as '''a natur~l person, company, government, or political subdivision,
+agency, or instrumentality of a government."
+-27 ­
+,.
+
+already had rulemaking authority to define tenns under Section 3(b). Congress,
+thereafter, ab·andoned S. 2731. 18
+
+'g
+
+...
+
+18
+
+Defendants argue that "[d]isregard of the SEC's enlargement of Section
+16(b) is particularly warranted since Congress has amended the Securities
+Exchange Act on nume~ous occasions since [court decisions·requiring that a
+beneficial owner to have a pecuniary interest] and, in each instance, has left
+Section 16(b) unchanged" (CCI Br. at 22). "Congress' failure to disturb a
+consistent interpretation of a statute may provide some indication that
+'Congress at least acquiesces in, and apparently affinns that
+[interpretation].''' quoting ManessorSouthwestem Railway Co. v. Morgan,
+.486 U.S. 330,338 (1988). Even ifone were to assume, for the sake of
+.
+argument, that Congress meant to endorse those cases which, prior to Rule
+16a-l(a)(1), rejected the use QfSection 13(d) concepts under Section 16,
+that does not speak to Congress' view ofthe Commission's authority to
+adopt the rule. Furthennore; Rule 16a-l(a)(I) has been on the books for
+nearly a decade and Congress has not acted to reverse it. This is indicative
+of Congressional acceptance ofthe rule. See. ~ NLRB v. Bell
+·Aerospace Co., 416 U.S. 267, 275 (1974); United States v. Correll, 389
+U.S. 299, 304-05 (1967). And "it is noteworthy that no court has ever held
+the rule invalid." Touche Ross & Co; v. SEC, 609 F.2d 570, 578 (2d Cir.
+1979).
+-28 ­
+
+.'(
+
+CONCLUSION
+For the foregoing reasons, the Court should hold that the Commission acted within
+its authority in a~opting Rule 16a-l(a)(1).
+Respectfully submitted,
+DAVID M. BECKER (DB-4904)
+peneral Counsel
+
+~i--
+
+ERIC S
+
+MERGRAD (
+
+DI1JJ ~olic·
+
+Of Counsel
+MEYER EISENBERG (ME-5871)
+
+. Deputy General Counsel	
+
+-3628)
+
+r
+
+.;/~.
+
+TE (AC-3578)
+Special Counsel to the Solicitor
+
+
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C. 20549-0606
+(202) 942-0837 (Capute)
+
+Dated: May 8, 2000
+
+(
+
+-29 ­
+
+CERTIFICATE OF SERVICE
+I, Allan A. Capute, am a member of the bars of Maryland and the District of
+Columbia, and I hereby certify that on May 8, 2000 1 caused to be served two
+copies of the Brief of the Securities and Exchange, Commission, Amicus Curiae by
+overnight Federal Express on:
+
+.'.
+Paul D. Wexler, Esq.
+. Brager,Wexler, Eagel & Morgenstern
+900 Third Avenue
+New York, New York 10022
+Counsel for the Plaintiff Barbara Schaffer,
+Derivatively on behalf of LaserSight
+Incorporated
+Steven C. Bennet, Esq.
+
+Jones, Day, Reavis & Pogue
+
+599 Lexington Avenue
+
+New York, New York 10022
+
+Counsel for Defendant Societe Generale
+
+
+Scott Edelman, Esq.
+
+Richard E. Rosberger, Esq.
+
+Milbank, Tweed, Hadley & McCloy
+
+1 Chase Manhattan Plaza
+
+New York, New York 10005
+Counsel for Defendants CC Investments and
+
+Castle Creek Partners, LCC
+Daniel J. Kramer, Esq.
+
+Shulte, Roth & Zabell
+
+900 Third Avenue
+
+New.York, New York 10022
+
+Counsel for Defendants Shepherd
+
+Investments International, Stark
+International, Brian J. Stark, and
+Michael A. Roth
+
+Han A. Capute (~C-3578)
+(202) 942-0837
+
+!'# .
+
+

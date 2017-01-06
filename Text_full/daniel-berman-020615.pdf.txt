@@ -1,0 +1,3722 @@
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page1 of 72
+
+14-4626 
+
+UNITED STATES COURT OF APPEALS
+
+FOR THE SECOND CIRCUIT
+
+____________________________________________________________________________________
+
+DANIEL BERMAN,
+Plaintiff-Appellant,
+v.
+NEO@OGILVY LLC and WPP GROUP USA, INC.,
+Defendants-Appellees.
+____________________________________________________________________________________
+
+On Appeal from the United States District Court
+for the Southern District of New York
+____________________________________________________________________________________
+
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE IN SUPPORT OF THE APPELLANT
+____________________________________________________________________________________
+
+ANNE K. SMALL
+General Counsel
+MICHAEL A. CONLEY
+Deputy General Counsel
+WILLIAM K. SHIREY
+Assistant General Counsel
+STEPHEN G. YODER
+Senior Counsel
+Securities and Exchange Commission
+100 F Street, N.E.
+Washington, D.C. 20549-9040
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page2 of 72
+
+TABLE OF CONTENTS
+
+TABLE OF AUTHORITIES ....................................................................................iv
+
+STATEMENT OF THE ISSUE .................................................................................1
+
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+AND SUMMARY OF ITS POSITION ..........................................................2
+STATEMENT OF THE CASE..................................................................................4
+
+A.	
+
+The securities laws recognize that internal company reporting by
+employees and others is important for deterring, detecting, and
+stopping unlawful conduct that may harm investors. ......................................4
+
+B.	
+
+By providing new incentives and protections for individuals to
+engage in whistleblowing activity, the Dodd-Frank whistleblower
+program enhances the existing securities-law enforcement scheme,
+including internal company reporting. ............................................................9
+1.	
+
+The Commission carefully calibrated the rules implementing
+the monetary award component of the whistleblower program
+to ensure that individuals were not disincentivized from first
+reporting internally. ...............................................................................9
+
+2.	
+
+Using its broad rulemaking authority, the Commission
+adopted a rule clarifying that employment retaliation is
+prohibited against individuals who engage in any of the
+whistleblowing activity described in Section
+21F(h)(1)(A)(iii)—including making internal reports at public
+companies of securities fraud violations. ............................................13
+
+STANDARD OF REVIEW .....................................................................................17
+
+ARGUMENT ...........................................................................................................18
+
+I.	
+
+Section 21F does not unambiguously demonstrate a Congressional
+intent to restrict employment anti-retaliation protection to only those
+individuals who provide the Commission with information relating
+to a violation of the securities laws. ..............................................................18
+ii
+
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page3 of 72
+
+II.	
+
+In light of the ambiguity here, the Commission adopted a reasonable
+
+interpretation in Rule 21F-2(b)(1) that warrants judicial deference. ............27
+
+
+III.	
+
+Failure to defer to Rule 21F-2(b)(1) could arbitrarily and irrationally
+
+deny the employment retaliation protections afforded by Dodd-
+
+Frank to individuals who, before coming to the Commission, first
+
+report potential securities law violations to the U.S. Department of
+
+Justice or Self-Regulatory Organizations such as FINRA. ...........................31
+
+
+CONCLUSION ........................................................................................................37
+
+STATUTORY ADDENDUM ................................................................ Addendum 1
+
+DECISIONAL ADDENDUM ................................................................ Addendum 8
+
+CERTIFICATIONS
+CERTIFICATE OF SERVICE
+
+iii
+
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page4 of 72
+
+TABLE OF AUTHORITIES
+CASES
+
+Page
+
+Ahmad v. Morgan Stanley & Co., 2 F. Supp. 3d 491
+
+(S.D.N.Y. 2014).............................................................................................27
+
+Asadi v. G.E. Energy (U.S.A.), L.L.C., 720 F.3d 620 
+
+(5th Cir. 2013) ..................................................................... 22, 24, 25, passim
+
+Azim v. Tortoise Capital Advisors, LLC, No. 13-2267,
+
+2014 WL 707235 (D. Kans. Feb. 24, 2014), objections
+overruled, 2014 WL 4352069 (D. Kans. Sept. 2, 2014) ...............................28
+
+Banko v. Apple, Inc., No. 13-02977, 2013 WL 7394596
+
+(N.D. Cal. Sept. 27, 2013) .............................................................................28
+
+Bussing v. COR Clearing, LLC, No. 8:12-cv-238,
+
+2014 WL 2111207 (D. Neb. May 21, 2014) ...........................................28, 35
+
+Career College Ass’n v. Riley, 74 F.3d 1265 (D.C. Cir. 1996) ...............................18
+
+Chevron, U.S.A., Inc. v. Natural Res. Def. Council, Inc., 
+
+467 U.S. 837 (1984)...................................................................................2, 17
+
+Connolly v. Remkes, No. 5:14-CV-01344, 2014 WL 5473144 
+
+(N.D. Cal. Oct. 28, 2014) ..............................................................................27
+
+Egan v. TradingScreen, Inc., No. 10 Civ. 8202,
+
+2011 WL 1672066 (S.D.N.Y. May 4, 2011) .................................................27
+
+Ellington v. Giacoumakis, 977 F. Supp. 2d 42 (D. Mass. 2013) .............................27
+
+Englehart v. Career Educ. Corp., No. 8:14-cv-444,
+
+2014 WL 2619501 (M.D. Fla. May 12, 2014) ..............................................28
+
+Free Enter. Fund v. Pub. Co. Accounting Oversight Bd., 
+
+561 U.S. 477 (2010).........................................................................................6
+
+
+iv
+
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page5 of 72
+
+CASES (continued)
+
+Page
+
+Genberg v. Porter, 935 F. Supp. 2d 1094 (D. Colo. 2013), 
+
+appeal dismissed in relevant part, 566 Fed. App’x 719 
+
+(10th Cir. 2014) .............................................................................................28
+
+Haekal v. Refco, Inc., 198 F.3d 37 (2d Cir. 1999) ...................................................17
+
+Halliburton, Inc. v. Admin. Review Bd., No. 13-60323, 
+
+2014 WL 5861790 (5th Cir. Nov. 12, 2014) (per curiam) ............................26
+
+In re Air Cargo Shipping Servs. Antitrust Litig., 697 F.3d 154
+
+(2d Cir. 2012).................................................................................................21
+
+Jones v. SouthPeak Interactive Corp., Nos. 13-2399, 14-1765,
+
+2015 WL 309626 (4th Cir. Jan. 26, 2015).....................................................26
+
+Khazin v. TD Ameritrade Holding Corp., No. 13-4149,
+
+2014 WL 940703 (D.N.J. Mar. 11, 2014), aff’d on other
+grounds, 773 F.3d 488 (3d Cir. 2014) ...........................................................27
+
+Kramer v. Trans-Lux Corp., No. 11 Civ. 1424,
+
+2012 WL 4444820 (D. Conn. Sept. 25, 2012)...............................................28
+
+Lawson v. Suwannee First & S.S. Co., 336 U.S. 198 (1949) ..................................28
+
+Liu v. Siemens, A.G., 978 F. Supp. 2d 325 (S.D.N.Y. 2013), 
+
+aff’d on other grounds, 763 F.3d 175 (2d Cir. 2014) ....................................23
+
+McNamee v. Dep’t of the Treasury, 488 F.3d 100 (2d Cir. 1007)...........................17
+
+Mei Juan Zheng v. Holder, 672 F.3d 178 (2d Cir. 2012) ........................................18
+
+Microsoft Corp. v. i4i Ltd. P’ship, 131 S. Ct. 2238 (2011) .....................................27
+
+Murray v. UBS Sec., LLC, No. 12 Civ. 5914,
+
+2013 WL 2190084 (S.D.N.Y. May 21, 2013) ...............................................27
+
+Nat’l Ass’n of Home Builders v. Defenders of Wildlife, 
+
+551 U.S. 644 (2007).......................................................................................17
+
+v
+
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page6 of 72
+
+CASES (continued)
+
+Page
+
+Nollner v. S. Baptist Convention, Inc., 852 F. Supp. 2d 986
+
+(M.D. Tenn. 2012) .........................................................................................28
+
+Nw. Austin Mun. Util. Dist. No. One v. Holder, 
+
+557 U.S. 193 (2009)................................................................................. 27-28
+
+N.Y. Pub. Interest Research Group v. Whitman, 321 F.3d 316
+
+(2d Cir. 2003)...........................................................................................17, 18
+
+Peters v. LifeLock Inc., No. 2:14-cv-00576, Dkt. 47 
+
+(D. Ariz. Sept. 19, 2014) ...............................................................................27
+
+Philko Aviation, Inc. v. Shacket, 462 U.S. 406 (1985) ............................................28
+
+Rosenblum v. Thomson Reuters (Markets) LLC, 
+
+984 F. Supp. 2d 141 (S.D.N.Y. 2013) ...........................................................27
+
+Sullivan v. Everhart, 494 U.S. 83 (1990).................................................................18
+
+United States v. Mead Corp., 533 U.S. 218 (2001) .................................................17
+
+United States v. Wilson, 503 U.S. 329 (1992) .........................................................35
+
+Util. Air Regulatory Grp. v. EPA, 134 S. Ct. 2427 (2014) ......................................21
+
+Verfuerth v. Orion Energy Sys., Inc., No. 14-C-352,
+
+2014 WL 5682514 (E.D. Wisc. Nov. 4, 2014)..............................................28
+
+Wagner v. Bank of Am. Corp., No. 12-cv-00381,
+
+2013 WL 3786643 (D. Colo. July 19, 2013), aff’d on 
+
+other grounds, 571 Fed. App’x 698 (10th Cir. 2014) ...................................28
+
+Yang v. Navigators Group, Inc., No. 13-cv-2073,
+
+2014 WL 1870802 (S.D.N.Y. May 8, 2014) .................................................27
+
+Zann Kwan v. Andalex Group LLC, 737 F.3d 834 
+
+(2d Cir. 2013).................................................................................................23
+
+vi
+
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page7 of 72
+
+STATUTES
+Dodd-Frank Wall Street Reform and Consumer Protection Act,
+
+Pub. L. No. 111-203, 124 Stat. 1376 (2010) (“Dodd-Frank”)
+
+Dodd-Frank ................................................................................ 2, 3, 8, passim
+
+Dodd-Frank §748, 124 Stat. at 1743-44 ........................................................20
+
+Dodd-Frank §922, 124 Stat. at 1841-49 ..........................................................2
+
+Dodd-Frank §924(a), 124 Stat. at 1850 .......................................................2, 3
+
+Sarbanes-Oxley Act of 2002, Pub. L. No. 107, 116 Stat. 745
+
+(“Sarbanes-Oxley”)
+
+Sarbanes-Oxley ........................................................................ 6, 7, 14, passim
+
+Sarbanes-Oxley §301, 116 Stat. at 775-77 ......................................................8
+
+Sarbanes-Oxley §307, 15 U.S.C. §7245 ...................................... 7, 16, passim
+
+Sarbanes-Oxley §404, 15 U.S.C. §7262 ...................................................... 6-7
+
+Sarbanes-Oxley §806, 18 U.S.C. §1514A ............................. 8, 16, 25, passim
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+
+Section 10A, 15 U.S.C. §78j-1 ....................................................................5, 6
+
+Section 10A(b), 15 U.S.C. §78j-1(b)...........................................................5, 6
+
+Section 10A(m), 15 U.S.C. §78j-1(m) ..............................................14, 15, 16
+
+Section 10A(m)(4), 15 U.S.C. §78j-1(m)(4) .............................................7, 19
+
+Section 12, 15 U.S.C. §78l ..............................................................................6
+
+Section 15(d), 15 U.S.C. §78o.........................................................................6
+
+Section 21F, 15 U.S.C. §78u-6 .................................................. 2, 3, 4, passim
+
+Section 21F(a), 15 U.S.C. §78u-6(a) ...............................................................9
+
+Section 21F(a)(6), 15 U.S.C. §78u-6(a)(6)........................................19, 20, 26
+
+Section 21F(b), 15 U.S.C. §78u-6(b) ..................................................9, 30, 31
+
+Section 21F(c), 15 U.S.C. §78u-6(c) ...................................................9, 30, 31
+
+Section 21F(d)(2)(A), 15 U.S.C. §78u-6(d)(2)(A) ....................................1, 24
+
+Section 21F(h)(1), 15 U.S.C. §78u-6(h)(1) ........................... 1, 13, 15, passim
+
+Section 21F(h)(1)(A), 15 U.S.C. §78u-6(h)(1)(A) .............. 1-2 13, 14, passim
+
+Section 21F(h)(1)(A)(i), 
+
+15 U.S.C. §78u-6(h)(1)(A)(i) .......................................... 14, 19, passim
+
+Section 21F(h)(1)(A)(ii), 
+
+15 U.S.C. §78u-6(h)(1)(A)(ii) ......................................... 14, 19, passim
+
+vii
+
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page8 of 72
+
+STATUTES (continued)
+
+Page
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq. (continued)
+Section 21F(h)(1)(A)(iii), 
+
+15 U.S.C. §78u-6(h)(1)(A)(iii) .................................. 14, 15, 16, passim
+
+Section 21F(h)(1)(B), 15 U.S.C. §78u-6(h)(1)(B) ..................................14, 23
+
+Section 21F(h)(1)(B)(i), 
+
+15 U.S.C. §78u-6(h)(1)(B)(i) ..............................................................14
+
+Section 21F(h)(1)(C), 15 U.S.C. §78u-6(h)(1)(C) ........................................14
+
+Section 21F(h)(2), 15 U.S.C. §78u-6(h)(2) ...................................................24
+
+Section 21F(j), 15 U.S.C. §78u-6(j) ................................................................9
+
+Private Securities Litigation Reform Act of 1995, Pub. L. No. 104-67,
+
+§301, 109 Stat. 737, 762-64.............................................................................5
+
+Section 23(h)(1) of the Commodity Exchange Act,
+
+7 U.S.C. §26(h)(1) .........................................................................................20
+
+18 U.S.C. §1341 .........................................................................................................8
+
+18 U.S.C. §1343 .........................................................................................................8
+
+18 U.S.C. §1344 .........................................................................................................8
+
+18 U.S.C. §1348 .........................................................................................................8
+
+18 U.S.C. §1513(e) ......................................................................................13, 14, 19
+
+18 U.S.C. §1514A(a)......................................................................................8, 32, 34
+
+18 U.S.C. §1514A(a)(1)(C) .......................................................................................8
+
+18 U.S.C. §1514A(c)(1) ...........................................................................................26
+
+18 U.S.C. §1514A(c)(2)(C) .....................................................................................26
+
+RULES
+Rules under the Securities Exchange Act of 1934, 17 C.F.R. Part 240
+
+Rule 10A-3(b)(3), 17 C.F.R. §240.10A-3(b)(3) ..............................................8
+
+Rule 17a-5(h)(2), 17 C.F.R. §240.17a-5(h)(2) ................................................8
+
+Rule 21F-2(b)(1), 17 C.F.R. §240.21F-2(b)(1) ..................... 4, 14, 15, passim
+
+Rule 21F-2(b)(1)(ii), 17 C.F.R. §240.21F-2(b)(1)(ii) ...................................15
+
+Rule 21F-2(b)(2), 17 C.F.R. §240.21F-2(b)(2) .............................................15
+
+Rule 21F-4(b)(4), 17 C.F.R. §240.21F-4(b)(4) .............................................13
+
+Rule 21F-4(b)(7), 17 C.F.R. §240.21F-4(b)(7) .................................12, 20, 32
+
+viii
+
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page9 of 72
+
+RULES (continued)
+Rules under the Securities Exchange Act of 1934, 17 C.F.R. Part 240 (continued)
+Rule 21F-4(c)(3), 17 C.F.R. §240.21F-4(c)(3)..............................................12
+Rule 21F-6(a)(4), 17 C.F.R. §240.21F-6(a)(4)..............................................12
+Rule 21F-6(b)(3), 17 C.F.R. §240.21F-6(b)(3) .............................................12
+Rules under the Investment Advisers Act of 1940, 17 C.F.R. Part 275
+Rule 204A-1(a)(4), 17 C.F.R. §275.204A-1(a)(4) .......................................... 8
+Rule 206(4)-2(a)(6)(ii), 17 C.F.R. §275.206(4)-2(a)(6)(ii) ............................. 8
+Rule 38a-1 under the Investment Company Act of 1940,
+17 C.F.R. §270.38a-1(a)(4) .............................................................................8
+Rule 3(d)(2), Standards of Professional Conduct for Attorneys
+Appearing and Practicing Before the Commission in the
+Representation of an Issuer, 17 C.F.R. §205.3(d)(2) ...................................... 7
+Procedures for Handling Retaliation Complaints under Section 806 of
+the Sarbanes-Oxley Act of 2002, 29 C.F.R. Part 1980
+29 C.F.R. §1980 .............................................................................................26
+29 C.F.R. §1980.105 ......................................................................................26
+29 C.F.R. §1980.106-110 ..............................................................................26
+Fed. R. App. P. 29(a) .................................................................................................2
+LEGISLATIVE MATERIALS
+H.R. 4173, 111th Cong. §7203(a) (as passed by House Dec. 11, 2009) ................. 20
+H.R. 4173, 111th Cong. §922(a) (as passed by Senate May 20, 2010) ................... 20
+H.R. 4173, 111th Cong. §922(a) (conference base text) .........................................20
+
+ix
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page10 of 72
+
+LEGISLATIVE MATERIALS (continued)
+SEC and Corporate Audits (Part 6): Hearings on Detecting and
+Disclosing Financial Fraud Before Subcomm. on Oversight and
+Investigations of the Comm. on Energy and Commerce,
+99th Cong. 345 (1986) (testimony of John Shad, Chairman) ........................ 6
+ADMINISTRATIVE MATERIALS
+Proposed Rules for Implementing the Whistleblower Provisions of
+Section 21F of the Securities Exchange Act of 1934,
+75 Fed. Reg. 70488 (Nov. 17, 2010) ....................................... 3, 5, 10, passim
+Report of Investigation Pursuant to Section 21(A) of the Securities
+Exchange Act of 1934 and Commission Statement on the
+Relationship of Cooperation to Agency Enforcement Decisions,
+2001 WL 1301408 (Oct. 23, 2001).................................................................. 5
+Request for Comment on NASDAQ Petition, 68 Fed. Reg. 27722
+(May 20, 2003)
+
+36
+
+Securities Whistleblower Incentives and Protections,
+76 Fed. Reg. 34300 (June 13, 2011) .......................................... 3, 4, 5, passim
+MISCELLANEOUS
+Orly Lobel, Lawyering Loyalties: Speech Rights and Duties Within
+Twenty-First-Century New Governance, 77 Fordham L. Rev.
+1245 (2009) ..............................................................................................16, 17
+
+x
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page11 of 72
+
+No. 14-4626
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+___________________________________________________
+DANIEL BERMAN,
+Plaintiff-Appellant,
+v.
+NEO@OGILVY LLC and WPP GROUP USA, INC.,
+Defendants-Appellees.
+___________________________________________________
+On Appeal from the United States District Court
+for the Southern District of New York
+___________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE IN SUPPORT OF THE APPELLANT
+___________________________________________________
+STATEMENT OF THE ISSUE
+The Securities and Exchange Commission (“Commission”), after noticeand-comment rulemaking, issued a rule to clarify an ambiguity in the
+whistleblower employment anti-retaliation provisions in Section 21F(h)(1) of the
+Securities Exchange Act of 1934 (“Exchange Act”), 15 U.S.C. §78u-6(h)(1). The
+Commission’s rule interpreted the anti-retaliation protections to extend to any
+individual who engages in the whistleblowing activities described in Section
+21F(h)(1)(A), irrespective of whether the individual makes a separate report to the
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page12 of 72
+
+Commission. Is the Commission’s rule entitled to deference under Chevron,
+U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984)?
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+AND SUMMARY OF ITS POSITION
+The Commission—the agency principally responsible for the administration
+of the federal securities laws—submits this brief as amicus curiae pursuant to Fed.
+R. App. P. 29(a) to address an important securities law issue presented in this
+appeal.
+Congress, in Section 922 of the Dodd-Frank Wall Street Reform and
+Consumer Protection Act (“Dodd-Frank”), Pub. L. No. 111-203, 124 Stat. 1376,
+1841-49 (2010), amended the Exchange Act to add Section 21F, entitled
+“Securities Whistleblower Incentives and Protection” and codified at 15 U.S.C.
+§78u-6. Section 21F directs the Commission to pay awards to individuals whose
+reports to the Commission about violations of the securities laws result in
+successful Commission enforcement actions, and prohibits employers from
+retaliating against individuals in the terms and conditions of their employment
+when they engage in certain specified whistleblowing activities. (The award
+program and anti-retaliation protections are referred to collectively herein as “the
+whistleblower program.”)
+In May 2011, at Congress’s direction, the Commission issued final rules
+“implementing the provisions of Section 21F.” See Dodd-Frank §924(a), 124 Stat.
+2
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page13 of 72
+
+at 1850. Throughout the rulemaking process, the Commission considered the
+“significant issue” of how to ensure that the whistleblower program does not
+undermine the willingness of individuals to make whistleblower reports internally
+at their companies before they make reports to the Commission. Securities
+Whistleblower Incentives and Protections (“Adopting Release”), 76 Fed. Reg.
+34300, 34300, 34323 (June 13, 2011); Proposed Rules for Implementing the
+Whistleblower Provisions of Section 21F of the Securities Exchange Act of 1934
+(“Proposing Release”), 75 Fed. Reg. 70488, 70488 (Nov. 17, 2010). The
+Commission’s final rules were carefully calibrated to achieve this objective by
+providing “strong incentives” for individuals in appropriate circumstances to report
+internally in the first instance. Adopting Release at 34301, 34322. 1
+
+1
+
+The Commission recognized that internal reporting is not always
+appropriate, and the decision whether to do so (either prior to reporting to the
+Commission or at all) is best left for whistleblowers to determine based on the
+particular facts and circumstances. See Adopting Release at 34327. Among the
+considerations a whistleblower would likely consider are: (i) whether the
+employer has an anonymous reporting system; (ii) whether the potential
+misconduct involves upper-level management; (iii) whether the misconduct is still
+ongoing and poses a risk of sufficiently significant harm to investors that
+immediate reporting to the Commission is more appropriate; and (iv) whether the
+employer may be prone to bad faith conduct such as the destruction of evidence.
+Id. at 34326.
+3
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page14 of 72
+
+One of those rules—Exchange Act Rule 21F-2(b)(1), 17 C.F.R. §240.21F2(b)(1)—is at issue in this litigation. 2 The Commission has a strong programmatic
+interest in demonstrating that the rule’s reasonable interpretation of certain
+ambiguous statutory language was a valid exercise of the Commission’s broad
+rulemaking authority under Section 21F. This interest arises for two related
+reasons. First, the rule helps protect individuals who choose to report potential
+violations internally in the first instance (i.e., before reporting to the Commission),
+and thus is an important component of the overall design of the whistleblower
+program. Second, if the rule were invalidated, the Commission’s authority to
+pursue enforcement actions against employers that retaliate against individuals
+who report internally would be substantially weakened.
+STATEMENT OF THE CASE
+A.
+
+The securities laws recognize that internal company reporting by
+employees and others is important for deterring, detecting, and
+stopping unlawful conduct that may harm investors.
+Companies’ processes for the internal reporting of violations of law and
+
+other misconduct “play an important role in achieving compliance with the
+securities laws.” Adopting Release at 34325; accord id. at 34324. Among other
+things, these internal reporting processes can help companies to promptly identify,
+correct, and self-report unlawful conduct by officers, employees, or others
+2
+
+Each rule designated in this brief as Exchange Act Rule 21F-___ is codified
+at 17 C.F.R. §240.21F-___.
+4
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page15 of 72
+
+connected to the company. See generally Proposing Release at 70496. In this
+way, “reporting through internal compliance procedures can complement or
+otherwise appreciably enhance [the Commission’s] enforcement efforts … .”
+Adopting Release at 34359 n.450; see also Report of Investigation Pursuant to
+Section 21(A) of the Securities Exchange Act of 1934 and Commission Statement
+on the Relationship of Cooperation to Agency Enforcement Decisions, 2001 WL
+1301408, at *1 (Oct. 23, 2001) (“When businesses seek out, self-report and rectify
+illegal conduct, and otherwise cooperate with Commission staff, large expenditures
+of government and shareholder resources can be avoided and investors can benefit
+more promptly.”). 3
+Recognizing the significant role that internal company reporting can play,
+Congress for nearly two decades has enacted a series of amendments to the
+securities laws to encourage, and in some instances to require, internal reporting of
+potential misconduct. In 1995, Congress amended the Exchange Act to add
+Section 10A(b), entitled “Required Response to Audit Discoveries.” See Private
+Securities Litigation Reform Act of 1995, Pub. L. No. 104-67, §301, 109 Stat. 737,
+762-64. Section 10A(b) imposes a series of internal company disclosure
+obligations on a registered public accounting firm that, during the course of
+
+3
+
+To be clear, as the Commission has advised, “while internal compliance
+programs are valuable, they are not substitutes for strong law enforcement.”
+Adopting Release at 34326 (emphasis added).
+5
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page16 of 72
+
+conducting an audit of a public company required by the Exchange Act, discovers
+that an illegal act connected to the company has occurred. 4 Section 10A(b)
+describes a process of disclosure by the auditor to the Commission after the
+auditor’s internal disclosures occur and certain other conditions are met, including
+a failure on the company’s part to take an appropriate response. 5
+In 2002, Congress enacted the Sarbanes-Oxley Act of 2002 (“SarbanesOxley”), Pub. L. No. 107-204, 116 Stat. 745, in response to “a series of celebrated
+accounting debacles” 6 involving companies such as Enron and WorldCom. As
+part of Sarbanes-Oxley, Congress enacted several additional provisions related to
+the internal company reporting of wrongdoing. 7 In Section 307, for example,
+
+4
+
+This brief uses the term “public company” to refer to a company with a class
+of securities registered under Section 12 of the Exchange Act and those required to
+file reports under Section 15(d) of that Act.
+5
+
+An early version of the legislative proposal that became Section 10A would
+have required auditors to report immediately to the Commission. SEC Chairman
+John Shad testified before Congress at the time in opposition to such a reporting
+requirement. See SEC and Corporate Audits (Part 6): Hearings on Detecting and
+Disclosing Financial Fraud Before Subcomm. on Oversight and Investigations of
+the Comm. on Energy and Commerce, 99th Cong. 345 (1986) (“[W]hy not give
+management an opportunity to respond to suspicions and take corrective action?”).
+6
+
+Free Enter. Fund v. Pub. Co. Accounting Oversight Bd., 561 U.S. 477, 484
+(2010).
+7
+
+A principal aim of Sarbanes-Oxley was to promote the establishment of
+robust internal corporate governance mechanisms and processes that could
+promptly identify and remedy violations. See, e.g., Sarbanes-Oxley §404, 15
+6
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page17 of 72
+
+Congress directed the Commission to issue rules requiring attorneys appearing and
+practicing before the Commission in the representation of public companies “to
+report evidence of a material violation” of the securities laws or any “breach of
+fiduciary duty or similar violation by the company or any agent thereof” to
+specified company officials. Sarbanes-Oxley §307, 15 U.S.C. §7245. These
+attorneys are not required to make reports to the Commission and, indeed, may
+often be precluded from doing so as a result of their ethical obligations to their
+clients.8 Similarly, Sarbanes-Oxley added Exchange Act Section 10A(m)(4),
+which required the Commission, by rule, to direct that national securities
+exchanges and national securities associations require that audit committees of
+listed companies establish internal company procedures allowing employees and
+others to submit complaints “regarding accounting, internal accounting controls, or
+auditing matters,” and to report anonymously “concerns regarding questionable
+
+U.S.C. §7262 (requiring internal compliance systems and an annual audit by
+outside auditors).
+8
+
+Only in limited situations—where an attorney reasonably believes it is
+“necessary” to report to the Commission to prevent a securities law violation that
+will cause substantial financial injury, or to correct past violations of similar
+severity where the attorney’s services were used—may attorneys report evidence
+of a material violation to the Commission. 17 C.F.R. §205.3(d)(2). But even when
+such disclosure to the Commission is permitted, an attorney will typically need to
+report internally first in order to satisfy the requirement that disclosure to the
+Commission may be necessary.
+7
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page18 of 72
+
+accounting or auditing matters.” See Sarbanes-Oxley §301, 116 Stat. at 775-77; 17
+C.F.R. §240.10A-3(b)(3).
+Further, Section 806 of Sarbanes-Oxley (as later amended by Dodd-Frank)
+prohibited public companies, certain related persons or entities, and nationally
+recognized statistical rating organizations from engaging in employment retaliation
+against an employee who makes certain whistleblower disclosures concerning,
+among other things, securities fraud (18 U.S.C. §1348), bank fraud (id. §1344),
+mail fraud (id. §1341), wire fraud (id. §1343), or any violation of a Commission
+rule or regulation. 18 U.S.C. §1514A(a). The whistleblower disclosures are
+protected if they are made to “a person with supervisory authority over the
+employee (or such other person working for the employer who has the authority to
+investigate, discover, or terminate misconduct),” or to Congress or certain
+governmental agencies (including the Commission). Id. §1514A(a)(1)(C).9
+
+9
+
+The Commission has periodically adopted rules and regulations requiring
+internal reporting in certain circumstances either within or among regulated
+entities. See, e.g., 17 C.F.R. §270.38a-1(a)(4) (requiring the chief compliance
+officer of a mutual fund to report the details of any material compliance matters to
+the fund’s board); 17 C.F.R. §240.17a-5(h)(2) (requiring the auditor of a brokerdealer to report material inadequacies to the chief financial officer);17 C.F.R.
+§275.204A-1(a)(4) (requiring each investment adviser to establish a code of ethics
+requiring supervised persons to report any violations thereof to the chief
+compliance officer); 17 C.F.R. §275.206(4)-2(a)(6)(ii) (requiring each investment
+adviser to obtain an internal control report with respect to custody of client assets
+maintained by the investment adviser or an affiliate).
+8
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page19 of 72
+
+B.
+
+By providing new incentives and protections for individuals to engage in
+whistleblowing activity, the Dodd-Frank whistleblower program
+enhances the existing securities-law enforcement scheme, including
+internal company reporting.
+As noted above, Dodd-Frank established the Commission’s new
+
+whistleblower program in 2010 by adding Section 21F to the Exchange Act.
+Section 21F expressly authorized the Commission “to issue such rules and
+regulations as may be necessary or appropriate to implement the provisions of this
+section consistent with the purposes of this section.” Exchange Act §21F(j). In
+May 2011, the Commission used that broad authority to adopt final rules
+implementing both the monetary award and employment anti-retaliation aspects of
+the whistleblower program.
+1.
+
+The Commission carefully calibrated the rules implementing the
+monetary award component of the whistleblower program to
+ensure that individuals were not disincentivized from first
+reporting internally.
+
+Section 21F directs the Commission to pay awards, subject to certain
+limitations and conditions, to individuals who voluntarily provide the Commission
+with original information about a violation of the securities laws that leads to the
+successful enforcement of an action brought by the Commission resulting in
+monetary sanctions exceeding $1,000,000. 10 See Exchange Act §21F(a)-(c).
+
+10
+
+As discussed infra Argument Part III, Section 21F also provides for awards
+where the same original information that led to a successful Commission
+enforcement action also led to a successful enforcement action by certain other
+9
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page20 of 72
+
+Further, Section 21F affords the Commission discretion to set the amount of each
+award within a range of 10 percent to 30 percent of the total monetary sanctions
+collected. Id.
+A principal challenge the Commission faced in crafting rules to implement
+the award program was ensuring that employees and others were not dissuaded
+from reporting internally due to the possibility of a monetary award. See
+Proposing Release at 70488 (expressing the Commission’s desire “not to
+discourage whistleblowers who work for companies that have robust compliance
+programs [from] first report[ing] the violation to appropriate company personnel”)
+(emphasis added). Were this to happen, the Commission recognized, the result
+could be a reduction in the “effectiveness of a company’s existing compliance,
+legal, audit and similar internal processes for investigating and responding to
+potential violations of the Federal securities laws,” which in turn could weaken
+corporate compliance with the securities laws. Id. at 70488.11 The Commission
+
+statutorily specified law enforcement and regulatory authorities, including the U.S.
+Department of Justice and the various self-regulatory organizations that are under
+the Commission’s supervision (e.g., FINRA).
+11
+
+Cf. Proposing Release at 70516 (explaining that “allow[ing] a company a
+reasonable period of time to investigate and respond to potential securities laws
+violations (or at least begin an investigation) prior to [an individual making a
+report] to the Commission” is “consistent with the Commission’s efforts to
+encourage companies to create and implement strong corporate compliance
+programs”).
+10
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page21 of 72
+
+also recognized that “reporting through internal compliance procedures can
+complement or otherwise appreciably enhance [its] enforcement efforts in
+appropriate circumstances.” Adopting Release at 34359 n.450.
+For instance, the subject company may at times be better able to
+distinguish between meritorious and frivolous claims, and may make
+such findings available for the Commission. This would be
+particularly true in instances where the reported matter entails a high
+level of institutional or company-specific knowledge and/or the
+company has a well-functioning internal compliance program in
+place. Screening allegations through internal compliance programs
+may limit false or frivolous claims, provide the entity an opportunity
+to resolve the violation and report the result to the Commission, and
+allow the Commission to use its resources more efficiently.
+Id. 12
+Accordingly, the Commission “tailored the final rules to provide
+whistleblowers who are otherwise pre-disposed to report internally, but who may
+also be affected by financial incentives, with additional economic incentives to
+continue to report internally” in the first instance.13 Id. at 34360. The final rules
+seek to do this in three principal ways:
+
+12
+
+See also Proposing Release at 70516 (explaining that allowing individuals to
+first report internally “provides a mechanism by which some of th[e] erroneous
+[tips] may be eliminated before reaching the Commission,” and that otherwise “a
+large number of tips of varying quality [could] caus[e] the Commission to incur
+costs to process and validate the information”).
+
+13
+
+Many commenters during the rulemaking, particularly industry-affiliated
+commenters, urged the Commission to encourage or require individuals to report
+internally before reporting to the Commission. See, e.g., Adopting Release at
+11
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page22 of 72
+
+ An individual “who reports internally can collect a whistleblower
+award from the Commission if his internal report to the company or
+entity results in a successful covered action.” Id. (discussing
+Exchange Act Rule 21F-4(c)(3)).
+ An individual “who first reports [pursuant] to an entity’s internal
+whistleblower, legal, or compliance procedures for reporting
+allegations of possible violations of law and within 120 days reports
+to the Commission” will be treated for purposes of an award as “if
+[the submission to the Commission] had been made at the earlier
+internal reporting date.” Id. at 34322 (emphasis added) (discussing
+Exchange Act Rule 21F-4(b)(7)). “This means that even if, in the
+interim, another whistleblower has made a submission that caused the
+[Commission’s] staff to begin an investigation into the same matter,
+the [individual] who had first reported internally will be considered
+the first whistleblower who came to the Commission … .” Id.
+ “In addition, the final rules provide that when determining the amount
+of an award, the Commission will consider as a plus-factor the
+whistleblower’s participation in an entity’s internal compliance
+procedures.” Id. at 34360 (discussing Exchange Act Rule 21F6(a)(4)).14 The ability to adjust an award upward based on internal
+reporting, the Commission explained, would “allow [the Commission]
+to account for a reduced monetary sanction … where the internal
+reporting potentially resulted in a lower monetary sanction” because
+the company responded to the internal report by engaging in
+remediation, self-reporting and cooperating with the Commission. Id.
+at 34360 n.455.
+Beyond the tailored financial incentives that the Commission crafted
+to encourage individuals to report internally in appropriate situations, the
+34326 n.230 (citing comment letters from, among others, the Business Roundtable
+and the U.S. Chamber of Commerce).
+14
+Relatedly, the Commission’s rules also provide that “a whistleblower’s
+interference with internal compliance and reporting is a factor that can decrease the
+amount of an award.” Adopting Release at 34301, 34331 (discussing Exchange
+Act Rule 21F-6(b)(3)).
+12
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page23 of 72
+
+final rules also require that officers, directors, trustees, and partners, as well
+as other specified personnel having internal audit or compliance
+responsibilities, must in certain instances first internally disclose the
+information about potential securities law violations and then wait 120 days
+before reporting the information to the Commission. See Exchange Act
+Rule 21F-4(b)(4). The Commission determined that this restriction was
+necessary to discourage “whistleblower submission[s] [that] might
+undermine the proper operation of internal compliance systems” that
+companies have established for responding to violations of law. Adopting
+Release at 34317.
+2.
+
+Using its broad rulemaking authority, the Commission adopted a
+rule clarifying that employment retaliation is prohibited against
+individuals who engage in any of the whistleblowing activity
+described in Section 21F(h)(1)(A)(iii)—including making internal
+reports at public companies of securities fraud violations.
+
+Section 21F(h)(1) is designed to protect employees who engage in certain
+specified whistleblowing activities. It does this in two significant ways.
+First, subparagraph (A) seeks to prevent employment retaliation by placing
+employers on notice that they may not retaliate against employees who engage in
+certain whistleblowing activity. This is clear from the express terms of the
+subparagraph, which is drafted as a prohibition directed to employers:
+(A)
+
+In General. No employer may discharge, demote, suspend,
+threaten, harass, directly or indirectly, or in any other manner
+13
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page24 of 72
+
+discriminate against, a whistleblower in the terms and
+conditions of employment because of any lawful act done by
+the whistleblower—
+(i)
+
+in providing information to the Commission in
+accordance with this section;
+
+(ii)
+
+in initiating, testifying in, or assisting in any investigation
+or judicial or administrative action of the Commission
+based upon or related to such information; or
+
+(iii)
+
+in making disclosures that are required or protected under
+the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201 et seq.),
+this chapter [i.e., the Exchange Act], including section
+78j-1(m) of this title [i.e., Section 10A(m) of the
+Exchange Act], section 1513(e) of Title 18, and any other
+law, rule, or regulation subject to the jurisdiction of the
+Commission.15
+
+Second, subparagraphs (B) and (C) address the legal remedies that employees can
+pursue against employers who have failed to heed subparagraph (A)’s
+prohibition.16
+The Commission, employing its broad rulemaking authority under Section
+21F(j), adopted two clarifying rules related to the prohibition in subparagraph (A).
+
+15
+
+As discussed infra 19-20, the disclosures listed in clause (iii) include the
+internal company reporting disclosures described above in Part A.
+
+16
+
+Subparagraph (B) provides a cause of action in federal district court for any
+“individual who alleges discharge or other discrimination in violation of
+subparagraph (A).” Exchange Act §21F(h)(1)(B)(i). Subparagraph (C) provides
+that relief in a successful action shall include reinstatement, two times back pay,
+compensation for litigation costs, expert witness fees, and reasonable attorneys’
+fees. Id. §21F(h)(1)(C).
+14
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page25 of 72
+
+The first rule expressly stated that the Commission possesses authority to bring
+civil enforcement actions and proceedings against employers who violate the
+retaliation prohibition. See Exchange Act Rule 21F-2(b)(2).
+The second rule, Exchange Act Rule 21F-2(b)(1), clarified that the
+retaliation prohibition in subparagraph (A) protects any employee who engages in
+any of the whistleblowing activities specified in clauses (i)-(iii) above, irrespective
+of whether the employee separately reports the information to the Commission. It
+provides in pertinent part:
+For purposes of the anti-retaliation protections afforded by Section
+21F(h)(1) of the Exchange Act (15 U.S.C. 78u-6(h)(1)), you are a
+whistleblower if:
+(ii)
+
+You provide that information in a manner described in Section
+21F(h)(1)(A) of the Exchange Act (15 U.S.C. 78u-6(h)(1)(A)).
+
+17 C.F.R. §240.21F-2(b)(1)(ii).
+As the Commission explained in the adopting release, this rule reflects the
+fact that clause (iii) prohibits employers from retaliating against “individuals who
+report to persons or governmental authorities other than the Commission.”
+Adopting Release at 34304 (emphasis in original). In particular, clause (iii)
+prohibits employers from retaliating against employees who make the “disclosures
+that are required or protected under the Sarbanes-Oxley Act” or the other securities
+laws, including the internal company disclosures described above in Part A. For
+example:
+15
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page26 of 72
+
+ Disclosures that Sarbanes-Oxley Section 307 requires attorneys for
+the public company to make to the company’s general counsel
+regarding potential evidence of a material violation of the securities
+laws or a breach of fiduciary duty by a corporate director;
+ Disclosures to an audit committee pursuant to Section 10A(m) of the
+Exchange Act concerning “questionable accounting or auditing
+matters” at a public company; and
+ Disclosures protected under Sarbanes-Oxley Section 806 to a
+supervisor or compliance official at a public company concerning
+possible securities fraud, wire fraud, bank fraud, or mail fraud.
+Significantly, by clarifying that the prohibition on employment
+retaliation extends to individuals who report internally in instances such as
+these (irrespective of whether they have reported to the Commission), Rule
+21F-2(b)(1) complements the overall goal of the whistleblower program
+rulemaking to maintain incentives for individuals to first report internally in
+appropriate circumstances. In the adopting release, the Commission
+recognized that the prohibition on employment retaliation would help
+preserve these incentives for internal reporting, since “[e]mployees who
+report internally in this manner will have anti-retaliation employment
+protection to the extent provided for by [Section 21F(h)(1)(A)(iii)], which
+incorporates the broad anti-retaliation protections of Sarbanes-Oxley Section
+806.” Adopting Release at 34325 n.223. See generally Orly Lobel,
+Lawyering Loyalties: Speech Rights and Duties Within Twenty-FirstCentury New Governance, 77 FORDHAM L. REV. 1245, 1250 (2009)
+16
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page27 of 72
+
+(“[I]nternal protections are particularly crucial in view of research findings
+that … employees are more likely to choose internal reporting systems.”).
+STANDARD OF REVIEW
+“The interpretation of a statute by a regulatory agency charged with its
+administration is entitled to deference if it is a permissible construction of the
+statute.” Haekal v. Refco, Inc., 198 F.3d 37, 41 (2d Cir. 1999). See also United
+States v. Mead Corp., 533 U.S. 218, 226-27 (2001) (“administrative
+implementation of a particular statutory provision qualifies for Chevron deference
+when it appears that Congress delegated authority to the agency generally to make
+rules carrying the force of law, and that the agency interpretation claiming
+deference was promulgated in the exercise of that authority”). Consideration of
+whether an agency interpretation is permissible involves two steps. First, this
+Court considers whether there is an “unambiguously expressed intent of Congress”
+on “the precise question at issue.” McNamee v. Dep’t of the Treasury, 488 F.3d
+100, 105 (2d Cir. 2007) (quoting Chevron, 467 U.S. at 842-43) (internal quotation
+marks omitted). A “fundamental ambiguity” arises where two statutory provisions
+present “seemingly categorical—and, at first glance, irreconcilable—legislative
+commands,” thereby affording the agency discretion to “harmonize[]” the
+provisions. Nat’l Ass’n of Home Builders v. Defenders of Wildlife, 551 U.S. 644,
+661-73 (2007); accord N.Y. Pub. Interest Research Group v. Whitman, 321 F.3d
+17
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page28 of 72
+
+316, 327-29 (2d Cir. 2003); Career College Ass’n v. Riley, 74 F.3d 1265, 1271-72
+(D.C. Cir. 1996).
+Second, if the statute is silent or ambiguous with respect to the specific issue,
+this Court determines whether the agency’s interpretation is reasonable, which
+means the interpretation is rational and not inconsistent with the statute. See, e.g.,
+Sullivan v. Everhart, 494 U.S. 83, 89 (1990). To find an agency’s interpretation
+rational, this Court “need not conclude that the agency construction was the only
+one it permissibly could have adopted” or “even the reading [this Court] would
+have reached if the question initially had arisen in a judicial proceeding.” Mei
+Juan Zheng v. Holder, 672 F.3d 178, 183-84 (2d Cir. 2012) (internal quotation
+omitted).
+ARGUMENT
+I.
+
+Section 21F does not unambiguously demonstrate a Congressional
+intent to restrict employment anti-retaliation protection to only those
+individuals who provide the Commission with information relating to a
+violation of the securities laws.
+Congress did not unambiguously limit the employment anti-retaliation
+
+protections in Section 21F(h)(1) to only those individuals who provide the
+Commission with information relating to a securities law violation. Rather, there
+is ambiguity on this issue given the considerable tension between clause (iii) of
+Section 21F(h)(1)(A), which as discussed above lists a broad array of
+
+18
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page29 of 72
+
+whistleblowing activity to entities and persons other than just the Commission, and
+Section 21F(a)(6), which defines “whistleblower.”
+To appreciate the significant tension between these two provisions, it is
+useful to first examine the language and structure of Section 21F(h)(1)(A). As
+quoted in full supra 13-14, Section 21F(h)(1)(A) prohibits an employer from
+retaliating against a whistleblower: (i) for “providing information to the
+Commission in accordance with this section”; (ii) for assisting in an investigation
+or action of the Commission “based upon or related to such information”; or (iii)
+for “making disclosures that are required or protected under” Sarbanes-Oxley, the
+Exchange Act, 18 U.S.C. §1513(e), “and any other law, rule, or regulation subject
+to the jurisdiction of the Commission.”
+As the quoted language makes evident, clauses (i) and (ii), together, protect
+individuals for whistleblowing to the Commission about securities law violations.
+But the anti-retaliation protection that clause (iii) affords reaches beyond just
+disclosures involving securities law violations and disclosures to the Commission.
+It covers, among other things, an employee’s submission to a public company’s
+audit committee about questionable accounting practices (including those
+questionable practices that do not rise to the level of a securities law violation)
+under Section 10A(m)(4) of the Exchange Act, or an in-house counsel’s disclosure
+
+19
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page30 of 72
+
+under Section 307 of Sarbanes-Oxley about a potential breach of the CEO’s
+fiduciary duty. 17
+Yet, the interplay of Section 21F(h)(1)(A) with the definition of
+“whistleblower” in Section 21F(a)(6) may suggest a different result. Section
+21F(h)(1)(A) protects “a whistleblower in the terms and conditions of
+employment,” and Section 21F(a)(6) in turn defines a “whistleblower” as “any
+individual who provides … information relating to a violation of the securities law
+to the Commission.” If Section 21F(a)(6)’s narrow whistleblower definition is
+read as a limitation on the overall scope of Section 21F(h)(1)(A), the disclosures
+protected under clause (iii) would be significantly restricted. Specifically, an
+individual would be protected for making one of the whistleblower disclosures
+identified in clause (iii) only if two preconditions are met:
+
+17
+
+The legislative history adds no clarity concerning Congress’s intention in
+adding clause (iii) to Section 21F(h)(1)(A). Indeed, the provision was added
+relatively late in the Dodd-Frank legislative process; it was not included either in
+the original version of the bill that passed the House, see H.R. 4173, 111th Cong.
+§7203(a) (as passed Dec. 11, 2009), or in the version that initially passed the
+Senate, see H.R. 4173, 111th Cong. §922(a) (as passed May 20, 2010). The
+language first appeared in the base conference committee draft that the Senate in
+May 2010 approved for use in the Dodd-Frank conference committee, see H.R.
+4173, 111th Cong. §922(a) (conference base text), and it remained in the final
+version of the committee bill that the House and Senate subsequently approved.
+Notably, the nearly identical statutory provision of Dodd-Frank that authorized a
+whistleblower program for the Commodity Futures Trading Commission does not
+include language comparable to clause (iii). See Dodd-Frank §748, 124 Stat. at
+1743-44 (enacting employment anti-retaliation protections as new Section 23(h)(1)
+to the Commodity Exchange Act, codified at 7 U.S.C. §26(h)(1)).
+20
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page31 of 72
+
+(1)
+
+the individual has separately submitted that same information to
+Commission, and
+
+(2)
+
+that information involves a securities law violation.
+
+But this reading raises an immediate question: If Congress had actually
+intended to protect only those “required or protected” disclosures that satisfy these
+two conditions, why would Congress craft clause (iii) to unnecessarily suggest that
+it protects a much broader class of disclosures than it actually does? Surely
+Congress could have been more explicit and more direct if it in fact intended to
+protect only those disclosures that involve securities law violations, and only if the
+employee has made a separate disclosure to the Commission. See Util. Air
+Regulatory Grp. v. EPA, 134 S. Ct. 2427, 2441 (2014) (“[T]he presumption of
+consistent usage readily yields to context, and a statutory term—even one defined
+in the statute—may take on distinct characters from association with distinct
+statutory objects calling for different implementation strategies.”) (quotations
+omitted). See also In re Air Cargo Shipping Servs. Antitrust Litig., 697 F.3d 154,
+163 (2d Cir. 2012) (rejecting “mechanical use of a statutory definition that would
+destroy one of the major purposes of enacting the provision”) (quotation omitted).
+That Congress did not unambiguously intend such a result becomes apparent
+by considering the bizarre consequences that such a narrow reading produces.
+With one possible exception, clause (iii) becomes superfluous. If an employer
+knows that an individual has made a disclosure listed in clause (iii), such as an
+21
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page32 of 72
+
+internal report about a potential securities fraud violation, and the employer is also
+aware that the individual has provided the same information to the Commission,
+then as a practical matter the individual will be protected from retaliation under
+clauses (i) and (ii). An employer will not be able to disaggregate the
+whistleblowing to the Commission from the internal whistleblowing so as
+persuasively to claim that any retaliation was solely in connection with the latter.
+Thus, where an employer knows that an individual has reported to the
+Commission, clauses (i) and (ii) would already sufficiently protect the individual
+from retaliation should the individual also wish to make the disclosures specified
+in clause (iii).
+That leaves only one situation where clause (iii) might conceivably have
+independent utility—where the employer, unaware that the individual had already
+reported to the Commission, takes an adverse employment action against the
+employee for a disclosure listed in clause (iii). Although the Fifth Circuit has
+reasoned that this potential scenario saves clause (iii) from being superfluous under
+the narrow reading of Section 21F(h)(1)’s employment anti-retaliation protection,
+Asadi v. G.E. Energy (U.S.A.), L.L.C., 720 F.3d 620, 627-28 (5th Cir. 2013), that is
+far from clear for two reasons. First, as discussed above, subparagraph (A)
+principally operates as a prohibition directed to employers; it seeks to prevent
+retaliation by placing employers on notice that they may not take adverse
+22
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page33 of 72
+
+employment action against employees who engage in certain whistleblowing
+activity. But under the scenario posited by the Asadi court, clause (iii) would be
+utterly ineffective as a preventive measure. Put simply, because in this scenario
+employers would not know that a report was made to the Commission, clause (iii)
+would have no appreciable effect in deterring employers from taking adverse
+employment action for internal reports or the other disclosures listed in clause (iii).
+Second, it is unlikely that an employee who suffers an adverse employment
+action in this situation could even rely on clause (iii) to successfully pursue a
+private action against the employer under Section 21F(h)(1)(B). Whether an
+individual’s disclosures constitute a “protected activity” under the Fifth Circuit’s
+narrow reading of clause (iii) would turn on whether the individual has made a
+separate disclosure to the Commission. But if an employer is genuinely unaware
+that the employee has separately disclosed to the Commission, any adverse
+employment action that the employer takes would appear to lack the requisite
+retaliatory intent—i.e., the intent to punish the employee for engaging in a
+protected activity. 18 Cf. Zann Kwan v. Andalex Group LLC, 737 F.3d 834, 844 (2d
+
+18
+
+As at least one district court has recognized, the alternative would be to
+construe the anti-retaliation provision to impose strict liability on an employer (i.e.,
+intent would not be an element of a retaliation claim). See Liu v. Siemens, A.G.,
+978 F. Supp. 2d 325, 332 (S.D.N.Y. 2013), aff’d on other grounds, 763 F.3d 175
+(2d Cir. 2014). But we are aware of no precedent for treating an employment antiretaliation provision as a strict liability scheme.
+23
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page34 of 72
+
+Cir. 2013) (to establish employment retaliation claim, plaintiff must show
+“defendant’s knowledge of the protected activity” and “a causal connection
+between the protected activity and the adverse employment action”) (internal
+quotation omitted). 19
+This examination of the relevant statutory language demonstrates, at a
+minimum, considerable tension and inconsistency within the text, thus revealing
+that Congress did not unambiguously express an intent to limit the employment
+anti-retaliation protections under Section 21F(h)(1) to only those individuals who
+report securities law violations to the Commission.
+Although the Fifth Circuit reached a contrary conclusion in Asadi, the
+court’s holding that the statutory language compels the narrow reading described
+above is based on a flawed understanding of the statutory scheme. The court
+approached Section 21F as though its sole purpose is “to require individuals to
+report information to the SEC to qualify as a whistleblower.” Asadi, 720 F.3d at
+630. But this fails to consider the role that Section 21F occupies within the
+broader securities-law framework, particularly the internal reporting processes that
+19
+
+A further anomaly resulting from this interpretation is that the individual, in
+order to successfully maintain a retaliation claim, would be required to “out”
+himself as someone who reported information to the Commission. This conflicts
+with Congress’s strong desire to shield a whistleblower’s identity from public
+disclosure to the fullest extent possible. See Exchange Act §21F(h)(2)
+(confidentiality provisions); see also id. §21F(d)(2)(A) (permitting anonymous
+disclosures to the Commission).
+24
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page35 of 72
+
+Congress has previously established. As discussed infra Part II, the Commission
+reasonably chose to interpret clause (iii) of Section 21F(h)(1)(A) against that
+broader framework, construing the statute to afford the same employment antiretaliation protections for individuals regardless of whether they report to the
+Commission under the new procedures established by Section 21F or instead make
+the disclosures “required or protected” under the other provisions of the securities
+laws.
+The Fifth Circuit also erroneously believed that its interpretation was
+necessary to avoid rendering the private cause of action under Sarbanes-Oxley
+Section 806, “for practical purposes, moot.” Asadi, 720 F.3d at 628. The court,
+after observing that clause (iii) covers the disclosures protected by Section 806,
+reasoned that “[i]t is unlikely … that an individual would choose to raise a
+[Sarbanes-Oxley] anti-retaliation claim instead of a Dodd-Frank whistleblowerprotection claim” because: (i) Section 21F provides “for greater monetary
+damages because it allows for recovery of two times back pay, whereas [Section
+806] provides for only back pay,” and (ii) “the applicable statute of limitations is
+substantially longer for Dodd-Frank whistleblower-protection claims.” Id. at 62829.
+But the Fifth Circuit ignored at least two countervailing advantages of a
+Sarbanes-Oxley Section 806 claim over a Dodd-Frank Section 21F claim:
+25
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page36 of 72
+
+ For individuals who want to avoid the burdens of pursuing the claim in
+court, including potential high litigation costs that they might bear if they
+do not prevail, actions under Section 806 may be attractive because the
+claims are heard (at least in the first instance) in an administrative forum
+at the Department of Labor (“DOL”). Moreover, DOL assumes
+responsibility for investigating the retaliation claim and preparing the
+evidence for an administrative law judge’s review. 20
+ Depending on the nature of the injury, a claim under Section 806 may
+afford a greater recovery. Unlike Section 21F, Section 806 provides for
+“all relief necessary to make the employee whole” and for “compensation
+for any special damages.” 18 U.S.C. §1514A(c)(1) & (c)(2)(C). This
+language has been held to authorize compensation for emotional distress
+and reputational harm. 21 Thus, individuals who have experienced
+minimal pay loss, but significant emotional injuries, may find Section
+806 actions more attractive.
+Finally, the Fifth Circuit expressed concern that any other reading of Section
+21F “would read the words ‘to the Commission’ out of the definition of
+‘whistleblower’ for purposes of the whistleblower-protection provision.” Asadi,
+720 F.3d at 628. But applying the Section 21F(a)(6) definition of whistleblower to
+Section 21F(h)(1)(A) makes the phrase “to the Commission” in clause (i) and the
+
+20
+
+DOL has delegated to its sub-agency the Occupational Safety and Health
+Administration (“OSHA”) responsibility for receiving and investigating claims
+under Section 806. See generally 29 C.F.R. §1980. If OSHA finds the employee
+suffered retaliation, it may order immediate reinstatement. Id. §1980.105.
+OSHA’s findings are subject to a de novo hearing before an administrative law
+judge and review by DOL’s Administrative Review Board. Id. §§1980.106-110.
+
+21
+
+See Jones v. SouthPeak Interactive Corp., Nos. 13-2399, 14-1765, 2015 WL
+309626, at *1 (4th Cir. Jan. 26, 2015) (“emotional distress damages are available”
+under Section 806); Halliburton, Inc. v. Admin. Review Bd., No. 13-60323, 2014
+WL 5861790, at *10 (5th Cir. Nov. 12, 2014) (per curiam) (Section 806 “affords
+noneconomic compensatory damages”).
+26
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page37 of 72
+
+similar reference in clause (ii) superfluous. That either of two competing
+interpretations yields superfluous statutory language confirms that Congress did
+not speak unambiguously on the issue. See Microsoft Corp. v. i4i Ltd. P’ship, 131
+S. Ct. 2238, 2248 (2011) (“[T]he canon against superfluity assists only where a
+competing interpretation gives effect to every clause and word of a statute.”)
+(quotation omitted).
+II.
+
+In light of the ambiguity here, the Commission adopted a reasonable
+interpretation in Rule 21F-2(b)(1) that warrants judicial deference.
+By adopting Exchange Act Rule 21F-2(b)(1) to specify what persons are
+
+whistleblowers for purposes of the anti-retaliation provisions, the Commission
+revealed its view that Section 21F(h)(1)(A) is best read as an implied exception to
+the definition of whistleblower in Section 21F(a)(6). See, e.g., Egan v.
+TradingScreen, Inc., No. 10 Civ. 8202, 2011 WL 1672066, at *5 (S.D.N.Y. May 4,
+2011). 22 See generally Nw. Austin Mun. Util. Dist. No. One v. Holder, 557 U.S.
+
+22
+
+Several other district courts have also shared the Commission’s reading of
+Section 21F(h)(1)(A). Connolly v. Remkes, No. 5:14-CV-01344, 2014 WL
+5473144, at *4-6 (N.D. Cal. Oct. 28, 2014); Peters v. LifeLock Inc., No. 2:14-cv00576, Dkt. 47, slip op. 6-13 (D. Ariz. Sept. 19, 2014); Yang v. Navigators Group,
+Inc., No. 13-cv-2073, 2014 WL 1870802, at *10-13 (S.D.N.Y. May 8, 2014);
+Khazin v. TD Ameritrade Holding Corp., No. 13-4149, 2014 WL 940703, at *3-6
+(D.N.J. Mar. 11, 2014), aff’d on other grounds, 773 F.3d 488 (3d Cir. 2014);
+Ahmad v. Morgan Stanley & Co., 2 F. Supp. 3d 491, 496 n.5 (S.D.N.Y. 2014);
+Rosenblum v. Thomson Reuters (Markets) LLC, 984 F. Supp. 2d 141, 146-48
+(S.D.N.Y. 2013); Ellington v. Giacoumakis, 977 F. Supp. 2d 42, 44-46 (D. Mass.
+2013); Murray v. UBS Secs., LLC, No. 12 Civ. 5914, 2013 WL 2190084, at *3-7
+(S.D.N.Y. May 21, 2013); Genberg v. Porter, 935 F. Supp. 2d 1094, 1106-07 (D.
+27
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page38 of 72
+
+193, 206-207 (2009) (“‘Statutory definitions control the meaning of statutory
+words, of course, in the usual case. But this is not the usual case.”) (quoting
+Lawson v. Suwannee First & S.S. Co., 336 U.S. 198, 201 (1949)); Philko Aviation,
+Inc. v. Shacket, 462 U.S. 406, 411-12 (1985) (similar). The Commission thus
+promulgated Exchange Act Rule 21F-2(b)(1) to clarify that, “[f]or purposes of the
+anti-retaliation protections afforded by Section 21F(h)(1) of the Exchange Act, you
+are a whistleblower if … [y]ou provide that information in a manner described in
+Section 21F(h)(1)(A).”
+In doing so, the Commission concluded “that the statutory anti-retaliation
+protections apply to three different categories of whistleblowers, and the third
+category [i.e., clause (iii)] includes individuals who report to persons or
+governmental authorities other than the Commission.” Adopting Release at 34304.
+The Commission explained that, accordingly, the anti-retaliation protections will
+Colo. 2013), appeal dismissed in relevant part, 566 Fed. App’x 719 (10th Cir.
+2014); Kramer v. Trans-Lux Corp., No. 11 Civ. 1424, 2012 WL 4444820, at *3-5
+(D. Conn. Sept. 25, 2012); Nollner v. S. Baptist Convention, Inc., 852 F. Supp. 2d
+986, 993-95 (M.D. Tenn. 2012). See also Bussing v. COR Clearing, LLC, No.
+8:12-cv-238, 2014 WL 2111207, at *5-13 (D. Neb. May 21, 2014); Azim v.
+Tortoise Capital Advisors, LLC, No. 13-2267, 2014 WL 707235, at *1-3 (D. Kans.
+Feb. 24, 2014), objections overruled, 2014 WL 4352069 (D. Kans. Sept. 2, 2014).
+But see Verfuerth v. Orion Energy Sys., Inc., No. 14-C-352, 2014 WL 5682514, at
+*2-4 (E.D. Wisc. Nov. 4, 2014); Englehart v. Career Educ. Corp., No. 8:14-cv444, 2014 WL 2619501, at *3-9 (M.D. Fla. May 12, 2014); Banko v. Apple, Inc.,
+No. 13-02977, 2013 WL 7394596, at *3-6 (N.D. Cal. Sept. 27, 2013); Wagner v.
+Bank of Am. Corp., No. 12-cv-00381, 2013 WL 3786643, at *4-6 (D. Colo. July
+19, 2013), aff’d on other grounds, 571 Fed. App’x 698 (10th Cir. 2014).
+28
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page39 of 72
+
+extend to, among others, employees of public companies who make certain
+disclosures internally to “a person with supervisory authority over the employee or
+such other person working for the employer who has authority to investigate,
+discover, or terminate misconduct.” Id.
+The Commission’s interpretation is reasonable because it resolves the
+statutory ambiguity in a manner that effectuates the broad employment antiretaliation protections that clause (iii) contemplates. The Commission’s
+interpretation is also reasonable because, by ensuring that individuals who report
+internally first will not be potentially disadvantaged by losing employment antiretaliation protection under Section 21F, it better supports a core overall objective
+of the whistleblower rulemaking—avoiding disincentivizing individuals from
+reporting internally first in appropriate circumstances. By establishing parity
+between individuals who first report to the Commission and those who first report
+internally, the Commission’s rule avoids a two-tiered structure of anti-retaliation
+protections that might discourage some individuals from first reporting internally
+in appropriate circumstances and, thus, jeopardize the benefits that can result from
+internal reporting, supra 4-5, 15-17. The Commission’s decision to adopt this
+interpretation was reasonable in light of its view, based on its experience and
+expertise, that if internal compliance and reporting procedures “are not utilized or
+
+29
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page40 of 72
+
+working, our system of securities regulation will be less effective.” Proposing
+Release at 70500.23
+Lastly, the Commission’s interpretation was reasonable because it enhances
+the Commission’s ability to bring enforcement actions when employers take
+adverse employment actions against employees for reporting securities law
+violations internally. A contrary result that narrowly cabined this enforcement
+authority to only those situations where the employee has separately reported to the
+Commission would significantly weaken the deterrence effect on employers who
+might otherwise consider taking an adverse employment action. 24
+
+23
+
+Rule 21F-2(b)(1) also supports the whistleblower program by extending
+anti-retaliation protection to individuals who first report to designated authorities
+other than the Commission. Section 21F(b) & (c) authorize awards to such
+individuals under certain circumstances when their information leads to successful
+“related actions” by the other designated authorities. To facilitate this reporting,
+the Commission adopted Rule 21F-4(b)(7), under which individuals who first
+provide information to a designated authority and then within 120 days submit the
+same information to the Commission will be treated as though they reported to the
+Commission as of the date of the original report to the designated authority. Rule
+21F-2(b)(1) ensures that individuals who follow this reporting approach will not
+lose anti-retaliation protection during the period prior to their report to the
+Commission.
+24
+
+The Commission lacks such authority under Sarbanes-Oxley Section 806.
+30
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page41 of 72
+
+III.
+
+Failure to defer to Rule 21F-2(b)(1) could arbitrarily and irrationally
+deny the employment retaliation protections afforded by Dodd-Frank to
+individuals who, before coming to the Commission, first report potential
+securities law violations to the U.S. Department of Justice or SelfRegulatory Organizations such as FINRA.
+Important law enforcement interests beyond the considerations connected to
+
+internal company reporting counsel in favor of deference to the interpretation in
+Rule 21F-2(b)(1). Congress in Section 21F sought to encourage individuals to
+make reports of misconduct not just to the Commission, but also to certain other
+law enforcement and regulatory authorities. As demonstrated below, this
+congressional purpose is revealed through both the award program and the
+employment retaliation protections.
+Section 21F directs that, for any individual who is a meritorious
+whistleblower in a Commission enforcement action, the Commission shall pay a
+monetary award of 10 percent to 30 percent of the monetary sanctions collected in
+any “related action” if the same information that led to the successful prosecution
+of the Commission action also led to the successful prosecution of the related
+action. See Exchange Act §21F(b) & (c). A related action is “any judicial or
+administrative action brought by,” among other entities, the U.S. Department of
+Justice (“DOJ”), the federal banking regulators (including the Board of Governors
+of the Federal Reserve System and the Comptroller of the Currency), and the
+various self-regulatory organizations (“SROs”) that are subject to the jurisdiction
+31
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page42 of 72
+
+and oversight of the Commission (such as FINRA and NYSE). Significantly,
+nothing in the provisions that establish the award program requires that an
+individual report to the Commission before or at the same time as reporting to any
+of these other authorities. So, for example, an individual who provides the FBI
+with original information about a potential securities law violation before reporting
+that same information to the Commission can recover a monetary award based on
+resulting successful Commission and related actions no differently than if he or she
+had reported the information to the Commission before going to the FBI. 25
+The employment retaliation protections afforded by clause (iii) of Section
+21F(h)(1)(A), in turn, complement the related action component of the award
+program. Clause (iii) does this by prohibiting employment retaliation against
+individuals who make various types of disclosure to either the DOJ or the other
+federal government agencies that can bring related actions, as well as the SROs. 26
+
+25
+
+Under the 120-day look-back established by Exchange Act Rule 21F4(b)(7), an individual who first makes the disclosure to the FBI or any of the other
+law enforcement or regulatory authorities that can pursue a related action, and
+within 120 days submits the same information to the Commission, will be treated
+for purposes of an award determination as if the submission to the Commission had
+been made on the date of the submission to the other authority.
+26
+
+Clause (iii) provides employment retaliation protection based on disclosures
+to DOJ and the other federal agencies by expressly incorporating the “disclosures
+that are required or protected under the Sarbanes-Oxley Act,” which includes
+Sarbanes-Oxley Section 806. Section 806, in turn, prohibits employment
+retaliation based on certain disclosures of securities law violations to a “Federal
+regulatory or law enforcement agency.” 18 U.S.C. §1514A(a)(1)(A).
+32
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page43 of 72
+
+In this way, the employment retaliation protections of Section 21F(h)(1)(A) are
+generally co-extensive with the award program: clauses (i) and (ii) provide
+employment retaliation protection for providing information to the Commission,
+which may lead to a successful Commission action for which an award may be
+paid, while clause (iii) affords employment retaliation protection for providing
+information to a law enforcement or regulatory authority other than the
+Commission, which may lead to a successful related action for which an award
+may be paid. 27
+Significantly, under the interpretation provided by the Commission’s rule,
+individuals who report first to one of these other authorities before coming to the
+Commission are protected from employment retaliation under Section
+21F(h)(1)(A) to the same degree as an individual who reports first to the
+Commission. In other words, Rule 21F-2(b)(1) represents a policy judgment that
+is fully consistent with the policy judgment that Congress established in writing the
+statutory award provisions. The award provisions express no preference in how
+individuals sequence their reporting as between the Commission and the other
+authorities. So too Rule 21F-2(b)(1) ensures that individuals receive the same
+27
+
+We note that there is one exception to the general symmetry that exists
+within Section 21F between the related-action award provisions and the
+employment retaliation protections afforded by clause (iii). While the Commission
+may make an award for a related action that is a criminal matter brought by a state
+attorney general, clause (iii) does not cover disclosures made directly to state
+attorney generals.
+33
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page44 of 72
+
+employment retaliation protections regardless of whether they report to the
+Commission before or after reporting to the other authorities.
+But were this Court to reject the Commission’s interpretation and instead
+follow the Fifth Circuit’s Asadi decision, an individual who decides to report first
+to one of the other authorities could be significantly more exposed to the risks of
+employment retaliation. For example, if an individual makes a report of securities
+fraud first to the FBI and is promptly fired before making a similar report to the
+Commission, he will be unable to invoke the enhanced employment retaliation
+protections of Section 21F and will have only the protections afforded by
+Sarbanes-Oxley Section 806 (assuming the individual is within the categories of
+employees covered by that provision). 28 Yet had this individual reported to the
+Commission first, he would have the protections of both Section 21F and
+Sarbanes-Oxley Section 806. There is no basis to believe that Congress would
+have intended this disparate treatment based purely on the happenstance of which
+agency the individual reported to first given the dual responsibility that the
+
+28
+
+As noted in footnote 26, supra, Sarbanes-Oxley Section 806—in addition to
+protecting individuals against employment retaliation when they make internal
+reports of securities fraud and certain other violations—protects against
+employment retaliation when an individual makes a report to “a Federal regulatory
+or law enforcement agency.” 18 U.S.C. §1514A(a)(1)(A).
+34
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page45 of 72
+
+Commission and DOJ have for the enforcement of the securities laws.29 See
+generally United States v. Wilson, 503 U.S. 329, 334 (1992) (an interpretation that
+produces an “arbitrary” or “absurd” result should be avoided).
+And the consequences of the Asadi decision are potentially even more severe
+for an individual who first reports to an SRO and is fired before being able to make
+a similar report to the Commission. Reports to SROs fall within the scope of
+clause (iii) of Section 21F(h)(1)(A) to the extent that such disclosures are “required
+or protected” by a Commission or SRO rule (“covered disclosure”). 30 See Bussing,
+20 F. Supp. 3d at 734-35 (disclosures required or protected by SRO rules are
+covered by clause (iii)). But Sarbanes-Oxley Section 806, by contrast, does not
+provide any employment retaliation protection for any disclosures made to SROs.
+Thus, if an individual makes a covered disclosure to an SRO and is fired before
+making the same disclosure to the Commission, that individual will not only have
+no legal recourse under Section 21F, but he will also have no recourse under
+29
+
+Generally speaking, the Commission has responsibility for pursuing civil
+actions for violations of the federal securities laws while DOJ possesses criminal
+enforcement authority.
+
+30
+
+Section 21F(h)(1)(A)(iii) provides protection for any disclosure “required or
+protected” by a “rule or regulation subject to the jurisdiction of the Commission.”
+Exchange Act §21F(h)(1)(A)(iii) (emphasis added). As explained in Bussing, 20
+F. Supp. 3d at 732, 734-35, SRO rules are “subject to the jurisdiction of the
+Commission” for purposes of the employment retaliation protections of Section
+21F(h)(1) because the Commission has statutory authority to approve or
+disapprove such rules. The Commission also possesses jurisdiction to review SRO
+disciplinary proceedings in which such rules are enforced.
+35
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page46 of 72
+
+Sarbanes-Oxley Section 806 (unlike the individual who first reports to DOJ). This
+result is deeply problematic because SROs by congressional design have long been
+“a vital element in the regulation of the securities industry,” helping “enforce
+compliance by its members, and persons associated with its members, with the
+federal securities laws.” Request for Comment on NASDAQ Petition, 68 Fed. Reg.
+27722, 27722 (May 20, 2003). Given this vital SRO role, individuals frequently
+report violations of the securities laws to them in the first instance rather than
+coming directly to the Commission; so were this Court to adopt the Asadi
+approach, there is a real risk that individuals could expose themselves to retaliation
+without the benefit of the protections of Section 21F(h)(1)(A).
+The interpretation that the Commission has advanced in Rule 21F-2(b)(1)
+prevents the arbitrary and irrational results identified above by ensuring that
+individuals experience no diminution in the employment retaliation protections
+afforded to them as a result of the sequence of their reporting. Accordingly,
+deference to the Commission’s interpretation is warranted for this additional
+reason.
+
+36
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page47 of 72
+
+CONCLUSION
+For the foregoing reasons, this Court should defer to the Commission’s rule
+and hold that individuals are entitled to employment anti-retaliation protection if
+they make any of the disclosures identified in Section 21F(h)(1)(A)(iii) of the
+Exchange Act, irrespective of whether they separately report the information to the
+Commission.
+Respectfully submitted,
+ANNE K. SMALL
+General Counsel
+MICHAEL A. CONLEY
+Deputy General Counsel
+WILLIAM K. SHIREY
+Assistant General Counsel
+/s/ Stephen G. Yoder
+STEPHEN G. YODER
+Senior Counsel
+Securities and Exchange Commission
+100 F Street, N.E.
+Washington, D.C. 20549-9040
+
+February 2015
+
+37
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page48 of 72
+
+STATUTORY ADDENDUM:
+SECTION 21F(a)-(d), (h), (j)
+OF THE SECURITIES EXCHANGE ACT OF 1934,
+15 U.S.C. §78u-6(a)-(d), (h), (j)
+(a) Definitions. In this section the following definitions shall apply:
+(1) Covered judicial or administrative action. The term “covered judicial or
+administrative action” means any judicial or administrative action brought
+by the Commission under the securities laws that results in monetary
+sanctions exceeding $1,000,000.
+(2) Fund. The term “Fund” means the Securities and Exchange Commission
+Investor Protection Fund.
+(3) Original information. The term “original information” means
+information that-(A) is derived from the independent knowledge or analysis of a
+whistleblower;
+(B) is not known to the Commission from any other source, unless the
+whistleblower is the original source of the information; and
+(C) is not exclusively derived from an allegation made in a judicial or
+administrative hearing, in a governmental report, hearing, audit, or
+investigation, or from the news media, unless the whistleblower is a
+source of the information.
+(4) Monetary sanctions. The term “monetary sanctions”, when used with
+respect to any judicial or administrative action, means-(A) any monies, including penalties, disgorgement, and interest,
+ordered to be paid; and
+(B) any monies deposited into a disgorgement fund or other fund
+pursuant to section 308(b) of the Sarbanes-Oxley Act of 2002 (15
+U.S.C. 7246(b)), as a result of such action or any settlement of such
+action.
+(5) Related action. The term “related action”, when used with respect to any
+judicial or administrative action brought by the Commission under the
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page49 of 72
+
+securities laws, means any judicial or administrative action brought by an
+entity described in subclauses (I) through (IV) of subsection (h)(2)(D)(i) that
+is based upon the original information provided by a whistleblower pursuant
+to subsection (a) that led to the successful enforcement of the Commission
+action.
+(6) Whistleblower. The term “whistleblower” means any individual who
+provides, or 2 or more individuals acting jointly who provide, information
+relating to a violation of the securities laws to the Commission, in a manner
+established, by rule or regulation, by the Commission.
+(b) Awards
+(1) In general. In any covered judicial or administrative action, or related
+action, the Commission, under regulations prescribed by the Commission
+and subject to subsection (c), shall pay an award or awards to 1 or more
+whistleblowers who voluntarily provided original information to the
+Commission that led to the successful enforcement of the covered judicial or
+administrative action, or related action, in an aggregate amount equal to-(A) not less than 10 percent, in total, of what has been collected of the
+monetary sanctions imposed in the action or related actions; and
+(B) not more than 30 percent, in total, of what has been collected of
+the monetary sanctions imposed in the action or related actions.
+(2) Payment of awards. Any amount paid under paragraph (1) shall be paid
+from the Fund.
+(c) Determination of amount of award; denial of award
+(1) Determination of amount of award
+(A) Discretion. The determination of the amount of an award made
+under subsection (b) shall be in the discretion of the Commission.
+(B) Criteria. In determining the amount of an award made under
+subsection (b), the Commission-(i) shall take into consideration--
+
+Addendum 2
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page50 of 72
+
+(I) the significance of the information provided by the
+whistleblower to the success of the covered judicial or
+administrative action;
+(II) the degree of assistance provided by the
+whistleblower and any legal representative of the
+whistleblower in a covered judicial or administrative
+action;
+(III) the programmatic interest of the Commission in
+deterring violations of the securities laws by making
+awards to whistleblowers who provide information that
+lead to the successful enforcement of such laws; and
+(IV) such additional relevant factors as the Commission
+may establish by rule or regulation; and
+(ii) shall not take into consideration the balance of the Fund.
+(2) Denial of award. No award under subsection (b) shall be made-(A) to any whistleblower who is, or was at the time the whistleblower
+acquired the original information submitted to the commission, a
+member, officer, or employee of-(i) an appropriate regulatory agency;
+(ii) the Department of Justice;
+(iii) a self-regulatory organization;
+(iv) the Public Company Accounting Oversight Board; or
+(v) a law enforcement organization;
+(B) to any whistleblower who is convicted of a criminal violation
+related to the judicial or administrative action for which the
+whistleblower otherwise could receive an award under this section;
+(C) to any whistleblower who gains the information through the
+performance of an audit of financial statements required under the
+securities laws and for whom such submission would be contrary to
+Addendum 3
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page51 of 72
+
+the requirements of section 10A of the Securities Exchange Act of
+1934 (15 U.S.C. 78j-1); or
+(D) to any whistleblower who fails to submit information to the
+Commission in such form as the Commission may, by rule, require.
+(d) Representation
+(1) Permitted representation. Any whistleblower who makes a claim for an
+award under subsection (b) may be represented by counsel.
+(2) Required representation
+(A) In general. Any whistleblower who anonymously makes a claim
+for an award under subsection (b) shall be represented by counsel if
+the whistleblower anonymously submits the information upon which
+the claim is based.
+(B) Disclosure of identity. Prior to the payment of an award, a
+whistleblower shall disclose the identity of the whistleblower and
+provide such other information as the Commission may require,
+directly or through counsel for the whistleblower.
+...
+(h) Protection of whistleblowers
+(1) Prohibition against retaliation
+(A) In general. No employer may discharge, demote, suspend,
+threaten, harass, directly or indirectly, or in any other manner
+discriminate against, a whistleblower in the terms and conditions of
+employment because of any lawful act done by the whistleblower-(i) in providing information to the Commission in accordance
+with this section;
+(ii) in initiating, testifying in, or assisting in any investigation or
+judicial or administrative action of the Commission based upon
+or related to such information; or
+(iii) in making disclosures that are required or protected under
+the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201 et seq.), this
+Addendum 4
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page52 of 72
+
+chapter, including section 78j-1(m) of this title, section 1513(e)
+of Title 18, and any other law, rule, or regulation subject to the
+jurisdiction of the Commission.
+(B) Enforcement
+(i) Cause of action. An individual who alleges discharge or
+other discrimination in violation of subparagraph (A) may bring
+an action under this subsection in the appropriate district court
+of the United States for the relief provided in subparagraph (C).
+(ii) Subpoenas. A subpoena requiring the attendance of a
+witness at a trial or hearing conducted under this section may be
+served at any place in the United States.
+(iii) Statute of limitations
+(I) In general. An action under this subsection may not
+be brought-(aa) more than 6 years after the date on which the
+violation of subparagraph (A) occurred; or
+(bb) more than 3 years after the date when facts
+material to the right of action are known or
+reasonably should have been known by the
+employee alleging a violation of subparagraph (A).
+(II) Required action within 10 years. Notwithstanding
+subclause (I), an action under this subsection may not in
+any circumstance be brought more than 10 years after the
+date on which the violation occurs.
+(C) Relief. Relief for an individual prevailing in an action brought
+under subparagraph (B) shall include-(i) reinstatement with the same seniority status that the
+individual would have had, but for the discrimination;
+(ii) 2 times the amount of back pay otherwise owed to the
+individual, with interest; and
+
+Addendum 5
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page53 of 72
+
+(iii) compensation for litigation costs, expert witness fees, and
+reasonable attorneys’ fees.
+(2) Confidentiality
+(A) In general. Except as provided in subparagraphs (B) and (C), the
+Commission and any officer or employee of the Commission shall not
+disclose any information, including information provided by a
+whistleblower to the Commission, which could reasonably be
+expected to reveal the identity of a whistleblower, except in
+accordance with the provisions of section 552a of Title 5, unless and
+until required to be disclosed to a defendant or respondent in
+connection with a public proceeding instituted by the Commission or
+any entity described in subparagraph (C). For purposes of section 552
+of Title 5, this paragraph shall be considered a statute described in
+subsection (b)(3)(B) of such section.
+(B) Exempted statute. For purposes of section 552 of Title 5, this
+paragraph shall be considered a statute described in subsection
+(b)(3)(B) of such section 552.
+(C) Rule of construction. Nothing in this section is intended to limit,
+or shall be construed to limit, the ability of the Attorney General to
+present such evidence to a grand jury or to share such evidence with
+potential witnesses or defendants in the course of an ongoing criminal
+investigation.
+(D) Availability to Government agencies
+(i) In general. Without the loss of its status as confidential in
+the hands of the Commission, all information referred to in
+subparagraph (A) may, in the discretion of the Commission,
+when determined by the Commission to be necessary to
+accomplish the purposes of this chapter and to protect investors,
+be made available to-(I) the Attorney General of the United States;
+(II) an appropriate regulatory authority;
+(III) a self-regulatory organization;
+Addendum 6
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page54 of 72
+
+(IV) a State attorney general in connection with any
+criminal investigation;
+(V) any appropriate State regulatory authority;
+(VI) the Public Company Accounting Oversight Board;
+(VII) a foreign securities authority; and
+(VIII) a foreign law enforcement authority.
+(ii) Confidentiality
+(I) In general. Each of the entities described in
+subclauses (I) through (VI) of clause (i) shall maintain
+such information as confidential in accordance with the
+requirements established under subparagraph (A).
+(II) Foreign authorities. Each of the entities described in
+subclauses (VII) and (VIII) of clause (i) shall maintain
+such information in accordance with such assurances of
+confidentiality as the Commission determines
+appropriate.
+(3) Rights retained. Nothing in this section shall be deemed to diminish the
+rights, privileges, or remedies of any whistleblower under any Federal or
+State law, or under any collective bargaining agreement.
+...
+(j) Rulemaking authority. The Commission shall have the authority to issue such
+rules and regulations as may be necessary or appropriate to implement the
+provisions of this section consistent with the purposes of this section.
+
+Addendum 7
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page55 of 72
+
+DECISIONAL ADDENDUM:
+Peters v. LifeLock Inc.,
+No. 2:14-cv-00576, Dkt. 47 (D. Ariz. Sept. 19, 2014)
+(unavailable on either Westlaw or LEXIS)
+
+Addendum 8
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, DocumentDocument
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14
+Page56
+Pageof1 72
+of 15
+
+1
+2
+3
+4
+5
+6
+
+IN THE UNITED STATES DISTRICT COURT
+
+7
+
+FOR THE DISTRICT OF ARIZONA
+
+8
+9
+
+Michael D. Peters,
+
+No. CV-14-00576-PHX-ROS
+Plaintiff,
+
+10
+11
+
+v.
+
+12
+
+LifeLock Incorporated, et al.,
+
+13
+
+ORDER
+
+Defendants.
+
+14
+15
+
+Plaintiff Michael D. Peters has sued his former employer, Defendant LifeLock,
+
+16
+
+Inc. (“LifeLock”), for violating the whistleblower provisions of the Sarbanes-Oxley Act
+
+17
+
+and the Dodd-Frank Act. Peters has also sued Cristy Schaan (“Schaan”), a former
+
+18
+
+coworker, for defamation. LifeLock moves to dismiss the claim brought under the Dodd-
+
+19
+
+Frank Act and Schaan moves to dismiss the defamation claim. Peters has also moved for
+
+20
+
+judgment on the pleadings regarding one of the counterclaims brought against him by
+
+21
+
+LifeLock. As set out below, Schaan will be dismissed but the Dodd-Frank Act claim and
+
+22
+
+the counterclaim against Peters will be allowed to proceed.
+
+23
+
+BACKGROUND
+
+24
+
+According to his complaint, “Peters is an internationally recognized authority on
+
+25
+
+information technology security.” (Doc. 1 at 2). Sometime prior to 2013, Peters worked
+
+26
+
+at a company now known as Vantiv.
+
+27
+
+circumstances involving Peters and Vantiv entering into a “separation agreement.” (Doc.
+
+28
+
+1 at 6). Peters subsequently obtained a different job in Georgia.
+
+Peters left that position under disputed
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, DocumentDocument
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14
+Page57
+Pageof2 72
+of 15
+
+1
+
+In 2013, Peters was working in Georgia when he was contacted by a recruiter
+
+2
+
+regarding a position at LifeLock.
+
+Peters pursued the position by submitting an
+
+3
+
+application. In his application, Peters stated he had resigned from Vantiv. (Doc. 1 at 6).
+
+4
+
+After a lengthy interview process, LifeLock offered Peters the position of Chief
+
+5
+
+Information Security Officer (“CISO”). Peters moved to Arizona and started work at
+
+6
+
+LifeLock on July 1, 2013.
+
+7
+
+Upon starting work, Peters displaced Schaan who had been serving as the interim
+
+8
+
+CISO. Schaan had applied for the CISO position but she was passed over in favor of
+
+9
+
+Peters. Schaan allegedly was upset about being passed over and, the same day Peters
+
+10
+
+started work, Schaan decided to conduct “her own private investigation of Peters’ prior
+
+11
+
+employment.” (Doc. 1 at 8). Schaan emailed Kim Jones, an acquaintance who worked at
+
+12
+
+Vantiv, and asked Jones “if he knew anything about Peters.” Jones responded via email
+
+13
+
+the next day. In that email, Jones stated:
+
+14
+15
+
+ “Peters was fired from [Vantiv] and that he was walked out of the building
+without being allowed to return to his office to retrieve his personal belongings.”
+
+16
+
+ “Peters’s relationship building skills [are] virtually non-existent.”
+
+17
+
+ “Peters has a reputation for being disingenuous in his promotional activities by
+
+18
+
+overstating his accomplishments.”
+
+19
+
+ “Peters engaged in inappropriate actions.”
+
+20
+
+Schaan took no action with Jones’ email at that time.
+
+21
+
+Shortly after starting work at LifeLock, Peters “began an initial risk assessment.”
+
+22
+
+(Doc. 1 at 3). During that assessment, Peters discovered “many instances of illegal and
+
+23
+
+incompetent practices that constituted fraud against LifeLock’s shareholders.” Those
+
+24
+
+instances of fraud included evidence that audits were not done, despite LifeLock
+
+25
+
+representing otherwise, as well as LifeLock “manipulat[ing] the customer alerts sent to its
+
+26
+
+elderly customers.” (Doc. 1 at 4).
+
+27
+
+On July 9, 2013, Peters met with LifeLock’s CFO Chris Power and discussed the
+
+28
+
+initial assessment findings and the areas Peters found concerning. Power took no action.
+
+-2-
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, DocumentDocument
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14
+Page58
+Pageof3 72
+of 15
+
+1
+
+A few days later, Peters met with his direct supervisor, LifeLock’s chief information
+
+2
+
+officer, Rich Stebbins. Again Peters expressed his concerns yet Stebbins did nothing.
+
+3
+
+After these meetings, LifeLock’s “upper management” decided to fire Peters. To do so,
+
+4
+
+the “upper management directed Michelle Deutsch, LifeLock’s in-house special counsel
+
+5
+
+for labor and employment, to try and find grounds to terminate Peters’s employment.”
+
+6
+
+(Doc. 1 at 6). Deutsch contacted Vantiv and “she was incorrectly told that Peters had
+
+7
+
+been fired.” Around this same time, Schaan “discovered that LifeLock was about to fire
+
+8
+
+Peters.” In an attempt to “seal Peters’s fate,” Schaan forwarded Stebbins the email she
+
+9
+
+had received from Jones on July 2, 2013.
+
+10
+
+On July 29, 2013, LifeLock fired Peters. According to LifeLock, Peters was fired
+
+11
+
+because he had “provided false information on his employment application” by claiming
+
+12
+
+he resigned from Vantiv when, in fact, he had been fired. LifeLock also claimed Peters
+
+13
+
+had engaged in inappropriate behavior by “‘hit[ting] upon’ a female employee.” (Doc. 1
+
+14
+
+at 9). Peters alleges these reasons were false and “the real reason for his termination”
+
+15
+
+was that he had “reported to his supervisors about the illegal, fraudulent, and incompetent
+
+16
+
+business practices relating to fraud against shareholders that were occurring at LifeLock.”
+
+17
+
+(Doc. 1 at 9).
+
+18
+
+A few weeks after he was fired, Peters filed complaints against LifeLock with the
+
+19
+
+Federal Trade Commission and the Securities and Exchange Commission. Peters also
+
+20
+
+filed a “whistleblower complaint with the U.S. Department of Labor under the Sarbanes-
+
+21
+
+Oxley Act.” (Doc. 1 at 6). The Sarbanes-Oxley complaint remained pending for 180
+
+22
+
+days and, in early 2014, Peters filed this suit. The complaint alleges a whistleblower
+
+23
+
+claim under the Sarbanes-Oxley Act as well as a whistleblower claim under the Dodd-
+
+24
+
+Frank Act. The complaint also alleges a defamation claim against Schaan for forwarding
+
+25
+
+the email she received from Jones.
+
+26
+
+Schaan responded to the complaint by seeking dismissal of the defamation claim.
+
+27
+
+LifeLock answered the whistleblower claim under the Sarbanes-Oxley Act but seeks
+
+28
+
+dismissal of the whistleblower claim under the Dodd-Frank Act.
+
+-3-
+
+When answering
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, DocumentDocument
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14
+Page59
+Pageof4 72
+of 15
+
+1
+
+Peters’ complaint, LifeLock asserted five counterclaims, including counterclaims for
+
+2
+
+breach of contract and unjust enrichment. According to LifeLock, Peters made “material
+
+3
+
+misrepresentations and omissions regarding his employment history” when he applied for
+
+4
+
+the position with LifeLock. (Doc. 36 at 4). LifeLock relied on those misstatements and
+
+5
+
+omissions when it made him an offer of employment. That offer included a signing
+
+6
+
+bonus of $15,000 that would have to be repaid if Peters was terminated for cause during
+
+7
+
+his first year. Peters received the signing bonus and has refused to repay it despite being
+
+8
+
+terminated after only one month. LifeLock’s breach of contract claim seeks to recover
+
+9
+
+the signing bonus while the unjust enrichment claim “seeks full restitution of all salary
+
+10
+
+and benefits LifeLock paid to Peters prior to the termination of his employment.” (Doc.
+
+11
+
+36 at 3). Peters answered all the counterclaims but now moves for judgment on the
+
+12
+
+pleadings regarding the unjust enrichment claim.
+ANALYSIS
+
+13
+14
+
+I. Standard for Motion to Dismiss and Judgment on the Pleadings
+
+15
+
+LifeLock and Schaan have filed motions to dismiss and Peters has filed a motion
+
+16
+
+for judgment on the pleadings. The standard for evaluating these motions is the same.
+
+17
+
+United States ex rel. Cafasso v. Gen. Dynamics C4 Sys., Inc., 637 F.3d 1047, 1054 n.4
+
+18
+
+(9th Cir. 2011). Under that standard, a claim must either be dismissed or judgment on the
+
+19
+
+pleadings granted if it is not supported by “sufficient factual matter, accepted as true” to
+
+20
+
+state a “plausible” claim for relief.
+
+21
+
+(quotation omitted). “A claim has facial plausibility when the plaintiff pleads factual
+
+22
+
+content that allows the court to draw the reasonable inference that the defendant is liable
+
+23
+
+for the misconduct alleged.” Id. This does not require “detailed factual allegations” but
+
+24
+
+it does require “more than an unadorned, the-defendant-unlawfully-harmed-me
+
+25
+
+accusation.” Iqbal, 556 U.S. at 678. This is not a “probability requirement,” but a
+
+26
+
+requirement that the factual allegations show “more than a sheer possibility that a
+
+27
+
+defendant has acted unlawfully.” Id.
+
+Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)
+
+28
+
+-4-
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, DocumentDocument
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14
+Page60
+Pageof5 72
+of 15
+
+1
+
+II. Defamation Claim Must be Dismissed
+
+2
+
+The sole basis for Peters’ defamation claim against Schaan is her forwarding of
+
+3
+
+Jones’ email. Schaan argues the Communications Decency Act (“CDA”), 47 U.S.C. §
+
+4
+
+230, prevents her from being held liable for forwarding that email. Schaan is correct.
+
+5
+
+Passed in 1996, the CDA has “been widely and consistently interpreted to confer
+
+6
+
+broad immunity against defamation liability for those who use the Internet to publish
+
+7
+
+information that originated from another source.” Barrett v. Rosenthal, 146 P.3d 510,
+
+8
+
+513 (Cal. 2006). The portion of the CDA conferring that immunity provides “[n]o . . .
+
+9
+
+user of an interactive computer service shall be treated as the publisher or speaker of any
+
+10
+
+information provided by another information content provider.” 47 U.S.C. § 230(c)(1).
+
+11
+
+Based on the definition in the CDA, there is no question Jones qualified as an
+
+12
+
+“information content provider.” 47 U.S.C. § 23(f)(3) (defining “information content
+
+13
+
+provider” as “any person . . . that is responsible . . . for the creation or development of
+
+14
+
+information”). And while “user” is not defined in the CDA, it “plainly refers to someone
+
+15
+
+who uses something, and the statutory context makes it clear that Congress simply meant
+
+16
+
+someone who uses an interactive computer service.” Barrett, 146 P.3d at 526. In light of
+
+17
+
+this, Schaan was a “user” of an “interactive computer service” when she forwarded
+
+18
+
+Jones’ email. See 47 U.S.C. § 230(f)(2) (defining “interactive computer service”). Put
+
+19
+
+together, these definitions mean Schaan cannot “be treated as the publisher or speaker” of
+
+20
+
+the information contained in Jones’ email. 47 U.S.C. § 230(c)(1). And that means
+
+21
+
+Schaan cannot be liable for defamation based on forwarding Jones’ email. See Peagler v.
+
+22
+
+Phoenix Newspapers, Inc., 560 P.2d 1216, 1222 (Ariz. 1977) (individual liable for
+
+23
+
+defamation if she “publishes a false and defamatory communication”) (emphasis added);
+
+24
+
+47 U.S.C. § 230(e)(3) (preempting state law inconsistent with CDA).
+
+25
+
+Peters attempts to avoid this straightforward conclusion by arguing it would
+
+26
+
+frustrate a central purpose of the CDA to read its immunity provision as protecting
+
+27
+
+individuals. (Doc. 28 at 7). But the CDA’s immunity provision explicitly covers any
+
+28
+
+“user of an interactive computer system.” 47 U.S.C. § 230(c)(1) (emphasis added).
+
+-5-
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, DocumentDocument
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14
+Page61
+Pageof6 72
+of 15
+
+1
+
+Peters offers no argument that Schaan does not qualify as a “user” as that term is used in
+
+2
+
+the CDA. Therefore, his policy arguments are unconvincing. See United States v.
+
+3
+
+Aerojet Gen. Corp., 606 F.3d 1142, 1151 (9th Cir. 2010) (rejecting policy argument in
+
+4
+
+light of unambiguous statutory language).
+
+5
+
+Peters also argues the CDA immunity provision should not apply because Schaan
+
+6
+
+“instigat[ed]” the defamation and committed a “targeted move” by forwarding the email
+
+7
+
+“to the one person she thought could cause the most harm to Peters.” (Doc. 28 at 9).
+
+8
+
+Peters does not explain how, assuming Schaan’s behavior can be described in these
+
+9
+
+terms, that behavior takes her outside the CDA’s immunity. The CDA’s immunity
+
+10
+
+provision does not carve out exceptions for content “instigat[ed]” by another or content
+
+11
+
+that is forwarded in a “targeted move.” To be clear, under the facts alleged in the
+
+12
+
+complaint, Schaan did not generate any defamatory statements herself when she first
+
+13
+
+contacted Jones. Rather, she solicited an email from Jones and then forwarded that email
+
+14
+
+without adding any defamatory statements of her own. If Schaan had added her own
+
+15
+
+defamatory comments, the situation would be different.1 But she did not. Thus, the CDA
+
+16
+
+immunity provision applies and the defamation claim against Schaan must be dismissed.2
+
+17
+
+III. Dodd-Frank Act Claim is Plausible
+
+18
+
+LifeLock argues Peters cannot pursue a whistleblower claim under the Dodd-
+
+19
+
+Frank Act because he was fired before he made any report to the Securities and Exchange
+
+20
+
+Commission (the “Commission”). LifeLock has Fifth Circuit authority in its favor but
+
+21
+
+many courts have criticized that opinion as adopting an overly restrictive view of the
+
+22
+
+statutory language. Under the reading of the statute adopted by the vast majority of
+
+23
+
+courts, Peters’ internal complaints were sufficient to protect him from retaliatory
+
+24
+25
+26
+27
+
+1
+
+As noted in Barrett, “[a]t some point, active involvement in the creation of a
+defamatory Internet posting would expose a defendant to liability as an original source.”
+146 P.3d at 527 n.19. But Peters has not alleged Schaan had “active involvement” in
+Jones’ email such that she could be deemed the original source of the email.
+2
+
+28
+
+Peters asks for leave to amend his complaint against Schaan. (Doc. 28 at 12). If
+Peters wishes to amend, he must file a motion to amend accompanied by his proposed
+amended pleading establishing a factual basis for avoiding the broad immunity provision.
+-6-
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, DocumentDocument
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14
+Page62
+Pageof7 72
+of 15
+
+1
+
+discharge.
+
+2
+
+A. Chevron Analysis
+
+3
+
+Peters has asserted a claim under 15 U.S.C. § 78u-6(h), the provision of the Dodd-
+
+4
+
+Frank Act protecting an employee from adverse employment actions when that employee
+
+5
+
+engages in certain activities. Congress granted the Commission “authority to issue such
+
+6
+
+rules and regulations as may be necessary or appropriate to implement” this provision.
+
+7
+
+15 U.S.C. § 78u-6(j).
+
+8
+
+providing broad whistleblower protections to employees. 17 C.F.R. § 240.21F-2(b).
+
+9
+
+Importantly, that rule states an employee may assert a retaliation claim under the Dodd-
+
+10
+
+Frank Act even if the employee did not make a report to the Commission prior to the
+
+11
+
+adverse employment action. LifeLock argues this rule is contrary to the plain language
+
+12
+
+of the Dodd-Frank Act and the Court should not defer to it.
+
+Pursuant to that authority, the Commission adopted a rule
+
+13
+
+LifeLock’s argument requires application of the familiar two-step framework
+
+14
+
+contained in Chevron U.S.A., Inc. v. Natural Resources Defense Council, 467 U.S. 837
+
+15
+
+(1984). That framework requires the Court determine, using “the ordinary tools of
+
+16
+
+statutory construction . . . whether Congress has directly spoken to the precise question at
+
+17
+
+issue. If the intent of Congress is clear, that is the end of the matter; for the court, as well
+
+18
+
+as the agency, must give effect to the unambiguously expressed intent of Congress.” City
+
+19
+
+of Arlington, Tex. V. FCC, 133 S. Ct. 1863, 1868 (2013) (quotation omitted). Only when
+
+20
+
+the statute can be deemed ambiguous must the Court proceed to the second step of
+
+21
+
+determining whether the agency’s interpretation “is based on a permissible construction
+
+22
+
+of the statute.” Id.
+
+23
+
+B. Statute is Ambiguous
+
+24
+
+Determining whether the statute is ambiguous requires the text of the statute be set
+
+25
+
+out in some detail. The Dodd-Frank Act whistleblower provision begins by defining
+
+26
+
+“whistleblower.”
+
+27
+28
+
+The term “whistleblower” means any individual who provides
+. . . information relating to a violation of the securities laws to
+the Commission, in a manner established, by rule or
+-7-
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, DocumentDocument
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14
+Page63
+Pageof8 72
+of 15
+
+1
+
+regulation, by the Commission.
+
+2
+
+15 U.S.C. § 78u-6(a)(6). The scope of protection provided to a “whisteblower” is then
+
+3
+
+set forth in subsection (h):
+
+4
+5
+
+(h) Protection of whistleblowers
+(1) Prohibition against retaliation
+
+6
+
+(A) In general
+
+7
+
+No employer may discharge,
+demote, suspend, threaten, harass,
+directly or indirectly, or in any
+other manner discriminate against,
+a whistleblower in the terms and
+conditions
+of
+employment
+because of any lawful act done by
+the whistleblower—
+
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+(i) in providing information to
+the Commission in accordance
+with this section;
+(ii) in initiating, testifying in,
+or assisting in any investigation
+or judicial or administrative
+action of the Commission
+based upon or related to such
+information; or
+(iii) in making disclosures that
+are required or protected under
+the Sarbanes-Oxley Act of
+2002 (15 U.S.C. 7201 et seq.),
+this chapter, including section
+78j-1(m) of this title, section
+1513(e) of Title 18, and any
+other law, rule, or regulation
+subject to the jurisdiction of the
+Commission.
+
+25
+26
+27
+28
+
+Upon first reading, there is an oddity when the statutory definition in subsection (a) is
+plugged into subsection (h). The statute defines a “whistleblower” as an individual who
+directly makes a report to the Commission. But subsection (h)(1)(A) then appears to
+ignore the definition in setting out the types of protected activity. Subsection (h)(1)(A)(i)
+-8-
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, DocumentDocument
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14
+Page64
+Pageof9 72
+of 15
+
+1
+
+first protects “providing information to the Commission” even though the very definition
+
+2
+
+of “whistleblower” requires the individual provide information to the Commission.
+
+3
+
+Subsection (h)(1)(A)(ii) then broadly protects “initiating, testifying in, or assisting in”
+
+4
+
+Commission-related actions. Again, however, the definition itself would seem to protect
+
+5
+
+such activities. Finally, subsection (h)(1)(A)(iii) protects a “whistleblower” when that
+
+6
+
+individual makes “disclosures that are required or protected under the Sarbanes-Oxley
+
+7
+
+Act of 2002.”
+
+8
+
+statutory definition, but it raises its own set of problems because the Sarbanes-Oxley Act
+
+9
+
+requires and protects a wide variety of disclosures other than reports to the Commission.
+
+10
+
+Thus, an individual can make a disclosure “required or protected under the Sarbanes-
+
+11
+
+Oxley Act” without ever contacting the Commission. The problem, therefore, is how to
+
+12
+
+reconcile the statutory definition of “whistleblower” seemingly requiring a direct report
+
+13
+
+to the Commission with the broader substantive protection set out in (h)(1)(A)(iii).
+
+This last provision does not duplicate the coverage inherent in the
+
+14
+
+This problem has generated conflicting views of the statute. The Fifth Circuit is
+
+15
+
+the only court of appeals to address the issue. In Asadi v. G.E. Engergy (USA), LLC, 720
+
+16
+
+F.3d 620, 626 (5th Cir. 2013), the court held the statutory definition of “whistleblower”
+
+17
+
+and the protection provided in (h)(1)(A)(iii) “do not conflict.” In the Fifth Circuit’s view,
+
+18
+
+the statute’s repeated use of the term “whistleblower,” instead of “individual” or
+
+19
+
+“employee,” is significant.
+
+20
+
+describing the substantive protections, Congress was stressing that only whistleblowers,
+
+21
+
+as defined by the statute, were protected. And under that definition, a report to the
+
+22
+
+Commission before the adverse action is taken is an absolute prerequisite.
+
+Id.
+
+That is, by using the term “whistleblower” when
+
+23
+
+The Fifth Circuit acknowledged its reading raised the possibility that (h)(1)(A)(iii)
+
+24
+
+was “superfluous” in that it would seem to duplicate the protection afforded in
+
+25
+
+(h)(1)(A)(i) and (h)(1)(A)(ii). Id. at 627. But the Fifth Circuit concluded its reading of
+
+26
+
+the statute did not render (h)(1)(A)(iii) superfluous because that section will provide
+
+27
+
+protection “where the employer, unaware that the individual had already reported to the
+
+28
+
+Commission, takes an adverse employment action against the employee for” a disclosure
+
+-9-
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, Document
+Document
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14Page65
+Page of
+1072
+of 15
+
+1
+
+required or protected under the Sarbanes-Oxley Act. (Doc. 27 at 32) (amicus brief from
+
+2
+
+SEC). In other words, (h)(1)(A)(i) protects an employee who reports to the Commission
+
+3
+
+and the employer knows of that activity; (h)(1)(A)(ii) protects an employee who aids the
+
+4
+
+Commission and the employer knows of that activity; and (h)(1)(A)(iii) protects an
+
+5
+
+employee who makes an internal report and makes a report to the Commission, but the
+
+6
+
+employer is not aware of the report to the Commission.
+
+7
+
+convincing for multiple reasons not addressed by the Fifth Circuit.
+
+This construction is not
+
+8
+
+To start, the Fifth Circuit stressed its reading was necessary to avoid “read[ing] the
+
+9
+
+words ‘to the Commission’ out of the definition of ‘whistleblower’ for purposes” of
+
+10
+
+subsection (h). Id. at 628. In the Fifth Circuit’s view, its reading was the only way to
+
+11
+
+avoid violating the “surplusage canon [requiring] that every word is to be given effect.”
+
+12
+
+Id. The Fifth Circuit did not explain, however, how its reading does not independently
+
+13
+
+violate the surplusage canon.
+
+14
+
+abundantly clear the statutory definition must be plugged into subsection (h). But doing
+
+15
+
+so makes (h)(1)(A)(i) meaningless. That is, combining the statutory definition with
+
+16
+
+(h)(1)(A)(i) results in an employee being protected from adverse employment actions
+
+17
+
+when he “provides . . . information relating to a violation of the securities laws to the
+
+18
+
+Commission,” provided he then “provid[es] information to the Commission.” The Fifth
+
+19
+
+Circuit offered no explanation how this reading was sensible. In fact, the Fifth Circuit
+
+20
+
+simply ignored the surplusage problem its reading created in its attempt to avoid that very
+
+21
+
+problem.
+
+According to the Fifth Circuit, Congress made it
+
+22
+
+The Fifth Circuit’s approach also makes the Dodd-Frank’s anti-retaliation
+
+23
+
+provision unique from other anti-retaliation provisions by imposing something
+
+24
+
+approaching strict liability for certain adverse employment actions. Under the Fifth
+
+25
+
+Circuit’s approach, an employee engages in “protected activity” under (h)(1)(A)(iii) by
+
+26
+
+doing two things: making a report to the Commission and making another disclosure
+
+27
+
+required or protected by Sarbanes-Oxley. An employee must engage in both activities to
+
+28
+
+qualify for protection under (h)(1)(A)(iii). But an employer will not always know an
+
+- 10 -
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, Document
+Document
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14Page66
+Page of
+1172
+of 15
+
+1
+
+employee has made a report to the Commission. Thus, an employer’s retaliation liability
+
+2
+
+under (h)(1)(A)(iii) will not depend on the employer’s knowledge of protected activity.
+
+3
+
+Instead, it will depend on whether the employee, unbeknownst to the employer, has made
+
+4
+
+a report to the Commission. This would be contrary to other anti-retaliation provisions
+
+5
+
+that require a causal link between the protected activity and the adverse employment
+
+6
+
+action.3 Cf. Thomas v. City of Beaverton, 379 F.3d 802, 812 n.4 (9th Cir. 2004) (“The
+
+7
+
+employer’s awareness of the protected activity is also important in establishing a causal
+
+8
+
+link.”). It is not sensible to conclude there would be a causal link between an employee’s
+
+9
+
+protected activity and an adverse employment action when the employer is not even
+
+10
+
+aware protected activity occurred.
+
+See Bussing v. COR Clearing, LLC, 2014 WL
+
+11
+
+2111207, at *11 (D. Neb. May 21, 2014) (Fifth Circuit’s interpretation “creates a peculiar
+
+12
+
+standard of liability, in which liability for retaliation only attaches if certain
+
+13
+
+preconditions—of which they are unaware—are satisfied”). At the very least, lowering
+
+14
+
+the standard for retaliation liability in this way would represent a unique approach by
+
+15
+
+Congress and would be contrary to the generally accepted deterrent purpose of anti-
+
+16
+
+retaliation provisions. Stiltner v. Beretta U.S.A. Corp., 74 F.3d 1473, 1491 (4th Cir.
+
+17
+
+1996) (Phillips, J., concurring in part and dissenting in part) (noting “fundamental
+
+18
+
+purpose” of anti-retaliation provisions is “to impose a general deterrence upon the
+
+19
+
+impulse of employers to retaliate for the exercise of statutory rights.”).
+
+20
+
+Based on these problems, and others, the majority of district courts to address the
+
+21
+
+issue have rejected the Fifth Circuit’s reasoning. For the most part, those courts have not
+
+22
+
+concluded the Dodd-Frank Act is clear. But see Bussing, 2014 WL 2111207, at *11
+
+23
+
+(finding statute unambiguously protects disclosures even absent reporting to the
+
+24
+
+Commission).
+
+Rather, they have simply “concluded that the Dodd-Frank Act’s
+
+25
+3
+
+26
+27
+28
+
+LifeLock attempts to avoid this conclusion by arguing it is a “red herring.”
+(Doc. 29 at 7). According to LifeLock, the “protected conduct” is the employee’s
+internal report, provided he has already made a report to the Commission. But that does
+not address the issue. The problem remains that, according to the Fifth Circuit, an
+employer may be held liable under the anti-retaliation provision even though it does not
+know the employee has engaged in the conduct actually protected by the statute (i.e.,
+reporting to the Commission).
+- 11 -
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, Document
+Document
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14Page67
+Page of
+1272
+of 15
+
+1
+
+whistleblower provision is ambiguous on its face.” Khazin v. TD Ameritrade Holding
+
+2
+
+Corp., 2014 WL 940703, at *5 (D.N.J. March 11, 2014). That facial ambiguity is based
+
+3
+
+on (h)(1)(A)(iii) being “in direct conflict” with the statutory definition because
+
+4
+
+(h)(1)(A)(iii) “provides protection to persons who have not disclosed information to the
+
+5
+
+[Commission].”
+
+6
+
+persuasive.
+
+Id. (quotation omitted).
+
+The Court concludes this approach is
+
+7
+
+Trying to plug the statutory definition of whistleblower into the substantive
+
+8
+
+provisions creates a conflict. And that conflict creates serious “uncertainty of meaning or
+
+9
+
+intention” regarding the reach of the statute. Republic of Ecuador v. Mackay, 742 F.3d
+
+10
+
+860, 865 (9th Cir. 2014) (quotation omitted).
+
+11
+
+ambiguous.
+
+12
+
+analysis.
+
+That is enough to deem the statute
+
+Therefore, the Court must proceed to the second step of the Chevron
+
+13
+
+C. The Commission’s Interpretation is Permissible
+
+14
+
+The second step requires the Court determine whether the Commission’s
+
+15
+
+interpretation represents “a permissible construction of the statute.” Chevron, U.S.A.,
+
+16
+
+Inc. v. Nat. Resources Defense Council, Inc., 467 U.S. 837, 843 (1984). This step
+
+17
+
+requires the Court determine “whether Congress has explicitly instructed the agency to
+
+18
+
+flesh out specific provisions of the general legislation, or has impliedly left to the agency
+
+19
+
+the task of developing standards to carry out the general policy of the statute.” Tovar v.
+
+20
+
+United States Postal Service, 3 F.3d 1271, 1276 (9th Cir. 1993). If Congress explicitly
+
+21
+
+instructed the agency to develop regulations, “a reviewing court must find the agency’s
+
+22
+
+construction permissible unless it is arbitrary, capricious, or manifestly contrary to the
+
+23
+
+statute.” Id. If Congress only impliedly deferred to the agency, “a court must uphold the
+
+24
+
+agency’s construction if it is reasonable.” Id. The latter “reasonableness standard affords
+
+25
+
+agencies less latitude than the arbitrary and capricious standard.” McLean v. Crabtree,
+
+26
+
+173 F.3d 1176, 1181 (9th Cir. 1999). But even the reasonableness standard does not
+
+27
+
+require the agency’s construction be the only possible construction or the one the Court
+
+28
+
+would reach on its own. Id.
+
+- 12 -
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, Document
+Document
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14Page68
+Page of
+1372
+of 15
+
+1
+
+The Dodd-Frank Act explicitly instructs the Commission “to issue such rules and
+
+2
+
+regulations as may be necessary or appropriate to implement” the whistleblower
+
+3
+
+provisions. 15 U.S.C. § 78u-6(j). This may qualify as an “explicit” statement such that
+
+4
+
+the Commission’s rule is subject to review under the arbitrary and capricious standard.
+
+5
+
+But the parties do not discuss the different standards and apparently are content to rely on
+
+6
+
+the reasonableness standard.
+
+7
+
+Commission’s rule unless the Court is “compell[ed] to reject” its construction of the
+
+8
+
+statute based on it being either irrational or obviously inconsistent with the statute.
+
+9
+
+Leisnoi, Inc. v. Stratman, 154 F.3d 1062, 1069 (9th Cir. 1998) (quotation omitted); Haro
+
+10
+
+Under that standard, the Court must defer to the
+
+v. Sebelius, 747 F.3d 1099, 1115 (9th Cir. 2014) (quotation omitted).
+
+11
+
+The Commission’s rule reads the statute as providing protection to employees who
+
+12
+
+make only internal reports. Securities Whistleblower Incentives and Protections, 76 Fed
+
+13
+
+Reg. 34300-01 (June 13, 2011) (“[T]he statutory anti-retaliation protections apply to
+
+14
+
+three different categories of whistleblowers, and the third category includes individuals
+
+15
+
+who report to persons or governmental authorities other than the Commission.”). The
+
+16
+
+only argument offered by LifeLock that this is not a permissible construction is that,
+
+17
+
+given the plain language of the statute, the Commission’s rule impermissibly expands the
+
+18
+
+reach of the statute. As set forth above, the plain language of the statute is not clear. In
+
+19
+
+fact, at least one court read the language of the statute as dictating the completely
+
+20
+
+opposite result as that proposed by LifeLock. Bussing, 2014 WL 2111207, at *11
+
+21
+
+(finding protection for internal reports “flows from the statute itself, and it is not
+
+22
+
+necessary to determine if deference to the SEC’s construction of the statute is
+
+23
+
+warranted”). In these circumstances, the Commission’s rule seeking to clarify the reach
+
+24
+
+of the statute is neither arbitrary and capricious nor unreasonable.
+
+25
+
+LifeLock does not contest that if its statutory construction is rejected, Peters has
+
+26
+
+stated a claim under the Dodd-Frank Act. Therefore, LifeLock will be required to answer
+
+27
+
+that claim.
+
+28
+
+- 13 -
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, Document
+Document
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14Page69
+Page of
+1472
+of 15
+
+1
+
+IV. Claim for Unjust Enrichment is Plausible
+
+2
+
+Peters moves for judgment on the pleadings regarding LifeLock’s unjust
+
+3
+
+enrichment counterclaim. That counterclaim seeks to recover the salary and benefits
+
+4
+
+Peters received during his one month of working at LifeLock. Peters’ motion seems to
+
+5
+
+invoke two separate arguments.4 First, that the parties’ contract prevents any resort to
+
+6
+
+unjust enrichment. And second, Peters’ retention of his “salary and benefits” cannot be
+
+7
+
+“unjust” given that he performed services for the month he was employed.
+
+8
+
+arguments are addressed in turn.
+
+These
+
+9
+
+Peters is correct that LifeLock cannot rely on an unjust enrichment claim if “a
+
+10
+
+specific contract . . . governs the [parties’] relationship.” Brooks v. Valley Nat’l Bank,
+
+11
+
+548 P.2d 1166, 1171 (Ariz. 1976). But LifeLock is seeking rescission of the parties’
+
+12
+
+alleged contract. And unjust enrichment is a viable claim when a purported contract is
+
+13
+
+not enforceable. W. Corrections Group, Inc. v. Tierney, 96 P.3d 1070, 1077 (Ariz. Ct.
+
+14
+
+App. 2004) (“Quantum meruit damages are available when services are performed under
+
+15
+
+an unenforceable contract . . . .”). Because the parties do not agree a contract governed
+
+16
+
+their relationship, LifeLock can pursue an unjust enrichment claim. Of course, LifeLock
+
+17
+
+cannot prevail on both its breach of contract and unjust enrichment counterclaims. See
+
+18
+
+Edward Greenbank Enters. Of Ariz. v. Pepper, 538 P.2d 389, 391 (Ariz. 1975) (party
+
+19
+
+may pursue claims for fraudulent inducement and breach of contract but cannot recover
+
+20
+
+on both). But under the facts alleged in LifeLock’s counterclaims, LifeLock can pursue
+
+21
+
+both counterclaims past the pleading stage.
+
+22
+
+Peters is also correct that retention of his “salary and benefits” does not appear
+
+23
+
+“unjust,” a prerequisite to an unjust enrichment claim. Murdock-Bryant Const. Inc. v.
+
+24
+
+Pearson, 703 P.2d 1197, 1203 (Ariz. 1985) (“Restitutionary relief is allowable only when
+
+25
+4
+
+26
+27
+28
+
+Peters also claims the unjust enrichment counterclaim should be dismissed
+because it is duplicative of the breach of contract counterclaim. LifeLock’s breach of
+contract counterclaim seeks to recover the signing bonus provided to Peters while the
+unjust enrichment counterclaim seeks the “salary and benefits” LifeLock paid to Peters
+during his employment. Thus, the counterclaims are not duplicative. And even if they
+were, such duplication would not be a valid basis for dismissal because under Federal
+Rule of Civil Procedure 8(d), a party may assert claims in the alternative.
+- 14 -
+
+Case
+Case
+2:14-cv-00576-ROS
+14-4626, Document
+Document
+54, 02/06/2015,
+47 Filed
+1432420,
+09/19/14Page70
+Page of
+1572
+of 15
+
+1
+
+it would be inequitable or unjust for defendant to retain the benefit without compensating
+
+2
+
+plaintiff.”).
+
+3
+
+concealment of his “true qualifications or, rather, lack thereof.” (Doc. 36 at 6). In other
+
+4
+
+words, LifeLock alleges it did not receive what it bargained for and it paid the salary and
+
+5
+
+benefits under false pretenses. That is enough to proceed past the pleading stage.5 Cf.
+
+6
+
+Dilek v. Watson Enters., Inc., 885 F. Supp. 2d 632, 649 (S.D.N.Y. 2012) (rejecting unjust
+
+7
+
+enrichment claim brought by employer against employee because employer “had
+
+8
+
+materially full knowledge of the facts it alleges about [Plaintiff’s] job performance”).
+
+9
+
+Peters’ motion for judgment on the pleadings will be denied.
+
+But LifeLock alleges it paid Peters’ salary and benefits based on his
+
+10
+
+Accordingly,
+
+11
+
+IT IS ORDERED the Motion to Dismiss (Doc. 15) is DENIED.
+
+12
+
+IT IS FURTHER ORDERED the Motion to Dismiss (Doc. 21) is GRANTED.
+
+13
+14
+15
+16
+17
+
+Defendant Cristy Schaan is DISMISSED.
+IT IS FURTHER ORDERED the Motion for Leave to File Amicus Brief (Doc.
+26) is GRANTED.
+IT IS FURTHER ORDERED the Motion for Judgment on the Pleadings (Doc.
+34) is DENIED.
+
+18
+
+IT IS FURTHER ORDERED the Stipulation of Dismissal (Doc. 41) is
+
+19
+
+GRANTED. Defendant Kim Jones is DISMISSED WITH PREJUDICE with each
+
+20
+
+party to bear his own attorneys’ fees, costs, and expenses.
+
+21
+
+Dated this 19th day of September, 2014.
+
+22
+23
+24
+
+Honorable Roslyn O. Silver
+Senior United States District Judge
+
+25
+26
+5
+
+27
+28
+
+Whether LifeLock can recover the salary and benefits paid to Peters raises issues
+under Arizona’s law regarding payment of wages. At present, it is unclear how LifeLock
+plans on avoiding Arizona law regarding payment and withholding of wages. See, e.g.,
+A.R.S. § 23-352 (setting forth exclusive grounds for withholding wages). But that issue
+can be addressed through later motion, if appropriate.
+- 15 -
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page71 of 72
+
+CERTIFICATE OF COMPLIANCE
+I certify that this brief complies with the word-count limitation that this
+Court established in its February 2, 2015 order in this appeal (Dkt. No. 48) because
+it contains 8,660 words, excluding the parts exempted by Fed. R. App. P.
+32(a)(7)(B)(iii).
+I also certify that this brief complies with the typeface requirements of Fed.
+R. App. P. 32(a)(5) and the type-style requirements of Fed. R. App. P. 32(a)(6)
+because it has been prepared in a proportionally spaced typeface using Microsoft
+Office Word in 14-Point Times New Roman.
+/s/ Stephen G. Yoder
+Stephen G. Yoder
+Senior Counsel
+Securities and Exchange Commission
+100 F Street, N.E.
+Washington, D.C. 20549-9040
+February 6, 2015
+
+Case 14-4626, Document 54, 02/06/2015, 1432420, Page72 of 72
+
+CERTIFICATE OF SERVICE
+I hereby certify that I electronically filed the foregoing brief with the Clerk
+of the Court for the United States Court of Appeals for the Second Circuit by using
+the appellate CM/ECF system on February 6, 2015.
+I certify that all participants in the case are registered CM/ECF users and
+that service will be accomplished by the appellate CM/ECF system.
+/s/ Stephen G. Yoder
+Stephen G. Yoder
+Senior Counsel
+Securities and Exchange Commission
+100 F Street, N.E.
+Washington, D.C. 20549-9040
+February 6, 2015
+
+

@@ -1,0 +1,1951 @@
+UNITED STATES OF AMERICA
+BEFORE THE
+SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 8668 / March 16, 2006
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 53490 / March 16, 2006
+INVESTMENT COMPANY ACT OF 1940
+Release No. 27262 / March 16, 2006
+ADMINISTRATIVE PROCEEDING
+File No. 3-12238
+____________________________________
+:
+In the Matter of
+:
+:
+BEAR, STEARNS & CO., INC., and
+:
+BEAR, STEARNS SECURITIES CORP., :
+:
+Respondents. :
+____________________________________:
+
+ORDER INSTITUTING
+ADMINISTRATIVE AND CEASE-ANDDESIST PROCEEDINGS, MAKING
+FINDINGS, AND IMPOSING REMEDIAL
+SANCTIONS AND A CEASE-ANDDESIST ORDER PURSUANT TO
+SECTION 8A OF THE SECURITIES ACT
+OF 1933, SECTIONS 15(b) AND 21C OF
+THE SECURITIES EXCHANGE ACT OF
+1934, AND SECTIONS 9(b) AND 9(f) OF
+THE INVESTMENT COMPANY ACT OF
+1940
+I.
+
+The Securities and Exchange Commission (“Commission”) deems it appropriate and in
+the public interest that public administrative and cease-and-desist proceedings be, and hereby
+are, instituted pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”), Section
+15(b) and Section 21C of the Securities Exchange Act of 1934 (“Exchange Act”), and Sections
+9(b) and 9(f) of the Investment Company Act of 1940 (“Investment Company Act”), against
+Bear, Stearns & Co., Inc. (“BS&Co.”) and Bear, Stearns Securities Corp. (“BSSC”) (collectively,
+“Respondents”).
+II.
+In anticipation of the institution of these proceedings, Respondents have submitted an
+Offer of Settlement (the “Offer”), which the Commission has determined to accept. Solely for
+the purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over them and the subject matter of
+
+these proceedings, which are admitted, Respondents consent to the entry of this Order Instituting
+Administrative and Cease-and-Desist Proceedings, Making Findings, and Imposing Remedial
+Sanctions and a Cease-and-Desist Order Pursuant to Section 8A of the Securities Act of 1933,
+Sections 15(b) and 21C of the Securities Exchange Act of 1934, and Sections 9(b) and 9(f) of the
+Investment Company Act of 1940 (“Order”), as set forth below.
+III.
+On the basis of this Order and Respondents’ Offer, the Commission finds1 that:
+A.
+
+Summary
+
+1.
+This case involves two types of illegal mutual fund trading practices: Late trading
+and deceptive market timing. The Respondents are BS&Co., an introducing broker-dealer whose
+customers buy and sell securities, and BSSC, a clearing firm that clears trades for BS&Co., other
+introducing brokers and prime brokerage customers. Between 1999 and 2003, Respondents
+facilitated a substantial amount of late trading and deceptive market timing.
+2.
+At BS&Co., certain brokers in the Private Client Services Division (“PCS”)
+facilitated illegal mutual fund trading by knowingly processing large numbers of late trades for
+certain market timing customers, predominately large hedge funds, and by helping market timing
+hedge funds evade detection by mutual funds that did not want market timing business. Upon
+detecting market timing trades, mutual funds often blocked further trading by market timers by
+reference to the available identifying information accompanying the trade, such as the account
+number, registered representative (or “RR”) number or branch code. To evade these blocks,
+BS&Co. took affirmative steps to hide from mutual funds the identity of customers that were
+known market timers by, for example, assigning multiple account numbers to customers so that
+the mutual funds could not identify them as customers whose trades they had previously blocked,
+or by assigning multiple RR numbers to registered representatives at BS&Co. to try to conceal
+the identity of the traders.
+3.
+BSSC, the clearing firm, cleared all of these trades through its Mutual Funds
+Operations Department (the “MFOD”), the department within BSSC that was responsible for all
+mutual fund clearing. In addition to clearing trades for customers of the PCS brokers, BSSC
+cleared trades for prime brokerage customers (i.e., hedge funds that cleared trades directly
+through BSSC) and for customers of its correspondent firms (i.e., introducing brokers that
+cleared customer trades through BSSC). BSSC facilitated deceptive market timing by its prime
+brokerage customers and customers of its correspondents by providing them with deceptive
+devices, such as multiple account and RR numbers and alternative branch codes, to avoid
+detection by mutual funds.
+4.
+At the center of BSSC’s mutual fund clearing operation was the MFOD “timing
+desk,” which the MFOD established in 1999 to manage the increasing flow of market timing
+trades through BSSC. Part of the purpose of the timing desk was to monitor and block accounts
+1
+
+The findings herein are made pursuant to Respondents’ Offer of Settlement and are not binding on any other
+person or entity in this or any other proceeding.
+
+-2-
+
+from trading in mutual funds that did not want market timing trades. But, in practice, the timing
+desk employees and their supervisors acted as consultants and trouble shooters for the PCS
+brokers, BSSC’s correspondent firms and BSSC’s prime brokerage customers engaged in market
+timing and late trading. Tape recorded conversations with customers show that the timing desk
+employees touted BSSC’s abilities to assist timers. The timing desk helped timers negotiate
+BSSC’s own blocking system and evade the blocks and restrictions imposed by the mutual
+funds, and helped customers and their brokers understand how to ensure that their rapid mutual
+fund trades would not be detected by the mutual funds. The timing desk also knowingly or
+recklessly processed thousands of late trades.
+5.
+Respondents’ conduct benefited their customers and customers of correspondent
+firms by enabling those customers to generate hundreds of millions of dollars in profits from
+these trading tactics at the expense of mutual fund shareholders.
+B.
+
+Respondents
+
+6.
+BS&Co. is a Delaware corporation with its headquarters and principal place of
+business in New York City. It is a wholly owned subsidiary of The Bear Stearns Companies Inc.
+(“BSC”), a Delaware corporation and a public company headquartered in New York. BS&Co.
+provides brokerage, investment banking, securities and asset management services to individual
+and institutional customers. BS&Co.’s PCS Division services high-net-worth individuals,
+money managers, and small institutions. BS&Co. has approximately 500 PCS registered
+representatives in eight domestic branch offices. BS&Co. is, and during the relevant period was,
+registered with the Commission as a broker-dealer.
+7.
+BSSC is a Delaware corporation with its headquarters and principal place of
+business in New York City and a wholly owned subsidiary of BS&Co. BSSC provides securities
+and futures clearing, securities lending, financing and related services. In all, BSSC processes
+approximately 7% of the New York Stock Exchange volume cleared daily through the National
+Securities Clearing Corporation (“NSCC”). BSSC’s Global Clearing Services Division (“GCS”)
+provides trade processing, clearance, financing and other services to correspondent brokerdealers and prime brokerage customers. BSSC is, and during the relevant period was, registered
+with the Commission as a broker-dealer. BSSC is, and during the relevant period was, the
+clearing firm for BS&Co. BSSC’s MFOD cleared mutual fund trades for BS&Co., as well as
+BSSC’s correspondents and prime brokerage customers.
+C.
+
+Facts
+1.
+
+Background
+
+8.
+“Market timing” includes: (i) frequent buying and selling of shares of the same
+mutual fund or (ii) buying or selling mutual fund shares in order to exploit inefficiencies in
+mutual fund pricing. Market timing can harm other mutual fund shareholders because it can
+dilute the value of their shares. Market timing, while not illegal per se, can also disrupt the
+management of the mutual fund’s investment portfolio and cause the targeted mutual fund to
+incur considerable extra costs associated with excessive trading and, as a result, cause damage to
+other shareholders in the funds. Market timing may be illegal, for example, if deception is used
+
+-3-
+
+to induce a mutual fund to accept trades that it otherwise would not accept under its own market
+timing policies.
+9.
+“Late trading” is the practice of placing orders to buy, redeem, or exchange
+mutual fund shares after the time as of which mutual funds calculate their net asset value
+(“NAV”), typically 4 p.m., but receiving the price based on the prior NAV already determined as
+of 4:00 p.m. Rule 22c-1(a) under the Investment Company Act (the “forward pricing rule”)
+prohibits late trading. Late trading enables the trader improperly to obtain profits from market
+events that occur after 4 p.m., such as earnings announcements and futures trading, that are not
+reflected in that day’s NAV. By being able to late trade, customers of Respondents and
+correspondent firms obtained trading advantages over the other shareholders of the targeted
+mutual funds.
+a.
+
+The Clearing Process
+
+10.
+All of the trades at issue here were cleared either directly or indirectly by the
+MFOD. Trades were processed in one of two ways. The broker or customer could fax an order
+directly to the MFOD, which would then input the trade into BSSC’s electronic mutual fund
+order entry platform, the Mutual Fund Routing System (“MFRS”). This was the manner in
+which the PCS brokers processed trades.
+11.
+Alternatively, correspondents and prime brokerage customers input trades directly
+into MFRS without manual assistance from BSSC. Beginning in the mid- to late 1990s, as
+BSSC gave correspondent firms and prime brokerage customers with mutual fund trading
+business direct access to MFRS, they could enter mutual fund trades remotely from their offices.
+The effect, in the case of prime brokerage customers, was to put the order entry system directly
+in the hands of the ultimate customer, who traded at will without an intermediary broker.
+Because MFRS accepted orders until 5:45 p.m. and processed those trades as if they had been
+received before 4:00 p.m. without regard to when they were actually received, prime brokerage
+customers had the ability to late trade unchecked.
+12.
+Trades entered into MFRS were processed through NSCC’s Fund/SERV system.
+Networking agreements between BSSC and the mutual funds set forth the parties’
+responsibilities regarding the processing of trades through the Fund/SERV system. All mutual
+fund trades entered into BSSC’s MFRS were batched and transmitted to NSCC approximately
+seven times per day until approximately 8:00 p.m., according to NSCC protocol. NSCC then
+sent the orders to the appropriate mutual fund companies for execution.
+13.
+NSCC permitted firms to use a number of different formats to transmit trades.
+These formats, known as Networking Levels, offered the firms the option to transmit different
+levels of detail about the customer.
+14.
+BSSC used “Networking Level 3,” which identified orders by account number,
+RR number, and branch code but did not transmit the information underlying these codes, such
+as the customer’s name or tax ID, the RR’s name, or branch name or location. The system
+afforded customers a degree of anonymity, in that the identity of the ultimate customer was not
+transmitted to the mutual funds.
+
+-4-
+
+b.
+
+BSSC’s Obligations as a Dealer in Mutual Fund Shares
+
+15.
+Because BSSC functioned as a dealer in mutual fund shares, it had various
+obligations with respect to the timeliness of orders. Mutual funds are sold pursuant to dealer
+agreements. During the relevant period, BSSC maintained dealer agreements with several
+hundred mutual funds, and, accordingly, was a dealer in mutual fund shares subject to the
+requirements of the forward pricing rule. In general, BSSC’s correspondents did not have their
+own dealer agreements with mutual funds and relied on BSSC’s dealer agreements to be able to
+sell mutual fund shares to customers.
+16.
+BSSC’s dealer agreements and certain networking agreements contained
+provisions requiring that shares be sold in accordance with the federal securities laws.
+17.
+Rule 22c-1(a) under the Investment Company Act requires investment companies
+issuing redeemable securities, their principal underwriters and dealers, and any person
+designated in the fund's prospectus as authorized to consummate transactions in securities issued
+by the fund to sell and redeem fund shares at a price based on the current NAV next computed
+after receipt of an order to buy or redeem. Mutual funds generally determine the daily price of
+mutual fund shares as of 4:00 p.m. ET. In these circumstances, orders received before 4:00 p.m.
+must be executed at the price determined as of 4:00 p.m. that day. Orders received after 4:00
+p.m. must be executed at the price determined as of 4:00 p.m. the next trading day.
+18.
+
+Dealer agreements contained some version of the following provision:
+You are to offer and sell such shares only at the public offering price
+which shall currently be in effect, in accordance with the terms of the then
+current prospectus of the Funds.
+
+Mutual funds are required to disclose in their prospectuses the time as of which the NAV is set
+for purposes of determining the price at which shareholders may buy or redeem mutual fund
+shares.
+19.
+As a result, most dealer agreements required BSSC to transmit for processing at
+that day’s NAV only orders received by a broker by 4:00 p.m.
+20.
+Some dealer and networking agreements were even more explicit. For example, a
+networking agreement between BSSC and one mutual fund company states that:
+Instructions shall be deemed to have been received (and price protected)
+as of the day on which Instructions were placed by the Firm [defined as
+BSSC] with [the mutual fund company] (“Trade Date”), if such
+Instructions are received by the Firm from Client prior to 4:00 p.m.
+Eastern Standard Time (“EST”) on a business day on which the New York
+Stock Exchange is open (“Close of Trading”) and transmitted to NSCC no
+later than 6:00 p.m. EST on such Trade Date (“Cut-Off”). … Firm
+warrants that all Instructions Firm transmits to the Funds for processing
+were received by Firm by Close of Trading.
+
+-5-
+
+21.
+Dealer agreements permitted BSSC to submit for that day’s NAV only orders that
+were received by the correspondent brokers or received from BSSC’s prime brokerage customers
+during market hours, usually by 4 p.m.
+22.
+Despite the foregoing provisions in its dealer and networking agreements, and its
+legal obligations as a dealer under the forward pricing rule, BSSC did not implement any
+controls to detect or prevent late trading by correspondents or prime brokerage customers with
+MFRS.
+c.
+
+The Timing Desk
+
+23.
+As described above, the center of the MFOD clearing operation was the timing
+desk. In response to increased market timing activity, in 1999, BSSC created the timing desk to
+manage the flow of market timing trades through BSSC. Eventually, part of that task involved
+blocking accounts from trading in mutual funds that did not want market timing trades. The
+timing desk also assisted market timers’ mutual fund order entry, handled rejected or stoppedfor-timing trades, forwarded to timers mutual funds’ letters or emails complaining about abusive
+trading or requesting that timing be stopped (“stop notices”) and, in some cases, provided
+specific advice on the market timing business.
+24.
+As a practical matter, the timing desk was a facilitator of unlawful trading. The
+timing desk entered late trades for BSSC and PCS customers and assisted with the next-day
+cancellations of unprofitable trades. It communicated directly with prime brokerage customers
+when assisting them with their market timing trades, including entering late trades after 4:00
+p.m. It also advised BSSC correspondents and customers and the PCS brokers about strategies
+that might work to evade detection by mutual funds, as well as about factors that mutual funds
+perceived as indications of timing. For example, the timing desk advised timers on dollar size
+thresholds above which mutual funds were more likely to detect timing, as well as on branch
+codes and RR numbers that were most likely to be blocked by mutual funds.
+25.
+The MFOD took other action to promote market timing. For example, even
+though dealer agreements required BSSC to sell mutual funds pursuant to the terms of the funds’
+prospectuses, timing desk employees and their supervisors actively encouraged timers to work
+out timing arrangements with mutual funds and generally lifted BSSC’s systematic blocks,
+regardless of account history or fund prospectus provisions, if a registered representative or
+customer claimed that a mutual fund had given him permission to time. These purported
+arrangements were oral and often negotiated with mutual fund salespeople. Indeed, some of
+these purported arrangements were no more than advice from mutual fund wholesalers to timers
+on ways to avoid detection by the mutual funds’ timing police.
+26.
+The timing desk knew that many of these arrangements were not legitimate, as it
+received stop notices from mutual funds about trading by the very individuals or entities that
+claimed to have arrangements.
+27.
+The timing desk also communicated directly with mutual funds concerning the
+mutual funds’ stop notices. These communications went beyond mere ministerial matters and
+included substantive discussions regarding timers’ trading and strategies. Indeed, on July 18,
+
+-6-
+
+2003, in a telephone conversation with a BSSC employee about a potential new market timing
+customer, an MFOD supervisor described the timing desk as employees who negotiate with
+mutual funds and “keep the clients in play.”
+28.
+Some market timers even expressed their appreciation to timing desk employees
+by giving them gifts such as spa gift certificates, event tickets and meals. For example, in a
+recorded telephone call, a timing desk employee thanked a hedge fund customer for “good seats”
+to an event:
+Timing Desk:
+
+Oh, I got your e-mail. . . . Thank you.
+
+Hedge Fund:
+
+You’re welcome. I hope – they’re supposed to be here
+tomorrow and he’s like, “They’re pretty good seats.
+They’re like 25 rows up.” He’s like (inaudible) seats.”
+I’m like, “That’s what I want.”
+
+Timing Desk:
+
+You’re so good to me.
+
+Hedge Fund:
+
+Hey, no – you’re so good to me. It works both ways.
+
+29.
+In the over four–year period of the activity described in this Order, BSSC
+received thousands of stop notices from mutual funds. BSSC forwarded these stop notices to
+timers and, as discussed in greater detail below, blocked the accounts identified in particular
+mutual funds’ stop notices from trading in those funds. BSSC did not, however, implement
+effective measures to stop the violative trading except when the complaining mutual fund
+threatened to cancel its dealer agreement with BSSC. In that circumstance, the firm was able to,
+and did, put a swift end to all unwanted trading in the affected funds.
+30.
+As described further below, despite repeated notices from mutual funds that
+Respondents were allowing ongoing deceptive market timing and that their purported market
+timer control procedures were ineffective, Respondents took no steps to alter their procedures or
+to implement effective measures to stop deceptive timing. Likewise, they had no procedures in
+place to stop late trading, which they knew or recklessly disregarded was occurring.
+2.
+
+Late Trading
+
+31.
+In the relevant period, certain PCS brokers knowingly submitted a large number
+of late trades for certain market timing hedge fund customers to the MFOD. All of these trades
+were cleared through BSSC, which knowingly or recklessly allowed them in violation of Rule
+22c-1(a) under the Investment Company Act. Moreover, BSSC knowingly or recklessly
+facilitated late trading by certain prime brokerage hedge fund customers and by customers of
+certain other correspondent firms that cleared through BSSC.
+32.
+The ability to enter trades after 4:00 p.m. was an important benefit to at least
+some market timers.
+33.
+Accordingly, in discussions with market timers, Respondents touted their late
+trading capabilities. For example, in a tape-recorded telephone conversation on August 1, 2003,
+
+-7-
+
+the administrative head of PCS (the “PCS Administrative Head”) and the head of MFOD (the
+“MFOD Head”) spoke with a well-known market timing broker who was being recruited to join
+PCS. In addition to discussing Networking Level 3 and BSSC’s blocking system, the parties
+discussed the “cut-off” time for orders:
+PCS Administrative Head: He’s got questions and wanted to go through
+our processes because obviously, the ability for him to
+trade and our ability to accommodate his business is a
+key component of his making a decision of whether or
+not he can come here or not.
+*
+
+*
+
+*
+
+Broker:
+
+… Is there anything else you can think of that might that I could use – any information that might be
+beneficial to me hearing now?
+
+MFOD Head:
+
+Well, just to let you know – just to get you aboard – we
+probably do the best clearance there is on the Street on
+market timing, because it is infrastructurally built that
+we have, you know, very good experienced people
+here.
+*
+
+*
+
+*
+
+Broker:
+
+What’s the cut-off time?
+
+MFOD Head:
+
+MFRS, you have plenty of time to do trades [laughing].
+Pretty much a quarter to six, 5:45 to enter a trade.
+
+34.
+In another tape-recorded telephone call, on June 19, 2003, an MFOD supervisor
+explained to a prospective market timing hedge fund customer the ability to enter orders directly
+into the system until 5:30 p.m.:
+The trading system, if you guys were to do your own trading from your
+desktops, it’s up and running til about 5:30 at night. I’d like to think that
+all the mechanisms and the operational programs that we have help
+support this business as good as any broker dealer on the Street.
+35.
+On August 29, 2003, in another tape-recorded call, the MFOD Head spoke with a
+BSSC correspondent broker who was interested in bringing a market timing business to BSSC.
+The MFOD Head explained that the BSSC correspondent would be able to input trades until 5:30
+p.m.
+36.
+Discussed below are specific examples of late trading by three groups of
+customers and Respondents’ role with respect to that late trading. The three groups of customers
+are (i) customers of the PCS brokers; (ii) customers of certain of BSSC’s correspondent firms;
+and (iii) certain of BSSC’s prime brokerage customers, which were predominately hedge funds.
+
+-8-
+
+a.
+
+Customers of the PCS Brokers
+
+37.
+From January 2001 through September 2003, the PCS brokers had the MFOD
+enter a large number of trades in MFRS after 4:00 p.m. on behalf of certain customers. These
+trades received the same day’s NAV. The PCS timing brokers submitted customers’ mutual
+fund orders by faxing orders to the MFOD timing desk, which entered the trades into MFRS.
+BS&Co. accepted orders from these PCS hedge fund customers after 4:00 p.m. and processed
+and submitted the orders as if they had been received before 4:00 p.m. so the orders would
+receive that day’s NAV. In addition, the timing desk canceled, added or modified trades for the
+PCS timing brokers after 4:00 p.m.
+38.
+In August 2002, a hedge fund in Texas (the “Texas Hedge Fund”) became a PCS
+market timing customer. In October 2002, the Texas Hedge Fund approached a PCS broker
+(“PCS Broker A”), about bringing more of its market timing business to Respondents. The
+Texas Hedge Fund principals explained that they had heard that Respondents had the ability to
+enter mutual fund trades after 4:00 p.m. The Texas Hedge Fund principals explained that they
+needed until 4:50 or 5:00 p.m. to make their trading decisions because their trading strategy
+depended on information from the futures market, which closes at 4:15 p.m. and re-opens at 4:45
+p.m.
+39.
+On or about October 28, 2002, one of the Texas Hedge Fund principals asked
+PCS Broker A whether the Texas Hedge Fund could place trade orders after 4:00 p.m. PCS
+Broker A responded in an email, “[I] have a lunch tomorrow with the head of our fund
+department to discuss the ‘late’ entry for large cap trades. Will let you know how that goes.”
+40.
+At the meeting that followed, the MFOD Head said that he had to look into
+whether someone would be available until 4:45 p.m. to enter the orders but otherwise did not
+think sending trades down after 4:00 p.m. would be a problem.
+41.
+After the meeting, PCS Broker A sent an email to his partner and the Texas
+Hedge Fund indicating that the MFOD Head believed his department would be able to enter the
+trades at 4:50 p.m.
+42.
+On December 31, 2002, PCS Broker A again emailed the MFOD Head, notifying
+him that the Texas Hedge Fund was going to begin its large cap trades, and stating that “most of
+the times they will know by 4:15 whether or not they will be trading the funds, but may need the
+4:50 cutoff on some occasions.”
+43.
+The Texas Hedge Fund subsequently implemented its large cap late trading
+strategy. Generally, the Texas Hedge Fund sent a tentative trade plan to the PCS brokers prior to
+4:00 p.m. The PCS brokers, however, had no authority to execute the contemplated trades until
+they received a subsequent, post-4:00 p.m. confirmation from the Texas Hedge Fund.
+44.
+Four months after the Texas Hedge Fund began implementing its late trading
+strategy, PCS Broker A sent the following email to the MFOD Head:
+Just wanted to provide you with an update on the Large Cap
+model/later cutoff model we had spoke [sic] about in the
+-9-
+
+fall/winter. Our client initially placed 10 million, spread across 4
+MFS funds, and has subsequently increased that position
+substantially. Just wanted to thank yourself, and the mutual fund
+dept for helping us implement their model. We have another
+account or two that may have an interest in doing it as well, with
+an earlier cutoff, and will keep you posted as to how that is going.
+45.
+From January 2003 to September 2, 2003, Respondents accepted over 2,300
+trades from the Texas Hedge Fund after 4:00 p.m., but processed those orders as if they had been
+received before 4:00 p.m. Many of these orders were placed by the customer after 4 p.m.
+46.
+Respondents also falsified internal order tickets and MFRS data to reflect a pre-4
+p.m. order time without regard to when an order was received.
+47.
+Prior to May 2003, BSSC did not require MFOD employees to enter into MFRS
+the time at which a mutual fund order was received. In response to certain Commission rule
+amendments, in May 2003, BSSC modified MFRS to add a field for the time at which an order is
+taken and required the MFOD staff to fill in that field for orders received from PCS brokers. As
+a result, the MFOD could not enter a mutual fund order into MFRS without filling in the order
+taken time field.
+48.
+This created a problem: orders are supposed to be received before 4:00 p.m. in
+order to receive that day’s NAV, but PCS brokers were receiving customer orders after 4:00 p.m.
+and submitting the orders to the MFOD after 4:00 p.m. Respondents resolved the problem by
+simply entering false order time information into MFRS. An MFOD supervisor advised PCS
+brokers and timing desk employees to record 3:59 or 4:00 p.m. as the order taken time,
+regardless of the time when the mutual fund order was in fact received from a customer. As
+reflected in the following recorded telephone call on May 8, 2003 with a PCS broker, the MFOD
+supervisor stated:
+Because you’re sending trades down some days after what’s
+considered a legitimate time, 4 o’clock New York time, we want,
+we want to make sure that you know that we need to populate a
+time prior to 4:00 p.m. New York time. What I’d like for you to
+do, we’re going to populate either 4:00 p.m. or 3:59.
+*
+
+*
+
+*
+
+[Y]ou know, obviously, you should have them before 4 …
+Obviously, we aren’t going to receive it most of the time before
+four, but it has to be written – the written time has to be before
+4:00 p.m. New York time, so that if the auditors come to us, and,
+you know, they want to see something, we have that you took, you
+took the trade before 4:00 p.m.
+49.
+The PCS brokers wrote 3:59 or 4:00 p.m. on mutual fund order tickets, including
+tickets for orders received after 4:00 p.m. For example, PCS brokers entered 3:59 or 4:00 p.m.
+on orders submitted by the Texas Hedge Fund after 4:00 p.m.
+- 10 -
+
+50.
+Subsequently, PCS brokers stopped recording any order taken time on trade
+tickets. The MFOD supervisor directed the timing desk employees to fill in the order taken time
+with 3:59 p.m. or 4:00 p.m. for trade sheets sent to the MFOD after 4:00 p.m.
+51.
+Between May 12, 2003 and September 10, 2003, over one thousand PCS mutual
+fund orders were entered into MFRS after 4:00 p.m., with an order taken time of 3:59 or 4 p.m.
+Some of these orders were in fact received from customers after 4 p.m.
+b.
+
+Correspondent Brokers
+
+52.
+BSSC also made MFRS directly available to its correspondents, thereby giving
+them the ability to enter trades for their customers until 5:45 p.m. and, in one case, until 8 p.m.
+Certain of these correspondent brokers, including Brean Murray & Co., Inc. (“Brean Murray”),
+Kaplan & Co. (“Kaplan”) and a third correspondent, based in Florida (“Florida Correspondent”),
+permitted their market timing customers to place mutual fund orders after 4:00 p.m. These
+correspondents placed tens of thousands of late trades on behalf of their customers. BSSC knew
+that these correspondent brokers were using MFRS to enter customer orders received after 4:00
+p.m. In at least two instances, BSSC assured correspondent brokers that BSSC would be able to
+accommodate the late trading business.
+53.
+For example, in May 2001, after receiving an inquiry from a timing customer
+about placing mutual fund trades after 4:00 p.m., a PCS timing broker complained in an email to
+his supervisors:
+I have learned from one of our market timing clients that they are
+being allowed to input mutual fund trades with a firm that clears
+through Bear Stearns up until 4:45 pm. This enables that clearing
+firm to attract domestic model money which is what we all want.
+Not only does this put us at a huge competitive disadvantage to the
+firms Bear Stearns clears for, but it is my understanding that such a
+practice is not legal. How can our mutual fund department allow
+such a thing?
+54.
+One of the PCS supervisors forwarded this email to the MFOD Head and his
+supervisor, the Assistant Cashier. These managers did nothing in response to this notice.
+55.
+Despite this and other facts discussed below, BSSC knowingly allowed its
+correspondents to use their direct access to MFRS to submit tens of thousands of late trades.
+(i)
+
+Brean Murray
+
+56.
+Brean Murray is a broker-dealer that cleared orders, including mutual fund orders,
+through BSSC. Brean Murray did not have its own dealer agreements with mutual funds.
+57.
+Two Brean Murray brokers conducted market timing trading on behalf of hedge
+funds managed by Canary Investment Management Inc. (“Canary”).
+
+- 11 -
+
+58.
+Canary principals told one of these Brean Murray brokers that, through another
+BSSC correspondent firm, they had the ability to submit mutual fund orders after 4:00 p.m., and
+they asked whether they could get the same ability to trade past 4:00 p.m. through Brean Murray.
+59.
+The two Brean Murray brokers discussed Canary’s request with several BSSC
+managers, including a Managing Director (“BSSC Managing Director A”) and the MFOD Head.
+These managers told the Brean Murray brokers that BSSC would be able to accommodate
+Canary’s request.
+60.
+Over the next several months, Brean Murray brokers sent to the MFOD a series of
+emails listing the account numbers for new timer accounts and requesting to “please code these
+accounts for late trading.” In response to one of these emails a BSSC employee wrote back,
+“They are coded on my end.”
+61.
+During the relevant period, the Brean Murray brokers and their assistants entered
+thousands of trades into MFRS after 4 p.m. which orders received that day’s NAV. Nearly all of
+those orders had been received by the Brean Murray brokers after 4:00 p.m.
+(ii)
+
+Florida Correspondent
+
+62.
+The Florida Correspondent cleared only its mutual fund business through BSSC.
+It chose BSSC because BSSC assured the correspondent that it could support the kind of rapid,
+large-scale, anonymous, and late mutual fund trading that the Florida Correspondent’s first
+market timing customer (“Florida Customer A”) was seeking. From December 2000 through
+September 2003, the Florida Correspondent entered over 19,000 trades in MFRS after 4:00 p.m.
+The vast majority of these trades were received by the Florida Correspondent after 4:00 p.m.
+63.
+Florida Customer A approached the Florida Correspondent in or about August
+1998 seeking a suitable clearing platform for Florida Customer A’s market timing strategy.
+Florida Customer A explained that the trading strategy required a clearing platform that could
+offer, among other things: next day settlement for mutual fund trades; the ability to protect
+Florida Customer A’s identity from the mutual funds; the ability to handle rapid trading; leverage
+on mutual fund positions; and, most notably, the ability to accept orders based on post-4:00 p.m.
+trading decisions.
+64.
+In discussions with BSSC, the Florida Correspondent learned that BSSC would be
+able to meet all of Florida Customer A’s requirements.
+65.
+On January 7, 1999, the Florida Correspondent and BSSC entered into a clearing
+relationship, and the Florida Correspondent began clearing Florida Customer A’s market timing
+trades through BSSC.
+66.
+Initially, the Florida Correspondent faxed trading instructions to the timing desk
+before 4:00 p.m. and then called to communicate the Florida Customer A’s final trading decision
+by confirming, changing or canceling the trades after 4:00 p.m. On occasion, the timing desk
+called the Florida Correspondent after 4:00 p.m. to find out the final trading instructions and was
+told that the customer had not yet communicated those instructions.
+
+- 12 -
+
+67.
+Later in 1999, the Florida Correspondent received access to MFRS and began
+entering trades directly into the system. The Florida Correspondent routinely entered Florida
+Customer A’s trades in MFRS after 4:00 p.m.
+68.
+In the summer of 2001, BSSC Managing Director A met with a Florida
+Correspondent employee at Respondents’ offices in New York. During that meeting, the Florida
+Correspondent employee explained that his customers used information that became available
+after the close of the markets to gain a trading advantage. BSSC Managing Director A took no
+action to stop the unlawful trading that BSSC was facilitating.
+(iii)
+
+Kaplan
+
+69.
+Kaplan is a broker-dealer in Boca Raton, Florida that cleared mutual fund trades
+through BSSC. From December 2000 through September 2003, Kaplan entered over 21,000
+mutual fund trades in MFRS after 4:00 p.m.
+70.
+Larry Powell (“Powell”) and Delano “DJ” Sta.Ana (“Sta.Ana”) (collectively “the
+Kaplan Brokers”) headed Kaplan’s market timing group. The Kaplan Brokers began entering
+trades through MFRS in January 2000. The Kaplan Brokers routinely permitted their customers
+to submit orders after 4:00 p.m. In fact, the vast majority of their customers’ orders were
+received by them after 4:00 p.m.
+71.
+BSSC was aware that Kaplan was using MFRS to process trades that Kaplan
+received after 4:00 p.m. For example, the Kaplan Brokers or their sales assistants called the
+timing desk when they encountered difficulty entering trades into MFRS after 4:00 p.m. and told
+the timing desk that the trades had just been received.
+72.
+In the spring of 2001, Sta.Ana learned from a conversation with the timing desk
+that the MFOD could enter trades into MFRS even after 5:45 p.m. He then asked his BSSC
+relationship manager for the ability to enter trades after 6 p.m.
+73.
+In May 2001, BSSC provided Kaplan with a MFRS modification that gave
+Kaplan the ability to enter mutual fund trades until approximately 8:00 p.m. and still receive that
+day’s NAV.
+74.
+Between May 4, 2001 and August 26, 2003, the Kaplan Brokers and their
+assistants entered several hundred trades after 5:45 p.m.
+75.
+The MFOD staff also permitted the Kaplan Brokers and their trading assistants to
+cancel, or “bust,” unprofitable trades on the following trading day. The MFOD responded to
+such requests by attempting to obtain price-protected cancellations from the mutual funds; in
+many instances, these efforts succeeded.
+c.
+
+Prime Brokerage Customers
+
+76.
+BSSC facilitated late trading by some market timing hedge funds that were prime
+brokerage customers by affording them direct access to MFRS. MFRS permitted these
+customers to enter mutual fund orders after 4:00 p.m. and still receive that day’s NAV. Between
+
+- 13 -
+
+January 2001 and September 2003, these prime brokerage customers entered over 11,000 mutual
+fund orders through MFRS after 4:00 p.m. BSSC forwarded all orders received after 4:00 p.m.
+through NSCC to the mutual funds to receive that day’s NAV, as if they had been received
+before 4:00 p.m. The MFOD also offered to assist prime brokerage customers in canceling
+unprofitable trades the next day.
+77.
+On June 17, 2002, one prime brokerage customer had the following recorded
+conversation with a timing desk employee at approximately 5:23 p.m. when the customer was
+unable to enter a mutual fund trade because of a supposed “closed for timing” block:
+Hedge Fund:
+
+They won’t – I can’t enter it. It won’t let me enter it. It
+says, “timer account – fund closed for timer accounts.”
+So there’s three trades I’m trying to get in.
+
+Timing Desk:
+
+Hold on. Let me open the system up for you.
+
+Hedge Fund:
+
+What the heck, I’m like freaking. Oh, no.
+*
+
+*
+
+*
+
+Timing Desk:
+
+Wait, I’m trying to see if I need to open it at the account
+level or the security level. Bear with me.
+
+Hedge Fund:
+
+Hey, no problem. You’re helping me. Are you
+kidding? Bear with me.
+*
+
+Timing Desk:
+
+*
+
+Okay. What I’m going to do is I’m going to open that
+fund family for these account numbers. . . . So that you
+don’t have to call every time. It will just be coded.
+*
+
+Hedge Fund:
+
+*
+
+*
+
+*
+
+I’m like – they always tell me I got to have these trades
+in by 4:30 [CT, 5:30 p.m. ET]. Am I going to be okay?
+*
+
+*
+
+*
+
+Timing Desk:
+
+That’s 5:30 my time, right?
+
+Hedge Fund:
+
+Right.
+
+Timing Desk:
+
+You got to quarter to 6:00, hon.
+
+Hedge Fund:
+
+Your time?
+
+Timing Desk:
+
+Yup. . . . 5:45.
+
+- 14 -
+
+Hedge Fund:
+
+Okay, 5:45.
+
+Timing Desk:
+
+Actually, if you have a problem and somebody’s here
+later than that, we could probably help you out, if you
+know what I mean.
+
+Hedge Fund:
+
+Yeah, I understand, thank you.
+
+78.
+In another recorded telephone conversation on August 21, 2001, the same prime
+brokerage customer called the timing desk too late to cancel a trade from the previous day. The
+same timing desk employee explained to the customer that the timing desk would help her to
+“drop” trades the morning after execution, as long as she called early enough:
+
+3.
+
+Timing Desk:
+
+You should have called me earlier. Something like that
+call in the a.m.
+
+Hedge Fund:
+
+Okay, well -
+
+Timing Desk:
+
+In the future, what you do –
+
+Hedge Fund:
+
+Okay.
+
+Timing Desk:
+
+What you do in the future, if there’s a trade that you put
+through, and you realize the next morning, hon, you
+know – I don’t want to say what, you know -
+
+Hedge Fund:
+
+Yeah, capisce [Italian for “I understand”]
+
+Timing Desk:
+
+Yeah. Call, call me, call me or [another timing desk
+employee] very early in the morning. . . .
+
+Deceptive Market Timing
+
+79.
+In addition to facilitating late trading by customers, Respondents facilitated
+deceptive market timing.
+80.
+As an initial matter, BSSC’s clearing platform provided timers with a degree of
+anonymity. As noted at the outset, BSSC used “Networking Level 3” for the transmission of
+order information to mutual funds. Under Networking Level 3, the following information
+concerning an order was conveyed to a mutual fund: type of transaction (i.e. buy or sell and a
+fund CUSIP), the number of shares, the RR number under which the trade was placed, a number
+identifying the branch office from which the trade originated and an account number. Mutual
+fund companies could not see the name or tax identification number of the account holder or the
+name of the RR placing the trade.
+81.
+Respondents facilitated deceptive market timing by offering timers a number of
+devices that helped hide their identity from mutual funds, including: (1) opening new account
+numbers for blocked customer accounts and, in some cases, journaling funds from a blocked
+
+- 15 -
+
+account to another account so the timer could continue timing the same mutual fund with the
+same money in a new account; (2) creating new RR numbers to disguise timers from mutual
+funds; (3) assigning new branch codes to timers’ accounts; and (4) suggesting that timers trade in
+smaller amounts in order to avoid being detected as timers by mutual funds.
+82.
+BSSC and BS&Co. were aware of these devices and facilitated their use. Indeed,
+in May 2001, a mutual fund company advised Bear Stearns as follows:
+We are aware of many situations where when we stop the
+exchange activity in an account, the representative will simply sell
+the position out and transfer the balance to another account. Then
+the exchange activity starts again, until reaching ten exchanges.
+Since the brokerage account number has changed in this scenario,
+and we do not have any account registration, we have no means of
+monitoring the fact this is the same shareholder.
+83.
+Despite this notice, Respondents did not implement any policies or procedures to
+prevent or stop the deceptive trading practices.
+a.
+
+BSSC’s Timer Control Systems
+
+84.
+In 2000, in response to complaints from mutual funds, BSSC began to develop an
+internal system for blocking timer trades. The development of the internal system began with the
+MFOD calling brokers whose customers’ trades had been rejected by mutual funds and
+informing them that they had been stopped from trading in a certain fund. The system then
+evolved into a database of timer accounts maintained by BSSC’s programmers. In the spring of
+2000, the system was modified to allow the MFOD to block all accounts in the timer database
+from trading in a particular fund. The impetus for this change was one mutual fund company’s
+termination, on May 16, 2000, of its dealer agreement with BSSC. On May 23, 2000, that
+mutual fund company agreed to reinstate the dealer agreement based on a signed promise by a
+Bear Stearns Senior Managing Director and co-head of BSSC Operations that, within the
+following three weeks, BSSC would program and implement a “systematic block … for known
+timers.”
+85.
+MFRS programming was then changed to enable the creation of a “closed for
+timing” list. Any mutual fund that informed BSSC that it did not want market timing activity
+was supposed to be placed on the “closed for timing” list. The MFOD also continued to forward
+the stop notices to the brokers or to prime brokerage customers responsible for that trading.
+86.
+In July 2001, BSSC redesigned the blocking system to allow trading in the
+purportedly “closed for timing” funds by certain accounts that represented to Bear Stearns that
+they would engage in more limited trading. This was accomplished by creating a “Non-Timer
+Timer” or “Exempt” (hereinafter referred to as “Exempt”) category of timing accounts.
+87.
+Although the accounts coded as Exempt were contained within BSSC’s database
+of timer accounts, BSSC permitted the Exempt accounts to trade in mutual funds on the “closed
+for timing” list. If a particular “closed” fund specifically identified one of those accounts as a
+
+- 16 -
+
+source of unwanted timing, BSSC would block the offending Exempt account from trading the
+complaining “closed” fund, but not any other accounts used by the same timer. Thus, the timer
+control systems developed by BSSC did not stop known timers from trading in mutual funds that
+had requested that timing be stopped, but were designed to stop only the specific accounts that
+had been identified by a particular fund as unwanted market timers from trading in that fund.
+This system also permitted the same timers to continue timing in “closed” mutual funds by
+simply opening new accounts with Bear Stearns’ assistance.
+88.
+The criteria for coding accounts as Exempt were never reduced to writing, and the
+unwritten criteria were not applied uniformly. Generally, however, the MFOD coded known
+market timers’ accounts as Exempt if the broker or the customer represented to the MFOD that
+he or she would abide by mutual funds’ prospectus limits on timing or would employ a “less
+active” strategy or had obtained permission from the mutual fund to engage in such trading.
+Without investigation, the MFOD simply accepted such representations.
+89.
+Although BSSC permitted Exempt accounts to place trades in funds on the
+“closed for timing” list, BSSC did not allow Exempt accounts to trade in funds that had
+threatened to terminate BSSC’s dealer agreements regardless of the timers’ representations about
+how frequently they would trade. The funds that threatened to or did terminate BSSC’s dealer
+agreements because of market timing became known as “endangered.” Eventually all accounts
+in the timer database were blocked from trading any fund that was “endangered.”
+90.
+In a telephone conversation on August 1, 2003, the MFOD Head described the
+distinction between the “endangered” and the “closed” funds as follows:
+Right now, for most market timers that don’t have capacity with
+the funds, we tell them, “These are the funds you can't do.” And
+the reason why they can't do them is because in the past they came
+to us and told us, “You know, we're going to shut down your
+dealer agreement, we're going to stop reciprocal business, we don't
+want the market time business.” So the firm has made a decision
+not to market time those funds. … Then we have other funds that
+we – those first set of funds we call what is called the “endangered
+list.” … Most of our other funds, we have what's called just a
+“stop list,” where the funds have told us to stop, but they haven't
+been as aggressive as the endangered list.
+91.
+The “endangered” list was first created in July 2002 and contained approximately
+fourteen fund families. On September 3, 2003, there were 46 fund families on BSSC’s
+“endangered” list. BSSC periodically distributed the “endangered” list to all known timers
+instructing them not to invest in those funds.
+92.
+BSSC had no written procedures regarding the treatment of mutual fund
+complaints, and the MFOD employees were left to decide how to handle these issues with little
+or no guidance from senior management, and with no guidance from compliance. In fact,
+BSSC’s compliance officer did not know how the blocking system worked and was unaware that
+a “closed for timing” list existed.
+
+- 17 -
+
+93.
+In its communications with mutual funds placed or about to be placed on the
+“closed for timing” list, BSSC told certain mutual fund representatives that it would stop all
+timing in those funds by known timers or active traders. BSSC did not explain that its system for
+blocking timer accounts consisted of two tiers of blocks – a limited block for funds on the
+“closed for timing” list and a comprehensive block for funds on the “endangered” list. BSSC
+also did not explain that a wide category of known timers – namely, accounts coded as Exempt –
+would be allowed to time the “closed” funds.
+94.
+The MFOD managers knew that the Exempt accounts were engaging in unwanted
+market timing. When the MFOD received a stop notice from a mutual fund about timing in a
+particular Exempt account, BSSC forwarded the stop notice to the appropriate broker or
+customer, but would not re-classify the account.
+95.
+Generally, after receiving such a stop notice, the MFOD would only block the
+offending account from trading the complaining fund. The remaining funds on the “closed for
+timing” list, however, would remain open to the Exempt accounts, including the offending
+account.
+96.
+This system of categorizing funds and coding accounts ultimately permitted
+continued market timing. For example, on January 14, 2002, one mutual fund company wrote to
+an MFOD employee:
+As we have discussed, and as stated in the prospectus (see
+page 54) the [mutual fund company] do[es] not allow investments
+by market timers.
+It has been brought to my attention that a broker who clears
+through Bear has been timing [a fund in that family] …
+Therefore, please prohibit this broker and every affiliated
+account (wrap or otherwise) from ALL [mutual fund company’s]
+Funds. Please notify the broker, and any other brokers who may
+intend to time our funds, that we will be closely monitoring the
+funds for such trading activity, and taking appropriate actions.
+Despite this request, BSSC did not place the fund family on the “closed for timing” list. Rather,
+an MFOD employee wrote an email to the brokers for the stopped account stating: “As per the
+below email, no more purchases or exchanges will be allowed into [this mutual fund company’s
+funds].”
+97.
+When a different correspondent began to submit market timing trades to this fund
+family, this mutual fund company actually terminated its dealer agreement with BSSC. In an
+email dated June 14, 2002, the mutual fund company’s representative described the funds’ intent
+to cancel their dealer agreement with BSSC as follows:
+It is with regret and disappointment that I am notifying you
+that we are terminating our dealer agreement with Bear ….
+
+- 18 -
+
+As you know, our funds do not allow market timers and
+instituted a redemption fee … to further discourage this activity.
+As we have discussed, you indicated that you are not able to
+prevent reps from timing until after the fact; however, you said that
+you were able to ban these brokers from any activity in the future.
+Unfortunately, even though this restriction was supposed to be in
+place, it has come to my attention some of these brokers are still
+timing our International Funds. Furthermore, the reps are coding
+the trades as wrap accounts so as to avoid redemption fees.
+Consequently, the fund is not able to recoup any of the transaction
+costs incurred because of this trading, which affects our long-term
+shareholders.
+98.
+Later in 2002, this mutual fund company reinstated its dealer agreement with
+Respondents. The funds were subsequently placed on the “endangered” list. In or about October
+2002, a senior BSSC executive tried to buy shares of a fund in this fund family but was
+mistakenly told that he could not do so because the dealer agreement had been terminated.
+While attempting to resolve the situation, the BSSC executive wrote to the mutual fund
+company, “Bear Stearns ‘is on your side’ and stops any client market timers as soon as we spot a
+transaction.” In fact, BSSC did not look for market timing activity.
+99.
+In addition, in June 2002, an MFOD supervisor sent an email to this mutual fund
+family explaining why timing was continuing in its fund: “[d]ue to the lesser amount of their
+trades, it was difficult for us to track these transactions. To correct this, we are lowering
+minimums for tracking all active trading.” In fact, BSSC did not track active trading in any way,
+let alone based on any “minimums.”
+b.
+
+BSSC’s Timer Control Systems Did Not Stop Timers
+
+100. As a result of BSSC’s flawed system, many customers and customers of
+correspondents were able to continue to market time mutual funds that requested in unambiguous
+language that BSSC stop timing in their funds.
+101. For example, BSSC added one mutual fund family (“Fund Family A”) to its
+“closed for timing” list on June 29, 2001, because, as that fund family’s representative explained
+in an email to BSSC, “market timing can negatively affect the mutual fund investment process
+and excessive and unpredictable trading hinders a fund manager’s ability to pursue the fund’s
+long term goals.” On July 26, 2001, a timing desk employee informed Fund Family A: “We did
+shut down the fund to known timers.” Yet between August 2001 and September 2003, Fund
+Family A sent the MFOD multiple emails about timing from Exempt accounts.
+102. On October 18, 2001, Fund Family A complained about timing from an account
+traded by a PCS broker in Chicago. The broker had sent this account number, among others, to
+the MFOD Head on July 24, 2001, with a note thanking the MFOD Head for letting the broker
+“try to salvage” his “timing business with a 2 exchange model.” Based on a decision made by
+the MFOD Head and PCS managers, the broker’s accounts – including this account – were coded
+in BSSC’s systems as Exempt. Subsequently, Fund Family A notified the MFOD that this
+
+- 19 -
+
+account engaged in unwanted trading. In response, BSSC blocked the account from further
+trading in Fund Family A, but did not change the account’s Exempt coding.
+103. In all, between August 2001 and September 2, 2003, Fund Family A sent stop
+notices on over 40 occasions. In those stop notices, it identified over 50 market timing accounts
+that were coded in BSSC’s timer database as Exempt. Furthermore, approximately 23 of the
+identified Exempt accounts were traded by the Chicago PCS broker – who, in fact, had only one
+timing customer.
+104. Another example is Fund Family B, which was placed on the “closed for timing”
+list in April 2001 after it sent the following email to the MFOD:
+Please use this e-mail as notice to Bear Stearns regarding the
+market timing policy of [Fund Family B]. [Fund Family B] do[es]
+not allow short term or excessive trading in ANY of our Funds ….
+We would appreciate it if you could block any representatives that
+are market timers. We have forwarded to you in the past 3 months
+numerous messages and accounts that we have recognized with
+market timing activity. Please use this information to block any
+and all of these representatives from doing business with [Fund
+Family B] currently and in the future.
+105. Despite this request, BSSC did not block all Exempt accounts from trading in
+Fund Family B. Rather, BSSC forwarded this letter to all brokers that had market-timing
+business. In or about the Fall of 2002, BSSC “re-opened” Fund Family B, as well as
+approximately 140 other “closed for timing” mutual fund families to Kaplan and its customers.
+BSSC accomplished this, in part, by coding certain Kaplan accounts as Exempt. Not
+surprisingly, Kaplan’s customers began timing the funds again.
+106. In yet another example of continued timing in funds that were “closed,” a BSSC
+executive actively participated in bringing to BSSC the timing business of a New York based
+hedge fund (“New York Hedge Fund”). On March 18, 2003, the New York Hedge Fund wrote
+to a BSSC relationship manager:
+Kindly accept this correspondence as our request to engage
+in Mutual Funds Trading. As you know, … our Chief Executive
+Officer [(“the New York Hedge Fund CEO”)], has been engaged
+in discussions with [the BSSC executive] regarding the product.
+…
+[The New York Hedge Fund CEO] has informed me, based
+on his discussions with [the BSSC executive]; Bear Stearns will
+provide us the platform to trade any Mutual Fund which Bear
+Stearns has a contract. This would include all the fund families
+which you forwarded to me on March 13, 2003 designated as
+“Fund Families Closed for Timing”. . . .
+
+- 20 -
+
+As we discussed, our trades will be usually around
+$100,000 to $200,000 in size and we will abide by all round trip
+limitations of the various funds. We further discussed in broad
+terms an outline for the size, type, and number of accounts we
+would utilize. … I am also under the belief each transaction will
+only be identifiable to the funds by our Bear Stearns account
+number.
+107. The relationship manager sent an email to a BSSC Senior Managing Director,
+describing the New York Hedge Fund’s strategy as “day trading” of mutual funds. In response,
+the BSSC Senior Managing Director asked: “Have we reviewed the mutual fund list to confirm
+that the trading will not jeopardize the firm’s relationship with the funds?” Another BSSC
+employee responded, “We have had [the New York Hedge Fund] in contact with [the MFOD
+Head] on several occasions. [The New York Hedge Fund] understands who is on the ‘Do Not
+Touch List’ and have agreed to play ball.”
+108. BSSC opened 10 accounts for the New York Hedge Fund before it even began
+trading. BSSC coded the accounts as Exempt, based on the New York Hedge Fund’s
+representation that “we will abide by all round trip limitations on the various funds.” Thus,
+BSSC did not stop the New York Hedge Fund from trading the funds that were purportedly
+“closed for timing” and only prohibited it from trading funds on the “endangered” list.
+109. The New York Hedge Fund began trading on June 30, 2003. On July 8, 2003, a
+mutual fund company canceled one of its trades for market timing. Four other mutual fund
+companies stopped New York Hedge Fund’s trades on July 9, July 21, July 29, 2003, and August
+14, 2003. All of these mutual funds had appeared on the “closed for timing” list by February of
+2001.
+c.
+
+BSSC Helped Customers and Correspondents Deceive Mutual Funds
+
+110. BSSC facilitated deceptive market timing by assigning timers multiple account
+numbers and RR numbers and alternative branch codes to help them avoid detection by mutual
+funds. BSSC was aware that the multiple account numbers, RR numbers and branch codes it
+was providing were used for deceptive purposes.
+111. The timing desk specifically advised customers and correspondents about the
+deceptive strategies described above. For example, the MFOD advised timers that BSSC was
+using a default RR number, 055, to indicate trades executed by prime brokerage customers
+through BSSC. The MFOD also advised timers that funds would often block all trading from
+that RR number and suggested that certain customers open alternative RR numbers to avoid
+being blocked for timing.
+112. For example, in an email dated November 27, 2001, one timing desk employee
+advised a known timer, a BSSC prime brokerage customer, as follows:
+I suggest that you somehow get a new Bear account number with a
+different RR #. Almost all clearing firms have the #055. When
+the fund sees this RR# they automatically assume that it is one
+- 21 -
+
+broker. We tell them it is not, but since we do not give them RR
+info, they shut us down.
+113.
+
+This timing desk employee also advised that customer:
+Have you thought about trying to establish a relationship with the
+fund companies that you would like to trade with that have stopped
+us for timing? You may be a bit more successful doing that since
+it seems to work. The only catch is that they will [k]now you and
+you may have to comply with some of their exchange rules as far
+as frequent exchanges is concerned [sic].
+
+114. Later, the timing desk employee again advised that same customer: “You can just
+get a new RR# if that is better for you. One advise [sic] is NOT to get #099. That is another
+RR# that is widely used.”
+115. The timing desk employee also advised another market timing customer that a
+certain mutual fund family had a ten exchange per year limit but that after he reached his ten
+exchange limit in one account, he could “buy [this mutual fund family] in another account until
+you reach your 10 exchange limit.”
+116. In another example, an internal email from one of BSSC’s correspondents located
+in New York (the “New York Correspondent”) describes a call with another timing desk
+employee:
+spoke to [timing desk employee] just now to find out that when an
+account is stopped, and [timing desk employee] emails us the
+account and symbol for the fund, does that mean all funds for that
+fund family are stopped or only that specific fund. [Timing desk
+employee] said that it matters only what account and rep # we
+used, because if we want to trade in that fund family again, we
+have to use a different account AND rep number, otherwise they’ll
+catch it again.
+117. The New York Correspondent had over 200 mutual fund market timing accounts,
+over 150 of which were for one ultimate customer, a New York hedge fund (the “New York
+Hedge Fund 2”). As noted above, Mutual Fund Family A had supposedly been “closed for
+timing” since June 29, 2001, because, as Mutual Fund Family A explained in an email to BSSC,
+“market timing can negatively affect the mutual fund investment process and excessive and
+unpredictable trading hinders a fund manager’s ability to pursue the fund’s long term goals.”
+Despite this clear instruction, BSSC not only permitted the New York Correspondent to engage
+in market timing in Mutual Fund Family A in 2003; when Mutual Fund Family A blocked the
+New York Hedge Fund 2’s trading, the New York Correspondent followed BSSC’s advice and
+switched account numbers to continue the unwanted timing.
+118. On February 25, 2003, Mutual Fund Family A notified BSSC that three accounts
+were market timing and asked BSSC to stop those accounts from further trading in 26 different
+funds of that fund family, including Mutual Fund Family A’s high yield fund. Mutual Fund
+- 22 -
+
+Family A specifically asked that the accounts be coded “so that they are prohibited from
+purchasing or exchanging additional shares in all [funds of Mutual Fund Family A].” The three
+accounts belonged to the New York Hedge Fund 2 and were traded by the New York
+Correspondent. Despite this request, on February 27, 2003 – two days later – the New York
+Hedge Fund 2 purchased Mutual Fund Family A’s high yield fund in three different accounts.
+119. Set forth below is a description of particular instances in which BSSC facilitated
+deceptive market timing by prime brokerage customers and correspondents.
+(i)
+
+Prime Brokerage Customers
+
+120. BSSC provided multiple RR numbers, branch codes and account numbers to its
+prime brokerage customers to facilitate deceptive market timing.
+121. BSSC provided at least two large prime brokerage customers with unique RR
+numbers to assist them in getting around blocks put into place by mutual funds or to avoid
+“flagging” to the mutual funds that certain transactions were likely coming from a market timer.
+122. BSSC also provided at least one prime brokerage market timer (the “California
+Hedge Fund”) with accounts in an alternative branch range, enabling it to time or to continue to
+time in funds that had previously blocked its trades or that were attempting to stop timing trades
+associated with those timers’ existing branch codes.
+123. BSSC’s prime brokerage customers, including market timers, generally had
+accounts with branch code “102.” Some mutual funds began to notice that a large volume of
+market timing trades placed through BSSC occurred in accounts with that branch code, and
+began tracking and/or blocking accounts with that branch code.
+124. For example, in an email dated December 14, 2000, a representative of one
+mutual fund family informed the MFOD that the California Hedge Fund’s account would be
+frozen because it had “continued with its disruptive trading.” The mutual fund family
+representative continued, “The representative involved, Rep 055 at Branch 102, has been warned
+and frozen in numerous accounts prior to this.” The email was forwarded to one of the
+California Hedge Fund’s principals.
+125. By May 2001, at least six other mutual fund companies identified the California
+Hedge Fund’s accounts with branch code 102 as timing accounts.
+126. In May 2001, the California Hedge Fund’s principal sent an email to BSSC
+stating he would like to discuss the following issues in an upcoming meeting:
+acquiring new ‘bin #’s’. these are the account #’s that are
+transmitted to mutual fund families. we want bin #’s that are
+outside the 102 account range and therefore deemed traditional
+‘timer’ activity. the new bin #’s should be in a range in which
+traditional mutual fund flows come from.
+
+- 23 -
+
+127. At about the same time as the meeting, the California Hedge Fund’s principal also
+contacted a BSSC manager in San Francisco (“San Francisco Director”) and, again, explained
+that the California Hedge Fund would like to obtain accounts outside the 102 range to avoid
+being viewed as a market timer.
+128. The San Francisco Director asked the MFOD Head whether getting accounts with
+a branch code other than 102 might help a customer avoid the problem of being viewed as a
+market timer. The MFOD Head acknowledged that it would.
+129. After this conversation, BSSC gave the California Hedge Fund accounts with
+branch code 105. Several senior BSSC managers participated in internal discussions about the
+opening of 105 accounts for the California Hedge Fund; BSSC ultimately issued a number of
+accounts for the California Hedge Fund in this range.
+130. Branch code 105 was generally used for “accommodation” accounts for prime
+brokerage customers and normally would not have been given to an institutional customer to
+trade mutual funds. To accommodate the California Hedge Fund’s request, BSSC made special
+modifications to certain internal systems so that the California Hedge Fund would be able to
+continue using leverage to trade in the 105 accounts, which were normally not set up for such
+trading.
+131. BSSC provided the California Hedge Fund with accounts in the 105 range with
+the understanding that the purpose of the accounts was to evade mutual funds’ anti-timing
+blocks. For example, in one email dated May 29, 2001, the San Francisco Director explained to
+the relationship managers for this customer, “since 102 range gets targeted for mutual fund
+timing we are looking to open 105 which will slide under the radar.”
+132.
+fund trades.
+
+The California Hedge Fund used the 105 accounts to place over 1,200 mutual
+
+133. BSSC’s prime brokerage customers received new account numbers directly from
+BSSC’s GCS new accounts department. BSSC provided one prime brokerage customer with a
+market timing business, a Chicago hedge fund (the “Chicago Hedge Fund”), with dozens of
+account numbers. The MFOD’s August 12, 2003 “Timer List” of known market timing accounts
+included 67 accounts for the Chicago Hedge Fund. In an email regarding a request for additional
+accounts, the Chicago Hedge Fund’s relationship manager specifically noted that the accounts
+were for the customer to trade mutual funds. The Chicago Hedge Fund used its multiple
+accounts to circumvent mutual funds’ restrictions on market timing.
+(ii)
+
+BSSC’s Correspondents
+
+134. BSSC also assigned multiple accounts, RR numbers and accounts in the
+“professional range” to customers of correspondents. These accounts and RR numbers allowed
+those customers to evade mutual funds’ trading restrictions.
+
+- 24 -
+
+(a)
+
+Kaplan
+
+135. BSSC generally designated to a particular correspondent a certain range of
+account numbers, which became that correspondent’s so-called retail range. However, to
+facilitate timing, BSSC allowed customers of correspondents to open market timing accounts
+outside those correspondents’ retail ranges, under branch code 103. Branch code 103 was
+reserved for professional accounts. Unlike accounts in correspondents’ retail ranges, accounts
+with branch code 103 had to be issued by BSSC’s GCS new accounts department.
+136. BSSC correspondent Kaplan used multiple 103 accounts for deceptive market
+timing on behalf of its customers. In many instances, when a mutual fund blocked or stopped a
+trade from a certain account number or indicated to BSSC that it would block all trading from a
+particular account number, a Kaplan registered representative would simply contact a BSSC
+employee who would contact the BSSC new accounts department and ask that the offending
+account be “cloned.” Kaplan would then place trades in the same mutual fund for the same
+customer using the new account number.
+137. Some mutual funds began to recognize Kaplan’s branch number “755” as a
+branch code associated with a large quantity of timing trades and began to block all trades
+bearing that branch code. To get around this problem, Kaplan’s customers who otherwise would
+have traded in Kaplan’s branch 755 began to open 103-range accounts with BSSC.
+138. Through email and internal reports circulated to the highest levels of BSSC,
+BSSC management knew that BSSC was issuing accounts in the 103 branch range to assist
+Kaplan’s customers in market timing.
+139. In an email to his supervisors dated June 18, 2003, a BSSC employee made clear
+that Kaplan was using multiple account numbers to avoid detection by mutual funds:
+the bulk of the 103’s that have been opened in florida are for bd
+kaplan secs. they open the accounts not for reporting or
+technology but to keep 1 step ahead of the mutual fund companies.
+it has something to do with the account # string which is part of the
+bin # that is reported to the mutual fund companies when a trade is
+executed.
+140. For example, on January 28, 2003, Fund Family B sent a stop notice to BSSC
+about timing in its high yield fund by two accounts belonging to the same Kaplan market timing
+customer. A MFOD clerk forwarded this notice to one of the Kaplan Brokers with the
+notification that the “accounts are stopped for timing.”
+141. In February 2003, the Kaplan Brokers sought to open accounts for this customer
+in the “103” range. Kaplan’s relationship manager at BSSC forwarded the request to a BSSC
+Managing Director, who questioned why a “103” account should be opened. Kaplan’s
+relationship manager replied, “This is the day timing group which trades Mutual Funds.”
+142.
+
+A BSSC Managing Director approved the opening of the “103” accounts.
+
+- 25 -
+
+143. On March 14, 2003, BSSC issued a new account for this customer and on March
+19, 2003, Kaplan was able to purchase Fund Family B’s high yield fund for this customer using
+the new 103 account number and a different RR number.
+144. In another example, on April 14, 2003, April 24, 2003, and May 16, 2003, Kaplan
+requested that BSSC open a total of 30 new 103 accounts for one of its timing customers. In
+processing each request, a BSSC employee sent an email stating, “client needs multiple trading
+accounts for trading strategy trading mutual funds.”
+145. BSSC granted all three requests. On July 24, 2003, a mutual fund company
+identified one of these 30 accounts as a timing account and informed BSSC that the account
+would be frozen. On August 18, 2003, however, the same Kaplan customer bought $2.681
+million worth of that mutual fund company’s shares using five of the other 29 accounts. Those
+positions were sold the very next day, August 19, 2003.
+146. Furthermore, on August 22, 2003, the same customer bought an additional $2.7
+million worth of that mutual fund company’s shares in yet another five of the 30 accounts.
+Those positions were all sold on August 25, 2003.
+147. At the time of these trades, that mutual fund company’s family of funds was on
+BSSC’s “closed for timing” list.
+148.
+
+BSSC also assigned the two Kaplan Brokers more than 35 RR numbers.
+
+149. In an April 2001 email, a BSSC relationship manager explained that one Kaplan
+Broker was using “multiple rr #’s to throw off the mutual fund companies in an attempt to avoid
+being kicked out of the funds.” Despite this explanation, BSSC subsequently gave this Kaplan
+Broker additional RR numbers, which he then used to place market timing trades.
+(b)
+
+Florida Correspondent
+
+150. By December 1999, BSSC understood that the Florida Correspondent was
+engaged in unwanted market timing that was harming mutual funds. A December 17, 1999
+internal BSSC report explained that several mutual funds had asked that the Florida
+Correspondent not trade their funds.
+151. In a December 1999 email, the MFOD Head explained to the BSSC relationship
+manager for the Florida Correspondent that a mutual fund was rejecting the Florida
+Correspondent’s trades, that the mutual fund did “not want them timing,” and that the Florida
+Correspondent was planning to “set up new A/C’s and time small amounts of [that mutual
+fund].” This information was forwarded to the head of broker-dealer services for GCS, counsel
+for BSSC and the MFOD Head’s supervisor. Thereafter, the Florida Correspondent’s customers,
+with BSSC’s assistance, opened numerous accounts to continue to deceptively time mutual
+funds, many of those in the 103 range.
+152. An email from a BSSC relationship manager, dated July 16, 1999, regarding
+Florida Customer A explained:
+
+- 26 -
+
+under the 1 entity they would like to open 5 sub accounts. they
+trade mutual funds and would like the account # sequence to be
+non-sequential. it has something to do with not wanting the mutual
+fund companies that they are trading to make a connection between
+the 5 accounts. the account is part of the BIN # that is provided to
+the funds on each transaction.
+153. By August 16, 1999, Florida Customer A had 6 new account numbers, but the
+numbers were sequential. The relationship manager again requested that a BSSC employee:
+change some of the #’s you supplied and provide new one which
+are [sic] out of sequence. the clients reason [sic] for this has to do
+how [sic] he trades mutual funds and the way we deliver
+information to the various funds.
+154. As of October 15, 1999, Florida Customer A had at least three non-sequential
+accounts. By February 25, 2000, Florida Customer A also had an additional non-sequential
+account.
+155. From December 2000 through June 2001 BSSC issued Florida Customer A at
+least 22 additional new accounts. Florida Customer A used these accounts to deceptively time a
+number of mutual funds that had previously complained to BSSC about market timing activity.
+156. For example, in 1999, a mutual fund family sent a stop notice to BSSC about
+particular accounts that had engaged in market timing and asked that Respondents permanently
+bar those customers and representatives from trading this family’s funds. On March 8, 2000, this
+fund family sent a detailed letter explaining that market timing was “unwelcome and potentially
+costly” and that the fund family had tightened its prospectus language regarding timing. On
+November 1, 2000, the fund family again wrote to BSSC to explain that there had been
+additional abusive trading and that the fund family had a “no tolerance” policy towards market
+timing.
+157. Nevertheless, the following month, Florida Customer A began timing this fund
+family’s international growth fund. Between December 6, 2000 and January 25, 2001, Florida
+Customer A made 15 exchanges in this fund family’s funds. The fund family canceled Florida
+Customer A’s sixteenth attempted timing exchange on January 30, 2001. Florida Customer A
+sold its position on February 14, 2001.
+158. On February 22, 2001, the Florida Correspondent asked BSSC to open additional
+accounts in BSSC’s professional range. BSSC granted the request and, the next day, assigned
+Florida Customer A four additional account numbers.
+159. On March 19, 2001, Florida Customer A again attempted to time the same mutual
+fund family’s international growth fund but this time the fund rejected the trading.
+160. On March 22, 2001, this mutual fund family sent BSSC another stop notice,
+complaining about the “constant market timing” coming through Bear Stearns and again
+referencing the anti-timing policy set forth in its prospectus.
+- 27 -
+
+161. Despite this fund family’s clearly expressed “no tolerance” policy, it did not
+appear on BSSC’s “closed for timing” list until May 2001.
+162. In fact, on March 21, 2001, a different market timer contacted the MFOD to ask if
+this fund family’s funds were closed for timing. In spite of the numerous stop notices and the
+explicit statement that the fund family had a “no tolerance” policy towards market timing, this
+timer was informed by BSSC’s MFOD that the “fund family is not closed for timing.”
+163. Finally, on May 8, 2001, the fund family threatened to terminate its dealer
+agreement with Bear Stearns:
+[I]f you and your associates do not shut down the timing activity
+immediately, we will ban the entire Bear Stearns relationship from
+investing in our funds. This activity causes considerable harm to
+our portfolios and quite frankly, forces us to waste critical time and
+energy on a few, very unprofessional investors.
+What troubles me the most is when I hear stories … that we
+call to stop the activity. Your associates are not willing to work
+with us and seem to be cooperative with the timers by allowing
+them to close the identified accounts and open new ones. Here
+are your instructions - once we have identified a timer, this
+individual is PERMANENTLY banned from our fund complex.
+No new funds, accounts or any other tricks these professionals (I
+use the term lightly here) may dream up.
+(Emphasis added.)
+164.
+timing” list.
+
+After this communication, the mutual fund family was added to the “closed for
+
+165. In August 2001, in response to an email regarding the fact that the Florida
+Correspondent was withdrawing funds from BSSC accounts because of “lack of capacity for
+market timing,” the San Francisco Director wrote to two other BSSC Directors suggesting the
+following:
+its [sic] been my experience for mf timers in gcs that its [sic] the
+mutual funds that dictate whether the account can trade with them
+based on their strategy. many of the funds dont [sic] want market
+timers and bear stearns simply relays the message to the customer.
+some ways in which we have “addressed” this to keep the
+customer happy is to change the rr number on the trades or to open
+additional acct numbers in the family since the mf companies
+target certain office ranges and rr #’s and classify them as timers.
+166. A BSSC Managing Director who was copied on the same email replied, “great
+idea thanks” and suggested that the idea be “floated” by the Florida Correspondent, as a possible
+- 28 -
+
+way to “win the business back.” In fact, the Florida Correspondent was already using these
+deceptive tactics.
+c.
+
+The PCS Brokers Deceived Funds
+
+167. Certain of the PCS brokers also facilitated deceptive market timing by using
+multiple account and RR numbers and branch codes to help certain PCS timing customers avoid
+detection by mutual funds. PCS managers approved the issuance of multiple account and RR
+numbers to the PCS brokers, even though the managers knew or were reckless in not knowing
+that the devices would be used for market timing.
+168. Respondents were aware that PCS registered representatives were deceptively
+using multiple accounts and RR numbers for their market timing customers’ strategies. For a
+period of time, a senior PCS manager required that one PCS broker (“PCS Broker B”) regularly
+submit for review a list of his market timing accounts showing their assets invested and margin
+balances.
+169. In addition, sometime in April or May 2001, the MFOD Head informed
+BS&Co.’s Global Compliance Coordinator that the MFOD had received significant complaints
+from mutual funds regarding the use of multiple account numbers and multiple RR numbers for
+customers engaged in market timing. BS&Co.’s Global Compliance Coordinator brought that
+complaint to the attention of senior managers in PCS.
+(i)
+
+Multiple Account Numbers
+
+170. The PCS brokers used over 340 account numbers to facilitate market timing by
+approximately 14 market-timing customers.
+171. In the case of one market timing hedge fund customer, the PCS brokers used over
+50 different account numbers for 6 entities associated with the customer. The brokers
+understood that the purpose was to deceive the mutual funds.
+172. In June 2003, a mutual fund company sent BSSC a stop notice about this
+customer’s market timing activity and requested:
+Please block bin number … and if there’s anyway [sic] to keep this
+FC out and from reregistering the account and then starting all over
+again I’d appreciate it. Rep Code is RL6. This account has been
+blocked at least twice in the past and just switches accounts and
+starts in all over again.
+The notice was forwarded to the broker for the account. Despite this notice, the same PCS
+broker continued to trade in this mutual fund company’s funds for the customer, using different
+accounts with different RR numbers.
+173. The PCS brokers also specifically advised customers to stay “under the radar” by
+trading in smaller dollar amounts using different accounts. The PCS brokers opened multiple
+
+- 29 -
+
+accounts for timing customers in order to spread timing money across those accounts, instead of
+placing single large trades, which would have served as “red flags” to mutual funds.
+174. As an example, a PCS customer based in Chicago opened additional accounts
+because a PCS broker suggested spreading mutual fund trades across accounts to limit the dollar
+size of the trades and avoid trade rejections. On April 17, 2001, this customer made six
+purchases of $500,000 worth of an international value fund’s shares in six different accounts,
+thereby concealing what was actually a single trade of $3 million. In another example, on April
+10, 2001, the same customer made a series of identical purchases for 6 different accounts,
+acquiring identical positions in 9 mutual funds for each of the accounts.
+(ii)
+
+Use of Multiple RR Numbers
+
+175. As early as 1999, the PCS brokers used new RR numbers to deceive mutual funds
+about the source of their customers’ market timing trades. Senior managers in PCS approved
+numerous written requests for new RR numbers that stated that the reason for the request was
+“mutual fund trading.” Once the new RR numbers were issued, the PCS brokers used them to
+trade mutual funds that had previously blocked trades placed with their existing RR numbers.
+176. For example, on December 21, 1999, PCS Broker A requested a new RR number
+that he shared with PCS broker B to disguise PCS Broker B’s market timing activity. The form
+requesting the new RR number specifically stated that PCS Broker B’s name should not be
+shown on the account statements. The new RR number was issued to PCS Broker A and was
+then used to time funds in a mutual fund family that had previously complained to Respondents’
+about PCS Broker B’s timing trades. Although the RR number was assigned to PCS Broker A,
+PCS Broker B, with senior management’s knowledge and approval, received 95 percent of the
+commissions.
+177. By May 15, 2001, senior managers in PCS had approved over 50 RR numbers for
+the four New York based PCS brokers with market timing customers. In mid-2001, BS&Co.
+stopped issuing new RR numbers to these PCS brokers, and PCS managers instructed the brokers
+not to do anything that would jeopardize Bear Stearns’ relationships with mutual funds but
+permitted them to continue using the more than 50 RR numbers they had already received.
+178. These brokers continued to use the more than 50 RR numbers to deceptively time
+mutual funds. For example, on March 2, 2001, a mutual fund company informed BS&Co.’s
+compliance department that certain of the PCS brokers’ accounts that had been previously
+identified as “excessive timers” “have or will have stop transfers to prohibit exchange activity”
+including two accounts belonging to a timing customer of PCS Broker B. Nevertheless, on July
+25, 2001, PCS Broker B’s group was able to purchase $387,002.50 worth of that mutual fund
+company’s shares in that customer’s new account with a different RR number – and sold that
+position less than two weeks later on August 6, 2001.
+Violations
+179. As a result of the conduct described above, BSSC willfully violated, willfully
+aided and abetted, and caused violations of Section 17(a) of the Securities Act, which prohibits
+fraudulent conduct in the offer or sale of securities. More specifically, BSSC facilitated late
+- 30 -
+
+trading by certain prime brokerage customers and customers of certain correspondent broker–
+dealers, including BS&Co., by forwarding to NSCC, to receive that day’s NAV, tens of
+thousands of trades received by the correspondent broker–dealer or BSSC (in the case of hedge
+fund prime brokerage customers) after 4:00 p.m., as if such orders had been received by the
+relevant broker–dealer prior to 4:00 p.m. In addition, BSSC facilitated the deceptive market
+timing activity of certain prime brokerage customers and of customers of certain correspondent
+broker–dealers by providing these entities with deceptive devices such as multiple account
+numbers and multiple RR numbers to enable them to avoid detection by mutual funds.
+180. As a result of the conduct described above, BS&Co. willfully violated, willfully
+aided and abetted, and caused violations of Section 17(a) of the Securities Act and Section 10(b)
+of the Exchange Act and Rule 10b-5 thereunder, which prohibit fraudulent conduct in the offer
+or sale, or in connection with the purchase or sale of securities. More specifically, BS&Co.
+accepted a large number of late trades from certain PCS customers after 4:00 p.m. and submitted
+those orders as though the customers had placed the orders prior to 4:00 p.m., thereby ensuring
+that those trades received that day’s NAV. BS&Co. also used multiple deceptive devices to
+facilitate its PCS customers’ market timing of mutual funds. For example, BS&Co. issued
+customers multiple account numbers and used multiple RR numbers to enable those customers to
+avoid detection by mutual funds.
+181. As a result of the conduct described above, Respondents willfully violated,
+willfully aided and abetted, and caused violations of Section 15(c) of the Exchange Act and Rule
+15c1-2 thereunder, which prohibit a broker or a dealer from effecting transactions in, or inducing
+or attempting to induce, the purchase or sale of securities (other than on a national securities
+exchange of which it was a member) by means of a manipulative, deceptive, or other fraudulent
+device or contrivance.
+182. As a result of the conduct described above, BSSC willfully violated Rule 22c1(a), as adopted under Section 22(c) of the Investment Company Act, and BS&Co. willfully
+aided and abetted, and caused BSSC’s violations of Rule 22c-1(a), which requires certain mutual
+funds, persons designated in such issuers’ prospectuses as authorized to consummate transactions
+in any such security, their principal underwriters, or dealers in the funds’ securities, to sell and
+redeem fund shares at a price based on the current NAV next computed after receipt of an order
+to buy or redeem.
+183. As a result of the conduct described above, Respondents willfully violated,
+willfully aided and abetted, and caused violations of Section 17(a) of the Exchange Act and Rule
+17a-3(a)(6) thereunder. Specifically, by preparing inaccurate records by, among other things,
+falsifying PCS order tickets, Respondents willfully violated, willfully aided and abetted, and
+caused violations of Section 17(a) of the Exchange Act and Rule 17a-3(a)(6) thereunder.
+184. In determining to accept the Offer, the Commission considered the remedial acts
+undertaken by Respondents and the cooperation afforded the Commission staff.
+
+- 31 -
+
+Undertakings
+185. Ongoing Cooperation. In determining to accept the Offer, the Commission has
+considered the following undertaking by Respondents. Respondents shall cooperate fully with
+the Commission in any and all investigations, litigations or other proceedings relating to or
+arising from the matters described in the Order. In connection with such cooperation,
+Respondents have undertaken:
+(a) To produce, without service of a notice or subpoena, any and all documents and other
+information requested by the Commission’s staff;
+(b) To use their best efforts to cause their employees to be interviewed by the
+Commission’s staff at such times as the staff reasonably may direct;
+(c) To use their best efforts to cause their employees to appear and testify truthfully and
+completely without service of a notice or subpoena in such investigations, depositions,
+hearings or trials as may be requested by the Commission’s staff; and
+(d) That in connection with any testimony of Respondents to be conducted at deposition,
+hearing or trial pursuant to a notice or subpoena, Respondents:
+(i) Agree that any such notice or subpoena for Respondents’ appearance and
+testimony may be served by regular mail on their attorney, and
+(ii) Agree that any such notice or subpoena for Respondents’ appearance and
+testimony in an action pending in a United States District Court may be
+served, and may require testimony, beyond the territorial limits imposed by
+the Federal Rules of Civil Procedure.
+186. Independent Compliance Consultant (BSSC). BSSC shall retain, within 30 days
+of the date of entry of the Order, the services of an Independent Compliance Consultant not
+unacceptable to the staff of the Commission. The Independent Compliance Consultant’s
+compensation and expenses shall be borne exclusively by BSSC and BSSC shall require the
+Independent Compliance Consultant to conduct, in the areas of BSSC’s business which involve
+prime brokerage and correspondent clearing, a comprehensive review of BSSC’s supervisory,
+compliance, and other policies and procedures designed to detect and prevent violations of the
+federal securities laws and the rules of the National Association of Securities Dealers, Inc. and
+the New York Stock Exchange (“SRO rules”) by BSSC and its employees and to detect, prevent
+or disclose conflicts of interest related to the federal securities laws and the SRO rules of BSSC
+and its employees. BSSC shall require the Independent Compliance Consultant to begin his or
+her review by evaluating BSSC’s existing policies and procedures designed to detect and prevent
+violations of the federal securities laws and the SRO rules, including all measures adopted by
+BSSC in response to recommendations made by BSSC’s outside counsel, Wilmer Cutler
+Pickering Hale and Dorr LLP, in the following areas: policies and procedures relating to mutual
+fund trade clearing and processing including the obligations of a dealer in mutual fund shares,
+supervisory structures and the licensing of personnel, employee and customer access to
+technology including order entry systems, the assignment of RR numbers, new accounts and new
+branch codes to customers and correspondents, communications between employees and
+- 32 -
+
+customers, and the provision of training for employees regarding relevant regulatory
+requirements, including the training and education review described in paragraph 187 of these
+undertakings. BSSC shall require the Independent Compliance Consultant to determine whether
+BSSC’s existing policies and procedures can reasonably be expected to detect and prevent
+violations of the federal securities laws and the SRO rules by BSSC and its employees in the
+areas described in this paragraph and to detect, prevent or disclose conflicts of interest of BSSC
+and its employees related to the federal securities laws and the SRO rules, and to recommend
+changes or additional policies, procedures or controls, if necessary. BSSC shall cooperate fully
+with the Independent Compliance Consultant and shall provide the Independent Compliance
+Consultant with access to its files, books, records, and personnel as reasonably requested for the
+review.
+187. BSSC shall provide or continue to provide, at its own expense, effective training
+and education to certain of its directors, officers and employees designed to minimize the
+possibility of future violations of the federal securities laws and the SRO rules by BSSC.
+Completion of such training shall be mandatory for (i) all BSSC employees who participate in
+any way in the clearing or processing of trades or who have customer service responsibilities or
+who communicate with BSSC customers (“Covered Employees”) and (ii) all BSSC employees
+who supervise Covered Employees (collectively, the “Mandatory Participants”). As part of the
+review described in paragraph 186 of these undertakings, the Independent Compliance
+Consultant shall evaluate BSSC’s current training and education for the Mandatory Participants
+in the following areas: proper internal controls and procedures relating to the assignment of RR
+numbers, new accounts and new branch codes to customers and correspondents; the obligations
+imposed by the federal securities laws and the SRO rules; how to recognize indications of
+potential violations of the federal securities laws and the SRO rules; and the obligations assumed
+by, and the responses expected of, BSSC’s directors, officers and employees upon learning of
+improper, potentially illegal or illegal acts relating to BSSC’s clearing business. BSSC shall
+require the Independent Compliance Consultant to determine whether BSSC’s current training
+and education is sufficient to minimize future violations of the federal securities laws and the
+SRO rules and to determine whether any additional training or education is necessary. To the
+extent the Independent Compliance Consultant determines that additional training or education is
+warranted, BSSC shall commence providing such training and education within 60 days of the
+proposal date of the Alternative Procedures described in paragraph 189. Following the
+completion of the required training and education for all Mandatory Participants, BSSC shall
+continue to provide such training and education on an annual basis for all those who became
+Mandatory Participants during the preceding twelve months.
+188. BSSC shall require, at the conclusion of the review, which in no event shall be
+more than 180 days after the date of the appointment of the Independent Compliance Consultant,
+the Independent Compliance Consultant to submit a Report to BS&Co.’s board of directors,
+BSSC’s operations committee, and the staff of the Commission. BSSC shall require the
+Independent Compliance Consultant to address in the Report the issues described in paragraphs
+186 and 187 of these undertakings, and to include a description of the review performed, the
+conclusions reached, the Independent Compliance Consultant’s recommendations for changes or
+additions to BSSC’s policies and procedures and a procedure for implementing the
+recommended changes or additions to BSSC’s policies and procedures.
+
+- 33 -
+
+189. BSSC shall adopt all recommendations with respect to BSSC contained in the
+Report of the Independent Compliance Consultant; provided, however, that within 30 days after
+receipt of the Independent Compliance Consultant’s report, BSSC shall in writing advise the
+Independent Compliance Consultant, BS&Co.’s board of directors and the staff of the
+Commission of any recommendations that it considers to be unnecessary or inappropriate. With
+respect to any recommendation that BSSC considers unnecessary or inappropriate, BSSC need
+not adopt that recommendation at that time but shall contemporaneously propose in writing an
+alternative policy, procedure or system designed to achieve the same objective or purpose (the
+“Alternative Procedures”).
+190. As to any recommendation with respect to BSSC’s policies and procedures on
+which BSSC and the Independent Compliance Consultant do not agree, such parties shall attempt
+in good faith to reach an agreement within 30 days of the proposal date of the Alternative
+Procedures. In the event that BSSC and the Independent Compliance Consultant are unable to
+agree on an alternative proposal, BSSC will abide by the determinations of the Independent
+Compliance Consultant.
+191. BSSC: (i) shall not have the authority to terminate the Independent Compliance
+Consultant, without the prior written approval of the staff of the Commission; (ii) shall
+compensate the Independent Compliance Consultant, and persons engaged to assist the
+Independent Compliance Consultant, for services rendered pursuant to the Order at their
+reasonable and customary rates; and (iii) shall not be in and shall not have an attorney-client
+relationship with the Independent Compliance Consultant and shall not seek to invoke the
+attorney-client or any other doctrine or privilege to prevent the Independent Compliance
+Consultant from transmitting any information, reports, or documents to the Commission.
+192. BSSC shall require that the Independent Compliance Consultant, for the period of
+the engagement and for a period of two years from completion of the engagement, shall not enter
+into any employment, consultant, attorney-client, auditing or other professional relationship with
+BSC, Respondents, or any of their present or former affiliates, directors, officers, employees, or
+agents acting in their capacity as such. BSSC shall require that any firm with which the
+Independent Compliance Consultant is affiliated in performance of his or her duties or of which
+he or she is a member, and any person engaged to assist the Independent Compliance Consultant
+in performance of his or her duties under the Order not, without prior written consent of the staff
+of the Commission, enter into any employment, consultant, attorney-client, auditing or other
+professional relationship with BSC, Respondents, or any of their present or former affiliates,
+directors, officers, employees, or agents acting in their capacity as such for the period of the
+engagement and for a period of two years after the engagement.
+193. Compliance and Oversight Structure. BSSC shall maintain, beginning within 30
+days after the entry of this Order, a compliance and oversight infrastructure having the following
+characteristics:
+(a) BSSC agrees to maintain a Director of Compliance whose responsibilities shall
+include the administration of policies and procedures adopted by BSSC which are
+reasonably designed to prevent violations of the federal securities laws, the SRO rules
+and the standards of conduct established by BSC’s board of directors. The Director of
+
+- 34 -
+
+Compliance shall report directly to a committee of BSC’s board of directors comprised of
+independent directors (the “Independent Board Committee”).
+(b) BSSC shall establish an Internal Compliance Controls Committee (“Compliance
+Committee”) to be chaired by BSSC’s Director of Compliance, which Compliance
+Committee shall have as its members senior executives of BSSC’s operating business
+units. The Compliance Committee shall review compliance issues throughout the
+business of BSSC, endeavor to develop solutions to those issues as they may arise from
+time to time, and oversee implementation of those solutions. The Compliance Committee
+shall provide reports on material internal compliance matters to the Independent Board
+Committee with such frequency as the Independent Board Committee may instruct, and
+in any event at least quarterly.
+(c) BSSC shall require the Director of Compliance to report promptly to the Independent
+Board Committee any material violation of the federal securities laws or the SRO rules of
+which he or she becomes aware in the course of carrying out his or her duties.
+194. Independent Compliance Consultant (BS&Co.). BS&Co. shall retain, within 30
+days of the date of entry of the Order, the services of an Independent Compliance Consultant not
+unacceptable to the staff of the Commission. The Independent Compliance Consultant’s
+compensation and expenses shall be borne exclusively by BS&Co. and BS&Co. shall require the
+Independent Compliance Consultant to conduct, in the area of mutual fund trading, a
+comprehensive review of BS&Co.’s supervisory, compliance, and other policies and procedures
+designed to detect and prevent breaches of fiduciary duty and violations of the federal securities
+laws and the SRO rules by BS&Co. and its employees and to detect, prevent or disclose conflicts
+of interest of BS&Co. and its employees related to the federal securities laws and the SRO rules.
+This review shall include, but shall not be limited to, a review of policies and procedures relating
+to the retail sale and retail brokerage order processing of mutual funds, account opening
+procedures, the assignment of RR numbers, and the provision of training for employees
+regarding relevant regulatory requirements. BS&Co. shall require the Independent Compliance
+Consultant to determine whether BS&Co.’s existing policies and procedures can reasonably be
+expected to detect and prevent violations of the federal securities laws and the SRO rules by
+BS&Co. and its employees as described in this paragraph and to detect, prevent or disclose
+conflicts of interest of BS&Co. and its employees related to the federal securities laws and the
+SRO rules. BS&Co. shall require the Independent Compliance Consultant to recommend
+changes or additional policies, procedures or controls, if necessary. BS&Co. shall cooperate
+fully with the Independent Compliance Consultant and shall provide the Independent
+Compliance Consultant with access to BS&Co.’s files, books, records, and personnel as
+reasonably requested for the review.
+195. BS&Co. shall require, at the conclusion of the review, which in no event shall be
+more than 180 days after the date of the appointment of the Independent Compliance Consultant,
+the Independent Compliance Consultant to submit a Report to BS&Co., the Independent Board
+Committee and the staff of the Commission. If the Independent Compliance Consultant retained
+by BS&Co. is not the same Independent Compliance Consultant retained by BSSC, the
+Independent Compliance Consultant for BS&Co. shall consult with the Independent Compliance
+Consultant for BSSC to consider and reconcile any areas of duplication or conflict in the
+
+- 35 -
+
+recommendations before submitting his or her Report to BS&Co. BS&Co. shall require the
+Independent Compliance Consultant to address in the Report the issues described in paragraph
+194 of these undertakings, and to include a description of the review performed, the conclusions
+reached, the Independent Compliance Consultant’s recommendations for changes or additions to
+BS&Co.’s policies and procedures and a procedure for implementing the recommended changes
+or additions to BS&Co.’s policies and procedures.
+196. BS&Co. shall adopt all recommendations with respect to BS&Co. contained in
+the Report of the Independent Compliance Consultant; provided, however, that within 30 days
+after the receipt of the Independent Compliance Consultant’s report, BS&Co. shall in writing
+advise the Independent Compliance Consultant, BS&Co.’s board of directors, the Independent
+Board Committee and the staff of the Commission of any recommendations that it considers to
+be unnecessary or inappropriate. With respect to any recommendation that BS&Co. considers
+unnecessary or inappropriate, BS&Co. need not adopt that recommendation at that time but shall
+contemporaneously propose in writing an alternative policy, procedure or system designed to
+achieve the same objective or purpose (the “Alternative Procedures”).
+197. As to any recommendation with respect to BS&Co.’s policies and procedures on
+which BS&Co. and the Independent Compliance Consultant do not agree, such parties shall
+attempt in good faith to reach an agreement within 30 days of the proposal date of the
+Alternative Procedures. In the event BS&Co. and the Independent Compliance Consultant are
+unable to agree on an alternative proposal, BS&Co. will abide by the determinations of the
+Independent Compliance Consultant.
+198. BS&Co.: (i) shall not have the authority to terminate the Independent
+Compliance Consultant without the prior written approval of the staff of the Commission; (ii)
+shall compensate the Independent Compliance Consultant, and persons engaged to assist the
+Independent Compliance Consultant, for services rendered pursuant to the Order at their
+reasonable and customary rates; and (iii) shall not be in and shall not have an attorney-client
+relationship with the Independent Compliance Consultant and shall not seek to invoke the
+attorney-client or any other doctrine or privilege to prevent the Independent Compliance
+Consultant from transmitting any information, reports, or documents to the Commission.
+199. BS&Co. shall require that the Independent Compliance Consultant, for the period
+of the engagement and for a period of two years from completion of the engagement, shall not
+enter into any employment, consultant, attorney-client, auditing or other professional relationship
+with BSC, Respondents, or any of their present or former affiliates, directors, officers,
+employees, or agents acting in their capacity as such. BS&Co. shall require that any firm with
+which the Independent Compliance Consultant is affiliated in performance of his or her duties or
+of which he or she is a member, and any person engaged to assist the Independent Compliance
+Consultant in performance of his or her duties under the Order not, without prior written consent
+of the staff of the Commission, enter into any employment, consultant, attorney-client, auditing
+or other professional relationship with BSC, Respondents, or any of their present or former
+affiliates, directors, officers, employees, or agents acting in their capacity as such for the period
+of the engagement and for a period of two years after the engagement.
+
+- 36 -
+
+200. Respondents shall establish, within 30 days after the entry of this Order, a
+Compliance Hotline and appoint an appropriate compliance or legal officer(s) to be available to
+answer questions, on an anonymous basis, about business practices or ethical issues and to
+receive complaints from employees regarding any conduct that may be a cause for concern.
+Employees shall be provided with the email address and telephone number for the Compliance
+Hotline. Respondents will also provide all employees with quarterly compliance alerts
+identifying areas of interest and providing the email and telephone numbers for the Compliance
+Hotline. Respondents will establish a mechanism to investigate matters brought to the attention
+of the Compliance Hotline, and these matters will be brought to the attention of the Director of
+Compliance. Respondents will make and retain, for a period of five years, records of all
+inquiries to the Compliance Hotline. On a quarterly basis, the Director of Compliance will
+provide the Compliance Committee and the Independent Board Committee with a report
+identifying the inquiries to the Compliance Hotline, any action taken in response to the inquiry,
+and the resolution of such inquiry.
+201. Independent Distribution Consultant. Respondents shall retain, within 10 days of
+the date of entry of the Order, the services of an Independent Distribution Consultant not
+unacceptable to the staff of the Commission. The Independent Distribution Consultant’s
+compensation and expenses shall be borne exclusively by Respondents. Respondents shall
+cooperate fully with the Independent Distribution Consultant and shall provide the Independent
+Distribution Consultant with access to their files, books, records, and personnel as reasonably
+requested for the review.
+202. Respondents shall require that the Independent Distribution Consultant develop a
+Distribution Plan for the distribution of the $250 million in disgorgement and penalty, and any
+interest or earnings thereon, according to a methodology developed in consultation with
+Respondents and acceptable to the staff of the Commission.
+203. Respondents shall require that the Independent Distribution Consultant submit a
+Distribution Plan to Respondents and the staff of the Commission no more than 100 days after
+the date of entry of the Order.
+204. The Distribution Plan developed by the Independent Distribution Consultant shall
+be binding unless, within 130 days after the date of entry of the Order, Respondents or the staff
+of the Commission advises, in writing, the Independent Distribution Consultant of any
+determination or calculation from the Distribution Plan that it considers to be inappropriate and
+states in writing the reasons for considering such determination or calculation inappropriate.
+205. With respect to any determination or calculation with which Respondents or the
+staff of the Commission do not agree, such parties shall attempt in good faith to reach an
+agreement within 160 days of the date of entry of the Order. In the event that Respondents and
+the staff of the Commission are unable to agree on an alternative determination or calculation,
+the determinations and calculations of the Independent Distribution Consultant shall be binding.
+206. Within 175 days of the date of entry of this Order, Respondents shall require that
+the Independent Distribution Consultant submit the Distribution Plan for the administration and
+distribution of disgorgement and penalty funds pursuant to Rule 1101 [17 C.F.R. § 201.1101] of
+
+- 37 -
+
+the Commission’s Rules Regarding Disgorgement and Fair Fund Plans. Following a Commission
+order approving a final plan of disgorgement, as provided in Rule 1104 [17 C.F.R. § 201.1104]
+of the Commission’s Rules Regarding Disgorgement and Fair Fund Plans, Respondents shall
+require that the Independent Distribution Consultant, with Respondents, take all necessary and
+appropriate steps to administer the final plan for distribution of disgorgement and penalty funds.
+207. Respondents shall require that the Independent Distribution Consultant, for the
+period of the engagement and for a period of two years from completion of the engagement, not
+enter into any employment, consultant, attorney-client, auditing or other professional relationship
+with BSC, Respondents, or any of their present or former affiliates, directors, officers,
+employees, or agents acting in their capacity as such. Respondents shall require that any firm
+with which the Independent Distribution Consultant is affiliated in performance of his or her
+duties under the Order not, without prior written consent of the staff of the Commission, enter
+into any employment, consultant, attorney-client, auditing or other professional relationship with
+BSC, Respondents, or any of their present or former affiliates, directors, officers, employees, or
+agents acting in their capacity as such for the period of the engagement and for a period of two
+years after the engagement.
+208. Certification. No later than twenty-four months after the date of entry of the
+Order, the presidents of BS&Co. and BSSC shall certify to the Commission in writing that
+BS&Co. and BSSC have fully adopted and complied in all material respects with the
+undertakings set forth in paragraphs 186-207 and 209, and with the recommendations of the
+Independent Compliance Consultant(s) or, in the event of material non-adoption or noncompliance, shall describe such material non-adoption and non-compliance.
+209. Recordkeeping. BS&Co. and BSSC shall preserve for a period not less than six
+years from the end of the fiscal year last used, the first two years in an easily accessible place,
+any record, except electronic mail as set forth below, of BS&Co.’s and BSSC’s compliance with
+the undertakings set forth in paragraphs 186-207, provided that if a longer period of retention is
+required for any such record by Exchange Act Rule 17a–4 or any other federal or self–regulatory
+organization recordkeeping requirement, such record shall be preserved for the period required
+by the rule. BS&Co. and BSSC shall preserve for a period not less than three years from the end
+of the fiscal year last used, the first two years in an easily accessible place, any electronic mail
+record of BS&Co.’s and BSSC’s compliance with the undertakings set forth in paragraphs 186207, provided that if a longer period of retention is required for any such record by Exchange Act
+Rule 17a–4 or any other federal or self–regulatory organization recordkeeping requirement, such
+record shall be preserved for the period required by the rule.
+210. Deadlines. For good cause shown, the Commission’s staff may extend any of the
+procedural dates set forth above.
+
+- 38 -
+
+IV.
+In view of the foregoing, the Commission deems it appropriate and in the public interest to
+impose the sanctions agreed to in Respondents’ Offer. Accordingly, it is hereby ORDERED,
+effectively immediately, that:
+A.
+Pursuant to Section 15(b)(4) of the Exchange Act, BS&Co. and BSSC are hereby
+censured.
+B.
+Pursuant to Section 8A of the Securities Act, Sections 21C of the Exchange Act, and
+Section 9(f) of the Investment Company Act, Respondents shall cease and desist from
+committing or causing any violations and any future violations of Section 17(a) of the Securities
+Act, Sections 15(c) and 17(a) of the Exchange Act and Rules 15c1-2 and 17a-3(a)(6) thereunder
+and Rule 22c-1(a) under the Investment Company Act.
+C.
+Pursuant to Section 21C of the Exchange Act, BS&Co. shall cease and desist from
+committing or causing any violations and any future violations of Section 10(b) of the Exchange
+Act and Rule 10b-5 thereunder.
+D.
+Disgorgement and Civil Money Penalties. BS&Co. and BSSC shall, within 20 days of the
+entry of this Order, pay, on a joint and several basis, disgorgement in the total amount of
+$160,000,000 (“Disgorgement”) and civil money penalties in the amount of $90,000,000
+(“Penalties”), for a total payment of $250,000,000.
+1) Such payment shall be: (A) made by wire transfer, United States postal money order,
+certified check, bank cashier’s check or bank money order; (B) made payable to the Securities
+and Exchange Commission; (C) wired, hand-delivered, or mailed to the Office of Financial
+Management, Securities and Exchange Commission, Operations Center, 6432 General Green
+Way, Stop 0-3, Alexandria, VA 22132; and (D) submitted under cover letter that identifies
+BS&Co. and BSSC as Respondents in these proceedings, the file number of these proceedings, a
+copy of which cover letter, wire transfer instruction, money order, or check shall be sent to Mark
+K. Schonfeld, Regional Director, Securities and Exchange Commission, Division of
+Enforcement, Northeast Regional Office, 3 World Financial Center, New York, NY 10281.
+2) There shall be, pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002, a Fair
+Fund established for the funds described in Section IV. Regardless of whether any such Fair
+Fund distribution is made, amounts ordered to be paid as civil money penalties pursuant to this
+Order shall be treated as penalties paid to the government for all purposes, including all tax
+purposes. To preserve the deterrent effect of the civil penalty, Respondents agree that they shall
+not, in any Related Investor Action, benefit from any offset or reduction of any investor’s claim
+by the amount of any Fair Fund distribution to such investor in this proceeding that is
+proportionately attributable to the civil penalty paid by Respondents (“Penalty Offset”). If the
+court in any Related Investor Action grants such an offset or reduction, Respondents agree that
+they shall, within 30 days after entry of a final order granting the offset or reduction, notify the
+Commission’s counsel in this action and pay the amount of the Penalty Offset to the United
+States Treasury or to a Fair Fund, as the Commission directs. Such a payment shall not be
+
+- 39 -
+
+deemed an additional civil penalty and shall not be deemed to change the amount of the civil
+penalty imposed against Respondents in this proceeding. For purposes of this paragraph, a
+“Related Investor Action” means a private damages action brought against Respondent by or on
+behalf of one or more investors based on substantially the same facts as alleged in the Order in
+this proceeding.
+E.
+Respondents shall comply with the undertakings set forth in paragraphs 186 through 209
+above.
+F.
+Other Obligations and Requirements. Nothing in this Order shall relieve Respondents of
+any other applicable legal obligation or requirement, including any rule adopted by the
+Commission subsequent to this Order.
+By the Commission.
+Nancy M. Morris
+Secretary
+
+- 40 -
+
+

@@ -1,0 +1,870 @@
+No. 07-1489
+
+In the Supreme Court of the United States
+TRAINER WORTHAM & COMPANY, INC., ET AL.,
+
+PETITIONERS
+
+
+v.
+HEIDE BETZ
+ON PETITION FOR A WRIT OF CERTIORARI
+
+TO THE UNITED STATES COURT OF APPEALS
+
+FOR THE NINTH CIRCUIT
+
+
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE
+
+DAVID M. BECKER
+General Counsel
+MARK D. CAHN
+Deputy General Counsel
+MARK PENNINGTON
+Assistant General Counsel
+DAVID LISITZA
+Senior Counsel
+Securities and Exchange
+Commission
+Washington, D.C. 20549
+
+ELENA KAGAN
+Solicitor General
+Counsel of Record
+MALCOLM L. STEWART
+Deputy Solicitor General
+DOUGLAS HALLWARD-DRIEMEIER
+Assistant to the Solicitor
+General
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+
+QUESTIONS PRESENTED
+
+The federal statute of limitations for private securities-fraud claims provides that a plaintiff must file suit
+within two years after “the discovery of the facts constituting the violation.” 28 U.S.C. 1658(b). The lower
+courts have uniformly construed the term “discovery” in
+that provision to refer to actual or constructive discovery. Under that interpretation, Section 1658(b) bars a
+suit when the complaint is filed more than two years
+after the time at which the plaintiff, in the exercise of
+reasonable diligence, ought to have discovered the “facts
+constituting the violation.” The lower courts have used
+the term “inquiry notice” to describe the point at which
+the plaintiff was sufficiently alerted to the possibility of
+wrongdoing that a reasonably diligent investor in his
+position would have undertaken further investigation.
+The questions presented are as follows:
+1. Whether a potential plaintiff is on “inquiry notice” regarding a claim of securities fraud when he has
+reason to suspect that the defendant has made a false
+statement, even if the victim has no reason to suspect
+that the defendant made the misstatement with the scienter necessary to constitute a violation of the securities
+laws.
+2. Whether an investor who has been placed on “inquiry notice” may reasonably delay further investigation
+of the defendant’s possible fraud on the basis of assurances by the defendant.
+
+(I)
+
+
+TABLE OF CONTENTS
+
+Page
+Interest of the United States . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+I.	 For purposes of determining when a reasonably
+diligent investor would have discovered the “facts
+constituting the violation,” a potential plaintiff is
+placed on “inquiry notice” regarding a potential
+claim of securities fraud only once he has reason to
+suspect that a misrepresentation or omission was
+made with scienter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+A.	 The court of appeals stated the correct legal
+standards for applying the limitations period, but misapplied those standards to the
+facts of this case . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+B.	 Although the courts of appeals are divided
+in various respects concerning application
+of “inquiry notice” to securities-fraud
+claims, resolution of those conflicts is unnecessary to the proper disposition of this
+case . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+II.	 The question whether respondent reasonably delayed filing suit due to petitioners’ assurances does
+not warrant the Court’s review . . . . . . . . . . . . . . . . . . 19
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 
+
+TABLE OF AUTHORITIES
+
+Cases:
+Addeo v. Braver, 956 F. Supp. 443 (S.D.N.Y. 1997) . . . . . . 3
+Alaska Elec. Pension Fund v. Pharmacia Corp.,
+554 F.3d 342 (3d Cir. 2009) . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+(III)
+
+IV
+
+Cases—Continued:
+
+Page
+
+Arneil v. Ramsey, 550 F.2d 774 (2d Cir. 1977) . . . . . . . . . 15 
+
+Brumbraugh v. Princeton Partners, 985 F.2d 157
+
+(4th Cir. 1993) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+
+Commissioner v. Keystone Consol. Indus., Inc.,
+
+508 U.S. 152 (1993) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 
+
+Cooke v. Manufactured Homes, Inc., 998 F.2d 1256
+
+(4th Cir. 1993) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+
+Cooperativa de Ahorro y Credito Aguada v. Kidder,
+
+Peabody & Co., 129 F.3d 222 (1st Cir. 1997) . . . . . . 13, 20 
+
+Dodds v. Cigna Sec., Inc., 12 F.3d 346 (2d Cir. 1993),
+
+cert. denied, 511 U.S. 1019 (1994) . . . . . . . . . . . . . . . 15, 17 
+
+Dura Pharm., Inc. v. Broudo, 544 U.S. 336 (2005) . . . . . . 11 
+
+Edgington v. Fitzmaurice, 29 Ch. D. 459 (1885) . . . . . . . . 11 
+
+Fujisawa Pharm. Co. v. Kapoor, 115 F.3d 1332
+
+(7th Cir. 1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 16, 17 
+
+Great Rivers Coop. v. Farmland Indus., Inc.,
+
+120 F.3d 893 (8th Cir. 1997) . . . . . . . . . . . . . . . . . . . . . . . 14 
+
+Holmberg v. Armbrecht, 327 U.S. 392 (1946) . . . . . . . . . . . . 7 
+
+Jensen v. Snellings, 841 F.2d 600 (5th Cir. 1988) . . . . . . . 14 
+
+Kirby v. Lake Shore & Mich. S. R.R., 120 U.S. 130
+
+(1887) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 
+
+Lampf, Pleva, Lipkind, Prupis & Petigrow v.
+
+Gilbertson, 501 U.S. 350 (1991) . . . . . . . . . . . . . 6, 7, 10, 15 
+
+Law v. Medco Research, Inc., 113 F.3d 781 (7th Cir.
+
+1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 18 
+
+LC Capital Partners, LP v. Frontier Ins. Group, Inc.,
+
+318 F.3d 148 (2d Cir. 2003) . . . . . . . . . . . . . . . . . . 14, 15, 19 
+
+Maggio v. Gerard Freezer & Ice Co., 824 F.2d 123
+
+(1st Cir. 1987) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 
+
+
+V
+
+Cases—Continued:
+
+Page
+
+Mathews v. Kidder, Peabody & Co., 260 F.3d 239
+
+(3d Cir. 2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 15, 20 
+
+Merck & Co., Sec., Derivative & “ERISA” Litig.,
+In re, 543 F.3d 150 (3d Cir. 2008), petition for cert.
+pending, No. 08-905 (filed Jan. 15, 2009) . . . . . . . . . 17, 18 
+
+New England Health Care Employees Pension Fund
+v. Ernst & Young, LLP, 336 F.3d 495 (6th Cir.
+
+2003), cert. denied, 540 U.S. 1183 (2004) . . . . . . . . . . . . 14 
+
+Ritchey v. Horner, 244 F.3d 635 (8th Cir. 2001) . . . . . . . . 19 
+
+Staehr v. Hartford Fin. Servs. Group, Inc., 547 F.3d
+
+406 (2d Cir. 2008) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 
+
+Sterlin v. Biomune Sys., 154 F.3d 1191 (10th Cir.
+
+1998) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 17 
+
+Tellabs, Inc. v. Makor Issues & Rights, Ltd.,
+
+127 S. Ct. 2499 (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 11 
+
+Tello v. Dean Witter Reynolds, Inc., 410 F.3d 1275
+
+(11th Cir. 2005) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 
+
+Theoharous v. Fong, 256 F.3d 1219 (11th Cir. 2001) . . . . . 17 
+
+Young v. Lepone, 305 F.3d 1 (1st Cir. 2002) . . . . . . . . . . . . 14 
+
+Statutes, regulation and rule:
+Corporate and Criminal Fraud Accountability Act of
+
+2002, Pub. L. No. 107-204, § 804, 116 Stat. 801 . . . . . . . . 6 
+
+Private Securities Litigation Reform Act of 1995,
+
+Pub. L. No. 104-67, 109 Stat. 737 . . . . . . . . . . . . . . . . . . . 9 
+
+Securities Exchange Act of 1934, 15 U.S.C. 78a et seq.:
+
+15 U.S.C. 78j(b) (§ 10(b)) . . . . . . . . . . . . . . . . . . . . . . . . . . 2 
+
+15 U.S.C. 78u-4(b)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 
+
+28 U.S.C. 1658(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . passim
+
+
+VI
+Statutes, regulation and rule—Continued:
+
+Page
+
+
+28 U.S.C. 1658(b)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 
+
+N.Y. Code Civ. P. § 91 (Voorhees 4th ed.) . . . . . . . . . . . . . . 7 
+
+17 C.F.R. 240.10b-5 (SEC Rule 10b-5) . . . . . . . . . . . . . . 2, 11 
+
+Fed. R. Civ. P. 9(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 
+
+
+In the Supreme Court of the United States
+
+No. 07-1489
+TRAINER WORTHAM & COMPANY, INC., ET AL.,
+
+PETITIONERS
+
+
+v.
+HEIDE BETZ
+ON PETITION FOR A WRIT OF CERTIORARI
+
+TO THE UNITED STATES COURT OF APPEALS
+
+FOR THE NINTH CIRCUIT
+
+
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE
+
+INTEREST OF THE UNITED STATES
+
+This brief is filed in response to the Court’s order inviting the Solicitor General to express the views of the United
+States. In the view of the United States, the Court should
+deny the petition for a writ of certiorari.
+STATEMENT
+
+1. Respondent, a retired art dealer, invested $2.2 million with petitioner Trainer Wortham & Company, Inc., an
+investment management company. Pet. App. 4a. Respondent alleges that she was induced to make that investment
+by petitioner’s statement that she would be able to “withdraw $15,000 per month from her portfolio, for living expenses, without touching the $2.2 million in principal.”
+
+(1)
+
+
+2
+
+Ibid.1 Respondent opened the account in June 1999, and in
+February 2000 she received the first of many statements
+showing “an account value below her initial investment of
+$2.2 million.” Id. at 5a. By March 2001 the balance had declined to $848,000. Ibid. Respondent spoke with a firm
+employee at that time about the decline and was told that
+the decrease was attributable to the monthly withdrawals,
+but “that the shortfall was temporary, that the market
+would recover, and that in a year or less her account balance would be back to $2.2 million.” Ibid.
+After the balance continued to decline, respondent met
+again with petitioners’ representatives. Pet. App. 5a. In
+May 2002, respondent was told that petitioner’s president
+“was meeting with other principals and attorneys” and that
+she “should be patient with them and not take any legal
+action.” Ibid. In June 2002, however, respondent was advised that petitioner was “not going to do anything at all”
+regarding the account’s declining value. Id. at 5a-6a.
+2. On July 11, 2003, respondent filed suit in federal
+district court, alleging violations of Section 10(b) of the Securities Exchange Act of 1934, 15 U.S.C. 78j(b), and Securities and Exchange Commission Rule 10b-5, 17 C.F.R.
+240.10b-5. Pet. App. 6a. The district court granted summary judgment in favor of petitioners (id. at 88a-108a),
+holding respondent’s claim barred by the applicable statute
+of limitations, which provides that private actions under
+Section 10(b) must be filed “not later than the earlier
+of—(1) 2 years after the discovery of the facts constituting
+the violation; or (2) 5 years after such violation.” 28 U.S.C.
+1658(b).
+1
+
+Petitioner Trainer Wortham is an investment subsidiary of petitioner First Republic Bank. Pet. App. 4a. Respondent also sued First
+Republic Bank and two individuals. Id. at 6a. References to “petitioner” in the text are to Trainer Wortham.
+
+3
+
+In applying Section 1658(b) to the facts viewed in the
+light most favorable to respondent, the district court explained that a potential securities-fraud plaintiff is on “inquiry notice” regarding a possible claim once there are
+“sufficient storm warnings to alert a reasonable person to
+the [probability] that there were either misleading statements or significant omissions involved in the sale of the
+[securities].” Pet. App. 100a (brackets in original) (quoting
+Addeo v. Braver, 956 F. Supp. 443, 449 (S.D.N.Y. 1997)).
+The court concluded that respondent had been placed on
+“inquiry notice” in February 2000, when she “received the
+first of thirty account statements * * * showing that her
+portfolio had declined below the value of her original $2.2
+million investment.” Ibid. The court concluded that petitioners’ assurances “did not toll the statute of limitations,”
+and that respondent’s claims had accrued no later than
+March 2001 and were therefore time-barred. Id. at 103a.
+3. The court of appeals reversed. Pet. App. 1a-23a.
+The court explained that a “plaintiff is on inquiry notice
+when there exists sufficient suspicion of fraud to cause a
+reasonable investor to investigate the matter further.” Id.
+at 16a. The court further explained that, “[o]nce a plaintiff
+has inquiry notice, we ask when the investor, in the exercise
+of reasonable diligence, should have discovered the facts
+constituting the alleged fraud. The answer to that second
+question tells us when the statute of limitations began to
+run.” Ibid.
+Applying that test, the court found triable questions of
+fact as to (1) when respondent had reasonable grounds to
+suspect fraud, Pet. App. 20a-21a, and (2) when, “in the exercise of reasonable diligence, [she] should have discovered
+the facts constituting the alleged fraud,” id. at 21a-22a. The
+court concluded that neither respondent’s account statements nor petitioners’ acknowledgments of problems with
+
+4
+
+her account established “inquiry notice” as a matter of law
+because they “provided no evidence that the defendants
+had intentionally or deliberately and recklessly misled”
+respondent, as would be necessary “to state a claim for securities fraud.” Id. at 21a. The court of appeals further
+held that, even assuming respondent had been placed on
+“inquiry notice,” a triable issue of fact remained as to whether respondent, “in the exercise of reasonable diligence,
+should have discovered the facts constituting the alleged
+violation.” Ibid.; see id. at 21a-22a. The court explained
+that respondent had “questioned [petitioners] about her
+account and [petitioners] assured her that they would take
+care of any problems and asked her not to file suit.” Id. at
+22a.
+4. The court of appeals denied rehearing en banc, with
+three judges dissenting. Pet. App. 25a-39a. In the dissenting judges’ view, “the statute of limitations starts to run
+when plaintiff is on ‘inquiry notice,’” id. at 30a, which those
+judges analogized to “‘storm warnings’—hints that something may be amiss,” id. at 36a. On the facts of this case,
+those judges would have held that “[s]ince [respondent’s]
+theory of fraud is that she was told her money would not be
+put at risk, she had at least inquiry notice that someone had
+lied to her when she saw her principal melt away.” Id. at
+31a.
+With respect to whether a defendant’s assurances could
+delay a diligent investor’s discovery of actionable fraud, the
+dissenting judges acknowledged that “outright lies” that
+prevent an investor “from discovering facts known only to
+the defendant” might delay the commencement of the limitations period. Pet. App. 37a. Those judges concluded,
+however, that no such deception had occurred in this case.
+Id. at 38a. They explained that, although petitioners had
+predicted that respondent “would get her money back when
+
+5
+
+the stock market recovered,” those statements “conceal[ed]
+nothing,” but rather “confirm[ed] that [respondent’s] investment is subject to market fluctuations and is therefore
+not free from risk.” Ibid.
+DISCUSSION
+
+Petitioners contend (Pet. 15-24) that this Court should
+grant certiorari to resolve a multi-dimensional conflict
+among the courts of appeals with respect to the proper application of the two-year limitations period set forth in 28
+U.S.C. 1658(b). The courts of appeals generally agree that
+the two-year period does not begin to run until the plaintiff
+(1) is put on “inquiry notice” of possible wrongdoing
+through information that would induce a reasonably diligent investor to undertake an investigation, and (2) has an
+opportunity to investigate in order to confirm or dispel
+those suspicions. Although the courts of appeals diverge in
+certain respects in their application of that general framework, some of those areas of disagreement are not implicated by this case.
+In the government’s view, the court of appeals articulated the correct legal standards, but misapplied those standards to the facts of this case. In light of the nature of the
+alleged fraud, the information known to respondent once
+her account balance declined precipitously, and petitioners’
+confirmation that the investment in risky equities was not
+a mistake, the court should have held that respondent had
+actual knowledge of the “facts constituting the violation”
+more than two years before she filed her complaint. Correction of that fact-specific error, however, is not itself a
+sufficient reason for this Court to grant review. And if the
+Court were to grant certiorari and reverse the court of appeals on the ground that respondent had actual notice of
+the relevant facts more than two years before she filed suit,
+
+6
+
+its decision would leave the relevant circuit conflicts unresolved.
+Petitioners also contend (Pet. 24-31) that the court of
+appeals erred in holding that, even if respondent was on
+“inquiry notice,” a triable issue existed on whether a reasonable investor would have delayed further investigation
+on the basis of petitioners’ assurances. But there is no conflict among the courts of appeals on the legal standard relevant to this contention, and the Ninth Circuit’s resolution of
+the issue on the facts of this case does not warrant this
+Court’s review.
+I.	 FOR PURPOSES OF DETERMINING WHEN A REASONABLY DILIGENT INVESTOR WOULD HAVE DISCOVERED
+THE “FACTS CONSTITUTING THE VIOLATION,” A POTENTIAL PLAINTIFF IS PLACED ON “INQUIRY NOTICE”
+REGARDING A POTENTIAL CLAIM OF SECURITIES
+FRAUD ONLY ONCE HE HAS REASON TO SUSPECT THAT
+A MISREPRESENTATION OR OMISSION WAS MADE
+WITH SCIENTER
+A.	 The Court Of Appeals Stated The Correct Legal Standards
+For Applying The Limitations Period, But Misapplied
+Those Standards To The Facts Of This Case
+
+1. The court of appeals applied the correct legal standards for determining whether a claim of securities fraud
+is barred by the two-year limitations period contained in 28
+U.S.C. 1658(b). That statute provides that a claim of securities fraud must be brought within the earlier of “2 years
+after discovery of the facts constituting the violation” or “5
+years after such violation.” Ibid. Congress adopted Section
+1658(b) in the Corporate and Criminal Fraud Accountability Act of 2002, Pub. L. No. 107-204, § 804, 116 Stat. 801, in
+response to this Court’s decision in Lampf, Pleva, Lipkind,
+Prupis & Petigrow v. Gilbertson, 501 U.S. 350 (1991)
+
+7
+
+(Lampf ). In Lampf, the Court held that securities-fraud
+claims were governed by a uniform federal limitations period and must be brought within the earlier of one year
+“after discovery of the facts constituting the violation” or
+three years of the violation. Id. at 363. Although Congress
+subsequently extended the relevant periods of limitation
+and repose to two and five years respectively, it retained
+Lampf ’s trigger for the limitations period to begin running—“discovery of the facts constituting the violation.” 28
+U.S.C. 1658(b).
+When Congress enacted Section 1658(b), it was wellestablished that a limitations period triggered by “discovery” of the alleged violation will commence to run either
+when the plaintiff actually discovers the relevant facts or
+at the time of constructive discovery—i.e., the time when
+the plaintiff would have discovered the violation if he had
+made reasonably diligent inquiries. See Pet. App. 12a (citing cases, including pre-2002 cases). This Court has likewise construed other federal statutes of limitations, including statutes with language resembling that of Section
+1658(b), to encompass both actual and constructive discovery. E.g., Kirby v. Lake Shore & Mich. S. R.R., 120 U.S.
+130, 134-135, 138 (1887) (construing statute providing that
+action for fraud is “not to be deemed to have accrued until
+the discovery by the aggrieved party of the facts constituting the fraud” to mean that the statute did not run “until
+after such fraud was or should, with due diligence, have
+been discovered”) (quoting N.Y. Code Civ. P. § 91, at 86
+(Voorhees 4th ed.)); Holmberg v. Armbrecht, 327 U.S. 392,
+397 (1946). Congress can therefore be presumed to have
+intended that the same construction be given to Section
+1658(b). See, e.g., Commissioner v. Keystone Consol.
+Indus., Inc., 508 U.S. 152, 159 (1993).
+
+8
+
+As the court of appeals held (Pet. App. 16a), when the
+two-year limitations period is triggered by constructive
+rather than actual discovery of the securities violation, the
+court must undertake a two-step analysis to calculate when
+the limitations period began to run. First, the court must
+identify the point at which the plaintiff received information
+sufficiently suggestive of possible wrongdoing that a reasonable investor would have undertaken further investigation to determine whether he had a legal claim. Ibid. Consistent with the terminology used by other lower courts, the
+Ninth Circuit used the term “inquiry notice” to describe
+that point. Ibid. Second, the court must ascertain at what
+time “the investor, in the exercise of reasonable diligence,
+should have discovered the facts constituting the alleged
+fraud.” Ibid. It is “[t]he answer to that second question”
+which identifies the date on which “the statute of limitations
+began to run.” Ibid.
+The court of appeals was also correct in holding that an
+investor is not placed on “inquiry notice” until he is apprised of information suggesting that the defendant acted
+with scienter. The ultimate purpose of the two-step inquiry
+is to identify the point at which a reasonably diligent investor should have discovered “the facts constituting the violation.” 28 U.S.C. 1658(b). Because scienter is an essential
+element of a securities-fraud claim, there is no logical basis
+for concluding that a reasonably diligent investor would
+have undertaken further inquiry if the facts before him did
+not suggest that the defendant had acted with the requisite
+state of mind.
+2. The judges who dissented from the denial of rehearing en banc would have held that “the statute of limitations
+starts to run when plaintiff is on ‘inquiry notice,’ that is,
+when a reasonable investor in plaintiff’s position would suspect he had been defrauded.” Pet. App. 30a-31a. Those
+
+9
+
+judges also suggested that a plaintiff may be placed on
+“inquiry notice” when he receives information suggesting
+that the defendant has made a misstatement, even when
+the available information provides no reason to believe that
+the defendant acted with scienter. See id. at 32a-34a. The
+court of appeals correctly rejected those propositions.
+a. The dissenting judges characterized “inquiry notice”
+as “hints that something may be amiss so that the investor
+needs to start asking some hard questions.” Pet. App. 36a.
+Section 1658(b)’s two-year limitations period begins to run,
+however, not when a reasonable investor would become
+suspicious or commence further investigation, but rather
+upon “discovery of the facts constituting the violation.” The
+phrase “facts constituting the violation” is naturally understood to refer to facts that, if pleaded in a securities-fraud
+complaint, would be sufficient to survive a motion to dismiss.2 Even in a case involving constructive discovery,
+where the court must determine when a reasonably diligent
+investor would have discovered the relevant facts, the point
+2
+
+Like all plaintiffs asserting claims of fraud, plaintiffs in securitiesfraud cases must allege the circumstances constituting the fraud with
+specificity. Fed. R. Civ. P. 9(b). In addition, under the pleading standards established by the Private Securities Litigation Reform Act of
+1995, Pub. L. No. 104-67, 109 Stat. 737, securities-fraud plaintiffs who
+sue as class representatives are required to “state with particularity
+facts giving rise to a strong inference that the defendant acted with
+scienter.” 15 U.S.C. 78u-4(b)(2). A primary purpose of both of these
+heightened pleading requirements is to make it possible to distinguish
+between factually well-founded cases and frivolous ones at the pleading
+stage. See, e.g., Tellabs, Inc. v. Makor Issues & Rights, Ltd., 127 S. Ct.
+2499, 2510 (2007). These pleading requirements highlight the difference between facts that might give rise to a suspicion of fraud and thus
+cause a reasonable investor to undertake further inquiry (the facts at
+“inquiry notice”) and the facts that must be alleged in a complaint in
+order to survive a motion to dismiss (the facts “constituting a violation”).
+
+10
+
+at which a diligent investigation would have borne fruit will
+inevitably be later than the point at which the investigation
+should have commenced. Cf. Pet. App. 16a. There is consequently no textual basis for the dissenting judges’ view
+that the two-year limitations period begins to run when the
+plaintiff is placed on “inquiry notice.” 3
+The dissenting judges suggested that, under the panel’s
+approach, a “plaintiff has no incentive to bring suit promptly,” but rather could draft a complaint on the day he discovers the facts constituting the violation and wait two years
+before filing it. Pet. App. 34a. The statutory language,
+however, unambiguously permits a plaintiff to file suit up to
+“2 years after the discovery of the facts constituting the
+violation.” 28 U.S.C. 1658(b)(1). If an issuer of stock disclosed a previously unsuspected fraud, purchasers would
+immediately have all the information necessary to file suit,
+but Section 1658(b) would still allow them two years to file
+a timely complaint. Because Section 1658(b) incorporates
+a constructive-discovery rule, a potential plaintiff who has
+been placed on “inquiry notice” cannot delay the commencement of the limitations period simply by failing to
+3
+
+Where even a diligent investigation would last more than two years,
+the dissenting judges’ approach—under which Section 1658(b)’s limitations period would begin to run upon “inquiry notice,” when the plaintiff should commence his investigation—would result in the limitations
+period expiring before the plaintiff knew or should have known facts
+sufficient to survive a motion to dismiss. In Lampf, however, this Court
+held that the limitations period applicable to private securities actions
+is not subject to equitable tolling because the period “by its terms, begins after discovery of the facts constituting the violation, making tolling unnecessary.” 501 U.S. at 363 (emphasis added). That analysis
+presumes that the two-year limitations period (unlike the five-year
+“period of repose” that “serve[s] as a cutoff ” for all claims, see ibid.)
+cannot bar claims before a reasonably diligent plaintiff could learn the
+facts necessary to assert them.
+
+11
+
+conduct a diligent investigation. But so long as suit is filed
+within two years after the plaintiff knew or should have
+known the “facts constituting the violation,” it is timely
+under the plain terms of the statute.
+b. Under Section 10b-5, scienter is a critical element
+of the “facts constituting the violation.” A misrepresentation is not actionable under Section 10b-5 unless “the defendant acted with scienter.” Tellabs, Inc. v. Makor Issues &
+Rights, Ltd., 127 S. Ct. 2499, 2507 (2007). See Dura
+Pharm., Inc. v. Broudo, 544 U.S. 336, 341 (2005). And a
+crucial fact that distinguishes “fraud” from other untruths
+is that the defendant acts with scienter (or at least with
+some degree of culpability). Although scienter must often
+be established circumstantially, it is nonetheless a “fact”
+that must be pleaded and proved. Cf. Edgington v. Fitzmaurice, 29 Ch. D. 459, 483 (1885) (“[T]he state of a man’s
+mind is as much a fact as the state of his digestion.”).
+The “inquiry notice” concept serves to identify the point
+at which a reasonably diligent investor would suspect under
+all the facts and circumstances that he has suffered a violation of his legal rights and would therefore undertake further investigation. When an investor has reason to suspect
+that he was previously given inaccurate securities-related
+information, but has no reasonable basis to suppose that the
+misstatement was anything other than an innocent mistake,
+his natural inference will be that no actionable fraud has
+occurred. Under those circumstances, there is no logical
+basis for concluding that a reasonable investor would devote time or resources to investigating a potential legal
+claim for which an essential element appears to be lacking.
+To be sure, an innocent mistake may be inherently unlikely, so that information giving rise to a suspicion of falsehood will without more give rise to suspicion of fraud. In
+particular, when a “representation is false for reasons likely
+
+12
+
+to have been within the knowledge of the company when
+making it, investors upon learning of the falsity should
+smell the possibility of fraud.” Law v. Medco Research,
+Inc., 113 F.3d 781, 785 (7th Cir. 1997). But that is not the
+case when the inaccurate statement concerns information
+that is external to the declarant or that might “have arisen
+after the representation was made.” Ibid. In the latter
+case, such as when a prediction about the future does not
+come to pass, facts demonstrating the original statement to
+have been inaccurate may give no indication that the statement was fraudulent when made.
+3. Although the court of appeals correctly stated the
+legal standards for determining whether a securities-fraud
+complaint was filed within two years after constructive discovery of the alleged fraud, the court erred in applying Section 1658(b) to the facts of this case. Respondent alleged
+that petitioners had falsely told her that she would receive
+a fixed monthly return on her investment and that her principal would not be reduced. See Pet. App. 4a. Yet in February 2000, more than three years before filing suit, respondent received a statement showing “an account value
+below her initial investment,” and by March 2001 the balance was down by more than 60%. Id. at 5a. Petitioners’
+alleged representations that respondent’s money would be
+invested in a way that would preserve the principal while
+generating $15,000 in monthly income were entirely inconsistent with the drastic drop in principal respondent experienced. And because petitioners’ intentions about how they
+would invest the assets were entirely within petitioners’
+knowledge when they made the statements, a reasonable
+investor would have suspected, after witnessing the investments’ decline, that the representations were knowingly
+false when made. See Law, 113 F.3d at 785; see also Mathews v. Kidder, Peabody & Co., 260 F.3d 239, 252-255 (3d
+
+13
+
+Cir. 2001); Cooperativa de Ahorro y Credito Aguada v. Kidder, Peabody & Co., 129 F.3d 222, 224 (1st Cir. 1997).
+In March 2001, when respondent contacted the company about the declining balance, she was not told that
+there had been some sort of mistake, clerical error, or unexpected development. Rather, she was told that the shortfall
+was attributable to her monthly withdrawals, that the decline was temporary, and that the balance would increase
+to the initial level of investment when the market recovered. Pet. App. 5a. That response confirmed that petitioners had, apparently intentionally, invested respondent’s
+assets in risky equities rather than investment vehicles that
+would preserve her principal as petitioners had allegedly
+promised. Thus, more than two years before respondent
+filed suit in July 2003, she had actual knowledge of the facts
+constituting the fraud alleged in her complaint.
+B.	 Although The Courts Of Appeals Are Divided In Various
+Respects Concerning Application Of “Inquiry Notice” To
+Securities-Fraud Claims, Resolution Of Those Conflicts Is
+Unnecessary To The Proper Disposition Of This Case
+
+As previously noted, see p. 7, supra, there is a broad
+consensus among the courts of appeals that Section 1658(b)
+incorporates a rule of constructive discovery and an attendant concept of “inquiry notice.” There is, moreover, general agreement that the plaintiff must have a sufficient opportunity to conduct an investigation that would enable him
+to discover the full facts necessary to file a securities-fraud
+complaint. In significant respects, however, the courts of
+appeal have been inconsistent in their application of those
+principles. Those areas of disagreement include the question whether “inquiry notice” requires information suggesting that a defendant’s possible misstatement was made with
+scienter. This case, however, provides an unsuitable vehicle
+
+14
+
+for clarification of the governing legal rules because its
+proper disposition does not require the resolution of those
+disputed questions.
+1. Although all the courts of appeals apply some variant of the two-step inquiry used by the Ninth Circuit here,
+see Pet. App. 15a-17a, asking both whether the plaintiff was
+placed on “inquiry notice” and whether a diligent investigation would have revealed the violation of law, there are significant differences in their approaches. Most circuits apply
+the same two-step inquiry the court of appeals adopted
+here. See New England Health Care Employees Pension
+Fund v. Ernst & Young, LLP, 336 F.3d 495, 501 (6th Cir.
+2003), cert. denied 540 U.S. 1183 (2004); Young v. Lepone,
+305 F.3d 1, 9-10 (1st Cir. 2002); Sterlin v. Biomune Sys.,
+154 F.3d 1191, 1201 (10th Cir. 1998); Great Rivers Coop. v.
+Farmland Indus., Inc., 120 F.3d 893, 896, 898 (8th Cir.
+1997); Jensen v. Snellings, 841 F.2d 600, 607 (5th Cir.
+1988).4
+The Second and Third Circuits apply the same two-step
+approach as the majority rule, but only if the plaintiff did,
+in fact, undertake an investigation after being put on “inquiry notice.” LC Capital Partners, LP v. Frontier Ins.
+Group, Inc., 318 F.3d 148, 154 (2d Cir. 2003) (“[I]f the investor makes some inquiry once the duty arises, we will
+impute knowledge of what an investor ‘in the exercise of
+reasonable diligence, should have discovered’ concerning
+the fraud, and in such cases the limitations period begins to
+run from the date such inquiry should have revealed the
+4
+
+Although the Fourth Circuit has suggested that the limitations period begins to run on “inquiry notice,” even though such notice does not
+itself provide enough facts to file a lawsuit, see Brumbraugh v. Princeton Partners, 985 F.2d 157, 162-163 (1993), the court alternatively has
+stated the standard in a manner consistent with the majority rule, see
+Cooke v. Manufactured Homes, Inc., 998 F.2d 1256, 1263 (1993).
+
+15
+
+fraud.”) (internal citation omitted). By contrast, “[i]f the investor makes no inquiry,” knowledge of the facts constituting the violation “will be imputed as of the date the duty [to
+investigate] arose.” Ibid.; see Mathews, 260 F.3d at 255 (3d
+Cir.) (“because by early 1990, there were numerous storm
+warnings that the Appellants failed to adequately investigate, their claims accrued, and the limitations period began
+to run, on that date”). The practical effect of that approach
+is to treat the two-year limitations period as starting to run
+when the plaintiff is placed on “inquiry notice,” but to apply
+“[e]quitable tolling [to] stay the running of the statute of
+limitations * * * so long as the plaintiff has ‘exercised
+reasonable care and diligence in seeking to learn the facts
+which would disclose fraud.’” See Dodds v. Cigna Sec.,
+Inc., 12 F.3d 346, 350 (2d Cir. 1993) (quoting Arneil v.
+Ramsey, 550 F.2d 774, 781 (2d Cir. 1977)), cert. denied, 511
+U.S. 1019 (1994); Staehr v. Hartford Fin. Servs. Group,
+Inc., 547 F.3d 406, 426 (2d Cir. 2008) (quoting Dodds, 12
+F.3d at 350). That approach is inconsistent both with the
+text of Section 1658(b) and with this Court’s recognition in
+Lampf that “tolling [is] unnecessary” in securities-fraud
+cases because the limitations “period, by its terms, begins
+after discovery of the facts constituting the violation.” 501
+U.S. at 363; see note 3, supra.
+The Seventh and Eleventh Circuits frame the analysis
+differently, but like the Second Circuit’s tolling approach,
+their analysis focuses on how much time the plaintiff would
+have needed to discover facts necessary to file a complaint.
+Under this approach, “the statute of limitations * * * begins to run * * * not when the fraud is discovered, but
+when * * * the plaintiff learns, or should have learned
+through the exercise of ordinary diligence * * * enough
+facts to enable him by [reasonable] further investigation
+* * * to sue within” the limitations period. Fujisawa
+
+16
+
+Pharm. Co. v. Kapoor, 115 F.3d 1332, 1334 (7th Cir. 1997)
+(Fujisawa). See Tello v. Dean Witter Reynolds, Inc., 410
+F.3d 1275, 1284 (11th Cir. 2005) (noting Eleventh Circuit’s
+adoption of Seventh Circuit’s standard). In other words,
+under those courts’ standard, the limitations period starts
+to run upon “inquiry notice,” but what constitutes “inquiry
+notice” is determined based on “how easy it is to obtain the
+necessary proof by a diligent investigation.” Fujisawa, 115
+F.3d at 1335. That approach again cannot be squared with
+the statutory language, which allows a plaintiff to file suit
+up to “2 years after discovery of the facts constituting the
+violation.” 28 U.S.C. 1658(b).
+The result in this case would not be affected by applying
+either the tolling approach followed in the Second Circuit or
+the Seventh Circuit’s method of calculating when the statute begins to run. Because respondent did undertake some
+inquiry, the Second Circuit would apply the majority rule
+in this case. Thus, this case does not present an opportunity to explore the difference between the Second Circuit
+approach and the majority rule. Neither would the difference between the Seventh Circuit approach and the majority rule affect the outcome of this case. If (as the court of
+appeals held, see Pet. App. 20a) a jury could permissibly
+find that “a reasonable investor in [petitioner’s] shoes
+would not have initiated further inquiry before July 11,
+2001,” then respondent’s suit would be timely under the
+Seventh Circuit’s approach also. By contrast, if respondent
+had actual knowledge of the facts constituting the alleged
+fraud by March 2001, see pp. 12-13 , supra, then her suit is
+untimely under either the majority rule or the Seventh Circuit’s approach. Because the resolution of this case turns
+on an assessment of the particular facts involved rather
+than on the choice between competing legal standards, it
+
+17
+
+would not provide the Court an appropriate opportunity to
+explore the dissimilarities among the various approaches.
+2. Petitioner also identifies (Pet. 19-20) a second circuit
+conflict regarding whether (as the court of appeals held, see
+Pet. App. 21a) a plaintiff is on “inquiry notice” only when
+the facts suggest that the defendant acted with scienter, or
+whether (as petitioner contends, see Pet. 19) facts suggesting that “a statement or promise was false” are always sufficient. Like the Ninth Circuit in this case, the Third Circuit has squarely held that “inquiry notice, in securities
+fraud suits, requires storm warnings indicating that defendants acted with scienter.” Alaska Elec. Pension Fund v.
+Pharmacia Corp., 554 F.3d 342, 348 (2009) (citing In re
+Merck & Co. Sec., Derivative & “ERISA” Litig., 543 F.3d
+150 (3d Cir. 2008) (Merck), petition for cert. pending, No.
+08-905 (filed Jan. 15, 2009)).5 By contrast, the Tenth and
+Eleventh Circuits appear to have held that suspicion of
+scienter is not required to constitute “inquiry notice.” See
+Sterlin, 154 F.3d at 1196, 1203; Theoharous v. Fong, 256
+F.3d 1219, 1228 (11th Cir. 2001) (citing Sterlin).
+5
+
+The Second Circuit has characterized “inquiry notice” as information that “would suggest * * * the probability that [the investor] has
+been defrauded,” Dodds, 12 F.3d at 350, and the First Circuit has described “inquiry notice” as notice of facts that “would have alerted a
+reasonable investor to the possibility of fraudulent conduct.” Maggio
+v. Gerard Freezer & Ice Co., 824 F.2d 123, 128 (1987). The Seventh Circuit has explained that, although inquiry notice “can fall short of actual
+proof of fraud,” nonetheless “[t]he facts constituting [inquiry] notice
+must be sufficiently probative of fraud” to permit the plaintiff to investigate and file a complaint within the statutory period. Fujisawa, 115
+F.3d at 1335. Because the term “fraud” and its variants suggest a scienter component, those statements are generally supportive of the view
+that “inquiry notice” requires information that raises a suspicion of
+deliberate wrongdoing. The First, Second, and Seventh Circuits have
+not squarely addressed that question, however.
+
+18
+
+But this conflict on the question whether “inquiry notice” requires facts suggesting scienter or only falsity often
+will be utterly irrelevant—and is so in this case. In circumstances in which an innocent mistake is unlikely, as when an
+alleged misstatement concerns a matter within the speaker’s knowledge or control, evidence of falsity will suggest
+scienter and therefore place an investor on “inquiry notice.”
+See, e.g., Law, 113 F.3d at 785; pp. 11-12, supra. As discussed above, this is such a case because petitioners were
+presumably aware that respondent’s assets had not been
+invested conservatively to preserve her principal. Thus, as
+with the other circuit conflict described above, the Court
+would have no need to determine whether information suggesting scienter is necessary to place an investor on “inquiry notice.” 6
+6
+
+The petition for a writ of certiorari in Merck might present an opportunity for the Court to explore the various approaches in a case in
+which the differences could affect the outcome. The suit in Merck was
+filed in November 2003, 543 F.3d at 153, and the statements at issue in
+that case concerned the defendant’s belief that certain trial results were
+the result of unique advantages of a comparator drug, rather than any
+risk associated with the defendant’s drug, see id. at 167-172. While recognizing that doubts as to the accuracy of that explanation of the results
+had been raised as early as the Fall of 2001, the Third Circuit concluded that the plaintiffs had not been placed on “inquiry notice” until
+2003 because information suggesting the insincerity of the defendant’s
+proffered explanation did not emerge until that time. See id. at 172.
+The court therefore did not consider whether the plaintiffs had undertaken a diligent inquiry or when such an inquiry would have discovered
+the violation of law. See ibid. By contrast, if the court had treated information suggesting falsity as sufficient to place the plaintiffs on
+“inquiry notice,” and had applied its preexisting rule (also adopted by
+the Second Circuit, see pp. 14-15, supra) that the two-year limitations
+period runs from inquiry notice if the plaintiff fails to conduct an investigation, the court might have held the suit to be untimely. See Merck,
+543 F.3d at 178 (Roth, J., dissenting).
+
+19
+
+II.	 THE QUESTION WHETHER RESPONDENT REASONABLY
+DELAYED FILING SUIT DUE TO PETITIONERS’ ASSURANCES DOES NOT WARRANT THE COURT’S REVIEW
+
+Petitioners also contend (Pet. 24-31) that the Court
+should grant certiorari to decide whether, assuming that
+respondent was placed on “inquiry notice,” petitioners’ assurances were sufficient to delay the running of Section
+1658(b)’s limitations period. Noting respondent’s allegation
+that she had received “specific assurances from the president of Trainer Wortham that her account problems would
+be resolved and that she should forego suit,” Pet. App. 19a
+n.4, the court of appeals held that those assurances “give
+rise to a fact issue which makes summary judgment inappropriate,” id. at 22a. Petitioners object to this holding.
+But petitioners can cite no decision holding that it is
+“categorically unreasonable” (Pet. 25) for an investor who
+has been given reason to suspect possible fraud to suspend
+his investigation based on assurances by the suspected
+wrongdoer that an innocent explanation for the suspicious
+circumstances exists. Indeed, it strains credulity to suggest
+that nothing a suspected wrongdoer could ever say would
+make it reasonable for a plaintiff to terminate his inquiry or
+investigation. Rather, the courts of appeals that have addressed this question—including the Ninth Circuit—have
+recognized that the significance for limitations purposes of
+a suspected defrauder’s assurances is not determined by
+categorical rules, but is instead based on an analysis of the
+particular circumstances of each case. E.g., Pet. App. 17a;
+LC Capital Partners, 318 F.3d at 155; Ritchey v. Horner,
+244 F.3d 635, 640-641 (8th Cir. 2001).
+The decisions on which petitioners rely do not endorse
+the blanket rule that they advocate, but simply hold that
+the particular assurances given in those cases would not
+have induced reasonable investors to terminate their inqui-
+
+20
+
+ries. The Third Circuit in Mathews recognized that the
+reasonableness of reliance can depend on the “magnitude
+of the existing storm warnings” which, “[i]n this case
+* * * were massive and extremely threatening.” 260 F.3d
+at 252-255 (emphasis added). Similarly, in holding that the
+plaintiff in Cooperativa de Ahorro had unreasonably relied
+on “bland generalities about market fluctuations and repeated reassurances that the investment was safe,” the
+First Circuit did not adopt a categorical rule but simply
+stated that the particular facts of the case “do[] not seem
+sufficient to dispel a reasonable suspicion of fraud.” 129
+F.3d at 224-225.
+The United States agrees with petitioners that the alleged assurances on which the court of appeals relied in this
+case did not establish a jury question on whether respondent’s suit was timely filed. Those assurances were not
+given until May 2002, see Pet. App. 5a, after respondent
+had actual knowledge of the alleged fraud and the two-year
+limitations period had begun to run. In addition, the statements at issue did not purport to assure respondent that no
+prior misrepresentations had occurred or that any such
+misrepresentations were inadvertent, but simply promised
+that respondent’s “account problems would be resolved.”
+Id. at 19a n.4. But while the court of appeals erred in treating those assurances as sufficient to create a jury question
+on the timeliness of respondent’s complaint, that fact-specific error does not warrant this Court’s review, particularly because the Ninth Circuit relied on the assurances
+only as an alternative ground for reversing the district
+court’s grant of summary judgment to petitioners.
+
+21
+CONCLUSION
+
+The petition for a writ of certiorari should be denied.
+Respectfully submitted.
+DAVID M. BECKER
+General Counsel
+MARK D. CAHN
+Deputy General Counsel
+MARK PENNINGTON
+Assistant General Counsel
+DAVID LISITZA
+Senior Counsel
+Securities and Exchange
+Commission
+
+APRIL 2009
+
+ELENA KAGAN
+Solicitor General
+MALCOLM L. STEWART
+Deputy Solicitor General
+DOUGLAS HALLWARD-DRIEMEIER
+Assistant to the Solicitor
+General
+
+

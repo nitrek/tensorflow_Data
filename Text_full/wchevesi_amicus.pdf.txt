@@ -1,0 +1,678 @@
+03-9350
+
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+_______________________________________________
+IN RE WORLDCOM, INC. SECURITIES LITIGATION
+
+ALAN G. HEVESI, COMPTROLLER OF THE STATE OF NEW YORK, AS
+ADMINISTRATIVE HEAD OF THE NEW YORK STATE AND LOCAL
+RETIREMENT SYSTEMS AND AS TRUSTEE OF THE NEW YORK STATE
+(caption continued on inside cover)
+_______________________________________________
+On Appeal from the United States District Court
+for the Southern District of New York
+_______________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, AMICUS CURIAE
+_______________________________________________
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+KATHARINE B. GRESHAM
+Assistant General Counsel
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+DOMINICK V. FREDA
+Attorney
+Securities and Exchange Commission
+450 Fifth Street, NW
+Washington, D.C. 20549-0606
+(202) 942-0994 (Freda)
+
+COMMON RETIREMENT FUND, THE FRESNO EMPLOYEES RETIREMENT
+ASSOCIATION, THE COUNTY OF FRESNO, and HGK ASSET
+MANAGEMENT, INC., ON BEHALF OF PURCHASERS AND ACQUIRERS
+OF ALL WORLDCOM, INC. PUBLICLY TRADED SECURITIES DURING
+THE PERIOD BEGINNING APRIL 29, 1999 THROUGH AND INCLUDING
+JUNE 25, 2002,
+Plaintiffs-Respondents,
+v.
+CITIGROUP INC. , CITIGROUP GLOBAL MARKETS INC. F/K/A SALOMON
+SMITH BARNEY INC., and JACK GRUBMAN,
+Defendants-Petitioners.
+BERNARD EBBERS, SCOTT SULLIVAN, DAVID MYERS, BUFORD YATES,
+JR., JAMES C. ALLEN, JUDITH AREEN, CARL J. AYCOCK, MAX E.
+BOBBITT, FRANCESCO GALESI, CLIFFORD ALEXANDER, STILES A.
+KELLETT, JR., GORDON S. MACKLIN, JOHN A. PORTER, BERT C.
+ROBERTS, JR., JOHN W. SIDGEMORE, LAWRENCE C. TUCKER, ARTHUR
+ANDERSEN LLP, J.P. MORGRAN CHASE & CO., BANC OF AMERICA
+SECURITIES LLC, DEUTSCHE BANK SECURITIES INC., CHASE
+SECURITIES INC., LEHMAN BROTHERS INC., BLAYLOCK & PARTNERS,
+L.P., CREDIT SUISSE FIRST BOSTON CORP., GOLDMAN, SACHS & CO.,
+UBS WARBURG LLC, ABN/AMRO INC., UTENDAHL CAPITAL, TOKYOMISUBISHI INTERNATIONAL PLC, WESTDEUTSCHE LANDESBANK
+GIROZENTRALE, BNP PARIBAS SECURITIES CORP. CABATO HOLDING
+SIM S.P.A., FLEET SECURITIES, INC., and MIZUHO INTERNATIONAL PLC,
+Defendants.
+
+TABLE OF CONTENTS
+PAGE
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION . . . . . . 1
+ISSUE ADDRESSED BY THE COMMISSION . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+SUMMARY OF THE ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+I.
+
+BASIC AND THE FRAUD-ON-THE-MARKET
+PRESUMPTION OF RELIANCE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
+II.
+
+APPLICATION OF THE FRAUD-ON-THE-MARKET
+PRESUMPTION TO SECURITIES ANALYSTS . . . . . . . . . . . . . . . . . . . 9
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+TABLE OF AUTHORITIES
+CASES
+
+PAGE
+
+Basic Inc. v. Levinson,
+485 U.S. 224 (1988) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 4, 5, passim
+Bateman Eichler, Hill Richards, Inc. v. Berner,
+472 U.S. 299 (1985) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Blue Chip Stamps v. Manor Drug Stores,
+421 U.S. 723 (1975) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+DeMarco v. Lehman Bros. Inc.,
+__ F. Supp. 2d __, Nos. 03 Civ. 3470 (JSR),
+03 Civ. 3705 (JSR), 03 Civ. 4511 (JSR),
+2004 WL 602668, at *3 (S.D.N.Y. Mar. 29, 2004) . . . . . . . . . . . . . . . . . . . . . . 13
+De Marco v. Robertson Stephens, Inc.,
+No. 03 Civ. 590 (GEL), 2004 U.S. Dist.
+LEXIS 265 (S.D.N.Y. Jan. 9, 2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Dirks v. SEC,
+463 U.S. 646 (1983) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Heft, Kahn & Infante, Inc.,
+41 S.E.C. 379 (1963) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+J.I. Case Co. v. Borak,
+377 U.S. 426 (1964) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Merrill Lynch, Pierce, Fenner & Smith, Inc.,
+Exchange Act Release No. 14,149, available at
+1977 SEC LEXIS 412 (Nov. 9, 1977) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Panzirer v. Wolf,
+663 F.2d 365 (2d Cir. 1981) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+ii
+
+CASES (cont’d)
+
+PAGE
+
+Price Waterhouse v. Panzirer,
+459 U.S. 1027 (1982) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Robertson Stephens, Inc.,
+Exchange Act Release No. 47,144,
+79 SEC Dkt. 850, available at
+2003 WL 431887 (Jan. 9, 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Wharf (Holdings) Ltd. v. United Int’l Holdings, Inc.,
+532 U.S. 588 (2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+In re World Com, Inc.,
+Sec. Litig., 219 F.R.D. 267 (S.D.N.Y. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+STATUTES AND RULES
+Private Securities Litigation Reform Act, 15 U.S.C. 78u-4 et seq. (1995)
+Section 101(b)(1)(B), 15 U.S.C. 78u-4(b)(1)(B) . . . . . . . . . . . . . . . . . . . . 17
+Section 101(b)(2), 15 U.S.C. 78u-4(b)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Section 101(b)(4), 15 U.S.C. 78u-4(b)(4) . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Sarbanes-Oxley Act of 2002 Pub. L. 107-204, 116 Stat. 745, et seq. (2002)
+Section 501, Pub. L. 107-204, 116 Stat. 791-93 . . . . . . . . . . . . . . . . . . . . 15
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+Section 10(b), 15 U.S.C. 78j(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Rules Under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.
+Rule 10b-5, 17 C.F.R. 240.10b-5 . . . . . . . . . . . . . . . . . . . . . . 2, 3, 5, passim
+iii
+
+STATUTES AND RULES (cont’d)
+
+PAGE
+
+Regulation Analyst Certification, 17 C.F.R. 242.500 et seq.
+17 C.F.R. 242.501(a)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Rules of Self-Regulatory Organizations
+NASD Rule 2711(f) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+NYSE Rule 472(f) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+COMMISSION RELEASES
+Exchange Act Release No. 45,908,
+67 Fed. Reg. 34968 (May 10, 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Securities Act Release No. 7606A,
+Exchange Act Release No. 40,632A,
+63 Fed. Reg. 67174 (Dec. 4, 1998) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Securities Act Release No. 8119,
+Exchange Act Release No. 46,301,
+67 Fed. Reg. 51510 (Aug. 8, 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Securities Act Release No. 8193,
+Exchange Act Release No. 47,384,
+68 Fed. Reg. 9482 (Feb. 27, 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+SEC Release 2002-179, available at
+http://www.sec.gov/news/press/2002-179.htm . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+SEC Release 2003-54, available at
+http://www.sec.gov/news/press/2003-54.htm . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+iv
+
+LEGISLATIVE HISTORY
+
+PAGE
+
+Analyzing the Analysts, Hearings Before the Subcomm. On
+Capital Markets, Insurance and Government Sponsored
+Enterprises of the House Comm. On Financial Services,
+107th Cong., Serial No. 107-25 (June 14 & July 31, 2001) . . . . . . . . . . . . . . . . 15
+H.R. Rep. 1383, 73d Cong., 2d Sess. 11 (1934) . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Senate Comm. On Banking, Housing and Urban Affairs,
+107th Cong., Public Company Accounting Reform and Investor
+Protection Act of 2002, Report to Accompany S.2673 Together
+With Additional Views, S. Rep. No. 107-205 (June 26, 2002) . . . . . . . . . . . . . 15
+The Watchdogs Didn’t Bark: Enron and the Wall Street Analysts,
+Hearings Before the Senate Comm. On Governmental Affairs,
+107th Cong., S. Hrg. 107-385 (Feb. 27, 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+MISCELLANEOUS
+Brad Barber et al., Can Investors Profit from the Prophets?
+Security Analyst Recommendations and Stock Returns,
+56 J. Fin 531 (2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Alon Brav & Reuven Lehavy, An Empirical Analysis of Analysts’
+Target Prices: Short-term Informativeness and Long-term
+Dynamics, 58 J. Fin. 1933 (2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Brief for the Securities and Exchange Commission
+as Amicus Curiae, Basic Inc. v. Levinson, 485 U.S.
+224 (1988) (No. 86-279) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 8, 9
+Jeffrey A. Busse & T. Clifton Green, Market Efficiency in Real
+Time, 65 J. Fin. Econ. 415 (2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Rick A. Cooper et al., Following the Leader: A Study of
+Individual Analysts’ Earnings Forecast 61 J. Fin. Econ. 383 (2001) . . . . . . . . 12
+v
+
+MISCELLANEOUS (cont’d)
+
+PAGE
+
+Cristi A. Gleason and Charles M.C. Lee, Analyst Forecast
+Revisions and Market Price Discovery, 78 Acct. Rev. 193 (2003) . . . . . . . . . . 12
+T. Clifton Green, The Value of Client Access to Analyst
+Recommendations, 1 (2004) (working paper, Emory Univ.), available at
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=438725 . . . . . . . . . . . . . . . 12
+Paul J. Irvine, Analysts’ Forecasts and Brokerage-Firm Trading,
+79 Acct. Rev. 125 (2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 13
+Zoran Ivkovic & Narisimhan Jegadeesh, The Timing and the
+Value of Forecast and Recommendation Revisions, __ J. Fin.
+(forthcoming), available at
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id =359320 . . . . . . . . . . . . . . 11
+Laurie Krigman et al., Why Do Firms Switch Underwriters?,
+60 J. Fin. Econ. 245 (2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+SEC, Investor Alert: Analyzing Analyst Recommendations,
+available at http://www.sec.gov/investor/pubs/analysts.htm . . . . . . . . . . . . . . 10
+Scott E. Stickel, The Anatomy of the Performance of Buy and
+Sell Recommendations, Sept./Oct. Fin Analysts J. 25 (1995) . . . . . . . . . . . . . . 11
+Kent L. Womack, Do Brokerage Analysts’ Recommendations
+Have Investment Value?, 51 J. Fin. 137 (1996) . . . . . . . . . . . . . . . . . . . . . . 10, 11
+
+vi
+
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+__________________________
+No. 03-9350
+__________________________
+IN RE WORLDCOM, INC. SECURITIES LITIGATION
+ALAN G. HEVESI, Comptroller of the State of New
+York, as Administrative Head of the New York State and
+Local Retirement Systems and as Trustee of the New
+York State Common Retirement Fund et al.,
+Plaintiffs-Respondents,
+v.
+CITIGROUP, INC. et al.,
+Defendants-Petitioners.
+____________________________________________________
+On Appeal from the United States District Court
+for the Southern District of New York
+____________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, AMICUS CURIAE
+____________________________________________________
+INTEREST OF THE
+SECURITIES AND EXCHANGE COMMISSION
+The Securities and Exchange Commission, the agency responsible for the
+administration and enforcement of the federal securities laws, submits this brief as
+amicus curiae to address an important legal issue regarding the proper
+
+interpretation of the fraud-on-the-market presumption of reliance in private
+securities fraud actions under Section 10(b) of the Securities Exchange Act of
+1934, 15 U.S.C. 78j(b), and Rule 10b-5 promulgated thereunder, 17 C.F.R.
+240.10b-5. Under the fraud-on-the-market presumption adopted by the Supreme
+Court in Basic Inc. v. Levinson, 485 U.S. 224 (1988), a plaintiff in a private action
+under Rule 10b-5 is not required to show direct reliance on a defendant’s
+misrepresentation, but is presumed to have relied on the market price of the
+security, which reflects all publicly available material information.
+This appeal was taken from a district court decision certifying a class of
+investors, who alleged that they were defrauded in purchasing WorldCom, Inc.’s
+securities based in large part upon misrepresentations contained in defendants’
+analyst reports. In re WorldCom, Inc. Sec. Litig., 219 F.R.D. 267 (S.D.N.Y. 2003).
+In seeking to have the district court’s decision reversed, the defendants argue that
+the fraud-on-the-market presumption, used by the district court in certifying the
+class, is inapplicable to misrepresentations contained in an analyst’s report. The
+Commission disagrees with this view and believes that the presumption applies to
+public material misrepresentations by securities analysts. The Commission takes
+
+2
+
+no position on whether the class was properly certified or on any of the other legal
+issues raised by the parties or on any factual disputes.1
+While the Commission is not required to show reliance in its own
+enforcement actions, the Commission believes that the proper interpretation and
+application of the fraud-on-the-market presumption is important to the effective
+enforcement of the federal securities laws. It is well recognized that private
+securities actions “provide ‘a most effective weapon in the enforcement’ of the
+securities laws and are ‘a necessary supplement to Commission action.’” Bateman
+Eichler, Hill Richards, Inc. v. Berner, 472 U.S. 299, 310 (1985) (quoting J.I. Case
+Co. v. Borak, 377 U.S. 426, 432 (1964)); see Blue Chip Stamps v. Manor Drug
+Stores, 421 U.S. 723, 730 (1975).
+The Commission’s strong enforcement interest in assuring that the securities
+markets are not harmed by misrepresentations in analysts’ reports is evident in the
+recent action against ten of the nation’s top investment banking firms, alleging that
+
+Although the fraud-on-the-market issue in this case arises in the context of a
+class action, the fraud-on-the-market presumption applies to all private damages
+actions under Rule 10b-5 and is grounded on characteristics of the securities
+markets and investors’ behavior and also on policy objectives that are equally
+applicable to individual and class actions. See, e.g., Panzirer v. Wolf, 663 F.2d 365,
+367-68 (2d Cir. 1981) (applying the presumption to an individual plaintiff’s Rule
+10b-5 claim), vacated on other grounds sub nom. Price Waterhouse v. Panzirer, 459
+U.S. 1027 (1982).
+1
+
+3
+
+their analysts issued research reports that were intentionally exaggerated,
+unwarranted, or lacked a reasonable basis. See SEC Release 2002-179, available
+at http://www.sec.gov/news/press/2002-179.htm; SEC Release 2003-54, available
+at http://www.sec.gov/news/press/2003-54.htm. Indeed, the Commission has for
+many years brought actions against analysts who engage in such activity. E.g.,
+Heft, Kahn & Infante, Inc., 41 S.E.C. 379 (1963); Merrill Lynch, Pierce, Fenner &
+Smith, Inc., Exchange Act Release No. 14,149, available at 1977 SEC LEXIS 412
+(Nov. 9, 1977); Robertson Stephens, Inc., Exchange Act Release No. 47,144, 79
+SEC Dkt. 850, available at 2003 WL 431887 (Jan. 9, 2003).
+ISSUE ADDRESSED BY THE COMMISSION
+Whether the fraud-on-the-market presumption of reliance applies to public
+material misrepresentations by analysts.
+SUMMARY OF THE ARGUMENT
+As adopted by the Supreme Court in Basic Inc. v. Levinson, 485 U.S. 224
+(1988), the fraud-on-the-market presumption posits that all publicly disseminated
+material information about a publicly-traded security is reflected in its market
+price, and that investors rely on the integrity of this price when making a decision
+to buy or sell the security. When publicly disseminated information about a
+company or its securities is materially false or misleading, the market price reflects
+4
+
+this mis-information, and investors relying on the market price have thus indirectly
+relied on the material misrepresentation.
+Nothing in the Court’s decision in Basic or in the underpinnings of the
+theory itself justifies excluding analysts from the presumption’s reach. Although
+the Commission takes no position on whether the presumption is applicable to
+non-issuers other than analysts (an issue that is not before the Court), applying the
+presumption to analysts is consistent both with economic studies showing the
+market effect of analyst reports and with the very nature of such reports, which are
+intended to provide information upon which investment decisions are based.
+ARGUMENT
+I.
+
+BASIC AND THE FRAUD-ON-THE-MARKET PRESUMPTION OF
+RELIANCE
+The Supreme Court adopted the fraud-on-the-market presumption of
+
+reliance in private damages actions under Rule 10b-5 in Basic, agreeing with
+numerous courts of appeals and the Commission’s amicus curiae brief that there
+should be a rebuttable presumption that material public information is reflected in
+the market price of a security and that investors rely on the integrity of this market
+price in making investment decisions. 485 U.S. at 247.
+
+5
+
+A private plaintiff in a securities fraud action ordinarily must show reliance
+on a defendant’s misrepresentation to provide “the requisite causal connection
+between a defendant’s misrepresentation and a plaintiff’s injury.” Id. at 243. The
+fraud-on-the-market presumption of reliance addresses the fact that “modern
+securities markets * * * differ from the face-to-face transactions contemplated by
+early fraud cases, and our understanding of Rule 10b-5’s reliance requirement
+must encompass these differences.” Id. at 243-244 (citation omitted). “[T]he
+market is interposed between the seller and buyer and, ideally, transmits
+information to the investor in the processed form of a market price.” Id. at 244
+(quotation omitted).
+As the Court recognized, “[t]he fraud on the market theory is based on the
+hypothesis that, in an open and developed securities market, the price of a
+company’s stock is determined by the available material information regarding the
+company and its business,” and “[m]isleading statements will therefore defraud
+purchasers of stock even if the purchasers do not directly rely on the
+misstatements.” Id. at 241-42 (quotation omitted). Proceeding from this
+hypothesis, the Court held: “Because most publicly available information is
+reflected in market price, an investor’s reliance on any public material
+misrepresentations, therefore, may be presumed for purposes of a Rule 10b-5
+6
+
+action.” Id. at 247. The defendant, in turn, “may rebut proof of the elements
+giving rise to the presumption, or show that the misrepresentation in fact did not
+lead to a distortion of price or that an individual plaintiff traded or would have
+traded despite his knowing the statement was false.” Id. at 248.
+The fraud-on-the-market presumption of reliance, the Court explained, “is
+consistent with, and, by facilitating Rule 10b-5 litigation, supports, the
+congressional policy embodied in the 1934 Act,” because “[i]n drafting that Act,
+Congress expressly relied on the premise that securities markets are affected by
+information, and enacted legislation to facilitate an investor’s reliance on the
+integrity of those markets * * * .” Id. at 245-46. In addition, the Court held that
+the presumption is “supported by common sense and probability,” pointing to
+“empirical studies [that] have tended to confirm Congress’ premise that the market
+price of shares traded on well-developed markets reflects all publicly available
+information, and, hence, any material misrepresentations.” Id. at 246.
+The Court’s opinion reflects the arguments presented by the Commission in
+its amicus curiae brief. The Commission explained that in addition to “empirical
+and commonsense evidence” supporting the presumption, it “facilitates important
+policy objectives underlying the federal securities laws” and “relieves the plaintiff
+of an evidentiary burden it is not practical to place on him.” Brief for the
+7
+
+Securities and Exchange Commission as Amicus Curiae at 23, Basic Inc. v.
+Levinson, 485 U.S. 224 (1988) (No. 86-279).
+The Commission noted in its brief that “[a] fundamental premise of the
+Securities Exchange Act is * * * that the markets are affected by information, so
+that ‘[t]here cannot be honest markets without honest publicity.’” Id. at 25
+(quoting H.R. Rep. 1383, 73d Cong., 2d Sess. 11 (1934)). The Commission also
+noted that courts “have viewed the fraud on the market theory, and the
+accompanying presumption of reliance, as a means of furthering the statutory goal
+of ensuring honest securities markets.” Id. Placing the burden of proof on the
+plaintiff to show that the market price of a security was affected by a
+misrepresentation “would impose an unrealistic evidentiary burden” by requiring
+the plaintiff to present “extensive and hard to obtain evidence” concerning how
+the information affected the market. Id. at 26. The presumption accommodates
+this concern “by recognizing the obvious, that market prices generally reflect
+corporate information and that investors generally rely on the integrity of the
+market price.” Id. at 27.
+
+8
+
+II.
+
+APPLICATION OF THE FRAUD-ON-THE-MARKET
+PRESUMPTION TO SECURITIES ANALYSTS
+Although Basic arose in the context of false statements by an issuer, the
+
+Supreme Court’s opinion does not limit the theory to that context.2 The
+Commission believes that applying the presumption to securities analysts is
+consistent with the “common sense and probability” considerations that led the
+Court to adopt the presumption in Basic.
+The Court stated in Basic that the theory applies to “any public material
+misrepresentations * * * .” 485 U.S. at 247. The Court further referred to
+“available material information regarding the company and its business,” without
+any limitation based on the source of the information. Id. at 241 (quotation
+omitted). The Court noted that the economic studies that led courts to adopt the
+theory “tended to confirm * * * that the market price of shares traded on welldeveloped markets reflects all publicly available information * * * .” Id. at 246.
+
+The Commission’s brief in Basic framed the issue as whether “the court of
+appeals in this case correctly held, as has every other court to consider the issue, that
+a plaintiff alleging fraud under Rule 10b-5 may, in circumstances where a materially
+false or misleading corporate statement has been disseminated into the trading
+market, invoke a rebuttable presumption of reliance upon the integrity of the market
+price.” Id. at 21 (citations omitted). All of the cases in which appellate courts had
+adopted the presumption prior to the Basic decision involved misrepresentations by
+issuers. See id. at 21 n.24.
+2
+
+9
+
+Thus the Court imposed no limitation that the source of the information be
+the company itself. The Commission believes that applying the presumption to
+analysts is consistent both with economic studies showing the market effect of
+analyst reports and with their very purpose – providing information on which to
+base investment decisions. The Commission takes no position on whether the
+presumption is applicable to non-issuers other than analysts, an issue that is not
+before the Court in this case.
+Recent economic studies document the market effect of research reports and
+recommendations by sell-side analysts.3 These statistical analyses, which examine
+historical data from a broad set of sell-side research analysts’ recommendations
+and earnings forecasts and historical price data of equity securities in the publicly
+traded markets, are published by academic researchers in finance and accounting
+research journals after an extensive peer-review process.4 Kent L. Womack, Do
+
+“Sell-side” analysts work for investment banks and brokerage firms that sell
+securities to the public. See SEC, Investor Alert: Analyzing Analyst
+Recommendations, available at http://www.sec.gov/investor/pubs/analysts.htm.
+Their research reports generally contain the analyst’s recommendation on the
+security as well as an analysis. The recommendation is often one word (buy, sell,
+overweight), while the analysis is often detailed and lengthy, explaining the basis for
+the rating and providing supplementary information. Securities Act Release No.
+8193, Exchange Act Release No. 47,384, 68 Fed. Reg. 9482, 9483 (Feb. 27, 2003).
+3
+
+An article designated as a “working paper” has not yet completed this peerreview process and been accepted for publication.
+4
+
+10
+
+Brokerage Analysts’ Recommendations Have Investment Value?, 51 J. Fin. 137
+(1996), demonstrates that stock prices react within the 3-day period around the
+time a recommendation is issued and continue to drift in the direction
+recommended for one or more months. The author concludes that “there is strong
+evidence that stock prices are significantly influenced by analysts’
+recommendation changes, not only at the immediate time of the announcement but
+also in subsequent months.” Id. at 164.5 Scott E. Stickel, The Anatomy of the
+Performance of Buy and Sell Recommendations, Sept./Oct. Fin. Analysts J. 25
+(1995) concludes that “[b]rokerage house buy and sell recommendations influence
+stock prices” and that “[t]he strength of the recommendation, firm size, and
+contemporaneous earnings forecast revisions are associated with price changes
+that appear to be permanent, information effects.” Id. at 25. See also Jeffrey A.
+Busse & T. Clifton Green, Market Efficiency in Real Time, 65 J. Fin. Econ. 415
+(2002); Brad Barber et al., Can Investors Profit from the Prophets? Security
+Analyst Recommendations and Stock Returns, 56 J. Fin. 531 (2001); Zoran
+
+An indication of how important companies themselves view analysts’
+reports is shown in a recent article finding that almost a third of companies switch
+underwriters from an initial public offering to a follow-on offering (within three
+years of the IPO), and that a key reason that companies switch underwriters is to
+“buy additional and influential analyst coverage from the new lead underwriter.”
+Laurie Krigman et al., Why Do Firms Switch Underwriters?, 60 J. Fin. Econ. 245,
+245 (2001).
+5
+
+11
+
+Ivkovic & Narisimhan Jegadeesh, The Timing and Value of Forecast and
+Recommendation Revisions: Do Analysts Receive Early Peek at Good News?, __
+J. Fin. (forthcoming), available at http://papers.ssrn.com/sol3/papers.cfm?abstract
+_id=359320. Prices of securities also react to analysts’ issuance or revision of
+target trading prices (Alon Brav & Reuven Lehavy, An Empirical Analysis of
+Analysts’ Target Prices: Short-term Informativeness and Long-term Dynamics, 58
+J. Fin. 1933 (2003)), and to analysts’ issuance or revision of earnings forecasts
+(Rick A. Cooper et al., Following the Leader: A Study of Individual Analysts’
+Earnings Forecasts, 61 J. Fin. Econ. 383 (2001); Cristi A. Gleason and Charles
+M.C. Lee, Analyst Forecast Revisions and Market Price Discovery, 78 Acct. Rev.
+193 (2003)).
+Contrary to the defendants’ contention that institutional investors ignore the
+reports of sell-side analysts, studies show that institutional investors do rely on
+such information. See T. Clifton Green, The Value of Client Access to Analyst
+Recommendations 1 (2004) (working paper, Emory Univ.), available at
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=438725 (“Institutional
+investors pay significant amounts to obtain real-time access to brokerage firm
+research through providers such as First Call * * * .”); Paul J. Irvine, Analysts’
+Forecasts and Brokerage-Firm Trading, 79 Acct. Rev. 125, 126, 147-48 (2004)
+12
+
+(clients of brokerage firms, including institutional investors, increase trading in
+response to recommendations and forecast revisions of brokerage firm analysts).6
+In addition to the demonstrated market effect of their statements, securities
+analysts hold themselves out as providing information that investors can use to
+make decisions on buying and selling securities. As one district court recently
+observed, an investment bank “that has a research department engaged in the
+business of analyzing companies in order to disseminate to the public information
+and opinions about specific securities clearly intends that the market take into
+account its recommendations to buy or sell securities.” De Marco v. Robertson
+Stephens, Inc., No. 03 Civ. 590 (GEL), 2004 U.S. Dist. LEXIS 265, at *21-*22
+(S.D.N.Y. Jan. 9., 2004). The court rejected the defendants’ argument that the
+fraud-on-the-market presumption should not apply to opinions in analyst reports,
+stating: “[I]t is disingenuous, to say the least, for defendants to now argue that
+their published purchase recommendations are somehow excluded from the
+information available to market actors when valuing securities.” Id. at 22. See
+also DeMarco v. Lehman Bros. Inc., __ F. Supp. 2d __, Nos. 03 Civ. 3470 (JSR),
+
+Irvine notes that “[s]ell-side research analysts must * * * serve the
+institutional clients who provide commission revenue to their brokers” and that
+“often brokerage firms conduct a formal poll asking the institutional sales force to
+rate analysts on how much trade they generate * * * .” 79 Acct. Rev. at 125, 126.
+6
+
+13
+
+03 Civ. 3705 (JSR), 03 Civ. 4511 (JSR), 2004 WL 602668, at *3 (S.D.N.Y. Mar.
+29, 2004) (declining to exempt analysts’ reports from fraud-on-the-market
+presumption because the “very purpose was to advise Lehman’s readers to buy
+stock in a company”).
+The Commission has “long acknowledged and the Supreme Court
+recognized in Dirks v. SEC, [that] analysts fulfill an important function by keeping
+investors informed.” Securities Act Release No. 7606A, Exchange Act Release
+No. 40,632A, 63 Fed. Reg. 67174, 67216-17 (Dec. 4, 1998). See Dirks v. SEC,
+463 U.S. 646, 658 (1983). “They digest information from Exchange Act reports
+and other sources, actively pursue new company information, put all of it into
+context, and act as conduits in the flow of information by publishing reports
+explaining the effect of this information to investors.” Id. at 67217.
+The important role of analysts in the securities markets and the potential that
+conflicts of interest can influence the integrity of their research reports has been
+the subject of statutory and regulatory action in recent years.7 Congress, as part of
+
+In the summer of 2001, the Subcommittee on Capital Markets, Insurance
+and Government Sponsored Enterprises of the House Committee on Financial
+Services held hearings on research analyst conflicts of interest. See Analyzing the
+Analysts, Hearings Before the Subcomm. on Capital Markets, Insurance and
+Government Sponsored Enterprises of the House Comm. on Financial Services,
+107th Cong., Serial No. 107-25 (June 14 & July 31, 2001). The Senate Committee
+on Governmental Affairs held hearings on analysts in early 2002. See The
+7
+
+14
+
+the Sarbanes-Oxley Act, directed the Commission (or, upon the authorization and
+direction of the Commission, a registered securities association or national
+securities exchange) to adopt “rules reasonably designed to address conflicts of
+interest that can arise when securities analysts recommend equity securities in
+research reports and public appearances, in order to improve the objectivity of
+research and provide investors with more useful and reliable information * * * .”
+Sarbanes-Oxley Act of 2002 § 501, Pub. L. 107-204, 116 Stat. 745, 791-93
+(2002).8
+In response, the Commission has approved rule changes by the New York
+Stock Exchange and the National Association of Securities Dealers prohibiting
+analysts for member firms from issuing research reports recommending securities
+for which their firm acted as the manager or co-manager of a public offering
+during a specified period before and after the offering. NYSE Rule 472(f); NASD
+Rule 2711(f). In approving these rules, the Commission noted that the purpose
+Watchdogs Didn’t Bark: Enron and the Wall Street Analysts, Hearings Before the
+Senate Comm. on Governmental Affairs, 107th Cong., S. Hrg. 107-385 (Feb. 27,
+2002).
+The Senate Banking Committee report recommending enactment noted that
+the provision was intended to address the “critical” need “to restore investor
+confidence” in the integrity and credibility of securities analysts. Senate Comm. on
+Banking, Housing, and Urban Affairs, 107th Cong., Public Company Accounting
+Reform and Investor Protection Act of 2002, Report to Accompany S. 2673
+Together With Additional Views, S. Rep. No. 107-205, at 33 (June 26, 2002).
+8
+
+15
+
+was to “permit market forces to determine the price of the security in the
+aftermarket unaffected by research reports issued by firms with the most
+substantial interest in the offering.” Exchange Act Release No. 45,908, 67 Fed.
+Reg. 34968, 34975 (May 10, 2002). The Commission also adopted Regulation
+AC – Analyst Certification, which includes measures to assure research analyst
+integrity and specifically requires analysts’ reports to include a statement attesting
+that the views expressed therein “accurately reflect the research analysts’ personal
+views about any and all of the subject securities or issuers.” 17 C.F.R.
+242.501(a)(1).9 In issuing the proposed rule, the Commission stated that “by
+requiring research analysts to certify as to the accuracy of the views expressed in
+research reports, investor confidence in the securities markets should be enhanced,
+thereby leading to the benefit of more liquid and efficient markets.” Securities Act
+Release No. 8119, Exchange Act Release No. 46,301, 67 Fed. Reg. 51510, 51514
+(Aug. 8, 2002).
+The Commission believes the concerns raised by the defendants and amicus
+curiae Securities Industry Association that applying the presumption to statements
+
+Regulation AC applies to “research analysts,” who are defined as natural
+persons responsible for preparing a “research report,” which, in turn, is defined as “a
+written communication (including an electronic communication) that includes an
+analysis of a security or an issuer and provides information reasonably sufficient
+upon which to base an investment decision.” 17 C.F.R. 242.500.
+9
+
+16
+
+by analysts will result in securities fraud damages actions against anyone who
+publicly disseminates a favorable opinion about a security are mitigated by the
+rebuttable presumption that is part of the fraud-on-the-market presumption of
+reliance and the barriers against unwarranted suits imposed by the Private
+Securities Litigation Reform Act, 15 U.S.C. 78u-4 et seq.
+Many of the arguments that the defendants raise about applying the theory
+to analysts’ opinions – that such opinions are part of an undifferentiated mass of
+secondary information and do not have any distinct price effects, that major
+institutional investors whose decisions have an impact on prices do not rely on
+retail research reports, and that the effects of an analyst’s recommendations can be
+short-lived – seek to rebut the presumption that an analyst’s opinion really
+affected the market price. See Basic, 485 U.S. at 248 (“[a]ny showing that severs
+the link between the alleged misrepresentation * * * and the price received (or
+paid) by the plaintiff * * * will be sufficient to rebut the presumption of reliance”).
+Thus, the defendant could seek to rebut the presumption by showing that any
+effect was ephemeral or that the particular analyst did not have sufficient influence
+to actually have an effect on the market price.
+The potential for unwarranted actions against anyone who asserts an
+optimistic view of a company and its securities that proves later proves wrong is
+17
+
+addressed by the Private Securities Litigation Reform Act, especially the
+provisions requiring plaintiffs to plead fraud with particularity (15 U.S.C. 78u4(b)(1)(B)), to state with particularity facts giving a strong inference that the
+defendant acted with scienter (15 U.S.C. 78u-4(b)(2)), and to establish that the
+defendant’s fraud caused the plaintiff’s loss (15 U.S.C. 78u-4(b)(4)). See Wharf
+(Holdings) Ltd. v. United Int’l Holdings, Inc., 532 U.S. 588, 597 (2001) (noting
+that concerns about unwarranted securities actions are unlikely “to prove serious
+in the future” because of the PSLRA, which “impos[ed], beginning in 1995,
+stricter pleading requirements in private securities fraud actions”).
+In sum, the Commission believes that the “common sense and probability”
+considerations that led the Supreme Court to adopt the fraud-on-the-market
+presumption in Basic, a case involving misrepresentations by an issuer of
+securities, should also apply to misrepresentations by securities analysts.
+
+18
+
+CONCLUSION
+For the foregoing reasons, the Commission urges the Court to hold that the
+fraud-on-the-market presumption of reliance applies to public material
+misrepresentation by analysts.
+Respectfully submitted,
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+KATHARINE B. GRESHAM
+Assistant General Counsel
+
+Of Counsel
+MEYER EISENBERG
+Deputy General Counsel
+
+DOMINICK V. FREDA
+Attorney
+Securities and Exchange Commission
+450 Fifth Street, NW
+Washington, D.C. 20549-0606
+(202) 942-0994 (Freda)
+
+April 2004
+
+19
+
+

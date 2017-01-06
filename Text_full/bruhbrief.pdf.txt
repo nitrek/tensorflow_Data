@@ -1,0 +1,1185 @@
+05-5271-CV
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+_________________________________________
+MARC BRUH,
+Plain tiff - Co u n te r-De fe n d an t - Ap p e llan t,
+v.
+BESSEMER VENTURE PARTNERS III L.P.,
+De fe n d an t - Co u n te rc laim an t - Ap p e lle e ,
+VISTACARE, INC.,
+De fe n d an t.
+_________________________________________
+On Appeal from the United States District Court
+for the Southern District of New York
+_________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE, SUBMITTED AT THE REQUEST OF THE COURT
+AND IN SUPPORT OF AFFIRMING THE DECISION BELOW
+_________________________________________
+BRIAN G. CARTWRIGHT
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+ERIC SUMMERGRAD
+Deputy Solicitor
+ALLAN A. CAPUTE
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+100 F Street, NE
+Washington, D.C. 20549-8010
+(202) 551-5122 (Capute)
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION . . . . . . 1
+ARGUMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+I.
+
+UNDER RULE 16a-1(c), THE PURCHASE OF VISTACARE
+COMMON STOCK TOOK PLACE ON DECEMBER 17, 2002 . . . . . . . . . 3
+
+II.
+
+BESSEMER’S COMMON STOCK ACQUISITION CAME
+ABOUT IN A RECLASSIFICATION THAT WAS EXEMPT
+FROM SECTION 16(b), UNDER BOTH PRE - 2005
+AMENDMENT AND POST - 2005 AMENDMENT
+RULE 16b-7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+III.
+
+A.
+
+The History of the Exemption of Reclassifications from
+Section 16(b). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+B.
+
+The Commission’s 2005 Amendment to Rule 16b-7 Merely
+Clarified Existing Law, and Thus Is Properly Applicable
+to Conduct Occurring Prior to Adoption of the Amendment. . . . . . . 15
+
+C.
+
+Rule 16b-7, Prior to the 2005 Amendment, Implicitly
+Exempted Reclassifications Under the Same Conditions
+Applicable to Mergers and Consolidations, the Same
+Standard Made Explicit in the Amendment, and
+Exempted the Reclassification Here. . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+THE COMMISSION’S EXEMPTION OF RECLASSIFICATIONS
+IN RULE 16b-7 WAS WITHIN ITS STATUTORY EXEMPTIVE
+AUTHORITY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+STATUTORY APPENDIX
+CERTIFICATE OF SERVICE
+CERTIFICATE OF CONCERNING COMPLIANCE WITH FED.
+R. APP. P. 32(a)(7)(C)
+CERTIFICATE OF COMPLIANCE WITH LOCAL RULE 32(a)(1):
+BRIEFS IN DIGITAL FORMAT
+
+-i-
+
+TABLE OF AUTHORITIES
+Cases
+
+Page
+
+Association of Accredited Cosmetology Schools v. Alexander,
+979 F.2d 859 (D.C. Cir. 1992) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+At Home Corp. v. Cox Communications, Inc., __ F.3d __, 2006
+WL 1148512 (2d Cir. Apr. 28, 2005) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 29, 31
+Auer v. Robbins, 519 U.S. 452 (1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Bershad v. McDonough, 428 F.2d 696 (7 th Cir. 1970) . . . . . . . . . . . . . . . . . . . . . . . . 28
+Blau v. Lamb, 363 F.2d 507 (2d Cir. 1966) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Bowen v. Georgetown University Hospital, 488 U.S. 204 (1988) . . . . . . . . . . . . . . . 15
+Bowles v. Seminole Rock & Sand Co., 325 U.S. 410 (1945) . . . . . . . . . . . . . . . . . . . . 23
+DeMaria v. Andersen, 318 F.3d 170 (2d Cir. 2003) . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Encarnacion ex rel. George v. Barnhart, 331 F.3d 78 (2d Cir. 2003) . . . . . . . . . . . . . 24
+First National Bank of Chicago v. Standard Bank & Trust,
+172 F.3d 472 (7 th Cir. 1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Foremost-McKesson, Inc. v. Provident Securities Co.,
+423 U.S. 232 (1976) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 28
+Gollust v. Mendell, 501 U.S. 115 (1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 28, 29
+Gryl v. Shire Pharmaceuticals Group PLC, 298 F.3d 136 (2d Cir. 2002) . . . . . . . . . 29
+Halperin v. eBanker USA.com, Inc., 295 F.3d 352 (2d Cir. 2002) . . . . . . . . . . . . . . . 25
+Hayes v. Sampson, [1980 Transfer Binder] Fed. Sec. L. Rep.
+(CCH) ¶ 97,693, 1980 WL 1460 (S.D.N.Y. Nov. 18, 1980) . . . . . . . . . . . . . . . . . . . . 9
+Heimmermann v. First Union Mortgage Corp.,
+305 F.3d 1257 (11 th Cir. 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+-ii-
+
+TABLE OF AUTHORITIES (CONTINUED)
+Cases (Continued)
+
+Page
+
+Heublein, Inc. v. Gen. Cinema Corp., 722 F.2d 29 (2d Cir. 1983) . . . . . . . . . . . . . . . 29
+Kern County Land Co. v. Occidental Petroleum Corp.,
+411 U.S. 582 (1973) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+King v. American Airlines, Inc., 284 F.3d 352 (2d Cir. 2002) . . . . . . . . . . . . . . . . . . 16
+LaFleur v. Whitman, 300 F.3d 256 (2d Cir. 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Landgraf v. USI Film Products, 511 U.S. 244 (1994) . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Levy v. Southbrook International Investments, Ltd.,
+263 F.3d 10 (2d Cir. 2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Levy v. Sterling Holding Co.,
+314 F.3d 106 (3d Cir. 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 12, 13, 21, 22, 24, 32
+Manhattan General Equip. Co. v. Commissioner, 297 U.S. 129 (1936) . . . . . . . . . . 16
+Martin v. Occupational Safety & Health Rev. Com’n.,
+499 U.S. 144 (1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+National Cable & Telecommunications Association v. Brand X
+Internet Services, 125 S.Ct. 2688, __ U.S. __, (2005) . . . . . . . . . . . . . . . . . . . . . . . 18
+National Mining Association v. Department of Interior,
+177 F.3d 1 (D.C. Cir. 1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+National Mining Association v. Department of Labor,
+292 F.3d 849 (D.C. Cir. 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+P. Stolz Family Partnership L.P. v. Daum, 355 F.3d 92 (2d Cir. 2004) . . . . . . . . . . . 25
+Piamba Cortes v. American Airlines, Inc.,
+177 F.3d 1272 (11 th Cir. 1999) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Pope v. Shalala, 998 F.2d 473 (7 th Cir. 1993), overruled on
+other grounds, Johnson v. Apfel, 189 F.3d 561 (7 th Cir. 1999) . . . . . . . . . . . . . 16, 17
+
+-iii-
+
+TABLE OF AUTHORITIES (CONTINUED)
+Cases (Continued)
+
+Page
+
+Press v. Quick & Reilly, Inc., 218 F.3d 121 (2d Cir. 2000) . . . . . . . . . . . . . . . . . . . . . 23
+Reliance Electric Co. v. Emerson Electric Co.,
+404 U.S. 418 (1972) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 28
+Roberts v. Eaton, 212 F.2d 82 (2d Cir. 1954) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Rothenberg v. United Brands Co., [1977 Transfer Binder]
+Fed. Sec. L. Rep. (CCH) ¶ 96,045, 1977 WL 1014
+(S.D.N.Y. May 11, 1977), aff’d, 573 F.2d 1295 (2d Cir. 1977) . . . . . . . . . . . . . . . . . . . 9
+Semerenko v. Cendant Corp., 223 F.3d 165 (3d Cir. 2000) . . . . . . . . . . . . . . . . . . . . 25
+Sweet v. Sheahan, 235 F.3d 80 (2d Cir. 2000) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Taylor v. Vt. Dept. of Educ., 313 F.3d 768 (2d Cir. 2002) . . . . . . . . . . . . . . . 16, 20, 24
+United States v. Sepulveda, 115 F.3d 882 (11 th Cir. 1997). . . . . . . . . . . . . . . . . . . . . 16
+White v. Shalala, 7 F.3d 296 (2d Cir. 1993) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Commission Releases
+Exemption of Certain Transactions from Section 16b,
+Exchange Act Release No. 4717, 17 Fed. Reg. 5501
+(June 19, 1952, as corrected July 18, 1952 at 17 Fed. Reg. 6579) . . . . . . . . . . . . . . . 10
+Exemption of Certain Transactions from Section 16(b),
+Exchange Act Release No. 4696, 17 Fed. Reg. 3177
+(April 10, 1952) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 28
+Form 8-K Disclosure of Certain Management Transactions,
+Exchange Act Release No. 45742, 67 Fed. Reg. 19914
+(Apr. 23, 2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Interpretive Release on Rules Applicable to Insider Reporting
+and Trading, Exchange Act Release No. 18114, 1981 WL 31301
+(Sept. 24, 1981) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+-iv-
+
+TABLE OF AUTHORITIES (CONTINUED)
+Commission Releases (Continued)
+
+Page
+
+Ownership Reports and Trading By Officers, Directors and
+Principal Security Holders, Exchange Act Release No. 28869,
+56 Fed. Reg. 7242 (Feb. 21, 1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 11
+Ownership Reports and Trading by Officers, Directors and
+Principal Security Holders, Exchange Act Release No. 49895,
+69 Fed. Reg. 35982 (June 25, 2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Ownership Reports and Trading by Officers, Directors and Principal
+Security Holders, Exchange Act Release No. 52202,
+70 Fed. Reg. 46080 (Aug. 9, 2005) . . . . . . . . . . . . . . 2, 7, 11, 14, 19, 20, 22-24, 27, 30
+Statutes and Rules
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+Section
+Section
+Section
+Section
+
+16, 15 U.S.C. 78p . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+16(b), 15 U.S.C. 78p(b). . . . . . . . . . . 2-4, 6, 9, 10, 14, 17, 18, 22, 25-32
+21E(b), 15 U.S.C. 78u-5(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+21E(c), 15 U.S.C. 78u-5(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+Rules Under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.
+Rule 16a-1, 17 C.F.R. 240.16a-1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Rule 16a-1(c), 17 C.F.R. 240.16a-1(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 4
+Rule 16a-1(c)(6), 17 C.F.R. 240.16a-1(c)(6) . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 5
+Rule 16b-3, 17 C.F.R. 240.16b-3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Rule 16b-6(a), 17 C.F.R. 240.16b-6(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 5
+Rule 16b-6(b), 17 C.F.R. 240.16b-6(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Rule 16b-7, 17 C.F.R. 240.16b-7 . . . . . . 2, 6-12, 14, 15, 17, 19-25, 27, 28, 30, 32
+Federal Rules of Appellate Procedure
+Rule 35(b)(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Rule 40 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+-v-
+
+TABLE OF AUTHORITIES (CONTINUED)
+Miscellaneous
+
+Page
+
+H.R. Rep. No. 1383, 73d Cong., 2d Sess. 13 (1934) . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Hearings on Stock Exchange Practices before the Senate Committee
+on Banking and Currency, 73d Cong., 1st Sess. pt. 15, 6557 (1934). . . . . . . . . 27, 29
+Memorandum of the Securities and Exchange Commission,
+Amicus Curiae, in Support of Appellees’ Petition for Rehearing
+or Rehearing En Banc, filed in, Levy v. Sterling Holding Co.,
+LLC., 314 F.3d 106 (3d Cir. 2002), cert. denied, 540 U.S. 947 (2003),
+available at www.sec.gov/litigation/briefs/levy-sterling022703.htm. . . . . . . . . . . . 13
+Miranda S. Schiller, SEC Rule 16(b) Amendments: Eliminating
+Uncertainty of “Sterling,” New York Law Journal, Vol. 235
+(Jan. 30, 2006) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+Private Securities Litigation Reform Act of 1995, Pub. L. No. 104-67,
+109 Stat. 737 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+S. Rep. 792, 73d Cong., 2d Sess. 21 (1934) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Securities Exchange Act of 1934, Pub. L. 73-291,
+48 Stat. 881 (June 6, 1934) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Summary of Comments to Proposed Rulemaking, 2005 WL 1923122
+(July 15, 2005) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+-vi-
+
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+____________________________________
+No. 05-5271-cv
+____________________________________
+MARC BRUH,
+Plaintiff - Counter - Defendant - Appellant,
+v.
+BESSEMER VENTURE PARTNERS III L.P.,
+Defendant - Counterclaimant - Appellee,
+VISTACARE, INC.,
+Defendant.
+____________________________________
+On Appeal from the United States District Court
+for the Southern District of New York
+____________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE, SUBMITTED AT THE REQUEST OF THE COURT
+AND IN SUPPORT OF AFFIRMING THE DECISION BELOW
+____________________________________
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+Pursuant to the Court’s order of April 19, 2006, requesting a brief amicus curiae
+from the Securities and Exchange Commission, the Commission submits this brief
+addressing legal issues specified in the order: “(1) whether the parties’ establishment
+
+of a conversion agreement in 1999 constituted a ‘purchase’ within the meaning of
+Section 16(b) of the Securities Exchange Act of 1934, 15 U.S.C. Section 78p(b)
+(Appendix A); (2) whether the conversion of preferred stock into common stock was
+a ‘reclassification’ within the meaning of SEC Rule 16b-7, 17 C.F.R. 240.16b-7; and (3)
+whether recent amendments to Rule 16b-7 are permissibly retroactive.”
+In addition, the Commission addresses two other issues in the case: the
+standards applicable in applying Rule 16b-7 to reclassifications prior to the 2005
+amendments to the Rule, see Ownership Reports and Trading by Officers, Directors and
+Principal Security Holders, Exchange Act Release No. 52202, 70 Fed. Reg. 46080, 46085
+(Aug. 9, 2005), and whether the Commission had the authority to exempt certain
+reclassifications under its statutory exemptive authority. These issues involve a
+challenge to the Commission’s authority to engage in rulemaking, and offer
+constructions of a Commission rule under Section 16(b). They thus implicate matters
+of obvious importance to the Commission regarding the exercise of its rulemaking
+power.
+
+-2-
+
+ARGUMENT
+I.
+
+UNDER RULE 16a-1(c), THE PURCHASE OF VISTACARE
+COMMON STOCK TOOK PLACE ON DECEMBER 17, 2002.
+The district court incorrectly held that the purchase by Bessemer of VistaCare
+
+common stock took place in 1995, far earlier than six months before the sale in 2003,
+and that the transactions thus could not be subject to Section 16(b). As the plaintiff
+argues, under Commission rules, the purchase took place on December 17, 2002,
+when the price at which the common stock was acquired was fixed.
+In 1995, Bessemer acquired preferred stock in VistaCare’s predecessor
+company, Vista Hospice Care, Inc. (“VHS”) (A-19, 30, 37, 46-78, 849, 1505). At that
+time the preferred stock was not convertible to common stock. Thus, the purchase
+of this non-convertible preferred stock in 1995 did not constitute a “purchase” of the
+underlying common stock within the meaning of Section 16(b).
+In 1998 VHS became a wholly owned subsidiary of VistaCare and Bessemer
+acquired non-convertible VistaCare preferred stock (A37-38, 849, 1506). On
+December 23, 1999, VistaCare filed a Restated Certificate of Incorporation (“Restated
+Certificate”) (A173-217) which provided that, upon the closing of an initial public
+offering of VistaCare common stock, the VistaCare preferred stock would
+automatically convert to common stock. The conversion price was to be determined
+
+-3-
+
+by a formula in which one element was the IPO price (A209-10). The IPO price, and
+hence the conversion price, was set at $12.00 per share on December 17, 2002.
+Under the Commission’s rules, the acquisition of “derivative securities” is
+considered to be an acquisition of the underlying securities for purposes of Section
+16(b). See Rule 16a-1(c), 17 C.F.R. 240.16a-1(c); Rule 16b-6(a), 17 C.F.R. 240.16b-6(a)
+(Appendix B). Under Commission Rule 16a-1, 17 C.F.R. 240.16a-1, the term
+“derivative securities” is defined to mean “any option, warrant, convertible security,
+stock appreciation right, or similar right with an exercise or conversion privilege at a
+price related to an equity security, or similar securities with a value derived from the
+value of an equity security * * *.” Rule 16a-1(c) (emphasis added). However, Rule
+16a-1(c)(6) excludes from the definition of derivative securities “rights with an
+exercise or conversion privilege at a price that is not fixed.” 17 C.F.R. 240.16a-1(c)(6)
+(Appendix C). Thus, the parties establishment of convertible preferred stock in 1999
+was not a purchase of the underlying common stock within the meaning of Section 16
+because the convertible preferred did not satisfy the definition of “derivative security”
+at the time. Rather, the preferred stock became a derivative security, and the
+underlying common stock was deemed to be acquired, when the conversion price was
+fixed on December 17, 2002.
+
+-4-
+
+Defendant Bessemer argues that “[t]he reclassification’s sole effect on
+Bessemer’s holdings was to change its preferred stock into an equivalent value of
+common stock” (Appellee’s Br. at 6). By this the defendant means an equivalent
+aggregate value. This does not mean that a fixed price “derivative security” was
+established before December 17, 2002. Indeed, the defendant acknowledges that to
+maintain this equivalent aggregate value, the number of common shares receivable by
+Bessemer would decline proportionately to a common stock price increase. The per
+share price of common stock thus would fluctuate along with the IPO price, 1/
+consistent with a floating price rather than a fixed price derivative security. 2/ The
+December 17, 2002 purchase of VistaCare stock by Bessemer would, if not exempted,
+be matchable with Bessemer’s sale of VistaCare common stock within six months
+during a secondary offering of VistaCare common stock on May 13, 2003. 3/
+
+1/
+
+As the IPO price rose, so would the price per share of common stock received
+in the conversion. The aggregate price of all common shares received would be
+kept stable by reducing the number of shares received.
+
+2/
+
+The Commission explained the intent of Rule 16a-1(c)(6) as follows, “The
+definition [of ‘derivative security’] has been clarified to exclude securities
+without a fixed exercise price. Rights without a fixed exercise price do not
+provide an insider the same kind of opportunity for short-swing profit since the
+purchase price is not known in advance.” Ownership Reports and Trading by
+Officers, Directors and Principal Security Holders, Exchange Act Release No. 28869,
+56 Fed. Reg. 7242, 7252 (Feb. 21, 1991).
+
+3/
+
+The Rule 16b-6(a) provision exempting the fixing of the exercise price of a
+right initially issued without a fixed price, where the date the price is fixed is not
+(continued...)
+-5-
+
+That the purchase and sale of the common stock took place within six months
+does not necessarily mean that Section 16(b) liability ensues. The defendant may be
+correct that, given the nature of the reclassification, there was no meaningful
+opportunity for it to engage in insider trading. That, however, does not mean the
+purchase did not take place. The analysis must focus on whether an exemption for
+the purchase was available; specifically in this case the exemption for certain
+reclassifications under Rule 16b-7. Since the district court incorrectly dismissed this
+case on the basis of the timing of the common stock purchase, it did not consider that
+exemption.
+II.
+
+BESSEMER’S COMMON STOCK ACQUISITION CAME ABOUT IN
+A RECLASSIFICATION THAT WAS EXEMPT FROM SECTION
+16(b), UNDER BOTH PRE - 2005 AMENDMENT AND POST - 2005
+AMENDMENT RULE 16b-7.
+Bessemer contends that the reclassification by which it received VistaCare
+
+common stock was an exempt reclassification pursuant to Commission Rule 16b-7
+(Appellee’s Br. at 21-24). The plaintiff first contends (Appellant’s Br. 9) that the
+conversion of Bessemer’s preferred stock to common stock was not, under Delaware
+law, a reclassification at all, and thus is not eligible for Rule 16b-7. Plaintiff argues
+3/(...continued)
+known in advance and is outside the control of the recipient, is available only
+with respect to an offsetting transaction within the six months prior to the date
+the price is fixed. This exemption is not available here where the offsetting
+transaction occurred within the six months after the date the price was fixed.
+-6-
+
+that Delaware law required the conversion to be approved by shareholders. The
+application of Rule 16b-7, however, does not turn on application of state law criteria,
+but on the exemptive conditions of the rule. The Commission declined to adopt a
+specific definition of the term “reclassification” for purposes of Rule 16b-7 “[i]n order
+to preserve flexibility to apply the rule appropriately to evolving forms of
+transactions,” but explained:
+[T]ransactions that are exempt as reclassifications generally include transactions
+in which the terms of the entire class or series are changed, or securities of the
+entire class or series are replaced with securities of a different class or series of
+securities of the company, and all holders of the reclassified class or series are
+entitled to receive the same form and amount of consideration per share.
+Ownership Reports, 70 Fed. Reg. at 46085. Those standards are met in this case. The
+conversion of VistaCare securities was a classic reclassification. It encompassed the
+simple exchange of one entire series of stock, VistaCare preferred stock, for another
+series of stock, VistaCare common stock, under circumstances where the holders of
+the preferred stock received the same form and amount of consideration per share.
+As such, the fixing of the price on December 17, and the related conversion on
+December 23, constituted a reclassification for purposes of the federal securities
+laws. 4/
+4/
+
+Both the December 17 fixing of the conversion price and the December 23
+conversion of preferred into common are eligible for the Rule 16b-7
+exemption, since they were both steps in the reclassification. While the
+December 17 fixing of the conversion price is not eligible for an exemption
+(continued...)
+-7-
+
+The plaintiff next contends that, if the common stock was acquired in a
+reclassification, whether it is exempt under Rule 16b-7 should be judged under the
+pre-2005 amendment version of the rule, on the ground that the 2005 amendment
+cannot be applied to a transaction that occurred in 2002. The standards under the
+pre-amendment version, plaintiff argues, are those in the Third Circuit’s decision in
+Levy v. Sterling Holding Co., 314 F.3d 106 (3d Cir. 2002) (Appellant’s Br. at 54-56;
+Appellant’s Reply Br. at 13-17).
+The Commission disagrees with all the plaintiff’s contentions. First, it believes
+that the 2005 amendment merely clarified the existing standards under the rule, and
+can be applied to conduct occurring before its adoption. Second, even if the
+amendment does not apply, the Commission believes that the Levy decision was
+incorrect, and should not be adopted by this Court. Finally, it believes that even the
+Third Circuit, which took the position it took in Levy only in light of what it believed
+to be the absence of clear guidance from the Commission, would construe the preamendment version of Rule 16b-7 differently, now that the Commission resolved any
+doubt as to the meaning and interpretation of the rule.
+
+4/(...continued)
+under any other Commission rule, the December 23 conversion of preferred
+into common is also eligible for exemption under Rule 16b-6(b) (exempting the
+exercise or conversion of a fixed price derivative security that is not out of the
+money).
+-8-
+
+Before addressing these issues, we review the history of the treatment of
+reclassifications under Section 16(b).
+A.
+
+The History of the Exemption of Reclassifications from
+Section 16(b).
+
+Even before there were any Commission statements or rules regarding
+reclassifications under Section 16(b), this Court regularly exempted reclassifications
+under the “unorthodox transaction” doctrine, a court-developed doctrine which
+exempts transactions not considered to present the risk of insider trading at which
+Section 16(b) is directed. See, e.g., Roberts v. Eaton, 212 F.2d 82 (2d Cir. 1954); Hayes v.
+Sampson, [1980 Transfer Binder] Fed. Sec. L. Rep. (CCH) ¶97,693, 1980 WL 1460
+(S.D.N.Y. Nov. 18, 1980); Rothenberg v. United Brands Co., [1977 Transfer Binder] Fed.
+Sec. L. Rep. (CCH) ¶96,045, 1977 WL 1014 (S.D.N.Y. May 11, 1977), aff’d, 573 F.2d
+1295 (2d Cir. 1977). See also Blau v. Lamb, 363 F.2d 507 (2d Cir. 1966). In endorsing
+the unorthodox transaction doctrine in 1973, the Supreme Court noted that “[t]he
+term [‘unorthodox transaction’], has been applied to stock conversions, exchanges
+pursuant to mergers and other corporate reorganizations, stock reclassifications, and
+dealings in options, rights, and warrants.” Kern County Land Co. v. Occidental Petroleum
+Corp., 411 U.S. 582, 593 n.24 (1973)(emphasis added). 5/
+5/
+
+The defendant alternatively argues that the reclassification here is exempt under
+the unorthodox transaction doctrine. The Commission takes no position on
+this contention, in light of an exemptive rule that specifcally addresses and
+(continued...)
+-9-
+
+Rule 16b-7 was first adopted effective June 9, 1952. See Exemption of Certain
+Transactions from Section 16b, Exchange Act Release No. 4717, 17 Fed. Reg. 5501 (June
+19, 1952, as corrected July 18, 1952 at 17 Fed. Reg. 6579). In the proposing release,
+the Commission noted that certain transactions are of relatively minor significance to
+shareholders, do not present significant opportunities to insiders to profit by advance
+information, and do not significantly alter economically the insider’s previous
+investment. Exemption of Certain Transactions from Section 16(b), Exchange Act Release
+No. 4696, 17 Fed. Reg. 3177 (April 10, 1952). The proposing release stated that “the
+essential determination is whether the enterprise is materially different in character
+from what it was prior to the merger or consolidation.” Id. See also Exemption of
+Certain Transactions from Section 16b, Exchange Act Release No. 4717, 17 Fed. Reg. 5501
+(June 19, 1952) (in adopting the rule the Commission similarly stated that “[t]he
+exemption is granted whenever a merger or consolidation does not result in any
+significant change in the character or structure of the company.”)
+As originally adopted, Rule 16b-7 applied to mergers and consolidations, 6/ but
+5/(...continued)
+exempts the transaction. It also notes that the Court has recently reaffirmed
+that in this Court the doctrine only applies to insiders who have no access to
+inside information. See At Home Corp. v. Cox Communications, Inc., __ F.3d __,
+2006 WL 1148512, at *4 (2d Cir. Apr. 28, 2005).
+6/
+
+As the Commission explained last year, the rule is typically relied on where a
+company reincorporates in a different state or reorganizes its corporate
+(continued...)
+-10-
+
+did not specifically explicitly address reclassifications. In a 1981 interpretive release,
+the staff stated that “Rule 16b-7 does not require that the security received in
+exchange be similar to that surrendered, and the rule can apply to transactions
+involving reclassifications.” Interpretive Release on Rules Applicable to Insider Reporting and
+Trading, Exchange Act Release No. 18114, 1981 WL 31301, at *57 (Sept. 24, 1981).
+In 1991, the Commission amended the title of Rule 16b-7 to include
+"reclassifications" along with mergers and consolidations. See Ownership Reports and
+Trading By Officers, Directors and Principal Security Holders, Exchange Act Release No.
+28869, 56 Fed. Reg. 7242, 7273 (Feb. 21, 1991).7/ The 1991 adopting release
+indicates that the change was not intended to effect any “substantive” changes to the
+rule, and reaffirmed the staff’s 1981 view that the rule applies to reclassifications. Id.
+at 7261-62.
+
+While reclassifications were listed in the title of the rule in 1991, the text of the
+rule before 2005 only referred to mergers and consolidations. 8/ Thus, the rule did
+
+6/(...continued)
+structure. See Ownership Reports, 70 Fed. Reg. at 46084.
+7/
+
+In 2002, the Commission reiterated the view that Rule 16b-7 exempts
+reclassifications. See Form 8-K Disclosure of Certain Management Transactions,
+Exchange Act Release No. 45742, 67 Fed. Reg. 19914, 19919 (Apr. 23, 2002).
+
+8/
+
+Rule 16b-7, as it existed before the 2005 amendment, is reprinted in Appendix
+(continued...)
+-11-
+
+not explicitly address whether the standards imposed on mergers and consolidations
+also applied to reclassifications. The issue of what standards to apply to
+reclassifications arose in the Third Circuit case Levy v. Sterling Holding Co., 314 F.3d at
+117. The Third Circuit held that because the rule itself did not, in its view, contain
+standards for reclassifications, the court had to determine what the Commission
+intended when it adopted the rule. Instead of applying the standards applied to
+mergers and consolidations, the Levy court construed Rule 16b-7 not to exempt an
+acquisition where a reclassification (a) results in the insiders owning equity securities
+(common stock) with different risk characteristics from the securities extinguished in
+the transaction (preferred stock), where the preferred stock previously had not been
+convertible into common stock, and (b) involves an increase in the percentage of the
+insiders’ pre-existing common stock ownership because the reclassification
+extinguished the insiders’ preferred stock in exchange for common stock. Id. at 116117.
+
+8/(...continued)
+D. Amended Rule 16b-7 is reprinted in Appendix E.
+-12-
+
+The Commission was unaware of the Levy case before the Third Circuit panel’s
+decision, but afterward filed an amicus brief in support of defendant’s petition for
+rehearing and rehearing en banc. See Memorandum of the Securities and Exchange
+Commission, Amicus Curiae, in Support of Appellees’ Petition for Rehearing or Rehearing En
+Banc, at *4, filed in, Levy v. Sterling Holding Co., LLC., 314 F.3d 106 (3d Cir. 2002), cert.
+denied, 540 U.S. 947 (2003), available at www.sec.gov/litigation/briefs/levysterling022703.htm. (“Levy Amicus Brief”). In that brief, the Commission noted that
+the court’s restrictions were not found anywhere in the language of the rule. Levy
+Amicus Brief, Id. at 9. The Commission stated that it would be inappropriate to
+impose upon reclassifications conditions that would not apply to mergers. Id. at 12.
+This is precisely what the panel did in Levy by requiring substantial similarity between
+the securities received and those surrendered in the reclassification. The Commission
+argued that the panel’s decision misapplies and misconstrues the rule and is
+inconsistent with prior Commission statements on the subject (a fuller summary of
+the argument is contained below). Id.
+The Third Circuit, without comment, denied the petition for rehearing. 9/ The
+panel’s decision unsettled what had been a settled view of the law. One author stated
+
+9/
+
+Although the plaintiff characterizes the decision as a rejection of the
+Commission’s views, it may merely have reflected the view that the case did not
+merit rehearing or rehearing en banc under the standards in Fed. R. App. P.
+35(b)(1)and Fed. R. App. P. 40.
+-13-
+
+that “[t]he [Levy] decision had the effect of exposing insiders to §16(b) liability in just
+about any reclassification transaction that was followed by a §16(b) purchase or sale
+within six months, including acquisitions of securities that arguably are involuntary.”
+Miranda S. Schiller, SEC Rule 16(b) Amendments: Eliminating Uncertainty of “Sterling,”
+New York Law Journal, Vol. 235 (Jan. 30, 2006).
+To address the confusion engendered by the decision, the Commission in
+August 2005 amended Rule 16b-7. See Ownership Reports, 70 Fed. Reg. 46080.
+Among the commenters supporting the proposal, there was a general consensus that
+this rulemaking was necessary to eliminate the uncertainty generated by the Third
+Circuit's construction of the rules in Levy. The American Bar Association commented
+that the Levy decision had made it difficult for insiders wishing to "engage in legitimate
+transactions in reliance on prior Commission interpretations of these two rules." 10/
+As noted, in adopting the amendments, the Commission agreed that after Levy “[t]he
+resulting uncertainty regarding the exemptive scope of these rules [i.e.,
+
+10/
+
+Comment letters to that effect include those from the American Bar
+Association, the Securities Industry Association, the New York State Bar
+Association, the American Society of Corporate Secretaries, and seven law
+firms (out of ten firms that commented). See Summary of Comments to Proposed
+Rulemaking, 2005 WL 1923122 at *1 n.7 (July 15, 2005). The other three law
+firms, all of whom represent plaintiffs in Section 16(b) actions (including the
+plaintiff’s lawyers in this case), argued that Levy set forth the correct reading of
+the rule so that no amendment was needed. Id. at *2 n.25.
+-14-
+
+both Rules 16b-3 and 16b-7] has made it difficult for issuers and insiders to plan
+legitimate transactions * * * .” Ownership Reports, 70 Fed. Reg. at 46081. 11/
+The adopting release thus makes it clear that the amendment makes no
+substantive change to the law, but is only intended to clarify the existing meaning of
+the Rule, and to dispel the uncertainty caused by the Levy decision. The amendment
+to Rule 16b-7 added the word “reclassification” to the phrase “merger or
+consolidation” wherever it appears in the text of the rule, explicitly making clear what
+had been implicit before - - that reclassifications are exempt under the same standards
+as mergers and consolidations. 12/
+B.
+
+The Commission’s 2005 Amendment to Rule 16b-7 Merely
+Clarified Existing Law, and Thus Is Properly Applicable to
+Conduct Occurring Prior to Adoption of the Amendment.
+
+The plaintiff argues that the 2005 amendment to Rule 16b-7 cannot be applied
+here because that would be an impermissible retroactive application (Appellant’s Br. at
+40-45l; Appellant’s Reply Br. at 16-21). While an agency may not promulgate
+“retroactive” rules absent express congressional authority, see Bowen v. Georgetown
+
+11/
+
+Rule 16b-3, 17 C.F.R. 240.16b-3, exempts certain transactions between an
+officer or director and the issuer. It is not claimed here because the rule’s
+requirements were not met.
+
+12/
+
+In addition, the Commission added new subpart (c) to Rule 16b-7 which makes
+it clear that the exemption “is not conditioned on the transaction satisfying any
+other conditions” than those in the rule. (Former subpart (c) was redesignated
+as subpart (d)).
+-15-
+
+University Hospital, 488 U.S. 204, 208 (1988), “‘[c]oncerns about retroactive application
+are not implicated when an amendment that takes effect after the initiation of a
+lawsuit is deemed to clarify relevant law rather than effect a substantive change in the
+law.’” King v. American Airlines, Inc., 284 F.3d 352, 358 n.3 (2d Cir. 2002) (quoting
+Piamba Cortes v. American Airlines, Inc., 177 F.3d 1272, 1283 (11 th Cir. 1999)). “A rule
+simply clarifying an unsettled or confusing area of the law * * * does not change the
+law, but restates what the law according to the agency is and has always been: ‘It is no
+more retroactive in its operation than is a judicial determination construing and
+applying a statute to a case in hand.’” Pope v. Shalala, 998 F.2d 473, 483 (7 th Cir.
+1993)(emphasis added), overruled on other grounds, Johnson v. Apfel, 189 F.3d 561 (7 th Cir.
+1999) (quoting Manhattan General Equip. Co. v. Commissioner, 297 U.S. 129, 135 (1936)).
+Accord Taylor v. Vt. Dept. of Educ., 313 F.3d 768, 780 n.8 (2d Cir. 2002) (finding an
+amended rule to be clarifying); Heimmermann v. First Union Mortgage Corp., 305 F.3d
+1257, 1260 (11 th Cir. 2002) (quoting Pope v. Shalala, supra, and Manhattan General Equip.
+v. Commissioner, supra). Clarifying rules are necessary “‘to clarify existing law, to correct
+a misinterpretation, or to overrule wrongly decided cases.’” Piamba Cortes v. American
+Airlines, Inc., 177 F.3d at 1283 (quoting United States v. Sepulveda, 115 F.3d 882, 885 n.5
+(11 th Cir. 1997)). 13/
+
+13/
+
+Plaintiff contends that the appropriate analysis for the court to use when
+determining whether the amended rule may be applied to past conduct is that
+(continued...)
+-16-
+
+The 2005 amendment merely clarified the meaning of Rule 16b-7 as it existed,
+and thus is not a legislative rule. While the plaintiff contends that the amendment
+“overturned” the Third Circuit’s opinion as to the meaning of the rule in Levy, that
+decision was never a conclusive determination of what Rule 16b-7 required. The Levy
+court stated that it was only articulating standards under the rule because, in its view,
+the Commission had not made clear what standards were to be applied in exempting
+reclassifications. It stated that “[i]n this case, however, the SEC has not set forth its
+interpretation clearly so our threshold challenge is to ascertain what in fact was its
+interpretation.” 314 F.3d at 112. The court went on to state that “[i]n the absence of
+specific SEC guidance about which reclassifications are exempt from section 16(b)
+under Rule 16b-7" it would reach its own conclusion as to standards the Commission
+
+13/(...continued)
+found in Landgraf v. USI Film Products, 511 U.S. 244 (1994). The Seventh Circuit
+properly rejected the same argument, holding that Landgraf “deals with
+legislative rulemakings, not clarifying amendments. Landgraf simply reaffirmed
+the ban on retroactive application of legislative rules. * * * Landgraf in no way
+undercuts [the holding in Pope v. Shalala, 998 F.3d at 483] that we defer to an
+agency’s clarifying/legislative classification, and that clarifying amendments may
+have retroactive effect.” First National Bank of Chicago v. Standard Bank & Trust,
+172 F.3d 472, 478 n.7 (7th Cir. 1999). Unlike clarifying rule amendments,
+“legislative rules are those that ‘create new law, rights, or duties, in what
+amounts to a legislative act.’” Sweet v. Sheahan, 235 F.3d 80, 91 (2d. Cir. 2000)
+(quoting White v. Shalala, 7 F.3d 296, 303 (2d Cir. 1993)).
+-17-
+
+would apply. Id. at 114. The court did not suggest that it would or could undertake
+this analysis if the Commission itself clarified the rule. 14/
+The situation is very different now. In 2005 the Commission provided its
+specific interpretation clarifying the standards to be applied to reclassifications. The
+clarification, applying the same standards as are applied to mergers and consolidations,
+is hardly a new standard in a rule that since 1991 has expressly dealt with all three
+types of transactions.
+Having clarified this area, the Commission’s interpretation supplants the
+interpretation offered by the Levy court. This is so even though the Levy decision
+came first. Even in matters of statutory interpretation under Chevron, U.S.A., Inc. v.
+National Resources Defense Council, Inc., 467 U.S. 837 (1984), the Supreme Court has held
+that “[a] court’s prior judicial construction of a statute trumps an agency construction
+otherwise entitled to Chevron deference only if the prior court decision holds that its construction
+follows from the unambiguous terms of the statute and thus leaves no room for agency discretion.”
+National Cable & Telecommunications Association v. Brand X Internet Services, 125 S.Ct. 2688,
+
+14/
+
+The court noted that “section 16(b) explicitly authorizes the SEC to exempt
+‘any transaction * * * as not comprehended within the purpose of’ the statute.’”
+Levy, 314 F.3d at 112. It then emphasized that “[t]his section is critical for
+courts defer to an agency’s interpretation of statutes, particularly where the
+statute provides the agency with authority to make the interpretation.” Id.
+-18-
+
+2700, __ U.S. __, (2005)(emphasis added). The same certainly holds true for an
+agency’s interpretation of its own rule, even in the face of a prior judicial decision. 15/
+The adopting release for the 2005 amendments repeatedly states that the
+Commission was only supplying a clarifying interpretation of an existing rule. It
+further stated that since the amendment to Rule 16b-7 “clarifies regulatory conditions
+that applied to that exemption since it was amended effective May 1, 1991, it is
+available to any transaction on or after May 1, 1991 that satisfies the regulatory
+conditions so clarified.” Ownership Reports, 70 Fed. Reg. 46080.
+As the Commission explained, it was acting to dispel confusion as to the
+appropriate standards for reclassification. The Commission noted that after Levy,
+“[t]he resulting uncertainty regarding the exemptive scope of [Rule 16b-7] has made it
+difficult for issuers and insiders to plan legitimate transactions * * *. With the
+clarifying amendments to [Rule 16b-7] that we adopt today, we resolve any doubt as
+to the meaning and interpretation of [the rule] by reaffirming the views we have
+consistently expressed previously regarding [its] appropriate construction.” Ownership
+Reports, 70 Fed. Reg. at 46081. Resolving doubt and confusion as to what existing law
+
+15/
+
+The plaintiff argues that only the view of the Commission that added
+reclassifications to the rule matters, and that the views of the 2005 Commission
+do not. Thus, it argues that the Third Circuit’s view of what the 1991
+Commission meant is significant, while the current Commission’s view is not.
+But a properly constituted Commission always has authority to construe the
+meaning of a Commission rule.
+-19-
+
+provides is the sine qua non of a clarifying amendment. The Commission’s view as to
+what it believed it was doing by the amendment, a view supported by the weight of
+comment on the proposed rule, is highly significant. See Taylor v. Vt. Dept. of Educ.,
+313 F.3d at 780 n.8.
+A law is impermissibly retroactive only where it establishes new standards of
+conduct. “In the administrative context, a rule is [impermissibly] retroactive if it
+“takes away or impairs vested rights acquired under existing law, or creates a new
+obligation, imposes a new duty, or attaches a new disability in respect to transactions
+or considerations already past.’’” National Mining Association v. Department of Labor, 292
+F.3d 849, 859 (D.C. Cir. 2002) (quoting National Mining Association v. Department of
+Interior, 177 F.3d 1, 8 (D.C. Cir. 1999) (quoting Association of Accredited Cosmetology Schools
+v. Alexander, 979 F.2d 859, 864 (D.C. Cir. 1992))). The 2005 amendment did nothing
+like this. Instead, it is consistent with prior Commission statements about Rule 16b-7.
+It is not inconsistent with decisions in this Court. And it is not even inconsistent with
+Levy, which, as noted, only adopted standards in what the court of appeals viewed was
+the absence of Commission clarification.
+
+-20-
+
+C.
+
+Rule 16b-7, Prior to the 2005 Amendment, Implicitly
+Exempted Reclassifications Under the Same Conditions
+Applicable to Mergers and Consolidations, the Same
+Standard Made Explicit in the Amendment, and
+Exempted the Reclassification Here.
+
+Even if the 2005 amendment is not properly applied here, the pre-2005
+amendment already exempted reclassifications under the same conditions applicable
+to mergers and consolidations. The standards applied in Levy should be rejected for
+the reasons set forth in the Commission’s amicus brief filed in Levy. Levy Amicus Brief at
+9-15.
+In its amicus brief, the Commission noted that the test applied by the panel in
+Levy nullified the Rule 16b-7 exemption for all but a few reclassifications, since almost
+all reclassifications have at least one, and usually both, of the characteristics that the
+court held to be disqualifying. Id. at 9. Indeed, if the original security and the security
+for which it is being exchanged were precisely the same, there typically would be little
+need for a reclassification at all. Id.
+The Commission noted that the Levy test would never exempt preferred-forcommon reclassifications, since the court viewed preferred stock and common stock
+as having substantially different risk characteristics because one enjoyed a fixed
+dividend and the other did not. Id. at 14. Excluding all such transactions could hardly
+have been the Commission’s intent in explicitly adding reclassifications to the Rule.
+The Commission also noted that if this were a relevant distinction for reclassifications,
+-21-
+
+the same would be true for mergers and consolidations. A merger, after all, involves
+the exchange of securities of one company for those of another, and the exchange
+could readily involve a swap of preferred stock for common stock. Id. at 13. Yet
+nothing in the rule excludes such a merger from exemption under the rule. To
+interpret Rule 16b-7 to require the securities received by an insider to have the same
+risk characteristics as those exchanged is contrary to the language of the rule and
+introduces elements of subjectivity that would make it difficult to plan transactions in
+reliance on the exemption. Id. at 14-15.
+The Commission also noted that it and the Commission staff have long
+interpreted Rule 16b-7 as exempting reclassifications where these transactions only act
+to change the form of an insider’s investment, affect an entire class or series of
+securities, and do not present significant opportunities for the abuse of inside
+information. Id. at 11-12. See Ownership Reports, 70 Fed. Reg. at 46084.
+Although before the 2005 amendment the rule’s text did not contain a specific
+reference to reclassifications (even though the title did), the Commission noted in its
+Levy amicus brief that the standards for mergers and consolidations had been applied to
+reclassifications. Id. at 11-12. In general terms, the rule provided that the acquisition
+of a security pursuant to a merger or consolidation is not subject to Section 16(b) if
+the security being relinquished is in a company that, prior to the merger or
+consolidation, owned 85% of either the stock or assets of all of the other companies
+-22-
+
+party to the merger and consolidation. In relevant respects a reclassification is little
+different from a merger exempted by Rule 16b-7. In both cases, all stock in a class is
+exchanged on terms that have been approved by the board and/or shareholders. The
+exchange occurs on a class-wide basis. In the case of a merger subject to the rule, the
+combining companies were already 85% cross-owned, so that the combination effects
+no major change in the acquiring company’s business. In a reclassification, the issuing
+company remains identical – there is no change in the business. Indeed, the
+similarities between the two can be readily seen by the fact that a reclassification could
+also be effected by the issuer creating a new shell company, capitalizing it, merging the
+old company into the new, and then exchanging stock in the old company for stock in
+the new. Id. at 12. See also Ownership Reports, 70 Fed. Reg. at 46084. Applying the
+same standards to reclassifications provides the same protection against improper
+insider trading.
+This Court has repeatedly held that it is “‘bound by the SEC’s interpretations of
+its regulations * * * , unless they are ‘plainly erroneous or inconsistent with the
+regulation[s].’” DeMaria v. Andersen, 318 F.3d 170, 175 (2d Cir. 2003) and Levy v.
+Southbrook International Investments, Ltd., 263 F.3d 10, 14 (2d Cir. 2001)(both cases quoting
+Press v. Quick & Reilly, Inc., 218 F.3d 121, 128 (2d Cir. 2000)) (referring to Commission
+interpretations found in amicus briefs). In Bowles v. Seminole Rock & Sand Co., 325 U.S.
+410, 414 (1945), the Supreme Court first established the principle that an agency’s
+-23-
+
+interpretation of one of its own regulations commands substantial judicial deference
+such that the agency’s interpretation “becomes of controlling weight unless it is plainly
+erroneous or inconsistent with the regulation.” See also Auer v. Robbins, 519 U.S. 452,
+461 (1997) (holding that an agency’s interpretation of a regulation presented in an
+amicus brief was entitled to controlling deference). As this Court explained:
+[W]e recognized that an agency’s interpretation of its own regulations is
+entitled to considerable deference, irrespective of the formality of the
+procedures used in formulating the interpretation. See Taylor v. Vt. Dept.
+of Educ., 313 F.3d 768, 779-80 (2d Cir. 2002) (citing Auer v. Robbins, [supra,
+at 461]); LaFleur v. Whitman, 300 F.3d 256, 277 (2d Cir. 2002)). We defer
+to an agency’s interpretation of its own regulations because we ‘presume
+that the power authoritatively to interpret [the agency’s] own regulations
+is a component of the agency’s delegated lawmaking powers.’ Martin v.
+Occupational Safety & Health Rev. Com’n., 499 U.S. 144, 151 [] (1991).
+Encarnacion ex rel. George v. Barnhart, 331 F.3d 78, 86 (2d Cir. 2003).
+The Commission has numerous times articulated the interpretation of Rule
+16b-7 that is articulated above, including before the December 2002 acquisition
+involved here. See supra, at 9-10. In addition to arguments made in the amicus brief
+filed in Levy and in this amicus brief, the Commission construed former Rule 16b-7 as
+applying to reclassifications meeting the same standards as mergers and consolidations
+in its releases proposing and adopting the 2005 amendments, see Ownership Reports and
+Trading by Officers, Directors and Principal Security Holders, Exchange Act Release No.
+49895, 69 Fed. Reg. 35982 (June 25, 2004); Ownership Reports, 70 Fed. Reg. 46080.
+Thus, even if the court will not apply the 2005 amendment to prior conduct, it should
+-24-
+
+give binding deference to the Commission’s views in releases as to what the preamendment law was, as well as to this amicus brief and the Commission’s other
+statements on the matter. 16/
+III.
+
+THE COMMISSION’S EXEMPTION OF RECLASSIFICATIONS IN
+RULE 16b-7 WAS WITHIN ITS STATUTORY EXEMPTIVE
+AUTHORITY.
+The plaintiff argues that the exemption of reclassifications in Rule 16b-7 is
+
+beyond the Commission’s exemptive authority in Section 16(b) (Appellant’s Br. at 5256; Appellant’s Reply at 16-22). Section 16(b) grants the Commission the authority to
+exempt from the provision “any transaction or transactions which the Commission by
+rules and regulations may exempt as not comprehended within the purpose of this
+subsection.”
+
+16/
+
+In addition to the exemption granted under Rule 16b-7, defendant argues that
+its purchase was also exempt under the unorthodox transaction doctrine. In
+making this argument defendant contends that it only had access to forwardlooking information, and that such information is never material. Although
+appropriate cautionary language may insulate an issuer from liability for
+forward looking statements, see, e.g., P. Stolz Family Partnership L.P. v. Daum, 355
+F.3d 92, 96-97 (2d Cir. 2004); Halperin v. eBanker USA.com, Inc., 295 F.3d 352,
+357, 360 (2d Cir. 2002), there is no basis to conclude that forward-looking
+information cannot be material. See, e. g., Semerenko v. Cendant Corp., 223 F.3d
+165, 182 (3d Cir. 2000). See also Private Securities Litigation Reform Act of 1995,
+Pub. L. No. 104-67, 109 Stat. 737, codified at, Section 21E(b) of the Securities
+and Exchange Act of 1934, 15 U.S.C. 78u-5(b) (excluding some forward
+looking statements from the safe harbor provided by the Act for forward
+looking statements) and Section 21E(c), 15 U.S.C. 78u-5(c) (distinguishing
+between material and immaterial forward-looking statements for purposes of
+liability).
+-25-
+
+The plaintiff first argues that because reclassifications are a form of “purchase,”
+and Section 16(b) applies to “any” purchase, reclassifications cannot be exempt. He
+contends that “[i]f Congress had intended to exempt all reclassifications they were
+quite capable of accomplishing that goal by inserting such an exemption into the
+statutory text of Section 16(b)” (Appellant’s Br. at 54). Having not done so, he argues
+“the SEC is not free to do so on its own” (Appellant’s Brief at 55).
+This argument is almost too frivolous to merit a response. That the Congress
+did not exempt reclassifications in the statute itself is meaningless. As adopted, the
+statute provided virtually no exemptions in the statute itself. 17/ Instead it delegated
+to the Commission the authority to exempt transactions it believed were “not
+comprehended within the purpose” of the statute. If an exemption had to be in the
+statute to be valid, it would render the exemptive authority that Congress vested in the
+Commission meaningless.
+Plaintiff likewise argues that “Section 16(b) specifically limits the SEC’s
+exemptive authority to transactions outside the scope of the statute” (Appellant’s Br.
+56). This too makes no sense. If a transaction is outside the “scope” of Section 16(b),
+there would be no need to exempt it from the statute by rule. Nor is this the language
+
+17/
+
+As originally enacted, the only exemption specified in the statute was for a
+transaction where “such security was acquired in good faith in connection with
+a debt previously contracted.” Securities Exchange Act of 1934, Pub. L. 73-291, 48
+Stat. 881 (June 6, 1934).
+-26-
+
+that Congress “specifically” used. The actual language Congress used was that the
+Commission must determine that the transaction is “not comprehended within the
+purpose of this subsection” (emphasis added). In applying Rule 16b-7 to
+reclassifications, the Commission carefully explained why this exemption is consistent
+with the purpose of Section 16(b). See Ownership Reports, 70 Fed. Reg. at 46083-85.
+The Supreme Court has stated that Congress’ concern when it enacted Section
+16(b) was that corporate “[i]nsiders could exploit information not generally available
+to others to secure quick profits,” Kern County Land Co. v. Occidental Petroleum Corp., 411
+U.S. 582, 591-92 (1973), and that “‘the only method Congress deemed effective to
+curb the evils of insider trading was a flat rule taking the profits out of a class of transactions
+in which the possibility of abuse was believed to be intolerably great,” id. at 592 (quoting Reliance
+Electric Co. v. Emerson Electric Co., 404 U.S. 418, 422 (1972)) (emphasis added). Accord,
+Gollust v. Mendell, 501 U.S. 115, 121 (1991), quoting Foremost-McKesson, Inc. v. Provident
+Securities Co., 423 U.S. 232, 243 (1976). Thus, in enacting Section 16(b), Congress did
+not dictate that all risk of insider trading be eliminated, only that an “intolerably great”
+risk be eliminated.
+The six-month rule was described by its drafters as a “crude rule of thumb.”
+Hearings on Stock Exchange Practices before the Senate Committee on Banking and Currency, 73d
+Cong., 1st Sess. pt. 15, 6557 (1934) (testimony of Thomas Corcoran as spokesman for
+
+-27-
+
+the drafters of the Exchange Act). As the Commission explained in 1952 when it first
+proposed Rule 16b-7, a six-month period was chosen because:
+Short swing speculation is deemed to involve incentives and
+opportunities to profit improperly to a degree not present in connection
+with the long term investment and changes in investment position. The
+arbitrary period of six months was selected as roughly marking the
+distinction between short swing speculation and long term investment.
+Notice of Proposal to Adopt a Rule Exempting from the Operation of Section 16(b) Certain
+Acquisitions and Dispositions of Securities Pursuant to Mergers or Consolidations, Exchange Act
+Release No. 4696, 17 Fed. Reg. 3177 (April 10, 1952).
+Because Section 16(b) can be harsh in imposing liability without fault,
+“Congress itself limited carefully the liability imposed by §16(b).” Foremost-McKesson,
+Inc., 423 U.S. at 252 (quoting Bershad v. McDonough, 428 F.2d 696 (7 th Cir. 1970)). See also
+Gollust v. Mendell, 501 U.S. 115, 122 (1991); Reliance Electric Co. v. Emerson Electric Co.,
+404 U.S. at 422-23. “Even an insider may trade freely without incurring the statutory
+liability if, for example, he spaces his transactions at intervals greater than six
+months.” Foremost-McKesson, Inc. v. Provident Securities Co., 423 U.S. at 252.
+Beyond that, the Supreme Court has cautioned that “[w]hen Congress has so
+recognized the need to limit carefully the ‘arbitrary and sweeping coverage’ of §16(b)
+* * * courts should not be quick to determine that * * * Congress intended the
+section to cover a particular transaction.” Foremost-McKesson, Inc. v. Provident Securities
+
+-28-
+
+Co., 423 U.S. at 252. See also Gollust v. Mendell, 501 U.S. at 122; H.R. Rep. No. 1383,
+73d Cong., 2d Sess. 13 (1934).
+In adopting Section 16(b), Congress made it clear that “[t]he expressed purpose
+of [Section 16(b)] is to prevent the unfair use of inside information. The Commission
+may exempt transactions not falling within this purpose.” See S. Rep. 792, 73d Cong.,
+2d Sess. 21 (1934). More specifically, in light of the principles articulated above, it is
+consistent with that purpose to exempt transactions that, while involving purchases
+and sales within six months, have other characteristics that make the transactions
+unlikely vehicles for the misuse of inside information. Since Congress intended to
+remove the profit from transactions that posed an “intolerably great” opportunity for
+insider trading, it makes no sense to argue that the only permissible exemption would
+be limited to transactions that eliminate all possibility of insider trading. That this is
+the appropriate view of the purpose of the section was confirmed recently by this
+Court in its decision in At Home, where the Court adopted with approval the
+Commission’s statement that the section was aimed at transactions where the risk of
+insider trading is “intolerably great,” 2006 WL 1148512 at *5, and went on to note
+that “while there may be evils to be redressed arising out of [a] kind of corporate
+maneuvering, § 16(b) is simply not an antidote to all the ills that may plague the
+securities market.” 2006 WL 1148512 at *6 (quoting Heublein, Inc. v. Gen. Cinema Corp.,
+722 F.2d 29, 31 (2d Cir. 1983)). See also Gryl v. Shire Pharmaceuticals Group PLC, 298
+-29-
+
+F.3d 136, 142 (2d Cir. 2002) (applying an exemption from Section 16(b), this Court
+noted that where securities are “granted to all eligible holders, without regard to
+status, as a means of fully effecting and overarching, value-adding corporate event
+(e.g., a merger),” there is a “diminished risk that the securities grants are not motivated
+by a legitimate corporate purpose * * *.”)
+In adopting the 2005 amendment to Rule 16b-7, the Commission stated that
+“Rule 16b-7 is based on the premise that the exempted transactions are of relatively
+minor importance to the shareholders of a particular company and do not present
+significant opportunities to insiders to profit by advance information concerning the transaction.”
+Ownership Reports, 70 Fed. Reg. at 46085 (emphasis added). “Indeed,” the Commission
+continued, “by satisfying either of the rule’s 85% ownership tests, an exempted
+transaction does not significantly alter the economic investment held by the insider
+before the transaction.” Id. Thus, the Commission focused on only exempting
+transactions where profit recovery would not serve the purpose of the statute. And it
+is certainly generally true that reclassifications resulting in the exchange of an entire
+class of stock such as, in this case, as part of the preparation for an initial public
+offering, take place for a legitimate corporate purpose.
+
+-30-
+
+Contrary to plaintiff’s assertion, the Commission’s position on the purpose of
+the statute is entitled to controlling deference. The analysis begins with Chevron,
+U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984). As the
+Supreme Court has recently summarized:
+In Chevron, this Court held that ambiguities in statutes within an agency's
+jurisdiction to administer are delegations of authority to the agency to fill
+the statutory gap in reasonable fashion. Filling these gaps, the Court
+explained, involves difficult policy choices that agencies are better
+equipped to make than courts. 467 U.S., at 865-866, 81 L. Ed. 2d 694,
+104 S. Ct. 2778. If a statute is ambiguous, and if the implementing
+agency's construction is reasonable, Chevron requires a federal court to
+accept the agency's construction of the statute, even if the agency's
+reading differs from what the court believes is the best statutory
+interpretation. Id. at 843-844, and n. 11, 104 S. Ct. 2778.
+National Cable & Telecommunications Assoc., v. Brand X Internet Services, __ U.S. __, 125
+S.Ct. 2688, 2699 (2005). While the plaintiff contends that the statute is plain on its
+face, Congress left it open to the Commission to determine what transactions may be
+exempted within the purposes of the statute. So long as the Commission’s analysis is
+reasonable, it is entitled to conclusive deference. 18/
+18/
+
+The plaintiff contends that since the Commission does not enforce Section
+16(b), its views on the scope of the statute should not be entitled to any
+deference. But the quote above speaks of the “implementing” agency.
+Congress has expressly delegated to the Commission the authority to exempt
+transactions not within the statute’s purpose. This Court has recently called the
+Commission “an agency uniquely experienced in confronting short-swing
+profiteering.” See At Home Corp., 2006 WL 1148512 at *5. While the plaintiff
+purports to cite several cases where the Commission’s position was rejected by
+the Supreme Court, those cases did not involve exercise of the Commission’s
+(continued...)
+-31-
+
+Finally, the plaintiff argues that the Commission is claiming to “nullify” the
+Third Circuit’s decision in Levy. This, the plaintiff claims, raises separation of powers
+problems. There is, however, no separation of powers problem arising from the
+adoption or amendment of regulations. Even pure executive branch entities
+commonly act in a “legislative” fashion by issuing, amending, or clarifying regulations.
+Of course, Congress may always nullify any regulation by legislation, and a court may
+overturn it if it is beyond the drafter’s power or improperly adopted. In taking these
+regulatory actions, the Commission is not seeking to exercise “control” over the
+judiciary. The Commission is not directing that Levy be overturned. This Court may
+not overturn a decision of the Third Circuit. Instead, the Commission is arguing that
+the Levy decision is wrong and should not be adopted by this Court. To the extent
+that the Commission’s views on Section 16(b) and Rule 16b-7 are entitled to binding
+deference, it is because the Supreme Court and this Court adopted the standards of
+deference in Chevron and Auer and their progeny. The Commission is not seeking to
+exercise judicial power.
+CONCLUSION
+
+18/(...continued)
+exemptive authority, and, to the extent they did reject a Commission position,
+turned on the Court’s finding that the Commission’s view was inconsistent with
+the plain language of the statute, and/or involved a matter not implemented by
+the Commission, such as statutes of limitations in private cases.
+-32-
+
+The judgment of the district court should be affirmed consistent with the
+positions of the Commission expressed above.
+Respectfully submitted,
+BRIAN G. CARTWRIGHT
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+ERIC SUMMERGRAD
+Deputy Solicitor
+ALLAN A. CAPUTE
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+100 F Street, NE
+Washington, D.C. 20549-8010
+(202) 551-5122 (Capute)
+May 2006
+
+-33-
+
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+____________________________
+No. 05-5271-cv
+__________________________
+MARC BRUH,
+Plaintiff - Counter-Defendant - Appellant,
+v.
+BESSEMER VENTURE PARTNERS III L.P.,
+Defendant - Counterclaimant - Appellee,
+VISTACARE, INC.,
+Defendant.
+__________________________________________________________
+CERTIFICATE OF SERVICE
+__________________________________________________________
+I, Allan A. Capute, am a member of the bars of Maryland and the District of
+Columbia, and I hereby certify that on 12th day of May, 2006, I caused to be served two
+copies of the BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE, SUBMITTED AT THE REQUEST OF THE COURT AND IN
+SUPPORT OF AFFIRMING THE DECISION BELOW to counsel for the parties of
+record at the addresses below, by Federal Express.
+
+_______________________
+Allan A. Capute
+COUNSEL FOR THE APPELLANT
+Jeffrey S. Abraham, Esq.
+Mitchell M.Z. Twersky, Esq.
+Ximena Skovron, Esq.
+Abraham Fruchter & Twersky LLP
+One Penn Plaza
+Suite 2805
+New York, New York 10119
+
+-2COUNSEL FOR THE APPELLEE
+Frederick R. Kessler, Esq.
+Vincent Chang, Esq.
+Wollmuth Maher & Deutsch LLP
+500 Fifth Avenue
+New York, New York 10110
+
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+____________________________
+No. 05-5271-cv
+__________________________
+MARC BRUH,
+Plaintiff - Counter-Defendant - Appellant,
+v.
+BESSEMER VENTURE PARTNERS III L.P.,
+Defendant - Counterclaimant - Plaintiff - Appellee,
+VISTACARE, INC.,
+Defendant.
+___________________________________________________________
+CERTIFICATE OF CONCERNING COMPLIANCE
+WITH FED. R. APP. P. 32(a)(7)(C)
+___________________________________________________________
+I hereby certify that, pursuant to Federal Rules of Appellate Procedure 29(d)
+and 32(a)(7)(C), the attached BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, AMICUS CURIAE, SUBMITTED AT THE REQUEST OF THE
+COURT AND IN SUPPORT OF AFFIRMING THE DECISION BELOW is
+
+proportionally spaced, has a typeface of 14 points, and contains 8088 words. Because
+the brief exceeds the word limit of the Rule 32(a)(7)(C), the Commission has filed
+with its brief the MOTION OF THE SECURITIES AND EXCHANGE
+COMMISSION TO EXCEED THE WORD LIMIT.
+_______________________
+Allan A. Capute
+Securities and Exchange Commission
+100 F. Street, N.E.
+Washington, D.C. 20549-0606
+(202) 551-5122
+
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+____________________________
+No. 05-5271-cv
+__________________________
+MARC BRUH,
+Plaintiff - Counter-Defendant - Appellant,
+v.
+BESSEMER VENTURE PARTNERS III L.P.,
+Defendant - Counterclaimant - Plaintiff - Appellee,
+VISTACARE, INC.,
+Defendant.
+__________________________________________________________
+CERTIFICATE OF COMPLIANCE WITH LOCAL RULE 32(a)(1):
+BRIEFS IN DIGITAL FORMAT
+__________________________________________________________
+I certify that THE BRIEF OF THE SECURITIES AND EXCHANGE
+COMMISSION, AMICUS CURIAE, SUBMITTED AT THE REQUEST OF THE
+COURT AND IN SUPPORT OF AFFIRMING THE DECISION BELOW , as
+submitted in digital format, has been scanned for viruses and that no viruses have been detected as
+required by Local Rule 32(a)(1).
+_______________________
+Allan A. Capute
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+100 F. Street, N.E.
+Washington, D.C. 20549-8010
+(202) 551-5122
+
+

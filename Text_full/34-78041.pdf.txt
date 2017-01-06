@@ -1,0 +1,222 @@
+SECURITIES AND EXCHANGE COMMISSION
+[Release No. 34-78041]
+June 13, 2016
+Order Granting Limited and Conditional Exemption Under Section 36(a) of the Securities
+Exchange Act of 1934 from Compliance with Interactive Data File Exhibit Requirement
+in Forms 6-K, 8-K, 10-Q, 10-K, 20-F and 40-F to Facilitate Inline Filing of Tagged
+Financial Data
+I.
+
+Introduction
+Operating companies are required to provide their financial statements
+
+accompanying their periodic and current reports in machine-readable format using
+eXtensible Business Reporting Language (XBRL). Companies currently provide this
+XBRL data as an exhibit to their filings. Since these requirements were first adopted,
+technology has evolved and now would allow filers to embed XBRL data directly into a
+HyperText Markup Language (HTML) document through a format known as Inline
+XBRL. The technology is freely licensed and made available by XBRL International, 1
+and it is currently used by companies in other jurisdictions for a variety of regulatory
+purposes. 2
+We believe that filing financial statements with Inline XBRL has the potential to
+provide a number of benefits to filers and users of the information. For example, Inline
+XBRL could decrease filing preparation costs, improve the quality of structured data, and
+1
+
+See http://specifications.xbrl.org/spec-group-index-inline-xbrl.html.
+
+2
+
+For example, in the United Kingdom, the “accounts and computations” part of a “Company Tax
+Return” must be submitted to HM Revenue and Customs using Inline XBRL. See
+http://www.hmrc.gov.uk/ct/ct-online/taxonomy.htm. Other examples include Australia
+(http://asic.gov.au/about-asic/media-centre/find-a-media-release/2015-releases/15-104mr-asicintroduces-format-for-improved-communication-of-financial-information/); Japan
+(https://www.xbrl.org/the-standard/why/who-else-uses-xbrl/); Denmark (https://www.xbrl.org/thestandard/why/who-else-uses-xbrl/); and Ireland
+(http://www.revenue.ie/en/online/ros/ixbrl/index.html). We note that the specific disclosure
+regimes in these countries differ from that in the U.S.
+
+by improving data quality, increase the use of XBRL data by investors and other market
+participants. Consequently, as a means of further assessing the usefulness of Inline
+XBRL, we are exercising our authority under Section 36(a) of the Securities Exchange
+Act of 1934 (Exchange Act) to permit, but not require, operating companies to use Inline
+XBRL in their periodic and current reports under the Exchange Act through March 2020.
+Additionally, permitting companies to use Inline XBRL on a voluntary, time-limited
+basis could facilitate the development of Inline XBRL preparation and analysis tools,
+provide investors and companies with the opportunity to evaluate its usefulness, and help
+inform any future Commission rulemaking in this area.
+II.
+
+Discussion
+Information is “structured” when it is made machine-readable by labeling (or
+
+“tagging”) the information using a markup language, such as XBRL, that can be
+processed by software for analysis. Structured information can be stored, shared, and
+presented in different systems or platforms. Companies currently use information
+systems that accommodate and rely upon structured information.
+Standardized markup languages, such as XBRL, use sets of tags, referred to as
+taxonomies. Taxonomies provide common definitions that represent agreed-upon
+information about reporting standards, such as U.S. GAAP for accounting-based
+disclosures. The resulting standardization of financial reporting allows for aggregation,
+comparison, and large-scale statistical analysis of reported financial information through
+significantly more automated means than is possible with other formats, such as HTML.
+
+2
+
+Structured financial statement information is currently required to be submitted in
+an “Interactive Data File” exhibit to certain forms. 3 These forms are prepared in either
+HTML or (less commonly) American Standard Code for Information Interchange
+(ASCII) electronic formats. The form as prepared in these formats is called the “Related
+Official Filing.” The Interactive Data File currently consists of an “instance document”
+and other documents as described in the EDGAR Filer Manual. For the purposes of this
+order, we use “instance document” to describe that part of the Interactive Data File that
+contains the XBRL tags for the information contained in the corresponding data in the
+Related Official Filing to satisfy the content and format requirements in 17 CFR
+232.405. The other documents in the Interactive Data File contain contextual
+information about the XBRL tags.
+Companies often create XBRL exhibits by first preparing their financial
+statements in a word processing application and then converting it to another format,
+such as HTML. Filers then create an XBRL exhibit by copying the financial statement
+information and tagging it in XBRL. In this way, preparers essentially tag a copy of the
+data contained in their HTML filings in a separate document, which requires them to
+expend resources to create and tag a copy of the data and verify the consistency of
+tagged data across documents.
+Errors sometimes appear in financial statement information submitted in XBRL
+that affect the quality of the data and its potential use by the public and the Commission.
+For example, Commission staff has identified several recurring issues with XBRL
+submissions, including errors related to the characterization of a number as negative
+3
+
+See 17 C.F.R. 232.405; see also 17 C.F.R. 229.601(b)(101).
+
+3
+
+when it is positive, incorrect scaling of a number (e.g., in billions rather than in millions),
+unnecessary custom tags (such as to achieve a particular presentation), incomplete
+tagging (e.g., a failure to tag numbers in parentheses), and missing calculations that show
+relationships between data (e.g., how adding cost of revenue to gross profit equals
+revenue and subtracting cost of revenue from revenue equals gross profit). 4 While these
+data quality issues may have multiple potential causes, we believe that some of these
+errors may result from the submission of XBRL tagged information as an exhibit separate
+from the Related Official Filing.
+Embedding XBRL data in an HTML document (which we refer to together as the
+“Inline XBRL document”) rather than tagging data in a separate instance document may
+increase the efficiency and effectiveness of the filing preparation and review process and,
+by saving time and effort spent on the these processes, may, over time, reduce the cost of
+compliance with XBRL requirements. 5 In particular, Inline XBRL makes it possible for
+preparers to view XBRL meta data 6 within the HTML document. By facilitating the
+review of XBRL data, we believe that Inline XBRL could decrease the overall time
+required to comply with the XBRL data filing requirement and may better equip
+preparers to detect and correct XBRL data errors.
+4
+
+See, e.g., Staff Observations of Custom Tag Rates (July 7, 2014), available at
+http://www.sec.gov/dera/reportspubs/assessment-custom-tag-rates-xbrl.html; Staff Observations
+from the Review of Interactive Data Financial Statements (December 13, 2011), available at
+http://www.sec.gov/spotlight/xbrl/staff-review-observations-121311.shtml.
+
+5
+
+Embedding XBRL data in the HTML filing could create some confusion about the operation of
+current accuracy requirements, such as in Rule 405(c)(1). That rule requires “[e]ach data element .
+. . contained in the Interactive Data File [to reflect] the same information in the corresponding data
+in the Related Official Filing.” Although the Inline XBRL document will contain XBRL data that
+is currently presented in the Interactive Data File, that data must still accurately reflect the
+corresponding information in the HTML format portion of the filing. See condition (c) below.
+
+6
+
+Such meta data include, for example, definitions, reporting period information, data type, and
+related references.
+
+4
+
+Permitting filing in Inline XBRL is intended to improve XBRL data quality. In
+particular, the elimination of a separate instance document should reduce the incidence of
+re-keying errors. Additionally, Inline XBRL might eliminate unnecessary or
+inappropriate custom tags intended to make XBRL data look similar to an HTML
+document when “rendered” by software into a human-readable presentation. With Inline
+XBRL, companies would have less of an incentive to create custom tags solely to mimic
+the appearance of an HTML filing. To the extent that permitting filing using Inline
+XBRL might improve data quality, it may contribute to wider use of XBRL data by
+market participants and may enhance the benefits that are associated with XBRL more
+generally.
+In light of the potential benefits from using Inline XBRL, we are initiating a
+voluntary, time-limited program to assess the usefulness of this new filing format. This
+voluntary program also may facilitate the development of technological tools to support
+the potential further use of Inline XBRL in the future.
+We note that, with the acceptance of Inline XBRL filings under this program,
+XBRL data users, such as investors, analysts, filers, and data aggregators, may need to
+modify their software or algorithms to be able to extract the XBRL data. We believe,
+however, that such adjustments will be minimal because the voluntary Inline XBRL
+program will not affect the taxonomy or the scope of the information required to be
+tagged. In addition, the Commission has incorporated tools into the EDGAR system that
+will enable users to view information about the reported XBRL data contained in
+embedded tags on the Commission’s website, using any recent standard Internet browser,
+without the need to access a separate document. With this feature, when a user views a
+
+5
+
+filing submitted with Inline XBRL on EDGAR, the user will be able to see tags and the
+related meta data while viewing the HTML filing. Software enabling this feature will
+also be made freely available to the public in an effort to facilitate the creation of cost
+effective Inline XBRL viewers and analytical products. We also plan to make freely
+available software for Inline XBRL extraction, which may further mitigate potential
+effects on XBRL data users. Additionally, the EDGAR system will, for the duration of
+the voluntary program, extract and make available the XBRL tags from an Inline XBRL
+document as a separate file, enabling current software to continue automated processing
+of XBRL data with minimal changes to existing processes.
+We also note that permitting filing using Inline XBRL may result in changes that
+affect those filers choosing to use Inline XBRL. Currently, when there is a major
+technical error with XBRL data submitted in an exhibit, the EDGAR validation system
+causes the exhibit to be removed from the submission, but the submission as a whole is
+not suspended. With Inline XBRL, the EDGAR validation system will suspend an Inline
+XBRL filing that contains a major technical error in embedded XBRL data, which would
+require the filing to be revised before it could be accepted by EDGAR. Based on staff
+observations, very few XBRL exhibits are suspended, in part, because companies and
+preparers routinely use tools the Commission makes available to submit test filings to
+help identify and correct technical errors prior to EDGAR filing. Similar tools to submit
+test filings will be available to those filers choosing to file in Inline XBRL. Because we
+expect that Inline XBRL filers would utilize available tools to submit test filings to
+identify and correct any technical errors prior to EDGAR filing, we believe that such
+suspensions should be similarly rare for Inline XBRL filers.
+
+6
+
+III.
+
+Conclusion
+Based on the foregoing, we find it is appropriate in the public interest and
+
+consistent with the protection of investors to grant companies that choose to use Inline
+XBRL when filing financial statements in their Exchange Act periodic and current
+reports a time-limited and conditional exemption from certain requirements of the
+Interactive Data File exhibit.
+Accordingly, it is hereby ordered pursuant to Section 36(a) of the Exchange Act
+that any company that complies with each of the conditions below is exempt from the
+requirement to submit an instance document as described in this order as part of its
+Interactive Data File exhibit with Forms 6-K, 8-K, 10-Q, 10-K, 20-F and 40-F for reports
+due before March 30, 2020.
+Conditions
+The company must
+(a) file an Inline XBRL document as prescribed in the EDGAR Filer Manual;
+(b) file the Interactive Data File as prescribed in the EDGAR Filer Manual for
+Inline XBRL filers as an exhibit to the Inline XBRL document;
+(c) use XBRL tags within the Inline XBRL document that reflect the same
+information in the corresponding data as the HTML format part of the official
+filing;
+(d) state in the exhibit index item referencing the Interactive Data File that the
+instance document does not appear in the Interactive Data File because its
+XBRL tags are embedded within the Inline XBRL document;
+(e) not file in plain text ASCII; and
+
+7
+
+(f) not rely on the hardship exemptions in Rules 201 and 202 of Regulation S-T.
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+8
+
+

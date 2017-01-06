@@ -1,0 +1,861 @@
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+______________________________________________________
+No. 04-35715
+___________________________________________________________
+THOMAS R. DREILING, a shareholder of INFOSPACE, INC.,
+Plain tiff-Ap p e llan t,
+v.
+AMERICAN EXPRESS TRAVEL RELATED SERVICES
+COMPANY, INC.,
+De fe n d an t-Ap p e lle e ,
+and
+INFOSPACE. INC., a Delaware corporation,
+No m in al De fe n d an t-Ap p e lle e .
+___________________________________________________________
+On Appeal from the United States District Court
+for the Western District of Washington
+______________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE, IN PARTIAL SUPPORT OF EACH PARTY
+______________________________________________________
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+ERIC SUMMERGRAD
+Deputy Solicitor
+ALLAN A. CAPUTE
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+Washington, D.C. 20549-0606
+(202) 942-0837 (Capute)
+
+TABLE OF CONTENTS
+PAGE
+INTEREST OF THE SECURITIES AND EXCHANGE
+COMMISSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+BACKGROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+A.
+
+The Statutory and Rule Provisions at Issue . . . . . . . . . . . . . . . . . . . . . . 3
+
+B.
+
+Facts and Proceedings Below . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+ARGUMENT
+I.
+
+II.
+
+........................................................ 6
+
+THE ADOPTION OF RULE 16b-3(d) WAS WITHIN
+THE COMMISSION’S AUTHORITY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+A.
+
+The Transactions Exempted by Rule 16b-3 Are
+Not Comprehended Within the Purposes of
+Section 16(b), Which Seeks to Prevent the “Unfair”
+Use of Inside Information. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+B.
+
+Rule 16b-3(d) Is Not Invalid Because It Attempts to
+Achieve a Measure of Simplicity and Flexibility. . . . . . . . . . . . . . . . . . 17
+
+C.
+
+The Commission’s Judgment In Adopting Rule 16b-3
+Is Entitled to Full Chevron Deference. . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+TO THE EXTENT A PERSON IS A DIRECTOR
+BY DEPUTIZING ANOTHER TO SIT ON THE
+BOARD, THE DEPUTIZING PERSON IS
+SUBJECT TO SECTION 16(b), AND MAY RELY
+ON RULE 16b-3(d), BUT ONLY TO THE EXTENT
+THE BOARD APPROVING THE TRANSACTION
+IS AWARE OF THE DEPUTIZATION, AN ISSUE
+OF FACT IN THIS CASE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+-i-
+
+TABLE OF AUTHORITIES
+CASES
+
+PAGE
+
+Bershad v. McDonough, 428 F.2d 693 (7 th Cir. 1970) . . . . . . . . . . . . . . . . . . . . 8, 9, 18
+Blau v. Lamb, 363 F.2d 507 (2d Cir. 1966) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Blau v. Lehman, 368 U.S. 403 (1962) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21, 22, 23
+passim
+Bragdon v. Abbott, 524 U.S. 624 (1998) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Chevron, U.S.A., Inc. v. Natural Resources Defense Council, Inc.,
+467 U.S. 837 (1984) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 19
+Diamond v. Oreamuno, 24 N.Y.2d 494, 301 N.Y.S.2d 78,
+248 N.E.2d 910 (1969) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Feder v. Martin Marietta Corp., 406 F.2d 260 (2d Cir. 1969) . . . . . . . . . . . . . . . . . . 23
+Foremost-McKesson, Inc. v. Provident Securities Co.,
+423 U.S. 232 (1976) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 13, 14
+Freeman v. Decio, 584 F.2d 186 (7th Cir. 1978) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Gollust v. Mendell, 501 U.S. 115 (1991) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 11
+Gryl v. Shire Pharmaceuticals Group, 298 F.3d 136 (2d Cir. 2002) . . . . . . . . . . . . . 12
+Jackson v. Smith, 254 U.S. 586 (1921) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Kern County Land Co. v. Occidental Petroleum Corp.,
+411 U.S. 582 (1973) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 8, 13
+passim
+Mosser v. Darrow, 341 U.S. 267 (1951) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+-ii-
+
+CASES (Continued)
+
+PAGE
+
+Reliance Electric Co. v. Emerson Electric Co., 404 U.S. 418 (1972) . . . . . . . . . 8, 9, 13
+passim
+SEC v. Texas Gulf Sulphur Co., 401 F.2d 833 (2d Cir. 1968) . . . . . . . . . . . . . . . . . . 14
+Smiley v. Citibank (South Dakota), N.A., 517 U.S. 735 (1996) . . . . . . . . . . . . . . . . . 19
+United States v. Mead Corp., 533 U.S. 218 (2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+United States v. O'Hagan, 521 U.S. 642 (1997) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+STATUTES AND RULES
+Securities Exchange Act of 1934, 15 U.S.C. 78a, et seq.
+Section 2, 15 U.S.C. 78b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Section 3(a)(9), 15 U.S.C. 78c(a)(9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Section 16(b), 15 U.S.C. 78p(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1, 2, 3
+passim
+Section 23(a), 15 U.S.C. 78w(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Rules under the Securities Exchange Act of 1934, 17 C.F.R. 240.01, et seq.
+Rule 10b-5, 17 C.F.R. 240.10b-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Rule 16b-3(d), 17 C.F.R. 240.16b-3(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 4, 5
+passim
+Federal Rule of Appellate Procedure 29(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Congressional Material
+H.R. Rep. No. 1383, 73d Cong., 2d Sess. (1934) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+S. Rep. No. 792, 73d Cong., 2d Sess. (1934)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 10
+
+Stock Exchange Practices, S. Rep. No. 1455, 73d Cong., 2d Sess. (1934) . . . . . . . . . . 7
+
+-iii-
+
+Congressional Materials (Continued)
+
+PAGE
+
+Hearings on Stock Exchange Practices before the
+Senate Committee on Banking and Currency,
+73d Cong., 1st Sess. pt. 15 (1934) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+MISCELLANEOUS
+3D Harold Bloomenthal & Samuel Wolff, Securities &
+Federal Corporate Law (WestLaw 2004) . . . . . . . . . . . . . . . . . . . . . . . 10, 11, 16
+3 Fletcher Cyc. Corp.(Perm. ed. 1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+D. Block, S. Radin and N. Barton, The Business Judgment
+Rule: Fiduciary Duties of Corporate Directors (4th ed. 1993) . . . . . . . . . . . . 15
+Memorandum of the Securities and Exchange Commission,
+Amicus Curiae, in Support of Appellees' Petition for
+Rehearing or Rehearing En Banc, filed in, Levy v.
+Sterling Holding Co., LLC., 314 F.3d 106, 124
+(3d Cir. 2002), cert. denied, 540 U.S. 947 (2003),
+available at, www.sec.gov/litigation/briefs/levy-sterling022703.htm . . . . . . 24
+Notice of Proposal to Adopt a Rule Exempting from the
+Operation of Section 16(b) Certain Acquisitions
+and Dispositions of Securities Pursuant to Mergers or
+Consolidations, Securities Exchange Act Rel. No. 4696,
+17 Fed. Reg. 3177, 1952 SEC LEXIS 63 (April 9, 1952) . . . . . . . . . . . . . . . . . 9
+Ownership Reports and Trading by Officers,
+Directors and Principal Security Holders,
+Exchange Act Rel. No. 37260,
+61 Fed. Reg. 30376 (June 14, 1996) . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 14, 15
+passim
+Ownership Reports and Trading by Officers,
+Directors and Principal Stockholders,
+Exchange Act Rel. No. 26333, 53 Fed.
+Reg. 49997 (Dec. 13, 1988) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+-iv-
+
+MISCELLANEOUS (Continued)
+
+PAGE
+
+Ownership Reports and Trading by Officers,
+Directors and Principal Security Holders,
+Exchange Act Release No. 36356,
+60 Fed. Reg. 53832 (Oct. 17, 1995) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Interpretive Release on Rules Applicable to Insider
+Reporting and Trading, Exchange Act Release
+No. 18114, 1981 WL 31301 (Sept. 24, 1981) . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Peter J. Romeo & Alan L. Dye, Comprehensive Section 16
+Outline (2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Peter J. Romeo & Alan L. Dye, Section 16 Treatise and
+Reporting Guide (2d ed. 2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 23
+William Meade Fletcher, Fletcher Cyclopedia of Private
+Corporations (WestLaw 2004) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+-v-
+
+UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+______________________________________________________
+No. 04-35715
+______________________________________________________
+THOMAS R. DREILING, a shareholder of INFOSPACE, INC.,
+Plaintiff-Appellant,
+v.
+AMERICAN EXPRESS TRAVEL RELATED SERVICES
+COMPANY, INC.,
+Defendant-Appellee,
+and
+INFOSPACE. INC., a Delaware corporation,
+Nominal Defendant-Appellee.
+______________________________________________________
+On Appeal from the United States District Court
+for the Western District of Washington
+______________________________________________________
+BRIEF OF THE SECURITIES AND EXCHANGE COMMISSION,
+AMICUS CURIAE, IN PARTIAL SUPPORT OF EACH PARTY
+______________________________________________________
+INTEREST OF THE SECURITIES AND EXCHANGE COMMISSION
+The Securities and Exchange Commission submits this brief as amicus curiae to
+address important legal issues relating to the “short-swing” trading provision in
+Section 16(b) of the Securities Exchange Act of 1934, 15 U.S.C. 78p(b). The objective
+
+of Section 16(b) is to deter corporate insiders from trading in their companies’
+securities on the basis of inside information. Congress viewed short-swing trading -purchases and sales occurring within a period of less than six months -- as a type of
+trading that posed a particular risk of misuse of inside information. Therefore, it
+provided in Section 16(b) that any profits realized by the insider from such trading
+shall inure to and be recoverable by the issuer.
+Although Section 16(b) actions are brought only by issuers and their
+shareholders, Congress delegated to the Commission the responsibility of formulating
+rules exempting from Section 16(b) transactions that, in the Commission’s view, are
+“not comprehended within the purpose of” Section 16(b). The defendant in this case
+contends, and the district court agreed, that its acquisition of stock was exempt under
+Commission Rule 16b-3(d), 17 C.F.R. 240.16b-3(d). The issues in this case are
+whether the Commission had the authority to adopt that exemption in its present
+form, a matter patently of great interest to the Commission, and how the exemption
+should be construed, a matter as to which the Commission, as the rule’s promulgator,
+likewise has a plain interest. 1/
+
+1/
+
+Although the Commission could have filed this brief on a timely basis as a
+matter of right, see F.R.A.P. 29(a), it did not do so. On March 18, 2005, the
+Court authorized the Commission to file this brief out of time on April 5, 2005.
+-2-
+
+BACKGROUND
+A.
+
+The Statutory and Rule Provisions at Issue
+
+Section 16(b) of the Exchange Act provides “For the purpose of preventing the
+unfair use of information which may have been obtained” by an officer, director, or
+beneficial owner of more than 10% of an class of any issuer’s equity securities “any
+profit realized by him from any purchase and sale, or any sale and purchase, of any
+equity security of such issuer * * * within any period of less than six months” shall be
+recoverable by the issuer or the beneficial owner of any security of the issuer.
+Recovery may be obtained “irrespective of any intention on the part of such beneficial
+owner, director, or officer in entering into such transaction.” The section states,
+however, that “[t]his subsection shall not be construed to cover * * * any transaction
+or transactions which the Commission by rules and regulations may exempt as not
+comprehended within the purpose of this subsection.”
+At issue in this case is the exemption contained in Rule 16b-3(d). That rule
+exempts from Section 16(b) certain transactions where an officer or director of the
+issuer obtains a “a grant, award or other acquisition from the issuer.” To qualify, the
+transactions must be either: (1) approved by the board of directors of the issuer, or a
+committee of the board of directors that is composed of at least two non-employee
+directors; (2) approved or ratified by the affirmative votes of the holders of a majority
+of the securities of the issuer; or (3)the securities acquired are held by the officer or
+-3-
+
+director for a period of six months following the date of such acquisition. 2/
+B.
+
+Facts and Proceedings Below
+
+The plaintiff in this case, Thomas R. Dreiling, is a shareholder of InfoSpace,
+Inc. He alleges that American Express Travel Related Services, Inc. (“TRS”) was a
+director of InfoSpace and, while in that capacity, within a six month period, “engaged
+in a purchase and corresponding sales, and/or sales and a corresponding purchase of
+InfoSpace stock” and that TRS “profited from the corresponding purchases and sales
+and/or sales and purchases of InfoSpace stock.” 3/ TRS, as a corporation, was not
+elected a member of the InfoSpace board, but Dreiling claims it served in that
+capacity by deputizing one of its executive officers, David C. House, to sit on the
+board and represent its interests. House did not himself own or trade in any
+InfoSpace stock.
+By letter dated September 17, 2003, Dreiling made a statutory demand on
+InfoSpace. The letter stated that TRS “should be compelled to disgorge the profits
+made through the purchase and sales of InfoSpace stock within a six month period
+from February 25, 2000 through August 24, 2000,” adding that TRS was liable for the
+
+2/
+
+The complete text of Section 16(b) and Rule 16b-3(d) are reprinted in the
+Addendum (1A-2A).
+
+3/
+
+TRS acquired stock in Infospace after that company merged with a company
+called Prio, Inc., in which TRS owned a substantial amount of stock.
+-4-
+
+recovery of short-swing profits as an insider through its representation on the board
+of InfoSpace by House. In a response dated November 14, 2003, counsel for
+InfoSpace rejected Dreiling’s demand, stating that House did not “in any way”
+represent TRS on the board of InfoSpace.
+Dreiling then brought this action under Section 16(b) on November 26, 2003.
+Dreiling’s First Amended Complaint, filed on December 15, 2003, alleges that from
+January 21, 2000 through May 21, 2001 TRS was, for purposes of Section 16(b), a
+director of InfoSpace through House, whom it “deputized” “to represent its interests
+on InfoSpace’s Board of Directors.” It further alleges that “[w]ithin periods of less
+than six months, [TRS] engaged in purchases and corresponding sales and/or sales
+and a corresponding purchase of InfoSpace stock.” It also alleges that TRS failed to
+report these transactions as required by Section 16(a) of the Exchange Act, thereby
+tolling the two-year statute of limitations.
+The district court dismissed Dreiling’s amended complaint, finding that the
+defendant’s acquisition of InfoSpace securities was exempt under Rule 16b-3(d). On
+appeal, Dreiling contends that the Commission exceeded its authority when it
+promulgated Rule 16b-3(d). Alternatively, Dreiling argues that the Rule 16b-3(d)
+exemption should not apply where, as alleged here, the director is not a person sitting
+
+on the board, but rather is a director by virtue of having deputized a person to sit on
+-5-
+
+the board.
+ARGUMENT
+I.
+
+THE ADOPTION OF RULE 16b-3(d) WAS WITHIN THE
+COMMISSION’S AUTHORITY.
+A.
+
+The Transactions Exempted by Rule 16b-3 Are Not
+Comprehended Within the Purposes of Section 16(b),
+Which Seeks to Prevent the “Unfair” Use of Inside
+Information.
+
+In arguing that the Commission exceeded its authority when it promulgated
+Rule 16b-3(d), Dreiling would like to make it appear that Section 16(b) was principally
+concerned with reining in any form of self-interested securities transaction by officers
+and directors, while Rule 16b-3 unleashes them. This argument, however, overstates
+the purpose of Section 16(b) and mischaracterizes the effect of Rule 16b-3(d).
+The Supreme Court has stated that Congress’s concern when it enacted Section
+16(b) was that corporate “[i]nsiders could exploit information not generally available
+to others to secure quick profits” and that “Congress recognized that shortswing
+speculation by stockholders with advance, inside information would threaten the goal
+of the Securities Exchange Act to ‘insure the maintenance of fair and honest
+markets.’” Kern County Land Co. v. Occidental Petroleum Corp., 411 U.S. 582, 591-92 (1973)
+(quoting Exchange Act Section 2, 15 U.S.C. 78). In the 1934 report that summarized
+the findings of its extensive investigation into stock exchange practices, the Senate
+Committee on Banking and Currency, in a portion of the report entitled “Market
+-6-
+
+Activities of Directors, Officers, and Principal Shareholders of Corporations,” stated:
+Among the most vicious practices unearthed at the hearing before the
+subcommittee was flagrant betrayal of their fiduciary duties by directors
+and officers of corporations who used their positions of trust and the
+confidential information which came to them in such positions, to aid
+them in their market activities.
+Stock Exchange Practices, S. Rep. No. 1455, 73d Cong., 2d Sess. 55 (1934).
+(emphasis added). The Senate Report is replete with examples of corporate insiders
+who, armed with inside information, engaged in unfair trading with market
+participants. Id. at 55-68. See S. Rep. 792, 73d Cong., 2d Sess. 9 (1934); Blau v. Lamb,
+363 F.2d 507, 514-15 (2d Cir. 1966).
+The statutory language itself shows that Congress sought to suppress the
+speculative abuse where insiders with the advantage of possessing inside information
+traded with investors who were disadvantaged by the lack of equal information. This
+is why Congress stated that Section 16(b) was enacted “for the purpose of preventing
+the unfair use of information” (emphasis added).
+To remedy this speculative abuse, Congress focused on short-swing trading by
+insiders, believing that unfair use of information was most likely to occur in that type
+of trading. This does not mean, however, that Congress believed that short-swing
+trading was in and of itself wrong. Rather, it chose to allow recovery of all shortswing profits realized by specified insiders trading in their own stock, in order to deter
+that trading which was abusive. The Supreme Court has repeatedly recognized that
+-7-
+
+“‘the only method Congress deemed effective to curb the evils of insider trading was
+a flat rule taking the profits out of a class of transactions in which the possibility of
+abuse was believed to be intolerably great.’” Kern County Land Co. v. Occidental Petroleum
+Corp., 411 U.S. at 592 (quoting Reliance Electric Co. v. Emerson Electric Co., 404 U.S. 418,
+422 (1972)). The Court has also observed:
+In order achieve its goals, Congress chose a relatively arbitrary rule
+capable of easy administration. The objective standard of Section 16(b)
+imposes strict liability upon substantially all transactions occurring within
+the statutory time period, regardless of the intent of the insider or the
+existence of actual speculation. This approach maximized the ability of
+the rule to eradicate speculative abuses by reducing difficulties in proof.
+Reliance Electric Co. v. Emerson Electric Co., 404 U.S. at 422 (quoting Bershad v. McDonough,
+428 F.2d 693, 696 (7th Cir. 1970)). 4/
+This type of remedy was described by its drafters as a “crude rule of thumb.”
+Hearings on Stock Exchange Practices before the Senate Committee on Banking and Currency, 73d
+
+4/
+
+As summarized by the Commission, a six month period was chosen because:
+Short swing speculation is deemed to involve incentives
+and opportunities to profit improperly to a degree not
+present in connection with long term investment and
+changes in investment position. The arbitrary period of six
+months was selected as roughly marking the distinction
+between short swing speculation and long term investment.
+Notice of Proposal to Adopt a Rule Exempting from the Operation of Section 16(b) Certain
+Acquisitions and Dispositions of Securities Pursuant to Mergers or Consolidations,
+Exchange Act Release No. 4696, 17 Fed. Reg. 3177, 1952 SEC LEXIS 63
+(April 9, 1952).
+-8-
+
+Cong., 1st Sess. pt. 15, 6557 (1934) (testimony of Thomas Corcoran as spokesman for
+the drafters of the Exchange Act). It can extract a high price, since it can deprive
+insiders of profits even in transactions that involve no abuse of inside information.
+Because Section 16(b) can be harsh in imposing liability without fault, “Congress itself
+limited carefully the liability imposed by §16(b).” Foremost-McKesson, Inc. v. Provident
+Securities Co., 423 U.S. 232, 252 (1976) (quoting Bershad v. McDonough, 428 F.2d at 696).
+See also Gollust v. Mendell, 501 U.S. 115, 122 (1991); Reliance Electric Co. v. Emerson Electric
+Co., 404 U.S. at 422-23. “Even an insider may trade freely without incurring the
+statutory liability if, for example, he spaces his transactions at intervals greater than six
+months. When Congress has so recognized the need to limit carefully the ‘arbitrary
+and sweeping coverage’ of §16(b) * * * courts should not be quick to determine that
+* * * Congress intended the section to cover a particular transaction.” ForemostMcKesson, Inc. v. Provident Securities Co., 423 U.S. at 252. See also Gollust v. Mendell, 501
+U.S. at 122; H.R. Rep. No. 1383, 73d Cong., 2d Sess. 13 (1934).
+
+Of particular relevance, Congress protected against overreaching by vesting in
+the Commission the authority to exempt from Section 16(b) “any transaction or
+transactions which the Commission by rules and regulations may exempt as not
+comprehended within the purpose of this subsection.” Congress made clear that
+“[t]he expressed purpose of [Section 16(b)] is to prevent the unfair use of inside
+-9-
+
+information. The Commission may exempt transactions not falling within this
+purpose.” S. Rep. No. 792, supra at 21. 5/
+In adopting the current version of Rule 16b-3(d), the Commission was clear in
+explaining why the transactions it exempts generally do not lend themselves to the
+abusive use of inside information with which Section 16(b) is concerned:
+Generally, these transactions do not appear to present the same
+opportunities for insider profit on the basis of non-public information as
+do market transactions by officers and directors. Typically, where the
+issuer, rather than the trading markets, is on the other side of an officer
+or director's transaction in the issuer's equity securities, any profit
+obtained is not at the expense of uninformed shareholders and other
+market participants of the type contemplated by the statute.
+Ownership Reports and Trading by Officers, Directors and Principal Security Holders, Exchange
+Act Rel. No. 37260, 61 Fed. Reg. 30376, 30377 (June 14, 1996). See 3D Harold
+Bloomenthal & Samuel Wolff, Securities & Federal Corporate Law §21:66.55 (WestLaw
+2004) (“Market transactions present opportunities for profit based upon non-public
+information in a way that transactions with the issuer do not.”).
+There is no basis for this Court to dispute the Commission’s conclusion.
+“[T]he well-reasoned views of the agencies implementing a statute ‘constitute a body
+
+5/
+
+In adopting Rule 16b-3, the Commission relied, not only upon the authority to
+adopt exemptive rules provided in Section 16(b) itself, but also on the
+Commission’s general rulemaking authority found in Section 23(a) of the
+Exchange Act, 15 U.S.C. 78w(a), reprinted in the Addendum (3A). See
+Ownership Reports, Exchange Act Rel. No. 37260, 61 Fed. Reg. at 30391.
+-10-
+
+of experience and informed judgment to which courts and litigants may properly
+resort for guidance.’” United States v. Mead Corp., 533 U.S. 218, 227 (2001) (quoting
+Bragdon v. Abbott, 524 U.S. 624, 642 (1998)). Thus, where, as here, “Congress has
+explicitly left a gap for the agency to fill, there is an express delegation of authority to
+the agency to elucidate a specific provision of the statute by regulation. Such
+legislative regulations are given controlling weight unless they are arbitrary, capricious,
+or manifestly contrary to the statute.” Chevron, U.S.A., Inc. v. Natural Resources Defense
+Council, Inc., 467 U.S. 837, 843-44 (1984). See also United States v. O’Hagan, 521 U.S.
+642, 673 (1997).
+Indeed, Dreiling does not dispute the common-sense proposition that, in
+general, an issuer knows any inside information that its officers or directors know, so
+that an issuer is typically not at an informational disadvantage in dealing with its
+insiders. Instead, he misstates the rule, contending that the rule allows a corporate
+board of directors to give its blessing to any transaction that would otherwise be
+subject to suit under Section 16(b) (Brief of the Plaintiff-Appellant, p. 9). But that
+simply is not the case. Rule 16b-3(d) is available only to exempt transactions between
+an officer or director and the issuer. It only applies in a limited type of transaction in
+which the risk of abuse is inherently limited.
+The risk that a transaction will be a vehicle for speculative abuse by an insider is
+also limited by the conditions the rule imposes on those transactions. Either the
+-11-
+
+acquisitions must be approved by the issuer’s board (or committee or non-employee
+directors) or by the shareholders, or the insider must hold the securities for six
+months. Board or shareholder approval will remove the timing of the acquisition
+from the control of any one insider and also tend to assure that the acquisition is for a
+legitimate corporate purpose. See Gryl v. Shire Pharmaceuticals Group, 298 F.3d 136, 14546 (2d Cir. 2002).
+This is not to say that issuer-insider transactions will never in any circumstance
+involve abuse of inside information. There may be situations, for example, where a
+dominant insider is privy to inside information that he conceals from the board or
+shareholders in obtaining approval for a transaction. But even assuming these
+deceptions might occur on occasion, that does not preclude the Commission from
+adopting a general exemption for issuer-insider transactions. While Dreiling would
+have this Court believe that Section 16(b) states that it was enacted “for the purpose
+of preventing any unfair use of information” by corporate insiders (see Brief of the
+Plaintiff-Appellant, pp. 9, 14, 17, 35-36, 38). But the word any does not appear in the
+provision’s introductory sentence. To the contrary, the Supreme Court has stated that
+“Congress sought to ‘curb the evils of insider trading [by] * * * taking the profits out
+of a class of transactions in which the possibility of abuse was believed to be intolerably
+great.’” Foremost-McKesson, Inc., 423 U.S. at 243 (quoting Reliance Electric Co., 404 U.S. at
+
+-12-
+
+422) (emphasis added). 6/ In adopting current Rule 16b-3(d), the Commission
+concluded that the exempted transactions did not pose a significant risk of abusive
+insider trading with less informed investors. This was a highly appropriate approach,
+while Dreiling’s approach is not. Section 16(b) imposes a harsh and arbitrary remedy,
+which can ensnare innocent insiders who simply bought and sold securities within six
+months. While those effects on innocent insiders are unavoidable when short-swing
+trading occurs in contexts where unfair use of information is a significant risk, there is
+no reason to impose such liability in contexts where generally there is a diminished
+risk of unfair use of inside information. 7/
+Dreiling also argues that insiders obtaining securities from an issuer may engage
+
+6/
+
+Relying on Kern County Land Co., 411 U.S. at 600, Dreiling contends that Section
+16(b) liability must be extended to the acquisition of InfoSpace stock by TRS
+unless there is “absolutely no possibility” of any abuse (Brief of the Plaintiff Appellant, p. 17). Kern announced no such rule. Indeed, a very similar
+argument was addressed by the Court in Foremost-McKesson, Inc., 423 U.S. at 252,
+where also relying on Kern, supra, at 595 and Reliance Electric Co., 404 U.S. at 424,
+the plaintiff argued that where any “alternative construction” of Section 16(b) is
+possible, liability must be imposed. To this argument, the Court responded
+noting that the Court declined to impose liability in either case, “thus
+recognizing that serving the congressional purpose does not require resolving
+every ambiguity in favor of liability under §16(b).” Foremost-McKesson, 432 U.S.
+at 252.
+
+7/
+
+The Commission noted that “There are also potential liability considerations
+under Rule 10b-5 [17 C.F.R 240.10b-5].” 61 Fed. Reg. 30377, n.17. If such a
+transaction involved unfair use of information, the transaction would likely be
+subject to such liability. See SEC v. Texas Gulf Sulphur Co., 401 F.2d 833, 848,
+850 (2d Cir. 1968).
+-13-
+
+in other forms of abusive conduct. For example, Dreiling posits two scenarios in
+which officers or directors, privy to inside information, receive securities from the
+issuer on favored terms, and then sell them in the market after full disclosure of the
+true facts is made. Typically, however, the issuer will also know this information at
+the time of the acquisition, so there is no fraud in the acquisition. Nor does the later
+sale, which takes place after the inside information is disclosed, involve fraud.
+Of course, there could be other insider misconduct in these scenarios. They
+may involve self-dealing in breach of the officer’s or director’s fiduciary duties. While
+Dreiling contends that Section 16(b) is designed to prevent such abusive conduct,
+such self-dealing generally does not involve insider trading and is not what Section
+16(b) was directed at. As the Commission noted when it revised Rule 16b-3(d):
+An insider's breach of fiduciary duty to profit from self-dealing
+transactions with the company is a concern of state corporate law.
+Generally, states have created potent deterrents to insider self-dealing
+and other breaches of fiduciary duty.” Id. at n.17, citing 3 Fletcher Cyc.
+Corp. § 837.60 (Perm. ed. 1994); D. Block, S. Radin and N. Barton, The
+Business Judgment Rule: Fiduciary Duties of Corporate Directors 124-37 (4th ed.
+1993).
+Ownership Reports, Exchange Act Rel. No. 37260, 61 Fed. Reg. at 30377. Thus, if a selfinterested board disregards the corporation’s interest and engages in self-dealing or
+sweetheart deals, it plainly breaches its fiduciary duty and may be held liable under
+state law.
+Dreiling contends that state fiduciary law does not generally apply to these sorts
+-14-
+
+of transactions, and that Section 16(b) is needed as a substitute. But he
+misunderstands the fiduciary law the Commission talked about in its adopting release.
+He cites Freeman v. Decio, 584 F.2d 186, 196 (7 th Cir. 1978), as supposedly proving that
+that there is only limited state fiduciary law for abusive transactions between an insider
+and the issuer. But what Freeman was dealing with was whether Indiana would
+recognize a derivative action on behalf of a corporation for breach of a supposed
+fiduciary duty owed by an insider for transactions between the insider and shareholders
+in a market transaction. The New York Court of Appeals had recognized such an action
+in Diamond v. Oreamuno, 24 N.Y.2d 494, 301 N.Y.S.2d 78, 248 N.E.2d 910 (1969). As
+the Freeman court stated, this was an innovative departure from usual state law
+fiduciary standards, which both before and after Diamond, did not recognize an
+obligation by insiders to disclose to shareholders with whom they traded material nonpublic information, much less a right of a corporation to sue the insiders.
+The Commission, however, was not talking about the application of state
+fiduciary law to transactions between insiders and shareholders. It was talking about
+dealings between insiders and issuers, since that is all Rule 16b-3 exempts. There is no
+question that insiders who unfairly deal with their corporation can be subject to suit
+under state fiduciary law for abusive self-dealing. Even commentators heavily relied
+on by Dreiling agree that “[s]tate corporate law is sufficient to regulate self-dealing or
+breaches of fiduciary duty where directors improperly award securities to themselves
+-15-
+
+(or improperly approve awards to other directors or officers).” 3D Harold S.
+Bloomenthal & Samuel Wolff, Securities and Federal Corporate Law §21:66.55 (WestLaw
+2004). See also William Meade Fletcher, Fletcher Cyclopedia of Private Corporations §1040
+(WestLaw 2004) (“The business judgment rule does not protect corporate fiduciaries
+who engage in self-dealing or make decisions affected by inherent conflict of
+interest.”). In short, self-dealing abuses in insider-issuer transactions are adequately
+covered by state law.
+Dreiling posits one other example of possible insider abuse. He states that TRS
+could, within six months of acquiring InfoSpace shares in the merger, learn from
+House, its alleged representative on the board, that InfoSpace is overvalued in the
+market and sell its shares in the market to unwitting investors. This would be fraud,
+but not a type of fraud at which Section 16(b) was directed. The abuses at which
+Section 16(b) was directed involved short-term, in-and-out trading by insiders. Kern
+County Land Co., 411 U.S. at 591-92. This contemplated a purchase and subsequent
+sale, or sale and subsequent purchase, in which the paired transactions presented the
+potential for the “unfair use of information” by transacting with investors who are at
+an informational disadvantage. This could occur in the case of a purchase and
+subsequent sale, where the insider purchases from a person who is at an informational
+disadvantage and then, within six months, sells after the information has become
+public. Dreiling’s scenario, in contrast, involves an insider who happened to hold
+-16-
+
+stock (and may have for years) and dumps the stock on an unsuspecting market when
+he learns of bad news. Congress did not intend Section 16(b) to protect against all
+forms of improper corporate management. Nor was Section 16(b) ever intended to
+protect against all forms of insider trading.
+B.
+
+Rule 16b-3(d) Is Not Invalid Because It Attempts to Achieve a
+Measure of Simplicity and Flexibility.
+
+Dreiling argues that in adopting current Rule 16b-3(d), the Commission was
+motivated solely by the desire to achieve regulatory simplicity and flexibility. This
+contention totally ignores the Commission’s explanation that it did not believe issuerinsider transactions, at least under the gatekeeping conditions in the new rule, present
+a significant risk of the abuses Section 16(b) is concerned with.
+The release also evaluated the administrative issues generated by the 1991
+version of Rule 16b-3, which it replaced. It noted that the 1991 rule proved to be so
+cumbersome and difficult to comply with that it discouraged participation in
+corporate incentive plans. Given the diversity, complexity, and constantly changing
+nature of such plans, a new regulatory regime was required that would allow for
+flexibility. Current Rule 16b-3 was thus designed to “facilitate the operation of
+employee benefit plans [and] broaden exemptions from Section 16(b) short-swing
+profit recovery where consistent with statutory purposes * * * .” Ownership Reports and Trading
+by Officers, Directors and Principal Security Holders, Exchange Act Release No. 37260, 61
+
+-17-
+
+Fed. Reg. at 30376 (emphasis added). Just as in Section 16(b) itself “Congress chose a
+relatively arbitrary rule capable of easy administration,” Reliance Electric Co. v. Emerson
+Electric Co., 404 U.S. at 422 (quoting Bershad v. McDonough, 428 F.2d 693, 696 (7th Cir.
+1970)), it is appropriate for the Commission to take ease of application into account in
+crafting exemptions, so long as it is consistent with the statute’s purpose. 8/
+
+8/
+
+In his brief, Dreiling quotes Peter J. Romeo & Alan L. Dye, Comprehensive Section
+16 Outline 350 (2003), for the proposition that in order to gain regulatory
+flexibility and simplicity “there was a ‘price paid’: ‘the loss of some protections
+against speculative abuse.’” But Romeo and Dye go on to state that “This loss,
+however, does not appear to have had much impact. Because the rule exempts
+only transactions with the issuer, it generally does not provide an opportunity
+for insiders to engage in speculative abuse at the expense of market
+participants.” Romeo & Dye, Section 16 Outline 350.
+-18-
+
+C.
+
+The Commission’s Judgment in Adopting Rule 16b-3 Is Entitled to
+Full C h e v ro n Deference.
+
+Dreiling argues that the Commission’s revision of Rule 16b-3 is not entitled to
+Chevron deference because it represents an interpretation of Section 16(b) that is
+different from that the Commission adopted in 1991 (Brief of the Plaintiff-Appellant,
+p. 40-41). The Supreme Court, however, has made clear that where a statute does not
+speak to an issue unambiguously, “legislative regulations are given controlling weight
+unless they are arbitrary, capricious, or manifestly contrary to the statute.” Chevron,
+U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. at 843-44. This is so even
+if the agency is changing its statutory interpretation. Smiley v. Citibank (South Dakota),
+N.A., 517 U.S. 735, 740-41 (1996). See, e.g., Chevron, 467 U.S. at 857-58. Thus, “the
+mere fact that an agency interpretation contradicts a prior agency position is not
+fatal.” Smiley v. Citibank, 517 U.S. at 742. Indeed, Chevron itself approved a rule that
+changed after a change in administrations. 467 U.S. at 857-58. Only “[s]udden and
+unexplained change, * * * or change that does not take account of legitimate reliance
+on prior interpretation, * * * may be ‘arbitrary, capricious [or] an abuse of
+discretion.’ But if these pitfalls are avoided, change is not invalidating, since the whole
+point of Chevron is to leave the discretion provided by the ambiguities of a statute with
+the implementing agency.” Smiley v. Citibank, 517 U.S. at 741 (citations omitted).
+
+-19-
+
+While the 1996 version of Rule 16b-3 changed the exemptive conditions of the
+rule, Rule 16b-3 has long been available to exempt acquisitions of securities by officers
+and directors, based on satisfaction of appropriate regulatory conditions designed to
+protect against the abuses at which Section 16(b) was directed. 9/ The Commission
+was careful to explain when it adopted current Rule 16b-3 that its prior method of
+exempting insider acquisitions of issuer securities - - which required all such
+acquisitions take place pursuant to an approved written employee benefit plan - simply did not work and actually discouraged some insiders from acquiring issuer
+securities through employee benefit plans. Ownership Reports, Exchange Act Release
+No. 37260, 61 Fed. Reg. at 30376-78. After careful study, notice, and public
+comment, the Commission adopted the current rule that takes a new approach to
+addressing the same issue. The new Rule 16b-3 generally allows officers or directors
+to acquire issuer securities where certain standards and certain objective gate-keeping
+provisions are in place to safeguard against the abuse of inside information. Id. at
+30377. This is not a case where the Commission made a “sudden and unexplained
+change.” Indeed, the Commission never changed its interpretation of Section 16(b) at
+all.
+
+9/
+
+See Exchange Act Release No. 392 (1935). See also Peter Romeo and Alan L.
+Dye, Section 16 Treatise and Reporting Guide §14.01 (2d ed. 2004).
+-20-
+
+II.
+
+TO THE EXTENT A PERSON IS A DIRECTOR BY DEPUTIZING
+ANOTHER TO SIT ON THE BOARD, THE DEPUTIZING
+PERSON IS SUBJECT TO SECTION 16(b), AND MAY RELY ON
+RULE 16b-3(d), BUT ONLY TO THE EXTENT THE BOARD
+APPROVING THE TRANSACTION IS AWARE OF THE
+DEPUTIZATION, AN ISSUE OF FACT IN THIS CASE.
+The other issue in this case is whether TRS may rely on Rule 16b-3, even
+
+though it was a director of InfoSpace solely by virtue of the fact that it had allegedly
+deputized House to act on its behalf on the board. The parties dispute whether there
+was a deputization, an issue of fact on which the Commission has no knowledge and
+will not comment. Dreiling does, however, contend that as a matter of law Rule 16b3(d) is not available to directors who function through deputies. We believe that is
+incorrect, although we do agree with Dreiling that the board (or shareholders)
+approving an acquisition by a director operating through deputization must be aware
+of the deputization, a matter of fact which is in dispute in this case.
+The “deputization theory” is a judicially developed doctrine that was adopted
+by the Supreme Court in Blau v. Lehman, 368 U.S. 403 (1962). Under the theory, “[a]
+person who has the power, by agreement or otherwise, to name another to be a
+corporate director is likely to have the same sort of access to inside information by
+reason of that relationship as any other insider * * *.” Interpretive Release on Rules
+Applicable to Insider Reporting and Trading, Exchange Act Release No. 18114, 1981 WL
+31301, at *5 (Sept. 24, 1981). In Blau v. Lehman, the plaintiff alleged that Thomas, a
+
+-21-
+
+member of the firm of Lehman Brothers, a partnership, was deputized by Lehman
+Brothers to represent its interests as a director of Tide Water Associated Oil
+Company, in whose stock Lehman Brothers traded. In assessing the validity of the
+deputization theory, the Court noted that, since Lehman was neither a more than ten
+percent owner nor an officer of Tide Water, the firm could only be liable under
+Section 16(b) if Lehman was a director. Furthermore, because Lehman was not
+formally a member of Tide Water’s board, the firm could only be liable as a director
+through Thomas. Id. at 409. Although it was not “literally designated” as a director,
+the Court determined Lehman
+could for purposes of §16 be a ‘director’ of Tide Water and function
+through a deputy, since §3(a)(9) of the [Exchange ] Act provides that
+‘person’ means * * * partnership’[10/] and §3(a)(7) that ‘director’ means
+any director of a corporation or any person performing similar functions
+with respect to any organization, whether incorporated or
+unincorporated.’ Consequently, Lehman * * * would be a ‘director’ of
+Tide Water, if as petitioner’s complaint charged Lehman actually
+functioned as a director through Thomas, who had been deputized by
+Lehman to perform a director’s duties not for himself but for Lehman.
+368 U.S. at 409-10. 11/
+10/
+
+Section 3(a)(9) has since been revised to eliminate “partnership” from its
+definition of person, but continues to include “company.”
+
+11/
+
+While the Commission has stated that it “does not propose to codify case law
+relating to deputization,” it has recognized that “a corporation, partnership,
+trust or other person can be deemed a director for purposes of section 16
+where it has expressly or impliedly ‘deputized’ an individual to serve as its
+representative on a company’s board of directors.” Ownership Reports and Trading
+by Officers, Directors and Principal Stockholders, Exchange Act Release 26333, 53
+-22-
+
+But whether or not a “deputization” has transpired is a question of fact. Blau v.
+Lehman, 386 U.S. at 408-09. See also Feder v. Martin Marietta Corp., 406 F.2d 260, 263
+(2d Cir. 1969). “In determining whether a person has been deputized for purposes of
+section 16, the courts have looked at a variety of factors, focusing primarily on the
+alleged deputy’s position of control within the deputizing entity and the deputy’s
+independent qualifications to serve on the board of the issuing corporation.”
+Ownership Reports and Trading by Officers, Directors and Principal Stockholders, Exchange Act
+Release 26333, 53 Fed. Reg. at 50000. See Blau v. Lehman, 368 U.S. at 410; Feder v.
+Martin Marietta Corp., 406 F.2d at 264-65. See also Peter J. Romeo & Alan L. Dye,
+Section 16 Treatise and Reporting Guide §2.04[4][a] (2d ed. 2004) (discussing relevant
+factors in determining the existence of a deputization).
+Dreiling claims that the Commission’s rationales for Rule 16b-3(d) do not apply
+to directors by deputization. Specifically, Dreiling argues that (1) Rule 16b-3(d) is
+based on the supposition that acquisitions from the issuer by insiders are
+compensation and directors through deputization, usually other corporations, do not
+receive compensation; (2) that state law fiduciary duties serve as no protection as to
+directors by deputization because such directors are not subject to state law fiduciary
+duties; and (3) that the approval by the board of the acquisition of InfoSpace stock by
+the defendant could serve no gatekeeping function in this case, or other cases, where,
+Fed. Reg. 49997, 50000 (Dec. 13, 1988).
+-23-
+
+as claimed, the members of the board were not aware that TRS was a director
+because, as claimed, they did not know that House had been deputized by TRS.
+As to the first of these contentions, when Rule 16b-3(d) was adopted the
+Commission contemplated its application to all acquisitions from an issuer that met
+the objective gatekeeping requirements set forth in the rule (such as board or
+shareholder approval), regardless of whether the acquisitions have a compensatory
+purpose or not. Ownership Reports, Exchange Act Release No. 37260, 61 Fed. Reg. at
+30378-79. See also Memorandum of the Securities and Exchange Commission, Amicus Curiae, in
+Support of Appellees’ Petition for Rehearing or Rehearing En Banc, at *4, filed in, Levy v. Sterling
+Holding Co., LLC., 314 F.3d 106, 124 (3d Cir. 2002), cert. denied, 540 U.S. 947 (2003),
+available at, www.sec.gov/litigation/briefs/levy-sterling022703.htm.
+As to the second contention, Dreiling cites no authority for the proposition
+that state law fiduciary duties prohibiting self-dealing do not apply to directors who do
+not actually sit on the board of a company but who operate through a deputy who sits
+on the board and who is working on their behalf. There is no question, however, that
+the person actually sitting on the board owes the company fiduciary duties. Not only
+can that person not engage in self-dealing on their own behalf, they cannot allow
+another to benefit at the expense of the company, even if the fiduciary does not
+personally benefit. See, e.g., Mosser v. Darrow, 341 U.S. 267, 272 (1951). Likewise, a
+
+-24-
+
+person who knowingly joins with the fiduciary in such a self-dealing transaction is
+liable to the beneficiary. See, e.g., Jackson v. Smith, 254 U.S. 586, 588-89 (1921). See
+generally, Dirks v. SEC, 463 U.S. 646, 660 (1983).
+Dreiling’s third contention does have merit. The Commission agrees that
+board or shareholder approval is not effective as a gatekeeping provision where the
+members of the board or shareholders are unaware that a person acquiring stock, in
+this case TRS, is a director. When it proposed the current rule, the Commission
+stated, “[t]he purpose of these [approval conditions] is to ensure that appropriate
+company gate-keeping procedures are in place to monitor any grants or awards and to
+ensure acknowledgment and accountability on the part of the company when it makes
+such grants and awards.” Ownership Reports and Trading by Officers, Directors and Principal
+Security Holders, Exchange Act Release No. 36356, 60 Fed. Reg. 53832, 53835 (Oct. 17,
+1995). To that end, Note 3 to the rule requires that each specific transaction be
+approved to assure that the board focuses on each particular grant or award, and is
+accountable for authorizing each one. Since the basis for the exemption is that
+approved grants of securities are likely to be motivated by legitimate corporate
+objectives, and not by an attempt to profit from inside information, it is important
+that the board actually consider each specific transaction, and that it evidence
+“acknowledgment and accountability” as to what it is doing.
+
+-25-
+
+If in this case, other members of the board did not know that House had been
+deputized to represent the interest of TRS on the InfoSpace board, as claimed by
+Dreiling, then the board would have no way of knowing that TRS was a director and
+that TRS, through House, had access to inside information. As such, the other
+members of the board of InfoSpace would have no reason for special vigilance as to
+the acquisition of InfoSpace stock by TRS, and the board would not effectively serve
+its gatekeeping function and ensure accountability. It is, therefore, imperative, for the
+purposes of Rule 16b-3(d), that the members of any corporate board know when
+another person serving on the same board is deputized by another person or entity to
+carry out its interests. Whether the board had such knowledge is a question of fact as
+to which the parties dispute, and as to which the Commission expresses no view.
+
+CONCLUSION
+
+-26-
+
+For the foregoing reasons, Commission urges this Court to hold that the
+Commission acted within its authority in adopting Rule 16b-3(d) and that, to the
+extent a person is a director by “deputization,” exemptive Rule 16b-3(d) only applies
+to that person where the board approving the transaction to be covered by the rule is
+aware that the deputizing person is a director.
+Respectfully submitted,
+GIOVANNI P. PREZIOSO
+General Counsel
+JACOB H. STILLMAN
+Solicitor
+ERIC SUMMERGRAD
+Deputy Solicitor
+
+ALLAN A. CAPUTE
+Special Counsel to the Solicitor
+Securities and Exchange Commission
+Washington, D.C. 20549-0606
+(202) 942-0837 (Capute)
+Dated: April 5, 2005
+
+-27-
+
+

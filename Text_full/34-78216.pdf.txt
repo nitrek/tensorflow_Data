@@ -1,0 +1,1414 @@
+SECURITIES AND EXCHANGE COMMISSION
+(Release No. 34-78216; File No. SBSDR-2016-02)
+June 30, 2016
+Security-Based Swap Data Repositories; DTCC Data Repository (U.S.) LLC; Notice of Filing of
+Application for Registration as a Security-Based Swap Data Repository
+I.
+
+Introduction
+On April 6, 2016 and as amended on April 25, 2016, DTCC Data Repository (U.S.) LLC
+
+(“DDR”) filed with the Securities and Exchange Commission (“Commission”) a Form SDR
+seeking registration as a security-based swap data repository (“SDR”) under Section 13(n) of the
+Securities Exchange Act of 1934 (“Exchange Act”) 1 and the Commission’s rules promulgated
+thereunder. 2 DDR states that it proposes to operate as a registered SDR for security-based swap
+(“SBS”) transactions in the credit, equity, and interest rates 3 derivatives asset classes. The
+Commission is publishing this notice to solicit comments from interested persons regarding
+DDR’s Form SDR, 4 and the Commission will consider any comments it receives in making its
+determination whether to grant DDR registration as an SDR. 5
+1
+
+15 U.S.C. 78m(n)(3).
+
+2
+
+17 CFR 240.13n-1 through 240.13n-12.
+
+3
+
+DDR seeks to include in its application the “rates” asset class based on feedback from
+potential DDR participants who have identified certain types of transactions which will be
+reported through the interest rate infrastructure within the industry and that the industry
+participants have identified as falling under the definition of a SBS. The Commission notes that
+DDR’s application is for registration as a SBS data repository, which the Exchange Act defines
+as a “person that collects and maintains information or records with respect to transactions or
+positions in, or the terms and conditions of, security-based swaps entered into by third parties for
+the purpose of providing a centralized recordkeeping facility for security-based swaps.” 15
+U.S.C. 78c(a)(75).
+4
+
+DDR filed its Form SDR, including the exhibits thereto, electronically with the
+Commission. The descriptions set forth in this notice regarding the structure and operations of
+DDR have been derived, excerpted, and/or summarized from information in DDR’s Form SDR
+application, and principally from DDR’s Rulebook (Exhibit HH.2), which outlines the
+1
+
+II.
+
+Background
+A.
+
+SDR Registration, Duties and Core Principles, and Regulation SBSR
+
+Section 763(i) of the Dodd-Frank Act added Section 13(n) to the Exchange Act,
+which requires an SDR to register with the Commission and provides that, to be registered and
+maintain registration as an SDR, an SDR must comply with certain requirements and “core
+principles” described in Section 13(n) and any requirement that the Commission may impose by
+rule or regulation. 6
+The Commission adopted Exchange Act Rules 13n-1 through 13n-12 (“SDR rules”),
+which require an SDR to register with the Commission and comply with certain “duties and core
+principles.” 7 Among other requirements, the SDR rules require an SDR to collect and maintain
+accurate SBS data and make such data available to the Commission and other authorities so that
+relevant authorities will be better able to monitor the buildup and concentration of risk exposure
+in the SBS market. 8
+
+applicant’s policies and procedures designed to address its statutory and regulatory obligations as
+an SDR registered with the Commission. DDR’s Form SDR application and non-confidential
+exhibits thereto are available on https://www.sec.gov/cgi-bin/browseedgar?company=dtcc&owner=exclude&action=getcompany. In addition, the public may access
+copies of these materials on the Commission’s website at:
+https://www.sec.gov/rules/other/2016/dtcc-data-repository-form-sdr.htm.
+5
+
+DDR’s Form SDR application also constitutes an application for registration as a
+securities information processor. See Exchange Act Release No. 74246 (Feb. 11, 2015), 80 FR
+14438, 14458 (Mar. 19, 2015) (“SDR Adopting Release”).
+6
+
+15 U.S.C. 78m(n).
+
+7
+
+See SDR Adopting Release, 80 FR 14438.
+
+8
+
+See SDR Adopting Release, 80 FR at 14450.
+
+2
+
+Concurrent with the Commission’s adoption of the SDR rules, the Commission adopted
+Regulation SBSR, 9 which, among other things, provides for the reporting of SBS information to
+registered SDRs, and the public dissemination of SBS transaction, volume, and pricing
+information by registered SDRs. In addition, Regulation SBSR requires each registered SDR to
+register with the Commission as a securities information processor. 10
+B.
+
+Standard for Granting SDR Registration
+
+To be registered with the Commission as an SDR and maintain such registration, an SDR
+is required (absent an exemption) to comply with the requirements and core principles described
+in Exchange Act Section 13(n), as well as with any requirements that the Commission adopts by
+rule or regulation. 11 Exchange Act Rule 13n-1(c)(3) provides that the Commission shall grant
+the registration of an SDR if it finds that the SDR is so organized, and has the capacity, to be
+able to (i) assure the prompt, accurate, and reliable performance of its functions as an SDR; (ii)
+comply with any applicable provisions of the securities laws and the rules and regulations
+thereunder; and (iii) carry out its functions in a manner consistent with the purposes of Section
+13(n) of the Exchange Act and the rules and regulations thereunder. 12 The Commission must
+deny registration of an SDR if it does not make such a finding. 13
+In determining whether an applicant meets the criteria set forth in Rule 13n-1(c), the
+Commission will consider the information reflected by the applicant on its Form SDR, as well as
+9
+
+See Exchange Act Release No. 74244 (Feb. 11, 2015), 80 FR 14563 (Mar. 19, 2015)
+(“Regulation SBSR Adopting Release”).
+10
+
+See Regulation SBSR Adopting Release, 80 FR at 14567.
+
+11
+
+See Exchange Act Section 13(n)(3), 15 U.S.C. 78m(n)(3).
+
+12
+
+See 17 CFR 240.13n-1(c)(3).
+
+13
+
+See id.
+
+3
+
+any additional information obtained from the applicant. For example, Form SDR requires an
+applicant to provide, among other things, contact information, a list of the asset class(es) for
+which the applicant is collecting and maintaining data or for which it proposes to collect and
+maintain data, a description of the functions that it performs or proposes to perform, and general
+information regarding its business organization. 14 This, and other information reflected on the
+Form SDR, will assist the Commission in understanding the basis for registration as well as the
+SDR applicant’s overall business structure, financial condition, track record in providing access
+to its services and data, technological reliability, and policies and procedures to comply with its
+statutory and regulatory obligations. 15 Furthermore, the information requested in Form SDR will
+enable the Commission to assess whether the SDR applicant would be able to comply with the
+federal securities laws and the rules and regulations thereunder, and ultimately whether to grant
+or deny an application for registration. 16
+III.
+
+DDR Application for Registration
+DDR currently operates as a trade repository under the regulatory framework of other
+
+authorities. Specifically, DDR is a swap data repository regulated and provisionally registered
+by the Commodity Futures Trading Commission (“CFTC”). 17 In that capacity, DDR has been
+
+14
+
+See SDR Adopting Release, 80 FR at 14458.
+
+15
+
+See id.
+
+16
+
+See SDR Adopting Release, 80 FR at 14458-59.
+
+17
+
+See Order of Provisional Registration, In the Matter of the Request of DTCC Data
+Repository (U.S.), LLC for Provisional Registration as a Swap Data Repository Pursuant to
+Section 21 of the Commodity Exchange Act and Part 49 of the Commodity Futures Trading
+Commission’s Regulations (Sept. 19, 2012), available at
+http://www.cftc.gov/stellent/groups/public/@otherif/documents/ifdocs/dtccbodsonletter091912.p
+df; Order Adding Asset Class, In the Matter of the Request of DTCC Data Repository (U.S.)
+LLC to Amend Its Form SDR to Add the Other Commodity Asset Class Pursuant to Part 49 of
+4
+
+accepting derivatives data for the commodity, foreign exchange, interest rate, and credit asset
+classes in the United States since December 2012. 18 Additionally, in 2014, DDR was approved
+by the Ontario Securities Commission, 19 the Autorité des marchés financiers, 20 and the Manitoba
+Securities Commission 21 as a Canadian Trade Repository to serve the commodity, credit, equity,
+interest rate, and foreign exchange asset classes. 22
+A.
+
+Corporate Structure and Governance Arrangements
+
+DDR is a New York limited liability company, and is a wholly owned subsidiary of
+DTCC Deriv/SERV LLC, which, in turn, is a wholly owned subsidiary of The Depository Trust
+& Clearing Corporation (“DTCC”). 23 DDR is managed by a Board of Directors (“Board”)
+
+the Commission’s Regulations (Dec. 3, 2012), available at
+http://www.cftc.gov/stellent/groups/public/@otherif/documents/ifdocs/dtccsdrbodsonltr120312.p
+df.
+18
+
+See Press Release, DTCC, DTCC Swap Data Repository Real-Time Reporting Now Live
+(Jan. 03, 2013), available at http://www.dtcc.com/news/2013/january/03/swap-data-repositoryreal-time.
+19
+
+See Ontario Securities Commission, Order (Section 21.2.2 of the Securities Act), in the
+Matter of the Securities Act, R.S.O. 1990, Chapter S.5, as amended, and in the Matter of DTCC
+Data Repository (U.S.) LLC (Sept. 19, 2014), available at
+http://www.osc.gov.on.ca/en/SecuritiesLaw_ord_20140923_dtcc-data-repository.htm.
+20
+
+See Autorité des marchés financiers, Decision 2014-PDG-0110, Bulletin 2014-09-25,
+Vol. 11, n°38 (Sept. 23, 2014), available at
+https://www.lautorite.qc.ca/files/pdf/bulletin/2014/vol11no38/vol11no38_7.pdf.
+21
+
+See Manitoba Securities Commission, Order No. 7013 (Oct. 23, 2014), available at
+http://docs.mbsecurities.ca/msc/oe/en/105125/1/document.do.
+22
+
+Other trade repository subsidiaries of the Depository Trust & Clearing Corporation
+(“DTCC”) operate in Europe, Japan, Hong Kong, Singapore, and Australia. See generally
+http://dtcc.com/derivatives-services/global-trade-repository.
+23
+
+See Exhibit HH.2, Section 2.1. DTCC is the parent company of a variety of entities,
+including three clearing agencies registered under Section 17A of the Exchange Act and that
+have been designated as systemically important by the Financial Stability Oversight Council
+5
+
+responsible for overseeing its operations. 24 The Board (directly or by delegating certain
+responsibilities to its committees) fulfills its responsibilities under its charter and DDR’s mission
+statement by: (i) overseeing management’s activities in managing, operating, and developing
+DDR as a firm and evaluating management’s performance of its responsibilities; (ii) ratifying
+management’s selection of the CEO and providing advice and counsel to the CEO; (iii)
+providing oversight of the performance of the CEO and of DDR to evaluate whether the business
+is being appropriately managed; (iv) setting expectations about DDR’s tone and ethical culture
+and reviewing management efforts to instill an appropriate tone and culture; (v) reviewing and
+approving DDR’s financial objectives and major corporate plans and actions; (vi) providing
+guidance to the CEO and to management in formulating corporate strategy and approving
+strategic plans; (vii) providing oversight of risk assessment and risk management monitoring
+processes; (viii) providing input and direction to governance structures and practices to position
+the Board to fulfill its duties effectively and efficiently consistent with DDR’s principles of
+governance; (ix) providing oversight and guidance regarding the design of informational
+reporting to the Board and relevant regulators; (x) adopting principles governing new initiative
+approval processes and overseeing DDR’s processes relating to new business selection and
+development of new businesses and new or expanded products and services, including guidelines
+for the analyses supporting any material operational or risk management changes that are
+proposed by management; (xi) providing oversight of DDR’s internal and external audit
+processes, financial reporting, and disclosure controls and procedures, including approving major
+
+under Title VIII of the Dodd-Frank Act (i.e., the National Securities Clearing Corporation, the
+Fixed Income Clearing Corporation, and the Depository Trust Company).
+24
+
+See id.
+
+6
+
+changes in auditing and accounting principles and practices; (xii) fostering DDR’s ability to
+ensure compliance with applicable laws and regulations including derivatives, securities, and
+corporation laws and other applicable regulatory guidance and international standards; (xiii)
+ensuring that in DDR’s decision-making process an Independent Perspective as defined in
+Section 49.2 of the CFTC’s regulations, is considered; 25 and (xiv) performing such other
+functions as the Board believes appropriate or necessary, or as otherwise prescribed by rules or
+regulations. 26
+According to DDR, the number of directors on the Board is determined by DTCC
+Deriv/SERV LLC (“DTCC Deriv/SERV”) as the sole LLC member of DDR. 27 DDR represents
+that DTCC Deriv/SERV will strive to include on the Board an equal number of representatives
+of U.S. and non-U.S. domiciled firms. 28 DDR represents that the Board is composed of
+individuals from the following groups: employees of DDR’s users (either fees-paying users or
+end users) with derivatives industry experience, buy-side representatives, independents, and
+members of DTCC’s senior management or DTCC’s Board of Directors, with the understanding
+that at least two Board members will be DTCC senior management or DTCC Board members. 29
+DDR represents that DTCC Deriv/SERV’s Nominating Committee shall periodically review the
+
+25
+
+The CFTC has defined the term “Independent Perspective” to mean “a viewpoint that is
+impartial regarding competitive, commercial, or industry concerns and contemplates the effect of
+a decision on all constituencies involved.” 17 CFR 49.2(a)(6).
+26
+
+See Exhibit D.2 (DDR Mission Statement and Board Charter).
+
+27
+
+See Exhibits D (governance narrative), D.2, and HH.2, Section 2.2.
+
+28
+
+See Exhibits D and D.2.
+
+29
+
+See id.; see also Exhibit HH.2, Section 2.2. DDR states that the Board will include
+appropriate representation by individuals who are independent as specified by applicable
+regulations. See id.
+
+7
+
+Board’s composition to assure that the DDR directors possess the skills required to direct and
+oversee management in the best interests of its shareholders and other stakeholders, with these
+skills including derivatives industry experience, risk management experience, business
+specialization, technical skills, industry stature, and seniority and experience at their own
+organizations. 30
+Additionally, DDR represents that it welcomes suggestions from market participants of
+proposed or alternative candidates to serve on the DDR Board, which may be submitted through
+the notices procedures described in the Operating Procedures of DDR’s Rulebook. 31
+DDR’s Rulebook provides that its Chief Compliance Officer (“CCO”) is appointed by the
+Board and reports directly to the chief executive officer of DDR. 32 The Board is responsible for
+the appointment and removal of the CCO and approval of CCO compensation, which is at the
+discretion of the Board and effected by majority vote. 33 In addition, the Board shall meet with
+the CCO at least annually. 34 According to DDR, the CCO also works directly with the Board in
+certain instances, for example, when resolving conflicts of interest. 35 DDR represents that the
+CCO’s responsibilities include, but are not limited to, the following items: (i) oversee and review
+DDR’s compliance with the applicable regulations; (ii) establish and administer written policies
+and procedures reasonably designed to prevent violation of the applicable regulations; (iii) take
+
+30
+
+See Exhibit D.
+
+31
+
+See Exhibit HH.2, Section 2.2 and attached Operating Procedures.
+
+32
+
+See Exhibit HH.2, Section 2.3.
+
+33
+
+See id.
+
+34
+
+See id.
+
+35
+
+See id.
+
+8
+
+reasonable steps to ensure compliance with applicable regulations relating to agreements,
+contracts or transactions; (iv) establish procedures for the remediation of non-compliance issues
+identified by the CCO through a compliance office review, look-back, internal or external audit
+finding, self-reported error, or validated complaint; (v) notify the Board as soon as practicable
+upon becoming aware of a circumstance indicating that DDR, or an individual acting on its
+behalf, is in non-compliance with the applicable laws of a jurisdiction in which it operates and
+either: (a) the non-compliance creates a risk to a DDR User; 36 (b) the non-compliance creates a
+risk of harm to the capital markets in which it operates; (c) the non-compliance is part of a
+pattern of non-compliance; or (d) the non-compliance may have an impact on DDR’s ability to
+carry on business as a trade repository in compliance with applicable law; (vi) establish and
+follow appropriate procedures for the handling, management response, remediation, retesting and
+closing of noncompliance issues; (vii) establish and administer a written code of ethics; and
+(viii) prepare and sign an annual compliance report in accordance with applicable regulations
+and associated recordkeeping. 37
+DDR directors must comply with DDR’s Board Code of Ethics and Conflicts of Interest
+Policy (the “Code”), which is intended to focus directors on their duties as fiduciaries and
+provide guidance to directors to help them recognize and deal with ethical issues, provide
+mechanisms to report unethical conduct, help foster a culture of honesty and accountability, and
+address actual and potential conflicts of interest. 38 In addition, each director is required to
+36
+
+DDR defines the term “User” to mean an entity that has executed a DDR User
+Agreement, which allows for participation in one or more DDR services or systems. See Exhibit
+HH.2, Section 12.
+37
+
+See Exhibit HH.2, Section 2.3.
+
+38
+
+See Exhibit D.4 (DDR Board Code of Ethics).
+
+9
+
+complete a certificate attesting to compliance with DDR’s Code upon becoming a director, and,
+thereafter, on an annual basis. According to DDR’s Code, key responsibilities for directors
+include: (i) acting honestly, in good faith and in the best interests of DDR and all of the users of
+DDR; (ii) using best efforts to avoid conflicts between personal and professional interests as they
+relate to DDR where possible; (iii) disclosing any conflicts and otherwise pursuing the ethical
+handling of conflicts (whether actual or apparent) when conflicts or the appearance of conflicts
+are unavoidable; (iv) complying with all applicable laws, regulations and DDR policies; (v)
+promptly reporting any violations of the Code to the Chairman of DDR’s Board or to DDR’s
+counsel and DDR’s CCO; (vi) seeking guidance where necessary; and (vii) being accountable
+personally for adherence to the Code. 39
+B.
+
+Description of DDR’s SDR Service
+
+DDR has applied to register as an SDR with the Commission to accept data in respect of
+all SBS transactions in the credit, equity, and interest rates derivatives asset classes. 40
+DDR represents that, if registered with the Commission, it would, among other things: (i)
+perform all of the required functions of an SDR under the Commission’s Rules 13n-1 through
+13n-11; (ii) accept, from or on behalf of Users, transaction and life-cycle data for SBS as
+specified in the Commission’s Regulation SBSR, as and when required to be reported to an SDR
+thereunder; (iii) verify and maintain swap and SBS data as required by such regulations; (iv)
+publicly disseminate SBS data as and when required under the Commission’s Regulation SBSR,
+either directly or through one or more third parties; (v) provide access to swap and SBS data to
+appropriate regulators; and (vi) generate reports with respect to transaction data maintained in
+39
+
+See id.
+
+40
+
+See DDR Form SDR, Item 6; see also Exhibit HH.2, Section 3.1.
+
+10
+
+DDR, in each case as specified in further detail in DDR’s Operating Procedures and applicable
+publications. 41
+C.
+
+Access
+
+DDR represents that it would provide access to its SDR service on a fair, open and equal
+basis. 42 According to DDR, access to and usage of its SDR service would be available to all
+market participants that engage in SBS transactions, and DDR does not and would not bundle or
+tie its SDR services with any other services. 43 DDR represents that to participate in its SDR
+services, each User would be required to (i) enter into a User Agreement in one of the forms
+provided by DDR and (ii) agree to be bound by the terms of the User Agreement and DDR’s
+Operating Procedures. 44 According to DDR, an entity would be permitted to view the records
+relating to an individual transaction if it is: (i) a counterparty or an authorized agent of a
+counterparty to the transaction; (ii) a regulator and the transaction is reportable to that regulator;
+or (iii) a third-party agent submitter of the transaction, provided that agents who are submitters
+will not be able to view the current positions, unless authorized by a counterparty to the
+transaction, but will be able to see the submission report only for the purpose of viewing the
+success or failure of messages submitted by such agents. 45 DDR represents that it shall retain
+exclusive control over the system through which its SDR services are provided. 46
+
+41
+
+See Exhibit HH.2, SDR Appendix to the DDR Operating Procedures.
+
+42
+
+See Exhibits U, V, Y, and HH.2, Section 1.1.
+
+43
+
+See Exhibit HH.2, Section 1.1.
+
+44
+
+See Exhibit HH.2, Section 1.2.
+
+45
+
+See Exhibit HH.2, Section 1.3.
+
+46
+
+See id.
+
+11
+
+DDR represents that it may summarily terminate a User’s account and access to SDR
+services when the Board determines that: (a) the User has materially breached its User
+Agreement, DDR’s Operating Procedures, or the rules contained in its Rulebook, which
+threatens or may cause immediate harm to the normal operation of DDR’s system, or any
+applicable law including those relating to the regulations administered and enforced by the U.S.
+Department of Treasury’s Office of Foreign Assets Control or the Canadian Government Office of
+the Superintendent of Financial Institutions; or (b) the User’s account or User’s IT system is
+
+causing material harm to the normal operation of DDR’s system. 47 According to DDR, the
+following actions must take place before DDR staff initiates any actions which may result in a
+User’s termination of access to the DDR system and, specifically, SDR services: (i) DDR senior
+management, as well as DDR’s counsel and CCO, must be involved in any decision to
+involuntarily terminate a User; and (ii) the Chairman of the Board of DDR must be notified in
+advance of any involuntary termination. 48 DDR represents that, upon a summary termination of
+a User’s access pursuant to its rulebook, DDR shall, as soon as possible, notify the impacted
+User of the termination in writing or via e-mail, with such notice stating, to the extent
+practicable, in general terms how pending transaction submissions and other pending matters
+will be affected and what steps are to be taken in connection therewith. 49
+
+47
+
+See Exhibit HH.2, Section 10.3.1.
+
+48
+
+See id.
+
+49
+
+See id. Because persons applying to be SDRs are also applying to be SIPs with the
+Commission, the procedures for notifying the Commission of any prohibitions or limitations of
+access to services as provided in Section 11A(b)(5)(A) would apply. See SDR Adopting
+Release, 80 FR at 14482 (“Rule 909 of Regulation SBSR, which the Commission is concurrently
+adopting in a separate release, requires each registered SDR to register as a SIP, and, as such,
+Exchange Act Section 11A(b)(5) governs denials of access to services by an SDR. This section
+provides that ‘[i]f any registered securities information processor prohibits or limits any person
+12
+
+D.
+
+Use of Data
+
+DDR represents that its services would be available to all market participants on a fair,
+open and equal basis. DDR represents that a market participant must be on-boarded as a DDR
+User to be granted access to the DDR system, receive trade information, confirm or verify
+transactions, submit messages, or receive reports. 50 For those market participants that on-board,
+DDR would provide a mechanism for Users to access the DDR system to confirm and verify
+transactions and provide Unique Identification Code (“UIC”) information as required under its
+procedures. Additionally, DDR represents that access to U.S. swap or SBS data maintained by
+DDR to market participants is generally prohibited except to: (i) either counterparty to that
+particular swap or SBS; (ii) authorized third-party service providers or other parties specifically
+authorized by the User or counterparty pursuant to DDR’s Rulebook; (iii) or to appropriate
+domestic or foreign regulators in accordance with applicable regulation and DDR’s Rulebook. 51
+E.
+
+Asset Classes Accepted; Submission Requirements; Validation
+
+DDR has represented that it would accept data in respect of all SBS trades in the credit
+equity, and interest rate 52 derivatives asset classes. 53 DDR has represented that Users would be
+
+in respect of access to services offered, directly or indirectly, by such securities information
+processor, the registered securities information processor shall promptly file notice thereof with
+the Commission.’ Accordingly, an SDR must promptly notify the Commission if it prohibits or
+limits access to any of its services to any person.”).
+50
+
+See Exhibit HH.2, Section1.1.
+
+51
+
+See Exhibit HH.2, Section 6.3. With respect to regulator access, DDR also represents
+that pursuant to applicable law, the designated regulators (which is defined to include regulators
+which supervise DDR, including the Commission and CFTC) shall be provided with direct
+electronic access to DDR data reported to DDR in satisfaction of such regulator’s regulatory
+mandate to satisfy their legal and regulatory obligations. See id., Sections 6.2 and 12.
+52
+
+See n.3 supra.
+
+53
+
+See Form SDR and Exhibit HH.2, Section 3.1.
+13
+
+required to submit trade information in the data format required by DDR. DDR would accept
+data using the following open-source structured data formats: Financial Products Markup
+Language (“FpML”) and Comma-separated Value (“CSV”) file. 54
+Exhibits GG.2 (for credit derivatives), GG.4 (for equity derivatives), and GG.6 (for
+interest rates) to DDR’s application enumerate the required fields and acceptable values for the
+submission of trade information into the DDR system. Upon submission of a transaction, DDR
+will perform validation checks to ensure that each submitted record is in the proper format and
+will also perform validation and consistency checks against certain data elements, including, for
+example, sequencing of time and date fields (e.g., the termination date must be greater than the
+trade date). 55 These validation types include:
+•
+
+Schema validations - check that a submission is consistent with the
+accepted format (i.e., CSV is valid, the fields are formatted correctly);
+
+•
+
+Core validations - the basic checks that ensure the submission can be
+accepted into the SDR (i.e., Permission, USI/UTI lock, transaction and
+action type consistency validations);
+
+•
+
+Business validation - applied at the point of in-bound submission
+processing to ensure integrity and logical consistency. These validations
+will ensure that the messages are well formed and provide a logical and
+complete description of the core trade economics and ensure that DDR
+does not degrade the quality of the information held within the repository
+
+54
+
+See Exhibit GG.3.
+
+55
+
+See Exhibit HH.2, Section 10.1.1.
+
+14
+
+by allowing incomplete or illogical trade descriptions to be accepted and
+stored; and
+•
+
+Regulatory validations – regulatory-specific validations applied following
+the normal business validations. (For example, if the same field is
+required by one jurisdiction and is optional for another, the jurisdiction
+requiring the field would have a regulatory validation to check for the
+field.) 56
+
+DDR further represents that it would accept or reject transactions based on its validation
+process. 57 DDR’s policies and procedures state that acceptance messages are called ACKs
+(acceptance) and rejection messages are called NACKs (negative acceptance). 58 Where a
+transaction is accepted, both the submitting party and its on-boarded counterparty would receive
+electronic ACK messages. Where a transaction was not accepted, the submitting party would
+receive an electronic NACK message along with an associated error code so that they can correct
+the transaction and retransmit to DDR. Where a transaction is accepted but fails one of the
+jurisdictional (i.e., regulatory) validations, the submitting party will receive an electronic
+notification along with the associated error code so it can correct the transaction and retransmit
+to DDR. 59
+DDR represents that DDR may reject a transaction record submitted due to the
+submission failing to meet DDR validations, including but not limited to the submission failing
+56
+
+See Exhibit GG.3.
+
+57
+
+See Exhibit GG.3.
+
+58
+
+See id.
+
+59
+
+See id.
+
+15
+
+to be in a format that can be ingested by DDR, failing to meet jurisdictional (i.e., regulatory)
+requirements or failing to provide required data elements. 60 DDR further represents that a
+rejected submission is deemed not to have been submitted at all with respect to reporting to the
+jurisdiction for which it was rejected, and that it is possible that one transmission is submitted to
+comply with reporting in more than one jurisdiction and may be acceptable for one jurisdiction,
+but rejected for the other. 61
+In connection with the reporting of “pre-enactment and transitional SBS,” DDR
+represents that it will accept the following types of historical trades: (i) “Historical Expired,”
+which are pre-enactment SBS executed before July 21, 2010 but expired or terminated before the
+compliance date for Regulation SBSR, (ii) “Historical,” which are transitional SBS executed
+after July 21, 2010 but expired or terminated before the compliance date for Regulation SBSR,
+and (iii) “Backload,” which are pre-enactment SBS or transitional SBS in existence on or after
+the compliance date for Regulation SBSR. 62 DDR states that it does not validate whether or not
+the historical expired trade satisfies the Commission’s definition of an expired pre-enactment or
+transitional swap, and that the Historical and Historical Expired trades will be subject to a
+minimal set of validations in order for the submission to be accepted by DDR, which will focus
+on core fields necessary for the system to ingest the trade (including a valid Unique Transaction
+Identifier). 63 DDR further states that Backload trades will have the standard validations that are
+
+60
+
+See id.
+
+61
+
+See Exhibit HH.2, Section 1.2 and Exhibit GG.3.
+
+62
+
+See Exhibit GG.3.
+
+63
+
+See id.
+
+16
+
+applied on all SBS submissions and must meet the requirements in order for the submission to be
+ingested and reported to the Commission. 64
+F.
+
+Verification of Transaction Data
+
+DDR represents that its SDR services verification processes are designed to reasonably
+establish that the transaction data that has been submitted to DDR is complete and accurate. 65
+Once a position is established either through a snapshot or DDR’s own calculation of events
+from transaction records, the terms of the position are designated as either verified, disputed,
+pending verification, or deemed verified. 66
+According to DDR, a transaction record is verified if it (i) is submitted by a Trusted
+Source (which is defined as an entity, which has entered into a User agreement, been recognized
+as a Trusted Source by DDR and provides the definitive report of a given position), 67 (ii) is a
+trade between affiliated parties, (iii) is submitted from an affirmation or confirmation platform,
+or (iv) was executed on an electronic trading facility. 68 In addition, the non-reporting User is
+responsible for verifying the accuracy of the information that has been submitted by the reporting
+party User. DDR represents that a non-reporting User can verify the accuracy of such
+information by sending a verification message indicating that it verifies or disputes each position
+where it is identified as the counterparty. 69
+64
+
+See id.
+
+65
+
+See Exhibit HH.2, Section 3.3.4.
+
+66
+
+See id. A “snapshot” refers to a message that reflects the current state of the trade, which
+DDR refers to as the trade’s position.
+67
+
+See Exhibit HH.2, Section 12.
+
+68
+
+See Exhibit HH.2. Sections 3.3.4 and 3.3.2.1 and Exhibit GG.3.
+
+69
+
+See id.
+17
+
+DDR represents that it would attempt to contact counterparties to a trade reported to DDR
+who are not Users (a “Non-User”), where such party’s LEI is provided and there is e-mail
+contact information available to DDR in the information or static data maintained by the DTCC
+trade repositories 70 about their Users, to notify the non-User that a trade has been reported on
+which it might have been named a counterparty and it must on-board to DDR to verify the
+accuracy of the information submitted and provide any missing information such as UICs, if
+applicable. 71 DDR represents that, if no LEI is provided or if the e-mail information is not
+available (for example, under local privacy laws or contractual obligations between the
+counterparty and the trade repository with which it has contracted as a User), it would take no
+further action. 72 In addition, DDR will not verify the accuracy of the e-mail, nor follow up if an
+e-mail bounces back. 73 DDR represents that it will provide the Commission and CFTC with a
+monthly status of the outreach to Non-Users. 74
+The DDR system will provide trade detail reports that will enable Users to view all
+transaction records, which will allow Users to reconcile the transaction records in the SDR
+services to their own risk systems. 75 DDR’s policies and procedures provide that, in the event
+that both counterparties to a trade agree that data submitted to DDR contains erroneous
+information (e.g., through a mutual mistake of fact), such Users may each submit a cancel
+
+70
+
+DTCC operates trade repositories in a number of other jurisdictions. See n.22 supra.
+
+71
+
+See Exhibit HH.2. Sections 3.3.4 and 3.3.2.1 and Exhibit GG.3.
+
+72
+
+See id.
+
+73
+
+See id.
+
+74
+
+See Exhibit HH.2, Section 3.3.4.1.
+
+75
+
+See Exhibit HH.2, Section 10.1.2.
+
+18
+
+record, effectively cancelling the incorrect transaction record. 76 If a trade record has been
+submitted by only one counterparty and it is determined by the submitting User that it is
+erroneous, the submitting User may submit a cancel record. 77 A User may cancel only its own
+submitted record and cannot cancel a record where it is not the submitting party of the record. 78
+DDR shall maintain a record of all corrected errors pursuant to applicable regulations and such
+records shall be available upon request to the applicable designated regulator. 79
+G.
+
+Disputed Trade Data
+
+Under DDR’s policies and procedures, Users are responsible for resolving any disputes
+between themselves uncovered during any reconciliation process and, as appropriate, for
+submitting correct information. 80 If a User disputes a transaction record alleged to apply to it by
+the counterparty, or disputes any of the terms within the alleged transaction, the User shall
+register such dispute by submitting a “dispute” message. 81 If such User fails to register such
+dispute within 48 hours of the relevant trade detail report being issued, the record will be marked
+as “deemed verified” in the DDR system. 82 All reports and trade records provided to regulators
+will include the status of these transaction records, including dispute and verification status. 83
+Where DDR has received conflicting or inconsistent records from more than one submitter in
+76
+
+See Exhibit HH.2, Section 10.1.1.
+
+77
+
+See id.
+
+78
+
+See Exhibit HH.2, Section 10.1.1.
+
+79
+
+See id.
+
+80
+
+See Exhibit HH.2, Section 10.1.2.
+
+81
+
+See id.
+
+82
+
+See id.
+
+83
+
+See id.
+
+19
+
+respect of a particular transaction (such as from a security-based swap execution facility and a
+reporting party User), DDR would maintain all such records (unless cancelled or modified in
+accordance with the terms of the Rulebook) and make such records available to designated
+regulators in accordance with the terms of the User Agreement and applicable law. 84
+H.
+
+Application and Dissemination of Condition Flags
+
+DDR represents that, with respect to flags that are applied to publicly disseminated
+reports to help prevent a distorted view of the market, DDR has established the following flags
+that indicate that additional information is needed to understand the publicly disseminated price:
+Inter-affiliate, Nonstandard flag, Off market flag, Pricing context, and Compressed trade. 85
+DDR also states that further information regarding the flags is available in its matrices under the
+narrative column. 86
+I.
+
+Calculation and Maintenance of Positions
+
+DDR’s SDR service would allow DDR to calculate open positions for persons with open
+SBS for which DDR maintains records. DDR’s policies and procedures relating to its
+calculation of positions are provided in Exhibit DD.
+J.
+
+Assignment of Unique Identification Codes
+
+DDR’s policies and procedures state that pursuant to Commission regulation (e.g.,
+Regulation SBSR), all registered SDRs must have a systemic means of identifying and tracking
+all products and persons involved in a SBS transaction, and that Commission regulation (e.g.,
+84
+
+See id.
+
+85
+
+See Exhibit GG.1.
+
+86
+
+See id.; see also Exhibits GG.2, GG.4, and GG.6, which are the matrices that enumerate
+the required fields and acceptable values for the submission of trade information into the DDR
+system.
+
+20
+
+Regulation SBSR) has prescribed 10 identifiers where a UIC shall be used. 87 Further, DDR
+represents that it requires all Users to obtain a valid LEI where it exists, from an internationally
+recognized standards-setting system (“IRSS”) that is recognized by the Commission, and that,
+where LEIs are populated, DDR performs a digit check on the LEI. 88
+DDR has proposed that its Users will be required to provide Legal Entity Identifiers for
+the following fields: platform ID, ultimate parent ID, counterparty ID, broker ID, and execution
+agent ID. 89 For other UICs (transaction ID, branch ID, trading desk ID, trader ID, and product
+ID)as discussed further below, DDR has further proposed that each User will be required to
+create the identifiers in prescribed formats, and that it shall be each User’s responsibility to
+maintain such identifiers (including, but not limited to, any internal mapping of static data) and
+to ensure their continued accuracy. 90
+K.
+
+Transaction ID Methodology
+
+DDR represents that it accepts transaction IDs in the UTI field. 91 To validate the
+uniqueness of each transaction ID, DDR would apply a methodology, which it refers to as
+“Locks,” that prevents the transaction ID from being used for another trade in the same or
+
+87
+
+See Exhibit GG.3; see also Exhibit HH.2, Section 4.1.
+
+88
+
+See Exhibit GG.3. DDR also notes that the Commission has recognized the global Legal
+Entity Identifier (“LEI”) as an internationally recognized standards-setting system (“IRSS”).
+89
+
+See id. For counterparty IDs for entities that do not have an LEI (such as a natural
+person), DDR has proposed alternative methods for providing a counterparty ID.
+90
+
+See id.
+
+91
+
+See Exhibit GG.3.
+
+21
+
+another jurisdiction. 92 However, DDR also represents that it is the responsibility of the reporting
+party User to create and provide the transaction ID on each transaction. 93
+K.
+
+Ultimate Parent and Affiliate Information
+
+DDR represents that it captures the UIC for ultimate parent ID in DDR’s system at the
+time a User on-boards to DDR as this is static information that does not vary by trade. DDR
+requires that each User provide the LEI of the ultimate parent for each account that is registered
+with DDR, with the exception of (1) natural persons who are not required to provide an LEI for
+ultimate parent and (2) asset managers and the funds they manage (for asset managers, if the
+ultimate parent LEI of the fund is unavailable, DDR will accept the LEI for the fund). 94
+M.
+
+Branch, Trading Desk, and Trader ID
+
+DDR represents that each User is required to create, among other identifiers, the branch
+ID, trading desk ID, and trader ID. With respect to branch ID, DDR represents that it requires
+the User to provide the two digit ISO alpha country code and the two digit subdivision (city)
+code where the branch or other unincorporated office is located. DDR represents that if the User
+has more than one branch in the same subdivision (city), the branch ID will also include a single
+digit following the country and city code referencing the specific branch, such as 1 or 2, for
+example. 95 DDR represents that it requires that Users populate the trading desk ID and trader ID
+fields using an alphanumeric code with ten characters or less. 96
+
+92
+
+See id.
+
+93
+
+See id.
+
+94
+
+See id.; see also Exhibit HH.2.
+
+95
+
+See Exhibit GG.3.
+
+96
+
+See id.
+
+22
+
+N.
+
+Product ID
+
+DDR represents that each User is required to create the product ID. DDR represents that
+the product ID for all asset classes will be the ISDA taxonomy. 97
+O.
+
+Missing UIC Information
+
+Rule 906(a) of Regulation SBSR requires a registered SDR to identify any SBS reported
+to it for which the registered SDR does not have the counterparty ID and (if applicable) the
+broker ID, branch ID, execution agent ID, trading desk ID, and trader ID of each direct
+counterparty. Once a day, the registered SDR must send a report to each participant of the
+registered SDR (or, if applicable, an execution agent) identifying, for each SBS to which that
+participant is a counterparty, the SBS(s) for which the registered SDR lacks the counterparty ID
+and (if applicable) broker ID, branch ID, execution agent ID, trading desk ID, or trader ID.
+DDR’s policies and procedures provide that to assist each User in identifying and
+supplying missing UIC information, the User’s position report, which shall be made available
+each day to all Users, can be used to identify each SBS transaction for which DDR lacks any of
+the required UICs. 98 DDR further represents that it will utilize a procedure similar to its process
+for contacting non-Users to confirm transactions to attempt to obtain missing UIC information. 99
+P.
+
+Public Dissemination
+
+According to DDR, its public price dissemination (“PPD”) solution provides Users with a
+way to report prices publicly pursuant to the Commission regulations for SBS (e.g., Regulation
+SBSR). DDR’s policies and procedures state that reporting sides are provided with a specific
+97
+
+See id.
+
+98
+
+See Exhibit HH.2, Section 4.2.3.3.
+
+99
+
+See id.
+
+23
+
+message (the “PPD Message”), with which to provide information required to be disseminated.
+The PPD Message is available for dissemination if the fields “Reporting Obligation Party 1” or
+“Reporting Obligation Party 2” are populated with “SEC” and the message passes validations. 100
+According to DDR, the PPD platform will perform validations on every PPD Message
+submitted, and based on the result of that validation, it will issue a response to the relevant
+parties indicating a positive or negative validation result (i.e., the “ACK” or “NACK” messages
+discussed in Section III.E).
+DDR’s policies and procedures state that DDR requires a separate message for public
+dissemination and for updating the position record. 101 DDR’s policies and procedures also state
+that DDR requires that PPD Messages be sent at the same time as position messages (i.e.,
+Primary Economic Terms (“PET”), Confirmation, and/or Snapshot messages). 102 Further,
+DDR’s policies and procedures provide that DDR does not determine whether a PPD Message
+should be disseminated publicly, and that any such PPD Message received is disseminated
+publicly if it passes validations and is directed to the Commission, as discussed above. 103
+Further, DDR states that it requires that the reporting party User provide only PPD Messages that
+are required to be disseminated under the regulations. 104
+
+100
+
+See Exhibit GG.3.
+
+101
+
+See Exhibit GG.3.
+
+102
+
+See id. DDR’s User Guide (Exhibit GG.3) also provides descriptions of each of these
+types of messages. For example, a PET message is used to report the full details of the economic
+terms for trade and lifecycle events prior to confirmation.
+103
+
+See id. and Exhibit HH.2, Section 5.1.2.
+
+104
+
+See id.
+
+24
+
+DDR represents that the PPD will receive messages with the following potential entries
+in the “Action” field for a UTI: New, Modify, and Cancel. 105 A New message will be the first
+report for a trade event submission, and only one UTI with an action of New will be allowed. 106
+A Modify message will be a valid modification or correction to an existing trade event that has
+previously been reported by a submitting party, and the Modify action will be displayed to the
+public as a Cancel of the original submission and a Correction representing the Modify
+submission. 107 A cancel message will instruct the PPD Platform to cancel the last submission on
+a particular UTI, and, if the previous submission has been disseminated, the PPD Platform will
+disseminate the cancel with the original dissemination ID link. 108
+Q.
+
+Safeguarding Data, Operational Reliability, and Emergency Authority
+
+DDR represents that the DDR system is supported by DTCC and relies on the disaster
+recovery program maintained by DTCC. 109 DDR’s policies and procedures provide the key
+principles below for business continuity and disaster recovery that DDR follows to enable DDR
+to provide timely resumption of critical services should there be any disruption to DDR business:
+(i) achieve recovery of critical services within a four-hour window with faster recovery time in
+less extreme situations; (ii) disperse staff across geographically diverse operating facilities; (iii)
+operate multiple back-up data centers linked by a highly resilient network technology; (iv)
+maintain emergency command and out-of-region operating control; (v) utilize new technology
+105
+
+See Exhibit GG.3.
+
+106
+
+See id.
+
+107
+
+See id.
+
+108
+
+See id. The dissemination ID is a DDR-generated identifier used to uniquely identify a
+message without exposing the UTI and will be used to manage cancellations and corrections.
+109
+
+See Exhibit HH.2, Section 8.1.
+
+25
+
+which provides high-volume, high-speed, asynchronous data transfer over distances of 1,000
+miles or more; (vi) maintain processes that mitigate marketplace, operational and cyber-attack
+risks; (vii) test continuity plan readiness and connectivity on a regular basis, ensuring that Users
+and third-party vendors/service providers can connect to DDR’s primary and back-up sites; (viii)
+communicate on an emergency basis with the market, Users, and government agency decisionmakers; and (ix) evaluate, test, and utilize best business continuity and resiliency practices. 110
+DDR represents that it retains the right to exercise emergency authority in the event of
+circumstances determined by DDR to require such response or upon request by the designated
+regulators as applicable, and that any exercise of DDR’s emergency authority shall be adequate
+to address the nature and scope of any such emergency. 111 DDR further represents that its CEO
+shall have the authority to exercise emergency authority, and that in his/her absence, any other
+officer of DDR shall have such authority. 112 DDR has stated that circumstances requiring the
+invocation of emergency authority include, but are not limited to, occurrences or circumstances:
+(a) determined by DDR to constitute an emergency; (b) which threaten the proper functioning of
+the DDR system and the SDR services; or (c) which materially and adversely affect the
+performance of the DDR system and the SDR services. 113 DDR states that emergencies include,
+but are not limited to, natural, man-made and information technology emergencies. 114
+
+110
+
+See id.
+
+111
+
+See Exhibit HH.2, Section 7.3.
+
+112
+
+See id.
+
+113
+
+See id.
+
+114
+
+See id.
+
+26
+
+Pursuant to its policies and procedures, DDR shall notify the designated regulators, as
+soon as reasonably practicable, of an invocation of emergency authority or a material system
+outage is detected by DDR. 115 Such notification shall be provided in accordance with applicable
+regulations and will include the reasons for taking such emergency action, how potential
+conflicts of interest were minimized and documentation of the decision-making process. 116
+Documentation underlying the emergency shall be made available to the designated regulators
+upon request. 117 DDR also represents that it shall issue an “Important Notice” as to all Users as
+soon as reasonably practicable in the event such emergency authority is exercised. 118
+DDR represents that it shall avoid conflicts of interest in decision-making with respect to
+emergency authority taken. 119 If a potential conflict of interest arises, the CCO shall be notified
+and consulted for the purpose of resolving the potential conflict. 120
+DDR represents that any emergency actions taken by DDR may be terminated by the
+CEO and in his/her absence, any other officer of DDR, and that any such termination of an
+emergency action will be followed by the issuance of an Important Notice as soon as reasonably
+practicable. 121
+R.
+
+Data Confidentiality; Sensitive Information and Security
+
+115
+
+See Exhibit HH.2, Section 7.3.
+
+116
+
+See id.
+
+117
+
+See id.
+
+118
+
+See id. An “Important Notice” is a formal notice sent to Users describing significant
+changes to DDR Rules, DDR Systems or other processes. See id., Section 12.
+119
+
+See Exhibit HH.2, Section 7.3.
+
+120
+
+See id.
+
+121
+
+See id.
+
+27
+
+DDR represents that DTCC has established a Technology Risk Management Team,
+whose role is to manage information security risk and ensure the availability, integrity, and
+confidentiality of the organization’s information assets, but that DDR will be responsible for
+monitoring the performance of DTCC with regard to implementation and maintenance of
+information security within its infrastructure. 122 DDR further represents that various policies
+have been developed to provide the framework for both physical and information security and
+are routinely refreshed. The Technology Risk Management Team carries out a series of
+processes to endeavor to ensure DDR is protected in a cost-effective and comprehensive manner.
+This includes preventative controls such as firewalls, appropriate encryption technology, and
+authentication methods. Vulnerability scanning is used to identify high risks to be mitigated and
+managed and to measure conformance against the policies and standards. 123
+IV.
+
+Solicitation of Comments
+Interested persons are invited to submit written data, views, and arguments concerning
+
+DDR’s Form SDR, including whether DDR has satisfied the requirements for registration as an
+SDR. To the extent possible, commenters are requested to provide empirical data and other
+factual support for their views. In addition, the Commission seeks comment on the following
+issues:
+1. Please provide your views as to whether DDR’s application for registration as an SDR
+demonstrates that DDR is so organized, and has the capacity, to be able to assure the
+prompt, accurate, and reliable performance of its functions as an SDR, comply with any
+applicable provisions of the securities laws and the rules and regulations thereunder, and
+122
+
+See Exhibit HH.2, Section 9.1.
+
+123
+
+See Exhibit HH.2, Section 9.
+
+28
+
+carry out its functions in a manner consistent with the purposes of Section 13(n) of the
+Exchange Act and Commission’s SDR rules.
+2. Exchange Act Rule 13n-5(b)(1)(iii) requires every SDR to establish, maintain, and
+enforce written policies and procedures reasonably designed to satisfy itself that the
+transaction data that has been submitted to the SDR is complete and accurate. Please
+provide your views as to whether DDR’s policies and procedures concerning verification
+of trade data are sufficiently detailed and reasonably designed to satisfy DDR that the
+transaction data that has been submitted to DDR is complete and accurate, as required by
+Exchange Act Rule 13n-5(b)(1)(iii).
+3. Please provide your views as to whether DDR’s policies and procedures to address
+confirmation of data accuracy and completeness for bespoke, bilateral SBS transactions
+(i.e., DDR will attempt to contact a non-User counterparty to verify the accuracy of a
+trade if DDR has been provided with the non-User counterparty’s LEI and can access email contact information for the non-User counterparty in the static data maintained by
+the DTCC trade repositories about their Users) are appropriate and reasonably designed
+to meet its obligations under Exchange Act Rule 13n-5(b)(1)(iii).
+4. Please provide your views as to whether DDR’s policies and procedures are sufficiently
+detailed and reasonably designed to ensure that the transaction data and positions that it
+maintains are complete and accurate, as required by Exchange Act Rule 13n-5(b)(3).
+5. Please provide your views as to whether DDR’s policies and procedures are sufficiently
+detailed and reasonably designed to ensure that it has the ability to protect the privacy of
+SBS transaction information that it receives, as required by Exchange Act Rule 13n-9.
+
+29
+
+6. Please provide your views as to whether DDR’s policies and procedures are sufficiently
+detailed and reasonably designed to ensure that it has the ability to calculate positions, as
+required by Exchange Act Rule 13n-5(b)(2).
+7. Please provide your views as to whether DDR’s policies and procedures are sufficiently
+detailed and reasonably designed to provide a mechanism for Users and their
+counterparties to effectively resolve disputes over the accuracy of SBS data that DDR
+would maintain, as required by Exchange Act Rule 13n-5(b)(6). Are DDR’s policies and
+procedures, including with respect to the specified timeframe, relating to dispute
+resolution adequate? Why or why not?
+8. Please provide your views as to whether DDR’s policies and procedures are sufficiently
+detailed and reasonably designed to ensure that its systems that support or are integrally
+related to the performance of its activities provides adequate levels of capacity, integrity,
+resiliency, availability, and security, as required by Exchange Act Rule 13n-6.
+9. Please provide your views as to whether DDR’s policies and procedures are sufficiently
+detailed and reasonably designed for the CCO’s handling, management response,
+remediation, retesting, and closing of noncompliance issues, as required by Exchange Act
+Rule 13n-11(c)(7).
+10. Please provide your views as to whether DDR’s policies or procedures could result in an
+unreasonable restraint of trade or impose any material anticompetitive burden on the
+trading, clearing, or reporting of transactions.
+11. Please provide your views as to whether DDR’s proposed dues, fees, or other charges,
+discounts or rebates and the process for setting dues, fees, or other charges, discounts or
+rebates are fair and reasonable and not unreasonably discriminatory. Please address
+
+30
+
+whether such proposed dues, fees, other charges, discounts, or rebates are applied
+consistently across all similarly situated users of DDR’s services, including, but not
+limited to, Users, market infrastructures (including central counterparties), venues from
+which data can be submitted to DDR (including exchanges, SBS execution facilities,
+electronic trading venues, and matching and confirmation platforms), and third party
+service providers.
+12. Exchange Act Rule 13n-4(c)(2)(i)—(iii) provides that each SDR (i) shall establish
+governance arrangements that are well defined and include a clear organizational
+structure with effective internal controls; (ii) must establish governance arrangements that
+provide for fair representation of market participants; and (iii) must provide
+representatives of market participants, including end-users, with the opportunity to
+participate in the process for nominating directors and with the right to petition for
+alternative candidates. Please provide your views as to whether DDR’s governance
+arrangements are appropriate in light of the requirements of Rule 13n-4(c)(2)(i)—(iii).
+13. Exchange Act Rule 13n-4(c)(3)(i)—(ii) provides that each SDR must establish, maintain,
+and enforce written policies and procedures reasonably designed to identify and mitigate
+potential and existing conflicts of interest in the SDR’s decision-making process on an
+ongoing basis, and, with respect to the decision-making process for resolving any
+conflicts of interest, each SDR shall require the recusal of any person involved in such
+conflict from such decision-making. Please provide your views as to whether DDR’s
+policies and procedures are appropriate in light of the requirements of Exchange Act Rule
+Exchange Act Rule 13n-4(c)(3)(i)—(ii).
+
+31
+
+14. Rule 903(a) of Regulation SBSR provides, in relevant part, that if no system has been
+recognized by the Commission, or a recognized system has not assigned a UIC to a
+particular person, unit of a person, or product, the registered SDR shall assign a UIC to
+that person, unit of person, or product using its own methodology. Is the methodology
+that DDR proposes to use with respect to UICs as described in its application materials
+appropriate in light of the requirements under Rule 903(a) of Regulation SBSR? Why or
+why not?
+15. Rule 907(c) of Regulation SBSR requires a registered SDR to make its Regulation SBSR
+policies and procedures publicly available on its website. The Commission has stated
+that this public availability requirement will allow all interested parties to understand how
+the registered SDR is utilizing the flexibility it has in operating the transaction reporting
+and dissemination system, and will provide an opportunity for market participants to
+make suggestions to the registered SDR for altering and improving those policies and
+procedures, in light of the new products or circumstances, consistent with the principles
+set out in Regulation SBSR. 124 DDR has proposed to satisfy its obligation under Rule
+907(c) of Regulation SBSR by making the policies and procedures contained in Exhibit
+GG (including GG.1 through GG.6) and Exhibit HH.2, and the other application exhibits
+referenced therein available on its public website. Is the information that is included in or
+referenced in GG (including GG.1 through GG.6) and Exhibit HH.2 appropriate in light
+of the requirements of Rule 907(c)?
+16. Regulation SBSR imposes duties on various market participants to report SBS transaction
+information to a registered SDR. Please provide your views as to whether the DDR
+124
+
+See Regulation SBSR Adopting Release, 80 FR at 14648.
+
+32
+
+application and the associated policies and procedures (including technical specifications
+for submission of data) provide sufficient information to potential participants of DDR
+about how they would discharge these regulatory duties when reporting to DDR. In
+particular, please provide your views as to whether DDR’s technical specifications for
+submission of data are sufficiently detailed, especially with regard to historical SBSs
+(including pre-enactment and transitional SBS) and bespoke SBS. Please describe in
+detail what additional information you believe is necessary to allow you to satisfy any
+reporting obligation you may incur under Regulation SBSR.
+17. Rule 906(a) of Regulation SBSR provides, in relevant part, that a participant of a
+registered SDR must provide the missing information with respect to its side of each SBS
+referenced in the report to the registered SDR within 24 hours. DDR represents that in
+order to be granted access to the DDR system, receive trade information, confirm or
+verify transactions, submit messages, or receive reports, a market participant must be onboarded as a DDR User. Please provide your views as to whether this form of access
+afforded to the non-reporting-side is fair, open, and not unreasonably discriminatory.
+18. Please provide your views as to whether DDR’s policies and procedures relating to Rule
+906(a) are sufficiently detailed, appropriate and reasonably designed to ensure data
+accuracy and completeness, including with respect to the requirement that once a day, a
+registered SDR shall send a report to each participant identifying, for each SBS to which
+that participant is a counterparty, the SBS for which the registered SDR lacks
+counterparty ID and (if applicable) broker ID, branch ID, execution agent ID, desk ID,
+and trader ID.
+
+33
+
+19. Please provide your views as to whether DDR’s policies and procedures relating to Rule
+905(b) are sufficiently detailed, appropriate and reasonably designed to ensure data
+accuracy and completeness.
+20. Please provide your views as to whether DDR has provided sufficient information to
+explain the SBS transaction information that it would publicly disseminate to discharge
+its duties under Rule 902 of Regulation SBSR. Please describe any additional
+information that you feel is necessary. Please offer any suggestions generally for how the
+publicly disseminated information could be made more useful.
+21. Please provide your views as to whether DDR has provided sufficient information to
+explain how Users would be required to report life cycle events under Rule 901(e).
+Please describe any additional information that you feel is necessary. In particular,
+please indicate whether you believe DDR’s specifications are reasonably designed to
+identify the specific data element(s) that change and thus that trigger the report of the life
+cycle event.
+22. Please provide your views as to whether DDR has provided sufficient information about
+how an agent could report SBS transaction information to DDR on behalf of a principal
+(i.e., a person who has a duty under Regulation SBSR to report). Please describe any
+additional information that is necessary. In particular, please provide your views as to
+whether DDR should differentiate between agents who are Users of DDR because they
+themselves at times are principals (i.e., they are counterparties to one or more SBSs that
+are reported to DDR on a mandatory basis) and agents who are never principals (e.g., a
+vendor).
+
+34
+
+23. Please provide your views as to whether DDR’s policies and procedures for the use of
+condition flags for transactions having special characteristics under Rule 907(a)(4) of
+Regulation SBSR are consistent with the goal of preventing market participants without
+knowledge of these characteristics receiving a distorted view of the market.
+
+Are there
+
+additional condition flags that you believe DDR should utilize? If so, please describe
+them and why you believe they are appropriate.
+24. Exchange Act Rule 13n-10 requires that, before accepting any SBS data from a market
+participant or upon a market participant’s request, an SDR shall furnish to the market
+participant a disclosure document that contains certain written information, which must
+reasonably enable the market participant to identify and evaluate accurately the risks and
+costs associated with using the SDR’s services. This written information includes the
+SDR’s criteria for providing others with access to its services and data it maintains, its
+criteria for those seeking to connect to or link with it, its description of its policies and
+procedures regarding its noncommercial and/or commercial use of the SBS transaction
+information that it receives from a participant, any registered entity, or any other person,
+its description of all the SDR’s services, including any ancillary services, and its
+description of its governance arrangements. Based on the materials provided in DDR’s
+Form SDR application, please provide your views as to whether the disclosures provided
+by the application are sufficiently detailed to meet the objectives of Exchange Act Rule
+13n-10.
+25. In addition to serving as an SDR for the credit and equity derivatives asset classes, DDR
+has applied to serve as an SDR for what it describes as SBS transactions in the interest
+rates derivatives asset class. Please provide your views about DDR’s description of this
+
+35
+
+asset class. Please also provide your views as to whether DDR has provided sufficient
+information about how a User reports SBS transaction information in this asset class. Is
+this information provided sufficient? Why or why not? Please describe any additional
+information that you believe should be provided.
+26. Exchange Act Rule 13n-4(b)(5) requires that an SDR shall provide direct electronic
+access to the Commission (or any designee of the Commission, including another
+registered entity). Based on the materials provided in DDR’s Form SDR application,
+please provide your views as to whether DDR’s policies and procedures are sufficient to
+meet the objectives of Exchange Act Rule 13n-4(b)(5).
+27. Rule 901(i) of Regulation SBSR provides that a person must report information about a
+pre-enactment SBS or transitional SBS “to the extent that information about such
+transaction is available.” Is it clear that DDR’s policies and procedures, including
+regarding validations, will allow parties to submit transaction records for pre-enactment
+SBS and transitional SBS with data elements missing, pursuant to Rule 901(i)?
+28. Please provide your views as to whether DDR’s policies and procedures relating to how it
+would conduct validations of transaction records for historic and newly executed SBS are
+sufficiently detailed to meet the objectives of Exchange Act Rule 13n-5(b)(1)(iii), and
+what further clarifications, if any, you believe would be appropriate.
+Comments may be submitted by any of the following methods:
+Electronic comments:
+•
+
+Use the Commission’s Internet comment form
+(http://www.sec.gov/rules/proposed.shtml); or
+
+•
+
+Send an e-mail to rule-comments@sec.gov. Please include File Number SBSDR-2016-
+
+36
+
+02 on the subject line.
+Paper comments:
+•
+
+Send paper comments to Brent J. Fields, Secretary, Securities and Exchange
+Commission, 100 F Street, N.E., Washington, DC 20549-1090. All submissions should
+refer to File Number SBSDR-2016-02.
+To help the Commission process and review your comments more efficiently, please use
+
+only one method of submission. The Commission will post all comments on the Commission’s
+Internet website (http://www.sec.gov/rules/other.shtml).
+Copies of the Form SDR, all subsequent amendments, all written statements with respect
+to the Form SDR that are filed with the Commission, and all written communications relating to
+the Form SDR between the Commission and any person, other than those that may be withheld
+from the public in accordance with the provisions of 5 U.S.C. 552, will be available for website
+viewing and printing in the Commission’s Public Reference Section, 100 F Street, NE,
+Washington, DC 20549, on official business days between the hours of 10:00 a.m. and 3:00 p.m.
+All comments received will be posted without change; the Commission does not edit
+personal identifying information from submissions. You should submit only information that you
+wish to make available publicly. All submissions should refer to File Number SBSDR-2016-02
+and should be submitted on or before [INSERT DATE [30] DAYS FROM THE DATE OF
+PUBLICATION IN THE FEDERAL REGISTER].
+
+Brent J. Fields
+Secretary
+
+37
+
+
